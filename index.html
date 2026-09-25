@@ -430,7 +430,7 @@ document.getElementById('tourBtn').onclick = () => { CUR = S; setYear(S[0].year)
 const QUICK = ['Alamo Square', 'Mission', 'Marina', 'Hayes Valley', 'Noe Valley'];
 // areas that aren't official neighbourhoods but get the same focus view
 const LL = (lon, lat) => [(lon - B.origin[0]) * Math.cos(B.origin[1] * Math.PI / 180) * 111320, -(lat - B.origin[1]) * 110540];
-const AREAS = [{ n: 'Alamo Square', slug: 'alamo-square', p: [[LL(-122.4245, 37.78435), LL(-122.44751, 37.78107), LL(-122.44514, 37.76929), LL(-122.42224, 37.77293), LL(-122.4245, 37.78435)]], extra: '<a href="alamo.html" class="chip" style="text-decoration:none;margin-top:10px">See the hand-drawn Alamo Square map →</a>' }];
+const AREAS = [{ n: 'Alamo Square', slug: 'alamo-square', p: [[LL(-122.4245, 37.78435), LL(-122.44751, 37.78107), LL(-122.44514, 37.76929), LL(-122.42224, 37.77293), LL(-122.4245, 37.78435)]] }];
 const areaOf = name => B.hoods.find(x => x.n === name) || AREAS.find(x => x.n === name);
 const inArea = (st, a) => a.custom ? a.p.some(r => inside(st.c, r)) : st.hood === a.n;
 AREAS.forEach(a => a.custom = true);

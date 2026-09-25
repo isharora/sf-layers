@@ -2,7 +2,7 @@
 
 An illustrated, time-travelling map of San Francisco. Every building is coloured by the year it was built. Just over 2,000 sourced stories are pinned to the places where they happened, and you can search any address to read the stories closest to it.
 
-**Live map:** https://isharora.github.io/sf-layers/ · **Alamo Square in detail:** https://isharora.github.io/sf-layers/alamo.html
+**Live map:** https://isharora.github.io/sf-layers/
 
 ## Data
 - Buildings, parcels (year built), street trees, landmarks and addresses: [DataSF](https://data.sf.gov)
