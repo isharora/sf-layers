@@ -85,7 +85,7 @@
   .peek .cta { font: 600 11px var(--ui); color: var(--rose); margin-top: 6px; }
   .results div.act { background: #f3e7c9; } .results .grp { padding: 6px 14px 4px; font: 600 10px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: #9b8561; background: #f6eedb; cursor: default; }
   .results div.grp:hover { background: #f6eedb; }
-  .themekey { position: fixed; left: 18px; top: 172px; background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 12px; padding: 10px 10px 8px; font: 12px var(--ui); color: var(--ink); box-shadow: 0 10px 30px rgba(0,0,0,.2); width: 224px; }
+  .themekey { position: fixed; left: 18px; top: 222px; background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 12px; padding: 10px 10px 8px; font: 12px var(--ui); color: var(--ink); box-shadow: 0 10px 30px rgba(0,0,0,.2); width: 224px; }
   .themekey h4 { margin: 0 4px 6px; font: 600 10.5px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); display: flex; justify-content: space-between; cursor: pointer; }
   .themekey button { display: flex; align-items: center; gap: 8px; width: 100%; text-align: left; font: 12px var(--ui); color: var(--ink); background: none; border: 0; padding: 3px 4px; border-radius: 6px; cursor: pointer; }
   .themekey button:hover { background: #eadcbc; } .themekey button.off { opacity: .35; } .themekey button .n { margin-left: auto; color: #9b8561; font-size: 11px; }
@@ -95,6 +95,17 @@
   .near-d { font: 600 11px var(--ui); color: var(--ink-2); letter-spacing: .04em; float: right; margin-left: 8px; }
   .youare { display: flex; gap: 10px; align-items: center; margin: 6px 0 4px; font: 13px/1.45 var(--ui); color: var(--ink-2); }
   @media (max-width: 860px) { .themekey { display: none; } }
+  .quick { position: fixed; left: 18px; top: 128px; display: flex; flex-wrap: wrap; gap: 6px; max-width: 330px; z-index: 3; }
+  .quick a, .quick button { font: 600 12px var(--ui); color: var(--ink-2); background: rgba(243,234,214,.94); border: 1px solid #c9b58a; border-radius: 999px; padding: 6px 12px; text-decoration: none; cursor: pointer; box-shadow: 0 4px 14px rgba(0,0,0,.14); }
+  .quick a:hover, .quick button:hover { background: #fbf5e6; color: var(--ink); }
+  .quick .on { background: #3d3026; color: #f6eedb; border-color: #3d3026; }
+  .quick .lbl { font: 600 10px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); width: 100%; margin: 0 0 1px 4px; text-shadow: 0 1px 0 rgba(255,250,235,.8); }
+  .backbar { position: fixed; left: 18px; top: 130px; display: none; align-items: center; gap: 12px; background: #3d3026; color: #f6eedb; border-radius: 999px; padding: 6px 8px 6px 6px; box-shadow: 0 10px 30px rgba(0,0,0,.3); z-index: 6; font: 13px var(--ui); white-space: nowrap; }
+  .backbar.on { display: flex; }
+  .backbar button { font: 600 13px var(--ui); background: #f6eedb; color: #3d3026; border: 0; border-radius: 999px; padding: 7px 14px; cursor: pointer; }
+  .backbar b { font: italic 600 19px var(--display); letter-spacing: .01em; }
+  .backbar span { color: #d8c8a6; padding-right: 10px; }
+  .quick.hide { display: none; }
   .loading { position: fixed; left: 50%; top: 50%; transform: translate(-50%,-50%); font: italic 22px var(--display); color: var(--ink); background: rgba(248,240,220,.95); padding: 14px 24px; border-radius: 12px; border: 1px solid #c9b58a; }
 </style>
 </head>
@@ -102,7 +113,8 @@
 <canvas id="cv"></canvas>
 <div class="texture" id="tex"></div><div class="fog"></div><div class="vignette"></div>
 <div class="cartouche"><div class="k">LAYERS · A MAP IN TIME</div><h1>San Francisco</h1><div class="s">Every block, every era. Zoom in to explore.</div></div>
-<a href="alamo.html" style="position:fixed;left:18px;top:128px;font:600 12px Inter,system-ui,sans-serif;color:#6e5a47;background:rgba(243,234,214,.94);border:1px solid #c9b58a;border-radius:999px;padding:6px 12px;text-decoration:none">Alamo Square in detail →</a>
+<nav class="quick" id="quick" aria-label="Jump to a neighbourhood"><div class="lbl">Jump to</div><a href="alamo.html" title="The hand-drawn Alamo Square map, block by block">Alamo Square ✦</a></nav>
+<div class="backbar" id="backbar"><button id="backBtn">← All of San Francisco</button><b id="bbName"></b><span id="bbStat"></span></div>
 <div class="topbar"><input class="search" id="search" placeholder="Search any address or story" aria-label="Search addresses, places and stories" autocomplete="off" spellcheck="false"><button id="meBtn" title="Stories near where you are">📍 Near me</button><button class="pri" id="tourBtn">Walk through time</button><button id="storiesBtn">All stories</button></div>
 <div class="results" id="results"></div>
 <div class="legend" id="legend"></div>
@@ -246,11 +258,17 @@ function render() {
     ctx.font = `${Math.round(Math.min(14, 8 + s * 2))}px "IM Fell English SC", Georgia, serif`; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.lineWidth = 4; ctx.strokeStyle = '#f4ecd9'; ctx.fillStyle = '#8a7356';
     for (const [n, x, y, a] of B.labels) { const [X, Y] = toS(x, y); if (X < -100 || Y < -30 || X > W + 100 || Y > H + 30) continue; ctx.save(); ctx.translate(X, Y); ctx.rotate(a * Math.PI / 180); const t = n.toUpperCase().split('').join(' '); ctx.strokeText(t, 0, 0); ctx.fillText(t, 0, 0); ctx.restore(); }
   }
+  // neighbourhood focus: wash out the rest of the city and outline the chosen one
+  if (FOCUS) {
+    ctx.beginPath(); ctx.rect(0, 0, W, H); FOCUS.p.forEach(pathRing);
+    ctx.fillStyle = 'rgba(232,222,199,.8)'; ctx.fill('evenodd');
+    ctx.beginPath(); FOCUS.p.forEach(pathRing); ctx.setLineDash([7, 5]); ctx.lineWidth = 2.2; ctx.strokeStyle = '#9c3b33'; ctx.stroke(); ctx.setLineDash([]);
+  }
   // landmarks
   if (s >= 1.2) for (const l of B.landmarks) { if (!l.no) continue; const [X, Y] = toS(l.c[0], l.c[1]); if (X < -20 || Y < -20 || X > W + 20 || Y > H + 20) continue; const r = Math.min(9, 4 + s * 3); ctx.fillStyle = '#fbf1d6'; ctx.strokeStyle = '#b8903f'; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.arc(X, Y - r, r, 0, 7); ctx.fill(); ctx.stroke(); ctx.fillStyle = '#9c3b33'; ctx.beginPath(); ctx.arc(X, Y - r, r * .35, 0, 7); ctx.fill(); }
   drawPins();
   // neighbourhood names
-  if (s < 1.6) {
+  if (s < 1.6 && !FOCUS) {
     const a = s < BLD_Z ? .85 : Math.max(0, .85 - (s - BLD_Z) * 1.2);
     ctx.globalAlpha = a; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
     const placed = [];
@@ -272,7 +290,8 @@ const col = s => (TH[s.theme] || {}).color || '#8a6d3b';
 let SEL = null, HOV = null, PINSCR = [];
 let OFF = new Set();            // themes hidden from the map
 let HERE = null, NEAR = null;   // searched address and the stories nearest to it
-function pinVisible(s) { return (!YEAR || s.year <= YEAR) && !OFF.has(s.theme); }
+let FOCUS = null;               // neighbourhood being explored on its own
+function pinVisible(s) { return (!YEAR || s.year <= YEAR) && !OFF.has(s.theme) && (!FOCUS || s.hood === FOCUS.n); }
 function pinShape(st, X, Y, r, sel, hov, dim) {
   ctx.save(); ctx.translate(X, Y); ctx.globalAlpha = dim ? .28 : 1;
   if (sel || hov) { ctx.shadowColor = sel ? 'rgba(255,230,150,.95)' : 'rgba(60,40,20,.35)'; ctx.shadowBlur = sel ? 14 : 6; ctx.shadowOffsetY = sel ? 0 : 3; }
@@ -281,7 +300,7 @@ function pinShape(st, X, Y, r, sel, hov, dim) {
   ctx.beginPath(); ctx.arc(0, -r * 1.75, r * .45, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.fill(); ctx.restore();
 }
 function drawPins() {
-  PINSCR = []; const s = cam.s, big = s >= .3, R = big ? Math.min(13, 7 + s * 3.2) : 3.4;
+  PINSCR = []; const s = cam.s, big = s >= .3 || !!FOCUS, R = big ? Math.min(13, 7 + s * 3.2) : 3.4;
   const pts = [];
   for (const st of S) { if (!pinVisible(st)) continue; const [X, Y] = toS(st.c[0], st.c[1]); if (X < -30 || Y < -40 || X > W + 30 || Y > H + 30) continue; pts.push([st, X, Y]); }
   pts.sort((p, q) => (NEAR ? (NEAR.has(p[0].id) - NEAR.has(q[0].id)) : 0) || p[2] - q[2]);
@@ -371,13 +390,14 @@ let FILTER = { theme: 'all', hood: 'all' };
 function listStories() {
   CUR = S.filter(s => (FILTER.theme === 'all' || s.theme === FILTER.theme) && (FILTER.hood === 'all' || s.hood === FILTER.hood));
   const hoods = [...new Set(S.map(s => s.hood).filter(Boolean))].sort();
-  dbody.innerHTML = `<div class="hd"><div class="k">${S.length.toLocaleString()} stories · ${hoods.length} neighbourhoods</div><h2>Stories of San Francisco</h2><div class="sub">From the Yelamu to today, in order.</div></div>
+  const one = FILTER.hood !== 'all';
+  dbody.innerHTML = `<div class="hd"><div class="k">${one ? `${S.filter(s => s.hood === FILTER.hood).length} stories · San Francisco` : `${S.length.toLocaleString()} stories · ${hoods.length} neighbourhoods`}</div><h2>${one ? esc(FILTER.hood) : 'Stories of San Francisco'}</h2><div class="sub">${one ? 'Its stories in order, oldest first. Hover a pin to preview.' : 'From the Yelamu to today, in order.'}</div></div>
     <div class="bd"><div class="tfil"><select id="hoodSel"><option value="all">All neighbourhoods</option>${hoods.map(h => `<option ${FILTER.hood === h ? 'selected' : ''}>${esc(h)}</option>`).join('')}</select></div>
     <div class="tfil"><button data-f="all" class="${FILTER.theme === 'all' ? 'on' : ''}">All themes</button>${Object.entries(TH).filter(([k]) => S.some(s => s.theme === k)).map(([k, v]) => `<button data-f="${k}" class="${FILTER.theme === k ? 'on' : ''}" style="border-left:4px solid ${v.color}">${esc(v.label)}</button>`).join('')}</div>
     <div class="stat">${CUR.length} stories</div>${CUR.slice(0, 250).map(card).join('')}${CUR.length > 250 ? `<div class="soon">Showing the first 250. Narrow by neighbourhood or theme to see more.</div>` : ''}</div>`;
   drawer.classList.add('open'); drawer.scrollTop = 0;
   dbody.querySelectorAll('.tfil button').forEach(b => b.onclick = () => { FILTER.theme = b.dataset.f; listStories(); });
-  document.getElementById('hoodSel').onchange = e => { FILTER.hood = e.target.value; listStories(); if (FILTER.hood !== 'all') { const h = B.hoods.find(x => x.n === FILTER.hood); if (h) flyTo(h.c[0], h.c[1], Math.max(.9, 2.2 / Math.sqrt(h.a))); } };
+  document.getElementById('hoodSel').onchange = e => { const v = e.target.value; if (v === 'all') { exitHood(); FILTER.hood = 'all'; listStories(); } else enterHood(v); };
 }
 dbody.addEventListener('click', e => { const c = e.target.closest('.scard'); if (c) openStory(c.dataset.sid); });
 function openBlock(b) {
@@ -391,8 +411,45 @@ function openBlock(b) {
   drawer.classList.add('open'); drawer.scrollTop = 0;
 }
 document.getElementById('close').onclick = () => { drawer.classList.remove('open'); SEL = null; HERE = null; NEAR = null; dirty(); };
-document.getElementById('storiesBtn').onclick = () => { FILTER = { theme: 'all', hood: 'all' }; listStories(); };
+document.getElementById('storiesBtn').onclick = () => { FILTER = { theme: 'all', hood: FOCUS ? FOCUS.n : 'all' }; listStories(); };
 document.getElementById('tourBtn').onclick = () => { CUR = S; setYear(S[0].year); openStory(S[0].id, true); };
+
+/* ---------- neighbourhood quick-jumps ---------- */
+const QUICK = ['Mission', 'Marina', 'Hayes Valley', 'Noe Valley'];
+const quick = document.getElementById('quick'), backbar = document.getElementById('backbar');
+quick.insertAdjacentHTML('beforeend', QUICK.map(n => `<button data-h="${esc(n)}">${esc(n)}</button>`).join('') +
+  `<button id="moreH" title="All neighbourhoods">More ▾</button><select id="moreSel" style="display:none"><option value="">Choose a neighbourhood…</option>${[...B.hoods].map(h => h.n).sort().map(n => `<option>${esc(n)}</option>`).join('')}</select>`);
+quick.querySelectorAll('button[data-h]').forEach(b => b.onclick = () => enterHood(b.dataset.h));
+const moreSel = document.getElementById('moreSel');
+document.getElementById('moreH').onclick = () => { moreSel.style.display = moreSel.style.display === 'none' ? '' : 'none'; if (moreSel.style.display === '') moreSel.focus(); };
+moreSel.onchange = () => { if (moreSel.value) enterHood(moreSel.value); moreSel.style.display = 'none'; moreSel.value = ''; };
+Object.assign(moreSel.style, { font: '500 12px Inter, system-ui, sans-serif', borderRadius: '999px', padding: '5px 8px', border: '1px solid #c9b58a', background: '#fbf5e6', color: '#3d3026' });
+function hoodBox(h) { let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9; h.p.forEach(r => r.forEach(([x, y]) => { x0 = Math.min(x0, x); y0 = Math.min(y0, y); x1 = Math.max(x1, x); y1 = Math.max(y1, y); })); return [x0, y0, x1, y1]; }
+function enterHood(name, fromHash) {
+  const h = B.hoods.find(x => x.n === name); if (!h) return;
+  FOCUS = h; HERE = null; NEAR = null; SEL = null;
+  FILTER = { theme: 'all', hood: h.n }; listStories();
+  const n = S.filter(s => s.hood === h.n).length, [x0, y0, x1, y1] = hoodBox(h);
+  document.getElementById('bbName').textContent = h.n; document.getElementById('bbStat').textContent = `${n} stories`;
+  backbar.classList.add('on'); quick.classList.add('hide');
+  quick.querySelectorAll('button[data-h]').forEach(b => b.classList.toggle('on', b.dataset.h === h.n));
+  const room = [W - (W > 860 ? 470 : 0), H - 170], sc = Math.min(room[0] / (x1 - x0), room[1] / (y1 - y0)) * .9;
+  flyTo((x0 + x1) / 2, (y0 + y1) / 2, Math.min(2, sc), 1100);
+  if (!fromHash) history.pushState(null, '', '#hood=' + h.slug);
+  dirty();
+}
+function exitHood(fromHash) {
+  if (!FOCUS) return;
+  FOCUS = null; backbar.classList.remove('on'); quick.classList.remove('hide'); FILTER = { theme: 'all', hood: 'all' };
+  quick.querySelectorAll('button.on').forEach(b => b.classList.remove('on'));
+  drawer.classList.remove('open'); SEL = null;
+  const [x0, y0, x1, y1] = B.bounds; flyTo((x0 + x1) / 2, (y0 + y1) / 2, Math.min(W / (x1 - x0), H / (y1 - y0)) * .92, 1000);
+  if (!fromHash) history.pushState(null, '', location.pathname + location.search);
+  dirty();
+}
+document.getElementById('backBtn').onclick = () => exitHood();
+addEventListener('keydown', e => { if (e.key === 'Escape' && FOCUS && document.activeElement !== sIn) exitHood(); });
+addEventListener('popstate', () => { const m = location.hash.match(/hood=([\w-]+)/), h = m && B.hoods.find(x => x.slug === m[1]); h ? enterHood(h.n, true) : exitHood(true); });
 
 /* ---------- addresses (every SF address, loaded on first use) ---------- */
 let ADDR = null, ADDR_P = null;
@@ -450,7 +507,7 @@ function pick(h) {
   sRes.classList.remove('on'); sIn.blur();
   if (h.t === 'a') { sIn.value = h.label; openNear(h.label, h.x, h.y); }
   else if (h.t === 's') openStory(h.s.id, true);
-  else flyTo(h.h.c[0], h.h.c[1], Math.max(.9, 2.2 / Math.sqrt(h.h.a)));
+  else enterHood(h.h.n);
 }
 sIn.addEventListener('focus', () => { loadAddr(); if (sIn.value.trim()) runSearch(); });
 sIn.addEventListener('input', runSearch);
@@ -465,6 +522,7 @@ document.addEventListener('click', e => { if (!e.target.closest('.results, .sear
 
 /* ---------- stories near a point ---------- */
 function openNear(label, x, y) {
+  if (FOCUS && !FOCUS.p.some(r => inside([x, y], r))) { FOCUS = null; backbar.classList.remove('on'); quick.classList.remove('hide'); FILTER.hood = 'all'; quick.querySelectorAll('button.on').forEach(b => b.classList.remove('on')); history.pushState(null, '', location.pathname); }
   const all = S.map(s => [s, Math.hypot(s.c[0] - x, s.c[1] - y)]).sort((a, b) => a[1] - b[1]);
   const near = all.filter(v => !OFF.has(v[0].theme)).slice(0, 12);
   HERE = { x, y, label }; NEAR = new Set(near.map(v => v[0].id)); SEL = null; CUR = near.map(v => v[0]);
@@ -519,6 +577,7 @@ document.getElementById('legend').innerHTML = `<h4>When it was built</h4>` + ERA
 function loop(t) { if (anim) anim(t); if (need) { ensureTiles(); render(); } requestAnimationFrame(loop); }
 resize(); fitCity();
 const hs = new URLSearchParams(location.hash.slice(1));
+if (hs.get('hood')) { const h = B.hoods.find(x => x.slug === hs.get('hood')); if (h) setTimeout(() => enterHood(h.n, true), 200); }
 if (hs.get('story') && SBY[hs.get('story')]) setTimeout(() => openStory(hs.get('story'), true), 300);
 document.getElementById('loading').remove();
 requestAnimationFrame(loop);
