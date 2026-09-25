@@ -156,7 +156,7 @@
     .drawer.open ~ .arrive { bottom: calc(56vh + 60px); }
   }
   @media (min-width: 861px) { body.dopen .topbar, body.dopen .results { right: 448px; } }
-  @media (min-width: 861px) and (max-width: 1640px) { body.dopen .search { width: 170px; } body.dopen #tourBtn { display: none; } }
+  @media (min-width: 861px) and (max-width: 1640px) { body.dopen .search { width: 170px; } }
   @media (min-width: 861px) and (max-width: 1420px) { body.dopen .cartouche { opacity: 0; } }
   .loading { position: fixed; left: 50%; top: 50%; transform: translate(-50%,-50%); font: italic 22px var(--display); color: var(--ink); background: rgba(248,240,220,.95); padding: 14px 24px; border-radius: 12px; border: 1px solid #c9b58a; }
 </style>
@@ -167,7 +167,7 @@
 <div class="cartouche"><div class="k">LAYERS · A MAP IN TIME</div><h1>San Francisco</h1><div class="s">Every block, every era. Zoom in to explore.</div></div>
 <nav class="quick" id="quick" aria-label="Jump to a neighbourhood"><div class="lbl">Jump to</div></nav>
 <div class="backbar" id="backbar"><button id="backBtn">← All of San Francisco</button><b id="bbName"></b><span id="bbStat"></span></div>
-<div class="topbar"><input class="search" id="search" placeholder="Search any address or story" aria-label="Search addresses, places and stories" autocomplete="off" spellcheck="false"><button id="walkBtn" title="Follow your location and get a buzz when you reach a story">📍 Walk mode</button><button class="pri" id="toursBtn">Walking tours</button><button id="tourBtn" title="Every story in order, from 1776 to today">Time travel</button><button id="storiesBtn">All stories</button></div>
+<div class="topbar"><input class="search" id="search" placeholder="Search any address or story" aria-label="Search addresses, places and stories" autocomplete="off" spellcheck="false"><button id="walkBtn" title="Follow your location and get a buzz when you reach a story">📍 Walk mode</button><button class="pri" id="toursBtn">Walking tours</button><button id="storiesBtn">All stories</button></div>
 <div class="results" id="results"></div>
 <div class="legend" id="legend"></div>
 <div class="themekey" id="themekey"></div>
@@ -507,7 +507,6 @@ function openBlock(b) {
 }
 document.getElementById('close').onclick = () => { drawer.classList.remove('open'); SEL = null; NEARVIEW = null; if (!WALK) { HERE = null; NEAR = null; } dirty(); };
 document.getElementById('storiesBtn').onclick = () => { FILTER = { theme: 'all', hood: FOCUS ? FOCUS.n : 'all' }; listStories(); };
-document.getElementById('tourBtn').onclick = () => { CUR = S; setYear(S[0].year); openStory(S[0].id, true); };
 
 /* ---------- neighbourhood quick-jumps ---------- */
 const QUICK = ['Alamo Square', 'Mission', 'Marina', 'Hayes Valley', 'Noe Valley'];
