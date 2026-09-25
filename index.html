@@ -195,6 +195,28 @@ function inView(bb, m = 0) { const [a, b] = toS(bb[0], bb[1]), [c, d] = toS(bb[2
 B.parks.forEach(p => { let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9; p.p.forEach(r => r.forEach(([x, y]) => { x0 = Math.min(x0, x); y0 = Math.min(y0, y); x1 = Math.max(x1, x); y1 = Math.max(y1, y); })); p.bb = [x0, y0, x1, y1]; });
 B.streets.forEach(s => { let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9; s.p.forEach(([x, y]) => { x0 = Math.min(x0, x); y0 = Math.min(y0, y); x1 = Math.max(x1, x); y1 = Math.max(y1, y); }); s.bb = [x0, y0, x1, y1]; });
 
+// street labels: major streets from mid zoom, then everything once buildings are in view.
+// Inside a neighbourhood view every street is named (only those inside it), drawn over the wash.
+function drawStreetLabels(s) {
+  if (s < (FOCUS ? .04 : .16)) return;
+  {
+    const minK = FOCUS ? (s >= .12 ? 1 : 2) : s >= LABEL_Z ? 1 : s >= .5 ? 2 : 3, placed = [];
+    ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.lineJoin = 'round';
+    const order = B.labels.filter(l => (l[4] || 1) >= minK).sort((p, q) => (q[4] || 1) - (p[4] || 1));
+    for (const [n, x, y, a, k = 1] of order) { const [X, Y] = toS(x, y); if (X < -150 || Y < -30 || X > W + 150 || Y > H + 30) continue;
+      if (FOCUS && !FOCUS.p.some(r => inside([x, y], r))) continue;
+      const major = k >= 3, fs = major ? Math.round(Math.min(15, 10.5 + s * 2.2)) : Math.round(Math.min(14, 8 + s * 2));
+      ctx.font = `${major ? '600 ' : ''}${fs}px ${major ? 'Inter, system-ui, sans-serif' : '"IM Fell English SC", Georgia, serif'}`;
+      const t = major ? n.toUpperCase().split('').join(' ') : n.toUpperCase().split('').join(' '), w = ctx.measureText(t).width;
+      const r = a * Math.PI / 180, hw = Math.abs(Math.cos(r)) * w / 2 + Math.abs(Math.sin(r)) * fs / 2 + 4, hh = Math.abs(Math.sin(r)) * w / 2 + Math.abs(Math.cos(r)) * fs / 2 + 4;
+      const box = [X - hw, Y - hh, X + hw, Y + hh];
+      if (placed.some(q => box[0] < q[2] && box[2] > q[0] && box[1] < q[3] && box[3] > q[1])) continue; placed.push(box);
+      ctx.save(); ctx.translate(X, Y); ctx.rotate(r);
+      ctx.lineWidth = major ? 4.5 : 4; ctx.strokeStyle = major ? 'rgba(250,244,229,.95)' : '#f4ecd9'; ctx.fillStyle = major ? '#5a4632' : '#8a7356';
+      ctx.strokeText(t, 0, 0); ctx.fillText(t, 0, 0); ctx.restore(); }
+  }
+}
+
 /* ---------- render ---------- */
 let need = true; function dirty() { need = true; }
 function render() {
@@ -253,27 +275,14 @@ function render() {
         ctx.fillStyle = 'rgba(79,94,55,.2)'; ctx.beginPath(); ctx.arc(X + .9 * s, Y + 1.2 * s, r, 0, 7); ctx.fill(); ctx.fillStyle = G[(k >> 1) % 4]; ctx.globalAlpha = .9; ctx.beginPath(); ctx.arc(X, Y, r, 0, 7); ctx.fill(); ctx.globalAlpha = 1; } }
     }
   }
-  // street labels: major streets from mid zoom, then everything once buildings are in view
-  if (s >= .16) {
-    const minK = s >= LABEL_Z ? 1 : s >= .5 ? 2 : 3, placed = [];
-    ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.lineJoin = 'round';
-    const order = B.labels.filter(l => (l[4] || 1) >= minK).sort((p, q) => (q[4] || 1) - (p[4] || 1));
-    for (const [n, x, y, a, k = 1] of order) { const [X, Y] = toS(x, y); if (X < -150 || Y < -30 || X > W + 150 || Y > H + 30) continue;
-      const major = k >= 3, fs = major ? Math.round(Math.min(15, 10.5 + s * 2.2)) : Math.round(Math.min(14, 8 + s * 2));
-      ctx.font = `${major ? '600 ' : ''}${fs}px ${major ? 'Inter, system-ui, sans-serif' : '"IM Fell English SC", Georgia, serif'}`;
-      const t = major ? n.toUpperCase().split('').join(' ') : n.toUpperCase().split('').join(' '), w = ctx.measureText(t).width;
-      const r = a * Math.PI / 180, hw = Math.abs(Math.cos(r)) * w / 2 + Math.abs(Math.sin(r)) * fs / 2 + 4, hh = Math.abs(Math.sin(r)) * w / 2 + Math.abs(Math.cos(r)) * fs / 2 + 4;
-      const box = [X - hw, Y - hh, X + hw, Y + hh];
-      if (placed.some(q => box[0] < q[2] && box[2] > q[0] && box[1] < q[3] && box[3] > q[1])) continue; placed.push(box);
-      ctx.save(); ctx.translate(X, Y); ctx.rotate(r);
-      ctx.lineWidth = major ? 4.5 : 4; ctx.strokeStyle = major ? 'rgba(250,244,229,.95)' : '#f4ecd9'; ctx.fillStyle = major ? '#5a4632' : '#8a7356';
-      ctx.strokeText(t, 0, 0); ctx.fillText(t, 0, 0); ctx.restore(); }
-  }
+  if (!FOCUS) drawStreetLabels(s);
   // neighbourhood focus: wash out the rest of the city and outline the chosen one
   if (FOCUS) {
     ctx.beginPath(); ctx.rect(0, 0, W, H); FOCUS.p.forEach(pathRing);
     ctx.fillStyle = 'rgba(232,222,199,.8)'; ctx.fill('evenodd');
     ctx.beginPath(); FOCUS.p.forEach(pathRing); ctx.setLineDash([7, 5]); ctx.lineWidth = 2.2; ctx.strokeStyle = '#9c3b33'; ctx.stroke(); ctx.setLineDash([]);
+
+    drawStreetLabels(s);
   }
   // landmarks
   if (s >= 1.2) for (const l of B.landmarks) { if (!l.no) continue; const [X, Y] = toS(l.c[0], l.c[1]); if (X < -20 || Y < -20 || X > W + 20 || Y > H + 20) continue; const r = Math.min(9, 4 + s * 3); ctx.fillStyle = '#fbf1d6'; ctx.strokeStyle = '#b8903f'; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.arc(X, Y - r, r, 0, 7); ctx.fill(); ctx.stroke(); ctx.fillStyle = '#9c3b33'; ctx.beginPath(); ctx.arc(X, Y - r, r * .35, 0, 7); ctx.fill(); }
