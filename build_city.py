@@ -29,7 +29,7 @@ minx, miny, maxx, maxy = land.bounds
 hoods = []
 for r in regions:
     g = proj(shape(r['geometry'])).buffer(0); c = g.representative_point()
-    hoods.append(dict(n=r['name'], slug=r['slug'], c=[round(c.x), round(c.y)], a=round(g.area / 1e6, 2)))
+    hoods.append(dict(n=r['name'], slug=r['slug'], c=[round(c.x), round(c.y)], a=round(g.area / 1e6, 2), p=rings(g.simplify(8), 0)))
 
 # ---- parcels: year built + addresses, grouped into blocks ----
 parcels = json.load(open('data_city/parcels.json'))

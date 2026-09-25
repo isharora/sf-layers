@@ -254,8 +254,8 @@ function render() {
     const a = s < BLD_Z ? .85 : Math.max(0, .85 - (s - BLD_Z) * 1.2);
     ctx.globalAlpha = a; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
     const placed = [];
-    for (const h of [...B.hoods].sort((p, q) => q.a - p.a)) { let [X, Y] = toS(h.c[0], h.c[1]); if (HOODR[h.n]) { X = HOODR[h.n][0]; Y = HOODR[h.n][1] + HOODR[h.n][2] + 9; } if (X < -200 || Y < -40 || X > W + 200 || Y > H + 40) continue;
-      const fs = HOODR[h.n] !== undefined || s < HOOD_Z ? 11.5 : Math.max(10, Math.min(28, 8 + Math.sqrt(h.a) * s * 50));
+    for (const h of [...B.hoods].sort((p, q) => q.a - p.a)) { const [X, Y] = toS(h.c[0], h.c[1]); if (X < -200 || Y < -40 || X > W + 200 || Y > H + 40) continue;
+      const fs = Math.max(10, Math.min(28, 8 + Math.sqrt(h.a) * s * 50));
       ctx.font = `${fs}px "IM Fell English SC", Georgia, serif`;
       const t = h.n.replace('Financial District/South Beach', 'Financial District').replace('Oceanview/Merced/Ingleside', 'Ingleside').replace('Castro/Upper Market', 'Castro').toUpperCase().split('').join('\u200A');
       const w = ctx.measureText(t).width, box = [X - w / 2 - 6, Y - fs * .65, X + w / 2 + 6, Y + fs * .65];
@@ -272,8 +272,6 @@ const col = s => (TH[s.theme] || {}).color || '#8a6d3b';
 let SEL = null, HOV = null, PINSCR = [];
 let OFF = new Set();            // themes hidden from the map
 let HERE = null, NEAR = null;   // searched address and the stories nearest to it
-const CLUSTER_Z = 2.2, CELL = 84, HOOD_Z = .1;
-let HOODR = {};   // medallion radius per neighbourhood in the city-wide view
 function pinVisible(s) { return (!YEAR || s.year <= YEAR) && !OFF.has(s.theme); }
 function pinShape(st, X, Y, r, sel, hov, dim) {
   ctx.save(); ctx.translate(X, Y); ctx.globalAlpha = dim ? .28 : 1;
@@ -282,58 +280,16 @@ function pinShape(st, X, Y, r, sel, hov, dim) {
   ctx.fillStyle = col(st); ctx.fill(); ctx.shadowColor = 'transparent'; ctx.lineWidth = 1.6; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
   ctx.beginPath(); ctx.arc(0, -r * 1.75, r * .45, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.fill(); ctx.restore();
 }
-// a cluster is a cream medallion ringed by the mix of its stories' themes, with the count inside
-function clusterShape(c, hov) {
-  const n = c.m.length, r = Math.min(24, 11 + Math.sqrt(n) * 2.6) * (hov ? 1.12 : 1), cnt = {};
-  c.m.forEach(st => cnt[st.theme] = (cnt[st.theme] || 0) + 1);
-  ctx.save(); ctx.translate(c.X, c.Y); ctx.globalAlpha = c.dim ? .35 : 1;
-  ctx.shadowColor = 'rgba(60,40,20,.3)'; ctx.shadowBlur = hov ? 10 : 5; ctx.shadowOffsetY = 2;
-  ctx.beginPath(); ctx.arc(0, 0, r, 0, 7); ctx.fillStyle = '#fbf3df'; ctx.fill(); ctx.shadowColor = 'transparent';
-  let a0 = -Math.PI / 2; ctx.lineWidth = Math.max(3, r * .28);
-  for (const [k, v] of Object.entries(cnt).sort((p, q) => q[1] - p[1])) { const a1 = a0 + v / n * Math.PI * 2; ctx.beginPath(); ctx.arc(0, 0, r - ctx.lineWidth / 2, a0, a1); ctx.strokeStyle = (TH[k] || {}).color || '#8a6d3b'; ctx.stroke(); a0 = a1; }
-  ctx.beginPath(); ctx.arc(0, 0, r, 0, 7); ctx.lineWidth = 1.2; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
-  ctx.fillStyle = '#3d3026'; ctx.font = `600 ${Math.round(r * .62)}px Inter, system-ui, sans-serif`; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText(n, 0, 1);
-  ctx.restore(); c.r = r;
-}
 function drawPins() {
-  PINSCR = []; const s = cam.s, R = Math.min(13, 6.5 + s * 3.2);
-  const vis = S.filter(pinVisible), solo = [], groups = new Map();
-  // grid clustering on a world-anchored grid; the cell size snaps to powers of two so clusters don't shimmer while zooming
-  HOODR = {};
-  if (s < HOOD_Z && !NEAR) { // whole-city view: one medallion per neighbourhood
-    const by = {}; for (const st of vis) { if (st.id === SEL) continue; (by[st.hood] = by[st.hood] || []).push(st); }
-    const cs = B.hoods.filter(h => by[h.n]).map(h => { const [X, Y] = toS(h.c[0], h.c[1]), n = by[h.n].length; return { m: by[h.n], X, Y, dim: false, hood: h, rr: Math.min(24, 11 + Math.sqrt(n) * 2.6) }; });
-    for (let it = 0; it < 30; it++) for (let i = 0; i < cs.length; i++) for (let j = i + 1; j < cs.length; j++) { // nudge overlapping medallions apart
-      const p = cs[i], q = cs[j], dx = q.X - p.X, dy = q.Y - p.Y, d = Math.hypot(dx, dy) || 1, need = p.rr + q.rr + 4;
-      if (d < need) { const k = (need - d) / 2 / d; p.X -= dx * k; p.Y -= dy * k; q.X += dx * k; q.Y += dy * k; } }
-    for (const c of cs) { clusterShape(c, HOV === c.m[0].id + '*'); HOODR[c.hood.n] = [c.X, c.Y, c.r]; PINSCR.push([c, c.X, c.Y, c.r + 3, true]); }
-    const sel = SEL && SBY[SEL]; if (sel) { const [X, Y] = toS(sel.c[0], sel.c[1]); pinShape(sel, X, Y, R * 1.35, true, false, false); }
-    return;
-  }
-  const cw = Math.pow(2, Math.ceil(Math.log2(CELL / s)));
-  for (const st of vis) {
-    const [X, Y] = toS(st.c[0], st.c[1]); if (X < -60 || Y < -60 || X > W + 60 || Y > H + 60) continue;
-    if (s >= CLUSTER_Z || st.id === SEL || (NEAR && NEAR.has(st.id))) { solo.push([st, X, Y]); continue; }
-    const k = Math.floor(st.c[0] / cw) + ',' + Math.floor(st.c[1] / cw);
-    if (!groups.has(k)) groups.set(k, []); groups.get(k).push([st, X, Y]);
-  }
-  // merge neighbouring cells whose medallions would overlap (grid seams otherwise leave pairs touching)
-  const rOf = n => n === 1 ? 12 : Math.min(24, 11 + Math.sqrt(n) * 2.6);
-  let gs = [...groups.values()].map(g => ({ g, X: g.reduce((a, v) => a + v[1], 0) / g.length, Y: g.reduce((a, v) => a + v[2], 0) / g.length }));
-  for (let merged = true; merged;) { merged = false;
-    for (let i = 0; i < gs.length && !merged; i++) for (let j = i + 1; j < gs.length; j++) { const p = gs[i], q = gs[j];
-      if (Math.hypot(p.X - q.X, p.Y - q.Y) < (rOf(p.g.length) + rOf(q.g.length)) * 1.25) { const n = p.g.length + q.g.length;
-        gs[i] = { g: p.g.concat(q.g), X: (p.X * p.g.length + q.X * q.g.length) / n, Y: (p.Y * p.g.length + q.Y * q.g.length) / n }; gs.splice(j, 1); merged = true; break; } } }
-  for (const { g, X: gx, Y: gy } of gs) {
-    if (g.length === 1) { solo.push(g[0]); continue; }
-    const c = { m: g.map(v => v[0]), X: gx, Y: gy, dim: !!NEAR };
-    clusterShape(c, HOV === c.m[0].id + '*'); PINSCR.push([c, c.X, c.Y, c.r + 3, true]);
-  }
-  solo.sort((p, q) => p[2] - q[2]);
-  for (const [st, X, Y] of solo) {
-    const hov = st.id === HOV, sel = st.id === SEL, r = R * (sel ? 1.35 : hov ? 1.25 : 1);
-    const dim = (YEAR && (st.yearEnd || st.year) < YEAR - 25) || (NEAR && !NEAR.has(st.id) && !sel);
-    pinShape(st, X, Y, r, sel, hov, dim); PINSCR.push([st, X, Y - r * 1.6, r * 1.5]);
+  PINSCR = []; const s = cam.s, big = s >= .3, R = big ? Math.min(13, 7 + s * 3.2) : 3.4;
+  const pts = [];
+  for (const st of S) { if (!pinVisible(st)) continue; const [X, Y] = toS(st.c[0], st.c[1]); if (X < -30 || Y < -40 || X > W + 30 || Y > H + 30) continue; pts.push([st, X, Y]); }
+  pts.sort((p, q) => (NEAR ? (NEAR.has(p[0].id) - NEAR.has(q[0].id)) : 0) || p[2] - q[2]);
+  for (const [st, X, Y] of pts) {
+    const hov = st.id === HOV, sel = st.id === SEL, near = NEAR && NEAR.has(st.id);
+    const dim = (YEAR && (st.yearEnd || st.year) < YEAR - 25) || (NEAR && !near && !sel);
+    if (big || sel || near) { const r = (big ? R : 8) * (sel ? 1.35 : hov ? 1.25 : 1); pinShape(st, X, Y, r, sel, hov, dim); PINSCR.push([st, X, Y - r * 1.6, r * 1.5]); }
+    else { const r = R * (hov ? 1.5 : 1); ctx.globalAlpha = dim ? .28 : 1; ctx.beginPath(); ctx.arc(X, Y, r, 0, 7); ctx.fillStyle = col(st); ctx.fill(); ctx.lineWidth = 1; ctx.strokeStyle = '#fff8e8'; ctx.stroke(); PINSCR.push([st, X, Y, 6]); }
   }
   ctx.globalAlpha = 1;
   if (HERE) { // the searched address: a gold compass star with a soft ring
@@ -344,12 +300,12 @@ function drawPins() {
     ctx.beginPath(); ctx.arc(0, 0, 3, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.fill(); ctx.restore();
   }
 }
-function pinAt(X, Y) { let best = null, bd = 1e9; for (const [st, x, y, r, cl] of PINSCR) { const d = Math.hypot(X - x, Y - y); if (d < r && d < bd) { bd = d; best = cl ? { cluster: st } : st; } } return best; }
+function pinAt(X, Y) { let best = null, bd = 1e9; for (const [st, x, y, r] of PINSCR) { const d = Math.hypot(X - x, Y - y); if (d < r && d < bd) { bd = d; best = st; } } return best; }
 
 /* ---------- blocks hit-test ---------- */
 function inside(pt, poly) { let c = false; for (let i = 0, j = poly.length - 1; i < poly.length; j = i++) { const [xi, yi] = poly[i], [xj, yj] = poly[j]; if ((yi > pt[1]) !== (yj > pt[1]) && pt[0] < (xj - xi) * (pt[1] - yi) / (yj - yi) + xi) c = !c; } return c; }
 function blockAt(m) { return B.blocks.find(b => m[0] >= b.bb[0] && m[0] <= b.bb[2] && m[1] >= b.bb[1] && m[1] <= b.bb[3] && b.p.some(r => inside(m, r))); }
-const hoodOf = pt => { let best = null, bd = 1e18; B.hoods.forEach(h => { const d = (h.c[0] - pt[0]) ** 2 + (h.c[1] - pt[1]) ** 2; if (d < bd) { bd = d; best = h; } }); return best; };
+const hoodOf = pt => { const hit = B.hoods.find(h => h.p && h.p.some(r => inside(pt, r))); if (hit) return hit; let best = null, bd = 1e18; B.hoods.forEach(h => { const d = (h.c[0] - pt[0]) ** 2 + (h.c[1] - pt[1]) ** 2; if (d < bd) { bd = d; best = h; } }); return best; };
 
 /* ---------- interaction ---------- */
 let anim = null;
@@ -371,36 +327,16 @@ cv.addEventListener('pointermove', e => {
 const up = e => { ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null; if (!ptrs.size) { if (moved && performance.now() - lastMove < 60) glide(); drag = null; cv.classList.remove('drag'); } };
 cv.addEventListener('pointerup', up); cv.addEventListener('pointercancel', up);
 function glide() { let [vx, vy] = vel; const step = () => { vx *= .92; vy *= .92; cam.x -= vx * 16 / cam.s; cam.y -= vy * 16 / cam.s; dirty(); if (Math.hypot(vx, vy) > .02 && !ptrs.size && !anim) requestAnimationFrame(step); }; requestAnimationFrame(step); }
-function openCluster(c) {
-  if (c.hood) { FILTER = { theme: 'all', hood: c.hood.n }; listStories(); flyTo(c.hood.c[0], c.hood.c[1], Math.max(.3, 1.1 / Math.sqrt(c.hood.a)), 900); return; }
-  const xs = c.m.map(s => s.c[0]), ys = c.m.map(s => s.c[1]), span = Math.max(Math.max(...xs) - Math.min(...xs), Math.max(...ys) - Math.min(...ys));
-  const cx = (Math.max(...xs) + Math.min(...xs)) / 2, cy = (Math.max(...ys) + Math.min(...ys)) / 2;
-  if (span < 25 || cam.s >= CLUSTER_Z * .9) return openGroup(c.m, cx, cy); // same building: just list them
-  flyTo(cx, cy, Math.min(CLUSTER_Z * 1.05, Math.max(cam.s * 2.2, Math.min(W, H) * .45 / span)), 700);
-}
-function openGroup(list, x, y) {
-  CUR = [...list].sort((a, b) => a.year - b.year);
-  dbody.innerHTML = `<div class="hd"><div class="k">${esc(list[0].hood || '')}</div><h2>${list.length} stories here</h2><div class="sub">${esc(list[0].place)}</div></div><div class="bd">${CUR.map(card).join('')}</div>`;
-  drawer.classList.add('open'); drawer.scrollTop = 0; flyTo(x, y, Math.max(cam.s, CLUSTER_Z), 600);
-}
-cv.addEventListener('click', e => { if (moved) return; const p = pinAt(e.clientX, e.clientY); if (p && p.cluster) return openCluster(p.cluster); if (p) return openStory(p.id); const b = blockAt(toM(e.clientX, e.clientY)); if (b && cam.s > .25) openBlock(b); else if (cam.s <= .25) flyTo(...toM(e.clientX, e.clientY), Math.max(cam.s * 3, .6)); });
+cv.addEventListener('click', e => { if (moved) return; const p = pinAt(e.clientX, e.clientY); if (p) return openStory(p.id); const b = blockAt(toM(e.clientX, e.clientY)); if (b && cam.s > .25) openBlock(b); else if (cam.s <= .25) flyTo(...toM(e.clientX, e.clientY), Math.max(cam.s * 3, .6)); });
 document.getElementById('zin').onclick = () => zoomAt(W / 2, H / 2, 1.6);
 document.getElementById('zout').onclick = () => zoomAt(W / 2, H / 2, 1 / 1.6);
 addEventListener('resize', resize);
 
 /* hover previews */
 const peek = document.getElementById('peek'); const canHover = matchMedia('(hover: hover)').matches;
-function hover(e) { if (!canHover) return; const p = pinAt(e.clientX, e.clientY); cv.classList.toggle('hand', !!p);
-  const id = p ? (p.cluster ? p.cluster.m[0].id + '*' : p.id) : null; if (id === HOV) return; HOV = id; dirty();
-  if (!p) return hidePeek(); p.cluster ? showClusterPeek(p.cluster, e.clientX, e.clientY) : showPeek(p, e.clientX, e.clientY); }
+function hover(e) { if (!canHover) return; const p = pinAt(e.clientX, e.clientY); cv.classList.toggle('hand', !!p); if ((p && p.id) === HOV) return; HOV = p ? p.id : null; dirty(); p ? showPeek(p, e.clientX, e.clientY) : hidePeek(); }
 function placePeek(X, Y) { const ph = peek.offsetHeight || 170, lim = W - (document.getElementById('drawer').classList.contains('open') && W > 860 ? 440 : 12);
   let x = X + 22; if (x + 300 > lim) x = X - 322; peek.style.left = x + 'px'; peek.style.top = Math.max(12, Math.min(H - ph - 12, Y - ph / 2)) + 'px'; peek.classList.add('on'); }
-function showClusterPeek(c, X, Y) {
-  const m = [...c.m].sort((a, b) => a.year - b.year), hoods = [...new Set(m.map(s => s.hood))];
-  peek.style.setProperty('--c', '#b8903f');
-  peek.innerHTML = `<div class="m">${m.length} stories · ${m[0].year}–${m[m.length - 1].year}</div><div class="t">${esc(hoods.slice(0, 2).join(' & '))}${hoods.length > 2 ? ' & more' : ''}</div>${m.slice(0, 4).map(s => `<div class="h" style="font-size:15px;margin-top:3px"><span style="color:${col(s)}">●</span> ${esc(s.title)}</div>`).join('')}${m.length > 4 ? `<div class="p">+ ${m.length - 4} more</div>` : ''}<div class="cta">Click to zoom in →</div>`;
-  placePeek(X, Y);
-}
 function showPeek(s, X, Y) {
   peek.style.setProperty('--c', col(s));
   peek.innerHTML = `<div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div><div class="p">📍 ${esc(s.place)}${s.hood ? ' · ' + esc(s.hood) : ''}</div><div class="cta">Click to read the story →</div>`;
