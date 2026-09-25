@@ -43,10 +43,20 @@
   .lmcard a { font: 12px var(--ui); color: var(--rose); }
 
   .pin { cursor: pointer; }
-  .pin .pi { transform: scale(var(--ps, 1)); transition: opacity .3s; }
+  .pin .pi { transform: scale(var(--ps, 1)); transform-origin: 0 0; transition: transform .22s cubic-bezier(.3,.7,.3,1.3), opacity .3s, filter .2s; }
+  .pin .hit { fill: transparent; }
   .pin.dim .pi { opacity: .18; }
   .pin.off { display: none; }
-  .pin:hover .pi { filter: brightness(1.08); }
+  .pin:hover .pi, .pin:focus .pi, .pin.hov .pi { transform: scale(calc(var(--ps, 1) * 1.28)); filter: drop-shadow(0 3px 4px rgba(60,40,20,.35)); }
+  .pin.sel .pi { transform: scale(calc(var(--ps, 1) * 1.38)); filter: drop-shadow(0 0 7px rgba(255,236,170,.95)) drop-shadow(0 3px 4px rgba(60,40,20,.35)); }
+  .pin:focus { outline: none; }
+  .peek { position: fixed; z-index: 8; width: 300px; pointer-events: none; background: #fbf5e6; color: var(--ink); border-radius: 12px; border: 1px solid #d9c79f; box-shadow: 0 14px 36px rgba(40,25,10,.3); padding: 12px 14px 13px; border-top: 4px solid var(--c, #b8903f); opacity: 0; transform: translateY(6px) scale(.98); transition: opacity .16s ease, transform .16s ease; }
+  .peek.on { opacity: 1; transform: none; }
+  .peek .m { font: 600 10.5px var(--ui); letter-spacing: .12em; text-transform: uppercase; color: var(--c); }
+  .peek .t { font: 600 21px/1.15 var(--display); margin: 3px 0 5px; }
+  .peek .h { font: italic 16px/1.4 var(--display); color: var(--ink-2); }
+  .peek .p { font: 11.5px var(--ui); color: #9b8561; margin-top: 7px; }
+  .peek .cta { font: 600 11px var(--ui); color: var(--rose); margin-top: 6px; letter-spacing: .02em; }
   .topbar { position: fixed; top: 16px; right: 18px; display: flex; gap: 8px; z-index: 5; }
   .topbar button { font: 600 13px var(--ui); color: var(--ink); background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 999px; padding: 9px 16px; cursor: pointer; box-shadow: 0 6px 20px rgba(0,0,0,.2); }
   .topbar button.pri { background: #3d3026; color: #f6eedb; border-color: #3d3026; }
@@ -87,6 +97,7 @@
 <div class="timebar"><div class="row1"><span class="yr" id="yr">All years</span><span class="era" id="eraTxt">Drag back in time</span><label><input type="checkbox" id="allYears" checked> All years</label></div>
 <input type="range" id="slider" min="1850" max="2026" step="1" value="2026" aria-label="Year"><div class="ticks"><span>1850</span><span>1880</span><span>1906</span><span>1942</span><span>1960</span><span>1989</span><span>today</span></div></div>
 <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button></div>
+<div class="peek" id="peek" aria-hidden="true"></div>
 <aside class="drawer" id="drawer" aria-live="polite"><button class="close" id="close" aria-label="Close">✕</button><div id="dbody"></div></aside>
 
 <script src="map.js"></script>
@@ -166,7 +177,7 @@ function build() {
   s += `<g id="lms">${M.landmarks.filter(l => l.no).map(l => { const x = l.c[0] + PAD, y = l.c[1] + PAD - 10; return `<g class="lm" data-no="${l.no}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="9.5" fill="#fbf1d6" stroke="#b8903f" stroke-width="1.6"/><path d="M0 -5.2 L1.5 -1.6 L5.2 -1.4 L2.3 1 L3.2 4.6 L0 2.6 L-3.2 4.6 L-2.3 1 L-5.2 -1.4 L-1.5 -1.6 Z" fill="#9c3b33"/></g>`; }).join('')}</g>`;
   // story pins
   const S = (window.STORIES || { stories: [] }).stories, TH = (window.STORIES || {}).themes || {};
-  s += `<g id="pins">${S.map(st => { const col = (TH[st.theme] || {}).color || '#8a6d3b', x = st.c[0] + PAD, y = st.c[1] + PAD; return `<g class="pin" data-id="${st.id}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><g class="pi"><path d="M0 0 C-3 -6 -12 -12 -12 -21 A12 12 0 1 1 12 -21 C12 -12 3 -6 0 0 Z" fill="${col}" stroke="#fff8e8" stroke-width="2"/><circle cy="-21" r="7.5" fill="#fff8e8"/>${GLYPH[st.theme] || ''}</g></g>`; }).join('')}</g>`;
+  s += `<g id="pins">${S.map(st => { const col = (TH[st.theme] || {}).color || '#8a6d3b', x = st.c[0] + PAD, y = st.c[1] + PAD; return `<g class="pin" data-id="${st.id}" tabindex="0" role="button" aria-label="${esc(st.title)}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><g class="pi"><circle class="hit" cy="-18" r="17"/><path d="M0 0 C-3 -6 -12 -12 -12 -21 A12 12 0 1 1 12 -21 C12 -12 3 -6 0 0 Z" fill="${col}" stroke="#fff8e8" stroke-width="2"/><circle cy="-21" r="7.5" fill="#fff8e8"/>${GLYPH[st.theme] || ''}</g></g>`; }).join('')}</g>`;
   // neighbourhood labels
   s += `<g>${M.places.map(p => { const x = p.c[0] + PAD, y = p.c[1] + PAD; return p.k === 'park'
     ? `<text x="${x}" y="${y}" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="700" font-size="30" fill="#3f5a2c" paint-order="stroke" stroke="#e6efcf" stroke-width="5" stroke-linejoin="round">${esc(p.n)}</text>`
@@ -208,12 +219,12 @@ function fit() { const r = svg.getBoundingClientRect(), s = Math.max(W / r.width
 function zoomAt(cx, cy, f) { const r = svg.getBoundingClientRect(), mx = vb[0] + (cx - r.left) / r.width * vb[2], my = vb[1] + (cy - r.top) / r.height * vb[3]; const nw = Math.min(W * 1.4, Math.max(180, vb[2] * f)); const g = nw / vb[2]; vb = [mx - (mx - vb[0]) * g, my - (my - vb[1]) * g, vb[2] * g, vb[3] * g]; setVB(); }
 svg.addEventListener('wheel', e => { e.preventDefault(); zoomAt(e.clientX, e.clientY, e.deltaY > 0 ? 1.12 : 1 / 1.12); }, { passive: false });
 const ptrs = new Map(); let drag = null, pinch = null, moved = false;
-svg.addEventListener('pointerdown', e => { svg.setPointerCapture(e.pointerId); ptrs.set(e.pointerId, [e.clientX, e.clientY]); moved = false; if (ptrs.size === 1) drag = [e.clientX, e.clientY, vb[0], vb[1]]; else if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); } svg.classList.add('drag'); });
+svg.addEventListener('pointerdown', e => { ptrs.set(e.pointerId, [e.clientX, e.clientY]); moved = false; if (ptrs.size === 1) drag = [e.clientX, e.clientY, vb[0], vb[1]]; else if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); try { svg.setPointerCapture(e.pointerId); } catch (_) {} } });
 svg.addEventListener('pointermove', e => {
   if (!ptrs.has(e.pointerId)) return; ptrs.set(e.pointerId, [e.clientX, e.clientY]);
   const r = svg.getBoundingClientRect();
   if (ptrs.size === 2 && pinch) { const [a, b] = [...ptrs.values()], d = Math.hypot(a[0] - b[0], a[1] - b[1]); zoomAt((a[0] + b[0]) / 2, (a[1] + b[1]) / 2, pinch / d); pinch = d; moved = true; }
-  else if (drag) { const dx = e.clientX - drag[0], dy = e.clientY - drag[1]; if (Math.abs(dx) + Math.abs(dy) > 4) moved = true; vb[0] = drag[2] - dx / r.width * vb[2]; vb[1] = drag[3] - dy / r.height * vb[3]; setVB(); }
+  else if (drag) { const dx = e.clientX - drag[0], dy = e.clientY - drag[1]; if (!moved && Math.abs(dx) + Math.abs(dy) > 4) { moved = true; svg.classList.add('drag'); try { svg.setPointerCapture(e.pointerId); } catch (_) {} } if (!moved) return; vb[0] = drag[2] - dx / r.width * vb[2]; vb[1] = drag[3] - dy / r.height * vb[3]; setVB(); }
 });
 const up = e => { ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null; if (!ptrs.size) { drag = null; svg.classList.remove('drag'); } };
 svg.addEventListener('pointerup', up); svg.addEventListener('pointercancel', up);
@@ -239,7 +250,7 @@ function openBlock(id) {
   document.getElementById('drawer').classList.add('open');
 }
 svg.addEventListener('click', e => { if (moved) return; const pn = e.target.closest('.pin'); if (pn) { openStory(pn.dataset.id); return; } const lm = e.target.closest('.lm'); if (lm) { const l = M.landmarks.find(x => x.no == lm.dataset.no); const b = M.blocks.find(bb => bb.inAoi && bb.p.some(p => inside(l.c, p))); if (b) openBlock(b.id); return; } const t = e.target.closest('.blk'); if (t) openBlock(t.dataset.id); });
-document.getElementById('close').onclick = () => { document.getElementById('drawer').classList.remove('open'); svg.querySelectorAll('.blk.sel').forEach(x => x.classList.remove('sel')); };
+document.getElementById('close').onclick = () => { document.getElementById('drawer').classList.remove('open'); svg.querySelectorAll('.blk.sel, .pin.sel').forEach(x => x.classList.remove('sel')); };
 
 /* ---------- stories ---------- */
 const S = (window.STORIES || { stories: [] }).stories, TH = (window.STORIES || { themes: {} }).themes;
@@ -263,11 +274,43 @@ function openStory(id, fromTour) {
     <div class="navrow"><button id="prevS" ${i ? '' : 'disabled'}>← ${i ? esc(S[i - 1].year) : ''} Earlier</button><button id="nextS" ${i < S.length - 1 ? '' : 'disabled'}>Later ${i < S.length - 1 ? esc(S[i + 1].year) : ''} →</button></div></div>`;
   document.getElementById('drawer').classList.add('open'); document.getElementById('drawer').scrollTop = 0;
   document.getElementById('toBlock').onclick = () => openBlock(s.block);
-  document.getElementById('prevS').onclick = () => { const p = S[i - 1]; setYear(p.year, true); openStory(p.id); };
-  document.getElementById('nextS').onclick = () => { const n = S[i + 1]; setYear(n.year, true); openStory(n.id); };
-  svg.querySelectorAll('.pin').forEach(p => p.style.filter = p.dataset.id === id ? 'drop-shadow(0 0 6px #fff3c4)' : '');
-  flyTo(s.c);
+  document.getElementById('prevS').onclick = () => { const p = S[i - 1]; setYear(p.year, true); openStory(p.id, true); };
+  document.getElementById('nextS').onclick = () => { const n = S[i + 1]; setYear(n.year, true); openStory(n.id, true); };
+  svg.querySelectorAll('.pin').forEach(p => p.classList.toggle('sel', p.dataset.id === id));
+  hidePeek();
+  if (fromTour) flyTo(s.c); else revealIfHidden(s.c);
 }
+function screenOf(c) { const r = svg.getBoundingClientRect(); return [r.left + (c[0] + PAD - vb[0]) / vb[2] * r.width, r.top + (c[1] + PAD - vb[1]) / vb[3] * r.height]; }
+function revealIfHidden(c) { // keep the map still; only slide it if the pin sits under the drawer or off-screen
+  const [x, y] = screenOf(c), dw = innerWidth > 800 ? Math.min(420, innerWidth) : 0, r = svg.getBoundingClientRect();
+  const right = innerWidth - dw - 60, dx = x > right ? x - right + 40 : x < 60 ? x - 100 : 0, dy = y < 90 ? y - 140 : y > innerHeight - 150 ? y - (innerHeight - 200) : 0;
+  if (!dx && !dy) return;
+  const from = vb.slice(), to = [vb[0] + dx / r.width * vb[2], vb[1] + dy / r.height * vb[3], vb[2], vb[3]], t0 = performance.now();
+  (function step(t) { const k = Math.min(1, (t - t0) / 450), e = 1 - Math.pow(1 - k, 3); vb = from.map((v, i) => v + (to[i] - v) * e); setVB(); if (k < 1) requestAnimationFrame(step); })(t0);
+}
+/* hover previews */
+const peek = document.getElementById('peek'); let peekFor = null, peekT = 0;
+function showPeek(pin) {
+  const s = SBY[pin.dataset.id]; if (!s || pin.classList.contains('off')) return;
+  clearTimeout(peekT); peekFor = pin; svg.querySelectorAll('.pin.hov').forEach(p => p !== pin && p.classList.remove('hov')); pin.classList.add('hov');
+  peek.style.setProperty('--c', col(s));
+  peek.innerHTML = `<div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div><div class="p">📍 ${esc(s.place)}</div><div class="cta">Click to read the story →</div>`;
+  const b = pin.getBoundingClientRect(), pw = 300, ph = peek.offsetHeight || 170, gap = 14;
+  let x = b.right + gap, y = b.top + b.height / 2 - ph / 2;
+  const limitR = innerWidth - (document.getElementById('drawer').classList.contains('open') && innerWidth > 800 ? 430 : 12);
+  if (x + pw > limitR) x = b.left - gap - pw;
+  y = Math.max(12, Math.min(innerHeight - ph - 12, y));
+  peek.style.left = x + 'px'; peek.style.top = y + 'px'; peek.classList.add('on');
+}
+function hidePeek() { clearTimeout(peekT); peek.classList.remove('on'); if (peekFor) peekFor.classList.remove('hov'); peekFor = null; }
+const canHover = matchMedia('(hover: hover)').matches;
+svg.addEventListener('pointerover', e => { if (!canHover || ptrs.size) return; const pin = e.target.closest('.pin'); if (pin && pin !== peekFor) showPeek(pin); });
+svg.addEventListener('pointerout', e => { const pin = e.target.closest('.pin'); if (pin && !pin.contains(e.relatedTarget)) { peekT = setTimeout(hidePeek, 90); } });
+svg.addEventListener('focusin', e => { const pin = e.target.closest('.pin'); if (pin) showPeek(pin); });
+svg.addEventListener('focusout', () => hidePeek());
+svg.addEventListener('keydown', e => { const pin = e.target.closest('.pin'); if (pin && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); openStory(pin.dataset.id); } });
+svg.addEventListener('pointerdown', hidePeek);
+svg.addEventListener('wheel', hidePeek, { passive: true });
 function listStories(filter = 'all') {
   const items = S.filter(s => filter === 'all' || s.theme === filter);
   document.getElementById('dbody').innerHTML = `<div class="hd"><div class="k">${S.length} stories</div><h2>Stories of the neighbourhood</h2><div class="sub">From the sand hills to today, in order.</div></div>
@@ -277,7 +320,7 @@ function listStories(filter = 'all') {
 }
 document.getElementById('dbody').addEventListener('click', e => { const c = e.target.closest('.scard'); if (c) openStory(c.dataset.sid); });
 document.getElementById('storiesBtn').onclick = () => listStories();
-document.getElementById('tourBtn').onclick = () => { if (!S.length) return; setYear(S[0].year, true); openStory(S[0].id); };
+document.getElementById('tourBtn').onclick = () => { if (!S.length) return; setYear(S[0].year, true); openStory(S[0].id, true); };
 /* ---------- time slider ---------- */
 const ERA_TXT = [[1850, 'Sand hills, springs and a new survey grid'], [1870, 'The Western Addition fills with Victorians'], [1906, 'Earthquake, fire and a new downtown on Fillmore'], [1915, 'A crossroads of communities'], [1942, 'Wartime: removal and the Great Migration'], [1946, 'Harlem of the West'], [1956, 'Redevelopment and displacement'], [1966, 'Counterculture next door'], [1989, 'Loma Prieta and the freeway'], [2005, 'The neighbourhood today']];
 const slider = document.getElementById('slider'), allY = document.getElementById('allYears');
