@@ -83,6 +83,18 @@
   .peek .h { font: italic 16px/1.4 var(--display); color: var(--ink-2); }
   .peek .p { font: 11.5px var(--ui); color: #9b8561; margin-top: 7px; }
   .peek .cta { font: 600 11px var(--ui); color: var(--rose); margin-top: 6px; }
+  .results div.act { background: #f3e7c9; } .results .grp { padding: 6px 14px 4px; font: 600 10px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: #9b8561; background: #f6eedb; cursor: default; }
+  .results div.grp:hover { background: #f6eedb; }
+  .themekey { position: fixed; left: 18px; top: 172px; background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 12px; padding: 10px 10px 8px; font: 12px var(--ui); color: var(--ink); box-shadow: 0 10px 30px rgba(0,0,0,.2); width: 224px; }
+  .themekey h4 { margin: 0 4px 6px; font: 600 10.5px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); display: flex; justify-content: space-between; cursor: pointer; }
+  .themekey button { display: flex; align-items: center; gap: 8px; width: 100%; text-align: left; font: 12px var(--ui); color: var(--ink); background: none; border: 0; padding: 3px 4px; border-radius: 6px; cursor: pointer; }
+  .themekey button:hover { background: #eadcbc; } .themekey button.off { opacity: .35; } .themekey button .n { margin-left: auto; color: #9b8561; font-size: 11px; }
+  .themekey i { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+  .themekey .all { font: 600 11px var(--ui); color: var(--rose); margin: 4px 4px 0; cursor: pointer; background: none; border: 0; padding: 0; }
+  .themekey.min .list { display: none; }
+  .near-d { font: 600 11px var(--ui); color: var(--ink-2); letter-spacing: .04em; float: right; margin-left: 8px; }
+  .youare { display: flex; gap: 10px; align-items: center; margin: 6px 0 4px; font: 13px/1.45 var(--ui); color: var(--ink-2); }
+  @media (max-width: 860px) { .themekey { display: none; } }
   .loading { position: fixed; left: 50%; top: 50%; transform: translate(-50%,-50%); font: italic 22px var(--display); color: var(--ink); background: rgba(248,240,220,.95); padding: 14px 24px; border-radius: 12px; border: 1px solid #c9b58a; }
 </style>
 </head>
@@ -91,9 +103,10 @@
 <div class="texture" id="tex"></div><div class="fog"></div><div class="vignette"></div>
 <div class="cartouche"><div class="k">LAYERS · A MAP IN TIME</div><h1>San Francisco</h1><div class="s">Every block, every era. Zoom in to explore.</div></div>
 <a href="alamo.html" style="position:fixed;left:18px;top:128px;font:600 12px Inter,system-ui,sans-serif;color:#6e5a47;background:rgba(243,234,214,.94);border:1px solid #c9b58a;border-radius:999px;padding:6px 12px;text-decoration:none">Alamo Square in detail →</a>
-<div class="topbar"><input class="search" id="search" placeholder="Search places & stories" aria-label="Search"><button class="pri" id="tourBtn">Walk through time</button><button id="storiesBtn">All stories</button></div>
+<div class="topbar"><input class="search" id="search" placeholder="Search any address or story" aria-label="Search addresses, places and stories" autocomplete="off" spellcheck="false"><button id="meBtn" title="Stories near where you are">📍 Near me</button><button class="pri" id="tourBtn">Walk through time</button><button id="storiesBtn">All stories</button></div>
 <div class="results" id="results"></div>
 <div class="legend" id="legend"></div>
+<div class="themekey" id="themekey"></div>
 <div class="timebar"><div class="row1"><span class="yr" id="yr">All years</span><span class="era" id="eraTxt">Drag back in time</span><label><input type="checkbox" id="allYears" checked> All years</label></div>
 <input type="range" id="slider" min="1776" max="2026" step="1" value="2026" aria-label="Year"><div class="ticks"><span>1776</span><span>1849</span><span>1906</span><span>1942</span><span>1967</span><span>1989</span><span>today</span></div></div>
 <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button></div>
@@ -234,15 +247,15 @@ function render() {
     for (const [n, x, y, a] of B.labels) { const [X, Y] = toS(x, y); if (X < -100 || Y < -30 || X > W + 100 || Y > H + 30) continue; ctx.save(); ctx.translate(X, Y); ctx.rotate(a * Math.PI / 180); const t = n.toUpperCase().split('').join(' '); ctx.strokeText(t, 0, 0); ctx.fillText(t, 0, 0); ctx.restore(); }
   }
   // landmarks
-  if (s >= .45) for (const l of B.landmarks) { if (!l.no) continue; const [X, Y] = toS(l.c[0], l.c[1]); if (X < -20 || Y < -20 || X > W + 20 || Y > H + 20) continue; const r = Math.min(9, 4 + s * 3); ctx.fillStyle = '#fbf1d6'; ctx.strokeStyle = '#b8903f'; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.arc(X, Y - r, r, 0, 7); ctx.fill(); ctx.stroke(); ctx.fillStyle = '#9c3b33'; ctx.beginPath(); ctx.arc(X, Y - r, r * .35, 0, 7); ctx.fill(); }
+  if (s >= 1.2) for (const l of B.landmarks) { if (!l.no) continue; const [X, Y] = toS(l.c[0], l.c[1]); if (X < -20 || Y < -20 || X > W + 20 || Y > H + 20) continue; const r = Math.min(9, 4 + s * 3); ctx.fillStyle = '#fbf1d6'; ctx.strokeStyle = '#b8903f'; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.arc(X, Y - r, r, 0, 7); ctx.fill(); ctx.stroke(); ctx.fillStyle = '#9c3b33'; ctx.beginPath(); ctx.arc(X, Y - r, r * .35, 0, 7); ctx.fill(); }
   drawPins();
   // neighbourhood names
   if (s < 1.6) {
     const a = s < BLD_Z ? .85 : Math.max(0, .85 - (s - BLD_Z) * 1.2);
     ctx.globalAlpha = a; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
     const placed = [];
-    for (const h of [...B.hoods].sort((p, q) => q.a - p.a)) { const [X, Y] = toS(h.c[0], h.c[1]); if (X < -200 || Y < -40 || X > W + 200 || Y > H + 40) continue;
-      const fs = Math.max(10, Math.min(28, 8 + Math.sqrt(h.a) * s * 50));
+    for (const h of [...B.hoods].sort((p, q) => q.a - p.a)) { let [X, Y] = toS(h.c[0], h.c[1]); if (HOODR[h.n]) { X = HOODR[h.n][0]; Y = HOODR[h.n][1] + HOODR[h.n][2] + 9; } if (X < -200 || Y < -40 || X > W + 200 || Y > H + 40) continue;
+      const fs = HOODR[h.n] !== undefined || s < HOOD_Z ? 11.5 : Math.max(10, Math.min(28, 8 + Math.sqrt(h.a) * s * 50));
       ctx.font = `${fs}px "IM Fell English SC", Georgia, serif`;
       const t = h.n.replace('Financial District/South Beach', 'Financial District').replace('Oceanview/Merced/Ingleside', 'Ingleside').replace('Castro/Upper Market', 'Castro').toUpperCase().split('').join('\u200A');
       const w = ctx.measureText(t).width, box = [X - w / 2 - 6, Y - fs * .65, X + w / 2 + 6, Y + fs * .65];
@@ -257,29 +270,81 @@ const S = ST.stories, SBY = {}; S.forEach(s => SBY[s.id] = s);
 const TH = ST.themes;
 const col = s => (TH[s.theme] || {}).color || '#8a6d3b';
 let SEL = null, HOV = null, PINSCR = [];
-function pinVisible(s) { return !YEAR || s.year <= YEAR; }
+let OFF = new Set();            // themes hidden from the map
+let HERE = null, NEAR = null;   // searched address and the stories nearest to it
+const CLUSTER_Z = 2.2, CELL = 84, HOOD_Z = .1;
+let HOODR = {};   // medallion radius per neighbourhood in the city-wide view
+function pinVisible(s) { return (!YEAR || s.year <= YEAR) && !OFF.has(s.theme); }
+function pinShape(st, X, Y, r, sel, hov, dim) {
+  ctx.save(); ctx.translate(X, Y); ctx.globalAlpha = dim ? .28 : 1;
+  if (sel || hov) { ctx.shadowColor = sel ? 'rgba(255,230,150,.95)' : 'rgba(60,40,20,.35)'; ctx.shadowBlur = sel ? 14 : 6; ctx.shadowOffsetY = sel ? 0 : 3; }
+  ctx.beginPath(); ctx.moveTo(0, 0); ctx.bezierCurveTo(-r * .25, -r * .5, -r, -r, -r, -r * 1.75); ctx.arc(0, -r * 1.75, r, Math.PI, 0); ctx.bezierCurveTo(r, -r, r * .25, -r * .5, 0, 0); ctx.closePath();
+  ctx.fillStyle = col(st); ctx.fill(); ctx.shadowColor = 'transparent'; ctx.lineWidth = 1.6; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
+  ctx.beginPath(); ctx.arc(0, -r * 1.75, r * .45, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.fill(); ctx.restore();
+}
+// a cluster is a cream medallion ringed by the mix of its stories' themes, with the count inside
+function clusterShape(c, hov) {
+  const n = c.m.length, r = Math.min(24, 11 + Math.sqrt(n) * 2.6) * (hov ? 1.12 : 1), cnt = {};
+  c.m.forEach(st => cnt[st.theme] = (cnt[st.theme] || 0) + 1);
+  ctx.save(); ctx.translate(c.X, c.Y); ctx.globalAlpha = c.dim ? .35 : 1;
+  ctx.shadowColor = 'rgba(60,40,20,.3)'; ctx.shadowBlur = hov ? 10 : 5; ctx.shadowOffsetY = 2;
+  ctx.beginPath(); ctx.arc(0, 0, r, 0, 7); ctx.fillStyle = '#fbf3df'; ctx.fill(); ctx.shadowColor = 'transparent';
+  let a0 = -Math.PI / 2; ctx.lineWidth = Math.max(3, r * .28);
+  for (const [k, v] of Object.entries(cnt).sort((p, q) => q[1] - p[1])) { const a1 = a0 + v / n * Math.PI * 2; ctx.beginPath(); ctx.arc(0, 0, r - ctx.lineWidth / 2, a0, a1); ctx.strokeStyle = (TH[k] || {}).color || '#8a6d3b'; ctx.stroke(); a0 = a1; }
+  ctx.beginPath(); ctx.arc(0, 0, r, 0, 7); ctx.lineWidth = 1.2; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
+  ctx.fillStyle = '#3d3026'; ctx.font = `600 ${Math.round(r * .62)}px Inter, system-ui, sans-serif`; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText(n, 0, 1);
+  ctx.restore(); c.r = r;
+}
 function drawPins() {
-  PINSCR = []; const s = cam.s, big = s >= .3, R = big ? Math.min(13, 7 + s * 3.2) : 3.4;
-  const order = S.filter(pinVisible);
-  for (const st of order) {
-    const [X, Y] = toS(st.c[0], st.c[1]); if (X < -30 || Y < -40 || X > W + 30 || Y > H + 30) continue;
-    const old = YEAR && (st.yearEnd || st.year) < YEAR - 25, hov = st.id === HOV, sel = st.id === SEL;
-    const k = sel ? 1.35 : hov ? 1.25 : 1, r = R * k;
-    ctx.globalAlpha = old ? .25 : 1;
-    if (big) {
-      ctx.save(); ctx.translate(X, Y); if (sel || hov) { ctx.shadowColor = sel ? 'rgba(255,230,150,.95)' : 'rgba(60,40,20,.35)'; ctx.shadowBlur = sel ? 14 : 6; ctx.shadowOffsetY = sel ? 0 : 3; }
-      ctx.beginPath(); ctx.moveTo(0, 0); ctx.bezierCurveTo(-r * .25, -r * .5, -r, -r, -r, -r * 1.75); ctx.arc(0, -r * 1.75, r, Math.PI, 0); ctx.bezierCurveTo(r, -r, r * .25, -r * .5, 0, 0); ctx.closePath();
-      ctx.fillStyle = col(st); ctx.fill(); ctx.shadowColor = 'transparent'; ctx.lineWidth = 1.6; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
-      ctx.beginPath(); ctx.arc(0, -r * 1.75, r * .45, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.fill(); ctx.restore();
-      PINSCR.push([st, X, Y - r * 1.6, r * 1.5]);
-    } else {
-      ctx.beginPath(); ctx.arc(X, Y, r, 0, 7); ctx.fillStyle = col(st); ctx.fill(); ctx.lineWidth = 1; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
-      PINSCR.push([st, X, Y, 6]);
-    }
+  PINSCR = []; const s = cam.s, R = Math.min(13, 6.5 + s * 3.2);
+  const vis = S.filter(pinVisible), solo = [], groups = new Map();
+  // grid clustering on a world-anchored grid; the cell size snaps to powers of two so clusters don't shimmer while zooming
+  HOODR = {};
+  if (s < HOOD_Z && !NEAR) { // whole-city view: one medallion per neighbourhood
+    const by = {}; for (const st of vis) { if (st.id === SEL) continue; (by[st.hood] = by[st.hood] || []).push(st); }
+    const cs = B.hoods.filter(h => by[h.n]).map(h => { const [X, Y] = toS(h.c[0], h.c[1]), n = by[h.n].length; return { m: by[h.n], X, Y, dim: false, hood: h, rr: Math.min(24, 11 + Math.sqrt(n) * 2.6) }; });
+    for (let it = 0; it < 30; it++) for (let i = 0; i < cs.length; i++) for (let j = i + 1; j < cs.length; j++) { // nudge overlapping medallions apart
+      const p = cs[i], q = cs[j], dx = q.X - p.X, dy = q.Y - p.Y, d = Math.hypot(dx, dy) || 1, need = p.rr + q.rr + 4;
+      if (d < need) { const k = (need - d) / 2 / d; p.X -= dx * k; p.Y -= dy * k; q.X += dx * k; q.Y += dy * k; } }
+    for (const c of cs) { clusterShape(c, HOV === c.m[0].id + '*'); HOODR[c.hood.n] = [c.X, c.Y, c.r]; PINSCR.push([c, c.X, c.Y, c.r + 3, true]); }
+    const sel = SEL && SBY[SEL]; if (sel) { const [X, Y] = toS(sel.c[0], sel.c[1]); pinShape(sel, X, Y, R * 1.35, true, false, false); }
+    return;
+  }
+  const cw = Math.pow(2, Math.ceil(Math.log2(CELL / s)));
+  for (const st of vis) {
+    const [X, Y] = toS(st.c[0], st.c[1]); if (X < -60 || Y < -60 || X > W + 60 || Y > H + 60) continue;
+    if (s >= CLUSTER_Z || st.id === SEL || (NEAR && NEAR.has(st.id))) { solo.push([st, X, Y]); continue; }
+    const k = Math.floor(st.c[0] / cw) + ',' + Math.floor(st.c[1] / cw);
+    if (!groups.has(k)) groups.set(k, []); groups.get(k).push([st, X, Y]);
+  }
+  // merge neighbouring cells whose medallions would overlap (grid seams otherwise leave pairs touching)
+  const rOf = n => n === 1 ? 12 : Math.min(24, 11 + Math.sqrt(n) * 2.6);
+  let gs = [...groups.values()].map(g => ({ g, X: g.reduce((a, v) => a + v[1], 0) / g.length, Y: g.reduce((a, v) => a + v[2], 0) / g.length }));
+  for (let merged = true; merged;) { merged = false;
+    for (let i = 0; i < gs.length && !merged; i++) for (let j = i + 1; j < gs.length; j++) { const p = gs[i], q = gs[j];
+      if (Math.hypot(p.X - q.X, p.Y - q.Y) < (rOf(p.g.length) + rOf(q.g.length)) * 1.25) { const n = p.g.length + q.g.length;
+        gs[i] = { g: p.g.concat(q.g), X: (p.X * p.g.length + q.X * q.g.length) / n, Y: (p.Y * p.g.length + q.Y * q.g.length) / n }; gs.splice(j, 1); merged = true; break; } } }
+  for (const { g, X: gx, Y: gy } of gs) {
+    if (g.length === 1) { solo.push(g[0]); continue; }
+    const c = { m: g.map(v => v[0]), X: gx, Y: gy, dim: !!NEAR };
+    clusterShape(c, HOV === c.m[0].id + '*'); PINSCR.push([c, c.X, c.Y, c.r + 3, true]);
+  }
+  solo.sort((p, q) => p[2] - q[2]);
+  for (const [st, X, Y] of solo) {
+    const hov = st.id === HOV, sel = st.id === SEL, r = R * (sel ? 1.35 : hov ? 1.25 : 1);
+    const dim = (YEAR && (st.yearEnd || st.year) < YEAR - 25) || (NEAR && !NEAR.has(st.id) && !sel);
+    pinShape(st, X, Y, r, sel, hov, dim); PINSCR.push([st, X, Y - r * 1.6, r * 1.5]);
   }
   ctx.globalAlpha = 1;
+  if (HERE) { // the searched address: a gold compass star with a soft ring
+    const [X, Y] = toS(HERE.x, HERE.y);
+    ctx.beginPath(); ctx.arc(X, Y, 22, 0, 7); ctx.fillStyle = 'rgba(156,59,51,.12)'; ctx.fill(); ctx.strokeStyle = 'rgba(156,59,51,.45)'; ctx.lineWidth = 1.5; ctx.stroke();
+    ctx.save(); ctx.translate(X, Y); ctx.beginPath(); for (let k = 0; k < 8; k++) { const a = k * Math.PI / 4 - Math.PI / 2, rr = k % 2 ? 5 : 13; ctx.lineTo(Math.cos(a) * rr, Math.sin(a) * rr); } ctx.closePath();
+    ctx.fillStyle = '#9c3b33'; ctx.shadowColor = 'rgba(0,0,0,.35)'; ctx.shadowBlur = 6; ctx.fill(); ctx.shadowColor = 'transparent'; ctx.lineWidth = 1.6; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
+    ctx.beginPath(); ctx.arc(0, 0, 3, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.fill(); ctx.restore();
+  }
 }
-function pinAt(X, Y) { let best = null, bd = 1e9; for (const [st, x, y, r] of PINSCR) { const d = Math.hypot(X - x, Y - y); if (d < r && d < bd) { bd = d; best = st; } } return best; }
+function pinAt(X, Y) { let best = null, bd = 1e9; for (const [st, x, y, r, cl] of PINSCR) { const d = Math.hypot(X - x, Y - y); if (d < r && d < bd) { bd = d; best = cl ? { cluster: st } : st; } } return best; }
 
 /* ---------- blocks hit-test ---------- */
 function inside(pt, poly) { let c = false; for (let i = 0, j = poly.length - 1; i < poly.length; j = i++) { const [xi, yi] = poly[i], [xj, yj] = poly[j]; if ((yi > pt[1]) !== (yj > pt[1]) && pt[0] < (xj - xi) * (pt[1] - yi) / (yj - yi) + xi) c = !c; } return c; }
@@ -306,19 +371,40 @@ cv.addEventListener('pointermove', e => {
 const up = e => { ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null; if (!ptrs.size) { if (moved && performance.now() - lastMove < 60) glide(); drag = null; cv.classList.remove('drag'); } };
 cv.addEventListener('pointerup', up); cv.addEventListener('pointercancel', up);
 function glide() { let [vx, vy] = vel; const step = () => { vx *= .92; vy *= .92; cam.x -= vx * 16 / cam.s; cam.y -= vy * 16 / cam.s; dirty(); if (Math.hypot(vx, vy) > .02 && !ptrs.size && !anim) requestAnimationFrame(step); }; requestAnimationFrame(step); }
-cv.addEventListener('click', e => { if (moved) return; const p = pinAt(e.clientX, e.clientY); if (p) return openStory(p.id); const b = blockAt(toM(e.clientX, e.clientY)); if (b && cam.s > .25) openBlock(b); else if (cam.s <= .25) flyTo(...toM(e.clientX, e.clientY), Math.max(cam.s * 3, .6)); });
+function openCluster(c) {
+  if (c.hood) { FILTER = { theme: 'all', hood: c.hood.n }; listStories(); flyTo(c.hood.c[0], c.hood.c[1], Math.max(.3, 1.1 / Math.sqrt(c.hood.a)), 900); return; }
+  const xs = c.m.map(s => s.c[0]), ys = c.m.map(s => s.c[1]), span = Math.max(Math.max(...xs) - Math.min(...xs), Math.max(...ys) - Math.min(...ys));
+  const cx = (Math.max(...xs) + Math.min(...xs)) / 2, cy = (Math.max(...ys) + Math.min(...ys)) / 2;
+  if (span < 25 || cam.s >= CLUSTER_Z * .9) return openGroup(c.m, cx, cy); // same building: just list them
+  flyTo(cx, cy, Math.min(CLUSTER_Z * 1.05, Math.max(cam.s * 2.2, Math.min(W, H) * .45 / span)), 700);
+}
+function openGroup(list, x, y) {
+  CUR = [...list].sort((a, b) => a.year - b.year);
+  dbody.innerHTML = `<div class="hd"><div class="k">${esc(list[0].hood || '')}</div><h2>${list.length} stories here</h2><div class="sub">${esc(list[0].place)}</div></div><div class="bd">${CUR.map(card).join('')}</div>`;
+  drawer.classList.add('open'); drawer.scrollTop = 0; flyTo(x, y, Math.max(cam.s, CLUSTER_Z), 600);
+}
+cv.addEventListener('click', e => { if (moved) return; const p = pinAt(e.clientX, e.clientY); if (p && p.cluster) return openCluster(p.cluster); if (p) return openStory(p.id); const b = blockAt(toM(e.clientX, e.clientY)); if (b && cam.s > .25) openBlock(b); else if (cam.s <= .25) flyTo(...toM(e.clientX, e.clientY), Math.max(cam.s * 3, .6)); });
 document.getElementById('zin').onclick = () => zoomAt(W / 2, H / 2, 1.6);
 document.getElementById('zout').onclick = () => zoomAt(W / 2, H / 2, 1 / 1.6);
 addEventListener('resize', resize);
 
 /* hover previews */
 const peek = document.getElementById('peek'); const canHover = matchMedia('(hover: hover)').matches;
-function hover(e) { if (!canHover) return; const p = pinAt(e.clientX, e.clientY); cv.classList.toggle('hand', !!p); if ((p && p.id) === HOV) return; HOV = p ? p.id : null; dirty(); p ? showPeek(p, e.clientX, e.clientY) : hidePeek(); }
+function hover(e) { if (!canHover) return; const p = pinAt(e.clientX, e.clientY); cv.classList.toggle('hand', !!p);
+  const id = p ? (p.cluster ? p.cluster.m[0].id + '*' : p.id) : null; if (id === HOV) return; HOV = id; dirty();
+  if (!p) return hidePeek(); p.cluster ? showClusterPeek(p.cluster, e.clientX, e.clientY) : showPeek(p, e.clientX, e.clientY); }
+function placePeek(X, Y) { const ph = peek.offsetHeight || 170, lim = W - (document.getElementById('drawer').classList.contains('open') && W > 860 ? 440 : 12);
+  let x = X + 22; if (x + 300 > lim) x = X - 322; peek.style.left = x + 'px'; peek.style.top = Math.max(12, Math.min(H - ph - 12, Y - ph / 2)) + 'px'; peek.classList.add('on'); }
+function showClusterPeek(c, X, Y) {
+  const m = [...c.m].sort((a, b) => a.year - b.year), hoods = [...new Set(m.map(s => s.hood))];
+  peek.style.setProperty('--c', '#b8903f');
+  peek.innerHTML = `<div class="m">${m.length} stories · ${m[0].year}–${m[m.length - 1].year}</div><div class="t">${esc(hoods.slice(0, 2).join(' & '))}${hoods.length > 2 ? ' & more' : ''}</div>${m.slice(0, 4).map(s => `<div class="h" style="font-size:15px;margin-top:3px"><span style="color:${col(s)}">●</span> ${esc(s.title)}</div>`).join('')}${m.length > 4 ? `<div class="p">+ ${m.length - 4} more</div>` : ''}<div class="cta">Click to zoom in →</div>`;
+  placePeek(X, Y);
+}
 function showPeek(s, X, Y) {
   peek.style.setProperty('--c', col(s));
   peek.innerHTML = `<div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div><div class="p">📍 ${esc(s.place)}${s.hood ? ' · ' + esc(s.hood) : ''}</div><div class="cta">Click to read the story →</div>`;
-  const ph = peek.offsetHeight || 170, lim = W - (document.getElementById('drawer').classList.contains('open') && W > 860 ? 440 : 12);
-  let x = X + 22; if (x + 300 > lim) x = X - 322; peek.style.left = x + 'px'; peek.style.top = Math.max(12, Math.min(H - ph - 12, Y - ph / 2)) + 'px'; peek.classList.add('on');
+  placePeek(X, Y);
 }
 function hidePeek() { peek.classList.remove('on'); if (HOV) { HOV = null; dirty(); } }
 
@@ -368,20 +454,119 @@ function openBlock(b) {
     ${ss.length ? `<div class="stat" style="margin-top:18px">Stories on this block</div>${ss.map(card).join('')}` : `<div class="soon">No stories pinned to this block yet. Nearby pins may tell its neighbourhood's story.</div>`}</div>`;
   drawer.classList.add('open'); drawer.scrollTop = 0;
 }
-document.getElementById('close').onclick = () => { drawer.classList.remove('open'); SEL = null; dirty(); };
+document.getElementById('close').onclick = () => { drawer.classList.remove('open'); SEL = null; HERE = null; NEAR = null; dirty(); };
 document.getElementById('storiesBtn').onclick = () => { FILTER = { theme: 'all', hood: 'all' }; listStories(); };
 document.getElementById('tourBtn').onclick = () => { CUR = S; setYear(S[0].year); openStory(S[0].id, true); };
 
+/* ---------- addresses (every SF address, loaded on first use) ---------- */
+let ADDR = null, ADDR_P = null;
+function loadAddr() {
+  return ADDR_P || (ADDR_P = fetch('city/addr.json').then(r => r.json()).then(d => {
+    ADDR = { streets: d.streets.map(([name, f]) => { const a = []; let n = 0, x = 0, y = 0; for (let k = 0; k < f.length; k += 3) { n += f[k]; x += f[k + 1]; y += f[k + 2]; a.push([n, x, y]); } return { name, low: name.toLowerCase(), a }; }), marks: d.marks };
+    if (sIn.value.trim()) runSearch();
+  }));
+}
+const ABBR = { street: 'st', avenue: 'ave', av: 'ave', boulevard: 'blvd', drive: 'dr', place: 'pl', terrace: 'ter', court: 'ct', lane: 'ln', road: 'rd', circle: 'cir', highway: 'hwy', alley: 'aly', plaza: 'plz', square: 'sq',
+  first: '1st', second: '2nd', third: '3rd', fourth: '4th', fifth: '5th', sixth: '6th', seventh: '7th', eighth: '8th', ninth: '9th', tenth: '10th' };
+function normQ(q) {
+  return q.toLowerCase().split(',')[0].replace(/\b(san francisco|sf|ca|california)\b|\b94\d{3}\b/g, ' ').replace(/[.#]/g, ' ').replace(/\s+/g, ' ').trim()
+    .split(' ').map(w => ABBR[w] || w).join(' ');
+}
+function streetMatches(txt) {
+  if (!txt) return [];
+  const out = [];
+  for (const st of ADDR.streets) { let sc = st.low.startsWith(txt) ? 2 : (' ' + st.low).includes(' ' + txt) ? 1 : 0; if (sc) out.push([sc, st]); }
+  return out.sort((p, q) => q[0] - p[0] || q[1].a.length - p[1].a.length).map(v => v[1]);
+}
+function addrHits(q) {
+  const m = q.match(/^(\d+)\s*([a-z]?)\b\s*(.*)$/), hits = [];
+  if (m) {
+    const num = +m[1], txt = m[3] || '', sts = txt ? streetMatches(txt) : ADDR.streets.filter(st => st.a.some(v => v[0] === num)).sort((p, q) => q.a.length - p.a.length);
+    for (const st of sts.slice(0, 40)) {
+      const ex = st.a.find(v => v[0] === num);
+      if (ex) hits.push({ label: `${num} ${st.name}`, x: ex[1], y: ex[2], sub: 'Address' });
+      else if (txt) { const near = st.a.reduce((b, v) => Math.abs(v[0] - num) < Math.abs(b[0] - num) ? v : b); hits.push({ label: `${num} ${st.name}`, x: near[1], y: near[2], sub: `Closest listed address: ${near[0]} ${st.name}` }); }
+      if (hits.length >= 7) break;
+    }
+  } else {
+    for (const st of streetMatches(q).slice(0, 4)) { const mid = st.a[Math.floor(st.a.length / 2)]; hits.push({ label: st.name, x: mid[1], y: mid[2], sub: `Street · ${st.a[0][0]}–${st.a[st.a.length - 1][0]}` }); }
+    for (const [n, ad, x, y] of ADDR.marks) if (n.toLowerCase().includes(q)) { hits.push({ label: n, x, y, sub: ad }); if (hits.length >= 7) break; }
+  }
+  return hits;
+}
 /* ---------- search ---------- */
 const sIn = document.getElementById('search'), sRes = document.getElementById('results');
-sIn.addEventListener('input', () => {
-  const q = sIn.value.trim().toLowerCase(); if (q.length < 2) { sRes.classList.remove('on'); return; }
-  const hs = B.hoods.filter(h => h.n.toLowerCase().includes(q)).slice(0, 5).map(h => `<div data-h="${esc(h.n)}"><b>${esc(h.n)}</b><small>Neighbourhood</small></div>`);
-  const ss = S.filter(s => (s.title + ' ' + s.place + ' ' + s.hook).toLowerCase().includes(q)).slice(0, 12).map(s => `<div data-s="${s.id}"><b>${esc(s.title)}</b><small>${s.year} · ${esc(s.place)}</small></div>`);
-  sRes.innerHTML = [...hs, ...ss].join('') || '<div><small>No matches</small></div>'; sRes.classList.add('on');
+let HITS = [], ACT = -1;
+function runSearch() {
+  const raw = sIn.value.trim(), q = raw.toLowerCase(); if (q.length < 2) { sRes.classList.remove('on'); HITS = []; return; }
+  HITS = []; const rows = [];
+  if (ADDR) { const nq = normQ(raw), ah = addrHits(nq); if (ah.length) { rows.push('<div class="grp">Addresses & places</div>'); ah.forEach(h => { rows.push(`<div data-i="${HITS.length}"><b>${esc(h.label)}</b><small>${esc(h.sub)}</small></div>`); HITS.push({ t: 'a', ...h }); }); } }
+  else if (/^\d/.test(q)) rows.push('<div class="grp">Loading addresses…</div>');
+  const hs = B.hoods.filter(h => h.n.toLowerCase().includes(q)).slice(0, 4);
+  if (hs.length) { rows.push('<div class="grp">Neighbourhoods</div>'); hs.forEach(h => { rows.push(`<div data-i="${HITS.length}"><b>${esc(h.n)}</b></div>`); HITS.push({ t: 'h', h }); }); }
+  const ss = /^\d+\s/.test(q) ? [] : S.filter(s => (s.title + ' ' + s.place + ' ' + s.hook + ' ' + (s.people || []).map(p => p.name).join(' ')).toLowerCase().includes(q)).slice(0, 8);
+  if (ss.length) { rows.push('<div class="grp">Stories</div>'); ss.forEach(s => { rows.push(`<div data-i="${HITS.length}"><b>${esc(s.title)}</b><small>${s.year} · ${esc(s.place)}</small></div>`); HITS.push({ t: 's', s }); }); }
+  ACT = HITS.length ? 0 : -1;
+  sRes.innerHTML = rows.join('') || '<div class="grp">No matches</div>'; sRes.classList.add('on'); markAct();
+}
+function markAct() { sRes.querySelectorAll('[data-i]').forEach(d => d.classList.toggle('act', +d.dataset.i === ACT)); const a = sRes.querySelector('.act'); if (a) a.scrollIntoView({ block: 'nearest' }); }
+function pick(h) {
+  sRes.classList.remove('on'); sIn.blur();
+  if (h.t === 'a') { sIn.value = h.label; openNear(h.label, h.x, h.y); }
+  else if (h.t === 's') openStory(h.s.id, true);
+  else flyTo(h.h.c[0], h.h.c[1], Math.max(.9, 2.2 / Math.sqrt(h.h.a)));
+}
+sIn.addEventListener('focus', () => { loadAddr(); if (sIn.value.trim()) runSearch(); });
+sIn.addEventListener('input', runSearch);
+sIn.addEventListener('keydown', e => {
+  if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (!HITS.length) return; ACT = (ACT + (e.key === 'ArrowDown' ? 1 : -1) + HITS.length) % HITS.length; markAct(); }
+  else if (e.key === 'Enter' && HITS[ACT]) { e.preventDefault(); pick(HITS[ACT]); }
+  else if (e.key === 'Escape') { sRes.classList.remove('on'); sIn.blur(); }
 });
-sRes.addEventListener('click', e => { const d = e.target.closest('div'); if (!d) return; sRes.classList.remove('on'); if (d.dataset.s) openStory(d.dataset.s, true); else if (d.dataset.h) { const h = B.hoods.find(x => x.n === d.dataset.h); flyTo(h.c[0], h.c[1], Math.max(.9, 2.2 / Math.sqrt(h.a))); } });
+sRes.addEventListener('mousedown', e => e.preventDefault());
+sRes.addEventListener('click', e => { const d = e.target.closest('[data-i]'); if (d) pick(HITS[+d.dataset.i]); });
 document.addEventListener('click', e => { if (!e.target.closest('.results, .search')) sRes.classList.remove('on'); });
+
+/* ---------- stories near a point ---------- */
+function openNear(label, x, y) {
+  const all = S.map(s => [s, Math.hypot(s.c[0] - x, s.c[1] - y)]).sort((a, b) => a[1] - b[1]);
+  const near = all.filter(v => !OFF.has(v[0].theme)).slice(0, 12);
+  HERE = { x, y, label }; NEAR = new Set(near.map(v => v[0].id)); SEL = null; CUR = near.map(v => v[0]);
+  const b = blockAt([x, y]), h = hoodOf([x, y]);
+  const dist = d => d < 1000 ? `${Math.round(d / 10) * 10} m · ${Math.max(1, Math.round(d / 80))} min walk` : `${(d / 1609).toFixed(1)} mi`;
+  const era = b ? ERAS.filter(e => b.cnt[e.k]) : [], tot = b ? Object.values(b.cnt).reduce((a, v) => a + v, 0) : 0;
+  dbody.innerHTML = `<div class="hd"><div class="k">${esc(h ? h.n : '')}</div><h2>Near ${esc(label)}</h2>
+    <div class="sub">The ${near.length} closest stories${OFF.size ? ' in the themes you’ve chosen' : ''}</div></div>
+    <div class="bd">${b ? `<div class="stat">This block: ${b.n} parcels${b.old ? `, oldest dated building ${b.old}` : ''}</div><div class="era-bar">${era.map(e => `<i style="flex:${b.cnt[e.k]};background:${e.cols[0]}" title="${e.label}: ${b.cnt[e.k]}"></i>`).join('')}</div>` : ''}
+    ${near.map(([s, d]) => card(s).replace('<div class="m">', `<div class="m"><span class="near-d">${dist(d)}</span>`)).join('')}</div>`;
+  drawer.classList.add('open'); drawer.scrollTop = 0;
+  // frame the address with its nearest handful of stories
+  const r = Math.max(120, near[Math.min(5, near.length - 1)][1]), room = Math.min(W - (W > 860 ? 470 : 0), H - 160) / 2;
+  flyTo(x, y, Math.max(.6, Math.min(3.2, room * .85 / r)), 1000);
+}
+document.getElementById('meBtn').onclick = () => {
+  if (!navigator.geolocation) return alert('Your browser can’t share your location.');
+  navigator.geolocation.getCurrentPosition(p => {
+    const x = (p.coords.longitude - B.origin[0]) * Math.cos(B.origin[1] * Math.PI / 180) * 111320, y = -(p.coords.latitude - B.origin[1]) * 110540;
+    const [x0, y0, x1, y1] = B.bounds; if (x < x0 || x > x1 || y < y0 || y > y1) return alert('You seem to be outside San Francisco. Try searching an address instead.');
+    openNear('you', x, y);
+  }, () => alert('Couldn’t get your location. Try searching an address instead.'), { enableHighAccuracy: true, timeout: 10000 });
+};
+
+/* ---------- theme key: doubles as a map filter ---------- */
+const tkey = document.getElementById('themekey');
+function drawThemeKey() {
+  const n = {}; S.forEach(s => n[s.theme] = (n[s.theme] || 0) + 1);
+  tkey.innerHTML = `<h4 id="tkH"><span>Story themes</span><span>${tkey.classList.contains('min') ? '+' : '−'}</span></h4><div class="list">${Object.entries(TH).filter(([k]) => n[k]).map(([k, v]) => `<button data-k="${k}" class="${OFF.has(k) ? 'off' : ''}" title="Click to show only this theme; click again to show all"><i style="background:${v.color}"></i>${esc(v.label)}<span class="n">${n[k]}</span></button>`).join('')}
+    ${OFF.size ? '<button class="all" id="tkAll">Show all themes</button>' : ''}</div>`;
+  document.getElementById('tkH').onclick = () => { tkey.classList.toggle('min'); drawThemeKey(); };
+  tkey.querySelectorAll('button[data-k]').forEach(b => b.onclick = () => {
+    const k = b.dataset.k, keys = Object.keys(TH).filter(t => n[t]), only = OFF.size === keys.length - 1 && !OFF.has(k);
+    OFF = only ? new Set() : new Set(keys.filter(t => t !== k)); drawThemeKey(); dirty();
+  });
+  const all = document.getElementById('tkAll'); if (all) all.onclick = () => { OFF = new Set(); drawThemeKey(); dirty(); };
+}
+drawThemeKey();
 
 /* ---------- time ---------- */
 const ERA_TXT = [[1776, 'Yelamu homeland, the Presidio and Mission Dolores'], [1848, 'Gold Rush: a village becomes a city'], [1870, 'The Victorian city spreads west'], [1906, 'Earthquake, fire and rebuilding'], [1915, 'A world’s fair city'], [1941, 'Wartime boom'], [1950, 'Freeways and redevelopment'], [1965, 'Counterculture and liberation'], [1989, 'Loma Prieta and the new waterfront'], [2000, 'The city today']];

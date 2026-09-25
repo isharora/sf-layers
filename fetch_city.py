@@ -32,6 +32,8 @@ if not os.path.exists('data_city/trees.json'):
     save('trees', soda('tkzw-k3nq', 'latitude, longitude', 'latitude is not null'))
 if not os.path.exists('data_city/landmarks.json'):
     save('landmarks', soda('97yj-54sx', 'apn, name, address, landmarkno, yeardesignated, designationdocument, the_geom'))
+if not os.path.exists('data_city/addresses.json'):
+    save('addresses', soda('3mea-di5p', 'address_number, street_name, street_type, address, complete_landmark_name, latitude, longitude', 'latitude is not null', order='eas_baseid'))
 if not os.path.exists('data_city/osm.json'):
     B = '37.700,-122.525,37.835,-122.350'
     q = f'''[out:json][timeout:300];
