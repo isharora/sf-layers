@@ -1,0 +1,675 @@
+[
+  {
+    "id": "pacific-heights-2p-davidson-observatory",
+    "title": "The West Coast's first observatory",
+    "theme": "gold-rush-victorian",
+    "year": 1879,
+    "yearEnd": null,
+    "place": {
+      "label": "Lafayette Park, near Octavia and Clay Streets (site of George Davidson's observatory)",
+      "lat": 37.7916,
+      "lon": -122.4276,
+      "precision": "area"
+    },
+    "hook": "In 1879 a surveyor who never went to college set up a telescope at Octavia and Clay, and helped talk James Lick into building an observatory of his own.",
+    "story": "George Davidson sailed into San Francisco Bay in June 1850 aboard the Tennessee, a young assistant with the U.S. Coast Survey. His job was to fix the latitude and longitude of the coast's bays and headlands and to choose sites for lighthouses [1]. He only ever attended one school, Philadelphia's Central High School, yet in 1870 he became professor of astronomy and geodesy at the University of California [1].\n\nIn 1879 he built what is described as the West Coast's first observatory, in Lafayette Park. The historian Bancroft noted that \"Professor Davidson of San Francisco has a 6.4 inch object glass in a portable observatory at the corner of Octavia and Clay Streets\" [1]. By then Davidson had led the U.S. expedition to observe the 1874 transit of Venus, and in 1882 he took a party to New Mexico to watch the next one [2]. His enthusiasm helped persuade James Lick to pay for an observatory on Mount Hamilton [1].\n\nHe published 260 papers. In 1886 the supervisors asked him to study the city's sewers, and he reported that they were the worst he had seen anywhere but one [1]. When he died in 1911, the city renamed its highest peak Mount Davidson [1][2].",
+    "people": [
+      {
+        "name": "George Davidson",
+        "role": "Coast Survey geodesist and astronomer (1825–1911)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "George Davidson",
+        "publisher": "FoundSF (essay by Mae Silver)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=George_Davidson",
+        "supports": "Arrival 1850, Coast Survey work, 1870 professorship, 1879 Lafayette Park observatory and Bancroft quote, Lick, sewers, Mount Davidson"
+      },
+      {
+        "title": "George Davidson (geographer)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/George_Davidson_(geographer)",
+        "supports": "Davidson Observatory as first on the Pacific coast; 1874 and 1882 transit of Venus expeditions; death 1911"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-bear-cub-1883",
+    "title": "A bear cub loose on Sacramento Street",
+    "theme": "parks-nature",
+    "year": 1883,
+    "yearEnd": null,
+    "place": {
+      "label": "Sacramento and Webster Streets",
+      "lat": 37.789871,
+      "lon": -122.431951,
+      "precision": "street"
+    },
+    "hook": "At two in the morning a patrolman met a young bear near Sacramento and Webster. His pistol misfired, and the bear slipped away into the scrub.",
+    "story": "In January 1883 this corner was not yet the Pacific Heights of mansions and boutiques. On January 20 the Daily Alta California reported that \"residents of the Western Addition are excited over the pranks of a young bear\" [1].\n\nAt about two o'clock the previous morning, Patrolman Russell spotted the animal near Sacramento and Webster streets. The paper said the bear \"escaped being shot on account of the officer's pistol missing fire.\" It then went over a fence and \"disappeared in the chaparral.\" Sergeant Fleming took a squad of officers out to hunt for the cub, but they could not find it [1]. The report does not say what became of it.\n\nPhotographs taken from the slopes of what is now Lafayette Park around 1860 and 1870 show how open this country still was [2]. By 1883, as FoundSF's editors put it, \"enough chaparral remained to hide a small bear\" [1].",
+    "people": [
+      {
+        "name": "Patrolman Russell",
+        "role": "police officer who spotted the bear"
+      },
+      {
+        "name": "Sergeant Fleming",
+        "role": "led the search"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Cub in the Suburbs (Daily Alta California, January 20, 1883)",
+        "publisher": "FoundSF",
+        "year": 1883,
+        "url": "https://www.foundsf.org/index.php?title=A_Cub_in_the_Suburbs",
+        "supports": "Full text of the 1883 report: time, place, misfire, escape into chaparral, search"
+      },
+      {
+        "title": "1860 Western Addition view",
+        "publisher": "FoundSF / OpenSFHistory",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=1860_Western_Addition_view",
+        "supports": "c. 1860 and c. 1870 views across the Western Addition from the Lafayette Park slopes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-mime-troupe-arrest",
+    "title": "\"Today we perform an arrest\"",
+    "theme": "arts-counterculture",
+    "year": 1965,
+    "yearEnd": 1966,
+    "place": {
+      "label": "Lafayette Park lawn, Pacific Heights",
+      "lat": 37.7912,
+      "lon": -122.4266,
+      "precision": "area"
+    },
+    "hook": "The park commission banned a bawdy Renaissance comedy. So the Mime Troupe's director put on his mask in Lafayette Park and invited the police to arrest him.",
+    "story": "In the summer of 1965 the San Francisco Mime Troupe was touring city parks with Il Candelaio, a ribald 16th-century comedy by Giordano Bruno, adapted by Peter Berg [1]. At a special meeting on August 4, the Recreation and Park Commission heard complaints about its language and gestures. General manager James Lang called it \"a vulgar travesty\", although he had not seen it, and the troupe's permit was revoked [1].\n\nOn August 7 about a thousand people, drawn by the publicity of the troupe's business manager Bill Graham, gathered in Lafayette Park [1][2]. Director R. G. Davis explained the ban, put on his mask and announced: \"today for your appreciation we perform an arrest.\" As he leaped into the air, Sergeant James Eagen grabbed him. Davis was released on $56 bail, and the show went on without him [1].\n\nHis trial began on October 27, and after four days a judge found him guilty [1]. Benefit concerts paid the legal bills. The second, organized by Graham at the Fillmore, drew more than 2,000 people to hear Big Brother and the Holding Company, the Grateful Dead, Quicksilver Messenger Service and Jefferson Airplane [1]. In July 1966 a Superior Court judge ruled that the commission could not censor the content of performances in the parks [1].",
+    "people": [
+      {
+        "name": "R. G. (Ron) Davis",
+        "role": "founder and director, San Francisco Mime Troupe"
+      },
+      {
+        "name": "Bill Graham",
+        "role": "the troupe's business manager, later a rock promoter"
+      },
+      {
+        "name": "James Lang",
+        "role": "general manager, Recreation and Park Department"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Mime Troupe Arrested",
+        "publisher": "FoundSF (essay by Jackie Barshak)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco_Mime_Troupe_Arrested",
+        "supports": "Permit fight, August 7, 1965 arrest, quotes, bail, trial, benefits, 1966 ruling"
+      },
+      {
+        "title": "San Francisco Mime Troupe",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Mime_Troupe",
+        "supports": "Bill Graham, Luis Valdez and others as troupe members"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-ellinwood-empty-house",
+    "title": "Fifty years with nobody home",
+    "theme": "architecture-landmarks",
+    "year": 1928,
+    "yearEnd": 1978,
+    "place": {
+      "label": "Ellinwood Residence, 2799 Pacific Avenue at Divisadero (Landmark No. 207)",
+      "lat": 37.792287,
+      "lon": -122.440937,
+      "precision": "building"
+    },
+    "hook": "A 14-fireplace mansion on the crest of Pacific Heights stood empty from 1928 to 1978. Its stained-glass dome and a gift tree from Queen Victoria came through intact.",
+    "story": "The Ellinwood house went up in 1893–94. It was one of the first homes built on the crest around Pacific and Divisadero, after a cable car line up Pacific Avenue made the hilltop reachable [2]. The architect, J. Eugene Freeman, also designed Oakland's Dunsmuir House, and he gave this one a similar abundance of balustrades, climbing right up to a widow's walk [2]. Inside are 106 windows, 14 fireplaces and an interior dome of about 8,000 pieces of stained glass [1].\n\nIts owner, Dr. Charles Ellinwood, was a Civil War surgeon, an early officer of the U.S. Public Health Service and a founder of the Marine Hospital in the Presidio [1]. Divisadero had once been the dividing line between the city and a much larger Presidio [1].\n\nThen, from 1928 to 1978, nobody lived in the house at all. The city's landmark resolution calls this \"a unique event\", and it explains why so much of the original decoration survived [1]. The Bloomfields wrote that for many years it came as close as any house in their book to being a haunted house [2]. The garden kept three trees more than a century old. One of them was a gift from Queen Victoria [1].",
+    "people": [
+      {
+        "name": "Dr. Charles Ellinwood",
+        "role": "Civil War surgeon, original owner (1834–1917)"
+      },
+      {
+        "name": "J. Eugene Freeman",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #207: Ellinwood Residence",
+        "publisher": "NoeHill (adapted from City Planning Commission Resolution 13584, 1993)",
+        "year": 1993,
+        "url": "https://noehill.com/sf/landmarks/sf207.asp",
+        "supports": "Architect, 106 windows, 14 fireplaces, 8,000-piece dome, vacancy 1928–1978, Queen Victoria tree, Ellinwood biography"
+      },
+      {
+        "title": "The Uninhabited House",
+        "publisher": "FoundSF (from Gables and Fables by Anne and Arthur Bloomfield, Heyday 2007)",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=The_Uninhabited_House",
+        "supports": "1893–94 date, cable car on Pacific, Freeman and Dunsmuir House, haunted-house reputation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-gibbs-stone-house",
+    "title": "A stone palazzo in a city of wood",
+    "theme": "architecture-landmarks",
+    "year": 1895,
+    "yearEnd": null,
+    "place": {
+      "label": "George W. Gibbs House, 2622 Jackson Street (Landmark No. 203)",
+      "lat": 37.792201,
+      "lon": -122.438839,
+      "precision": "building"
+    },
+    "hook": "The Examiner called it San Francisco's first classical house. Its owner died two months after moving in, and it later became Japan's consulate.",
+    "story": "George W. Gibbs was one of the leading iron and steel producers on the West Coast. For his house on Jackson Street, the young architect Willis Polk borrowed from the Italian Renaissance: its massing recalls a Tuscan villa, its details come from Raphael's Palazzo Pandolfini in Florence, and its round portico echoes the Temple of Vesta at Tivoli [1]. The Examiner called it \"the first classical residence in San Francisco\" [1][2]. It was one of the city's earliest houses built entirely of stone, in gray Oregon sandstone under a glazed tile roof. In a city built of wood, it stood for grandeur and permanence [1][2]. (Sources date it to 1894 or 1895.)\n\nGibbs died only two months after he moved in. His widow Augusta lived there until her death in 1918 [2]. The house then became the Japanese Consulate, until the outbreak of the Second World War. After that it was the local Red Cross headquarters, and from the late 1940s it belonged to the San Francisco Music and Arts Institute [2]. In 1994 it was University High School's Decorator Showcase house. A little-known caretaker's cottage by Polk still stands behind it, toward Pacific Avenue [2].",
+    "people": [
+      {
+        "name": "George W. Gibbs",
+        "role": "iron and steel producer"
+      },
+      {
+        "name": "Willis Polk",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #203: George W. Gibbs House",
+        "publisher": "NoeHill (adapted from Richard Longstreth, On the Edge of the World)",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf203.asp",
+        "supports": "Polk design sources, Examiner quote, early all-stone house"
+      },
+      {
+        "title": "Willis Polk",
+        "publisher": "FoundSF (essay by David Parry)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Willis_Polk",
+        "supports": "1894 date, sandstone and tile, Gibbs's death, Augusta, consulate, Red Cross, Music and Arts Institute, 1994 showcase, caretaker's cottage"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-tobin-house",
+    "title": "The lots de Young gave his daughters",
+    "theme": "architecture-landmarks",
+    "year": 1915,
+    "yearEnd": null,
+    "place": {
+      "label": "Tobin House, 1969 California Street between Gough and Octavia (Landmark No. 260)",
+      "lat": 37.78951,
+      "lon": -122.426648,
+      "precision": "building"
+    },
+    "hook": "The Chronicle's owner bought the lots next to his mansion and gave them to two daughters. For years they preferred the suburbs. Then Willis Polk built this.",
+    "story": "Michael H. de Young and his brother Charles founded the Daily Dramatic Chronicle, which became the Daily Morning Chronicle. By the 1870s the paper could make or break a politician [1]. De Young built the West Coast's first steel-frame skyscraper at Kearny and Market in 1889, led the 1894 Midwinter Fair, and built a family mansion on the crest of California Street in the Western Addition [1]. A history of the neighborhood around 1900 lists him among its residents, alongside mining and shipping magnates [2].\n\nIn 1911 he bought the two lots next to his estate, on the south side of California between Gough and Octavia. He gave the deeds to his daughters Helen, the wife of George Cameron, and Constance, the wife of Joseph O. Tobin, a Hibernia Bank executive. He offered to build them houses too. For years nothing happened, because both families preferred to live in towns south of the city [1].\n\nThe Tobin house finally went up in 1915, designed by Willis Polk in the medieval English manner he favored. Polk saw that restraint as a cure for what he considered the architectural chaos of San Francisco's 19th-century streets [1]. It is a city landmark and is listed on the National Register [1].",
+    "people": [
+      {
+        "name": "Michael H. de Young",
+        "role": "Chronicle publisher"
+      },
+      {
+        "name": "Constance de Young Tobin",
+        "role": "daughter"
+      },
+      {
+        "name": "Joseph O. Tobin",
+        "role": "Hibernia Bank executive"
+      },
+      {
+        "name": "Willis Polk",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #260: Tobin House",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf260.asp",
+        "supports": "De Young biography, 1911 lots and deeds, daughters, delay, Polk design, 1915, National Register"
+      },
+      {
+        "title": "Nob Hill and Pacific Heights at Turn of 20th Century",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Nob_Hill_and_Pacific_Heights_at_Turn_of_20th_Century",
+        "supports": "De Young among the magnates living in Pacific Heights"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-bourn-mansion",
+    "title": "A gold mine's fortune in brick and stone",
+    "theme": "gold-rush-victorian",
+    "year": 1896,
+    "yearEnd": null,
+    "place": {
+      "label": "Bourn Mansion, 2550 Webster Street between Pacific and Broadway (Landmark No. 38)",
+      "lat": 37.794124,
+      "lon": -122.432905,
+      "precision": "building"
+    },
+    "hook": "The man who owned the Empire Mine and the city's water company asked a young Willis Polk for a town house. Nothing like it was being built in San Francisco.",
+    "story": "William Bourn made his fortune from the Empire Mine near Grass Valley, and he headed the Spring Valley Water Company [1]. He hired the young architect Willis Polk to design a town house at 2550 Webster Street [1][2].\n\nPolk gave him something in what one historian calls the Carolingian style, a masterpiece of the bricklayer's and stonemason's crafts, with fine carving and fittings such as its bronze lantern. \"Nothing like it was being built in the city in 1897,\" James B. Alexander wrote [1]. Both sources date the house to 1896, though the landmark text also says Bourn commissioned it in 1897 [1][2].\n\nThe commission was the start of a long partnership. Polk went on to design the offices and main residence at the Empire Mine and much of Bourn's estate at Filoli in Woodside [1][2]. Decades later television audiences knew Filoli as the Carrington mansion in Dynasty [2]. After 1906 it was Bourn who arranged for the burned-out Flood mansion on Nob Hill to be rebuilt as the Pacific-Union Club [2]. A history of the neighborhood around 1900 lists Bourn among its magnates, alongside M. H. de Young and William Whittier, a partner in the West Coast's largest paint company [3].",
+    "people": [
+      {
+        "name": "William B. Bourn II",
+        "role": "Empire Mine owner, Spring Valley Water Company head"
+      },
+      {
+        "name": "Willis Polk",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #38: Bourn Mansion",
+        "publisher": "NoeHill (from James B. Alexander, San Francisco: Building the Dream City)",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf038.asp",
+        "supports": "Bourn's businesses, Polk commission, style, quote, Empire Mine and Filoli work"
+      },
+      {
+        "title": "Willis Polk",
+        "publisher": "FoundSF (essay by David Parry)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Willis_Polk",
+        "supports": "1896 date, Bourn as patron, Filoli and Dynasty, Pacific-Union Club remodel"
+      },
+      {
+        "title": "Nob Hill and Pacific Heights at Turn of 20th Century",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Nob_Hill_and_Pacific_Heights_at_Turn_of_20th_Century",
+        "supports": "Bourn among Pacific Heights residents"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-casebolt-house",
+    "title": "A blacksmith's manor on a country road",
+    "theme": "gold-rush-victorian",
+    "year": 1865,
+    "yearEnd": null,
+    "place": {
+      "label": "Casebolt House, 2727 Pierce Street between Vallejo and Green (Landmark No. 51)",
+      "lat": 37.795214,
+      "lon": -122.438955,
+      "precision": "building"
+    },
+    "hook": "When Henry Casebolt built this Italianate manor, Pierce Street was a dirt road running down to Washerwoman's Lagoon. He went on to rethink the city's streetcars.",
+    "story": "Henry Casebolt was a blacksmith from Virginia, born in 1816. He came to California in the early 1850s with his wife and eleven children. The landmark report says 1851 and an 1895 trade journal says 1852 [1][2]. In 1865 he built this Italianate manor house. Pierce Street was then a country road through Cow Hollow down to Washerwoman's Lagoon [1][2].\n\nCasebolt turned from blacksmithing to transit. He helped incorporate the Front Street, Mission Street & Ocean Railway Company, chartered in 1873, which was the forerunner of the Sutter Street Railway [2]. After the Clay Street cable line proved itself, he planned and engineered the conversion of the Sutter Street line to cable, and patented a number of devices along the way [2]. Not all his ideas caught on. His \"balloon car\" never became popular, and he and a partner, Montgomery Howe, went broke trying to finance an East Bay transit system, including an experimental car on a steep Piedmont hill [2].\n\nThe sources disagree here too: the landmark report has Casebolt selling the house in 1893, while the 1895 journal dates his death to September 23, 1892 [1][2]. It is still a private home [1].",
+    "people": [
+      {
+        "name": "Henry Casebolt",
+        "role": "blacksmith and street-railway inventor (1816–1892)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #51: Casebolt House",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf051.asp",
+        "supports": "1865 date, Pierce Street as country road, Virginia blacksmith with eleven children, 1851 arrival, 1893 sale"
+      },
+      {
+        "title": "Henry Casebolt, Transit Inventor",
+        "publisher": "FoundSF (quoting Street Railway Journal, May 1895)",
+        "year": 1895,
+        "url": "https://www.foundsf.org/index.php?title=Henry_Casebolt,_Transit_Inventor",
+        "supports": "Birth 1816, 1852 arrival, railway companies, cable conversion, patents, balloon car, Piedmont experiment, death date"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-fillmore-counterbalance",
+    "title": "Two streetcars on one cable",
+    "theme": "architecture-landmarks",
+    "year": 1895,
+    "yearEnd": 1941,
+    "place": {
+      "label": "Top of Fillmore Street hill at Broadway, upper end of the Fillmore Counterbalance",
+      "lat": 37.79428,
+      "lon": -122.43494,
+      "precision": "street"
+    },
+    "hook": "For 46 years, a streetcar going down Fillmore Street's cliff from Broadway pulled another one up. It was a funicular found nowhere else in San Francisco.",
+    "story": "North of Broadway, Fillmore Street drops so steeply toward Cow Hollow that the streetcars needed help. When the first electric line on Fillmore opened in the summer of 1895 (July by Muni's account, August 5 by another [1][3]), it ran from 16th and Folsom to the hilltop at Fillmore and Broadway [1]. To get over the edge, engineers combined streetcar and cable technology in a way used on no other line in hilly San Francisco [1].\n\nThe cars had no grips. Instead, a car hooked onto an underground cable that ran around a pulley. As a northbound car descended from Broadway, its weight pulled a southbound car up from Green Street [1]. In his memoir Marina Memories, Walter de Vecchi remembered the two blocks as \"two massive Kilamanjaros\" of dirt, grass and cobblestone. Carefully synchronized bell signals told both motormen exactly when to start, so the descending car could pull the other uphill [2]. The line was later extended north to Bay Street [1].\n\nIn 1941 shuttle buses replaced the counterbalance cars, and in 1948 the rest of the line was converted to trolley buses. The route is still the 22 Fillmore [1].",
+    "people": [
+      {
+        "name": "Walter de Vecchi",
+        "role": "Marina resident and memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The 22 Fillmore - SF's Forgotten Funicular",
+        "publisher": "SFMTA, History in Motion blog",
+        "year": 2016,
+        "url": "https://www.sfmta.com/blog/22-fillmore-sfs-forgotten-funicular",
+        "supports": "July 1895 opening and route, unique counterbalance, hook-and-pulley operation between Green and Broadway, 1941 end, 1948 trolley buses"
+      },
+      {
+        "title": "Fillmore Street Cars (from Walter de Vecchi, Marina Memories)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Fillmore_Street_Cars",
+        "supports": "Recollection of the hill, single cable and bell signals"
+      },
+      {
+        "title": "Fillmore Counterbalance",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Fillmore_Counterbalance",
+        "supports": "Overview and pointer to newspaper sources"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-cottage-row",
+    "title": "The lane once called \"Japan Street\"",
+    "theme": "communities",
+    "year": 1882,
+    "yearEnd": null,
+    "place": {
+      "label": "Cottage Row, off Bush Street between Webster and Fillmore (Bush Street–Cottage Row Historic District)",
+      "lat": 37.786554,
+      "lon": -122.4322,
+      "precision": "block"
+    },
+    "hook": "Built for working families and renters in the 1870s and 1880s, this lane of Italianate cottages survived the bulldozers of redevelopment. In the 1930s it was nicknamed \"Japan Street\".",
+    "story": "In September 1874 the Real Estate Associates, San Francisco's biggest home builder of the 1870s, bought the block west of what is now Cottage Row for $25,250. The company divided it into 23 lots, built houses on them and sold them in 1875 [1]. The firm aimed at working people, with easy credit and plenty of advertising [1]. Next door, the developer Col. Charles L. Taylor put up 2101–2107 Bush in 1874. In 1882 he added 2109–2111 Bush and the six two-story houses of 1–6 Cottage Row, which he rented out for about a dozen years [1].\n\nIn the 1930s the lane was nicknamed \"Japan Street\", because its houses were owned by Japanese immigrants and Japanese Americans. The small park on the row, once the site of a house, was created around 1942 [1].\n\nAfter the war the Redevelopment Agency bulldozed much of the Western Addition around it. From 1966 to 1976, though, the agency's residential rehabilitation chief, Enid Sales, saved more than 350 Victorians with low-cost loans and free architectural help. Cottage Row and 2101–2125 Bush are among the houses her program restored [2].",
+    "people": [
+      {
+        "name": "Charles L. Taylor",
+        "role": "developer of Cottage Row"
+      },
+      {
+        "name": "Enid Sales",
+        "role": "Redevelopment Agency rehabilitation chief, preservationist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bush Street–Cottage Row Historic District",
+        "publisher": "Wikipedia (incorporating National Park Service National Register material)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Bush_Street%E2%80%93Cottage_Row_Historic_District",
+        "supports": "TREA purchase and sales 1874–75, Taylor's houses 1874 and 1882, 'Japan Street', mini park c. 1942"
+      },
+      {
+        "title": "Enid Sales, Preservationist (by Dave Weinstein, San Francisco Chronicle, 2008)",
+        "publisher": "FoundSF",
+        "year": 2008,
+        "url": "https://www.foundsf.org/index.php?title=Enid_Sales,_Preservationist",
+        "supports": "Sales's 1966–76 program, 350 Victorians, Cottage Row and 2101–2125 Bush restorations"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-st-brigid-curbstones",
+    "title": "A church faced with the city's curbstones",
+    "theme": "communities",
+    "year": 1902,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Brigid Church, 2151 Van Ness Avenue at Broadway (Landmark No. 252)",
+      "lat": 37.79538,
+      "lon": -122.423866,
+      "precision": "building"
+    },
+    "hook": "The face of this Irish parish church on Van Ness is built from San Francisco curbstones. George Moscone received his sacraments here and stayed a parishioner all his life.",
+    "story": "Around 1870 an earlier St. Brigid's church stood on the hillside at Broadway and Van Ness, above the gardens of the E. Willard Burr estate [2]. The present church, finished in 1902, is Richardsonian Romanesque, designed by Shea & Shea with Henry A. Minton. Its façade uses an unusual material: San Francisco curbstones and crossing stones [1].\n\nSt. Brigid's survived the 1906 earthquake and reopened only seven months after the disaster to serve as a refuge [1]. It also came through the 1989 quake. Inside it collected treasures: a pipe organ built for the church by Italy's Fratelli Ruffatti, stained glass from the Harry Clarke Studios in Dublin, and statues by the Irish sculptor Seamus Murphy [1].\n\nThe city calls the church an anchor for the Marina, Pacific Heights and Russian Hill, and it has long mattered to San Francisco's Irish community. Mayor George Moscone received his sacraments here, went to St. Brigid School and remained a parishioner all his life [1]. In February 2005 the Board of Supervisors began designating it a city landmark. It became Landmark No. 252 [1].",
+    "people": [
+      {
+        "name": "George Moscone",
+        "role": "Mayor of San Francisco, lifelong parishioner"
+      },
+      {
+        "name": "Shea & Shea; Henry A. Minton",
+        "role": "architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #252: Saint Brigid Church",
+        "publisher": "NoeHill (quoting Board of Supervisors Resolution 110-05, 2005)",
+        "year": 2005,
+        "url": "https://noehill.com/sf/landmarks/sf252.asp",
+        "supports": "1902, architects, curbstone façade, 1906 reopening, 1989, organ, glass, statuary, Irish community, Moscone"
+      },
+      {
+        "title": "Van Ness and Broadway",
+        "publisher": "FoundSF / OpenSFHistory",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Van_Ness_and_Broadway",
+        "supports": "c. 1870 view of the old St. Brigid church on the hillside and the Burr estate"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-miss-burkes-school",
+    "title": "Julia Morgan's school for college-bound girls",
+    "theme": "communities",
+    "year": 1917,
+    "yearEnd": 1975,
+    "place": {
+      "label": "Former Miss Burke's School, 3065 Jackson Street (now San Francisco University High School)",
+      "lat": 37.790979,
+      "lon": -122.445415,
+      "precision": "building"
+    },
+    "hook": "Katherine Delmar Burke wanted girls prepared for college, not finishing school. Her friend Julia Morgan, the first woman admitted to architecture at the École des Beaux-Arts, built the classrooms.",
+    "story": "In 1908 Katherine Delmar Burke opened Miss Burke's School. Instead of the usual finishing school for girls, she wanted one that prepared them for college [1]. It started at Steiner and Pacific, then moved to a house at 2310 Broderick [1].\n\nAs it grew, Burke turned to her friend Julia Morgan [1]. Morgan had been the first woman ever admitted to the architecture section of the École des Beaux-Arts in Paris [3]. Her building at 3065 Jackson Street dates from 1917, and the school moved in by 1918 [1][2][3]. Among its students was the future abstract painter Nell Sinton [4].\n\nFrom 1929 Burke's began moving its younger grades to Sea Cliff. The high school stayed on Jackson Street until it closed in 1975. That year the building went to the new San Francisco University High School, which still uses Morgan's building as its \"Upper Campus\" [1][2].\n\nMorgan also had a home in the neighborhood. She bought 2231 Divisadero in 1923 and the house next door in 1929. She took the upper story off the second house to let light into the first [3].",
+    "people": [
+      {
+        "name": "Katherine Delmar Burke",
+        "role": "school founder"
+      },
+      {
+        "name": "Julia Morgan",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Katherine Delmar Burke School",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Katherine_Delmar_Burke_School",
+        "supports": "1908 founding and aim, early locations, Morgan building and 1918 move, Sea Cliff, 1975 sale to UHS"
+      },
+      {
+        "title": "San Francisco University High School",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_University_High_School",
+        "supports": "Morgan building of 1917, Upper Campus, 1975 opening"
+      },
+      {
+        "title": "Julia Morgan",
+        "publisher": "FoundSF (essay by David Parry)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Julia_Morgan",
+        "supports": "École des Beaux-Arts first, 3065 Jackson (1917), her Divisadero houses"
+      },
+      {
+        "title": "Nell Sinton",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Nell_Sinton",
+        "supports": "Sinton attended Miss Burke's School"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-nell-sinton-divisadero",
+    "title": "An abstract painter on capitalists' corner",
+    "theme": "arts-counterculture",
+    "year": 1947,
+    "yearEnd": null,
+    "place": {
+      "label": "2520 Divisadero Street (Tudor Revival house, 1933)",
+      "lat": 37.792833,
+      "lon": -122.44108,
+      "precision": "building"
+    },
+    "hook": "From a Tudor house on posh Divisadero, Nell Sinton painted cosy interiors. After she left, she became an Abstract Expressionist.",
+    "story": "Nell Walter was born in 1910 into one of San Francisco's pioneer Jewish families. Her father was president of the California School of Fine Arts, where she studied [2]. With her husband, Stanley Sinton Jr., she settled at 2520 Divisadero, one of a pair of Tudor Revival houses built in 1933, on what the architectural historians Anne and Arthur Bloomfield called \"this capitalists' corner of Pacific Heights\" [1].\n\nHer first solo show came in 1947, and in 1949 the Legion of Honor gave her a museum show [2]. These early works were what the Bloomfields call \"naïve and charming interiors and landscapes\" [1]. In 1954 the Sintons bought a house on Russian Hill [2]. Only after selling the Divisadero house in 1955 did she begin the work she is best known for: exuberant abstract paintings in the 1960s, then figurative work, mixed-media constructions and a satirical Garden Party series [1][2]. \"I find landscapes in human bodies and vice versa,\" she told an interviewer [1].\n\nAs head of SPUR, Stanley Sinton was at the center of the campaign for Proposition H, which in 1968 approved 2,000 units of low-cost public housing [1].",
+    "people": [
+      {
+        "name": "Nell Walter Sinton",
+        "role": "painter (1910–1997)"
+      },
+      {
+        "name": "Stanley Sinton Jr.",
+        "role": "SPUR leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "An Abstract Expressionist Lived Here",
+        "publisher": "FoundSF (from Gables and Fables by Anne and Arthur Bloomfield, Heyday 2007)",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=An_Abstract_Expressionist_Lived_Here",
+        "supports": "House and date, 'capitalists' corner', sale and later career phases, quote, Stanley Sinton and Proposition H"
+      },
+      {
+        "title": "Nell Sinton",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Nell_Sinton",
+        "supports": "Birth, family, father at CSFA, 1947 and 1949 shows, move to Russian Hill"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-talbot-dutton-house",
+    "title": "Lumber, fine groceries and a 1957 rescue",
+    "theme": "labor-industry",
+    "year": 1876,
+    "yearEnd": 1957,
+    "place": {
+      "label": "Talbot-Dutton House, 1782 Pacific Avenue (Landmark No. 57)",
+      "lat": 37.794741,
+      "lon": -122.42468,
+      "precision": "building"
+    },
+    "hook": "A lumberman's family built it, a fine-foods grocer enlarged it, and by the Second World War it was flats. Two men rescued it with the help of old family photographs.",
+    "story": "The Talbot-Dutton House looks like a two-story Italianate townhouse from Pacific Avenue. Because of the slope, though, it has three stories at the back. Its elaborate portico shelters an entry floored with marble mosaic [1]. It was built in 1876 [1].\n\nIts first family was in the lumber business. The landmark resolution says that William Chaloner Talbot sailed to California in 1850 aboard the schooner Oriental with a cargo of lumber. He formed Pope and Talbot with his brother-in-law Andrew J. Pope [1]. Another history of the firm names Andrew Jackson Pope and Frederic Talbot, both from East Machias, Maine, as its founders in 1849, and says their Port Gamble sawmill ran for 142 years [2]. Henry Dutton married Mary Talbot in 1869, and the couple lived here until they died [1].\n\nIn 1905 Jacob Goldberg, a founder of the fine-foods firm Goldberg-Bowen, bought the house and enlarged it. By the Second World War it had been cut up into apartments [1]. In 1957 Paul D. Hardman and A. Warren Kopp bought it. Using early photographs lent by the original family, they rebuilt the portico and found period mantels and light fixtures [1].",
+    "people": [
+      {
+        "name": "Henry and Mary Dutton",
+        "role": "early owners"
+      },
+      {
+        "name": "Jacob Goldberg",
+        "role": "co-founder of Goldberg-Bowen"
+      },
+      {
+        "name": "Paul D. Hardman and A. Warren Kopp",
+        "role": "1957 restorers"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #57: Talbot-Dutton House",
+        "publisher": "NoeHill (adapted from City Planning Commission Resolution 7022, 1973)",
+        "year": 1973,
+        "url": "https://noehill.com/sf/landmarks/sf057.asp",
+        "supports": "Architecture, 1876, Talbot and Pope, Duttons, Goldberg, wartime flats, 1957 restoration"
+      },
+      {
+        "title": "Pope & Talbot",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Pope_%26_Talbot",
+        "supports": "Company founders, 1849, East Machias, Port Gamble mill"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "pacific-heights-2p-fleishhacker-pacific",
+    "title": "The quiet Fleishhacker brother",
+    "theme": "labor-industry",
+    "year": 1903,
+    "yearEnd": null,
+    "place": {
+      "label": "Mortimer Fleishhacker Sr. house, 2418 Pacific Avenue",
+      "lat": 37.793503,
+      "lon": -122.435651,
+      "precision": "building"
+    },
+    "hook": "The son of a paper-box maker ran a power company that rivaled PG&E, then sat as a UC regent for thirty years, despite never finishing high school.",
+    "story": "Behind the dark Flemish-bond brick of 2418 Pacific lived Mortimer Fleishhacker Sr. He was the son of Aaron Fleishhacker, who ran a modest paper-box business, and he became his father's partner in 1892 [1][3]. With his younger brother Herbert, he is said to have built a business empire on a 1,000 percent profit from buying and reselling an Oregon paper mill that Herbert came across on his sales route [1].\n\nIn 1903 the brothers organized the American River Electric Company, an early hydroelectric venture. For a dozen years Mortimer was president of the Great Western Power Company, a serious rival to PG&E until it was bought out in 1930 [1]. Herbert, who lived at the St. Francis Hotel and gave his name to the Fleishhacker Zoo and Pool, went into banking, and the brothers worked together there for three decades [1][3]. Mortimer was the quieter one. His schooling ended in high school, yet he was a University of California regent for thirty years [1].\n\nHis son Mortimer Jr. grew up here. In 1936 he had William Wurster design a modern house down the street at 2600 Pacific, and from 1955 to 1970 he was president of KQED [2].",
+    "people": [
+      {
+        "name": "Mortimer Fleishhacker Sr.",
+        "role": "industrialist and banker"
+      },
+      {
+        "name": "Herbert Fleishhacker",
+        "role": "brother, banker"
+      },
+      {
+        "name": "Mortimer Fleishhacker Jr.",
+        "role": "son, KQED president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mortimer Fleishhacker Sr. Lived Here",
+        "publisher": "FoundSF (from Gables and Fables by Anne and Arthur Bloomfield, Heyday 2007)",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=Mortimer_Fleishhacker_Sr._Lived_Here",
+        "supports": "House, family business, paper mill profit, American River Electric, Great Western Power, Herbert, regent"
+      },
+      {
+        "title": "Mortimer Fleishhacker Jr. Lived Here",
+        "publisher": "FoundSF (from Gables and Fables)",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=Mortimer_Fleishhacker_Jr._Lived_Here",
+        "supports": "Jr. grew up at 2418, Wurster house 2600 Pacific (1936), KQED presidency"
+      },
+      {
+        "title": "Herbert Fleishhacker",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Herbert_Fleishhacker",
+        "supports": "Father Aaron, a paper entrepreneur; brother Mortimer Sr."
+      }
+    ],
+    "photo": null
+  }
+]

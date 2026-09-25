@@ -1,0 +1,765 @@
+[
+  {
+    "id": "potrero-hill-2p-powder-point",
+    "title": "Gunpowder banished to the windy point",
+    "theme": "gold-rush-victorian",
+    "year": 1854,
+    "yearEnd": 1881,
+    "place": {
+      "label": "Former powder works, south shore of Potrero Point (Maryland and 23rd streets)",
+      "lat": 37.7556,
+      "lon": -122.3818,
+      "precision": "area"
+    },
+    "hook": "Gold Rush San Francisco needed blasting powder but didn't want it anywhere near town. So it went to the far, rocky tip of the Potrero.",
+    "story": "On May 9, 1853, the city's aldermen banned storing gunpowder inside the city limits. The storeship Dryade, a floating powder magazine moored below Telegraph Hill, was towed \"two miles from town, where in the winter the wind blows heavily and renders it impossible to load the boat without wetting the powder\" [1]. That spot was the southeastern tip of Potrero Point.\n\nIndustry followed. In 1854 E.I. du Pont de Nemours built its first West Coast powder magazine on the point's south shore near Maryland and Humboldt streets, the ground later taken by the Potrero power plant. Within a year the Hazard Powder Company opened a second works on 23rd Street [2]. The black powder was used for hard-rock mining in the Sierra and for grading city streets [2]. Olmsted describes two-story brick storehouses with twelve-inch walls, holding the powder that \"eventually blasted away many of San Francisco's famous hills\" [1].\n\nThe powder makers stayed about 25 years. Then new houses on Irish Hill and Dutchman's Flat crept too close. By 1881 both companies had sold out to the sugar baron Claus Spreckels and moved to rural Contra Costa County [2].",
+    "people": [
+      {
+        "name": "E.I. du Pont de Nemours Company",
+        "role": "built the first West Coast powder magazine here"
+      },
+      {
+        "name": "Hazard Powder Company",
+        "role": "second powder works on 23rd Street"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Early Development Around Mission Bay, 1850-1857 (Nancy J. Olmsted, Vanished Waters)",
+        "publisher": "FoundSF / Mission Creek Conservancy",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Early_Development_Around_Mission_Bay,_1850-1857",
+        "supports": "1853 ordinance, Dryade quote, brick powder houses"
+      },
+      {
+        "title": "The Story of Dogpatch (Christopher VerPlanck)",
+        "publisher": "FoundSF",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+        "supports": "1854 du Pont magazine, Hazard works, uses of powder, 1881 sale to Spreckels"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-pacific-rolling-mills",
+    "title": "The mill that rolled the West's iron",
+    "theme": "labor-industry",
+    "year": 1868,
+    "yearEnd": 1911,
+    "place": {
+      "label": "Former Pacific Rolling Mills, north shore of Potrero Point near the foot of 20th Street",
+      "lat": 37.7615,
+      "lon": -122.386,
+      "precision": "area"
+    },
+    "hook": "Before Pier 70 built warships, a roaring mill here turned out the rails, beams and cable-car tracks of a growing West, worked by Irish and Scottish hands.",
+    "story": "Pacific Rolling Mills was organized on May 10, 1866, by William Alvord, John Bensley and D.O. Mills. They took a state grant of submerged land and about twenty acres on the north shore of Potrero Point, near the foot of what is now 20th Street [1]. The mill started up in July 1868. VerPlanck calls its first product rolled steel, the first on the West Coast. Olmsted says it rolled its first bar of iron [1][2].\n\nThe output was enormous. It made rails, I-beams for bridges and houses, ship shafts, chains, bolts and whole iron bridges, and it rolled the rails for San Francisco's streetcars and cable cars. By 1880 it ran day and night with 450 men, paying more than East Coast mills did. Irish immigrants \"headed for the big mills the moment they arrived in town,\" and Scottish iron moulders made up much of the crew [2]. Many lived on Irish Hill next door. One was James Dixon, who married Katherine in 1883 and went on to put up a building on 18th Street that still stands [3].\n\nIn the mid-1890s the plant became Risdon Iron & Locomotive Works, and it built gold dredges. Bethlehem Steel bought it in 1911 and folded it into the shipyard [1].",
+    "people": [
+      {
+        "name": "William Alvord",
+        "role": "co-founder and president"
+      },
+      {
+        "name": "D.O. Mills",
+        "role": "co-founder"
+      },
+      {
+        "name": "James Dixon",
+        "role": "mill worker from Irish Hill"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Story of Dogpatch (Christopher VerPlanck)",
+        "publisher": "FoundSF",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+        "supports": "1866 founding, site, 1868 start, Risdon and Bethlehem"
+      },
+      {
+        "title": "South Waterfront Industries of the 1860s (Nancy J. Olmsted)",
+        "publisher": "FoundSF / Mission Creek Conservancy",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=South_Waterfront_Industries_of_the_1860s",
+        "supports": "first bar of iron, products, 450 men, Irish and Scottish workers"
+      },
+      {
+        "title": "18th Street Then & Now",
+        "publisher": "The Potrero View",
+        "year": 2022,
+        "url": "https://www.potreroview.net/18th-street-then-now/",
+        "supports": "James Dixon of Irish Hill worked at Pacific Rolling Mills"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-spreckels-sugar",
+    "title": "A sugar king's refinery on the shore",
+    "theme": "labor-industry",
+    "year": 1881,
+    "yearEnd": 1951,
+    "place": {
+      "label": "Former California (later Western) Sugar Refinery, east end of 23rd Street",
+      "lat": 37.7555,
+      "lon": -122.3835,
+      "precision": "area"
+    },
+    "hook": "For seventy years, raw sugar went in at the end of 23rd Street and refined sugar came out, and a tenth of Dogpatch lived off the work.",
+    "story": "In 1881 the sugar baron Claus Spreckels bought a five-block site on the south shore of Potrero Point, east of Louisiana Street; both powder companies had sold him their plants [1]. There he built the California Sugar Refinery. Its big brick melt, wash and char houses were designed that year by a New York architect named Hepworth [1]. Station A, a power station at the east end of 23rd Street built between 1902 and 1905, fed the industries around it. The Potrero View says Spreckels built it for his factory; by 1905 it was part of the mergers that formed Pacific Gas and Electric [2].\n\nThe American Sugar Refining Company bought the plant in 1891 and renamed it the Western Sugar Refinery. It employed about 1,000 men. It stayed one of Dogpatch's top five employers into the early 1950s and gave work to 10 to 15 percent of the neighbourhood's residents [1]. A 1919 photograph shows sugar workers behind the factory on 23rd Street [3].\n\nThe end came quickly. California & Hawaiian Sugar bought the refinery in 1949, judged it too old to modernise, and in 1951 demolished the buildings and sold the machinery for scrap [1]. Station A is the last of the power station's brick buildings, saved largely through the efforts of the Potrero Hill Archives Project [2].",
+    "people": [
+      {
+        "name": "Claus Spreckels",
+        "role": "sugar baron who founded the refinery"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Story of Dogpatch (Christopher VerPlanck)",
+        "publisher": "FoundSF",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+        "supports": "1881 purchase, buildings, 1891 sale, 1,000 workers, 1951 demolition"
+      },
+      {
+        "title": "Historic Buildings and Their Stories",
+        "publisher": "The Potrero View",
+        "year": 2024,
+        "url": "https://www.potreroview.net/historic-buildings-and-their-stories/",
+        "supports": "Station A built for Spreckels' factory, PG&E merger, preservation"
+      },
+      {
+        "title": "Spreckels Sugar Factory on Potrero Shore",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Spreckels_Sugar_Factory_on_Potrero_Shore",
+        "supports": "1919 photo of sugar workers on 23rd Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-pelton-cottages",
+    "title": "Free house plans in the Saturday paper",
+    "theme": "architecture-landmarks",
+    "year": 1887,
+    "yearEnd": null,
+    "place": {
+      "label": "Pelton Cottages, 1002–1014 Tennessee Street (backing onto 903–915 Minnesota)",
+      "lat": 37.75912,
+      "lon": -122.38967,
+      "precision": "building"
+    },
+    "hook": "An architect printed free cottage plans in a working man's newspaper. Thirteen of the little houses still stand in two back-to-back rows in Dogpatch.",
+    "story": "Between 1880 and 1883 the \"well-known\" young architect John Cotter Pelton Jr. published a series called \"Cheap Dwellings\" in the San Francisco Evening Bulletin, a paper read by laborers and immigrants. It printed floor plans, materials lists and cost estimates for cottages a worker could build on a 20-foot lot. The four-room version came to $854.25 [1]. The Bulletin said every Saturday edition carrying a plan sold out [2]. Architectural historian Christopher VerPlanck calls it the first and only known case of a California architect publishing free workers' house plans in a daily paper [1].\n\nIn 1887 the contractor Rees Davis used the four-room design to build two rows back to back, on Tennessee and Minnesota streets near 22nd [1]. Thirteen survive, the largest group of Pelton cottages left, though VerPlanck counted sixteen Pelton-based houses in Dogpatch. They were part of the case for its 2002 historic-district status [1][2][3].\n\nThe houses are full of small histories. In 1897 Mr. and Mrs. Peter Hamilton held their tin wedding party at 1010 Tennessee with a piper, Daniel Beaton, among the guests. In 1932 a later owner, Bartolomeo Lazzareschi, was the surprise witness who sealed a murder case [1].",
+    "people": [
+      {
+        "name": "John Cotter Pelton Jr.",
+        "role": "architect of the Cheap Dwellings plans"
+      },
+      {
+        "name": "Rees Davis",
+        "role": "contractor who built the row"
+      },
+      {
+        "name": "Bartolomeo Lazzareschi",
+        "role": "owner of 1010 Tennessee, 1924 to early 1950s"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pelton Cottages: Evidence of Lived History in Dogpatch",
+        "publisher": "The Potrero View",
+        "year": 2022,
+        "url": "https://www.potreroview.net/pelton-cottages-evidence-of-lived-history-in-dogpatch/",
+        "supports": "plans, costs, Rees Davis 1887, addresses, residents"
+      },
+      {
+        "title": "Pelton's Cheap Dwellings (Christopher VerPlanck)",
+        "publisher": "FoundSF",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=Pelton%27s_Cheap_Dwellings",
+        "supports": "Evening Bulletin series, editions sold out"
+      },
+      {
+        "title": "San Francisco Historic District: Dogpatch",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2016,
+        "url": "https://noehill.com/sf/landmarks/sf_dogpatch.aspx",
+        "supports": "thirteen identical Pelton cottages in the district"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-dixon-water",
+    "title": "A rare tap after the earthquake",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Dixon building, 1400 18th Street at Missouri (now Christopher's Books)",
+      "lat": 37.76266,
+      "lon": -122.39685,
+      "precision": "building"
+    },
+    "hook": "After the 1906 earthquake, police had to hold back the crowd at one backyard gate on 18th Street, because the Dixons had running water.",
+    "story": "In the 1890s residents asked City Hall for a reservoir, a two-cow limit and a grander name, \"Southern Heights.\" According to the Potrero Hill Archives Project, it took 30 years for water service to reach the neighbourhood [1]. The hill had wells and springs; one 1890 well near Connecticut and 20th was 300 feet deep. Thorburn Adams recalled that the spring and well beside his family's house at 18th and Pennsylvania supplied many 1906 refugees [2].\n\nKatherine Dixon had married James Dixon, an Irish Hill man who worked at Pacific Rolling Mills, in 1883. The couple bought several properties. A 1902 application for water service at their lot at 1400 18th Street noted \"No horse here now.\" In 1905 they put up the three-story building that stands on the corner today [1].\n\nIt was one of the few houses on the hill with piped water. After the earthquake and fire of April 1906, so many people gathered at the Dixons' backyard gate for water that police were called to control the crowd [1]. From 1919 to 1928 the ground floor was a branch of Wulzen's Pharmacy. Christopher's Books opened there in 1991 [1].",
+    "people": [
+      {
+        "name": "Katherine Dixon",
+        "role": "property owner"
+      },
+      {
+        "name": "James Dixon",
+        "role": "Pacific Rolling Mills worker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "18th Street Then & Now (Peter Linenthal)",
+        "publisher": "The Potrero View",
+        "year": 2022,
+        "url": "https://www.potreroview.net/18th-street-then-now/",
+        "supports": "Dixons, water application, 1905 building, 1906 crowd, later tenants"
+      },
+      {
+        "title": "Reshaping Potrero Hill",
+        "publisher": "FoundSF (Potrero Hill Archives Project papers)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Reshaping_Potrero_Hill",
+        "supports": "wells and springs supplying 1906 refugees"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-golden-pills-hospital",
+    "title": "Patent pills, then a shipyard hospital",
+    "theme": "labor-industry",
+    "year": 1907,
+    "yearEnd": 1948,
+    "place": {
+      "label": "Richards House, 301 Pennsylvania Avenue at 18th Street (and 331 Pennsylvania next door)",
+      "lat": 37.76255,
+      "lon": -122.39326,
+      "precision": "building"
+    },
+    "hook": "A house built by a patent-pill seller became the shipyard's hospital, and the infirmary built next door later became Kaiser Permanente's first full hospital in the city.",
+    "story": "The Italianate house at 301 Pennsylvania Avenue, on the corner of 18th Street, went up around 1865. Whaling captain Charles Adams had sold the corner to the Richards family on condition that they build a house there soon [1][2]. Clayton French Richards, a Quaker-raised pharmacist from New Jersey, owned two drugstores and sold patent medicines. One was Dr. Le Richau's Golden Pills, promised to cure \"seminal weakness\" and \"all diseases arising from masturbation.\" Buyers were told to avoid \"lascivious thoughts\" and to sleep on their right side [2].\n\nThe shipyard below gave the house its second life. In 1907 the family leased it to Union Iron Works for $125 a month as a hospital for the yard. In 1916 the company built a larger Renaissance Revival infirmary next door at 331 Pennsylvania. Bethlehem Shipbuilding later owned it, and in 1948 it became Kaiser Permanente's first full-service hospital in San Francisco [2]. When Cheryl and Clark Kaplan wrote up the hill's history in 1964, an ambulance service occupied the old Richards home [1]. In 2020 the former infirmary was converted into seven apartments with bay views [2].",
+    "people": [
+      {
+        "name": "Clayton French Richards",
+        "role": "pharmacist and patent-medicine maker"
+      },
+      {
+        "name": "Charles Adams",
+        "role": "whaling captain who sold the lot"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Adams House: 300 Pennsylvania (Cheryl and Clark Kaplan, 1964)",
+        "publisher": "FoundSF",
+        "year": 1964,
+        "url": "https://www.foundsf.org/index.php?title=The_Adams_House:_300_Pennsylvania",
+        "supports": "sale to Richards family, house finished c. 1865, ambulance service"
+      },
+      {
+        "title": "Historic Buildings and Their Stories",
+        "publisher": "The Potrero View",
+        "year": 2024,
+        "url": "https://www.potreroview.net/historic-buildings-and-their-stories/",
+        "supports": "Richards, Golden Pills, 1907 lease, 1916 infirmary, Kaiser 1948, 2020 conversion"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-new-potrero-theater",
+    "title": "Dish Night at 'The Flea Bag'",
+    "theme": "arts-counterculture",
+    "year": 1913,
+    "yearEnd": 1963,
+    "place": {
+      "label": "Former Alta / New Potrero Theater, 312 Connecticut Street",
+      "lat": 37.76225,
+      "lon": -122.39778,
+      "precision": "building"
+    },
+    "hook": "The hilltop picture house showed The Perils of Pauline, gave free china to the ladies, and later housed the Grateful Dead at work on an album.",
+    "story": "The brick building with black columns at 312 Connecticut Street, just up from 18th Street, opened in 1913 as the Alta Theater. It showed silent films, among them the 1914 serial The Perils of Pauline. When it converted to sound in 1929 it was renamed the New Potrero Theater, and it served as the neighbourhood's movie house until 1963 [1].\n\nLocals had their own names for it, first \"The Nick\" and later \"The Flea Bag.\" They also remembered Dish Night, when china was handed out \"Free to the Ladies.\" In 1937 a film of St. Teresa's Church's saint's-day procession was made to be shown only at this theater [1][2].\n\nIn 1968 the Grateful Dead used it while working on their album Anthem of the Sun [1], which Warner Bros. released that July [3]. In 1973 it appeared in an episode of The Streets of San Francisco. In 1993 the San Francisco Gurdjieff Society bought it for $280,000 [1]. The ticket booth, marquee and sloping floor are long gone [1].",
+    "people": [
+      {
+        "name": "Grateful Dead",
+        "role": "used the theater in 1968"
+      },
+      {
+        "name": "Peter Linenthal",
+        "role": "Potrero Hill Archives Project historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "New Potrero Theater (Peter Linenthal)",
+        "publisher": "FoundSF",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=New_Potrero_Theater",
+        "supports": "1913 Alta, 1929 rename, nicknames, Dish Night, Grateful Dead, Gurdjieff Society"
+      },
+      {
+        "title": "An Unusual Past and Uncertain Future",
+        "publisher": "The Potrero View",
+        "year": 2023,
+        "url": "https://www.potreroview.net/an-unusual-past-and-uncertain-future/",
+        "supports": "original article: theater history and 1937 film"
+      },
+      {
+        "title": "Anthem of the Sun",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Anthem_of_the_Sun",
+        "supports": "album released July 18, 1968"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-american-can",
+    "title": "A tin-can factory on a ballfield",
+    "theme": "labor-industry",
+    "year": 1916,
+    "yearEnd": 1969,
+    "place": {
+      "label": "Former American Can Company, now American Industrial Center, 2325 Third Street",
+      "lat": 37.76005,
+      "lon": -122.38817,
+      "precision": "building"
+    },
+    "hook": "The last giant factory to reach Potrero Point was blasted out of serpentine on an old baseball field. Today some call it a horizontal skyscraper.",
+    "story": "By 1910 Potrero Point had almost no big industrial lots left. In early 1915 the American Can Company, the largest maker of tin cans in the United States, paid $172,000 for two square blocks bounded by Kentucky (now Third), 20th, Illinois and 22nd streets. The land had belonged to the Crocker Estate and was last used as a baseball field. The company blasted away the serpentine rock and put up an enormous concrete-frame plant, finished in June 1916 [1].\n\nVerPlanck puts the workforce at 1,200. The Potrero View gives a peak of \"upwards of 800\" [1][2]. The plant made cans and also canned fruit, and it hired many women, who were reputedly better at the work. After the Second World War it was the largest employer in Dogpatch [1]. It closed in 1969 [2].\n\nIn 1975 Angelo Markoulis, who had come to America from Crete as a young man, bought the mostly empty complex. He divided it into about 40 workshops and warehouses. The tenants shifted with the times: almost 60 photographers in the 1980s, garment firms in the 1990s, and later a chocolatier and a butcher. One longtime tenant says the family turned down a chance to sell the whole complex to Google rather than displace its 200-plus businesses [2].",
+    "people": [
+      {
+        "name": "Angelo Markoulis",
+        "role": "bought the complex in 1975"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Story of Dogpatch (Christopher VerPlanck)",
+        "publisher": "FoundSF",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+        "supports": "1915 purchase, ballfield, 1916 completion, 1,200 workers, women workers"
+      },
+      {
+        "title": "American Industrial Center Celebrates Half-Century Hosting Small Businesses",
+        "publisher": "The Potrero View",
+        "year": 2025,
+        "url": "https://www.potreroview.net/american-industrial-center-celebrates-half-century-hosting-small-businesses/",
+        "supports": "1915–1969 operation, 800 workers, Markoulis purchase 1975, tenants"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-olympia-building",
+    "title": "A boarding house named for Dewey's flagship",
+    "theme": "labor-industry",
+    "year": 1916,
+    "yearEnd": 2024,
+    "place": {
+      "label": "Olympia Building, corner of 20th and Illinois streets",
+      "lat": 37.7603,
+      "lon": -122.3871,
+      "precision": "block"
+    },
+    "hook": "Shipyard workers slept above a saloon named for a cruiser built across the street. Decades later, in the same spot, a nameless district was branded 'Dogpatch'.",
+    "story": "In 1916 John and Barbara Syme, immigrants from Scotland and Ireland, opened a three-story boarding house at the corner of 20th and Illinois streets for waterfront workers. They named it after the USS Olympia, Commodore George Dewey's flagship at Manila Bay in 1898, which had been built at Union Iron Works across the street [1][2]. It had a restaurant and saloon downstairs and rooms upstairs, and it filled with workers during both world wars [1].\n\nAfter a fire gutted the upper floor, the Symes tore the wooden building down in 1971 and put up a plain cinderblock one in 1972. In 1992 the designer John Borg took the lease on a handshake with Bill Syme [1].\n\nIn the 1990s the area had no agreed name. Activists settled on \"Dogpatch,\" a rarely used local name that old-timers said began as a 1940s insult, and Borg's ground-floor studio did the branding for free. Borg helped found the Dogpatch Neighborhood Association in 1998, and its first planning meetings were held in the Olympia. The original concept for Crane Cove Park was drawn up there, and volunteers gathered the history that helped win historic-district status [1]. In 2024 basketball star Steph Curry bought the building for $8.5 million, with plans to replace it [1].",
+    "people": [
+      {
+        "name": "John and Barbara Syme",
+        "role": "built the 1916 boarding house"
+      },
+      {
+        "name": "John Borg",
+        "role": "leaseholder 1992–2022, first DNA president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Curry Scores Building Linked to Dogpatch History (John Borg)",
+        "publisher": "The Potrero View",
+        "year": 2024,
+        "url": "https://www.potreroview.net/curry-scores-building-linked-to-dogpatch-history/",
+        "supports": "Syme boarding house, name, 1971–72 rebuild, DNA, Curry purchase"
+      },
+      {
+        "title": "Union Iron Works",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Union_Iron_Works",
+        "supports": "Dewey's flagship Olympia built at Union Iron Works"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-slovenian-hall",
+    "title": "Carniolan Hill's hall of song",
+    "theme": "communities",
+    "year": 1924,
+    "yearEnd": null,
+    "place": {
+      "label": "Slovenian Hall (Slovenian Progressive Home), 2101 Mariposa Street",
+      "lat": 37.76325,
+      "lon": -122.40455,
+      "precision": "building"
+    },
+    "hook": "Drivers on the 101 see the big black letters. Behind them is a former PG&E substation that Slovene immigrants bought with shares and rebuilt by hand.",
+    "story": "A few Slavs settled on the west slope of Potrero Hill, around Vermont, Kansas and Rhode Island streets, before 1906. The real influx came after the earthquake and fire [1][2]. Their church on Fell Street had been destroyed, so the community gathered on the hill, which they nicknamed \"Carniolan Hill\" after the historic region of Carniola in Slovenia [2].\n\nIn 1924 they bought a Pacific Gas and Electric substation for $10,000. They raised the money by selling shares and did the extensive remodelling themselves [2]. The Slovenian Progressive Home, Slovenski Napredni Dom, was formally established in 1927 [3]. It became a dance hall, library, card room, theater and dining room, known for its Lenten dinners with homemade blood sausage [2].\n\nMusic mattered most. In 1964, researchers Cheryl and Clark Kaplan wrote that the Southern Slavs \"have always considered music an essential medium of diversion and a means of refinement of the human soul,\" and that the hall was \"alive with songs and folk music\" [1]. It still hosts language classes and a grape-harvest festival, and it is preparing for its centennial in 2027 [3].",
+    "people": [
+      {
+        "name": "Slovenian Progressive Home",
+        "role": "community organization, founded 1927"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Immigrants (Cheryl and Clark Kaplan, 1964)",
+        "publisher": "FoundSF",
+        "year": 1964,
+        "url": "https://www.foundsf.org/index.php?title=The_Immigrants",
+        "supports": "Slovene settlement on west slope, post-1906 arrivals, music quote"
+      },
+      {
+        "title": "Historic Buildings and Their Stories",
+        "publisher": "The Potrero View",
+        "year": 2024,
+        "url": "https://www.potreroview.net/historic-buildings-and-their-stories/",
+        "supports": "Carniolan Hill, Fell Street church, 1924 purchase for $10,000, uses"
+      },
+      {
+        "title": "Slovenian Hall",
+        "publisher": "Slovenian Progressive Home",
+        "year": 2026,
+        "url": "https://www.slovenianhall.org/",
+        "supports": "established 1927, address, current events, 2027 centennial"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-ruth-cravath",
+    "title": "A stone carver's bungalow on Wisconsin",
+    "theme": "arts-counterculture",
+    "year": 1958,
+    "yearEnd": 1986,
+    "place": {
+      "label": "Kerrigan House, 893 Wisconsin Street (City Landmark No. 148)",
+      "lat": 37.7562,
+      "lon": -122.39852,
+      "precision": "building"
+    },
+    "hook": "A policeman built the Craftsman bungalow in 1905. For nearly three decades it was the studio of the sculptor behind Candlestick Park's 27-foot St. Francis.",
+    "story": "Police officer Frank W. Kerrigan built the house at 893 Wisconsin Street, between 22nd and Madera streets, in 1905. It is a Bay Area Craftsman bungalow on a lushly planted double lot, and the city later made it Landmark No. 148 [1].\n\nIts best-known resident was the sculptor Ruth Cravath, who lived and worked there from 1958 [1][2]. Born in Chicago in 1902, she studied at the California School of Fine Arts under Beniamino Bufano and Ralph Stackpole, and learned from Stackpole to carve directly into stone. She taught at that school from 1926 and later at Mills College [2]. She made three statues for the 1940 Golden Gate International Exposition. Her best-known Bay Area work was a 27-foot cast-concrete St. Francis that stood at the entrance to Candlestick Park from 1973 until 2015 [2].\n\nIn the 1960s one of her neighbours on the hill was the painter Jean Halpert-Ryden [2]. Sources disagree on her last years: the landmark listing says she lived here until her death in 1985, while Wikipedia records her death in 1986 in Poulsbo, Washington [1][2].",
+    "people": [
+      {
+        "name": "Ruth Cravath",
+        "role": "sculptor, resident from 1958"
+      },
+      {
+        "name": "Frank W. Kerrigan",
+        "role": "police officer who built the house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #148: Kerrigan House",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf148.asp",
+        "supports": "1905 construction by Frank Kerrigan, Craftsman bungalow, Cravath residence"
+      },
+      {
+        "title": "Ruth Cravath",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Ruth_Cravath",
+        "supports": "biography, training, St. Francis statue, neighbour Halpert-Ryden, 1966 open studios, death 1986"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-halpert-ryden",
+    "title": "The painter the art histories forgot",
+    "theme": "arts-counterculture",
+    "year": 1959,
+    "yearEnd": 1985,
+    "place": {
+      "label": "Jean Halpert-Ryden studio, 778 Kansas Street",
+      "lat": 37.75993,
+      "lon": -122.40332,
+      "precision": "building"
+    },
+    "hook": "She had a Legion of Honor solo show, was compared to Max Beckmann and turned up in an FBI file. Decades later her paintings turned up at an estate sale.",
+    "story": "Jean Halpert-Ryden, born in Brooklyn in 1919, came to San Francisco in the late 1940s with her husband, the printmaker and sculptor Edward Ryden. In 1958 they bought a cottage at 778 Kansas Street, which Ed rebuilt as a three-story modern home and studio [1].\n\nHer career rose fast. In 1959 the California Palace of the Legion of Honor gave her a 35-work solo show. The first issue of Artforum reviewed her in 1962, and the critic Thomas Albright later compared her to Max Beckmann. At the Kansas Street studio she worked on a Holocaust memorial series that she had begun in 1943 and finished in 1976. In 1963 the FBI logged a talk she gave, \"A Place for the Artist in a World of Crisis?\", in a file on the peace movement [1]. In the 1960s the sculptor Ruth Cravath lived nearby [2].\n\nIn 1985 the Rydens moved to Israel. She died in Santa Rosa in 2011, leaving no archive. In 2022 dozens of her works turned up at a Sebastopol estate sale, and two triptychs were split between buyers. The collector who bought forty of them is now piecing her career back together [1].",
+    "people": [
+      {
+        "name": "Jean Halpert-Ryden",
+        "role": "painter"
+      },
+      {
+        "name": "Edward Ryden",
+        "role": "printmaker and sculptor, her husband"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Painter on Kansas Street (Dana Pearlman)",
+        "publisher": "The Potrero View",
+        "year": 2026,
+        "url": "https://www.potreroview.net/the-painter-on-kansas-street/",
+        "supports": "biography, Kansas Street studio, exhibitions, FBI file, rediscovery"
+      },
+      {
+        "title": "Ruth Cravath",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Ruth_Cravath",
+        "supports": "Cravath lived near Halpert-Ryden in the 1960s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-vermont-street",
+    "title": "The other crookedest street",
+    "theme": "parks-nature",
+    "year": 1962,
+    "yearEnd": null,
+    "place": {
+      "label": "Vermont Street curves between 20th and 22nd streets, below McKinley Square",
+      "lat": 37.758,
+      "lon": -122.4035,
+      "precision": "street"
+    },
+    "hook": "Lombard gets the tourists, but Vermont Street's fans say its curves are tighter. In 1962 its neighbours spent three weekends trying to make it famous.",
+    "story": "In the 1910s Vermont Street was a straight, unpaved road down the west slope of Potrero Hill below McKinley Square [1]. City and archive photographs of it survive from 1927 and 1930 [2]. Its serpentine switchbacks were built in the 1930s as a Works Progress Administration project [1].\n\nThe rivalry with Lombard Street goes back at least to 1962. That year Joseph Sheridan of the News Call Bulletin reported that about 40 hill residents wanted Vermont to be as famous as its cousin. They spent three weekends in a row installing sprinklers and planting 200 or more trees and shrubs, including junipers, pines, veronica and escallonia. Some were still growing in 2016 [1].\n\nThe numbers are argued over to this day. Vermont has five curves to Lombard's eight, and a 14.3 percent grade to Lombard's 18.18 percent. Its fans point to the tightness of the turns [1]. In 1977 the city made the block one-way southbound [1]. Houses line only its east side; the west side looks out over Highway 101 and San Francisco General Hospital [1]. Since 2008 it has hosted the Bring Your Own Big Wheel race, which founder Jon Brumit moved here after Lombard's residents complained [1].",
+    "people": [
+      {
+        "name": "Joseph Sheridan",
+        "role": "News Call Bulletin reporter, 1962"
+      },
+      {
+        "name": "Jon Brumit",
+        "role": "founder of Bring Your Own Big Wheel"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Most, or Second-Most, Crooked Street",
+        "publisher": "The Potrero View",
+        "year": 2016,
+        "url": "https://www.potreroview.net/san-franciscos-most-or-second-most-crooked-street/",
+        "supports": "WPA construction, 1962 planting, curve and grade figures, 1977 one-way, Big Wheel race"
+      },
+      {
+        "title": "Vermont Street--San Francisco's Real Curviest Street!",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Vermont_Street--San_Francisco%27s_Real_Curviest_Street!",
+        "supports": "1927 and 1930 photographs of Vermont Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-goat-hoofprints",
+    "title": "Hoofprints in the sidewalk, a goat named Hilda",
+    "theme": "communities",
+    "year": 1975,
+    "yearEnd": null,
+    "place": {
+      "label": "Goat Hill Pizza, 300 Connecticut Street at 18th",
+      "lat": 37.7624,
+      "lon": -122.39765,
+      "precision": "building"
+    },
+    "hook": "Sometime around 1920, goats stepped through wet cement on Carolina Street. Their hoofprints now sit outside a pizzeria that kept goats of its own.",
+    "story": "The Potrero View tells two versions of how the prints got there. In one, some of the hill's last goats escaped their pasture around 1920 while sidewalk cement was being poured on Carolina Street [1]. In the other, a neighbour told Rosemarie Ostler the prints came from her own pet goat, which roamed the area in the 1920s [2]. In the 1990s Ostler spotted three sets by steps being rebuilt at Carolina and 19th streets, and the developer gave her one [2].\n\nIn 1975 five friends opened Goat Hill Pizza at 18th and Connecticut, named for the Italian-Americans said to have raised goats on the hill, and bought a goat from a Sonoma farm. A 1979 naming contest, won by a 10-year-old girl, made her Goat Hilda de Anchovy [2]. Hilda and her kids, Loretta and Bucky, grazed the rocky lot behind the restaurant, and Herb Caen's column made them famous citywide [1]. In 1985 the lot became a dining room and the goats went to Sonoma State Hospital as therapy animals [2].\n\nOstler gave her prints to the restaurant in 2011, and they were set into its sidewalk. In August 2019 a city crew began jackhammering it up. Head chef Manuel Dzib ran out and persuaded them to cut the prints out and set them back in [2].",
+    "people": [
+      {
+        "name": "Philip DeAndrade",
+        "role": "Goat Hill Pizza co-founder"
+      },
+      {
+        "name": "Rosemarie Ostler",
+        "role": "resident who saved the hoofprints"
+      },
+      {
+        "name": "Manuel Dzib",
+        "role": "head chef who rescued them in 2019"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Goat Hill Pizza Turns 50, the Pizza Remains Fresh",
+        "publisher": "The Potrero View",
+        "year": 2025,
+        "url": "https://www.potreroview.net/goat-hill-pizza-turns-50-the-pizza-remains-fresh/",
+        "supports": "c. 1920 hoofprints, founders, Herb Caen, 2011 gift"
+      },
+      {
+        "title": "Goat Hill's Goat Hoofprints Saved",
+        "publisher": "The Potrero View",
+        "year": 2019,
+        "url": "https://www.potreroview.net/goat-hills-goat-hoofprints-saved/",
+        "supports": "naming, Hilda contest, Sonoma, Ostler, Dzib rescue"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-bottom-of-the-hill",
+    "title": "Oasis and the White Stripes, cash only",
+    "theme": "arts-counterculture",
+    "year": 1991,
+    "yearEnd": null,
+    "place": {
+      "label": "Bottom of the Hill, 1233 17th Street at Missouri",
+      "lat": 37.76492,
+      "lon": -122.39641,
+      "precision": "building"
+    },
+    "hook": "An Italian banquet room for warehouse workers became the tiny, all-ages club where Oasis, the White Stripes and Arcade Fire played before they were famous.",
+    "story": "The two-story Edwardian at 17th and Missouri streets was built in 1911, when the flats below Potrero Hill were home to Italian and working-class families employed at the shipyards and warehouses. It began as a saloon and eatery, the 17th Street Restaurant [2], and has been a restaurant, bar, soda fountain or speakeasy almost continuously since. For decades warehouse workers and merchant mariners ate lunch there. The Potrero View says it took the name Bottom of the Hill in 1964, advertising a \"banquet room for all occasions, specializing in Italian foods\" [1]; Wikipedia says the name came with its 1991 reopening [2].\n\nAccounts of the buyer differ too: the View names realtor and punk fan Ana Lisa Belli in 1989, Wikipedia names Dave Benetti around 1990 [1][2]. On September 6, 1991, it held its first rock show, headlined by the Bird Killers. Booker Ramona Downey had a knack for new talent, and the club introduced fans to Oasis, Alanis Morissette, Pavement, Modest Mouse, the White Stripes, Arcade Fire and Death Cab for Cutie [1]. Once more than 700 people squeezed into a room licensed for 246, and for years fans slipped in free through an unlocked back door [1].\n\nThe owners' secret to surviving rising rents was simple: they own the building [1].",
+    "people": [
+      {
+        "name": "Ramona Downey",
+        "role": "co-owner and longtime booker"
+      },
+      {
+        "name": "Kathleen Owen",
+        "role": "co-owner, started as bartender"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bottom of the Hill Celebrates 25th Anniversary",
+        "publisher": "The Potrero View",
+        "year": 2016,
+        "url": "https://www.potreroview.net/bottom-of-the-hill-celebrates-25th-anniversary/",
+        "supports": "1911 building, 1964 name, first show 1991, bands, capacity, ownership"
+      },
+      {
+        "title": "Bottom of the Hill",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Bottom_of_the_Hill",
+        "supports": "17th Street Restaurant origins, ownership history, bookers"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-goodman-2",
+    "title": "Evicted artists find a home above a tunnel",
+    "theme": "arts-counterculture",
+    "year": 1996,
+    "yearEnd": null,
+    "place": {
+      "label": "Goodman 2 Arts Complex, 1695 18th Street (at Arkansas)",
+      "lat": 37.76203,
+      "lon": -122.39915,
+      "precision": "building"
+    },
+    "hook": "Artists thrown out of a ramshackle Geary Street landmark spent thirteen years looking for a home, and found one on the fill of a collapsed railroad tunnel.",
+    "story": "For decades the Goodman Building at 1117 Geary, a huge ramshackle structure from 1860, was a communal home and workspace for artists. The Potrero View counts Janis Joplin and poster designer Wes Wilson among its residents at different times. In 1983 the Redevelopment Agency evicted them [1].\n\nThe half-block at 18th and Arkansas had its own history. The south portal of a railroad tunnel came out there until the tunnel was filled after the 1962 fire and cave-in [1][2]. From 1990 to 1992 neighbours fought to keep the slope as open space, the \"Potrero Commons\" [2]. Anchor Brewing made a Potrero Commons Ale to raise money for the campaign [1]. In 1991 the Board of Supervisors chose housing for the displaced Goodman artists instead [1]. The deal involved Mayor Frank Jordan, the artists and developers [2].\n\nThe artists had organized as Artsdeco. In 1996 they moved into architect David Baker's new building: 30 live-work studios, a three-story atrium, a garden and a theater space, with part of the old tunnel reused as the garage [1]. Artsdeco member Martha Senger called it \"the reincarnation of a grassroots cultural institution\" [1].",
+    "people": [
+      {
+        "name": "Artsdeco",
+        "role": "organization of displaced Goodman Building artists"
+      },
+      {
+        "name": "David Baker",
+        "role": "architect"
+      },
+      {
+        "name": "Martha Senger",
+        "role": "Artsdeco member"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Art History on 18th Street (Peter Linenthal)",
+        "publisher": "The Potrero View",
+        "year": 2023,
+        "url": "https://www.potreroview.net/art-history-on-18th-street/",
+        "supports": "Goodman Building, 1983 eviction, tunnel, Commons Ale, 1991 decision, 1996 building"
+      },
+      {
+        "title": "Potrero Commons 18th-Wisconsin",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Potrero_Commons_18th-Wisconsin",
+        "supports": "Potrero Commons struggle 1990–1992, deal with Mayor Jordan, tunnel collapse site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "potrero-hill-2p-dancing-saints",
+    "title": "Ninety saints dancing, Malcolm X among them",
+    "theme": "architecture-landmarks",
+    "year": 2009,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Gregory of Nyssa Episcopal Church, 500 De Haro Street",
+      "lat": 37.76335,
+      "lon": -122.40178,
+      "precision": "building"
+    },
+    "hook": "Above a congregation that dances around its altar, a twelve-foot Christ leads ninety saints, including Anne Frank, Lady Godiva, Shakespeare and Julia Morgan.",
+    "story": "St. Gregory of Nyssa Episcopal Church went up at 500 De Haro Street in 1995. Its architecture mixes Russian Orthodox, Japanese Shinto and Craftsman styles, and light comes in through windows ringing its dome [1][2]. It is named for a fourth-century bishop who defended music and movement in worship at a time when many thought dancing dangerously sensual. So the congregation dances around the altar during services [1].\n\nAbove them, circling the rotunda, is a giant icon of ninety larger-than-life dancing saints, led by a twelve-foot Christ in jewel colours and gold leaf. Some are traditional, like St. Teresa and St. Francis. Others are surprises: Malcolm X, Anne Frank, Margaret Mead, Sojourner Truth, Lady Godiva with her horse, Queen Elizabeth I, Shakespeare, Bacchus, and the architect Julia Morgan, whose Potrero Hill Neighborhood House stands farther up De Haro Street [1][4].\n\nThe painter Mark Dukes, a deacon of the St. John Coltrane African Orthodox Church, first came to St. Gregory's through its soup kitchen, and the church eventually became his studio. He spent ten years on the icon and finished it in 2009 [1][3]. \"It's about love,\" he said [1].",
+    "people": [
+      {
+        "name": "Mark Dukes",
+        "role": "iconographer who painted the Dancing Saints"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Saints Dance in Potrero Hill",
+        "publisher": "The Potrero View",
+        "year": 2025,
+        "url": "https://www.potreroview.net/saints-dance-in-potrero-hill/",
+        "supports": "architecture, dancing worship, saints depicted, Dukes, ten years"
+      },
+      {
+        "title": "Church Windows' Fate to be Decided by Planning Commission",
+        "publisher": "The Potrero View",
+        "year": 2016,
+        "url": "https://www.potreroview.net/church-windows-fate-to-be-decided-by-planning-commission/",
+        "supports": "built 1995, dome windows"
+      },
+      {
+        "title": "15 Years of Dancing with the Saints",
+        "publisher": "St. Gregory of Nyssa Episcopal Church",
+        "year": 2024,
+        "url": "https://www.saintgregorys.org/dancing-saints",
+        "supports": "icon completed 2009"
+      },
+      {
+        "title": "Historic Buildings and Their Stories",
+        "publisher": "The Potrero View",
+        "year": 2024,
+        "url": "https://www.potreroview.net/historic-buildings-and-their-stories/",
+        "supports": "Julia Morgan designed the Neighborhood House on De Haro Street"
+      }
+    ],
+    "photo": null
+  }
+]

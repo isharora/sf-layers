@@ -1,0 +1,614 @@
+[
+  {
+    "id": "excelsior-2p-club-puertorriqueno",
+    "title": "Puerto Rico's club on Athens Street",
+    "theme": "communities",
+    "year": 1912,
+    "yearEnd": null,
+    "place": {
+      "label": "596 Athens Street, near Russia Avenue (early home of Club Puertorriqueño)",
+      "lat": 37.718752,
+      "lon": -122.430958,
+      "precision": "building"
+    },
+    "hook": "San Francisco's Puerto Rican club began at an Excelsior corner bar, founded by immigrants who had been recruited for Hawaii's sugar plantations and stayed here instead.",
+    "story": "Club Puertorriqueño de San Francisco was founded in 1912 so that Puerto Rico would be represented at the Panama-Pacific International Exposition of 1915. Its founders were Puerto Rican immigrants who had been recruited to work on Hawaii's sugar plantations. Some of them got as far as San Francisco, decided not to go on, and built a Puerto Rican community in the Bay Area instead [2]. In its early years the club met at a bar on the corner of Athens Street and Russia Avenue, near the home of its first president, Raymond Milan [1]. It later bought a building on Athens Street as its headquarters. The 1957 city directory still lists 'Club Puertorriqueno' at 596 Athens, and the club stayed there until it moved to the Mission in the 1970s [1]. Back then the Excelsior's mix included Italian, Maltese, German, Ukrainian and Irish families [1]. Irma Iris Vargas joined the club in 1974, when she was 18. Her Puerto Rican-born parents had joined in 1953, and when the club turned 50 in 1962 her father was vice president [2]. The club, which bills itself as the oldest Latinx organisation in the United States, now meets at 3249a Mission Street [2].",
+    "people": [
+      {
+        "name": "Raymond Milan",
+        "role": "first president of Club Puertorriqueño"
+      },
+      {
+        "name": "Irma Iris Vargas",
+        "role": "member since 1974"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Latinx Life in the Excelsior",
+        "publisher": "SF Heritage (Woody LaBounty)",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/news/latinx-life-in-the-excelsior/",
+        "supports": "1912 founding; early meetings at bar at Athens and Russia near president Raymond Milan's home; 596 Athens listing in 1957 directory; move to the Mission in the 1970s; Maltese, German, Ukrainian and Irish pockets (citing SF Planning's draft Latino Historic Context Statement)"
+      },
+      {
+        "title": "The Mission's Puerto Rican community parties with pride — and music",
+        "publisher": "Mission Local",
+        "year": 2024,
+        "url": "https://missionlocal.org/2024/11/the-missions-puerto-rican-community-parties-with-pride-and-music/",
+        "supports": "Founded 1912 for the 1915 exposition; founders recruited for Hawaii plantations; Irma Iris Vargas and her family; oldest Latinx organisation claim; current address"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-philip-lamantia",
+    "title": "A surrealist prodigy from the Excelsior",
+    "theme": "arts-counterculture",
+    "year": 1943,
+    "yearEnd": null,
+    "place": {
+      "label": "Excelsior District (Lamantia's childhood neighbourhood; the family's street is not given in sources)",
+      "lat": 37.72391,
+      "lon": -122.42928,
+      "precision": "area"
+    },
+    "hook": "At 15, a produce broker's son from the Excelsior had poems in a New York surrealist magazine. André Breton called him 'a voice that rises once in a hundred years.'",
+    "story": "Philip Lamantia was born in San Francisco in 1927 to Sicilian immigrants and grew up in the Excelsior [1][2]. His father was a produce broker, and as a boy Philip worked in the old produce market on the Embarcadero [1]. He began writing poems in elementary school. He fell for Surrealism after seeing paintings by Miró and Dalí at the old San Francisco Museum of Art on Van Ness Avenue [1]. In 1943, when he was 15, the New York magazine View published some of his poems. André Breton, the leader of the Surrealists, called him 'a voice that rises once in a hundred years' [1]. He then dropped out of Balboa High School and went to New York, where he worked as an assistant editor at View and mixed with exiled European artists such as Max Ernst [1][2]. Back in the Bay Area, he published his first book, Erotic Poems, in 1946 [2]. In October 1955 he was on the bill at the Six Gallery on the night Allen Ginsberg first read 'Howl'. He chose not to read his own work that night and read poems by his friend John Hoffman, who had recently died [1][2]. Lamantia died in North Beach in 2005 [1].",
+    "people": [
+      {
+        "name": "Philip Lamantia",
+        "role": "poet, raised in the Excelsior"
+      },
+      {
+        "name": "André Breton",
+        "role": "Surrealist leader who praised him"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Philip Lamantia -- S.F. Surrealist poet",
+        "publisher": "San Francisco Chronicle (Jesse Hamlin)",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/philip-lamantia-s-f-surrealist-poet-2724066.php",
+        "supports": "Born in the Excelsior; produce-broker father and Embarcadero market; museum visit; View at 15; Breton quote; dropping out of Balboa; New York; Six Gallery; death in North Beach"
+      },
+      {
+        "title": "Philip Lamantia",
+        "publisher": "Friends of Kerouac",
+        "year": null,
+        "url": "https://friendsofkerouac.com/person/philip-lamantia/",
+        "supports": "Sicilian immigrant parents; raised in the Excelsior; View 1943; left Balboa High in 1944; Erotic Poems 1946; read John Hoffman's poems at the Six Gallery"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-pat-valentino",
+    "title": "Laughed at, then a title shot",
+    "theme": "communities",
+    "year": 1949,
+    "yearEnd": null,
+    "place": {
+      "label": "Excelsior District (Valentino's boyhood neighbourhood; the title fight itself was at the Cow Palace)",
+      "lat": 37.7182,
+      "lon": -122.433,
+      "precision": "area"
+    },
+    "hook": "Excelsior kids laughed when young Pat Valentino said he would fight for the heavyweight championship. In 1949 he did, half-blind, in front of 19,950 people.",
+    "story": "'When I was young, I told some kids I was going to fight for the heavyweight championship,' Pat Valentino remembered in 2004. 'They laughed at me' [1]. He grew up in the Excelsior [1][2], took up boxing in the Coast Guard, and had his first pro fight at 19 at the Oakland Auditorium [1]. At about 185 pounds he was small for a heavyweight. He twice fought Joey Maxim to a draw and finished his career 45-11-4 [1]. A year before his title shot he suffered a detached retina fighting Tony Bosnich, another boxer from the Excelsior [1]. On October 14, 1949, Valentino met Ezzard Charles for the world heavyweight title at the Cow Palace. It was the city's first heavyweight title fight in 40 years, before 19,950 fans, then Northern California's biggest fight crowd [1]. Valentino led on two of the three judges' cards going into the eighth round, then was knocked down and out 35 seconds into it [1]. He was due $5,000 to Charles's $40,000, but said he never saw the money and had to sue his manager to get a portion of it [1]. Two months later, blind in his right eye, he boxed an exhibition with Joe Louis, then retired. He went on to spend 22 years as the maître d' at Scoma's [1].",
+    "people": [
+      {
+        "name": "Pat Valentino",
+        "role": "heavyweight boxer raised in the Excelsior"
+      },
+      {
+        "name": "Tony Bosnich",
+        "role": "fellow Excelsior boxer"
+      },
+      {
+        "name": "Ezzard Charles",
+        "role": "heavyweight champion"
+      }
+    ],
+    "sources": [
+      {
+        "title": "S.F. boxer who fought championship bout dies",
+        "publisher": "San Francisco Chronicle (Jake Curtis)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/sports/article/S-F-boxer-who-fought-championship-bout-dies-3201811.php",
+        "supports": "All details of Valentino's life, record, the 1949 fight, purse, retina injury, Bosnich, Scoma's"
+      },
+      {
+        "title": "Excelsior District, San Francisco (Noteworthy residents)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Excelsior_District,_San_Francisco",
+        "supports": "Lists Valentino among notable Excelsior residents (pointer to the Chronicle obituary)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-jebe-photo-shop",
+    "title": "The camera man who wrote it all down",
+    "theme": "labor-industry",
+    "year": 1959,
+    "yearEnd": null,
+    "place": {
+      "label": "Jebe's Photo Shop, 4661 Mission Street (1959 directory address; later Chef Hunan restaurant)",
+      "lat": 37.723642,
+      "lon": -122.435253,
+      "precision": "building"
+    },
+    "hook": "For forty years Walter Jebe sold cameras on Mission Street. Then he became the Excelsior's historian, and said putting the book together was like planning D-Day.",
+    "story": "Walter G. Jebe Sr. ran a camera shop on Mission Street in the heart of the Excelsior for more than forty years. The 1959 San Francisco directory lists 'Jebe's Photo Shop Cameras', originally at 4661 Mission Street. Later the storefront became the Chef Hunan restaurant, a sign of how the neighbourhood's population has changed [1]. He was also president emeritus of the San Francisco History Association. In 2004 he wrote Arcadia Publishing's San Francisco's Excelsior District, a photo history of the district's houses, businesses and Irish and Italian families [1][2]. He joked that putting the material together 'was like Eisenhower planning the D Day invasion of Normandy' [1]. In a 2006 oral history, recorded for the Friends of the Geneva Car Barn and Powerhouse and Lick-Wilmerding High School, he complained that 'nothing was preserved outside of downtown except Mission Dolores.' He remembered the Excelsior as 'very much self contained'. There was the Royal Baking Company, 'the largest French bread bakery out there', and Farrah's department store, which advertised that you could be outfitted 'from womb to tomb.' You could buy anything you wanted, he said, 'except an automobile' [1].",
+    "people": [
+      {
+        "name": "Walter G. Jebe Sr.",
+        "role": "camera-shop owner and Excelsior historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Video: Excerpt of Walter G. Jebe Sr.'s Oral History of the Excelsior District",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/video-excerpt-of-walter-g-jebe-sr-s-oral-history-of-the-excelsior-district/",
+        "supports": "Forty-plus years running the camera shop; 1959 directory listing at 4661 Mission; Chef Hunan; SF History Association; his book and D-Day quip; 2006 oral history quotes"
+      },
+      {
+        "title": "San Francisco's Excelsior District (Images of America)",
+        "publisher": "Arcadia Publishing / Google Books",
+        "year": 2004,
+        "url": "https://books.google.com/books?id=4zgRkn2QA0MC",
+        "supports": "Jebe's 2004 book on the district"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-baltimore-way",
+    "title": "City kids on the last street",
+    "theme": "civil-rights",
+    "year": 1959,
+    "yearEnd": 1996,
+    "place": {
+      "label": "Baltimore Way, Crocker-Amazon (at the city's southern edge)",
+      "lat": 37.708315,
+      "lon": -122.43299,
+      "precision": "street"
+    },
+    "hook": "Children on Baltimore Way were proud of their black-and-white San Francisco street signs. Their parents were buying into a neighbourhood whose salesmen promised to keep it white.",
+    "story": "Michael Arago grew up on Baltimore Way, which he and his friends believed was the last street in San Francisco. Brisbane's street signs were blue, and theirs were San Francisco black and white, 'we were city kids because our zip code and street sign told us so' [1]. In the late 1950s his father, who was of mixed Italian and Filipino descent, applied for one of the new houses that Sunstream Homes was building in 'Southern Hills' on the San Bruno Mountain slopes. The salesman assured him, using a slur, that the staff would keep Black families out of the neighbourhood [1]. Arago remembers one Black family, on Curtis Street, who had to take the racism of the early 1960s 'on the chin.' Families like his own hid their heritage to fit in with their white Catholic neighbours [1]. On Sundays, he writes, the street was all crew-cut boys on Schwinn Stingrays, fathers mowing lawns and Giants games on transistor radios. Underneath there was 'no shortage of hate' [1]. In the 1980s, Filipino grocers and Cambodian restaurants replaced old standbys such as John's Delicatessen around Geneva and Mission, and in 1996 a Popeye's opened on the corner. To Arago, the neighbourhood had come full circle, from 'safe' isolation to a mixed community [2].",
+    "people": [
+      {
+        "name": "Michael Arago",
+        "role": "memoirist who grew up on Baltimore Way"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Crocker-Amazon (\"I was there...\")",
+        "publisher": "FoundSF (Michael Arago)",
+        "year": 1997,
+        "url": "https://www.foundsf.org/index.php?title=THE_CROCKER-AMAZON",
+        "supports": "Baltimore Way street signs; father's application to Sunstream Homes and the salesman's promise; Black family on Curtis Street; hiding ethnic heritage; Sunday scene"
+      },
+      {
+        "title": "Crocker-Amazon Changes Its Skin",
+        "publisher": "FoundSF (Michael Arago)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=CROCKER-AMAZON_CHANGES_ITS_SKIN",
+        "supports": "1980s-90s change around Geneva and Mission; Filipino grocers, Cambodian restaurants; his conclusion"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-bravo-pizza",
+    "title": "Two-pound dough at Mission and Geneva",
+    "theme": "communities",
+    "year": 1963,
+    "yearEnd": 2026,
+    "place": {
+      "label": "Bravo Pizza, 5145 Mission Street at Geneva Avenue",
+      "lat": 37.716525,
+      "lon": -122.440784,
+      "precision": "building"
+    },
+    "hook": "Bravo Pizza has been pressing two-pound deep-dish dough at the Excelsior's busiest corner since 1963. In late 2025 an Excelsior native bought it after his cousin called it a dump.",
+    "story": "Bravo Pizza has been at 5145 Mission Street, on the busy corner of Mission and Geneva, since 1963 [2]. It serves deep-dish slices and Italian-American food, and Mission Local calls it the pioneer of San Francisco-style deep-dish pizza, made from a two-pound dough [1]. In the autumn of 2025 Sam Hernandez's cousin stopped in for a slice after a 49ers game. He rang Hernandez to say 'this place looks like a dump', and added that he had asked the owner whether he would sell. The owner said yes [1]. Hernandez, 43, grew up in the Excelsior and lives a few blocks away. He says he 'flew over here' to check. Then he called his best friend, Jason Yu, 34, who grew up in Chinatown. Yu had once spent $200,000 trying to open a matcha soft-serve shop in the Mission and had publicly sworn he would never open a business in the city again [1][2]. The pair bought Bravo in December 2025 and reopened it in January 2026. The chef is Jimmy Prokopos, son of a former owner, Peter Prokopos, and the dough is the same [1]. 'We may not be able to give you what your grandma gave you,' Hernandez said, 'but we'll give you something special' [1].",
+    "people": [
+      {
+        "name": "Sam Hernandez",
+        "role": "co-owner from 2025, Excelsior native"
+      },
+      {
+        "name": "Jason Yu",
+        "role": "co-owner from 2025"
+      },
+      {
+        "name": "Jimmy Prokopos",
+        "role": "chef, son of former owner Peter Prokopos"
+      }
+    ],
+    "sources": [
+      {
+        "title": "New owners of Bravo Pizza want to give the Excelsior 'a good love letter'",
+        "publisher": "Mission Local (Xueer Lu)",
+        "year": 2026,
+        "url": "https://missionlocal.org/2026/01/sf-excelsior-bravo-pizza-reopens/",
+        "supports": "Since 1963; deep-dish pioneer and two-pound dough; the cousin's call; Hernandez and Yu's backgrounds; the matcha shop; Prokopos family; quote"
+      },
+      {
+        "title": "Excelsior Buzz: New pizzeria owner once swore he'd never try to open a business in S.F. again",
+        "publisher": "Mission Local",
+        "year": 2026,
+        "url": "https://missionlocal.org/2026/01/excelsior-buzz-bravo-pizza-los-olivos-claudios-auto-repair/",
+        "supports": "Address 5145 Mission at Geneva; reopening January 22, 2026; new owners"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-maldonado-gym",
+    "title": "A boxing ring in a Cordova Street garage",
+    "theme": "communities",
+    "year": 1971,
+    "yearEnd": 2016,
+    "place": {
+      "label": "Frank's (Maldonado's Boxing Gym), a converted garage on Cordova Street between Seville and Munich streets",
+      "lat": 37.71133,
+      "lon": -122.43576,
+      "precision": "block"
+    },
+    "hook": "For three decades, Excelsior kids turned up unannounced at a produce manager's garage to learn to box. Two of them became Golden Gloves champions.",
+    "story": "Frank Maldonado grew up in San Francisco and lived in the Excelsior, Bayview and the Fillmore. In 1971 he and his new wife, Florence, settled back in the Excelsior on Cordova Street [1]. He had learned to box at 14, partly by taking punches from his older brother. He trained at Newman's Boxing in the Tenderloin's Cadillac Hotel and fought in the Golden Gloves in the 1960s [1]. His day job, for 45 years, was produce manager. In the 1980s he turned a garage on his block, between Seville and Munich streets, into a gym [1]. 'The gym used to be packed,' he recalled. Kids came after school, sometimes uninvited: 'they would just show up' [1]. He coached two Golden Gloves champions, his son Roman in 1998 and Omar Barefield in 2002. That November Mayor Willie Brown proclaimed Frank Maldonado Day [1]. The neighbourhood had a boxing history: Pat Valentino, who fought for the heavyweight title in 1949, and his opponent Tony Bosnich had both come out of the Excelsior [2]. The last name on Maldonado's sign-up sheets is from 2016. The ropes are held together with duct tape. At 85 he still gets up now and then to throw a few punches at the air [1].",
+    "people": [
+      {
+        "name": "Frank Maldonado",
+        "role": "coach and founder of Maldonado's Boxing Gym"
+      },
+      {
+        "name": "Roman Maldonado",
+        "role": "son, 1998 Golden Gloves champion"
+      },
+      {
+        "name": "Omar Barefield",
+        "role": "2002 Golden Gloves champion"
+      }
+    ],
+    "sources": [
+      {
+        "title": "People We Meet: Frank Maldonado, the boxing coach",
+        "publisher": "Mission Local (Xueer Lu)",
+        "year": 2026,
+        "url": "https://missionlocal.org/2026/06/people-we-meet-frank-maldonado/",
+        "supports": "Life story, 1971 move to Cordova Street, garage gym between Seville and Munich, champions, Frank Maldonado Day, 2016 sign-up sheets"
+      },
+      {
+        "title": "S.F. boxer who fought championship bout dies",
+        "publisher": "San Francisco Chronicle",
+        "year": 2008,
+        "url": "https://www.sfgate.com/sports/article/S-F-boxer-who-fought-championship-bout-dies-3201811.php",
+        "supports": "Valentino and Bosnich both from the Excelsior"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-pacitas-bakery",
+    "title": "The first Salvadoran bread in the Excelsior",
+    "theme": "communities",
+    "year": 1996,
+    "yearEnd": null,
+    "place": {
+      "label": "Pacita's Salvadorean Bakery, 10 Persia Avenue",
+      "lat": 37.722861,
+      "lon": -122.435631,
+      "precision": "building"
+    },
+    "hook": "Maria Paz Rodriguez arrived from El Salvador in 1990, worked in someone else's bakery until she had saved enough, and opened the Excelsior's first Salvadoran bakery.",
+    "story": "Maria Paz Rodriguez came to San Francisco from El Salvador in 1990. She worked in a bakery until she had saved enough money to open her own, and in 1996 she opened Pacita's just off Mission Street at 10 Persia [1]. It was the first shop in the Excelsior to sell Salvadoran bread. Until then the city's only Salvadoran bakeries were in the Mission, and with so many Salvadorans living in the Excelsior it was an instant hit [1]. For the first few years she ran it alone, until her siblings followed her from El Salvador to help [1]. The speciality is Salvadoran bread, traditionally made by hand from a bran-based recipe. The bakery also makes tamales wrapped in banana leaves, quesadillas and cakes for quinceañeras, weddings and communions [1]. Univision once featured Rodriguez as an example of someone who had benefited from Temporary Protected Status, and that brought in even more customers [1]. On September 25, 2017, Pacita's became the first Excelsior business accepted to the city's Legacy Business Registry. It was only 21 years old, but it qualified early because its building was being put up for sale [1]. Other Salvadoran businesses have since followed, including Pupuseria Metapan in the Royal Baking Company building [1][2].",
+    "people": [
+      {
+        "name": "Maria Paz Rodriguez",
+        "role": "founder of Pacita's Salvadorean Bakery"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Spotlight: Pacitas Salvadorean Bakery",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/legacy-business-spotlight-pacitas-salvadorean-bakery/",
+        "supports": "Founding story, dates, first Salvadoran bakery in the Excelsior, products, Univision/TPS, Legacy Business Registry details"
+      },
+      {
+        "title": "Latinx Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/news/latinx-life-in-the-excelsior/",
+        "supports": "Pacita's at 10 Persia and Metapan Pupuseria as notable Salvadoran businesses"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-skratch-piklz",
+    "title": "World champions in the parents' dining room",
+    "theme": "arts-counterculture",
+    "year": 1998,
+    "yearEnd": null,
+    "place": {
+      "label": "Moscow Street, Excelsior (the Quitevis family's corner house; exact address not published)",
+      "lat": 37.719128,
+      "lon": -122.428895,
+      "precision": "street"
+    },
+    "hook": "One of the world's most celebrated DJ crews ran its business from a powder-pink corner house on Moscow Street, in what had been Mom and Dad's dining room.",
+    "story": "Richard Quitevis, the child of parents from the Philippines, grew up on Moscow Street in the Excelsior [3]. As a Balboa High student he hung around nearby Crocker Park, watching breakdancers and graffiti artists. He took the tag Q-Bert while hanging out with a graffiti writer [1]. In Balboa's cafeteria he battled another young DJ, Mix Master Mike [3]. The two teamed up with DJ Apollo and won the DMC world championship three years running, until they were asked to retire in 1993 because other teams were intimidated [1]. The Invisibl Skratch Piklz, the Chronicle later noted, got their start in a garage on Moscow Street [2]. In 1998 a Chronicle writer found the crew outside the powder-pink corner house that Q-Bert shared with his parents, with neighbours lining the sidewalks to watch. Rolling Stone had named them among hip-hop's 50 most influential artists. Their business office was his parents' old dining room, its walls lined with turntables, mixers and records, including a Japanese album of insect mating calls [1]. That November he released Wave Twisters on the crew's own label [1].",
+    "people": [
+      {
+        "name": "Richard Quitevis (DJ Qbert)",
+        "role": "turntablist, grew up on Moscow Street"
+      },
+      {
+        "name": "Mix Master Mike",
+        "role": "fellow Skratch Pikl"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Dilly of a Career / The Bay Area's Invisibl Skratch Piklz have become world stars of turntablism",
+        "publisher": "San Francisco Chronicle (Neva Chonin)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/entertainment/article/A-Dilly-of-a-Career-The-Bay-Area-s-Invisibl-2981806.php",
+        "supports": "Pink corner house on Moscow Street, dining-room office, Crocker Park, Q-Bert tag, DMC titles and forced retirement, Rolling Stone, Wave Twisters"
+      },
+      {
+        "title": "Excelsior district takes care of its own",
+        "publisher": "San Francisco Chronicle (Annie Nakao)",
+        "year": 2002,
+        "url": "https://www.sfgate.com/entertainment/article/Excelsior-district-takes-care-of-its-own-2790710.php",
+        "supports": "Skratch Piklz got their start in a garage on Moscow Street"
+      },
+      {
+        "title": "DJ Qbert",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/DJ_Qbert",
+        "supports": "Filipino parents; grew up on Moscow Street; Balboa cafeteria battle with Mix Master Mike (pointer to cited interviews)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-crocker-park-shirts",
+    "title": "Garcia T-shirts to rebuild Crocker Park",
+    "theme": "communities",
+    "year": 2002,
+    "yearEnd": null,
+    "place": {
+      "label": "Crocker Amazon Playground, Geneva Avenue and Moscow Street",
+      "lat": 37.714046,
+      "lon": -122.429239,
+      "precision": "area"
+    },
+    "hook": "While the rest of the country fretted over its 401(k)s, Excelsior neighbours raised $50,000 to fix a run-down ballpark, and a loan consultant enlisted Jerry Garcia's drawings to raise more.",
+    "story": "Michael Arago remembered Crocker Park in the 1970s as 'an ill-kept ballpark more suitable for getting loaded than anything else' [3]. In 2002, while the rest of the country moaned about its 401(k)s, residents of the Excelsior and neighbouring District 11 areas put up $50,000 to help the Neighborhood Parks Council rebuild the dilapidated Crocker Amazon Playground, and kept raising more [1]. One fundraiser was launched at the Italian American Social Club on Russia Avenue. Tom Murphy, a loan consultant, unpacked a carton of Jerry Garcia T-shirts. He had spearheaded the campaign and got the Garcia estate's permission to use the guitarist's drawings of critters [1]. 'I grew up knowing world-famous Jerry Garcia grew up here, but nobody else in the city does,' Murphy said [1]. He later said he had found out in 1995 that Garcia came from the Excelsior and wondered 'how come nobody knows this?' [2] The same year Murphy founded Jerry Day, a yearly concert in McLaren Park started to raise money for a dilapidated Excelsior playground, with the Garcia estate's blessing and financial support [2][4]. In 2011 thousands turned up for what the Chronicle billed as the ninth Jerry Day [4].",
+    "people": [
+      {
+        "name": "Tom Murphy",
+        "role": "loan consultant, founder of Jerry Day"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Excelsior district takes care of its own",
+        "publisher": "San Francisco Chronicle (Annie Nakao)",
+        "year": 2002,
+        "url": "https://www.sfgate.com/entertainment/article/Excelsior-district-takes-care-of-its-own-2790710.php",
+        "supports": "$50,000 raised for Crocker Amazon Playground; T-shirt fundraiser at the Italian American Social Club; Murphy quote and estate approval"
+      },
+      {
+        "title": "'Jerry Day' is a blast from S.F.'s past",
+        "publisher": "Mission Local",
+        "year": 2025,
+        "url": "https://missionlocal.org/2025/08/jerry-day-is-a-blast-from-s-f-s-past/",
+        "supports": "Murphy as founder; learning in 1995 that Garcia was from the Excelsior"
+      },
+      {
+        "title": "Crocker-Amazon Changes Its Skin",
+        "publisher": "FoundSF (Michael Arago)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=CROCKER-AMAZON_CHANGES_ITS_SKIN",
+        "supports": "1970s description of Crocker Park"
+      },
+      {
+        "title": "Thousands gather for Jerry Day",
+        "publisher": "SFGate",
+        "year": 2011,
+        "url": "https://www.sfgate.com/bayarea/article/Thousands-gather-for-Jerry-Day-2331763.php",
+        "supports": "Jerry Day founded 2002 to fund a dilapidated Excelsior playground; estate support; 2011 ninth edition"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-congdon-street",
+    "title": "Mistaken identity on Congdon Street",
+    "theme": "modern-city",
+    "year": 2008,
+    "yearEnd": 2015,
+    "place": {
+      "label": "Congdon Street at Maynard Street",
+      "lat": 37.7292,
+      "lon": -122.4259,
+      "precision": "block"
+    },
+    "hook": "Tony Bologna backed up his Honda to let another car turn on a narrow Excelsior street. The gunman inside thought he and his sons were rival gang members.",
+    "story": "On Sunday afternoon, June 22, 2008, Tony Bologna was driving his sons home from a family barbecue in Fairfield. He wanted some sleep before his night shift at Draeger's market in San Mateo [1]. On narrow Congdon Street his Honda Civic met a car trying to turn onto Congdon from Maynard Street. Bologna reversed to let it through, and the driver pulled alongside and opened fire [1]. Bologna, 49, and his son Michael, 20, a former Lincoln High athlete, died at the scene. His son Matthew, 16, died two days later [1][3]. Another son, Andrew, later identified the gunman; accounts differ on whether he was in the car [2][3]. At first the Chronicle reported it as road rage [1][3]. It turned out that Edwin Ramos, an MS-13 member, had mistaken the family for rival gang members [2][3]. Ramos, who was in the country illegally despite earlier arrests, was never referred for deportation, and the killings became a rallying point for critics of San Francisco's sanctuary policy [2][3]. He received three consecutive life sentences. In 2015 a second man, who had been in the car, was sentenced to ten years [2]. Tony had coached youth baseball and basketball for years. 'There are 12 little guys... who are without him,' said a police lieutenant who had coached alongside him [1].",
+    "people": [
+      {
+        "name": "Tony Bologna",
+        "role": "father, killed 2008"
+      },
+      {
+        "name": "Michael Bologna",
+        "role": "son, killed 2008"
+      },
+      {
+        "name": "Matthew Bologna",
+        "role": "son, killed 2008"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Father of 4, son innocent victims of road rage",
+        "publisher": "San Francisco Chronicle (Jaxon Van Derbeken)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/news/article/Father-of-4-son-innocent-victims-of-road-rage-3207460.php",
+        "supports": "Congdon and Maynard streets, the sequence of events, victims' details, Draeger's, coaching quote"
+      },
+      {
+        "title": "Man sentenced for 2008 murder of father, two sons in San Francisco",
+        "publisher": "ABC7 News",
+        "year": 2015,
+        "url": "https://abc7news.com/post/man-sentenced-for-2008-murder-of-father-two-sons-in-san-francisco/841618/",
+        "supports": "Mistaken identity, Ramos's three life sentences, Reyes's 10 years, surviving son's identification, sanctuary policy"
+      },
+      {
+        "title": "Murder of the Bologna family",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Murder_of_the_Bologna_family",
+        "supports": "Overview and pointer to Chronicle coverage; Matthew's death June 24; sanctuary city debate"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-ever-upward-photos",
+    "title": "Two cameras on 'Forever Upward'",
+    "theme": "modern-city",
+    "year": 2015,
+    "yearEnd": 2026,
+    "place": {
+      "label": "Excelsior Playground, Russia Avenue and Madrid Street",
+      "lat": 37.72035,
+      "lon": -122.43324,
+      "precision": "block"
+    },
+    "hook": "Excelsior means 'ever upward'. Two photographers, ten years apart, borrowed the motto for projects on the neighbourhood that the rest of San Francisco rarely looks at.",
+    "story": "Photographer Travis Jensen began shooting in the Excelsior around 2011. He came to see it as 'the last real, true San Francisco neighborhood that was left' [1]. His book project, Forever Upward, named after the meaning of 'Excelsior', gathered about 120 black-and-white pictures: car stunts, hangouts and hometown pride [1]. 'There's nothing I love more than being out at Excelsior Park on a Sunday afternoon,' he said in 2015. One favourite shows a hesitant man in a jacket reading 'Excelsior Crocker Park'. Jensen suspected it was the first time anyone had asked to take his picture [1]. His friend and subject Rasta Dave once told him, on the corner of Excelsior and Mission, that five years earlier he would have been standing there with a pistol in his pants: 'Now I'm out here with a camera' [1]. A decade later Jeff Murray, a San Francisco native who moved to the Excelsior in 2018, was shooting on film for his own series, 'Ever Upward', his capstone at City College [2]. At Excelsior Playground a man named John offered to step out of the way of the mural Murray was photographing. Murray asked him to stay where he was, and that became the portrait [2].",
+    "people": [
+      {
+        "name": "Travis Jensen",
+        "role": "photographer, Forever Upward"
+      },
+      {
+        "name": "Jeff Murray",
+        "role": "photographer, Ever Upward"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Travis Jensen's Photos Showcase San Francisco's Last Ungentrified Neighborhood",
+        "publisher": "Complex",
+        "year": 2015,
+        "url": "https://www.complex.com/style/2015/12/travis-jensens-photos-showcase-san-franciscos-last-ungentrified-neighborhood",
+        "supports": "Jensen's project, quotes, Rasta Dave, the Crocker Park jacket portrait"
+      },
+      {
+        "title": "People We Meet: Jeff Murray documents the Excelsior, in film",
+        "publisher": "Mission Local",
+        "year": 2026,
+        "url": "https://missionlocal.org/2026/05/people-we-meet-jeff-murray/",
+        "supports": "Murray's Ever Upward film project, City College capstone, portrait at Excelsior Playground"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-monroe-fifth-grade",
+    "title": "Forty-one fifth-graders and no teacher",
+    "theme": "modern-city",
+    "year": 2018,
+    "yearEnd": null,
+    "place": {
+      "label": "Monroe Elementary School, 260 Madrid Street",
+      "lat": 37.725605,
+      "lon": -122.430261,
+      "precision": "building"
+    },
+    "hook": "A parent volunteering in a Monroe Elementary classroom found a girl lying in the doorway 'on lookout' for the principal, and a Spanish-immersion class with no teacher at all.",
+    "story": "In the first week of the 2018 school year, Paula Silva went to volunteer in her son's fifth-grade Spanish-immersion class at Monroe Elementary, on Madrid Street just up from Mission. A girl was lying on the floor with her head poking out of the half-open door. 'I'm on lookout,' she said, for the principal [1]. Inside, children were playing games on their phones, eating their lunches early and playing under their desks. The substitute seemed unbothered [1]. The class had had no permanent teacher since school began on August 20. Parents said it started with 41 pupils, 11 more than the teachers' contract recommends. The district said it was 38, later 33 [1]. Parents said their children, not the school, had told them [1]. Five families by the district's count, or eight by the parents', pulled their children out. Silva's son went to the nearby School of the Epiphany [1][2]. A month into term the district promised a permanent teacher. On the Monday the new teacher was due, parents, mostly Spanish speakers, arrived to find another substitute who did not speak Spanish [2]. 'Those parents today were furious,' said Rose Medellin, who translated for many of them [2].",
+    "people": [
+      {
+        "name": "Paula Silva",
+        "role": "Monroe parent who volunteered in the class"
+      },
+      {
+        "name": "Rose Medellin",
+        "role": "Monroe parent and translator for Spanish-speaking families"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Parents yank kids from Monroe Elementary, allege 41-student class has gone a month without permanent teacher",
+        "publisher": "Mission Local",
+        "year": 2018,
+        "url": "https://missionlocal.org/2018/09/parents-yank-kids-from-monroe-elementary-allege-41-student-class-has-gone-a-month-without-permanent-teacher/",
+        "supports": "Classroom scene, class-size dispute, no permanent teacher since Aug. 20, withdrawals, School of the Epiphany"
+      },
+      {
+        "title": "School's open at SFUSD's Monroe Elementary, but permanent teacher fails to show",
+        "publisher": "Mission Local",
+        "year": 2018,
+        "url": "https://missionlocal.org/2018/09/schools-open-at-sfusds-monroe-elementary-but-permanent-teacher-fails-to-show/",
+        "supports": "Non-Spanish-speaking substitute, parents' fury, Medellin quote, eight withdrawals"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2p-calabria-bros",
+    "title": "The deli counter that outlasted Lucca and Zufi's",
+    "theme": "communities",
+    "year": 2025,
+    "yearEnd": null,
+    "place": {
+      "label": "Calabria Bros. Deli, 4763 Mission Street",
+      "lat": 37.72203,
+      "lon": -122.436474,
+      "precision": "building"
+    },
+    "hook": "Zufi's, Lucca and Sorrento are gone. On Mission Street, Calabria Bros. is still slicing salami, and its owner wants a Starbucks on the strip.",
+    "story": "The Excelsior had a long tradition of Italian delicatessens. Zufi's, Lucca and Sorrento have vanished, but Calabria Brothers at 4763 Mission Street carries on the tradition [1]. The name fits the neighbourhood's later Italian history. Into the 1960s the Excelsior's Italian families were topped up by new immigrants, most visibly from Calabria. By the 1970s one resident still called the Excelsior 'still Italian', even as Latino and Filipino families became the majority [1]. The deli sits a few doors from the Royal Baking Company building, whose Italian bread and cookies were once known across the city [1]. In 2025 its owner, Mike Tufo, who has lived in the Excelsior for more than 25 years, argued that the neighbourhood needed something new. 'I don't want to be against my neighborhood, but how many more produce stands can we have? I want a Starbucks, a Philz, a Noah's Bagels — something to brighten up the place,' he said [2]. A customer agreed that without change the Excelsior would be 'like Colonial Williamsburg or Disneyland' [2].",
+    "people": [
+      {
+        "name": "Mike Tufo",
+        "role": "owner of Calabria Bros. Deli"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Italian-American Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/italian-american-life-in-the-excelsior/",
+        "supports": "Calabria Brothers at 4763 Mission continuing after Zufi's, Lucca and Sorrento; Calabrese immigrants; 'still Italian' quote; Royal Baking"
+      },
+      {
+        "title": "The Excelsior: Resisting change, or ready for a new business model?",
+        "publisher": "Mission Local",
+        "year": 2025,
+        "url": "https://missionlocal.org/2025/09/sf-excelsior-business-change/",
+        "supports": "Mike Tufo's residence and quotes; customer quote"
+      }
+    ],
+    "photo": null
+  }
+]

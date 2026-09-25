@@ -1,0 +1,760 @@
+[
+  {
+    "id": "tenderloin-2p-prostitutes-march",
+    "title": "Three hundred women walk into church",
+    "theme": "civil-rights",
+    "year": 1917,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of Central Methodist Church, O'Farrell and Leavenworth streets",
+      "lat": 37.7855,
+      "lon": -122.41475,
+      "precision": "block"
+    },
+    "hook": "A preacher planned a mass meeting to wipe out Tenderloin vice. That morning, the women he was preaching against arrived first, and asked how they were supposed to live.",
+    "story": "By January 1917 the Rev. Paul Smith of Central Methodist Church, at O'Farrell and Leavenworth, was waging a crusade against the cafes and parlor houses around his church. Newspapers joked that his fiery sermons sent more customers into the district than any madam could [1]. On the morning of January 25, 1917, hours before a planned mass meeting, Mrs. M. R. \"Reggie\" Gamble, who ran a parlor house on Mason Street, arrived with about 300 women dressed in their finest [1][2]. They asked Smith how they would support themselves once the houses closed. He suggested domestic work at $10 a week. They answered that a pair of shoes alone cost $10, and told him that three-quarters of them were mothers supporting children [1]. Gamble put the blame on the men who bought and profited from the trade. Smith promised to fight for a minimum wage law, but the women walked out unconvinced [1][2]. That afternoon he addressed a crowd of 7,000. By late January, according to a 1988 account in the Tenderloin Times, new laws had shut 208 cafes, dance halls and parlor houses, and February raids closed the brothels. Most of the women were left worse off than before [1][3].",
+    "people": [
+      {
+        "name": "Rev. Paul Smith",
+        "role": "Pastor of Central Methodist Church, anti-vice crusader"
+      },
+      {
+        "name": "Reggie Gamble",
+        "role": "Mason Street madam who led the march"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Prostitute March 1917 (orig. 'TL Morality Crusade Draws Prostitutes' Wrath', Tenderloin Times, Feb. 1988)",
+        "publisher": "FoundSF (Don MacLaren)",
+        "year": 1988,
+        "url": "https://www.foundsf.org/index.php?title=Prostitute_March_1917",
+        "supports": "Date, church location, Gamble, 300 women, $10 exchange, 7,000 crowd, 208 closures"
+      },
+      {
+        "title": "Barbary Coast",
+        "publisher": "FoundSF (Daniel Steven Crafts)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=BARBARY_COAST",
+        "supports": "Jan. 25, 1917 march of 300 women to Central Methodist, the $10 reply"
+      },
+      {
+        "title": "Barbary Coast, San Francisco",
+        "publisher": "Wikipedia (citing Asbury 1933)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Barbary_Coast,_San_Francisco",
+        "supports": "1917 closure of San Francisco brothels"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-islam-temple",
+    "title": "The Shriners' Alhambra on Geary Street",
+    "theme": "architecture-landmarks",
+    "year": 1917,
+    "yearEnd": 1970,
+    "place": {
+      "label": "Islam Temple, now the Alcazar Theatre, 650 Geary Street",
+      "lat": 37.78674,
+      "lon": -122.41397,
+      "precision": "building"
+    },
+    "hook": "Between Jones and Leavenworth stands a Moorish palace of coloured terra cotta. It was built not for a mosque or a theatre, but for a men's fraternal lodge.",
+    "story": "In 1917 the Shriners, formally the Ancient Arabic Order of the Nobles of the Mystic Shrine, opened a new home for their San Francisco chapter, Islam Temple, at 650 Geary Street [1]. Architect Thomas Patterson Ross gave them a building in an eclectic Moorish and Byzantine style, with Byzantine arches and filigree latticework. Most of the facade is ornate polychrome terra cotta above a granite base [1]. That June the trade journal Architect and Engineer praised it as \"an adaptation from Alhambra, a building that stands as the highest mark of Arabian art and civilization\" [1][2]. Wikipedia, citing SF City Guides, gives the cost as $150,000 [2]. The Shriners held meetings and ceremonies here from 1918 to 1970 [1]. The building then took its name from an older Alcazar Theatre. That theatre opened on O'Farrell Street in 1885 and burned in 1906, and the rebuilt Alcazar at 260 O'Farrell was razed for a parking lot, in March 1962 by Wikipedia's account and in 1963 by NoeHill's [1][3]. The Geary Street temple became a legitimate theatre called the Alcazar in 1976 [2]. It was gutted in 1982, named a San Francisco Landmark in 1989 and reopened in 1993 [2].",
+    "people": [
+      {
+        "name": "Thomas Patterson Ross",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #195: Alcazar Theater",
+        "publisher": "NoeHill (quoting Landmarks Preservation Advisory Board Final Case Report, 1989)",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf195.asp",
+        "supports": "Shriners, architect, facade, Architect and Engineer quote, use 1918-1970, earlier Alcazars"
+      },
+      {
+        "title": "Alcazar Theatre (1976)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Alcazar_Theatre_(1976)",
+        "supports": "1917 cost, 1976 conversion, gutting 1982, reopening 1993, 1989 landmark"
+      },
+      {
+        "title": "Alcazar Theatre (1911)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Alcazar_Theatre_(1911)",
+        "supports": "260 O'Farrell theatre closed 1961, demolished March 1962 for parking"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-musicians-union-hall",
+    "title": "Where every working musician paid dues",
+    "theme": "labor-industry",
+    "year": 1925,
+    "yearEnd": 1998,
+    "place": {
+      "label": "Musicians Union Hall (Local No. 6), 230 Jones Street",
+      "lat": 37.783505,
+      "lon": -122.412203,
+      "precision": "building"
+    },
+    "hook": "Terra-cotta musical symbols still decorate a Jones Street facade. The union hall opened with six brass bands, and it ended with the union's archives thrown in a dumpster.",
+    "story": "Local No. 6 of the American Federation of Musicians built its hall at 230 Jones Street in 1924. Sylvain Schnaittacher, then president of the local chapter of the American Institute of Architects, designed it with musical symbols worked into the second-floor arches [1]. The official opening on June 9, 1925, was dedicated by Mayor James Rolph Jr. and began with a morning parade down Market Street: six huge brass bands and fifty cars full of civic and union leaders. Balls, dinners and concerts followed for five days [1]. Inside were a ballroom and meeting hall, soundproof phone booths, and offices for the stage hands' and movie projectionists' unions. The top floor held a members' club with card rooms [1]. In the mid-20th century the Tenderloin's theatres, hotels, burlesque houses and clubs kept musicians working, and the union building on Jones Street was part of that world [2]. Local 6 reached a peak of 5,900 members in 1969 [1]. The union moved to Ninth Street in 1998. Photographer Mark Ellinger writes that the San Francisco Rescue Mission, which took over the Jones Street hall, sent the union's archives to the dump [1].",
+    "people": [
+      {
+        "name": "Sylvain Schnaittacher",
+        "role": "Architect"
+      },
+      {
+        "name": "James Rolph Jr.",
+        "role": "Mayor who dedicated the hall"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Musicians Union",
+        "publisher": "FoundSF (Mark Ellinger, quoting Progressive History of Local No. Six, 1925)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Musicians_Union",
+        "supports": "Architect, 1925 opening, parade, interior, 1969 membership, 1998 move, archives"
+      },
+      {
+        "title": "Tenderloin, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco",
+        "supports": "Mid-century musicians' work in the Tenderloin; Musician's Union Building on Jones Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-temperance-hotel",
+    "title": "The only dry hotel in town",
+    "theme": "communities",
+    "year": 1935,
+    "yearEnd": 1978,
+    "place": {
+      "label": "Hotel Californian (now Hotel Spero), 403-405 Taylor Street",
+      "lat": 37.786156,
+      "lon": -122.411687,
+      "precision": "building"
+    },
+    "hook": "Two blocks from her church, a Methodist oil heiress bought a twelve-story hotel and ran it for four decades without a drop of liquor.",
+    "story": "The twelve-story Hotel Californian at 403 Taylor Street was designed by Edward E. Young and built in 1923 as an upscale apartment hotel. In 1929 architect Alfred Henry Jacobs designed a four-story addition and gave the exterior Art Deco touches, but the Spanish Colonial lobby with its twisted columns survived [1][2]. In 1935 Matthew A. Little, who had run it as an apartment hotel, sold it to Lizzie Glide and the Glide Foundation [1][2]. Glide was a devout Methodist and the widow of stockman Joseph Glide. After his death, oil was found on the family ranch lands, and she spent the money on her faith: a Christian women's dormitory at UC Berkeley, a home for young working women, and Glide Memorial Methodist Church two blocks away [1][2]. The Hotel Californian became San Francisco's only temperance hotel, and it stayed dry until 1978 [1][2]. A vintage postcard on NoeHill advertises single rooms from $4 and promises that all rooms face outside and have a bath [1]. The building was listed on the National Register in 1998 and reopened as the Hotel Spero after a $16 million renovation in 2018 [2].",
+    "people": [
+      {
+        "name": "Lizzie Glide",
+        "role": "Methodist philanthropist who bought the hotel"
+      },
+      {
+        "name": "Edward E. Young",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register #98001195: Hotel Californian",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/nat1998001195.asp",
+        "supports": "Architects, dates, Glide purchase, only temperance hotel, postcard rates"
+      },
+      {
+        "title": "Spero Hotel (Hotel Californian)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hotel_Californian_(San_Francisco,_California)",
+        "supports": "Temperance hotel 1935-1978, Lizzie Glide, 2018 renovation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-billie-holiday-raid",
+    "title": "Lady Day's room at the Mark Twain",
+    "theme": "arts-counterculture",
+    "year": 1949,
+    "yearEnd": null,
+    "place": {
+      "label": "Hotel Mark Twain, 345 Taylor Street",
+      "lat": 37.785569,
+      "lon": -122.411601,
+      "precision": "building"
+    },
+    "hook": "Federal agents raided Billie Holiday's Taylor Street hotel room in January 1949. She said she had been set up, and the headlines packed her shows.",
+    "story": "Billie Holiday reached San Francisco in January 1949 trailing bad headlines. Two weeks earlier, at Billy Berg's club in Los Angeles, a brawl had ended with her husband and manager, John Levy, stabbing a man with a carving knife, and she was facing assault charges [1]. On January 13 she opened at Joe Tenner's Cafe Society in the Fillmore to a standing-room crowd [1]. On January 22, federal narcotics agents raided her room at the Hotel Mark Twain, 345 Taylor Street [1][2]. Wikipedia names the arresting officer as George Hunter White of the Federal Bureau of Narcotics [2]. The agents said they found a small amount of opium, worth less than fifty dollars, and a pipe. Holiday and Levy denied knowing anything about it and said they had been framed. Writer Dr. Weirde suggests the club owners may have been behind it [1]. The next day's Chronicle front page read \"Billie Holiday is held on opium charge.\" Photographs in the Bancroft Library show her being booked at the Hall of Justice [1]. According to FoundSF, the notoriety only helped: the rest of her San Francisco run was a smash [1].",
+    "people": [
+      {
+        "name": "Billie Holiday",
+        "role": "Jazz singer"
+      },
+      {
+        "name": "John Levy",
+        "role": "Her manager and husband"
+      },
+      {
+        "name": "George Hunter White",
+        "role": "Federal narcotics agent"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Billie Holliday Busted",
+        "publisher": "FoundSF (Dr. Weirde)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Billie_Holliday_Busted",
+        "supports": "L.A. brawl, Cafe Society opening, raid at Mark Twain Hotel 345 Taylor, opium, headline"
+      },
+      {
+        "title": "Billie Holiday",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Billie_Holiday",
+        "supports": "Arrest Jan. 22, 1949 at Hotel Mark Twain by George Hunter White"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-farewell-fox",
+    "title": "The night the Fox went dark",
+    "theme": "arts-counterculture",
+    "year": 1963,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Fox Theatre (now Fox Plaza), 1350-1390 Market Street",
+      "lat": 37.777075,
+      "lon": -122.417433,
+      "precision": "building"
+    },
+    "hook": "A 4,651-seat movie palace closed with Hollywood stars, a rising Wurlitzer and one stagehand turning off the work light. The next morning they sold the doors.",
+    "story": "William Fox opened his San Francisco showplace on June 28, 1929, with the Charlie Chan picture Behind That Curtain. Designed by Thomas W. Lamb, it had 4,651 seats [1][2]. After the war, audiences shrank as television spread. In 1961 voters turned down a proposal for the city to buy the building, with 59.2 percent voting no [2]. The last night came on February 16, 1963. A searchlight swept the sky. Many of the ushers had also worked opening night in 1929. Organist Everett Nourse played the giant Wurlitzer, and the stage filled with stars including Jane Russell, Jane Wyman, Kay Starr and Hedda Hopper [1]. Hopper told the crowd she could not understand why it was happening. Herb Caen wrote that it was a wonder they hadn't torn it down sooner [1]. At the finale the cast sang Auld Lang Syne and left the stage one by one. A lone stagehand walked across, put out his cigarette and switched off the work light [1]. The next day everything was for sale: a bronze door for $250, a seat for $2.50. The theatre was demolished in 1963, and the Fox Plaza tower stands on the site. The organ now plays in Hollywood's El Capitan Theatre [1][2].",
+    "people": [
+      {
+        "name": "William Fox",
+        "role": "Film mogul who built the theatre"
+      },
+      {
+        "name": "Everett Nourse",
+        "role": "Last organist"
+      },
+      {
+        "name": "Hedda Hopper",
+        "role": "Columnist at the farewell"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fox Theater",
+        "publisher": "FoundSF (Allen White)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Fox_Theater",
+        "supports": "Farewell program, quotes, stagehand, sale prices, dates"
+      },
+      {
+        "title": "Fox Theatre (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Fox_Theatre_(San_Francisco)",
+        "supports": "Architect, opening film, 1961 Proposition I, demolition, organ's fate"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-auto-row-sit-ins",
+    "title": "Sit-ins at the Cadillac showroom",
+    "theme": "civil-rights",
+    "year": 1964,
+    "yearEnd": null,
+    "place": {
+      "label": "Don Lee Cadillac Building, 1000 Van Ness Avenue at O'Farrell",
+      "lat": 37.785172,
+      "lon": -122.420018,
+      "precision": "building"
+    },
+    "hook": "Van Ness's grandest Cadillac showroom was a 'temple to the automobile'. In 1964 hundreds of protesters were arrested on Auto Row, demanding that showrooms hire Black workers.",
+    "story": "Don Lee's Cadillac dealership at 1000 Van Ness Avenue, built in 1921, was one of the two great \"temples to the automobile\" on Auto Row. It has a monumental Spanish-revival entrance, and cub bears sit on top of its columns [1]. Showroom hiring along Van Ness was widely discriminatory, and in the early 1960s Auto Row became a target of the Bay Area civil rights movement [2][3]. According to FoundSF, thousands of Black and white young people joined the campaign, aimed especially at Don Lee's dealership [2]. On March 14, 1964, Jo Freeman writes, 107 people were arrested in front of the Cadillac agency [3]. The dealers insisted they were already equal-opportunity employers. When they would not accept the NAACP's hiring goal of 16 to 30 percent minority workers in future openings, protesters sat in along Auto Row again on April 11, and 226 were arrested [3]. A week later, with thousands massed on Van Ness for another sit-in, both sides made last-minute pledges to the mayor's interim committee on human relations [3]. \"Auto Row Pact Called Landmark,\" read a Chronicle headline [3]. The Don Lee building is now a city landmark and on the National Register [1].",
+    "people": [
+      {
+        "name": "Don Lee",
+        "role": "Cadillac dealer whose showroom was targeted"
+      },
+      {
+        "name": "Jo Freeman",
+        "role": "Protester, later historian of the sit-ins"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #152: Don Lee Building",
+        "publisher": "NoeHill (quoting the Van Ness Avenue Area Plan)",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf152.asp",
+        "supports": "1921, 'temple to the automobile', bears, landmark and National Register status"
+      },
+      {
+        "title": "Auto Row on Van Ness",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Auto_Row_on_Van_Ness",
+        "supports": "Civil rights campaign along Auto Row, especially Don Lee's Cadillac dealership"
+      },
+      {
+        "title": "Freedom Now! to Free Speech: How the 1963-64 Bay Area Civil Rights Demonstrations Paved the Way to Campus Protest",
+        "publisher": "FoundSF (Jo Freeman)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Freedom_Now!_to_Free_Speech:_How_the_1963-64_Bay_Area_Civil_Rights_Demonstrations_Paved_the_Way_to_Campus_Protest",
+        "supports": "Arrest counts March 14 and April 11, NAACP hiring goal, April 17 settlement"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-california-hall-ball",
+    "title": "Klieg lights at the New Year's ball",
+    "theme": "lgbtq",
+    "year": 1965,
+    "yearEnd": null,
+    "place": {
+      "label": "California Hall, 625 Polk Street at Turk",
+      "lat": 37.782407,
+      "lon": -122.419396,
+      "precision": "building"
+    },
+    "hook": "Ministers had warned the police about the dance in advance. The police came anyway, with floodlights and cameras, to photograph every guest who walked in.",
+    "story": "California Hall was built in 1912 by San Francisco's German Association, a great Teutonic \"Rathaus\" on the street that was then the heart of German shopping [1]. On New Year's Eve 1964 it hosted a fundraising Mardi Gras ball for the newly formed Council on Religion and the Homosexual, co-sponsored by the city's homophile groups [1][2][3]. The ministers had negotiated with police to prevent harassment. Instead, officers surrounded the hall with klieg lights and cameras and photographed each guest as they went in [2][3]. Paddy wagons waited in plain view, and police came in again and again for \"inspections\" [2]. More than 500 people went in anyway, among them clergymen and their wives. Sources count 500 to 600 [2][3]. After midnight the police made arrests, including attorneys Evander Smith and Herbert Donaldson, who had been hired in case of trouble [2][3]. The next day the ministers held a press conference condemning the police, one of the first times American clergy spoke out publicly for gay rights [3]. The judge ordered the jury to acquit the lawyers before the defence had even begun [2]. Historians have called that night San Francisco's Stonewall [2][3].",
+    "people": [
+      {
+        "name": "Evander Smith",
+        "role": "Attorney arrested at the ball"
+      },
+      {
+        "name": "Herbert Donaldson",
+        "role": "Attorney arrested at the ball"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #174: California Hall",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf174.asp",
+        "supports": "1912 German Association building; Dec. 31, 1964 CRH party and police photography"
+      },
+      {
+        "title": "Council on Religion and the Homosexual",
+        "publisher": "Wikipedia (citing Neil Miller, Out of the Past)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Council_on_Religion_and_the_Homosexual",
+        "supports": "Klieg lights, 600+ guests, police vans, arrests of lawyers, directed acquittal"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Ball at California Hall, 500+ guests, arrests after midnight, ministers' Jan. 2 press conference, 'San Francisco's Stonewall'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-vanguard-sweep",
+    "title": "Street kids sweep the Meat Rack",
+    "theme": "lgbtq",
+    "year": 1966,
+    "yearEnd": null,
+    "place": {
+      "label": "Market Street between Powell and Turk (the 'Meat Rack')",
+      "lat": 37.78371,
+      "lon": -122.40875,
+      "precision": "street"
+    },
+    "hook": "Three years before Stonewall, about forty gay and trans street kids picked up brooms lent by the city and swept Market Street, to prove society's 'trash' could work.",
+    "story": "In 1965 and 1966 a group of young gay and transgender people living on the Tenderloin's streets organised themselves as Vanguard. Many had been disowned by their families and were too young for legitimate work. They met at Glide Memorial Church with help from its ministers [1][2][3]. Adrian Ravarour and Billy Garrison are credited with founding the group, and J. P. Marat later became its president [2]. In 1966 Vanguard staged a \"clean sweep\" of the stretch of Market Street called the Meat Rack, where hustlers and street kids gathered and were regularly harassed by police [1][3]. Their press release announced that the sweep would be made \"not by the POLICE, but by the street people,\" and warned readers to \"get ready to hear about 'STREET POWER'\" [1]. Using brooms lent by the city, about forty young people swept the blocks between Powell and Turk [3]. \"We're considered trash by the rest of society,\" Marat said, \"and we wanted to show the rest of society that we want to work and can work\" [3]. Sources differ on the season: FoundSF says summer and dates a photo of the sweepers to June, while the city's LGBTQ history study says fall [1][3]. Vanguard is now often described as the first gay liberation organisation in the country [1].",
+    "people": [
+      {
+        "name": "Adrian Ravarour",
+        "role": "Co-founder of Vanguard"
+      },
+      {
+        "name": "J. P. Marat",
+        "role": "Vanguard president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "1966 Vanguard Sweep",
+        "publisher": "FoundSF (adapted from GLBT Historical Society)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=1966_Vanguard_Sweep",
+        "supports": "Press release text, youth and clergy, 'first gay liberation organization'"
+      },
+      {
+        "title": "Vanguard (organization)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Vanguard_(organization)",
+        "supports": "Founders, Glide meeting room, Marat as president"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Fall 1966 sweep-in on the Meat Rack, forty youth, city brooms, Powell to Turk, Marat quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-adonis-bookstore",
+    "title": "America's first gay bookstore, on Ellis Street",
+    "theme": "lgbtq",
+    "year": 1967,
+    "yearEnd": 2005,
+    "place": {
+      "label": "Site of the Adonis Bookstore, 348-350 Ellis Street",
+      "lat": 37.785238,
+      "lon": -122.412124,
+      "precision": "building"
+    },
+    "hook": "A former Mattachine Society president traded genteel activism for paperbacks and physique magazines, and opened what is often called the nation's first gay bookstore.",
+    "story": "Hal Call came to San Francisco in 1952, after an arrest in Chicago cost him his job at the Kansas City Star. He was a wounded Pacific War veteran and a journalist [1][2]. He soon led the Mattachine Society, the country's first sustained gay rights group. His Pan-Graphic Press printed the Mattachine Review and, for most of its first year, the lesbian magazine The Ladder [1][2]. According to FoundSF, in March 1967 Call and three partners, including Bob Damron, opened the Adonis Bookstore on Ellis Street between Jones and Taylor [1]. Wikipedia calls it the country's first gay adult shop, and FoundSF calls it the first gay bookstore. The city's LGBTQ history study calls it one of the first, gives the address as 348 Ellis, and dates the opening to both 1965 and 1966 in different chapters [1][2][3]. It sold pulp novels, physique magazines, gay greeting cards and records, and Call recalled \"hundreds of customers a day\" [1]. By 1967 the Mattachine headquarters itself had moved to the address [3]. Police raided the store in 1970 and seized films, but a judge dismissed the charges. In 1973 Call opened a back-room cinema, the CineMattachine [1][2]. He worked above his theatre until he died in 2000, and the last of his businesses on the block closed in 2005 [1].",
+    "people": [
+      {
+        "name": "Hal Call",
+        "role": "Mattachine Society leader and bookstore owner"
+      },
+      {
+        "name": "Bob Damron",
+        "role": "Co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hal Call, Pan-Graphic Press, and the Adonis Bookstore",
+        "publisher": "FoundSF (Joe Bourdage)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Hal_Call,_Pan-Graphic_Press,_and_the_Adonis_Bookstore",
+        "supports": "Opening March 1967 at 350 Ellis, partners, stock, 1970 raid, CineMattachine, 2005 closure"
+      },
+      {
+        "title": "Hal Call",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hal_Call",
+        "supports": "Biography, Pan Graphic Press, first gay adult shop, CineMattachine 1973"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Adonis Books at 348 Ellis, dated to 1965 and 1966 in different chapters; Mattachine HQ moved there by 1967"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-un-plaza-fountain",
+    "title": "A fountain of seven granite continents",
+    "theme": "architecture-landmarks",
+    "year": 1975,
+    "yearEnd": null,
+    "place": {
+      "label": "United Nations Plaza fountain, Market Street at Leavenworth alignment",
+      "lat": 37.78045,
+      "lon": -122.41305,
+      "precision": "area"
+    },
+    "hook": "Lawrence Halprin stacked Sierra granite into seven continents, with jetting-water oceans and computer-set tides. Then came decades of fights over who the plaza was for.",
+    "story": "United Nations Plaza was built from January to June 1975, after Market Street was rebuilt on top of the new BART and Muni subway [1]. The plaza stands on the site of the City Hall destroyed in 1906. It was dedicated that year to the founding of the United Nations, whose charter was signed in San Francisco in 1945 [1][2]. A team led by Lawrence Halprin, John Carl Warnecke and Mario Ciampi designed it, and Halprin designed the sunken fountain with Ernest Born [1]. Its 673 granite blocks from the Sierra Nevada, stacked in asymmetric slabs, represent the seven continents. Jets of water stand for the oceans, and the water in the 100-foot basin was meant to rise and fall to imitate the tides [1][2]. It cost about $1.2 million [1]. Halprin wanted a gateway that would bring office workers, theatre-goers, transit riders and neighbours together [2]. The fountain never worked as designed and was fenced off as early as 1978 [1]. Homeless people had long gathered on the site, and in 2003 the city fenced the fountain again and shut off its water to spare crews the daily cleanup of needles and waste [1]. Sources disagree about 2005: FoundSF says Mayor Gavin Newsom had the barriers removed, while Wikipedia says bollards and chains went up that year [1][2].",
+    "people": [
+      {
+        "name": "Lawrence Halprin",
+        "role": "Landscape architect"
+      },
+      {
+        "name": "Ernest Born",
+        "role": "Collaborator on the fountain"
+      }
+    ],
+    "sources": [
+      {
+        "title": "United Nations Plaza (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/United_Nations_Plaza_(San_Francisco)",
+        "supports": "Construction dates, designers, 673 granite blocks, cost, fencing in 1978 and 2003, 2005 bollards"
+      },
+      {
+        "title": "Lawrence Halprin and United Nations Plaza",
+        "publisher": "FoundSF (Linda Day)",
+        "year": 2017,
+        "url": "https://www.foundsf.org/index.php?title=Lawrence_Halprin_and_United_Nations_Plaza",
+        "supports": "Sierra granite continents and tides symbolism, design goals, 2005 barrier removal"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-tenderloin-times",
+    "title": "A newspaper from a shelter basement",
+    "theme": "communities",
+    "year": 1977,
+    "yearEnd": 1994,
+    "place": {
+      "label": "Hospitality House, 290 Turk Street (the paper's home by the 1990s)",
+      "lat": 37.78305,
+      "lon": -122.413763,
+      "precision": "building"
+    },
+    "hook": "It began as a two-page mimeographed sheet run by shelter residents. At its peak it printed in four languages and was nominated for a Pulitzer.",
+    "story": "In 1977 residents of Hospitality House's shelter began a two-page mimeographed newsletter in its basement, promising \"to publish news that directly affects the residents of this area\" [1]. The paper was founded by homeless people and the directors of the drop-in centre, and it printed practical guides to housing, medical and job services [2]. Under editors Rob Waters and Sara Colm, the Tenderloin Times grew into a real investigative paper. Its yearly count of homeless deaths and its reports on pedestrians killed in the neighbourhood were picked up by the mainstream press [1][2]. From 1985 it printed in English, Vietnamese, Khmer and Lao, reflecting the neighbourhood's growing Southeast Asian community [2]. According to Media Alliance's Mediafile, it was nominated for a Pulitzer Prize, and in 1989 the New York Times ran its coverage of the Loma Prieta earthquake [1]. Grants ran out in the early 1990s. The budget fell from about $300,000 to under $30,000, the remaining staff was laid off, and by the time Mediafile reported on it in 1994 a part-time crew of three residents was keeping it alive [1]. Colm left in 1991 to start the Phnom Penh Post [1].",
+    "people": [
+      {
+        "name": "Rob Waters",
+        "role": "Editor 1982-1987"
+      },
+      {
+        "name": "Sara Colm",
+        "role": "Editor, later founder of the Phnom Penh Post"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Last Days of the Tenderloin Times (orig. Mediafile, April/May 1994)",
+        "publisher": "FoundSF (Lisa Margonelli)",
+        "year": 1994,
+        "url": "https://www.foundsf.org/index.php?title=Last_Days_of_the_Tenderloin_Times",
+        "supports": "1977 founding, Pulitzer nomination, editors, budgets, 1994 layoffs, Colm's departure"
+      },
+      {
+        "title": "The Tenderloin Times",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/The_Tenderloin_Times",
+        "supports": "Founders, service information, four languages from 1985, homeless-death and pedestrian reporting"
+      },
+      {
+        "title": "Hospitality House",
+        "publisher": "Hospitality House",
+        "year": null,
+        "url": "https://www.hospitalityhouse.org/",
+        "supports": "Location at 290 Turk St"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-ambassador-hotel",
+    "title": "The hotel that took in the dying",
+    "theme": "modern-city",
+    "year": 1978,
+    "yearEnd": 1996,
+    "place": {
+      "label": "Ambassador Hotel, 55 Mason Street",
+      "lat": 37.784127,
+      "lon": -122.409391,
+      "precision": "building"
+    },
+    "hook": "When other programs turned away drug users and the gravely ill, a Mason Street hotel run by a gay activist took them in and made one floor a hospice.",
+    "story": "The Ambassador at 55 Mason Street opened in 1911 as the Ferris Harriman Hotel and Theater [1]. True-crime writer Miriam Allen deFord lived there from 1936 until her death in 1975 [1]. In 1978 gay activists Hank Wilson and Ron Lanza began leasing Tenderloin hotels, and Wilson ran the Ambassador until 1996 [1][2]. The city's LGBTQ history study quotes a description of his staff as \"drag queens, pre-op and post-op transsexuals, dykes and fags, queers of all colors\" [3]. The hotel accepted everyone, including drug users and very sick people who were screened out of other programs [3]. As AIDS spread through its rooms, Wilson recruited a nurse who worked there in his off-hours. Eventually about a third of the residents had HIV or AIDS, and one floor became a hospice [3]. A friend told the Chronicle that Wilson brought fresh flowers and plants to tenants' rooms, often paying himself, and that people called him \"the Mother Teresa of the Tenderloin\" [4]. The Ambassador became a model of harm-reduction housing [1][2]. In 2000 the Tenderloin Neighborhood Development Corporation bought and restored it as low-income housing [1].",
+    "people": [
+      {
+        "name": "Hank Wilson",
+        "role": "Activist who ran the hotel"
+      },
+      {
+        "name": "Ron Lanza",
+        "role": "Business partner"
+      },
+      {
+        "name": "Miriam Allen deFord",
+        "role": "Writer and longtime resident"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ambassador Hotel (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Ambassador_Hotel_(San_Francisco)",
+        "supports": "1911 origins, deFord, Wilson 1978-1996, harm reduction, TNDC 2000"
+      },
+      {
+        "title": "Hank Wilson",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hank_Wilson",
+        "supports": "1978 partnership with Lanza, Ambassador through 1996"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "All-comers policy, nurse, one-third HIV-positive, hospice floor"
+      },
+      {
+        "title": "Hank Wilson dies - gay liberation activist",
+        "publisher": "San Francisco Chronicle / SFGATE (Rachel Gordon)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/bayarea/article/Hank-Wilson-dies-gay-liberation-activist-3185940.php",
+        "supports": "Flowers, 'Mother Teresa of the Tenderloin'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-warfield-dylan",
+    "title": "Dylan's gospel shows revive a vaudeville house",
+    "theme": "arts-counterculture",
+    "year": 1979,
+    "yearEnd": null,
+    "place": {
+      "label": "Warfield Theatre, 982 Market Street",
+      "lat": 37.782687,
+      "lon": -122.410073,
+      "precision": "building"
+    },
+    "hook": "Al Jolson and Charlie Chaplin once played this Market Street vaudeville house. In 1979 Bob Dylan launched his gospel tour here, and the Warfield found a second life in rock.",
+    "story": "Loew's Warfield opened on May 13, 1922, as a vaudeville theatre named for the actor David Warfield. In the 1920s Al Jolson, Louis Armstrong and Charlie Chaplin all played there [1]. It was one of six great movie palaces on Market Street, and three of them fell: the California in 1962, the Fox in 1963 and the Granada/Paramount in the late 1960s [2]. The Warfield's rescue came from a surprising source. In November 1979 Bill Graham Presents booked Bob Dylan for a two-week run of 14 shows, the opening of his first gospel tour [1][2]. The theatre worked for rock because it had better sound and more intimacy than an arena but still held more than 2,000 people [1]. The Grateful Dead played 15 sold-out shows there in 1980 for their 15th anniversary, recorded for the albums Reckoning and Dead Set [1]. Jerry Garcia came back with his side bands 88 times, a record [1]. The seats were pulled out of the main floor in the 1980s for dancing. Joe Strummer of the Clash had once refused to play until the first two rows were removed [1].",
+    "people": [
+      {
+        "name": "Bob Dylan",
+        "role": "Musician"
+      },
+      {
+        "name": "Bill Graham",
+        "role": "Promoter"
+      },
+      {
+        "name": "Jerry Garcia",
+        "role": "Musician"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Warfield Theatre",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Warfield_Theatre",
+        "supports": "1922 opening, early performers, Dylan 1979, Grateful Dead 1980, Garcia 88 shows, Strummer"
+      },
+      {
+        "title": "San Francisco Landmark #94: Orpheum Theater",
+        "publisher": "NoeHill (quoting Landmarks Preservation Advisory Board case report, 1976)",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf094.asp",
+        "supports": "Six Market Street palaces, demolitions, concerts since 1979 Dylan run booked by Bill Graham Presents"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-aids-vigil-quilt",
+    "title": "Chained to the Federal Building door",
+    "theme": "civil-rights",
+    "year": 1985,
+    "yearEnd": 1995,
+    "place": {
+      "label": "Former Federal Building, 50 United Nations Plaza",
+      "lat": 37.780253,
+      "lon": -122.413847,
+      "precision": "building"
+    },
+    "hook": "Two men chained themselves to a federal door over AIDS. Their vigil lasted ten years, and signs taped to the same walls inspired the AIDS Memorial Quilt.",
+    "story": "On October 27, 1985, Steven Russell and Frank Bert chained themselves to the door of the Federal Building at 50 United Nations Plaza, which housed the regional office of Health and Human Services [1][2]. It has been described as the first civil disobedience against the AIDS epidemic anywhere [3]. Supporters gathered, and the protest became the ARC/AIDS Vigil, a round-the-clock camp on the plaza lawn. They demanded $500 million for AIDS research, benefits for people with AIDS-related conditions, and access to treatments available abroad [1][3]. Most of the campers were homeless or nearly homeless gay men. They cooked, slept in tents and handed out information, and doctors came daily to give free care [1]. One cold night city cleaners hosed them down. When federal officials tried to remove the vigil, a thousand supporters turned out, and the officials backed off [1]. In November 1985 Cleve Jones led a candlelight march in memory of Harvey Milk and George Moscone, and marchers taped signs naming loved ones lost to AIDS on the building's walls. The patchwork of signs gave him the idea for the NAMES Project AIDS Memorial Quilt [2]. The vigil lasted until a December storm in 1995 flattened the last tents [1][3].",
+    "people": [
+      {
+        "name": "Steven Russell",
+        "role": "Vigil founder"
+      },
+      {
+        "name": "Frank Bert",
+        "role": "Vigil founder"
+      },
+      {
+        "name": "Cleve Jones",
+        "role": "Activist who conceived the AIDS Memorial Quilt"
+      }
+    ],
+    "sources": [
+      {
+        "title": "AIDS/ARC Vigil 1985-1995",
+        "publisher": "FoundSF (Libby Ingalls)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=AIDS/ARC_Vigil_1985-1995",
+        "supports": "Founders, demands, camp life, hosing, federal retreat, 1995 storm"
+      },
+      {
+        "title": "50 United Nations Plaza Federal Office Building",
+        "publisher": "Wikipedia (citing SF Planning LGBTQ context statement)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/50_United_Nations_Plaza_Federal_Office_Building_(San_Francisco)",
+        "supports": "Oct. 27, 1985 date, HHS office, Cleve Jones signs and Quilt origin"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "'First use of civil disobedience against the AIDS epidemic', encampment, end in 1995 storm"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-2p-hastings-renamed",
+    "title": "A law school drops its founder's name",
+    "theme": "civil-rights",
+    "year": 2022,
+    "yearEnd": 2023,
+    "place": {
+      "label": "UC Law San Francisco (formerly Hastings), 198 McAllister Street",
+      "lat": 37.780886,
+      "lon": -122.415105,
+      "precision": "building"
+    },
+    "hook": "California's oldest law school carried the name of the judge who founded it for 144 years. Then historians linked his money to the massacre of the Yuki people.",
+    "story": "In 1878 Serranus Clinton Hastings, the first chief justice of the California Supreme Court, gave $100,000 to found the law school that bore his name. It is the state's oldest, and today it stands on McAllister Street [1][2]. Historian Benjamin Madley's 2016 book An American Genocide describes Hastings as the \"extremely wealthy mastermind\" behind Walter Jarboe's Eel River Rangers. In 1859 that militia massacred Yuki people around Round Valley in Mendocino County, near Hastings' ranch in Eden Valley [1][2]. At a state inquiry in 1860, Hastings said he had been ignorant of the \"outrages\" [2]. The school commissioned historian Brendan Lindsay to study the question, and in 2020 a review committee accepted that Hastings had helped foment the violence. It still recommended keeping the name [2]. After a New York Times story in 2021, the board voted unanimously to drop it [2]. The Round Valley Tribal Council and Yuki Indian Committee asked for a Yuki name, but in July 2022 the board chose the University of California College of the Law, San Francisco [2]. Governor Gavin Newsom signed the change into law on September 23, 2022, and the new name took effect in 2023 [2].",
+    "people": [
+      {
+        "name": "Serranus Clinton Hastings",
+        "role": "Founder of the law school"
+      },
+      {
+        "name": "Benjamin Madley",
+        "role": "Historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hastings College of Law Built on Genocide? (excerpt from An American Genocide, Yale, 2016)",
+        "publisher": "FoundSF (Benjamin Madley)",
+        "year": 2016,
+        "url": "https://www.foundsf.org/index.php?title=Hastings_College_of_Law_Built_on_Genocide%3F",
+        "supports": "Jarboe's Rangers, massacres, Hastings' role, $100,000 gift in 1878"
+      },
+      {
+        "title": "Serranus Clinton Hastings",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Serranus_Clinton_Hastings",
+        "supports": "1860 deposition, Lindsay white paper, 2020 committee, 2021 vote, tribal request, 2022 law, 2023 transition, Eden Valley ranch, July 2022 board vote"
+      }
+    ],
+    "photo": null
+  }
+]

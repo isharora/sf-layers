@@ -1,0 +1,822 @@
+[
+  {
+    "id": "sunset-parkside-2p-ice-arena",
+    "title": "An Ice Rink at the Dunes' Edge",
+    "theme": "communities",
+    "year": 1926,
+    "yearEnd": 1991,
+    "place": {
+      "label": "Site of the San Francisco Ice Arena, 1557 48th Avenue at Kirkham Street",
+      "lat": 37.75738,
+      "lon": -122.50819,
+      "precision": "building"
+    },
+    "hook": "For 65 years San Franciscans skated a block from the ocean, until the country's oldest operating rink fell to the wrecking ball.",
+    "story": "In September 1925 investors at the Burlingame Country Club were shown plans for an oval rink with no corners, better for fancy skating and the double turn waltz. It opened in March 1926 at 1557 48th Avenue. That July it staged the first hockey game seen in the city in ten years, and there was standing room only [1]. After general manager J.T. Ludlow died in 1929, his widow ran it briefly, then sold to Thomas and Lucinda 'Ma' Campbell. In 1938 the city refused to renew Lucinda's beer permit, since her customers were mostly minors. In 1946 she opened the ice to veterans from Bay Area military hospitals [1]. In 1959 two former Ice Follies stars, Hugh Hendrickson and Marlene Jackson, took over with her husband Joseph Thurston. That August Hendrickson was electrocuted in the brine room. He was 31. The Thurstons kept the rink going for three more decades. It hosted birthday parties and broomball after hours, and skaters like Peggy Fleming and Dorothy Hamill came out to the Sunset [1]. Seismic work and insurance costs finally beat it, even after Karen Wood gathered 1,200 signatures to save it. The rink came down on July 8, 1991. WNP says it was then the oldest operating arena in the country [1][2].",
+    "people": [
+      {
+        "name": "J.T. Ludlow",
+        "role": "first general manager"
+      },
+      {
+        "name": "Lucinda 'Ma' Campbell",
+        "role": "owner, 1930s to 1959"
+      },
+      {
+        "name": "Marlene Jackson and Joseph Thurston",
+        "role": "owners, 1959 to 1991"
+      },
+      {
+        "name": "Karen Wood",
+        "role": "led the 1990 campaign to save the rink"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SF Ice Arena",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Nicole Meldahl",
+        "year": 2020,
+        "url": "https://www.outsidelands.org/sf_ice_arena.php",
+        "supports": "1925 plans, 1926 opening, hockey, owners, beer permit, 1959 electrocution, 1990 campaign, 1991 demolition"
+      },
+      {
+        "title": "Outside Lands San Francisco Podcast #331R: San Francisco Ice Arena",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2025,
+        "url": "https://www.outsidelands.org/podcast/",
+        "supports": "mid-block rink on 48th Avenue between Kirkham and Lawton, 1920s to 1990s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-tornado-house",
+    "title": "The Day a Twister Spun a House",
+    "theme": "parks-nature",
+    "year": 1930,
+    "yearEnd": null,
+    "place": {
+      "label": "The 'Tornado House', 1896 46th Avenue near Ortega Street",
+      "lat": 37.75146,
+      "lon": -122.50508,
+      "precision": "building"
+    },
+    "hook": "In February 1930 police rushed to an 'explosion' in the Outer Sunset. What they found was a house screwed sideways into the sand.",
+    "story": "On February 24, 1930, a violent storm hit the Bay Area. It swept a deckhand off a tugboat at the Ferry Building, lightning set Oakland's city hall on fire, and hail and snow fell in the Mission. Then police got reports of an explosion near 46th Avenue and Ortega Street [1]. The block between 45th and 46th Avenues, Noriega and Ortega, still had just one house. Crews found it tilted in the dunes, ringed with broken lumber. It had not blown up. It looked as if it had been spun off its foundation and screwed down into the sand. Mrs. James C. Crampton of 2243 45th Avenue had watched a huge funnel go by: 'It seemed as if tons of sand were swirling round and round' [1]. The owner, John Voltz, was at work. Reporters and curious neighbors posed on the steeply tilted floors. A garage behind 1800 48th Avenue was wrecked too. The four daily papers weren't sure what to call it: 'freak squall,' 'freak storm,' 'a miniature twister' [1]. Voltz put his losses at $5,000 but didn't give up. His house, first built in 1911, was repaired where it stood, and it is still at 1896 46th Avenue, with a taller, angled upper floor [1][2].",
+    "people": [
+      {
+        "name": "John Voltz",
+        "role": "owner of the house"
+      },
+      {
+        "name": "Mrs. James C. Crampton",
+        "role": "neighbor and eyewitness"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ocean Beach's Tornado House",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Woody LaBounty (orig. Ocean Beach Bulletin)",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/tornado_house.php",
+        "supports": "storm events, the damaged house, eyewitness quote, newspaper terms, $5,000 loss, rebuilt house"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 138: Tornado House of the Sunset",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2015,
+        "url": "https://www.outsidelands.org/podcast/WNP138_Tornado_House",
+        "supports": "house originally built 1911, repaired at the same location, 1896 46th Avenue"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-chickery",
+    "title": "Fifty-Cent Chicken on the Great Highway",
+    "theme": "labor-industry",
+    "year": 1927,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Chick-ery restaurant, 2600 Great Highway (3655 Vicente Street), SE corner of Vicente",
+      "lat": 37.73778,
+      "lon": -122.50611,
+      "precision": "building"
+    },
+    "hook": "Locals whisper that two odd buildings on the Great Highway were a speakeasy and a haunted house. They started out selling chicken dinners.",
+    "story": "Two corner buildings frame the Great Highway block between Vicente Street and tiny Cutler Avenue. One mixes a Mission-style tile roof and rough wooden balconies with red brick and twin chimneys. The other has a long ocean-facing balcony and Art Deco trim. The stories about them are persistent: a Prohibition speakeasy, a brothel, a Schilling spice heir's retreat, a 'vicious ghost' [1]. Historian Woody LaBounty found something more ordinary. Both were built in 1927, well into Prohibition. Each was designed by an architect and cost more than $10,000, which would be a lot to spend on a conspicuous illegal business [1]. The real clue is the crowds. Cars were bringing San Franciscans to the beach in huge numbers: the Examiner counted 15,468 automobiles at Ocean Beach on a single Sunday in 1917 [1]. Fleishhacker Pool opened at the south end of the highway in 1925 and the zoo in 1929 [2]. Small eateries competed for those visitors. The brick building on the Vicente corner was the Chick-ery, a family place offering 50-cent chicken dinners. Directories list a man named Ulysses Ciati running a restaurant at the Cutler corner [1]. Neither lasted long into the Depression. Both are apartments now [1].",
+    "people": [
+      {
+        "name": "Ulysses Ciati",
+        "role": "ran a restaurant at 2650 Great Highway"
+      },
+      {
+        "name": "Woody LaBounty",
+        "role": "historian who traced the buildings"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chicken at the Sea",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Woody LaBounty (orig. Ocean Beach Bulletin)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/chickery.php",
+        "supports": "legends, 1927 construction, cost, 1917 car count, Chick-ery 50-cent dinners, Ciati, later apartments"
+      },
+      {
+        "title": "A Drive-By History of Great Highway",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2025,
+        "url": "https://www.outsidelands.org/a-drive-by-history-of-great-highway.php",
+        "supports": "1920s recreation boom; Fleishhacker Pool 1925, zoo 1929"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-surf-theatre",
+    "title": "Fellini and Espresso Out by the Beach",
+    "theme": "arts-counterculture",
+    "year": 1957,
+    "yearEnd": 1985,
+    "place": {
+      "label": "Site of the Surf Theatre, 4510 Irving Street between 46th and 47th Avenues",
+      "lat": 37.76245,
+      "lon": -122.5064,
+      "precision": "building"
+    },
+    "hook": "The neighborhood 'flea house' near Ocean Beach became where a generation of San Franciscans first saw Bergman, Kurosawa and Godard.",
+    "story": "The theatre at 4510 Irving Street opened around 1926 as the Parkview and became the Sunset Theatre in 1937 [1]. It showed second-run Hollywood films. Locals called it the 'flea house' for the sand fleas in the seats [2]. On July 24, 1957, owner Isabella Strohmeyer reopened it after a remodel as the Surf and started bringing international films to the Outer Sunset. A couple of years later she sold it to Mel Novikoff [2]. Novikoff's programs made the Surf a destination for serious moviegoers all over the Bay Area: Fellini, Kurosawa, Bergman and Godard, alongside 'Modern Times' and 'Metropolis.' Next door he opened the Cine Café, serving espresso in the Avenues when North Beach had almost the only espresso in town [2]. 'Here they were playing in the remotest hinterlands of the most conservative middle class neighborhood in the city,' recalled moviegoer Bruce Skogen. Gary Meyer remembered the N-Judah after a show, where dozens of strangers became a discussion group about the film [2]. Novikoff went on to revive the Castro Theatre. The Surf showed its last film on July 7, 1985, and a church has occupied the site for many years. The San Francisco International Film Festival gives an annual award in Novikoff's name [1][2].",
+    "people": [
+      {
+        "name": "Isabella Strohmeyer",
+        "role": "owner who reopened it as the Surf"
+      },
+      {
+        "name": "Mel Novikoff",
+        "role": "exhibitor and programmer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Surf Theatre",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) (information from Jack Tillmany)",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/surf_theater.php",
+        "supports": "address, opening as Parkview, 1937 and 1957 renamings, closing date"
+      },
+      {
+        "title": "Surf Theatre Memories",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Woody LaBounty (orig. Ocean Beach Bulletin)",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/surf-theatre-memories.php",
+        "supports": "flea house, Strohmeyer, Novikoff, films, Cine Café, quotes, closing, church, film festival award"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-polly-ann",
+    "title": "Spin the Wheel, Get Your Flavor",
+    "theme": "communities",
+    "year": 1955,
+    "yearEnd": null,
+    "place": {
+      "label": "Polly Ann Ice Cream, corner of 39th Avenue and Noriega Street",
+      "lat": 37.75346,
+      "lon": -122.49758,
+      "precision": "block"
+    },
+    "hook": "Can't choose between lychee, jasmine and 'bumpy freeway'? Since the 1960s a carnival wheel behind a Sunset ice cream counter has chosen for you.",
+    "story": "Polly Ann opened on July 16, 1955, near the corner of 39th Avenue and Noriega Street [1]. In 1959 Bernice and Chuck Lassiter bought it [1][3]. Their unusual flavors won ribbons at the State Fair, though Bernice admitted, 'I didn't know much about making ice cream when we started, but learned fast.' Nobody could tell her who the original Polly Ann was [1]. In 1967 the Lassiters sold to Ted and Lee Hanson, who added cones shaped like little dogs and the big carnival wheel that picks a flavor for undecided customers [1]. When St. Ignatius moved to the Sunset in 1969 without a lunch period, its students found their way to the 'original Polly Ann Ice Cream on Noriega' [2]. Charlie Wu bought the shop in 1985. He had learned ice cream making in Cornell University's food science program, where he was the first Asian student. Under Wu the recipe collection grew from 250 flavors to 500, including lychee, sesame, jasmine and 'bumpy freeway,' its rocky road [1]. When the original building was torn down in 2003, Polly Ann survived by selling taro, red bean and macapuno ice bars to supermarkets. It reopened in a new building on February 28, 2005. For the 50th anniversary cones cost 99 cents, and the old wheel was still spinning [1].",
+    "people": [
+      {
+        "name": "Bernice and Chuck Lassiter",
+        "role": "owners, 1959 to 1967"
+      },
+      {
+        "name": "Ted and Lee Hanson",
+        "role": "owners who added the flavor wheel"
+      },
+      {
+        "name": "Charlie Wu",
+        "role": "owner since 1985"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Polly Ann Ice Cream Parlor",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/polly_ann_ice_cream.php",
+        "supports": "opening, owners, wheel, Wu's training, flavors, 2003 to 2005 rebuild, anniversary"
+      },
+      {
+        "title": "Streetwise - The Sands of Time",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Frank Dunnigan",
+        "year": 2009,
+        "url": "https://www.outsidelands.org/streetwise-st-ignatius.php",
+        "supports": "1969 S.I. students going to the original Polly Ann on Noriega"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 261: Polly Ann Ice Cream",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2018,
+        "url": "https://www.outsidelands.org/podcast/WNP261_Polly_Ann",
+        "supports": "the Lassiters working at the shop in 1959"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-harrington-row",
+    "title": "The Builder Who Came Before the Streets",
+    "theme": "architecture-landmarks",
+    "year": 1911,
+    "yearEnd": null,
+    "place": {
+      "label": "Alonzo Harrington's Craftsman row, 1200 block of 42nd Avenue (1223 42nd Ave)",
+      "lat": 37.76382,
+      "lon": -122.5022,
+      "precision": "block"
+    },
+    "hook": "Alonzo Harrington moved to the empty Sunset in 1892. His 1911 row of shingled houses on 42nd Avenue is still among the district's finest.",
+    "story": "Alonzo Harrington started as a carpenter in San Francisco in 1886. In 1892 he moved to the Sunset, when it was almost empty, and he became one of its first important builders [1]. On the 1200 block of 42nd Avenue he built a row of fifteen houses in 1911. A neighborhood survey by SPEAK calls them some of the finest of the many Craftsman houses built in the Sunset in the 1910s. Each has its own composition and details. Eleven were still much as built in 2005, and two had been restored [1]. At 1223 there is a cross-gabled roof, wood shingles and heavy carved beam ends. At 1235 a front gable sweeps down in a 'ski-slope' curve, and the entry is a Tudor arch [1]. In January 1913 the Chronicle noted that 'A. Harrington, who has been building homes for more than twenty years in the Sunset district,' had more houses under construction on 42nd Avenue. He planted grass, palms and flowers in front of each one [2]. Survivors like these are rare. Of the 549 houses standing in the beachside Oceanside neighborhood in 1915, only about 50 or 60 kept high integrity by the 2000s [3].",
+    "people": [
+      {
+        "name": "Alonzo Harrington",
+        "role": "carpenter and builder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Architectural and Historical Resources of the Sunset District: The Oceanside Neighborhood, Historic Buildings with High Integrity",
+        "publisher": "SPEAK / SAHRIC, hosted by Western Neighborhoods Project",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/oceanside-survey1.php",
+        "supports": "Harrington biography, 1911 row of fifteen houses, descriptions of 1223 and 1235"
+      },
+      {
+        "title": "Sunset Fast Becoming Beautiful Residence Suburb (San Francisco Chronicle, Jan. 18, 1913), reprinted",
+        "publisher": "Western Neighborhoods Project",
+        "year": 1913,
+        "url": "https://www.outsidelands.org/1913_article.php",
+        "supports": "quote on Harrington's twenty years building and his 42nd Avenue houses and plantings"
+      },
+      {
+        "title": "The Oceanside Neighborhood: History",
+        "publisher": "SPEAK / SAHRIC, hosted by Western Neighborhoods Project",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/oceanside.php",
+        "supports": "549 residential buildings in 1915; about 50 to 60 with high integrity"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-oceanside-school",
+    "title": "A School Beneath the Grocery Store",
+    "theme": "communities",
+    "year": 1903,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the 1908 Oceanside Primary School, 43rd Avenue between Irving and Judah Streets",
+      "lat": 37.76137,
+      "lon": -122.50263,
+      "precision": "block"
+    },
+    "hook": "The beach settlement's first classroom met under a grocery on 48th Avenue. It grew into Francis Scott Key School.",
+    "story": "By 1903 families were living among the streetcar houses and cottages near Ocean Beach, and the neighborhood called Oceanside started its first school. The Oceanside Primary School met beneath a grocery store on 48th Avenue [1]. In 1908 the city built a big new Oceanside Primary School on 43rd Avenue between Irving and Judah, two stories and a basement under wooden shingles. It was demolished and rebuilt in 1913 and renamed Francis Scott Key School [1]. A half-timbered annex, its first story clad in 12-inch redwood planks, went up at 1351 42nd Avenue in the late 1910s or early 1920s, and it still stands [1]. Mothers ran things too. Ottie Fulmore, wife of a marine engineer, lived at 1247-49 46th Avenue from 1904. In 1947 a newspaper remembered her as the first president of the school's Parent-Teacher Association, originally called the 'Mother's Congress' [2]. Val Golding grew up across the street from the school at 3822 Kirkham. On his 11th birthday, December 8, 1941, a soldier knocked while the candles burned and ordered the lights down. Within days city crews painted the seaward side of every streetlight globe brown [3].",
+    "people": [
+      {
+        "name": "Ottie Fulmore",
+        "role": "first president of the school's PTA"
+      },
+      {
+        "name": "Val Golding",
+        "role": "neighbor who remembered the 1941 blackout"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Oceanside Neighborhood: History",
+        "publisher": "SPEAK / SAHRIC, hosted by Western Neighborhoods Project",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/oceanside.php",
+        "supports": "1903 school under a grocery, 1908 building, 1913 rebuild and renaming, annex"
+      },
+      {
+        "title": "The Oceanside Neighborhood: Historic Buildings with High Integrity",
+        "publisher": "SPEAK / SAHRIC, hosted by Western Neighborhoods Project",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/oceanside-survey1.php",
+        "supports": "Ottie Fulmore and the 'Mother's Congress'"
+      },
+      {
+        "title": "Sunset Reflections",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Val J. Golding",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/golding1.php",
+        "supports": "3822 Kirkham across from the school; Dec. 8, 1941 blackout; painted streetlight globes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-l-taraval-zoo",
+    "title": "The Mayor Drives the Streetcar to the Zoo",
+    "theme": "communities",
+    "year": 1937,
+    "yearEnd": null,
+    "place": {
+      "label": "L-Taraval loop at 46th Avenue and Taraval Street",
+      "lat": 37.742,
+      "lon": -122.5045,
+      "precision": "street"
+    },
+    "hook": "After five years of neighborhood lobbying, Mayor Rossi took the controls himself to open the L-Taraval's extension to the zoo, laid on secondhand rails.",
+    "story": "Transit made the Parkside. The Municipal Railway's L-Taraval reached 20th Avenue in September 1918 and 33rd Avenue in April 1919, and by January 1923 it ran to 48th Avenue [1]. Residents wanted more. On September 15, 1937, after five years of lobbying, the line was extended to turn down 46th Avenue to the Fleishhacker Playground, today's San Francisco Zoo [2]. Mayor Angelo Rossi kept up a tradition from 'Sunny Jim' Rolph and drove the first car himself. Parkside leaders Ray Schiller, Ed Haughy and Mabel Powell rode with him [2]. The rails weren't new. They were recycled from obsolete tracks on Gough Street and 10th Avenue. The WPA supplied the labor, so the nine-tenths of a mile that brought riders to the zoo and the huge Fleishhacker Pool cost the city's taxpayers nothing. Photos from the day show plenty of empty lots, which builders hoped better transit would fill [2]. Schiller was the man behind much of this. He repaired luggage in the garage of his house at 2422 25th Avenue. In the early 1930s he revived the Parkside District Improvement Club, and in 1935 he organized a McCoppin Square celebration that drew an estimated 10,000 people [1].",
+    "people": [
+      {
+        "name": "Angelo Rossi",
+        "role": "mayor, motorman for the first car"
+      },
+      {
+        "name": "Ray Schiller",
+        "role": "Parkside District Improvement Club organizer"
+      },
+      {
+        "name": "Mabel Powell",
+        "role": "Parkside community leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Parkside District 1905-1957 (Parkside Historic Context Statement)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "L-Taraval milestones 1918 to 1923; Ray Schiller, his business and the 1935 McCoppin Square event"
+      },
+      {
+        "title": "L-Taraval Extension, September 15, 1937",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/L-taraval-extension-1937.php",
+        "supports": "date, five years of lobbying, Rossi as motorman, riders, recycled rails, WPA labor, length"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-parkway-terrace",
+    "title": "De Young's Dunes Become Nelson's Villas",
+    "theme": "architecture-landmarks",
+    "year": 1913,
+    "yearEnd": 1925,
+    "place": {
+      "label": "Fernando Nelson's house, 2701 Lincoln Way at 28th Avenue (Parkway Terrace)",
+      "lat": 37.76478,
+      "lon": -122.48721,
+      "precision": "building"
+    },
+    "hook": "In 1913 a builder bought newspaper baron M.H. de Young's empty dunes along Lincoln Way. He added stone benches and put his name on the sewer covers.",
+    "story": "On February 27, 1913, the Chronicle reported 'the largest deal of its kind in the history of San Francisco.' Builder Fernando Nelson had bought four blocks between Lincoln Way and Irving Street, from 27th to 33rd Avenue, from M.H. de Young, who had held them empty since buying from Adolph Sutro in 1897. Nelson bought a fifth block from Lyon & Hoag, at nearly $45,000 a block [1]. The Lincoln Way streetcar made the land attractive. The Chronicle had just reported that new homes were going up fast facing the park [2]. Nelson graded the dunes and set the houses on raised berms, with garages dug in at street level. He put the wires in back yards, widened the avenues slightly mid-block, and placed rounded stone benches where each avenue meets Lincoln Way. Sewer covers in the sidewalks still carry his name [1]. His own Italian villa at 2701 Lincoln Way had solid mahogany rooms and a rooftop pergola facing the ocean. His wife Julia died after surgery in October 1916, soon after they moved in [1]. Over 60-plus years Nelson built about 4,000 houses. In 2015 the San Fran Dhammaram Temple restored the neglected villa as a home for its Buddhist nuns [1].",
+    "people": [
+      {
+        "name": "Fernando Nelson",
+        "role": "builder and developer of Parkway Terrace"
+      },
+      {
+        "name": "M.H. de Young",
+        "role": "seller of the land"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Jewel Restored: Fernando Nelson's House in Parkway Terrace",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Inge Horton (orig. SF West History)",
+        "year": 2015,
+        "url": "https://www.outsidelands.org/parkway_terrace_jewel.php",
+        "supports": "1913 purchase, prices, design features, 2701 Lincoln Way, Julia Nelson's death, 4,000 homes, 2015 temple restoration"
+      },
+      {
+        "title": "Sunset Fast Becoming Beautiful Residence Suburb (San Francisco Chronicle, Jan. 18, 1913), reprinted",
+        "publisher": "Western Neighborhoods Project",
+        "year": 1913,
+        "url": "https://www.outsidelands.org/1913_article.php",
+        "supports": "1913 building boom between Lincoln Way and Irving; Lincoln Way streetcar improvements"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-shriners-hospital",
+    "title": "A Hospital for Children Who Couldn't Pay",
+    "theme": "architecture-landmarks",
+    "year": 1923,
+    "yearEnd": 1998,
+    "place": {
+      "label": "Former Shriners Hospital for Crippled Children, 1601 19th Avenue between Lawton and Moraga (City Landmark No. 221)",
+      "lat": 37.75703,
+      "lon": -122.47719,
+      "precision": "building"
+    },
+    "hook": "Behind the 19th Avenue traffic stands a 1920s charity hospital with spiral columns and medallions of healed children. Neighbors fought to keep it from being bulldozed.",
+    "story": "At their 1920 convention in Portland, the Shriners voted unanimously to open hospitals for children up to age 14 whose families couldn't pay for care. The patients were accepted regardless of race, religion or country of origin. The first hospital opened in Shreveport in 1922, and San Francisco's was the third [2]. The architects Weeks & Day designed it, and it was built in 1922 and 1923 [1]. It is mostly Italian Renaissance, with spiral columns, della Robbia-style ornament over the entrance, a clay tile roof and Churrigueresque towers. It filled the block between 19th and 20th Avenues, Lawton to Moraga [1][2]. In the late 1960s an annex went up south of Moraga, and part of the street was closed for it [2]. By the 1990s it was the last pre-World War II hospital still operating in San Francisco. In August 1990 the Shriners announced a move to Sacramento, which opened in 1997. The first plan for the old site was to clear it for single-family homes. Neighbors won city landmark status in 1998 [2]. The main building became assisted living. The nurses' library was kept, and medallions of children being healed went back on the 19th Avenue front. A new street between the townhouses is called Shriners Avenue [2].",
+    "people": [
+      {
+        "name": "Weeks & Day",
+        "role": "architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #221: Shriners' Hospital",
+        "publisher": "NoeHill in San Francisco (adapted from Planning Commission Resolution No. 14523, 1998)",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/sf221.asp",
+        "supports": "1922-23 construction, significance, Weeks & Day, architectural description"
+      },
+      {
+        "title": "Streetwise: Preserving a Sunset District Block",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Frank Dunnigan",
+        "year": 2021,
+        "url": "https://www.outsidelands.org/streetwise-shrinehospital.php",
+        "supports": "1920 vote, admission policy, third hospital, annex, 1990 closure announcement, 1997 move, 1998 landmark, reuse, Shriners Avenue"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-infant-shelter",
+    "title": "Babies, Then Pianos, in Mullgardt's Last Building",
+    "theme": "architecture-landmarks",
+    "year": 1928,
+    "yearEnd": 2006,
+    "place": {
+      "label": "Former Infant Shelter / S.F. Conservatory of Music, 1201 Ortega Street at 19th Avenue (City Landmark No. 242)",
+      "lat": 37.75199,
+      "lon": -122.47683,
+      "precision": "building"
+    },
+    "hook": "The last building by a celebrated San Francisco architect housed orphaned babies, then a conservatory of music. Its designer claimed Shakespeare was dictating plays to him.",
+    "story": "The Infant Shelter traced its roots to the 1870s. In 1927 it planned a new orphanage at 19th Avenue and Ortega Street, and the building went up in 1928 and 1929 [1]. Heritage News calls it the last building by Louis Christian Mullgardt (WNP says one of his last), who had designed the Court of the Ages at the 1915 Panama-Pacific Exposition [1][3]. Mullgardt loved color, texture and applied art. On the Ortega Street side, the entry has ornamental brick, terra cotta columns and a sculpted frieze, probably carved by the architect himself, and the corner gables show a Mission Revival influence [1]. In a 1936 photo a sand-hauling streetcar works along Ortega near 21st Avenue with the shelter in the background [2]. Mullgardt's own end was sad. In 1935 he was found wandering the streets with a carpetbag of unfinished plays that he said William Shakespeare was dictating to him. In 1941 he was found incapacitated in a dreary residential hotel and taken to a pauper's ward, and he died the next year [1]. The orphanage lasted until the mid-1950s. In 1956 the San Francisco Conservatory of Music moved in and stayed fifty years before leaving for Oak Street in 2006 [1][4]. Today it houses the Lycée Français La Pérouse [1].",
+    "people": [
+      {
+        "name": "Louis Christian Mullgardt",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #242: Infant Shelter",
+        "publisher": "NoeHill in San Francisco (quoting WNP and Heritage News, 2001)",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/sf242.asp",
+        "supports": "history, construction dates, Mullgardt's design, his decline, Conservatory era, Lycée"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 67: Infant Shelter",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2014,
+        "url": "https://www.outsidelands.org/podcast/WNP67_Infant_Shelter",
+        "supports": "landmark #242; 1936 photo of sand car on Ortega near 21st with the shelter behind"
+      },
+      {
+        "title": "Louis Christian Mullgardt",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Louis_Christian_Mullgardt",
+        "supports": "Court of the Ages at the 1915 PPIE; death in 1942"
+      },
+      {
+        "title": "San Francisco Conservatory of Music",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Conservatory_of_Music",
+        "supports": "1956 move to 1201 Ortega; 2006 move to 50 Oak Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-si-moves-west",
+    "title": "The Jesuits Build on the Biggest Dune",
+    "theme": "communities",
+    "year": 1969,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Ignatius College Preparatory, 2001 37th Avenue",
+      "lat": 37.74886,
+      "lon": -122.49582,
+      "precision": "building"
+    },
+    "hook": "In 1969 St. Ignatius left Stanyan Street for a Sunset sand dune. Its students stripped the old school for souvenirs and hid beer in the sand.",
+    "story": "Frank Dunnigan remembered the biggest dune of his Sunset childhood: 37th to 39th Avenue, Pacheco to Rivera. In 1969 St. Ignatius built its new campus on it, with the Post Office address '2001 37th Avenue' [1]. After 40 years on Stanyan Street, the Jesuit school under its president, Father Harry Carlin, moved at the end of August 1969 and took the name St. Ignatius College Preparatory [1][2]. By then about two-thirds of its roughly 1,000 students lived in the western neighborhoods [1]. Leaving was hard. The old building had been sold to USF. Students still carried off drinking fountains, hallway clocks and even the Stanyan-McAllister street sign, despite warnings from principal Father Edward McFadden [1]. Student volunteers helped load the moving vans. When the year started, only the classroom building and the Jesuit residence were ready. With no cafeteria, gym or library, the school ran a short 8:10-to-1:20 day with no lunch period, so students scouted Taraval and Noriega for food. Physics students noticed that the dunes around the campus kept beer cans cool for hours [1].",
+    "people": [
+      {
+        "name": "Father Harry Carlin, S.J.",
+        "role": "school president who led the move"
+      },
+      {
+        "name": "Frank Dunnigan",
+        "role": "class of 1970 and later WNP columnist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise - The Sands of Time",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Frank Dunnigan",
+        "year": 2009,
+        "url": "https://www.outsidelands.org/streetwise-st-ignatius.php",
+        "supports": "the dune, address, 1969 opening, enrollment, souvenir hunting, move, unfinished campus, schedule"
+      },
+      {
+        "title": "St. Ignatius College Preparatory",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/St._Ignatius_College_Preparatory",
+        "supports": "40 years on Stanyan Street; 1969 move under Fr. Harry Carlin and renaming"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-parkside-school",
+    "title": "The Schoolhouse the Parkside Couldn't Keep",
+    "theme": "communities",
+    "year": 1923,
+    "yearEnd": 2004,
+    "place": {
+      "label": "Site of Parkside School (now Dianne Feinstein Elementary), 25th Avenue and Vicente Street",
+      "lat": 37.73962,
+      "lon": -122.48176,
+      "precision": "building"
+    },
+    "hook": "Generations of Parkside kids filled John Reid Jr.'s Spanish-and-Tudor schoolhouse. Its demolition, and the new name, still sting some of them.",
+    "story": "The Parkside's first school opened in 1909 with four grades, on Taraval Street near 31st Avenue, on land donated by the Parkside Realty Company. That little building was later moved to 15th Avenue and served as the first St. Cecilia's Church [2]. The district outgrew it. By 1922 or 1923 (WNP gives both years) it had a large new Parkside School at 25th Avenue and Vicente, designed by city architect John Reid Jr. in a mix of Spanish Colonial and English Tudor [1]. Its auditorium hosted assemblies, flower shows and town hall meetings [1]. In the 1957 earthquake one girl found herself still sitting in her chair, now against the classroom wall. The school sent everyone home without calling parents [3]. In 1970 the red roof tiles and outside woodwork were stripped off to meet earthquake safety rules. Classes ended in 1975 for a rebuild that kept getting delayed, and for two decades the building held district offices. Alumni protested when demolition finally came in 2004 [1]. The new school was named for Dianne Feinstein. Neighbors won the words 'at the Parkside Campus.' Writing in 2012 at 81, alumna Mimi Loupe was 'still smarting,' because Feinstein grew up in the Richmond [1][4].",
+    "people": [
+      {
+        "name": "John Reid Jr.",
+        "role": "city architect"
+      },
+      {
+        "name": "Mimi Loupe",
+        "role": "alumna"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Parkside School",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/parkside-school.php",
+        "supports": "location, dates, architect, styles, auditorium uses, 1970 alterations, 1975 closure, demolition, name"
+      },
+      {
+        "title": "San Francisco's Parkside District 1905-1957 (Parkside Historic Context Statement)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "first Parkside School of 1909 and its later use as St. Cecilia's church"
+      },
+      {
+        "title": "Remembering the 1957 Earthquake",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), compiled by Jo Anne Quinn",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/1957-quake.php",
+        "supports": "Edna L.'s memory of the quake at Parkside School"
+      },
+      {
+        "title": "The Parkside and the Characters from Long Ago",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Mimi Loupe",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/parkside-characters.php",
+        "supports": "reaction to the Feinstein renaming"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-edgewood",
+    "title": "Where the 'P.O. Kids' Grew Up",
+    "theme": "communities",
+    "year": 1924,
+    "yearEnd": null,
+    "place": {
+      "label": "Edgewood Center (former S.F. Protestant Orphanage), 1801 Vicente Street at 29th Avenue",
+      "lat": 37.73798,
+      "lon": -122.48626,
+      "precision": "building"
+    },
+    "hook": "San Francisco's first orphanage, founded by women in 1851, moved to the Parkside dunes in 1924, where children lived with 'cottage mothers.'",
+    "story": "In 1851 a group of San Francisco women, most of them clergymen's wives, took in five children orphaned by an epidemic. Their society ran the San Francisco Protestant Orphan Asylum on Haight Street, and until 1958 its board was all women. It took only white Protestant children, and in its early years it turned away children of parents judged 'immoral' [1]. Experts were moving away from dormitories toward cottages that felt like family homes. In 1923 the orphanage bought ten acres on Vicente Street between 28th and 30th Avenues and hired Bliss & Faville. The model was the Pacific Hebrew Orphan Society's cottage campus, Homewood Terrace, on Ocean Avenue [1]. Edgewood opened in 1924. It had an administration building with twin staircases and six cottages, each for twenty children, two 'cottage mothers' and an assistant. The children went to Parkside School and called themselves 'P.O. kids' [1]. Few were really orphans. By 1944 only about six percent were, and the institution renamed itself Edgewood that year [1]. Later it dropped its race and religion rules and became a treatment center for children at risk. The cottages still stand among the pines [1][2].",
+    "people": [
+      {
+        "name": "Bliss & Faville",
+        "role": "architects of the campus"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Edgewood Center: New Growth after 160 Years",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Woody LaBounty",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/edgewood.php",
+        "supports": "founding, policies, 1923 purchase, cottage model, campus, P.O. kids, 1944 renaming, later mission"
+      },
+      {
+        "title": "San Francisco's Parkside District 1905-1957 (Parkside Historic Context Statement)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "1801 Vicente Street, built 1924, cottage system, six cottages now Edgewood Center"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-pinehurst-lodge",
+    "title": "Old King Cole Above the Children's Fireplace",
+    "theme": "architecture-landmarks",
+    "year": 1928,
+    "yearEnd": null,
+    "place": {
+      "label": "Pinehurst Lodge, 2685 30th Avenue",
+      "lat": 37.7373,
+      "lon": -122.48794,
+      "precision": "building"
+    },
+    "hook": "Among the Parkside's stucco row houses stands a brick lodge the Junior League built for children waiting for foster homes, decorated with tiles of animals and ships.",
+    "story": "In 1928 the San Francisco Junior League built Pinehurst as a home for poor children and orphans waiting for foster homes [1][2]. The architects were Ashley, Evers and Hayes. Their two-story brick building has a tile roof and a curved driveway, and it stands out on a big wooded lot among the Parkside's modest row houses. Three wings enclose a courtyard on the west side for gatherings [1]. The details were made for children. The recreation room walls have tiles of animals, ships and castles, and the fireplace in the visitors' room carries a frieze of Old King Cole [1]. The Ghirardelli family gave the salon in memory of their daughter Esperance. Its ceiling is inscribed in Latin with the verse from Corinthians that ends, 'the greatest of these is love' [1]. In 1929 the building won a 'city clubhouses' award at the Northern California Architectural Exhibition at the de Young Museum [1]. Pinehurst later served several social service agencies. The Salvation Army has owned it since 1946 [1], and WNP notes its long history of sheltering vulnerable women and children [3].",
+    "people": [
+      {
+        "name": "San Francisco Junior League",
+        "role": "builder and founder"
+      },
+      {
+        "name": "Ashley, Evers and Hayes",
+        "role": "architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pinehurst Lodge (from 'Sixteen Notable Buildings', SPEAK, 2004-2005)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/pinehurst-lodge.php",
+        "supports": "builder, purpose, architects, design, tiles, frieze, Ghirardelli salon, 1929 award, Salvation Army"
+      },
+      {
+        "title": "San Francisco's Parkside District 1905-1957 (Parkside Historic Context Statement)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "Pinehurst Lodge entry, 2685 30th Avenue, built 1928"
+      },
+      {
+        "title": "Outside Lands San Francisco Podcast #360: Pinehurst Lodge",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2020,
+        "url": "https://www.outsidelands.org/podcast/",
+        "supports": "history of sheltering vulnerable women and children"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-basque-gardeners",
+    "title": "Two Brothers, Two Mowers, One Chevy Truck",
+    "theme": "labor-industry",
+    "year": 1968,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Bank of America Parkside Branch, Taraval Street at 20th Avenue",
+      "lat": 37.74324,
+      "lon": -122.47705,
+      "precision": "block"
+    },
+    "hook": "At a Parkside bank in the late 1960s, a Spanish-speaking trainee helped newly arrived Basque brothers finance gardening businesses. Years later they were buying apartment buildings.",
+    "story": "Taraval near 20th Avenue was the Parkside's banking corner. Its first two bank branches opened there in 1927, along with the district's only movie theater [2]. In the late 1960s Stephen Jordan, a Bank of America international trainee, was sent to the Parkside Branch at Taraval and 20th for credit training. The branch was, in his words, 'very Italian,' and the staff called him 'Stefano Giordiano' [1]. Manager Sam Centanni arrived at 8:30 every morning in a homburg with his overcoat over his shoulders. Operations manager Dave Dioli caught the coat, and Sam spent the day, Jordan wrote, receiving visitors 'pretty much like Vito Corleone' [1]. Jordan spoke Spanish, so he spent his days with loan officer Bob Zerrila, translating for Spanish Basques just off the boat who wanted to start as gardeners. They always came as two brothers, and they all wanted a used Chevy truck, two lawn mowers, hedge clippers and rakes. The bankers set up a $5,000 package with a local hardware store and the nearest Chevy dealer [1]. A couple of years later Zerrila told him every loan had been repaid on schedule, and the gardeners were buying apartment buildings [1].",
+    "people": [
+      {
+        "name": "Stephen E. Jordan",
+        "role": "Bank of America trainee"
+      },
+      {
+        "name": "Bob Zerrila",
+        "role": "commercial loan officer"
+      },
+      {
+        "name": "Sam Centanni",
+        "role": "branch manager"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Banking in the Parkside",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Stephen E. Jordan",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/parkside-banking.php",
+        "supports": "branch location, staff, Centanni's routine, Basque gardener loans, repayment"
+      },
+      {
+        "title": "San Francisco's Parkside District 1905-1957 (Parkside Historic Context Statement)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "first two bank branches and the movie theater opened near 20th and Taraval in 1927"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-pine-lake-ice",
+    "title": "Through the Ice at 'Mud Lake'",
+    "theme": "parks-nature",
+    "year": 1948,
+    "yearEnd": null,
+    "place": {
+      "label": "Pine Lake (Laguna Puerca), Pine Lake Park west of Stern Grove",
+      "lat": 37.7358,
+      "lon": -122.4895,
+      "precision": "area"
+    },
+    "hook": "One winter in the late 1940s, an 11-year-old went out on frozen Pine Lake to save a drowning dog and then couldn't get out himself.",
+    "story": "Pine Lake is one of the natural lakes formed when creeks running off Golden Gate Heights were dammed by sand dunes. Its old name was Laguna Puerca. 'Puerca' means pig and is used to mean dirty, and locals called it Mud Lake or Pig Lake [2]. In the late 1940s it was a muddy pond ringed by trees and steep hillsides. James Clifford, who lived on 45th Avenue, would ride his bike 25 blocks to swing out over the water on ropes tied to branches. His homemade rowboat sank the moment it was launched [1]. One winter day a small boy's dog chased a stick onto the ice and fell through. Clifford, 11, went after it and broke through too. He shoved the dog to safety and it ran off with its owner. Then, as he shouted for help and his arms slipped off the ice, a teenager in a black leather jacket threw him a rope. The teenager walked off with a curse and a warning [1]. A Mrs. Kenney in a house on the hill put him in a warm bath. Her husband later invited him to join his Boy Scout troop, Troop 108, and gave him a lesson: on ice, crawl, don't walk [1].",
+    "people": [
+      {
+        "name": "James O. Clifford Sr.",
+        "role": "the boy who fell through, later the author of the memoir"
+      },
+      {
+        "name": "Mr. and Mrs. Kenney",
+        "role": "neighbors who took him in"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Escape from Pine Lake",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), James O. Clifford Sr.",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/pine-lake-escape.php",
+        "supports": "the lake in the 1940s, rope swings, boat, rescue, Kenneys, Troop 108"
+      },
+      {
+        "title": "San Francisco's Parkside District 1905-1957 (Parkside Historic Context Statement)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "formation of Laguna Puerca/Pine Lake, meaning of the name, Mud Lake and Pig Lake"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-2p-mariners",
+    "title": "Pop Warner Football Out of a Police Garage",
+    "theme": "communities",
+    "year": 1961,
+    "yearEnd": 1976,
+    "place": {
+      "label": "Taraval Police Station, 2345 24th Avenue (across from McCoppin Square)",
+      "lat": 37.74372,
+      "lon": -122.48137,
+      "precision": "building"
+    },
+    "hook": "For fifteen seasons a Sunset youth football team kept its lockers in a police station garage and practiced across the street in McCoppin Square.",
+    "story": "In fall 1961 Bob Moore, John Shea and police officer Steve Spelman put together the first San Francisco Mariners, a Pop Warner youth football team, with Sully Cassou. Spelman had coached the Police Athletic League's Happy Hibernian Warriors, and Moore and Shea coached flag football at South Sunset Park [1]. The team started at 26th and Vicente. Then it moved into the garage of the Taraval Police Station, a brick-fronted 1924 building on 24th Avenue [1][2]. The boys practiced across the street at McCoppin Square and played home games on Lincoln High's field. So many came out that the club added two younger squads, the Mariner Mates and the Mariner Seaweeds [1]. They lost the 1966 championship to the San Francisco Steelers. In 1968 they won the city championship at the Junior Bantam level, beating the San Ramon Thunderbirds 14-0 in the Joe Lacy Memorial Bowl [1]. The coaches were mostly businessmen, construction workers and police officers. Their motto: 'A man never stands so tall as when he stoops to help a boy.' By 1976 the club had folded. The lockers were cleared out of the station garage, and the green-and-white jackets went into Sunset attics [1].",
+    "people": [
+      {
+        "name": "Bob Moore",
+        "role": "co-founder and coach"
+      },
+      {
+        "name": "John Shea",
+        "role": "co-founder and coach"
+      },
+      {
+        "name": "Steve Spelman",
+        "role": "SFPD officer and co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The San Francisco Mariners Football Club",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), Donna Fentanes",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/mariners.php",
+        "supports": "founders, locations, McCoppin practices, squads, 1966 and 1968 seasons, motto, 1976 folding"
+      },
+      {
+        "title": "San Francisco's Parkside District 1905-1957 (Parkside Historic Context Statement)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "Taraval Police Station, 2345 24th Avenue, built 1924 with a brick facade"
+      }
+    ],
+    "photo": null
+  }
+]

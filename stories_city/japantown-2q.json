@@ -1,0 +1,533 @@
+[
+ {
+  "id": "japantown-2q-knights-templar-macedonia",
+  "title": "Crusader knights' hall, then Macedonia Baptist",
+  "theme": "architecture-landmarks",
+  "year": 1907,
+  "yearEnd": 1967,
+  "place": {
+   "label": "Golden Gate Commandery / Macedonia Missionary Baptist Church, 2135 Sutter Street between Steiner and Pierce (Landmark No. 202)",
+   "lat": 37.785673,
+   "lon": -122.435559,
+   "precision": "building"
+  },
+  "hook": "Masonic knights built a medieval-style hall on Sutter Street. After 1950 a growing Black congregation bought it, and in 1967 Martin Luther King Jr. preached there.",
+  "story": "The Knights Templar, a Masonic order that traced itself back to the crusaders who guarded pilgrims to the Holy Land, were still building their new hall at 2135 Sutter when the 1906 earthquake struck [1]. It was finished in October 1907. The Chronicle called it \"one of the finest and best appointed temples in the land\" [1]. Architects Matthew O'Brien and Carl Werner, who also designed the Tivoli and Golden Gate theatres, gave it red brick over rough stone, cream terra-cotta shields, winged knights and sculpted heads, and a crenellated roofline [1][2]. After the Second World War fraternal lodges lost members to the suburbs. In 1950 the commandery moved to Van Ness Avenue and sold the hall to Macedonia Baptist Church, whose members were mostly African Americans from the Western Addition and the Fillmore [1]. Under Rev. P. S. Ogborne it grew to 2,000 members by 1957. The city's landmark resolution credits it as a centre of the postwar civil rights struggle [2]. Martin Luther King Jr. preached at two services there on 26 February 1967 [1]. Redevelopment and Peoples Temple later pulled members away, and after Jonestown in 1978 Rev. G. L. Bedford buried some of its dead [1].",
+  "people": [
+   {
+    "name": "Carl Werner and Matthew O'Brien",
+    "role": "architects"
+   },
+   {
+    "name": "Rev. P. S. Ogborne",
+    "role": "pastor until 1957"
+   },
+   {
+    "name": "Rev. G. L. Bedford",
+    "role": "later pastor"
+   },
+   {
+    "name": "Martin Luther King Jr.",
+    "role": "preached here in 1967"
+   }
+  ],
+  "sources": [
+   {
+    "title": "First a Masonic meeting hall, now a church",
+    "publisher": "The New Fillmore (Bridget Maley)",
+    "year": 2016,
+    "url": "https://newfillmore.com/2016/09/15/first-a-masonic-meeting-hall-now-a-church/",
+    "supports": "Construction interrupted by 1906 quake; October 1907 completion and Chronicle quote; architects and design; 1950 sale to Macedonia; Ogborne, 2,000 members; King's services on 26 Feb 1967; Peoples Temple burials"
+   },
+   {
+    "title": "San Francisco Landmark #202: Macedonia Baptist Church",
+    "publisher": "NoeHill in San Francisco (quoting Planning Commission Resolution 13419, 1992)",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf202.asp",
+    "supports": "Architects O'Brien and Werner; brick and terra-cotta Jacobean-style Medieval Revival; after 1949 a centre of civil rights activity"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-fillmore-tunnel",
+  "title": "The tunnel Fillmore Street almost got",
+  "theme": "modern-city",
+  "year": 1912,
+  "yearEnd": 1913,
+  "place": {
+   "label": "Planned south portal of the Fillmore Street Tunnel, Fillmore Street just south of Sutter",
+   "lat": 37.78595,
+   "lon": -122.433,
+   "precision": "street"
+  },
+  "hook": "In 1912 the city voted to bore a streetcar tunnel from Sutter Street under Pacific Heights to the World's Fair. Then one merchant got his tax bill.",
+  "story": "Fillmore merchants had a problem. \"Proud as we are of Fillmore Street, it is today a cul-de-sac with a wall at each end,\" one of their brochures complained [1]. With the 1915 Panama-Pacific Exposition rising on the bay shore, the Fillmore Street Improvement Association campaigned for a tunnel. Transit expert Bion J. Arnold endorsed a route under the hill from Sutter to Filbert Street [1]. On 23 April 1912 the city adopted the plan: a bore 4,332 feet long with a gentle 2 percent grade for streetcars, cars and pedestrians, starting from a portal at Fillmore and Sutter [1][2]. Property owners would pay through an assessment district. Heiress Virginia Vanderbilt, who owned 22 blocks of the future Marina, refused to meet the delegation sent to New York to ask her to contribute [1]. In September 1913 the association's own vice chairman, Samuel Adelstein, received a bill of $2,309.50 for his Fillmore Street lot between Post and Geary. He thought it unfair and went overnight from the tunnel's leading champion to its chief opponent. Within days the supervisors voted to postpone the project indefinitely, blaming high assessments and the risk it would not be finished before the fair opened [1]. Fairgoers came by the new Stockton Street Tunnel instead, or rode the Fillmore Street streetcar over the hill [1].",
+  "people": [
+   {
+    "name": "Samuel Adelstein",
+    "role": "Fillmore Street Improvement Association vice chairman"
+   },
+   {
+    "name": "Bion J. Arnold",
+    "role": "transit consultant"
+   },
+   {
+    "name": "Virginia Vanderbilt",
+    "role": "Harbor View landowner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A tunnel under Fillmore",
+    "publisher": "The New Fillmore (Peggy Zeigler)",
+    "year": 2015,
+    "url": "https://newfillmore.com/2015/06/03/a-tunnel-under-fillmore/",
+    "supports": "Arnold's endorsement; Sutter-to-Filbert route; 23 April 1912 resolution and 4,332 ft length; Vanderbilt refusal; Adelstein's $2,309.50 assessment and reversal; September 1913 indefinite postponement; brochure quote"
+   },
+   {
+    "title": "Western Addition Early 20th Century Life and Work (Issel and Cherny)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Western_Addition_Early_20th_Century_Life_and_Work",
+    "supports": "Plans drawn up in 1912 to tunnel beneath Fillmore to the Marina that never came to pass; 1915 tunnel plan drawing"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-kabuki-theater",
+  "title": "America's first real kabuki stage, then movies",
+  "theme": "arts-counterculture",
+  "year": 1968,
+  "yearEnd": 2007,
+  "place": {
+   "label": "Kabuki Theater (now AMC Kabuki), 1881 Post Street at Fillmore",
+   "lat": 37.784873,
+   "lon": -122.432646,
+   "precision": "building"
+  },
+  "hook": "Japan Center's west end was built for kabuki, with a revolving stage, trap doors and dinner tables. It became a movie house and the film festival's home.",
+  "story": "The concrete theatre anchoring the west end of the Japan Center was built in 1967 for kabuki. Planning's 2009 survey calls it the first authentic kabuki theatre in America. It had a low, wide proscenium, a long ramp for actors' entrances and exits, a revolving stage and trap doors [1]. The audience sat at dining tables. Under an agreement with the mall, the Kabuki Theater Restaurant could serve only Chinese and American food, so it would not compete with the Japanese restaurants next door [1]. Kunizo Matsuo, who ran the theatre, brought plays from Japan in a faster, modernised style that included actresses, who are traditionally barred from kabuki. The stage also hosted Nippon Kagekidan, a 75-woman nightclub revue, and a kabuki Madame Butterfly [1]. Sources differ on when it became a cinema: the New Fillmore says AMC bought the building in 1978 and turned the dinner theatre into a multiplex [3], while the Chronicle says it opened as an art house in 1986 [2]. The San Francisco Film Society came to hold many of its festival screenings there. Sundance Cinemas, part of Robert Redford's Sundance Group, bought it from AMC in 2006 and reopened it in December 2007 after a $6 million remodel, with reserved seats and the city's only cinema liquor licence [2].",
+  "people": [
+   {
+    "name": "Kunizo Matsuo",
+    "role": "presented Japanese companies at the theatre"
+   },
+   {
+    "name": "Robert Redford",
+    "role": "founder of Sundance, which reopened the theatre in 2007"
+   },
+   {
+    "name": "Paul Richardson",
+    "role": "Sundance Cinemas CEO"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Japanese Cultural and Trade Center, DPR 523 historic resource record",
+    "publisher": "Page & Turnbull for SF Planning",
+    "year": 2009,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1790-Japan%20Center.pdf",
+    "supports": "1881 Post built 1967; first authentic kabuki theatre in America; stage features; dining tables; Chinese and American food only; Matsuo, women performers, Nippon Kagekidan, kabuki Madame Butterfly"
+   },
+   {
+    "title": "Kabuki upgrades the moviegoing experience with dinner, drinks, art",
+    "publisher": "San Francisco Chronicle / SFGATE (Jesse Hamlin)",
+    "year": 2007,
+    "url": "https://www.sfgate.com/entertainment/article/Kabuki-upgrades-the-moviegoing-experience-with-3300075.php",
+    "supports": "$6 million Sundance remodel; bought from AMC in 2006; only theatre in town with a liquor licence; reserved seats; opened as an art house in 1986; Film Society festival screenings"
+   },
+   {
+    "title": "Zen and the art of the public bath",
+    "publisher": "The New Fillmore",
+    "year": 2009,
+    "url": "https://newfillmore.com/2009/06/03/zen-and-the-art-of-the-public-bath/",
+    "supports": "Account that AMC bought the building in 1978 and turned the dinner theatre into a multiplex"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-kinokuniya",
+  "title": "Japan's biggest bookseller opens on Post Street",
+  "theme": "arts-counterculture",
+  "year": 1969,
+  "yearEnd": null,
+  "place": {
+   "label": "Kinokuniya Building, 1825 Post Street between Fillmore and Webster",
+   "lat": 37.784921,
+   "lon": -122.432292,
+   "precision": "building"
+  },
+  "hook": "Since 1969 the west wing of Japan Center has held the flagship American shop of Japan's largest bookstore chain. Most of its books are in Japanese.",
+  "story": "When the Japanese Cultural and Trade Center opened in 1968, Books Kinokuniya was one of its first tenants, along with Hitachi, Nissan, Mitsubishi and the Miyako Hotel [2]. It has been in its own building on Post Street between Fillmore and Webster since 1969, a building the Kinokuniya company paid for [1]. Its parent was the largest bookstore chain in Japan, and this store became the flagship of Kinokuniya's American branch. Planning's 2009 survey describes it as the third-largest Japanese bookstore in the United States. About 70 percent of its stock is in Japanese [1]. Over time the carmakers' and electronics firms' showrooms left the mall, and by the mid-1970s shops had replaced them, since American buyers no longer needed an introduction to Japanese cars and electronics [2]. The bookstore stayed. The company also became one of the largest property owners in Japantown and a sponsor of its festivals. It even owned the enclosed bridge that carries shoppers over Webster Street into the next wing [1]. The survey also notes the readings by Asian American authors the store hosts [1]. In 2009 the Kinokuniya Building still belonged to the chain's American arm [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Japanese Cultural and Trade Center, DPR 523 historic resource record",
+    "publisher": "Page & Turnbull for SF Planning",
+    "year": 2009,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1790-Japan%20Center.pdf",
+    "supports": "Kinokuniya in the building since 1969; building financed by Kinokuniya; largest chain in Japan and US flagship; third-largest Japanese bookstore in US; 70% Japanese-language; property owner, festival sponsor, owner of the Webster Street Bridge; readings by Asian American authors"
+   },
+   {
+    "title": "Japan Center (San Francisco)",
+    "publisher": "Wikipedia (pointer; cites SF Planning)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Japan_Center_(San_Francisco)",
+    "supports": "Kinokuniya among initial tenants with Hitachi, Nissan, Mitsubishi and the Miyako Hotel; manufacturers displaced by mid-1970s; Kinokuniya Building (1825 Post) owned by Kinokuniya Book Stores of America in 2009"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-kimochi-lounge-bridge",
+  "title": "A seniors' lounge on the bridge",
+  "theme": "modern-city",
+  "year": 1971,
+  "yearEnd": null,
+  "place": {
+   "label": "Kimochi Lounge, Webster Street Bridge between the Kinokuniya Building and the Kintetsu Mall",
+   "lat": 37.785022,
+   "lon": -122.431507,
+   "precision": "block"
+  },
+  "hook": "Young Sansei activists started a service for elderly Issei in 1971. After being pushed out of buildings slated for demolition, they found a home on a footbridge.",
+  "story": "By 1971 many Issei, the first generation of Japanese immigrants, were elderly, and mainstream service agencies were not reaching them because of language and cultural barriers [2]. That year a group of Sansei, their grandchildren's generation, founded Kimochi, Inc. to help [1][2]. The group started out in buildings that were soon condemned for redevelopment. Its first stable home turned out to be an unusual one: the enclosed pedestrian bridge that arches over Webster Street between two wings of the Japan Center [1]. The Kimochi Lounge on the bridge became a place for seniors to meet and swap news. It kept a library, sold arts and crafts and offered outreach [1]. Kimochi later expanded into other buildings, including the old Nichi Bei Bussan department store on the Buchanan Mall and a residential home on Sutter Street [1][2]. By 2009 it was supporting more than 3,000 Bay Area seniors, most of them Japanese American, and the lounge on the bridge was still in use [1]. Planning's context statement lists it among the \"alternative, ethnically based\" groups Sansei built in the redevelopment years [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Japanese Cultural and Trade Center, DPR 523 historic resource record",
+    "publisher": "Page & Turnbull for SF Planning",
+    "year": 2009,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1790-Japan%20Center.pdf",
+    "supports": "Kimochi founded 1971 by Sansei; early buildings condemned; first stable location on Webster Street Bridge; lounge functions; Buchanan Mall and Sutter Street facilities; 3,000+ seniors"
+   },
+   {
+    "title": "San Francisco Japantown Historic Context Statement, 1880s-1980s (draft)",
+    "publisher": "SF Planning Department",
+    "year": 2008,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1862-San%20Francisco%20Japantown%20Better%20Neighborhood%20Plan%20Historic%20Context%204.11.08.pdf",
+    "supports": "Kimochi formed 1971 for elderly Issei unserved due to language and cultural barriers; later owned the former Nichi Bei Bussan store on Buchanan Mall"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-kabuki-springs",
+  "title": "Communal baths beneath the Geary overpass",
+  "theme": "modern-city",
+  "year": 1972,
+  "yearEnd": 1998,
+  "place": {
+   "label": "Kabuki Springs & Spa, 1750 Geary Boulevard",
+   "lat": 37.784749,
+   "lon": -122.431808,
+   "precision": "building"
+  },
+  "hook": "The Kabuki building opened in 1972 with a men's bathhouse. It went through a phase as a nightclub with punk bands, then became a rare American communal bath.",
+  "story": "Japantown had four traditional sento, or public bathhouses, as late as 1940, according to Planning's history of the neighbourhood [3]. The spa's longtime director Kathy Nelsen told the New Fillmore that a Japanese company opened the Kabuki building at the edge of Japan Center in 1972, with a sushi bar, a dinner theatre and a men's bathhouse [1]. \"It became kind of a funny little nightclub,\" she recalled. She saw the performance artist Laurie Anderson and \"a couple of punk bands\" there in the mid-1970s [1]. AMC, a Kansas City cinema chain, bought the building in 1978 [1]. Nelsen had run Miracle Baths up the street at 1928 Fillmore. That building had been the Little Zion Baptist Church, and she turned its baptismal pool into a yoga room. She left after ten years when the rent jumped from $1,000 to $6,000 [1]. She took over the Kabuki's spa in 1998, saying AMC \"didn't know what they had here.\" Under her the communal pools, among the few in the country, kept a gong to hush chatty bathers [1]. The spa, still at 1750 Geary and more than 50 years old, keeps its communal baths [2].",
+  "people": [
+   {
+    "name": "Kathy Nelsen",
+    "role": "spa director from 1998"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Zen and the art of the public bath",
+    "publisher": "The New Fillmore (Donna Domino)",
+    "year": 2009,
+    "url": "https://newfillmore.com/2009/06/03/zen-and-the-art-of-the-public-bath/",
+    "supports": "1972 opening by a Japanese company; sushi bar, dinner theatre and men's bathhouse; nightclub era with Laurie Anderson; AMC 1978; Nelsen, Miracle Baths at 1928 Fillmore in former Little Zion Baptist Church; rent rise; 1998 takeover; gong"
+   },
+   {
+    "title": "Kabuki Springs & Spa (home page)",
+    "publisher": "Kabuki Springs & Spa",
+    "year": null,
+    "url": "https://www.kabukisprings.com/",
+    "supports": "Address 1750 Geary Blvd; communal baths; in operation more than 50 years"
+   },
+   {
+    "title": "San Francisco Japantown Historic Context Statement, 1880s-1980s (draft)",
+    "publisher": "SF Planning Department",
+    "year": 2008,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1862-San%20Francisco%20Japantown%20Better%20Neighborhood%20Plan%20Historic%20Context%204.11.08.pdf",
+    "supports": "Japantown of 1940 still had four traditional sentos"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-japantown-bowl",
+  "title": "Last frame at Post and Webster",
+  "theme": "modern-city",
+  "year": 1976,
+  "yearEnd": 2003,
+  "place": {
+   "label": "Japantown Bowl site (now 1600 Webster condominiums), corner of Post and Webster",
+   "lat": 37.785592,
+   "lon": -122.431158,
+   "precision": "building"
+  },
+  "hook": "For 24 years kids from every background bowled under space-age murals at Post and Webster. Then the owner sold, and a condo fight followed.",
+  "story": "Japantown Bowl opened in 1976 at Post and Webster, amid urban renewal [1][2]. It had space-age artwork over the upstairs lanes, a strict smoking ban and midnight \"Cyber Bowl\" parties with fog machines, lasers and glow-in-the-dark balls. Its biggest customers were children: about 325 kids were in its youth leagues, and day manager Darrell Herbert was a cult figure to them [1]. The owner, Kintetsu Enterprises, put the lanes and lot up for sale in 2000. The Japanese Cultural and Community Center said it wanted to buy them for $6.7 million, though Kintetsu said it had seen no offer, and Supervisor Mabel Teng suggested the city buy the building if talks failed [1][2]. On its closing night in September 2000, regulars signed pins over a free buffet. One bowler pointed out that the alley itself was built on the razed foundations of other people's houses [1]. It was the largest of the city's three remaining alleys [2]. Despite a campaign to save it, the building was razed in 2003 for 48 condominiums [3]. In 2008 the condo association's president complained that people spoke of \"that horrible bowling alley as if it were a cultural icon,\" and threatened to protest the Nihonmachi Street Fair's permit unless the sidewalk was steam-cleaned. Petitioners collected 2,800 signatures during the fair's two days [3].",
+  "people": [
+   {
+    "name": "Darrell Herbert",
+    "role": "day manager for 22 years"
+   },
+   {
+    "name": "Bob Tsugawa",
+    "role": "regular since 1976"
+   },
+   {
+    "name": "Mabel Teng",
+    "role": "supervisor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Japantown Bowlers Mourn Alley's Demise",
+    "publisher": "San Francisco Chronicle / SFGATE (David R. Baker)",
+    "year": 2000,
+    "url": "https://www.sfgate.com/news/article/Japantown-Bowlers-Mourn-Alley-s-Demise-3238951.php",
+    "supports": "Opened 1976; corner of Post and Webster; Kintetsu owner; JCCCNC $6.7m offer; decor, smoking ban, Cyber Bowl; 325 youth bowlers; Herbert; closing-night scene and 'razed foundations' remark"
+   },
+   {
+    "title": "Japantown, San Francisco",
+    "publisher": "Wikipedia (pointer; cites JCCCNC and SFGATE)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Japantown,_San_Francisco",
+    "supports": "Founded 1976 amid urban renewal; Supervisor Mabel Teng's suggestion; largest of three remaining alleys when it closed in September 2000"
+   },
+   {
+    "title": "In Japantown, new condos meet old customs",
+    "publisher": "The New Fillmore (Donna Gillespie)",
+    "year": 2008,
+    "url": "https://newfillmore.com/2008/09/02/in-japantown-new-condos-meet-old-customs/",
+    "supports": "Razed in 2003 despite a campaign; 48 condos at 1600 Webster; 2008 street-fair dispute, 'horrible bowling alley' quote, 2,800 signatures"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-jam-serigraphy",
+  "title": "Posters pulled by hand in Japantown",
+  "theme": "arts-counterculture",
+  "year": 1977,
+  "yearEnd": 1986,
+  "place": {
+   "label": "Japantown Art & Media Workshop (JAM), Japantown near Sutter and Buchanan (exact print-shop address not recorded in sources)",
+   "lat": 37.7862,
+   "lon": -122.4297,
+   "precision": "area"
+  },
+  "hook": "Sansei silkscreen artists opened a print shop that made more than 500 posters for community groups, as long as the groups helped pull the ink.",
+  "story": "The Asian American movement of the late 1960s produced a set of new community groups in Japantown that Sansei founded and ran [2]. One of them was the Japantown Art & Media Workshop, known as JAM. Many of its organisers had worked with the Kearny Street Workshop in Chinatown, which was evicted in 1977. By then JAM had opened [1]. Unlike Kearny Street, JAM worked as a community print shop. Over the next decade it made more than 500 poster designs for hundreds of groups. It had one rule: each nonprofit had to send a few people to help with the printing, and often with the design [1]. In its fiscal heyday it kept up to five printmakers on full-time, low pay. In 1979 it helped East Bay artists start a sister workshop in Oakland, which folded two years later when federal CETA job money was cut [1]. Together, Kearny Street and JAM taught silkscreen to more than 2,000 people between 1972 and 1986 [1]. Urban renewal cost JAM its print shop. In 1987 the historian Michael Rossman wrote that JAM was left in \"a token room without production facilities,\" won from Japantown's cultural authorities. JAM kept printing through other facilities, and a second generation, including Richard Tokeshi and Wes Senzaki, kept it going [1].",
+  "people": [
+   {
+    "name": "Stephanie Lowe",
+    "role": "JAM artist"
+   },
+   {
+    "name": "Richard Tokeshi",
+    "role": "second-generation JAM printmaker"
+   },
+   {
+    "name": "Wes Senzaki",
+    "role": "second-generation JAM printmaker"
+   },
+   {
+    "name": "Michael Rossman",
+    "role": "historian of the poster movement"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Evolution of the Social Serigraphy Movement in the San Francisco Bay Area, 1966-1986 (Michael Rossman, 1987)",
+    "publisher": "FoundSF",
+    "year": 1987,
+    "url": "https://www.foundsf.org/index.php?title=Evolution_of_the_Social_Serigraphy_Movement_In_the_San_Francisco_Bay_Area,_1966-1986",
+    "supports": "JAM opened by the time KSW was evicted in 1977; community-service model with 500+ designs and participation rule; up to five paid serigraphers; CAAMP 1979; CAAMP collapse after CETA cut; 2,000 taught 1972-86; displacement to a 'token room'; Tokeshi and Senzaki"
+   },
+   {
+    "title": "San Francisco Japantown Historic Context Statement, 1880s-1980s (draft)",
+    "publisher": "SF Planning Department",
+    "year": 2008,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1862-San%20Francisco%20Japantown%20Better%20Neighborhood%20Plan%20Historic%20Context%204.11.08.pdf",
+    "supports": "Japantown Arts and Media Workshop among Sansei-founded community organisations born of the Asian American movement"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-victorian-village",
+  "title": "Houses that rolled across town at night",
+  "theme": "architecture-landmarks",
+  "year": 1978,
+  "yearEnd": null,
+  "place": {
+   "label": "Victorian Village, east side of Fillmore Street between Post and Sutter",
+   "lat": 37.785467,
+   "lon": -122.432877,
+   "precision": "block"
+  },
+  "hook": "Redevelopment levelled much of the Fillmore but saved some Victorians, rolling them through the streets at night. A row of them landed on Fillmore Street.",
+  "story": "Redevelopment levelled most of the Western Addition, but not all of it. Enid Sales and Susan Bragstad inside the agency, and allies such as Charles Page of San Francisco Heritage, got a number of Victorians picked to be saved [1][2]. Carlo Middione, the agency's community relations supervisor for the A-2 project, and later the owner of Vivande restaurant on Fillmore, coordinated the moves of 29 buildings over two and a half years [1]. House movers cut the studs from the mudsills, jacked each building up a few inches at a time, set it on timber cribs and then rolled it down streets where phone and power lines had been taken down and would be restrung afterwards. Sometimes four to six houses moved in one night, their work lights making it \"eerie and otherworldly\" [1]. One night a drunk driver broke through the barriers and got wedged between two Victorians in the caravan [1]. Some houses came all the way from Turk and Gough to Sutter and Fillmore [1]. There, in the late 1970s, the agency and the Western Addition Project Area Committee created \"Victorian Village\": a plan to move six buildings in to join five that had stayed put, with shops, offices and flats inside [2].",
+  "people": [
+   {
+    "name": "Carlo Middione",
+    "role": "Redevelopment Agency community relations supervisor, A-2"
+   },
+   {
+    "name": "Enid Sales",
+    "role": "ran the agency's rehabilitation program"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Moving the Victorians",
+    "publisher": "The New Fillmore (Carlo Middione)",
+    "year": 2019,
+    "url": "https://newfillmore.com/2019/09/04/moving-the-victorians/",
+    "supports": "29 buildings over 2.5 years; moving technique; lines cut and restored; night caravans; drunk driver; houses moved from Turk and Gough to Sutter and Fillmore; Victorian Village between Sutter and Post"
+   },
+   {
+    "title": "San Francisco Japantown Historic Context Statement, 1880s-1980s (draft)",
+    "publisher": "SF Planning Department",
+    "year": 2008,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1862-San%20Francisco%20Japantown%20Better%20Neighborhood%20Plan%20Historic%20Context%204.11.08.pdf",
+    "supports": "Victorian Village at Sutter and Fillmore in the late 1970s, conceived by WAPAC and SFRA; six relocated structures joining five in situ (May 1978 A-2 Report); Enid Sales's rehabilitation program"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-sokoji-laguna",
+  "title": "The Zen temple that left the synagogue",
+  "theme": "architecture-landmarks",
+  "year": 1984,
+  "yearEnd": null,
+  "place": {
+   "label": "Sokoji (Soto Zen Mission), 1691 Laguna Street near Sutter",
+   "lat": 37.786416,
+   "lon": -122.428549,
+   "precision": "building"
+  },
+  "hook": "Japanese Soto Zen members had worshipped in an old Bush Street synagogue for decades. In 1984 they dedicated a Japanese-style temple of their own on Laguna.",
+  "story": "In 1934 the Soto Zen Mission, Sokoji, bought a former synagogue at 1881 Bush Street (Planning's history gives the address as 1881 Post). During the war its members kept up the payments from the camps [1]. Japanese American Buddhism had borrowed Christian customs like pews. When Shunryu Suzuki began teaching zazen there to non-Japanese students, member George Hagiwara, of the family behind the Golden Gate Park tea garden, helped buy tatami mats and cushions for them [2]. Suzuki's mostly white students became the San Francisco Zen Center, and in 1969 he left to lead it on Page Street [1]. The Japanese congregation decided to build its own temple nearby [2]. In the 1970s the board weighed repairing the old synagogue against building a traditional Japanese-style temple somewhere else, and chose to build [1]. Construction began at 1691 Laguna Street in 1980, and the temple was dedicated in April 1984 [1]. Planning's context statement groups it with the Japanese Cultural and Community Center and Konko Church. All three use half-timbered walls, peaked roofs with overhanging rafters and gilded ornament, in contrast to the severe \"Japanese modernism\" of Japan Center [2].",
+  "people": [
+   {
+    "name": "Shunryu Suzuki",
+    "role": "Sokoji priest from 1959"
+   },
+   {
+    "name": "George Hagiwara",
+    "role": "Sokoji member"
+   }
+  ],
+  "sources": [
+   {
+    "title": "About us / History",
+    "publisher": "Sokoji (Soto Mission of San Francisco)",
+    "year": null,
+    "url": "https://www.sokoji.org/history",
+    "supports": "1934 purchase of 1881 Bush synagogue; payments from camps; Suzuki's 1969 departure to Page Street; 1970s decision to build; construction 1980 at 1691 Laguna; dedication April 1984; Japanese style"
+   },
+   {
+    "title": "San Francisco Japantown Historic Context Statement, 1880s-1980s (draft)",
+    "publisher": "SF Planning Department",
+    "year": 2008,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1862-San%20Francisco%20Japantown%20Better%20Neighborhood%20Plan%20Historic%20Context%204.11.08.pdf",
+    "supports": "Pews; Hagiwara and tatami; Japanese members withdrawing to build nearby; shared Japanese-style vocabulary with JCCCNC and Konko Church vs Japan Center modernism"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-peace-plaza-saved",
+  "title": "The plaza a developer nearly built on",
+  "theme": "modern-city",
+  "year": 2000,
+  "yearEnd": 2003,
+  "place": {
+   "label": "Japantown Peace Plaza, between Japan Center East and West on the former Buchanan Street",
+   "lat": 37.784969,
+   "lon": -122.43038,
+   "precision": "area"
+  },
+  "hook": "Japantown's central square began as private property. When a new owner wanted to build on it, the community protested until the city bought it.",
+  "story": "The open space at the heart of Japan Center sits on a closed-off block of Buchanan Street [1]. It was not built as a public park. It was first owned by a private real estate company, National Braemar, which sold it to developer Sinclair Louie, whose plans to build on the open space were stopped by community protest. The City and County of San Francisco eventually bought it [1]. As first laid out, the plaza had a granite keyhole-shaped pool at the base of the pagoda, long reflecting pools on the north side, a covered walkway and a large drum tower in the middle [1]. It had drainage problems. In 2000 Kenji Murokami redesigned it and removed the covered walkway, and other original features were changed or removed [1][2]. The eternal flame, said to be 17 centuries old and brought from the Sumida Shrine in Osaka, was moved from inside the pagoda to a glass case behind the water feature [1]. Mayor Willie Brown rededicated the plaza in 2003 [1]. By 2009 it belonged to the city's Recreation and Park Department [2]. Every spring the stage around the pagoda fills for the Cherry Blossom Festival [1].",
+  "people": [
+   {
+    "name": "Sinclair Louie",
+    "role": "developer whose building plans were blocked"
+   },
+   {
+    "name": "Kenji Murokami",
+    "role": "designer of the 2000 renovation"
+   },
+   {
+    "name": "Willie Brown",
+    "role": "mayor who rededicated the plaza"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Japanese Cultural and Trade Center, DPR 523 historic resource record",
+    "publisher": "Page & Turnbull for SF Planning",
+    "year": 2009,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1790-Japan%20Center.pdf",
+    "supports": "Ownership by private company National Braemar then Sinclair Louie; protest; city purchase; original pools, walkway and drum tower; 2000 renovation for drainage; eternal flame from Sumida Shrine; 2003 rededication; festivals"
+   },
+   {
+    "title": "Japan Center (San Francisco)",
+    "publisher": "Wikipedia (pointer; cites SF Planning)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Japan_Center_(San_Francisco)",
+    "supports": "2000 update by Kenji Murokami removed covered walkway; rededicated by Willie Brown in 2003; Peace Plaza owned by SF Recreation and Parks in 2009"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2q-aki-hotel",
+  "title": "The FBI raid on the Aki Hotel",
+  "theme": "war-military",
+  "year": 1941,
+  "yearEnd": 1965,
+  "place": {
+   "label": "Aki Hotel site, south side of Post Street (now under Japan Center)",
+   "lat": 37.7851,
+   "lon": -122.4296,
+   "precision": "area"
+  },
+  "hook": "On the night after Pearl Harbor, guests at a Hiroshima association banquet in the Aki Hotel were held for hours. The owner was among the first men taken.",
+  "story": "The Aki Hotel on the south side of Post Street was one of prewar Japantown's longest-running businesses [1]. Hotels like it served Japanese immigrants coming through the port, and out-of-towners who came to meet ships from Japan or to get passports and visas [1]. Then came Pearl Harbor. FBI agents quickly rounded up Issei business owners, clergy and teachers labelled \"enemy aliens.\" The Aki's owner, Ichiro Kataoka, was among the first arrested [1]. That night the Hiroshima Kenjinkai, an association of immigrants from Hiroshima prefecture, was meeting in the hotel's banquet room. The guests were held and questioned for hours [1]. Carloads of curious outsiders soon drove through Nihonmachi to stare [1]. The Aki reopened in its old location after the war, one of the Japantown businesses that did [1]. Redevelopment finished what the war could not. When the Japan Center was built in the 1960s it displaced about 50 businesses and 1,500 residents, and Planning's survey of the mall names the Aki Hotel among the oldest of them [2].",
+  "people": [
+   {
+    "name": "Ichiro Kataoka",
+    "role": "owner of the Aki Hotel"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Japantown Historic Context Statement, 1880s-1980s (draft)",
+    "publisher": "SF Planning Department",
+    "year": 2008,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1862-San%20Francisco%20Japantown%20Better%20Neighborhood%20Plan%20Historic%20Context%204.11.08.pdf",
+    "supports": "Aki Hotel on south side of Post; hotels' role for travellers; FBI sweeps; Kataoka among first arrested; Hiroshima Kenjinkai guests held for hours (citing Generations); onlookers; Aki resumed after war"
+   },
+   {
+    "title": "Japanese Cultural and Trade Center, DPR 523 historic resource record",
+    "publisher": "Page & Turnbull for SF Planning",
+    "year": 2009,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1790-Japan%20Center.pdf",
+    "supports": "Japan Center displaced ~50 businesses and 1,500 residents, including the Aki Hotel"
+   }
+  ],
+  "photo": null
+ }
+]

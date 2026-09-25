@@ -1,0 +1,754 @@
+[
+  {
+    "id": "inner-richmond-2q-beer-town-fulton",
+    "title": "Beer Town on the edge of the park",
+    "theme": "gold-rush-victorian",
+    "year": 1874,
+    "yearEnd": 1914,
+    "place": {
+      "label": "Fulton Street at 9th Avenue (site of the Jockey Club beer garden, NE corner)",
+      "lat": 37.7736,
+      "lon": -122.4675,
+      "precision": "block"
+    },
+    "hook": "For forty years, five blocks of Fulton Street facing Golden Gate Park were 'Beer Town'. In 1894 seven saloons stood side by side on half a block.",
+    "story": "In 1874 James Dickey, a horseman who called himself 'Colonel' without any military rank, opened a roadhouse at 'D' Street (today's Fulton) and Sixth Avenue for the crowd at the Bay District Race Track. His cook, Wong, was famous for biscuits, bacon and eggs [1]. Cable and steam lines soon ended their runs nearby. In October 1893 the Examiner complained that the park was getting 'an unsavory frame around it' [1]. Nobody listened. When the Midwinter Fair opened in the park in 1894, the saloons multiplied, and the city directory lists seven of them packed into half a block of Seventh Avenue [1]. The Richmond's improvement clubs wanted a quiet district of homes, and they never liked the strip. In September 1906 the Call printed the names and addresses of women in three 'disreputable houses' on Fulton, and the Richmond Banner cheered the campaign [1]. Then a long streetcar strike in 1907 kept visitors away and emptied the strip [1]. The last piece of it was the old Jockey Club, moved from the racetrack to the northeast corner of Ninth and Fulton. It served as a beer garden for more than twenty years and was pulled down in 1914 [1]. Today no bars or restaurants are allowed along the park side of Fulton [1][2].",
+    "people": [
+      {
+        "name": "James Dickey",
+        "role": "Roadhouse keeper, the self-styled 'Colonel'"
+      }
+    ],
+    "sources": [
+      {
+        "title": "How San Francisco's Beer Town Foamed, Then Went Flat (John Freeman)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/beertown.php",
+        "supports": "Dickey's 1874 roadhouse, cook Wong, Midwinter Fair saloons, October 1893 Examiner quote, 1906 Call campaign, 1907 strike, Jockey Club razed 1914, zoning today"
+      },
+      {
+        "title": "Social and Architectural History of the Richmond District (Christopher VerPlanck)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2000,
+        "url": "https://www.outsidelands.org/richmond_arch.php",
+        "supports": "Fulton Street and the avenues near the park as early development corridors and later prized residential blocks"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-richmond-grounds-big-game",
+    "title": "The Big Game in the backyards",
+    "theme": "gold-rush-victorian",
+    "year": 1902,
+    "yearEnd": 1903,
+    "place": {
+      "label": "Site of the Richmond Grounds, block of California & Lake Sts, 7th & 8th Aves",
+      "lat": 37.7859,
+      "lon": -122.4662,
+      "precision": "block"
+    },
+    "hook": "In 1902 Cal and Stanford played the Big Game on a sand lot in the Richmond, and one runner crossed what are now the backyards of 7th Avenue.",
+    "story": "In 1902 the Cal–Stanford 'Big Game' suddenly had nowhere to play. Stanford alumnus Dave Brown leased the sandy block between California and Lake Streets and Seventh and Eighth Avenues. Carpenters built stands for about 11,500 people in less than a month, and wagons dumped clay and loam onto the sand [1][2]. Neighbours feared the grounds would draw 'undesirable resorts'. The Board of Supervisors' Streets Committee let the field stay only until January 1904 [1]. On November 8, 1902, every streetcar and steam train was packed. People watched from rooftops and from the Presidio hillside for free [2]. Cal's Bobby Sherman, a last-minute replacement, misjudged a punt and fumbled it twice before finally grabbing it on his own 10-yard line. Then he ran 100 yards, cutting through what are now the backyards on the odd side of the 100 block of Seventh Avenue, to score at the California Street end [2]. Cal won 16–0. The 1903 game ended in a 6–6 tie and a brawl over the ball [2]. It was the last Big Game played in San Francisco. Dismantling of the grandstands began almost at once [2].",
+    "people": [
+      {
+        "name": "Dave Brown",
+        "role": "Stanford alumnus who leased the field"
+      },
+      {
+        "name": "Bobby Sherman",
+        "role": "Cal halfback"
+      },
+      {
+        "name": "Orval Overall",
+        "role": "Cal kicker and captain"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Richmond Grounds and the Big Games of 1902 & 1903, page 1 (Angus Macfarlane)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2004,
+        "url": "https://www.outsidelands.org/richmond-grounds.php",
+        "supports": "Lease of block by Dave Brown, construction, seating, neighbourhood protest and compromise"
+      },
+      {
+        "title": "The Richmond Grounds and the Big Games of 1902 & 1903, page 2 (Angus Macfarlane)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2004,
+        "url": "https://www.outsidelands.org/richmond-grounds2.php",
+        "supports": "Game-day crowds, Sherman's 100-yard run through today's 7th Ave backyards, 16-0 score, 1903 6-6 tie and melee, dismantling"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-camp-richmond",
+    "title": "Four thousand refugees on Park Presidio",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": 1908,
+    "place": {
+      "label": "Park Presidio Boulevard near Anza Street (site of Camp Richmond)",
+      "lat": 37.779,
+      "lon": -122.4721,
+      "precision": "area"
+    },
+    "hook": "The green strip of Park Presidio was once lined with refugee shacks. In May 1907 more than 4,000 people burned out by the 1906 fire lived there.",
+    "story": "In 1903 the city bought a long strip of land between Funston and 14th Avenues as an arm of Golden Gate Park, the 'Park Panhandle' of the Richmond [1][2]. After the 1906 fire, homeless families camped in the district's parks and empty lots. On November 20, 1906, Camp Richmond opened on the strip, with rows of wooden relief shacks. At its peak in May 1907 it housed more than 4,000 people [1]. The Richmond Banner said the refugees were 'All losers in the April fire.' It also watched shops spring up along Thirteenth Avenue: grocers, cobblers, barbers, a macaroni seller and even 'a beauty doctor' [1]. When streetcar workers struck in May 1907, women from the camp threw bricks and stones through the windows of passing Sutter Street cars, siding with the strikers [1]. The camp closed on January 1, 1908. Its shacks were carted off to empty lots across the west side, sometimes joined two or three together, and became starter homes [1]. The strip became Park Presidio Boulevard, which now carries Highway 1 north toward the Golden Gate Bridge [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Streetwise: The Richmond Recovery (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2004,
+        "url": "https://www.outsidelands.org/sw26.php",
+        "supports": "Camp Richmond opening date, 4,000 residents in May 1907, Banner quotes, 1907 strike bricks, closing Jan 1 1908, shacks moved"
+      },
+      {
+        "title": "Park Presidio Boulevard",
+        "publisher": "Wikipedia (citing Margot Patterson Doss, SF Examiner, 1977)",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Park_Presidio_Boulevard",
+        "supports": "Land bought in 1903 as a park extension; runs between 14th and Funston; carries State Route 1"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-cross-park-bus",
+    "title": "No streetcars through the park",
+    "theme": "parks-nature",
+    "year": 1917,
+    "place": {
+      "label": "10th Avenue & Fulton Street (end of the Municipal Railway A line)",
+      "lat": 37.7735,
+      "lon": -122.4687,
+      "precision": "street"
+    },
+    "hook": "Richmond residents wanted a streetcar line straight through Golden Gate Park. The park commissioners fought it off, and in 1917 buses crossed the park instead.",
+    "story": "From 1912, the city's new A streetcar ended at 10th Avenue and Fulton Street. Golden Gate Park lay ahead like a wall, and riders bound for the Sunset had to go east to Divisadero Street and double back [1]. The Richmond Banner had called for a line across the park since 1908 [1]. In 1913 the transit engineer Bion J. Arnold recommended a line from 10th and Fulton to 9th Avenue and Lincoln Way. In 1915 the supervisors approved a route with an underpass and an open trench behind the de Young, cutting into part of the Japanese Tea Garden [1]. Park Commission chairman William Metson fumed that 'the real estate men have put it over on the Board of Supervisors.' Rolph signed it, but after an eight-month stalemate with the park board he vetoed the call for construction bids, and on June 5, 1916, the supervisors failed to override him [1]. Instead, on September 1, 1917, Muni Route 1 started carrying passengers across the park, at first in rented buses. It lost about $80 a day at first [1]. Its route through the park survives in today's 44 O'Shaughnessy, and no streetcar tracks were ever laid across the park [1]. The A line itself had come out Geary and turned down Tenth Avenue to the park's edge [2].",
+    "people": [
+      {
+        "name": "William Metson",
+        "role": "Park Commission chairman"
+      },
+      {
+        "name": "Bion J. Arnold",
+        "role": "Transit engineer"
+      },
+      {
+        "name": "James Rolph",
+        "role": "Mayor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Golden Gate Park—Oasis and Obstacle: The Legacy of the Fight for a Cross-Park Streetcar Route (John Freeman)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2009,
+        "url": "https://www.outsidelands.org/ggp-transit.php",
+        "supports": "A line terminus, Banner campaign, Arnold report, 1915 plan, Metson quote, veto, Route 1 bus 1917, losses, legacy"
+      },
+      {
+        "title": "Streetwise: Run Out of Town (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/sw16.php",
+        "supports": "A Geary-Park line ran out to Tenth Avenue and turned to terminate at Golden Gate Park"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-coliseum-theatre",
+    "title": "Roller skates checked at the Coliseum",
+    "theme": "arts-counterculture",
+    "year": 1918,
+    "yearEnd": 1989,
+    "place": {
+      "label": "Former Coliseum Theatre, 745 Clement Street at 9th Avenue",
+      "lat": 37.782665,
+      "lon": -122.467374,
+      "precision": "building"
+    },
+    "hook": "Depression kids paid a dime, skated to 9th and Clement, and handed their skates to an usher for safekeeping before the Saturday matinee.",
+    "story": "The Coliseum opened on November 22, 1918, with Mary Pickford in 'Johanna Enlists'. It was designed by the Reid Brothers, the firm behind the Fairmont Hotel and the Cliff House [1][2]. Remodelled in Art Deco style in 1931, it was badly damaged by fire in 1935 [1]. Pat French Swendsen remembered Depression Saturdays there. The matinee cost a dime, and boys scrubbed stoops to earn one. Kids skated to Ninth and Clement, bought candy-coated licorice from 'Nick the Greek' next door, and checked their skates in a 'skate vault' in return for a numbered disk [3]. The manager staged yelling contests between boys and girls. When the assistant manager threatened to stop the show over spitballs, some boy with a slingshot inevitably fired one at him [3]. In 1949 the new Coronet on Geary took over the Coliseum's action pictures. The Coliseum was left with re-runs and went dark around 1952. It reopened when the Coronet began showing 'Oklahoma!' in 1956 [4]. It closed for good on October 17, 1989. The auditorium was gutted in 2000, and condominiums were later built above a ground-floor drugstore [1].",
+    "people": [
+      {
+        "name": "Pat French Swendsen",
+        "role": "Richmond childhood moviegoer and columnist"
+      },
+      {
+        "name": "James and Merritt Reid",
+        "role": "Architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Coliseum Theatre",
+        "publisher": "Cinema Treasures",
+        "year": null,
+        "url": "https://cinematreasures.org/theaters/1608",
+        "supports": "Opening date and film, Reid Brothers, 1931 remodel by S. Charles Lee, 1935 fire, closing 1989, gutted 2000, condos and drugstore; condos and Walgreens noted in page comments"
+      },
+      {
+        "title": "The Reid Brothers",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/reid.php",
+        "supports": "Reid Brothers designed the Coliseum Theatre (1918), Fairmont, Cliff House"
+      },
+      {
+        "title": "Remembering the Coliseum (Pat French Swendsen)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2001,
+        "url": "https://www.outsidelands.org/swendsen1.php",
+        "supports": "Dime matinees, skating, Nick the Greek, skate vault, contests and spitballs"
+      },
+      {
+        "title": "Coronet Theater (with notes by Jack Tillmany)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/coronet.php",
+        "supports": "Coliseum played action films until Coronet opened, closed circa 1952, reopened during Oklahoma! run"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-540-clement-bank-bar",
+    "title": "The bank that became a bar",
+    "theme": "labor-industry",
+    "year": 1929,
+    "yearEnd": 2020,
+    "place": {
+      "label": "540 Clement Street near 6th Avenue",
+      "lat": 37.783177,
+      "lon": -122.465109,
+      "precision": "building"
+    },
+    "hook": "540 Clement opened as a savings bank a month after the 1929 crash. It was robbed in 1932, and it has been a neighbourhood bar since 1936.",
+    "story": "If the front of 540 Clement doesn't look like a bar, that's because it was built as a bank. The Park-Presidio office of Pacific States Savings and Loan opened here in 1929, one month after the stock market crash [1]. On December 23, 1932, the Examiner reported that robbers hit the Clement and Market Street branches at the same time and got away with $363 in all [1]. Pacific States began to fail the next year. By 1936 William and Ella Greely were serving beer at the address, and it has been a bar ever since. It has been the Five-Forty Club, Touchables 540 Club, Hak's, Max's 540 Club and O'Rourke's. Hak, the story goes, took the bank vault out piece by piece [1]. In 1966 a bartender here, Mike Chiechi, heard a customer telling a story. Twelve years earlier Chiechi had nearly drowned water-skiing, and he had been brought back with CPR. The customer was one of the off-duty officers who had saved him [1]. 'This is the only bar in town where the customer's never right,' a bartender told the Examiner in 1989. In 2020 former bartenders took it over as Rogues 540 [1].",
+    "people": [
+      {
+        "name": "Mike Chiechi",
+        "role": "Bartender and bowler"
+      },
+      {
+        "name": "Herbert Hakala",
+        "role": "Owner of Hak's cocktail lounge"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History Stop - 540 Clement (Nicole Meldahl and Drew Moss)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/history-stop-540-clement.php",
+        "supports": "1929 bank opening, 1932 robbery, bar since 1936, name changes, vault legend, Chiechi reunion 1966, 1989 quote, Rogues 540 in 2020"
+      },
+      {
+        "title": "Social and Architectural History of the Richmond District (Christopher VerPlanck)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2000,
+        "url": "https://www.outsidelands.org/richmond_arch.php",
+        "supports": "Clement Street's development as an automobile-age commercial corridor in the 1910s and 1920s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-coal-and-lumber-geary",
+    "title": "When coal was king on Geary",
+    "theme": "labor-industry",
+    "year": 1940,
+    "place": {
+      "label": "Site of Richmond Coal Company, 3907 Geary Boulevard near 4th Avenue",
+      "lat": 37.78084,
+      "lon": -122.46143,
+      "precision": "block"
+    },
+    "hook": "In the days of coal chutes and ice men, a coal yard stood beside the Richmond's oldest lumberyard on Geary, and coal went down chutes into basements along the avenues.",
+    "story": "Into the middle of the 20th century, John and Louis Damele ran the Richmond Coal Company at 3907 Geary Boulevard. Next door, on the southeast corner of Fourth Avenue, stood Gillon Lumber [1]. Columnist Frank Dunnigan calls Gillon the oldest lumberyard in the Richmond District, founded in 1896 [2]. The coal man was one of many trades that came to the house. Deliveries went down coal chutes into basements. The milkman came, and the ice man carried blocks of ice in the years before refrigerators. The 'rags, bottles, sacks' man bought junk for recycling [1]. There was competition up the street. Longino F. Ginotti's coal company worked from a brick building at 4419 Geary and from another yard at 6045 Geary [1]. We know what the Damele shop looked like thanks to Luigi Damele. At a Richmond History Day in April 2008 he brought in a photograph of the family's shop, probably taken in the early 1940s [1]. Gillon Lumber stayed on its corner until a few years before 2008 [1].",
+    "people": [
+      {
+        "name": "John and Louis Damele",
+        "role": "Coal dealers"
+      },
+      {
+        "name": "Longino F. Ginotti",
+        "role": "Rival coal dealer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Richmond Coal Company",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/richmond-coal.php",
+        "supports": "Damele shop at 3907 Geary, Gillon Lumber next door at SE corner of 4th, delivery trades, Ginotti's yards, 2008 photograph"
+      },
+      {
+        "title": "Streetwise - Richmond Ramble (Frank Dunnigan)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/streetwise-richmond-ramble.php",
+        "supports": "Gillon Lumber, oldest lumberyard in the Richmond, founded 1896"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-balboa-streetcar-crash",
+    "title": "A ten-year-old's dream crash at 8th and Balboa",
+    "theme": "modern-city",
+    "year": 1947,
+    "place": {
+      "label": "8th Avenue & Balboa Street",
+      "lat": 37.7771,
+      "lon": -122.4663,
+      "precision": "street"
+    },
+    "hook": "Jack Tillmany, ten, collected newspaper clippings about streetcar wrecks and hoped to be in one. On July 24, 1947, his 31 Balboa car lost its brakes.",
+    "story": "Jack Tillmany grew up on Anza Street as a devoted rail fan. As a boy he clipped streetcar accident reports from the papers and secretly hoped to be in one [1]. He picked the 31 Balboa as his best chance, because it seemed to have 'more than its share of colorful mishaps' [1]. On Thursday, July 24, 1947, he and his mother boarded car #976 at 25th Avenue, heading downtown. Going downhill, the brakes seemed to fail. The car sped up and broadsided #116 of the 21 Hayes line, which was crossing Balboa on Eighth Avenue, and nearly tipped it over [1]. Mother and son ended up rolling on the floor in broken glass. An elderly man was badly hurt [1]. Hours later their photo was on the front page of the San Francisco News. Muni paid each of them $25, and both cars were repaired and put back in service [1]. John Freeman, six years old and two blocks away, ran to see the wreck. Sixty years later, on July 24, 2007, he and Tillmany went back to the corner to mark the anniversary [2]. Tillmany went on to become a leading collector of transit and movie-theatre photographs [3].",
+    "people": [
+      {
+        "name": "Jack Tillmany",
+        "role": "Rail fan, later film and transit historian"
+      },
+      {
+        "name": "John Freeman",
+        "role": "Richmond historian who witnessed the crash as a child"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tillmany's Ride (Jack Tillmany)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/tillmany-1947.php",
+        "supports": "Date, car numbers, brake failure, 21 Hayes on 8th Avenue, injuries, front page photo, $25 settlements, cars repaired"
+      },
+      {
+        "title": "Streetcar Crash Remembered",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/tillmany-60th.php",
+        "supports": "60th anniversary visit, John Freeman's childhood memory of the crash at 8th and Balboa"
+      },
+      {
+        "title": "Jack Tillmany: Man of Many Photos",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2000,
+        "url": "https://www.outsidelands.org/tillmany.php",
+        "supports": "Tillmany as a collector of thousands of streetcar and movie theatre photographs"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-comics-crusade",
+    "title": "Tearing up comics at Star of the Sea",
+    "theme": "arts-counterculture",
+    "year": 1954,
+    "place": {
+      "label": "Star of the Sea School, 9th Avenue between Geary & Clement",
+      "lat": 37.781832,
+      "lon": -122.467013,
+      "precision": "building"
+    },
+    "hook": "In spring 1954, seventh graders at Star of the Sea tore up comic books in the school auditorium. Today those comics are prized by collectors.",
+    "story": "In the spring of 1954, the seventh grade at Star of the Sea Grammar School gathered comic books and prepared speeches about their evils. They held an assembly for the upper grades [1]. The keynote speaker was Elizabeth Cahill, daughter of Police Chief Thomas Cahill. A photo shows students in the bleachers ripping comics apart [1]. It was part of a national 'comics crusade' driven by churches, the PTA and, Freeman argues, the comic-book industry itself, at a time when Congress was threatening laws against comic books [1]. John Freeman, one of those seventh graders, later saw a business angle. EC Comics' horror titles such as 'Tales from the Crypt' and 'Vault of Horror' were winning readers. Freeman wrote that rivals DC and Marvel proposed a Comics Code limiting vampires, werewolves and glorified killing, and let the PTAs and churches 'fight their fight' [1]. The students thought they were standing up for morality, in an era when they were also drilled about communists at the classroom door [1]. Instead, Freeman notes, they helped make the surviving comics rarer and more valuable to collectors [1]. The parish school had opened in 1909 [2].",
+    "people": [
+      {
+        "name": "Elizabeth Cahill",
+        "role": "Assembly speaker, daughter of Police Chief Thomas Cahill"
+      },
+      {
+        "name": "John Freeman",
+        "role": "Student, later Richmond historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Comics Crusade of 1954 (John Freeman)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/comics-crusade.php",
+        "supports": "Seventh-grade campaign and assembly, Elizabeth Cahill, torn comics, EC titles, Comics Code, PTA and churches, collector value"
+      },
+      {
+        "title": "Star of the Sea School",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Star_of_the_Sea_School",
+        "supports": "School founded in 1909 to serve Star of the Sea parish"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-house-of-love-and-prayer",
+    "title": "The singing rabbi's hippie house",
+    "theme": "arts-counterculture",
+    "year": 1968,
+    "yearEnd": 1970,
+    "place": {
+      "label": "The House of Love and Prayer, 347 Arguello Boulevard",
+      "lat": 37.78427,
+      "lon": -122.459326,
+      "precision": "building"
+    },
+    "hook": "In 1968 followers of 'the Singing Rabbi' Shlomo Carlebach rented a big house on Arguello for $300 a month. Hundreds of hippies came for Shabbat songs.",
+    "story": "In 1966 Shlomo Carlebach, a rabbi and songwriter known as 'the Singing Rabbi', played the Berkeley Folk Festival. He invited the audience to join him for Shabbat that Friday, and about 800 people came [1]. In April 1968 his follower Aryae Coopersmith rented a large two-storey house at 347 Arguello Boulevard for $300 a month plus a $50 deposit. It became the House of Love and Prayer [1][2]. A few people lived there and ran it, dozens more lived nearby, and hundreds crowded in for Shabbat. They came for Carlebach's music and his warm Hasidic teaching, and the house doubled as a free hostel [1]. Carlebach called them his 'holy hippielech' [2]. A photograph shows Coopersmith and Carlebach singing with guitars on the stairs inside [1]. The Arguello house closed in 1970; the sources disagree on whether it was May or December. A yeshiva followed on Ninth Avenue in the Sunset [1][2]. Many members later helped found a moshav, a village, in Israel [1][2]. The project's archive also records later allegations of sexual abuse against Carlebach [1].",
+    "people": [
+      {
+        "name": "Shlomo Carlebach",
+        "role": "Rabbi and singer-songwriter"
+      },
+      {
+        "name": "Aryae Coopersmith",
+        "role": "Follower who rented the house"
+      },
+      {
+        "name": "Zalman Schachter",
+        "role": "Co-founding rabbi"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The House of Love and Prayer: A Radical Jewish Experiment in San Francisco (Oren Kroll-Zeldin)",
+        "publisher": "USC Scalar",
+        "year": null,
+        "url": "https://scalar.usc.edu/works/the-house-of-love-and-prayer/the-house-of-love-and-prayer",
+        "supports": "1966 folk festival Shabbat, April 1968 lease at 347 Arguello with rent, weekly Shabbat crowds, hostel, photo on stairs, May 1970 closing, move to 9th Ave, moshav, allegations note"
+      },
+      {
+        "title": "The House of Love and Prayer",
+        "publisher": "Wikipedia (citing Ariel 2003; Reichman 2024)",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/The_House_of_Love_and_Prayer",
+        "supports": "Address, 'holy hippielech', counterculture worship, Dec 4 1970 closing date per Reichman, Mevo Modi'im"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-lake-street-bike-lanes",
+    "title": "San Francisco's first bike lanes",
+    "theme": "civil-rights",
+    "year": 1971,
+    "place": {
+      "label": "Lake Street at 4th Avenue",
+      "lat": 37.7866,
+      "lon": -122.4621,
+      "precision": "street"
+    },
+    "hook": "In 1971 a dentist who never biked Lake Street organised his neighbours and won San Francisco's first bike lanes. They opened with a parade and sousaphones.",
+    "story": "In 1970 Martin MacIntyre, a 33-year-old Public Health Service dentist, rented a house on Lake Street between 12th and Funston Avenues. Drivers raced along the wide street. There was not a single stop sign between Arguello and 25th Avenue, only a traffic light at Park Presidio, and his six-year-old daughter couldn't safely cross to Mountain Lake playground [1]. In December 1970 he formed the Lake Street Traffic Safety Committee. About three dozen volunteers collected more than 700 signatures in two weeks [1]. On March 15, 1971, the Board of Supervisors approved seven stop signs, and Public Works then agreed to something almost unheard of: lanes just for bicycles [1][2]. On Sunday, May 23, 1971, neighbours ran a bike race from 3rd to 4th Avenue to break the ribbon. Then a parade with a marching band moved west, unveiling each new stop sign. Helmets didn't exist yet; 'sousaphones outnumbered helmets' [1][2]. A grumpy motorist wrote that he had 'yet to see one using the lanes.' By September, though, traffic had fallen 30 percent and average speeds had dropped from 35 to 25 mph [1]. And MacIntyre himself? The FoundSF history says he has never ridden a bike on Lake Street [1].",
+    "people": [
+      {
+        "name": "Martin MacIntyre",
+        "role": "Organizer of the Lake Street Traffic Safety Committee"
+      },
+      {
+        "name": "Dianne Feinstein",
+        "role": "Supervisor at the unveiling"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Marty MacIntyre and the Lake Street Bike Lanes",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Marty_MacIntyre_and_the_Lake_Street_Bike_Lanes",
+        "supports": "MacIntyre background, committee, petitions, March 15 1971 vote, May 23 parade and ribbon race, motorist letter, traffic study results"
+      },
+      {
+        "title": "San Francisco's First Bike Lane",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco%E2%80%99s_First_Bike_Lane",
+        "supports": "First on-street bike lanes installed May 23, 1971; DPW documents; 'sousaphones outnumbered helmets'"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-open-theater-clement",
+    "title": "Indians on the balcony, Clement Street",
+    "theme": "arts-counterculture",
+    "year": 1974,
+    "place": {
+      "label": "441 Clement Street (the Open Theater, now The Bitter End)",
+      "lat": 37.782716,
+      "lon": -122.464087,
+      "precision": "building"
+    },
+    "hook": "In 1974 a Richmond native turned a former hummus shop into an immersive theatre. Most of its 37 actors played Indians, scaling the balcony on rope ladders.",
+    "story": "441 Clement Street was built in 1923. It held an upholsterer, a radio store that was sold off at a bankruptcy sale in 1933, a wine and liquor distributor, and from 1964 Haig's Delicacies [1]. When Haig's moved up the street in 1973, Jack Anderson moved in [1]. He grew up in the Richmond, where his family ran the Anderson Sisters School of Dance on Sixth Avenue, and he was also a radio talk-show host [1]. He took a ten-year lease and made the building the Open Theater. He wanted to use every square foot, including the balcony, the lobby and the street, and his house on Seventh Avenue became the costume shop [1]. The first production, in January 1974, was Arthur Kopit's 'Indians', a Vietnam-era allegory set in the Wild West. It was directed by Lee Sankowich, known for 'One Flew Over the Cuckoo's Nest' [1]. Most of the 37-member cast played Indians who kept scaling the balcony on four rope ladders [1]. Anderson called the Richmond 'one of the last cosmopolitan neighborhoods in San Francisco.' By 1975 the papers called it the Clement Cultural Center; in the 1980s it was the Open Theater & Cafe, which closed when Anderson's lease ran out. By the 1990s the building was The Bitter End bar [1].",
+    "people": [
+      {
+        "name": "Jack Anderson",
+        "role": "Founder of the Open Theater"
+      },
+      {
+        "name": "Lee Sankowich",
+        "role": "Director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History Stop - 441 Clement (Nicole Meldahl and Drew Moss)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/history-stop-441-clement.php",
+        "supports": "Building history, Haig's 1964-73, Jack Anderson background, lease, Indians production details, quote, later names and The Bitter End"
+      },
+      {
+        "title": "History Stop - 642 Clement (Nicole Meldahl and Drew Moss)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/history-stop-642-clement.php",
+        "supports": "Haig's left 441 Clement for 642 Clement in 1973"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-plough-and-stars",
+    "title": "From French laundry to Irish seisún",
+    "theme": "arts-counterculture",
+    "year": 1975,
+    "place": {
+      "label": "The Plough and Stars, 116 Clement Street near 2nd Avenue",
+      "lat": 37.783375,
+      "lon": -122.460518,
+      "precision": "building"
+    },
+    "hook": "For more than sixty years French laundries washed the Richmond's linens at 116 Clement. Since 1975 the building has been an Irish pub known for traditional music.",
+    "story": "116 Clement Street was built in 1905. For most of its life it was a French laundry, a reminder of the French community that also built the French Hospital on Geary [1]. Frank Mirandette opened a laundry here around 1910. He was born to a French father and Spanish mother and came to America in 1890. In 1912 he took on a partner, Calixte Lapuyade, who later ran it as Clement French Laundry. By 1960 the Baylacq family, laundry owners since 1906, had it, and they kept going until 1974 [1]. On Friday, April 30, 1975, The Plough and Stars opened as an Irish pub and live-music room. It was run by Bob Heaney, founder of the Starry Plough in Berkeley [1]. In 1981 Sean Heaney took over. He was part of a wave of Irish immigrants escaping a severe recession back home in the 1980s [1]. The pub became known for its seisúns, informal sessions where musicians sit together and play traditional tunes and anyone can join. Irish newcomers still come for company, networking and familiar music [1]. The city named it a Legacy Business in 2018 [1].",
+    "people": [
+      {
+        "name": "Frank Mirandette",
+        "role": "Laundry founder"
+      },
+      {
+        "name": "Sean Heaney",
+        "role": "Owner of The Plough and Stars since 1981"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History Stop - 116 Clement (Nicole Meldahl and Drew Moss)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/history-stop-116-clement.php",
+        "supports": "1905 construction, laundry owners and dates, 1975 opening, Heaney owners, seisuns, Legacy Business 2018"
+      },
+      {
+        "title": "Social and Architectural History of the Richmond District (Christopher VerPlanck)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2000,
+        "url": "https://www.outsidelands.org/richmond_arch.php",
+        "supports": "Clement Street between Arguello and Sixth Avenue built up between the 1890s and 1910s as a commercial strip"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-holy-city-zoo",
+    "title": "The comedy womb on Clement Street",
+    "theme": "arts-counterculture",
+    "year": 1975,
+    "yearEnd": 1993,
+    "place": {
+      "label": "Former Holy City Zoo, 408 Clement Street between 5th & 6th Aves",
+      "lat": 37.783225,
+      "lon": -122.463777,
+      "precision": "building"
+    },
+    "hook": "A folk club named after a roadside zoo sign became the tiny comedy club where Robin Williams tried out new material. He called it 'the womb'.",
+    "story": "The Holy City Zoo got its name from a sign advertising the zoo at Holy City, a commune that kept its own zoo. One account says the sign was stolen and turned up on Clement Street; another says it was picked up at a closing-down sale [1][2]. The room at 408 Clement began as a folk club. An impressionist first tried comedy at an open mic around 1971, other comics followed, and by the late 1970s it was a full-time comedy club [1][2]. It was tiny: the Chronicle put capacity at 85, another account at 78, on plank floors once covered in sawdust [1][2]. Robin Williams used it as his neighbourhood rehearsal space. He would sit on the bench outside and chat, which pulled a crowd in [1]. Manager John Cantu would stand on the sidewalk shouting 'Comedy! Comedy! Comedy!' at passers-by, and he sometimes slept on the stage after closing [3]. Will Durst's first set there came right after one of Williams's [3]. Sources differ on when the Zoo closed: the Chronicle says August 30, 1993, and other accounts say 1994 [1][2]. It became a karaoke bar. Williams said losing it was 'like someone pulling the life support on your aunt... The Zoo was the womb' [1].",
+    "people": [
+      {
+        "name": "Robin Williams",
+        "role": "Comedian and regular"
+      },
+      {
+        "name": "John Cantu",
+        "role": "Club manager and comedy producer"
+      },
+      {
+        "name": "Jim Samuels",
+        "role": "Co-owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "It's Comedy Tonight at the Zoo (Sam Whiting)",
+        "publisher": "San Francisco Chronicle / SFGate",
+        "year": 1996,
+        "url": "https://www.sfgate.com/bayarea/article/It-s-Comedy-Tonight-at-the-Zoo-Spirit-of-2998061.php",
+        "supports": "Stolen sign story, folk-club origins, full-time comedy by late 1970s, sawdust, Williams bench and quotes, capacity, closing date Aug 30 1993, karaoke bar"
+      },
+      {
+        "title": "Holy City Zoo",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Holy_City_Zoo",
+        "supports": "Address, sale-sign version of name, open-mic history, 1994 closing date"
+      },
+      {
+        "title": "John Cantu -- passionate voice for comics in S.F. (Steve Rubenstein)",
+        "publisher": "San Francisco Chronicle / SFGate",
+        "year": 2003,
+        "url": "https://www.sfgate.com/bayarea/article/john-cantu-passionate-voice-for-comics-in-s-f-2617097.php",
+        "supports": "Cantu ran the Zoo, sidewalk barking, slept on stage, Durst following Williams"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-haigs-delicacies",
+    "title": "Hummus from Clement Street to supermarkets",
+    "theme": "labor-industry",
+    "year": 1956,
+    "yearEnd": 2013,
+    "place": {
+      "label": "642 Clement Street near 8th Avenue (Haig's Delicacies, now Richmond Republic)",
+      "lat": 37.783133,
+      "lon": -122.466227,
+      "precision": "building"
+    },
+    "hook": "The Haig's hummus in supermarket fridges began in a Clement Street deli, where Haig Kilijian served falafel to a lunch crowd that overflowed onto a mezzanine.",
+    "story": "642 Clement was built in 1910 as a milliner's shop. From 1940 it was the Coliseum Shoe Store of Anthony Ignoffo, remembered as 'The Mayor of Clement Street' [1]. Haig Kilijian was born Hayik Kilicoglu in Istanbul in 1933. According to the company he founded Haig's in 1956, and in 1963 the shop was at 302 Clement [1][2]. The next year it moved to 441 Clement. In 1973 it moved again, to 642 [1][2]. The Examiner described it in 1974 as a shop for Armenian and Greek foods. In 1977 the paper recalled that when Kilijian moved in, he put in four tables and started serving hot falafel. Within months he needed more tables and then a mezzanine for the lunch crowd [1]. WNP says Robin Williams and James Beard were fans [1]. From 1980 his brother-in-law, Vahram 'Bill' Takvorian, ran the store. Everything was made on Clement until 2009, when the wholesale side moved to Hayward [1]. The shop closed in 2013 after 57 years so the family could focus on the dips on supermarket shelves. Richmond Republic Draught House opened in 2014 and kept Haig's mezzanine [1].",
+    "people": [
+      {
+        "name": "Haig Kilijian",
+        "role": "Founder of Haig's Delicacies"
+      },
+      {
+        "name": "Vahram 'Bill' Takvorian",
+        "role": "Operator from 1980"
+      },
+      {
+        "name": "Anthony Ignoffo",
+        "role": "Shoe-store owner, 'Mayor of Clement Street'"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History Stop - 642 Clement (Nicole Meldahl and Drew Moss)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/history-stop-642-clement.php",
+        "supports": "Building history, Ignoffo, Kilijian birth and name, addresses and dates, 1974 and 1977 Examiner quotes, fans, Takvorian, 2009 move, 2013 closing, mezzanine"
+      },
+      {
+        "title": "History Stop - 441 Clement (Nicole Meldahl and Drew Moss)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/history-stop-441-clement.php",
+        "supports": "Haig's at 441 Clement from 1964 to 1973"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-campfire-girls-building",
+    "title": "A redwood hall for the Camp Fire Girls",
+    "theme": "architecture-landmarks",
+    "year": 1929,
+    "place": {
+      "label": "Campfire Girls Building, 325 Arguello Boulevard",
+      "lat": 37.78459,
+      "lon": -122.459491,
+      "precision": "building"
+    },
+    "hook": "On Arguello Boulevard, the Camp Fire Girls got a Craftsman meeting hall with a redwood-trussed ceiling like a cathedral. It is now a City Landmark.",
+    "story": "In 1929 the Camp Fire Girls built a headquarters at 325 Arguello Boulevard, between California and Clement Streets. The city later called it a significant example of Bay Area Craftsman architecture [1]. Its architect, Henry Gutterson, gave it the irregular, picturesque shape typical of the style. Inside, redwood lines the walls and forms the trim and the beams of a trussed, cathedral-like vault over the central meeting hall [1]. Gutterson was born in Minnesota in 1884 and studied architecture at Berkeley under John Galen Howard. He then trained at the Ecole des Beaux-Arts in Paris and helped draw the Burnham Plan for San Francisco [2]. The city's landmark report adds that he studied with Bernard Maybeck and worked with him on the First Church of Christ, Scientist in Berkeley [1]. For about 40 years Gutterson was the supervising architect of St. Francis Wood, where he designed more than thirty houses and many of its fountains [1][2]. Historian Richard Brandi describes his work as woodsy and small in scale, sheathed in redwood, with the garden treated as an extension of the living room [2]. The city made the building Landmark No. 169 in 1984 [1][3].",
+    "people": [
+      {
+        "name": "Henry H. Gutterson",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #169: Campfire Girls Building",
+        "publisher": "NoeHill in San Francisco (adapting City Planning Commission Resolution 9953, 1984)",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/sf169.asp",
+        "supports": "1929 date, Gutterson, Bay Area Craftsman style, redwood trussed vaults, Maybeck connection, St. Francis Wood houses"
+      },
+      {
+        "title": "Henry H. Gutterson, Supervising Architect of St. Francis Wood (Richard Brandi)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/gutterson.php",
+        "supports": "Birth 1884, study under John Galen Howard, Ecole des Beaux-Arts, Burnham Plan drawings, St. Francis Wood role, Bay Area Tradition traits"
+      },
+      {
+        "title": "List of San Francisco Designated Landmarks",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/List_of_San_Francisco_Designated_Landmarks",
+        "supports": "SFDL 169, Campfire Golden Gate Council Headquarters, 325 Arguello, designated 1984"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2q-craft-folk-art-museum",
+    "title": "A folk art museum in a former asylum",
+    "theme": "arts-counterculture",
+    "year": 1983,
+    "place": {
+      "label": "Balboa Street at 6th Avenue (first San Francisco Craft and Folk Art Museum)",
+      "lat": 37.7772,
+      "lon": -122.4642,
+      "precision": "block"
+    },
+    "hook": "In 1983 two collectors opened a craft and folk art museum on Balboa Street, in a small building that had once been a psychiatric hospital.",
+    "story": "Margery Anneberg grew up in Longview, Washington, and moved to California in 1957 [1][2]. She was a goldsmith and jeweller. In 1966 she opened a gallery on Hyde Street that showed work by local craftspeople alongside folk art from around the world. A history of American studio craft calls it the first professional gallery for contemporary crafts [2]. It closed in 1981 [2]. In October 1983 Anneberg and Gertrud Parker opened the San Francisco Craft and Folk Art Museum on Balboa Street at Sixth Avenue in the Inner Richmond [1][2]. It filled a 2,400-square-foot building that had once been a psychiatric hospital [2]. Anneberg was its founding curator until she retired in 1986, as multiple sclerosis made her work in the arts increasingly difficult [1]. The museum later moved to Fort Mason Center as the Museum of Craft and Folk Art, and closed in 2012 [1][2]. Anneberg died in 2003 at 81 [1].",
+    "people": [
+      {
+        "name": "Margery Anneberg",
+        "role": "Gallerist and museum co-founder"
+      },
+      {
+        "name": "Gertrud V. Parker",
+        "role": "Museum co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "ANNEBERG, Margery (obituary)",
+        "publisher": "San Francisco Chronicle / SFGate",
+        "year": 2003,
+        "url": "https://www.sfgate.com/news/article/anneberg-margery-2570449.php",
+        "supports": "Longview upbringing, 1957 move, 1966 Hyde St gallery, October 1983 museum on Balboa with Parker, curator until 1986, MS, move to Fort Mason, death at 81"
+      },
+      {
+        "title": "Margery Anneberg",
+        "publisher": "Wikipedia (citing SF Examiner 1982; Koplos & Metcalf, Makers, 2010)",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Margery_Anneberg",
+        "supports": "Balboa at 6th Avenue, 2,400 sq ft former psychiatric hospital building, first professional contemporary craft gallery, gallery closed 1981; museum closed 2012"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  }
+]

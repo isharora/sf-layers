@@ -1,0 +1,521 @@
+[
+  {
+    "id": "glen-park-2q-tietz-cottage",
+    "title": "The dairyman's cottage that outlasted everything",
+    "theme": "architecture-landmarks",
+    "year": 1872,
+    "yearEnd": null,
+    "place": {
+      "label": "657 Chenery Street (Tietz house)",
+      "lat": 37.73431,
+      "lon": -122.43309,
+      "precision": "building"
+    },
+    "hook": "Set back from Chenery Street as if it predates the street itself, a tiny gabled cottage built by a dairyman in 1872 is Glen Park's oldest known building.",
+    "story": "Walk down Chenery Street past Bird & Beckett and you might miss the little gable-roofed cottage at number 657. It sits about twenty feet back from the sidewalk. Architectural historian Christopher VerPlanck found that it was built in 1872 by a dairyman named William Tietz, which makes it the oldest known residence in Glen Park [1]. Back then there were no graded roads here, and many early farmhouses didn't line up with the streets that were laid out later, in the 1890s. That may explain the odd setback [1].\n\nThe name turns up again in a photograph in the San Francisco Public Library, reproduced on FoundSF. It shows Elise Beneke Tietz with a cow in Glen Canyon around 1909 [2]. The caption doesn't say how she was related to William, but it shows that cows were still grazing the canyon decades after he built his house.\n\nIn 2025 the city's SF Survey flagged the house as a potential historic resource. It called the building a Folk Victorian structure and Glen Park's oldest. The survey also found the whole Glen Park Center commercial district eligible as a historic district [3]. The farmhouse is now surrounded by the village that grew up around it.",
+    "people": [
+      {
+        "name": "William Tietz",
+        "role": "dairyman who built the cottage in 1872"
+      },
+      {
+        "name": "Elise Beneke Tietz",
+        "role": "photographed with a cow in Glen Canyon c.1909 (relationship to William not stated)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Glen Park — The Architecture and Social History",
+        "publisher": "Christopher P. VerPlanck, SF Apartment Magazine (SFAA), via Internet Archive",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20070928094254/http://www.sfaa.org/0112verplanck.html",
+        "supports": "657 Chenery built 1872 by dairyman William Tietz; oldest known residence; set back ~20 ft; early houses misaligned with 1890s streets"
+      },
+      {
+        "title": "Glen Canyon Natural History",
+        "publisher": "FoundSF (Pete Holloran; photo SF History Center, SFPL)",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=Glen_Canyon_Natural_History",
+        "supports": "Photo caption: Elise Beneke Tietz with a cow in Glen Canyon, c.1909"
+      },
+      {
+        "title": "Recap: Glen Park Neighborhood History Night",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+        "year": 2026,
+        "url": "https://www.glenparkhistory.org/single-post/recap-glen-park-neighborhood-history-night",
+        "supports": "SF Survey identifies Tietz house at 657 Chenery as Folk Victorian, oldest structure, potential historic resource; Glen Park Center eligible as historic district"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-gum-tree-grove",
+    "title": "Who really planted the Gum Tree Grove?",
+    "theme": "parks-nature",
+    "year": 1860,
+    "yearEnd": null,
+    "place": {
+      "label": "Diamond and Chenery streets, north-west corner (site of the Gum Tree Grove)",
+      "lat": 37.7349,
+      "lon": -122.4344,
+      "precision": "area"
+    },
+    "hook": "Websites and park histories credit Adolph Sutro with the eucalyptus that gave Glen Park its \"Gum Tree\" nickname. The paper trail points to a milk rancher instead.",
+    "story": "Glen Park's village used to be called the Gum Tree Tract, after a grove of eucalyptus at Diamond and Chenery [1][2]. You'll often read that Adolph Sutro planted the trees in the 1850s on a 76-acre \"Gum Tree Ranch.\" A Neighborhood Parks Council history of the canyon, still online in 2008, says exactly that [3].\n\nHistorian Evelyn Rose could find no record that Sutro bought land or planted trees here in the 1850s. His big purchase of Rancho San Miguel land came in 1880, and it lay to the north-west [1]. Instead she found Henry Wilson, an English-born \"milk + farmer\" in the 1860 census. His land sat just north and west of today's Diamond and Chenery. Eucalyptus was only sold in bulk from 1857, and Rose thinks Wilson planted the grove as a windbreak in the late 1850s or early 1860s. A descendant later confirmed to her that Wilson planted trees [1].\n\nThe first printed mention of the grove came in July 1890, when an escaped prisoner was recaptured under its branches. In August 1891 the Call named estate agent A. S. Baldwin as owner of the \"Gum Tree Ranch\", which a 1947 memoir placed along Diamond Street near Surrey and Sussex, next to the grove [1][2].",
+    "people": [
+      {
+        "name": "Henry Wilson",
+        "role": "English-born milk rancher, likely planter of the grove"
+      },
+      {
+        "name": "Adolph Sutro",
+        "role": "often wrongly credited with the trees"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Part 2: The Myth of Adolph Sutro in Glen Park",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+        "year": 2025,
+        "url": "https://www.glenparkhistory.org/single-post/part-2-the-myth-of-adolph-sutro-in-glen-park",
+        "supports": "No evidence of Sutro purchase or planting; 1880 Sutro purchase; Henry Wilson 1860 census, land location, bulk eucalyptus from 1857, descendant; 1890 prisoner; 1891 Gum Tree Ranch"
+      },
+      {
+        "title": "History of \"Glen Park Among the Pines\"",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+        "year": null,
+        "url": "https://www.glenparkhistory.org/glen-park-c1z92",
+        "supports": "Grove at Diamond and Chenery gave the name Gum Tree Tract; Baldwin reported owner of Gum Tree Ranch in 1891"
+      },
+      {
+        "title": "Glen Canyon Park and Rec Center History",
+        "publisher": "Jeanne Alexander, San Francisco Neighborhood Parks Council, via Internet Archive",
+        "year": 2008,
+        "url": "https://web.archive.org/web/20080725001616/http://sfnpc.org/glencanyonhistory",
+        "supports": "The commonly repeated claim that Sutro bought 76 acres and planted gum trees in the 1850s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-islais-waterworks",
+    "title": "When a Glen Park creek watered the city",
+    "theme": "parks-nature",
+    "year": 1862,
+    "yearEnd": 1891,
+    "place": {
+      "label": "Bosworth Street below St. John School, Chenery Street (approximate site of the Blaine Pump House on Islais Creek)",
+      "lat": 37.7346,
+      "lon": -122.4372,
+      "precision": "area"
+    },
+    "hook": "Islais Creek once ran eight feet deep through Glen Park, full of steelhead. It drowned a rider, and for a while it supplied drinking water to San Francisco.",
+    "story": "Islais Creek is now buried in six-foot pipes under Glen Park [1]. In the 19th century its north branch cut a real gully across the district. Reports described it as up to eight feet deep and good for steelhead trout [1]. In the early 1860s it was briefly the city's main water source, sending an estimated 400,000 gallons a day to thirsty San Franciscans. Another neighbourhood account says it was supplying as much as 85 percent of the city's drinking water by the late 1880s, so the figures don't agree [1][2].\n\nThe earliest known photograph of the creek, taken by Dr. Alexander Thomas Leonard in 1891, shows the Blaine Pump House. Alfred \"Nobby\" Clarke of Clarke's Water Works built it between today's Bosworth Street and the St. John School parking lot [1].\n\nThe creek could also kill. In mid-January 1862, the winter of California's Great Flood, Michael Donovon tried to ride across it where the Old San Jose Road forded near today's Diamond and Chenery. He was swept off his horse and drowned [1]. People kept planning to dam the canyon for a reservoir, starting in 1856 [2]. A photograph from about 1915 shows yet another scheme, a proposed \"San Miguel Reservoir\" dam [3].",
+    "people": [
+      {
+        "name": "Alfred \"Nobby\" Clarke",
+        "role": "built the Blaine Pump House (Clarke's Water Works)"
+      },
+      {
+        "name": "Michael Donovon",
+        "role": "drowned fording the creek, 1862"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rising Water in and Around Glen Park is Nothing New: A Look Back",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose), Glen Park News",
+        "year": 2023,
+        "url": "https://www.glenparkhistory.org/single-post/rising-water-in-and-around-glen-park-is-nothing-new-a-look-back",
+        "supports": "Creek depth, steelhead, 1860s water supply and 400,000 gallons, 1891 Leonard photo, Blaine Pump House by Clarke, 1862 drowning, modern pipes"
+      },
+      {
+        "title": "Who Knew? The History of Glen Canyon",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+        "year": null,
+        "url": "https://www.glenparkhistory.org/glen-canyon-c1cvj",
+        "supports": "85% of drinking water by late 1880s; dam proposals beginning 1856"
+      },
+      {
+        "title": "Glen Canyon Park",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Glen_Canyon_Park",
+        "supports": "Photo caption: proposed San Miguel Reservoir Dam, c.1915"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-bosworth-greenway",
+    "title": "The freeway land that became a meadow",
+    "theme": "parks-nature",
+    "year": 1964,
+    "yearEnd": 2023,
+    "place": {
+      "label": "Glen Park Greenway, north side of Bosworth Street at Brompton Avenue",
+      "lat": 37.73412,
+      "lon": -122.43514,
+      "precision": "street"
+    },
+    "hook": "The green strip along Bosworth Street is what was left when a freeway was stopped. Homes were cleared for it, and the road was never built.",
+    "story": "In 1958 the state unveiled a Crosstown Freeway to link the future Interstate 280 with the Golden Gate Bridge. It would have cut through the middle of Glen Park and on through Glen Canyon [2]. Property buying for it was nearly finished, and homes and businesses along the north side of Bosworth Street were removed [1]. Then neighbourhood activists stopped the freeway. Some of the cleared land was used to widen Bosworth to four lanes, which happened in 1964, and to expand O'Shaughnessy Boulevard [1][2]. The rest stayed empty. As a 2003 city plan put it, the green edge of Bosworth is \"a result of a freeway being stopped in its tracks\" [1].\n\nIn that planning process, residents asked for the vacant parcels to become a greenway linking the village to Glen Canyon. Some hoped to bring Islais Creek, which runs in a pipe below, back to the surface. Others worried about mosquitoes [1]. In 2016 much of the land showed up on a list of city \"surplus\" property to be reviewed for housing. Neighbours reminded Supervisor Scott Wiener that it was planned as a greenway, and he replied: \"I do not support selling off community open space\" [3]. In 2023 volunteers were meeting at Brompton Avenue to weed invasive oxalis from a native meadow and plant coffeeberries [4].",
+    "people": [
+      {
+        "name": "Nicholas Dewar",
+        "role": "Greenway project facilitator, Glen Park Association"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Glen Park Community Plan (Draft) Summary",
+        "publisher": "San Francisco Planning Department, via Internet Archive",
+        "year": 2003,
+        "url": "https://web.archive.org/web/2009/http://www.sfgov.org/site/uploadedfiles/planning/citywide/pdf/gpdplowres.pdf",
+        "supports": "Crosstown Freeway acquisitions on north side of Bosworth, widening, 'stopped in its tracks' quote, community greenway and creek daylighting ideas, mosquito concerns"
+      },
+      {
+        "title": "Glen Park — The Architecture and Social History",
+        "publisher": "Christopher P. VerPlanck, SF Apartment Magazine (SFAA), via Internet Archive",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20070928094254/http://www.sfaa.org/0112verplanck.html",
+        "supports": "1958 Crosstown Freeway plan; Bosworth widened to four lanes six years later with demolitions"
+      },
+      {
+        "title": "Glen Park Greenway and the Surplus Property Ordinance",
+        "publisher": "Glen Park Association (Nicholas Dewar)",
+        "year": 2016,
+        "url": "https://www.glenparkassociation.org/glen-park-greenway-and-the-surplus-property-ordinance/",
+        "supports": "Greenway land listed for housing review under Prop K; Wiener opposed selling it"
+      },
+      {
+        "title": "Glen Park Greenway News",
+        "publisher": "Glen Park Association (Nicholas Dewar)",
+        "year": 2023,
+        "url": "https://www.glenparkassociation.org/glen-park-greenway-news/",
+        "supports": "Work parties at Brompton Avenue weeding oxalis in the native meadow and planting coffeeberries"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-burnside-mural",
+    "title": "A blank green wall becomes neighbourhood history",
+    "theme": "arts-counterculture",
+    "year": 2022,
+    "yearEnd": 2024,
+    "place": {
+      "label": "Burnside Mural+ and tiled stairway, Burnside Avenue cul-de-sac at the west end of the Glen Park Greenway",
+      "lat": 37.7347,
+      "lon": -122.4383,
+      "precision": "block"
+    },
+    "hook": "Over three years, a bird-shaped retaining wall and zigzag stairs off Burnside Avenue were turned into a painted and tiled history of Glen Park, with Islais Creek running beneath.",
+    "story": "Glen Park resident Renee Berger kept walking past a big blank green wall where Burnside Avenue dead-ends, just south of Paradise Avenue. It \"cried out for a visual narrative,\" she said [1]. The wall marks the western end of the Glen Park Greenway. Stairs zigzag up behind it to Bosworth Street, and they are part of the 17-mile Crosstown Trail. Islais Creek runs underneath [2].\n\nThe project began with a neighbourhood happy hour in the cul-de-sac on 18 June 2021 [2]. Twin Walls Mural Company won the job. Its partners, Elaine Chu and Marina Perez-Wong, are San Francisco natives. They painted a timeline that snakes up the wall and includes the Gum Tree Girls who saved Glen Canyon, Mother Nature, and the creek's water [1]. The $40,000 mural was unveiled on 17 September 2022, the day before an unseasonal downpour. About 100 people came, including the families of all three Gum Tree Girls [1].\n\nThe second phase was harder. Tile artists Aileen Barr and Colette Crutcher designed a mosaic stairway, paid for partly by nearly 200 engraved donor \"legacy tiles\" [1][3]. Work began in December 2023, and the steps were opened with a ribbon-cutting in October 2024 [3].",
+    "people": [
+      {
+        "name": "Renee Berger",
+        "role": "project leader"
+      },
+      {
+        "name": "Elaine Chu and Marina Perez-Wong",
+        "role": "muralists, Twin Walls Mural Company"
+      },
+      {
+        "name": "Aileen Barr and Colette Crutcher",
+        "role": "mosaic tile artists"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Completion of Burnside Mural is celebrated",
+        "publisher": "Glen Park Association (Bonnee Waldstein)",
+        "year": 2022,
+        "url": "https://www.glenparkassociation.org/completion-of-burnside-mural-is-celebrated/",
+        "supports": "Berger quote, Twin Walls artists, themes, $40,000 budget, 17 Sept 2022 ceremony, ~100 attendees, Gum Tree families"
+      },
+      {
+        "title": "A Canvas Awaits: The Burnside Mural+ Project",
+        "publisher": "Glen Park Neighborhoods History Project (Renee A. Burger)",
+        "year": 2021,
+        "url": "https://www.glenparkhistory.org/single-post/a-canvas-awaits-the-burnside-mural-project",
+        "supports": "Wall location at Greenway end south of Paradise, stairs to Bosworth, Crosstown Trail, Islais Creek beneath, 18 June 2021 kick-off"
+      },
+      {
+        "title": "Neighbors, politicos flock to opening of Burnside tiled steps",
+        "publisher": "Glen Park Association (Bonnee Waldstein)",
+        "year": 2024,
+        "url": "https://www.glenparkassociation.org/neighbors-politicos-flock-to-opening-of-burnside-tiled-steps/",
+        "supports": "Mural completed Sept 2022; tile artists; nearly 200 legacy tiles; work began Dec 2023; completed Oct 2024"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-diamond-heights-leveled",
+    "title": "Two hilltops bulldozed into a shopping centre",
+    "theme": "civil-rights",
+    "year": 1950,
+    "yearEnd": 1965,
+    "place": {
+      "label": "Diamond Heights Shopping Center and Christopher Playground, Diamond Heights Boulevard (the filled saddle between Red Rock and Gold Mine hills)",
+      "lat": 37.74367,
+      "lon": -122.43997,
+      "precision": "area"
+    },
+    "hook": "In 1950 the city declared cow pasture, quarries and cottages \"blighted.\" Then it shaved the tops off two hills and pushed the dirt into the gap between.",
+    "story": "Until the 1950s, the hills above Glen Park were used for grazing and quarrying. The streets had been drawn on paper as a grid that ran straight up 20 to 35 percent grades [1]. In 1950 the San Francisco Redevelopment Agency marked out 332 acres across Red Rock, Gold Mine and Fairmount hills as \"Redevelopment Area B\" and named it Diamond Heights, after the street that climbed into it [1]. It counted about 450 homes, two truck yards, a radio transmitter and a single corner grocery, and it called the area one of \"arrested development\" [1]. A 1955 Agency description called it \"a predominantly open, blighted area\" [2].\n\nResidents, mostly blue-collar workers, said there was no blight and worried they would not get a fair price for their homes [1]. The plan was approved in 1952 and then stalled for four years over land prices and legal challenges to its definition of blight. By 1959 the Agency had bought half the private land, and it condemned the rest [1]. Bulldozers levelled the summits of Red Rock and Gold Mine hills and pushed about 2 million cubic yards of dirt into the saddle between them. The Diamond Heights Shopping Center and Christopher Playground now stand on that fill. The shopping centre opened in 1965 [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "A Product of \"Arrested Development\": History of Diamond Heights",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+        "year": null,
+        "url": "https://www.glenparkhistory.org/diamond-heights-c1l4v",
+        "supports": "Area B boundaries and hills, naming, 1950 assessment (dwellings, grocery, transmitter, 'arrested development'), residents' objections, 1952 approval, 1959 acquisition/condemnation, 2 million cubic yards, shopping center 1965"
+      },
+      {
+        "title": "Diamond Heights",
+        "publisher": "FoundSF (Mae Silver)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Diamond_Heights",
+        "supports": "July 1955 Redevelopment Agency description of 'a predominantly open, blighted area'; controversy throughout"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-fairmount-curves",
+    "title": "The first streets that bent to the hills",
+    "theme": "gold-rush-victorian",
+    "year": 1864,
+    "yearEnd": null,
+    "place": {
+      "label": "Laidley Street on the curving slope of Fairmount Hill",
+      "lat": 37.74034,
+      "lon": -122.4312,
+      "precision": "street"
+    },
+    "hook": "San Francisco usually laid its grid straight over hills. In 1864 the Fairmount Tract went on sale with streets that curved around the slopes instead.",
+    "story": "San Francisco's early surveyors ran their grid right over the hills. John Horner's addition laid a gridiron that suited the flats but not the hilly ground of the future Fairmount [1]. In December 1862 a group of Gold Rush pioneers announced the Pacific Railroad Homestead Association. They included Richard Chenery as president and James Laidley as vice president. They planned up to 600 lots on 120 to 130 acres beside the new San Francisco-San Jose Railroad [1].\n\nThe Civil War seems to have delayed things. On 27 February 1864 the scheme came back as \"Fairmount,\" sold through the agents Cobb & Sinton. Its streets curved to follow the ground. The Glen Park Neighborhoods History Project argues this predates Corbett Heights, usually called the city's first terrain-following neighbourhood, by five years [1]. Advertisements boasted that the land was \"laid out so as to avoid the heavy grading which has proven so great a charge on city property\" [1]. At the first auction on 19 March 1864, $57,000 worth of lots sold. The rest of the sale was put off a week while General H. A. Cobb got over a cold [1].\n\nStreet names honour the founders: Chenery, Laidley, Bemis, Whitney [1]. By 1868, according to FoundSF, people in the area included carriage makers, stablers, bankers, painters and building-trades workers [2].",
+    "people": [
+      {
+        "name": "Richard Chenery",
+        "role": "president, Pacific Railroad Homestead Association"
+      },
+      {
+        "name": "James Laidley",
+        "role": "vice president"
+      },
+      {
+        "name": "H. A. Cobb",
+        "role": "auctioneer, Cobb & Sinton"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Origins of Fairmount Heights: Foundations in Railroad, Civil War, and Real Estate Histories",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose), Glen Park News",
+        "year": 2019,
+        "url": "https://www.glenparkhistory.org/fairmount-heights-c13bl",
+        "supports": "Horner grid, 1862 association and officers, 1864 Fairmount via Cobb & Sinton, curvilinear streets predating Corbett Heights, ad quote, 19 March 1864 sale, Cobb's cold, street-name origins"
+      },
+      {
+        "title": "Fairmount Heights",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Fairmount_Heights",
+        "supports": "1868 occupations of residents: carriage makers, stablers, bankers, civil servants, painters, building trades"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-bernal-cut",
+    "title": "From railroad trench to freeway stub",
+    "theme": "architecture-landmarks",
+    "year": 1930,
+    "yearEnd": null,
+    "place": {
+      "label": "San Jose Avenue in the Bernal Cut, between Fairmount and Bernal hills (beside Arlington Street)",
+      "lat": 37.7368,
+      "lon": -122.4265,
+      "precision": "street"
+    },
+    "hook": "San Jose Avenue's sunken, freeway-like run past Glen Park began as an 1860s railroad trench. It is also what remains of a freeway stopped at Randall Street.",
+    "story": "In the summer of 1861 crews building the San Francisco-San Jose Railroad started cutting a trench through the gap between Fairmount and Bernal hills. It became known as the Bernal Cut [1]. The line opened in January 1864 with a Grand Celebration as \"the first link of the Great Central Railway.\" Its local stop was the Four-mile House, near today's Randall Street [1]. By 1926 Southern Pacific trains still ran down the middle of what is now San Jose Avenue [2].\n\nIn the late 1920s the city widened the cut for cars. One architectural history dates the widening to 1928. Photographs record the opening day of the new Bernal Cut on 16 April 1930 [2][3]. The new road gave direct access from the Mission District to Glen Park and points south [3]. When the Southern Freeway, now I-280, was built in the 1960s, it followed the old railroad right-of-way [2][4].\n\nA second freeway, the Mission Freeway, was planned to run overhead along Valencia Street. It was stopped at Randall Street. A 2003 city plan called the \"freeway-like\" stretch of San Jose Avenue that was left \"an unneeded remnant of this misguided idea\" [4].",
+    "people": [
+      {
+        "name": "Peter Donahue",
+        "role": "industrialist behind the San Francisco-San Jose Railroad"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Origins of Fairmount Heights: Foundations in Railroad, Civil War, and Real Estate Histories",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+        "year": 2019,
+        "url": "https://www.glenparkhistory.org/fairmount-heights-c13bl",
+        "supports": "1861 construction carving the Bernal Cut; January 1864 opening celebration quote; Four-mile House near Randall"
+      },
+      {
+        "title": "Before the I-280 Freeway",
+        "publisher": "FoundSF (photo captions, C.R. collection / SFPL)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Before_the_I-280_Freeway",
+        "supports": "SP running down San Jose Ave in 1926; opening day of new Bernal Cut, 16 April 1930; I-280 on the old right of way"
+      },
+      {
+        "title": "Glen Park — The Architecture and Social History",
+        "publisher": "Christopher P. VerPlanck, SF Apartment Magazine (SFAA), via Internet Archive",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20070928094254/http://www.sfaa.org/0112verplanck.html",
+        "supports": "Widening of Bernal Cut in 1928 giving direct access from Mission to Glen Park"
+      },
+      {
+        "title": "Glen Park Community Plan (Draft) Summary",
+        "publisher": "San Francisco Planning Department, via Internet Archive",
+        "year": 2003,
+        "url": "https://web.archive.org/web/2009/http://www.sfgov.org/site/uploadedfiles/planning/citywide/pdf/gpdplowres.pdf",
+        "supports": "Southern Freeway followed railroad rights-of-way; Mission Freeway stopped at Randall; 'freeway-like' San Jose Ave remnant quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-diamond-trestle",
+    "title": "The 50-foot trestle buried under Diamond Street",
+    "theme": "architecture-landmarks",
+    "year": 1922,
+    "yearEnd": null,
+    "place": {
+      "label": "Diamond Street between Chenery and Bosworth streets (former trestle over the Islais Creek gully)",
+      "lat": 37.734,
+      "lon": -122.434,
+      "precision": "street"
+    },
+    "hook": "The flat block of Diamond Street at the heart of the village used to be a gully, crossed by a timber streetcar trestle 50 feet high.",
+    "story": "Stand on Diamond Street between Chenery and Bosworth and it's hard to picture a ravine. But when Behrend Joost's electric railway came through, it crossed a branch of Islais Creek here on a wooden trestle running from Chenery to Bosworth [1]. Architectural historian Christopher VerPlanck put its height at 50 feet [2]. A photograph taken from Bosworth on 17 April 1905 shows the trestle over the creek [3].\n\nThe gully held back the village for years. Between 1906 and 1913 there was little room to build shops along Diamond. The newest businesses, such as A. F. Dissmeyer's Enterprise Steam Beer Saloon, clustered just north of the trestle [2]. After the Municipal Railway's 26 line replaced the old railway around 1920, the trestle came down and the gully was filled, which created a large chunk of land to build on [2].\n\nIn 1922 this block became the first in Glen Park to be paved [2]. The contractors, Eaton & Smith, also laid ironstone pipe culverts and three brick catch basins with cast-iron gratings: two at the corners of Diamond and Wilder and one on the west side of Diamond. The Glen Park Neighborhoods History Project says the basins are still in place [4]. The firm's name is also still stamped in a 1931 sidewalk at Mizpah and Sussex streets [4].",
+    "people": [
+      {
+        "name": "Behrend Joost",
+        "role": "built the railway and trestle"
+      },
+      {
+        "name": "Eaton & Smith (Clarence Eaton, James M. Smith)",
+        "role": "paving contractors, 1922"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Glen Park: SF's 'Little Switzerland'",
+        "publisher": "FoundSF (Mae Silver)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Glen_Park:_SF%27s_%27Little_Switzerland%27",
+        "supports": "Joost built the Diamond Street trestle from Chenery to Bosworth over the creek"
+      },
+      {
+        "title": "Glen Park — The Architecture and Social History",
+        "publisher": "Christopher P. VerPlanck, SF Apartment Magazine (SFAA), via Internet Archive",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20070928094254/http://www.sfaa.org/0112verplanck.html",
+        "supports": "Trestle 50 feet high; 1906-1913 development constrained; Dissmeyer's saloon north of trestle; Muni 26 line by 1920, trestle removed and gully filled; paving began 1922 with this block first"
+      },
+      {
+        "title": "Glen Park Trolley",
+        "publisher": "FoundSF (photo captions, SF History Center / OpenSFHistory)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Glen_Park_Trolley",
+        "supports": "Diamond and Bosworth trestle over creek, 17 April 1905, seen from Bosworth looking north"
+      },
+      {
+        "title": "Eaton & Smith: 20th-Century Progress as Seen From a Glen Park Street Corner",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose), Glen Park News",
+        "year": 2020,
+        "url": "https://www.glenparkhistory.org/single-post/eaton-smith-20th-century-progress-embedded-in-a-glen-park-street-corner",
+        "supports": "1922 Eaton & Smith contract for Diamond between Chenery and Bosworth, culverts and catch basins still in place; 1931 sidewalk stamp at Mizpah and Sussex"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-surrey-cottages",
+    "title": "Six matching cottages for Mission District renters",
+    "theme": "architecture-landmarks",
+    "year": 1907,
+    "yearEnd": null,
+    "place": {
+      "label": "52-54 Surrey Street (row of identical post-quake cottages)",
+      "lat": 37.73581,
+      "lon": -122.43351,
+      "precision": "building"
+    },
+    "hook": "\"Buy a lot, build a home, save the price in rent. Be independent.\" After 1906, estate agents sold Glen Park to working families. Their cottages still stand in rows.",
+    "story": "After the 1906 earthquake, estate agents went after renters in the crowded Mission District. Umbsen's agency took over marketing Glen Park Terrace (VerPlanck spells it \"Umbsden\" and dates its role to 1905-07), and in 1907 G. H. Umbsen & Co. advertised it as the \"Switzerland of San Francisco\" [1][2]. One advertisement said: \"You can't wait till property values are increased, you must get in and HELP INCREASE them... Buy a lot, build a home, save the price in rent. Be independent.\" It promised the land was within 500 feet of an electric line and 30 minutes from downtown [1].\n\nThe buyers were mostly working people, many of them Irish and German labourers from the Mission. Builders often put cottages up on speculation in pairs or in rows of up to six [2]. The cottages at 52 and 54 Surrey Street, built by Umbsen's firm, are part of a row of six identical cottages. They are typical Glen Park houses: one-and-a-half storeys, a gable roof, and bay windows beside the entry [2]. Nearby, 9 Surrey is a fancier Queen Anne cottage from 1905 [2].\n\nThe houses were cheap for a reason. Glen Park Terrace had narrow ungraded streets, and for years it had no city water or sewers [2].",
+    "people": [
+      {
+        "name": "G. H. Umbsen & Co.",
+        "role": "estate agents marketing Glen Park Terrace"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of \"Glen Park Among the Pines\"",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+        "year": null,
+        "url": "https://www.glenparkhistory.org/glen-park-c1z92",
+        "supports": "1907 Umbsen advertising as 'Switzerland of San Francisco'; ad quotes about looking ahead, 500 feet from electric line, 30 minutes, 'Be independent'"
+      },
+      {
+        "title": "Glen Park — The Architecture and Social History",
+        "publisher": "Christopher P. VerPlanck, SF Apartment Magazine (SFAA), via Internet Archive",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20070928094254/http://www.sfaa.org/0112verplanck.html",
+        "supports": "Umbsden Realty marketing 1905-07; working-class Irish/German Mission buyers; cottages in pairs or rows up to six; 52 and 54 Surrey part of row of six identical cottages; 9 Surrey Queen Anne 1905; typical form; no water or sewers"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2q-volunteer-firehouse",
+    "title": "The neighbours who built their own firehouse",
+    "theme": "quake1906",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "Diamond Street near Moreland Street (approximate site of the Glen Park volunteer firehouse)",
+      "lat": 37.73844,
+      "lon": -122.4354,
+      "precision": "block"
+    },
+    "hook": "The new post-quake suburb had no water mains and no fire station. So residents laid their own pipeline and raised a volunteer fire company with a donated hose cart.",
+    "story": "The families who poured into Glen Park after 1906 found a district with almost no city services. There was no municipal water and no sewers [1]. The newly formed Glen Park Improvement Club dealt with the water first. It organised a work crew to lay a pipeline down from a water tank on the hills above the neighbourhood [1].\n\nFire was the next worry. In 1908 residents formed the Glen Park Volunteer Fire Company under the Improvement Association, and about 75 people joined. Theodore Pinther was elected president and butcher August Vogel was one of its four directors [2]. The San Francisco Fire Department donated a hose cart and gear. The volunteers planned to cover Glen Park, Sunnyside, Fairmount and part of the Outer Mission [2].\n\nThe sources don't quite agree on where the firehouse stood. The Crocker Estate Company donated a lot at Diamond and Sussex. A Sanborn fire-insurance map from 1913 to 1915 shows the firehouse nearer Diamond and Moreland, though [2]. Architectural historian Christopher VerPlanck gives the address as 2440 Diamond Street, which is close to Moreland. He names residents J. O'Donnell, W. Scott, H. Shattuck, F. Moran and J. McLaughlin as its founders [1].",
+    "people": [
+      {
+        "name": "Theodore Pinther",
+        "role": "president of the volunteer fire company"
+      },
+      {
+        "name": "August Vogel",
+        "role": "director, butcher"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Glen Park — The Architecture and Social History",
+        "publisher": "Christopher P. VerPlanck, SF Apartment Magazine (SFAA), via Internet Archive",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20070928094254/http://www.sfaa.org/0112verplanck.html",
+        "supports": "Lack of water and sewers; Improvement Club pipeline from hillside tank; 1908 volunteer fire department founders; firehouse at 2440 Diamond Street"
+      },
+      {
+        "title": "\"We Have the Meats!\" Vogel Bros. Meat Co. of Chenery Street",
+        "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+        "year": 2026,
+        "url": "https://www.glenparkhistory.org/single-post/we-have-the-meats-vogel-bros-meat-co-of-chenery-street",
+        "supports": "1908 Glen Park Volunteer Fire Company, ~75 members, Pinther president, Vogel director, Crocker lot at Diamond and Sussex vs Sanborn location near Diamond and Moreland, donated hose cart, service area"
+      }
+    ],
+    "photo": null
+  }
+]

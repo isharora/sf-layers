@@ -1,0 +1,438 @@
+[
+  {
+    "id": "outer-mission-2q-bernal-adobe-last-acres",
+    "title": "The Bernals' last corner of their rancho",
+    "theme": "indigenous-early",
+    "year": 1850,
+    "yearEnd": 1917,
+    "place": {
+      "label": "Near Alemany Boulevard and Ocean Avenue (site of Carmen Bernal's adobe and the family's last 25 acres, along old Ocean House Road, now Onondaga Avenue)",
+      "lat": 37.72335,
+      "lon": -122.4377,
+      "precision": "area"
+    },
+    "hook": "A Californio family's adobe stood by Islais Creek for half a century, and the last scrap of their Mexican land grant was a vegetable patch here.",
+    "story": "By the early 1850s, Carmen Cibrián de Bernal had built an adobe house in a sheltered pocket at the south-west corner of her family's land grant. She was the wife of José Cornelio Bernal, original claimant of the Rancho de las Salinas. The spot is close to where Alemany Boulevard now meets Ocean Avenue [1]. Two more houses, possibly adobe, soon went up nearby, perhaps for relatives. This 'Bernal Reservation' may have been the only homes near here in the early 1850s. The adobe, the two houses and outbuildings, including an adobe oven, stayed in use until 1900 and perhaps as late as 1915 [1]. By then the grant had shrunk to almost nothing. When his grandson and namesake died in 1926, the Chronicle reported that by 1908 this last owner under the grant had only about 25 acres left. They lay 'west of Mission road in the little valley crossed by the Ocean House road, now Onondaga avenue', and were planted as vegetable gardens [2]. That land was lost to foreclosure in 1917. It was the last piece of San Francisco still held by the families of the original grantees [2]. A 1990s study for a fire-main project flagged the ground around it as the area's one site of historical archaeological concern [1].",
+    "people": [
+      {
+        "name": "Carmen Cibrián de Bernal",
+        "role": "Built the family adobe near Islais Creek"
+      },
+      {
+        "name": "José Cornelio Bernal",
+        "role": "Claimant of Rancho Rincón de las Salinas"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Balboa Park Station Area Plan Final EIR (Case No. 2004.1059E), Archaeological Resources: historical background",
+        "publisher": "San Francisco Planning Department",
+        "year": 2008,
+        "url": "http://web.archive.org/web/2016/http://www.sf-planning.org/ftp/files/MEA/2004.1059E_Balboa_FEIR_Pt1.pdf",
+        "supports": "Carmen Cibrian de Bernal's early-1850s adobe near Alemany and Ocean, two more houses, the 'Bernal Reservation', adobe oven, use until 1900 or 1915, 1990s AWSS sensitivity study"
+      },
+      {
+        "title": "Bernal Death Severs Last Link in Old S.F. Regime (San Francisco Chronicle, Nov. 1926, transcribed)",
+        "publisher": "Bernal Heights History Project",
+        "year": 1926,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/bernalobit.php",
+        "supports": "About 25 acres of vegetable gardens by 1908 west of Mission road on the Ocean House road (now Onondaga Avenue), 1917 foreclosure, last land held by grantee families"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2q-eureka-dairy",
+    "title": "Swiss cows, then asphalt, beside Geneva Avenue",
+    "theme": "labor-industry",
+    "year": 1880,
+    "yearEnd": 1915,
+    "place": {
+      "label": "West side of San Jose Avenue at Geneva Avenue (block of the Furrers' Eureka Dairy, between San Jose, Niagara, Tara and Geneva)",
+      "lat": 37.7207,
+      "lon": -122.4476,
+      "precision": "block"
+    },
+    "hook": "Swiss dairymen gave Geneva Avenue its name. Within a generation their pasture had become a railway paint shop and an asphalt plant.",
+    "story": "French Swiss families settled along Islais Creek, perhaps by the late 1850s, and gave Geneva Avenue and Geneva Lake their names, says the city's archaeological review [1]. The 1880 census and city directory list 17 farmers or dairymen living along the Ocean House Road and the old San Jose Road [2]. In the 1880s (or about 1876, by another page of the same report) the brothers Ambrose and Frank Furrer started the Eureka Dairy on the block bounded by San José Road, Niagara Avenue, Tara Street and Geneva Avenue. Their farmhouse was at 2224 San José Road [1]. By 1900 the dairy seems to have passed to Fred Furrer, who had arrived in 1886 aged 22 and married Emma, also from Switzerland [1]. By 1915 most of the dairy land had gone to the Southern Pacific for a railway car paint shop, and part had been leased or sold to the Blanchard & Brown Asphaltum Plant. The old farmhouse still stood, renumbered 2332 San Jose Avenue [1]. By then two asphalt plants worked nearby, the Moore Boode Gravel Co. was on Geneva, and a Spring Valley lumber yard filled the block across San Jose Avenue [1]. Even in 1930, Italian-born labourers living nearby still worked small truck farms [2].",
+    "people": [
+      {
+        "name": "Ambrose Furrer",
+        "role": "Co-founder of the Eureka Dairy"
+      },
+      {
+        "name": "Frank Furrer",
+        "role": "Co-founder of the Eureka Dairy"
+      },
+      {
+        "name": "Fred Furrer",
+        "role": "Ran the dairy around 1900"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Balboa Park Station Area Plan Final EIR (Case No. 2004.1059E), Archaeological Resources: historical background",
+        "publisher": "San Francisco Planning Department",
+        "year": 2008,
+        "url": "http://web.archive.org/web/2016/http://www.sf-planning.org/ftp/files/MEA/2004.1059E_Balboa_FEIR_Pt1.pdf",
+        "supports": "French Swiss dairy community and Geneva place names, Furrer brothers' Eureka Dairy block and farmhouse address, Fred and Emma Furrer, 1915 paint shop, Blanchard & Brown asphalt plant, 2332 San Jose Ave, asphalt plants, Moore Boode Gravel, Spring Valley lumber yard"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "17 farmers or dairymen listed in 1880, Italian-born truck-farm labourers near the Ocean/Geneva/San Jose transit hub in 1930"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2q-zakheim-frescoes",
+    "title": "Zakheim's fertility rites, painted over",
+    "theme": "arts-counterculture",
+    "year": 1934,
+    "yearEnd": 1976,
+    "place": {
+      "label": "Former Alemany Health Center, 45 Onondaga Avenue (fireplace chimney frescoes)",
+      "lat": 37.72142,
+      "lon": -122.43845,
+      "precision": "building"
+    },
+    "hook": "The Coit Tower muralist painted a baby-clinic chimney on Onondaga Avenue. Forty years later someone whitewashed half of it, and he was furious.",
+    "story": "In the same year he painted the 'Library' fresco at Coit Tower, Bernard Zakheim took on a humbler wall. In 1934 he painted two frescoes on the fireplace chimney of the new Alemany Health Center, a Mission-style building by City Architect Charles H. Sawyer [1][2]. New Deal relief money paid for the work [2]. The upper fresco, 'Community Spirit', shows the neighbourhood itself. Alemany Boulevard sweeps up past the little health center and 'massive' Balboa High, with houses zigzagging up to Mount Davidson and its cross [2]. Boys play baseball on a vacant lot, which Zakheim added to show that the district needed a playground [2]. The lower panel, 'Growth', shows kneeling lovers and a woman with raised arms in the agony of birth. A nurse helps a young plant out of the earth, among fig trees, an ancient symbol of fertility [2]. In the mid-1970s the lower panel was painted over. In February 1976 Zakheim wrote to Herb Caen that 'they amputeded [sic] a part of my soul', and Caen quoted him: 'they've covered over the most important part of all -- the fertility rites!' [2]. In 2010 his son Nathan uncovered a small part of it [2]. When the city moved to landmark the buildings in 2016, the frescoes were listed among the features to protect [1].",
+    "people": [
+      {
+        "name": "Bernard Zakheim",
+        "role": "Muralist"
+      },
+      {
+        "name": "Phyllis Wrightson",
+        "role": "Zakheim's assistant, later his second wife, who described the frescoes"
+      },
+      {
+        "name": "Herb Caen",
+        "role": "Chronicle columnist who reported Zakheim's anger"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Case Report: Alemany Emergency Hospital and Health Center, 35-45 Onondaga Avenue (Case No. 2015-003877DES)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2016,
+        "url": "https://commissions.sfplanning.org/hpcpackets/2015-003877DES.pdf",
+        "supports": "1934 frescoes 'Birth'/'Growth' and 'Community Spirit' on the chimney, Sawyer as architect, 1933 construction, protected interior features, Coit Tower context"
+      },
+      {
+        "title": "Application for Historic Landmark Designation: Alemany Emergency Hospital & Health Center & Bernard Zakheim murals (in the same HPC packet)",
+        "publisher": "San Francisco Historic Preservation Commission packet",
+        "year": 2016,
+        "url": "https://commissions.sfplanning.org/hpcpackets/2015-003877DES.pdf",
+        "supports": "PWAP/SERA funding, Wrightson's description of both panels, baseball lot and playground message, mid-1970s overpainting, Zakheim's 1976 letter and Caen's quotes, Nathan Zakheim's 2010 discovery"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2q-boeing-lemons",
+    "title": "Boeing's streetcar lemons start and end here",
+    "theme": "modern-city",
+    "year": 1979,
+    "yearEnd": 2002,
+    "place": {
+      "label": "Muni Metro yard (Curtis E. Green Light Rail Center) beside Balboa Park station, San Jose Avenue north of Geneva",
+      "lat": 37.7222,
+      "lon": -122.447,
+      "precision": "area"
+    },
+    "hook": "A helicopter company built San Francisco's first Metro streetcars. They carried their first riders from Balboa Park, and they ended up here as $200 scrap.",
+    "story": "Muni's first modern light-rail cars carried passengers from Balboa Park. In April 1979 the new cars began a free weekday shuttle on the K line between the Balboa Park BART station and West Portal. Muni's chronology dates the first run to April 27 [1]. The builder was Boeing Vertol, a helicopter maker that had never built a streetcar before and never did again [3]. The cars came from a federally backed joint order with Boston, which meant compromises. Their ends were tapered for Boston's subway, so the front doors could not be used at Metro platforms, and Muni's list of required fixes ran to several hundred items [1]. When Boston rejected its final 40 cars, Muni bought about 30 of them at a discount [1][2][3]. The fleet was kept and repaired at the new Metro yard at Geneva and San José avenues [1]. The cars' doors and brakes stuck, their roofs leaked, and passengers sweltered without air-conditioning [3]. By January 2002 the last Boeings sat behind fences at Geneva and San Jose avenues, replaced by 136 Italian-built Breda cars. 'They are scrap,' a Muni spokeswoman said. Manchester in England agreed to buy five, at $200 to $500 each, against about $300,000 apiece new. An Oregon museum that had taken one advised: 'Never buy a Boeing' [3].",
+    "people": [
+      {
+        "name": "Maggie Lynch",
+        "role": "Muni spokeswoman in 2002"
+      },
+      {
+        "name": "Bob Terkelsen",
+        "role": "President, Oregon Electric Railway Historical Society"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Transit in San Francisco: A Selected Chronology, 1850-1995 (Robert Callwell)",
+        "publisher": "San Francisco Municipal Railway",
+        "year": 1999,
+        "url": "https://archives.sfmta.com/cms/rhome/documents/TransitinSanFrancisco-CallwellChronologyweb.pdf",
+        "supports": "April 27, 1979 K-line shuttle from Balboa Park BART, Boeing Vertol, Boston-SF federal standard, tapered ends, hundreds of modifications, 100 plus 30 ex-Boston cars, Green light rail center at Geneva & San José"
+      },
+      {
+        "title": "US Standard Light Rail Vehicle",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/US_Standard_Light_Rail_Vehicle",
+        "supports": "Boston (MBTA) rejected its final 40 cars in 1978; Muni bought 31 of them"
+      },
+      {
+        "title": "Muni cars on a roll into city junkyard / Even preservationists reject the clunkers (Ilene Lelchuk)",
+        "publisher": "San Francisco Chronicle",
+        "year": 2002,
+        "url": "http://www.sfgate.com/default/article/Muni-cars-on-a-roll-into-city-junkyard-Even-2883855.php",
+        "supports": "Boeings in storage at Geneva and San Jose, defects, 'They are scrap', Breda replacements, Manchester purchase price, 'Never buy a Boeing', helicopter maker"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2q-red-baron-tram",
+    "title": "The Red Baron in the Geneva yard",
+    "theme": "modern-city",
+    "year": 1979,
+    "yearEnd": 1983,
+    "place": {
+      "label": "Geneva streetcar yard (Geneva Division), behind the car barn at Geneva and San Jose avenues",
+      "lat": 37.7197,
+      "lon": -122.446,
+      "precision": "area"
+    },
+    "hook": "A transit buff talked Hamburg into giving San Francisco a streetcar nobody had asked for. The press laughed, and Muni parked it here.",
+    "story": "Hamburg car No. 3557, built in 1954, has hard teak seats and four powerful motors. Its German career ended in 1978, when Hamburg shut its last tram line [1]. The San Francisco transit enthusiast Maurice Klebolt persuaded Hamburg to donate it, apparently without telling anyone at City Hall. He shipped it over in 1979 and nicknamed it 'The Red Baron' [1]. On May 1, 1979 Klebolt had the tram hauled on a flatbed truck to the front of City Hall, while Mayor Dianne Feinstein was holding an unrelated event on the steps. It was meant for an Embarcadero historic line that Muni had floated in its first five-year plan [2]. The press guffawed, and one Chronicle headline read 'A Streetcar Named Undesirable' [1]. There were no plans for historic service, so the car sat for months in the streetcar yard at Geneva and San José avenues. It was the city's first international streetcar [2]. Klebolt was vindicated when the Trolley Festivals began in 1983. Muni workers and volunteers restored the car, Hamburg fans sent parts, and it ran for four summers before Klebolt died in 1988 [1]. After a parade in 1992 it went back to Geneva, where, without a roof over it, it began to rust. Market Street Railway says it still awaits restoration [1].",
+    "people": [
+      {
+        "name": "Maurice Klebolt",
+        "role": "Transit advocate who brought the tram from Hamburg"
+      },
+      {
+        "name": "Dianne Feinstein",
+        "role": "Mayor of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "No. 3557 Hamburg, Germany",
+        "publisher": "Market Street Railway",
+        "year": 2024,
+        "url": "https://www.streetcar.org/streetcars/3557/",
+        "supports": "1954 build, 1978 end of Hamburg trams, Klebolt's donation, 'The Red Baron', flatbed at City Hall during Feinstein event, Chronicle headline, Trolley Festival restoration, four summers, Klebolt's 1988 death, 1992 parade, rusting at Geneva Division"
+      },
+      {
+        "title": "Transit in San Francisco: A Selected Chronology, 1850-1995 (Robert Callwell)",
+        "publisher": "San Francisco Municipal Railway",
+        "year": 1999,
+        "url": "https://archives.sfmta.com/cms/rhome/documents/TransitinSanFrancisco-CallwellChronologyweb.pdf",
+        "supports": "May 1, 1979 City Hall display, E Embarcadero plan, languishing at the Geneva & San José yard, first international streetcar"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2q-j-church-extension",
+    "title": "Streetcars finally come through the Bernal Cut",
+    "theme": "modern-city",
+    "year": 1991,
+    "yearEnd": 1993,
+    "place": {
+      "label": "San Jose Avenue at Santa Rosa Avenue, Mission Terrace (J Church stop on the 1991 extension)",
+      "lat": 37.72895,
+      "lon": -122.4401,
+      "precision": "street"
+    },
+    "hook": "A 1913 transit report called for streetcars through the Bernal Cut. The tracks down San Jose Avenue through Mission Terrace opened in 1991, 78 years later.",
+    "story": "The J Church tracks down the middle of San Jose Avenue are fairly new, but the plan behind them is old. Bion J. Arnold's 1913 transit report recommended running streetcars through the Bernal Cut, and there were official proposals to extend the J through the cut to Geneva Avenue from at least 1925 [1]. Muni finally started building in January 1989, and the October 1989 earthquake slowed the work [1]. On August 31, 1991, after twelve days of testing, J and N streetcars began using the new line as they came and went from Muni's Metro yard at Geneva and San José avenues. The route gave cars quicker access to the yard and a way around a blocked Twin Peaks Tunnel [1]. Full-time J service to Balboa Park began on June 19, 1993 [1][2]. In Mission Terrace the stop at Santa Rosa Avenue is two narrow traffic islands in the middle of the avenue, and it is not accessible. A Muni project approved in October 2023 will lengthen and widen the platforms [2]. The M line had reached the same yard in 1980. Before that, M cars had to run on K tracks all the way to St. Francis Circle before starting their route [1].",
+    "people": [
+      {
+        "name": "Bion J. Arnold",
+        "role": "Transit engineer whose 1913 report proposed the route"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Transit in San Francisco: A Selected Chronology, 1850-1995 (Robert Callwell)",
+        "publisher": "San Francisco Municipal Railway",
+        "year": 1999,
+        "url": "https://archives.sfmta.com/cms/rhome/documents/TransitinSanFrancisco-CallwellChronologyweb.pdf",
+        "supports": "Arnold 1913 report, proposals since 1925, January 1989 start and earthquake delay, Aug 31, 1991 pull-in service after Aug 19-30 testing, purposes of the extension, June 19, 1993 full service, 1980 M-line extension"
+      },
+      {
+        "title": "San Jose and Santa Rosa station",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/San_Jose_and_Santa_Rosa_station",
+        "supports": "Side-platform traffic islands, not accessible, 1991/1993 openings, October 2023 approval to lengthen and widen platforms"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2q-little-city-gardens",
+    "title": "Seven seasons of greens on Cotter Street",
+    "theme": "parks-nature",
+    "year": 2010,
+    "yearEnd": 2016,
+    "place": {
+      "label": "203 Cotter Street (former Little City Gardens farm)",
+      "lat": 37.72898,
+      "lon": -122.43614,
+      "precision": "building"
+    },
+    "hook": "For almost seven years, two young farmers tried to make a living selling greens and flowers grown on a three-quarter-acre lot in the Outer Mission.",
+    "story": "In spring 2010 Brooke Budner and Caitlyn Galloway moved their farm onto an overgrown lot at 203 Cotter Street. Little City Gardens set out to test whether a small commercial urban farm could pay its way. It sold greens, herbs and vegetables to restaurants and neighbours, and later mixed bouquets, dahlias among them, to Bi-Rite [1]. Their hold on the land was always shaky. The owner, squeezed by rising property taxes, put the lot up for sale, and in February 2011 it went to a developer [1]. That March the farmers testified as a Board of Supervisors committee passed new zoning for urban agriculture, which co-sponsor David Chiu said would put the city 'at the forefront of urban agriculture policies nationwide' [1]. In 2014 the three-quarter-acre parcel went up for sale again, and Golden Bridges School bought it [1][2]. On September 29, 2016, after more than three hours and close to a hundred public comments, the Planning Commission voted 7-0 to allow a 200-student school [1]. Neighbours showed photographs of their flooded homes on this former creek bed [1]. The farm packed up by December 15. Its perennials went to Alemany Farm, the Botanical Garden and other farms [1]. The school settled into its long-term home in the Portola in 2020 [2].",
+    "people": [
+      {
+        "name": "Caitlyn Galloway",
+        "role": "Co-founder and farmer, Little City Gardens"
+      },
+      {
+        "name": "Brooke Budner",
+        "role": "Co-founder, Little City Gardens"
+      },
+      {
+        "name": "David Chiu",
+        "role": "Supervisor, co-sponsor of the 2011 urban agriculture zoning"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Little City Gardens blog: about; land use (Mar. 2011); a brief report on our land tenure (Aug. 2011); property for sale (Jan. 2014); the development of 203 Cotter (Oct. 2016); goodbye 203 Cotter St (Jan. 2017)",
+        "publisher": "Little City Gardens",
+        "year": 2017,
+        "url": "http://www.littlecitygardens.com/2016/10/the-development-of-203-cotter/",
+        "supports": "Founders, 2010 move, sales to restaurants and Bi-Rite bouquets, 2011 sale and zoning hearing with Chiu quote, 3/4-acre parcel for sale in 2014, 7-0 vote, hearing details, flooding and creek bed, Dec. 15 vacate, perennials"
+      },
+      {
+        "title": "About Golden Bridges School",
+        "publisher": "Golden Bridges School",
+        "year": 2025,
+        "url": "https://www.goldenbridgesschool.org/about",
+        "supports": "School purchased the farm on Cotter Street in 2014 and landed at its long-term home in Portola in 2020"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2q-boxer-stadium",
+    "title": "Soccer's windy home in Balboa Park",
+    "theme": "parks-nature",
+    "year": 2016,
+    "yearEnd": null,
+    "place": {
+      "label": "Boxer Stadium, 166 Havelock Street, Balboa Park",
+      "lat": 37.72692,
+      "lon": -122.44463,
+      "precision": "building"
+    },
+    "hook": "San Francisco's soccer stadium in Balboa Park is a grass pitch with 3,500 seats and no lights. A pro rugby team found it too windy.",
+    "story": "Off Havelock Street, at the north edge of Balboa Park, is Boxer Stadium, a full-size grass pitch with room for 3,500 and no lights [1]. It is named for Matthew J. Boxer, whom the Chronicle listed among the figures behind the city's century-old soccer legacy [2]. The San Francisco Soccer Football League began in 1902, as the California Football Association, with five teams, including the Albion Rovers, Thistle F.C. and the Vampires. The Vampires wore a bat on their jerseys, and Bela Lugosi once donated a cup for a match between San Francisco and Los Angeles sides [2]. In 1976 the league's San Francisco Italian Athletic Club became the first non-college team from the city to win a national championship, the National Open Cup [2]. City planners have listed the stadium, with the park's pool and other pre-1955 buildings, as part of a potential Balboa Park historic district [3]. It is not a grand venue. In 2016 the new professional league PRO Rugby played its San Francisco Rush here. In December it folded the team. The owner, Doug Schoninger, wrote that they 'could not return to Boxer due to its substandard facilities, fan experience and wind conditions' [4]. The Chronicle's verdict from 2002 still holds: the city has never had enough fields for all its players [2].",
+    "people": [
+      {
+        "name": "Matthew J. Boxer",
+        "role": "Soccer league stalwart the stadium is named for"
+      },
+      {
+        "name": "Doug Schoninger",
+        "role": "PRO Rugby owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Boxer Stadium",
+        "publisher": "San Francisco Recreation and Parks",
+        "year": 2025,
+        "url": "https://sfrecpark.org/792/Boxer-Stadium",
+        "supports": "3,500 capacity, full-size pitch, 166 Havelock Street, grass, no lights"
+      },
+      {
+        "title": "Soccer fever in S.F. is not new outbreak (Ken Garcia)",
+        "publisher": "San Francisco Chronicle",
+        "year": 2002,
+        "url": "https://www.sfgate.com/default/article/Soccer-fever-in-S-F-is-not-new-outbreak-2830188.php",
+        "supports": "SFSFL founded 1902 with five teams, Vampires and Bela Lugosi, Matthew J. Boxer among league stalwarts, 1976 Open Cup, too few fields"
+      },
+      {
+        "title": "Balboa Park Station Area Plan Final EIR, Historic Architectural Resources",
+        "publisher": "San Francisco Planning Department",
+        "year": 2008,
+        "url": "http://web.archive.org/web/2016/http://www.sf-planning.org/ftp/files/MEA/2004.1059E_Balboa_FEIR_Pt1.pdf",
+        "supports": "Matthew J. Boxer Soccer Field Stadium and pool among contributors to a potential Balboa Park Historic District (pre-1955 buildings; Havelock Street as northern boundary)"
+      },
+      {
+        "title": "PRO Rugby Nixes San Francisco Rush (Pat Clifton)",
+        "publisher": "Rugby Today",
+        "year": 2016,
+        "url": "https://web.archive.org/web/20170702020944/http://www.rugbytoday.com/elite/pro-rugby-nixes-san-francisco-rush",
+        "supports": "Rush terminated (article dated December 17, 2016), Schoninger's quote that the team could not return to Boxer"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2q-awss-fire-mains",
+    "title": "The fire mains that never reached Geneva",
+    "theme": "modern-city",
+    "year": 2016,
+    "yearEnd": null,
+    "place": {
+      "label": "Geneva Avenue between San Jose Avenue and Mission Street (route of the abandoned AWSS extension)",
+      "lat": 37.7183,
+      "lon": -122.4425,
+      "precision": "street"
+    },
+    "hook": "After 1906 the city built quake-proof water mains just for fighting fires. In the south they stop at Ocean Avenue, and a plan to extend them down Geneva was dropped.",
+    "story": "After the 1906 fire, San Francisco built the Auxiliary Water Supply System (AWSS). It is a separate, heavily braced network of mains and hydrants that can draw reservoir water or seawater after a great earthquake [1]. Finished by 1913, it was never extended to some fifteen outlying neighbourhoods, among them Mission Terrace, the Outer Mission, the Excelsior and Ocean View [1]. A 1986 bond brought a loop along Ocean Avenue up to Mission Street, at the edge of this district [1]. After a mid-1990s study, archaeologists monitored work on an AWSS connection along Ocean Avenue between Onondaga Avenue and San Fernando Way. The only thing they found was a redwood utility pipe 2.5 feet down near Ocean and Plymouth [2]. Between 2010 and 2012 the Public Utilities Commission's maps showed new mains running from Ocean Avenue to Alemany Boulevard and along Geneva and Silver avenues to University Mound Reservoir [1]. Then the maps changed. In April 2016 the president of Fire Fighters Local 798 complained of plans to 'abandon' the Alemany, Geneva and Silver extensions [1]. By late 2017 a reporter found no plans for AWSS-style pipelines in the city's southernmost neighbourhoods. The city's bonds were paying for more cisterns instead, and a cistern, once empty, is useless and needs a fire engine to pump it [1].",
+    "people": [
+      {
+        "name": "Thomas O'Connor",
+        "role": "President, San Francisco Fire Fighters Local 798"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Auxiliary Water Supply System Expansion Abandoned (Thomas K. Pendergast, orig. Sunset Beacon / Ingleside-Excelsior Light, Nov. 2017)",
+        "publisher": "FoundSF",
+        "year": 2017,
+        "url": "https://www.foundsf.org/index.php?title=Auxiliary_Water_Supply_System_Expansion_Abandoned",
+        "supports": "AWSS design, 1913 completion, neighbourhoods never served, 1986 bond loop to Mission Street, 2010-12 maps of Alemany/Geneva/Silver extensions, O'Connor's 2016 letter, no plans for southern pipelines, cisterns' drawbacks"
+      },
+      {
+        "title": "Balboa Park Station Area Plan Final EIR, Archaeological Resources",
+        "publisher": "San Francisco Planning Department",
+        "year": 2008,
+        "url": "http://web.archive.org/web/2016/http://www.sf-planning.org/ftp/files/MEA/2004.1059E_Balboa_FEIR_Pt1.pdf",
+        "supports": "Mid-1990s AWSS Connection project on Ocean Avenue between Onondaga and San Fernando Way, monitoring found only a redwood conduit 2.5 feet deep near Ocean and Plymouth"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2q-excelsior-library",
+    "title": "Four addresses for one library",
+    "theme": "architecture-landmarks",
+    "year": 1967,
+    "yearEnd": 2005,
+    "place": {
+      "label": "Excelsior Branch Library, 4400 Mission Street",
+      "lat": 37.72702,
+      "lon": -122.43323,
+      "precision": "building"
+    },
+    "hook": "The Excelsior's library started as a rented 'station' on Bauer Street, then moved to Ocean Avenue and across Mission Street. In 1967 it finally got today's building.",
+    "story": "The Excelsior Branch was the tenth branch in the San Francisco Public Library system, and it wandered for decades. It began as a 'library station' in rented rooms at 7 Bauer Street [1]. In 1925 it was on Ocean Avenue, and later at 4465 Mission Street, where a library photograph shows it in 1961 [1]. The present building at 4400 Mission Street opened on October 1, 1967. It was designed by the architects Appleton and Wolfard and cost $248,000 [1]. It had a second life too. After voters approved a $106 million bond in November 2000 to modernise the branch system, the Excelsior was the first branch done under the programme. It closed in November 2003 and reopened in July 2005 [1][2]. The renovation had a construction budget of about $2.3 million. It added seismic bracing, accessible restrooms and a new entry, solar panels on the roof, Solatube skylights and windows that open, and the demolition waste was recycled [2]. In 2002-03, before the closure, the branch had about 214,000 visits and lent 238,170 items [2]. Neighbourhood fundraising through the Friends of the Library paid for the furniture and fittings, which the bond did not cover [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Excelsior Library History",
+        "publisher": "San Francisco Public Library",
+        "year": 2025,
+        "url": "https://sfpl.org/locations/excelsior/excelsior-library-history",
+        "supports": "Tenth branch, 7 Bauer St station, 1925 Ocean Ave, 4465 Mission, Oct. 1, 1967 opening, Appleton and Wolfard, $248,000, first renovated under the branch program, July 8, 2005 reopening"
+      },
+      {
+        "title": "Excelsior Branch Library: Facts & Figures",
+        "publisher": "San Francisco Public Library",
+        "year": 2005,
+        "url": "https://sfpl.org/sites/default/files/pdf/blip/excelsiorfaq.pdf",
+        "supports": "November 2000 $106 million bond, closure Nov. 2003, $2.3 million budget, green features, 2002/03 visitors and circulation, Friends fundraising"
+      }
+    ],
+    "photo": null
+  }
+]

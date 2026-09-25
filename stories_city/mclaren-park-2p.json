@@ -1,0 +1,684 @@
+[
+ {
+  "id": "mclaren-park-2p-queen-of-the-park",
+  "title": "A queen, a violin and an old gardener",
+  "theme": "communities",
+  "year": 1927,
+  "yearEnd": 1934,
+  "place": {
+   "label": "Hilltops of the new park above Visitacion Valley (exact ceremony sites not recorded)",
+   "lat": 37.7188,
+   "lon": -122.415,
+   "precision": "area"
+  },
+  "hook": "Before it had a single path, McLaren Park had a queen, a parade of floats, and a flag raised by the 88-year-old gardener it was named for.",
+  "story": "Long before it had paths or playgrounds, McLaren Park had a party. On May 1, 1927, a huge crowd gathered on the hill to celebrate the dedication of land for the new park. Homage was paid to Miss Elizabeth Stagnaro, who had been elected Queen of the Park by the people of San Francisco [1]. Anna Stuart Johnson, then 12, later told oral historians that she rode on one of the floats playing her violin. The Visitacion Valley Community Center entered its own float, full of cheering youngsters [1]. The park's namesake came in person later. After WPA crews built a view drive in the early 1930s, John McLaren dedicated the park in a flag-raising ceremony in 1934, hoisting a flag presented by the California Works Administration [2]. He was about 88. Born in Scotland in 1846, he had run Golden Gate Park since 1887 and famously loved trees and hated buildings, 'keep off the grass' signs and statues. He died in 1943 at 97 [2]. The sources don't agree on the date of the dedication: a park group's timeline puts McLaren's dedication celebration in 1927 [3].",
+  "people": [
+   {
+    "name": "Elizabeth Stagnaro",
+    "role": "Elected Queen of the Park, 1927"
+   },
+   {
+    "name": "Anna Stuart Johnson",
+    "role": "12-year-old violinist on a float"
+   },
+   {
+    "name": "John McLaren",
+    "role": "Golden Gate Park superintendent and the park's namesake"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Visitacion Valley Grapevine, September 2008",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2008,
+    "url": "https://archive.org/details/visitacionvalley266unse",
+    "supports": "Betty Parshall's history column: May 1, 1927 dedication crowd, Queen Elizabeth Stagnaro, Anna Stuart Johnson on a float with her violin, Community Center float"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, March 1999",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1999,
+    "url": "https://archive.org/details/visitacionvalley143unse",
+    "supports": "Jeanne Alexander's park history: 1934 flag-raising by McLaren, CWA flag, his birth in 1846, likes and dislikes, death in 1943 at 97"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2016,
+    "url": "https://web.archive.org/web/2021/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "Timeline dating the celebration dedicating the park to McLaren to 1927"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-witch-in-the-reservoir",
+  "title": "The witch in the Wilde Avenue reservoir",
+  "theme": "communities",
+  "year": 1940,
+  "yearEnd": 1949,
+  "place": {
+   "label": "Old reservoir site above Wilde Avenue, Mansell Street and Visitacion Avenue",
+   "lat": 37.7186,
+   "lon": -122.4097,
+   "precision": "block"
+  },
+  "hook": "Flag signals sent the valley's water downhill. Twenty years later the kids of the 'Wilde Avenue gang' peered through the cracks and decided a witch lived inside.",
+  "story": "Before it was a lookout, the hilltop above Wilde Avenue held Visitacion Valley's water. Betty Parshall of the Visitacion Valley History Project recorded how it worked. The Spring Valley Water pumping station stood at 31-33 Leland Avenue, and its reservoir sat at the top of the hill, just off today's Mansell Street. In the 1920s the station supervisor, Dan Condon, and a woman at the reservoir kept in touch with signal flags. When he signalled, she opened the gates so water could run down to the station. Another signal told her the station was full [1]. The flag story now appears on one of the Philosopher's Way plaques [2]. By the 1940s, Parshall wrote, the 'Wilde Avenue gang' had the run of the hill. They picked wildflowers, slid down the dry grass on cardboard sleds and played all kinds of games. The reservoir had a wooden roof, black with age and peaked along the top, 'like a huge old Gothic house that had sunk into the ground.' Parshall and her best friend, Marian Rado, peered through the cracks at the black water and half-believed a witch lived there [1]. Later the reservoir was drained and torn down. When the padlocked viewing tower went up in its place, Parshall joked that the witch had cursed the site [1].",
+  "people": [
+   {
+    "name": "Betty Parshall",
+    "role": "Visitacion Valley History Project writer who grew up on Wilde Avenue"
+   },
+   {
+    "name": "Dan Condon",
+    "role": "Pumping station supervisor, 1920s"
+   },
+   {
+    "name": "Marian Rado",
+    "role": "Parshall's childhood best friend"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Visitacion Valley Grapevine, September 2009",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2009,
+    "url": "https://archive.org/details/visitacionvalley278unse",
+    "supports": "Betty Parshall, 'A Tale Along Philosopher's Way': pumping station, signal flags, Dan Condon, 1940s childhood, reservoir roof, the witch"
+   },
+   {
+    "title": "Welcome to Visitacion Valley Month / Getting to Know VV's Open Spaces",
+    "publisher": "SF Heritage",
+    "year": 2021,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/welcome-to-visitacion-valley-month-getting-to-know-vvs-open-spaces/",
+    "supports": "Philosopher's Way plaque with Betty Parshall's story of pumping-station workers signalling with flags"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-wells-and-paper-streets",
+  "title": "Wells, septic tanks and streets on paper",
+  "theme": "communities",
+  "year": 1951,
+  "yearEnd": null,
+  "place": {
+   "label": "1300 block of Bowdoin Street, on the park's eastern edge",
+   "lat": 37.7194,
+   "lon": -122.4078,
+   "precision": "block"
+  },
+  "hook": "In 1951 families were still living inside McLaren Park, drawing water from wells and driving homemade roads because the official streets were too steep to build.",
+  "story": "Even after the city started buying land for McLaren Park, people were still living on it. A 1951 report to the San Francisco Redevelopment Agency found scattered homes, small farms, nurseries and greenhouses both inside and outside the park's official boundaries [1]. Subdividers from the 1860s onward had drawn a gridiron of streets straight up the hills, and many of those streets were 'no more than lines on paper'. So residents ignored them and followed gentler grades on improvised roads to reach their property [1]. No water lines or sewers had been installed in the park, and the homes there relied on wells and septic tanks. Elsewhere in the study area the planners counted a truckyard, a junk yard and a number of stables. Many families had lived on large plots for more than 50 years, and several big parcels still belonged to the 'old settlers' [1]. At the same time, builders were finishing new row houses on University, Colby and Bowdoin streets. The lots were so poorly graded that the back yards could wash away in wet weather [1]. Oral histories remember an older, rural life. After the Leotta family settled on Leland Avenue in 1917, someone from Knudson's farm, where Sunnydale and Visitacion met the future park, brought them a bucket of eggs every week or so [2].",
+  "people": [
+   {
+    "name": "Mary Leotta Schwartz",
+    "role": "Visitacion Valley resident whose oral history recalls Knudson's farm"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Redevelopment in the John McLaren Park Area: a report to the Redevelopment Agency",
+    "publisher": "City and County of San Francisco",
+    "year": 1951,
+    "url": "https://archive.org/details/redevelopmentinj1951sanf",
+    "supports": "Homes, farms and greenhouses inside and outside park boundaries; paper streets and improvised roads; wells and septic tanks; stables, junk yard; 'old settlers'; row houses on University, Colby and Bowdoin"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, November 2007",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2007,
+    "url": "https://archive.org/details/visitacionvalley256unse",
+    "supports": "Mary Leotta Schwartz oral history: eggs from Knudson's farm where Sunnydale and Visitacion meet McLaren Park"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-coffman-pool",
+  "title": "The pool that packed in the valley",
+  "theme": "communities",
+  "year": 1958,
+  "yearEnd": 2008,
+  "place": {
+   "label": "Coffman Pool, 1701 Visitacion Avenue at Hahn Street",
+   "lat": 37.71347,
+   "lon": -122.41582,
+   "precision": "building"
+  },
+  "hook": "When the neighbourhood heard its favourite swim instructor might be moved, it did what Visitacion Valley does: it started a petition.",
+  "story": "Coffman Pool was built in 1957 and opened to the public on November 15, 1958, inside the Herz Playground area at the southeastern entrance of McLaren Park. It has a 100-by-40-foot pool [1]. In the fall of 1996 the senior swimming instructor, Bart Ribotta, thanked the community for its support over the summer, when 'record-breaking crowds' had come for children's learn-to-swim classes, family swims, pool parties and recreation swims [2]. The next year, when neighbours heard he might be replaced, they collected more than 75 signatures to keep him. Attendance had risen by 4,000 in a single year while he was in charge. 'If it ain't broke, don't fix it!' one resident said [3]. By 2006 the pool was home to several youth and adult teams and offered water aerobics, lap swims and even underwater hockey. It then closed for a rebuild budgeted at just under $8 million [1]. Neighbours came to a ribbon-cutting on July 11, 2008, when the new building opened around the original pool. Friends of McLaren Park soon had two requests. The new windows needed protection, because at the old pool broken windows had been covered with plywood until the building looked closed. And the pool was open only 36 hours a week [4].",
+  "people": [
+   {
+    "name": "Bart Ribotta",
+    "role": "Senior swimming instructor in the 1990s"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Visitacion Valley Grapevine, March 2006",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2006,
+    "url": "https://archive.org/details/visitacionvalley236unse",
+    "supports": "Construction 1957, opening November 15, 1958, pool size, teams and underwater hockey, $8 million rebuild"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, October 1996",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1996,
+    "url": "https://archive.org/details/visitacionvalley1110unse",
+    "supports": "Bart Ribotta's thank-you letter describing record-breaking summer crowds"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, August 1997",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1997,
+    "url": "https://archive.org/details/visitacionvalley128unse",
+    "supports": "Petition of more than 75 signatures to keep Ribotta; attendance up 4,000 in a year"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, August 2008",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2008,
+    "url": "https://archive.org/details/visitacionvalley265unse",
+    "supports": "July 11, 2008 ribbon-cutting; Betty Parshall's column on the windows and the 36-hour week"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-mounted-police",
+  "title": "When the police rode horses here",
+  "theme": "modern-city",
+  "year": 1983,
+  "yearEnd": 2009,
+  "place": {
+   "label": "Louis Sutter Playground area, site of the former police horse stables",
+   "lat": 37.7229,
+   "lon": -122.4143,
+   "precision": "area"
+  },
+  "hook": "For years McLaren Park had its own police stables, and the mounted patrol led the valley's parades. Then the horses were gone, and neighbours spent years asking for them back.",
+  "story": "For years, the police in McLaren Park came on horseback. The city's 1983 master plan reported that stables and a headquarters office for the mounted patrols had been provided in the Louis Sutter Playground area 'for a number of years'. One or two mounted patrolmen were on duty every day for most of the daylight hours, and patrol cars from the neighbouring stations covered the park roads at night [1]. The riders were part of neighbourhood life. After Visitacion Valley's 1990 street fair, the Grapevine thanked the SFPD for 'the gallant mounted patrol who led the parade'. Parade awards that year went to Visitacion Valley Middle School, the elementary school drill team, the Pioneer Squares, the Herz Playground Brownies and the Woodrow Wilson Color Guard [2]. By the mid-1990s the horses were gone. In 1996 a Friends of McLaren Park planning committee listed 'Return mounted police to the park' among its maintenance recommendations [3]. Thirteen years later it still hadn't happened. Chuck Farrugia of Help McLaren Park wrote that he had been working with Officer McCarthy of the Ingleside station and the Rec and Park patrols to bring it back, and had been promised a September return. But, he added, 'promises on paper don't amount to much when dealing with our city' [4].",
+  "people": [
+   {
+    "name": "Chuck Farrugia",
+    "role": "Help McLaren Park volunteer who lobbied for the patrol's return"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "Mounted police patrol, one or two patrolmen daily, stables and headquarters in the Louis Sutter Playground area"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, June 1990",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1990,
+    "url": "https://archive.org/details/visitacionvalley56unse",
+    "supports": "Thanks to the mounted patrol that led the 1990 parade; parade award winners"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, September 1996",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1996,
+    "url": "https://archive.org/details/visitacionvalley119unse",
+    "supports": "Friends of McLaren Park planning committee recommendation: 'Return mounted police to the park'"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, October 2009",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2009,
+    "url": "https://archive.org/details/visitacionvalley279unse",
+    "supports": "Chuck Farrugia's letter on efforts to bring back mounted patrols"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-friends-and-the-nag-tactic",
+  "title": "A letter to the Grateful Dead, unanswered",
+  "theme": "communities",
+  "year": 1996,
+  "yearEnd": 1999,
+  "place": {
+   "label": "Brazil Avenue inside McLaren Park, the stretch neighbours had gated at night",
+   "lat": 37.72,
+   "lon": -122.4222,
+   "precision": "street"
+  },
+  "hook": "Nearly ten years before the amphitheatre was named for Jerry Garcia, a neighbourhood volunteer wrote to the Grateful Dead and to his widow about the idea. Nobody wrote back.",
+  "story": "The group that gave McLaren Park a voice started small. Friends of McLaren Park formed in 1994 [1]. By the summer of 1995 its president, Jo Coffey, was meeting representatives of the city's Water Department, Planning Commission and Fire Department [2]. In 1996 the Friends were already discussing an idea that would take nearly a decade: renaming the park's amphitheatre for Jerry Garcia, the Grateful Dead guitarist who had grown up in the nearby Excelsior. Coffey wrote to both the Grateful Dead organisation and Garcia's widow, but reportedly got no response [3]. The Friends worked on smaller things too. That same year they discussed children's multicultural events in the amphitheatre and drafted a letter to the police about traffic on Shelley Drive and Mansell Street [3]. A later president, Franco Mancini, called their method 'the nag tactic.' By 1999 it had persuaded Rec and Park to gate off and close at night a crime-ridden stretch of Brazil Street that was being used as an industrial dump, and to drain and clean McNab Lake [4]. The amphitheatre finally got Garcia's name in July 2005, two years after a newer neighbourhood group, Friends and Advocates of Crocker Amazon and the Excelsior, began throwing him an annual 'Jerry Day' birthday party [1].",
+  "people": [
+   {
+    "name": "Jo Coffey",
+    "role": "President/chair of Friends of McLaren Park in the mid-1990s"
+   },
+   {
+    "name": "Franco Mancini",
+    "role": "Later president of Friends of McLaren Park"
+   }
+  ],
+  "sources": [
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2016,
+    "url": "https://web.archive.org/web/2021/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "Friends of McLaren Park formed 1994; F.A.C.E.'s first Jerry Day in 2003; July 2005 naming of the Jerry Garcia Amphitheater"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, July 1995",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1995,
+    "url": "https://archive.org/details/visitacionvalley107unse",
+    "supports": "Jo Coffey, president of Friends of McLaren Park, meets city agencies"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, November 1996",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1996,
+    "url": "https://archive.org/details/visitacionvalley1111unse",
+    "supports": "Coffey's letters to the Grateful Dead and Garcia's widow; other Friends priorities"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, March 1999",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1999,
+    "url": "https://archive.org/details/visitacionvalley143unse",
+    "supports": "Mancini's 'nag tactic'; Brazil Street gated at night; McNab Lake drained and cleaned"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-peace-wall-cleanup",
+  "title": "Trash bags and peace tiles on the hill",
+  "theme": "communities",
+  "year": 1995,
+  "yearEnd": null,
+  "place": {
+   "label": "Park slopes above Visitacion Valley Middle School, the 1995 clean-up meeting point",
+   "lat": 37.716,
+   "lon": -122.4135,
+   "precision": "area"
+  },
+  "hook": "'It's too bad it's full of junk,' a jogger said of the park in 1987. By 1995 neighbours were hauling out trash and painting tiles for a Peace Wall.",
+  "story": "'I like to run up that hill,' Tim Smith, 31, told the Grapevine in 1987. 'It's beautiful up there... It's too bad it's full of junk. It's such a nice park. It is full of good air' [1]. In 1995 the valley got to work. On January 16, Martin Luther King Jr. Day, volunteers were invited to meet at Visitacion Valley Middle School for a McLaren Park clean-up. The flyer promised trash bags and tools, a barbecue, entertainment and a tree to decorate with edible treats for the park's wildlife [2]. That day, neighbours living around the park also began painting ceramic tiles for a Peace Wall. It was part of artist Carolyna Marks's World Wall for Peace, in which communities fix their own designs about peace to a prominent concrete wall in their neighbourhood [3]. For March 11 an even bigger effort was announced: hundreds of young people from the YMCA/AmeriCorps Earth Service Corps and a second youth program would join neighbours to pick up litter, remove graffiti and pull out non-native plants. The aim was to clean up the 'unsafe and littered reputation' that parts of the park had gained. Workers were promised a free barbecue lunch and music from local bands [4].",
+  "people": [
+   {
+    "name": "Tim Smith",
+    "role": "Resident quoted in 1987"
+   },
+   {
+    "name": "Carolyna Marks",
+    "role": "Designer of the World Wall for Peace project"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Visitacion Valley Grapevine, April 1987",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1987,
+    "url": "https://archive.org/details/visitacionvalley24unse",
+    "supports": "'Valley Inquirer' interviews, including Tim Smith on McLaren Park"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, January 1995",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1995,
+    "url": "https://archive.org/details/visitacionvalley101unse",
+    "supports": "Flyer for the January 16, 1995 McLaren Park clean-up and barbecue meeting at Visitacion Valley Middle School"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, February 1995",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1995,
+    "url": "https://archive.org/details/visitacionvalley102unse",
+    "supports": "World Wall for Peace tiles begun during the January 16 clean-up"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, March 1995",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1995,
+    "url": "https://archive.org/details/visitacionvalley103unse",
+    "supports": "Announcement of the March 11, 1995 youth clean-up: YMCA/AmeriCorps Earth Service Corps, goals, barbecue"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-keith-grier",
+  "title": "The park director who grew up here",
+  "theme": "communities",
+  "year": 1996,
+  "yearEnd": 1999,
+  "place": {
+   "label": "Recreation clubhouse beside the tennis courts along Mansell Street",
+   "lat": 37.7185,
+   "lon": -122.417,
+   "precision": "area"
+  },
+  "hook": "McLaren Park's new recreation director had played there as a kid. Within three years, teenagers had painted his clubhouse and sixth-graders had written the park's field guide.",
+  "story": "In 1996 McLaren Park got a recreation director who had known it since childhood. Keith Grier (the Grapevine spelled his name both Greer and Grier) had spent time in the park as a youth. When he was appointed, he talked about restoring the tennis courts, leading nature walks and campaigning for a working theatre and concert area in the amphitheatre [1]. In 1998 he invited students to submit designs for a mural on the outside walls of the clubhouse next to the tennis courts along Mansell Street [2]. By early 1999 the restored Recreation Center clubhouse, at Mansell and Sunnydale, had a colourful mural painted by neighbourhood teenagers. It showed the park's plants and wildlife and the area's diversity. It was part of a 'restoration as recreation' project that Grier had developed with Jane Ardito [3]. That summer Grier was working with Visitacion Valley Middle School teacher Gloria Minjares on a McLaren Park Field Guide, with the park's history and photos and descriptions of its plants, animals, insects and birds. Sixth-grade special-education students created it. It was meant for Rec and Park's nature walks and for the neighbourhood schools that used the park as an outdoor classroom [4].",
+  "people": [
+   {
+    "name": "Keith Grier",
+    "role": "McLaren Park recreation director from 1996"
+   },
+   {
+    "name": "Jane Ardito",
+    "role": "Co-developer of the 'restoration as recreation' project"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Visitacion Valley Grapevine, November 1996",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1996,
+    "url": "https://archive.org/details/visitacionvalley1111unse",
+    "supports": "Appointment of Keith Greer/Grier as park director; his youth in the park; his plans"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, May 1998",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1998,
+    "url": "https://archive.org/details/visitacionvalley135unse",
+    "supports": "Grier invites student mural proposals for the clubhouse by the Mansell Street tennis courts"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, March 1999",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1999,
+    "url": "https://archive.org/details/visitacionvalley143unse",
+    "supports": "Restored clubhouse mural by neighbourhood teens; 'restoration as recreation' with Jane Ardito"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, August 1999",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1999,
+    "url": "https://archive.org/details/visitacionvalley148unse",
+    "supports": "McLaren Park Field Guide created by sixth-grade special-education students with Grier"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-disc-golf-wars",
+  "title": "Thirteen years of the disc golf wars",
+  "theme": "modern-city",
+  "year": 1998,
+  "yearEnd": 2010,
+  "place": {
+   "label": "The heart of the park and its off-leash dog area, where the course was proposed",
+   "lat": 37.72,
+   "lon": -122.4195,
+   "precision": "area"
+  },
+  "hook": "A Frisbee sport split McLaren Park's neighbours twice. The second time, somebody planted 'NO DISC GOLF' posts along the fairways, and somebody else kept scraping off the 'NO'.",
+  "story": "In August 1997 the San Francisco Disc Golf Club approached Rec and Park about a course in the park [2]. On February 8, 1998, more than 150 residents braved rain and flooding to be heard at a meeting. Many loudly opposed it, and Rec and Park's Marvin Yee could barely be heard. To neighbours who felt ignored by Rec and Park, disc golf was 'the final straw' [1]. On March 2 the club withdrew its proposal [2]. In 2010 it came back: Rec and Park said an 18-hole course had been approved in 2005. Opponents said it would take up at least 23 acres in the heart of the park, with 10 of the 18 holes in the off-leash dog play area. A new group, Save McLaren Park, met on April 19. At a crowded meeting the next night the club's newly elected president, Orion Sylvester, said that dog walkers who disliked the course should find another park, and 'pandemonium broke out.' He posted an apology the next day [3]. An opponent staked orange 'NO DISC GOLF' posts where the tees and baskets would go. Most soon vanished. A replacement bolted to a steel bar was bent to the ground. Someone scraped or painted out the 'NO', and someone else kept putting it back with marker pen and stickers [4].",
+  "people": [
+   {
+    "name": "Marvin Yee",
+    "role": "Rec and Park planner who ran the 1998 meeting"
+   },
+   {
+    "name": "Betty Parshall",
+    "role": "Grapevine park columnist who chronicled the post pranks"
+   },
+   {
+    "name": "Orion Sylvester",
+    "role": "San Francisco Disc Golf Club president in 2010"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Visitacion Valley Grapevine, March 1998",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1998,
+    "url": "https://archive.org/details/visitacionvalley133unse",
+    "supports": "Julie Kavanagh's report on the contentious February 8, 1998 meeting"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, April 1998",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1998,
+    "url": "https://archive.org/details/visitacionvalley134unse",
+    "supports": "San Francisco Disc Golf Club letter: first approach to Rec and Park in August 1997; withdrawal voted March 2, 1998"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, June 2010",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2010,
+    "url": "https://archive.org/details/visitacionvalley287unse",
+    "supports": "2010 revival: claimed 2005 approval, 23 acres, holes in dog play area, Save McLaren Park meetings, the president's remark and apology"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, September 2010",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2010,
+    "url": "https://archive.org/details/visitacionvalley290unse",
+    "supports": "Betty Parshall, 'Park Post Pranks': the NO DISC GOLF posts"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-ruth-jackson-day",
+  "title": "Ruth Jackson's day at Herz Playground",
+  "theme": "communities",
+  "year": 1987,
+  "yearEnd": 2009,
+  "place": {
+   "label": "Herz Playground, Hahn Street at Visitacion Avenue",
+   "lat": 37.7138,
+   "lon": -122.4162,
+   "precision": "block"
+  },
+  "hook": "Summer trips to Great America and Alcatraz started here. So did a spring community day named for a neighbour honoured as the valley's Woman of the Year.",
+  "story": "Herz Playground was built in 1965 in McLaren Park's southeast corner, beside the swimming pool that had opened in 1958 [1]. It became a launch pad for the valley's children. In the summer of 1987 it ran a field trip almost every week: Great America, the zoo with swimming, the waterslides, Alcatraz and Fisherman's Wharf, a baseball game, a surprise day, Lake Anza, the beach and ice skating, then Great America again to finish [2]. The playground also became home to a community day named for one neighbour. Ruth Jackson, a San Francisco native and mother of three sons, was named Woman of the Year for 1995 by the Delta Delta Zeta chapter of Zeta Phi Beta sorority, at a luncheon raising scholarship money for students going to college. Her community work had included the Headstart Consortium Committee, and in 1993 she joined churches and community groups in handing out 250 turkeys to families at Christmas [3]. In March 2009 Herz hosted the 'eleventh annual Ruth Jackson, Family, Friends and Community Day,' hosted by Jackson and her family. It ran from 10 a.m. to 4 p.m. on Saturday, March 14, at Hahn Street and Visitacion Avenue, and guests were asked to RSVP [4]. If the numbering is right, the tradition began around 1999.",
+  "people": [
+   {
+    "name": "Ruth Jackson",
+    "role": "Visitacion Valley community organiser; host of the annual community day"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "Herz Playground built in 1965; swimming pool built in 1958 in the Herz Playground area"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, July 1987",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1987,
+    "url": "https://archive.org/details/visitacionvalley27unse",
+    "supports": "Herz Playground summer 1987 field-trip schedule"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, June 1995",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1995,
+    "url": "https://archive.org/details/visitacionvalley106unse",
+    "supports": "Ruth Jackson named Woman of the Year for 1995 by Zeta Phi Beta's Delta Delta Zeta chapter; her community work"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, March 2009",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2009,
+    "url": "https://archive.org/details/visitacionvalley272unse",
+    "supports": "Eleventh annual Ruth Jackson, Family, Friends and Community Day at Herz Playground"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-beacon-tai-chi",
+  "title": "Tai chi mornings on the weekend hills",
+  "theme": "communities",
+  "year": 2002,
+  "yearEnd": 2007,
+  "place": {
+   "label": "McLaren Park's weekend lawns and paths (practice spots varied)",
+   "lat": 37.7212,
+   "lon": -122.419,
+   "precision": "area"
+  },
+  "hook": "Among the dog walkers and tennis players on weekend mornings, one group stood out: tai chi students of a master who arrived with thirty years of martial-arts training.",
+  "story": "In 2004 the Chronicle noted that on weekdays McLaren Park's visitors were solitary walkers, runners and people practising tai chi [1]. In 2002 Master He XiaoDong founded the Beacon Tai Chi Group with the Visitacion Valley Community Beacon Center. She taught Yang-style tai chi to anyone 18 or older, and had practised Chinese martial arts for more than 30 years. By 2007, Tom Lee wrote in the Grapevine, a walk through the park on a Saturday or Sunday morning meant passing dog walkers, tennis players and cyclists, and 'most notably' tai chi enthusiasts 'practicing their art diligently' [2]. The group performed at community events, health expos and martial-arts tournaments, and at the retirement party of Marlene Tran, a former San Francisco Immigrant Rights Commissioner who had taught in the city's schools for more than 35 years [2]. Its fourth annual Tai Chi Festival was held in the Visitacion Valley Middle School auditorium on September 9, 2007 [2][3]. The group reflected a changing valley. In 1998 the Chronicle reported that over the previous decade Visitacion Valley had become 'a burgeoning nexus for Chinese immigrants' [4].",
+  "people": [
+   {
+    "name": "He XiaoDong",
+    "role": "Tai chi master and founder of the Beacon Tai Chi Group"
+   },
+   {
+    "name": "Tom Lee",
+    "role": "Grapevine writer"
+   },
+   {
+    "name": "Marlene Tran",
+    "role": "Teacher and former Immigrant Rights Commissioner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "MCLAREN PARK / Disrepute despite the view",
+    "publisher": "San Francisco Chronicle (Patricia Yollin)",
+    "year": 2004,
+    "url": "https://www.sfgate.com/bayarea/article/MCLAREN-PARK-Disrepute-despite-the-view-2757051.php",
+    "supports": "Weekday park users: solitary walkers, runners and tai chi practitioners"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, September 2007",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2007,
+    "url": "https://archive.org/details/visitacionvalley254unse",
+    "supports": "Tom Lee, 'Tai Chi Festival and Weekends in McLaren Park': Master He, founding in 2002, performances, festival date"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, October 2007",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2007,
+    "url": "https://archive.org/details/visitacionvalley255unse",
+    "supports": "Report on the fourth annual Tai Chi Festival at the middle-school auditorium"
+   },
+   {
+    "title": "Vis Valley transformed",
+    "publisher": "San Francisco Chronicle (Annie Nakao)",
+    "year": 1998,
+    "url": "https://www.sfgate.com/news/article/Vis-Valley-transformed-3075887.php",
+    "supports": "Visitacion Valley's emergence as a hub for Chinese immigrants"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-june-jordan-school",
+  "title": "A school named for a poet",
+  "theme": "communities",
+  "year": 2003,
+  "yearEnd": null,
+  "place": {
+   "label": "June Jordan School for Equity (former Luther Burbank Middle School), 325 La Grande Avenue",
+   "lat": 37.7195,
+   "lon": -122.42539,
+   "precision": "building"
+  },
+  "hook": "On the park's western edge, a campus planned in 1950 as a junior high became home to a high school designed by teachers and parents and named for a poet.",
+  "story": "The school at 325 La Grande Avenue sits on the park's western edge, and the site was claimed early. In 1950 the city's plan for John McLaren Park recommended reserving 11 acres between Persia and Brazil avenues, the stretch where the campus stands, for a junior high school the Board of Education had proposed [1]. For years the campus was Luther Burbank Middle School. In March 1995 it was where volunteers were asked to gather at 9 a.m. for a big clean-up of McLaren Park [2]. Today it is home to June Jordan School for Equity [3]. The high school grew out of Small Schools for Equity, founded in 2000 by a group of San Francisco high school teachers and community members. In 2001 they teamed up with the San Francisco Organizing Project. Through one-on-one conversations and regular meetings with hundreds of families from southeast San Francisco, they designed a small school modelled on successful urban schools in New York and elsewhere [4]. It opened in fall 2003 and was named for June Jordan, the late poet, UC Berkeley professor and social activist [4]. The district describes its mission as serving working-class students from communities of color, including Latinx, Pilipinx, Black and Pacific Islander youth, and preparing them to be 'agents of positive change' [3].",
+  "people": [
+   {
+    "name": "June Jordan",
+    "role": "Poet, UC Berkeley professor and activist the school is named for"
+   }
+  ],
+  "sources": [
+   {
+    "title": "John McLaren Park Area: proposed general plan (report to Mayor Elmer E. Robinson)",
+    "publisher": "San Francisco City Planning Commission",
+    "year": 1950,
+    "url": "https://archive.org/details/johnmclarenparka1950sanf",
+    "supports": "Recommendation to reserve an 11-acre junior high school site between Persia and Brazil avenues"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, March 1995",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 1995,
+    "url": "https://archive.org/details/visitacionvalley103unse",
+    "supports": "Clean-up volunteers to gather at Luther Burbank Middle School, 325 La Grande Ave"
+   },
+   {
+    "title": "June Jordan School for Equity",
+    "publisher": "San Francisco Unified School District",
+    "year": 2025,
+    "url": "https://www.sfusd.edu/school/june-jordan-school-equity",
+    "supports": "School address at 325 La Grande Avenue; mission statement"
+   },
+   {
+    "title": "History & Vision",
+    "publisher": "Small Schools for Equity (archived)",
+    "year": 2009,
+    "url": "https://web.archive.org/web/2007/http://www.smallschoolsforequity.org/history.php",
+    "supports": "Founding in 2000, partnership with SFOP in 2001, family meetings, 2003 opening, naming for June Jordan"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-2p-big-field-burning-man",
+  "title": "A Burning Man tower on the dog field",
+  "theme": "communities",
+  "year": 2009,
+  "yearEnd": null,
+  "place": {
+   "label": "The big field off John F. Shelley Drive",
+   "lat": 37.7216,
+   "lon": -122.4172,
+   "precision": "area"
+  },
+  "hook": "Dog walkers gather on the big field off Shelley Drive. One Saturday in 2009 it held something else: a tower and dome being test-built for Burning Man.",
+  "story": "The big field off John F. Shelley Drive is a favourite starting point for McLaren Park's dog walkers and their group walks [1]. Dog owners had fought for their place in the park. When a disc golf course was proposed in 2010, opponents pointed out that the park's off-leash dog play area had been created by Rec and Park only 'as the conclusion to a long struggle led by dog enthusiasts' [2]. Park regulars turn up in the record. In 2004 a Chronicle photographer caught Sulpicio Mariano tossing a disc for his dog, Jet, in the nearby amphitheatre [3]. One Saturday in 2009, the Grapevine's park columnist Betty Parshall found something new on the field. A small group had built a tower and was working to fit a circular piece on top. It was, she learned, a test run for building a tower with a geodesic dome for the Burning Man festival. She filed the item under 'Another Use for the Big Field' [1]. The same column reported that volunteers from Volunteers for Outdoor California spent a weekend building and repairing trails in the park, including a gentle switchback down to McNab Lake, and many brought tents and camped in the park [1].",
+  "people": [
+   {
+    "name": "Sulpicio Mariano",
+    "role": "Park regular photographed with his dog Jet"
+   },
+   {
+    "name": "Betty Parshall",
+    "role": "Grapevine park columnist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Visitacion Valley Grapevine, September 2009",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2009,
+    "url": "https://archive.org/details/visitacionvalley278unse",
+    "supports": "Dog walkers' use of the big field; Burning Man tower test; Volunteers for Outdoor California camping"
+   },
+   {
+    "title": "Visitacion Valley Grapevine, June 2010",
+    "publisher": "Visitacion Valley Community Center (via Internet Archive)",
+    "year": 2010,
+    "url": "https://archive.org/details/visitacionvalley287unse",
+    "supports": "Off-leash Dog Play Area created after a long struggle led by dog enthusiasts"
+   },
+   {
+    "title": "MCLAREN PARK / Disrepute despite the view",
+    "publisher": "San Francisco Chronicle (Patricia Yollin)",
+    "year": 2004,
+    "url": "https://www.sfgate.com/bayarea/article/MCLAREN-PARK-Disrepute-despite-the-view-2757051.php",
+    "supports": "Photo of Sulpicio Mariano and his dog Jet in the amphitheatre"
+   }
+  ],
+  "photo": null
+ }
+]

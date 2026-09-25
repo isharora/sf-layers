@@ -1,0 +1,745 @@
+[
+  {
+    "id": "north-beach-2p-pampanito-rescue",
+    "title": "The fair hair that stopped the guns",
+    "theme": "war-military",
+    "year": 1944,
+    "place": {
+      "label": "USS Pampanito, Pier 45, Fisherman's Wharf",
+      "lat": 37.81,
+      "lon": -122.4164,
+      "precision": "building"
+    },
+    "hook": "Sixty-five years after a submarine plucked him off a raft in the South China Sea, a 92-year-old Australian climbed down its ladder at Fisherman's Wharf to find his old bunk.",
+    "story": "On the morning of 12 September 1944 the submarine Pampanito, hunting in a wolfpack with Growler and Sealion, attacked a Japanese convoy in the South China Sea. The skippers did not know the convoy also carried more than 2,000 British and Australian prisoners of war [1]. One of them was Harold \"Curley\" Martin, an Australian private who had survived slave labour on the Burma–Thailand \"railway of death\" [2]. After his transport to the Japanese coal mines, the Rakuyo Maru, went down, Martin drifted on a raft for three nights and four days. On 15 September Pampanito came back to the area and found men clinging to makeshift rafts. Sailors stood on deck with guns, fearing a trap. Martin took off his hat and waved, and his thick blond hair helped convince skipper Paul Summers that these were not Japanese [2]. The sub took 73 men aboard and called in three other submarines to help [1]; one of the rescued men died before reaching Saipan [2]. Pampanito is now a museum ship at Pier 45 [1]. In March 2009 Martin, then 92, came back for the first time, climbed down the vertical ladder and pointed to a top bunk. \"That is the one where they put me,\" he said [2].",
+    "people": [
+      {
+        "name": "Harold \"Curley\" Martin",
+        "role": "Australian POW rescued by Pampanito"
+      },
+      {
+        "name": "Paul Summers",
+        "role": "Pampanito's commanding officer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "USS Pampanito: World War II in the San Francisco Bay Area travel itinerary",
+        "publisher": "National Park Service",
+        "year": 2004,
+        "url": "https://web.archive.org/web/20121018140448/http://www.cr.nps.gov/nr/travel/wwIIbayarea/pam.htm",
+        "supports": "Wolfpack attack of 12 Sept 1944, 2,000+ POWs aboard convoy, 15 Sept rescue of 73 men, museum at Pier 45"
+      },
+      {
+        "title": "Aussie comes to S.F. to see sub that saved him",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2009,
+        "url": "https://www.sfgate.com/bayarea/article/Aussie-comes-to-S-F-to-see-sub-that-saved-him-3247615.php",
+        "supports": "Harold Martin's story, blond hair, skipper Summers, three nights adrift, one death en route to Saipan, 2009 visit and quote"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-paper-doll",
+    "title": "The supper club that fought the liquor board",
+    "theme": "lgbtq",
+    "year": 1956,
+    "yearEnd": 1961,
+    "place": {
+      "label": "Paper Doll, 524 Union St at Cadell Place",
+      "lat": 37.80086,
+      "lon": -122.40813,
+      "precision": "building"
+    },
+    "hook": "Steaks for $1.65, drag queens from New York at Halloween, and a North Beach baseball coach who told the state his customers had every right to be there.",
+    "story": "The Paper Doll sat on the corner of Union Street and tiny Cadell Place, in a building first put up in 1846 and rebuilt after the 1906 fire [1]. Accounts differ on when it opened: the city's staff report says 1949, while the nomination attached to it, and NoeHill, say 1944 [1][3]. Its crowd mixed men and women but was mostly women because it sat away from touristy Broadway [1]. One of the city's earliest lesbian bars, it was also a restaurant, which helped it avoid the liquor police for longer than most [1]. Dick Boyd, who lived around the corner, remembered a steak with all the trimmings for $1.65, and late-1950s Halloween parties overflowing down Union and up to Grant, where drag queens from as far as New York competed for best costume [2]. Dante Benedetti, a North Beach restaurateur who coached youth baseball, bought it in 1954, says the staff report [1]. In August 1956 the state Department of Alcoholic Beverage Control accused him of keeping \"a resort for sexual perverts\", and in May 1957 it revoked his licence. Benedetti fought on until 1961, arguing that gay men and lesbians had the right to gather in bars and restaurants [1]. The building is now City Landmark No. 287 [3].",
+    "people": [
+      {
+        "name": "Dante Benedetti",
+        "role": "Owner in the 1950s; later USF baseball coach"
+      },
+      {
+        "name": "Dick Boyd",
+        "role": "North Beach regular and memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Case Report: 524 Union Street (Paper Doll)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2018,
+        "url": "https://commissions.sfplanning.org/hpcpackets/2017-001773DES_524%20Union%20Street.pdf",
+        "supports": "1846 building, 1949 (and, in the attached nomination, 1944) opening, clientele, restaurant status, Benedetti's 1954 purchase, 1956 ABC accusation, 1957 revocation, fight to 1961"
+      },
+      {
+        "title": "Before the Castro: North Beach, a Gay Mecca",
+        "publisher": "FoundSF (Dick Boyd)",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Before_the_Castro:_North_Beach,_a_Gay_Mecca",
+        "supports": "$1.65 steak, Halloween costume contests drawing drag queens from New York"
+      },
+      {
+        "title": "San Francisco Landmark #287: Paper Doll Bar",
+        "publisher": "NoeHill",
+        "year": 2019,
+        "url": "https://web.archive.org/web/20240309081322/https://noehill.com/sf/landmarks/sf287.asp",
+        "supports": "Landmark number; gives 1944 opening date"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-spaghetti-factory",
+    "title": "Freddie Kuh's Victorian junk palace",
+    "theme": "arts-counterculture",
+    "year": 1956,
+    "yearEnd": 1984,
+    "place": {
+      "label": "Old Spaghetti Factory, 478 Green St",
+      "lat": 37.79985,
+      "lon": -122.40711,
+      "precision": "building"
+    },
+    "hook": "A Chicago stockbroker's son crammed his flat with so much Victorian kitsch that friends told him to open a nightclub. So he did, in a defunct pasta factory.",
+    "story": "Frederick \"Freddie\" Kuh arrived in San Francisco in 1954, worked as a waiter and bartender at the Purple Onion and rented a small flat on Telegraph Hill [1]. He filled it with overstuffed furniture, statuary, draperies and gewgaws, much of it bought cheap in the basement of Butterfield & Butterfield's auction house. Eventually, a friend recalled, you couldn't move, and his friends told him to get a bigger place, stop going to Butterfield's, or open a nightclub [1]. NoeHill dates the conversion to 1955, the obituary to 1956, when he leased a defunct pasta factory at 478 Green Street, built in 1908, and turned it into what he called \"the city's first camp-decor restaurant\", with chairs hanging from the ceiling and kitschy bordello furniture [1][2][3]. It became a Beat-era haunt and an incubator for talent: the Kingston Trio, Robin Williams, Donald Pippin's Pocket Opera and the flamenco dancer Cruz Luna all performed there [3]. It even served as unofficial local headquarters for Adlai Stevenson's 1956 presidential campaign [1]. The Planning Commission backed landmark status in 1981, and it became Landmark No. 127 [3]. Kuh sold up in 1984. About 350 people came to the auction of some 750 decorations, from a lamp shaped like a matador to a framed photo of Adlai Stevenson; the bar itself went for $18,000 [2].",
+    "people": [
+      {
+        "name": "Frederick Walter Kuh",
+        "role": "Founder and owner"
+      },
+      {
+        "name": "Donald Pippin",
+        "role": "Founder of Pocket Opera, which played there"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Obituary: Frederick Walter Kuh",
+        "publisher": "San Francisco Chronicle (J.L. Pimsleur)",
+        "year": 1997,
+        "url": "https://web.archive.org/web/20240408112825/https://www.sfgate.com/news/article/OBITUARY-Frederick-Walter-Kuh-2796413.php",
+        "supports": "Kuh's arrival, Purple Onion, collecting, friends' advice, 1956 lease, decor, Stevenson HQ"
+      },
+      {
+        "title": "Spaghetti Factory closes with auction",
+        "publisher": "UPI",
+        "year": 1984,
+        "url": "https://web.archive.org/web/2023/https://www.upi.com/Archives/1984/03/19/Spaghetti-Factory-closes-with-auction/6519448520400/",
+        "supports": "Auction details, 350 attendees, 750 items including matador lamp and Stevenson photo, $18,000 bar, Kuh's 'first camp-decor restaurant' quote"
+      },
+      {
+        "title": "San Francisco Landmark #127: Old Spaghetti Factory",
+        "publisher": "NoeHill (adapting Planning Commission Resolution 8882, 1981)",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/sf127.asp",
+        "supports": "Built 1908, performers, landmark number and 1981 resolution"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-satty-u-boat",
+    "title": "Sätty's U-Boat under Powell Street",
+    "theme": "arts-counterculture",
+    "year": 1966,
+    "yearEnd": 1982,
+    "place": {
+      "label": "2141–2143 Powell St",
+      "lat": 37.80453,
+      "lon": -122.41197,
+      "precision": "building"
+    },
+    "hook": "A German collage artist who grew up among bombed-out ruins built a warren of fur, mirrors and ladders beneath a North Beach building. Half of hip San Francisco climbed down.",
+    "story": "Wilfried Podriech, who called himself Sätty, was born in Bremen in 1939 and played as a child in the ruins of the heavily bombed city [1]. He moved to San Francisco in 1961, lived in North Beach among Beat artists, and in 1966 began making the pictorial collages that sold as psychedelic-era posters [1]. At 2141–43 Powell Street he built a surreal underground warren that the Chronicle art critic Thomas Albright likened to \"a cross between Mrs. Havisham's parlor in Great Expectations and something out of Luna Park\", with oriental carpets on a dirt floor, fur and mirrors on the walls, and, it was said, \"as many levels and ladders as a Hopi Indian pueblo\" [1][2]. Sätty said he partly modelled it on the grottoes of Mad King Ludwig of Bavaria. When another tenant's bathwater flooded his underworld, he talked the landlady into making him building manager and moved fellow poster artists such as David Singer into the other flats. The new tenants dubbed the building \"The North Beach U-Boat\" [2]. The guest list ran from Allen Ginsberg and Bill Graham to Francis Ford Coppola and Herb Caen [2]. As long as he stayed inside, one account says, \"it was still 1967\" [2]. In January 1982 Sätty fell from one of the ladders in his studio and died [1][2].",
+    "people": [
+      {
+        "name": "Wilfried Sätty (Podriech)",
+        "role": "Collage artist"
+      },
+      {
+        "name": "Thomas Albright",
+        "role": "Chronicle art critic"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wilfried Sätty biography",
+        "publisher": "The Annex Galleries",
+        "year": 2010,
+        "url": "https://www.annexgalleries.com/artists/biography/3802/S%C3%A4tty/Wilfred",
+        "supports": "Bremen childhood, North Beach, 1966 collages, 2141/43 Powell studio, Albright quotes, 1982 death from ladder fall"
+      },
+      {
+        "title": "Satty and the \"North Beach U-Boat\"",
+        "publisher": "FoundSF",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Satty_and_the_%22North_Beach_U-Boat%22",
+        "supports": "U-Boat name, Mad King Ludwig, bathwater and building manager, guest list, 'still 1967', death"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-tel-hi",
+    "title": "Two young women start a settlement house",
+    "theme": "communities",
+    "year": 1890,
+    "place": {
+      "label": "TEL HI Neighborhood Center, 660 Lombard St (its home since the 1950s)",
+      "lat": 37.80301,
+      "lon": -122.41245,
+      "precision": "building"
+    },
+    "hook": "In 1890 two Sunday-school teachers aged 21 and 25 started classes for immigrant children on Telegraph Hill. The centre they founded is still working in North Beach.",
+    "story": "In 1890 Elizabeth Ashe, 21, and Alice Griffith, 25, were teaching Sunday school at Grace Cathedral when they got to know children from Telegraph Hill. Irish, Italian, German and Latin American families lived there in tiny flats without plumbing or heat, and epidemics hit harder than almost anywhere in the city [1]. Jane Addams had just opened Hull House in Chicago, and like her the two women wanted to work directly with the poor. They founded what became the Telegraph Hill Neighborhood Center, San Francisco's first settlement house [1]. It began with a boys' club and sewing classes. A house near the crest of Vallejo Street provided two nurses for local families and ran an evening club for girls who worked in the canneries [2]. Italian neighbours, suspicious at first, began bringing gifts of fruit and vegetables [2]. The centre later ran a day care for cannery workers' children and a clinic with an operating room, and it helped start the West Coast's first school nurse programme [1]. Griffith spent years badgering officials to stop the quarrying that was eating away the hill [2]. After 1906 Bernard Maybeck designed a new centre on Stockton Street, and in the 1950s it moved here to Lombard Street [1].",
+    "people": [
+      {
+        "name": "Elizabeth Ashe",
+        "role": "Co-founder, later a nurse"
+      },
+      {
+        "name": "Alice Griffith",
+        "role": "Co-founder and social-work pioneer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "136 Years of History",
+        "publisher": "TEL HI Neighborhood Center",
+        "year": 2026,
+        "url": "https://www.telhi.org/who-we-are/135-years-of-history/",
+        "supports": "Founders' ages, 1890 founding, living conditions, first settlement house, programmes, Maybeck building, move to 660 Lombard"
+      },
+      {
+        "title": "Saving Telegraph Hill 1890-1918",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": 2013,
+        "url": "https://www.foundsf.org/index.php?title=Saving_Telegraph_Hill_1890-1918",
+        "supports": "Willing Circle, house at crest of Vallejo with two nurses, cannery girls' club, gifts from Italian neighbours, Griffith's anti-quarry campaign"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-coit-gledhill",
+    "title": "Lillie's tower and the cafe owner's gun",
+    "theme": "architecture-landmarks",
+    "year": 1933,
+    "place": {
+      "label": "Coit Tower, 1 Telegraph Hill Blvd",
+      "lat": 37.80231,
+      "lon": -122.40588,
+      "precision": "building"
+    },
+    "hook": "Lillie Coit chased fire engines as a girl and left the city a fortune. When her tower rose in 1933, one Telegraph Hill cafe owner answered with a gun.",
+    "story": "As a girl Lillie Hitchcock ran to fires with such zeal that the volunteers of Knickerbocker Engine Company No. 5 made her their mascot and an honorary member. She wore their gold badge for years afterward, visited members when they fell ill and sent flowers to their funerals [1]. She smoked cigars and, tour guides say, dressed as a man to get into North Beach's men-only gambling rooms [2]. When Lillie Coit died in 1929 she left a third of her estate, nearly $100,000, \"for the purpose of adding to the beauty of the city which I have always loved\" [2][3]. The city spent it on Arthur Brown Jr.'s fluted concrete tower on Telegraph Hill, which opened on 8 October 1933 [2]. Contrary to legend, it was not designed to look like a fire-hose nozzle [2][3], and, says the application that made it a National Historic Site, it was not intended as a memorial to firefighters [3]. Not every neighbour welcomed it. In November 1933, the Chronicle reported, Honore Gledhill, owner of the Dead Fish Cafe at 398 Union Street, fired shots at the tower from her business, protesting that it \"invaded the sanctity of her Telegraph Hill Bohemia\". A drunkenness charge was dismissed, and she got a 30-day suspended sentence for the gun [2].",
+    "people": [
+      {
+        "name": "Lillie Hitchcock Coit",
+        "role": "Benefactor"
+      },
+      {
+        "name": "Arthur Brown Jr.",
+        "role": "Architect"
+      },
+      {
+        "name": "Honore Gledhill",
+        "role": "Owner of the Dead Fish Cafe"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lillie Hitchcock Coit (from a history of the San Francisco volunteer fire department)",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "http://www.sfmuseum.org/hist1/h-coit2.html",
+        "supports": "Knickerbocker No. 5 mascot and honorary member, gold badge, care for sick firemen"
+      },
+      {
+        "title": "Coit Tower: Tales of murder, drag, and a small round apartment",
+        "publisher": "SFGATE (Bob Bragman)",
+        "year": 2019,
+        "url": "https://www.sfgate.com/bayarea/article/Lillie-Hitchcock-Coit-Tower-murder-drag-and-a-9134083.php",
+        "supports": "Cigars and men's clothing, bequest wording, Arthur Brown Jr., 8 Oct 1933 opening, not a nozzle, Gledhill shooting and sentence from 18 Nov 1933 Chronicle"
+      },
+      {
+        "title": "Coit Tower National Historic Site",
+        "publisher": "FoundSF (The Semaphore)",
+        "year": 2008,
+        "url": "https://www.foundsf.org/index.php?title=Coit_Tower_National_Historic_Site",
+        "supports": "Third of estate, nearly $100,000; not a firefighters' memorial or fire hose"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-tommys-place",
+    "title": "The 1954 raid on Tommy's Place",
+    "theme": "lgbtq",
+    "year": 1954,
+    "place": {
+      "label": "Tommy's Place, 529 Broadway, backing onto 12 Adler Place (now Specs')",
+      "lat": 37.79773,
+      "lon": -122.40599,
+      "precision": "building"
+    },
+    "hook": "San Francisco's first out lesbian bar owner moved to Broadway, with a lesbian pick-up bar out the back. Two years later came a vice raid and a newspaper frenzy.",
+    "story": "Tommy Vasu had dressed in masculine clothes since she was 12. In 1948 she opened a bar at 299 Broadway, San Francisco's first queer bar opened by an out lesbian [1]. Herb Caen called her \"a gentleman among ladies\", though she was also known to mix with organized crime [1]. Dick Boyd remembered her in double-breasted suits and a fedora, playing high-stakes liar's dice with the painter Walter Keane [2]. Four years later the bar moved here to 529 Broadway (KQED calls it Tommy's Joint, Boyd Tommy's Place), with live entertainment. It backed directly onto 12 Adler Place, a lively lesbian pick-up bar, also Vasu's, reached by a back staircase [1][2]. The run lasted two years. In 1954, by Boyd's dates, the vice squad closed both bars, the licence was revoked, and a bartender went to jail for allegedly serving minors [1][2]. Boyd recalled that drugs were found taped under the sink in the ladies' room, in what looked to outsiders like a set-up [2]. The Examiner called 12 Adler a \"sex thrill bar\", and the case was milked to stoke fears about homosexuality corrupting the young [1]. Tommy's became the Garden of Eden strip club. In 1968 Richard \"Specs\" Simmons opened his bar in the Adler Place room, which still has a sign reading \"12 Adler Museum\" [1][3].",
+    "people": [
+      {
+        "name": "Tommy Vasu",
+        "role": "Bar owner"
+      },
+      {
+        "name": "Richard 'Specs' Simmons",
+        "role": "Later bar owner at 12 Adler Place"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Lost Lesbian Bars of San Francisco (Maud's, Peg's, The Front, Mona's 440, Tommy's)",
+        "publisher": "KQED (Rae Alexandra)",
+        "year": 2023,
+        "url": "https://www.kqed.org/arts/13929998/historic-lesbian-bars-san-francisco-mauds-pegs-front-anns-monas-440-tommy-vasu",
+        "supports": "Vasu's dress, 1948 first bar, Caen quote, move to 529 Broadway, 12 Adler Place also Vasu's, closure after two years, bartender jailed, 'sex thrill bar', Garden of Eden, Specs sign"
+      },
+      {
+        "title": "Before the Castro: North Beach, a Gay Mecca",
+        "publisher": "FoundSF (Dick Boyd)",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Before_the_Castro:_North_Beach,_a_Gay_Mecca",
+        "supports": "Tommy's Place at 529 Broadway 1952–54, Vasu's suits and liar's dice with Walter Keane, back staircase, drugs under the sink, apparent set-up"
+      },
+      {
+        "title": "SPEC'S: A Durable Legend",
+        "publisher": "FoundSF (Tony Long, The Semaphore #184)",
+        "year": 2008,
+        "url": "https://www.foundsf.org/index.php?title=SPEC%27S:_A_Durable_Legend",
+        "supports": "Specs Simmons opened his bar at 12 Adler in 1968; earlier life as a lesbian bar"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-north-beach-place",
+    "title": "No Black family, 'regardless of qualifications'",
+    "theme": "civil-rights",
+    "year": 1952,
+    "yearEnd": 1953,
+    "place": {
+      "label": "North Beach Place public housing, Bay St at Taylor St",
+      "lat": 37.80582,
+      "lon": -122.41593,
+      "precision": "block"
+    },
+    "hook": "The Housing Authority's own chairman testified that no Black applicant would get a flat in North Beach Place, veteran or not. Mattie Banks took the city to court and won.",
+    "story": "By 1952 North Beach Place, a public housing project designed by Ernest Born with Henry Gutterson, stood ready beside the cable car turntable on Taylor Street [1][2]. Mattie Banks and James Charley Jr. applied for flats there and were turned away [1]. Behind the refusal lay the San Francisco Housing Authority's 1942 \"neighborhood pattern\" policy, which promised to \"maintain and preserve the same racial composition which exists in the neighborhood where a project is located\" [1]. In court the authority's chairman, E. N. Ayer, testified that no Black person, \"whether a veteran or nonveteran, regardless of his qualifications and priorities\", would be admitted to the North Beach project. Its executive officer said that on 19 September 1952 the only Black tenants in the seven existing projects lived at Westside Courts [1]. Represented by lawyers including Nathaniel Colley and Loren Miller, Banks and Charley won in the trial court. On 26 August 1953 the state Court of Appeal rejected the authority's \"separate but equal\" defence and affirmed the judgment declaring the policy void under the 14th Amendment [1]. After the TEL HI centre moved next door in the 1950s, it began serving more African American families from the project [3]. Born's buildings were demolished in 2001 [2], and a new North Beach Place opened in 2004 [3].",
+    "people": [
+      {
+        "name": "Mattie Banks",
+        "role": "Petitioner"
+      },
+      {
+        "name": "James Charley Jr.",
+        "role": "Petitioner"
+      },
+      {
+        "name": "Loren Miller",
+        "role": "Civil rights lawyer for the petitioners"
+      },
+      {
+        "name": "Nathaniel Colley",
+        "role": "Civil rights lawyer for the petitioners"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Banks v. Housing Authority of the City and County of San Francisco, 120 Cal. App. 2d 1",
+        "publisher": "California Court of Appeal (via Caselaw Access Project / CourtListener)",
+        "year": 1953,
+        "url": "https://static.case.law/cal-app-2d/120/cases/0001-01.json",
+        "supports": "Neighborhood pattern policy text, Ayer testimony, 1952 occupancy, North Beach applications, ruling and 14th Amendment finding, counsel"
+      },
+      {
+        "title": "Ernest Born",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Ernest_Born",
+        "supports": "Born and Gutterson designed North Beach Place (1951) at the Taylor St turntable; demolished 2001"
+      },
+      {
+        "title": "136 Years of History",
+        "publisher": "TEL HI Neighborhood Center",
+        "year": 2026,
+        "url": "https://www.telhi.org/who-we-are/135-years-of-history/",
+        "supports": "TEL HI served more African American families from the North Beach housing project; new North Beach Place opened 2004"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-dimaggio-church",
+    "title": "Joe DiMaggio's church, twice",
+    "theme": "communities",
+    "year": 1939,
+    "yearEnd": 1954,
+    "place": {
+      "label": "Saints Peter and Paul Church, 666 Filbert St",
+      "lat": 37.80137,
+      "lon": -122.41043,
+      "precision": "building"
+    },
+    "hook": "The Yankee Clipper married his first wife inside North Beach's Italian church. Fifteen years later he came back with Marilyn Monroe, but only for the photographs.",
+    "story": "Joe DiMaggio was raised in a ground-floor flat on Taylor Street, the eighth of nine children of Sicilian parents [1]. In 1939, already a Yankees star, he married the actress Dorothy Arnold inside Saints Peter and Paul, the twin-spired church facing Washington Square that had long been the heart of North Beach's \"Little Italy\" [1][2][3]. That marriage lasted five years and produced a son, Joe Jr. [1]. On 14 January 1954 he married Marilyn Monroe. Because both were divorced, there was no church wedding: Judge Charles Peery married them at 1:45 p.m. in his City Hall chambers, and the couple then had to push through corridors full of press and some 300 well-wishers outside [1]. Afterwards they came to Saints Peter and Paul to pose for wedding photographs [2]. The Church was less sentimental. A spokesman for the archdiocese said DiMaggio had been automatically excommunicated for remarrying [1]. \"San Francisco will be our headquarters,\" DiMaggio told reporters, but the couple spent most of their ten-month marriage in Los Angeles. When it ended, he said, \"San Francisco has always been my home\" [1].",
+    "people": [
+      {
+        "name": "Joe DiMaggio",
+        "role": "Baseball star raised in North Beach"
+      },
+      {
+        "name": "Dorothy Arnold",
+        "role": "Actress, his first wife"
+      },
+      {
+        "name": "Marilyn Monroe",
+        "role": "Actress, his second wife"
+      }
+    ],
+    "sources": [
+      {
+        "title": "How Marilyn Monroe and Joe DiMaggio's Tumultuous Marriage Began in San Francisco",
+        "publisher": "KQED (Rae Alexandra)",
+        "year": 2023,
+        "url": "https://www.kqed.org/arts/13922524/marilyn-monroe-joe-dimaggio-san-francisco-city-hall-wedding-1954",
+        "supports": "Taylor St upbringing, 1939 wedding at Saints Peter and Paul, 1954 City Hall ceremony details, excommunication statement, quotes"
+      },
+      {
+        "title": "Explore North Beach, a San Francisco neighborhood rich in Italian heritage",
+        "publisher": "SFGATE (Christina Mueller)",
+        "year": 2023,
+        "url": "https://www.sfgate.com/local/article/north-beach-san-francisco-17827739.php",
+        "supports": "Monroe and DiMaggio came to the church for wedding photos; 1939 wedding inside the church"
+      },
+      {
+        "title": "History of Ss. Peter and Paul Church",
+        "publisher": "Ss. Peter and Paul Church",
+        "year": 2020,
+        "url": "https://web.archive.org/web/2020/http://parish.sspeterpaulsf.org/history/",
+        "supports": "Twin 191-foot spires; church central to 'Little Italy'; DiMaggio married there"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-bushman",
+    "title": "Never trust the bushes on Jefferson Street",
+    "theme": "modern-city",
+    "year": 1999,
+    "yearEnd": 2019,
+    "place": {
+      "label": "Jefferson St near Taylor St, beside the former Tarantino's",
+      "lat": 37.80831,
+      "lon": -122.4162,
+      "precision": "street"
+    },
+    "hook": "A former Market Street shoeshine man hid behind eucalyptus branches for decades, leapt out at tourists yelling 'ugga bugga', and beat the district attorney in court.",
+    "story": "David Johnson shined shoes on Market Street and tried dressing as a robot to drum up trade, until so many other people became robots that robots were a glut on the market [1]. Then he spotted some fallen branches. By 1999 he was the Bushman, crouched on the Jefferson Street sidewalk behind a bundle of leaves, commuting by bicycle from Hunters Point with the bush on his handlebars, and holding a city business licence that said \"Bushman\" [1]. When tourists strolled by he sprang up. His new partner, Gregory Jacobs, then reminded them of their moral duty to pay, plus a \"$1 photo tax\" [1]. A 1999 Chronicle profile made him a national curiosity [2]. Some merchants said he scared customers away, and in 2004 District Attorney Kamala Harris charged him with four public-nuisance misdemeanours. After a four-day trial with a dozen witnesses the jury acquitted him, and within an hour he was back on his perch [2][3]. Jacobs later split off to run a rival bush. When he died in 2014 the papers mourned \"the Bushman\", only to learn that the original was alive and still working beside Tarantino's [2][3]. Johnson kept at it until around 2019 [2].",
+    "people": [
+      {
+        "name": "David Johnson",
+        "role": "The original Bushman"
+      },
+      {
+        "name": "Gregory Jacobs",
+        "role": "Partner, later rival Bushman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bush-league street artist branches out to scare",
+        "publisher": "San Francisco Chronicle (Steve Rubenstein)",
+        "year": 1999,
+        "url": "https://www.sfgate.com/news/article/bush-league-street-artist-branches-out-to-scare-2919461.php",
+        "supports": "Shoeshine and robot origins, bicycle from Hunters Point, 'Bushman' licence, Jacobs partnership and photo tax"
+      },
+      {
+        "title": "The rise and fall of San Francisco's Bushman",
+        "publisher": "SFGATE (Katie Dowd)",
+        "year": 2021,
+        "url": "https://www.sfgate.com/characters/article/san-francisco-bushman-where-is-fishermans-wharf-16443278.php",
+        "supports": "National attention in 1999, 2004 charges by Kamala Harris, trial and acquittal, rivalry, Jacobs' death confusion, active until about 2019"
+      },
+      {
+        "title": "Original Bushman lives on at Fisherman's Wharf",
+        "publisher": "San Francisco Chronicle (C.W. Nevius)",
+        "year": 2014,
+        "url": "https://www.sfgate.com/bayarea/nevius/article/Original-Bushman-lives-on-at-Fisherman-s-Wharf-5285601.php",
+        "supports": "Four-day trial, dozen witnesses, Johnson's spot next to Tarantino's, 2014 mix-up"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-31-alta-tea",
+    "title": "Tea, biscuits and a 2 a.m. raid",
+    "theme": "arts-counterculture",
+    "year": 1927,
+    "place": {
+      "label": "31 Alta St, Telegraph Hill",
+      "lat": 37.80145,
+      "lon": -122.40404,
+      "precision": "building"
+    },
+    "hook": "At 2 a.m. in 1927 police raided a 'tea party' in one of Telegraph Hill's oldest houses. The hostess insisted they had only been admiring a painting.",
+    "story": "31 Alta Street, with its double-decker balconies hanging over the street, is one of the oldest houses on Telegraph Hill. It was built by a sea captain, Richard Andrews; sources give 1852 or 1858 [1][2]. In the late 1920s a woman said to be a Russian noble, Myrtokleia Sawvelle, turned its brick basement kitchen and dining room into the Telegraph Hill Tavern, advertised as having \"all the atmosphere of the Montmartre with a Marine view\" [1][3]. Tea was served at two, dinner at six and supper after ten [1]. At 2 a.m. one night in February 1927 the neighbours had had enough. Police arrived, and the Black Maria took Myrtle and her guests to jail [1]. She told reporters they had been admiring Elwood Decker's new painting, \"an esoteric blue damsel charging through a red fog\". \"We weren't even drinking anything but tea and I was making a pan full of biscuits for a little supper when the police came,\" she said [1]. It was Prohibition, though. According to historian David Myrick, her homemade brews later earned her 90 days in jail, where she was made jailhouse cook and became a heroine to the inmates [1]. In the 1950s the backyard hosted Silvio Catelli's Peach Blossom Festival [2].",
+    "people": [
+      {
+        "name": "Myrtokleia (Myrtle) Sawvelle",
+        "role": "Proprietor of the Telegraph Hill Tavern"
+      },
+      {
+        "name": "Elwood Decker",
+        "role": "Painter"
+      },
+      {
+        "name": "Richard Andrews",
+        "role": "Sea captain who built the house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Prohibition Bust at 31 Alta Street",
+        "publisher": "FoundSF (The Semaphore #154)",
+        "year": 2000,
+        "url": "https://www.foundsf.org/index.php?title=Prohibition_Bust_at_31_Alta_Street",
+        "supports": "1852 construction by Capt. Andrews, Sawvelle's tavern, schedule, February 1927 raid, quotes, Myrick's account of jail and cooking"
+      },
+      {
+        "title": "Telegraph Hill Historic District walking tour",
+        "publisher": "Telegraph Hill Dwellers",
+        "year": 2020,
+        "url": "https://www.thd.org/history",
+        "supports": "Built 1858 by Captain Andrews, Telegraph Hill Tavern in basement, Peach Blossom Festival by Silvio Catelli in the 1950s"
+      },
+      {
+        "title": "Telegraph Hill's Architectural Survivors",
+        "publisher": "FoundSF (The Semaphore)",
+        "year": 2016,
+        "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill%27s_Architectural_Survivors",
+        "supports": "1858 date, late-1920s Telegraph Hill Tavern and 'Montmartre with a Marine View' advertisement"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-gruppo-anarchico",
+    "title": "Birth-control leaflets from a Stockton Street club",
+    "theme": "civil-rights",
+    "year": 1916,
+    "place": {
+      "label": "Gruppo Anarchico Volontà club room, 1602 Stockton St (near Union)",
+      "lat": 37.80065,
+      "lon": -122.40909,
+      "precision": "block"
+    },
+    "hook": "In 1916 young Italian anarchists facing Washington Square printed 20,000 birth-control leaflets in Italian and signed them with their group's name and address.",
+    "story": "In March 1916 The Blast, the anarchist paper Alexander Berkman published in San Francisco, sent a writer to a \"dingy club room\" at 1602 Stockton Street [1][2]. Its window read \"GRUPPO ANARCHICO VOLONTÁ\" in big red letters over a sketch of the sun rising behind mountains. Inside hung pictures of the Haymarket martyrs, Giordano Bruno and Francisco Ferrer, and radical newspapers were pegged with clothespins along a railing. The group had no officers, its door was never locked, and nobody knew how many members it had [1]. After a mass meeting protesting Emma Goldman's arrest, one young member brought back a handbill with contraceptive information. Members chipped in to print 20,000 copies in Italian, signed with its name and address, and one night ten members slipped 6,000 into mailboxes across the Italian quarter [1]. A policeman came calling, and member Joseph Macario, asked to explain, was jailed on the chief's order; attorney Charles Sferlazzo bailed him out [1]. \"You know these things; you use them; why shouldn't I and the rest of us?\" Macario had told the chief. On the night the writer visited, Berkman and the attorney Jack Margolis spoke to an overflowing hall, while police informers took notes at the back [1].",
+    "people": [
+      {
+        "name": "Joseph Macario",
+        "role": "Group member arrested over the leaflets"
+      },
+      {
+        "name": "Alexander Berkman",
+        "role": "Anarchist editor of The Blast"
+      },
+      {
+        "name": "Charles Sferlazzo",
+        "role": "Attorney"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gruppo Anarchico (Reb Raney, The Blast, Vol. 1 #10, April 1, 1916)",
+        "publisher": "FoundSF (primary source, courtesy AK Press)",
+        "year": 1916,
+        "url": "https://www.foundsf.org/index.php?title=Gruppo_Anarchico",
+        "supports": "All details of the club room, leaflets, Macario's arrest and quote, Sferlazzo, Berkman's talk"
+      },
+      {
+        "title": "The Blast (magazine)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/The_Blast_(magazine)",
+        "supports": "The Blast was published by Berkman in San Francisco, 1916–1917"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-frida-calhoun",
+    "title": "Frida and Diego try again on Calhoun Terrace",
+    "theme": "arts-counterculture",
+    "year": 1940,
+    "place": {
+      "label": "42 Calhoun Terrace, Telegraph Hill",
+      "lat": 37.80083,
+      "lon": -122.40343,
+      "precision": "building"
+    },
+    "hook": "Divorced, ill and shaken by Trotsky's murder, Frida Kahlo came to San Francisco in 1940 and moved in with Diego Rivera in a porthole-windowed flat on Telegraph Hill.",
+    "story": "The apartment building at 38–50 Calhoun Terrace, with its telltale portholes, went up in 1937 in the Moderne style and steps down the hillside toward Sansome Street [1][2]. In 1940 flat 42 was the temporary home of Frida Kahlo and Diego Rivera [1][2]. By then they were divorced. Rivera had come north after Mexican authorities wanted to question him about an attempt on Leon Trotsky's life, and he was painting his huge Pan American Unity mural before crowds at the Golden Gate International Exposition on Treasure Island [3]. Kahlo followed after Trotsky was murdered and police held her for questioning. She was in pain and, says historian Celia Stahr, \"in a terrible emotional state\" [3]. Her friend and doctor Leo Eloesser prescribed a better diet, less drinking and reconciliation with Rivera. She stayed with him at 42 Calhoun before Eloesser admitted her to St. Luke's Hospital in the Mission [3]. Once she was stronger, the pair remarried at City Hall on Rivera's 54th birthday, and this time the Oakland Tribune called her \"an artist in her own right\" [3]. Next door stood Richard Neutra's brand-new Kahn House, built in 1939 [1][2].",
+    "people": [
+      {
+        "name": "Frida Kahlo",
+        "role": "Painter"
+      },
+      {
+        "name": "Diego Rivera",
+        "role": "Muralist"
+      },
+      {
+        "name": "Leo Eloesser",
+        "role": "Surgeon and friend"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Telegraph Hill Historic District walking tour",
+        "publisher": "Telegraph Hill Dwellers",
+        "year": 2020,
+        "url": "https://www.thd.org/history",
+        "supports": "38–50 Calhoun, 1937 Moderne building, portholes, 42 Calhoun as Kahlo and Rivera's 1940 residence, Neutra's Kahn House 1939"
+      },
+      {
+        "title": "Telegraph Hill's Architectural Survivors",
+        "publisher": "FoundSF (The Semaphore)",
+        "year": 2016,
+        "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill%27s_Architectural_Survivors",
+        "supports": "Ian Hoeffler's 1937 building stepping down the hill, 42 Calhoun residence in 1940, Kahn House"
+      },
+      {
+        "title": "Inside Frida Kahlo and Diego Rivera's Life in San Francisco",
+        "publisher": "KQED, reposted on FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Inside_Frida_Kahlo_and_Diego_Rivera%27s_Life_in_San_Francisco",
+        "supports": "1940 circumstances, Trotsky, Eloesser, stay at 42 Calhoun, St. Luke's, remarriage, Oakland Tribune quote"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-duck-house",
+    "title": "The Duck House and Tales of the City",
+    "theme": "architecture-landmarks",
+    "year": 1935,
+    "place": {
+      "label": "The Duck House, 60 Alta St",
+      "lat": 37.8017,
+      "lon": -122.40401,
+      "precision": "building"
+    },
+    "hook": "William Wurster built a hillside house for a muralist, who painted ducks on its walls. Decades later Armistead Maupin sat inside, watching Napier Lane, and began Tales of the City.",
+    "story": "In 1935 William Wurster, founder of the style later called the Second Bay Area Tradition, designed a house at 60 Alta Street for the muralist Helen Forbes [1][2]. It gets its nickname from the ducks on its walls, frescoes painted by Forbes and Dorothy Puccinelli with a traditional Italian technique. The same pair painted the murals in the Mothers Building at the San Francisco Zoo [1][2]. The house was part of a small wave of experimental Modern buildings that reached the hill just before the Second World War, once the paving of Montgomery and Alta Streets in 1931 had begun to end the hill's isolation [2]. The dancer Mayris Chaney, one of Eleanor Roosevelt's closest friends for almost twenty years, often entertained the First Lady here [2]. In the 1970s the Duck House had a new resident: Armistead Maupin, who, say the Telegraph Hill Dwellers, began writing Tales of the City here as he watched the goings-on below on Napier Lane [1][2]. Rock Hudson was among his guests [2]. Maupin also lived for a while at 226A Filbert, on the Filbert Steps just downhill [2].",
+    "people": [
+      {
+        "name": "William Wurster",
+        "role": "Architect"
+      },
+      {
+        "name": "Helen Forbes",
+        "role": "Muralist and first owner"
+      },
+      {
+        "name": "Dorothy Puccinelli",
+        "role": "Muralist"
+      },
+      {
+        "name": "Armistead Maupin",
+        "role": "Writer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Telegraph Hill Historic District walking tour",
+        "publisher": "Telegraph Hill Dwellers",
+        "year": 2020,
+        "url": "https://www.thd.org/history",
+        "supports": "Wurster, 1935, Helen Forbes, duck frescoes, Zoo murals, Maupin writing Tales of the City in the 1970s"
+      },
+      {
+        "title": "Telegraph Hill's Architectural Survivors",
+        "publisher": "FoundSF (The Semaphore)",
+        "year": 2016,
+        "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill%27s_Architectural_Survivors",
+        "supports": "WPA paving and bus route, Modern-style wave, Mayris Chaney and Eleanor Roosevelt, Maupin, Rock Hudson, 226A Filbert"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "north-beach-2p-aliotos",
+    "title": "Stall No. 8 and Rose Alioto",
+    "theme": "labor-industry",
+    "year": 1925,
+    "yearEnd": 2020,
+    "place": {
+      "label": "Alioto's, 8 Fisherman's Wharf, foot of Taylor St",
+      "lat": 37.80865,
+      "lon": -122.4164,
+      "precision": "building"
+    },
+    "hook": "A Sicilian immigrant's fish stand became the first building on Fisherman's Wharf. After he died, his widow Rose turned it into a restaurant that lasted more than eighty years.",
+    "story": "In 1925 Nunzio Alioto, a Sicilian immigrant, opened a fish stand at stall number 8 on Fisherman's Wharf [1][2]. The wharf was still young: the state had set aside the waterfront between Taylor and Leavenworth Streets for the fishing fleet only in 1900 [3]. In 1932, with business going well, Alioto put up the first building on the wharf and began selling fresh crab and shrimp cocktails over the counter [1][2]. He died the next year. His widow, Rose, took over with their three children, becoming, SFGATE says, the first businesswoman on Fisherman's Wharf [1][2]. In 1938 the family opened a full restaurant at Stall No. 8. \"Alioto's mythology\", as the Chronicle put it, credits Rose with creating cioppino at this point, cooking the fish stew for Italian day labourers [1]. The 1939 World's Fair made the wharf a tourist destination for the first time [1]. In 1957 a fire gutted the restaurant; one of the few things to survive was the wall of clamshells [1]. Alioto's closed in March 2020 and never reopened. In 2025 the Port announced it would be torn down for a public plaza looking over the fishing boats in the lagoon [2][4].",
+    "people": [
+      {
+        "name": "Nunzio Alioto Sr.",
+        "role": "Founder"
+      },
+      {
+        "name": "Rose Alioto",
+        "role": "Widow who ran and expanded the business"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Port history: Alioto's Restaurant on Fisherman's Wharf",
+        "publisher": "San Francisco Chronicle Inside Scoop (Paolo Lucchesi)",
+        "year": 2013,
+        "url": "https://web.archive.org/web/20130709213405/http://insidescoopsf.sfgate.com/blog/2013/07/08/port-history-aliotos-restaurant-on-fishermans-wharf/",
+        "supports": "1925 stall No. 8, 1932 first building, 1933 death, 1938 restaurant, cioppino 'mythology', 1939 fair, 1957 fire and clamshell wall"
+      },
+      {
+        "title": "'Heartbreaking': Iconic Fisherman's Wharf restaurant Alioto's to close after 97 years",
+        "publisher": "SFGATE (Ariana Bindman)",
+        "year": 2022,
+        "url": "https://www.sfgate.com/local/article/SF-Aliotos-Restaurant-to-close-17069430.php",
+        "supports": "Founding, first building on the wharf, Rose as first businesswoman on the wharf, closed since March 2020"
+      },
+      {
+        "title": "Fisherman's Wharf",
+        "publisher": "FoundSF (Anika Okje Erdmann)",
+        "year": 2015,
+        "url": "https://www.foundsf.org/index.php?title=Fisherman%27s_Wharf",
+        "supports": "1900 state set-aside of waterfront between Taylor and Leavenworth for fishing boats"
+      },
+      {
+        "title": "S.F. icon will be torn down as part of major Fisherman's Wharf redesign",
+        "publisher": "San Francisco Chronicle (J.K. Dineen)",
+        "year": 2025,
+        "url": "https://www.sfchronicle.com/sf/article/fishermans-wharf-aliotos-redesign-20361252.php",
+        "supports": "Closed 2020; Port plan to demolish Alioto's for a public plaza by the lagoon"
+      }
+    ],
+    "photo": null
+  }
+]

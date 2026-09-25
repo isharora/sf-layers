@@ -1,0 +1,623 @@
+[
+  {
+    "id": "visitacion-valley-2q-signal-flags-waterworks",
+    "title": "Signal flags and a witch's reservoir",
+    "theme": "labor-industry",
+    "year": 1920,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Spring Valley Water pumping station, 31–33 Leland Avenue",
+      "lat": 37.71127,
+      "lon": -122.40452,
+      "precision": "building"
+    },
+    "hook": "Before the valley had pipes to spare, a man on Leland Avenue and a woman up the hill ran its water supply by waving flags at each other.",
+    "story": "When the valley was first built up, its water came from a Spring Valley Water pumping station at 31–33 Leland Avenue, next door to the Bay Shore Hotel [1][2]. An early photograph of the hotel going up shows the pumphouse right beside it [3]. The reservoir that fed it sat at the top of the hill above Wilde Avenue, just off the road now called Mansell [1]. In the 1920s the station's supervisor was Dan Condon. A woman up at the reservoir helped control the flow. When he signalled with a flag, she opened the gates and water ran down to the station. Another signal meant the station was full [1]. Local historian Betty Parshall was one of the 'Wilde Avenue gang' who roamed that hill in the 1940s. She remembered the reservoir under a wooden roof, black with age and peaked like 'a huge old Gothic house that had sunk into the ground'. She and her friend Marian Rado peered through cracks at the dark water and half-believed a witch lived inside [1]. The reservoir was later drained and torn down, and an unloved concrete viewing tower rose on its pad [1]. Parshall's flag story now appears on one of the 'musing station' plaques along McLaren Park's Philosopher's Way [4].",
+    "people": [
+      {
+        "name": "Dan Condon",
+        "role": "supervisor of the pumping station in the 1920s"
+      },
+      {
+        "name": "Betty Parshall",
+        "role": "Visitacion Valley History Project historian who played on the hill as a child"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Tale Along Philosopher's Way (Visitacion Valley Grapevine, Sept. 2009, p. 5)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2009,
+        "url": "https://archive.org/details/visitacionvalley278unse",
+        "supports": "Pumping station at 31-33 Leland; reservoir above Wilde off Mansell; Dan Condon; signal flags; 1940s memories of the roofed reservoir and 'witch'; drained and torn down"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "The water works' pumping station and office were on Leland Avenue next to the Bay Shore Hotel"
+      },
+      {
+        "title": "Nine Great Commercial Buildings on Leland Avenue",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/nine-great-commercial-buildings-on-leland-avenue/",
+        "supports": "Photo caption: Bay Shore Hotel under construction with the Spring Valley Water pumphouse beside it"
+      },
+      {
+        "title": "Welcome to Visitacion Valley Month / Getting to Know VV's Open Spaces",
+        "publisher": "San Francisco Heritage (Kerri Young)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/welcome-to-visitacion-valley-month-getting-to-know-vvs-open-spaces/",
+        "supports": "Philosopher's Way plaque with Betty Parshall's story of pumping-station workers using flags"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-wildflower-school",
+    "title": "The school that carved wildflowers, not soap",
+    "theme": "parks-nature",
+    "year": 1936,
+    "yearEnd": null,
+    "place": {
+      "label": "Visitacion Valley Elementary School and playground, Schwerin Street at Visitacion Avenue",
+      "lat": 37.71268,
+      "lon": -122.41028,
+      "precision": "block"
+    },
+    "hook": "In the 1930s, children here pressed, painted and sketched nearly forty kinds of wildflowers. In art class they carved flowers where other schools carved soap animals.",
+    "story": "A newspaper clipping from about 1936 or 1937, later donated to the Visitacion Valley History Project by Viola Rusca, describes an unusual school. Pupils at Visitacion Valley Elementary counted nearly 40 kinds of wildflowers in the hills and valley. The season ran from January until the last poppy faded in late summer and fall [1]. On trips into the San Bruno hills they picked only enough sprays for an exhibit, never pulling up roots. Then they pressed and mounted the flowers, wrote stories about them, painted them and sketched them where they grew. Other schools carved soap into animals or missions. These children carved wildflowers [1]. 'This intensive study and appreciation of wild flowers… instills a love of beauty in the children which is theirs for life,' said the principal, Miss Mary A. Nolan [1]. Not every child was so gentle. Harry Pierce and Clarence Wikse picked wildflowers to sell, and wild iris fetched the best price. Wikse later became a florist [1]. The botanist Alice Eastwood recalled in 1945 that the San Bruno Hills south of the valley were noted for 'great beds' of iris. 'Homes are replacing them now,' she warned [2]. A new school building facing Schwerin Street was finished by 1937. The old one came down, and its site is now the Visitacion Valley playground [1].",
+    "people": [
+      {
+        "name": "Mary A. Nolan",
+        "role": "principal of Visitacion Valley Elementary"
+      },
+      {
+        "name": "Clarence Wikse",
+        "role": "pupil who sold wildflowers and later became a florist"
+      },
+      {
+        "name": "Alice Eastwood",
+        "role": "botanist, California Academy of Sciences"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wildflowers in the Valley (Visitacion Valley History Project column, Grapevine, March 2010)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2010,
+        "url": "https://archive.org/details/visitacionvalley284unse",
+        "supports": "1936-37 clipping: ~40 varieties, school nature study, carving wildflowers, Nolan quote, Pierce and Wikse selling iris, new Schwerin St building by 1937, old site now playground"
+      },
+      {
+        "title": "Wildflowers (Alice Eastwood, 'The Wild Flower Gardens of San Francisco in the 1890s', 1945)",
+        "publisher": "FoundSF",
+        "year": 1945,
+        "url": "https://www.foundsf.org/index.php?title=Wildflowers",
+        "supports": "San Bruno Hills south of Visitacion Valley noted for great beds of Iris longipetala, being replaced by homes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-galloping-goose-last-run",
+    "title": "The Galloping Goose's last run",
+    "theme": "labor-industry",
+    "year": 1937,
+    "yearEnd": null,
+    "place": {
+      "label": "Schwerin Street, route of the Visitacion Valley streetcar line",
+      "lat": 37.71147,
+      "lon": -122.41123,
+      "precision": "street"
+    },
+    "hook": "For nearly 28 years a single-track streetcar wobbled through the valley via Schwerin Street. Its nicknames were affectionate, and a little rude.",
+    "story": "The valley's own streetcar line opened on October 25, 1909. It ran on a single track with passing turnouts, from the Six Mile House at today's Bayshore Boulevard and Sunnydale Avenue to Geneva Avenue and Mission Street [1][2]. The route ran up McDonald Avenue, turned left at Schwerin Street and and then right at Geneva, which was still called Walbridge Street at the time [1][2]. The Market Street Railway usually ran just two cars on what the Grapevine's historian called its 'haphazard track'. A third car was reportedly destroyed in an accident in 1918 [1]. Valley streetcars picked up nicknames such as the 'Galloping Goose' and the 'Molasses Special'; Appiano called this line the 'beloved galloping goose' [1][3]. Because of the long waits while cars were switched on the single track, the whole district got a nickname too: 'Hesitation Valley' [3]. By the late 1930s buses were taking over, and the line carried few passengers. The Market Street Railway handed the route to an extended 50 Crocker-Amazon bus. On July 31, 1937, after nearly 28 years, the streetcars made their last run [1][2]. Rails did return in the end. Muni's T-Third light rail now ends at Bayshore and Sunnydale, where the Goose's route used to begin [4].",
+    "people": [
+      {
+        "name": "Len Appiano",
+        "role": "Grapevine columnist who recorded the line's history"
+      }
+    ],
+    "sources": [
+      {
+        "title": "When the Valley Was Young (Len Appiano, Visitacion Valley Grapevine, Oct. 1986, p. 6)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1986,
+        "url": "https://archive.org/details/visitacionvalley13unse",
+        "supports": "Route via Schwerin and Geneva (then Walbridge), single track 2.5 miles, opened Oct. 25 1909, two cars, 1918 accident, replaced by 50 Crocker-Amazon bus, last run July 31 1937"
+      },
+      {
+        "title": "A Streetcar Ride Through Wide-Open Spaces (Visitacion Valley Grapevine, Oct. 1991)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1991,
+        "url": "https://archive.org/details/visitacionvalley63unse_0",
+        "supports": "Opening date, route from Geneva and Mission to the Six Mile House, turn at Schwerin, service discontinued July 31 1937"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Nicknames 'Galloping Goose', 'Molasses Special' and 'Hesitation Valley'"
+      },
+      {
+        "title": "Neighborhood History",
+        "publisher": "Visitacion Valley History Project",
+        "year": 2024,
+        "url": "https://www.visitacionvalleyhistoryproject.org/neighborhood-history",
+        "supports": "One-track streetcars; T-line southern terminus at Bayshore and Sunnydale"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-bufano-bear-sunnydale",
+    "title": "Bufano's bear at the Sunnydale projects",
+    "theme": "arts-counterculture",
+    "year": 1940,
+    "yearEnd": null,
+    "place": {
+      "label": "Sunnydale community center, about 1654 Sunnydale Avenue",
+      "lat": 37.71293,
+      "lon": -122.41821,
+      "precision": "building"
+    },
+    "hook": "Among the barracks-style blocks of Sunnydale stands a work by one of San Francisco's most famous sculptors: a growling bear above a woman's face.",
+    "story": "Beniamino 'Benny' Bufano's rounded, whimsical animals turn up all over San Francisco. One of them is at the Sunnydale public housing development. It stands in front of the community center at 1654 Sunnydale Avenue [1]. The piece shows a bear above a human head. One writer calls it 'Bear over the Head of Peace' and dates it to about 1935–1940 [1]. A July 2009 Nob Hill Gazette survey, quoted in the Grapevine, called it 'Bear and Virgin'. It described 'the head of a growling black bear over a woman's head, symbolizing peace' [2]. That article counted three Bufano works in San Francisco public housing projects [2]. Bufano was born in Italy in 1886, one of sixteen children, and his family emigrated to New York when he was three. He came to San Francisco in 1915 to assist a sculptor working on the Panama-Pacific Exposition [2]. A legend claimed he had cut off a finger and mailed it to President Wilson to protest the First World War. His wife said he had lost two finger joints to an electric saw [2]. Either way, the legend fixed his reputation as a lifelong pacifist [2]. Oddly, that date is earlier than Sunnydale itself, which the same writer says was built in the 1940s to house military personnel and their families [1].",
+    "people": [
+      {
+        "name": "Beniamino (Benny) Bufano",
+        "role": "sculptor (1886–1970)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Benny Bufano in the Sunnydale Projects",
+        "publisher": "Art and Architecture – San Francisco (artandarchitecture-sf.com)",
+        "year": 2012,
+        "url": "https://artandarchitecture-sf.com/benny-bufano-sunnydale-projects.html",
+        "supports": "Bear over the Head of Peace, c. 1935-1940, in front of the Sunnydale community center at 1654 Sunnydale; Sunnydale built in the 1940s for military families"
+      },
+      {
+        "title": "About Art in Visitacion Valley: The Life and Art of Benny Bufano (Betty Parshall, Grapevine, Jan. 2010, p. 9)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2010,
+        "url": "https://archive.org/details/visitacionvalley282unse",
+        "supports": "'Bear and Virgin' description quoted from Nob Hill Gazette, three works in public housing, biography, finger legend and wife's account"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-geneva-terrace-townhouses",
+    "title": "Eichler's brick townhouses, a little Pittsburgh",
+    "theme": "architecture-landmarks",
+    "year": 1965,
+    "yearEnd": 1966,
+    "place": {
+      "label": "Geneva Terrace townhouses, Schwerin Street at Velasco Avenue",
+      "lat": 37.70883,
+      "lon": -122.41236,
+      "precision": "block"
+    },
+    "hook": "California's best-known modernist builder came to the valley and built brick row houses with arched windows. One historian asked: 'Are we in Pittsburgh?'",
+    "story": "Joseph Eichler is famous for glass-walled, flat-roofed homes in the suburbs. In Visitacion Valley he built something quite different. Geneva Terrace, built in 1965 and 1966 around Sunnydale and Velasco avenues and Schwerin Street, is a set of two-storey townhouses. They were designed by the architect Claude Oakland with Kinji Imada [1][2]. Brick fronts, rows of arched windows and open carports give them what Heritage's Woody LaBounty called 'an East Coast feel'. 'Are we in Pittsburgh? Albany? Poughkeepsie?' he asked [1]. Each owner has a private rear patio, and the development shares open community space [1]. The houses were part of a larger landscape plan, matched by apartment towers [1]. Those were Eichler's Geneva Towers, which were later imploded [3]. One visiting blogger counted eight streets of identical two-storey, four-bedroom homes. With the ornamental bars on doors and windows, the blogger thought they felt like the French Quarter of New Orleans [2]. LaBounty sees the whole group as a possible historic district. That is harder to win than a single landmark, he notes, because so many owners would have to agree [1].",
+    "people": [
+      {
+        "name": "Joseph Eichler",
+        "role": "developer"
+      },
+      {
+        "name": "Claude Oakland",
+        "role": "architect"
+      },
+      {
+        "name": "Kinji Imada",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Candidates in Visitacion Valley",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/landmark-candidates-in-visitacion-valley/",
+        "supports": "Geneva Terrace, Eichler, Claude Oakland with Kinji Imada, 1965-66, brick and arched windows, patios, towers, historic district idea"
+      },
+      {
+        "title": "Geneva Terrace",
+        "publisher": "Art and Architecture – San Francisco (artandarchitecture-sf.com)",
+        "year": 2011,
+        "url": "https://artandarchitecture-sf.com/geneva-terrace-june-7-2011.html",
+        "supports": "Oakland design, eight streets, identical 2-storey 4-bedroom homes, New Orleans feel"
+      },
+      {
+        "title": "Visitacion Valley (Heritage in the Neighborhoods)",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "Eichler's brick-faced, arched-windowed townhouses along Sunnydale; Geneva Towers imploded 1998"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-valley-vision-mural",
+    "title": "'Valley Vision' on the library wall",
+    "theme": "arts-counterculture",
+    "year": 1987,
+    "yearEnd": null,
+    "place": {
+      "label": "'Valley Vision' mural, Desmond Street side of 37–45 Leland Avenue (former branch library)",
+      "lat": 37.71137,
+      "lon": -122.40474,
+      "precision": "building"
+    },
+    "hook": "In 1987 the neighbourhood shut Desmond Street to celebrate a mural that it had helped design, sketch by sketch, in the library window.",
+    "story": "The 1933 building at Leland Avenue and Desmond Street long housed the valley's branch library [1]. In the summer of 1987 muralist Jo Tucker began painting its Desmond Street wall. Two summer youth workers and an adult volunteer helped her [2][4]. Tucker was born in Barberton, Ohio, and worked as a community organiser in Boston. In San Francisco she joined a project protesting the air war in Vietnam; people there were painting a mural about the war, and that set her course [3]. 'Murals have to do with community,' she said. For the library wall she held meetings with staff and residents, then posted her sketches in the library window and changed them based on what people said. An airplane was added, and a cane went into one man's hand to raise awareness of disability. Community gardens were added when their land leases became an issue [3][4]. The finished 'Valley Vision' shows the valley's plants, animals, people, industries, shops and churches from the 1770s onward, up to the era when Geneva Towers dominated the skyline [4]. On November 7, 1987, Desmond Street was closed for a celebration planned by Anne Kaartunen, who had helped Tucker win grants [3][4]. By then Tucker had also led pupils in painting a mural of valley history in the Visitacion Valley Elementary schoolyard [2].",
+    "people": [
+      {
+        "name": "Jo Tucker",
+        "role": "muralist"
+      },
+      {
+        "name": "Anne Kaartunen",
+        "role": "mural coordinator"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nine Great Commercial Buildings on Leland Avenue",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/nine-great-commercial-buildings-on-leland-avenue/",
+        "supports": "37-45 Leland built 1933, housed the branch library for many years"
+      },
+      {
+        "title": "Name the Mural (A. Kaartunen, Visitacion Valley Grapevine, July 1987)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1987,
+        "url": "https://archive.org/details/visitacionvalley27unse",
+        "supports": "Mural about to be painted on library's Desmond St wall; school mural of valley history at Visitacion and Schwerin led by Jo Tucker"
+      },
+      {
+        "title": "Valley art muralist (Pat Christensen, Visitacion Valley Grapevine, Nov. 1987, pp. 1, 9)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1987,
+        "url": "https://archive.org/details/visitacionvalley211unse",
+        "supports": "Tucker biography, Vietnam air war mural, community design process, quotes"
+      },
+      {
+        "title": "A Valley with Vision (Betty Parshall and Russel Morine, Grapevine, Oct. 2009, p. 4)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2009,
+        "url": "https://archive.org/details/visitacionvalley279unse",
+        "supports": "Title 'Valley Vision', content, cane and gardens, Nov. 7 1987 celebration with Desmond St closed"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-whale-house-delta",
+    "title": "The whale house on Delta Street",
+    "theme": "arts-counterculture",
+    "year": 1991,
+    "yearEnd": null,
+    "place": {
+      "label": "The 'whale house', 150 Delta Street at Tioga Avenue",
+      "lat": 37.71698,
+      "lon": -122.40808,
+      "precision": "building"
+    },
+    "hook": "A huge blue whale swims across a hillside house on Delta Street. Behind the kitchen sheetrock, its owner found a brick room nobody can explain.",
+    "story": "Neighbours call 150 Delta Street, at Tioga Avenue, 'the whale house'. A mural dominated by a huge blue whale covers the side most visible from the street. The front and south walls are painted too [1]. The owner, the artist Opal Essence, wanted to honour an earlier resident: Dr. Blanche M. Baker, a psychiatrist who, in the 1950s, publicly challenged the belief that homosexuality was a mental illness [1][2]. Sources disagree on when Baker moved in and when Essence arrived [1][2]. Essence invited artist friends, and they painted over a weekend. Among them were Mars-1, Damon Soule, Amanda Sage and the graffiti artist Estria, who painted a 'universal goddess' on the south side [1]. Heritage dates the whale, which it calls Geistal, to 1991 [2]. Graffiti artists, Essence explained, 'work fast before they can be chased away' [1]. The house holds a second puzzle. When Essence pulled down her kitchen sheetrock, she found a room of aged brick with an arched opening, a fireplace and hand-hewn beams [2][3]. Records date the house to 1934, and a 1914 map shows an empty lot. A 1949 insurance map marks it as the only brick house for blocks. Nobody yet knows why [2].",
+    "people": [
+      {
+        "name": "Opal Essence",
+        "role": "artist and owner who commissioned the murals"
+      },
+      {
+        "name": "Estria",
+        "role": "graffiti artist"
+      },
+      {
+        "name": "Dr. Blanche M. Baker",
+        "role": "psychiatrist and former resident"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Fish Out of Water (Betty Parshall, Art in the Valley, Grapevine, Nov. 2009)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2009,
+        "url": "https://archive.org/details/visitacionvalley280unse",
+        "supports": "Whale mural, front and south walls, tribute to Baker, weekend painting, artists Mars-1, Damon Soule, Amanda Sage, Estria, quote on working fast"
+      },
+      {
+        "title": "Fun Friday: Visitacion Valley History Mysteries!",
+        "publisher": "San Francisco Heritage (Kerri Young)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/fun-friday-visitacion-valley-history-mysteries/",
+        "supports": "Opal Essence at 150 Delta, hidden brick room, 1934 construction, 1914 and 1949 Sanborn maps, Baker from 1953 per directories, whale painted 1991"
+      },
+      {
+        "title": "The Dynamic Doctor of the Whale House (Betty Parshall, Grapevine, Nov. 2009)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2009,
+        "url": "https://archive.org/details/visitacionvalley280unse",
+        "supports": "Brick central room with hand-hewn timbers and arched opening; Baker's residence dates as given by the Grapevine"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-greenway-hans-schiller-plaza",
+    "title": "Six water lots become a greenway",
+    "theme": "parks-nature",
+    "year": 2001,
+    "yearEnd": null,
+    "place": {
+      "label": "Hans Schiller Plaza, Visitacion Valley Greenway, Leland Avenue at Peabody Street",
+      "lat": 37.71203,
+      "lon": -122.4065,
+      "precision": "block"
+    },
+    "hook": "Six empty blocks of Water Department land ran through the valley. Neighbours and artists spent years turning them into a chain of gardens, one gate at a time.",
+    "story": "Six block-long parcels spill down the hillside through the heart of the valley. They are former Water Department land, left undeveloped [1][2]. In the 1990s neighbours organised the Visitacion Valley Greenway Project to turn them into parks. Getting permission to build on what was then a Public Utilities Commission easement took five years of negotiations [2][3]. The first site finished was Hans Schiller Plaza, at Leland and Peabody, which opened in March 2001 [3]. The Columbia Foundation paid for it in memory of Hans J. Schiller, a Bay Area architect and environmental activist whom Governor Jerry Brown had appointed to the Bay Conservation and Development Commission [3]. That May the new plaza held its first big event, 'Weaving Our Roots', a Native American celebration with Sámi and Diné (Navajo) dancing and drumming and jingle-dress dancing [4]. Artists shaped the whole greenway. Sculptor Fran Martin coordinated the project from 1994 and made its tile work and weir walls. Jim Growden, a sculptor in wood and steel, forged eight of its twelve signature gates [3]. A community garden followed in 2008, and the Greenway now serves as an outdoor classroom [1].",
+    "people": [
+      {
+        "name": "Fran Martin",
+        "role": "sculptor and Greenway project coordinator"
+      },
+      {
+        "name": "Jim Growden",
+        "role": "sculptor who made most of the gates"
+      },
+      {
+        "name": "Hans J. Schiller",
+        "role": "architect and environmentalist, the plaza's namesake"
+      },
+      {
+        "name": "Anne Seeman",
+        "role": "Greenway leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Welcome to Visitacion Valley Month / Getting to Know VV's Open Spaces",
+        "publisher": "San Francisco Heritage (Kerri Young)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/welcome-to-visitacion-valley-month-getting-to-know-vvs-open-spaces/",
+        "supports": "Six contiguous parks on former Water Department right-of-way, outdoor classroom, community garden completed 2008, Anne Seeman"
+      },
+      {
+        "title": "Valley Greenway Project Honored at City Summit (Grapevine, March 2006)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley236unse",
+        "supports": "Six blocks of undeveloped land under the Water Department; project history"
+      },
+      {
+        "title": "Hans Shiller Plaza",
+        "publisher": "Art and Architecture – San Francisco (artandarchitecture-sf.com)",
+        "year": 2014,
+        "url": "https://artandarchitecture-sf.com/hans-shiller-plaza.html",
+        "supports": "Opened March 2001 as first Greenway site, Columbia Foundation gift, Schiller biography, PUC easement and 5 years of negotiation, Fran Martin and Jim Growden roles"
+      },
+      {
+        "title": "Hans Schiller Plaza to Host Native American Cultural Celebration (Grapevine, May 2001)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2001,
+        "url": "https://archive.org/details/visitacionvalley165unse",
+        "supports": "May 5, 2001 'Weaving Our Roots' celebration at the new plaza, performers"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-street-life-parking-meters",
+    "title": "Parking meters sprouting like wheat",
+    "theme": "arts-counterculture",
+    "year": 2010,
+    "yearEnd": null,
+    "place": {
+      "label": "'Street Life' sculpture, Leland Avenue at Bayshore Boulevard",
+      "lat": 37.71115,
+      "lon": -122.40425,
+      "precision": "block"
+    },
+    "hook": "The gateway to 'downtown' Visitacion Valley is a grove of surplus city parking meters, painted orange and raised on tall, arching poles.",
+    "story": "In 2009, as the city redesigned Leland Avenue's streetscape, it set aside money for public art [1]. A panel of neighbours and arts professionals picked a proposal by Matthew Passmore and his artist group Rebar. Their plan was twenty poles topped with recycled parking meters, donated by the Municipal Transportation Agency [1]. The community saw the design at the branch library in September 2009, and the Arts Commission approved it on November 2 [2]. Among the panel's requests: make the meters more orange-red, so they wouldn't look like giant matchsticks [1]. According to the Arts Commission, the meters were meant to look as if they had grown to 'a whimsically tall height', like swaying grain. That nods to the valley's farming past and to the nearby Greenway [1][2]. The work, called 'Street Life', was slated for the corner of Leland and Bayshore, in front of the Shun Lee Market, and was standing there by 2011 [2][3]. Its budget was $35,000 in the planning documents; one later account put it at $38,000 [1][3]. 'The street furnishings of today may well be the art supplies of tomorrow,' Passmore said [3].",
+    "people": [
+      {
+        "name": "Matthew Passmore",
+        "role": "founder of the art and design group Rebar"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Leland Avenue Streetscape Improvement Project (Arts Commission minutes, Grapevine, Jan. 2010)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2010,
+        "url": "https://archive.org/details/visitacionvalley282unse",
+        "supports": "Panel selection of Passmore/Rebar, $35,000 budget, recycled meters from MTA, agricultural and Greenway inspiration, colour change to avoid 'matchsticks'"
+      },
+      {
+        "title": "Distinguished Art Downtown (Grapevine, March 2010)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2010,
+        "url": "https://archive.org/details/visitacionvalley284unse",
+        "supports": "'Street Life', recycled meter heads on 18-foot arching poles at Leland and Bayshore in front of Shun Lee Market; library viewing Sept. 2009; SFAC approval Nov. 2; 'swaying grain' quote"
+      },
+      {
+        "title": "Viscitation Valley – Rebar Art Consortium",
+        "publisher": "Art and Architecture – San Francisco (artandarchitecture-sf.com)",
+        "year": 2011,
+        "url": "https://artandarchitecture-sf.com/viscitation-valley-june-6-2011-rebar-art-consortium.html",
+        "supports": "Installed work described, dark orange meter heads, gateway to 'downtown', Passmore quote, $38,000"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-cora-street-farm",
+    "title": "Fifty horses on a gambler's street",
+    "theme": "gold-rush-victorian",
+    "year": 1902,
+    "yearEnd": null,
+    "place": {
+      "label": "Cora Street, Visitacion Valley",
+      "lat": 37.71164,
+      "lon": -122.40911,
+      "precision": "street"
+    },
+    "hook": "In 1902 a family built a house on weekends on a two-block road named, it was said, for a notorious Gold Rush gambler. Soon it held fifty horses.",
+    "story": "In 1902 Joseph Edelmann and Dorothy's uncles built a house in the valley on weekends. Dorothy's grandmother, Katherine Bergold, had bought seven $50 parcels along what soon became Cora Street [1]. With the grandmother's house nearby, the property kept up to 50 horses and was known in the family as 'the farm'. 'We never had a Christmas or New Years with less than 50 people,' Dorothy, later Mrs. Frandsen, remembered [1]. She went to one of the valley's first elementary schools, a shack at the foot of Cora Street, sitting on a wooden bucket [1]. Grapevine columnist Len Appiano wrote that the two-block street was named 'for a controversial Gold Rush gambler' [1]. The city's best-known gambler named Cora was Charles Cora. In 1856 the Vigilance Committee hanged him before a crowd of about 20,000 [3]. Neighbouring streets honour early officials. Appiano wrote that Burr Avenue is named for Ephraim Burr, the mayor who presided when city and county were consolidated in the 1850s, and Garrison Avenue for Mayor Cornelius Garrison, a shipbuilder elected six months after he arrived [2]. Streets could change names too: Delta Street was once Cowden Street [4].",
+    "people": [
+      {
+        "name": "Joseph Edelmann",
+        "role": "drayman who built the family house"
+      },
+      {
+        "name": "Katherine Bergold",
+        "role": "early lot buyer on Cora Street"
+      },
+      {
+        "name": "Dorothy Frandsen",
+        "role": "Edelmann's daughter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "When the Valley Was Young (Len Appiano, Visitacion Valley Grapevine, Aug. 1986)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1986,
+        "url": "https://archive.org/details/visitacionvalley01unse",
+        "supports": "Edelmann house built on weekends in 1902, seven $50 parcels, 50 horses, 'the farm', Christmas quote, school shack at the foot of Cora, street named for a Gold Rush gambler"
+      },
+      {
+        "title": "When the Valley Was Young: street names (Len Appiano, Grapevine, July 1987)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1987,
+        "url": "https://archive.org/details/visitacionvalley27unse",
+        "supports": "Burr Avenue for Ephraim Burr; Garrison Avenue for Cornelius Garrison"
+      },
+      {
+        "title": "Funeral of James King of William; Execution of Casey and Cora (1856)",
+        "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+        "year": 1856,
+        "url": "http://www.sfmuseum.org/hist6/corahang.html",
+        "supports": "Vigilance Committee hanged Casey and Cora before about 20,000 people"
+      },
+      {
+        "title": "Truly Remarkable Valley Homes (Betty Parshall, Grapevine, Jan. 2010)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2010,
+        "url": "https://archive.org/details/visitacionvalley282unse",
+        "supports": "Delta Street formerly named Cowden"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-selling-the-slopes-1926",
+    "title": "Where the wild poppies grew",
+    "theme": "architecture-landmarks",
+    "year": 1926,
+    "yearEnd": null,
+    "place": {
+      "label": "Wilde Avenue at Rutland Street (former Visitacion View Grocery, later KC Market)",
+      "lat": 37.71742,
+      "lon": -122.40543,
+      "precision": "block"
+    },
+    "hook": "A 1926 sales booklet promised paved streets and 'beautiful bungalows' on the valley's sunny hillside. The same year, a hilltop grocer opened at Wilde and Rutland.",
+    "story": "In 1926 the Visitacion Reis Tract Improvement Association published a booklet selling the valley's northern slopes. 'Where the wild poppies grew are paved streets, fire hydrants, high tension wires, and beautiful bungalows,' it boasted. It praised the tract's 'sunny southern exposure' and pointed buyers to the builders' ads [1]. Wilde Avenue was the tract's main paved street, and the booklet sold its transit links. At the Five Mile House, where Wilde met San Bruno Avenue and Third Street, residents could choose from three Market Street Railway lines [1]. Stucco subdivisions went on filling the hillsides around older farmhouses into the 1950s [3]. That same year, 1926, a store was built at the corner of Wilde Avenue and Rutland Street: the Visitacion View Grocery and Meat Market, phone RAndolph 4855 [2]. It became a lesson in how not to run a corner shop. The owner, Pete, refused a boy some carrots until his family's two-week-old tab was paid. Another day he yelled across the intersection at Parshall's mother, who was carrying groceries bought 'down the Valley'. Neither family went back [2]. Pete kept his business until retirement anyway, and the store, later the KC Market, lasted until 2008 [2].",
+    "people": [
+      {
+        "name": "Betty Parshall",
+        "role": "historian who grew up four doors from the store"
+      },
+      {
+        "name": "Harry Pierce",
+        "role": "oral history contributor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Great Housing Opportunity (Visitacion Valley History Project, Grapevine, March 2008)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2008,
+        "url": "https://archive.org/details/visitacionvalley260unse",
+        "supports": "1926 Reis Tract booklet quotes; Wilde Avenue principal paved street; three Market Street Railway cars at the Five Mile House"
+      },
+      {
+        "title": "Buying Groceries on the Hill (Betty Parshall, Grapevine, June 2008)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2008,
+        "url": "https://archive.org/details/visitacionvalley263unse",
+        "supports": "KC Market at Wilde and Rutland, built 1926 as Visitacion View Grocery and Meat Market, RAndolph 4855, anecdotes, closing reported the previous month"
+      },
+      {
+        "title": "Visitacion Valley (Heritage in the Neighborhoods)",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "Stucco subdivisions filled hillside slopes around older farmhouses from the 1920s to the 1950s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2q-sp-shops-boom",
+    "title": "'Pay after the war': the railroad shop boom",
+    "theme": "labor-industry",
+    "year": 1917,
+    "yearEnd": null,
+    "place": {
+      "label": "Bayshore Boulevard near Sunnydale Avenue, facing the former Southern Pacific Bayshore yard",
+      "lat": 37.70952,
+      "lon": -122.40518,
+      "precision": "street"
+    },
+    "hook": "In 1917 a downtown realtor promised that $70 cash for a lot facing the new Southern Pacific shops would soon be worth thousands.",
+    "story": "In 1907 the Southern Pacific laid its 'Bayshore cutoff' across bay fill at the valley's edge. Soon afterwards it built an enormous rail yard and shop complex that cut the first valley streets off from the bay [1]. The Grapevine's Matthew Brady put the complex at $2,300,000 and 260 acres. Heritage says it sprawled over more than 200 acres [1][2]. It became the main maintenance centre for the company's Coast Division and employed hundreds of workers, many of whom lived in the valley [1]. Speculators moved in early. In 1917 J. W. Wright & Co. of 228 Montgomery Street advertised: 'Where S.P. shops are building – secure a business location now. Pay after the war if you want to' [2]. The ad promised that 'thousands of high-priced skilled artisans' would work at the shops. A $700 lot facing them, it said, would soon be 'worth thousands', and '$70 cash secures today a car-line business location' [2]. For decades the yards hemmed in the valley [3]. Before the century closed, though, train maintenance and storage had moved elsewhere, and the Southern Pacific was gone from the valley [1].",
+    "people": [
+      {
+        "name": "J. W. Wright & Co.",
+        "role": "real estate firm, 228 Montgomery Street"
+      },
+      {
+        "name": "Matthew Brady",
+        "role": "Grapevine history writer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Valley of Windmills…and Trains and Locks",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/valley-of-windmills-and-trains-and-locks/",
+        "supports": "1907 Bayshore cutoff, 200+ acre yard and shops, Coast Division maintenance centre, hundreds of employees living in the valley, SP gone before 2000"
+      },
+      {
+        "title": "When railroad and industry arrived (Matthew Brady, Grapevine, Jan. 1989, p. 3)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1989,
+        "url": "https://archive.org/details/visitacionvalley41unse",
+        "supports": "$2,300,000 complex, 260 acres, 1917 J. W. Wright & Co. advertisement text"
+      },
+      {
+        "title": "Visitacion Valley (Heritage in the Neighborhoods)",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "Maintenance yards of the Southern Pacific hemming in the valley"
+      }
+    ],
+    "photo": null
+  }
+]

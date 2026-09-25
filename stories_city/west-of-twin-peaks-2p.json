@@ -1,0 +1,787 @@
+[
+  {
+    "id": "west-of-twin-peaks-2p-ocean-house-school",
+    "title": "A one-room school on the Ocean House Road",
+    "theme": "gold-rush-victorian",
+    "year": 1865,
+    "yearEnd": 1922,
+    "place": {
+      "label": "Commodore Sloat Elementary School, Ocean Avenue at Junipero Serra Boulevard (site of the 1865 Ocean House School)",
+      "lat": 37.731735,
+      "lon": -122.470932,
+      "precision": "block"
+    },
+    "hook": "For nearly fifty years, one teacher and one stove served children from second to tenth grade at a remote outpost. Later, a future Broadway star found her calling here.",
+    "story": "In 1865 San Francisco opened a school in a rented building on the Ocean House Road, today's Ocean Avenue, near what is now Junipero Serra Boulevard. It was, as the Western Neighborhoods Project puts it, a remote outpost of education: one room, one teacher, one stove, and anywhere from 12 to 67 pupils sharing a handful of desks. Mixed classes from second to tenth grade learned together there for almost fifty years [1]. The old road, lined with scattered bars and roadhouses, ran right past the schoolhouse [2]. Around 1911 the school grew slightly and became the first Paul Revere School. After the Twin Peaks Tunnel opened in 1918 and houses began to replace Sutro's forest, the district planned a large modern building named for Commodore John Sloat. It was finished in 1922 and almost completely rebuilt in the 1970s [1]. One of its pupils was Carol Channing. At seven, nominated for class secretary, she stood frozen on the auditorium stage, knees shaking. Then, she later told the Chronicle, she thought: \"I'll do what I do best. I'll turn into somebody else.\" She did an impression of the principal, Miss Berard, and was hooked on the stage for life [3].",
+    "people": [
+      {
+        "name": "Carol Channing",
+        "role": "pupil, later Broadway star"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Commodore Sloat School",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/commodore-sloat.php",
+        "supports": "1865 Ocean House School, one room and stove, 12-67 students, Paul Revere School c.1911, new building completed 1922, 1970s rebuild"
+      },
+      {
+        "title": "Balboa Terrace",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/balboa-terrace.php",
+        "supports": "Ocean Road's bars and roadhouses ran past the schoolhouse, now Commodore Sloat Elementary"
+      },
+      {
+        "title": "Carol Channing revisits San Francisco youth",
+        "publisher": "San Francisco Chronicle / SFGATE (Steven Winn)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/performance/article/Carol-Channing-revisits-San-Francisco-youth-3268485.php",
+        "supports": "Channing attended Commodore Sloat; age-7 election assembly where she mimicked principal Miss Berard"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-italian-truck-farms",
+    "title": "Genoese gardeners on Sutro's flatlands",
+    "theme": "communities",
+    "year": 1900,
+    "yearEnd": 1915,
+    "place": {
+      "label": "West Portal Avenue near Vicente Street (Sutro's farm leases between Portola, Kensington, Taraval and Wawona)",
+      "lat": 37.739618,
+      "lon": -122.467371,
+      "precision": "area"
+    },
+    "hook": "Before West Portal had a shopping street, Italian families grew vegetables here and drove them by wagon to the market downtown, three to four hours each way.",
+    "story": "Adolph Sutro covered most of his Rancho San Miguel with trees, but the flat land that became West Portal he rented to Italian vegetable farmers [1][2]. Many early Italian immigrants came from the farm country around Genoa. Once they realized they wouldn't strike it rich in the gold fields, they saw money in feeding the boomtown instead [1]. Four families, the Aratas, Bottinis, DeMartinis and Lagomarsinos, farmed Sutro's land between today's Portola Drive, Kensington Way, Taraval Street and Wawona Street for decades spanning two centuries. Early each morning they loaded their wagons and made the three-to-four-hour trip to the Colombo Market on Davis Street, the city's produce exchange [1]. An old-timer named Wollenberg remembered Louis Lagomarsino coming every day with a horse-drawn wagon loaded with vegetables for the Relief Home, today's Laguna Honda Hospital [1]. Just south, around today's St. Francis Circle, Giuseppe Merlo's family farmed until 1915, when the land was sold for development. They found work cutting down trees to build Forest Hill [1]. After the tunnel opened, Fernando Nelson turned the fields into West Portal [2].",
+    "people": [
+      {
+        "name": "Louis Lagomarsino",
+        "role": "vegetable farmer"
+      },
+      {
+        "name": "Giuseppe Merlo",
+        "role": "farmer near today's St. Francis Circle"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Farms, Fire and Forest: Adolph Sutro and Development 'West of Twin Peaks' (page 3)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), orig. The Argonaut (Richard Brandi)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/forest-fires3.php",
+        "supports": "Italian tenant farmers, four families, boundaries, Colombo Market trips, Wollenberg memory, Merlo farm sold 1915"
+      },
+      {
+        "title": "West Portal (Historical Essay by Richard Brandi)",
+        "publisher": "FoundSF",
+        "year": 2003,
+        "url": "https://www.foundsf.org/index.php?title=West_Portal",
+        "supports": "Sutro rented the flat West Portal land to Italian vegetable farmers; Fernando Nelson developed West Portal"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-buried-creek",
+    "title": "The creek the tunnel buried",
+    "theme": "parks-nature",
+    "year": 1914,
+    "yearEnd": 1938,
+    "place": {
+      "label": "Wawona Street near 15th Avenue, below West Portal (line of the old creek ravine)",
+      "lat": 37.73805,
+      "lon": -122.4715,
+      "precision": "street"
+    },
+    "hook": "A nameless creek once ran from Edgehill past West Portal toward Pine Lake. Its ravine was filled with Twin Peaks Tunnel rubble, but the water still finds its way.",
+    "story": "A creek nobody seems to have named once drained this part of the west side. Western Neighborhoods Project historians think it started near Edgehill and ran down through what became West Portal toward Stern Grove and Pine Lake [2]. It cut a ravine along present-day Wawona, and the Merlo family's farm lay beside it. Between 1914 and 1917 the ravine was filled with 250,000 cubic yards of earth dug out of the Twin Peaks Tunnel. In 2002 a neighbor on the 200 block of Wawona said sinkholes still opened now and then [1]. When St. Francis Circle was being planned, landscape designers proposed looping the streetcar tracks around the creek so riders could look down on it. City Engineer M. M. O'Shaughnessy turned the idea down [2]. The water hasn't forgotten its old route. On February 14, 1938, after 18 days of rain, the low ground around Wawona and 15th Avenue flooded. Shortly before 2013 a broken water main in the same basin flooded houses about three feet deep [2]. A deep, still-wooded stretch of the old gully survives behind Arden Wood and Sloat Boulevard [2].",
+    "people": [
+      {
+        "name": "Michael M. O'Shaughnessy",
+        "role": "City Engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Farms, Fire and Forest (page 3, note 44)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) (Richard Brandi)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/forest-fires3.php",
+        "supports": "ravine along Wawona behind Ardenwood into Stern Grove and Pine Lake, filled with 250,000 cubic yards of tunnel spoil 1914-1917, sinkholes"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 9: West Portal Creek (transcript)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2013,
+        "url": "https://www.outsidelands.org/podcast/WNP9_WestPortalCreek",
+        "supports": "creek route from Edgehill, St. Francis Circle streetcar loop idea rejected by O'Shaughnessy, 1938 Valentine's Day flood after 18 days of rain, recent water-main flood, gully behind Ardenwood"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-forest-hill-station",
+    "title": "A subway stop paid for in house lots",
+    "theme": "architecture-landmarks",
+    "year": 1918,
+    "yearEnd": null,
+    "place": {
+      "label": "Forest Hill (originally Laguna Honda) Muni Station, 390 Laguna Honda Boulevard",
+      "lat": 37.74803,
+      "lon": -122.45914,
+      "precision": "building"
+    },
+    "hook": "A developer gave the city 21 building lots so its new suburb would get a subway stop. The station, deep under the hill, is now a city landmark.",
+    "story": "In October 1912 the Newell-Murdoch Company, which was cutting Forest Hill out of Sutro's forest, deeded 21 building lots to the city free of charge for a station on the planned Twin Peaks Tunnel. Like other developers of the Sutro lands, it was betting that a quick commute downtown would set off a boom in sales [1]. Engineer Bion Arnold's original plan gave the stop simple classical portals rather than a large building [2]. What opened with the tunnel in 1918, under the name Laguna Honda Station, has a headhouse mixing Mission and Neoclassical styles. Its construction was overseen by City Engineer Michael O'Shaughnessy, who was also building the Hetch Hetchy water system [3]. The Western Neighborhoods Project calls it the oldest subway station in North America west of Chicago and Muni's deepest underground [2]. In the 1950s, at the height of the Cold War, someone proposed building a vault inside the station to protect city records from nuclear attack [2]. Renamed Forest Hill, it became San Francisco Landmark No. 231, recognized for its role in opening the West of Twin Peaks residence parks [3].",
+    "people": [
+      {
+        "name": "Michael M. O'Shaughnessy",
+        "role": "City Engineer"
+      },
+      {
+        "name": "Bion Arnold",
+        "role": "engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Forest Hill",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/forest-hill.php",
+        "supports": "Newell-Murdoch deeded 21 lots in October 1912 for the Laguna Honda subway station; betting on the tunnel"
+      },
+      {
+        "title": "Forest Hill Station",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/forest-hill-station.php",
+        "supports": "Bion Arnold's original design, oldest subway station west of Chicago, deepest Muni station, 1950s nuclear-proof records vault proposal"
+      },
+      {
+        "title": "San Francisco Landmark 231: Laguna Honda Station",
+        "publisher": "NoeHill in San Francisco (adapted from 2004 landmark designation application)",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/sf231.asp",
+        "supports": "opened 1918, Mission and Neoclassical styles, O'Shaughnessy oversaw construction, importance to residence parks"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-sunnyside-avenue-renamed",
+    "title": "The fight over Sunnyside Avenue's name",
+    "theme": "communities",
+    "year": 1921,
+    "yearEnd": 1929,
+    "place": {
+      "label": "Monterey Boulevard (formerly Sunnyside Avenue) at Ridgewood Avenue (formerly Hamburg Street)",
+      "lat": 37.731791,
+      "lon": -122.453573,
+      "precision": "street"
+    },
+    "hook": "Wealthy new neighbors didn't want 'Sunnyside' running past their homes, or a street named Hamburg at their gates. City Hall took their side.",
+    "story": "When Behrend Joost laid out Sunnyside in 1891, he named its streets in alphabetical order from east to west, from Acadia to Hamburg, and named several cross streets after individuals, himself included [1][2]. The main road was Sunnyside Avenue. A 1912 survey of Adolph Sutro's estate photographed the spot where it was to be extended west through the old rancho, and it was [3]. As Westwood Park, Westwood Highlands and St. Francis Wood went up along the extension, their developers and early residents didn't like Sunnyside Avenue running through their tracts, so they petitioned City Hall to rename it. According to Sunnyside historian Thomas Malim, Sunnyside residents led by Ernest Van Beck, owner of the Sunnyside Conservatory, fought to keep the name. But \"the wealthy residents of those areas had more friends in City Hall.\" By 1921 the street was Monterey Boulevard [2]. Around 1929 the two Westwoods won again: Hamburg Street, named for a city in Joost's native Germany, became Ridgewood Avenue. Malim wrote that the old name \"wasn't germane\" to the posts marking the entrances to the two Westwoods [2]. Other names were changed too: Spreckels became Staples, and Moulton became Hearst [2].",
+    "people": [
+      {
+        "name": "Behrend Joost",
+        "role": "developer of Sunnyside"
+      },
+      {
+        "name": "Ernest Van Beck",
+        "role": "Sunnyside Conservatory owner who opposed the renaming"
+      },
+      {
+        "name": "Thomas Malim",
+        "role": "Sunnyside historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sunnyside District",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/sunnyside-district.php",
+        "supports": "alphabetical street names Acadia to Hamburg, Hamburg later changed to Ridgewood, cross streets named for individuals including Joost"
+      },
+      {
+        "title": "Sunnyside (Historical Essay by Jacqueline Proctor, quoting Thomas Malim)",
+        "publisher": "FoundSF",
+        "year": 2014,
+        "url": "https://www.foundsf.org/index.php?title=Sunnyside",
+        "supports": "1920 petition to rename Sunnyside Avenue, Van Beck's opposition, 'more friends in City Hall', Monterey Boulevard by 1921, Hamburg to Ridgewood around 1929, Spreckels/Staples and Moulton/Hearst"
+      },
+      {
+        "title": "Sunnyside/Monterey Boulevard (A.S. Baldwin survey photo)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/monterey_blvd.php",
+        "supports": "projected extension of Sunnyside Avenue through the San Miguel Ranch; renamed Monterey Boulevard"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-chronicle-wonder-bungalow",
+    "title": "A bungalow won with newspaper subscriptions",
+    "theme": "architecture-landmarks",
+    "year": 1922,
+    "yearEnd": null,
+    "place": {
+      "label": "The 'Chronicle House', 598 Miramar Avenue, Westwood Park",
+      "lat": 37.727434,
+      "lon": -122.457879,
+      "precision": "building"
+    },
+    "hook": "In 1922 the Chronicle ran a subscription contest with gold coins and cars as prizes. The grand prize was this Westwood Park bungalow, built while readers followed along.",
+    "story": "In 1922 the San Francisco Chronicle launched a complicated contest to raise its circulation. Readers nominated neighbors, relatives, friends and business associates on subscription forms, and the top vote-getters won gold coins and new automobiles [1]. The grand prize was a $12,000 bungalow at 598 Miramar Avenue, built by Nelson Brothers over the three months of the contest. The paper reported on its \"Wonder Bungalow\" almost daily. That was free publicity for the builders, for architect Charles F. Strothoff, and for every contractor who took out ads to promote their plumbing or electrical work on it [1]. The house fit right into Westwood Park: Strothoff designed nearly 500 of the tract's 650 homes, Nelson Brothers built about 350, and most went up between 1918 and 1923 [2]. The winner was Russell Terrell Wilson, a Palo Alto businessman with a wife and two children. In early April 1922 the family took a well-publicized first tour of their new home as photographers clicked away [1]. Decades later, an owner who had lived there for fifteen years learned the story only when a Nelson Brothers descendant sent photos to the Westwood Park Association [1].",
+    "people": [
+      {
+        "name": "Russell Terrell Wilson",
+        "role": "contest winner"
+      },
+      {
+        "name": "Charles F. Strothoff",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The 'Chronicle House'",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/chronicle-house.php",
+        "supports": "1922 Chronicle contest, prizes, $12,000 bungalow at 598 Miramar by Nelson Brothers, Strothoff, near-daily coverage, winner Russell Terrell Wilson, April 1922 tour"
+      },
+      {
+        "title": "Westwood Park (history by the Westwood Park Association)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/westwoodpark.php",
+        "supports": "Strothoff designed nearly 500 of 650 houses, Nelson Brothers built about 350, mostly 1918-1923"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-portal-theatre",
+    "title": "West Portal's movie house, by a bridge architect",
+    "theme": "arts-counterculture",
+    "year": 1925,
+    "yearEnd": null,
+    "place": {
+      "label": "Portal Theatre (later the Empire), 85 West Portal Avenue",
+      "lat": 37.739766,
+      "lon": -122.466309,
+      "precision": "building"
+    },
+    "hook": "West Portal's movie theater opened the day after Christmas 1925. Its architect and his wife are credited with the Golden Gate Bridge's Moderne look.",
+    "story": "The Portal Theatre opened at 85 West Portal Avenue on December 26, 1925, as the streetcar suburb filled in around the new Twin Peaks Tunnel [1]. Local architect Irving Morrow, of Morrow & Garren, drew up plans in 1923 for the theater and a block of shops. His first design had a more open entry courtyard, but much of the plan, including its Moorish style, was carried out [1]. Historian Richard Brandi calls it the one notable architectural exception on West Portal Avenue, an imposing Mediterranean-style movie house until much of its original detailing was stripped away in later years [2]. Morrow went on to become consulting architect for the Golden Gate Bridge, and he and his wife, Gertrude Comfort Morrow, are credited with the bridge's Moderne detailing [2]. The Portal was renamed the Empire when it reopened on October 1, 1936. In 1974 its single screen was split into three, and in the 21st century it was promoted as \"CinéArts at the Empire\" [1]. For generations it was the neighborhood's movie house, until it closed its doors [3].",
+    "people": [
+      {
+        "name": "Irving Morrow",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "West Portal History Walk: Empire Cinema (formerly the Portal Theatre)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2014,
+        "url": "https://www.outsidelands.org/wp10.php",
+        "supports": "opened December 26, 1925; Morrow & Garren 1923 plan, Moorish style; renamed Empire October 1, 1936; tripled 1974; CinéArts"
+      },
+      {
+        "title": "West Portal (Historical Essay by Richard Brandi)",
+        "publisher": "FoundSF",
+        "year": 2003,
+        "url": "https://www.foundsf.org/index.php?title=West_Portal",
+        "supports": "notable architectural exception, Mediterranean style stripped later; Morrow consulting architect of Golden Gate Bridge with his wife"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 588: Empire Theater",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2026,
+        "url": "https://www.outsidelands.org/podcast/WNP588_The_Empire_Theater",
+        "supports": "role in the neighborhood for generations before closing its doors"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-sunnyside-bootleggers",
+    "title": "Sunnyside, a bootlegger's paradise",
+    "theme": "labor-industry",
+    "year": 1920,
+    "yearEnd": 1933,
+    "place": {
+      "label": "Sunnyside district, around Gennessee Street",
+      "lat": 37.729741,
+      "lon": -122.45141,
+      "precision": "area"
+    },
+    "hook": "During Prohibition, stills bubbled in empty Sunnyside houses. When one blew up, neighbors rushed in and carried off everything, once including a hot stove with dinner still on it.",
+    "story": "Sparsely settled and somewhat isolated from the city, Sunnyside became what local historian Thomas Malim called \"a Bootlegger's paradise\" once Prohibition began. Men in dark suits and borsalino hats rented vacant houses well away from their neighbors and set up stills in basements and empty bedrooms. The air, Malim wrote, grew \"redolent with the odors of fermenting corn\" [1]. Sometimes an operator got carried away tasting his own product and forgot to watch the boiler. The explosion sent the bootleggers running, and the boom was a signal for everyone nearby to rush in and carry away anything not screwed down. Malim passed on a rumor that two men once came with a pile of wet gunnysacks and hauled off the hot stove, with the evening meal still cooking on it [1]. On Saturday nights, he wrote, local grocers kept pints tucked into their bean and rice sacks, sold for four bits [1]. All of this went on near the county House of Correction, which stood on today's City College land until 1935 [1]. Up the hill in Miraloma Park, a Rockdale Drive man ran a whisky still in his basement until PG&E traced a nightly surge in gas use to his house. Police broke up the still and dumped the mash in his backyard [2].",
+    "people": [
+      {
+        "name": "Thomas Malim",
+        "role": "Sunnyside historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sunnyside (Historical Essay by Jacqueline Proctor, quoting Thomas Malim)",
+        "publisher": "FoundSF",
+        "year": 2014,
+        "url": "https://www.foundsf.org/index.php?title=Sunnyside",
+        "supports": "bootlegger's paradise, stills, explosions and looting, stove rumor, grocers' bean sacks, House of Correction until 1935"
+      },
+      {
+        "title": "Miraloma Park (history by Rosalie Kuwatch, 1984)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/miraloma-park.php",
+        "supports": "Rockdale Drive basement whisky still traced by PG&E gas use; police dumped the mash"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-studio-house-of-stone",
+    "title": "A medieval stone cottage to sell a suburb",
+    "theme": "architecture-landmarks",
+    "year": 1927,
+    "yearEnd": null,
+    "place": {
+      "label": "'Studio House of Stone', 400 Castenada Avenue, Forest Hill",
+      "lat": 37.745871,
+      "lon": -122.465974,
+      "precision": "building"
+    },
+    "hook": "When Forest Hill's lots sat empty, a realty firm built a stone cottage straight out of the Middle Ages and invited the public in. It said thousands came.",
+    "story": "Forest Hill's first developer, Newell-Murdoch, promised \"a country home within the city,\" but sales stalled, and in 1918 the residents took over management of the tract [1][2]. Most of the homes built in the 1920s and 30s were sold by the Lang Realty Company [2], and it relied on gimmicks [1]. In 1926 Lang teamed up with the San Francisco Chronicle and home-furnishing companies on a \"San Francisco Model Home\" at 90 Lopez Avenue, supposedly for \"educational purposes in better homecraft.\" The paper praised everything from the roof tiles to the Frigidaire, which \"unlike an ice box\" had \"no drain pan to empty and no ice delivery to worry about\" [1]. The next year Lang opened the \"Studio House of Stone\" at 400 Castenada Avenue. The company claimed thousands visited the free exhibit, \"enthusiastic in their praise of the quaint, medieval atmosphere that pervades every room\" [1]. The Western Neighborhoods Project calls it Forest Hill's most popular destination of 1927 [3]. When historian Woody LaBounty walked past in 2003, he found it looked \"just as medieval and stoney today\" [1].",
+    "people": [
+      {
+        "name": "Lang Realty Company",
+        "role": "developer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Imagination Country: Forest Hill (Streetwise, Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/sw22.php",
+        "supports": "'country home within the city', Lang gimmicks, 1926 Model Home at 90 Lopez, Frigidaire quote, 1927 Studio House of Stone at 400 Castenada, thousands of visitors"
+      },
+      {
+        "title": "Forest Hill",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/forest-hill.php",
+        "supports": "residents took over the tract in 1918; Lang Realty built and sold most homes in the 1920s and 30s"
+      },
+      {
+        "title": "House of Stone (SF West History Minute)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/historyminute/1265833015/HouseOfStone",
+        "supports": "in 1927 the house was the most popular destination in Forest Hill"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-casa-emydio-raffle",
+    "title": "The parish that raffled off a house",
+    "theme": "communities",
+    "year": 1927,
+    "yearEnd": null,
+    "place": {
+      "label": "'Casa Emydio', 245 Brentwood Avenue, Monterey Heights",
+      "lat": 37.732789,
+      "lon": -122.459404,
+      "precision": "building"
+    },
+    "hook": "To raise $130,000 for a new church, a pastor built and furnished a Spanish-style bungalow on Mount Davidson's slope, then raffled it off at a Civic Auditorium ball.",
+    "story": "St. Emydius parish needed $130,000 to build its present church, and the pastor came up with an unusual way to raise it: raffle off a brand-new house [1]. The parish bought a lot at 245 Brentwood Avenue in Monterey Heights, a small neighborhood on the south slope of Mount Davidson, and built a Spanish-style bungalow called \"Casa Emydio,\" complete with furniture [1]. Mayor James Rolph came to its dedication on September 18, 1927, and the drawing was held at a ball in the Civic Auditorium on December 15. The fundraiser was a notable success [1]. Monterey Heights was a well-heeled place to win a house. Its first custom homes, built in the 1920s, were as large and fine as those next door in St. Francis Wood. Harold G. Stoner designed many of them, including a Tudor at 225 Maywood in 1929. Building stopped during the Depression and only resumed in 1938 [1]. The Western Neighborhoods Project counts bootleggers and raffles among the neighborhood's stories, and a sign for a Chronicle model home stood on Monterey Boulevard in 1928 [2].",
+    "people": [
+      {
+        "name": "James Rolph",
+        "role": "Mayor of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Monterey Heights (Jacqueline Proctor, courtesy Ken Hoegger)",
+        "publisher": "Mt. Davidson (mtdavidson.org)",
+        "year": 2014,
+        "url": "https://mtdavidson.org/monterey-heights/",
+        "supports": "$130,000 for St. Emydius Church, Casa Emydio at 245 Brentwood, Rolph at September 18 dedication, December 15, 1927 raffle at Civic Auditorium ball; 1920s homes, Stoner, building halted until 1938"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 299: Monterey Heights",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2018,
+        "url": "https://www.outsidelands.org/podcast/WNP299_Monterey_Heights",
+        "supports": "neighborhood stories include bootleggers and raffles; 1928 photo with sign to Chronicle Model Home"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-aptos-sweethearts",
+    "title": "Junior high sweethearts, married at 82",
+    "theme": "arts-counterculture",
+    "year": 1931,
+    "yearEnd": 2003,
+    "place": {
+      "label": "Aptos Middle School (formerly Aptos Junior High), 105 Aptos Avenue",
+      "lat": 37.729766,
+      "lon": -122.466259,
+      "precision": "building"
+    },
+    "hook": "Carol Channing fell for the leader of the Aptos Junior High band in the early 1930s. Six decades later, they married.",
+    "story": "Aptos Junior High was built in 1931 at 105 Aptos Avenue to serve the families filling the new West of Twin Peaks neighborhoods [1]. In 1932 the secretary of its seventh grade was Carol Channing, the only child of a newspaperman who became a leader in the Christian Science church [1][2]. When she ran for student-body vice president, she joined the school band because she needed it for her campaign song. \"The leader of the school band was Harry Kullijian,\" she wrote in her 2002 memoir. \"I was so in love with Harry I couldn't stop hugging him\" [1]. A school plaque from 1936–37 carries both their names; each won the best all-around student award, in successive years. He was a class ahead of her. \"That was something,\" she said, \"to go with a guy a year ahead of you in school\" [2]. Life pulled them apart. She became the star of \"Hello, Dolly!\" and they did not see each other for more than sixty years [2]. In May 2003, at 82, she married him [1][2]. In 2008 the couple came back to Aptos, where she pointed out her old home-room window [2].",
+    "people": [
+      {
+        "name": "Carol Channing",
+        "role": "student, later Broadway star"
+      },
+      {
+        "name": "Harry Kullijian",
+        "role": "band leader and her future husband"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Great Depression and Public Works Projects (Jacqueline Proctor)",
+        "publisher": "Mt. Davidson (mtdavidson.org)",
+        "year": 2014,
+        "url": "https://mtdavidson.org/great-depression/",
+        "supports": "Aptos built 1931 at 105 Aptos; Channing seventh-grade secretary 1932; memoir quote about band leader Harry Kullijian; married May 2003 at 82"
+      },
+      {
+        "title": "Carol Channing revisits San Francisco youth",
+        "publisher": "San Francisco Chronicle / SFGATE (Steven Winn)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/performance/article/Carol-Channing-revisits-San-Francisco-youth-3268485.php",
+        "supports": "father's career, 1936-37 plaque and best all-around student awards, quote, 60 years apart, married 2003, 2008 visit to Aptos"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-cowell-house",
+    "title": "A modernist salon for 'ultra-modern' music",
+    "theme": "lgbtq",
+    "year": 1933,
+    "yearEnd": 1942,
+    "place": {
+      "label": "Cowell House, 171 San Marcos Avenue, Forest Hill (SF Landmark #270)",
+      "lat": 37.746604,
+      "lon": -122.465174,
+      "precision": "building"
+    },
+    "hook": "A professor built one of San Francisco's first modern houses so her stepson, a radical composer, could perform in the living room. Three years later he was in San Quentin.",
+    "story": "In 1933 Olive Thompson Cowell, who taught international relations at San Francisco State, commissioned a four-story house on a steep lot at 171 San Marcos Avenue [1][2]. It was designed by Irving and Gertrude Comfort Morrow and may be the first modern single-family house built in the city [2]. The house was built around music. Olive's stepson, Henry Cowell, was an \"ultra modern\" composer known for tone clusters and for playing directly on a piano's strings. The living room was lined with an insulating board called Celoflex and fitted with fiber-covered cabinets to improve the acoustics for his recitals and his New Music Society [1]. Composer Lou Harrison remembered Olive keeping an old-fashioned salon: \"Schoenberg was there. There was always some music\" [1]. In 1936 Henry was arrested in Menlo Park and charged over consensual sex with a 17-year-old boy. He pleaded guilty and was sentenced to 15 years in San Quentin. The city's designation report links the harsh sentence to the institutionalized homophobia of the 1930s [1]. Olive collected at least 87 testimonials on his behalf. He was released early in 1940 and pardoned in 1942 [1]. She lived in the house until her death in 1984 [1].",
+    "people": [
+      {
+        "name": "Olive Thompson Cowell",
+        "role": "owner, professor and salon host"
+      },
+      {
+        "name": "Henry Cowell",
+        "role": "composer"
+      },
+      {
+        "name": "Irving and Gertrude Comfort Morrow",
+        "role": "architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cowell House Landmark Designation Report (171 San Marcos Ave, case 2011.0685L)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2012,
+        "url": "https://commissions.sfplanning.org/hpcpackets/2011.0685L_171%20San%20Marcos%20Ave.pdf",
+        "supports": "Olive's career, acoustics and Celoflex, New Music Society, Lou Harrison quote, 1936 arrest, sentence and homophobia, 87 testimonials, 1940 release, 1942 pardon, Olive lived there until 1984"
+      },
+      {
+        "title": "San Francisco Landmark 270: Cowell House",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf270.asp",
+        "supports": "built 1933 by Morrow & Morrow; possibly first modern single-family house in SF; four stories on steep site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-balboa-reservoir",
+    "title": "The reservoir that never held water",
+    "theme": "modern-city",
+    "year": 1933,
+    "yearEnd": 2020,
+    "place": {
+      "label": "Balboa Reservoir, west of Frida Kahlo Way near Ocean Avenue",
+      "lat": 37.7265,
+      "lon": -122.4555,
+      "precision": "area"
+    },
+    "hook": "Depression-era crews dug a reservoir across from City College, and it was never filled. For decades it held parked cars instead, until the city decided to fill it with homes.",
+    "story": "In 1933 Depression-era public works crews dug a reservoir in Balboa Park, below Mount Davidson, that would never hold water [1]. It is one of two reservoirs across from City College that ended up used for parking rather than water. The Western Neighborhoods Project took up the question of why with researcher Amy O'Hair [2]. The site served the college in other ways: a photo from around 1964 shows students crowding around to watch a police safety demonstration there, as a man measures a squad car's skid marks [2]. The land remained city property, owned by the Public Utilities Commission. In 2009 the Balboa Park Station Area Plan called for homes and open space on the site if the water department didn't need it, and in 2014 it became one of the first sites in the city's Public Land for Housing Program [3]. After years of community meetings, the Board of Supervisors approved a development agreement in August 2020, and Mayor London Breed signed it on August 28 [3]. The plan calls for about 1,100 homes, half of them affordable, including 150 for educators, a childcare center and about four acres of open space [3].",
+    "people": [
+      {
+        "name": "London Breed",
+        "role": "Mayor of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Great Depression and Public Works Projects (Jacqueline Proctor)",
+        "publisher": "Mt. Davidson (mtdavidson.org)",
+        "year": 2014,
+        "url": "https://mtdavidson.org/great-depression/",
+        "supports": "1933 labor-intensive construction of a reservoir in Balboa Park that would never hold water"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 278: Balboa Reservoirs",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2018,
+        "url": "https://www.outsidelands.org/podcast/WNP278_Balboa_Reservoirs",
+        "supports": "two reservoirs across from City College used for parking, researcher Amy O'Hair, c.1964 police demonstration photo"
+      },
+      {
+        "title": "Balboa Reservoir and Community Advisory Committee",
+        "publisher": "San Francisco Planning",
+        "year": 2020,
+        "url": "https://sfplanning.org/balboa-reservoir",
+        "supports": "SFPUC ownership, 2009 area plan, 2014 Public Land for Housing, August 2020 approvals, 1,100 units, 50% affordable, 150 educator units, open space"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-miraloma-bus-and-clubhouse",
+    "title": "The neighbors who won a bus line",
+    "theme": "communities",
+    "year": 1939,
+    "yearEnd": 1946,
+    "place": {
+      "label": "Miraloma Park Improvement Club clubhouse, Del Vale Avenue off O'Shaughnessy Boulevard",
+      "lat": 37.741411,
+      "lon": -122.446618,
+      "precision": "block"
+    },
+    "hook": "Miraloma Park had new houses but no transit. Its improvement club lobbied until the mayor himself drove the first bus up the hill, with a parade behind it.",
+    "story": "Miraloma Park went up on the slopes of Mount Davidson with a business district planned for 2,000 families, but it had no convenient transit, so residents needed cars [1]. When the Miraloma Park Improvement Club formed in 1935, transportation was at the top of its list: members wanted a bus line to Forest Hill Station and the Twin Peaks Tunnel [1]. They got it on July 23, 1939, when Mayor Angelo Rossi drove the first bus over the route himself. The day was celebrated with a big parade of American Legionnaires, Boy Scouts and school bands in the Portola Drive business district [1][2]. The line ran from Forest Hill via Laguna Honda Boulevard, Portola Drive, Evelyn Way and Teresita Boulevard [2]. It began as the 7 Miraloma, was renumbered 36 in 1949, and renamed the 36 Teresita in 1980 [2]. In 1940, with half the homes finished, developers Meyer Brothers built the clubhouse they had promised, on land leased from the Water Department for $1 a year. It was dedicated on November 10, 1940 [1][2]. By July 1946 the combined Garden and Improvement Clubs had 1,000 members, which historian Rosalie Kuwatch called an unequaled record in San Francisco [1][2].",
+    "people": [
+      {
+        "name": "Angelo Rossi",
+        "role": "Mayor of San Francisco"
+      },
+      {
+        "name": "Rosalie Kuwatch",
+        "role": "neighborhood historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Miraloma Park (history by Rosalie Kuwatch, 1984)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/miraloma-park.php",
+        "supports": "2,000-home plan, no transit, club formed 1935, Rossi drove first bus July 23, 1939 with parade, 1940 clubhouse on $1 lease, 1,000 members by July 1946"
+      },
+      {
+        "title": "Miraloma Park Improvement Club (Jacqueline Proctor)",
+        "publisher": "Mt. Davidson (mtdavidson.org)",
+        "year": 2014,
+        "url": "https://mtdavidson.org/miraloma-park-improvement-club/",
+        "supports": "first bus from Forest Hill station July 23, 1939; route via Laguna Honda, Portola, Evelyn, Teresita; renumbered 36 in 1949; 36 Teresita 1980; November 10, 1940 dedication"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-tower-market",
+    "title": "A Greek grocer's bet on a no-man's-land",
+    "theme": "labor-industry",
+    "year": 1941,
+    "yearEnd": 2006,
+    "place": {
+      "label": "Tower Market, Portola Drive at the top of Miraloma Park",
+      "lat": 37.744725,
+      "lon": -122.452285,
+      "precision": "block"
+    },
+    "hook": "A Greek teenager who cleared 1906 earthquake rubble for $5 a day later gambled on a supermarket on the empty slopes of Twin Peaks. He opened it in wartime.",
+    "story": "In 1905 fifteen-year-old Mark Pommon left the Greek island of Zakynthos to visit San Francisco, telling his father he would be back within a year. Six months later the 1906 earthquake struck, and he went to work clearing rubble for $5 a day. He stayed, worked in logging camps on the Mendocino coast, and in 1912 came back to the city and soon opened the first of several markets, at Eighth and Natoma. At Dudley's Market on Sixth Street he wore a suit to work every day [1]. His dream was a one-stop market, a novel idea when shoppers went to separate butchers, greengrocers and fishmongers. He bet the city would grow toward what was then a no-man's-land on the slopes of Twin Peaks [1]. Tower Market opened on Portola Drive in 1941 by one account [2], and the other history shows its debut in 1942 [1]. Either way, it was wartime: Pommon apologized to each customer for missing items and filled out forms with hundreds of their ration stamps so he could restock [1]. In 1954, with his son Dan in charge after Mark's death, the store welcomed the holidays with a 165-pound pumpkin pie, cut up for some 500 neighborhood children [1]. Mollie Stone's bought it in the mid-2000s; the two histories say 2005 and 2006 [1][2].",
+    "people": [
+      {
+        "name": "Mark Pommon",
+        "role": "founder"
+      },
+      {
+        "name": "Dan Pommon",
+        "role": "son and later owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tower Market (Jacqueline Proctor, courtesy John Pommon)",
+        "publisher": "Mt. Davidson (mtdavidson.org)",
+        "year": 2014,
+        "url": "https://mtdavidson.org/tower-market/",
+        "supports": "Pommon's arrival in 1905, rubble work, logging camps, 1912 market, suit, one-stop dream, 1942 debut photo, rationing, 1954 pie, 2006 sale"
+      },
+      {
+        "title": "Miraloma Park (history by Rosalie Kuwatch, 1984)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/miraloma-park.php",
+        "supports": "Tower Market opened 1941 by Mark Pommon, Greek immigrant; bought by Mollie Stone's in 2005"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-kgo-dream-house",
+    "title": "A radio family's dream house, built for real",
+    "theme": "architecture-landmarks",
+    "year": 1941,
+    "yearEnd": null,
+    "place": {
+      "label": "KGO Radio 'Dream House', 1 Cresta Vista Drive, Sherwood Forest",
+      "lat": 37.735659,
+      "lon": -122.459378,
+      "precision": "building"
+    },
+    "hook": "Radio listeners heard a fictional family plan their dream home on the air. A developer built it for real on Mount Davidson, and 25,000 people toured it before Pearl Harbor.",
+    "story": "To publicize its expansion of Sherwood Forest, high on Mount Davidson, Baldwin & Howell teamed up with KGO radio's popular fictional Edwards family: John and Edna and their children Jack, Sam and Florida [1][2]. As the family talked through the design of their dream home on the weekly broadcasts, the developer and the furniture company W&J Sloane built and furnished it to their specifications at 1 Cresta Vista Drive [1]. It had four bedrooms, a step-down living room, maid's quarters and an \"all electric\" General Electric kitchen with metal cabinets. It also had one of the first electronic security systems installed in a San Francisco home, and a machine-age stair railing that recalled an ocean liner [1]. The first open house, on October 12, 1941, drew several thousand people, along with representatives of GE, KGO and NBC, radio stars, and the Edwards family broadcasting on the air from the house [1]. It stayed open every Sunday that fall, and more than 25,000 people came through. The last open day was Sunday, December 7, 1941, the day Pearl Harbor was bombed. Then the house was sold [1][2].",
+    "people": [
+      {
+        "name": "The Edwards family",
+        "role": "fictional KGO radio family"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sherwood Forest: The Hidden Suburb in the City (Jacquie Proctor)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/sherwood-forest.php",
+        "supports": "Baldwin & Howell, KGO Edwards family names, W&J Sloane, features, October 12, 1941 open house, 25,000 visitors until December 7, sale"
+      },
+      {
+        "title": "World War II and the Baby Boom (Jacqueline Proctor)",
+        "publisher": "Mt. Davidson (mtdavidson.org)",
+        "year": 2014,
+        "url": "https://mtdavidson.org/ww2-and-baby-boom/",
+        "supports": "Dream House at One Cresta Vista Drive built 1941 for the Edwards family radio show; last open on the day Pearl Harbor was bombed"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-willie-mays-miraloma-drive",
+    "title": "Willie Mays is refused a house",
+    "theme": "civil-rights",
+    "year": 1957,
+    "yearEnd": 1959,
+    "place": {
+      "label": "175 Miraloma Drive, Sherwood Forest",
+      "lat": 37.736143,
+      "lon": -122.460716,
+      "precision": "building"
+    },
+    "hook": "Baseball's biggest star offered the full asking price, in cash, for a new house near Mount Davidson. Then the neighbors found out.",
+    "story": "In November 1957, as the Giants prepared to move west, Willie Mays and his wife Marghuerite looked at a new three-bedroom brick-and-redwood house at 175 Miraloma Drive, with ocean views from the living room [1]. Mays offered the $37,500 asking price in cash, and the owner, builder Walter Gnesdiloff, agreed. When the all-white neighborhood heard about it, Gnesdiloff backed out, saying he feared he would lose work. \"Certainly I objected,\" said one neighbor who owned property nearby [1]. The Chronicle's front page read \"Willie Mays Is Refused S.F. House—Negro\" [1]. \"When I go looking for a house I don't worry about who is living beside me,\" Mays said [2]. Mayor George Christopher stepped in and even offered the couple a bedroom in his own home. After the publicity, the seller changed his mind again and the sale went through [1][2]. Marghuerite was blunter than her husband: \"They grin in your face, and then deceive you\" [1]. The local NAACP pushed for a law against housing discrimination. A year and a half after the sale, a bottle holding a racist note crashed through the front window, and the couple soon sold the house [1].",
+    "people": [
+      {
+        "name": "Willie Mays",
+        "role": "San Francisco Giants center fielder"
+      },
+      {
+        "name": "Marghuerite Mays",
+        "role": "his wife"
+      },
+      {
+        "name": "George Christopher",
+        "role": "Mayor of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Willie Mays on Miraloma Drive (Streetwise, Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2000,
+        "url": "https://www.outsidelands.org/sw5.php",
+        "supports": "address, price, Gnesdiloff, neighbor quote, Chronicle headline, Christopher's offer, Marghuerite quote, NAACP, bottle through window, sale"
+      },
+      {
+        "title": "How Willie Mays faced housing discrimination when moving to San Francisco",
+        "publisher": "CBS News Sacramento (Steve Large)",
+        "year": 2024,
+        "url": "https://www.cbsnews.com/sacramento/news/willie-mays-san-francisco-housing-discrimination/",
+        "supports": "1957 refusal after neighbors objected; Mays quote; Mayor Christopher pressured the seller; family moved in"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-2p-first-gap-store",
+    "title": "The first Gap, beside the El Rey",
+    "theme": "labor-industry",
+    "year": 1969,
+    "yearEnd": null,
+    "place": {
+      "label": "1950 Ocean Avenue at Fairfield Way (El Rey Theatre building)",
+      "lat": 37.72616,
+      "lon": -122.46366,
+      "precision": "building"
+    },
+    "hook": "A couple opened a shop selling only Levi's, records and tapes in a corner of an Ocean Avenue movie palace. It became a global clothing empire.",
+    "story": "In 1969 Don and Doris Fisher opened a store at 1950 Ocean Avenue, in the northwest retail corner of the El Rey Theatre building at Fairfield Way [1][2]. The idea, as the company tells it, was simple: make it easier to find a pair of jeans that fit [2]. The only things for sale were men's Levi's jeans, records and tapes [2], and the Western Neighborhoods Project describes it as a counterculture-influenced jeans and record store [1]. It was called The Gap. It shared its building with Timothy Pflueger's El Rey, a movie palace that had opened on Ocean Avenue in 1931 [3]. In 1970 a second store opened in San Jose, with half its 6,500 square feet set aside as stockroom. The chain started selling Levi's for women [2], and by the end of that year sales had passed $2 million [1]. By its third anniversary, the Gap had grown from one store to 25, and in 1976 The Gap Stores, Inc. went public at $18 a share [2]. The company later added Banana Republic and Old Navy and became one of the world's biggest clothing retailers [1].",
+    "people": [
+      {
+        "name": "Don Fisher",
+        "role": "co-founder"
+      },
+      {
+        "name": "Doris Fisher",
+        "role": "co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Gap clothing empire",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/the-gap.php",
+        "supports": "first store in the northwest corner of the El Rey building at Ocean and Fairfield in 1969, counterculture jeans and record store, second store and $2 million by 1970, Old Navy and Banana Republic"
+      },
+      {
+        "title": "History",
+        "publisher": "Gap Inc.",
+        "year": null,
+        "url": "https://www.gapinc.com/en-us/about/history",
+        "supports": "founded 1969 at 1950 Ocean Avenue; jeans that fit; Levi's, records and tapes; 1970 San Jose store; 25 stores by third anniversary; 1976 IPO"
+      },
+      {
+        "title": "Ingleside Terraces (related: Podcast #110 El Rey Theatre)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/ingleterr.php",
+        "supports": "El Rey Theatre designed by Timothy Pflueger opened on Ocean Avenue in 1931"
+      }
+    ],
+    "photo": null
+  }
+]

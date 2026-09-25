@@ -1,0 +1,689 @@
+[
+ {
+  "id": "russian-hill-2p-mamie-tape",
+  "title": "Is it a disgrace to be born Chinese?",
+  "theme": "civil-rights",
+  "year": 1884,
+  "yearEnd": 1885,
+  "place": {
+   "label": "Spring Valley School, 1451 Jackson St",
+   "lat": 37.79400619459265,
+   "lon": -122.41881850918104,
+   "precision": "building"
+  },
+  "hook": "In 1884 a principal on Jackson Street turned away eight-year-old Mamie Tape. Her parents sued and won, and the city still kept her out.",
+  "story": "Spring Valley, founded in 1852, bills itself as the oldest school in California and the only one of seven schools founded in Gold Rush days still operating [1]. In September 1884 Joseph and Mary Tape tried to enroll their eldest daughter, eight-year-old Mamie, at its primary school [2][3]. Both parents had come from China as children. Joseph ran a delivery business, Mary had been raised in a home for destitute girls, and the family lived among white neighbours at Black Point, in today's Cow Hollow [2]. Principal Jennie Hurley refused, citing the school board's policy against Chinese pupils [2]. The Tapes sued, and in March 1885 the California Supreme Court agreed that state law opened public schools to \"all children\" [2][3]. The board simply pushed a new state law through allowing separate schools for Chinese children, with Superintendent Andrew Moulder warning that classes would be \"inundated with Mongolians\" [2]. When the Tapes tried again, Hurley pleaded crowding and missing vaccination papers. Mary wrote to the Alta California: \"Is it a disgrace to be born a Chinese? Didn't God make us all!!!\" [2]. Five days later the Chinese Primary School opened in Chinatown, and Mamie was enrolled there. She never attended Spring Valley [2].",
+  "people": [
+   {
+    "name": "Mamie Tape",
+    "role": "pupil refused admission"
+   },
+   {
+    "name": "Mary Tape",
+    "role": "mother, letter writer"
+   },
+   {
+    "name": "Joseph Tape",
+    "role": "father, plaintiff"
+   },
+   {
+    "name": "Jennie M. A. Hurley",
+    "role": "principal"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Spring Valley Science School: History",
+    "publisher": "San Francisco Unified School District",
+    "year": 2025,
+    "url": "https://www.sfusd.edu/school/spring-valley-science-elementary-school/about/history",
+    "supports": "Founded 1852; oldest school in California, only survivor of seven original schools; Mamie Tape refused in 1884"
+   },
+   {
+    "title": "The 8-Year-Old Chinese American Girl Who Helped Desegregate Schools—in 1885",
+    "publisher": "HISTORY (A&E)",
+    "year": 2019,
+    "url": "https://www.history.com/news/chinese-american-segregation-san-francisco-mamie-tape-case",
+    "supports": "Family background, Hurley refusal, court ruling, Moulder telegram, Mary Tape letter, Chinese Primary School"
+   },
+   {
+    "title": "Tape v. Hurley",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Tape_v._Hurley",
+    "supports": "School at 1451 Jackson Street; March 1885 ruling"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-alma-laundry-girl",
+  "title": "The laundry girl of Francisco Street",
+  "theme": "gold-rush-victorian",
+  "year": 1895,
+  "place": {
+   "label": "De Bretteville family flat, 1000 block of Francisco St",
+   "lat": 37.80385818169604,
+   "lon": -122.42210673327735,
+   "precision": "block"
+  },
+  "hook": "Before she was the grande dame of San Francisco, Alma de Bretteville was pulled out of school at 14 to carry rich people's laundry across the city.",
+  "story": "Alma de Bretteville was born in 1881 on a struggling farm in the dunes near Lake Merced, the fifth of six children of Danish immigrants [1][2]. Her father, Viggo, boasted of descent from French nobility and, her biographers say, used it as an excuse not to work [1][2]. It was her mother, Mathilde, who kept the family going. When the farm failed they moved to a flat on Francisco Street on Russian Hill, which Mathilde turned into a combination Danish bakery, laundry and massage parlour [1][2]. At 14 Alma was made to quit school and work full time delivering laundry, often to the mansions of the rich, whose lives she came to admire [1][2]. A 1901 Examiner item placed the family at 1024 Francisco Street [1]. She took night classes at the Mark Hopkins Art Institute and paid for them by modelling [2]. The popular story that she posed for the Dewey Monument in Union Square is disputed, since a 1902 article names another model [1]. But the chairman of the monument's committee, sugar heir Adolph Spreckels, 24 years her senior, courted her for five years. They married in 1908, and she later persuaded him to give the city the Legion of Honor [1][2].",
+  "people": [
+   {
+    "name": "Alma de Bretteville Spreckels",
+    "role": "laundry girl, later philanthropist"
+   },
+   {
+    "name": "Mathilde de Bretteville",
+    "role": "mother, ran bakery and laundry"
+   },
+   {
+    "name": "Viggo de Bretteville",
+    "role": "father"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Alma de Bretteville Spreckels",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Alma_de_Bretteville_Spreckels",
+    "supports": "Birth, Francisco Street flat, 1024 Francisco (1901 Examiner), laundry work at 14, Dewey Monument dispute, marriage 1908"
+   },
+   {
+    "title": "Alma Spreckels",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Alma_Spreckels",
+    "supports": "Mother's bakery-laundry-massage business on Francisco Street; laundry deliveries; art classes and modelling"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-fanny-stevenson",
+  "title": "Mrs. Stevenson's house at Hyde and Lombard",
+  "theme": "gold-rush-victorian",
+  "year": 1899,
+  "place": {
+   "label": "Fanny Stevenson house site, Hyde and Lombard streets",
+   "lat": 37.8021173096279,
+   "lon": -122.42000546350532,
+   "precision": "block"
+  },
+  "hook": "Robert Louis Stevenson's widow came back to San Francisco wealthy, hired Willis Polk to build her a Russian Hill house, and took in a young admirer.",
+  "story": "Fanny Van de Grift Osbourne married Robert Louis Stevenson in a San Francisco parlour in May 1880. The only witnesses were the minister's wife and Fanny's friend Dora Norton Williams, a painter [1]. After Stevenson died in Samoa in 1894, Fanny came back. In 1895 she and her daughter Isobel spent six months on a lower floor of Dora's Willis Polk house at the summit of Russian Hill. There Fanny fell in with the hill's bohemian circle, including Gelett Burgess, editor of the little magazine The Lark [1]. The two widows went to séances hoping to reach their husbands, though Fanny, visiting mediums on her own, wrote to Dora that she had seen \"many tricks that could hardly deceive a child\" [1]. In 1899 a now wealthy Fanny hired Polk to design a home of her own at Hyde and Lombard [1]. The writers Anne and Arthur Bloomfield later listed a house \"that belonged to Mrs. Robert Louis Stevenson\" among the things that gave Russian Hill its \"Upper Bohemian\" flavour [2]. Burgess kept her company for a time. Then she took in Ned Field, a young newspaperman 38 years younger, as her secretary, protégé and, by some accounts, lover [1][3]. After Fanny died in 1914, Field married her daughter Isobel [3].",
+  "people": [
+   {
+    "name": "Fanny Van de Grift Stevenson",
+    "role": "Robert Louis Stevenson's widow"
+   },
+   {
+    "name": "Edward Salisbury (Ned) Field",
+    "role": "secretary and companion"
+   },
+   {
+    "name": "Willis Polk",
+    "role": "architect"
+   },
+   {
+    "name": "Dora Norton Williams",
+    "role": "friend and wedding witness"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Dora Norton Williams: Friend of Robert Louis Stevenson",
+    "publisher": "FoundSF (orig. The Argonaut, Nancy Everett)",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=Dora_Norton_Williams:_Friend_of_Robert_Louis_Stevenson",
+    "supports": "1880 wedding witnesses, 1895 stay, séances and quote, 1899 Polk house at Hyde and Lombard, Burgess and Ned Field"
+   },
+   {
+    "title": "An Abstract Expressionist Lived Here",
+    "publisher": "FoundSF (Anne and Arthur Bloomfield)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=An_Abstract_Expressionist_Lived_Here",
+    "supports": "Russian Hill house that belonged to Mrs. Robert Louis Stevenson; 'Upper Bohemian' flavour"
+   },
+   {
+    "title": "Edward Salisbury Field",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Edward_Salisbury_Field",
+    "supports": "Secretary, protégé and possibly lover of Fanny, 38 years younger; married Isobel after Fanny died in 1914"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-filbert-cottages",
+  "title": "The butcher's cottages and the design school",
+  "theme": "quake1906",
+  "year": 1907,
+  "yearEnd": 1972,
+  "place": {
+   "label": "Filbert Street Cottages, 1338 Filbert St",
+   "lat": 37.8001114613105,
+   "lon": -122.42150353750121,
+   "precision": "building"
+  },
+  "hook": "After the 1906 fire, a butcher built four little rental cottages down a lane off Filbert Street. Decades later an art teacher turned them into a school.",
+  "story": "In the 1880s and 1890s, 1312 Filbert Street (today's 1338) was home to Peter Mathews, a gardener, milkman and labourer, and from 1897 to his son-in-law William K. Bush, a butcher whose father was a boilermaker at the Pacific Iron Works [1]. The 1906 fire burned the north side of the block. In 1907 Bush took out permits for four small frame cottages, sketched at 20 by 30 feet, set along a lane and built as rentals. Water records list \"four families with four basins, baths and water closets\" [1]. He never lived there again, but the Mathews and Bush families kept the property until 1946 [1]. In 1943 a tenant, Marian Hartwell, a painter and craftsman who had taught design at the California School of Fine Arts until 1940, added a studio \"for teaching\", noting on the permit: \"Second-hand material used\" [1]. There she ran her School of Basic Design and Color and rented the other cottages to students [1][2]. She bought the property in 1946, split the cottages into ten units and laid the brick paths and patios that are still there [1][2]. She stayed until 1972. In 2001 supervisors moved to make the cottages a landmark; the Planning Commission voted against it, but they are listed today as City Landmark No. 232 [1][2].",
+  "people": [
+   {
+    "name": "William K. Bush",
+    "role": "butcher, builder of the cottages"
+   },
+   {
+    "name": "Peter Mathews",
+    "role": "gardener and milkman"
+   },
+   {
+    "name": "Marian Hartwell",
+    "role": "painter, teacher, owner 1940s–1972"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Landmark Designation Report: The 1338 Filbert Street Cottages (Landmark No. 232)",
+    "publisher": "San Francisco Landmarks Preservation Advisory Board",
+    "year": 2001,
+    "url": "https://sfplanninggis.org/docs/landmarks_and_districts/LM232.pdf",
+    "supports": "Mathews and Bush families, 1907 permits and water records, Hartwell 1943 studio permit, school, purchase, ten units, 1972 sale; Planning Commission Resolution 16187 (2001) disapproving designation"
+   },
+   {
+    "title": "San Francisco Landmark #232: Filbert Cottages",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "http://www.noehill.com/sf/landmarks/sf232.asp",
+    "supports": "Landmark #232; post-1906 vernacular cottages; Hartwell taught at CSFA 1926–40; School of Basic Design & Color; brick walkways; lived there until 1972"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-fickert-green-street",
+  "title": "The district attorney's house on Green Street",
+  "theme": "labor-industry",
+  "year": 1912,
+  "yearEnd": 1935,
+  "place": {
+   "label": "Charles and Ethel Fickert house, 1060 Green St (Paris Block)",
+   "lat": 37.79881456109633,
+   "lon": -122.41661501467497,
+   "precision": "building"
+  },
+  "hook": "In 1912 District Attorney Charles Fickert built a house on Russian Hill's Paris Block. Four years later his office sent an innocent labour leader toward execution.",
+  "story": "The 1000 block of Green Street, the \"Paris Block\", lost the houses on its north side in the 1906 fire, and they were rebuilt in 1912–13 [1]. One of the new houses, 1060 Green, was designed by Edward T. Foulkes for Charles M. Fickert, a former Stanford football guard and coach who became district attorney in 1910 [1][2]. The National Register nomination is blunt: history gives him \"an unsavory reputation\" as the DA who had the city's graft trials dismissed and who framed the evidence against Tom Mooney [1]. After a bomb exploded at the Preparedness Day parade on July 22, 1916, Fickert's office charged the labour militant Mooney and Warren Billings. A photograph placing Tom and Rena Mooney on the Eilers Building on Market Street, a mile away, at the moment they were said to be planting the bomb was in the prosecutors' hands but never shown at trial [3]. Witnesses later said Fickert coached them to lie [2]. Mooney's death sentence was commuted after President Wilson intervened, but he was not pardoned until January 1939 [3]. Fickert lost the office in 1920, and he brawled with critics including the editor Fremont Older [2]. In 1935 his wife Ethel divorced him, citing drinking and gambling, and was awarded the house on Green Street [2].",
+  "people": [
+   {
+    "name": "Charles M. Fickert",
+    "role": "district attorney 1910–1920"
+   },
+   {
+    "name": "Ethel Wallace Fickert",
+    "role": "wife"
+   },
+   {
+    "name": "Tom Mooney",
+    "role": "labour leader wrongly convicted"
+   },
+   {
+    "name": "Edward T. Foulkes",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register nomination: Russian Hill/Paris Block Architectural District",
+    "publisher": "National Park Service",
+    "year": 1987,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002288_text",
+    "supports": "North side rebuilt 1912–13; 1060 Green by Foulkes for Charles and Ethel Fickert; unsavory reputation, graft trials, framing Mooney"
+   },
+   {
+    "title": "Charles Fickert",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Charles_Fickert",
+    "supports": "Stanford football, DA 1910–1920, coached witnesses, fights with Older, 1935 divorce and award of 1060 Green"
+   },
+   {
+    "title": "Tom Mooney",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=TOM_MOONEY",
+    "supports": "Preparedness Day bombing, suppressed photograph, commutation, 1939 pardon"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-tina-modotti",
+  "title": "A seamstress on Taylor Street finds the stage",
+  "theme": "communities",
+  "year": 1913,
+  "yearEnd": 1918,
+  "place": {
+   "label": "Modotti family flat, 1952 Taylor St",
+   "lat": 37.80060530366167,
+   "lon": -122.41408904776814,
+   "precision": "building"
+  },
+  "hook": "In 1913 a teenage factory worker from Udine moved into a flat on Russian Hill's north-east slope. Within five years Italian San Francisco was applauding Tina Modotti.",
+  "story": "Tina Modotti was born in Udine, in north-east Italy, in 1896 and as a girl worked in a textile factory to help feed her family [1][2]. Her father, Giuseppe, a machinist and socialist, had gone ahead to San Francisco's Italian quarter [1]. In 1913 she crossed the Atlantic alone to join him, at 16 by one account and 17 by another [1][2]. Home was a first-floor, two-bedroom flat at 1952 Taylor Street on the north-east slope of Russian Hill, whose bay window caught a glimpse of the bay [1]. Giuseppe had a machine shop on Montgomery Avenue, where he later designed a popular ravioli machine. Tina joined her sister Mercedes as a seamstress at I. Magnin and was soon modelling its newest designs at the downtown store [1]. She acted in the neighbourhood's amateur Italian theatres, and in 1917 she made her professional debut with the Città di Firenze company. The paper L'Italia wrote that the evening would \"always leave in her all of that freshness of a soul in love with her art\" [1]. In 1918 she left for Los Angeles and the movies with the poet and painter Roubaix de l'Abrie Richey [1][2]. She went on to become one of the great photographers of 1920s Mexico [1][2].",
+  "people": [
+   {
+    "name": "Tina Modotti",
+    "role": "seamstress, actor, later photographer"
+   },
+   {
+    "name": "Giuseppe Modotti",
+    "role": "father, machinist"
+   },
+   {
+    "name": "Mercedes Modotti",
+    "role": "sister, seamstress"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Tina Modotti",
+    "publisher": "FoundSF (Mary Ellen Churchill)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Tina_Modotti",
+    "supports": "1952 Taylor Street flat, family work, I. Magnin, Italian theatre debut and L'Italia review, 1918 departure"
+   },
+   {
+    "title": "Tina Modotti",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Tina_Modotti",
+    "supports": "Birth 1896 in Udine, textile factory, emigration at 16 in 1913, move to Los Angeles, film and photography career"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-alhambra-theatre",
+  "title": "Treadmills in the Alhambra's balcony",
+  "theme": "arts-counterculture",
+  "year": 1926,
+  "yearEnd": 1998,
+  "place": {
+   "label": "Alhambra Theatre, 2330 Polk St",
+   "lat": 37.798340708619676,
+   "lon": -122.42186163381648,
+   "precision": "building"
+  },
+  "hook": "Russian Hill's Moorish movie palace survived a bomb, a cinder-block wall and television. Then it became a gym, with exercise bikes where the balcony seats used to be.",
+  "story": "The Alhambra opened on Polk Street in 1926, a $500,000 picture palace with 1,625 seats, designed by Timothy Pflueger a few years after his Castro Theatre [1]. A Victorian mansion on the lot was moved to 2214 Clay Street to make way [3]. Its Moorish castle decor offered Russian Hill and Cow Hollow a nearer alternative to the grander Market Street theatres [3]. In October 1930 a pipe bomb was found in its ticket booth [2]. The Chronicle later reported that a janitor found the device, big enough to level the building, during a spate of theatre bombings [1]. Television thinned the crowds. In 1974 the auditorium was \"twinned\" with a cinder-block wall, which failed partly because the dome could not be soundproofed, and in 1988 the wall came down [2][3]. \"Wag the Dog\" was the last film shown before it closed in 1998 [1]. It became a gym in 2001. Treadmills and exercise bikes stand on the old balcony facing the big screen, which in 2011 was still showing films with subtitles [1][2]. One man working out there in 2011 had come from Granada in Spain, a few miles from the real Alhambra. \"It has the magic of an old theater,\" he said [1].",
+  "people": [
+   {
+    "name": "Timothy Pflueger",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "New life for old theaters",
+    "publisher": "San Francisco Chronicle / SFGATE (Peter Hartlaub)",
+    "year": 2011,
+    "url": "https://www.sfgate.com/news/article/New-life-for-old-theaters-2295557.php",
+    "supports": "Cost, seats, bomb found by janitor, last film, gym since 2001, balcony treadmills, Granada quote"
+   },
+   {
+    "title": "Alhambra Theater",
+    "publisher": "Cinema Treasures",
+    "year": null,
+    "url": "http://cinematreasures.org/theaters/2247",
+    "supports": "1974 twinning, 1988 single screen, pipe bomb in ticket booth October 1930, treadmills facing screen"
+   },
+   {
+    "title": "San Francisco Landmark #217: Alhambra Theater",
+    "publisher": "NoeHill in San Francisco (quoting Planning Commission Resolution 14005)",
+    "year": null,
+    "url": "http://www.noehill.com/sf/landmarks/sf217.asp",
+    "supports": "Moorish Revival design, served Cow Hollow and Russian Hill, twinning failure, mansion moved to 2214 Clay"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-hank-luisetti",
+  "title": "The Russian Hill boy who shot one-handed",
+  "theme": "communities",
+  "year": 1934,
+  "yearEnd": 1936,
+  "place": {
+   "label": "Galileo High School, 1150 Francisco St",
+   "lat": 37.803790256860616,
+   "lon": -122.42414517610929,
+   "precision": "building"
+  },
+  "hook": "Too small to shoot over the older boys, a Russian Hill kid learned to shoot one-handed. Galileo won city titles, and basketball was never the same.",
+  "story": "Angelo \"Hank\" Luisetti was born in San Francisco in 1916, the only child of a one-time dishwasher who came to own an Italian restaurant on Market Street [1]. As a boy he would leave the family's home on Russian Hill and go six blocks to the Spring Valley playground, where he played until dark [1]. Players then used two-handed set shots, but \"shooting two-handed, I just couldn't reach the basket,\" he said, so to get the ball over older, taller boys he shot with one hand [1]. He picked the name Hank in high school because \"Angie\" sounded girlish [2]. His one-hander helped Galileo High School win city championships in 1933 and 1934, though he averaged only eight points as a senior and won a Stanford scholarship for his passing and defence [1]. On December 30, 1936, before about 17,000 people at Madison Square Garden, his Stanford team ended Long Island University's 43-game winning streak [1][2]. A future Knicks star remembered that after Christmas every New York kid had a one-handed shot, while coaches insisted on \"feet together, two hands\" [1]. On January 1, 1938, Luisetti scored 50 points against Duquesne, then a national record [1].",
+  "people": [
+   {
+    "name": "Hank Luisetti",
+    "role": "basketball innovator, Galileo High graduate"
+   }
+  ],
+  "sources": [
+   {
+    "title": "HANK LUISETTI / 1916-2002 / Luisetti shot got game off ground",
+    "publisher": "San Francisco Chronicle / SFGATE (Dwight Chapin)",
+    "year": 2002,
+    "url": "https://www.sfgate.com/sports/article/HANK-LUISETTI-1916-2002-Luisetti-shot-got-2710020.php",
+    "supports": "Family, Russian Hill home, Spring Valley playground, quote, Galileo titles 1933–34, Madison Square Garden game, 50 points"
+   },
+   {
+    "title": "Hank Luisetti",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Hank_Luisetti",
+    "supports": "Galileo graduate, nickname origin, LIU streak and crowd"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-fellowship-church",
+  "title": "A church that crossed every line",
+  "theme": "civil-rights",
+  "year": 1949,
+  "yearEnd": 1953,
+  "place": {
+   "label": "Church for the Fellowship of All Peoples, 2041 Larkin St",
+   "lat": 37.796782443821165,
+   "lon": -122.42051076096119,
+   "precision": "building"
+  },
+  "hook": "Banks called it a bad risk. In 1949 one of the nation's first interracial, interfaith congregations bought a church on Larkin Street anyway, and paid cash.",
+  "story": "In December 1943 Alfred Fisk, a white Presbyterian minister and San Francisco State philosophy professor, held the first service of a new interracial church. Sixty-six people came, about a third of them Black [1]. He persuaded Howard Thurman, dean of the chapel at Howard University, who had met Gandhi in 1936, to come west as co-pastor [1][2]. Thurman arrived on July 12, 1944. At the inaugural service that October more than 400 people heard the two pastors, one Black and one white, launch what the Chronicle called the \"first interracial church in the nation\" [1]. Eleanor Roosevelt signed on as a member-at-large [1]. Many members were Black newcomers from Oklahoma, Texas and Arkansas working in defence industries [3]. For five years the church moved from building to building. Thurman insisted it stay outside what was fast becoming the Black neighbourhood, so it would not be seen as a mission church, and after 1944 every building it used was east of Van Ness [1]. In January 1949 the board heard of a $275 monthly deficit, then voted unanimously to buy the former St. John's Evangelical Church at 2041 Larkin for $30,000 [1]. Lenders refused, one calling it a \"bad\" risk. A private loan paid the cash price, and 500 people watched the mortgage burned in 1952 [1].",
+  "people": [
+   {
+    "name": "Howard Thurman",
+    "role": "co-founder and pastor"
+   },
+   {
+    "name": "Alfred G. Fisk",
+    "role": "co-founder and co-pastor"
+   },
+   {
+    "name": "Sue Bailey Thurman",
+    "role": "chair, Intercultural Committee"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Article 10 Landmark Designation Fact Sheet: The Church for the Fellowship of All Peoples, 2041 Larkin Street",
+    "publisher": "San Francisco Planning Department",
+    "year": 2023,
+    "url": "https://sfplanninggis.org/docs/landmarks_and_districts/LM309.pdf",
+    "supports": "First services, Thurman arrival, inaugural service, Roosevelt, buildings east of Van Ness, 1949 purchase, loan refusal, 1952 mortgage burning"
+   },
+   {
+    "title": "Thurman, Howard Washington",
+    "publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+    "year": null,
+    "url": "https://kinginstitute.stanford.edu/thurman-howard",
+    "supports": "Met Gandhi in February 1936; founded integrated church, opened October 1944"
+   },
+   {
+    "title": "Church for the Fellowship of All Peoples",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Church_for_the_Fellowship_of_All_Peoples",
+    "supports": "Congregants who migrated from Oklahoma, Texas and Arkansas for defence jobs"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-irish-coffee",
+  "title": "The night the cream finally floated",
+  "theme": "labor-industry",
+  "year": 1952,
+  "place": {
+   "label": "Buena Vista Cafe, 2765 Hyde St at Beach St",
+   "lat": 37.80646767936696,
+   "lon": -122.42065989114928,
+   "precision": "building"
+  },
+  "hook": "A Chronicle columnist and a bar owner mixed Irish coffee until the columnist nearly passed out on the cable car tracks. On November 10, 1952, they got it right.",
+  "story": "The Buena Vista began in 1916, when the ground floor of a boardinghouse at Hyde and Beach was turned into a saloon [1]. Its famous drink began at an airport. At Foynes, the Irish flying-boat base, chef Joe Sheridan had started lacing coffee with Irish whiskey for chilled transatlantic passengers during the war, and the drink moved with the staff to the new airport at Shannon [2][3]. Chronicle travel writer Stanton Delaplane was served one there in 1951 [3]. Back home he told Jack Koeppler, who owned the Buena Vista with George Freeberg, and they set out to copy it [3][4]. The whiskey was easy. The trick was making the cream float. After sampling dozens of failures, Delaplane nearly passed out on the cable car tracks [4]. The bar began serving Irish coffee on November 10, 1952, and Delaplane kept mentioning it in his column [1][4]. That same year Sheridan was offered a job at the Buena Vista and emigrated. He died in 1962 and is buried in Oakland [3]. By the café's own count it has since served more than 30 million [1].",
+  "people": [
+   {
+    "name": "Stanton Delaplane",
+    "role": "Chronicle columnist"
+   },
+   {
+    "name": "Jack Koeppler",
+    "role": "owner, Buena Vista"
+   },
+   {
+    "name": "George Freeberg",
+    "role": "co-owner"
+   },
+   {
+    "name": "Joe Sheridan",
+    "role": "chef who created Irish coffee"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Buena Vista Cafe",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Buena_Vista_Cafe",
+    "supports": "1916 boardinghouse saloon, first served November 10, 1952, 30 million count"
+   },
+   {
+    "title": "Irish Coffee Centre",
+    "publisher": "Foynes Flying Boat & Maritime Museum",
+    "year": null,
+    "url": "https://www.flyingboatmuseum.com/irish-coffee-center/",
+    "supports": "Joe Sheridan invents Irish coffee at Foynes"
+   },
+   {
+    "title": "Joe Sheridan, chef",
+    "publisher": "Foynes Flying Boat Museum (archived)",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20110516164830/http://flyingboatmuseum.com/irishcoffee_chef.html",
+    "supports": "Move to Shannon, Delaplane 1951, Koeppler, Sheridan emigrates 1952, died 1962, buried Oakland"
+   },
+   {
+    "title": "The man who brought Irish coffee to America",
+    "publisher": "San Francisco Chronicle / SFGATE (Carl Nolte)",
+    "year": 2008,
+    "url": "https://www.sfgate.com/bayarea/article/The-man-who-brought-Irish-coffee-to-America-3185886.php",
+    "supports": "Nov. 10, 1952; Koeppler and Freeberg; floating cream; nearly passed out on cable car tracks"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-the-mandarin",
+  "title": "Potstickers on Polk Street",
+  "theme": "communities",
+  "year": 1961,
+  "yearEnd": 1968,
+  "place": {
+   "label": "The Mandarin (first location), 2209 Polk St",
+   "lat": 37.79708614279304,
+   "lon": -122.42226730647918,
+   "precision": "building"
+  },
+  "hook": "Cecilia Chiang was left holding a Polk Street lease and a lost $10,000 deposit. So she opened a restaurant that changed how Americans ate Chinese food.",
+  "story": "Cecilia Chiang was born in 1920 in Wuxi, the tenth of twelve children in a wealthy family. In 1942 she and a sister walked for nearly six months to escape Japanese-occupied territory [1]. Years later, visiting a widowed sister in San Francisco, she agreed to help two friends from Tokyo lease a small space at 2209 Polk Street and wrote a $10,000 deposit. The friends backed out, the landlord kept the money, and in 1961 she opened The Mandarin herself [1][2]. It served northern Chinese dishes few Americans had tasted, on a menu of 200 or 300 items depending on the source, with five potstickers for $1 [1][2]. She could not get a liquor licence (as a foreign-born woman, says one account; as a non-resident, says another), and as a Mandarin speaker far from Chinatown she struggled to find suppliers [2]. For eighteen months she lost money. Johnny Kan, owner of Kan's in Chinatown, urged her to shorten and Americanise the menu. She refused [2]. Then Herb Caen came in (in 1963 by one account, with Trader Vic's founder Vic Bergeron by another) and certified the \"hole-in-the-wall\" the best Chinese food east of the Pacific [1][2]. In 1968 the Mandarin moved to Ghirardelli Square [2]. Chiang died in 2020, aged 100 [1].",
+  "people": [
+   {
+    "name": "Cecilia Chiang",
+    "role": "founder, The Mandarin"
+   },
+   {
+    "name": "Herb Caen",
+    "role": "Chronicle columnist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cecilia Chiang",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Cecilia_Chiang",
+    "supports": "Birth, 1942 escape, 2209 Polk lease and $10,000 deposit, potstickers, Caen and Bergeron, death at 100; no cocktails as non-permanent resident"
+   },
+   {
+    "title": "Cecilia Chiang: Chef as Culture Shaper",
+    "publisher": "FoundSF",
+    "year": 2017,
+    "url": "https://www.foundsf.org/index.php?title=Cecilia_Chiang:_Chef_as_Culture_Shaper",
+    "supports": "1961 opening, 300-item menu, liquor license, suppliers, 18 months of losses, Johnny Kan, Caen quote, 1968 move to Ghirardelli"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-jumpin-frog",
+  "title": "The Polk Street bar in Life magazine",
+  "theme": "lgbtq",
+  "year": 1961,
+  "yearEnd": 1964,
+  "place": {
+   "label": "Jumpin' Frog site, about 2111 Polk St",
+   "lat": 37.796226959867504,
+   "lon": -122.42196317323025,
+   "precision": "block"
+  },
+  "hook": "In 1964 Life magazine photographed men at a Polk Street bar and called San Francisco the nation's gay capital. The bar was the Jumpin' Frog.",
+  "story": "In the early 1960s Polk Street became what the city's historic context statement calls San Francisco's first modern gay neighbourhood [1]. The Jumpin' Frog opened as a gay bar in 1961 at 2111 Polk (other records give 2109 or 2123) and drew crowds to its Monday movie nights [2]. In 1962 gay bar owners and staff formed the Tavern Guild, the first gay business association in the United States, to fight police and liquor-board harassment with lawyers, bail money and a telephone alert network [1][3]. The Frog sponsored the first Beaux Arts Ball, and Daryl Glied, its manager (some accounts say owner), persuaded the guild to make it an annual fundraiser. He became the guild's third president [2][3]. From 1963 the Halloween ball was the centrepiece of the city's drag community [1]. In 1964 Life featured the Frog in a spread that dubbed San Francisco the nation's \"gay capital\", one of a handful of things that drew people to Polk [1][2]. A few blocks north, the owners of a slow bar at 2360 Polk turned it gay in 1962 as Cloud Seven and quadrupled their business [2]. By the late 1960s, one man recalled, customers at its numbered tables used lip-shaped phones to ask the bar for \"the third guy from the end\" [1].",
+  "people": [
+   {
+    "name": "Daryl Glied",
+    "role": "Jumpin' Frog manager, Tavern Guild president"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Citywide Historic Context Statement for LGBTQ History",
+    "publisher": "San Francisco Planning Department",
+    "year": 2015,
+    "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+    "supports": "First modern gay neighbourhood; Tavern Guild; Beaux Arts Ball from 1963; Jumpin' Frog at 2111 Polk in Life 1964; Cloud Seven phones"
+   },
+   {
+    "title": "Polk Gulch LGBTQI History: A Walking Tour",
+    "publisher": "FoundSF",
+    "year": 2026,
+    "url": "https://www.foundsf.org/index.php?title=Polk_Gulch_LGBTQI_History",
+    "supports": "Jumpin' Frog 1961–64, address uncertainty, movie nights, Beaux Arts Ball, Glied; Cloud Seven 1962"
+   },
+   {
+    "title": "Tavern Guild",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Tavern_Guild",
+    "supports": "Founded 1962 at the Suzy-Q; Darryl Glied of the Jumpin' Frog among early presidents"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-walt-stack",
+  "title": "Start slowly and then taper off",
+  "theme": "modern-city",
+  "year": 1966,
+  "yearEnd": 1993,
+  "place": {
+   "label": "South End Rowing Club and Dolphin Club, 500 Jefferson St, Aquatic Park",
+   "lat": 37.80770267212547,
+   "lon": -122.42100162132121,
+   "precision": "building"
+  },
+  "hook": "A former Alcatraz inmate with peacocks tattooed on his chest ran 17 miles a day from Aquatic Park, and started a running club that welcomed women.",
+  "story": "Walt Stack could claim to be the only real Alcatraz prisoner who ever swam from the island to Fisherman's Wharf. As a young soldier he served six months there at hard labour for going AWOL in the Philippines, and he later swam the distance many times as a free man [1]. He joined the Dolphin Club at Aquatic Park in 1965 [2]. The next year he got Dolphins and members of the neighbouring South End Rowing Club together to form a running club that, unusually then, welcomed women and children: the Dolphin South End Runners, now one of the oldest running clubs in the country [1][2][3]. From 1966 until 1993 his routine hardly changed. He biked six hilly miles from his Potrero Hill home to the Wharf, stripped off his shirt to show tattoos of peacocks, wild horses and bathing beauties, ran 17 miles over the Golden Gate Bridge to Sausalito and back, swam a mile in the bay, and then went off to a construction job [1][2]. His motto was \"Start slowly and then taper off.\" He became Dolphin Club president in 1971, started the Double Dipsea trail race in 1970, and died in 1995 aged 87 [2].",
+  "people": [
+   {
+    "name": "Walt Stack",
+    "role": "runner, swimmer, club president"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Walt Stack",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Walt_Stack",
+    "supports": "Alcatraz sentence and swims, founding of DSE with women and children, daily route and tattoos"
+   },
+   {
+    "title": "Famous Dolphins",
+    "publisher": "Dolphin Swimming & Boating Club",
+    "year": null,
+    "url": "https://dolphinclub.org/about/famous-dolphins/",
+    "supports": "Joined 1965, president 1971, daily routine, motto, Double Dipsea 1970, died 1995 at 87"
+   },
+   {
+    "title": "A Timeline",
+    "publisher": "Dolphin Swimming & Boating Club",
+    "year": null,
+    "url": "https://dolphinclub.org/about/a-timeline/",
+    "supports": "1966: Stack organizes the Dolphin South End Runners and serves as first president"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-2p-dolphin-club-women",
+  "title": "Zada Weed rings the Dolphin Club bell",
+  "theme": "civil-rights",
+  "year": 1976,
+  "yearEnd": 1980,
+  "place": {
+   "label": "Dolphin Swimming & Boating Club, 502 Jefferson St",
+   "lat": 37.80764545532635,
+   "lon": -122.42136103733684,
+   "precision": "building"
+  },
+  "hook": "For 99 years the Dolphin Club was for men only. A teenage girl crashed its Golden Gate swim in 1937. In 1976 six women's lawsuit finally opened the doors.",
+  "story": "Two German immigrants, John Wieland and Valentine Kehrlein, founded the Dolphin Swimming and Boating Club in August 1877. Six of their sons were among its 25 charter members [1]. It stayed a men's club for nearly a century. In 1937, the year the Golden Gate Bridge was completed, 16-year-old Zada Weed swam across the Golden Gate with the Dolphins' otherwise all-male swim, coached by the club's Charlie Sava, and stole the publicity [1][2]. \"I'd ring the bell, and someone always let me in,\" she recalled [2]. In 1949 Anita Day Hubbard was made an honorary member, considered the club's first woman [1]. Real change came through the courts. After a successful lawsuit by six women, the rowing clubs began accepting women, and five joined the Dolphin Club in October 1976. Zada Weed Taft, by then a swim coach, was among them [1][2]. Fifty more joined the next year [1]. The first women's locker room opened in 1978, with 62 lockers and four shower heads. That same year the city evicted the neighbouring San Francisco Rowing Club for refusing to admit women and provide public access [1]. In 1980 Cynthia Ehrlich became the first woman elected to the Dolphin board [1].",
+  "people": [
+   {
+    "name": "Zada Weed Taft",
+    "role": "swimmer, among first women members"
+   },
+   {
+    "name": "Cynthia Ehrlich",
+    "role": "first woman on the board"
+   },
+   {
+    "name": "Charlie Sava",
+    "role": "coach"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A Timeline",
+    "publisher": "Dolphin Swimming & Boating Club",
+    "year": null,
+    "url": "https://dolphinclub.org/about/a-timeline/",
+    "supports": "1877 founding, 1937 Weed swim, 1949 Hubbard, 1976 lawsuit and first members, 1978 locker room and SF Rowing Club eviction, 1980 Ehrlich"
+   },
+   {
+    "title": "Famous Dolphins",
+    "publisher": "Dolphin Swimming & Boating Club",
+    "year": null,
+    "url": "https://dolphinclub.org/about/famous-dolphins/",
+    "supports": "Zada Weed Taft at 16 in 1937, quote, joined October 1976"
+   }
+  ],
+  "photo": null
+ }
+]

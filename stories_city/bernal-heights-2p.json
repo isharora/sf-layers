@@ -1,0 +1,669 @@
+[
+  {
+    "id": "bernal-heights-2p-alemany-flume",
+    "title": "When Alemany Boulevard was a creek",
+    "theme": "parks-nature",
+    "year": 1860,
+    "yearEnd": null,
+    "place": {
+      "label": "South slope of Bernal Hill above Alemany Boulevard",
+      "lat": 37.7368,
+      "lon": -122.4105,
+      "precision": "area"
+    },
+    "hook": "Before the freeway, a wooden flume wrapped around Bernal Hill, a railroad crossed it, and a funeral hearse got stuck in the creek below.",
+    "story": "The traffic on Alemany Boulevard and I-280 follows old water. One branch of Islais Creek ran east along Mission Street to where the Mission Street viaduct now stands, then along the line of Alemany towards the bay [1]. In 1860 the Spring Valley water company built a flume that carried Islais Creek water from near Glen Park around the south and east slopes of Bernal Hill to a reservoir at 16th and Brannan streets [2]. A photo from the early 1910s (captions date it 1912 and 1913) shows the flume crossing the Ocean Shore Railroad on the south slope. A barn in the background stood at what is now the southern corner of the Alemany Farmers Market [3]. The Ocean Shore line, meant to reach Santa Cruz but never finished, began construction in 1905 and ran until 1920 [4]. Frank R. Quinn remembered a story his father told him. A horse-drawn funeral procession for a drowned cousin was heading down Mission Street to Holy Cross Cemetery when it reached the creek, and the hearse sank into the sand. The mourners took off their shoes and stockings, rolled up their trousers and pushed it across to the far bank [3].",
+    "people": [
+      {
+        "name": "Frank R. Quinn",
+        "role": "memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Islais Creek",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Islais_Creek",
+        "supports": "Creek branch along Mission Street and parallel to Alemany Boulevard"
+      },
+      {
+        "title": "Alemany view",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Alemany_view",
+        "supports": "1860 Spring Valley flume route; 1912 photo of the Ocean Shore Railroad crossing"
+      },
+      {
+        "title": "Over the Waters . . .",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Over_the_Waters_._._.",
+        "supports": "1913 photo, the barn at the market site, Quinn's hearse story"
+      },
+      {
+        "title": "Ocean Shore Railroad",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Ocean_Shore_Railroad",
+        "supports": "Railroad operated 1905 to 1920"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-college-hill-reservoir",
+    "title": "The keeper's cottage by the reservoir",
+    "theme": "gold-rush-victorian",
+    "year": 1870,
+    "yearEnd": null,
+    "place": {
+      "label": "College Hill Reservoir keeper's cottage site, 336 Elsie Street",
+      "lat": 37.739,
+      "lon": -122.4203,
+      "precision": "block"
+    },
+    "hook": "A naked bather with a beribboned wand, a drowning and a firefighter's rescue: a century of drama at Bernal's open reservoir.",
+    "story": "The Spring Valley Water Company built College Hill Reservoir at the edge of Holly Park in 1870, and a keeper's cottage went up beside it at 336 Elsie Street in 1871 [1]. For years the water lay open to the sky, as photos from 1913 show [2]. It drew people in. One December morning in 1877 Mrs. Peter Brickley of Cherubusco Street walked up to the reservoir wearing nothing but a wand tipped with coloured ribbons. She bathed first in a trough and then in the reservoir itself. The keeper's elderly father tried to fend her off with a garden rake, She was taken to the City Prison, and neighbours drank well water for a few days [1]. In April 1892 the keeper, Thomas Quinlan, found his wife Caroline floating near the shore [1][3]. In January 1916 Edward Ford, a relief firefighter at the Holly Park station, jumped in and wrestled out Agnes Graham, who was trying to drown herself [1]. In 1968 the Junior League named the farmhouse-like cottage one of four architecturally significant buildings in Bernal. After it fell into disrepair, the Public Utilities Commission tore it down in 1971 [1].",
+    "people": [
+      {
+        "name": "Thomas Quinlan",
+        "role": "reservoir keeper"
+      },
+      {
+        "name": "Caroline Quinlan",
+        "role": "keeper's wife"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Cottage by the Reservoir, and the Day It Was Demolished",
+        "publisher": "Bernalwood (Vicky Walker, Bernal Heights History Project)",
+        "year": 2011,
+        "url": "https://bernalwood.com/2011/04/26/the-cottage-by-the-reservoir-and-the-day-it-was-demolished/",
+        "supports": "Construction dates, the 1877, 1892 and 1916 incidents, demolition"
+      },
+      {
+        "title": "Holly Park view",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Holly_Park_view",
+        "supports": "1913 photos of the uncovered reservoir and keeper's house on Elsie"
+      },
+      {
+        "title": "Bernal Heights Historical News Stories",
+        "publisher": "Bernal Heights History Project",
+        "year": 2018,
+        "url": "https://web.archive.org/web/2018/http://www.bernalhistoryproject.org/inthenews.php",
+        "supports": "April 1892 Chronicle story on the reservoir-keeper's wife drowning"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-st-lukes-origins",
+    "title": "A hospital for 'all creeds and color'",
+    "theme": "gold-rush-victorian",
+    "year": 1871,
+    "yearEnd": null,
+    "place": {
+      "label": "Esmeralda and Prospect Avenues, first home of St. Luke's Hospital",
+      "lat": 37.7434,
+      "lon": -122.4184,
+      "precision": "block"
+    },
+    "hook": "St. Luke's Hospital started with room for twenty patients in a cluster of buildings on the west slope of Bernal Hill.",
+    "story": "San Francisco's hospitals in 1871 mostly served their own: the French, the Germans, the Italians, the Catholics. That year the Protestant Episcopal Church opened St. Luke's in a group of buildings around Esmeralda and Prospect avenues, on the west side of Bernal Hill, with room for 20 patients [1]. From the start its founders planned for it to be \"open to the sick of all nations and denominations… people of all creeds and color\" [1]. The managers raised money across the city, and in 1874 they bought a two-acre lot at Valencia and Army (now Cesar Chavez) streets. The first permanent building went up there in 1874–75, and by 1878 D. O. Mills and James R. Keane had paid for two more buildings [1]. A later summary dates the move off the hill to the 1880s, so sources differ on exactly when the hilltop cottages closed [2]. St. Luke's joined California Pacific Medical Center in 2007 [2], and a new hospital has since risen on Valencia Street [1].",
+    "people": [
+      {
+        "name": "D. O. Mills",
+        "role": "donor"
+      },
+      {
+        "name": "James R. Keane",
+        "role": "donor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "St. Luke's Hospital: A Closer Look",
+        "publisher": "FoundSF (Woody LaBounty, OpenSFHistory)",
+        "year": 2018,
+        "url": "https://www.foundsf.org/index.php?title=St._Luke%27s_Hospital:_A_Closer_Look",
+        "supports": "1871 opening at Esmeralda and Prospect, 20 patients, Episcopal founders, 1874 Valencia lot, Mills and Keane buildings"
+      },
+      {
+        "title": "California Pacific Medical Center",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/California_Pacific_Medical_Center",
+        "supports": "Founded 1871 on Bernal Hill; moved in the 1880s; merged with CPMC 2007"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-salomon-stockyard",
+    "title": "The stockyard by Seculovich's kitchen",
+    "theme": "labor-industry",
+    "year": 1893,
+    "yearEnd": null,
+    "place": {
+      "label": "Mission Street at Fair Avenue",
+      "lat": 37.74527,
+      "lon": -122.41978,
+      "precision": "block"
+    },
+    "hook": "Cows on Mission Street, manure by the kitchen door, and a neighbour who wouldn't stop complaining until the Board of Health listened.",
+    "story": "In 1893 the law allowed no more than two cows on a city lot, but the district it covered was loosely drawn [1]. On Mission Street at Fair Avenue, roughly where Taqueria Cancun is today, Salomon's stockyard held cows, horses and goats among piles of manure. It had 200 feet of frontage on Mission Street [1]. Right next door lived Peter Seculovich, a former locksmith turned property owner, whose yard was full of flowers and fruit trees. The back of Salomon's cow stables sat a few feet from his kitchen door [1][2]. Seculovich was president of the new Mission Street and Precita Valley Improvement Club, and it voted to help the authorities remove the yard. The Board of Health had Salomon arrested three times [1][2]. \"It is all spitework,\" Salomon told the Call, \"caused by this man Seculovich\" [1]. Seculovich had already become famous for putting a price of $250 on each cherry tree the city wanted for a street widening. That autumn the club gave him a gold-headed cane [2].",
+    "people": [
+      {
+        "name": "Peter T. Seculovich",
+        "role": "neighbour and improvement-club president"
+      },
+      {
+        "name": "Salomon",
+        "role": "stockyard owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Victorian NIMBYs Were Very Annoyed By Stinky Stockyards in Bernal Heights",
+        "publisher": "Bernalwood (reprinting the San Francisco Morning Call, 29 July 1893)",
+        "year": 2014,
+        "url": "https://bernalwood.com/2014/10/16/victorian-nimbys-were-very-annoyed-by-stinky-stockyards-in-bernal-heights/",
+        "supports": "Stockyard location, conditions, arrests, Salomon's quote"
+      },
+      {
+        "title": "Seculovich's Lots in Mission and Bernal",
+        "publisher": "FoundSF",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=Seculovich%27s_Lots_in_Mission_and_Bernal",
+        "supports": "Improvement club, cherry-tree valuation, gold-headed cane"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-burnham-plan",
+    "title": "Burnham's temple for Bernal Hill",
+    "theme": "architecture-landmarks",
+    "year": 1905,
+    "yearEnd": null,
+    "place": {
+      "label": "North face of Bernal Hill along the line of Shotwell Street",
+      "lat": 37.7445,
+      "lon": -122.4155,
+      "precision": "area"
+    },
+    "hook": "The 1905 plan to remake San Francisco as a Paris by the Bay put a monumental building on Bernal Hill.",
+    "story": "Daniel Burnham designed Chicago's 1893 White City, the model for the City Beautiful movement. Downtown business owners then hired him to make San Francisco majestic. His team worked out of a cottage on Twin Peaks and finished the plan in autumn 1905. According to legend, the printed copies reached City Hall on April 17, 1906, the day before the earthquake [1][2]. The map gave Bernal Hill a starring role. It would be the southern end of two grand promenades: a 'Mission Parkway' running east–west between 23rd and 24th streets, and a 'Mission Arcade' in place of today's South Van Ness Avenue [2]. A broad garden would run up the north face of the hill roughly along Shotwell Street, from Army Street (now Cesar Chavez) up to Stoneman, and a large neo-classical building would look out over the Mission. The plan never said what it would be for [2]. After the disaster, San Franciscans wanted to rebuild quickly and in a familiar way, and Burnham's Bernal never happened [1].",
+    "people": [
+      {
+        "name": "Daniel H. Burnham",
+        "role": "architect and planner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Unbuilt",
+        "publisher": "99% Invisible",
+        "year": 2013,
+        "url": "https://99percentinvisible.org/episode/unbuilt/",
+        "supports": "Burnham's background, Twin Peaks cottage, 1905 completion, April 17, 1906 legend"
+      },
+      {
+        "title": "Unbuilt Bernal Heights: Our Future That Never Was",
+        "publisher": "Bernalwood",
+        "year": 2013,
+        "url": "https://bernalwood.com/2013/11/14/unbuilt-bernal-heights-our-future-that-never-was/",
+        "supports": "Bernal details of the 1905 Burnham map: promenades, garden, monumental building"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-lyceum-theatre",
+    "title": "The 'Lice House' on Mission Street",
+    "theme": "architecture-landmarks",
+    "year": 1907,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Lyceum Theatre, 3350 Mission Street (now Safeway)",
+      "lat": 37.74321,
+      "lon": -122.42219,
+      "precision": "building"
+    },
+    "hook": "For half a century the outer Mission went to the movies at the Lyceum on Mission Street. Some patrons went home scratching.",
+    "story": "The Lyceum Theatre opened in mid-1907 on Mission Street at Virginia Avenue, showing vaudeville and motion pictures [1]. By the late 1920s it was showing Vitaphone talking pictures. For the next 25 years it was a cheap, late-run house for the outer Mission [1][2]. Commenters on Cinema Treasures have found that a 'New Lyceum', credited to the Reid Brothers, opened in October 1920 with about 1,750 seats. Whether it was a rebuild or a new auditorium added behind the old front isn't clear [1]. Television hit second-run houses like this early in the 1950s. After several closings and reopenings it served for a time as home to the San Francisco Revival Center church. By 1968 it was gone, and the site became a supermarket and its parking lot [1]. The Bernal Heights History Project says some locals called it the 'Lice House' because they often came home itching. One Cinema Treasures commenter remembered bumps on her neck after a childhood visit and a furious mother on the phone [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Lyceum Theatre, 3350 Mission Street",
+        "publisher": "Cinema Treasures",
+        "year": 2024,
+        "url": "https://cinematreasures.org/theaters/5399",
+        "supports": "1907 opening, 1,400 seats, Vitaphone, church use, demolition and supermarket; 1920 New Lyceum notes; itching memory"
+      },
+      {
+        "title": "Ghost of Lyceum Theater Haunts Safeway Parking Lot",
+        "publisher": "Bernalwood",
+        "year": 2013,
+        "url": "https://bernalwood.com/2013/03/28/ghost-of-lyceum-theater-haunts-safeway-parking-lot/",
+        "supports": "Location at Mission and Virginia; 'Lice House' nickname"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-eugene-paton",
+    "title": "Nine brothers and a union boss",
+    "theme": "labor-industry",
+    "year": 1940,
+    "yearEnd": null,
+    "place": {
+      "label": "28 Bennington Street",
+      "lat": 37.73968,
+      "lon": -122.4179,
+      "precision": "building"
+    },
+    "hook": "At 27 the ILWU's future first secretary-treasurer still shared a small Bernal house with his mother and eight brothers. He once had an affair with Katharine Graham.",
+    "story": "In 1940 Eugene 'Pat' Paton, aged 27, was still living with his mother and eight of his brothers at 28 Bennington Street, a house that is 'not particularly large'. His brother Robert remembered: \"Pray you get in the bed first,\" or there was no room [1]. He was one of twelve children; their father worked the killing floor in Butchertown. The brothers became firefighters, Muni conductors and Teamsters [1]. Pat became the chief organiser of the city's warehouse workers after the 1934 waterfront strike. He was president of ILWU Local 6 from 1938 to 1940 and then the union's first secretary-treasurer. Arbitrator Sam Kagel called him the best negotiator he ever met [1]. In 1938 he drank on the waterfront with Harry Bridges and a young labour reporter, Katharine Meyer, later Katharine Graham of the Washington Post. Paton was married, and the affair was brief, but she mentioned him in her memoirs [1]. He enlisted in 1943 and was promoted in the field at the Battle of the Bulge. He struggled with drink, and on March 22, 1951, aged 38, he jumped from the Golden Gate Bridge. Bridges gave the funeral oration [1].",
+    "people": [
+      {
+        "name": "Eugene 'Pat' Paton",
+        "role": "ILWU leader"
+      },
+      {
+        "name": "Harry Bridges",
+        "role": "ILWU president"
+      },
+      {
+        "name": "Katharine Graham",
+        "role": "reporter, later publisher"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eugene \"Pat\" Paton",
+        "publisher": "FoundSF (Bernal History Project)",
+        "year": 2008,
+        "url": "https://www.foundsf.org/index.php?title=Eugene_%22Pat%22_Paton",
+        "supports": "28 Bennington, family, ILWU career, Graham affair, death"
+      },
+      {
+        "title": "Making the Hill Red: Bernal Labor Activists",
+        "publisher": "FoundSF (Bernal History Project)",
+        "year": 2008,
+        "url": "https://www.foundsf.org/index.php?title=Making_the_Hill_Red:_Bernal_Labor_Activists",
+        "supports": "Paton as one of six Bernal labour 'reds', 1913–1951; Bernal's history as 'Red Hill'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-sports-center-bowling",
+    "title": "A bowling palace in a streetcar barn",
+    "theme": "war-military",
+    "year": 1942,
+    "yearEnd": null,
+    "place": {
+      "label": "Sports Center, 3333 Mission Street (former Mission car barn)",
+      "lat": 37.74348,
+      "lon": -122.42105,
+      "precision": "building"
+    },
+    "hook": "Wartime San Francisco bowled in a converted car barn. When it burned, the government found the steel to rebuild it.",
+    "story": "For decades 3333 Mission Street was a Market Street Railway car barn [1][2]. Bernal's two car barns at the foot of the hill saw pitched battles during the 1907 carmen's strike, the city's deadliest [3]. The old barn's brick walls and steel frame were reused for the Sports Center, which opened on July 1, 1942. It had 38 bowling lanes, eight badminton courts, table tennis, a cocktail bar and caricatures of Joe DiMaggio and Joe Louis by muralist Don Clever [2]. On February 8, 1944, a fire broke out in an attic storeroom full of paint and lacquer and gutted the building. A firefighter's son watched his father climb onto the roof, get an uneasy feeling and order his crew down minutes before it collapsed. The bar's liquor was saved [2]. Some questioned whether a nation at war could spare steel for a bowling alley. Supervisor Edward Mancuso, one of the directors who rebuilt it, said the government had granted AA-3 priority because bowling soothed 'the tension of war workers and service men'. It reopened in August 1945 [2].",
+    "people": [
+      {
+        "name": "Edward T. Mancuso",
+        "role": "supervisor and director"
+      },
+      {
+        "name": "Don Clever",
+        "role": "muralist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Once Upon a Time, There Was Bowling in Bernal Heights",
+        "publisher": "Bernalwood",
+        "year": 2011,
+        "url": "https://bernalwood.com/2011/11/10/once-upon-a-time-there-was-bowling-in-bernal-heights/",
+        "supports": "Car barn history of 3333 Mission"
+      },
+      {
+        "title": "1944: Another Big Fire on the 3300 Block of Mission Street",
+        "publisher": "Bernalwood (Bernal Heights History Project)",
+        "year": 2016,
+        "url": "https://bernalwood.com/2016/10/26/1944-another-big-fire-on-the-3300-block-of-mission-street/",
+        "supports": "1942 opening, facilities, 1944 fire, wartime priority, 1945 reopening"
+      },
+      {
+        "title": "Making the Hill Red: Bernal Labor Activists",
+        "publisher": "FoundSF (Bernal History Project)",
+        "year": 2008,
+        "url": "https://www.foundsf.org/index.php?title=Making_the_Hill_Red:_Bernal_Labor_Activists",
+        "supports": "Bernal car barns fought over in the 1907 strike"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-cherokee-mural",
+    "title": "The mural painted for beer money",
+    "theme": "arts-counterculture",
+    "year": 1943,
+    "yearEnd": null,
+    "place": {
+      "label": "453 Cortland Avenue (The Cherokee, Skip's Tavern, Lucky Horseshoe)",
+      "lat": 37.73927,
+      "lon": -122.41677,
+      "precision": "building"
+    },
+    "hook": "A strange Wild West mural has watched over three eras of a Cortland dive bar. Legend says it got odder as its painter got drunker.",
+    "story": "Above the door inside 453 Cortland Avenue is a faded mural of cowboys, Indians and rolling western landscapes [1]. The painter was Harold Vick, born in 1915, a card writer for the Sommer and Kaufmann shoe store on Market Street. His brother Melvin and sister-in-law Barbara ran the bar, then called The Cherokee, from 1943 to 1946. So the Bernal Heights History Project thinks the mural dates from those years [1]. The story goes that Harold painted for beer money, and the drunker he got, the odder the mural became. He also painted 'After Cassino' for a bar at 309 Cortland. It is said to be based on a singed sketch he found in a field while crossing it with his platoon in World War II [1]. Oddly, Vick is absent from city directories from 1942 on, so the dating is a best guess [1]. After decades as The Cherokee, the room became Skip's Tavern, a rough-edged bar known for nightly blues, pool and cheap drinks. It kept a permanent altar to Regi, a beloved figure who died around 2010, and it clashed with newer neighbours over noise [1][2]. The Lucky Horseshoe took over in 2011 and kept the mural [1].",
+    "people": [
+      {
+        "name": "Harold Vick",
+        "role": "painter"
+      },
+      {
+        "name": "Melvin Vick",
+        "role": "bar owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Barroom History of the Odd Mural in the Lucky Horseshoe",
+        "publisher": "Bernalwood (Bernal Heights History Project)",
+        "year": 2016,
+        "url": "https://bernalwood.com/2016/04/07/a-barroom-history-of-the-odd-mural-in-the-lucky-horseshoe/",
+        "supports": "Harold Vick, the Cherokee, dates, beer-money legend, After Cassino, later bars"
+      },
+      {
+        "title": "Documenting the Lost Blues Scene at Skip's Tavern",
+        "publisher": "Bernalwood",
+        "year": 2011,
+        "url": "https://bernalwood.com/2011/05/24/documenting-the-lost-blues-scene-at-skips-tavern/",
+        "supports": "Skip's blues scene, Regi's altar, noise complaints"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-bullitt-chase",
+    "title": "Where the Bullitt chase begins",
+    "theme": "modern-city",
+    "year": 1968,
+    "yearEnd": null,
+    "place": {
+      "label": "York Street at Peralta Avenue",
+      "lat": 37.7466,
+      "lon": -122.4058,
+      "precision": "street"
+    },
+    "hook": "Movie history's most famous car chase starts at the foot of Bernal Hill, and two local kids ran into the shot.",
+    "story": "The chase in 'Bullitt' (1968), often called one of the most influential in film history, begins under Highway 101 [1]. Steve McQueen's Mustang picks up the hitmen's Dodge Charger near Cesar Chavez (then Army Street) and Precita Avenue. Bernal Hill is green in the background [2]. The Charger turns off Cesar Chavez and cruises up York Street towards Peralta. At that corner, if you blink you'll miss it, two boys dash across the street [2][3]. Every car on the street was driven by a stunt driver, SF Weekly reported, yet no one stopped the Bernal kids. \"He'd yell 'Cut! Cut!' But, finally, to hell with it. He left it in there,\" one of them, Angel Sanchez Jr., told the paper decades later. \"We must have run across the street three, four times\" [3]. He didn't realise he was in a movie until many years later [3]. The sequence was pieced together from locations miles apart, so the route on screen makes no geographic sense [1][2].",
+    "people": [
+      {
+        "name": "Angel Sanchez Jr.",
+        "role": "Bernal boy in the chase scene"
+      },
+      {
+        "name": "Steve McQueen",
+        "role": "actor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bullitt",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Bullitt",
+        "supports": "Chase begins under Highway 101; stitched-together route; reputation"
+      },
+      {
+        "title": "Let the Chase Begin: Bernal's Bullitt Cameo, Then and Now",
+        "publisher": "Bernalwood",
+        "year": 2011,
+        "url": "https://bernalwood.com/2011/06/28/let-the-chase-begin-bernals-bullitt-cameo-then-and-now/",
+        "supports": "Start at Army and Precita, route up York to Peralta"
+      },
+      {
+        "title": "Meet the Bernal Kid Who Got a Cameo in the Famous Bullitt Car Chase Scene",
+        "publisher": "Bernalwood (quoting Joe Eskenazi, SF Weekly)",
+        "year": 2014,
+        "url": "https://bernalwood.com/2014/05/21/meet-the-bernal-kid-who-got-a-cameo-in-the-famous-bullitt-car-chase-scene/",
+        "supports": "SF Weekly (Joe Eskenazi) account of Angel Sanchez Jr., stunt-driven traffic, quotes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-ribeltad-vorden",
+    "title": "The bar with the garbled motto",
+    "theme": "communities",
+    "year": 1968,
+    "yearEnd": null,
+    "place": {
+      "label": "Ribeltad Vorden, 300 Precita Avenue at Folsom",
+      "lat": 37.74659,
+      "lon": -122.41332,
+      "precision": "building"
+    },
+    "hook": "Named after a misspelled Colombian flag, Bernal's liveliest bar had German shepherds upstairs, a bullet hole in the wall and a tenant with a shotgun.",
+    "story": "Around 1968 Peter Cancilla, heir to Cancilla's Grocery across the street, turned a failing pinball business at 300 Precita Avenue into a bar [1]. The name came from a cloth version of the Colombian coat of arms. Its motto, Libertad y Orden, had been stitched as 'Ribeltad Vorden' [1]. In the late 1960s and early 1970s it was the place to go in Bernal [1][2]. Doyle McGowan bought it in 1971. He opened it for the Bernal Heights Association's 1973 party naming the hilltop park, and let photographer Mark Green run the Nanny Goat Hill Gallery rent-free in a tiny building behind the bar [1]. Life there was lively. A bartender's gun went off and left a hole in the wall. Upstairs lived a tenant who ran a guard-dog rental business. When the bar got too loud she cut the power at the main switch, then waited on the stairs with her dogs and a shotgun for someone to come and turn it back on [1]. McGowan sold up in 1974 [1].",
+    "people": [
+      {
+        "name": "Peter Cancilla",
+        "role": "founder"
+      },
+      {
+        "name": "Doyle McGowan",
+        "role": "owner 1971–74"
+      },
+      {
+        "name": "Jerry Schimmel",
+        "role": "memoirist, Bernal Heights Association president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ribeltad Vorden",
+        "publisher": "FoundSF (Jerry Schimmel)",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Ribeltad_Vorden",
+        "supports": "All details of the bar's history and anecdotes"
+      },
+      {
+        "title": "The Story of the Ribeltad Vorden",
+        "publisher": "Bernal Heights History Project",
+        "year": 2010,
+        "url": "https://web.archive.org/web/2018/http://www.bernalhistoryproject.org/ribeltad.php",
+        "supports": "Original publication of Schimmel's memoir; bar as Bernal's gathering place"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-st-anthonys-fire",
+    "title": "The night St. Anthony's burned",
+    "theme": "communities",
+    "year": 1975,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Anthony's Church, 3215 Cesar Chavez Street (Army Street) at Folsom",
+      "lat": 37.74791,
+      "lon": -122.4146,
+      "precision": "building"
+    },
+    "hook": "Teenagers turned up their car radio to wake the neighbourhood as the old German church went up in flames.",
+    "story": "St. Anthony's began as a German parish. The Chronicle reported its birth in October 1893 [3]. It stood on Army Street at Folsom [1]. At 2:50 a.m. on a June night in 1975 (the Chronicle's front page of June 30 said 'yesterday', though Bernalwood dates the fire June 30), the church at 3215 Army Street caught fire, possibly because bungling poor-box robbers spilled an altar candle they were using for light [2]. Passing youngsters noticed the glow. They turned their car radio up to deafening volume to wake the neighbourhood and shouted to the nine priests in the rectory next door [2]. It became a four-alarm fire. Flames ran along the roof, the transept above the altar collapsed and the clock stopped at 3:12. People from what had once been an all-German neighbourhood gathered in hastily chosen clothes to watch 162 firefighters from 47 engines. Water from the hoses flooded Army Street ankle-deep from Shotwell to Harrison [2]. The church couldn't be saved, but no one was seriously hurt, and a new, smaller St. Anthony's was built [2].",
+    "people": [
+      {
+        "name": "Kevin Wallace",
+        "role": "Chronicle reporter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "This Day in Bernal History: Remembering the St. Anthony's Church Fire of 1975",
+        "publisher": "Bernalwood",
+        "year": 2016,
+        "url": "https://bernalwood.com/2016/06/30/this-day-in-bernal-history-remembering-the-st-anthonys-church-fire-of-1975/",
+        "supports": "Address, date and photos of the church"
+      },
+      {
+        "title": "Chronicle Covers: The great St. Anthony's Church fire of 1975",
+        "publisher": "San Francisco Chronicle",
+        "year": 2016,
+        "url": "https://www.sfchronicle.com/news/article/Chronicle-Covers-The-great-St-Anthony-s-8323755.php",
+        "supports": "Kevin Wallace's 1975 account: cause, alarm, clock, firefighters, flooding, rebuilding"
+      },
+      {
+        "title": "Bernal Heights Historical News Stories",
+        "publisher": "Bernal Heights History Project",
+        "year": 2018,
+        "url": "https://web.archive.org/web/2018/http://www.bernalhistoryproject.org/inthenews.php",
+        "supports": "October 1893 'A German Church': the birth of St. Anthony's"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-first-carnaval",
+    "title": "Carnaval is born in the rain",
+    "theme": "arts-counterculture",
+    "year": 1979,
+    "yearEnd": null,
+    "place": {
+      "label": "Precita Park",
+      "lat": 37.747,
+      "lon": -122.4122,
+      "precision": "area"
+    },
+    "hook": "San Francisco's giant Carnaval began with about 300 drummers and dancers circling Precita Park on a cold, wet February Sunday.",
+    "story": "On February 25, 1979, a windy, cold and rainy Sunday, about three hundred drummers and dancers in bright costumes paraded around Precita Park. It was the first Carnaval in the Mission [1]. Dancer Adela Chu had come back from Brazil in 1978 convinced that 'a city like San Francisco without a carnaval didn't make any sense' [1]. Percussionist Marcus Gordon brought drummers, and costume designer Pam Minor sewed costumes at the last minute with the $5 each participant paid [1][2]. The Precita Valley Community Center, then run by Carole Deutch, lent its gym for rehearsals [1]. The sun came out just as they set off around the park, and the rain returned when they finished [1]. The next year's parade was moved to April and took over Mission Street, growing so large that traffic stopped. Carnaval San Francisco is now held every May [1][2].",
+    "people": [
+      {
+        "name": "Adela Chu",
+        "role": "dancer, founder"
+      },
+      {
+        "name": "Marcus Gordon",
+        "role": "percussionist"
+      },
+      {
+        "name": "Pam Minor",
+        "role": "costume designer"
+      },
+      {
+        "name": "Carole Deutch",
+        "role": "community center director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Birth of Carnaval on the Streets of San Francisco",
+        "publisher": "FoundSF",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=The_Birth_of_Carnaval_on_the_Streets_of_San_Francisco",
+        "supports": "Date, weather, participants, rehearsals, second parade"
+      },
+      {
+        "title": "Carnaval San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Carnaval_San_Francisco",
+        "supports": "Founded 1979 in Precita Park by Gordon, Chu, Santos, Sir Lawrence and Minor; now held in May"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-esmeralda-slides",
+    "title": "The mayor rides the Esmeralda slides",
+    "theme": "modern-city",
+    "year": 1979,
+    "yearEnd": null,
+    "place": {
+      "label": "Esmeralda–Winfield mini-park and slides",
+      "lat": 37.7432,
+      "lon": -122.4172,
+      "precision": "block"
+    },
+    "hook": "Neighbours turned an unbuilt street into a playground with a long double slide, and the new mayor tried it out in slacks.",
+    "story": "Northwest Bernal had no place for children to play between Precita Park and Holly Park. For years neighbours had pushed to turn an unbuilt stretch of Esmeralda Avenue into a park [1]. After losing a race for supervisor in 1977, neighbour Michael Nolan put his energy into the project. First the Board of Supervisors had to 'vacate' what was still legally a street, so that the homeowners next to it would not be liable [1]. Volunteers worked with landscape architect Andrew Butler, and a public-works staffer brought tools, materials and grants. They prepared the land and built the long double slide, a play structure, planter boxes and a trellis [1]. Organisers had hoped Mayor George Moscone would open it, but he and Harvey Milk were assassinated that autumn. So in early 1979 Mayor Dianne Feinstein and Supervisor Lee Dolson did the honours. Feinstein came in slacks rather than a skirt and went down the slide laughing [1][2]. In 2015 neighbours won city funding to replace the ageing trellis [1].",
+    "people": [
+      {
+        "name": "Michael Nolan",
+        "role": "organiser"
+      },
+      {
+        "name": "Dianne Feinstein",
+        "role": "mayor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Victory! City Funds Secured to Restore Esmeralda Mini-Park",
+        "publisher": "Bernalwood",
+        "year": 2015,
+        "url": "https://bernalwood.com/2015/06/25/victory-city-funds-secured-to-restore-esmeralda-mini-park/",
+        "supports": "Nolan's account of the park's creation, dedication, 2015 funding"
+      },
+      {
+        "title": "Remember the Day When DiFi Laughed Her Way Down the Esmeralda Slides",
+        "publisher": "Bernalwood",
+        "year": 2014,
+        "url": "https://bernalwood.com/2014/03/06/remember-when-the-day-when-difi-laughed-her-way-down-the-esmeralda-slides/",
+        "supports": "1979 dedication and Feinstein's ride"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-2p-manchester-cottage",
+    "title": "The cottage on Nanny Goat Hill",
+    "theme": "civil-rights",
+    "year": 2004,
+    "yearEnd": null,
+    "place": {
+      "label": "111 Manchester Street",
+      "lat": 37.74478,
+      "lon": -122.41392,
+      "precision": "building"
+    },
+    "hook": "A run-down Victorian cottage became the rallying point for neighbours who sued the city to stop its demolition, and won.",
+    "story": "The cottage at 111 Manchester Street is about a hundred years old. It sits on Nanny Goat Hill, the steep north slope named for the goats that grazed there before World War II. Until the late 1960s the area was mostly Sicilian [2]. Its absentee owners had let it decay, and plans were drawn for a much larger home. A new buyer took them on. The Board of Permit Appeals overruled the Planning Department and approved demolition [1]. Neighbours formed Bernal Heights Preservation and sued. They argued that the city had broken its own charter and the Bernal Heights Special Use District rules, which limit demolitions [1]. On June 4, 2004, Superior Court Judge Ronald Quidachay agreed and ordered the permit voided [1][2]. \"It's so important to keep this little neighborhood of humble Victorian homes intact,\" said neighbour Kendall Goh [2]. The owner, David Chan, called the ruling 'shocking' and said his new house would be 'conforming and modest' [2]. The judge sent the case back to the Board of Appeals, and the owner later withdrew his demolition permit [1].",
+    "people": [
+      {
+        "name": "Kendall Goh",
+        "role": "neighbour and preservationist"
+      },
+      {
+        "name": "Ronald Quidachay",
+        "role": "Superior Court judge"
+      }
+    ],
+    "sources": [
+      {
+        "title": "111 Manchester Street and the Birth of Bernal Heights Preservation",
+        "publisher": "Bernal Heights History Project",
+        "year": 2004,
+        "url": "https://web.archive.org/web/2018/http://www.bernalhistoryproject.org/manchester.php",
+        "supports": "Permit history, lawsuit, June 4, 2004 ruling"
+      },
+      {
+        "title": "Battle on Nanny Goat Hill",
+        "publisher": "San Francisco Independent (J.K. Dineen)",
+        "year": 2004,
+        "url": "http://web.archive.org/web/20050108065941/http://www.sfindependent.com/article/index.cfm/i/061004n_bernalheights",
+        "supports": "Nanny Goat Hill history, quotes from Goh and the owner"
+      }
+    ],
+    "photo": null
+  }
+]

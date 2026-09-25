@@ -1,0 +1,539 @@
+[
+ {
+  "id": "presidio-heights-2q-cemetery-avenue-steam",
+  "title": "Where the cable ran out at 'Cemetery'",
+  "theme": "gold-rush-victorian",
+  "year": 1880,
+  "yearEnd": 1892,
+  "place": {
+   "label": "California Street at Presidio Avenue (formerly Central Avenue, nicknamed 'Cemetery')",
+   "lat": 37.787323,
+   "lon": -122.447389,
+   "precision": "street"
+  },
+  "hook": "In 1880 two cable car lines ended at Central Avenue, a stop riders called \"Cemetery.\" From there, smoky steam trains carried them on west.",
+  "story": "Presidio Avenue used to be called Central Avenue, and riders knew the stop as \"Cemetery\" [1]. The California Street Cable Railroad began running cable cars from Kearny Street to Central Avenue on May 30, 1879. Its franchise ran on to First Avenue (today's Arguello), and for that last stretch it was allowed to use steam. So the company leased a Southern Pacific locomotive and one car, and they started running from Cemetery Avenue on February 6, 1880. The steam train probably lasted until about 1884. After that a one-horse car took over [1]. A few blocks south, the Geary Street, Park & Ocean Railroad opened on February 16, 1880. Its cable passengers also changed at Central Avenue, onto four Baldwin steam dummies that ran on to Golden Gate Park [1]. The spot was a gateway even before the cable. An 1860s photograph shows a tollhouse on Point Lobos Road, now Geary, near Presidio Avenue, with Calvary Cemetery's graves behind it [2]. By 1890 the Point Lobos Improvement Club was calling the steam dummy a \"noisy, sooty and smoky nuisance.\" Full cable service on the Geary line, from Market Street to Golden Gate Park, opened on August 7, 1892 [1].",
+  "people": [
+   {
+    "name": "Leland Stanford",
+    "role": "backer of the California Street Cable Railroad"
+   }
+  ],
+  "sources": [
+   {
+    "title": "California Street Cable Railroad; Geary Street, Park & Ocean Railroad",
+    "publisher": "The Western Railroader, vol. 23 no. 2 (Internet Archive)",
+    "year": 1960,
+    "url": "https://archive.org/details/sim_western-railroader-the-western-railfan_1960-02_23_2",
+    "supports": "Central Avenue called 'Cemetery'; California cable to Central Ave May 30, 1879; leased SP locomotive from Feb 6, 1880; horse car later; Geary line opened Feb 16, 1880 with transfer to Baldwin steam dummies; 1890 'nuisance' complaint; full cable Aug 7, 1892"
+   },
+   {
+    "title": "Old Cemeteries in the City",
+    "publisher": "FoundSF",
+    "year": 2023,
+    "url": "https://www.foundsf.org/index.php?title=Old_Cemeteries_in_the_City",
+    "supports": "1860s photo caption: tollhouse on Point Lobos Road (now Geary) near Presidio Avenue, Calvary Cemetery graves behind"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-camp-merritt-jordan-park",
+  "title": "A soldiers' hospital on Jordan's sandlots",
+  "theme": "war-military",
+  "year": 1898,
+  "yearEnd": null,
+  "place": {
+   "label": "Jordan Park (blocks between Geary Blvd, California St, Palm Ave and Commonwealth Ave)",
+   "lat": 37.78577,
+   "lon": -122.45724,
+   "precision": "area"
+  },
+  "hook": "Before Jordan Park had lawns and wide streets, it had rows of tents, a crowded field hospital and volunteer soldiers waiting for ships to the Philippines.",
+  "story": "In May 1898, with the Spanish-American War under way, volunteer regiments poured into San Francisco on their way to the Philippines. Thousands camped in the Richmond at Camp Merritt [1]. When the number of soldiers there neared 7,000, the Army spread onto James Clark Jordan's land next door, today's Jordan Park. On May 28 the division hospital moved here. Troops from Montana, North Dakota, South Dakota and Iowa pitched tents on the blocks between Geary Boulevard, California Street, Palm Avenue and Commonwealth Avenue [1]. Sand, fog, thin cotton blankets and poor sanitation made men sick. On July 11 more than 150 soldiers crowded the field hospital, a number of them with pneumonia. Ten men died that summer of measles, typhoid and other diseases. Joseph I. Markey of the 51st Iowa wrote that he hoped \"the guilty will not go unpunished\" [1]. By August the Army had moved the remaining troops back to the Presidio [1]. Jordan had bought these blocks in 1891. Between 1900 and 1920 he developed them into a district of wide streets and large houses set on spacious lots with lawns and gardens [2].",
+  "people": [
+   {
+    "name": "James Clark Jordan",
+    "role": "landowner and developer of Jordan Park"
+   },
+   {
+    "name": "Joseph I. Markey",
+    "role": "soldier, 51st Iowa Infantry"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Camp Merritt",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/camp-merritt.php",
+    "supports": "Camp extension on Jordan's land; hospital moved May 28, 1898; states' troops and block boundaries; 150 in hospital July 11; ten deaths; Markey quote; closure by August"
+   },
+   {
+    "title": "Laurel Heights (Deanna L. Kastler, from The Argonaut, 1993)",
+    "publisher": "FoundSF",
+    "year": 1993,
+    "url": "https://www.foundsf.org/index.php?title=Laurel_Heights",
+    "supports": "Jordan bought the land in 1891, military use in 1898, and developed it 1900–1920 with wide streets and large homes on lawns"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-hahnemann-college",
+  "title": "The homeopaths build a college at Maple Street",
+  "theme": "architecture-landmarks",
+  "year": 1899,
+  "yearEnd": 1915,
+  "place": {
+   "label": "Corner of Sacramento and Maple Streets (site of Hahnemann Hospital College; hospital later on California Street)",
+   "lat": 37.787,
+   "lon": -122.45535,
+   "precision": "block"
+  },
+  "hook": "A contractor who refused to take a dollar, a 2,000-book library and women on the faculty: San Francisco's homeopathic medical school finally got its own home in 1899.",
+  "story": "San Francisco's homeopathic doctors ran their own medical college, named for Samuel Hahnemann, the founder of homeopathy. Early in 1895 its trustees picked a lot at the corner of Sacramento and Maple Streets [1]. Doctors from Oakland to Carson, Nevada chipped in, and the college raised just over $10,000. The contractor, George Lang, was a keen homeopath and refused to take a single dollar for himself [1]. The cornerstone went down on February 4, 1899, and the building was dedicated on July 25 with Mayor Phelan among the speakers. It was a colonial-style building of four floors, and gold letters over the porch read \"Hahnemann Hospital College.\" Inside were a chemistry laboratory, a museum and more than 2,000 volumes collected by Samuel Lilienthal and his son James [1]. Women were on the faculty: Florence N. Ward was professor of obstetrics, and her husband, the dean James W. Ward, taught diseases of women [1]. The cornerstone of a Hahnemann Hospital was laid on May 31, 1905 [1]. It stood on California Street next to Children's Hospital and was damaged in the 1906 earthquake. In 1970 it was renamed Marshall Hale Hospital and later became part of California Pacific Medical Center [2].",
+  "people": [
+   {
+    "name": "George Lang",
+    "role": "contractor who built the college for free"
+   },
+   {
+    "name": "James W. Ward",
+    "role": "dean"
+   },
+   {
+    "name": "Florence N. Ward",
+    "role": "professor of obstetrics"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History of Homoeopathy and Its Institutions in America, vol. 3: Hahnemann Medical College of the Pacific (ed. William Harvey King)",
+    "publisher": "Lewis Publishing Company (Internet Archive)",
+    "year": 1905,
+    "url": "https://archive.org/details/historyhomoeopa00unkngoog",
+    "supports": "1895 lot choice; fundraising; George Lang's unpaid work; 1899 cornerstone and dedication; description of the building; Lilienthal library; 1899–1900 faculty list; hospital cornerstone May 31, 1905"
+   },
+   {
+    "title": "Streetwise: Hospitals in the Western Neighborhoods",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-hospitals-in-san-franciscos-western-neighborhoods.php",
+    "supports": "Hahnemann Hospital on California Street beside Children's Hospital from just before 1906; quake damage; renamed Marshall Hale in 1970; later part of CPMC"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-vogue-theatre",
+  "title": "The Elite, the Rex, the Plaza, the Vogue",
+  "theme": "arts-counterculture",
+  "year": 1938,
+  "yearEnd": 2025,
+  "place": {
+   "label": "Vogue Theatre, 3290 Sacramento Street",
+   "lat": 37.788453,
+   "lon": -122.446722,
+   "precision": "building"
+  },
+  "hook": "A little neighbourhood cinema has gone through four names and more than a century. In 2007 it was feared lost; in 2025 it got its neon back.",
+  "story": "The small cinema at 3290 Sacramento Street is one of the city's oldest. Sources disagree on when it opened. Cinema Treasures says it opened as the Elite Theatre in 1910. Its current operator says it was established in 1912 [1][3]. It was renamed the Rex in 1919 and was the Plaza by 1932. On July 1, 1938 it reopened as the Vogue, with Katharine Hepburn in Bringing Up Baby and Jack Holt in Under Suspicion. The Blumenfeld circuit ran it then. United Artists ran it later [1]. Cinema Treasures lists Simeon Charles Lee as architect, and its style as Streamline Moderne [1]. In 2007 the Vogue closed for a short while, and people feared it would be torn down. Instead a small non-profit bought it and volunteers reopened it [2]. Today the San Francisco Neighborhood Theater Foundation owns it and the non-profit CinemaSFBay runs it [3]. On December 3, 2025 Mayor Daniel Lurie cut the ribbon and lit its restored marquee. Neon Works had spent five months on it, replacing the transformers and reusing some of the original tubes. Afterwards everyone was invited to stay for a free screening of the 1936 film San Francisco [3][4].",
+  "people": [
+   {
+    "name": "Simeon Charles Lee",
+    "role": "architect (per Cinema Treasures)"
+   },
+   {
+    "name": "Daniel Lurie",
+    "role": "mayor who relit the marquee in 2025"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Vogue Theatre, 3290 Sacramento Street",
+    "publisher": "Cinema Treasures",
+    "year": null,
+    "url": "https://cinematreasures.org/theaters/3394",
+    "supports": "Elite 1910, Rex 1919, Plaza by 1932, reopened as Vogue July 1, 1938 with Bringing Up Baby; operators; architect and style"
+   },
+   {
+    "title": "Vogue Theatre Reopens",
+    "publisher": "Cinema Treasures",
+    "year": 2007,
+    "url": "https://cinematreasures.org/blog/2007/9/6/vogue-theatre-reopens",
+    "supports": "Brief 2007 closure, feared demolition, bought by a small non-profit and reopened by volunteers"
+   },
+   {
+    "title": "Vogue Theater Neon Sign Restoration Lighting Ceremony",
+    "publisher": "CinemaSFBay",
+    "year": 2025,
+    "url": "https://cinemasfbay.org/2025/11/24/vogue-theater-neon-sign-restoration-lighting-ceremony/",
+    "supports": "'Established 1912'; announcement of the Dec 3, 2025 relighting; Neon Works restoration; owner (SF Neighborhood Theater Foundation) and operator (CinemaSFBay)"
+   },
+   {
+    "title": "Vogue Theater Neon Marquee Lighting & San Francisco Screening",
+    "publisher": "CinemaSFBay",
+    "year": 2025,
+    "url": "https://cinemasfbay.org/2025/12/03/vogue-theater-neon-marquee-lighting-san-francisco-screening/",
+    "supports": "Mayor Lurie cut the ribbon and lit the marquee on Dec 3, 2025; five-month Neon Works restoration reusing original tubes; free screening of San Francisco afterwards"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-presidio-division",
+  "title": "Muni's first car house, cut by a cemetery",
+  "theme": "labor-industry",
+  "year": 1912,
+  "yearEnd": null,
+  "place": {
+   "label": "Presidio Division (Geary Car House), 949 Presidio Avenue at Geary Boulevard",
+   "lat": 37.783123,
+   "lon": -122.446081,
+   "precision": "building"
+  },
+  "hook": "America's first big-city public transit system was run for nearly a century from a car barn with one corner lopped off, because a graveyard was in the way.",
+  "story": "In 1912 the new Municipal Railway built its Geary Car House at Geary and Presidio Avenue. It was a reinforced-concrete building on bedrock, with streetcar shops, storage tracks, a three-storey office tower and an Art Deco relief over the bronze doors at 949 Presidio Avenue [1]. Its neighbours were the dead: Laurel Hill Cemetery lay to the north and Calvary Cemetery across Geary. The building's northeast corner had to be cut at an odd angle to fit the edge of Laurel Hill, and the clipped corner can still be seen beside the bus-yard entrance [2]. The cemeteries also blocked streets. Bush and Post dead-ended at Laurel Hill, and business owners had to settle for a short jog linking Bush with Masonic [3]. After Laurel Hill's graves went to Colma, Muni dug a trolley-bus yard in the late 1940s right on top of the old cemetery ground, and the building became Presidio Division [1][2]. The streetcar bays along Geary were once used to store the city's voting machines. The building was Muni's headquarters until the early 2000s. It is now Muni's oldest bus yard, and SFMTA plans to rebuild it [1].",
+  "people": [
+   {
+    "name": "Jeremy Menzies",
+    "role": "SFMTA historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Presidio Yard Modernization Project: History of Presidio Yard",
+    "publisher": "SFMTA",
+    "year": null,
+    "url": "https://www.sfmta.com/projects/presidio-yard-modernization-project",
+    "supports": "Built 1912 as Geary Car House; construction details; 1914 addition; late-1940s trolley bus yard; voting machines; HQ until early 2000s; oldest bus yard; rebuild plan"
+   },
+   {
+    "title": "The Secret, Sepulchral History of Muni's Original Headquarters",
+    "publisher": "SFMTA (Jeremy Menzies)",
+    "year": 2017,
+    "url": "https://www.sfmta.com/blog/secret-sepulchral-history-munis-original-headquarters",
+    "supports": "Cemetery neighbours; clipped northeast corner; bus yard atop former Laurel Hill Cemetery"
+   },
+   {
+    "title": "Streetwise: Dearly Departed (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": 2001,
+    "url": "https://www.outsidelands.org/sw10.php",
+    "supports": "Bush and Post dead-ending at Laurel Hill; business owners settled for a jog connecting Bush with Masonic"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-ghadar-wood-street",
+  "title": "An empire's enemies on Wood Street",
+  "theme": "civil-rights",
+  "year": 1917,
+  "yearEnd": 1975,
+  "place": {
+   "label": "Ghadar Memorial (Gadar Memorial Hall), 5 Wood Street",
+   "lat": 37.783635,
+   "lon": -122.449678,
+   "precision": "building"
+  },
+  "hook": "On a short street above Geary, Indian revolutionaries ran their headquarters and printing press, working to overthrow British rule a world away.",
+  "story": "The Ghadar Party was founded in San Francisco in 1913 to free India from British rule by force. Most of its members were South Asian workers on the West Coast [1][2]. Its weekly paper, Ghadar, first came out in November 1913. Its masthead called itself \"an enemy of British rule\" [1]. The party began at 436 Hill Street, active there from 1913 to 1917, and then moved its headquarters to 5 Wood Street [2]. The three-storey house there held a printing press and people living and working together, and it hosted public and secret meetings [2]. In August 1914 the party called on overseas Indians to go home and rise up, and some 8,000 were said to have gone. Because of strong British vigilance, most were captured on the way or when they arrived [2]. The Hindu-German Conspiracy Trial that followed in San Francisco broke up what was left of the leadership. In the courtroom one defendant, Ram Singh, shot the party leader Ram Chandra dead [1]. After independence the building passed to the Government of India, formally in 1952. Ground was broken in September 1974 and the memorial opened in March 1975 [2]. The consulate calls that work a restoration, but FoundSF says the present building went up after the original was demolished [1][2].",
+  "people": [
+   {
+    "name": "Har Dayal",
+    "role": "Ghadar Party leader"
+   },
+   {
+    "name": "Ram Chandra",
+    "role": "Ghadar Party leader, killed during the conspiracy trial"
+   },
+   {
+    "name": "T. N. Kaul",
+    "role": "Indian ambassador who opened the memorial in 1975"
+   }
+  ],
+  "sources": [
+   {
+    "title": "India's Ghadar Party Born in San Francisco (Nishtha Bhatia)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=India%27s_Ghadar_Party_Born_in_San_Francisco",
+    "supports": "Party aims and membership; the Ghadar paper from Nov 1913 and its masthead; the conspiracy trial and Ram Chandra's killing; new building after the original's demolition"
+   },
+   {
+    "title": "Gadar Memorial Hall",
+    "publisher": "Consulate General of India, San Francisco",
+    "year": null,
+    "url": "https://www.cgisf.gov.in/page/gadar-memorial-hall/",
+    "supports": "436 Hill St 1913–1917 then 5 Wood St; uses of the three-storey building; Aug 1914 call and ~8,000 returnees; 1949/1952 transfer; $83,000 restoration; Sept 1974 groundbreaking; March 1975 inauguration"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-campfire-girls-hall",
+  "title": "A redwood hall for the Campfire Girls",
+  "theme": "architecture-landmarks",
+  "year": 1929,
+  "yearEnd": null,
+  "place": {
+   "label": "Campfire Girls Building (Campfire Golden Gate Council Headquarters), 325 Arguello Boulevard",
+   "lat": 37.78459,
+   "lon": -122.459491,
+   "precision": "building"
+  },
+  "hook": "A student of Bernard Maybeck gave a girls' club a Bay Area Craftsman clubhouse, with redwood trusses vaulting over its meeting hall.",
+  "story": "In 1929 the Campfire Girls Association Building went up on Arguello Boulevard between California and Clement. Its architect was Henry Gutterson [1]. The city's landmark report calls it a significant example of the Bay Area Craftsman style, with picturesque, irregular massing [1]. Inside, redwood was used for the trim, panelling and beams, and the \"central meeting hall\" rises into trussed cathedral vaults [1]. Gutterson was one of the second generation of Bay Area architects who followed Bernard Maybeck, Ernest Coxhead, Willis Polk and A. Page Brown. He had studied under Maybeck at Berkeley and worked with him on buildings including the First Church of Christ, Scientist in Berkeley. He also designed more than thirty houses in St. Francis Wood [1]. The City Planning Commission recommended it for landmark status in February 1984 [1]. It became San Francisco Landmark No. 169 on June 30, 1984 [2].",
+  "people": [
+   {
+    "name": "Henry Gutterson",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #169: Campfire Girls Building",
+    "publisher": "NoeHill in San Francisco (adapted from City Planning Commission Resolution 9953)",
+    "year": 2004,
+    "url": "http://noehill.com/sf/landmarks/sf169.asp",
+    "supports": "1929 date; Gutterson; Bay Area Craftsman style; redwood interior and trussed vaults; Gutterson biography; 1984 resolution"
+   },
+   {
+    "title": "List of San Francisco Designated Landmarks",
+    "publisher": "Wikipedia (pointer to city designation list)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/List_of_San_Francisco_Designated_Landmarks",
+    "supports": "Landmark No. 169, 325 Arguello Boulevard, designated June 30, 1984"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-bridge-theatre",
+  "title": "A cinema named for the new bridge",
+  "theme": "arts-counterculture",
+  "year": 1939,
+  "yearEnd": 2012,
+  "place": {
+   "label": "Bridge Theatre, 3010 Geary Boulevard at Blake Street",
+   "lat": 37.782255,
+   "lon": -122.451461,
+   "precision": "building"
+  },
+  "hook": "It opened in 1939 as a cut-price, late-run neighbourhood house, then spent over half a century as one of the city's great art cinemas.",
+  "story": "Attilio A. Zerga built the New Bridge on Geary at Blake Street. It opened in July 1939 with Irene Dunne and Charles Boyer in Love Affair [1]. The theatre historian Jack Tillmany gives July 21, and Cinema Treasures July 22 [1][2]. The name honoured the Golden Gate Bridge, which had opened in 1937 [1]. Until the mid-1950s it was a cheap, late-run neighbourhood theatre. Films reached it after Market Street and the second-run houses, so Love Affair was three or four months old when it played here [1]. In the mid-1950s the Bridge became an exclusive first-run \"art\" house for prestige American and foreign films, and it did well at it for decades [1]. Cinema Treasures calls it one of the most successful venues for independent and foreign film in San Francisco. It had 399 seats [2]. Its last operator, Landmark Theatres, closed it on December 27, 2012 after The Perks of Being a Wallflower [1]. The building was renovated with its facade and blade sign kept, and it reopened as the San Francisco Baseball Academy [1].",
+  "people": [
+   {
+    "name": "Attilio A. Zerga",
+    "role": "builder"
+   },
+   {
+    "name": "Jack Tillmany",
+    "role": "theatre historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Bridge Theatre",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/bridge.php",
+    "supports": "Builder, opening film and date per Tillmany, name origin, late-run then art-house history, closing date and last film, reuse as baseball academy"
+   },
+   {
+    "title": "Bridge Theatre, 3010 Geary Boulevard",
+    "publisher": "Cinema Treasures",
+    "year": null,
+    "url": "https://cinematreasures.org/theaters/1611",
+    "supports": "July 22, 1939 opening date, 399 seats, reputation for independent and foreign films, 2012 closure"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-laurel-village-1951",
+  "title": "Deli, laundromat and five-and-dime at Laurel Village",
+  "theme": "labor-industry",
+  "year": 1951,
+  "yearEnd": 2017,
+  "place": {
+   "label": "Laurel Village shops, 3401 California Street (California St between Laurel and Spruce)",
+   "lat": 37.786655,
+   "lon": -122.450206,
+   "precision": "block"
+  },
+  "hook": "A 1951 city tax photo shows a strip of butchers, bakers and a Feed Bag diner. Seventy years later only two of its shops were left.",
+  "story": "In 1951 a city assessor's photographer took pictures along California Street at Laurel Village. At 3401 California they show the Feed Bag Restaurant, Hanken's Delicatessen, Joe Klein's Choice Meats and the Winfield Sage Laundromat [1]. Other storefronts ran west along California: a Danish pastry shop, dry cleaner, hardware store, furniture showroom, beauty salon, supermarket, produce store, liquor store, florist, television store and a real estate and insurance office. There was also a Standard 5 & 10 [1]. A shop called Young Man's Fancy dressed \"the younger set\" here in Bruce Bary clothes from the end of World War II until the turn of the millennium. The columnist who remembers it notes you don't see many little boys in navy blazers any more [2]. Harold Dobbs, a co-founder of Mel's Drive-In, also co-founded the Red Roof restaurants, one of them on California Street near Laurel Village. Dobbs was a supervisor and ran for mayor in 1963, 1967 and 1971 [3]. Tastes and rents changed. The A.G. Ferrari delicatessen here closed in 2017 [4]. By 2022, of the whole 1951 line-up, only the grocery (now CalMart) and the Standard 5 & 10, partnered with Ace Hardware, were still open [1].",
+  "people": [
+   {
+    "name": "Harold Dobbs",
+    "role": "restaurateur and supervisor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Changing Westside Businesses (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": 2022,
+    "url": "https://www.outsidelands.org/streetwise-changing-westside-businesses.php",
+    "supports": "1951 assessor photo of 3401 California and named businesses; list of adjacent shops; only CalMart and Standard 5 & 10 remain"
+   },
+   {
+    "title": "Streetwise: Still Shopping",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-still-shopping.php",
+    "supports": "Young Man's Fancy / Bruce Bary on California Street in Laurel Village from end of WWII to the turn of the millennium"
+   },
+   {
+    "title": "Streetwise: Long Gone Dining Spots",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2022,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2022/03/27/streetwise-long-gone-dining-spots/",
+    "supports": "Harold Dobbs, Mel's co-founder, Red Roof restaurant on California Street near Laurel Village; supervisor and mayoral candidate 1963, 1967, 1971"
+   },
+   {
+    "title": "Streetwise: Faded from the Scene",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-faded-from-scene.php",
+    "supports": "A.G. Ferrari in Laurel Village closed in 2017"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-house-of-love-and-prayer",
+  "title": "The singing rabbi's house for holy hippies",
+  "theme": "arts-counterculture",
+  "year": 1968,
+  "yearEnd": 1970,
+  "place": {
+   "label": "Former House of Love and Prayer, 347 Arguello Boulevard (between California and Clement)",
+   "lat": 37.78427,
+   "lon": -122.459326,
+   "precision": "building"
+  },
+  "hook": "For $300 a month, a Georgian house on Arguello became a commune where hundreds of young seekers came for Shabbat songs led by Shlomo Carlebach.",
+  "story": "Shlomo Carlebach, known as \"the Singing Rabbi,\" played the Berkeley Folk Festival in 1966. He invited the crowd to Shabbat that Friday, and about 800 people came [1]. He wanted a place in San Francisco where, in his words, \"when you come, someone loves you; when you leave, someone misses you.\" In April 1968 his follower Aryae Coopersmith rented a large two-storey Georgian house at 347 Arguello Boulevard. The rent was $300 a month, plus a $50 deposit [1]. They called it the House of Love and Prayer. A few people lived there and ran it. It worked as a free hostel during the week, and hundreds came each week for Shabbat, Carlebach's melodies and his teaching [1]. The historian Yaakov Ariel describes its \"Hasidic hippies\" as a mixture of traditional Hasidic Judaism and the counterculture, a pairing most Jews of the time could not understand. He dates the House from 1967 to 1977 [2]. The Arguello house closed in May 1970, after the group put a down payment on a house at 1456 9th Avenue for a yeshiva. By the mid-1970s the House had become more traditionally Orthodox [1].",
+  "people": [
+   {
+    "name": "Shlomo Carlebach",
+    "role": "rabbi, singer-songwriter, founder"
+   },
+   {
+    "name": "Aryae Coopersmith",
+    "role": "follower who rented the house"
+   },
+   {
+    "name": "Zalman Schachter",
+    "role": "rabbi and co-founder of the outreach"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The House of Love and Prayer: A Radical Jewish Experiment in San Francisco (Oren Kroll-Zeldin)",
+    "publisher": "Scalar, University of Southern California",
+    "year": 2017,
+    "url": "https://scalar.usc.edu/works/the-house-of-love-and-prayer/the-house-of-love-and-prayer",
+    "supports": "1966 folk festival; Carlebach quote; April 1968 rental at 347 Arguello for $300/month; daily life and Shabbat crowds; 1970 closure and move to 9th Avenue; later Orthodox turn"
+   },
+   {
+    "title": "Hasidism in the Age of Aquarius: The House of Love and Prayer in San Francisco, 1967–1977 (Yaakov Ariel)",
+    "publisher": "Religion and American Culture 13:2 (Cambridge University Press)",
+    "year": 2003,
+    "url": "https://doi.org/10.1525/rac.2003.13.2.139",
+    "supports": "'Hasidic hippies'; mixture of Hasidic Judaism and counterculture; operating dates 1967–1977"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-geary-masonic-underpass",
+  "title": "The subway that wasn't, the underpass that was",
+  "theme": "modern-city",
+  "year": 1974,
+  "yearEnd": null,
+  "place": {
+   "label": "Geary Boulevard underpass at Masonic and Presidio Avenues",
+   "lat": 37.78336,
+   "lon": -122.44775,
+   "precision": "street"
+  },
+  "hook": "Planners once drew BART trains under the Richmond with a stop at Masonic. What the corner got instead was a car tunnel under Geary.",
+  "story": "Geary Boulevard's fast lanes began in the Western Addition. In the early to mid 1950s the A-1 redevelopment project took homes and businesses by eminent domain and bulldozed them. Its first big job was to widen Geary into an eight-lane expressway, with tunnels under Fillmore Street and under Presidio and Masonic, to speed traffic into the Richmond District [1]. The families and businesses pushed out were scattered, and the cleared land sat empty for years [1]. In September 1961, before the 1962 vote that approved BART, an early plan showed a branch from Montgomery Street deep into the Richmond. It would have had stations at Union Square, Van Ness, Fillmore, Masonic, Arguello, 11th Avenue and 25th Avenue [2]. The branch was never built [2]. At Masonic, the city got the underpass instead. It opened in 1974. A local columnist writes that some would call it just an underpass, but with streets and sidewalks above it, it counts as a tunnel. It removed a major bottleneck between downtown and the Richmond [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Redevelopment A-1 and Origin of St. Francis Square (Carol Cuenod)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Redevelopment_A-1_and_Origin_of_St._Francis_Square",
+    "supports": "A-1 clearances in the 1950s; Geary widened to eight-lane expressway with tunnels under Fillmore and Presidio/Masonic; displaced residents"
+   },
+   {
+    "title": "Streetwise: Never-Built West Side Landmarks (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": 2021,
+    "url": "https://www.outsidelands.org/streetwise-never-built-west-side-landmarks.php",
+    "supports": "September 1961 early BART proposal with Richmond branch and a Masonic station, never built"
+   },
+   {
+    "title": "Streetwise: Deep Underground",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise_tunnels.php",
+    "supports": "Geary-Masonic tunnel opened 1974, removing a bottleneck between downtown and the Richmond"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-2q-coronet-star-wars",
+  "title": "The Coronet's lines for Star Wars",
+  "theme": "arts-counterculture",
+  "year": 1977,
+  "yearEnd": 2007,
+  "place": {
+   "label": "Site of the Coronet Theatre, 3575 Geary Boulevard at Palm Avenue (now Institute on Aging)",
+   "lat": 37.781073,
+   "lon": -122.457866,
+   "precision": "building"
+  },
+  "hook": "Fox doubted Star Wars, so a booker gave it the Coronet. Lines soon circled the block, and it became the film's top-earning theatre in America.",
+  "story": "The Coronet opened on Geary on November 2, 1949 with I Was a Male War Bride. It had 1,350 loge-style seats and a room with a television set that patrons could watch for free [1]. From 1956 it was a roadshow house. Oklahoma! ran for 44 weeks, and Around the World in 80 Days for nearly two years [1]. In 1977 20th Century Fox wanted its big theatres for The Other Side of Midnight. The booker Gary Meyer put that film in the smaller Alexandria and gave Star Wars the Coronet, because \"I wanted the giant screen\" [2]. It opened on May 25, 1977, one of just 32 theatres in the country to do so. The lines were split in two and snaked around the block. Manager Albert Levin saw \"old people, young people, children, Hare Krishna groups,\" with chess players and painted faces [2]. Neighbours on Jordan Avenue couldn't park, and local children sold hot dogs from wagons [2]. The Coronet took $2 million in six months, more than any other Star Wars theatre in the country [2]. It closed on March 17, 2005 and was demolished in 2007 to make way for the Institute on Aging [1][2].",
+  "people": [
+   {
+    "name": "Gary Meyer",
+    "role": "film booker"
+   },
+   {
+    "name": "Albert Levin",
+    "role": "Coronet manager"
+   },
+   {
+    "name": "George Lucas",
+    "role": "filmmaker"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Coronet Theater",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/coronet.php",
+    "supports": "Opening date and film, seating, TV room, roadshow runs, 2000 sale to Institute on Aging, closing March 17, 2005, 2007 demolition"
+   },
+   {
+    "title": "SF's Coronet center of 'Star Wars' galaxy (Peter Hartlaub)",
+    "publisher": "SFGATE / San Francisco Chronicle",
+    "year": 2013,
+    "url": "https://www.sfgate.com/movies/article/SF-s-Coronet-center-of-Star-Wars-galaxy-4543111.php",
+    "supports": "May 25, 1977 opening at one of 32 theatres; Meyer booking story and quote; Levin quote; Jordan Avenue neighbours; $2 million, top-grossing Star Wars theatre; replaced by Institute on Aging"
+   }
+  ],
+  "photo": null
+ }
+]

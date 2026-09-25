@@ -1,0 +1,511 @@
+[
+  {
+    "id": "mclaren-park-2q-james-roof-franciscan",
+    "title": "The naturalist who hated planting days",
+    "theme": "parks-nature",
+    "year": 1970,
+    "yearEnd": null,
+    "place": {
+      "label": "Open grassland slopes in the centre of McLaren Park",
+      "lat": 37.7188,
+      "lon": -122.4195,
+      "precision": "area"
+    },
+    "hook": "A newspaper supplied the saplings and police helped Boy Scouts plant them. To botanist James Roof, trees on McLaren's hills were ruining rare 'Franciscan country'.",
+    "story": "James Roof, the late director of the Tilden Botanic Garden in the East Bay, had a name for the windswept hills of San Francisco: Franciscan country. He called it the smallest plant region known in California, and an unrecognised one, because it was so small and a city had been planted on it [1]. In remarks that FoundSF reprints without a date (he mentions a flora published in 1968), Roof insisted the 'bare hills' were not bare at all but 'rich in animal and plant life, bird life especially.' Pines and eucalyptus planted there caught fog drip and added moisture, changing the land into what he called 'perverted Franciscan country' [1]. He named McLaren Park as a case in point. 'It's Franciscan country,' he said, 'and the Examiner and the police department have these planting days up there where the Examiner furnishes the trees, and the police go up there and help the boy scouts plant' [1]. By the park planners' own count in 1983, its trees were almost all introduced species, and some groves were so dense that little or nothing grew beneath them [2]. Roof's grassland survived anyway. FoundSF notes acres of wild violets and dozens of other native plants still growing in the park [3].",
+    "people": [
+      {
+        "name": "James Roof",
+        "role": "Naturalist, director of Tilden Botanic Garden"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Franciscan Country: Barren or Beautiful? (James Roof)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Franciscan_Country:_Barren_or_Beautiful%3F",
+        "supports": "Roof's identity, Franciscan region, fog-drip argument, McLaren planting days quote"
+      },
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Theodore Osmundson and Associates)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "Trees almost all introduced; dense groves with little understory"
+      },
+      {
+        "title": "McLaren Park (historical essay by Pete Holloran)",
+        "publisher": "FoundSF",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=McLaren_Park",
+        "supports": "McLaren's non-native plantings; surviving wild violets and native species"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-artists-soapbox-derby",
+    "title": "Artists race homemade cars down Shelley Drive",
+    "theme": "arts-counterculture",
+    "year": 1975,
+    "yearEnd": 2022,
+    "place": {
+      "label": "The hill on John F. Shelley Drive, near the amphitheatre",
+      "lat": 37.7212,
+      "lon": -122.4195,
+      "precision": "street"
+    },
+    "hook": "In 1975 San Francisco's art museum asked artists to build cars that could only coast. One had body panels baked by a bakery.",
+    "story": "The idea came from the Bay Area artist Fletcher Benton, and the San Francisco Museum of Art, today's SFMOMA, ran with it. It held its First Artists' Soap Box Derby on May 18, 1975. Director Henry Hopkins explained that McLaren Park was chosen 'not only because of its excellent curving hill but because of its good crowd facilities' [1]. The rules were short. Cars had to coast, fit within six feet by seventeen, and have 'an adequate steering and braking system.' Each artist got $100 for a car and $35 for a trophy. Sixty artists signed up to build cars and 30 more to design trophies [1]. Ceramicist Richard Shaw designed the Tuxedo Racing Pencil with Gregor Weiss and Steve Wall. Dorcas Moulton got a bakery to make the bread body panels for her 'Moulton's Edible Special', which spectators ate after the race. It won 'Most Endearing', a trophy designed by Ruth Asawa [2]. Chip Lord remembered that his brake 'was just a piece of wood that scraped against the ground' [2]. A second derby followed in 1978. Over the two races the museum commissioned cars and trophies from more than 200 artists [3]. On April 10, 2022, the derby came back to Shelley Drive's curving 800-foot hill for the first time in more than 40 years [2][3].",
+    "people": [
+      {
+        "name": "Fletcher Benton",
+        "role": "Artist who proposed the derby"
+      },
+      {
+        "name": "Henry T. Hopkins",
+        "role": "Director, San Francisco Museum of Art"
+      },
+      {
+        "name": "Richard Shaw",
+        "role": "Ceramicist, co-designer of the Tuxedo Racing Pencil"
+      },
+      {
+        "name": "Dorcas Moulton",
+        "role": "Artist, Moulton's Edible Special"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The 1975 Derby Magazine: Anything That Coasts",
+        "publisher": "SFMOMA",
+        "year": 1975,
+        "url": "https://www.sfmoma.org/read/the-1975-derby-magazine-anything-that-coasts/",
+        "supports": "Date, Benton's idea, choice of McLaren Park, rules, budgets, number of artists"
+      },
+      {
+        "title": "For a Slate of Artists, the Soapbox Derby Treads Familiar Ground",
+        "publisher": "SFMOMA",
+        "year": 2022,
+        "url": "https://www.sfmoma.org/read/for-a-slate-of-artists-the-soapbox-derby-treads-familiar-ground/",
+        "supports": "Shaw's pencil, Moulton's bread car and Asawa trophy, Chip Lord quote, 1978 race, Shelley Drive 800-foot hill"
+      },
+      {
+        "title": "SFMOMA Soapbox Derby",
+        "publisher": "SFMOMA",
+        "year": 2022,
+        "url": "https://www.sfmoma.org/soapbox-derby/",
+        "supports": "1975 and 1978 races, more than 200 artists, April 10, 2022 return after 40+ years"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-koala-eucalyptus",
+    "title": "A salad bar for the zoo's koalas",
+    "theme": "parks-nature",
+    "year": 1983,
+    "yearEnd": null,
+    "place": {
+      "label": "Eucalyptus plantings on McLaren Park's slopes",
+      "lat": 37.7178,
+      "lon": -122.415,
+      "precision": "area"
+    },
+    "hook": "Tucked into a 1983 master plan is a planting order that had nothing to do with picnickers. The eucalyptus was for koalas across town.",
+    "story": "Most of McLaren Park's 1983 master plan deals with trails, picnic sites and shelter from the wind. But one paragraph in its wildlife section concerns animals that lived across town. The planners noted a 'special-purpose planting of Eucalyptus at the request of the Fleishacker Zoological Gardens management to provide food for the Koalas at that institution' [1]. The zoo's list was specific. It asked for Eucalyptus viminalis, robusta and camaldulensis, which nurseries sold in containers. It also wanted tereticornis (spelled 'tereticornus' in the plan), punctata, propinqua, pilularis, obliqua, ovata and paniculata. These weren't generally sold in the United States and had to be grown from seed for the project. Large plantings were being started 'in several locations' from seedlings raised in the city's nursery [1]. It was an odd role for a park whose hills were once open grassland. John McLaren himself had begun planting Monterey cypresses and other non-native trees in those grasslands, and later development broke them up further [2]. Now parts of the park were being planted as a food supply for a zoo on the other side of the city.",
+    "people": [],
+    "sources": [
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Theodore Osmundson and Associates)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "Koala eucalyptus planting at the request of Fleishacker Zoo, species list, seedlings in the city nursery"
+      },
+      {
+        "title": "McLaren Park (historical essay by Pete Holloran)",
+        "publisher": "FoundSF",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=McLaren_Park",
+        "supports": "McLaren's earlier plantings of non-native trees in the grasslands"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-1981-environmental-inventory",
+    "title": "A park with rocks but no squirrels",
+    "theme": "parks-nature",
+    "year": 1981,
+    "yearEnd": null,
+    "place": {
+      "label": "Red chert knob northwest of John McLaren School",
+      "lat": 37.715,
+      "lon": -122.4248,
+      "precision": "area"
+    },
+    "hook": "When scientists surveyed McLaren Park in 1981, they found a knob of solid red chert, salamanders under rotten boards and not a single tree squirrel.",
+    "story": "In April 1981 the Oakland firm Damans & Associates finished an environmental inventory of McLaren Park for its new master plan [1]. They found the ground was Franciscan melange: hard blocks of greenstone, chert and serpentine mixed into a weak, crushed matrix of sandstone and shale. The blocks stick up as 'monument-like masses' on otherwise smooth grassy slopes. Geologists call them knockers. The crest of the knob northwest of John McLaren School, they reported, is 'a huge block of red chert', and serpentine, the state rock, also shows at the surface [1]. The animals were a surprise. The surveyors found plenty of habitat for tree squirrels but no squirrels at all. There were no brush rabbits either. They did find raccoons, pocket-gopher burrows, Pacific tree frogs, and California slender salamanders under rotten boards and logs [1]. The grasslands were big enough for ground-nesting meadowlarks, hawks perched on trees and power lines, and West Coast lady butterflies were everywhere. The rocky, buckwheat-covered grassland, they added, might suit the rare San Bruno elfin butterfly [1]. Later visitors noticed other wild lives. FoundSF reports grey foxes still seen in the park, perhaps strays from San Bruno Mountain [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Theodore Osmundson and Associates)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "1981 Damans & Associates inventory; geology, red chert knob, serpentine; mammals, amphibians, birds, butterflies, San Bruno elfin habitat"
+      },
+      {
+        "title": "McLaren Park (historical essay by Pete Holloran)",
+        "publisher": "FoundSF",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=McLaren_Park",
+        "supports": "Grey foxes seen in the park"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-picnic-tables",
+    "title": "Eight picnic tables, six of them broken",
+    "theme": "modern-city",
+    "year": 1978,
+    "yearEnd": 2020,
+    "place": {
+      "label": "Group picnic area and Redwood Grove Playground, off John F. Shelley Drive below the Upper Reservoir",
+      "lat": 37.72164,
+      "lon": -122.42056,
+      "precision": "area"
+    },
+    "hook": "Before 1978, San Francisco's second-biggest park had eight family picnic tables, and six were too broken to use. Then the city started pouring concrete.",
+    "story": "When planners took stock in the early 1980s, they admitted that until 1978 McLaren Park had just eight family picnic tables, and six were in such disrepair that they could not be used. There had been 'little to attract families in the past' [1]. The fix was concrete, literally. Each new family picnic site was a table, benches and a barbecue mounted on a round concrete pad 14 feet across, with a trash can nearby. By 1983 there were 75, with 50 more planned [1]. Clubs and big families needed more room, so in 1983 the city built a group picnic site off Shelley Drive, just east of and below the Upper Reservoir. It seated 172 people in two areas of 60 and 112, linked by a short level walk, with built-in tables and benches, a large barbecue, a serving table, a sink with running water and a lawn for free play. High ground and a redwood grove sheltered it from the westerly winds, and extra planting plugged a draughty gap in the trees [1][2]. A small play area for pre-school children sat close by [1]. In October 2020 the Recreation and Park Department finished restoring that playground, now the Redwood Grove Playground, and took out its old sand areas [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Theodore Osmundson and Associates)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "Eight tables before 1978, 75 sites by 1983, 1983 group picnic site details, police stables and mounted patrol"
+      },
+      {
+        "title": "McLaren Park History",
+        "publisher": "McLaren Park Collaborative",
+        "year": 2016,
+        "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+        "supports": "1983 group picnic area for 172 people"
+      },
+      {
+        "title": "McLaren Park - Completed Park Improvements",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2026,
+        "url": "https://sfrecpark.org/1688/McLaren-Park---Completed-Park-Improvemen",
+        "supports": "October 2020 playground restoration at the group picnic site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-campgrounds-never-built",
+    "title": "Archery, overnight camps and a pavilion, never built",
+    "theme": "parks-nature",
+    "year": 1959,
+    "yearEnd": null,
+    "place": {
+      "label": "The wooded core of McLaren Park inside the Shelley Drive loop",
+      "lat": 37.7208,
+      "lon": -122.421,
+      "precision": "area"
+    },
+    "hook": "Planners once pictured overnight camps, an archery range and a refreshment pavilion with a view terrace on these hills. Mostly, a golf course and roads got built.",
+    "story": "For decades McLaren Park was mostly plans. In 1944 the Planning Commission listed what a 'first-class park' here should have: scenic drives, bridle trails with a riding-stable concession, an outdoor theatre, an archery range, a youth camping area, and 'a refreshment pavilion with a view terrace' [1]. In 20 or 30 years, the report said, the landscape would be 'comparable with the natural woodlands of San Mateo County' [1]. In 1959 a group of architects called McLaren Park Associates drew up a master plan under contract. It included a nine-hole golf course, six overnight group camps, picnic sites, trails, a divided Mansell Street with an undercrossing, Shelley Drive, two lakes, a park nursery and parking [2]. The city's 1983 review was blunt. Apart from the golf course and Mansell Street, which had both been proposed earlier, 'little of this master plan has been carried out.' The exception was John F. Shelley Drive, built on a somewhat different line [2]. The campers never came. The outdoor theatre from the 1944 list did eventually arrive, as the amphitheatre, which the 1983 plan dates to 1972 [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "The Master Plan of San Francisco: John McLaren Park, a report to the Board of Supervisors",
+        "publisher": "San Francisco City Planning Commission",
+        "year": 1944,
+        "url": "https://archive.org/details/johnmclarenparkr1719sanf",
+        "supports": "1944 list of proposed features, woodland goal"
+      },
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Theodore Osmundson and Associates)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "1959 McLaren Park Associates plan contents and the verdict on what was built; amphitheatre date"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-kirkeberg-empty-park",
+    "title": "A geography class in a lonely park",
+    "theme": "modern-city",
+    "year": 2004,
+    "yearEnd": null,
+    "place": {
+      "label": "Viewpoint near the top of Visitacion Avenue, below Mansell Street",
+      "lat": 37.7179,
+      "lon": -122.4116,
+      "precision": "area"
+    },
+    "hook": "A geography professor brought his students to the city's second-biggest park and found it almost empty. From its ridge they could read a century of change.",
+    "story": "'It's empty,' said Max Kirkeberg, a San Francisco State geography professor. In spring 2004 he brought the 25 students in his 18-week 'San Francisco on Foot' class to McLaren Park. They had already explored neighbourhoods from Russian Hill to the Inner Mission [1]. Rec and Park's Jon Campo led them up a wooded trail. 'Parts of McLaren Park are very wild,' he said. 'It's the biggest grasslands left in the city' [1]. From the park's steep ridge, the Chronicle noted, you can see the city's past and future. To the east were the unfinished end of the Third Street light rail, the closed Schlage Lock factory and the site of the old Southern Pacific switching yards. To the north is the University Mound Ladies Home, a presence in one form or another since 1884. 'The Lick Old Ladies Home was its original name,' Kirkeberg said [1]. Kirkeberg, 71, remembered his first walk in the park in 1976, when it had no paved walkways, stairs, garbage cans or benches [1]. The city's 1983 master plan agrees that the park had no improved hiking trails until money came in 1977; new trails, paths and stairs followed from 1978 [2]. 'It is getting better,' he said. 'Clearly' [1].",
+    "people": [
+      {
+        "name": "Max Kirkeberg",
+        "role": "San Francisco State geography professor"
+      },
+      {
+        "name": "Jon Campo",
+        "role": "Recreation and Park Department"
+      }
+    ],
+    "sources": [
+      {
+        "title": "McLaren Park / Disrepute despite the view",
+        "publisher": "San Francisco Chronicle (Patricia Yollin)",
+        "year": 2004,
+        "url": "https://www.sfgate.com/bayarea/article/MCLAREN-PARK-Disrepute-despite-the-view-2757051.php",
+        "supports": "Kirkeberg's class, quotes, grasslands quote, views from the ridge, 1976 walk"
+      },
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Theodore Osmundson and Associates)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "No improved hiking trails before 1977 funding; new trails, pathways and stairs from 1978"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-shakespeare-in-mclaren",
+    "title": "Shakespeare comes to the southeast",
+    "theme": "arts-counterculture",
+    "year": 2013,
+    "yearEnd": 2021,
+    "place": {
+      "label": "Stage of the Jerry Garcia Amphitheater",
+      "lat": 37.72055,
+      "lon": -122.41745,
+      "precision": "building"
+    },
+    "hook": "San Francisco's free summer Shakespeare began at a Golden Gate Park picnic table. Thirty years on, the company added a second city stage: a hillside bowl in McLaren Park.",
+    "story": "San Francisco Shakespeare Festival started in the summer of 1983, 'on or around a picnic table in Golden Gate Park', with a production of The Tempest. Its mission was to make Shakespeare accessible to everyone, and it has staged Free Shakespeare in the Park every year since [1]. Its 30th season came in 2012. The company's own history lists 2013 as the year it added 'a second San Francisco Free Shakes venue' in McLaren Park [1]. A park group's chronology puts the first shows in the amphitheatre a year later: five performances of The Taming of the Shrew in 2014. Then came Romeo and Juliet, The Winter's Tale, Hamlet, A Midsummer Night's Dream and As You Like It [2]. In 2018 the amphitheatre also held a sing-along Grease screening [2]. When the venue reopened in September 2021 after a $1.45 million renovation, the company was on stage right after the ribbon-cutting, starting its season with Pericles, Prince of Tyre. 'Like the character Pericles experiences, today is a joyful reunion,' said resident artist Carla Pantoja [3]. The upgrade paid for room for food trucks, better access, bike racks and more backstage storage [3].",
+    "people": [
+      {
+        "name": "Carla Pantoja",
+        "role": "SF Shakes resident artist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of San Francisco Shakespeare Festival",
+        "publisher": "San Francisco Shakespeare Festival",
+        "year": 2024,
+        "url": "https://www.sfshakes.org/about/history/",
+        "supports": "1983 founding, 2013 McLaren venue, productions"
+      },
+      {
+        "title": "McLaren Park History",
+        "publisher": "McLaren Park Collaborative",
+        "year": 2016,
+        "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+        "supports": "SF Shakes productions in the amphitheatre 2014-2019, Sundown Cinema Grease"
+      },
+      {
+        "title": "Jerry Garcia Amphitheater Opens Following Major Renovation",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2021,
+        "url": "https://sfrecpark.org/CivicAlerts.aspx?AID=1138",
+        "supports": "$1.45 million renovation, Pericles, Pantoja quote, improvements"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-bike-park",
+    "title": "From 'no bicycles' to a pump track",
+    "theme": "parks-nature",
+    "year": 2017,
+    "yearEnd": null,
+    "place": {
+      "label": "McLaren Bike Park, Sunnydale Avenue",
+      "lat": 37.71411,
+      "lon": -122.42295,
+      "precision": "block"
+    },
+    "hook": "In 1983 the city's planners ruled McLaren too steep for bikes. Thirty-four years later, volunteers opened a dirt pump track on its slopes.",
+    "story": "McLaren Park has a longer cycling history than its master plans suggest. SF Urban Riders say the Recreation and Park Department built a BMX race track here in the 1970s and held races every year [1]. The 1983 master plan mentions 'the present bike area', but it also blamed motorbikes for bare, eroding soil, and its view on bicycles was flat. The park's topography 'does not lend itself' to bike trails, it said, so 'bicycle trails are not recommended for the park' [2]. Riders did not accept that. SF Urban Riders held Take A Kid Mountain Biking Day here from 2009 to 2011, and the SF Mountain Bike Festival in 2013 and 2014 [1]. The first festival, on September 7, 2013, drew more than 300 participants [3]. The group started the bike park project in 2011 and handed it to a volunteer group, the McLaren Bike Park Founders [1]. Construction started in April 2017. The park opened on October 21, 2017, with a youth BMX and mountain-bike dirt pump track, a beginner skills loop with ramps, and a toolshed. Its construction budget was about $650,000, from bond money, other public funds and private donations [4].",
+    "people": [],
+    "sources": [
+      {
+        "title": "McLaren Park Trails",
+        "publisher": "SF Urban Riders",
+        "year": 2017,
+        "url": "https://sfurbanriders.org/trail-maps/mclaren-park-trails/",
+        "supports": "1970s BMX track and races; project started 2011, Founders; October 2017 opening"
+      },
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Theodore Osmundson and Associates)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "'present bike area', motorbike erosion, bicycle trails not recommended"
+      },
+      {
+        "title": "McLaren Park History",
+        "publisher": "McLaren Park Collaborative",
+        "year": 2016,
+        "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+        "supports": "First McLaren Park Mountain Bike Festival, September 7, 2013, over 300 participants"
+      },
+      {
+        "title": "McLaren Park - Bike Park Project",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2017,
+        "url": "https://sfrecpark.org/524/McLaren-Park---Bike-Park-Project",
+        "supports": "April 2017 construction, October 21, 2017 opening, features, $650,000 budget, funders"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-shelley-promenade",
+    "title": "The mayor's drive goes car-free",
+    "theme": "modern-city",
+    "year": 2020,
+    "yearEnd": 2023,
+    "place": {
+      "label": "Shelley Promenade, John F. Shelley Drive between the Upper Reservoir parking lot and Mansell Street",
+      "lat": 37.7226,
+      "lon": -122.4212,
+      "precision": "street"
+    },
+    "hook": "The road named for a longshoreman's son who became mayor was finished in 1964. In April 2020 it closed to cars and never reopened to them.",
+    "story": "John F. Shelley Drive, which loops through the park's wooded heart, was finished in 1964 [1]. That was the year John F. Shelley, whose name it carries, became mayor. John Francis Shelley was the son of a longshoreman from County Cork and a former bakery-wagon driver and union leader. He grew up in the Mission and became San Francisco's first Democratic mayor in 50 years [2]. By 1983 planners wanted it shut at night. They recommended barrier gates across Shelley Drive, between its two junctions with Mansell Street, and at Cambridge Street 'between sundown and daybreak', since 'there is no constructive reason for visitors to be in this area during those hours' [1]. The real change came in April 2020, early in the pandemic, when nearly half a mile of the drive was closed to cars [3]. People walked, cycled and wheeled there, and the closure stuck. In June 2023 the Recreation and Park Commission recommended making it permanent. The Board of Supervisors agreed unanimously on October 24, and Mayor London Breed signed it into law on November 3, 2023 [3]. The 0.4-mile Shelley Promenade now runs between the Upper Reservoir parking lot and Mansell Street [3].",
+    "people": [
+      {
+        "name": "John F. Shelley",
+        "role": "Mayor of San Francisco 1964-1968"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Theodore Osmundson and Associates)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "Shelley Drive completed 1964; 1983 recommendation to gate it at night"
+      },
+      {
+        "title": "John F. Shelley",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/John_F._Shelley",
+        "supports": "Biography: mayor 1964-68, father a longshoreman from County Cork, bakery driver, Mission District"
+      },
+      {
+        "title": "McLaren Park - Shelley Promenade Project",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2023,
+        "url": "https://sfrecpark.org/1705/16981/McLaren-Park---Shelley-Promenade-Project",
+        "supports": "Closed to cars April 2020; approvals June, October 24 and November 3, 2023; 0.4-mile route between Upper Reservoir lot and Mansell Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-yosemite-creek-daylighting",
+    "title": "Bringing a buried creek back to daylight",
+    "theme": "parks-nature",
+    "year": 2017,
+    "yearEnd": 2029,
+    "place": {
+      "label": "Yosemite Creek route between Yosemite Marsh and Louis Sutter Playground",
+      "lat": 37.7225,
+      "lon": -122.4175,
+      "precision": "area"
+    },
+    "hook": "Yosemite Creek has run through pipes for generations. The city now plans to dig it up and let it flow in the open again.",
+    "story": "Much of Yosemite Creek, which starts at Yosemite Marsh on McLaren Park's northern edge, now runs underground in pipes. The Recreation and Park Department and the Public Utilities Commission now plan to bring about 1,700 feet of it back to the surface. The open channel will run from Yosemite Marsh, near Bacon and Oxford streets, past Wayland and University streets to the Louis Sutter ballfield [1]. Another 400 feet will stay underground beneath one block of Wayland Street, making 2,100 feet of new creek in all. Along the way, bioretention basins will let stormwater soak into the soil instead of overloading the combined sewer [1]. A gathering place called Yosemite Creek Station, near Wayland and Princeton streets, will teach visitors about the city's hidden watersheds. Stormwater stored in underground tanks will water the Louis Sutter soccer field in a five-year pilot that the city calls its first [1][2]. An open house for neighbours was held in March 2017. By 2021 the budget was about $13.7 million, paid by the PUC's sewer improvement program [2]. Construction is scheduled for late 2026 or early 2027, and opening for late 2029 [1]. It is the last of eight early projects in the PUC's multi-billion-dollar programme to upgrade the city's ageing sewers [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "McLaren Park - Upper Yosemite Creek Daylighting Project",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2026,
+        "url": "https://sfrecpark.org/1614/McLaren-Park---Upper-Yosemite-Creek-Dayl",
+        "supports": "Route, lengths, bioretention, Yosemite Creek Station, soccer field pilot, schedule"
+      },
+      {
+        "title": "Yosemite Creek Daylighting Project, Capital Committee presentation",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2021,
+        "url": "https://sfrecpark.org/DocumentCenter/View/17902/Yosemite-Creek-Daylighting-Project--RPD-Capital-Committee-211201",
+        "supports": "March 2017 open house, $13,675,000 total cost, stormwater reuse a first for the city, SSIP funding"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mclaren-park-2q-herz-rec-center",
+    "title": "A new gym at Dr. Herz's playground",
+    "theme": "architecture-landmarks",
+    "year": 2026,
+    "yearEnd": null,
+    "place": {
+      "label": "Herz Recreation Center, 160 Mrs. Jackson Way, Herz Playground",
+      "lat": 37.71362,
+      "lon": -122.41601,
+      "precision": "building"
+    },
+    "hook": "In January 2026, on a playground beside Sunnydale named for a parks commissioner, San Francisco opened its first new recreation centre in 25 years.",
+    "story": "In 1958 a swimming pool, today's indoor Coffman Pool, was built in the park's southeast corner. It was the only facility the city added to McLaren in the 1950s [1][4]. The playground around it followed in 1965 [1]. It was named for Dr. Francis Joseph Herz, a former Recreation and Park commissioner [2]. It sits at the edge of the park beside Sunnydale. As part of the HOPE SF effort to reinvest in Sunnydale with new housing and services, Rec and Park joined the developers, Mercy Housing and Related California, to add a gym [3]. First came a $3.38 million playground makeover. The Herz family helped cut the ribbon in August 2023, and the play equipment was coloured like the park: green grass, orange poppies and the blue of the clubhouse mural [2]. The Herz Recreation Center opened on January 9, 2026. It was the first San Francisco recreation centre built from the ground up in more than 25 years. Its 11,500 square feet include a full basketball court with seating for 200, a multipurpose room and a kitchen [3][4]. It cost $26.1 million from bonds, a Sunnydale developer grant and federal money. At the door is Sanjay Vora's mirrored-steel artwork Reflection & Projection [3][4].",
+    "people": [
+      {
+        "name": "Dr. Francis Joseph Herz",
+        "role": "Former Recreation and Park commissioner"
+      },
+      {
+        "name": "Sanjay Vora",
+        "role": "Artist, Reflection & Projection"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Theodore Osmundson and Associates)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "Swimming pool built 1958 in the Herz area, only 1950s addition; Herz Playground 1965"
+      },
+      {
+        "title": "Herz Playground Now Open! Community, City Officials Celebrate $3.38 Million Makeover",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2023,
+        "url": "https://sfrecpark.org/CivicAlerts.aspx?AID=1596",
+        "supports": "Named for Dr. Francis Joseph Herz when it opened in 1965; $3.38M renovation; colours; family at ribbon cutting"
+      },
+      {
+        "title": "McLaren Park - Herz Recreation Center Project",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2026,
+        "url": "https://sfrecpark.org/1488/McLaren-Park---Herz-Recreation-Center-Pr",
+        "supports": "HOPE SF partnership, Mercy Housing and Related CA, $26.1M funding, January 9, 2026 opening, 160 Mrs. Jackson Way"
+      },
+      {
+        "title": "State-of-the-art Herz Rec Center Opens with Community Celebration",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2026,
+        "url": "https://sfrecpark.org/CivicAlerts.aspx?AID=2653",
+        "supports": "First ground-up rec centre in 25+ years, 11,500 sq ft, court and 200 seats, Coffman Pool, Vora artwork"
+      }
+    ],
+    "photo": null
+  }
+]

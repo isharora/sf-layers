@@ -1,0 +1,547 @@
+[
+  {
+    "id": "excelsior-2q-last-streetcar-mission",
+    "title": "The Last Streetcar Down Mission Street",
+    "theme": "labor-industry",
+    "year": 1949,
+    "yearEnd": 1952,
+    "place": {
+      "label": "Mission Street at Geneva Avenue, on the old 40-line route",
+      "lat": 37.71624,
+      "lon": -122.44138,
+      "precision": "street"
+    },
+    "hook": "A branch line laid in six days for the racetrack crowds, a motorman who fought in 1898, and one green-and-cream car that ended Mission Street's streetcar era.",
+    "story": "Streetcars shaped the Excelsior's Mission Street early. In December 1895 the Market Street Railway extended its Mission Street electric line west along Ocean Avenue, from the corner of Excelsior Avenue to the new Ingleside Racetrack, and laid the track in just six days. That route, later the #12 Mission & Ingleside, grew into one of the longest streetcar lines in the city before it was dropped in 1948 [1]. The 40-line interurban to San Mateo, which also ran down Mission Street, lasted into 1949. On the chilly night of Saturday, January 15, 1949, crowds gathered in San Mateo to ride its last cars. Motorman August Stokes, Muni's only veteran of the Spanish-American War, told a radio reporter: 'Don't like them to take it off' [2]. Back in San Francisco the cars stopped at the Geneva barn and then headed down Mission Street toward downtown. Railfan special No. 1235 was the last streetcar ever to run on Mission Street. The line was still covering its costs, but it needed $750,000 to $1,000,000 of new track and overhead wire, and the supervisors voted to abandon it without replacement. Trolley buses took over Mission Street on January 6, 1952 [2].",
+    "people": [
+      {
+        "name": "August Stokes",
+        "role": "40-line motorman on the last revenue run"
+      },
+      {
+        "name": "Frank Pattee",
+        "role": "40-line conductor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Balboa Park Area Historic Context Statement (draft)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2008,
+        "url": "https://sfplanning.s3.amazonaws.com/archives/documents/557-balboa-pk-context%20w%20photos%203Aug08.pdf",
+        "supports": "1895 extension from Excelsior Ave & Mission along Ocean Ave in six days; #12 Mission & Ingleside line eliminated in 1948"
+      },
+      {
+        "title": "San Francisco's 40-line: 'San Mateo Interurban Car--Minimum Fare 10c'",
+        "publisher": "Walter Rice and Emiliano Echeverria, Virtual Museum of the City of San Francisco (archived copy)",
+        "year": 2007,
+        "url": "https://web.archive.org/web/2007/http://www.sfmuseum.org/hist10/interurban.html",
+        "supports": "Last run January 15, 1949; Stokes quote; stop at Geneva barn; No. 1235 last streetcar on Mission Street; repair cost; abandonment vote; trolley buses January 6, 1952"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2q-crocker-amazon-wpa",
+    "title": "The Reservoir Site That Became Ball Fields",
+    "theme": "parks-nature",
+    "year": 1934,
+    "yearEnd": 1937,
+    "place": {
+      "label": "Crocker Amazon Playground, Geneva Avenue and Moscow Street",
+      "lat": 37.712,
+      "lon": -122.4345,
+      "precision": "area"
+    },
+    "hook": "Truck farmers were paid to leave, relief crews hauled 34,000 cubic yards of earth and rock, and a city reservoir site became eleven baseball diamonds.",
+    "story": "Around 1923 an aerial photograph of the city's southern edge still showed farm fields on the ground that would become Crocker Amazon Playground [3]. In 1933 it was the Crocker Amazon Reservoir site: 55 acres at Geneva Avenue and Moscow Street owned by the Public Utilities Commission. In 1934 the Recreation Commission got permission to turn it into a park. The truck farmers working the land were paid for their leases, and the commission leased 42 acres for $150 a month [1]. From 1934 to 1937 crews from the Works Progress Administration did the work. Clyde E. Healy, Assistant City Engineer and coordinator of the city's WPA projects, tallied it: 21,000 cubic yards of earth and 13,000 of rock moved, 23,050 feet of pipe for sprinklers, 6,000 square feet of log retaining walls and 72 rock steps, plus six tennis courts and two basketball courts. The result, his report boasted, was 11 baseball diamonds that could host 33 games on a Sunday or holiday, with grandstands seating 15,000 [1]. The WPA rebuilt the neighbouring stretch of Geneva Avenue too, from Mission Street east toward the county line. Crews ripped out old tracks, ties and poles and laid new sewers, making the road a state highway link to the Bayshore Highway and the Livestock Pavilion [2].",
+    "people": [
+      {
+        "name": "Clyde E. Healy",
+        "role": "Assistant City Engineer and WPA coordinator whose 1939 report documented the work"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Crocker Amazon Playground and Recreation Center - San Francisco CA",
+        "publisher": "The Living New Deal (quoting ParkScan and Clyde E. Healy, San Francisco Improved, 1939)",
+        "year": 2024,
+        "url": "https://livingnewdeal.org/projects/crocker-amazon-playground-and-recreation-center-san-francisco-ca/",
+        "supports": "1933 reservoir site, 55 acres, PUC; 1934 transfer; farmers paid; 42 acres at $150/month; WPA work 1934-37 and quantities; 11 diamonds, 33 games, 15,000 seats"
+      },
+      {
+        "title": "Geneva Ave. - San Francisco CA",
+        "publisher": "The Living New Deal (quoting Healy, 1939)",
+        "year": 2024,
+        "url": "https://livingnewdeal.org/projects/geneva-avenue-san-francisco-ca/",
+        "supports": "WPA rebuilding of Geneva Avenue from Mission Street east, track removal, state highway link to Bay Shore Highway and Livestock Pavilion"
+      },
+      {
+        "title": "Excelsior District",
+        "publisher": "FoundSF",
+        "year": 2014,
+        "url": "https://www.foundsf.org/index.php?title=Excelsior_District",
+        "supports": "c. 1923 aerial caption showing farms on the future site of Crocker Amazon Playground"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2q-joes-cable-car",
+    "title": "Ground Steak in a Neon Cable Car",
+    "theme": "labor-industry",
+    "year": 1965,
+    "yearEnd": 2014,
+    "place": {
+      "label": "Former Joe's Cable Car, 4320 Mission Street at Tingley Street",
+      "lat": 37.72846,
+      "lon": -122.4319,
+      "precision": "building"
+    },
+    "hook": "It started as a cable car selling burgers to go. Its Armenian owner insisted they weren't burgers at all, and fans came from as far as London to try them.",
+    "story": "Joe's Cable Car opened in 1965 on the northwest corner of Mission and Tingley streets. At first it was just a cable car selling burgers to go [1][2]. Joe Obegi, an Armenian native, worked there from the early days, first as a manager during his college years; he had started studying computers but could not afford to go on. In 1968 he became the owner [1]. The stand soon grew into a sit-down restaurant crammed with neon signs, twinkling lights and big floral arrangements. Obegi insisted he did not sell burgers but 'ground steak': marbled Midwest beef delivered two or three times a week. Fast-food patties, he complained, 'should not be called a burger' [1]. In 2008 Guy Fieri featured Joe's on Diners, Drive-Ins and Dives. Obegi had mixed feelings about the show but admitted it brought in business, and he said customers came from Stockton, Los Angeles, London, Japan and Australia [1]. Joe's closed in 2014 after nearly five decades. In 2019 a permit was requested to raze the shack. In its place Fougeron Architecture designed a four-storey building with nine apartments over shops and a new address, 2 Tingley Street [2].",
+    "people": [
+      {
+        "name": "Joe Obegi",
+        "role": "Manager from the early years, owner from 1968"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Talking Burgers with Joe Obegi of Joe's Cable Car",
+        "publisher": "Eater SF",
+        "year": 2013,
+        "url": "https://sf.eater.com/2013/4/17/6450369/talking-burgers-with-joe-obegi-of-joes-cable-car",
+        "supports": "Founded 1965 as a to-go cable car; Obegi's background and 1968 ownership; decor; 'ground steak' quotes; 2008 Diners, Drive-Ins and Dives; far-flung customers"
+      },
+      {
+        "title": "Redevelopment of Iconic Joe's Cable Car Site Closer to Reality",
+        "publisher": "SocketSite",
+        "year": 2019,
+        "url": "https://socketsite.com/archives/2019/03/redevelopment-of-iconic-joes-cable-car-site-closer-to-reality.html",
+        "supports": "Location at Mission and Tingley; closed 2014 after nearly five decades; demolition permit; Fougeron design, nine units, 2 Tingley Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2q-skratch-piklz",
+    "title": "Turntables in a Moscow Street Garage",
+    "theme": "arts-counterculture",
+    "year": 1989,
+    "yearEnd": 2000,
+    "place": {
+      "label": "Moscow Street, where DJ Qbert grew up and the Invisibl Skratch Piklz got their start",
+      "lat": 37.72045,
+      "lon": -122.42789,
+      "precision": "street"
+    },
+    "hook": "A kid from Moscow Street met his rival in a school cafeteria DJ battle. Their crew got so good the world championship asked them to stop entering.",
+    "story": "Richard Quitevis was born in 1969 to parents from the Philippines and grew up on Moscow Street in the Excelsior. He went to Luther Burbank Middle School and graduated from Balboa High School in 1987 [2]. He had a Fisher-Price turntable as a toddler and began playing with records at 15. In a DJ battle in the Balboa cafeteria he met Mix Master Mike, and the two became lifelong friends [2]. In 1989 he, Mix Master Mike and DJ Apollo formed a crew first called Shadow of the Prophet, which became the Invisibl Skratch Piklz [3]. According to the Chronicle, the Piklz got their start in a garage on Moscow Street [1]. Turntablism crews already existed, but the Piklz were the first to play as a band, layering drums, basslines and scratch solos [2]. As DJ Qbert, Quitevis won DMC world titles in 1992 and 1993, both times in teams with Mix Master Mike [2]. The Disco Mix Club eventually asked the Piklz to stop competing because they were discouraging other DJs from entering [3]. The group helped design DJ products for Vestax and Ortofon, developed the 'break record' that most turntablists now use, and played its last show on July 1, 2000, at Skratchcon 2000 in San Francisco [3].",
+    "people": [
+      {
+        "name": "Richard Quitevis (DJ Qbert)",
+        "role": "Turntablist, co-founder of the Invisibl Skratch Piklz"
+      },
+      {
+        "name": "Mix Master Mike",
+        "role": "Co-founder"
+      },
+      {
+        "name": "DJ Apollo",
+        "role": "Co-founder, left 1993"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Excelsior district takes care of its own",
+        "publisher": "San Francisco Chronicle (SFGATE), Annie Nakao",
+        "year": 2002,
+        "url": "https://www.sfgate.com/entertainment/article/Excelsior-district-takes-care-of-its-own-2790710.php",
+        "supports": "QBert lived a few blocks from the Italian American Social Club; the Piklz got their start in a garage on Moscow Street"
+      },
+      {
+        "title": "DJ Qbert",
+        "publisher": "Wikipedia (citing Rappler, Ruckus magazine and the SF Chronicle)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/DJ_Qbert",
+        "supports": "Birth 1969, Filipino parents, Moscow Street, schools, Balboa cafeteria battle, DMC world titles 1992 (Rock Steady DJs) and 1993 (Dreamteam with Mix Master Mike), band concept"
+      },
+      {
+        "title": "Invisibl Skratch Piklz",
+        "publisher": "Wikipedia (citing The Virgin Encyclopedia of Nineties Music, 2000)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Invisibl_Skratch_Piklz",
+        "supports": "1989 founding as Shadow of the Prophet; DMC request to stop competing; break record; last show July 1, 2000 at Skratchcon"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2q-lamantia",
+    "title": "A Surrealist Voice From the Excelsior",
+    "theme": "arts-counterculture",
+    "year": 1943,
+    "place": {
+      "label": "Excelsior District, Philip Lamantia's childhood neighbourhood",
+      "lat": 37.72058,
+      "lon": -122.43276,
+      "precision": "area"
+    },
+    "hook": "At 15, a produce broker's son from the Excelsior was published in New York. André Breton called him 'a voice that rises once in a hundred years.'",
+    "story": "Philip Lamantia was born in San Francisco in 1927 to Sicilian immigrants and grew up in the Excelsior District [1][2]. As a boy he worked in the old produce market on the Embarcadero, where his father was a produce broker. He began writing poems in elementary school and fell under the spell of Surrealism after seeing paintings by Miró and Dalí at the old San Francisco Museum of Art on Van Ness Avenue [1]. In 1943, when he was 15, some of his poems appeared in View, a Surrealist-leaning New York magazine. André Breton, the movement's leader, blessed the teenager as 'a voice that rises once in a hundred years.' Months later Lamantia dropped out of Balboa High School and moved to New York, where he mixed with exiled artists such as Max Ernst and Yves Tanguy [1]. Back in San Francisco he was one of five poets on the bill at the Six Gallery in October 1955, the night Allen Ginsberg first read 'Howl.' Instead of his own poems he read those of his friend John Hoffman, who had recently died [1][2]. The sources disagree on the date, October 7 or 13. Lawrence Ferlinghetti later said it was Lamantia who 'turned [Ginsberg] on to Surrealist writing' [1].",
+    "people": [
+      {
+        "name": "Philip Lamantia",
+        "role": "Poet, raised in the Excelsior"
+      },
+      {
+        "name": "André Breton",
+        "role": "Surrealist leader who praised him"
+      },
+      {
+        "name": "Lawrence Ferlinghetti",
+        "role": "Poet and publisher"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Philip Lamantia -- S.F. Surrealist poet",
+        "publisher": "San Francisco Chronicle (SFGATE), Jesse Hamlin",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/philip-lamantia-s-f-surrealist-poet-2724066.php",
+        "supports": "Born in the Excelsior; produce market; Miró and Dalí; View at 15; Breton quote; Balboa dropout; New York; Six Gallery (dated Oct. 13); Hoffman; Ferlinghetti quote"
+      },
+      {
+        "title": "Philip Lamantia",
+        "publisher": "Wikipedia (citing Nancy Joyce Peters, Dictionary of Literary Biography, 1983)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Philip_Lamantia",
+        "supports": "Birth 1927 to Sicilian immigrants, raised in the Excelsior; Six Gallery dated October 7, 1955; read Hoffman's poems"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "excelsior-2q-ciampi-clean-wash",
+    "title": "An Ocean Liner Docked at Persia Avenue",
+    "theme": "architecture-landmarks",
+    "year": 1949,
+    "place": {
+      "label": "Clean Wash Center (former Safeway Credit Union building), 4680-4690 Mission Street at Persia Avenue",
+      "lat": 37.72349,
+      "lon": -122.43602,
+      "precision": "building"
+    },
+    "hook": "Born to 1906 refugees who lived in a Presidio tent, the future Berkeley Art Museum architect designed storefronts and a credit union on Mission Street.",
+    "story": "Mario Ciampi was born in San Francisco in April 1907. His Italian parents had arrived just in time for the 1906 earthquake and spent months living in an army tent in the Presidio [3]. With no money for architecture school, he apprenticed as a draftsman and took night classes, then won scholarships to Harvard, studied at the École des Beaux-Arts, and founded his own firm in 1945 [3]. Within a few years he was designing on Mission Street in the Excelsior. The Planning Department's historic context records list Ciampi work at 4463 Mission (a storefront, 1948), Cresta Auto Parts at 5050 Mission (1948) and 4680-4690 Mission (1949) [2]. That last building, on the corner of Persia Avenue, was commissioned by the Safeway Credit Union: its employees worked upstairs, and shops filled the ground floor. With its rounded corner, open ground floor and ribbon of upper windows, SF Heritage says it 'points into Mission street like a 1930s ocean liner.' Today it is the 24-hour Clean Wash Center laundromat [1]. Ciampi's Corpus Christi Church of 1952, just west of Mission, appeared in LIFE magazine in 1955 for its front wall of coloured glass panes, which were later replaced with amber glass [4]. He went on to design the Berkeley Art Museum [3].",
+    "people": [
+      {
+        "name": "Mario J. Ciampi",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Top 5 Excelsior Commercial Buildings",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-excelsior-commercial-buildings/",
+        "supports": "4680-4690 Mission built 1949 by Ciampi for the Safeway Credit Union; ocean liner quote; now Clean Wash Center"
+      },
+      {
+        "title": "Historic Context Statements (dataset; Modern Architecture and Landscape Design 1935-1970 HCS and Architecture, Planning and Preservation Professionals biographies)",
+        "publisher": "San Francisco Planning Department via DataSF",
+        "year": 2026,
+        "url": "https://data.sfgov.org/d/43um-8u7u",
+        "supports": "Ciampi designs at 4463 Mission (1948), 5050 Mission Cresta Auto Parts (1948), 4680-4690 Mission (1949)"
+      },
+      {
+        "title": "Mario J. Ciampi",
+        "publisher": "Wikipedia (citing Allan Temko, San Francisco Chronicle, 1991)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Mario_J._Ciampi",
+        "supports": "Birth 1907; parents in a Presidio tent after 1906; training; firm founded 1945; Berkeley Art Museum"
+      },
+      {
+        "title": "Top 5 Institutional Buildings in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-institutional-buildings-in-the-excelsior/",
+        "supports": "Corpus Christi Church (1952) by Ciampi, featured in LIFE in 1955; coloured panes replaced by amber glass"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "excelsior-2q-hibernia-bank",
+    "title": "City Hall's Architect Designs a Branch Bank",
+    "theme": "architecture-landmarks",
+    "year": 1928,
+    "place": {
+      "label": "Former Hibernia Bank branch (El Chico market), 4600 Mission Street at Norton Street",
+      "lat": 37.7246,
+      "lon": -122.43523,
+      "precision": "building"
+    },
+    "hook": "The man behind San Francisco City Hall's dome gave the Excelsior a Beaux-Arts banking hall. Today its high-ceilinged hall is a produce market.",
+    "story": "In 1928 the Hibernia Bank opened a branch on the corner of Mission and Norton streets. It hired Arthur Brown Jr., principal architect of San Francisco City Hall, who designed it in the Beaux-Arts style [1]. The building has six grand windows, stately detailing and a high ceiling. It is the oldest bank building still standing in the Excelsior. Hibernia built branches in the same style at 18th and Castro streets, Valencia and 22nd streets, and Geary Boulevard and 10th Avenue [1]. The building outlived its days as a bank. Today it is El Chico, a Mexican produce and grocery store, where its stately detailing, six windows and high ceiling can still be appreciated [1]. Mission Local calls the former Hibernia 'grandiose and ornate' [1][2]. Just to the south stands a lesson in how quickly bank architecture changed. The US Bank building, put up in 1963, is what SF Heritage calls an excellent example of the Midcentury Modern New Formalist style [1]. The two banks show 35 years of the Excelsior's main street side by side.",
+    "people": [
+      {
+        "name": "Arthur Brown Jr.",
+        "role": "Architect of the branch and principal architect of San Francisco City Hall"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Top 5 Excelsior Commercial Buildings",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-excelsior-commercial-buildings/",
+        "supports": "1928 Hibernia branch by Arthur Brown Jr.; oldest standing bank building in the Excelsior; sister branches; El Chico; 1963 US Bank building"
+      },
+      {
+        "title": "The Excelsior: Resisting change, or ready for a new business model?",
+        "publisher": "Mission Local",
+        "year": 2025,
+        "url": "https://missionlocal.org/2025/09/sf-excelsior-business-change/",
+        "supports": "El Chico Mercado in the 'grandiose and ornate' former Hibernia Bank building"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "excelsior-2q-valente-marini-perata",
+    "title": "Ninety Years of Farewells at 4840 Mission",
+    "theme": "architecture-landmarks",
+    "year": 1926,
+    "yearEnd": 2017,
+    "place": {
+      "label": "Former Valente, Marini, Perata & Co. funeral home, 4840 Mission Street near France Avenue",
+      "lat": 37.72014,
+      "lon": -122.4385,
+      "precision": "building"
+    },
+    "hook": "North Beach undertakers followed their customers out Mission Street after 1906. Their funeral home got a peach-to-crimson modern makeover and a very wordy neon sign.",
+    "story": "The funeral directors Valente, Marini, Perata & Co. began in North Beach and were a cornerstone of the city's Italian community. Frank Dunnigan dates the firm to 1888; SF Heritage says its roots go back to 1889 [1][2]. In the two decades after the 1906 earthquake, many of its customers moved to the Excelsior. In 1926 Virgil Valente, Frank Marini and John B. Perata followed them to 4840 Mission Street, near France Avenue [1][2]. The architect John A. Porporato designed the building in the Spanish Colonial Revival style of the new houses around it, with stucco walls and a red tile roof. In 1959 it was remodelled in a Midcentury Modern look: a brick base and porcelain-enamel panels in peach, salmon and crimson. A wordy 1937 neon sign pointed mourners to the big parking lot [1]. As the neighbourhood changed, the firm served more Latino and Filipino families. It kept holding services for local parishes such as Corpus Christi and the Church of the Epiphany [2]. It closed quietly in July 2017, after nearly 130 years [2]. A historic evaluation found the building eligible for the California Register, but the site was sold for affordable housing, and the 2020 plans called for demolition [1][2].",
+    "people": [
+      {
+        "name": "Virgil Valente",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Frank Marini",
+        "role": "Co-founder"
+      },
+      {
+        "name": "John B. Perata",
+        "role": "Co-founder"
+      },
+      {
+        "name": "John A. Porporato",
+        "role": "Architect of the 1926 building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Excelsior Endangered",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/excelsior-endangered/",
+        "supports": "Roots to 1889; 1926 move; Porporato design; 1959 remodel and colours; 1937 neon sign; closed July 2017; California Register eligibility; housing proposals including demolition"
+      },
+      {
+        "title": "Streetwise: Valente, Marini, Perata",
+        "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/streetwise-valente.php",
+        "supports": "Founded 1888; followed customers to the Excelsior in 1926; served Latino and Filipino families and local parishes; closed July 2017 after nearly 130 years; sold to a nonprofit housing developer"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2q-excelsior-library",
+    "title": "Four Homes for the Excelsior Library",
+    "theme": "architecture-landmarks",
+    "year": 1967,
+    "yearEnd": 2005,
+    "place": {
+      "label": "Excelsior Branch Library, 4400 Mission Street",
+      "lat": 37.72702,
+      "lon": -122.43323,
+      "precision": "building"
+    },
+    "hook": "The Excelsior's library started in rented rooms, moved twice, and finally got a $248,000 building of its own. Decades later it went first in the city's branch rebuild.",
+    "story": "The Excelsior's library had a wandering start. It was the tenth branch of the San Francisco Public Library, and it began as a 'library station' in rented rooms at 7 Bauer Street [1]. By 1925 the branch was on Ocean Avenue. Later it moved to 4465 Mission Street, where it was photographed in 1961 [1]. The neighbourhood finally got a purpose-built library at 4400 Mission Street. It was designed by the architects Appleton & Wolfard, cost $248,000 and opened on October 1, 1967 [1]. The city's survey of modern architecture lists the building under Appleton & Wolfard with a date of 1966 [2]. Nearly four decades later the Excelsior went first again. It was the first branch renovated under the city's Branch Library Improvement Program and reopened on July 8, 2005. The work made it seismically safe and fully accessible and added solar panels, a program room opening onto a patio, a new acoustical ceiling and as much natural light as the building could take [1]. Today the branch keeps a neighbourhood history file, and its collections include Filipino-interest materials in English and Tagalog as well as large Spanish- and Chinese-language sections [3].",
+    "people": [
+      {
+        "name": "Appleton & Wolfard",
+        "role": "Architects of the 1967 branch"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Excelsior Library History",
+        "publisher": "San Francisco Public Library",
+        "year": 2026,
+        "url": "https://sfpl.org/locations/excelsior/excelsior-library-history",
+        "supports": "Tenth branch; 7 Bauer Street station; Ocean Avenue in 1925; 4465 Mission; 1961 photo; opened October 1, 1967; Appleton and Wolfard; $248,000; first BLIP renovation, reopened July 8, 2005 and features"
+      },
+      {
+        "title": "Historic Context Statements (dataset; Architecture, Planning and Preservation Professionals biographies)",
+        "publisher": "San Francisco Planning Department via DataSF",
+        "year": 2026,
+        "url": "https://data.sfgov.org/d/43um-8u7u",
+        "supports": "4400 Mission Street, Excelsior branch library, Appleton & Wolfard, 1966"
+      },
+      {
+        "title": "Excelsior branch page",
+        "publisher": "San Francisco Public Library",
+        "year": 2026,
+        "url": "https://sfpl.org/locations/excelsior",
+        "supports": "Neighbourhood history file; Filipino-interest collection in English and Tagalog; Spanish and Chinese collections"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2q-munich-street",
+    "title": "A Brick Romanesque Cottage on Munich Street",
+    "theme": "architecture-landmarks",
+    "year": 1908,
+    "place": {
+      "label": "291 Munich Street (with an earthquake shack at 277 Munich)",
+      "lat": 37.72092,
+      "lon": -122.42645,
+      "precision": "building"
+    },
+    "hook": "One block of Munich Street holds a brick cottage that may be unique in San Francisco and, a few doors away, a surviving 1906 earthquake shack.",
+    "story": "291 Munich Street, built in 1908 just after the earthquake and fire, is humble in size but grand in style [1]. It is a heavily ornamented brick cottage. The architectural historian Hannah Lise Simonson called it 'an exceedingly rare example of Richardsonian Romanesque residential architecture.' SF Heritage thinks it is very likely unique in San Francisco and challenged its readers to find another [1]. A few doors down the same block is a humbler survivor of the same years. The Planning Department's earthquake shack theme document, an inventory of refugee cottages from the 1906 disaster that still stand, lists 277 Munich Street as a shack identified by the department itself [2]. The Excelsior has more of them. The same inventory lists Planning-identified shacks at 224 Prague Street and 774 Brunswick Street, and community members have flagged possible ones at 566 Athens Street, 170 Vienna Street and 211 Edinburgh Street [2]. Between them, the brick cottage and the shacks show two very different ways the Excelsior was built up after 1906.",
+    "people": [
+      {
+        "name": "Hannah Lise Simonson",
+        "role": "Architectural historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Top 5 Excelsior Residential Buildings",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-excelsior-residential-buildings/",
+        "supports": "291 Munich built 1908; Simonson quote; likely unique in San Francisco"
+      },
+      {
+        "title": "Historic Context Statements (dataset; Earthquake Shack Theme Document entries)",
+        "publisher": "San Francisco Planning Department via DataSF",
+        "year": 2026,
+        "url": "https://data.sfgov.org/d/43um-8u7u",
+        "supports": "277 Munich, 224 Prague, 774 Brunswick identified by Planning; 566 Athens, 170 Vienna, 211 Edinburgh identified by community members"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "excelsior-2q-waiting-for-the-52",
+    "title": "Waiting for the 52 Excelsior",
+    "theme": "arts-counterculture",
+    "year": 2001,
+    "yearEnd": 2025,
+    "place": {
+      "label": "Excelsior Avenue at Mission Street, site of Marta Ayala's mural",
+      "lat": 37.72604,
+      "lon": -122.43344,
+      "precision": "block"
+    },
+    "hook": "A mural about waiting for the bus, a sculpture that translates the neighbourhood's Latin name, and street-sign murals on a freeway bridge: the Excelsior's open-air gallery.",
+    "story": "On Excelsior Avenue at Mission Street is 'Waiting for the 52 Excelsior,' a 2001 mural by Marta Ayala [1]. It is one of many public artworks in the district. A lot of them came out of the Excelsior Action Group's mural program, which brings together students, San Francisco artists and neighbours. Their subjects include neighbourhood pride, local landmarks and buildings, multiculturalism and landscapes. There are mosaics too, among them the tiled steps in Kenny Alley [1]. On Francis Street at Mission, Delvin Kenobe Leake's 'Music is Freedom' mural, paid for by the action group and the Cucalon family, is dedicated to the Excelsior's residents and families [1]. At Geneva Avenue and Mission stands the 'Ever Upward' sculpture, which SF Heritage lists among the district's standout mosaics; the name translates the Latin word excelsior [1][3]. In 2011 members of Excelsior community groups painted murals along the sidewalks of the Mission Street bridge over I-280 and Alemany Boulevard. They show the district's 'international' street signs, such as Russia and Persia [2]. And in 2025 Tim Hon and Eric Nodora of the graffiti collective Illuminaries spent about seven hours painting a giant pool player and neon billiard balls on the side of the Billiard Palacade at Mission and Rolph streets [4].",
+    "people": [
+      {
+        "name": "Marta Ayala",
+        "role": "Muralist"
+      },
+      {
+        "name": "Delvin Kenobe Leake",
+        "role": "Muralist"
+      },
+      {
+        "name": "Tim Hon and Eric Nodora",
+        "role": "Illuminaries graffiti artists"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Public Art in the Excelsior",
+        "publisher": "San Francisco Heritage (Kerri Young)",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/murals-in-the-excelsior/",
+        "supports": "Ayala mural (2001) location; EAG mural program and themes; Kenny Alley steps; 'Music is Freedom'; Ever Upward sculpture at Geneva and Mission"
+      },
+      {
+        "title": "Riding the 14R From One End to the Other",
+        "publisher": "FoundSF",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=Riding_the_14R_From_One_End_to_the_Other",
+        "supports": "'Excelsior Sculpture' at Geneva and Mission (photo); 2011 street-sign murals on the Mission Street bridge"
+      },
+      {
+        "title": "People We Meet: Jeff Murray documents the Excelsior, in film",
+        "publisher": "Mission Local",
+        "year": 2026,
+        "url": "https://missionlocal.org/2026/05/people-we-meet-jeff-murray/",
+        "supports": "'Ever Upward' is the translation of the Latin word Excelsior"
+      },
+      {
+        "title": "People We Meet: 'Illuminaries' add the Excelsior to their graffiti resume",
+        "publisher": "Mission Local",
+        "year": 2025,
+        "url": "https://missionlocal.org/2025/06/people-we-meet-illuminaries-add-the-excelsior-to-their-graffiti-tattered-resume/",
+        "supports": "Hon and Nodora's 2025 Billiard Palacade mural, about seven hours of work"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-2q-4805-mission",
+    "title": "Twenty Years to Build Six Apartments",
+    "theme": "modern-city",
+    "year": 2006,
+    "yearEnd": 2026,
+    "place": {
+      "label": "4801-4805 Mission Street at Russia Avenue",
+      "lat": 37.72143,
+      "lon": -122.43708,
+      "precision": "building"
+    },
+    "hook": "It has windows, balconies and a roof deck. It has had them since at least 2021. The permit to build it was filed in 2006.",
+    "story": "On the corner of Russia Avenue and Mission Street, across Russia from the Italian American Social Club, stands a five-storey building. It has looked almost finished for years [1]. City permit records show the project is even older than it looks. An application 'to erect 5 story, 6 family dwelling,' four wood-frame storeys over a concrete podium, was filed in January 2006 and not issued until November 2013 [2]. In 2015 Shangri-La Builder Inc. bought what Mission Local called a dilapidated parking lot, and building began [1]. By 2021 the windows, balconies and roof deck were in place, but nobody moved in. Since July 2015 the building has drawn 26 complaints to the Department of Building Inspection, describing it as 'a source of chronic blight.' Six hearings and seven orders of abatement followed, and in February 2026 the city cited it as an 'unsafe structure' with a $6,764 penalty outstanding. No one from the owner came to any of the hearings [1]. 'I just don't understand how it could sit that long,' said Julie Clima, who manages the social club across the street [1]. In July 2026 the city issued permits to recommence and complete the work [2].",
+    "people": [
+      {
+        "name": "Julie Clima",
+        "role": "Manager of the Italian American Social Club across the street"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Will they ever finish building 4805 Mission in the Excelsior?",
+        "publisher": "Mission Local",
+        "year": 2026,
+        "url": "https://missionlocal.org/2026/04/sf-excelsior-mystery-building-4805-mission-street/",
+        "supports": "Location; 2015 purchase; condition since 2021; 26 complaints, six hearings, seven abatement orders; February 2026 unsafe-structure citation; Clima quote"
+      },
+      {
+        "title": "Building Permits (block 6272, lot 030)",
+        "publisher": "San Francisco Department of Building Inspection via DataSF",
+        "year": 2026,
+        "url": "https://data.sfgov.org/d/i98e-djp9",
+        "supports": "Permit 200601202704 filed January 20, 2006, issued November 12, 2013, for a 5-story, 6-unit building; July 2026 recommencement permits"
+      }
+    ],
+    "photo": null
+  }
+]

@@ -1,0 +1,591 @@
+[
+  {
+    "id": "twin-peaks-2p-solari-hill-milk-ranches",
+    "title": "Milk ranchers, and kites only in March",
+    "theme": "gold-rush-victorian",
+    "year": 1862,
+    "yearEnd": null,
+    "place": {
+      "label": "Kite Hill (once 'Solari Hill'), off Yukon and 19th Streets",
+      "lat": 37.7578,
+      "lon": -122.4412,
+      "precision": "area"
+    },
+    "hook": "Before the houses, the east slope of Twin Peaks belonged to German milk ranchers and their cows. The last dairy family left its name on a hill.",
+    "story": "The 1862 city directory lists a 'milk ranch' belonging to John Pfaff on the north side of Corbett Road. He is the earliest known resident of what is now Corbett Heights, and he came from a family of squatters. In 1860 the developer Pioche had sued them 'for forty acres of Noe ranch and $60,000 damages' [1]. In the 1870 and 1880 censuses, the pages around Pfaff's land are full of milk ranches, dairy hands and milkmen. Most have German names, and four Swiss dairy workers turn up in 1880. By 1875 Adam Miller ran the Eureka Dairy nearby [1]. Farmers hauled their milk and produce down old Corbett Road to market [2].\n\nHouses spread up the hill after 1893, but some small-scale milk ranching held on into the 1950s. Neighbourhood children still called this steep knoll Solari Hill, after the Solari family dairy. A photo from about 1906 to 1911 shows a cow grazing within sight of the nearby brickworks, probably one of the Solaris' [1]. One former child remembers that kids flew kites here, but only in March. In 1977 the city bought the land 'in a relentless race with builders', and today it is Kite Hill park [1].",
+    "people": [
+      {
+        "name": "John Pfaff",
+        "role": "milk rancher, earliest known resident of Corbett Heights"
+      },
+      {
+        "name": "Adam Miller",
+        "role": "German-born dairyman, Eureka Dairy"
+      },
+      {
+        "name": "Solari family",
+        "role": "dairy family remembered in the name 'Solari Hill'"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Corbett Heights Historic Context Statement (Western Part of Eureka Valley)",
+        "publisher": "San Francisco Planning Department (Michael R. Corbett), adopted by the Historic Preservation Commission",
+        "year": 2017,
+        "url": "http://default.sfplanning.org/Preservation/CorbettHeightsHCS/hp_corbett_hcs_HCS_FINAL-081617.pdf",
+        "supports": "Pfaff milk ranch in 1862 directory; 1860 lawsuit; German and Swiss dairy workers in the 1870/1880 censuses; Eureka Dairy; Solari Hill name and dairy; cow photo; kites in March; 1977 purchase"
+      },
+      {
+        "title": "Corbett Road",
+        "publisher": "FoundSF (Mae Silver)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Corbett_Road",
+        "supports": "Farmers hauled dairy products and produce to market along Corbett Road"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-almshouse",
+    "title": "The almshouse where the poor grew dinner",
+    "theme": "gold-rush-victorian",
+    "year": 1867,
+    "yearEnd": null,
+    "place": {
+      "label": "Laguna Honda Hospital, 375 Laguna Honda Blvd (site of the 1860s Almshouse)",
+      "lat": 37.747729,
+      "lon": -122.456974,
+      "precision": "area"
+    },
+    "hook": "Not everyone struck gold. On a spring-fed lagoon behind Twin Peaks, the city built a home for the broke, the sick and the old, and made them farm it.",
+    "story": "Many who came for the Gold Rush were left with nothing. The city's answer was an almshouse on ranch land west of Twin Peaks, beside a deep, spring-fed lagoon called Laguna Honda. Sources date its founding to 1866 or 1867 [1][2]. The residents were poor, sick or destitute, and they grew their own food, raised livestock on 87 acres, and made their own clothes. By 1870, 500 people lived there. A smallpox epidemic in 1868 brought a small hospital, later used as an asylum [1][2]. Over the hill, the hog rancher Thomas Mahoney refreshed his herd's bloodlines by now and then trading a pig with the Alms House [3].\n\nAfter 1906 the almshouse sheltered earthquake victims who had never thought of themselves as poor, and Theodore Roosevelt dedicated a 1,000-bed pavilion for them in 1909 [1][2]. In the 1920s, under Mayor James 'Sunny Jim' Rolph, the Spanish Revival buildings that still crown the hill went up. In the 1930s the place became a teaching centre for the University of California's medical school and gained its WPA murals. Even so, the old poorhouse only became an accredited hospital in 1963 [1].",
+    "people": [
+      {
+        "name": "Thomas Mahoney",
+        "role": "Inner Sunset hog rancher who traded pigs with the Alms House"
+      },
+      {
+        "name": "Theodore Roosevelt",
+        "role": "dedicated the 1,000-bed relief pavilion"
+      },
+      {
+        "name": "James Rolph",
+        "role": "mayor under whom the Spanish Revival hospital was built"
+      }
+    ],
+    "sources": [
+      {
+        "title": "From Gold Rush Almshouse To Hospital, Laguna Honda Celebrates 150 Years Of Care",
+        "publisher": "SFist",
+        "year": 2016,
+        "url": "https://sfist.com/2016/10/14/from_goldrush_almshouse_to_hospital/",
+        "supports": "1866 founding by the spring-fed lagoon; 87 acres of self-grown food and livestock; 500 residents by 1870; 1868 smallpox hospital and asylum; 1906 relief home and 1,000-bed Roosevelt pavilion; 1920s Spanish Revival buildings under Rolph; 1930s UC teaching centre and WPA murals; 1963 accreditation"
+      },
+      {
+        "title": "A Look at Laguna Honda: Loyalty to the Past and Openness to Change",
+        "publisher": "California Preservation Foundation (David Gilliam)",
+        "year": null,
+        "url": "https://californiapreservation.org/laguna-honda/",
+        "supports": "'Since 1867'; residents grew food and made their own clothes; refuge for new poor after 1906; Roosevelt pavilion dedicated 1909"
+      },
+      {
+        "title": "Farms? In San Francisco?",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/sf-farms.php",
+        "supports": "Thomas Mahoney traded hogs with the Alms House"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-simons-fout-quarry",
+    "title": "The brickworks that shook Corbett's windows",
+    "theme": "labor-industry",
+    "year": 1900,
+    "yearEnd": 1918,
+    "place": {
+      "label": "Site of the Simons-Fout quarry, between Corbett Avenue and Graystone Terrace",
+      "lat": 37.7564,
+      "lon": -122.44385,
+      "precision": "area"
+    },
+    "hook": "Thirty thousand bricks a day, a 100-foot iron chimney and explosions next door that broke neighbours' windows, until the matter ended up in court.",
+    "story": "In May 1900 Edward Simons, Charles E. Fout and three partners from Los Angeles incorporated a brick company. They bought a slope on the east side of Twin Peaks that the 1900 insurance map simply labelled 'steep'. By 1905 it wasn't steep any more [1]. Their quarry sat between Corbett Road and Lincoln Road (today's Graystone and Villa Terraces). Crushers turned blue rock and red chert into macadam and concrete, and the company planned to level the land 'for real estate purposes' [1].\n\nThe brick plant straddled Iron Alley. It was a wood and corrugated-iron shed 300 feet long, with a 100-foot iron chimney and a coal-fired Hoffman kiln. According to the State Mining Bureau, its stiff-mud machine averaged 30,000 bricks a day. A fire levelled the plant in October 1902, and it was rebuilt [1]. Horse teams hauled the bricks away, most likely down Corbett [1][2].\n\nAfter 1906, cottages and flats filled the area around the pit during the housing shortage. In 1911 a lawsuit, Pacific States Supply Company v. the City and County of San Francisco, dealt with explosions and noise at the plant that disturbed neighbours, broke windows and created hazards. That year the company was sold. The quarry was closed by 1911, and the brickyard had shut for good by 1918 [1].",
+    "people": [
+      {
+        "name": "Edward Simons",
+        "role": "co-founder"
+      },
+      {
+        "name": "Charles E. Fout",
+        "role": "co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Corbett Heights Historic Context Statement (Western Part of Eureka Valley)",
+        "publisher": "San Francisco Planning Department (Michael R. Corbett), adopted by the Historic Preservation Commission",
+        "year": 2017,
+        "url": "http://default.sfplanning.org/Preservation/CorbettHeightsHCS/hp_corbett_hcs_HCS_FINAL-081617.pdf",
+        "supports": "1900 incorporation and founders; 'steep' site; quarry location between Corbett Road and Lincoln Road; rock crushing and 'real estate purposes'; plant size, chimney, 30,000 bricks a day, Hoffman kiln; 1902 fire; horse-drawn hauling; 1911 lawsuit over explosions and broken windows; 1911 sale; closures by 1911 and 1918"
+      },
+      {
+        "title": "Corbett Road",
+        "publisher": "FoundSF (Mae Silver)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Corbett_Road",
+        "supports": "Wagons from the nearby brickyards used old Corbett Road"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-examiner-christmas-tree",
+    "title": "The newspaper tree that named Christmas Tree Point",
+    "theme": "communities",
+    "year": 1927,
+    "yearEnd": null,
+    "place": {
+      "label": "Christmas Tree Point, Twin Peaks",
+      "lat": 37.754468,
+      "lon": -122.446745,
+      "precision": "area"
+    },
+    "hook": "A 120-foot fir was cut in half, stripped, trucked up Twin Peaks and rebuilt branch by branch, so the mayor could flip a switch.",
+    "story": "Christmas Tree Point got its name from a 1927 promotion by the San Francisco Examiner. The newspaper paid to put an enormous 'Forest Monarch' Christmas tree on the promontory, and city agencies joined in [1]. The Albion Lumber Company cut a 120-foot fir in Mendocino County. To move it, workers cut it in half and stripped off every branch, and trucks carried it up Twin Peaks in piles [1]. On the summit, city crews joined the trunk with an iron collar and drilled holes to put the branches back in. Park superintendent John McLaren added extra boughs, and the tree got 3,000 lights, giant metal candles, fake snow and thirty floodlights [1].\n\nShell Oil built a fifty-foot Santa Claus gateway. The Pioneer Auto Bus Company brought orphanage groups, children's clubs and the Municipal Band up for the lighting on December 19, 1927. At 7:30 p.m. Mayor James Rolph flipped the master switch: 'A sudden flare of light,' the Examiner wrote, 'and fairyland!' [1]. The tree could be seen from Marin to the East Bay. In 1928 a castle-like entrance and a shuttle bus greeted visitors [2]. The tree came back for a couple more years, until a campaign against cutting Christmas trees won out [1].",
+    "people": [
+      {
+        "name": "James Rolph",
+        "role": "mayor who lit the tree"
+      },
+      {
+        "name": "John McLaren",
+        "role": "park superintendent who 'fluffed out' the fir"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Examiner Christmas Tree: A Closer Look",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2017/12/17/examiner-christmas-tree-a-closer-look/",
+        "supports": "1927 Examiner promotion and naming of the point; 120-foot fir from Albion Lumber; how it was cut and rebuilt; McLaren; lights and decorations; Shell Santa gateway; Pioneer Auto Bus; lighting by Rolph on 19 Dec 1927 and the quote; visibility; end of the tradition"
+      },
+      {
+        "title": "Streetwise: Holiday Scenes in the Western Neighborhoods",
+        "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+        "year": 2024,
+        "url": "https://www.outsidelands.org/streetwise-holiday-scenes-in-the-western-neighborhoods.php",
+        "supports": "Examiner introduced the Twin Peaks tree tradition in the 1920s; castle-like entrance and shuttle bus in December 1928"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-snow-cows",
+    "title": "Cows in the snow above Miraloma",
+    "theme": "parks-nature",
+    "year": 1932,
+    "yearEnd": 1976,
+    "place": {
+      "label": "Panorama Drive, Midtown Terrace (dairy pasture in 1932)",
+      "lat": 37.75339,
+      "lon": -122.45493,
+      "precision": "street"
+    },
+    "hook": "When it snows in San Francisco, Twin Peaks gets it first. In 1932 the photographers found puzzled dairy cows standing in it.",
+    "story": "When snow falls on San Francisco it usually lands on Twin Peaks and the west side [2]. On December 11, 1932, after a rare snowfall, a photographer caught dairy cows grazing on the white slope where Panorama Drive now curves through Midtown Terrace. Miraloma Park lay below and Mount Davidson rose to the right [1]. It snowed several times that year, and newspapers said the city hadn't seen snow like it since 1887. At the Fleishhacker Zoo, animals were moved into a hospital heated to 70 degrees, except the polar bear, who stayed out and enjoyed himself [2].\n\nSnow came again in late February and early March 1951. The Chronicle ran 'The snow on Twin Peaks' in giant letters above its masthead, and people carried skis up the hill. One photo caption admitted the snow wasn't as thick as the mud, though the skier said he had fun [2]. In 1976 snow dusted the hilltops and melted quickly, and a forecaster warned it wouldn't end the drought [2].\n\nBy then the cows were long gone. In 1953 the Standard Building Company began building Midtown Terrace on these slopes, and hundreds of houses went up where the herd had stood in the snow [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Brief History of Midtown Terrace",
+        "publisher": "FoundSF (Rex Bell, reprinted from Western Neighborhoods Project)",
+        "year": 2011,
+        "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Midtown_Terrace",
+        "supports": "Photo caption: dairy cows on what is now Panorama Drive after snow, December 11, 1932, Miraloma Park and Mt. Davidson beyond; Midtown Terrace construction from 1953"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 307: Snow in San Francisco",
+        "publisher": "Western Neighborhoods Project",
+        "year": null,
+        "url": "https://www.outsidelands.org/podcast/WNP307_Snow",
+        "supports": "Twin Peaks and west side get the snow; 1932 snows and the 1887 comparison; the Twin Peaks cow photo; zoo animals and polar bear; 1951 Chronicle headline and skiers; 1976 snow and drought remark"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-youth-guidance-center",
+    "title": "Escaping 'Juvi' into the Twin Peaks fog",
+    "theme": "civil-rights",
+    "year": 1967,
+    "yearEnd": null,
+    "place": {
+      "label": "Youth Guidance Center (juvenile hall), 375 Woodside Avenue",
+      "lat": 37.745884,
+      "lon": -122.452509,
+      "precision": "building"
+    },
+    "hook": "In the Summer of Love era, runaway girls broke their cell windows and squeezed through barbed wire, bleeding and free on the slopes of Twin Peaks.",
+    "story": "In the 1940s the Juvenile Probation Department wanted to build its new detention home in Balboa Park. The Park Commission said no [1], so in 1950 the Juvenile Court and Youth Guidance Center moved from downtown to Woodside Avenue near Portola Drive. The building was first painted army green, and generations of San Francisco teens were warned to behave or be sent to 'Juvi' [2].\n\nIn 1967, the Summer of Love, running away from home was an offence only a minor could commit. Runaways who fell into the hands of the law could end up at the Youth Guidance Center [3]. The writer David Talbot called the Youth Guidance Center a 'bleak, overcrowded warehouse'. A thirteen-year-old named Deveron described steaming-hot rooms with tiny cracks for windows. One day some girls stood on their cots, broke the windows and squeezed out through barbed wire. 'They were torn and bleeding, but for the moment they were free, running through the cool mists of Twin Peaks' [3]. On June 18, 1967, the Glide Foundation opened Huckleberry House at 1 Broderick Street as an alternative [3].\n\nIn 1969 a Mission High student organizer was arrested for leafleting and held in an isolation cell in block B5 [4]. Decades later the Board of Supervisors voted to close the facility by 2021 [2].",
+    "people": [
+      {
+        "name": "Deveron",
+        "role": "thirteen-year-old held at the center in 1967"
+      },
+      {
+        "name": "David Talbot",
+        "role": "historian whose book Season of the Witch recorded her account"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The House of Refuge",
+        "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/house-of-refuge-lot.php",
+        "supports": "Park Commission rejected a Balboa Park site in the 1940s, leading to the Youth Guidance Center on Woodside Avenue"
+      },
+      {
+        "title": "Streetwise: Western Neighborhoods Landmarks",
+        "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/streetwise-western-neighborhoods-landmarks.php",
+        "supports": "Moved from downtown to Woodside Avenue and Portola Drive in 1950; army-green paint; 'Juvi'; Supervisors voted to close it by 2021"
+      },
+      {
+        "title": "Huckleberry House and Teenage Runaways",
+        "publisher": "FoundSF (Savana Huskins), citing David Talbot, Season of the Witch (2012)",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=Huckleberry_House_and_Teenage_Runaways",
+        "supports": "Runaways as status offenders; 'bleak, overcrowded warehouse for boys and girls who had fallen into the hands of the law'; Deveron's account and quote; Huckleberry House opening 18 June 1967"
+      },
+      {
+        "title": "Mission High School Student Organizing 1969",
+        "publisher": "FoundSF (first-person account)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_High_School_Student_Organizing_1969",
+        "supports": "Student organizer arrested for leafleting and held in isolation cells in block B5 at the Youth Guidance Center"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-grace-perego",
+    "title": "Grace Perego's last stand off Burnett",
+    "theme": "labor-industry",
+    "year": 1959,
+    "yearEnd": null,
+    "place": {
+      "label": "Perego Terrace off Burnett Avenue, Grace Perego's last project, Perego Heights (begun 1959)",
+      "lat": 37.750409,
+      "lon": -122.444972,
+      "precision": "street"
+    },
+    "hook": "Seven years after police towed her sedan off a Twin Peaks lane with her feet still on the brake, a pioneering woman builder began her last project on this cul-de-sac.",
+    "story": "Grace Perego was the first woman in the San Francisco Builders' Exchange, and for years its only one. In 1934 she wrote a 327-page manual on running apartment houses [1].\n\nBy 1950 she had built six apartment buildings, 54 units, on Graystone Terrace, part of the old Lincoln Road [1][2]. When bad weather made her carport ramp impassable, she linked the carport lane to neighbouring Crown Terrace. Residents said their fifteen-foot road was private; Perego said the city had conditionally accepted it as public in 1930. The 'Terracites' built a stone wall, and she had it bulldozed, twice [1]. On April 26, 1952, they parked across the road to trap her, and her tires went mysteriously flat. The star lawyer Jake Ehrlich took the neighbours' side. Finally police directed a tow truck to drag her sedan away, with Perego inside and both feet on the brake, and hauled off her son Jackson when he sat down in its path. 'Mrs. Stay-Put Perego Budged,' the Chronicle declared. Judge William T. Sweigert inspected the road himself and ruled for the Terracites [1].\n\nIn 1959 she began her last big San Francisco project here, Perego Heights. Her name last appeared in the Chronicle in a 1967 ad for it, and the paper ran no obituary when she died in 1973 [1].",
+    "people": [
+      {
+        "name": "Grace Perego",
+        "role": "builder and real-estate broker"
+      },
+      {
+        "name": "Jackson Yager",
+        "role": "her son and assistant"
+      },
+      {
+        "name": "Jake Ehrlich",
+        "role": "lawyer for the Crown Terrace residents"
+      },
+      {
+        "name": "William T. Sweigert",
+        "role": "presiding Superior Court judge"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Grace Perego in Six Scenes: Meet SF's First-Wave Feminist Housing Mogul",
+        "publisher": "Western Neighborhoods Project (Devin Smith), drawing on San Francisco Chronicle coverage of April-June 1952",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/grace-perego.php",
+        "supports": "Builders' Exchange first; 1927 speech; 1934 book; six Graystone Terrace buildings (54 units) by 1950; ramp and Crown Terrace dispute; wall bulldozed twice; 26 April 1952 blockade and flat tires; Ehrlich; tow with her feet on the brake and Jackson's arrest; 'Mrs. Stay-Put Perego Budged'; Judge Sweigert's ruling; Perego Heights off Burnett from 1959; 1967 ad; 1973 death with no Chronicle obituary"
+      },
+      {
+        "title": "Corbett Heights Historic Context Statement (Western Part of Eureka Valley)",
+        "publisher": "San Francisco Planning Department (Michael R. Corbett), adopted by the Historic Preservation Commission",
+        "year": 2017,
+        "url": "http://default.sfplanning.org/Preservation/CorbettHeightsHCS/hp_corbett_hcs_HCS_FINAL-081617.pdf",
+        "supports": "Graystone Terrace was formerly part of Lincoln Road"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-midtown-homeowners",
+    "title": "The homeowners who planted Midtown's greenbelts",
+    "theme": "communities",
+    "year": 1959,
+    "yearEnd": null,
+    "place": {
+      "label": "Panorama Drive, Midtown Terrace (home of association president Mrs. Theodore Jewell in 1959)",
+      "lat": 37.752498,
+      "lon": -122.451821,
+      "precision": "block"
+    },
+    "hook": "Nine hundred new houses climbed Twin Peaks' western slopes. An 'eager beaver' and a city planner set out to plant the banks with trees, shrubs and ice plant.",
+    "story": "By February 1959, 900 of the 1,000 houses the Standard Building Company planned on the western slopes of Twin Peaks were finished. Most sold for between $17,200 and $22,950, and 'super' models went for up to $29,500 [1]. A Muni bus looped through Midtown Terrace on weekdays, and the Midtown Terrace Home Owners Association was hoping for Sunday and holiday service too [1].\n\nThe association's president, Mrs. Theodore Jewell of 435 Panorama Way, was, the paper said, admittedly an 'eager beaver'. At the association's request, the City Planning Commission lent the association Miss Ruth Jaffe, an associate city planner and landscape architect, who drew up a plan for the whole area [1]. It would cost about $14,000, planted in three stages. Trees and tall growth would go first on the banks between the neighbourhood's seven street levels, then shrubs, then ground cover such as ivy and ice plant. The goal, Mrs. Jewell said, was 'a garden spot in the heart of the city' [1].\n\nAs of 2011 every homeowner was still a member of the association, and its 1956 bylaws, which protect the greenbelts, were still in force [1][2].",
+    "people": [
+      {
+        "name": "Mrs. Theodore Jewell",
+        "role": "president, Midtown Terrace Home Owners Association"
+      },
+      {
+        "name": "Ruth Jaffe",
+        "role": "associate city planner and landscape architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Brief History of Midtown Terrace",
+        "publisher": "Western Neighborhoods Project (Rex Bell), reprinting the San Francisco News of 25 February 1959",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/midtown-terrace.php",
+        "supports": "1959 house counts and prices; Muni bus; Mrs. Jewell's quotes and address; Ruth Jaffe's plan; three-stage $14,000 planting between seven levels; association membership and 1956 bylaws"
+      },
+      {
+        "title": "Brief History of Midtown Terrace",
+        "publisher": "FoundSF (Rex Bell)",
+        "year": 2011,
+        "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Midtown_Terrace",
+        "supports": "Reprint of the same history; greenbelts and bylaws still in effect"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-seward-slides",
+    "title": "A sit-in, then slides designed by a teenager",
+    "theme": "civil-rights",
+    "year": 1966,
+    "yearEnd": 1973,
+    "place": {
+      "label": "Seward Mini Park, Seward Street between Douglass and Corwin",
+      "lat": 37.7581,
+      "lon": -122.43966,
+      "precision": "block"
+    },
+    "hook": "Neighbours sat down in front of the bulldozers to save the last empty lot. Seven years later a 14-year-old's design for concrete slides opened on it.",
+    "story": "In 1963 the city approved a big apartment building, reported at 69 or 105 units, for the steep slope between Corwin and Seward Streets. Its garage would open onto Seward [1]. Neighbours said it was the last vacant site in the area, and they fought it with petitions, hearings and appeals [1][2]. In 1965 a test showed that fire trucks couldn't get through to the site [1]. When the bulldozers arrived as the permit was about to expire in 1966, residents staged a sit-in and the developer gave up. The two accounts disagree on the date: one says the permit expired on January 12 and the other says June 12 [1][2]. Park advocates say the win led to a rule requiring a minimum of neighbourhood open space [2].\n\nThen came a second campaign, backed by Mayor Joseph Alioto and State Senator George Moscone. On May 21, 1973, the 0.37-acre Seward Mini Park opened [1][2]. Its twin concrete slides were designed by Kim Clark, a 14-year-old who lived on Seward Street. She won a 'Design the Park' contest run by the artist Ruth Asawa. The Chronicle later reported that the slides were inspired by one at Playland at the Beach [1][2].",
+    "people": [
+      {
+        "name": "Kim Clark",
+        "role": "14-year-old Seward Street resident who designed the slides"
+      },
+      {
+        "name": "Ruth Asawa",
+        "role": "artist who ran the design contest"
+      },
+      {
+        "name": "B. Shamon Schwarzschild",
+        "role": "leader in the campaign"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Corbett Heights Historic Context Statement (Western Part of Eureka Valley)",
+        "publisher": "San Francisco Planning Department (Michael R. Corbett), adopted by the Historic Preservation Commission",
+        "year": 2017,
+        "url": "http://default.sfplanning.org/Preservation/CorbettHeightsHCS/hp_corbett_hcs_HCS_FINAL-081617.pdf",
+        "supports": "1963 approval of a 69- or 105-unit building by Spartan Development; last vacant site; 1965 fire-truck test; permit expired 12 June 1966 after a campaign including a sit-in; park of .37 acres opened 21 May 1973; Chronicle (2010) on the Playland-inspired slides designed by a 14-year-old contest winner"
+      },
+      {
+        "title": "Corwin Community Garden and Seward Mini-Park",
+        "publisher": "FoundSF (text of the sign at the garden)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Corwin_Community_Garden_and_Seward_Mini-Park",
+        "supports": "Last open space; sit-in on 12 January 1966 as bulldozers arrived; resulting open-space legislation; support from Alioto and Moscone; Kim Clark's design, Ruth Asawa's contest and the Playland inspiration"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-market-house-moving",
+    "title": "Houses on rollers for Market Street",
+    "theme": "civil-rights",
+    "year": 1921,
+    "yearEnd": 1958,
+    "place": {
+      "label": "Market Street at the Romain Street footbridge",
+      "lat": 37.756311,
+      "lon": -122.441855,
+      "precision": "street"
+    },
+    "hook": "To push Market Street around Twin Peaks, teamsters rolled whole houses through the neighbourhood. Nearly forty years later the widening crews came back.",
+    "story": "For decades people dreamed of running Market Street to the ocean; an 1890 plan even proposed spanning Lake Merced with an iron bridge [1]. The version that got built came from Bion J. Arnold and Michael O'Shaughnessy's plan of 1912. Tied to the new Twin Peaks Tunnel, it followed the hillside's contours instead of a straight line, yet it cut through Corbett Heights and 'required much house moving and destruction of property' [1]. City photographs show houses on Falcon Avenue being moved in 1920, and a house waiting to go in a 1921 view north from Romain Street [1].\n\nBeryl Harris Trimble (1896–1993) told neighbours she had watched teamsters move one 'on rollers': down Clayton to the streetcar switchback, up Falcon Street (now Market) to Nineteenth, then down Nineteenth and Caselli to its new lot at 224 Caselli. The move probably came between 1914 and 1922 [1]. The newspapers declared the extension 'open for use' in November 1922 [1].\n\nIn the late 1950s the city widened Market Street again; one account dates the work 1956 to 1958, the other 1957 to 1958 [1][2]. More houses were torn down or moved, and the wide, fast road split the neighbourhood in two. The Romain Street footbridge was, in the historian's words, 'a partial and inadequate solution' [1].",
+    "people": [
+      {
+        "name": "Beryl Harris Trimble",
+        "role": "resident who watched a house rolled through the streets"
+      },
+      {
+        "name": "Michael O'Shaughnessy",
+        "role": "city engineer behind the 1912 plan"
+      },
+      {
+        "name": "Bion J. Arnold",
+        "role": "transit planner behind the 1912 plan"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Corbett Heights Historic Context Statement (Western Part of Eureka Valley)",
+        "publisher": "San Francisco Planning Department (Michael R. Corbett), adopted by the Historic Preservation Commission",
+        "year": 2017,
+        "url": "http://default.sfplanning.org/Preservation/CorbettHeightsHCS/hp_corbett_hcs_HCS_FINAL-081617.pdf",
+        "supports": "1890 Lake Merced bridge proposal; 1912 Arnold-O'Shaughnessy contour route tied to the tunnel; house moving and destruction; 1920-21 photos; Trimble's eyewitness account, route and likely 1914-22 date; 'open for use' November 1922; 1957-58 widening, demolitions and moved houses, divided neighbourhood and Romain Street footbridge"
+      },
+      {
+        "title": "Streetwise: Long & Winding Road",
+        "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/streetwise-roads-in.php",
+        "supports": "Upper Market Street widening carried out 1956-1958"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-gods-hotel",
+    "title": "The doctor who called it God's Hotel",
+    "theme": "modern-city",
+    "year": 2012,
+    "yearEnd": null,
+    "place": {
+      "label": "Laguna Honda Hospital campus, site of the demolished Clarendon Hall",
+      "lat": 37.7487,
+      "lon": -122.4575,
+      "precision": "area"
+    },
+    "hook": "A machine 'like a praying mantis made out of metal' ate the old ward building one bite at a time. The doctor watching it wrote a book.",
+    "story": "Clarendon Hall opened at Laguna Honda in 1910. It was the first building put up specifically for long-term medical care [2]. For decades the hospital's patients lay in long, open 'Florence Nightingale' wards [2]. Dr. Victoria Sweet worked there for decades [3], and in 2012 published God's Hotel, her account of the old almshouse-hospital [1].\n\nIn it she describes the demolition of Clarendon Hall. Workmen first stripped out windows, faucets and sinks, 'the way termites take things apart'. Then 'a machine that looked like a praying mantis made out of metal' bit off pieces of the tiled roof, one after another, until by the end of the day the century-old building was rubble [1]. Two weeks later Sister Miriam resigned. She wrote a newspaper article about the 'beautiful spirit of Clarendon' and warned that the hospital was being cut back quietly: its patient numbers down by a third, the hospice chaplain laid off [1]. When a marketing plan proposed taking 'Hospital' out of Laguna Honda's name, the doctors asked who, then, were all the sick, frail patients they cared for every day.\n\nThe two towers that replaced it were finished in December 2010 [2]. 'Hospital' stayed in the name [1]. Sweet described Laguna Honda's people as those who 'fall through the safety nets of the safety nets' [3].",
+    "people": [
+      {
+        "name": "Victoria Sweet",
+        "role": "physician and author of God's Hotel"
+      },
+      {
+        "name": "Sister Miriam",
+        "role": "resigned and protested in print after the demolition"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Laguna Honda Hospital (excerpt from God's Hotel by Victoria Sweet)",
+        "publisher": "FoundSF, excerpted with permission from Riverhead Books",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Laguna_Honda_Hospital",
+        "supports": "Demolition of Clarendon Hall, the 'termites' and 'praying mantis' descriptions; Sister Miriam's resignation and article; cuts; proposal to drop 'Hospital' from the name; 2012 copyright"
+      },
+      {
+        "title": "A Look at Laguna Honda: Loyalty to the Past and Openness to Change",
+        "publisher": "California Preservation Foundation (David Gilliam)",
+        "year": null,
+        "url": "https://californiapreservation.org/laguna-honda/",
+        "supports": "Clarendon Hall opened 1910 as first long-term-care building; Nightingale-style wards; replaced by two towers with move-in December 2010"
+      },
+      {
+        "title": "A tragic crash brought him to Laguna Honda. Now, the feds may force him and other patients out",
+        "publisher": "San Francisco Chronicle (Heather Knight)",
+        "year": 2022,
+        "url": "https://www.sfchronicle.com/sf/bayarea/heatherknight/article/laguna-honda-patient-transfer-crash-feds-17346993.php",
+        "supports": "Sweet worked at Laguna Honda for decades and wrote God's Hotel; 'safety nets of the safety nets' quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-billy-stack",
+    "title": "The 'Mayor of Laguna Honda' faces eviction",
+    "theme": "modern-city",
+    "year": 2022,
+    "yearEnd": 2024,
+    "place": {
+      "label": "Laguna Honda Hospital, 375 Laguna Honda Blvd",
+      "lat": 37.7482,
+      "lon": -122.4566,
+      "precision": "building"
+    },
+    "hook": "Billy Stack had lived at Laguna Honda for nearly 44 years when federal regulators pulled its funding and patients started being moved out.",
+    "story": "Billy Stack grew up in the Sunset and Daly City, working as a Chronicle paperboy and gas station attendant. On April 17, 1978, aged 21 and helmetless, he crashed his motorcycle into a streetlight in the Outer Richmond. After four months of acute care he moved to Laguna Honda. By 2022, at 65, he had lived there longest of its 610 patients [1]. His sister Laurie Clark called him 'the Mayor of Laguna Honda'. Nurses kept his wheelchair on its slowest setting after too many high-speed hallway runs [1].\n\nIn 2021 two patients survived overdoses of street drugs. Staff then found contraband in patients' rooms, and inspections found more failings [1][2]. In April 2022 federal regulators decertified the hospital, cutting off the Medicare and Medicaid payments that covered most patients' care. Patients were moved to other nursing homes and even homeless shelters until a pause on July 28. That summer the Chronicle counted 57 patients moved [1]; a 2024 report put the figure at 41, and said 12 of them died soon afterwards [2].\n\nThe city attorney sued to halt the transfers. The hospital regained Medicaid certification in 2023 and Medicare in June 2024. 'It means Laguna Honda is here to stay,' said Health Director Grant Colfax. Residents who had been moved out got first priority to return [2].",
+    "people": [
+      {
+        "name": "William 'Billy' Stack",
+        "role": "Laguna Honda's longest resident"
+      },
+      {
+        "name": "Laurie Clark",
+        "role": "his sister"
+      },
+      {
+        "name": "Grant Colfax",
+        "role": "San Francisco Director of Health"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A tragic crash brought him to Laguna Honda. Now, the feds may force him and other patients out",
+        "publisher": "San Francisco Chronicle (Heather Knight)",
+        "year": 2022,
+        "url": "https://www.sfchronicle.com/sf/bayarea/heatherknight/article/laguna-honda-patient-transfer-crash-feds-17346993.php",
+        "supports": "Stack's background, crash date, move-in, longest of 610 patients; 'Mayor of Laguna Honda'; wheelchair speed; overdoses and contraband; April decertification; 57 transfers including to shelters; July 28 pause"
+      },
+      {
+        "title": "S.F.'s Laguna Honda recertified by Medicare, ending threat of closure",
+        "publisher": "San Francisco Chronicle (Catherine Ho)",
+        "year": 2024,
+        "url": "https://www.sfchronicle.com/health/article/sf-s-laguna-honda-recertified-medicare-ending-19523844.php",
+        "supports": "2021 overdoses; loss of Medicare/Medicaid funding; 12 of 41 transferred residents died; city lawsuit; Medicaid restored 2023; Medicare recertified June 2024; Colfax quote; transferred residents get first priority"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2p-hill-bomb-2020",
+    "title": "Skateboards down the mountain for Black lives",
+    "theme": "civil-rights",
+    "year": 2020,
+    "yearEnd": null,
+    "place": {
+      "label": "Twin Peaks Boulevard at the summit",
+      "lat": 37.7535,
+      "lon": -122.4485,
+      "precision": "area"
+    },
+    "hook": "In June 2020 thousands of skateboarders met on top of Twin Peaks and bombed down toward Market Street in protest.",
+    "story": "Skaters have long treated San Francisco's steepest streets as a proving ground. 'Hill bombing', riding flat out down a grade, happens most often on Kearny Street, Hyde Street and Twin Peaks [2].\n\nIn early June 2020, after the police killings of George Floyd, Breonna Taylor and Ahmaud Arbery, protest filled the city. On June 3 Mission High School students called a protest that drew about 20,000 people. On June 5 cyclists held a George Floyd memorial ride in Critical Mass style [1]. Then thousands of skateboarders gathered on Twin Peaks to 'Bomb Hills 4 Black Lives'. FoundSF dates the rally June 10; a Chronicle photo caption calls it a 'Skateboard Rally for Black Lives' on Thursday, June 11 [1][2]. Protest footage caught the skaters pouring past Market and 15th Streets on the way down [1].\n\nThat summer, as crowds of skaters took over hills across the city, the fun collided with public safety. In July a collision between a skateboarder and a cyclist on Dolores Street left the cyclist critically injured. The city then installed rumble strips there, and residents and Supervisor Rafael Mandelman complained that skaters had 'taken over' Dolores three times in little more than a week [2].",
+    "people": [
+      {
+        "name": "Rafael Mandelman",
+        "role": "District 8 supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Black Lives Matter—June 2020",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Black_Lives_Matter%E2%80%94June_2020",
+        "supports": "June 3 Mission High protest of about 20,000; June 5 memorial ride; June 10 skateboarders gathering on Twin Peaks to 'Bomb Hills 4 Black Lives', filmed at Market and 15th"
+      },
+      {
+        "title": "Pavement markers slow daredevil skateboarders on popular SF hill after near-fatal crash",
+        "publisher": "San Francisco Chronicle (Rusty Simmons)",
+        "year": 2020,
+        "url": "https://www.sfchronicle.com/bayarea/article/Rumble-strips-slow-daredevil-skateboarders-on-15419033.php",
+        "supports": "Hill bombing commonly at Kearny, Twin Peaks and Hyde; photo caption of the Twin Peaks 'Skateboard Rally for Black Lives', Thursday June 11; July 2020 Dolores collision and rumble strips; Mandelman quote"
+      }
+    ],
+    "photo": null
+  }
+]

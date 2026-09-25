@@ -1,0 +1,678 @@
+[
+  {
+    "id": "inner-richmond-2p-george-low-albums",
+    "title": "The mystery albums of Tenth Avenue",
+    "theme": "gold-rush-victorian",
+    "year": 1898,
+    "yearEnd": null,
+    "place": {
+      "label": "447–453 10th Ave (originally 425 & 427 Tenth Ave), near Geary",
+      "lat": 37.77985,
+      "lon": -122.46882,
+      "precision": "building"
+    },
+    "hook": "Two family albums, rescued from a Los Angeles prop-shop sale, turned out to show the Richmond of 1898 from one electrical engineer's front porch.",
+    "story": "In 2011 Craig Bryan of Northridge wrote to the San Francisco Museum and Historical Society about two photo albums he had found in the corner of a prop-shop liquidation sale in Los Angeles. Richmond historian John Freeman took up the puzzle [1]. One picture showed uniformed men crowding Point Lobos Avenue (today's Geary) at Sixth Avenue beside the old French Hospital, a flag draped over a facade: Freeman dated it to the Fourth of July, 1898, when Camp Merritt's volunteers were camped nearby [1]. Others showed two identical houses and a porch view of windmills and the original Star of the Sea church; old Sanborn maps matched them to 425 and 427 Tenth Avenue [1]. The albums named only two children, Marian (born 1891) and George (born 1893). Bryan's search of the 1898 city directory turned up George P. Low, publisher of the Journal of Electricity, and the 1900 census showed him with children Marian and George [1]. Low had supervised the electrical system of the 1894 Midwinter Fair; his journal, launched in July 1895 and co-edited with F. A. C. Perrine, even ran an article, copyrighted in Low's name, on photographing the fair at night by electric light [1][2]. The houses survive, disguised by 1911 and 1913 remodels as flats at 447–453 Tenth Avenue [1].",
+    "people": [
+      {
+        "name": "George P. Low",
+        "role": "electrical engineer, publisher and amateur photographer"
+      },
+      {
+        "name": "John Freeman",
+        "role": "historian who solved the puzzle"
+      },
+      {
+        "name": "Craig Bryan",
+        "role": "rescued the albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sleuthing the Richmond District",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/sleuthing-richmond.php",
+        "supports": "Albums, 1898 photos, 425/427 Tenth Ave, George P. Low identification, remodels to 447-453"
+      },
+      {
+        "title": "The Journal of Electricity, vols. 1-4 (1895-97)",
+        "publisher": "Internet Archive",
+        "year": 1897,
+        "url": "https://archive.org/details/journalof131895461897paci",
+        "supports": "Journal edited by Perrine and Low, first issue July 1 (1895); night-photography article copyrighted 1895 by Geo. P. Low"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-french-laundry-irish-pub",
+    "title": "From French laundry to Irish seisún",
+    "theme": "communities",
+    "year": 1910,
+    "yearEnd": 1975,
+    "place": {
+      "label": "The Plough and Stars, 116 Clement St near 2nd Ave",
+      "lat": 37.78337,
+      "lon": -122.46052,
+      "precision": "building"
+    },
+    "hook": "For more than sixty years 116 Clement was a French laundry. Then it became a home for Irish music and newly arrived Irish immigrants.",
+    "story": "The little building at 116 Clement Street went up in 1905 and spent most of its life as a French laundry, a reminder of the French community that also built the French Hospital nearby on Geary [1]. Frank Mirandette, born to a Spanish mother and French father, had come from France in 1890, married fellow immigrant Francoise Gouber and run a laundry in Los Gatos before opening this one around 1910; his family lived next door at 114 [1]. Partner Calixte Lapuyade took it over as the Clement French Laundry, and by 1960 the Baylacq family, French laundrymen since 1906, ran it until 1974 [1]. On Friday, April 30, 1975, the space reopened as the Plough and Stars, named for Sean O'Casey's play about the 1916 Easter Rising [2]. Its first owner, Bob Heaney, also ran the Starry Plough in Berkeley; in 1981 Sean Heaney, part of a wave of Irish immigrants escaping Ireland's 1980s recession, took over [1][2]. It became a gathering place for newcomers seeking community, work contacts and familiar music, famous for its seisúns, informal sessions any musician can join [1]. The city named it a Legacy Business in 2018 [1].",
+    "people": [
+      {
+        "name": "Frank Mirandette",
+        "role": "French laundry founder"
+      },
+      {
+        "name": "Calixte Lapuyade",
+        "role": "laundry proprietor"
+      },
+      {
+        "name": "Bob Heaney",
+        "role": "founder of the Plough and Stars"
+      },
+      {
+        "name": "Sean Heaney",
+        "role": "owner from 1981"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History Stop - 116 Clement",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/history-stop-116-clement.php",
+        "supports": "Building 1905, Mirandette, Lapuyade, Baylacq laundry history, 1975 opening, Heaneys, seisuns, 2018 Legacy status"
+      },
+      {
+        "title": "Legacy Business Registry Staff Report: The Plough and Stars (LBR-2017-18-030)",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2018,
+        "url": "https://www.sf.gov/sites/default/files/2024-11/item_3d._lbr-2017-18-030_plough_and_stars.pdf",
+        "supports": "Opened April 30, 1975; name from O'Casey play; Bob Heaney and Starry Plough; Sean Heaney from 1981"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-lincoln-bowl",
+    "title": "Twelve lanes and a neighbourhood fight",
+    "theme": "communities",
+    "year": 1941,
+    "yearEnd": 1973,
+    "place": {
+      "label": "Site of Lincoln Bowl (former Lincoln Theatre), 319 6th Ave near Clement St",
+      "lat": 37.78241,
+      "lon": -122.46471,
+      "precision": "block"
+    },
+    "hook": "A silent-era movie house became the Richmond's only bowling alley, home to Chinese club teams and women's daylight leagues, until a bank tried to take it.",
+    "story": "The building at 319 Sixth Avenue opened as a neighbourhood picture house, the New Richmond and later the Lincoln Theatre, which operated from 1912 until 1940 [1][2]. On January 24, 1941, Charles 'Chuck' Marquard reopened it as Lincoln Bowl, with twelve alleys and a giant mural by Don Clever [1]. It was a progressive alley for its day: it hosted a Chinese West Coast bowling tournament, launched San Francisco's first women's daylight league in its opening year, and from December 1941 newspapers reported the San Francisco Chinese Club routinely taking on the Lincoln Bowl team [1]. A fire in June 1945 did about $20,000 in damage, leaving league bowlers 'homeless' until the lanes, run by instructor-turned-manager Josephine 'Josie' Bozzini, reopened that August 25 [1]. By the 1960s the Jeung brothers of 12th Avenue bowled here [1]. When the property sold in 1973 for a bank, residents protested losing the only bowling alley 'in their part of the city'; an associate pastor of St. Thomas the Apostle and Washington High's principal spoke up about the lack of recreation for local kids [1]. Lincoln Bowl closed on December 22, 1973. The state then denied Bank of the Orient its branch permit, with neighbourhood opposition reportedly a factor [1].",
+    "people": [
+      {
+        "name": "Charles 'Chuck' P. Marquard",
+        "role": "opened Lincoln Bowl"
+      },
+      {
+        "name": "Josephine 'Josie' Bozzini",
+        "role": "instructor and manager"
+      },
+      {
+        "name": "Bill Baioni",
+        "role": "proprietor 1958-1973"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinese in the Richmond: Rodney and Russell Jeung",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) / Chinese Historical Society of America",
+        "year": 2022,
+        "url": "https://www.outsidelands.org/chinese-in-the-richmond-rodney-and-russell-jeung.php",
+        "supports": "Lincoln Bowl history: 1941 opening, Chinese tournament and club, women's league, 1945 fire, 1973 closure, protest, bank permit denial"
+      },
+      {
+        "title": "6th Ave near Clement, circa 1948 (wnp27.4036)",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2017,
+        "url": "https://opensfhistory.org/Display/wnp27.4036.jpg",
+        "supports": "Lincoln Bowling alley had operated as Lincoln Theatre 1912-1940"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-streetcar-crash-1947",
+    "title": "The happiest boy in a streetcar wreck",
+    "theme": "communities",
+    "year": 1947,
+    "yearEnd": null,
+    "place": {
+      "label": "8th Avenue and Balboa Street",
+      "lat": 37.77722,
+      "lon": -122.46612,
+      "precision": "street"
+    },
+    "hook": "A ten-year-old rail fan clipped accident reports and prayed to be in one. On July 24, 1947, his runaway streetcar granted the wish at 8th and Balboa.",
+    "story": "Young Jack Tillmany lived on Anza Street, between the 31-Balboa and B-Geary lines, and collected newspaper clippings of streetcar accidents, secretly hoping to be in one. He bet on the 31, which had 'more than its share of colorful mishaps' [1]. On Thursday, July 24, 1947, he and his mother boarded car #976 at 25th and Balboa, heading downtown. On the eastbound descent the brakes apparently failed just as car #116 of the 21-Hayes line was crossing Balboa southbound on 8th Avenue. Their car sped up instead of slowing, broadsided the 21 and nearly overturned it [1]. Tillmany and his mother rolled across the floor in broken glass and dust; an elderly man with a bleeding head was hospitalised [1]. Hours later the pair's photo, taken in an ambulance, was on the front page of the San Francisco News. Each received a $25 settlement, and both cars were repaired and put back in service. His mother never rode the Balboa line again; he rode it every chance he got [1]. Two blocks away, six-year-old John Freeman heard the crash and ran to join the crowd; a schoolmate from 12th Avenue got into trouble for straying four blocks to see it [2].",
+    "people": [
+      {
+        "name": "Jack Tillmany",
+        "role": "ten-year-old passenger, later historian"
+      },
+      {
+        "name": "John Freeman",
+        "role": "six-year-old onlooker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tillmany's Ride",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/tillmany-1947.php",
+        "supports": "Crash details, date, car numbers, injuries, newspaper photo, $25 settlements"
+      },
+      {
+        "title": "Streetcar Crash Remembered",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/tillmany-60th.php",
+        "supports": "John Freeman's and a schoolmate's memories of the crash"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-schuberts-bakery",
+    "title": "Opera cakes on foggy Clement Street",
+    "theme": "labor-industry",
+    "year": 1948,
+    "yearEnd": null,
+    "place": {
+      "label": "Schubert's Bakery, 521 Clement St between 6th & 7th Aves",
+      "lat": 37.78267,
+      "lon": -122.46495,
+      "precision": "building"
+    },
+    "hook": "A German immigrant's Fillmore bakery moved west in 1948 and has passed from one German baker to the next ever since, recipes and all.",
+    "story": "Oswald Schubert, a German immigrant, opened the Golden West Bakery at 1014 Fillmore Street in 1913 and made his name with traditional German cakes and pastries [1]. When he retired in the 1940s he sold it to a fellow pastry enthusiast, Fred Kreye, who kept the old-world techniques but found the demand outgrowing the shop. In 1948 Kreye moved Schubert's to a larger 1910 building at 521 Clement Street, a spot easy for pedestrians and visitors to find [1]. Frank Dunnigan remembered it as a branch of an old-time bakery from the once-Jewish Western Addition, and claims you can still catch a whiff of almond paste, poppy seeds and honey in the morning air [2]. On June 1, 1969, a young German couple, Hilmar and Annie Maier, took over and stayed put as the district's population changed around them [1]. In 1995 they sold to brothers Ralph and Lutz Wenzel, the fourth generation of bakers in their family, who still turn out Neapolitan and Opera cakes whose recipes the bakery dates to 1911, alongside newer favourites like Swedish Princess cake and mango mousse [1]. The city added Schubert's to its Legacy Business Registry in 2019, listing its old wooden sign and striped awning among the features worth saving [1].",
+    "people": [
+      {
+        "name": "Oswald Schubert",
+        "role": "founder, 1913"
+      },
+      {
+        "name": "Fred Kreye",
+        "role": "moved bakery to Clement St"
+      },
+      {
+        "name": "Hilmar and Annie Maier",
+        "role": "owners 1969-1995"
+      },
+      {
+        "name": "Ralph and Lutz Wenzel",
+        "role": "owners from 1995"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Registry Staff Report: Schubert's Bakery (LBR-2018-19-020)",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2019,
+        "url": "https://www.sf.gov/sites/default/files/2024-10/item_3c._lbr-2018-19-020_schuberts.pdf",
+        "supports": "Founding, Fillmore location, Kreye, 1948 move, Maiers, Wenzels, cakes, building 1910, defining features"
+      },
+      {
+        "title": "Streetwise: Richmond Ramble",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/streetwise-richmond-ramble.php",
+        "supports": "Recollection of Schubert's as a Western Addition bakery branch and its smells"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-king-norman",
+    "title": "The toy king of Clement Street",
+    "theme": "labor-industry",
+    "year": 1949,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of Norman's Kingdom of Toys, 645-651 Clement St near 8th Ave",
+      "lat": 37.78262,
+      "lon": -122.46623,
+      "precision": "building"
+    },
+    "hook": "A Navy officer and his wife opened a tiny party-favour shop in 1949. Within five years he was 'King Norman,' crowned on Saturday-morning television.",
+    "story": "Norman Rosenberg, born in Chicago in 1918, was a naval officer stationed in San Francisco near the end of World War II when a blind date introduced him to Doris Brodofsky, whose family ran the Bell Bazaar notions store on 16th Street [1]. Urged into business by his father-in-law, the couple opened a small shop at 645 Clement Street in 1949, listed in directories as 'Norman's—party favors' [1]. Toys outsold everything, and by the late 1950s it was Norman's Kingdom of Toys, spilling into 651 Clement [1]. Doris invented a hit Easter gift by wrapping Woolworth's Easter grass and candy with a little pail in cellophane [1]. From 1954 until 1961 the King, in regal robes, hosted a Saturday-morning children's show on KGO-TV, Channel 7, with Doris as his assistant, Page Joy, handing toys to children from the studio audience [1][3]. Each Halloween the royal pair led a Clement Street merchants' parade that drew children by the thousands [1]. The kingdom grew to 21 stores by 1981 before the Rosenbergs sold the remaining shops to Kay-Bee Toys in the mid-1980s [1]. Doris died in 2008; Norman died in December 2016, aged 98 [2].",
+    "people": [
+      {
+        "name": "Norman Rosenberg",
+        "role": "'King Norman', toy merchant and TV host"
+      },
+      {
+        "name": "Doris Rosenberg",
+        "role": "co-founder; 'Page Joy' on TV"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Long Live the King",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2015,
+        "url": "https://www.outsidelands.org/streetwise_king_norman.php",
+        "supports": "Biography, 645/651 Clement, store history, TV show, parade, 21 stores, Kay-Bee sale"
+      },
+      {
+        "title": "Bay Area children's TV show host 'King Norman' dies",
+        "publisher": "ABC7 San Francisco",
+        "year": 2017,
+        "url": "https://abc7news.com/1685002/",
+        "supports": "Died December 2016 aged 98; Doris as Page Joy; Doris died 2008"
+      },
+      {
+        "title": "KGO-TV",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/KGO-TV",
+        "supports": "King Norman's show on KGO-TV from 1954 until 1961"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-jeung-family-12th-ave",
+    "title": "A crowded house on 12th Avenue",
+    "theme": "communities",
+    "year": 1952,
+    "yearEnd": null,
+    "place": {
+      "label": "510 12th Ave near Anza St",
+      "lat": 37.77854,
+      "lon": -122.47025,
+      "precision": "building"
+    },
+    "hook": "When a young Chinese American couple bought a $13,000 house far from Chinatown, they moved his seven siblings in too. Their son would later found Stop AAPI Hate.",
+    "story": "Albert Jeung, a San Francisco native and Army veteran, married Bernice Shue in 1951, and in 1952 the couple bought 510 12th Avenue for a 'whopping $13,000' with a veteran's loan [1]. Albert's father had died, so they moved his seven siblings out of the family's Washington Street home in Chinatown; with the couple and a grandmother, the three-bedroom house with a sunroom was packed. Fittingly, a 1949 advertisement for the house had asked, 'Are you crowded in your present home?' [1]. It was a bold choice: their son Rodney recalls his mother saying there were places along California Street or Parker Avenue where Chinese people weren't allowed to buy, and on their block there was maybe one other Chinese family [1]. Dinners were hamburgers and meatloaf with rice and tea. After school Rodney was sent to Chinese classes at St. James Episcopal on California Street and then Chinese Grace Baptist at 10th and Balboa; he once padlocked his teacher to his chair [1]. His younger brother Russell, born in 1963 and spared Chinese school by busing, became a San Francisco State sociologist and in 2020 co-founded Stop AAPI Hate to track anti-Asian attacks during the pandemic [1][2]. Rodney still lives in the house, with much of the same furniture [1].",
+    "people": [
+      {
+        "name": "Albert and Bernice Jeung",
+        "role": "homeowners"
+      },
+      {
+        "name": "Rodney Jeung",
+        "role": "son, urban planner"
+      },
+      {
+        "name": "Russell Jeung",
+        "role": "son, sociologist, Stop AAPI Hate co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinese in the Richmond: Rodney and Russell Jeung",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) / Chinese Historical Society of America",
+        "year": 2022,
+        "url": "https://www.outsidelands.org/chinese-in-the-richmond-rodney-and-russell-jeung.php",
+        "supports": "Purchase, price, loan, relatives, ad, discrimination recollection, Chinese school, Russell's work"
+      },
+      {
+        "title": "Russell Jeung",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Russell_Jeung",
+        "supports": "SFSU sociologist and co-founder of Stop AAPI Hate"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-comics-crusade-1954",
+    "title": "Seventh graders tear up the comics",
+    "theme": "communities",
+    "year": 1954,
+    "yearEnd": null,
+    "place": {
+      "label": "Star of the Sea School, 360 9th Ave between Geary Blvd & Clement St",
+      "lat": 37.78183,
+      "lon": -122.46701,
+      "precision": "block"
+    },
+    "hook": "In spring 1954, Catholic schoolchildren on 9th Avenue ripped up piles of horror comics at an assembly headlined by the police chief's daughter.",
+    "story": "In the spring of 1954 the seventh grade at Star of the Sea Grammar School, the parish school founded in 1909, went to war on comic books [1][2]. The class collected comics, prepared speeches on their evils, and held an assembly for the upper grades. The keynote speaker was Elizabeth Cahill, daughter of Police Chief Thomas Cahill, and a photograph shows students in the bleachers tearing the comics apart [1]. John Freeman, who was in that class, later explained the bigger picture: a nationwide crusade driven by churches, the PTA and the comic-book industry itself. EC's rivals DC and Marvel, worried about EC Comics, maker of Tales from the Crypt, The Vault of Horror and war titles like Two-Fisted Tales, proposed a Comics Code limiting vampires, werewolves and the glory of killing, while Congress threatened legislation [1]. It was the McCarthy era, when pupils were quizzed on what they would do if a gun-waving communist burst in and asked them to choose between God and Communism [1]. 'We students at Star of the Sea were witnessing for morality,' Freeman wrote, with no idea they were also making the surviving comics rarer, and more valuable to collectors [1].",
+    "people": [
+      {
+        "name": "Elizabeth Cahill",
+        "role": "keynote speaker, daughter of the police chief"
+      },
+      {
+        "name": "John Freeman",
+        "role": "student, later Richmond historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Comics Crusade of 1954",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/comics-crusade.php",
+        "supports": "Assembly, Cahill, tearing comics, background of crusade and Comics Code"
+      },
+      {
+        "title": "Star of the Sea School",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Star_of_the_Sea_School",
+        "supports": "School founded 1909 to serve Star of the Sea parish"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-church-on-the-move",
+    "title": "The church that moved down the avenues",
+    "theme": "communities",
+    "year": 1950,
+    "yearEnd": null,
+    "place": {
+      "label": "Park Presidio Baptist Church, 10th Ave & Cabrillo St",
+      "lat": 37.77508,
+      "lon": -122.4682,
+      "precision": "block"
+    },
+    "hook": "In 1950 a 42-year-old wooden Gothic church left its corner at 9th and Anza and was hauled to a new congregation at 10th and Cabrillo.",
+    "story": "Zion Lutheran Church built a wooden Gothic church in 1908 on the northwest corner of 9th Avenue and Anza Street [1]. In 1950 Zion sold the building to the Park Presidio Baptist Church, and the whole structure was moved a few blocks to its present site at 10th Avenue and Cabrillo Street [1][2]. The San Francisco Public Library holds photographs of the move in progress; a note filed with a 1964 picture of the new Zion church on the old corner records that 'in 1950 the former building on this site was moved to 10th and Cabrillo and became Park Presidio Baptist' [1][2]. Both congregations stayed woven into neighbourhood life: Rodney Jeung, growing up on 12th Avenue, was taken by his grandmother to Zion Lutheran every Sunday as a young boy, and later his brother Russell attended too [2]. The 1908 building, a Lutheran church turned Baptist, still serves its congregation at 10th and Cabrillo [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Streetwise: Changing Houses of Worship",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/streetwise-changing-houses-of-worship.php",
+        "supports": "1908 Zion Lutheran building at NW corner 9th & Anza, sold 1950 and moved to 10th & Cabrillo; SFPL photo of move"
+      },
+      {
+        "title": "Chinese in the Richmond: Rodney and Russell Jeung",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) / Chinese Historical Society of America",
+        "year": 2022,
+        "url": "https://www.outsidelands.org/chinese-in-the-richmond-rodney-and-russell-jeung.php",
+        "supports": "SFPL 1964 photo note on the 1950 move; Jeung attending Zion"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-haigs-delicacies",
+    "title": "Hummus before hummus was everywhere",
+    "theme": "communities",
+    "year": 1956,
+    "yearEnd": 2013,
+    "place": {
+      "label": "Haig's Delicacies (now Richmond Republic), 642 Clement St near 8th Ave",
+      "lat": 37.78313,
+      "lon": -122.46623,
+      "precision": "building"
+    },
+    "hook": "An Armenian immigrant from Istanbul opened a tiny deli on Clement Street in 1956. The hummus now sold in supermarkets started here.",
+    "story": "Haig Kilijian was born Hayik Kilicoglu in 1933, an Armenian from Istanbul, and changed his name when he became a US citizen in 1963 [1]. He founded Haig's Middle-Eastern Delicacies in 1956; by 1963 it stood at 302 Clement Street, and it moved in 1964 to a 'new larger location' at 441 Clement, and in 1973 took over 642 Clement [1][2]. That storefront had been Anthony Ignoffo's Coliseum Shoe Store; the Palermo-born Ignoffo, who had started on Clement in 1929 with a $500 bank loan, was nicknamed 'The Mayor of Clement Street' [1]. In 1974 the Examiner described Armenian and Greek foods as Haig's main stock in trade; in 1977 it reported he had put in four tables for falafel and kuptas and soon needed more, then a mezzanine for the lunch crowd [1]. Fans included Robin Williams and James Beard [1]. Haig's brother-in-law, Vahram 'Bill' Takvorian, ran the shop from 1980, and everything was made on Clement until wholesale production moved to Hayward in 2009 [1]. The family closed the storefront in 2013, after 57 years, to concentrate on the hummus and spreads found on supermarket shelves; a bar opened in 2014, keeping Haig's mezzanine [1].",
+    "people": [
+      {
+        "name": "Haig Kilijian",
+        "role": "founder, Armenian immigrant"
+      },
+      {
+        "name": "Vahram 'Bill' Takvorian",
+        "role": "ran the shop from 1980"
+      },
+      {
+        "name": "Anthony Ignoffo",
+        "role": "earlier shoe-store owner at 642 Clement"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History Stop - 642 Clement",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/history-stop-642-clement.php",
+        "supports": "Kilijian biography, locations, Examiner quotes, fans, Takvorian, Hayward, 2013 closing, Coliseum Shoe"
+      },
+      {
+        "title": "History Stop - 441 Clement",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/history-stop-441-clement.php",
+        "supports": "Haig's at 441 Clement 1964-1973"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-hamburger-haven",
+    "title": "From busboy to owner at Hamburger Haven",
+    "theme": "communities",
+    "year": 1968,
+    "yearEnd": null,
+    "place": {
+      "label": "Hamburger Haven, 800 Clement St at 9th Ave",
+      "lat": 37.78291,
+      "lon": -122.46786,
+      "precision": "building"
+    },
+    "hook": "A student from Iran started clearing tables at a Clement Street diner in 1972. Four years later he was running it, and still serves the 1968 breakfast special.",
+    "story": "Hamburger Haven opened in 1968 at 800 Clement Street, started by the owners of Mel's; Andy Saberi took it over soon after [1]. Mohammad 'Majid' Falahati arrived in San Francisco from Iran in 1970 and, while studying at the University of San Francisco, began working for his friend Andy as a busboy in 1972. He was manager by 1974 and running the place by 1976 [1]. He married Monir in 1982, and the couple ran it together. Majid's sister Nahid and her husband Tom came from Germany in the late 1980s to wait tables and cook, and after Majid's 2011 operation his son stepped in, until Majid, 'sick of retirement,' came back in 2015 [1]. The diner has kept its 1960s layout: an open kitchen behind the counter, green booths, orange tile, wood panelling and orange and yellow stained glass [1]. Being a block from Star of the Sea, it feeds priests and parishioners after Sunday Mass; supervisor candidates hold meet-and-greets in the back room, and film scouts use it for 1960s and 1970s scenes, including The Diary of a Teenage Girl [1]. It has opened at 7 a.m. every day with the same breakfast special since 1968 [1]. The city added it to the Legacy Business Registry in 2016 [2].",
+    "people": [
+      {
+        "name": "Mohammad 'Majid' Falahati",
+        "role": "busboy turned owner"
+      },
+      {
+        "name": "Andy Saberi",
+        "role": "early owner"
+      },
+      {
+        "name": "Monir Falahati",
+        "role": "co-owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Registry Application: Hamburger Haven (LBR-2016-17-029)",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2016,
+        "url": "https://www.sf.gov/sites/default/files/2024-11/item_3g._lbr-2016-17-029_hamburger_haven.pdf",
+        "supports": "Ownership history, Majid's story, family, interior, customers, film"
+      },
+      {
+        "title": "Legacy Business Registry map listing: Hamburger Haven",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2016,
+        "url": "https://sfgov.maps.arcgis.com/apps/dashboards/471cc5798f8c486fb0f8e9ac8badaf03",
+        "supports": "Established 1968 at 800 Clement St; certified as a Legacy Business December 2016"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-lake-street-bike-lanes",
+    "title": "A dentist tames Lake Street",
+    "theme": "modern-city",
+    "year": 1971,
+    "yearEnd": null,
+    "place": {
+      "label": "Lake Street between 12th & Funston Aves",
+      "lat": 37.78652,
+      "lon": -122.4715,
+      "precision": "street"
+    },
+    "hook": "Worried his six-year-old couldn't cross to the playground, a Public Health Service dentist organised his neighbours and won San Francisco its first bike lanes.",
+    "story": "In 1970 Martin MacIntyre, a 33-year-old US Public Health Service dentist transferred from Buffalo, leased a house on Lake Street between 12th and Funston Avenues [1]. Drivers raced along its wide lanes, and there were no stop signs between Arguello and 25th Avenue apart from a light at Park Presidio. Marty and his wife Rosemary thought it inexcusable that their six-year-old couldn't safely cross to the Mountain Lake playground [1]. In December 1970 they formed the Lake Street Traffic Safety Committee; about three dozen volunteers gathered more than 700 signatures in two weeks [1]. A January 28, 1971 meeting at Sutro Elementary drew 75 to 100 neighbours, and on March 15 the Board of Supervisors approved stop signs at seven avenues [1][2]. Then the committee asked for something neighbours thought absurd: lanes just for bicycles. Public Works agreed [1]. On Sunday, May 23, 1971, the same day as Bay to Breakers, residents celebrated with a parade, a marching band and families in the street as San Francisco's first on-street bike lanes were dedicated; as one advocate noted, 'sousaphones outnumbered helmets' [1][2]. According to Thornley, MacIntyre has never actually ridden a bike on Lake Street [1].",
+    "people": [
+      {
+        "name": "Martin 'Marty' MacIntyre",
+        "role": "dentist and neighbourhood organiser"
+      },
+      {
+        "name": "Rosemary MacIntyre",
+        "role": "co-organiser"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Marty MacIntyre and the Lake Street Bike Lanes",
+        "publisher": "FoundSF (Andy Thornley)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Marty_MacIntyre_and_the_Lake_Street_Bike_Lanes",
+        "supports": "MacIntyre biography, committee, petitions, meetings, stop signs, bike lanes, parade"
+      },
+      {
+        "title": "San Francisco's First Bike Lane",
+        "publisher": "FoundSF (Bryan Goebel)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco%E2%80%99s_First_Bike_Lane",
+        "supports": "May 23, 1971 dedication on Bay to Breakers day, January 28 meeting turnout, 'sousaphones outnumbered helmets'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-globus-books",
+    "title": "A Slavic bookshop for three emigrations",
+    "theme": "communities",
+    "year": 1971,
+    "yearEnd": null,
+    "place": {
+      "label": "Globus Books, 332 Balboa St near 4th Ave",
+      "lat": 37.77755,
+      "lon": -122.46246,
+      "precision": "building"
+    },
+    "hook": "Since 1971 a Balboa Street storefront has sold Russian, Ukrainian and Belarusian books, and once printed the work of émigré writers from three waves of exile.",
+    "story": "Globus Books opened in 1971 at 332 Balboa Street and has never moved [1]. Its founder, Vladimir Azar, set it up as both a bookstore and a small press, Globus Publishing House and Printers, which published Russian émigré writers from three waves of emigration: those who fled after the 1917 Bolshevik Revolution, those displaced by World War II, and Soviet Jews who left in the 1970s and 1980s [1]. The shop sits in an Inner Richmond long settled by immigrants from the Russian Empire and later the Soviet bloc [1]. From 1984 to 2018 it was run by Veronica Ahrens-Pulawski, under whom the publishing side ceased; she became widely respected for her dedication to literature; Pavel Chepyzhov has owned it since 2018 [1]. Globus has supplied Slavic-language books to the San Francisco Public Library and libraries across the country and abroad, and is known for first editions of Russian literature [1]. In times of war and upheaval, its application says, it has been a 'cultural sanctuary' for people forced from their homelands [1]. Its application calls it the West Coast's last bookstore specialising in Russian, Belarusian and Ukrainian books; nominated by Supervisor Connie Chan, it joined the Legacy Business Registry in 2026 [1][2].",
+    "people": [
+      {
+        "name": "Vladimir Azar",
+        "role": "founder and publisher"
+      },
+      {
+        "name": "Veronica Ahrens-Pulawski",
+        "role": "owner 1984-2018"
+      },
+      {
+        "name": "Pavel Chepyzhov",
+        "role": "owner from 2018"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Registry packet: Globus Books (LBR-2025-26-052)",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2026,
+        "url": "https://api.sf.gov/documents/60855/Item_2B._LBR-2025-26-052_Globus_Books_complete_packet.pdf",
+        "supports": "Founding, Azar's press and three waves, owners, libraries, rare editions, nomination letter"
+      },
+      {
+        "title": "Legacy Business Registry map listing: Globus Books",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2026,
+        "url": "https://sfgov.maps.arcgis.com/apps/dashboards/471cc5798f8c486fb0f8e9ac8badaf03",
+        "supports": "Established 1971 at 332 Balboa St; active Legacy Business"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-okeeffes-bar",
+    "title": "A Corkman's pub, a Leitrim 'mayor'",
+    "theme": "communities",
+    "year": 1972,
+    "yearEnd": null,
+    "place": {
+      "label": "O'Keeffe's Bar, 598 5th Ave at Balboa St",
+      "lat": 37.77742,
+      "lon": -122.4628,
+      "precision": "block"
+    },
+    "hook": "Tim O'Keeffe worked for Public Works by day and poured pints by night. The Leitrim woman he met at a bank counter became the Richmond's unofficial mayor.",
+    "story": "In 1972 Tim O'Keeffe, 'an Irish Corkman through and through,' took over the former Hennessy's bar at 5th Avenue and Balboa (598 5th Avenue in its application, 595 in the city registry) and turned it into a proper Irish pub [1]. By day he worked for the Department of Public Works; in the evening he tended bar. He was a friend to the local police, generous to Irish cultural groups, and a supporter of a free and united Ireland [1]. That same year Annie, from County Leitrim, came to San Francisco for her brother's wedding and never left; seven of her eleven siblings ended up here too [1]. Tim met her at the Crocker Bank where she worked (the application says 1972; a 2019 Chronicle profile it quotes says the mid-1970s) and invited her for a drink. By 1977 she was working behind the bar, and they married four years later [1]. After Tim died in 1997 Annie ran it alone, becoming known as the 'Mayor of the Richmond District,' passing on local news and news from Ireland; visiting Irish politicians drop in to see her [1]. Since 2014 she has shared ownership with Richmond-born bartender John 'Bobby' Corriea, whose forebears, like hers, lived in County Leitrim in the 1800s [1][2].",
+    "people": [
+      {
+        "name": "Tim O'Keeffe",
+        "role": "founder, from County Cork"
+      },
+      {
+        "name": "Annie O'Keeffe",
+        "role": "co-owner, from County Leitrim"
+      },
+      {
+        "name": "John 'Bobby' Corriea",
+        "role": "co-owner from 2014"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Registry packet: O'Keeffe's Bar (LBR-2024-25-055)",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2025,
+        "url": "https://media.api.sf.gov/documents/Item_2d._LBR-2024-25-055_OKeeffes_Bar.pdf",
+        "supports": "Founding 1972, Tim and Annie O'Keeffe, ownership history, 'Mayor of the Richmond District', Irish causes"
+      },
+      {
+        "title": "Legacy Business Registry map listing: O'Keeffe's Bar",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2025,
+        "url": "https://sfgov.maps.arcgis.com/apps/dashboards/471cc5798f8c486fb0f8e9ac8badaf03",
+        "supports": "Established 1972; listed at 595 5th Ave; certified 2025"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-richmond-2p-giorgios-pizzeria",
+    "title": "Pizza after The Godfather",
+    "theme": "labor-industry",
+    "year": 1972,
+    "yearEnd": null,
+    "place": {
+      "label": "Giorgio's Pizzeria, 151 Clement St at 3rd Ave",
+      "lat": 37.78298,
+      "lon": -122.46102,
+      "precision": "building"
+    },
+    "hook": "An Ischia family's son opened a pizzeria under a grapevine-trellis ceiling in 1972. Early customers swear they came straight from The Godfather at the Coronet.",
+    "story": "Giorgio's Pizzeria opened in 1972 at 151 Clement Street, on the corner of Third Avenue, under a green awning and a red neon script sign [1]. Its founder, George Anastasia, came from a family from Ischia, the island off Naples; his application calls him second-generation Italian American, while the registry summary names him Giorgio Anastasio, born on Ischia. His family had run Victor's Pizza on Polk Street a generation before [1][2]. Heading west to the growing Inner Richmond, he named the place with his Old-World name. The exact opening date is unclear, but more than one veteran customer remembers eating under the grapevine-trellis ceiling after seeing The Godfather, released in March 1972, at the nearby Coronet Theatre [1]. Business was soon too brisk for one man. In 1978 he sold to Tony Contini, an old friend from Galileo High School, who brought in his brother Victor; they kept George's sauce recipes and added full table service [1]. When Tony retired in 2002, Victor's family took over with Tony Markwick, a childhood friend who had started as a high-school cashier. Contini children still run it, and it joined the Legacy Business Registry in 2020 [1][2].",
+    "people": [
+      {
+        "name": "George (Giorgio) Anastasia",
+        "role": "founder"
+      },
+      {
+        "name": "Tony and Victor Contini",
+        "role": "owners from 1978"
+      },
+      {
+        "name": "Tony Markwick",
+        "role": "cashier turned managing partner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Registry application: Giorgio's Pizzeria (LBR-2020-21-020)",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2020,
+        "url": "https://www.sf.gov/sites/default/files/2024-08/item_2b._lbr-2020-21-020_giorgios_pizzeria.pdf",
+        "supports": "Founding, family origins, Godfather anecdote, ownership history"
+      },
+      {
+        "title": "Legacy Business Registry map listing: Giorgio's Pizzeria",
+        "publisher": "SF Office of Small Business, Legacy Business Registry",
+        "year": 2020,
+        "url": "https://sfgov.maps.arcgis.com/apps/dashboards/471cc5798f8c486fb0f8e9ac8badaf03",
+        "supports": "Established 1972 at Clement & Third; founder spelled Giorgio Anastasio, born on Ischia; certified 2020"
+      }
+    ],
+    "photo": null
+  }
+]

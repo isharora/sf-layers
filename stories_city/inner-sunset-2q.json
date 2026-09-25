@@ -1,0 +1,695 @@
+[
+ {
+  "id": "inner-sunset-2q-lake-honda-reservoir",
+  "title": "The Lake That Became the Tap",
+  "theme": "parks-nature",
+  "year": 1862,
+  "yearEnd": 1990,
+  "place": {
+   "label": "Laguna Honda Reservoir, off 7th Avenue near Clarendon Avenue",
+   "lat": 37.7558,
+   "lon": -122.4618,
+   "precision": "area"
+  },
+  "hook": "Before it was a reservoir, Laguna Honda was a real lake. A second one lay just to its north, and it has vanished.",
+  "story": "Laguna Honda was a natural lake before anyone dammed it. During 1861–1865 the Spring Valley Water Company bought it, lined it with concrete and turned it into a reservoir. It piped water in from Pilarcitos Creek in San Mateo County and sent it on to other reservoirs in the city. The company's workers lived on the site, and the lake gave its name to the district's first school [1][2]. Height decided who got water. In 1898 Spring Valley's chief engineer, Hermann Schlussler, told the supervisors that the northern Sunset blocks sat below Lake Honda and could be supplied from it. The hillier southern blocks, at 300 to 400 feet, would have to wait for the Clarendon Heights reservoir at 600 feet [1]. About 200 yards north, near 7th Avenue and Lawton Street, there was once another natural lake at about the same height. It was filled in during the early 1900s. Writing in 1967, Harold Gilliam puzzled over the cliff west of 7th Avenue: no ravine or streambed shows where a stream swift enough to carve it could have run [2]. In 1990 community gardeners founded the Garden for the Environment on public land at 1590 7th Avenue, close to where that lost lake lay. It is now a teaching garden about soil, water and climate [3].",
+  "people": [
+   {
+    "name": "Hermann Schlussler",
+    "role": "Spring Valley Water Company chief engineer"
+   },
+   {
+    "name": "Harold Gilliam",
+    "role": "environmental writer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "Natural lake acquired and lined as reservoir 1861–1865; Pilarcitos Creek pipeline; staff on site; school named for it; Schlussler's 1898 explanation of elevations"
+   },
+   {
+    "title": "Laguna Honda",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Laguna_Honda",
+    "supports": "Natural lake dammed and enlarged; second lake near 7th Ave & Lawton filled in early 20th century; Harold Gilliam, The Natural World of San Francisco (1967) on the cliff and missing stream"
+   },
+   {
+    "title": "Our Story",
+    "publisher": "Garden for the Environment",
+    "year": 2025,
+    "url": "https://www.gardenfortheenvironment.org/ourstory",
+    "supports": "Founded 1990 by San Francisco League of Urban Gardeners members; on public land at 1590 7th Avenue; teaching garden"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-central-toll-road",
+  "title": "A Toll Road Through the Sand Hills",
+  "theme": "gold-rush-victorian",
+  "year": 1864,
+  "yearEnd": 1895,
+  "place": {
+   "label": "Route of the Central Macadamized Road, near 17th Avenue & Kirkham Street",
+   "lat": 37.7605,
+   "lon": -122.475,
+   "precision": "area"
+  },
+  "hook": "For thirty years the only road across the Inner Sunset was a private toll road that ignored the street grid.",
+  "story": "Until the early 1880s the Inner Sunset was sand hills crossed by a single road. It was called the Central Macadamized Road, and also the Central Road, the Central Toll Road or the Central Ocean Road. It was a private business owned by ten proprietors. Two of them, William Bryan and James Reilly, also owned the Central Homestead Association, which claimed much of the land it crossed. Engineer L. H. Shortt surveyed the route, and in November 1864 the owners advertised for contractors [1]. The road started at Fulton and Divisadero, beside the Sans Souci resort. It ran past the Masonic Cemetery, through the dunes south of the future park, and on to the Ocean House near Lake Merced [1]. Historian Lorri Ungaretti traced it zigzagging north between 17th and 18th Avenues from R Street to K Street, then turning east toward town [2]. Hardly anyone lived along it, so the tolls could not have been the point. Historian William Kostura suggests the road helped support the owners' land claims and raise the value of their lots [1]. Early directories gave addresses such as 'on Central Road two miles from the toll gate.' As the official streets were graded in the 1890s, the diagonal road faded from the land and from the maps [1].",
+  "people": [
+   {
+    "name": "William Bryan",
+    "role": "road proprietor"
+   },
+   {
+    "name": "James Reilly",
+    "role": "road proprietor"
+   },
+   {
+    "name": "L. H. Shortt",
+    "role": "surveying engineer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "Proprietors, 1864 survey and contractor notices (Alta California, Nov. 24, 1864; Jan. 11, 1865), route, motives, directory addresses, disappearance in the 1890s"
+   },
+   {
+    "title": "The Sunset District: From Dunes to Cityscape (Lorri Ungaretti)",
+    "publisher": "FoundSF",
+    "year": 2004,
+    "url": "https://www.foundsf.org/index.php?title=The_Sunset_District:_From_Dunes_to_Cityscape",
+    "supports": "Central Ocean Toll Road zigzagging north between 17th and 18th Avenues from R to K Street, then east"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-olympic-club-grounds",
+  "title": "The Olympians' Track on Lincoln Way",
+  "theme": "architecture-landmarks",
+  "year": 1890,
+  "yearEnd": 1913,
+  "place": {
+   "label": "Former Olympic Club grounds, Lincoln Way to Irving St between 7th & 8th Aves",
+   "lat": 37.765,
+   "lon": -122.4646,
+   "precision": "block"
+  },
+  "hook": "A whole Inner Sunset block was once an athletic ground, then a rival Japanese Tea Garden, before anyone built houses on it.",
+  "story": "The Olympic Club was founded in 1860 and always had a downtown clubhouse. Its members still needed somewhere outdoors to run and jump. In 1889 the club leased an entire block of dunes from owner John T. Doyle, bounded by Lincoln Way, Irving Street and 7th and 8th Avenues. Winter rains delayed the work, so athletes began training there in April 1890 and the grounds formally opened at the end of May [1]. There was an oval track, a grandstand, a clubhouse, a handball court, dressing rooms, a lunchroom and a horse shed, all inside a high board fence [1]. Photographs published that year show the entry gate on Lincoln Way with Mount Sutro behind [2]. The Olympians left after 1900. In 1902 Doyle leased the block to a Japanese company, which kept some of the club buildings, replaced the track and grandstand with gardens and opened a Japanese Tea Garden to compete with the one across the street in Golden Gate Park [1]. By 1909 the land had become too valuable for gardens. Doyle's estate negotiated an end to the lease. Builder Eugene Hallett put up eighteen houses on the 7th Avenue side during 1909–1913, and in 1911–1912 the McKillop Brothers lined 8th Avenue with flats [1].",
+  "people": [
+   {
+    "name": "John T. Doyle",
+    "role": "landowner"
+   },
+   {
+    "name": "Eugene B. Hallett",
+    "role": "builder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "1889 lease, 1890 opening, facilities, departure after 1900, 1902 Japanese Tea Garden, 1909 sale and 1909–1913 houses and flats"
+   },
+   {
+    "title": "Olympic Club grounds, 1890 (wnp37.04172, wnp37.04148)",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1890,
+    "url": "https://opensfhistory.org/Display/wnp37.04172.jpg",
+    "supports": "Entry gate on Lincoln Way between 7th and 8th Avenues with Mount Sutro behind; club buildings, track and field"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-laguna-honda-school",
+  "title": "The Schoolhouse Next to the Roadhouse",
+  "theme": "gold-rush-victorian",
+  "year": 1892,
+  "yearEnd": 1909,
+  "place": {
+   "label": "Laguna Honda School (now Independence High School), 1350 7th Ave",
+   "lat": 37.76309,
+   "lon": -122.46388,
+   "precision": "building"
+  },
+  "hook": "Fever-breeding ponds chased the Sunset's first school down the hill. It landed beside a saloon, and the saloonkeeper became its janitress.",
+  "story": "Laguna Honda School began in 1869 in a rented room. From 1872 it had a two-room wooden building between 7th and 8th Avenues, Kirkham and Lawton Streets. In 1879 the Inner Sunset had only about fourteen households, so many of its pupils came from the reservoir, the Almshouse and nearby dairies [1]. In 1892 the reservoir overflowed and left two stagnant ponds by the school. They were blamed for malaria and typhoid among the children, so that July the building was moved to 7th Avenue between Irving and Judah for $2,000 [1]. The new neighbour was Elizabeth Chadwick's Park View Road House, where, the Chronicle wrote, travellers 'make merry over foaming milk punches.' 'Chaddy' got herself appointed the school's janitress at $20 a month while still running the saloon. She was removed, so she had her daughter appointed instead [1]. A brick school was being built on the lot when the earthquake of April 18, 1906 did $24,000 of damage. A 1906 photograph shows the ruins, with the old wooden school behind them [1][2]. The rebuilt school, designed by Will D. Shea, was dedicated in May 1909 [1]. The building is now Independence High School.",
+  "people": [
+   {
+    "name": "Elizabeth Chadwick",
+    "role": "roadhouse owner and school janitress"
+   },
+   {
+    "name": "Will D. Shea",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "1869 founding, 1872 building, pupils' origins, 1892 ponds and move, Park View Road House and Chadwick's janitress post ('She Succeeds Her Mother,' Chronicle, Aug. 17, 1895), 1906 damage, 1909 dedication, now Independence High School"
+   },
+   {
+    "title": "7th Ave near Irving, 1906 (wnp15.1265)",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1906,
+    "url": "https://opensfhistory.org/Display/wnp15.1265.jpg",
+    "supports": "Earthquake ruins of the new Laguna Honda School under construction, with the first school visible behind"
+   },
+   {
+    "title": "Laguna Honda School class portrait, 1909 (wnp27.7713)",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1909,
+    "url": "https://opensfhistory.org/Display/wnp27.7713.jpg",
+    "supports": "School located on 7th Ave between Irving and Judah in 1909"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-little-shamrock",
+  "title": "The Bar That Outlived the Fair",
+  "theme": "labor-industry",
+  "year": 1893,
+  "yearEnd": null,
+  "place": {
+   "label": "Little Shamrock, 807 Lincoln Way",
+   "lat": 37.76565,
+   "lon": -122.4667,
+   "precision": "building"
+  },
+  "hook": "Opened for the workers building the 1894 Midwinter Fair, the Little Shamrock is the oldest bar in the Outside Lands after the Cliff House.",
+  "story": "In October 1893, with the Midwinter Fair rising across the road in Golden Gate Park, Julia Herzo (later Quigley) opened the Little Shamrock at 807 H Street, now Lincoln Way [1]. Columnist Frank Dunnigan says it was built to serve the many Irish labourers working on the fair [2]. Herzo also ran saloons near the racetracks in the Richmond and the Ingleside. When those tracks closed she shut those saloons and kept this one [1]. After the fair, her customers were men who worked in the park and graded the Sunset's sand hills. In the free-lunch tradition, they got slices of ham [1]. Not everyone welcomed it. In 1897 a neighbour petitioned the supervisors not to renew the licences of three local saloons, the Shamrock among them. A newspaper reported that forty women property owners agreed but were afraid to sign. All three stayed open [1]. The building gained a second storey in 1900 and a new front in 1924. As far as is known, the 1893 wooden frame is still inside [1]. Herzo's son Tony started tending bar in 1907. In 1948 he said 'not one customer in fifty wears skirts' [1]. Today the bar is known for board games, sofas and Irish coffee [2].",
+  "people": [
+   {
+    "name": "Julia Herzo (Quigley)",
+    "role": "founder"
+   },
+   {
+    "name": "Tony Herzo",
+    "role": "bartender from 1907"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "October 1893 opening by Julia Herzo; other saloons; free-lunch ham; 1897 licence petition; 1900 and 1924 alterations; Tony Herzo quote (Robert O'Brien, Chronicle, Jan. 14, 1948)"
+   },
+   {
+    "title": "Streetwise: Westside Watering Holes (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2015,
+    "url": "https://www.outsidelands.org/streetwise_watering_holes.php",
+    "supports": "Oldest bar in the Outside Lands after the Cliff House; opened 1893 for Irish labourers building the Midwinter Fair; board games, sofas and Irish coffee today"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-give-us-light",
+  "title": "'Give Us Light in the Sunset District'",
+  "theme": "civil-rights",
+  "year": 1898,
+  "yearEnd": null,
+  "place": {
+   "label": "Start of the 1898 intercepting sewer, 8th Avenue & Judah Street",
+   "lat": 37.7621,
+   "lon": -122.465,
+   "precision": "street"
+  },
+  "hook": "Tired of floods, fever ponds and pitch-black streets, Sunset residents lobbied, sang, and finally walked to their victory party by miners' lanterns.",
+  "story": "In the 1890s, winter rain running off Mount Sutro overflowed a waste pond at 7th Avenue and Lawton Street, where FoundSF places a natural lake filled in during the early 1900s [1][2]. It flooded lots, cut gullies and left stagnant pools that were blamed for fever at the school [1]. Mayor Adolph Sutro, who owned the Byfield Tract, wanted street surveys to wait until grass had grown to hold the sand. The new Sunset District Improvement Club replied that small owners 'have grown tired of waiting for the grass to grow' [1]. In March 1896 the city hired its engineer to survey grades and sewers. In June residents threw a party for the supervisors, and fifteen young women sang 'Give Us Light in the Sunset District.' The club's president that year was Julius Frankel, who kept a dairy at 12th Avenue and Lawton [1]. In March 1898 the city hired a contractor to build an intercepting sewer from 8th and Judah to 10th Avenue, north to Lincoln Way and west to 14th, where it emptied into the sand [1]. Streetlights took longer. On July 11, 1898, residents walked to their victory party through what the Call called 'Egyptian' darkness, carrying '49er lanterns. In August Mayor Phelan vetoed eleven arc lamps planned for the Sunset [1].",
+  "people": [
+   {
+    "name": "Julius Frankel",
+    "role": "dairy owner and club president"
+   },
+   {
+    "name": "Adolph Sutro",
+    "role": "mayor and landowner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "Waste pond and pools; Sutro and the club's reply ('Must Have Relief,' Chronicle, Dec. 6, 1895); 1896 survey contract and song ('Happy Sunset District,' Call, June 27, 1896); 1898 sewer route; Phelan veto; July 1898 party ('Rejoicing in the Sunset District,' Call, July 12, 1898)"
+   },
+   {
+    "title": "Laguna Honda",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Laguna_Honda",
+    "supports": "Lake near 7th Avenue and Lawton that was filled in during the early 20th century"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-engine-22-firehouse",
+  "title": "The Firehouse That Hosted Halloween",
+  "theme": "architecture-landmarks",
+  "year": 1899,
+  "yearEnd": 1970,
+  "place": {
+   "label": "Old Engine 22 firehouse (City Landmark No. 29), 1348 10th Ave",
+   "lat": 37.76307,
+   "lon": -122.46699,
+   "precision": "building"
+  },
+  "hook": "Before Engine 22 even moved in, the Inner Sunset's first firehouse hosted a Halloween party. Seventy years later a children's charity bought it at auction.",
+  "story": "A fire station was on the Sunset District Improvement Club's wish list, and by the end of the 1890s it had one [1]. The first firehouse in the Inner Sunset, at 1348 10th Avenue between Irving and Judah, was designed by Charles R. Wilson. The contractor was C. F. Sheibley [1][2]. NoeHill dates it to 1898 and William Kostura to 1899 [1][2]. It first housed Chemical Company No. 2, and the fire museum records Engine Company 22 moving in from Post Street in 1900 [2][3]. It became a neighbourhood room too. In 1899 the Sunset Literary, Musical and Social Club held a Halloween party in the new building [1]. Its firemen were locals too: stoker and driver Eugene Crummey lived around the corner at 1351 11th Avenue, and Jeremiah Mahoney served as a hoseman [1]. On December 17, 1962, Engine 22 moved to a new station at 1290 16th Avenue [3]. The old house stood empty for years. The city auctioned it in 1969 to the Oakes Children's Center, which spent two years raising money to rehabilitate it [1]. In 1970 it became City Landmark No. 29. Most later alterations have since been reversed, and it is one of about seven 19th-century firehouses left in San Francisco [1].",
+  "people": [
+   {
+    "name": "Charles R. Wilson",
+    "role": "architect"
+   },
+   {
+    "name": "Eugene Crummey",
+    "role": "fireman"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "Architect and contractor, 1899 date, Halloween party (Examiner, Oct. 29, 1899), firemen, 1969 auction to Oakes Children's Center, Landmark 29 in 1970, one of about seven surviving 19th-century firehouses"
+   },
+   {
+    "title": "San Francisco Landmark #29: Engine Company No. 22",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2008,
+    "url": "https://noehill.com/sf/landmarks/sf029.asp",
+    "supports": "Built 1898, designed by Charles R. Wilson for Chemical Co. No. 2 and Engine Co. No. 22; first firehouse in the Inner Sunset; 1962 move; 1969 auction"
+   },
+   {
+    "title": "Engine Company No. 22",
+    "publisher": "Guardians of the City / San Francisco Fire Department Museum",
+    "year": 2013,
+    "url": "https://www.guardiansofthecity.org/sffd/companies/engines/engine22.html",
+    "supports": "Organized 1893 at 1819 Post; relocated 1900 to 1348 10th Avenue, former quarters of Chemical Co. No. 2; moved December 17, 1962 to 1290 16th Avenue"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-hog-ranch-disputed-dunes",
+  "title": "Hogs on the Disputed Dunes",
+  "theme": "labor-industry",
+  "year": 1903,
+  "yearEnd": 1908,
+  "place": {
+   "label": "Near 14th Avenue & Judah Street",
+   "lat": 37.7614,
+   "lon": -122.4717,
+   "precision": "area"
+  },
+  "hook": "While lawyers fought over who owned these dunes for forty years, the people living on them kept pigs, cows and geese.",
+  "story": "For almost forty years nobody could say for sure who owned the blocks around 12th to 16th Avenues between Irving and Lawton. In 1868 the McGrath family moved onto the land as squatters. They later leased it from one claimant, outlasted court orders meant for someone else, and stopped paying rent [1]. From 1892 to 1908 they sublet it to a Mahoney family of blacksmiths and labourers. In 1894 a reporter described their 'very old' house with cows, geese, chickens and dogs. That year William McGrath put up a big sign warning buyers that anyone buying there would waste their money. The lawyer in charge of the suit had forgotten its details [1]. In March 1903 the Chronicle ran a feature on farms inside the city limits. Among them was Thomas Mahoney's seventeen-pig hog ranch near 14th Avenue and Judah Street. His original stock came off an English ship in 1866. Twice pushed west by the growing city, he settled here in 1891, sometimes traded hogs with the Almshouse over the hill, and fed his herd on refuse he collected in the Western Addition [2]. Whether he belonged to the subletting Mahoneys isn't known. In April 1908 a judge finally ruled for 200 to 300 claimants, and a reporter predicted a building boom [1].",
+  "people": [
+   {
+    "name": "William McGrath",
+    "role": "squatter's son and lessee"
+   },
+   {
+    "name": "Thomas Mahoney",
+    "role": "hog rancher"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "McGrath occupancy from 1868; Mahoney sublease 1892–1908; 1894 description and warning sign ('Warned by a Big Sign,' Examiner, Jan. 30, 1894); April 1908 ruling ('Attack Claim of Squatter's Son,' Call, Apr. 1, 1908)"
+   },
+   {
+    "title": "Farms? In San Francisco? (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2011,
+    "url": "https://www.outsidelands.org/sf-farms.php",
+    "supports": "Lillian Purdy, 'Farms in the City Limits of San Francisco,' Chronicle, March 8, 1903: Thomas Mahoney's hog ranch near 14th Ave & Judah, begun 1891, 1866 stock, Alms House trades, refuse from the Western Addition"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-cox-house-funston",
+  "title": "The House That Walked to Funston",
+  "theme": "architecture-landmarks",
+  "year": 1912,
+  "yearEnd": null,
+  "place": {
+   "label": "1322 Funston Avenue (moved from 831 Irving St)",
+   "lat": 37.76338,
+   "lon": -122.47023,
+   "precision": "building"
+  },
+  "hook": "A family bought an old photo and gasped: it showed their Funston Avenue home standing on Irving Street.",
+  "story": "Around 1990 Michael Farfan and his father were looking through Greg Gaar's vintage photographs when they found their own house. The family had rented 1322 Funston Avenue in 1965 and later bought it. In the photo the house stood alone and stately on Irving Street, with the future UCSF in the distance. Gaar guessed the spot was the south side of Irving between 9th and 10th Avenues, around 1915. Farfan's own research dated the house to 1900; he guessed it was moved between 1915 and 1935, and never found out who built it [1]. Historian William Kostura's research fills in the story. He dates it to 1902, built at 831 Irving Street for Ermina Cox, mother of the builder Ed Cox, and moved to Funston Avenue in 1912, earlier than Gaar's photo date suggests [2]. Ed Cox and his brother Levitt became the most prolific builders in the Inner Sunset's history. During 1906–1916 they put up 101 known houses and four apartment buildings, mostly Craftsman rows, and about 75 of those houses still stand [2]. It was not the only house to move. In 1913 the O'Brien house of 1889 was rolled around the corner to 627–633 Irving and raised over an auto repair shop [2].",
+  "people": [
+   {
+    "name": "Ermina Cox",
+    "role": "first owner"
+   },
+   {
+    "name": "Ed Cox",
+    "role": "builder"
+   },
+   {
+    "name": "Michael Farfan",
+    "role": "former resident"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Our House on Funston (Michael Farfan)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2011,
+    "url": "https://www.outsidelands.org/funston-house.php",
+    "supports": "Discovery of the photo in Greg Gaar's collection; Irving Street location guess; family's 1965 rental and purchase; uncertainty about builder and move date"
+   },
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "Built 1902 at 831 Irving for Ermina Cox, moved 1912 to 1322 Funston; Cox Brothers' output 1906–1916; O'Brien house moved 1913"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-windsor-terrace",
+  "title": "Brick Gates on a Grid",
+  "theme": "architecture-landmarks",
+  "year": 1913,
+  "yearEnd": 1939,
+  "place": {
+   "label": "Windsor Terrace, 8th Avenue at Lawton Street",
+   "lat": 37.75835,
+   "lon": -122.46455,
+   "precision": "block"
+  },
+  "hook": "The developers of Sea Cliff gave a block and a half of the Inner Sunset its own ceremonial gates.",
+  "story": "Once streetcars climbed 9th Avenue to Pacheco Street, the hilly southern blocks of the Inner Sunset began to fill with larger houses [1]. In 1913 the developers Allen and Company, who were building Sea Cliff at about the same time, laid out Windsor Terrace. It covers both sides of 8th Avenue and the east side of 9th Avenue between Lawton and Moraga Streets [1]. Early in 1914 the Chronicle called it 'City's Newest Park' [1]. Like other San Francisco residence parks it announced itself with ceremonial gates, here of brick. Unlike most of them, it kept the city's rectangular street grid instead of curving its streets [1]. A 1939 photograph of a 6-line streetcar at 9th and Lawton has one of the pillars in the frame [2]. Allen and Company built the first sixteen houses in 1913–1915, hiring architects Albert Farr, Dolliver and Swain, and H. R. Schulze. Farr's 1635 8th Avenue is Arts and Crafts [1]. The rest came slowly, as individual owners commissioned Harold Stoner, J. C. Hladik and others through the 1920s and 1930s. The result is a group of freestanding, mostly stucco houses, a little larger than their neighbours, in Arts and Crafts, Spanish Colonial, Classical and Tudor dress [1].",
+  "people": [
+   {
+    "name": "Albert Farr",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "Allen and Company 1913 subdivision, boundaries, brick gates, grid plan, architects and houses ('City's Newest Park Is Windsor Terrace,' Chronicle, Feb. 21, 1914)"
+   },
+   {
+    "title": "9th & Lawton, Aug 14, 1939 (wnp67.0203)",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1939,
+    "url": "https://opensfhistory.org/Display/wnp67.0203.jpg",
+    "supports": "Market Street Railway 6-line streetcar at 9th & Lawton with Windsor Terrace pillar"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-parnassus-masonic-temple",
+  "title": "The Lodge Where the Streetcar Turned",
+  "theme": "architecture-landmarks",
+  "year": 1914,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Parnassus Masonic Temple, 1407 9th Ave (SW corner of Judah)",
+   "lat": 37.76192,
+   "lon": -122.46638,
+   "precision": "building"
+  },
+  "hook": "A classical temple built by Freemasons on a streetcar corner now houses a Taoist temple.",
+  "story": "By 1914 the Inner Sunset was no longer a scatter of cottages in the dunes. Streetcars on the Parnassus line ran west along Judah Street and turned south up 9th Avenue toward Pacheco. Property owners had agreed to put up $20,000 to bring them [1]. That year the Parnassus Lodge of the Masons built itself a Classical Revival hall on the southwest corner of 9th and Judah, designed by architect Charles A. Haber [1]. A photograph from about 1924 shows the building being painted, with 'for rent' signs in its storefronts and a gas street lamp on the corner [2]. The Masons stayed for decades and were still meeting there in at least 1982. The ground floor has since been altered, but the building now serves as a Taoist temple, and the classical upper floors remain [1]. The corner is also a reminder of how transit shaped the neighbourhood. The Municipal Railway's N-Judah arrived in 1928 [1], and today it too swings around this corner, jogging one block along 9th Avenue to reach Judah [3].",
+  "people": [
+   {
+    "name": "Charles A. Haber",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "1914 construction for Parnassus Lodge, architect Charles A. Haber, lodge meeting through at least 1982, now a Taoist temple; 6-line route on Judah and 9th and property owners' $20,000; N-Judah 1928"
+   },
+   {
+    "title": "9th Ave & Judah, circa 1924 (wnp4.1607)",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1924,
+    "url": "https://opensfhistory.org/Display/wnp4.1607.jpg",
+    "supports": "Parnassus Masonic Temple on SW corner of 9th and Judah, built 1914, being painted, storefronts for rent, gas street light"
+   },
+   {
+    "title": "N Judah",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/N_Judah",
+    "supports": "Route turns onto 9th Avenue for one block to reach Judah Street; line began in 1928"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-sunset-carnegie-library",
+  "title": "The Library Carnegie's Man Grumbled About",
+  "theme": "architecture-landmarks",
+  "year": 1918,
+  "yearEnd": null,
+  "place": {
+   "label": "Sunset Branch Library (City Landmark No. 239), 1305 18th Ave",
+   "lat": 37.76336,
+   "lon": -122.47624,
+   "precision": "building"
+  },
+  "hook": "Andrew Carnegie paid for it, but his secretary objected to its 'wasted' loggia and its lofty ceiling.",
+  "story": "Andrew Carnegie's money was controversial in labour-minded San Francisco. It took years to accept it, and even then none of the seven branch libraries built with $375,000 of his money carried his name [1]. The Sunset branch opened in 1918 [1][2]. G. Albert Lansburgh drew two plans. His octagonal scheme was judged 'quite impossible,' so a rectangular Classical Revival design went ahead [2]. Carnegie's secretary, James Bertram, still objected. He was offended by the 'wasted space' of the entrance loggia. Six months later, with construction under way, he grumbled that the ceiling was too high. Lansburgh wrote back that 'the proportions of the exterior could not be conveniently altered,' and Bertram gave in [1]. The loggia is still there: three tall arches with Corinthian columns, and names of authors, many of them Western, carved under the windows [2]. The children's room was on the main floor, as Carnegie's guidelines required [1]. A 1920 photograph, taken across 19th and Irving, shows the library almost alone at the edge of settlement, with Sutro Forest beyond [3]. Decades later, Frank Dunnigan, then a USF student, treated it as his home away from home, open 9 a.m. to 9 p.m. on weekdays [4].",
+  "people": [
+   {
+    "name": "G. Albert Lansburgh",
+    "role": "architect"
+   },
+   {
+    "name": "James Bertram",
+    "role": "Andrew Carnegie's secretary"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Carnegie Branch Libraries Context Statement (Tim Kelley)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2001,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/774-Carnegie.pdf",
+    "supports": "Seven branches, $375,000; political impossibility of the Carnegie name; Sunset 1918; Bertram's objections to the loggia and ceiling; Lansburgh's reply; children's rooms"
+   },
+   {
+    "title": "San Francisco Landmark #239: Carnegie Library Sunset",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2012,
+    "url": "https://noehill.com/sf/landmarks/sf239.asp",
+    "supports": "Lansburgh's two plans, octagon judged 'quite impossible'; loggia with arches and Corinthian columns; authors' names under the windows"
+   },
+   {
+    "title": "19th Avenue Becomes an Important Road (Sunset Branch 1920 photo)",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Sunset_Branch_1920_photo",
+    "supports": "1920 view past the intersection of 19th and Irving to the library at the outskirts, Sutro Forest behind"
+   },
+   {
+    "title": "Streetwise - Irving Insights (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/streetwise-irving.php",
+    "supports": "Library open 9 a.m. to 9 p.m. on weekdays in the author's student days"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-bank-record-factory",
+  "title": "A Banking Temple Turned Record Store",
+  "theme": "arts-counterculture",
+  "year": 1922,
+  "yearEnd": 1982,
+  "place": {
+   "label": "Former Bank of Italy, 701 Irving St (SW corner of 8th Ave)",
+   "lat": 37.76387,
+   "lon": -122.46541,
+   "precision": "building"
+  },
+  "hook": "The Inner Sunset's stately bank became a hip record shop, to the horror of the neighbours.",
+  "story": "The Bank of Italy, later Bank of America, was the first San Francisco bank to open branches across residential neighbourhoods. Until then, banking usually meant a trip downtown. In 1922 it opened a small banking temple at 701 Irving Street, at 8th Avenue, designed by Will D. Shea in a monumental Classical Revival style. A twin went up that year at 801 Clement Street [1]. Forty years later, taste had changed. In 1962–1963 the bank moved a block west into a new modern building at 800 Irving by Wurster, Bernardi and Emmons, the firm that later co-designed its 555 California Street headquarters [1]. That left the old temple empty. By 1982 it was the Record Factory [1]. Frank Dunnigan remembers it as a hip record store that took over the staid old bank building, 'much to the horror of long-time neighborhood residents' [2]. The vinyl didn't last. The building later went back to being a bank, a variety of them [1][2]. Another local, Denis Quinn, recalled the Bank of America branch that once stood at 8th and Irving and later moved to the corner of 9th [3].",
+  "people": [
+   {
+    "name": "Will D. Shea",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "Bank of Italy branch strategy; 701 Irving by Will D. Shea, 1922; twin at 801 Clement; 1962–1963 Bank of America at 800 Irving by Wurster, Bernardi and Emmons; Record Factory in 1982; a bank again today"
+   },
+   {
+    "title": "Streetwise - Irving Insights (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/streetwise-irving.php",
+    "supports": "Record Factory at the SW corner of 8th took over the staid old bank building, to the horror of long-time residents; later reverted to banks"
+   },
+   {
+    "title": "Irving Street and 9th Avenue Memories (Denis F. Quinn)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/irving-9th-memories.php",
+    "supports": "Bank of America branch at SW corner of 8th and Irving later moved to the 9th Avenue corner"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-n-judah-parade",
+  "title": "The Night Irving Street Won Its Tunnel",
+  "theme": "communities",
+  "year": 1925,
+  "yearEnd": 1928,
+  "place": {
+   "label": "Irving Street at 8th Avenue",
+   "lat": 37.764,
+   "lon": -122.4652,
+   "precision": "street"
+  },
+  "hook": "When the supervisors picked the Sunset's tunnel route, the neighbourhood threw a parade with four bands, fireworks and dancing in the street.",
+  "story": "The Sunset spent years fighting for a city streetcar. In March 1921 more than 500 residents met at Laguna Honda School and founded the Sunset Transportation and Development Association. Realtor Frank Doelger was one of its officers throughout [1]. City Engineer M. M. O'Shaughnessy offered four tunnel routes. The Sunset wanted the Duboce Avenue route, the fastest to downtown and at $2,467,000 the most expensive. Mission and Eureka Valley residents wanted a route through their own neighbourhoods [1]. On April 14, 1925 the supervisors chose Duboce. The association then claimed 3,000 members [1]. On the night of April 25 a 'monster' parade with floats ran along Irving Street from Arguello to 25th Avenue. It was led by a Presidio military band, the Fire Department's 40-piece band, Polytechnic High's ROTC band, a Moose drill team and the California Grays. At 9:30 the crowd gathered at 8th and Irving for speeches, drills, dancing in the street and fireworks until midnight [1]. Court cases held up the tunnel. On October 21, 1928, Mayor James Rolph, in a motorman's cap, drove the first N-line car out of the Sunset Tunnel [1][2][3]. One reporter counted fourteen speeches by Rolph along the way [1].",
+  "people": [
+   {
+    "name": "M. M. O'Shaughnessy",
+    "role": "City Engineer"
+   },
+   {
+    "name": "James Rolph",
+    "role": "Mayor"
+   },
+   {
+    "name": "Frank Doelger",
+    "role": "association officer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Inner Sunset: A Historic Context Statement",
+    "publisher": "William Kostura for SF Office of Economic and Workforce Development / SF Planning",
+    "year": 2023,
+    "url": "https://sfplanning.org/project/inner-sunset-historic-context-statement",
+    "supports": "1921 meeting at Laguna Honda School; association; route alternatives and costs; April 14, 1925 decision; April 25, 1925 parade ('Gay Sunset Celebration,' Chronicle, Apr. 25, 1925); Oct. 21, 1928 opening and Rolph's fourteen speeches (Examiner, Oct. 22, 1928)"
+   },
+   {
+    "title": "Sunset Tunnel, Oct 21, 1928 (wnp27.0493)",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project (SF DPW photo)",
+    "year": 1928,
+    "url": "https://opensfhistory.org/Display/wnp27.0493.jpg",
+    "supports": "Mayor James Rolph at the controls of the first N-line streetcar through the tunnel near Carl and Cole"
+   },
+   {
+    "title": "The Sunset District: From Dunes to Cityscape (Lorri Ungaretti)",
+    "publisher": "FoundSF",
+    "year": 2004,
+    "url": "https://www.foundsf.org/index.php?title=The_Sunset_District:_From_Dunes_to_Cityscape",
+    "supports": "Sunset Tunnel opened in 1928 with Mayor Rolph driving the first N Judah streetcar"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2q-golden-gate-heights-wild-hill",
+  "title": "Quail and Quarries Above Quintara",
+  "theme": "parks-nature",
+  "year": 1932,
+  "yearEnd": 1952,
+  "place": {
+   "label": "140 Quintara Street and the water-tank hill, Golden Gate Heights",
+   "lat": 37.74929,
+   "lon": -122.46704,
+   "precision": "area"
+  },
+  "hook": "In the 1930s the top of Golden Gate Heights was still wild: quail, jackrabbits, a quarry used for target practice and a dare-worthy water tank.",
+  "story": "City Engineer M. M. O'Shaughnessy signed off plans for Golden Gate Heights in 1926. They split streets into upper and lower levels and added retaining walls and stairways where slopes were too steep for cars [1]. Buyers were slow to come. Many of the higher lots between 12th and 15th Avenues were still empty into the 1960s [1]. In 1932 Dick Boyd's father paid $5,000 for a 1919 house at 140 Quintara Street, with a $37 monthly mortgage [2]. Quintara was cobblestone and ended in a one-lane dirt road, and there was no through traffic to the Sunset until about 1938 [2]. Across the street, a hill topped by a green water tank was home to brush rabbits, jackrabbits, skunks, quail, owls and hawks, among lupines and poppies. In the Depression, groups of men beat the bushes and drove the rabbits downhill to others waiting with clubs, because people needed food [2]. Below the tank was a rock quarry that adults used for target practice [2]. Neighbour Celita Bennett spent years asking the Planning Department to save the hilltop as a lookout. Within weeks of her death a development was approved, and the view went to about ten houses [2]. The Golden Gate Heights Neighbors Association formed in the 1970s to halt such development [3].",
+  "people": [
+   {
+    "name": "Dick Boyd",
+    "role": "childhood resident"
+   },
+   {
+    "name": "Celita Bennett",
+    "role": "neighbourhood activist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise - Stairways to the Stars (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2014,
+    "url": "https://www.outsidelands.org/streetwise_stairways.php",
+    "supports": "1926 O'Shaughnessy plans; split streets, retaining walls, stairways; unbuilt lots between 12th and 15th Avenues into the 1960s–70s"
+   },
+   {
+    "title": "Growing up in Golden Gate Heights (Dick Boyd)",
+    "publisher": "FoundSF",
+    "year": 2012,
+    "url": "https://www.foundsf.org/index.php?title=Growing_up_in_Golden_Gate_Heights",
+    "supports": "1932 purchase of 140 Quintara; Quintara cobblestones and dirt road; no through traffic until about 1938; water-tank hill wildlife; Depression rabbit drives; quarry; Celita Bennett's campaign"
+   },
+   {
+    "title": "Sunset Heights (Jack Barry)",
+    "publisher": "FoundSF",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=Sunset_Heights",
+    "supports": "Golden Gate Heights Neighbors Association started in the 1970s to halt developmental destruction"
+   }
+  ],
+  "photo": null
+ }
+]

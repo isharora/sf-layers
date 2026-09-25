@@ -1,0 +1,737 @@
+[
+  {
+    "id": "visitacion-valley-2p-wandering-parish",
+    "title": "The parish with four churches",
+    "theme": "communities",
+    "year": 1919,
+    "yearEnd": 1952,
+    "place": {
+      "label": "Site of the third Church of the Visitacion, Raymond Avenue at Delta Street",
+      "lat": 37.713588,
+      "lon": -122.409169,
+      "precision": "block"
+    },
+    "hook": "The valley's Catholics built a church, pulled it down, and used the same lumber to build the next one.",
+    "story": "In March 1907 the archbishop created a new parish called Visitacion [1]. Its first church stood on Cora Street between Sunnydale and Visitacion avenues, and it lasted just seven months [1]. The second, a shingled frame building about 80 feet long and 30 feet wide, stood at Visitacion Avenue and Loehr Street for about ten years [1]. Then the parish bought three corner lots at Raymond, Leland and Delta. It tore down the old church and used its materials to build the third, which opened with a high mass on Christmas Day 1919 [1]. That recycled church served until 1952. In 1945 the parish had bought the San Francisco Auto Camp on Sunnydale Avenue, and on April 20, 1952, Archbishop John Mitty dedicated a new church, rectory and hall there [1]. By 1960 the new church was paid for, and the Mothers' Club sent the first $1,000 to the chancery toward a parish school [1]. Generations later the club was still raising money with rummage sales, with events chaired by lifelong resident Viola Rusca and longtime member Lydia Bini [2]. Vince Gagliardo, of Sicilian descent, married at the Church of the Visitacion in 1953 and raised his three children in the valley [3].",
+    "people": [
+      {
+        "name": "Viola Rusca",
+        "role": "lifelong resident and Mothers' Club leader"
+      },
+      {
+        "name": "Lydia Bini",
+        "role": "longtime Mothers' Club member"
+      },
+      {
+        "name": "Vince Gagliardo",
+        "role": "parishioner, married there in 1953"
+      },
+      {
+        "name": "John Mitty",
+        "role": "archbishop who dedicated the 1952 church"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of the Church of the Visitacion: 1907 to Present",
+        "publisher": "Church of the Visitacion (archived)",
+        "year": 2010,
+        "url": "http://web.archive.org/web/2019/http://www.visitacionchurch.org/history.html",
+        "supports": "The four church sites, 1907 founding, reuse of the second church's materials, Christmas 1919 opening, 1945 Auto Camp purchase, 1952 dedication, Mothers' Club $1,000"
+      },
+      {
+        "title": "Spotlight of the Month: OLV Mother's Club Still Going Strong",
+        "publisher": "Visitacion Valley Grapevine, May 2008",
+        "year": 2008,
+        "url": "https://archive.org/details/visitacionvalley262unse",
+        "supports": "Mothers' Club rummage sales; Viola Rusca and Lydia Bini"
+      },
+      {
+        "title": "Vis Valley transformed",
+        "publisher": "San Francisco Examiner (SFGATE)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/Vis-Valley-transformed-3075887.php",
+        "supports": "Vince Gagliardo married at the church in 1953"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-frogs-and-watercress",
+    "title": "Frogs, watercress and whist above the coal yard",
+    "theme": "communities",
+    "year": 1910,
+    "yearEnd": null,
+    "place": {
+      "label": "Leland Avenue, where the Bay Shore Hall stood above Anderson's Coal Yard",
+      "lat": 37.71195,
+      "lon": -122.40505,
+      "precision": "street"
+    },
+    "hook": "Valley kids sold frogs and watercress to restaurants, slid down hills in cardboard boxes, and watched old ships being broken up on the bay.",
+    "story": "In the valley's early decades, social life happened in halls. Clubs and service groups held whist parties, dances, minstrel shows and bazaars at the Bay Shore Hall above Anderson's Coal Yard on Leland Avenue, at the Fireman's Hall on Wilde Avenue, at the Alpine Hall on Raymond Avenue and in the gymnasium of the Six Mile House [1]. Children made their own fun. They hiked the hills, picnicked on the ridges and slid down the slippery spring grass in large cardboard cartons [1]. They waded and swam in the bay and watched old ships being taken apart at the 'ships' graveyard' at the Johnson-Brown wharf [1]. For pocket money they caught frogs and gathered watercress to sell to local restaurants, and peddled bouquets of wildflowers door to door [1]. They saved through a school program run by the Bank of Italy, later Bank of America, at a time when the valley had no other banking service [1]. Getting downtown was slow. By 1910 two streetcar lines served the valley, and the long waits while cars were switched on a single track earned it the nickname 'Hesitation Valley' [1][2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Visitacion Valley history feature (entertainment, childhood, businesses of the past)",
+        "publisher": "Visitacion Valley Grapevine, August 2001",
+        "year": 2001,
+        "url": "https://archive.org/details/visitacionvalley168unse",
+        "supports": "Halls and their entertainments, children's pastimes, frogs and watercress, ships' graveyard, Bank of Italy school savings, streetcars and 'Hesitation Valley'"
+      },
+      {
+        "title": "Vis Valley transformed",
+        "publisher": "San Francisco Examiner (SFGATE)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/Vis-Valley-transformed-3075887.php",
+        "supports": "Slow streetcar line and the 'Hesitation Valley' nickname"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-flea-house",
+    "title": "Dish night at the Flea House",
+    "theme": "arts-counterculture",
+    "year": 1926,
+    "yearEnd": 1957,
+    "place": {
+      "label": "Site of the Bay Shore Theatre, Bayshore Boulevard near Leland Avenue",
+      "lat": 37.710802,
+      "lon": -122.404474,
+      "precision": "block"
+    },
+    "hook": "For 31 years the valley had one movie house. Everyone called it the 'Flea House', and you could furnish your kitchen just by going.",
+    "story": "From 1926 until October 1957, Visitacion Valley had its own movie house, the 350-seat Bay Shore Theatre on Bayshore Boulevard near Leland Avenue [1]. Its advertising promised, 'We show only the best pictures ... Come and see!' [2] Locals called it the 'Flea House' [1]. It ran double features, and on the weekly 'dish night' patrons could collect a whole set of dinnerware just by attending [1]. In 2011, 87-year-old Mary Glidden Bertram remembered going every Saturday for the serials, which continued week to week 'like a soap opera on TV nowadays' [1]. Dawn Pyne Murayama took a part-time job there as the candy girl while she was a student at City College. Weekend matinees were busiest, she recalled, with parents dropping off children who 'had money to burn' on candy and popcorn. 'It's a wonder I don't have more fillings, as I ate more than my share' [1]. An OpenSFHistory photograph looking northwest across Bayshore, as a streetcar crew removes old tracks, shows the theatre in the background. The archive dates it November 1941; SF Heritage captions it 1943 [1][3]. The theatre has since been demolished [3].",
+    "people": [
+      {
+        "name": "Mary Glidden Bertram",
+        "role": "moviegoer"
+      },
+      {
+        "name": "Dawn Pyne Murayama",
+        "role": "candy girl"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visitacion Valley Goes the Movies – And Vice Versa",
+        "publisher": "SF Heritage (Cynthia Cox, Visitacion Valley History Project)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley-goes-the-movies-and-vice-versa/",
+        "supports": "Dates, 350 seats, 'Flea House', dish night, memories of Bertram and Murayama"
+      },
+      {
+        "title": "Visitacion Valley history feature",
+        "publisher": "Visitacion Valley Grapevine, August 2001",
+        "year": 2001,
+        "url": "https://archive.org/details/visitacionvalley168unse",
+        "supports": "The theatre's advertising slogan"
+      },
+      {
+        "title": "Bayshore near Leland, Nov 1941 (wnp14.1703)",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 1941,
+        "url": "https://opensfhistory.org/Display/wnp14.1703.jpg",
+        "supports": "Nov 1941 view northwest across Bayshore with track-removal crew, theatre in background, since demolished (an older archived version of the page dates it 1943)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-the-castle",
+    "title": "Underage dancing at the castle",
+    "theme": "communities",
+    "year": 1940,
+    "yearEnd": null,
+    "place": {
+      "label": "The 'castle' complex, Bayshore Boulevard at Visitacion Avenue",
+      "lat": 37.71023,
+      "lon": -122.40397,
+      "precision": "block"
+    },
+    "hook": "Teenagers danced at the bar in 'the castle' and ran out to the parking lot whenever the police showed up.",
+    "story": "Where Visitacion Avenue meets Bayshore Boulevard, locals point to 'the castle' [1]. It is a complex of three buildings, built in the 1930s as income property by Austrian-born Joseph Rodiack: an apartment house, a space that held a series of restaurants and bars, and a small gas station [1]. The bars drew Schlage Lock workers, locals and anyone else after food, drink and entertainment. One proprietor was Raymond 'Babe' Baron, who ran Babe's Tower Inn [1]. Dawn Pyne Murayama remembered it from the 1940s: 'The castle was a bar that we went to. We weren't of age so when we needed to we would run out to the parking lot until the police were gone. We not only drank but danced too' [1]. The gas station once sold gas for 15½ cents a gallon, and later became a car wash [1]. In 2021 SF Heritage's Woody LaBounty named the complex one of his favourite buildings in the valley, though he suspected it might rank 'too high on the quirk factor' to win official landmark status [2].",
+    "people": [
+      {
+        "name": "Joseph Rodiack",
+        "role": "builder and owner"
+      },
+      {
+        "name": "Raymond 'Babe' Baron",
+        "role": "proprietor of Babe's Tower Inn"
+      },
+      {
+        "name": "Dawn Pyne Murayama",
+        "role": "customer in the 1940s"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Palace, a Castle, and a Log Cabin – Oh My!",
+        "publisher": "SF Heritage (Cynthia Cox, Visitacion Valley History Project)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/a-palace-a-castle-and-a-log-cabin-oh-my/",
+        "supports": "Rodiack, the three buildings, Babe's Tower Inn, Murayama quote, gas price, car wash"
+      },
+      {
+        "title": "Landmark Candidates in Visitacion Valley",
+        "publisher": "SF Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/landmark-candidates-in-visitacion-valley/",
+        "supports": "The castle complex as a favourite with a high 'quirk factor'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-klotovich-family",
+    "title": "The Klotovich boys and Kate's Charleston medal",
+    "theme": "communities",
+    "year": 1938,
+    "yearEnd": null,
+    "place": {
+      "label": "Visitacion Valley Community Center, 50 Raymond Avenue",
+      "lat": 37.712343,
+      "lon": -122.403988,
+      "precision": "building"
+    },
+    "hook": "Their mother feared football, so the siblings signed each other's permission slips. One brother scored in the Cotton Bowl; their sister won the Charleston.",
+    "story": "The Klotovich children of Visitacion Valley loved sports, and their mother dreaded football. She feared the injuries. Yet every season, her daughter Kate Jasoni recalled, brothers Mike and Yotz were ready to play, cleared by permission forms their siblings had signed [1]. Mike had been a football great at Mission High, and both brothers excelled at St. Mary's College in Moraga [1][3]. On January 2, 1939, Mike ran for a touchdown as unranked St. Mary's beat unbeaten, 11th-ranked Texas Tech 20–13 in the Cotton Bowl [2]. He went on to play semi-pro for the San Francisco Clippers and then for the New York Giants in 1945 [3]. A younger brother, Tony, showed promise at baseball until a series of hand injuries ended his hopes [1]. Kate played baseball, basketball and tennis, but one of her fondest memories came in 1938 on the dance floor of the Visitacion Valley Community Center, where she won top honours in a Charleston contest. 'I still have the medal,' she told the Grapevine in 1987 [1]. When neighbourhood historians collected oral histories in 2003, Mike's name came up more than once. He died in April 2008, aged 90, remembered as modest as well as fast [3].",
+    "people": [
+      {
+        "name": "Mike Klotovich",
+        "role": "football player"
+      },
+      {
+        "name": "Yotz Klotovich",
+        "role": "football player"
+      },
+      {
+        "name": "Kate Jasoni",
+        "role": "sister, Charleston champion"
+      },
+      {
+        "name": "Tony Klotovich",
+        "role": "baseball prospect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "When the Valley Was Young (Len Appiano)",
+        "publisher": "Visitacion Valley Grapevine, January 1987",
+        "year": 1987,
+        "url": "https://archive.org/details/visitacionvalley21unse",
+        "supports": "The Klotovich siblings, permission forms, St. Mary's, Tony's injuries, Kate's 1938 Charleston medal"
+      },
+      {
+        "title": "1939 Cotton Bowl Classic",
+        "publisher": "Wikipedia (citing contemporary newspaper reports)",
+        "year": 2023,
+        "url": "https://en.wikipedia.org/wiki/1939_Cotton_Bowl_Classic",
+        "supports": "Date, score and Klotovich's touchdown run"
+      },
+      {
+        "title": "Mike Klotovich, Football Great (Visitacion Valley History Project)",
+        "publisher": "Visitacion Valley Grapevine, May 2008",
+        "year": 2008,
+        "url": "https://archive.org/details/visitacionvalley262unse",
+        "supports": "Clippers, New York Giants 1945, oral histories, death at 90"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-cut-up-house",
+    "title": "The house the three sisters cut apart",
+    "theme": "communities",
+    "year": 1947,
+    "yearEnd": null,
+    "place": {
+      "label": "2 Hahn Street at Leland Avenue",
+      "lat": 37.714407,
+      "lon": -122.415063,
+      "precision": "building"
+    },
+    "hook": "Legend says three sisters sawed their family home into pieces. One piece may have ended up on Hahn Street.",
+    "story": "The Edwardian house at 2 Hahn Street, on the corner of Leland Avenue near McLaren Park, looks out of place among its midcentury neighbours [1]. Local legend says it is only one piece of a larger home that three sisters, who all loved the family house, divided between them [1][2]. Records show the lot was empty until late 1947, when the house was moved in. Its water was hooked up on October 8, 1947 [1]. Joana Louise (Rozario) Miranda was 13 when her family moved in from North Beach, the first to live there. She remembered stained glass, leaded-glass interior doors, a dining room with beveled glass, 'stairs to nowhere' and a finished attic. She walked hand in hand with her father to pay the mortgage to Mr. Harper, the man who had moved the house [1]. She had never heard the three-sisters story, though she remembered a Leland Avenue dress shop called Three Sisters [1]. After Heritage published the mystery in 2021, researcher David Gallagher suggested the house may have come from 24th and Vermont streets, displaced by Highway 101 construction, with one storey removed [1].",
+    "people": [
+      {
+        "name": "Joana Louise (Rozario) Miranda",
+        "role": "childhood resident"
+      },
+      {
+        "name": "Edwin B. Harper",
+        "role": "moved the house"
+      },
+      {
+        "name": "David Gallagher",
+        "role": "researcher"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fun Friday: Visitacion Valley History Mysteries!",
+        "publisher": "SF Heritage (Kerri Young)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/fun-friday-visitacion-valley-history-mysteries/",
+        "supports": "The 1947 move, records, the Rozario family memories, the sisters legend, Gallagher's theory"
+      },
+      {
+        "title": "VISITACION VALLEY / Neighbors preserve lore and more",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/VISITACION-VALLEY-Neighbors-preserve-lore-and-2724252.php",
+        "supports": "The tale of sisters who cut the family Victorian into pieces"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-blanche-baker",
+    "title": "The motherly psychiatrist of Delta Street",
+    "theme": "lgbtq",
+    "year": 1953,
+    "yearEnd": 1960,
+    "place": {
+      "label": "150 Delta Street",
+      "lat": 37.716983,
+      "lon": -122.408087,
+      "precision": "building"
+    },
+    "hook": "From a hillside house in the valley, a former surgeon turned psychiatrist challenged the 1950s belief that gay people were mentally ill.",
+    "story": "In 1953, city directories place Dr. Blanche M. Baker at 150 Delta Street, a hillside house looking out over the valley [1]. A former surgeon turned psychiatrist, she treated gay and straight clients, and the 1959 Polk's directory lists her office at the same address [2]. At a time when homosexuality was widely seen as a mental illness to be cured, Baker described herself as 'a kind, friendly, motherly sort of doctor who preaches self-acceptance' [2]. In 1955 she spoke at ONE Inc.'s first Midwinter Institute in Los Angeles, reportedly the first forum in North America organised by homosexuals, for homosexuals [1][2]. In 1957 she wrote the introduction to Helen P. Branson's book Gay Bar: 'Homosexuals are human beings, too' [1][2]. The Daughters of Bilitis, who met her at ONE's Midwinter Institute that year, formed a lasting relationship with her and later set up a scholarship in her name [2]. From January 1959 she wrote an advice column, 'Toward Understanding', for ONE Magazine, cut short by her death in 1960. The ONE Library in Los Angeles was named for her in 1965 [1][2]. Artist Opal Essence, who bought the house in 1979, found a brick room, archway and fireplace hidden behind the sheetrock, and later commissioned murals on the house in Baker's honour [1].",
+    "people": [
+      {
+        "name": "Blanche M. Baker",
+        "role": "psychiatrist and homophile ally"
+      },
+      {
+        "name": "Opal Essence",
+        "role": "artist, later owner of the house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fun Friday: Visitacion Valley History Mysteries!",
+        "publisher": "SF Heritage (Kerri Young)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/fun-friday-visitacion-valley-history-mysteries/",
+        "supports": "Baker living at 150 Delta from 1953; Opal Essence, the hidden room and murals"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning (Donna Graves and Shayne Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Baker's career, 'motherly' quote, 1959 Polk's directory listing at 150 Delta, ONE Institute, Gay Bar, DOB relationship and scholarship, ONE Magazine column, death 1960, library 1965"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-forty-niner-cleaners",
+    "title": "Sixty-six years of pressing on Leland",
+    "theme": "labor-industry",
+    "year": 1955,
+    "yearEnd": null,
+    "place": {
+      "label": "Forty-Niner Cleaners, 51 Leland Avenue",
+      "lat": 37.711575,
+      "lon": -122.404986,
+      "precision": "building"
+    },
+    "hook": "Opened in 1955, a small Leland Avenue dry cleaner was still pressing shirts 66 years later, run by a woman who started there as an employee.",
+    "story": "Forty-Niner Cleaners opened in 1955 at 93 Leland Avenue, a 1908 building that had held a shoe store in the 1920s and an ice cream shop and a florist in the 1940s [1]. In 1956 its ad appeared in a booklet for St. James Presbyterian Church's 50th anniversary, alongside Teddy Grocery [1]. In November 1987 the Grapevine asked Leland Avenue merchants what the street needed. Shurping Chan, 32, of 49er Cleaners, wanted restaurants with different food choices, an ice cream shop, a Walgreens and a fabric store. 'Maybe I'm thinking only about food because I'm pregnant,' she said [2]. In 1998 the Examiner found Sue Chan and her husband, David, running the shop; most of their customers were Black, and she urged fellow immigrant merchants to treat everyone with respect. 'You don't holler at them,' she said [4]. By 2001 the business had moved to 51 Leland, listed under David Chan [3]. That 1926 building had been home to Jay Vee Clothing, whose sign lingered for a while before it was painted over [1]. Sue Chan started working at the cleaners more than 35 years before 2021 and went on to own it [1]. That year, after 66 years on Leland Avenue, SF Heritage named it a worthy candidate for the city's Legacy Business Registry [1].",
+    "people": [
+      {
+        "name": "Sue Chan",
+        "role": "owner"
+      },
+      {
+        "name": "Shurping Chan",
+        "role": "worker, 1987"
+      },
+      {
+        "name": "David Chan",
+        "role": "listed proprietor, 2001"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Longtime Businesses in Visitacion Valley",
+        "publisher": "SF Heritage (Kerri Young)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/longtime-businesses-in-visitacion-valley/",
+        "supports": "Opening in 1955 at 93 Leland, building history, 1956 booklet, move to 51 Leland, Jay Vee sign, Sue Chan, Legacy Business candidacy"
+      },
+      {
+        "title": "Valley Inquirer: What needs to be done to improve the business area of Leland Avenue?",
+        "publisher": "Visitacion Valley Grapevine, November 1987",
+        "year": 1987,
+        "url": "https://archive.org/details/visitacionvalley211unse",
+        "supports": "Shurping Chan's quote"
+      },
+      {
+        "title": "Valley business listings",
+        "publisher": "Visitacion Valley Grapevine, August 2001",
+        "year": 2001,
+        "url": "https://archive.org/details/visitacionvalley168unse",
+        "supports": "Forty-Niner Cleaners (David Chan), 51 Leland Ave"
+      },
+      {
+        "title": "Vis Valley transformed",
+        "publisher": "San Francisco Examiner (SFGATE)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/Vis-Valley-transformed-3075887.php",
+        "supports": "Sue and David Chan own Forty-Niner Cleaners; her quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-58-leland",
+    "title": "From pharmacy to sari-sari store",
+    "theme": "communities",
+    "year": 1962,
+    "yearEnd": null,
+    "place": {
+      "label": "58 Leland Avenue",
+      "lat": 37.711844,
+      "lon": -122.404773,
+      "precision": "building"
+    },
+    "hook": "Under a Space Age starburst on Leland Avenue, a druggist worried about elders and ATMs, and later a Filipino corner store moved in.",
+    "story": "The 1941 building at 58 Leland Avenue is hard to miss. Its Streamline Moderne front has a centre tower that SF Heritage's Woody LaBounty calls 'both Mayan Revival and a bit Space Age', topped by a starburst finial he had never seen anywhere else in the city [1]. From 1962, Jack and Yvonne Creighton ran the Leland Pharmacy here [2]. Their ads promised 'friendly professional prescription service' and pointed out that the shop was next to the post office [3]. In November 1987 the Grapevine asked merchants what Leland Avenue needed. Jack Creighton, 58, wanted more medical services, a hardware store and another bank. He worried that Bank of America would do away with tellers and automate, which would be 'difficult and unsafe for elders and everyone else, too' [3]. The pharmacy closed in 1989 [2]. By 2001 the storefront was the Sari-Sari Food Store, named for the Filipino word for a small neighbourhood shop, and the Little Quiapo Bake Shop was working up the street at 169 Leland [4]. More recently the space has been a Mexican and Central American market [1].",
+    "people": [
+      {
+        "name": "Jack Creighton",
+        "role": "pharmacist"
+      },
+      {
+        "name": "Yvonne Creighton",
+        "role": "pharmacy co-owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nine Great Commercial Buildings on Leland Avenue",
+        "publisher": "SF Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/nine-great-commercial-buildings-on-leland-avenue/",
+        "supports": "1941 building, tower and finial, later Mexican and Central American market"
+      },
+      {
+        "title": "Longtime Businesses in Visitacion Valley",
+        "publisher": "SF Heritage (Kerri Young)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/longtime-businesses-in-visitacion-valley/",
+        "supports": "Leland Pharmacy at 58 Leland, run by the Creightons from 1962, closed 1989"
+      },
+      {
+        "title": "Valley Inquirer; Leland Avenue Pharmacy advertisement",
+        "publisher": "Visitacion Valley Grapevine, November 1987",
+        "year": 1987,
+        "url": "https://archive.org/details/visitacionvalley211unse",
+        "supports": "Creighton's quote and the pharmacy ad"
+      },
+      {
+        "title": "Valley business listings",
+        "publisher": "Visitacion Valley Grapevine, August 2001",
+        "year": 2001,
+        "url": "https://archive.org/details/visitacionvalley168unse",
+        "supports": "Sari-Sari Food Store at 58 Leland; Little Quiapo Bake Shop at 169 Leland"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-dan-white-campaign",
+    "title": "The ice cream lady behind Dan White",
+    "theme": "modern-city",
+    "year": 1977,
+    "yearEnd": 1978,
+    "place": {
+      "label": "Former Shelley's Ice Cream, 144 Leland Avenue",
+      "lat": 37.712418,
+      "lon": -122.406248,
+      "precision": "building"
+    },
+    "hook": "A Leland Avenue ice cream shop owner managed a local boy's first campaign, then quit, frightened. A year later he killed Moscone and Milk.",
+    "story": "Dan White grew up in Visitacion Valley, in a house on Hahn Street across from McLaren Park [1]. The second of nine children in a working-class Irish Catholic family, he became a police officer and then a firefighter [2]. In 1977, in San Francisco's first district elections, he ran for supervisor [1][2]. His first campaign manager was Judey Precivale, a valley activist who with her husband, Roland, had run Shelley's Ice Cream at 144 Leland Avenue [1]. She soon bowed out, having come to mistrust and fear the candidate. At one candidates' night, she recalled, White snarled, 'I know who my enemies are.' 'I thought I was seeing Hitler again,' she said [1]. White won the District 8 seat [2]. On November 27, 1978, he shot and killed Mayor George Moscone and Supervisor Harvey Milk at City Hall, and his light manslaughter sentence set off the White Night riots [1]. 'Dan White was identified with this neighborhood, and the tragedy stays with us,' Precivale told the Chronicle in 2000 [1]. By then Shelley's had become Sin Fung Video, one of a dozen or more Chinese businesses in the neighbourhood [1].",
+    "people": [
+      {
+        "name": "Judey Precivale",
+        "role": "activist, ice cream shop owner, first campaign manager"
+      },
+      {
+        "name": "Roland Precivale",
+        "role": "ice cream shop owner"
+      },
+      {
+        "name": "Dan White",
+        "role": "supervisor and assassin"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Neighborhood Shifts / Crime is down, pride is up in transformed Visitacion Valley",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2000,
+        "url": "https://www.sfgate.com/realestate/article/Neighborhood-Shifts-Crime-is-down-pride-is-up-3238781.php",
+        "supports": "White's Hahn Street boyhood home; Precivale, Shelley's Ice Cream, her quotes; the killings and White Night"
+      },
+      {
+        "title": "Dan White",
+        "publisher": "Wikipedia (pointer to its sources)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Dan_White",
+        "supports": "Family background, police and fire careers, 1977 district election, District 8"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-chinese-baptist",
+    "title": "A pastor for the valley's newcomers",
+    "theme": "communities",
+    "year": 1987,
+    "yearEnd": null,
+    "place": {
+      "label": "Visitacion Chinese Baptist Church, 8 Desmond Street",
+      "lat": 37.711445,
+      "lon": -122.405015,
+      "precision": "building"
+    },
+    "hook": "A young seminary graduate arrived to serve Chinese immigrants. Within a decade his summer camp was packed and families were pooling money to buy houses.",
+    "story": "In the late 1980s and 1990s, Chinese immigrants began settling in Visitacion Valley, drawn by cheaper housing, good weather and an existing Asian community [1]. Between 1980 and 1990 the valley's Asian population rose 74 percent, from 4,551 to 7,922 [1]. The Baptist ministry noticed the change. Around 1987 it sent the Rev. Samson Wong, a young seminary graduate, to found the Visitacion Chinese Baptist Church [1]. By 2002 a neighbourhood directory listed the church at 8 Desmond Street, just off Leland Avenue [2]. In 1998 a gaggle of immigrant children jammed its summer day camp each day [1]. Wong estimated that about half the valley's immigrants owned their homes. 'They live two or three families together until they save enough money,' he said. 'Then they buy two houses, one for each family' [1]. The Li family from Guangzhou, living on Melra Street with an aunt, was saving for a home of its own. He was a cook and she worked in a sewing factory, each for under $6 an hour. 'We don't have any big goals for ourselves,' Guo Feng Li said. 'Our hope is for the children' [1]. The change also brought tension with longtime Black residents, which community groups were working to ease [1].",
+    "people": [
+      {
+        "name": "Samson Wong",
+        "role": "founding pastor"
+      },
+      {
+        "name": "Guo Feng Li",
+        "role": "immigrant cook"
+      },
+      {
+        "name": "Yuhua Li",
+        "role": "sewing factory worker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vis Valley transformed",
+        "publisher": "San Francisco Examiner (SFGATE)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/Vis-Valley-transformed-3075887.php",
+        "supports": "Chinese immigration, population figures, Rev. Samson Wong and the church, day camp, Li family, tensions"
+      },
+      {
+        "title": "Valley business and church listings",
+        "publisher": "Visitacion Valley Grapevine, March 2002",
+        "year": 2002,
+        "url": "https://archive.org/details/visitacionvalley188unse",
+        "supports": "Visitacion Chinese Baptist Church at 8 Desmond St"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-cuneo-bakery",
+    "title": "The last Italian bread on Leland",
+    "theme": "communities",
+    "year": 1998,
+    "yearEnd": null,
+    "place": {
+      "label": "Cuneo Bakery, 96 Leland Avenue",
+      "lat": 37.71207,
+      "lon": -122.405355,
+      "precision": "building"
+    },
+    "hook": "The valley's Italians left for the suburbs, but some elderly customers still drove up from Redwood City for bread.",
+    "story": "Visitacion Valley was once mostly Italian and Maltese. 'The Valley was populated by mostly Maltese and Italians,' Florence Porter, whose parents and grandparents were all born there, told the Grapevine in 1987. 'We never locked our doors in the old days' [1]. By 1998 old-timers said most of their Italian neighbours had moved to the suburbs in the 1960s and '70s, and most of the Italian businesses went with them [2]. Only two were left on Leland Avenue: Armando's Shoe Repair and Cuneo Bakery [2]. Cuneo had once run four bakeries in the city. By then it was a single wholesale operation with a small retail counter out front, carried on by brothers Mario and Dominic Mallegni, whose father had started the company [2]. 'We don't have all that foot traffic like we used to,' said Wendy Mallegni, Mario's wife. 'But we still have elderly Italians who come to pick up bread. Some come all the way from Redwood City' [2]. A neighbourhood directory still listed Cuneo Bakery at 96 Leland Avenue in 2002, a few doors from the Little Quiapo Bake Shop and the Luan Fat Bakery [3].",
+    "people": [
+      {
+        "name": "Mario Mallegni",
+        "role": "baker"
+      },
+      {
+        "name": "Dominic Mallegni",
+        "role": "baker"
+      },
+      {
+        "name": "Wendy Mallegni",
+        "role": "family member"
+      },
+      {
+        "name": "Florence Porter",
+        "role": "lifelong resident"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Florence Porter profile",
+        "publisher": "Visitacion Valley Grapevine, January 1987",
+        "year": 1987,
+        "url": "https://archive.org/details/visitacionvalley21unse",
+        "supports": "Porter's memory of Maltese and Italians"
+      },
+      {
+        "title": "Vis Valley transformed",
+        "publisher": "San Francisco Examiner (SFGATE)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/Vis-Valley-transformed-3075887.php",
+        "supports": "Italian departure, Cuneo Bakery and Armando's, the Mallegnis, quote"
+      },
+      {
+        "title": "Valley business listings",
+        "publisher": "Visitacion Valley Grapevine, March 2002",
+        "year": 2002,
+        "url": "https://archive.org/details/visitacionvalley188unse",
+        "supports": "Cuneo Bakery at 96 Leland; Little Quiapo Bake Shop and Luan Fat Bakery"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-fourth-chinatown",
+    "title": "A principal and the 'fourth Chinatown'",
+    "theme": "communities",
+    "year": 2000,
+    "yearEnd": null,
+    "place": {
+      "label": "Visitacion Valley Elementary School, 55 Schwerin Street",
+      "lat": 37.712681,
+      "lon": -122.410282,
+      "precision": "building"
+    },
+    "hook": "He used to spend Mondays counting broken windows. By 2000 the principal was predicting his valley would become San Francisco's fourth Chinatown.",
+    "story": "When Vincent S. Chao became principal of Visitacion Valley Elementary School at 55 Schwerin Street around 1988, much of his time went on vandalism. 'Every Monday morning, it seemed, I would come to work to find dozens of windows broken and computers smashed,' he said [1]. Many pupils lived in Geneva Towers. 'Making home calls in those buildings was scary,' said Chao. 'The hallways were pitch dark. The elevators didn't work' [1]. By 2000 the towers were gone and the school had gone months without a break-in [1]. Its roughly 470 pupils were 45 percent Chinese, 22 percent African American, 15 percent Filipino, 11 percent Latino and 5 percent Samoan, and 63 percent had limited English [1]. The school offered Hawaiian, Samoan, Filipino and Hispanic dance classes. The advertising firm Goodby, Silverstein & Partners, creators of 'Got Milk?', helped the children paint a 'Peace' mural out back [1]. Chao predicted the valley would become San Francisco's 'fourth Chinatown', after Chinatown, Clement Street and Judah-Irving [1]. Two years earlier the school's former PTA president, Carlos Ramirez, had welcomed the newcomers: 'They're just like us - working people' [2].",
+    "people": [
+      {
+        "name": "Vincent S. Chao",
+        "role": "principal"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "role": "former PTA president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Neighborhood Shifts / Crime is down, pride is up in transformed Visitacion Valley",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2000,
+        "url": "https://www.sfgate.com/realestate/article/Neighborhood-Shifts-Crime-is-down-pride-is-up-3238781.php",
+        "supports": "Chao's quotes, enrolment figures, dance classes, mural, 'fourth Chinatown'"
+      },
+      {
+        "title": "Vis Valley transformed",
+        "publisher": "San Francisco Examiner (SFGATE)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/Vis-Valley-transformed-3075887.php",
+        "supports": "Carlos Ramirez quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-sunnydale-sinkhole",
+    "title": "The day Sunnydale Avenue opened up",
+    "theme": "modern-city",
+    "year": 2012,
+    "yearEnd": null,
+    "place": {
+      "label": "Sunnydale Avenue at Cora Street, beside Our Lady of the Visitacion School",
+      "lat": 37.7098,
+      "lon": -122.4094,
+      "precision": "street"
+    },
+    "hook": "A 42-inch water main burst, swallowing an intersection and flooding a convent, a Catholic school and a street of family homes.",
+    "story": "At about 11:10 a.m. on Tuesday, August 28, 2012, city officials got a report that a 42-inch water main had broken under Sunnydale Avenue [1]. An adjacent line ruptured too, and tens of thousands of gallons of water poured into the streets. It took crews almost two hours to stop the flow [1]. The water left a sinkhole 10 feet deep and 30 by 40 feet across near where Sunnydale meets Cora Street, and forced the evacuation of a school, a church and 14 homes [1]. Our Lady of the Visitacion School, the parish's kindergarten-through-eighth-grade school, closed until the following Tuesday. Workers hosed mud off its playground, and furniture was piled up in its offices [1]. The nearby convent took much of the damage. Its chapel pews were too warped to use, and Sister William Eileen Dunn and the other nuns went to stay with another St. Vincent de Paul community. 'Everything works out in God's time,' she said [1]. On Tomaso Court, Amy Hung, 30, came back with her baby to the house she had lived in for 25 years and found the garage full of mud. 'All my stuff is in that garage,' she said. 'My books. My camera. My memories' [1]. The parish had dedicated the school in 1963 [2].",
+    "people": [
+      {
+        "name": "Sister William Eileen Dunn",
+        "role": "nun at the parish convent"
+      },
+      {
+        "name": "Amy Hung",
+        "role": "resident of Tomaso Court"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visitacion Valley sinkhole cleanup begins",
+        "publisher": "San Francisco Chronicle (SFGATE), Vivian Ho",
+        "year": 2012,
+        "url": "https://www.sfgate.com/bayarea/article/Visitacion-Valley-sinkhole-cleanup-begins-3825627.php",
+        "supports": "The break, sinkhole size, evacuations, school and convent damage, quotes"
+      },
+      {
+        "title": "History of the Church of the Visitacion: 1907 to Present",
+        "publisher": "Church of the Visitacion (archived)",
+        "year": 2010,
+        "url": "http://web.archive.org/web/2019/http://www.visitacionchurch.org/history.html",
+        "supports": "The parish school dedicated April 1, 1963"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-2p-198-leland",
+    "title": "One corner, a century of shopkeepers",
+    "theme": "communities",
+    "year": 1928,
+    "yearEnd": null,
+    "place": {
+      "label": "186–198 Leland Avenue at Rutland Street",
+      "lat": 37.712667,
+      "lon": -122.407114,
+      "precision": "building"
+    },
+    "hook": "A grocery where a boy earned his first dollar, then a Hawaiian restaurant, then a bakery: one Leland corner held a century of valley life.",
+    "story": "The corner building at 198 Leland Avenue, at Rutland Street, began life as Dougherty's Grocery in the early 1900s [1][2]. Joe Luccini, born in the valley in 1913, earned his first dollar there in 1928; the Chronicle spelled it 'Dorharty's' [3]. He remembered when every family kept a vegetable garden and most raised chickens and rabbits [3]. In the 1980s the building was Paddy's Hawaiian Restaurant, and murals have covered its Rutland Street wall since then [1][2]. By 2000 it was home to the G&L Bakery [3], listed in 2002 as G & L Bakery & Restaurant [4]. With its two neighbours, the building forms an unusually intact row of early vernacular shops that SF Heritage said 'takes an observer right back to the neighborhood's earliest days' [1]. Luccini, a retired machinist, married his wife Emma in 1940. His sister lived across the street in a house 100 years old [3]. In 2021 the row was slated for demolition, which Heritage called 'a significant loss to the neighborhood and city' [1][2].",
+    "people": [
+      {
+        "name": "Joe Luccini",
+        "role": "lifelong resident, retired machinist"
+      },
+      {
+        "name": "Emma Luccini",
+        "role": "his wife"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nine Great Commercial Buildings on Leland Avenue",
+        "publisher": "SF Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/nine-great-commercial-buildings-on-leland-avenue/",
+        "supports": "Dougherty's Grocery, Paddy's Hawaiian Restaurant, murals, intact row, demolition"
+      },
+      {
+        "title": "Visitacion Valley",
+        "publisher": "SF Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "Dougherty's Groceries in the early 1900s, Paddy's in the 1980s, demolition approved"
+      },
+      {
+        "title": "Neighborhood Shifts / Crime is down, pride is up in transformed Visitacion Valley",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2000,
+        "url": "https://www.sfgate.com/realestate/article/Neighborhood-Shifts-Crime-is-down-pride-is-up-3238781.php",
+        "supports": "Joe Luccini, his first dollar in 1928, G&L Bakery, family details"
+      },
+      {
+        "title": "Valley business listings",
+        "publisher": "Visitacion Valley Grapevine, March 2002",
+        "year": 2002,
+        "url": "https://archive.org/details/visitacionvalley188unse",
+        "supports": "G & L Bakery & Restaurant, 198 Leland Ave"
+      }
+    ],
+    "photo": null
+  }
+]

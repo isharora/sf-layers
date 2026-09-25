@@ -1,0 +1,654 @@
+[
+ {
+  "id": "lakeshore-2p-yelamu-lake",
+  "title": "The lake the Yelamu knew first",
+  "theme": "indigenous-early",
+  "year": 1775,
+  "place": {
+   "label": "East shore of Lake Merced, near today's SF State campus (approximate)",
+   "lat": 37.7195,
+   "lon": -122.487,
+   "precision": "area"
+  },
+  "hook": "Long before anyone named it for Our Lady of Mercy, Yelamu families gathered tule reeds here and camped in the dunes above the surf.",
+  "story": "For thousands of years, Yelamu groups of Ramaytush-speaking people hunted, fished and harvested tule reeds at Lake Merced. The tule became clothing and boats, and mussels and native Olympia oysters fed people camping in the high dunes west of the lake [1]. Archaeologists have found tools and other signs of Yelamu people on the lake's east side and where Fort Funston is today, and two names in the Mission Dolores registers, \"Mitline\" and \"Opurome,\" may be connected with these camps [1]. Of the roughly 50 places in the city where Indian artifacts have turned up, Gary Kamiya counts a couple of sites by Lake Merced and the \"sparse remains of bones\" found on the SF State campus [2]. The Yelamu numbered perhaps 200 people, moving seasonally between village sites [1]. In the fall of 1774 Fernando Rivera y Moncada's expedition camped just northeast of the lake, and in 1775 Father Francisco Palóu named it La Laguna de Nuestra Señora de la Merced, after the feast day on which he left [1]. About a decade after the Spanish arrived, the last local Yelamu had been baptized into Mission Dolores. Nobody recorded what they called the lake [1].",
+  "people": [
+   {
+    "name": "Francisco Palóu",
+    "role": "Franciscan priest who named the lake"
+   },
+   {
+    "name": "Fernando Rivera y Moncada",
+    "role": "led the 1774 expedition that camped near the lake"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Lake Merced: Native Wetland",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/lakemerced1.php",
+    "supports": "Yelamu use of the lake, tule, mussels and oysters, archaeological finds, Mitline/Opurome, 1774 camp, Palóu naming, baptisms"
+   },
+   {
+    "title": "Searching for the Yelamu in San Francisco (excerpt from Cool Gray City of Love)",
+    "publisher": "FoundSF / Gary Kamiya",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=Searching_for_the_Yelamu_in_San_Francisco",
+    "supports": "About 50 known native sites in the city, including a couple by Lake Merced and bones on the SF State campus"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-wild-garden",
+  "title": "A wild garden that turned trousers orange",
+  "theme": "parks-nature",
+  "year": 1902,
+  "place": {
+   "label": "Former wildflower fields southeast of Lake Merced, near today's Brotherhood Way (approximate)",
+   "lat": 37.714,
+   "lon": -122.479,
+   "precision": "area"
+  },
+  "hook": "In 1902 a Chronicle writer sent city readers on a streetcar-and-tramp pilgrimage to fields of poppies, buttercups and Johnny-jump-ups beside Lake Merced.",
+  "story": "On 13 April 1902, the San Francisco Chronicle's Sunday supplement printed Lillian E. Purdy's guide to what she called the natural garden of San Francisco [1]. To reach it, she wrote, take the San Mateo cars to Ocean View, walk south along the railroad track for about half a mile, then cut across the field toward the ocean. Ahead lay \"patches of gold, blue, rich, deep red and cream,\" and beyond the green hills, Lake Merced and a bit of ocean [1]. She listed poppies, buttercups, baby-blue-eyes, wild wallflowers and popcorn flowers, and whole fields sprinkled with wild pansies, which she said grew like that nowhere else in the city. The baby-blue-eyes on the lake's slopes, she wrote, were considered the finest in the state [1]. FoundSF's editor, Pete Holloran, points out that some of her prose was lifted, uncredited, from Mary Elizabeth Parsons's 1897 guide, and that botanist James Roof remembered the flowers being so thick that walking through them turned his pants orange with pollen [1]. Those grasslands south and east of the lake have largely disappeared under asphalt [1]. What survives is protected: the city has designated 395 acres around the lake as Natural Areas, home to dune tansy and California pipevine [2].",
+  "people": [
+   {
+    "name": "Lillian E. Purdy",
+    "role": "author of the 1902 Chronicle essay"
+   },
+   {
+    "name": "James Roof",
+    "role": "botanist who explored the fields as a child"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Lake Merced Wild Garden (reprint of San Francisco Chronicle, 13 April 1902)",
+    "publisher": "FoundSF",
+    "year": 1902,
+    "url": "https://www.foundsf.org/index.php?title=Lake_Merced_Wild_Garden",
+    "supports": "Purdy's route, species, claims about pansies and nemophila, editor's notes on Parsons and James Roof, loss of grasslands"
+   },
+   {
+    "title": "San Francisco's Lake Merced: Native Wetland",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/lakemerced1.php",
+    "supports": "395 acres of Natural Areas, dune tansy, California pipevine"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-spring-valley-check",
+  "title": "The $39,962,606.51 check for a lake",
+  "theme": "labor-industry",
+  "year": 1930,
+  "place": {
+   "label": "Shore of North Lake, Lake Merced (site of the March 9, 1930 dedication, approximate)",
+   "lat": 37.729,
+   "lon": -122.493,
+   "precision": "area"
+  },
+  "hook": "After decades of lawsuits and failed bond votes, San Francisco finally wrote one enormous check and got its biggest lake back from a private monopoly.",
+  "story": "By the 1910s the Spring Valley Water Company was the largest privately owned water utility in the United States, and an unpopular one with reformers, progressives and newspaper editors [1]. Over the years the city sued it several times over rates and over free water for fighting fires [2]. Lake Merced was part of its supply: in 1902 almost 1.8 billion gallons of lake water flowed from city taps [1]. After 1906 the city looked to Hetch Hetchy, but bond measures to buy Spring Valley failed in 1910, 1915 and 1921 [1]. Meanwhile the company sold land around the lake to golf clubs, and the city leased ground for Fleishhacker Pool, the future zoo and Harding Park [1]. Voters finally approved the purchase in 1928 [1]. On March 2, 1930, at a ceremony in City Hall, the city treasurer handed company president S. P. Eastman a check for $39,962,606.51. In return San Francisco received 62,500 acres of watershed, reservoirs, tunnels and pipes, and 454 Spring Valley employees became civil servants on the spot [1]. A week later, on March 9, a grander dedication was held on the shore of Lake Merced, with patriotic bunting, a speech by the mayor and a walk around lands that had long been fenced off [1].",
+  "people": [
+   {
+    "name": "S. P. Eastman",
+    "role": "president of Spring Valley Water Company"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Lake Merced: Spring Valley Water",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2019,
+    "url": "https://www.outsidelands.org/lakemerced3.php",
+    "supports": "Monopoly, water volumes, failed bonds, land sales, 1928 vote, check amount, employees, March 9 lakeside dedication"
+   },
+   {
+    "title": "A Short History of Lake Merced",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2004,
+    "url": "https://www.outsidelands.org/lake-merced.php",
+    "supports": "City lawsuits against Spring Valley over rates and firefighting water"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-stoneson-mansion",
+  "title": "The builder's own mansion on Stonecrest",
+  "theme": "architecture-landmarks",
+  "year": 1941,
+  "place": {
+   "label": "100 Stonecrest Drive, Lakeside",
+   "lat": 37.7287,
+   "lon": -122.47427,
+   "precision": "building"
+  },
+  "hook": "The Stoneson brothers built homes by the thousands, but for himself Henry built twelve rooms, a mirrored octagonal dressing room and a basement bar.",
+  "story": "Brothers Ellis and Henry Stoneson built close to 25,000 homes in the Bay Area, and in the late 1930s they began Lakeside, a strip of immaculate homes served by a small commercial section, Lakeside Village [1]. There each brother built a mansion: Ellis at 30 Stonecrest Drive, Henry just down the street at number 100 [1]. A Chronicle feature in September 1941 toured Henry's house: 12 rooms, an investment of some $60,000, on an exceptionally large corner lot wrapped in lawns, a fountain, a rock garden with a fish pool, and terraces with badminton courts [2]. Architect Harold G. Stoner called it a modern version of California colonial [2]. Tall colonial pillars framed the door, a winding staircase rose from a huge entrance hall, and two dining-room walls carried hand-painted paper with a continuous, non-repeating scene of birds and flowers [2]. The master bedroom looked over three gardens and Lake Merced, and its octagonal dressing room was lined with mirrors that opened onto a wardrobe of aromatic woods [2]. Downstairs a game room \"of nearly ballroom proportions\" had its own cocktail bar [2]. The brothers went on to build Stonestown, but Ellis died of a heart attack at 59, on the cusp of its 1952 opening, and Henry a few years later [1].",
+  "people": [
+   {
+    "name": "Henry Stoneson",
+    "role": "builder and owner of the house"
+   },
+   {
+    "name": "Ellis Stoneson",
+    "role": "his brother and partner"
+   },
+   {
+    "name": "Harold G. Stoner",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Stonesons",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/stonesons.php",
+    "supports": "Nearly 25,000 homes, Lakeside development, the brothers' two mansions, Stonestown, their deaths"
+   },
+   {
+    "title": "100 Stonecrest Drive (from San Francisco Chronicle, September 14, 1941)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/100_Stonecrest.php",
+    "supports": "Rooms, cost, gardens, architect, interior details"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-quake-1957",
+  "title": "The morning the road at Lake Merced collapsed",
+  "theme": "modern-city",
+  "year": 1957,
+  "place": {
+   "label": "Lake Merced Boulevard beside Parkmerced",
+   "lat": 37.719,
+   "lon": -122.4855,
+   "precision": "street"
+  },
+  "hook": "The worst quake since 1906 was centered over the county line. At Lake Merced a road gave way, Stonestown's stock hit the floor and a new library lost its windows.",
+  "story": "At 11:45 a.m. on Friday, March 22, 1957, the worst earthquake since 1906 hit San Francisco. It measured 5.3 and was centered in the Westlake district of Daly City, just south of the lake, after a string of smaller shocks that morning [1][2]. Around the lake, the damage showed. The road at Lake Merced collapsed, and the Parkmerced apartments suffered much broken glass and plaster [1]. As Chronicle writer Carl Nolte later recounted, merchandise littered the floor of the Emporium at Stonestown, and nearly all the windows shattered in San Francisco State College's brand-new library [2]. Across the city at least 50 injured people were treated at Central Emergency Hospital, but no one died, and the city's civil defense director put the number of damaged Bay Area homes at a minimum of 70,000 [1]. Years later, schoolmates from St. Cecilia's traded memories: a priest racing through Benediction, statues of Mary shattered in the classrooms. One of them, Pam B., remembered her mother collecting her from school and taking her straight to the Stonestown Emporium to buy Elvis's \"All Shook Up\" [2].",
+  "people": [
+   {
+    "name": "Carl Nolte",
+    "role": "Chronicle writer whose account is quoted"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Chronology of San Francisco earthquakes and quake news, 1957",
+    "publisher": "Museum of the City of San Francisco (sfmuseum.net)",
+    "year": null,
+    "url": "http://www.sfmuseum.net/alm/quakes3.html",
+    "supports": "Time, magnitude, epicenter, road collapse, Parkmerced damage, injuries, no deaths, 70,000 homes"
+   },
+   {
+    "title": "Remembering the 1957 Earthquake",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2009,
+    "url": "https://www.outsidelands.org/1957-quake.php",
+    "supports": "Nolte quote on Stonestown Emporium and SF State library, schoolchildren's memories, 'All Shook Up'"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-storyland",
+  "title": "Storyland, where only children fit the door",
+  "theme": "modern-city",
+  "year": 1959,
+  "yearEnd": 1996,
+  "place": {
+   "label": "Former Storyland, beside the Mother's Building near the old Sloat Boulevard zoo entrance",
+   "lat": 37.7334,
+   "lon": -122.503,
+   "precision": "area"
+  },
+  "hook": "Rapunzel let down her braids over a drawbridge door too low for grown-ups. Inside: a shoe to climb, Cinderella's mice to ride, and a wolf in grandma's bonnet.",
+  "story": "Storyland opened on July 25, 1959: three and a half acres of winding paths lined with scenes from Mother Goose and fairy tales, designed by Don Clever with architect Joe Francis Ward and landscaper Prentiss French [1]. It cost $200,000, half from the city and the rest from Municipal Judge Francis McCarty and the estate of Herbert F. Fleishhacker [1]. You entered through Rapunzel's Castle, with a statue of Rapunzel dangling two braids from her balcony. Only children could manage the low drawbridge door, and adults had to walk around the side [1][2]. Inside, kids climbed to the second floor of the old woman's shoe and slid down, straddled the very large mice pulling Cinderella's pumpkin coach, and peeked at the Big Bad Wolf in grandmother's bed [1]. The zoo was free, but Storyland was a separate Recreation and Park venture: a dime for kids, 15 cents for everyone else. Almost 8,000 people came on opening day and more than 200,000 in the first month. Ward admitted one flaw: restrooms would come \"just as soon as we get the money\" [1]. Fog, ocean wind and generations of climbing children wore it down. By the early 1990s the zoo had replaced it with a nature trail, and Rapunzel's Castle came down in 1996 [1].",
+  "people": [
+   {
+    "name": "Don Clever",
+    "role": "designer"
+   },
+   {
+    "name": "Joe Francis Ward",
+    "role": "architect"
+   },
+   {
+    "name": "Francis McCarty",
+    "role": "municipal judge and donor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Storyland in the San Francisco Zoo",
+    "publisher": "Western Neighborhoods Project (outsidelands.org) / Woody LaBounty",
+    "year": 2013,
+    "url": "https://www.outsidelands.org/storyland.php",
+    "supports": "Opening date, designers, cost and donors, exhibits, admission, attendance, restrooms quote, demolition"
+   },
+   {
+    "title": "Outside Lands Podcast #14: San Francisco Zoo (transcript)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2013,
+    "url": "https://www.outsidelands.org/podcast/WNP14_SF_Zoo",
+    "supports": "Separate adult and child-sized entrance doors"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-funston-missiles",
+  "title": "Missiles, then a housing plan, then hang gliders",
+  "theme": "war-military",
+  "year": 1960,
+  "yearEnd": 1975,
+  "place": {
+   "label": "Fort Funston parking lot, former Nike missile site SF-59L, Skyline Boulevard",
+   "lat": 37.7141,
+   "lon": -122.5022,
+   "precision": "area"
+  },
+  "hook": "The parking lot where dog walkers unload was a Nike missile site. When the Army left, City Hall drew up plans for houses on the bluffs.",
+  "story": "After its big coast guns went quiet, Fort Funston took on a Cold War job. The post housed parts of the Nike missile system known as sites SF-59L and SF-61, and the SF-59L site is now the park's parking lot [1]. When the city acquired the property from the federal government in 1960, Mayor George Christopher asked the San Francisco Planning Department for a residential land use plan. Its map proposed houses, a school and shops for the windswept headland [2]. None were built. Part of the old post stayed with the Army and was lent to the California National Guard. In 1975 the city signed its portion over to the National Park Service on condition that it be kept as \"open space necessary to urban environment and planning,\" and it became part of the Golden Gate National Recreation Area [1]. What the planners would have covered is now among the country's premier hang-gliding spots, above 200-foot bluffs. The peninsula's largest remaining dune field is here too. So is a colony of bank swallows, a state-threatened species, which dig nests in the sandstone cliffs. Fort Funston and Año Nuevo are their only known coastal nesting sites [3].",
+  "people": [
+   {
+    "name": "George Christopher",
+    "role": "mayor who requested the housing plan"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Fort Funston",
+    "publisher": "FortWiki",
+    "year": null,
+    "url": "http://www.fortwiki.com/Fort_Funston",
+    "supports": "Nike sites SF-59L and SF-61, parking lot, National Guard, 1975 transfer and open-space condition"
+   },
+   {
+    "title": "Streetwise: Never-Built West Side Landmarks",
+    "publisher": "Western Neighborhoods Project (outsidelands.org) / Frank Dunnigan",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-never-built-west-side-landmarks.php",
+    "supports": "1960 acquisition and Mayor Christopher's residential plan with homes, school and shops"
+   },
+   {
+    "title": "Fort Funston",
+    "publisher": "National Park Service, Golden Gate National Recreation Area",
+    "year": 2023,
+    "url": "https://www.nps.gov/goga/planyourvisit/fortfunston.htm",
+    "supports": "Hang gliding, 200-foot bluffs, dune field, bank swallows"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-lowell-moves",
+  "title": "Lowell leaves its bricks for the lake",
+  "theme": "modern-city",
+  "year": 1962,
+  "place": {
+   "label": "Lowell High School, 1101 Eucalyptus Drive",
+   "lat": 37.73068,
+   "lon": -122.48392,
+   "precision": "building"
+  },
+  "hook": "For Lowell's Class of 1962, the big news of senior year was that their school was moving to Lake Merced. Fifty years later they borrowed the old one back.",
+  "story": "For almost fifty years, Lowell, the West's oldest public high school, filled a brick campus on the block bounded by Masonic, Hayes, Ashbury and Grove. It had opened there in 1913 as the school's third home [1]. Students had to be recommended for admission and came from all over the city by cable car, streetcar and trolley bus [1]. The Class of 1962 remembered that little happened that year except the biggest news of all: the school would close and move. \"All year long we knew that,\" one graduate said [1]. That fall a new Lowell opened out by Lake Merced [1], on roughly the spot where the Ocean House roadhouse had stood until it burned in the early 1880s [2]. Before they left, the seniors' football team went 8-1 and beat St. Ignatius on Thanksgiving before 22,500 fans at Kezar. A few enterprising seniors smuggled a 20-foot sheet up Coit Tower to spell out \"Lowell Champs\" [1]. Students had been told the old building was seismically unsafe and would be demolished, but it never was. In May 2012 the Class of '62 borrowed it back from City College for its 50th reunion, and one of them breathed in and said it \"still smells exactly the same. Polished linoleum\" [1].",
+  "people": [
+   {
+    "name": "Ed Russell",
+    "role": "Class of 1962 graduate quoted at the reunion"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Lowell Class of '62 reclaims building for reunion",
+    "publisher": "SFGATE / San Francisco Chronicle (Sam Whiting)",
+    "year": 2012,
+    "url": "https://www.sfgate.com/default/article/Lowell-Class-of-62-reclaims-building-for-reunion-3588955.php",
+    "supports": "Old campus, admissions, move news, fall 1962 opening, football season and Coit Tower banner, 2012 reunion quotes"
+   },
+   {
+    "title": "San Francisco's Lake Merced: Rancho Days",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2017,
+    "url": "https://www.outsidelands.org/lakemerced2.php",
+    "supports": "Ocean House stood about where Lowell High School is today; burned early 1880s"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-pizza-puppies",
+  "title": "Pizza Puppies and the Red Chimney",
+  "theme": "modern-city",
+  "year": 1960,
+  "yearEnd": 1987,
+  "place": {
+   "label": "Stonestown Galleria (original open-air Stonestown mall), 19th Avenue and Winston Drive",
+   "lat": 37.72847,
+   "lon": -122.47683,
+   "precision": "area"
+  },
+  "hook": "Before the skylight and the marble, Stonestown was an open-air mall where teenagers learned to hang out, stores shut on Sundays, and a hot dog came wrapped in pizza.",
+  "story": "Stonestown was dedicated on November 6, 1952 as San Francisco's first modern shopping center. Its stores were built with deep overhangs so shoppers could stay dry on foggy, drizzly days [1]. Frank Dunnigan's history of the mall remembers the food: the Walgreens lunch counter, Foster's Cafeteria, Blum's bakery and soda fountain, and in the supermarket Maison Gourmet, home of the \"Pizza Puppy,\" a slice of cheese pizza wrapped around a hot dog [1]. Every store closed on Sundays until the late 1960s [1]. Shops like Portals to Music drew hundreds of high school students after school and on Saturdays, making \"going to the mall\" a new way of life [1]. Near the Emporium, Rickey's Red Chimney offered a fireplace and a full bar [1]. One reader remembers it in the 1970s as a music hot spot, with Bubba Lou and the Highballs and Bobby Freeman, singer of \"The Swim\"; the band pulled people onstage to sing, and she once sang there herself [2]. By the 1980s the outdoor mall looked run down. It was rebuilt under a glass skylight and reopened as Stonestown Galleria in October 1987. Woolworth, Walgreens and the cozy Red Chimney did not come back [1].",
+  "people": [
+   {
+    "name": "Frank Dunnigan",
+    "role": "WNP columnist and chronicler of the mall"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Happy Birthday Stonestown",
+    "publisher": "Western Neighborhoods Project (outsidelands.org) / Frank Dunnigan",
+    "year": 2017,
+    "url": "https://www.outsidelands.org/streetwise-stonestown.php",
+    "supports": "Dedication date, overhangs, food vendors, Pizza Puppies, Sunday closing, teen culture, Red Chimney, 1987 Galleria rebuild"
+   },
+   {
+    "title": "Rickey's Red Chimney",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2009,
+    "url": "https://www.outsidelands.org/red-chimney.php",
+    "supports": "Reader memories of 1970s live music at the Red Chimney"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-pump-station",
+  "title": "An electrician, Rosa, and 4,600 volts",
+  "theme": "lgbtq",
+  "year": 1983,
+  "place": {
+   "label": "Lake Merced pump station area, east side of South Lake (approximate)",
+   "lat": 37.7137,
+   "lon": -122.4855,
+   "precision": "area"
+  },
+  "hook": "Her tester exploded on the switchgear and threw her to the floor. The engineer on duty sat with her and told her a secret, and she told him hers.",
+  "story": "In 1983 Molly Martin was a temporary electrician with the San Francisco Water Department, the one responsible for the electrical equipment at the city's pump stations [1]. One day she was sent to the Lake Merced pump station, where, she wrote, the big supply pipes from Hetch Hetchy come in and 100-horsepower motors run on 4,600 volts [1]. The union hadn't let women into its apprenticeship, and she had never been trained on high voltage. When she touched her tester, rated for only 1,000 volts, to the live switchgear, it blew up with an ear-splitting bang and threw her onto the concrete [1]. The engineer on duty stayed with her while she shook. Then he told her his story: he had grown up in Mexico City, had once lived as a woman for three years, and was saving to transition [1]. She came out to him as gay [1]. In a later piece, Martin recalled a coworker telling her that her friend had announced to the Lake Merced-based engineers that she now wanted to be called Rosa. The men \"looked at their hands and didn't say anything\" [2]. Martin thought Rosa, finally herself, radiated serenity [2]. Spring Valley Water had built its City Pumps on South Lake's east shore in 1891; they still work today [3].",
+  "people": [
+   {
+    "name": "Molly Martin",
+    "role": "Water Department electrician and writer"
+   },
+   {
+    "name": "Rosa",
+    "role": "stationary engineer who transitioned while working at the pump stations"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Transgender Story at SF Water",
+    "publisher": "FoundSF / Molly Martin",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Transgender_Story_at_SF_Water",
+    "supports": "1983 job, Lake Merced pump station, voltages, tester explosion, coworker's story, coming out"
+   },
+   {
+    "title": "Call Her by Her Name: A Work Story",
+    "publisher": "FoundSF / Molly Martin",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Call_Her_by_Her_Name:_A_Work_Story",
+    "supports": "Engineers based at Lake Merced pump station, the name Rosa, coworkers' reaction"
+   },
+   {
+    "title": "San Francisco's Lake Merced: Spring Valley Water",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2019,
+    "url": "https://www.outsidelands.org/lakemerced3.php",
+    "supports": "City Pumps built 1891 on the east side of South Lake, still in operation"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-olympic-club-suit",
+  "title": "The city sues an all-male club",
+  "theme": "civil-rights",
+  "year": 1987,
+  "yearEnd": 1990,
+  "place": {
+   "label": "Olympic Club Lakeside clubhouse, 599 Skyline Boulevard",
+   "lat": 37.70939,
+   "lon": -122.49467,
+   "precision": "building"
+  },
+  "hook": "Part of the Olympic Club's famous golf course sat on city land. San Francisco used that lease to force the doors open to women.",
+  "story": "The Olympic Club's golf courses by Lake Merced include 17 acres leased from the City of San Francisco [1]. In 1987 the city sued the all-male club, demanding that it admit women and minorities or give up its lease of that city-owned land at its Lakeside course [1]. In November 1987 the city also adopted an ordinance barring discrimination against women and minorities by clubs with more than 400 members that served regular meals and accepted dues from members and expenses from nonmembers. In 1988 City Attorney Louise Renne ordered her staff to prepare a sex discrimination suit against the 128-year-old club under it, the ordinance's first legal test. She also asked the state Department of Alcoholic Beverage Control whether the club's liquor license could be revoked [1]. Club officials argued that minor changes to their dues policies exempted them [1]. In December 1990 the club, with 6,000 members, tentatively settled. It agreed to admit women within 60 days, adopt a policy of non-discrimination against women and minorities, and keep an existing court injunction against discrimination in place [2]. In exchange the city dropped the suit and gave the club an option to buy the 17 acres, part of which holds three holes of its championship course [2].",
+  "people": [
+   {
+    "name": "Louise Renne",
+    "role": "San Francisco City Attorney"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The State: S.F. Olympic Club Faces Suit",
+    "publisher": "Los Angeles Times",
+    "year": 1988,
+    "url": "https://www.latimes.com/archives/la-xpm-1988-09-04-mn-2328-story.html",
+    "supports": "1987 lease suit, 17 acres, 1987 ordinance terms, 1988 suit and liquor-license request, club's argument"
+   },
+   {
+    "title": "State: Olympic Club to Open Its Doors",
+    "publisher": "Los Angeles Times (wire services)",
+    "year": 1990,
+    "url": "https://www.latimes.com/archives/la-xpm-1990-12-11-mn-6498-story.html",
+    "supports": "December 1990 settlement terms, 6,000 members, option to buy 17 acres with three holes"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-doggie-diner-head",
+  "title": "The dachshund that nose-dived onto Sloat",
+  "theme": "architecture-landmarks",
+  "year": 2001,
+  "yearEnd": 2006,
+  "place": {
+   "label": "Doggie Diner head, Sloat Boulevard median at 45th Avenue",
+   "lat": 37.735461,
+   "lon": -122.502969,
+   "precision": "building"
+  },
+  "hook": "San Francisco's last Doggie Diner head survived a feud with the garden center next door, then a windstorm broke its nose. Four hundred fans howled at its comeback.",
+  "story": "Doggie Diner began when Al Ross sold hot dogs from a stand outside Oakland's Castlemont High School in 1948 [1]. The chain's last restaurant closed in 1986 [1]. Its grinning dachshund heads, in chef's hats and bow ties, came down, but one stayed on Sloat Boulevard, where a plaque now says it \"stood outside the last operating Doggie Diner restaurant\" [2]. In 2000 the owners of the neighboring Sloat Garden Center announced plans to move it. After an uproar they deeded the dog to the city [3]. Then in early April 2001, gusty winds sent it nose-diving onto Sloat Boulevard [3]. The Department of Public Works molded a new snout from a head lent by John Law, who owns three, and repainted it candy-apple red; the city Art Commission consulted its original artist, Harold Bachman, to match the colors. DPW also gave the dog a new galvanized steel pole [3]. The city paid about half of the $25,000 cost, and donations covered the rest [3]. At the June 2001 unveiling, about 400 fans chanted \"Let the dog out!\" and Mayor Willie Brown joked, \"No, that's my head!\" [3]. In 2006 it became City Landmark No. 254 [1][2].",
+  "people": [
+   {
+    "name": "Al Ross",
+    "role": "Doggie Diner founder"
+   },
+   {
+    "name": "Harold Bachman",
+    "role": "designer of the dog head"
+   },
+   {
+    "name": "John Law",
+    "role": "collector who lent a head for the repair"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #254: Doggie Diner Sign",
+    "publisher": "NoeHill (adapted from the 2006 Landmark Designation Report)",
+    "year": 2006,
+    "url": "https://noehill.com/sf/landmarks/sf254.asp",
+    "supports": "Founding, 1986 closing, landmark number"
+   },
+   {
+    "title": "The deranged dachshund: SF's disembodied Doggie Diner landmark",
+    "publisher": "SFGATE (Amanda Bartlett)",
+    "year": 2022,
+    "url": "https://www.sfgate.com/obscuresf/article/Disembodied-Doggie-Diner-landmark-16797892.php",
+    "supports": "Plaque text, 2006 designation"
+   },
+   {
+    "title": "Puppy love reigns as Doggie Diner head returns",
+    "publisher": "SFGATE / San Francisco Chronicle (Suzanne Herel)",
+    "year": 2001,
+    "url": "http://www.sfgate.com/news/article/Puppy-love-reigns-as-Doggie-Diner-head-returns-2904742.php",
+    "supports": "Garden center dispute, April 2001 fall, repair details, cost, unveiling crowd and Willie Brown quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-tiger-escape",
+  "title": "Christmas night, a tiger clears the moat",
+  "theme": "modern-city",
+  "year": 2007,
+  "place": {
+   "label": "Tiger grotto by the Lion House, San Francisco Zoo",
+   "lat": 37.7318,
+   "lon": -122.5018,
+   "precision": "area"
+  },
+  "hook": "Minutes after closing on Christmas Day, a Siberian tiger got out of her grotto. Afterward the zoo measured its moat wall and found it far shorter than its records said.",
+  "story": "Tatiana, a Siberian tiger, had mauled a zookeeper during a public feeding in December 2006. The state ruled the zoo responsible because of the unsafe configuration of the cages [1]. On Christmas Day 2007, shortly after the zoo's 5 p.m. closing, she escaped [1]. She killed 17-year-old Carlos Sousa Jr. and seriously injured two of his friends, brothers Paul and Kulbir Dhaliwal, all from San Jose [2]. The attack was reported at 5:17 p.m., and the tiger was shot dead by police while attacking a visitor near a cafe on the zoo's east end [1]. Shotgun-carrying officers gathered at the south gate while firefighters shone flashlights through the eucalyptus from tall ladders [1]. How had she got out? Earlier that week zoo officials had said the moat wall was at least 20 feet high. When they measured it themselves, it was 12 1/2 feet, about four feet below the national standard recommended by big-cat experts, although the 33-foot-wide moat met standards [2]. \"How she jumped that high is beyond me,\" said director Manuel Mollinedo [2]. With no video cameras watching the animals, investigators had to piece the night together without them [2].",
+  "people": [
+   {
+    "name": "Carlos Sousa Jr.",
+    "role": "17-year-old killed in the attack"
+   },
+   {
+    "name": "Manuel Mollinedo",
+    "role": "zoo director"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Tiger kills San Francisco Zoo patron, injures two",
+    "publisher": "SFGATE / San Francisco Chronicle (Steve Rubenstein)",
+    "year": 2007,
+    "url": "http://www.sfgate.com/news/article/Tiger-kills-San-Francisco-Zoo-patron-injures-two-3233746.php",
+    "supports": "2006 keeper mauling and state ruling, timing, shooting, cafe location, police and firefighter response"
+   },
+   {
+    "title": "Tiger grotto wall shorter than thought, may have contributed to escape and fatal attack",
+    "publisher": "SFGATE / San Francisco Chronicle",
+    "year": 2007,
+    "url": "http://sfgate.com/news/article/Tiger-grotto-wall-shorter-than-thought-may-have-3232519.php",
+    "supports": "Victims' names and ages, wall height measurements, moat width, Mollinedo quote, lack of cameras"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-bush-sewage-plant",
+  "title": "The George W. Bush Sewage Plant?",
+  "theme": "modern-city",
+  "year": 2008,
+  "place": {
+   "label": "Oceanside Water Pollution Control Plant, 3500 Great Highway",
+   "lat": 37.72709,
+   "lon": -122.50488,
+   "precision": "building"
+  },
+  "hook": "Beside the zoo sits a sewage plant most people never notice. In 2008 a group of pranksters put a president's name for it on the city ballot.",
+  "story": "Most people pass the Oceanside Water Pollution Control Plant without noticing it. Owned by the Public Utilities Commission and tucked beside the San Francisco Zoo, it treats sewage and storm water from the city's west side and sends the treated water out into the Pacific [4]. In 2008 a handful of friends who had dreamed up the idea over beers, calling themselves the Presidential Memorial Commission of San Francisco, set out to rename it the George W. Bush Sewage Plant. They also wanted supporters to join a \"synchronized flush\" at the next inauguration [1]. Toting flags and blaring patriotic music, one of them sometimes dressed as Uncle Sam, they said by June they had 8,500 signatures; at least 7,168 valid ones were needed to reach the ballot [1]. A reporter asked about it at a White House briefing, and press secretary Dana Perino replied, \"I just don't think it dignifies a response\" [2]. The idea did make the November ballot as Proposition R, which would have changed the name when the next president was inaugurated [4]. On November 4, 2008, it lost, 233,733 votes to 101,376 [3].",
+  "people": [
+   {
+    "name": "Dana Perino",
+    "role": "White House press secretary"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Satire at the ballot box to 'honor' Bush",
+    "publisher": "SFGATE / San Francisco Chronicle (Marisa Lagos)",
+    "year": 2008,
+    "url": "http://www.sfgate.com/news/article/Satire-at-the-ballot-box-to-honor-Bush-3279384.php",
+    "supports": "The group, its origin, synchronized flush, signature counts, flags, music and Uncle Sam"
+   },
+   {
+    "title": "Press Briefing by Dana Perino, June 25, 2008",
+    "publisher": "The White House (archived)",
+    "year": 2008,
+    "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2008/06/20080625-3.html",
+    "supports": "Perino's response"
+   },
+   {
+    "title": "Statement of Vote, November 4, 2008 (Measure R)",
+    "publisher": "San Francisco Department of Elections",
+    "year": 2008,
+    "url": "https://sfelections.org/results/20081104/SOV_081104.pdf",
+    "supports": "Measure R result: 101,376 yes, 233,733 no"
+   },
+   {
+    "title": "Voter Information Pamphlet, Consolidated General Election, November 4, 2008 (Proposition R)",
+    "publisher": "San Francisco Department of Elections (via San Francisco Public Library)",
+    "year": 2008,
+    "url": "https://sfpl4.sfpl.org/pdf/main/gic/elections/November4_2008.pdf",
+    "supports": "Plant ownership, location near the zoo and function; Proposition R would rename it the George W Bush Sewage Plant at the next inauguration"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "lakeshore-2p-sutro-library",
+  "title": "Sutro's fire-surviving books find a home",
+  "theme": "architecture-landmarks",
+  "year": 2012,
+  "place": {
+   "label": "J. Paul Leonard and Sutro Library, San Francisco State University",
+   "lat": 37.7214,
+   "lon": -122.4789,
+   "precision": "building"
+  },
+  "hook": "Adolph Sutro's books survived 1906 because he kept them in the one downtown building that didn't burn. A century later they moved into a rebuilt library at SF State.",
+  "story": "Wealthy philanthropist Adolph Sutro kept an office in the Montgomery Block downtown and used it to store thousands of volumes of his book collection [1]. The fireproof block survived the 1906 earthquake and fire, so those volumes were saved, and they make up a large part of the Sutro Library [1]. Its current home came when San Francisco State rebuilt its J. Paul Leonard Library, which had gone up in three phases between 1953 and 1971 [2]. The 362,500-square-foot project, reported as a $103.8 million facelift (the same article lists a $126 million construction budget), was planned from 2002 and begun in 2008. Builders cut out old structure and added concrete shear walls and new columns, while library services stayed available to students, and the ribbon was cut in 2012 on what is now called the J. Paul Leonard and Sutro Library [2]. It won the 2012 Project of the Year award from the Design-Build Institute of America's Western Pacific Region [2]. In August 2012 the Western Neighborhoods Project filmed the Sutro Library reopening in its \"fancy new digs\" [3].",
+  "people": [
+   {
+    "name": "Adolph Sutro",
+    "role": "collector whose library it is"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Iconic SF building was home to Bohemians",
+    "publisher": "San Francisco Chronicle (Chronicle Vault)",
+    "year": null,
+    "url": "https://www.sfchronicle.com/chronicle_vault/article/Iconic-SF-building-was-home-to-Bohemians-for-13340080.php",
+    "supports": "Sutro's Montgomery Block office, books saved in 1906, now part of Sutro Library at SF State"
+   },
+   {
+    "title": "Renovated Library Mixes the Modern with the Past",
+    "publisher": "School Construction News",
+    "year": 2012,
+    "url": "http://schoolconstructionnews.com/2012/09/12/renovated-library-mixes-the-modern-the-past/",
+    "supports": "Building phases, cost, size, timeline, seismic work, award, name"
+   },
+   {
+    "title": "SF West History Minute: Sutro Library",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2012,
+    "url": "https://www.outsidelands.org/historyminute/1344449691/SutroLibrary",
+    "supports": "August 2012 reopening in new building"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ }
+]

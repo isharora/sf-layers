@@ -1,0 +1,623 @@
+[
+ {
+  "id": "japantown-2p-hamilton-shacks-clubhouse",
+  "title": "From refugee shacks to a clubhouse",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1954,
+  "place": {
+   "label": "Hamilton Square (Hamilton Recreation Center), Geary Blvd between Steiner and Scott",
+   "lat": 37.7841,
+   "lon": -122.4368,
+   "precision": "area"
+  },
+  "hook": "The city's first earthquake shacks went up on Hamilton Square. For decades afterwards, two leftover shacks served as a gathering place for Black residents of the Western Addition.",
+  "story": "After the 1906 earthquake the relief authorities turned city squares into refugee camps, and Hamilton Square, bounded by Geary, Post, Steiner and Scott, became Camp 20 [1]. On 16 September 1906, almost five months after the quake and only six days after building began, the first twenty earthquake shacks in the city were ready there for families to move in [1]. Refugees leased them for two dollars a month. Anyone who paid in full through 1 August 1907 owned the shack and had to haul it away [1]. Most were hauled away by the late 1930s, but two stayed. In a 2014 oral history for the Planning Department, Lance Burton, who came to the Fillmore from Little Rock as a six-year-old in 1957, recalled the square as \"just dirt and gravel\" with two leftover refugee buildings for a clubhouse [2]. He called it the one place where Black residents of the Western Addition could hold a gathering. The shacks served as their recreation center until 1954, when the city replaced them with the Hamilton building, with its swimming pool and gym [2]. For Burton's generation the new center was \"our spot\": baseball, football, basketball, swimming, and talent shows where street-corner harmony groups tried out their songs [2].",
+  "people": [
+   {
+    "name": "Lance Burton",
+    "role": "Fillmore resident (arrived 1957) who recalled the square in a 2014 oral history"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Earthquake Shacks Theme Document",
+    "publisher": "San Francisco Planning",
+    "year": 2021,
+    "url": "https://sfplanning.org/sites/default/files/documents/preserv/HCS_Earthquake_Shacks_Theme_Document.pdf",
+    "supports": "Hamilton Square as Camp 20; first twenty shacks ready 16 Sept 1906, six days after construction began; $2 monthly payments and ownership/removal terms"
+   },
+   {
+    "title": "African American Citywide Historic Context Statement (Final Draft)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2016,
+    "url": "https://web.archive.org/web/20240303120522/https://default.sfplanning.org/Preservation/african_american_HCS/AfricanAmericanHistoricContextStatement_Draft_Jan2016.pdf",
+    "supports": "Lance Burton oral history (Appendix A): two leftover refugee shacks as the Black community's recreation center until the 1954 Hamilton facility; sports and talent shows"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-shumate-first-pharmacy",
+  "title": "Dr. Shumate's first corner drugstore",
+  "theme": "gold-rush-victorian",
+  "year": 1900,
+  "yearEnd": 1933,
+  "place": {
+   "label": "Site of the first Shumate's Pharmacy, corner of Divisadero and Sutter streets",
+   "lat": 37.78532,
+   "lon": -122.4402,
+   "precision": "block"
+  },
+  "hook": "A night-school pharmacist opened one drugstore at Divisadero and Sutter. The earthquake spared it, and by 1933 San Francisco had around thirty Shumate's on its corners.",
+  "story": "Thomas Shumate was born in St. Louis in 1871 and came to California for his health. He clerked in a drugstore, earned a pharmacist's licence at night school, then bought a pharmacy so he could pay his way through medical school, minding the counter at night after classes [2]. In 1900 the state licensed his business, and his first pharmacy opened at the corner of Divisadero and Sutter, three blocks from the corner house at Pine and Scott that later became the family home [1][2]. The 1906 earthquake and fire made him. \"His store was not touched,\" his son Dr. Albert Shumate said in a 1978 oral history, while established drugstores downtown burned and some never came back. Divisadero, like Fillmore, suddenly became a centre of the city [1]. The chain spread from corner to corner. A 1933 city directory listed 30 Shumate's pharmacies, run from an office at 1640 Divisadero; another account puts the peak at 28 [1][2]. Shumate also served as a police commissioner from 1912 to 1937 and bred saddle horses in Sunnyvale [2]. Every store has since closed. A few doorways elsewhere in the city still spell out \"Shumate's\" in black-and-white tile [1].",
+  "people": [
+   {
+    "name": "Thomas Shumate",
+    "role": "physician and pharmacist who founded the chain"
+   },
+   {
+    "name": "Albert Shumate",
+    "role": "his son, physician and historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Reminders of a local pharmacy empire",
+    "publisher": "The New Fillmore (Joan Hockaday)",
+    "year": 2019,
+    "url": "https://newfillmore.com/2019/10/01/reminders-of-a-local-pharmacy-empire/",
+    "supports": "1900 licence; first pharmacy at Divisadero and Sutter; Albert Shumate's 1978 Bancroft oral history quote about the earthquake; 30 pharmacies in the 1933 directory; office at 1640 Divisadero; surviving tiles"
+   },
+   {
+    "title": "1901 Scott: a vara nice house",
+    "publisher": "The New Fillmore (Anne Bloomfield)",
+    "year": 1988,
+    "url": "https://newfillmore.com/1988/02/01/1901-scott-a-vara-nice-house/",
+    "supports": "Shumate's birth in St. Louis in 1871, night-school licence, medical degree, chain of 28 pharmacies, police commissioner 1912-1937, Troy Farm Stables"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-cherryland-california-theater-club",
+  "title": "Sukiyaki house to Hollywood floor show",
+  "theme": "communities",
+  "year": 1942,
+  "yearEnd": null,
+  "place": {
+   "label": "California Theater Club / Cherryland Sukiyaki site, 1650 Post Street",
+   "lat": 37.7859,
+   "lon": -122.42908,
+   "precision": "block"
+  },
+  "hook": "When the Japanese American owners of the Cherryland Sukiyaki Restaurant were sent to camps, a chorus line moved into their space.",
+  "story": "In 1942 Japantown's residents were removed to camps. Over the war years some 40,000 Black workers came to San Francisco for war jobs. Most of them settled in the Fillmore, in the neighbourhood the Japanese had just been forced to leave, while landlords in much of the rest of the city refused to rent to them [2]. One small corner of that change happened at 1650 Post Street. The Cherryland Sukiyaki Restaurant had been run there by Japanese Americans. After they were interned, Julius Delifus took over the space and opened the California Theater Club [1]. The planning department's history calls it an \"extraordinary nightclub\", with a cocktail lounge and a Hollywood-style floor show whose chorus line was the Ella Cummings Dancettes [1]. Delifus also ran the Havana Club at 1718 Fillmore [1]. The same thing happened to families all over the neighbourhood. Pianist Frank Jackson's family came from Texas in 1942 and rented a Fillmore house that had belonged to an interned Japanese family [3]. The California Theater Club building is gone [1].",
+  "people": [
+   {
+    "name": "Julius Delifus",
+    "role": "operator of the California Theater Club and Havana Club"
+   },
+   {
+    "name": "Ella Cummings Dancettes",
+    "role": "the club's chorus line"
+   }
+  ],
+  "sources": [
+   {
+    "title": "African American Citywide Historic Context Statement (Final Draft)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2016,
+    "url": "https://web.archive.org/web/20240303120522/https://default.sfplanning.org/Preservation/african_american_HCS/AfricanAmericanHistoricContextStatement_Draft_Jan2016.pdf",
+    "supports": "California Theater Club at 1650 Post (not extant) in the former Cherryland Sukiyaki space after its Japanese American owners were interned in 1942; Julius Delifus; Ella Cummings Dancettes; Havana Club at 1718 Fillmore"
+   },
+   {
+    "title": "WWII In-migration & Rising Bigotry",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=WWII_In-migration_%26_Rising_Bigotry",
+    "supports": "Black wartime migrants landed mostly in the Fillmore, from which Japanese Americans had been removed; housing discrimination elsewhere"
+   },
+   {
+    "title": "Icon of the 'Mo",
+    "publisher": "The New Fillmore",
+    "year": 2018,
+    "url": "https://newfillmore.com/2018/03/02/icon-of-the-mo/",
+    "supports": "Frank Jackson's family moved from Texas in 1942 and rented a house previously occupied by an interned Japanese family"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-westside-courts",
+  "title": "The one project that let Black families in",
+  "theme": "communities",
+  "year": 1943,
+  "yearEnd": 1952,
+  "place": {
+   "label": "Westside Courts public housing, 2501 Sutter Street at Broderick",
+   "lat": 37.78488,
+   "lon": -122.44171,
+   "precision": "building"
+  },
+  "hook": "San Francisco built five housing projects during the war. Only one took Black tenants, and it rose on a Sutter Street block of worn-out Victorians.",
+  "story": "Between 1940 and 1943 the San Francisco Housing Authority opened Holly Courts, Potrero Terrace, Sunnydale, Valencia Gardens and, in 1943, Westside Courts: 136 units in six buildings on a Western Addition block of decaying Victorian houses [1][2]. The authority's policy was to \"preserve the same racial composition which exists in the neighborhood\". Westside Courts was the only one of the five built where Black residents were already the majority, so it was the only one that accepted African American tenants. The other 1,600-odd units housed no Black families [1][2]. Getting it built was a fight. A multiracial Western Addition Housing Council, formed in 1940, wanted housing for Japanese American, Black and white residents. Japanese American support faded when applicants learned that the authority's head-of-household rules shut many of them out, and white neighbours opposed housing Black tenants there at all [2]. Robert Flippin, who wrote the Chronicle column \"In the Districts\", was appointed to manage the project [1]. The NAACP's Banks v. Housing Authority case, led by attorney Terry Francois, finally ended the \"neighborhood pattern\" policy in 1952 [1][3]. A FoundSF history of the NAACP names a few other projects as open to Black tenants before the ruling, so accounts differ slightly [3].",
+  "people": [
+   {
+    "name": "Robert Flippin",
+    "role": "Chronicle columnist appointed to manage Westside Courts"
+   },
+   {
+    "name": "Terry Francois",
+    "role": "NAACP attorney in Banks v. Housing Authority"
+   }
+  ],
+  "sources": [
+   {
+    "title": "African American Citywide Historic Context Statement (Final Draft)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2016,
+    "url": "https://web.archive.org/web/20240303120522/https://default.sfplanning.org/Preservation/african_american_HCS/AfricanAmericanHistoricContextStatement_Draft_Jan2016.pdf",
+    "supports": "136-unit, six-building project replacing blighted Victorians; only SFHA project accepting African Americans; policy quote; Flippin's appointment; Banks case and Francois"
+   },
+   {
+    "title": "San Francisco Housing Authority 1937-1965: The Early Decades",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=San_Francisco_Housing_Authority_1937-1965:_The_Early_Decades",
+    "supports": "Opening dates and unit counts; Westside Courts housed African Americans while 1,600 other units had no Black tenants; Western Addition Housing Council and the tenant-selection debate (citing Charlotte Brooks)"
+   },
+   {
+    "title": "NAACP San Francisco Branch",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=NAACP_San_Francisco_Branch",
+    "supports": "Banks vs. Housing Authority forbade neighbourhood-pattern restrictions; Westside Courts among the few projects open to Black tenants before the ruling"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-maya-angelou-conductor",
+  "title": "Sixteen, stubborn and a streetcar conductor",
+  "theme": "labor-industry",
+  "year": 1943,
+  "yearEnd": null,
+  "place": {
+   "label": "Maya Angelou's wartime home, 1661 Post Street (building gone)",
+   "lat": 37.78565,
+   "lon": -122.42915,
+   "precision": "block"
+  },
+  "hook": "A teenager from Post Street sat in a streetcar company's waiting room every day for two weeks until it gave in and hired her.",
+  "story": "In the war years a teenage Maya Angelou lived at 1661 Post Street, in the old Japantown blocks. The building is gone [1]. She had missed a semester of high school after a long visit to her father, and her mother told her to get a job. She wanted to be a streetcar conductor, because the conductors \"wore snappy uniforms\" and looked \"so smart, so chic\" [1]. \"I had seen women on the street cars,\" she told the New Fillmore. \"I just had not noticed they were all white\" [3]. The Market Street Railway's secretaries would not even give her an application. Her mother said, \"You want it, then go get it\" [3]. So she came back every day with a big Russian novel and sat in the waiting room for two weeks, until a man called her in [1][3]. She claimed experience as a \"chauffeurette\" for her grandmother in Stamps, Arkansas, and he hired her [3]. Market Street Railway dates it to 1943 and says she was the first Black woman conductor in the city, probably on the 7-Haight line out to Playland [2]. Years later she wrote I Know Why the Caged Bird Sings [1].",
+  "people": [
+   {
+    "name": "Maya Angelou",
+    "role": "writer; San Francisco's first Black woman streetcar conductor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "African American Citywide Historic Context Statement (Final Draft)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2016,
+    "url": "https://web.archive.org/web/20240303120522/https://default.sfplanning.org/Preservation/african_american_HCS/AfricanAmericanHistoricContextStatement_Draft_Jan2016.pdf",
+    "supports": "Angelou lived at 1661 Post Street (not extant) when she began; two weeks in the waiting room; 'snappy uniforms' quote; later career"
+   },
+   {
+    "title": "Black barrier-breakers in San Francisco transit / Maya Angelou, SF Streetcar Conductor",
+    "publisher": "Market Street Railway (Rick Laubscher), archived",
+    "year": 2021,
+    "url": "https://web.archive.org/web/20210610202008/https://www.streetcar.org/tag/maya-angelou/",
+    "supports": "1943 at 16; first Black female streetcar conductor in SF; claimed to be 18; likely the 7-Haight line"
+   },
+   {
+    "title": "Finding fate - and faith - near Fillmore",
+    "publisher": "The New Fillmore",
+    "year": 2013,
+    "url": "https://newfillmore.com/2013/07/18/finding-fate-and-faith-near-fillmore/",
+    "supports": "Angelou's quotes about not noticing the conductors were white, her mother's words, the Russian novel, the 'chauffeurette' claim"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-christ-united-presbyterian",
+  "title": "A church that sheltered the returning",
+  "theme": "communities",
+  "year": 1945,
+  "yearEnd": 1975,
+  "place": {
+   "label": "Japanese Federation Church of Christ site, 1500 block of Post Street (the church moved to 1700 Sutter in 1975)",
+   "lat": 37.78609,
+   "lon": -122.42668,
+   "precision": "block"
+  },
+  "hook": "America's oldest Japanese Christian congregation came home from Topaz and turned its church into a hostel for families with nowhere to live.",
+  "story": "The First Japanese Presbyterian Church of San Francisco was organised on 16 May 1885 and calls itself the oldest Japanese Christian church in America [1]. In 1916 the congregation, then called the Japanese Federation Church of Christ, moved to 1500 Post Street [2]. In the late 1930s its American-born Nisei members came of age. English services began, and the first Nisei joined the church's governing session [1]. In 1942 the whole congregation was sent away, most of them to Topaz, Utah [1][2]. When members came back in 1945, many had lost their homes. The Post Street church became a temporary hostel for homeless returnees [1][2]. In 1965 the church sent its pastor to the Selma march [1]. Redevelopment then forced it off Post Street. It began moving in 1972 and finished its present building at 1700 Sutter in August 1975 [1]. It was renamed Christ United Presbyterian in 1966 [2]. It still holds bilingual Sunday services and houses the Nihonmachi Little Friends after-school programme [2].",
+  "people": [
+   {
+    "name": "Ernest Adolphus Sturge",
+    "role": "Superintendent of Japanese Missions from 1886"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Our History",
+    "publisher": "Christ United Presbyterian Church",
+    "year": null,
+    "url": "https://cupc.org/our-history/",
+    "supports": "Founded 16 May 1885; oldest Japanese Christian church in America; Sturge; Nisei and English services 1936-41; Topaz; 1945 hostel; Selma 1965; move from 1972 and new building August 1975"
+   },
+   {
+    "title": "Christ United Presbyterian Church",
+    "publisher": "California Japantowns",
+    "year": null,
+    "url": "http://www.californiajapantowns.org/sf/cupc.html",
+    "supports": "1916 move to 1500 Post as Japanese Federation Church of Christ; Topaz; 1945 hostel; 1966 name change; forced move by Redevelopment to 1700 Sutter in 1975; bilingual services and Nihonmachi Little Friends"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-macedonia-baptist",
+  "title": "Knights' hall becomes a Fillmore church",
+  "theme": "communities",
+  "year": 1950,
+  "yearEnd": 1978,
+  "place": {
+   "label": "Macedonia Missionary Baptist Church (former Knights Templar hall), 2135 Sutter Street",
+   "lat": 37.78567,
+   "lon": -122.43556,
+   "precision": "building"
+  },
+  "hook": "A Black congregation bought a Masonic hall full of winged knights. Martin Luther King preached there, and after Jonestown its pastor buried Peoples Temple members.",
+  "story": "The Knights Templar's Golden Gate Commandery was still being built on Sutter between Steiner and Pierce when the 1906 earthquake struck. It finally opened in October 1907, trimmed with terra-cotta shields, winged knights and sculpted heads [1][2]. By mid-century fraternal orders were losing members. In 1950 the commandery moved to Van Ness and sold the building to Macedonia Baptist Church, a mostly African American congregation from the Western Addition and the Fillmore [1]. Under Rev. P. S. Ogborne it grew to 2,000 members by his death in 1957. His successor, Rev. G. L. Bedford, came from a Los Angeles church, paid off the mortgage and renamed it Macedonia Missionary Baptist Church [1]. Dr. Martin Luther King Jr. preached two services there on Sunday, 26 February 1967 [1][3]. Then the congregation began to shrink. Redevelopment scattered families, and some members left for Jim Jones's Peoples Temple [1]. After the deaths in Guyana in November 1978, Rev. Bedford buried a number of Peoples Temple members [1]. The building became City Landmark No. 202 in January 1993 [1][2].",
+  "people": [
+   {
+    "name": "Rev. P. S. Ogborne",
+    "role": "pastor who grew the congregation to 2,000"
+   },
+   {
+    "name": "Rev. G. L. Bedford",
+    "role": "pastor from 1957"
+   },
+   {
+    "name": "Martin Luther King Jr.",
+    "role": "guest preacher, 1967"
+   }
+  ],
+  "sources": [
+   {
+    "title": "First a Masonic meeting hall, now a church",
+    "publisher": "The New Fillmore (Bridget Maley)",
+    "year": 2016,
+    "url": "https://newfillmore.com/2016/09/15/first-a-masonic-meeting-hall-now-a-church/",
+    "supports": "1907 completion, ornament, 1950 sale, Ogborne and 2,000 members by 1957, Bedford, King's two services on 26 Feb 1967, losses to redevelopment and Peoples Temple, Bedford burying Temple members, Landmark 202 in 1993"
+   },
+   {
+    "title": "San Francisco Landmark #202: Macedonia Baptist Church",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2010,
+    "url": "https://noehill.com/sf/landmarks/sf202.asp",
+    "supports": "Knights Templar commandery at 2135 Sutter by O'Brien and Werner; later Baptist church; landmark designation"
+   },
+   {
+    "title": "African American Citywide Historic Context Statement (Final Draft)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2016,
+    "url": "https://web.archive.org/web/20240303120522/https://default.sfplanning.org/Preservation/african_american_HCS/AfricanAmericanHistoricContextStatement_Draft_Jan2016.pdf",
+    "supports": "Macedonia Missionary Baptist Church, Landmark No. 202; designation report lists Martin Luther King Jr. as a guest speaker"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-mosque-26-fillmore",
+  "title": "Mosque No. 26 on Fillmore Street",
+  "theme": "communities",
+  "year": 1965,
+  "yearEnd": 1973,
+  "place": {
+   "label": "Muhammad Mosque No. 26 site, 1745 Fillmore Street between Post and Sutter",
+   "lat": 37.78556,
+   "lon": -122.43365,
+   "precision": "block"
+  },
+  "hook": "After Malcolm X was killed, someone set the door of the Fillmore's Nation of Islam mosque on fire. Two years later Muhammad Ali came to visit.",
+  "story": "Minister Henry X Majied founded San Francisco's Muhammad Mosque No. 26 around 1960 [1]. The Nation of Islam preached Black self-determination and self-sufficiency and set up Black-owned bakeries, moving companies and other businesses [1]. In 1963 the mosque met at 1570 Ellis Street, but it soon moved to 1745 Fillmore, between Post and Sutter [1]. In 1965 Malcolm X, who had broken with the Nation, was assassinated. When the news came, the planning department's history records, the door of the Fillmore Street mosque was doused with kerosene and set on fire [1]. The mosque carried on. In July 1967 the heavyweight champion Muhammad Ali visited [1]. By 1973 Mosque No. 26 had moved round the corner into 1805 Geary, the former Fillmore Auditorium. The New Fillmore notes that in the 1970s the famous dance hall housed the Nation of Islam's temple [1][2]. Neither the Ellis Street nor the Fillmore Street building survives [1].",
+  "people": [
+   {
+    "name": "Henry X Majied",
+    "role": "founding minister of Mosque No. 26"
+   },
+   {
+    "name": "Muhammad Ali",
+    "role": "visitor, July 1967"
+   }
+  ],
+  "sources": [
+   {
+    "title": "African American Citywide Historic Context Statement (Final Draft)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2016,
+    "url": "https://web.archive.org/web/20240303120522/https://default.sfplanning.org/Preservation/african_american_HCS/AfricanAmericanHistoricContextStatement_Draft_Jan2016.pdf",
+    "supports": "Founding by Henry X Majied c.1960; 1570 Ellis then 1745 Fillmore; door doused with kerosene and set ablaze after Malcolm X's assassination; Ali's July 1967 visit; move to 1805 Geary by 1973; NOI businesses"
+   },
+   {
+    "title": "Three temples on Geary",
+    "publisher": "The New Fillmore",
+    "year": 2018,
+    "url": "https://newfillmore.com/2018/12/01/three-temples-on-geary/",
+    "supports": "The Fillmore Auditorium at 1805 Geary housed the Nation of Islam's Muhammad's Temple No. 26 in the 1970s"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-champagne-supper-club",
+  "title": "Midnight shows at the Champagne Supper Club",
+  "theme": "arts-counterculture",
+  "year": 1955,
+  "yearEnd": null,
+  "place": {
+   "label": "New Orleans Swing Club / Champagne Supper Club site, 1849 Post Street",
+   "lat": 37.78517,
+   "lon": -122.43225,
+   "precision": "block"
+  },
+  "hook": "Shows ran from midnight to five in the morning. A dancer called Lottie the Body met a Globetrotter here, and a pianist remembered Billie Holiday's first Fillmore gig.",
+  "story": "In the late 1940s and early 1950s the Fillmore was known as the \"Harlem of the West\". Black entrepreneurs ran barber shops, record stores, barbecue joints and a string of nightclubs [1]. One of these was Louis Landry's New Orleans Swing Club at 1849 Post Street, which later became the Champagne Supper Club [1]. Lottie Claiborne had studied dance as a teenager in New York and got the stage name \"Lottie the Body\" while modelling. She had shared bills with Carmen McRae and Redd Foxx [2]. In the early 1950s she moved to the Bay Area and became one of the most popular dancers in the Fillmore clubs. At the Champagne Supper Club she met Harlem Globetrotter Goose Tatum, and the two became a familiar sight in the neighbourhood [2]. \"The club was big and beautiful,\" she remembered. \"Mixed. The show started at midnight. The last show was at 5 in the morning\" [2]. Pianist Frank Jackson, who played the Fillmore for seven decades, said it was also where Billie Holiday first sang in the Fillmore, \"probably the mid-1950s\" [3]. The building is gone [1].",
+  "people": [
+   {
+    "name": "Louis Landry",
+    "role": "founder of the New Orleans Swing Club"
+   },
+   {
+    "name": "Lottie Claiborne ('Lottie the Body')",
+    "role": "dancer"
+   },
+   {
+    "name": "Goose Tatum",
+    "role": "Harlem Globetrotter"
+   },
+   {
+    "name": "Billie Holiday",
+    "role": "singer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "African American Citywide Historic Context Statement (Final Draft)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2016,
+    "url": "https://web.archive.org/web/20240303120522/https://default.sfplanning.org/Preservation/african_american_HCS/AfricanAmericanHistoricContextStatement_Draft_Jan2016.pdf",
+    "supports": "'Harlem of the West' era; Black-owned businesses; Louis Landry's New Orleans Swing Club (later the Champagne Supper Club) at 1849 Post Street, not extant"
+   },
+   {
+    "title": "Finding 'Lotte the Body'",
+    "publisher": "The New Fillmore",
+    "year": 2017,
+    "url": "https://newfillmore.com/2017/05/04/finding-lotte-the-body/",
+    "supports": "Lottie Claiborne's background, move to the Bay Area in the early 1950s, meeting Goose Tatum at the Champagne Supper Club, her quote about midnight and 5 a.m. shows"
+   },
+   {
+    "title": "Icon of the 'Mo",
+    "publisher": "The New Fillmore",
+    "year": 2018,
+    "url": "https://newfillmore.com/2018/03/02/icon-of-the-mo/",
+    "supports": "Frank Jackson: 'The first place Billie Holiday sang in the Fillmore was the Champagne Supper Club... probably the mid-1950s'"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-paper-tree-mihara",
+  "title": "The origami family of Buchanan Street",
+  "theme": "communities",
+  "year": 1968,
+  "yearEnd": null,
+  "place": {
+   "label": "Paper Tree, 1743 Buchanan Street (Buchanan Mall)",
+   "lat": 37.78627,
+   "lon": -122.43021,
+   "precision": "building"
+  },
+  "hook": "Taken to Heart Mountain at eleven, he came home to find his family's belongings looted. Later he opened a Japantown shop selling paper by the six-foot sheet.",
+  "story": "In spring 1942 Nobuo Mihara was eleven when soldiers took him, his nine-year-old brother Sam and his parents to join his grandparents at Heart Mountain in Wyoming [1]. His grandfather lost his sight for lack of proper treatment and died in the camp. When the family came home after the war, the belongings they had stored had been looted [1]. His father, Tokinobu Mihara, started again. The family's Japantown publishing and import business, Oriental Culture Books, put out one of the first origami books in English in the 1950s [1][2]. Nobuo and his wife Shizuko then opened Paper Tree to keep the craft going. The New Fillmore says they founded it in 1968, while the city's heritage survey, quoting the shop's own website, dates the retail store to 1978 [1][2]. It is one of a handful of family-run businesses left in Japantown [1]. Their daughters Linda Mihara and Vicky Mihara Avery became award-winning origami artists [2]. The shop sells sheets of paper up to six feet square. In 2017 the shop was displaying \"Ryujin 3.2\", a dragon folded by one of the world's leading paper folders [1].",
+  "people": [
+   {
+    "name": "Nobuo and Shizuko Mihara",
+    "role": "founders of Paper Tree"
+   },
+   {
+    "name": "Tokinobu Mihara",
+    "role": "publisher, Oriental Culture Books"
+   },
+   {
+    "name": "Linda Mihara",
+    "role": "origami artist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The ancient art of origami",
+    "publisher": "The New Fillmore (Fran Moreland Johns)",
+    "year": 2017,
+    "url": "https://newfillmore.com/2017/03/31/the-ancient-art-of-origami/",
+    "supports": "Founding by Nobuo and Shizuko Mihara in 1968; Heart Mountain internment at 11; grandfather's blindness and death; looted belongings; Oriental Culture Books; early English origami book; Ryujin 3.2; 6-foot paper"
+   },
+   {
+    "title": "Japantown Completed Social Heritage Inventory Forms",
+    "publisher": "San Francisco Planning Department / Page & Turnbull",
+    "year": 2013,
+    "url": "https://web.archive.org/web/2016/http://www.sf-planning.org/ftp/files/plans-and-programs/in-your-neighborhood/japantown/Japantown_Completed_Social_Heritage_Inventory_Forms_2-26-13.pdf",
+    "supports": "Paper Tree record: 1743 Buchanan Mall; established 1978 per company website; Mihara publishing in the 1950s; Linda Mihara and Vicky Mihara Avery as award-winning origami artisans"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-kabuki-baths",
+  "title": "Ring the gong: Japantown's communal baths",
+  "theme": "modern-city",
+  "year": 1972,
+  "yearEnd": 1998,
+  "place": {
+   "label": "Kabuki Springs & Spa, 1750 Geary Boulevard",
+   "lat": 37.78475,
+   "lon": -122.43181,
+   "precision": "building"
+  },
+  "hook": "It opened with a men's bathhouse, a sushi bar and a dinner theatre. Later its director had to keep a gong handy for chatty women.",
+  "story": "A Japanese company opened the Kabuki complex in Japantown in 1972. According to the New Fillmore it had a sushi bar, a dinner theatre and a men's bathhouse [1]. Kathy Nelsen, who later ran the spa, remembered it becoming \"kind of a funny little nightclub\" in the mid-1970s, where she saw performance artist Laurie Anderson and a couple of punk bands [1]. In 1978 AMC Cinemas bought the building and turned the dinner theatre into a multiplex [1]. Nelsen trained in massage and worked with the Esalen Institute. Just up the street at 1928 Fillmore she ran Miracle Baths in a former Baptist church, turning its baptismal pool into a yoga room, until her rent went from $1,000 to $6,000 [1]. In 1998 she took over the Kabuki spa. \"AMC is a Kansas City company — and they didn't know what they had here,\" she said [1]. She says it was never a \"full-on sex club\", but guests are still handed a policy banning sexual activity. Women bring a different problem. \"With women, we have the yakkers,\" she said. When groups of girlfriends get talking, \"we have to ring the gong\" [1]. The city lists the spa among Japantown's cultural resources [2].",
+  "people": [
+   {
+    "name": "Kathy Nelsen",
+    "role": "director of Kabuki Springs & Spa from 1998"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Zen and the art of the public bath",
+    "publisher": "The New Fillmore (Donna Domino)",
+    "year": 2009,
+    "url": "https://newfillmore.com/2009/06/03/zen-and-the-art-of-the-public-bath/",
+    "supports": "1972 opening by a Japanese company with sushi bar, dinner theatre, men's bathhouse; 1970s nightclub memories; AMC purchase 1978; Nelsen's career, Miracle Baths at 1928 Fillmore, rent rise, 1998 takeover; quotes on AMC, sex policy and the gong"
+   },
+   {
+    "title": "Japantown Cultural Heritage and Economic Sustainability Strategy (JCHESS)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20151106212333/http://www.sf-planning.org/ftp/files/plans-and-programs/in-your-neighborhood/japantown/JCHESS_FINAL_WEB2.pdf",
+    "supports": "Lists Kabuki Springs and Spa at 1750 Geary Blvd. among Japantown cultural heritage resources"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-japantown-bowl",
+  "title": "Last frame at Japantown Bowl",
+  "theme": "modern-city",
+  "year": 1976,
+  "yearEnd": 2000,
+  "place": {
+   "label": "Japantown Bowl site (now 1600 Webster condominiums), corner of Post and Webster streets",
+   "lat": 37.78559,
+   "lon": -122.43116,
+   "precision": "block"
+  },
+  "hook": "Forty lanes, 2,000 league bowlers, glow-in-the-dark midnight parties. Then its owner decided to sell, and the neighbourhood fought for its bowling alley.",
+  "story": "Japantown Bowl opened in 1976 at the corner of Post and Webster. It had two storeys and 40 lanes, and by 2000 it was the largest of San Francisco's three remaining bowling alleys [1][2]. It drew 2,000 league bowlers and about 150,000 visitors a year, and turned a $500,000 annual profit [2]. Kids under 18 were its biggest group of customers, with around 325 in youth leagues run by day manager Darrell Herbert [1]. There were \"Cyber Bowl\" midnight parties with fog machines, lasers and glow-in-the-dark balls [1]. \"This place is Japantown,\" Herbert said [1]. In summer 2000 the owner, Kintetsu Enterprises Co. of America, announced it would close the alley and sell. Elderly Nisei, residents and city officials protested [2]. The Japanese Cultural and Community Center offered $6.7 million to keep it open [2]. On the last day, 20 September 2000, regulars signed pins over a free buffet. Bob Tsugawa, who had bowled there twice a week since 1976, said: \"It's like home to a lot of us\" [1]. One bowler reminded the Chronicle that urban renewal had cleared other people's homes from the block [1]. Kintetsu rejected the offer and sold the property to a company that planned a retail complex [2]. The alley was razed in 2003, and condominiums now stand on the site [3].",
+  "people": [
+   {
+    "name": "Darrell Herbert",
+    "role": "day manager and youth-league leader"
+   },
+   {
+    "name": "Bob Tsugawa",
+    "role": "regular bowler since 1976"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Japantown Bowlers Mourn Alley's Demise",
+    "publisher": "San Francisco Chronicle / SFGATE (David R. Baker)",
+    "year": 2000,
+    "url": "https://www.sfgate.com/news/article/Japantown-Bowlers-Mourn-Alley-s-Demise-3238951.php",
+    "supports": "Opened 1976 at Post and Webster; final day; Tsugawa and Herbert quotes; 325 youth bowlers; Cyber Bowl parties; bowler's remark on razed houses; $6.7 million offer"
+   },
+   {
+    "title": "Save Japantown Bowl",
+    "publisher": "Japanese Cultural and Community Center of Northern California",
+    "year": null,
+    "url": "https://www.jcccnc.org/wp-content/uploads/2019/05/Save-Japantown-Bowl.pdf",
+    "supports": "Largest of three remaining SF alleys, two stories, 40 lanes, 2,000 league bowlers, 150,000 visitors, $500,000 profit; Kintetsu's closure plan, protests, rejected $6.7 million offer and sale for retail"
+   },
+   {
+    "title": "In Japantown, new condos meet old customs",
+    "publisher": "The New Fillmore (Donna Gillespie)",
+    "year": 2008,
+    "url": "https://newfillmore.com/2008/09/02/in-japantown-new-condos-meet-old-customs/",
+    "supports": "Japantown Bowl razed in 2003 to make room for the 1600 Webster condominiums at the corner of Post Street"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-street-fair-condo-fight",
+  "title": "Steam-clean the sidewalk, or else",
+  "theme": "modern-city",
+  "year": 2008,
+  "yearEnd": null,
+  "place": {
+   "label": "1600 Webster Street condominiums, beside the Nihonmachi Street Fair route at Post and Webster",
+   "lat": 37.78559,
+   "lon": -122.43116,
+   "precision": "building"
+  },
+  "hook": "New condo owners called Japantown's street fair schlocky and threatened to fight its permit. The community answered with 2,800 signatures and a reminder of 1942.",
+  "story": "The Nihonmachi Street Fair has filled Japantown's streets with taiko drums and teriyaki smoke every August since 1974 [2]. In 2008 it got a threat from its newest neighbours. David Zisser, president of the homeowners' association at the new 1600 Webster condominiums, emailed organisers complaining about \"schlocky souvenirs, mediocre food stands\" and filthy sidewalks [1]. He and the developer, John McInerney, demanded that the fair steam-clean the pavement outside their building. Otherwise, they said, they would protest its next city permit [1]. \"It is not a negotiation,\" McInerney wrote [1]. Co-chair Grace Horikiri replied that steam cleaning was beyond the budget, but volunteers would sweep and \"physically scrub\" the street [1]. Paul Osaki of the Japanese Cultural and Community Center started a petition. He wrote: \"First it was us, then our homes and businesses, our property. Next our festivals?\" [1]. It collected 2,800 signatures over the fair's two days [1]. The fair survived. In 2024 the city named it a Legacy Business, the first festival producer to get that status [2].",
+  "people": [
+   {
+    "name": "Paul Osaki",
+    "role": "executive director, JCCCNC"
+   },
+   {
+    "name": "Grace Horikiri",
+    "role": "2008 street fair co-chair"
+   }
+  ],
+  "sources": [
+   {
+    "title": "In Japantown, new condos meet old customs",
+    "publisher": "The New Fillmore (Donna Gillespie)",
+    "year": 2008,
+    "url": "https://newfillmore.com/2008/09/02/in-japantown-new-condos-meet-old-customs/",
+    "supports": "Zisser and McInerney emails and quotes, steam-cleaning demand and permit threat, Horikiri's reply, Osaki's petition letter and 2,800 signatures"
+   },
+   {
+    "title": "Nihonmachi Street Fair (official site)",
+    "publisher": "Nihonmachi Street Fair",
+    "year": 2026,
+    "url": "https://www.nihonmachistreetfair.org",
+    "supports": "Fair held since 1974; 2024 designation as the first festival-producing organization named a San Francisco Legacy Business"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-2p-hokka-nichi-bei-kai",
+  "title": "A Kyoto tea room shipped to Sutter Street",
+  "theme": "communities",
+  "year": 1895,
+  "yearEnd": 2000,
+  "place": {
+   "label": "Hokka Nichi Bei Kai (Japanese American Association of Northern California), 1759 Sutter Street",
+   "lat": 37.78637,
+   "lon": -122.42918,
+   "precision": "building"
+  },
+  "hook": "A club founded in the 1890s to help Issei find their feet in America now keeps a tea room that Kyoto built, took apart and shipped across the Pacific.",
+  "story": "Nichi Bei Kai, the Japanese American Association, began in the late 1800s. Its own history gives the year as 1895 [2]. It helped Japanese immigrants adjust to life in America and keep up their culture, and it worked to build goodwill between the two countries [1][2]. In 2000 it merged with the Japanese Speaking Society of America to become Hokka Nichi Bei Kai. Today it teaches Japanese language, classical dance, ikebana, shamisen, sumi-e and tea ceremony [1]. Its three-storey building on Sutter Street holds a treasure. It is an authentic tea room, a chashitsu, given by the City of Kyoto. It was built in Japan, taken apart, shipped to America and put back together on this site [1][2]. The association calls it the finest tea ceremony facility outside Japan, and it runs Japanese speech contests for children every spring and adults every autumn [2]. The city's surveys can't agree on when the building went up. One credits it to Mitsuru Tada & Associates in 1972, another dates it to 1980 [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Hokka Nichi Bei Kai",
+    "publisher": "California Japantowns",
+    "year": null,
+    "url": "http://www.californiajapantowns.org/sf/hokka-nichi-bei-kai.html",
+    "supports": "Formation in the late 1800s; purpose; 2000 merger; classes offered; three-story building; tea room donated by the City of Kyoto, built in Japan, disassembled, shipped and reassembled"
+   },
+   {
+    "title": "Japantown Completed Social Heritage Inventory Forms",
+    "publisher": "San Francisco Planning Department / Page & Turnbull",
+    "year": 2013,
+    "url": "https://web.archive.org/web/2016/http://www.sf-planning.org/ftp/files/plans-and-programs/in-your-neighborhood/japantown/Japantown_Completed_Social_Heritage_Inventory_Forms_2-26-13.pdf",
+    "supports": "Hokka Nichi Bei Kai record: 1759 Sutter; JAANC's own history (established 1895, speech contests, 'finest Tea Ceremony facility outside of Japan'); JHCS credits the building to Mitsuru Tada & Associates (1972) while the B-Form says built 1980"
+   }
+  ],
+  "photo": null
+ }
+]

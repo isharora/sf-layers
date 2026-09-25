@@ -1,0 +1,620 @@
+[
+  {
+    "id": "twin-peaks-2q-almshouse-farm",
+    "title": "The poorhouse that grew its own food",
+    "theme": "labor-industry",
+    "year": 1870,
+    "place": {
+      "label": "Laguna Honda Hospital grounds (the old Almshouse farm), off Laguna Honda Boulevard",
+      "lat": 37.749,
+      "lon": -122.456,
+      "precision": "area"
+    },
+    "hook": "In 1870 the city's poorhouse west of Twin Peaks fed more than 500 people from its own 87-acre farm, with vegetables left over to sell in town.",
+    "story": "In 1866 San Francisco put up a four-storey wooden building on the old Rancho San Miguel, west of Twin Peaks, for people the Gold Rush had left broke, sick or alone. It was called the Almshouse. Nearby a spring fed a deep lagoon, a laguna honda, the name the place still carries [1]. The Almshouse was expected to feed itself. Residents worked 87 acres of farmland and kept livestock. By 1870 the farm fed more than 500 men, women and children and still produced a surplus, carted three miles into town to sell. Residents made their own clothes and their own shoes [1]. In 1872 the administrator reported that the food, clothing and cleanliness were \"equal, if not superior\" to any such place in the United States or Europe. By 1890 the residents came from some forty nations [1]. The farm had neighbours too. Around 1910, a man who grew up there later recalled, Louis Lagomarsino, whose family grew vegetables from today's West Portal toward the State College site, drove a horse-drawn wagon of produce to the institution every day [2]. Work stayed part of life here. After the Second World War residents wove on looms in a \"rug room\" known for its products, and the programme grew into an occupational therapy department in 1953 [1].",
+    "people": [
+      {
+        "name": "Louis Lagomarsino",
+        "role": "vegetable farmer who supplied the institution around 1910"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Laguna Honda History and Building",
+        "publisher": "SF.gov (San Francisco Department of Public Health)",
+        "year": null,
+        "url": "https://www.sf.gov/laguna-honda-history-and-building",
+        "supports": "1866 opening, four-storey building, 87-acre farm, 500 residents and surplus by 1870, clothes and shoes, 1872 report, forty nationalities in 1890, rug room and 1953 occupational therapy"
+      },
+      {
+        "title": "Farms, Fire and Forest: Adolph Sutro and Development 'West of Twin Peaks' (Richard Brandi, from The Argonaut)",
+        "publisher": "FoundSF",
+        "year": 2003,
+        "url": "https://www.foundsf.org/index.php?title=Farms,_Fire_and_Forest:_Adolph_Sutro_and_Development_%E2%80%9CWest_of_Twin_Peaks%E2%80%9D",
+        "supports": "Harold Wollenberg's recollection of Louis Lagomarsino delivering vegetables daily around 1910"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-sutro-nursery",
+    "title": "Sutro's tree factory behind Laguna Honda",
+    "theme": "parks-nature",
+    "year": 1889,
+    "yearEnd": 1899,
+    "place": {
+      "label": "Site of Adolph Sutro's tree nursery, behind Laguna Honda Reservoir near the 1000 block of Clarendon Avenue",
+      "lat": 37.75142,
+      "lon": -122.46105,
+      "precision": "area"
+    },
+    "hook": "In 1889 a nursery here held 250,000 young trees. Adolph Sutro was turning the bare hills west of Twin Peaks into a forest, and it nearly burned.",
+    "story": "The hills west of Twin Peaks were once open grass and sand. From 1880 the silver millionaire Adolph Sutro, later the city's mayor, bought land here. His largest holding was part of the old Rancho San Miguel, running from near today's UCSF up over Twin Peaks and on south [1]. Sutro set out to cover it with trees. Behind the Laguna Honda reservoir, at what historian Richard Brandi gives as 1000 Clarendon Street, he built a nursery to test which plants best held the sand. On June 24, 1889 his son-in-law George Merritt reported that it held 250,000 trees, 50,000 of them for sale [1]. Eucalyptus came to dominate the resulting Sutro Forest [2]. Some said Sutro planted to cut his taxes, but Brandi argues the nursery and its caretakers cost more than any tax break [1]. The woods drew picnickers, hunters and tramps, and fire. On October 8, 1899 a blaze burned 60 acres and threatened the Almshouse and the Affiliated Colleges before 70 firemen and hundreds of volunteers put it out. One engine needed five horses to climb the slope [1]. Not everyone admired the planting. The naturalist James Roof later said Sutro \"perverted\" the native Franciscan flora, but \"did leave Twin Peaks alone because it was a symbol of the city\" [3].",
+    "people": [
+      {
+        "name": "Adolph Sutro",
+        "role": "landowner and tree planter, mayor 1894-1896"
+      },
+      {
+        "name": "George Merritt",
+        "role": "Sutro's son-in-law, reported on the nursery in 1889"
+      },
+      {
+        "name": "James Roof",
+        "role": "naturalist and critic of the planting"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Farms, Fire and Forest: Adolph Sutro and Development 'West of Twin Peaks' (Richard Brandi, from The Argonaut)",
+        "publisher": "FoundSF",
+        "year": 2003,
+        "url": "https://www.foundsf.org/index.php?title=Farms,_Fire_and_Forest:_Adolph_Sutro_and_Development_%E2%80%9CWest_of_Twin_Peaks%E2%80%9D",
+        "supports": "Sutro's purchases and holdings, the nursery behind Laguna Honda reservoir at 1000 Clarendon, the 1889 tree count, tax debate, the October 8, 1899 fire"
+      },
+      {
+        "title": "Brief History of Midtown Terrace (Rex Bell, with San Francisco News articles of 1954 and 1959)",
+        "publisher": "FoundSF / Western Neighborhoods Project",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Midtown_Terrace",
+        "supports": "Sutro had eucalyptus planted across his land, which became the eucalyptus-dominated Sutro Forest"
+      },
+      {
+        "title": "Franciscan Country: Barren or Beautiful? (James Roof)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Franciscan_Country:_Barren_or_Beautiful%3F",
+        "supports": "James Roof's quotes about Sutro and Twin Peaks"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-relief-home-clarendon-hall",
+    "title": "A refuge the earthquake built",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": 2008,
+    "place": {
+      "label": "Laguna Honda Hospital campus, where the Relief Home buildings and Clarendon Hall stood",
+      "lat": 37.7482,
+      "lon": -122.458,
+      "precision": "area"
+    },
+    "hook": "After 1906 the city's poorhouse became the Relief Home for people the earthquake left homeless. The hall built beside it stood for almost a century.",
+    "story": "The 1906 earthquake and fire turned the Almshouse on the western slope of Twin Peaks into something new. It took in thousands of displaced San Franciscans, gathering earthquake victims from refugee camps scattered across the city, and became known as the Relief Home. A new pavilion-style building went up, able to hold 1,000 people [1]. In 1910 the city added Clarendon Hall. It housed 250 people and was the first building there meant specifically for long-term medical care [1]. Charles Wollenberg ran the institution from 1907 to 1943. His son Harold, born in 1906, remembered that \"it was all forest around the Relief Home, planted by Adolph Sutro\" [2]. Clarendon Hall came down in 2008 to make room for new buildings able to withstand a far stronger earthquake [1]. Victoria Sweet, a doctor at the hospital, watched it go. Workmen first stripped out windows, faucets, sinks, copper pipe and clay tiles. Then a machine she compared to a metal praying mantis worked its way around the century-old Edwardian building, taking bites out of the tiled roof. By the end of the day, she wrote, Clarendon Hall was rubble [3].",
+    "people": [
+      {
+        "name": "Charles Wollenberg",
+        "role": "superintendent, 1907-1943"
+      },
+      {
+        "name": "Harold Wollenberg",
+        "role": "his son, who grew up there"
+      },
+      {
+        "name": "Victoria Sweet",
+        "role": "Laguna Honda physician and author of God's Hotel"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Laguna Honda History and Building",
+        "publisher": "SF.gov (San Francisco Department of Public Health)",
+        "year": null,
+        "url": "https://www.sf.gov/laguna-honda-history-and-building",
+        "supports": "Relief Home after 1906, refugees from camps, 1,000-person pavilion, 1910 Clarendon Hall for 250 people, demolition in 2008 for earthquake-resistant buildings"
+      },
+      {
+        "title": "Farms, Fire and Forest: Adolph Sutro and Development 'West of Twin Peaks' (Richard Brandi, from The Argonaut)",
+        "publisher": "FoundSF",
+        "year": 2003,
+        "url": "https://www.foundsf.org/index.php?title=Farms,_Fire_and_Forest:_Adolph_Sutro_and_Development_%E2%80%9CWest_of_Twin_Peaks%E2%80%9D",
+        "supports": "Charles Wollenberg's tenure and Harold Wollenberg's recollection of the forest"
+      },
+      {
+        "title": "Laguna Honda Hospital (excerpt from Victoria Sweet, God's Hotel)",
+        "publisher": "FoundSF",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Laguna_Honda_Hospital",
+        "supports": "Victoria Sweet's eyewitness account of the demolition of Clarendon Hall"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-new-deal-murals",
+    "title": "New Deal art at the hospital door",
+    "theme": "arts-counterculture",
+    "year": 1934,
+    "place": {
+      "label": "Main building and entrance of Laguna Honda Hospital, 375 Laguna Honda Boulevard",
+      "lat": 37.74773,
+      "lon": -122.45697,
+      "precision": "building"
+    },
+    "hook": "Laguna Honda's 1926 Spanish Revival entrance holds Depression-era murals of the four elements, part of a New Deal legacy that also includes a statue of Florence Nightingale.",
+    "story": "Mayor James \"Sunny Jim\" Rolph turned the first spade of earth for Laguna Honda's Spanish Revival buildings, which opened in 1926. Long \"finger wings\" of open, Florence Nightingale-style wards were added over the following decades [1]. In the 1930s the New Deal reached the hilltop. The Living New Deal lists Laguna Honda as a Public Works Administration project, with a federal share of $1,027,561 out of $2,396,444, designed by Douglas D. Stone and by Meyer and Ciampi [2]. \"Laguna Honda Home\" also appears on a list of San Francisco buildings improved by the WPA [3]. Artists came too. The entryway was given murals by Glenn Wessels [2][4]. One account dates them to 1934 and names them for the four elements, fire, earth, water and air [4], while the Living New Deal counts five murals in the entry [2]. Among the New Deal works is a statue honouring Florence Nightingale, the founder of professional nursing, by David Edstrom, a Federal Art Project sculptor [2]. The city notes the murals are still on display [1]. That WPA work in turn inspired three contemporary lobby mosaics showing the Golden Gate Bridge under construction [2].",
+    "people": [
+      {
+        "name": "Glenn Wessels",
+        "role": "muralist"
+      },
+      {
+        "name": "David Edstrom",
+        "role": "Federal Art Project sculptor"
+      },
+      {
+        "name": "James Rolph",
+        "role": "mayor who broke ground for the 1926 buildings"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Laguna Honda History and Building",
+        "publisher": "SF.gov (San Francisco Department of Public Health)",
+        "year": null,
+        "url": "https://www.sf.gov/laguna-honda-history-and-building",
+        "supports": "Rolph's groundbreaking, 1926 Spanish Revival buildings, finger wings, WPA murals in the entryway still on display"
+      },
+      {
+        "title": "Laguna Honda Hospital - San Francisco CA",
+        "publisher": "The Living New Deal",
+        "year": null,
+        "url": "https://livingnewdeal.org/projects/laguna-honda-hospital-san-francisco-ca/",
+        "supports": "PWA funding and costs, designers, murals by Wessels in the entryway, the Edstrom Nightingale statue, WPA-inspired Golden Gate Bridge lobby mosaics"
+      },
+      {
+        "title": "W.P.A. Construction in San Francisco (1935-1942) (Timothy Keegan)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=W.P.A._Construction_in_San_Francisco_(1935-1942)",
+        "supports": "Laguna Honda Home on the list of WPA-improved public buildings"
+      },
+      {
+        "title": "Laguna Honda Hospital (excerpt from Victoria Sweet, God's Hotel)",
+        "publisher": "FoundSF",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Laguna_Honda_Hospital",
+        "supports": "Photo caption: 'Fire Earth Water Air' four-elements murals by Glenn Wessels, 1934"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-laguna-honda-peril",
+    "title": "The almshouse that nearly closed",
+    "theme": "modern-city",
+    "year": 1998,
+    "yearEnd": 2010,
+    "place": {
+      "label": "Laguna Honda Hospital's 2010 buildings, Laguna Honda campus",
+      "lat": 37.747,
+      "lon": -122.4565,
+      "precision": "area"
+    },
+    "hook": "In 1998 federal regulators threatened the money that kept 1,100 of the city's poorest patients in their beds. Tobacco-lawsuit money helped build a replacement.",
+    "story": "In the summer of 1998 Laguna Honda faced closure for the first time since it opened as an almshouse 132 years earlier. Federal authorities threatened to withdraw $250,000 a day in Medi-Cal and Medicare payments over deficiencies found by inspectors, chiefly overcrowding and dining conditions. Many patients lived on wards of more than 30 beds and ate beside them. Health director Mitchell Katz acknowledged that closure would have put more than 1,100 patients into a frightening, uncertain future [1]. One of them, Michael Bergin, 54, parked his wheelchair each morning in the vast auditorium whose stage had hosted Bing Crosby and Frankie Lane, and treated it as his office [1]. That July the federal government accepted the hospital's plan of correction [1]. The lasting fix came from voters. City Attorney Louise Renne had won settlements from tobacco companies, and in 1999 Proposition A, passed with 73 percent, directed that money to a new Laguna Honda; $141 million of it went into the project [2]. The new buildings opened in 2010 as California's first green-certified hospital [2]. By December 2010 the move was complete. Residents now live in \"households\" of 15, among art paid for under the city's two-percent-for-art rule, by 17 artists or 18, depending on the source [2][3].",
+    "people": [
+      {
+        "name": "Michael Bergin",
+        "role": "resident"
+      },
+      {
+        "name": "Mitchell Katz",
+        "role": "city health director"
+      },
+      {
+        "name": "Louise Renne",
+        "role": "city attorney who sued the tobacco industry"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Laguna Honda in peril (Michael Dougan)",
+        "publisher": "San Francisco Examiner / SFGATE",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/Laguna-Honda-in-peril-3310272.php",
+        "supports": "1998 federal threat, $250,000 a day, 1,100 patients, 30-bed wards, Michael Bergin and the auditorium stage, acceptance of the correction plan"
+      },
+      {
+        "title": "Laguna Honda History and Building",
+        "publisher": "SF.gov (San Francisco Department of Public Health)",
+        "year": null,
+        "url": "https://www.sf.gov/laguna-honda-history-and-building",
+        "supports": "Tobacco settlement, 1999 Proposition A with 73 percent, $141 million, 2010 buildings, first green-certified hospital in California; eighteen commissioned artists"
+      },
+      {
+        "title": "A Look at Laguna Honda: Loyalty to the Past and Openness to Change (David Gilliam)",
+        "publisher": "California Preservation Foundation",
+        "year": 2015,
+        "url": "https://californiapreservation.org/laguna-honda/",
+        "supports": "Reconfiguration completed in December 2010, households of 15, 17 artists, the 2% art requirement"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-tunnel-holed-through",
+    "title": "Holed through, an eighth of an inch off",
+    "theme": "architecture-landmarks",
+    "year": 1917,
+    "place": {
+      "label": "Above the Twin Peaks Tunnel beneath the western slope (the tunnel's line is approximate)",
+      "lat": 37.7524,
+      "lon": -122.452,
+      "precision": "area"
+    },
+    "hook": "On April 5, 1917, crews digging from opposite sides of Twin Peaks broke through to each other. Their bores were out of line by an eighth of an inch.",
+    "story": "For decades the hills in the middle of San Francisco kept the west side nearly empty. From 1909 merchants, improvement clubs and real-estate men campaigned for a streetcar tunnel under Twin Peaks [1]. The city signed with Robert C. Storrie & Co. on November 2, 1914, for $3,372,000, and excavation began that December at both portals and at a station site at Laguna Honda [1]. The tunnel ran directly beneath the old Rancho San Miguel [2]. It was dangerous work. Inspector Ernest Dunden was killed in July 1915 when he fell onto live wires at the west portal, and several men died in the delayed explosion of a dynamite cap in February 1917 [1]. In August 1916 workers found a petrified redwood trunk 90 feet down; it is unclear whether anyone ever settled if redwoods once grew here or it was ancient driftwood [1]. On Thursday, April 5, 1917, came the drillers' cry: \"Holed through!\" The two bores met off by a mere eighth of an inch [1]. A driller named Sam Campbell squeezed through first. Four supervisors then rode muck cars to the opening and raced to get through; Joseph Lahaney won and muddied his suit [1]. Muni streetcars began carrying passengers through on February 3, 1918, and 21,000 people rode out through the tunnel the next Sunday [1].",
+    "people": [
+      {
+        "name": "Sam Campbell",
+        "role": "driller, first through the opening"
+      },
+      {
+        "name": "Ernest Dunden",
+        "role": "Board of Public Works inspector killed in 1915"
+      },
+      {
+        "name": "Joseph Lahaney",
+        "role": "supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Westward the Course of Empire Takes its Way: 100 Years of the Twin Peaks Tunnel (Arnold Woods)",
+        "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+        "year": 2018,
+        "url": "https://www.outsidelands.org/twin-peaks-tunnel.php",
+        "supports": "Campaign, contract, start of work, deaths, petrified redwood, holing through with the eighth-of-an-inch alignment, Sam Campbell and the supervisors' race, 1918 opening and riders"
+      },
+      {
+        "title": "Farms, Fire and Forest: Adolph Sutro and Development 'West of Twin Peaks' (Richard Brandi, from The Argonaut)",
+        "publisher": "FoundSF",
+        "year": 2003,
+        "url": "https://www.foundsf.org/index.php?title=Farms,_Fire_and_Forest:_Adolph_Sutro_and_Development_%E2%80%9CWest_of_Twin_Peaks%E2%80%9D",
+        "supports": "The tunnel was built directly under the old Rancho San Miguel"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-tunnel-film",
+    "title": "A silent film sold the tunnel",
+    "theme": "arts-counterculture",
+    "year": 1917,
+    "place": {
+      "label": "Above the western stretch of the Twin Peaks Tunnel (the tunnel's line is approximate)",
+      "lat": 37.7503,
+      "lon": -122.4555,
+      "precision": "area"
+    },
+    "hook": "In October 1917 San Franciscans could watch a real-estate film about the tunnel being dug under these hills, probably in a storefront. It ran for weeks.",
+    "story": "Real-estate men had bet heavily on the Twin Peaks Tunnel. Advertisements promised that Sunset lots would \"triple\" in value once it was built, and in 1914 five big developers holding land west of the hills agreed to pay $924,000 in assessments, which assured the project could go ahead [1]. The firm of Baldwin and Howell, on Kearny Street, went further and commissioned a movie. The Pathescope film company shot \"Twin Peaks Tunnel\", documenting construction of what was then claimed to be the longest municipal tunnel in the world [2][3]. It shows the tunnel being dug, Sutro Forest being cleared, and the new West Portal, St. Francis Wood and Westwood Park neighbourhoods, along with officials, engineers, workers and ordinary citizens [2]. According to historian David Kiehn, newspaper advertisements show it was first screened on October 13, 1917, most likely in a San Francisco storefront, and it was popular enough to run continuously for weeks [2]. A National Film Preservation Foundation grant paid for its restoration, and the Niles Essanay Silent Film Museum holds the original 28mm copy and a 35mm preservation negative [2]. The silent film runs about 19 minutes and can be watched online [2][3].",
+    "people": [
+      {
+        "name": "David Kiehn",
+        "role": "film historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Westward the Course of Empire Takes its Way: 100 Years of the Twin Peaks Tunnel (Arnold Woods)",
+        "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+        "year": 2018,
+        "url": "https://www.outsidelands.org/twin-peaks-tunnel.php",
+        "supports": "'Triple' advertisements and the developers' $924,000 in assessments"
+      },
+      {
+        "title": "Twin Peaks Tunnel (1917 film, Pathescope for Baldwin and Howell)",
+        "publisher": "Internet Archive",
+        "year": 2012,
+        "url": "https://archive.org/details/TwinPeaksTunnel1917",
+        "supports": "Pathescope, Baldwin and Howell, content, first screening October 13, 1917, preservation, runtime"
+      },
+      {
+        "title": "Twin Peaks Tunnel",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Twin_Peaks_Tunnel",
+        "supports": "Same film summary and embedded copy of the film"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-market-portola-extension",
+    "title": "Market Street climbs over the mountain",
+    "theme": "architecture-landmarks",
+    "year": 1917,
+    "yearEnd": 1954,
+    "place": {
+      "label": "Portola Drive where it leaves upper Market Street",
+      "lat": 37.74959,
+      "lon": -122.44379,
+      "precision": "street"
+    },
+    "hook": "Upper Market Street and Portola Drive follow an old wagon road around Twin Peaks. Turning it into a boulevard took a motorcade, a tunnel and decades of widening.",
+    "story": "The only early road over Twin Peaks wound up Corbett and down what is now Portola Drive. Today's upper Market Street and Portola closely follow it, though they are twice as wide [1]. The modern road came with the Twin Peaks Tunnel. On June 15, 1917 a City Hall delegation drove over the hill in a small fleet of automobiles on \"the new Market Street extension called Portola Drive\", then entered the tunnel's west portal and drove through to the east. It was the first and last time cars made that trip [2]. Historian Richard Brandi, though, dates the extension of Market southwest from 17th and Castro to the early 1920s, built along with the tunnel's east portal on a curve that followed the older road [1]. The road kept growing. City photographers recorded Portola being widened near Clipper Street in November 1929 [3]. In 1954 the San Francisco News reported plans to rebuild Portola from Woodside Avenue to Corbett Avenue as a straightened, six-lane divided highway [4]. In the late 1950s the stretch from Woodside west to St. Francis Circle was widened, and dozens of homes were moved to vacant lots, some as far away as Daly City [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Farms, Fire and Forest: Adolph Sutro and Development 'West of Twin Peaks' (Richard Brandi, from The Argonaut)",
+        "publisher": "FoundSF",
+        "year": 2003,
+        "url": "https://www.foundsf.org/index.php?title=Farms,_Fire_and_Forest:_Adolph_Sutro_and_Development_%E2%80%9CWest_of_Twin_Peaks%E2%80%9D",
+        "supports": "The old road's route, Market and Portola twice as wide, early-1920s Market extension, late-1950s widening and moved houses"
+      },
+      {
+        "title": "Westward the Course of Empire Takes its Way: 100 Years of the Twin Peaks Tunnel (Arnold Woods)",
+        "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+        "year": 2018,
+        "url": "https://www.outsidelands.org/twin-peaks-tunnel.php",
+        "supports": "June 15, 1917 motorcade over the new Market Street extension and through the tunnel"
+      },
+      {
+        "title": "Portola Drive Mid-20th Century",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Portola_Drive_Mid-20th_Century",
+        "supports": "Photographs of Portola Drive widening near Clipper Street, November 7, 1929"
+      },
+      {
+        "title": "Brief History of Midtown Terrace (Rex Bell, with San Francisco News articles of 1954 and 1959)",
+        "publisher": "FoundSF / Western Neighborhoods Project",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Midtown_Terrace",
+        "supports": "1954 San Francisco News report of the plan for a six-lane divided highway from Woodside to Corbett"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-youth-guidance-center",
+    "title": "Breaking out into the Twin Peaks fog",
+    "theme": "civil-rights",
+    "year": 1967,
+    "yearEnd": 1969,
+    "place": {
+      "label": "Youth Guidance Center, now the Juvenile Justice Center, 375 Woodside Avenue",
+      "lat": 37.74588,
+      "lon": -122.45251,
+      "precision": "building"
+    },
+    "hook": "In the 1960s runaways and teenage protesters ended up at the city's Youth Guidance Center on Woodside Avenue. Some girls escaped through the barbed wire.",
+    "story": "The city's juvenile hall sits on the southwest slope of Twin Peaks; a February 1959 photograph shows the Youth Guidance Center building with Twin Peaks rising beside it [1]. During the Summer of Love, police could ask young people for identification at any hour, and runaways who were picked up went to juvenile hall until their parents were reached [2]. In his book Season of the Witch, David Talbot called the Youth Guidance Center \"a bleak, overcrowded warehouse for boys and girls who had fallen into the hands of the law\". A 13-year-old named Deveron described steaming hot rooms with tiny cracks for windows. \"One day, some girls stood on their cots, broke the windows of their cells, and squeezed out through the barbed wire. They were torn and bleeding, but for the moment they were free, running through the cool mists of Twin Peaks\" [2]. Protest brought teenagers here too. On January 29, 1969 Mission High student Francisco FloresLanda was arrested for leafleting for a student strike. He was taken to the Youth Guidance Center and held in isolation cells in block B5 until one of the Hallinan brothers, from a well-known family of left-wing lawyers, got him out [3]. Today the site is the 150-bed Juvenile Justice Center, which also houses a public high school [4].",
+    "people": [
+      {
+        "name": "Deveron",
+        "role": "13-year-old detainee quoted by David Talbot"
+      },
+      {
+        "name": "Francisco FloresLanda",
+        "role": "Mission High student organiser, 1969"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Brief History of Midtown Terrace (Rex Bell, with San Francisco News articles of 1954 and 1959)",
+        "publisher": "FoundSF / Western Neighborhoods Project",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Midtown_Terrace",
+        "supports": "February 1959 photo caption showing the Youth Guidance Center below Midtown Terrace"
+      },
+      {
+        "title": "Huckleberry House and Teenage Runaways (Savana Huskins)",
+        "publisher": "FoundSF",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=Huckleberry_House_and_Teenage_Runaways",
+        "supports": "Treatment of runaways in 1967; David Talbot's description of the Youth Guidance Center and Deveron's account"
+      },
+      {
+        "title": "Mission High School Student Organizing 1969 (Francisco FloresLanda)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_High_School_Student_Organizing_1969",
+        "supports": "FloresLanda's January 29, 1969 arrest and detention in block B5"
+      },
+      {
+        "title": "Juvenile Hall",
+        "publisher": "SF.gov (Juvenile Probation Department)",
+        "year": null,
+        "url": "https://www.sf.gov/information/juvenile-hall",
+        "supports": "Today's 150-bed Juvenile Justice Center at 375 Woodside Avenue and its SFUSD school"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-seward-sit-in",
+    "title": "Neighbours sat down in front of bulldozers",
+    "theme": "civil-rights",
+    "year": 1966,
+    "place": {
+      "label": "Corwin Street Community Garden, the saved slope between Corwin and Seward streets",
+      "lat": 37.75755,
+      "lon": -122.44023,
+      "precision": "block"
+    },
+    "hook": "On January 12, 1966, bulldozers arrived to start 105 apartments on the last open slope between Corwin and Seward streets. The neighbours sat down in the way.",
+    "story": "In 1963 upper Eureka Valley was full of young baby-boom families, and empty lots were fast becoming apartments. Soon only one open space was left linking Seward Street and Corwin Street, and a developer planned a 105-unit building to stretch from Corwin all the way down to a garage entrance on Seward [1]. Residents and their Eureka Valley neighbours spent three years on petitions, letters, public hearings, Planning Commission battles, Board of Permit Appeals meetings and audiences with the mayor. B. Shamon Schwarzschild, the Seward Street Mini-Park Committee and the Eureka Valley Promotion Association were central to the effort [1]. It came to a head on January 12, 1966, the last day the developer could begin work before the permit expired. As the bulldozers arrived, neighbours began a sit-in on the site, and the developers abandoned their plans. The garden's sign credits the fight with changing development across the city and leading to rules requiring a minimum of neighbourhood open space [1]. The victory party was on March 6, 1966. Years more of lobbying, backed by Mayor Joseph Alioto and state Senator George Moscone, won a city mini-park [1], which opened in 1973 on the plot once slated for development [2]. In 1995 neighbours turned the weedy upper lot into a California native plant garden [1].",
+    "people": [
+      {
+        "name": "B. Shamon Schwarzschild",
+        "role": "neighbourhood organiser"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Corwin Community Garden and Seward Mini-Park (text of the garden's sign)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Corwin_Community_Garden_and_Seward_Mini-Park",
+        "supports": "The 1963 apartment plan, three-year campaign, January 12, 1966 sit-in, March 6 celebration, support of Alioto and Moscone, 1995 native garden"
+      },
+      {
+        "title": "Seward Mini Park",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": null,
+        "url": "https://sfrecpark.org/Facilities/Facility/Details/Seward-Mini-Park-203",
+        "supports": "Mini-park built in 1973 on a plot slated for development"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-seward-slides",
+    "title": "A 14-year-old designed these slides",
+    "theme": "arts-counterculture",
+    "year": 1973,
+    "place": {
+      "label": "Concrete slides of Seward Street Mini Park, Seward Street",
+      "lat": 37.75769,
+      "lon": -122.43999,
+      "precision": "block"
+    },
+    "hook": "The steep concrete slides on Seward Street were designed by a 14-year-old girl from the block, who won a design contest run by the sculptor Ruth Asawa.",
+    "story": "When the city finally built a mini-park on the Seward Street lot that neighbours had saved from an apartment building, the centrepiece came from a child. Kim Clark, a 14-year-old who lived on Seward Street, won a \"Design the Park\" competition put on by the sculptor Ruth Asawa [1][2]. Her idea became two long, steep concrete slides running down the hillside. The park opened on May 21, 1973 [1]. The slides were said to have been inspired by one at Playland at the Beach, which had closed the year before [1]. The contest fitted Asawa's life's work. The Japanese American sculptor spent decades pushing to put art into the hands of San Francisco's schoolchildren. She served on the San Francisco Arts Commission, founded the Alvarado School Art Workshop and in 1982 realised her dream of a public arts high school for the city [3]. Half a century on, the Seward slides are still \"not for tiny tots, nor for the faint of heart\". The Recreation and Park Department advises bringing a piece of cardboard and wearing sturdy pants, and it notes that adults must be accompanied by children [2].",
+    "people": [
+      {
+        "name": "Kim Clark",
+        "role": "14-year-old designer of the slides"
+      },
+      {
+        "name": "Ruth Asawa",
+        "role": "sculptor who ran the design competition"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Corwin Community Garden and Seward Mini-Park (text of the garden's sign)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Corwin_Community_Garden_and_Seward_Mini-Park",
+        "supports": "Kim Clark, the 'Design the Park' competition, opening day May 21, 1973, the Playland inspiration"
+      },
+      {
+        "title": "Seward Mini Park",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": null,
+        "url": "https://sfrecpark.org/Facilities/Facility/Details/Seward-Mini-Park-203",
+        "supports": "Built 1973; slide designed by 14-year-old Kim Clark in a competition by Ruth Asawa; visitor advice"
+      },
+      {
+        "title": "Interwoven Histories: The Generational Legacy of Ruth Asawa's Arts Education Activism",
+        "publisher": "FoundSF",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=Interwoven_Histories:_The_Generational_Legacy_of_Ruth_Asawa%E2%80%99s_Arts_Education_Activism",
+        "supports": "Asawa's arts-education work: Arts Commission, Alvarado School Art Workshop, 1982 arts high school"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-peaks-restoration",
+    "title": "Taking the peaks back from motorbikes",
+    "theme": "parks-nature",
+    "year": 1987,
+    "yearEnd": 1989,
+    "place": {
+      "label": "Footpaths to the summit of the north peak, Twin Peaks Natural Area",
+      "lat": 37.7546,
+      "lon": -122.4479,
+      "precision": "area"
+    },
+    "hook": "Off-road motorcycles once tore up Twin Peaks roller-coaster-style. In the late 1980s timber barriers, new footpaths and volunteers with picks began to heal the hills.",
+    "story": "Twin Peaks gives a rare idea of how San Francisco's hills looked before grazing and building: coastal scrub and grassland of coyote brush, lizard tail, pearly everlasting and lupine, with brush rabbits and coyotes [1]. It is also the \"type locality\", the place the defining specimens came from, for the endangered Mission blue butterfly and for Phacelia californica, a low perennial that native bees love [2]. Writer and landscape consultant Geoffrey Coffey recalled in 2004 that a quarter-century earlier the natural area was faring badly under cars and hikers \"and yes, even off-road motorcycles taking those twin peaks roller-coaster-style\", while invasive weeds moved in [2]. In the late 1980s the city enlisted the San Francisco Conservation Corps to build meandering footpaths to each summit, with railroad ties for steps, and massive timber barriers at the trailheads to stop the motorbikes. Local volunteers with shovels and picks erased the rutted tracks, pulled broom, cotoneaster and ice plant, and planted bunchgrass, monkeyflower, Douglas iris, silver lupine and coast buckwheat [2]. The city's Natural Areas Program took over the care. By 2004, Coffey wrote, it faced \"violent opposition\" from a group of dog owners; one letter to the Chronicle compared the native plant movement to Nazi Germany [2].",
+    "people": [
+      {
+        "name": "Geoffrey Coffey",
+        "role": "writer and landscape consultant who lived on the peaks' eastern side"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Twin Peaks",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": null,
+        "url": "https://sfrecpark.org/Facilities/Facility/Details/Twin-Peaks-384",
+        "supports": "Twin Peaks' vegetation and wildlife, comparison with pre-grazing hills"
+      },
+      {
+        "title": "Treasures in the curves and swells of Twin Peaks (Geoffrey Coffey)",
+        "publisher": "San Francisco Chronicle / SFGATE (archived)",
+        "year": 2004,
+        "url": "https://web.archive.org/web/20081229183212/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/03/27/HOGVN5R3OF1.DTL",
+        "supports": "Type localities, motorbike damage, late-1980s Conservation Corps trails and barriers, volunteer restoration, Natural Areas Program and the 2004 dispute"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "twin-peaks-2q-reservoir-playground",
+    "title": "A playground on a reservoir's roof",
+    "theme": "parks-nature",
+    "year": 1959,
+    "place": {
+      "label": "Midtown Terrace Playground beside the covered Sutro Reservoir, Clarendon Avenue at Olympia Way",
+      "lat": 37.75167,
+      "lon": -122.45541,
+      "precision": "block"
+    },
+    "hook": "As Midtown Terrace rose in the 1950s, the city buried a reservoir in a hillside bowl and budgeted $160,000 to build a playground on top.",
+    "story": "In October 1954 a photograph of the western slope of Twin Peaks showed the ground being graded for Midtown Terrace and, beside Clarendon Avenue, a large pit that would become the covered Sutro Reservoir [1]. By February 1959, the San Francisco News reported, 900 of the 1,000 planned houses were finished, a Muni bus looped through on weekdays, land was set aside for an elementary school, and the Recreation and Park Department was budgeting $160,000 for a playground atop the covered reservoir [1]. The new homeowners wanted greenery too. Their association president, Mrs. Theodore Jewell of Panorama Way, explained that the City Planning Commission had assigned Ruth Jaffe, an associate city planner and landscape architect, to draw up a plan. It would cost about $14,000 in three stages: trees between the seven street levels, then shrubs, then ground cover such as ivy and ice plant, making Midtown \"a garden spot in the heart of the city\" [1]. Today's Midtown Terrace Playground has a clubhouse, basketball courts and a grass field. The Recreation and Park Department notes that the park's east bank is an earthen dam holding a reservoir in a natural bowl, and that Adolph Sutro once kept his cattle here [2].",
+    "people": [
+      {
+        "name": "Ruth Jaffe",
+        "role": "associate city planner and landscape architect"
+      },
+      {
+        "name": "Mrs. Theodore Jewell",
+        "role": "Midtown Terrace Home Owners Association president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Brief History of Midtown Terrace (Rex Bell, with San Francisco News articles of 1954 and 1959)",
+        "publisher": "FoundSF / Western Neighborhoods Project",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Midtown_Terrace",
+        "supports": "1954 photo caption of the reservoir pit; 1959 San Francisco News report on the playground budget and Ruth Jaffe's landscaping plan"
+      },
+      {
+        "title": "Midtown Terrace Playground",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": null,
+        "url": "https://sfrecpark.org/Facilities/Facility/Details/Midtown-Terrace-Playground-258",
+        "supports": "Today's playground facilities, the earthen dam and reservoir bowl, Sutro's cattle"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  }
+]

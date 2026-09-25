@@ -1,0 +1,631 @@
+[
+ {
+  "id": "seacliff-2p-one-mans-family",
+  "title": "Radio's Favourite Family Lived Here, Sort Of",
+  "theme": "arts-counterculture",
+  "year": 1932,
+  "yearEnd": 1959,
+  "place": {
+   "label": "Sea Cliff Avenue (the fictional Barbour home had no real address)",
+   "lat": 37.78886,
+   "lon": -122.48935,
+   "precision": "area"
+  },
+  "hook": "For 27 years, millions of Americans tuned in to a Sea Cliff family that never existed. Sightseeing buses even put their house on the route.",
+  "story": "On April 29, 1932, radio listeners met the Barbours of Sea Cliff. Henry Barbour was a stockbroker (one account calls him the head of a bond house). With his wife Fanny he was raising five children: Paul, Hazel, the twins Clifford and Claudia, and Jack. Carlton E. Morse, who wrote, cast and directed every episode, set the show in a San Francisco neighbourhood he knew well. For years it went out from the San Francisco studios of KPO, NBC's West Coast flagship, before production moved to Los Angeles [2]. One Man's Family ran until 1959, making it the longest uninterrupted serial in American radio: 136 \"books\" and 3,256 chapters [2]. The writer James O. Clifford Sr. puts the audience at about 20 million. The Barbours seemed so real that sightseeing buses put their Sea Cliff home on the route, even though it didn't exist [1]. Herb Caen remembered that \"Sunday night became sacred. We all ran home to hear it\" [1]. It seems an odd hit for the Depression, a banker's family in the city's poshest enclave, but Michael Raffetto, who played Paul, said it gave \"people hope and a goal\" [1]. Morse himself lived in the redwoods off Skyline, near Woodside [1].",
+  "people": [
+   {
+    "name": "Carlton E. Morse",
+    "role": "creator and writer"
+   },
+   {
+    "name": "Michael Raffetto",
+    "role": "actor who played Paul Barbour"
+   }
+  ],
+  "sources": [
+   {
+    "title": "One Man's Family",
+    "publisher": "Western Neighborhoods Project (James O. Clifford Sr.)",
+    "year": 2019,
+    "url": "https://www.outsidelands.org/one-mans-family.php",
+    "supports": "Sea Cliff setting, 20 million listeners, tour buses seeking the fictional house, Herb Caen and Raffetto quotes, Morse's Woodside home"
+   },
+   {
+    "title": "One Man's Family (40 episodes), item description",
+    "publisher": "Internet Archive",
+    "year": null,
+    "url": "https://archive.org/details/OneMansFamily",
+    "supports": "1932 debut date, the Barbour characters, KPO studios, 1932-1959 run, 136 books and 3,256 chapters, Sea Cliff setting"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-save-china-beach-1929",
+  "title": "The Neighbours Who Fought for the Cove",
+  "theme": "parks-nature",
+  "year": 1929,
+  "yearEnd": 1933,
+  "place": {
+   "label": "Head of the China Beach path, end of Sea Cliff Avenue",
+   "lat": 37.78775,
+   "lon": -122.49085,
+   "precision": "area"
+  },
+  "hook": "In 1929 Sea Cliff's own developer filed plans to subdivide the little beach below it. A women's committee, PTAs and shopkeepers set out to stop it.",
+  "story": "The Allen Company built Sea Cliff, and by the late 1920s it had its eye on the cove below. The National Park Service's history dates its plans to 1928. The city's Playground Commission says the owners filed a subdivision map of the China Beach area early in 1929 [1][2]. Neighbours organised fast. A women's committee led by Mrs. Annette L. Bachman, with Mrs. Herbert Gunn, Mrs. Charles Robinson, Mrs. W. S. Berry and Mrs. Paul Paige, pushed a city bond to buy the beach [1]. Their allies were a very San Francisco mix: the Garden Club, the Daughters of California Pioneers, the Galileo and Sutro parent-teacher associations, the Clement Street Merchants' Association, the Building Trades Council and disabled veterans [2]. In November 1929, after a campaign of less than a month, the measure lost by 3,948 votes out of 72,175 [2]. They kept going. James D. Phelan left $50,000 in his will, and the state matched it [2]. In 1933 California paid the Allen Company $160,000 for the six-acre beach, which officials called the only safe swimming spot on the city's shoreline [1][2].",
+  "people": [
+   {
+    "name": "Annette L. Bachman",
+    "role": "leader of the women's committee"
+   },
+   {
+    "name": "James D. Phelan",
+    "role": "former mayor and senator who left money for the purchase"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A Civil History of Golden Gate National Recreation Area and Point Reyes National Seashore, vol. 2 (Phelan Beach section)",
+    "publisher": "National Park Service",
+    "year": 1980,
+    "url": "https://archive.org/details/GGNRACivilHistoryV2",
+    "supports": "Allen Company plans (1928), women's committee members, failed 1929 bond, 1933 purchase for $160,000, six acres, 'only safe spot' claim"
+   },
+   {
+    "title": "Annual Report of the Playground Commission, 1929-30",
+    "publisher": "San Francisco Playground Commission",
+    "year": 1930,
+    "url": "https://archive.org/details/annualreporto19281930sanf",
+    "supports": "1929 subdivision map, November 1929 vote totals and margin, campaign under a month, list of backing organisations, Phelan's $50,000 matched by the state"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-carter-the-great",
+  "title": "The Magician Who Came Home to Sea Cliff",
+  "theme": "arts-counterculture",
+  "year": 1926,
+  "yearEnd": 1936,
+  "place": {
+   "label": "801 El Camino del Mar (Carter family address in the 1939 city directory)",
+   "lat": 37.78631,
+   "lon": -122.49248,
+   "precision": "building"
+  },
+  "hook": "He made elephants vanish and toured the world with tons of props. Between tours, Carter the Great came home to a house above the Golden Gate.",
+  "story": "Charles Joseph Carter was born in Pennsylvania in 1874 and was billed as a boy magician before he was eleven. As Carter the Great he spent decades circling the globe with a show that at one point weighed 31 tons [4]. The Western Neighborhoods Project says he always found his way back to San Francisco, where he made his home in Sea Cliff [1]. At Christmas 1926 he opened at the Capitol Theater downtown, starting what Billboard called his tenth world tour. The Chronicle's critic listed the tricks: live elephants disappeared, a young woman was \"s-t-r-e-t-c-h-e-d\", a condemned woman on the gallows turned out to be the executioner, and a blindfolded mind reader read names off slips of paper no one else had seen [2]. In 1936 Carter had a heart attack on the way to Bombay. He died there that February, and his son Larry took over the act [4]. The 1939 city directory lists Corinne M. Carter, \"wid C J\", at 801 El Camino del Mar [3]. His house is sometimes mistakenly called the \"Houdini Mansion\" [4].",
+  "people": [
+   {
+    "name": "Charles Joseph Carter",
+    "role": "stage magician, 'Carter the Great'"
+   },
+   {
+    "name": "Corinne Carter",
+    "role": "his wife and stage partner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Outside Lands Podcast Episode 567: Carter the Great",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2025,
+    "url": "https://www.outsidelands.org/podcast/WNP567_Carter_the_Great",
+    "supports": "Carter made his home in Sea Cliff and kept returning to San Francisco"
+   },
+   {
+    "title": "Carter the Great Starts World's Tour in Frisco (The Billboard, Jan. 15, 1927)",
+    "publisher": "The Billboard, via Internet Archive",
+    "year": 1927,
+    "url": "https://archive.org/details/sim_billboard_1927-01-15_39_3",
+    "supports": "Christmas 1926 opening at the Capitol Theater, tenth world tour, Chronicle description of the tricks"
+   },
+   {
+    "title": "Polk's Crocker-Langley San Francisco City Directory 1939",
+    "publisher": "R. L. Polk & Co., via San Francisco Public Library / Internet Archive",
+    "year": 1939,
+    "url": "https://archive.org/details/polkscrockerlang1939dire",
+    "supports": "Corinne M. Carter, widow of C. J., at 801 El Camino del Mar"
+   },
+   {
+    "title": "Charles Joseph Carter",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Charles_Joseph_Carter",
+    "supports": "birth, 31 tons of equipment, death in India in 1936, son Larry took over, 'Houdini Mansion' nickname"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-laguerre-copyboy",
+  "title": "A Consul's Son Falls for Baseball",
+  "theme": "communities",
+  "year": 1927,
+  "yearEnd": 1929,
+  "place": {
+   "label": "Sea Cliff (the Laguerre family home; address not given in sources)",
+   "lat": 37.78608,
+   "lon": -122.48921,
+   "precision": "area"
+  },
+  "hook": "A French diplomat's boy spent two years in Sea Cliff and fell for American sports. Decades later he turned Sports Illustrated into a giant.",
+  "story": "In the summer of 1927 Léon Laguerre, a French diplomat, took a post at the French Consulate General in San Francisco. According to Wikipedia's account, which draws on Michael MacCambridge's history of the magazine, the family settled in Sea Cliff [3]. Their eldest, André, had already lived in England, France and Syria. Here he went to the Santa Monica School and St. Ignatius, became a baseball fan, and got his first newspaper job as a copyboy at the Chronicle. In 1929 he was sent back to England for school [3]. Sports Illustrated's 1960 profile of him listed the Chronicle among his first newspaper jobs [1]. That career ran through Dunkirk, where he was one of the last to be evacuated, and through service as press officer for de Gaulle's Free French [1]. When he joined the magazine as an assistant managing editor in 1956, some thought it radical to put a Frenchman on an American sports magazine. The magazine's own obituary answered that he had lived for years in San Francisco and was on familiar terms with American sports [2]. He became managing editor in 1960, and circulation more than doubled under him [2].",
+  "people": [
+   {
+    "name": "André Laguerre",
+    "role": "Sports Illustrated managing editor, 1960-1974"
+   },
+   {
+    "name": "Léon James Laguerre",
+    "role": "French consular official, his father"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Memo From the Publisher (Sports Illustrated, May 9, 1960)",
+    "publisher": "Sports Illustrated, via Wayback Machine",
+    "year": 1960,
+    "url": "https://web.archive.org/web/20121026102936/http://sportsillustrated.cnn.com/vault/article/magazine/MAG1071240/index.htm",
+    "supports": "father at French consulate in San Francisco, early work for the SF Chronicle, Dunkirk, Free French press officer"
+   },
+   {
+    "title": "Letter From the Publisher (Sports Illustrated, 1979)",
+    "publisher": "Sports Illustrated, via Wayback Machine",
+    "year": 1979,
+    "url": "https://web.archive.org/web/2012/http://sportsillustrated.cnn.com/vault/article/magazine/MAG1094551/index.htm",
+    "supports": "lived in San Francisco and knew American sports, managing editor from May 1960, circulation more than doubled"
+   },
+   {
+    "title": "André Laguerre",
+    "publisher": "Wikipedia (citing MacCambridge, The Franchise, 1997)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Laguerre",
+    "supports": "1927 move, Sea Cliff home, schools, baseball, Chronicle copyboy job, 1929 return to England"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-fisher-cable-by-cable",
+  "title": "A Boy Watching the Bridge Go Up",
+  "theme": "communities",
+  "year": 1935,
+  "yearEnd": 1937,
+  "place": {
+   "label": "Sea Cliff, facing the Golden Gate (Fisher family home; address not given in sources)",
+   "lat": 37.78854,
+   "lon": -122.48713,
+   "precision": "area"
+  },
+  "hook": "Before he founded the Gap, Don Fisher was a Sea Cliff kid who remembered watching the Golden Gate Bridge go up, \"cable by cable\".",
+  "story": "Don Fisher was born in San Francisco on September 3, 1928. His father, Sydney, was a cabinetmaker, and his great-grandfather had come to the city in the 1860s [1]. Gap Inc.'s official biography describes a \"comfortable, middle class upbringing\" in a two-story house in Sea Cliff with a great view of the Bay. He remembered watching the Golden Gate Bridge go up in the mid-1930s, \"cable by cable\" [1]. Sea Cliff was not yet the byword for mansions it later became. Wikipedia calls it the \"then-middle-class\" neighbourhood of his childhood [2]. Fisher learned his swimming strokes by the age of eight. At Lowell High School he broke the city's 50-yard freestyle record in his junior year, and at Cal he captained both the swim and water polo teams [1]. In 1969 he and his wife Doris opened the first Gap on Ocean Avenue [1]. Things came full circle in 1996, when President Clinton's administration named him one of six members of the Presidio Trust, charged with remaking the old army post next door to the neighbourhood where he grew up [1].",
+  "people": [
+   {
+    "name": "Donald Fisher",
+    "role": "Gap Inc. co-founder"
+   },
+   {
+    "name": "Sydney Fisher",
+    "role": "his father, a cabinetmaker"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Don Fisher, 1928-2009: Gap Inc. Founder (company biography)",
+    "publisher": "Gap Inc., via Wayback Machine",
+    "year": 2009,
+    "url": "https://web.archive.org/web/2016/http://www.gapinc.com/content/dam/gapincsite/documents/DonFisher_Bio.pdf",
+    "supports": "birth date, family, Sea Cliff house with Bay view, watching the bridge 'cable by cable', swimming record, first Gap, Presidio Trust"
+   },
+   {
+    "title": "Donald Fisher",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Donald_Fisher",
+    "supports": "childhood in the then-middle-class Sea Cliff neighbourhood"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-david-johnson-adams",
+  "title": "\"By the Way, I'm a Negro\"",
+  "theme": "civil-rights",
+  "year": 1945,
+  "yearEnd": 1946,
+  "place": {
+   "label": "131 24th Avenue (Ansel Adams's house and studio)",
+   "lat": 37.78702,
+   "lon": -122.48449,
+   "precision": "building"
+  },
+  "hook": "A young Navy veteran from segregated Florida wrote to Ansel Adams asking to study photography. Adams took him in, and he stayed at Adams's own house.",
+  "story": "David Johnson grew up poor in segregated Jacksonville, Florida. He was the only person in his household who could read or write [1]. After Navy service he read that the California School of Fine Arts was starting a photography department to be led by Ansel Adams. So he wrote: \"Dear Mr. Adams: I'm interested in studying photography. … By the way, I'm a negro.\" Adams said the class was full and put him on a waiting list. Then a telegram came: \"There's a spot for you, David, if you want to proceed\" [1]. Johnson arrived in 1945 and became Adams's first Black student [2]. Adams put him up at home until he found a room [1][2]. Home was the pair of houses at the end of 24th Avenue: his boyhood house at 129 and, next door at 131, the house with a studio he had built in 1929, linked to it by a hallway [3]. Minor White, who also lived there, took one look at Johnson's $5 Eastman folding camera and said, \"I don't think that's going to work.\" Days later, \"They put their money (together) to buy me a new camera\" [1]. \"I felt welcome,\" Johnson said. \"I was one of the family\" [1]. He went on to photograph Black life in the Fillmore [1][2].",
+  "people": [
+   {
+    "name": "David Johnson",
+    "role": "photographer, Adams's first Black student"
+   },
+   {
+    "name": "Ansel Adams",
+    "role": "photographer and teacher"
+   },
+   {
+    "name": "Minor White",
+    "role": "photographer and instructor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "David Johnson: A phenomenal journey",
+    "publisher": "UC Berkeley Library (Stories of UC Berkeley Library), via Wayback Machine",
+    "year": 2018,
+    "url": "https://web.archive.org/web/2019/https://stories.lib.berkeley.edu/david-johnson/a-phenomenal-journey/",
+    "supports": "letter and telegram quotes, stay at Adams's Richmond district home, Minor White and the camera, 'one of the family', Fillmore work"
+   },
+   {
+    "title": "David Johnson (photographer)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/David_Johnson_(photographer)",
+    "supports": "1945 arrival, lived at Adams's Sea Cliff home, first Black student"
+   },
+   {
+    "title": "Ansel Adams' Childhood Home Hidden in Sea Cliff",
+    "publisher": "Curbed SF, via Wayback Machine",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20160329075510/http://sf.curbed.com/2013/9/23/10195118/ansel-adams-childhood-home-hidden-in-sea-cliff",
+    "supports": "the two connected Adams houses at 129 and 131 24th Ave; 131 built in 1929 with a home studio; lent to Minor White"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-burkes-sea-cliff-campus",
+  "title": "Miss Burke's Girls Move to the Dunes",
+  "theme": "communities",
+  "year": 1949,
+  "yearEnd": 1975,
+  "place": {
+   "label": "Katherine Delmar Burke School, 7070 California Street at 32nd Avenue",
+   "lat": 37.78428,
+   "lon": -122.49332,
+   "precision": "building"
+  },
+  "hook": "A girls' school that began with eight pupils in a Pacific Heights rental moved out to a long strip of land beside Lincoln Park.",
+  "story": "Katherine Delmar Burke started tutoring for 25 cents an hour while still at Girls' High. In 1908 she opened her own class of eight girls, the \"Charter Children\", in a rental at Steiner and Pacific [1]. She died in Egypt in 1929. That same year, under her successor Barbara Burke, the school began acquiring land far out in Sea Cliff, at California Street and 32nd Avenue [1][2]. Its first building there opened in 1936 for the nursery school and kindergarten. In 1949 the Lower School followed [4], and the girls got a new plaid jumper to go with it [1]. The older girls stayed in Pacific Heights until 1975, when falling enrolment closed the high school and everyone moved to the Sea Cliff campus [1][2]. Traditions came along too: Pansy Day dates from 1926 and the October Festival from 1931 [1]. The site is a long, narrow three and a half acres [3]. In 2005, when the school proposed a two-story science and music building, the Lincoln Park neighbourhood groups objected. They objected to an entrance on El Camino del Mar and feared more traffic chaos on 32nd Avenue, where parents double-park at drop-off [3].",
+  "people": [
+   {
+    "name": "Katherine Delmar Burke",
+    "role": "founder"
+   },
+   {
+    "name": "Barbara Burke",
+    "role": "head of school, 1929-1960"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History",
+    "publisher": "Katherine Delmar Burke School",
+    "year": null,
+    "url": "https://www.burkes.org/history",
+    "supports": "founding story, 1929-30 land purchase, 1936 building, 1949 Lower School and jumper, 1975 closure and move, traditions"
+   },
+   {
+    "title": "Streetwise: Changing School Enrollments",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2022,
+    "url": "https://www.outsidelands.org/streetwise-changing-school-enrollments.php",
+    "supports": "Sea Cliff property acquired 1929-30, nursery and kindergarten 1936, lower school 1949, consolidation 1975"
+   },
+   {
+    "title": "Burke School expansion plans (Richmond Review, June 2005)",
+    "publisher": "The Richmond Review, via Internet Archive",
+    "year": 2005,
+    "url": "https://archive.org/details/richmondreview2005rich_4",
+    "supports": "three-and-a-half-acre narrow lot, proposed building, neighbourhood groups' parking objections"
+   },
+   {
+    "title": "San Francisco Point of Interest: Katherine Delmar Burke School",
+    "publisher": "NoeHill",
+    "year": 2020,
+    "url": "https://noehill.com/sf/landmarks/poi_katherine_delmar_burke_school.asp",
+    "supports": "acquiring Sea Cliff property in 1929, grades moved in stages, K-8 now on the Sea Cliff campus"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-quaker-meetinghouse",
+  "title": "Quakers in a Georgian Mansion on Lake",
+  "theme": "communities",
+  "year": 1959,
+  "yearEnd": 1994,
+  "place": {
+   "label": "2160 Lake Street (San Francisco Friends Meeting House, 1959-1994)",
+   "lat": 37.78612,
+   "lon": -122.48296,
+   "precision": "building"
+  },
+  "hook": "For 35 years San Francisco's Quakers worshipped in silence in a Lake Street mansion with a view of the bridge, and opened its rooms to workshops and activists.",
+  "story": "San Francisco's current Quaker meeting began on March 10, 1940, when 33 Friends gathered at the Presidio Open Air School on Washington Street [1]. In 1942 they moved to 1830 Sutter Street, the former Japanese YWCA, which had become available after Japanese Americans were forcibly removed [1]. The minutes show early on that they wanted a home of their own. In 1959 the meeting bought 2160 Lake Street, to be shared with the American Friends Service Committee and later the Friends Committee on Legislation [1]. Howard Brinton spoke at the dedication on January 3, 1960 [1]. The meeting's own history remembers \"a lovely old Georgian mansion with a magnificent view of the Golden Gate Bridge\". It also had a long flight of front stairs and a lot of unreinforced masonry [2]. The house hosted others too. In October 1992 representatives of several homeless advocacy groups met there [3], and in December 1993 the Quaker-sponsored Alternatives to Violence Project ran a weekend workshop in it [4]. Wheelchair access had worried Friends since the late 1980s, and the 1989 earthquake raised fears about the masonry [1]. In 1994 the Friends sold the house and moved to Ninth Street [1][2].",
+  "people": [
+   {
+    "name": "Elizabeth Owen",
+    "role": "first clerk of San Francisco Monthly Meeting"
+   },
+   {
+    "name": "Josephine Duveneck",
+    "role": "organiser of the first 1940 meeting"
+   },
+   {
+    "name": "Howard Brinton",
+    "role": "Quaker scholar who dedicated the Lake Street center"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Our history: 150 Years of Friends in San Francisco",
+    "publisher": "San Francisco Friends Meeting (Bruce A. Folsom)",
+    "year": 2014,
+    "url": "https://sfquakers.org/about-us/our-history/our-history-150-years/",
+    "supports": "1940 founding, 1942 move to 1830 Sutter, 1959 purchase, 1960 dedication, AFSC sharing, 1993-94 departure"
+   },
+   {
+    "title": "Our history: A Short History of San Francisco Quakers",
+    "publisher": "San Francisco Friends Meeting",
+    "year": 2015,
+    "url": "https://sfquakers.org/about-us/our-history/",
+    "supports": "'lovely old Georgian mansion' with bridge view, stairs, unreinforced masonry, 1989 quake, 1994 move"
+   },
+   {
+    "title": "Calendar listings (Richmond Review, October 1992)",
+    "publisher": "The Richmond Review, via Internet Archive",
+    "year": 1992,
+    "url": "https://archive.org/details/richmondreview51unse",
+    "supports": "homeless advocacy meeting at the Quaker Meeting House, 2160 Lake St."
+   },
+   {
+    "title": "Calendar listings (Richmond Review, December 1993)",
+    "publisher": "The Richmond Review, via Internet Archive",
+    "year": 1993,
+    "url": "https://archive.org/details/richmondreview63unse",
+    "supports": "Alternatives to Violence Project workshop at the SF Friends Meeting House, 2160 Lake St."
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-nwlf-shorenstein",
+  "title": "An Eviction Fight Comes to El Camino",
+  "theme": "civil-rights",
+  "year": 1977,
+  "yearEnd": null,
+  "place": {
+   "label": "740 El Camino del Mar (named in the 1977 flyer as Walter Shorenstein's home)",
+   "lat": 37.78651,
+   "lon": -122.49145,
+   "precision": "building"
+  },
+  "hook": "In the month police cleared Manilatown's International Hotel, an underground group aimed its anger at a Sea Cliff address.",
+  "story": "The fight over the International Hotel on Kearny Street began in 1968. The hotel then belonged to two heirs of the Milton Meyer real estate firm, and Walter Shorenstein, the firm's president and managing agent, took out a demolition permit and tried to evict the tenants, many of them elderly Filipinos [1][2]. After a fire killed three people he broke off talks. In December 1973 he sold the building to the Four Seas company, and the tenants only found out six months later, from Herb Caen's column [2]. All the tenants were evicted on August 4, 1977 [1]. That month a flyer headed \"SCUMLORDS FACING EVICTION\" appeared, signed by the Central Command of the New World Liberation Front. \"We decided to make a parking lot at 740 El Camino Del Mar,\" it began, calling the house Shorenstein's home and throwing in an antisemitic insult [1]. The flyer urged readers to \"plug up parking meters\" and to attack supervisors' houses, cars and property [1]. It does not say what, if anything, was actually done at the house. The Manilatown Heritage Foundation, which keeps the flyer, reads it as turning the tables on the landlord [1].",
+  "people": [
+   {
+    "name": "Walter Shorenstein",
+    "role": "real estate investor"
+   },
+   {
+    "name": "New World Liberation Front",
+    "role": "Bay Area underground group"
+   }
+  ],
+  "sources": [
+   {
+    "title": "New World Liberation Front: Scumlords Facing Eviction flyer (August 1977)",
+    "publisher": "Manilatown Heritage Foundation, via California Revealed / Internet Archive",
+    "year": 1977,
+    "url": "https://archive.org/details/casfmhf_000307",
+    "supports": "flyer text naming 740 El Camino Del Mar as Shorenstein's home, calls to action, Aug. 4, 1977 eviction, archive's interpretation"
+   },
+   {
+    "title": "International Hotel case (East/West, March 17, 1976)",
+    "publisher": "East/West newspaper, via Internet Archive",
+    "year": 1976,
+    "url": "https://archive.org/details/eastwest10east_10",
+    "supports": "Shorenstein's 1968 demolition permit and eviction attempt, deadly fire, sale to Four Seas in December 1973, Herb Caen column"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-wais-kidnapping",
+  "title": "Kidnapped on Trash Day",
+  "theme": "modern-city",
+  "year": 1996,
+  "yearEnd": null,
+  "place": {
+   "label": "Sea Cliff (the Wais home; exact address not published in sources)",
+   "lat": 37.787,
+   "lon": -122.4868,
+   "precision": "area"
+  },
+  "hook": "Two kidnappers cased a Sea Cliff mansion and noticed the maid took the garbage out every Tuesday at 6:30 a.m. So they came back the next Tuesday.",
+  "story": "Tom Taylor, 64, chose his victim from the newspaper. He had read about a large gift that steel magnate Marshall Wais had made to the San Francisco Opera [1]. He and his partner, Michael Robison, watched the Wais house in Sea Cliff five or six times. They noticed that on Tuesdays, trash day, the housekeeper, Yung Wong, wheeled the garbage out at 6:30 a.m. [1]. On November 19, 1996, Taylor caught her in the garage [1]. The Times of London reported that the men ordered the 79-year-old out of bed [2]. Wong got to Wais's stepson, Tom Hannah, in another wing, and he called the police [1]. Wais spent nearly eight hours blindfolded and handcuffed in a van [2]. The kidnappers planned their next move over coffee in a McDonald's parking lot on Stanyan Street. They phoned Wais's finance chief from pay phones, and that afternoon they collected $500,000 from a car parked at a Thai restaurant at the end of Lincoln Way [1]. They let Wais out in Golden Gate Park and handed him $20 for a cab. Moments later, police rammed their van [1][2]. From jail, Taylor said that if it hadn't worked, Microsoft's Paul Allen would likely have been next [1].",
+  "people": [
+   {
+    "name": "Marshall Wais",
+    "role": "steel executive and philanthropist"
+   },
+   {
+    "name": "Yung Wong",
+    "role": "housekeeper"
+   },
+   {
+    "name": "Tom Taylor",
+    "role": "kidnapper"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Sea Cliff kidnapping: Microsoft's Paul Allen was also target of extortion plot (Ed Walsh, Richmond Review, January 1999)",
+    "publisher": "The Richmond Review, via Internet Archive",
+    "year": 1999,
+    "url": "https://archive.org/details/richmondreview114rich",
+    "supports": "motive, casing the house, trash-day timing, housekeeper and stepson, McDonald's command post, ransom drop, $20 cab fare, arrest, sentences, Paul Allen claim"
+   },
+   {
+    "title": "Magnate freed for $500,000 ransom",
+    "publisher": "The Times (London), 21 November 1996, via Internet Archive",
+    "year": 1996,
+    "url": "https://archive.org/download/NewsUK1996UKEnglish/Nov%2021%201996%2C%20The%20Times%2C%20%2365741%2C%20UK%20%28en%29_djvu.txt",
+    "supports": "nearly eight hours blindfolded and handcuffed, entry as the maid took out the rubbish, Wais ordered out of bed, stepson alerted police, $20 cab fare, van rammed"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-little-house-lake-street",
+  "title": "The Little House on Lake Street",
+  "theme": "modern-city",
+  "year": 1999,
+  "yearEnd": 2001,
+  "place": {
+   "label": "1725 Lake Street, between 18th and 19th Avenues",
+   "lat": 37.78582,
+   "lon": -122.47799,
+   "precision": "building"
+  },
+  "hook": "A small old cottage on a block of mostly three-story homes became a test case for what San Francisco owed its small, cheap houses.",
+  "story": "In 1999 a turn-of-the-century house at 1725 Lake Street stood among mostly three-story neighbours [1][3]. Developer Ernie McNabb had paid $375,000 for it and wanted to replace it with two 4,000-square-foot condominiums [1]. His lawyer argued that it was too small for anyone to buy and fix up, and that calling it affordable was \"erroneous\". Neighbours said it was sound housing, and that the condos would block their light and views [1]. In February 1999 the Board of Appeals deadlocked 2-2, so the denial of the demolition stood. \"It would open the flood gates,\" said Commissioner Carole Cullum [1]. Within months the one-bedroom house sold for $500,000 [2]. Just how small it was depends on the report: 1,000, 726 or 900 square feet [1][2][3]. By 2001 its owners, Kenneth and Monique Lew, had a new plan: add two floors, taking it from 23 to 40 feet tall, so they could raise children and, following Asian tradition, eventually take in their parents. \"When we first started looking for a house this is all we could afford,\" Lew said [3]. Larry Minnich, next door at 1727, called the plan \"monstrous\". Planning Commissioner Myrna Limm agreed it was too big [3].",
+  "people": [
+   {
+    "name": "Kenneth and Monique Lew",
+    "role": "owners in 2001"
+   },
+   {
+    "name": "Larry Minnich",
+    "role": "neighbour at 1727 Lake St."
+   },
+   {
+    "name": "Ernie McNabb",
+    "role": "developer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Board rules owner cannot demolish Lake St. property (Carol Dimmick, Richmond Review, March 1999)",
+    "publisher": "The Richmond Review, via Internet Archive",
+    "year": 1999,
+    "url": "https://archive.org/details/richmondreview116rich",
+    "supports": "McNabb's purchase price and condo plan, lawyer's and neighbours' arguments, 2-2 vote, Cullum quote; describes it as a 1,000-sq-ft home"
+   },
+   {
+    "title": "Richmond Homes Sold (Richmond Review, May 1999)",
+    "publisher": "The Richmond Review, via Internet Archive",
+    "year": 1999,
+    "url": "https://archive.org/details/richmondreview118rich",
+    "supports": "May 1999 sale: 1725 Lake St., one bedroom, 726 sq ft, $500,000"
+   },
+   {
+    "title": "Controversial Lake Street property delayed (Bobby Wilson, Richmond Review, September 2001)",
+    "publisher": "The Richmond Review, via Internet Archive",
+    "year": 2001,
+    "url": "https://archive.org/details/richmondreview1312rich",
+    "supports": "the Lews' expansion plan and reasons, Lew and Minnich quotes, Limm's view, earlier 1998 proposal"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-robin-williams-halloween",
+  "title": "Halloween Central at the Williams House",
+  "theme": "modern-city",
+  "year": 2008,
+  "yearEnd": null,
+  "place": {
+   "label": "Sea Cliff (the Williams family home; address not given in sources)",
+   "lat": 37.78832,
+   "lon": -122.48981,
+   "precision": "area"
+  },
+  "hook": "Robin Williams's Sea Cliff house hosted big-ticket fundraisers. For local kids it was something better: the best stop on the Halloween route.",
+  "story": "Robin Williams married Marsha Garces in April 1989. She had first come into his life as a nanny for his son Zachary, then became his assistant. Their daughter Zelda was born that July and their son Cody in 1991 [1]. The couple worked as a team. In 1991 they founded Blue Wolf Productions, and Garces produced Mrs. Doubtfire and Patch Adams. Through their Windfall Foundation they gave to education, health, the environment and the arts [1]. Home was Sea Cliff [1]. By 2000, lost tourists looking for the 49-Mile Drive or the beaches were wandering past the houses of Williams and Sharon Stone [2]. When Garces filed for divorce in March 2008, the Chronicle's Leah Garchik remembered what the house had meant to the street. It had been the scene of \"big-ticket fundraising dinners and cocktail parties, but also Halloween central for neighborhood trick-or-treaters\" [1]. By then Williams was reportedly living in Marin, though he still surprised Bay Area audiences with unannounced drop-ins at comedy clubs [1].",
+  "people": [
+   {
+    "name": "Robin Williams",
+    "role": "comedian and actor"
+   },
+   {
+    "name": "Marsha Garces Williams",
+    "role": "producer and philanthropist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Robin Williams' wife files for divorce after nearly 19 years (Leah Garchik)",
+    "publisher": "San Francisco Chronicle, via Wayback Machine",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20080329231846/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fc%2Fa%2F2008%2F03%2F26%2FDD7AVQHPA.DTL&tsp=1",
+    "supports": "marriage and children, Blue Wolf, Windfall Foundation, Sea Cliff house as fundraiser venue and 'Halloween central', Marin reports, surprise club appearances"
+   },
+   {
+    "title": "S.F. Removal of Safety Signs Upsets Sea Cliff Residents (Edward Epstein)",
+    "publisher": "San Francisco Chronicle",
+    "year": 2000,
+    "url": "https://www.sfchronicle.com/politics/article/S-F-Removal-of-Safety-Signs-Upsets-Sea-Cliff-3304178.php",
+    "supports": "tourists wandering past the homes of Robin Williams and Sharon Stone"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "seacliff-2p-maids-and-cooks-1939",
+  "title": "Who Cooked Dinner on El Camino del Mar",
+  "theme": "labor-industry",
+  "year": 1939,
+  "yearEnd": 1940,
+  "place": {
+   "label": "625 El Camino del Mar (one of many households listing live-in staff)",
+   "lat": 37.786,
+   "lon": -122.49033,
+   "precision": "building"
+  },
+  "hook": "Leaf through the 1939 city directory and Sea Cliff's big houses fill with other names: the maids, cooks, nurses and a butler who worked there.",
+  "story": "The city directories of the late 1930s listed domestic workers under their own names, with the houses where they worked. In the 1939 and 1940 editions, dozens of Sea Cliff entries on El Camino del Mar, Sea Cliff Avenue, Scenic Way and McLaren Avenue are for maids, cooks and nurses, often several at one house [1][2]. Nora O'Brien is listed as cook at 625 El Camino del Mar in both years. In 1940 the same house also had a maid, Kath, and a nurse, Eleanore Kawaite [1][2]. Bertha was the maid at 740 El Camino del Mar in both years [1][2]. Bridie McNulty was the nurse at 498 Sea Cliff Avenue in 1939. In 1940 the directory lists a butler, Oscar, at the same address [1][2]. Haru Shimuru was a maid at 190 Sea Cliff Avenue in 1939. Louise Saiki was a maid at 600 El Camino del Mar in 1940 [1][2]. Erika Chalfant cooked at 80 Scenic Way, where Mary was the nurse [1][2]. The scanned text is imperfect, so a search surely misses some.",
+  "people": [
+   {
+    "name": "Nora O'Brien",
+    "role": "cook, 625 El Camino del Mar"
+   },
+   {
+    "name": "Haru Shimuru",
+    "role": "maid, 190 Sea Cliff Avenue"
+   },
+   {
+    "name": "Bridie McNulty",
+    "role": "nurse, 498 Sea Cliff Avenue"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Polk's Crocker-Langley San Francisco City Directory 1939",
+    "publisher": "R. L. Polk & Co., via San Francisco Public Library / Internet Archive",
+    "year": 1939,
+    "url": "https://archive.org/details/polkscrockerlang1939dire",
+    "supports": "1939 entries for maids, cooks and nurses at Sea Cliff addresses, incl. O'Brien, McNulty, Shimuru, Bertha at 740"
+   },
+   {
+    "title": "Polk's Crocker-Langley San Francisco City Directory 1940",
+    "publisher": "R. L. Polk & Co., via San Francisco Public Library / Internet Archive",
+    "year": 1940,
+    "url": "https://archive.org/details/polkscrockerlang1940dire",
+    "supports": "1940 entries incl. Nora cook and Kawaite nurse at 625, butler at 498 Sea Cliff Av, Saiki at 600, Chalfant at 80 Scenic Way"
+   }
+  ],
+  "photo": null
+ }
+]

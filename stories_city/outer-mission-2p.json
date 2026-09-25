@@ -1,0 +1,668 @@
+[
+  {
+    "id": "outer-mission-2p-corpus-christi-farmers-church",
+    "title": "The farmers' church on Santa Rosa Avenue",
+    "theme": "communities",
+    "year": 1898,
+    "place": {
+      "label": "Corpus Christi Church, 62 Santa Rosa Avenue (at Alemany Boulevard)",
+      "lat": 37.72662,
+      "lon": -122.43496,
+      "precision": "building"
+    },
+    "hook": "Italian vegetable growers here faced a trip of nearly three and a half hours to mass in North Beach. In 1898 they got a church of their own.",
+    "story": "Long before the Excelsior filled up with stucco houses, the land around here was worked by Italian truck farmers, the giardinieri, who came from Liguria, Tuscany and elsewhere. They grew lettuce, cabbage and artichokes for the Colombo produce market downtown [1]. Going to mass meant a journey of almost three and a half hours to Saints Peter and Paul in North Beach [2]. In 1898 an Italian national church, Corpus Christi, was founded at what is now the corner of Alemany Boulevard and Santa Rosa Avenue [1]. A 2010 post on the Excelsior library's blog describes it as an offshoot of Sts. Peter & Paul [3]. Local historian Walter Jebe Sr. recorded that the first Gothic Revival church cost $7,000 and served a small flock of Italian, Swiss and German farmers. (One account dates that building to the 1880s rather than 1898.) [2] In 1952 the parish replaced it with a modern church and school by the architect Mario Ciampi. LIFE magazine photographed its front wall of coloured glass panes in 1955. Those panes were later swapped for the amber glass you see today, supposedly because a pastor didn't like them [2]. Later, when Filipino families settled in the Excelsior, Corpus Christi saw a revival of its own [4].",
+    "people": [
+      {
+        "name": "Walter G. Jebe Sr.",
+        "role": "Excelsior historian"
+      },
+      {
+        "name": "Mario Ciampi",
+        "role": "architect of the 1952 church"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Italian-American Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/italian-american-life-in-the-excelsior/",
+        "supports": "Giardinieri from Liguria and Tuscany, crops for the Colombo market, Corpus Christi founded 1898 as an Italian national church at Alemany and Santa Rosa"
+      },
+      {
+        "title": "Top 5 Institutional Buildings in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-institutional-buildings-in-the-excelsior/",
+        "supports": "Jebe on the $7,000 first church and its Italian, Swiss and German farmers; nearly 3.5-hour trip to North Beach; 1952 Ciampi church and school; LIFE 1955; coloured panes replaced with amber glass"
+      },
+      {
+        "title": "In the Neighborhood: Greg Pabst and the Excelsior Stroll",
+        "publisher": "San Francisco Public Library, Excelsior Branch blog",
+        "year": 2010,
+        "url": "http://excelsiorbranchsfpl.blogspot.com/2010/07/in-neighborhood-greg-pabst-and.html",
+        "supports": "Italian farmers worshipped at Corpus Christi, an offshoot of Sts. Peter & Paul in North Beach"
+      },
+      {
+        "title": "Filipino Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/filipino-life-in-the-excelsior/",
+        "supports": "Corpus Christi's resurgence with the Filipino community"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-julia-morgan-ocean-avenue-church",
+    "title": "Julia Morgan's quiet church off Mission",
+    "theme": "communities",
+    "year": 1922,
+    "place": {
+      "label": "Ocean Avenue Presbyterian Church, 32 Ocean Avenue",
+      "lat": 37.72394,
+      "lon": -122.43614,
+      "precision": "building"
+    },
+    "hook": "While their new church was being finished, a Presbyterian congregation worshipped in a Mission Street movie house. The architect was Julia Morgan.",
+    "story": "Just off Mission Street, half a block up Ocean Avenue, is a modest stucco church with half-timbering that few people connect with Julia Morgan. It was built to her design in 1922 [1]. The building has a side entry pavilion with Gothic arched windows, delicate tracery and stained glass, and inside there is a plain but lovely timbered wooden ceiling and wood panelling [1]. While the church was being finished, the congregation spent three months holding services in the Bell Theatre on Mission Street near Leo Street [1]. That little picture house at 4734 Mission had opened around 1911 as the Excelsior; one theatre listing gives 1919 as its last year as the Bell, so exactly when it stopped showing films is unclear [2]. Later the church added a community centre at the back of the lot, facing San Juan Avenue, and after 1950 a Sunday school between the two [1]. SF Heritage calls it the oldest church building in the Excelsior and one of Morgan's lesser-known works [1]. Wikipedia's article on Morgan lists the sanctuary at 32 Ocean Avenue and notes that a second congregation, Mission Bay Community Church, also meets there [3].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Top 5 Institutional Buildings in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-institutional-buildings-in-the-excelsior/",
+        "supports": "Julia Morgan design, 1922, exterior and interior details, three months of services at the Bell Theater at Mission and Leo, community centre and Sunday school, oldest church building in the Excelsior"
+      },
+      {
+        "title": "San Francisco Theatres: by address and neighborhood",
+        "publisher": "San Francisco Theatres (Bay Area Historic Theatres blog)",
+        "year": 2017,
+        "url": "http://sanfranciscotheatres.blogspot.com/2017/06/san-francisco-theatres-by-address.html",
+        "supports": "Bell Theatre at 4734 Mission St., called the Excelsior 1911-1915 and the Bell until 1919"
+      },
+      {
+        "title": "Julia Morgan",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Julia_Morgan",
+        "supports": "Lists the sanctuary of Ocean Avenue Presbyterian Church at 32 Ocean Avenue, where Mission Bay Community Church also meets"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-guadalupe-hall",
+    "title": "Weddings upstairs, produce downstairs",
+    "theme": "communities",
+    "year": 1909,
+    "place": {
+      "label": "Guadalupe Hall, 4555 Mission Street",
+      "lat": 37.72528,
+      "lon": -122.43401,
+      "precision": "building"
+    },
+    "hook": "It was once the only social hall in the southern part of the city. For over a century it has served the Excelsior's changing crowds.",
+    "story": "It doesn't look like much from the sidewalk, but 4555 Mission Street is the Excelsior's oldest social venue. Guadalupe Hall went up in 1909. For a time it was the only hall of its kind in the southern part of the city [1]. It hosted weddings, dinners, club meetings and the regular gatherings of the Native Sons and Daughters of the Golden West [1]. A photograph from about 1920 shows the words 'Guadalupe Hall' across the top of the building. The 1915 Sanborn fire-insurance map marks it as a 'Hall' and shows a garage and repair shop in the same building [1]. The people upstairs kept changing. In later years seniors from the Filipino community held dances in the hall, and today it is a Spanish-language church hall [1]. The ground floor now holds Casa Lucaz #3 Produce and Meats, which reflects the Mexican and Central American families who made the Excelsior a significant Latino neighbourhood after the Second World War [1][2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Top 5 Institutional Buildings in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-institutional-buildings-in-the-excelsior/",
+        "supports": "Built 1909, earliest social venue, weddings, dinners, Native Sons and Daughters, once the only venue in the south of the city, c.1920 photo, 1915 Sanborn map, Filipino seniors' dances, Spanish-language church hall, Casa Lucaz #3"
+      },
+      {
+        "title": "Latinx Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/news/latinx-life-in-the-excelsior/",
+        "supports": "Casa Lucaz #3 Produce and Meats at 4555 Mission; growth of the Latino population after World War II"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-valente-marini-perata",
+    "title": "Ninety years of wakes at 4840 Mission",
+    "theme": "communities",
+    "year": 1926,
+    "yearEnd": 2017,
+    "place": {
+      "label": "Former Valente, Marini, Perata & Co. funeral home, 4840 Mission Street",
+      "lat": 37.72014,
+      "lon": -122.4385,
+      "precision": "building"
+    },
+    "hook": "When their Italian customers moved to the Excelsior after 1906, the North Beach undertakers followed. For ninety years, a death in the family meant a call to 4840 Mission.",
+    "story": "Virgil Valente, Frank Marini and John B. Perata founded their funeral business in North Beach in 1888 or 1889 (sources differ) [1][2]. After 1906 they moved temporarily to 3448 Mission Street. By 1926 many of their Italian families had resettled in the Excelsior, so the firm followed them. It opened a Spanish Colonial Revival building at 4840 Mission, designed by the Italian-American architect John A. Porporato [2]. In 1959 the building got a Midcentury Modern makeover, with porcelain enamel panels shading from peach to crimson. Its wordy neon parking sign dates from 1937 [2]. Frank Dunnigan wrote that even as old customers moved away, calling Valente, Marini, Perata was the first thing many families did after a death. As the neighbourhood changed, the firm began serving the Latino and Filipino families nearby. It also handled many funerals for local parishes such as Corpus Christi, Epiphany and St. John the Evangelist [1]. One of the last services, in July 2017, was for a Balboa High graduate aged nearly 96. It followed custom: a wake from 5 to 9 p.m., then a funeral Mass at Corpus Christi the next morning [1]. The firm closed that month. The property had been sold to a non-profit housing developer, whose affordable-housing plans were still in flux in 2020 [1][2].",
+    "people": [
+      {
+        "name": "Virgil Valente",
+        "role": "co-founder"
+      },
+      {
+        "name": "Frank Marini",
+        "role": "co-founder"
+      },
+      {
+        "name": "John B. Perata",
+        "role": "co-founder"
+      },
+      {
+        "name": "John A. Porporato",
+        "role": "architect of the 1926 building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Valente, Marini, Perata",
+        "publisher": "Western Neighborhoods Project (OutsideLands.org)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/streetwise-valente.php",
+        "supports": "Founded 1888 in North Beach, 1926 move to follow customers, first call for families, adaptation to Latino and Filipino families, parishes served, last funeral in July 2017 with wake and Mass, closure and sale for affordable housing"
+      },
+      {
+        "title": "Excelsior Endangered",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/excelsior-endangered/",
+        "supports": "Roots traced to 1889, temporary 3448 Mission location after 1906, 1926 building by John A. Porporato, 1959 remodel and colours, 1937 neon sign, July 2017 closure, housing proposals; 2020 housing proposal for the site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-royal-baking-macaroni-feud",
+    "title": "A macaroni feud and a bakery crown",
+    "theme": "labor-industry",
+    "year": 1935,
+    "place": {
+      "label": "Royal Baking Company building, 4769-4773 Mission Street",
+      "lat": 37.72186,
+      "lon": -122.43655,
+      "precision": "building"
+    },
+    "hook": "A pasta-maker's bitter split with his relatives and five North Beach bakers ended up under one three-pointed Art Deco crown on Mission Street.",
+    "story": "Ambrose B. Frank opened a real estate office at 4607 Mission Street in 1907. By the 1930s the Examiner said his neighbours hailed him as 'the mayor of the district' [1]. In 1935 he put up a 'new modern type' building at 4769-4773 Mission [1]. His first tenant came out of a family feud. Gaetano Ferrigno was a vice-president of Golden Grain Macaroni, the biggest of about a dozen macaroni makers in the city. After a bitter split with his relatives he was bought out, and he started a rival company, Sorrento Macaroni. He leased 5,000 square feet of Frank's building, sold from the Storybook-cottage storefront and made pasta in the back. His son Angelo later turned the shop into the Sorrento Delicatessen [1]. The rest of the building went to the Royal Baking Company from 704 Filbert Street in North Beach, whose partners were Pellegrino Matteucci, John Mazzini, Jack Cima, Mario Cafferata and Rudolph Paladini. Frank applied for a permit for two large double-brick Dutch ovens that October [1]. Into the 1970s and beyond, Royal offered grissini, panettone, focaccia and 'special Italian cookies' [1]. Today Salvadoran Metapan Pupuseria fills the old macaroni storefront [2], and by 2014 the bakery was a pastelería serving a Mexican and Central American clientele [3].",
+    "people": [
+      {
+        "name": "Ambrose B. Frank",
+        "role": "real estate broker and builder"
+      },
+      {
+        "name": "Gaetano Ferrigno",
+        "role": "founder of Sorrento Macaroni"
+      },
+      {
+        "name": "Pellegrino Matteucci",
+        "role": "Royal Baking partner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A New City Landmark Rises in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/a-new-city-landmark-rises-in-the-excelsior/",
+        "supports": "Frank's 1907 office and 'mayor of the district', 1935 building, Ferrigno's split from Golden Grain, Sorrento Macaroni lease and deli, Royal Baking's Filbert St. origin and partners, Dutch oven permit, Italian breads and cookies"
+      },
+      {
+        "title": "Latinx Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/news/latinx-life-in-the-excelsior/",
+        "supports": "Metapan Pupuseria at 4769 Mission in the Storybook storefront"
+      },
+      {
+        "title": "Excelsior District",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Excelsior_District",
+        "supports": "2014 photo caption: Royal Baking building now a pastelería for a Mexican and Central American clientele"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-garcia-harrington-street",
+    "title": "Grandma's Opry and a boy on Harrington Street",
+    "theme": "arts-counterculture",
+    "year": 1947,
+    "yearEnd": 1953,
+    "place": {
+      "label": "87 Harrington Street (Garcia's grandparents' house), near Mission Street",
+      "lat": 37.72578,
+      "lon": -122.4362,
+      "precision": "building"
+    },
+    "hook": "Long before the Grateful Dead, a five-year-old Jerry Garcia moved into his grandparents' house on Harrington Street. He later named a book after it.",
+    "story": "Jerry Garcia was born in the Excelsior in August 1942 [1]. Until he was five he lived at 121 Amazon Avenue. Then his father drowned on a fishing trip, and Jerry moved across Alemany to his grandparents' home at 87 Harrington Street [2][3]. The house was new in 1907, when Bill and Tillie Clifford bought it, and Jerry's mother Ruth was born there in June 1910 [1]. Ruth took over her late husband's bar and worked full-time, so Jerry and his older brother Clifford ('Tiff') spent about five years with their grandparents [1]. Jerry went to Monroe Elementary, where a third-grade teacher showed him that being a creative person was 'a viable possibility in life' [1]. He remembered his grandmother listening to the Grand Ole Opry, and around then he took up the banjo, his first stringed instrument. Tiff insisted he was 'fantasizing all that': she had been to the Opry, he said, but didn't listen to it on the radio [1]. Garcia later wrote and illustrated a book called 'Harrington Street' [2]. In October 2016 a bronze plaque went into the sidewalk at Mission and Harrington. A second followed on his 75th birthday in 2017 [3]. His daughter Trixie hoped it would inspire 'a lot of working-class kids growing up here' [3].",
+    "people": [
+      {
+        "name": "Jerry Garcia",
+        "role": "musician, grew up here"
+      },
+      {
+        "name": "Tillie Clifford",
+        "role": "his grandmother"
+      },
+      {
+        "name": "Clifford 'Tiff' Garcia",
+        "role": "his brother"
+      },
+      {
+        "name": "Trixie Garcia",
+        "role": "his daughter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jerry Garcia",
+        "publisher": "Wikipedia (quoting Blair Jackson, Garcia: An American Life, 1999)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Jerry_Garcia",
+        "supports": "Born in the Excelsior 1942; 87 Harrington built 1907 and bought by the Cliffords; Ruth born there 1910; five years with grandparents; Monroe Elementary teacher; Grand Ole Opry and banjo; brother's doubts"
+      },
+      {
+        "title": "Excelsior district takes care of its own",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2002,
+        "url": "https://www.sfgate.com/entertainment/article/excelsior-district-takes-care-of-its-own-2790710.php",
+        "supports": "121 Amazon until age five; father drowned fishing; moved across Alemany to 87 Harrington; Garcia's book 'Harrington Street'"
+      },
+      {
+        "title": "Shakedown Street: Excelsior Unveils A 2nd Plaque To Honor Jerry Garcia",
+        "publisher": "Hoodline (archived)",
+        "year": 2017,
+        "url": "https://web.archive.org/web/2019/https://hoodline.com/2017/08/shakedown-street-excelsior-unveils-a-2nd-plaque-to-honor-jerry-garcia",
+        "supports": "Plaques at Mission and Harrington (October 2016) and Mission and Amazon (August 1, 2017); grandparents' home after his father's death; Trixie Garcia quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-joes-cable-car",
+    "title": "Ground steak and neon at Joe's",
+    "theme": "modern-city",
+    "year": 1965,
+    "yearEnd": 2014,
+    "place": {
+      "label": "Joe's Cable Car Restaurant, 4320 Mission Street",
+      "lat": 37.72846,
+      "lon": -122.4319,
+      "precision": "building"
+    },
+    "hook": "It began as a cable car selling burgers to go. Joe Obegi turned it into a neon shrine where 'well-done is for the birds'.",
+    "story": "Joe's Cable Car opened on Mission Street in 1965 as just that: a cable car selling burgers to go [1]. Joe Obegi, 'a native Armenian' in Eater's words, first worked there as a manager during his college days. He couldn't afford to finish his computer studies, took over as owner in 1968 and ended up in the restaurant business for good [1]. Over the years the place grew into a sit-down restaurant crammed with neon signs, twinkling lights and big floral arrangements [1]. Obegi said he didn't sell burgers at all but 'ground steak', made from marbled Midwestern beef, fresh and cooked to order, and he pleaded with customers to taste it before adding ketchup. 'Well-done is for the birds,' he told Eater in 2013. He ate one of his own burgers five or six times a week [1]. After Diners, Drive-Ins and Dives featured Joe's in 2008 there were traffic jams outside. On its best day the tiny room served 700 people [1][3]. His doctor finally told him to stop, and in March 2014 regulars lined up for the last day after 49 years [2]. 'It's going to be hard to wake up one day and have nowhere to go,' Obegi said [2].",
+    "people": [
+      {
+        "name": "Joe Obegi",
+        "role": "owner from 1968"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Talking Burgers with Joe Obegi of Joe's Cable Car",
+        "publisher": "Eater SF",
+        "year": 2013,
+        "url": "https://sf.eater.com/2013/4/17/6450369/talking-burgers-with-joe-obegi-of-joes-cable-car",
+        "supports": "Founded 1965 as a cable car selling burgers to go, Obegi's background and 1968 ownership, decor, ground steak, 'well-done is for the birds', 2008 TV rush, 700 people in a day"
+      },
+      {
+        "title": "Joe's Cable Car Restaurant Closes After 49 Years In San Francisco",
+        "publisher": "KPIX CBS San Francisco",
+        "year": 2014,
+        "url": "https://www.cbsnews.com/sanfrancisco/news/joes-cable-car-restaurant-closes-after-49-years-in-san-francisco/",
+        "supports": "Last day, doctor's advice, 49 years, Obegi quote"
+      },
+      {
+        "title": "Excelsior District, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Excelsior_District,_San_Francisco",
+        "supports": "Founded 1965, owner Joe Obegi, featured on Diners, Drive-Ins and Dives in 2008, closed 2014"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-alemany-hospital-sit-in",
+    "title": "The neighbours who moved into their hospital",
+    "theme": "civil-rights",
+    "year": 1978,
+    "place": {
+      "label": "Former Alemany Emergency Hospital, 35 Onondaga Avenue",
+      "lat": 37.7213,
+      "lon": -122.43837,
+      "precision": "building"
+    },
+    "hook": "When the city shut its free neighbourhood emergency hospitals in 1978, Outer Mission residents moved in, slept there and ran first aid themselves.",
+    "story": "For decades San Francisco ran something almost no other American city had: free emergency care. Neighbourhood aid stations and ambulances were backed by San Francisco General, and a 1964 Examiner story called the system the 'only one of its kind in the U.S.' [3]. Alemany Emergency Hospital opened in 1933 on Onondaga Avenue, in a Spanish Baroque building by City Architect Charles H. Sawyer [1][2]. A 1963 city employees' newsletter described its cases as mostly domestic accidents, but warned that when an auto accident came in 'it's a lulu', because of the fast boulevards nearby [2]. In 1978 the city moved to close the system. Members of the Communities of the Outer Mission Organization answered with a sit-in: they ate and slept in the hospital for about six weeks and offered free first aid to anyone who came [1][2]. The protest failed, and the hospital closed on August 24, 1978 [1]. By the next year the city was charging $68 for an ambulance ride [3]. The buildings later housed day-health programmes until 2011. Neighbours then got them designated City Landmark No. 272 in 2016, and Clinic by the Bay has since been renovating the hospital as a free clinic for uninsured working people [1][2].",
+    "people": [
+      {
+        "name": "Charles H. Sawyer",
+        "role": "City Architect"
+      },
+      {
+        "name": "Lisa Dunseth",
+        "role": "led the 2016 landmark effort"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark 272: Alemany Emergency Hospital and Health Buildings",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2023,
+        "url": "https://noehill.com/sf/landmarks/sf272.asp",
+        "supports": "Built 1933 by Charles H. Sawyer; summer 1978 sit-in, eating and sleeping there for over a month and a half, free first aid; closure August 24, 1978; Clinic by the Bay"
+      },
+      {
+        "title": "Alemany Emergency Center: Excelsior Landmark",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/alemany-emergency-center-excelsior-landmark/",
+        "supports": "COMO six-week sit-in, 1963 'lulu' quote, Spanish Baroque design, St. Luke's/St. Mary's leases to 2011, Lisa Dunseth and 2016 designation as Landmark #272"
+      },
+      {
+        "title": "San Francisco's Free Emergency Services: Gone and Forgotten",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco%E2%80%99s_Free_Emergency_Services:_Gone_and_Forgotten",
+        "supports": "Free citywide system, 1964 Examiner 'only one of its kind', $68 ambulance charge from 1979, Alemany station at 35 Onondaga later St. Mary's Adult Day Health Care Center"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-croatian-cultural-center",
+    "title": "A Dalmatian society finally gets a home",
+    "theme": "communities",
+    "year": 1979,
+    "place": {
+      "label": "Croatian American Cultural Center, 60 Onondaga Avenue (at Alemany Boulevard)",
+      "lat": 37.72186,
+      "lon": -122.43892,
+      "precision": "building"
+    },
+    "hook": "Founded by Dalmatian coffee-house keepers on the 1850s waterfront, a Croatian aid society waited 122 years for a building of its own.",
+    "story": "In 1857 immigrants from Croatia's Dalmatian coast, who ran coffee houses, restaurants, saloons and produce stores on the San Francisco waterfront, formed the Slavonic Illyric Mutual and Benevolent Society [1]. By its own account, Croatian-Dalmatian men owned at least 40 percent of the waterfront's coffee houses by 1875 [1]. The society gave members financial help, a post-office box for travelling workers, a grave plot and insurance. It was also the place where newcomers and old-timers traded news about jobs and home life [1]. With government social services and assimilated children, the need faded. By 1965 membership was down to 180, from 650 in the 1870s [1]. The remaining members pooled their skills and savings, and on March 24, 1979 the Croatian American Cultural Center opened at Alemany and Onondaga [1]. While the building was being planned, member Adam Eterovich made the controversial suggestion that women be allowed to join. When the bylaws changed in 1975 to admit women and other nationalities, membership jumped to 400 [1]. The city's historians count the centre among the wave of purpose-built ethnic cultural halls of the 1970s and '80s, alongside the United Irish Cultural Center [2].",
+    "people": [
+      {
+        "name": "Adam Eterovich",
+        "role": "society leader who pushed to admit women"
+      },
+      {
+        "name": "John Daley",
+        "role": "co-founder of the Cultural Committee, 1985"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of the Croatian American Cultural Center",
+        "publisher": "Croatian American Cultural Center / Slavonic Mutual and Benevolent Society",
+        "year": null,
+        "url": "https://croatianamericanculturalcenter.org/about",
+        "supports": "1857 founding by Dalmatian immigrants, waterfront businesses, 1875 coffee-house share, benefits, 1965 membership of 180, March 24, 1979 opening at Alemany and Onondaga, Eterovich, 1975 bylaws and 400 members"
+      },
+      {
+        "title": "Clubs and Social Halls Historic Context Statement, 1848-1989",
+        "publisher": "San Francisco Planning Department (Page & Turnbull)",
+        "year": 2024,
+        "url": "https://sfplanning.org/resource/historic-context-statements",
+        "supports": "Croatian American Cultural Center, 60 Onondaga Avenue, built 1979, among 1970s-80s purpose-built cultural centres"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-granada-filipino-films",
+    "title": "Filipino films and a killing at the Granada",
+    "theme": "communities",
+    "year": 1981,
+    "place": {
+      "label": "Former Granada (Excelsior) Theatre, 4631 Mission Street at Ocean Avenue",
+      "lat": 37.72392,
+      "lon": -122.43492,
+      "precision": "building"
+    },
+    "hook": "The Excelsior's grand movie palace ended its life showing Filipino films. In 1981 its manager was killed in a botched robbery.",
+    "story": "The Excelsior Theatre opened at Mission Street and Ocean Avenue in August 1922. It was designed by G. Albert Lansburgh, cost $300,000 including ten shops, seated 950 and had a Robert Morton organ [1]. A 1931 remodel added a tower and raised the seating to 1,421, and it reopened as the Granada. The downtown Granada had just become the Paramount, so the name was free [1][3]. One former resident, nearly 100, still remembers Saturday afternoons of Tarzan movies there [1]. By the 1970s the audience was changing, as Filipino families bought homes in the Excelsior, and the Granada, run by the Lim family, began showing Filipino films [2]. So did the Amazon (then the Apollo) on Geneva Avenue [2]. In the early 1980s it was still screening Filipino movies [1]. Then on October 5, 1981 its manager, Myla Lim, was murdered in a botched robbery [1]. The theatre went dark, probably in November 1982, after about sixty years of films [1][3]. Today a Goodwill store fills the old lobby and a Walgreens the rest of the building. The marquee and vertical sign are long gone [1][3].",
+    "people": [
+      {
+        "name": "Myla Lim",
+        "role": "theatre manager"
+      },
+      {
+        "name": "G. Albert Lansburgh",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Granada/Excelsior Theatre",
+        "publisher": "San Francisco Theatres (Bay Area Historic Theatres blog)",
+        "year": 2017,
+        "url": "http://sanfranciscotheatres.blogspot.com/2017/08/granada-mission.html",
+        "supports": "1922 opening, Lansburgh, cost, 950 seats, organ, 1931 renaming and 1,421 seats, Filipino films in the 1980s, Myla Lim murdered October 5, 1981, closing c. November 1982, Goodwill and Walgreens"
+      },
+      {
+        "title": "Filipino Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/filipino-life-in-the-excelsior/",
+        "supports": "Granada run by the Lim family showing Filipino films; Amazon/Apollo on Geneva Avenue also did"
+      },
+      {
+        "title": "Excelsior District, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Excelsior_District,_San_Francisco",
+        "supports": "Opened 1922 as the Excelsior, renamed Granada in 1931 when the downtown name was freed, closed 1982, now Goodwill and Walgreens"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-dan-white-shawnee",
+    "title": "The supervisor who came home to hide",
+    "theme": "modern-city",
+    "year": 1985,
+    "place": {
+      "label": "Shawnee Avenue, Outer Mission",
+      "lat": 37.71849,
+      "lon": -122.44629,
+      "precision": "street"
+    },
+    "hook": "After prison, Dan White watched his son's soccer games through a knothole. He came back to the southern neighbourhoods that had elected him, and died on Shawnee Avenue.",
+    "story": "When Dan White ran for supervisor in the 1970s, he walked the Excelsior and Crocker-Amazon promising to clean up City Hall. One Crocker-Amazon family remembered their mother's window poster: 'Unite and Fight with Dan White' [3]. On November 27, 1978 he shot Mayor George Moscone and Supervisor Harvey Milk in City Hall. He was convicted of manslaughter, and the verdict set off a night of rioting [1]. Released in January 1984 after five years, he served his parole in Los Angeles and then returned to the Bay Area [1]. Friends described a man in hiding. He watched his young son's soccer games from behind a fence, peering through a knothole. When he visited his family at the house he owned in the Excelsior area, he slouched down as the car pulled into the driveway so the neighbours wouldn't see him [1]. A four-month trip to Ireland, where nobody knew his face, only made coming home harder [1]. On Monday, October 21, 1985, White took his own life in his car, holding photographs of his wife and children [1]. A 2002 Chronicle portrait of the Excelsior noted that he had lived on London Street and 'committed suicide, too, right on Shawnee Avenue', then added: 'you can't blame the neighborhood' [2].",
+    "people": [
+      {
+        "name": "Dan White",
+        "role": "former supervisor"
+      },
+      {
+        "name": "Marty Cardone",
+        "role": "boyhood friend"
+      }
+    ],
+    "sources": [
+      {
+        "title": "For Dan White, Death Ended 2 Years of Fear and Haunted Dreams",
+        "publisher": "Los Angeles Times",
+        "year": 1985,
+        "url": "https://www.latimes.com/archives/la-xpm-1985-10-23-mn-13835-story.html",
+        "supports": "Killings, manslaughter verdict and riot, release January 1984, parole, knothole and driveway details, Excelsior home, Ireland trip, suicide on October 21, 1985 holding family photographs"
+      },
+      {
+        "title": "Excelsior district takes care of its own",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2002,
+        "url": "https://www.sfgate.com/entertainment/article/excelsior-district-takes-care-of-its-own-2790710.php",
+        "supports": "White represented the district, lived on London Street and 'committed suicide, too, right on Shawnee Avenue'; neighbourhood not to blame"
+      },
+      {
+        "title": "Crocker Amazon Tract Notables",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Crocker_Amazon_Tract_Notables",
+        "supports": "White walking the Excelsior and Crocker Amazon; 'Unite and Fight with Dan White' poster"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-guadalajara-groceries",
+    "title": "Guadalajara Groceries among the Pellegrinis",
+    "theme": "communities",
+    "year": 1950,
+    "yearEnd": 1970,
+    "place": {
+      "label": "Site of Guadalajara Mexican Groceries, 4421 Mission Street",
+      "lat": 37.72722,
+      "lon": -122.43254,
+      "precision": "building"
+    },
+    "hook": "Around 1950, a Mexican grocery turned up in the city directory among the Cerrutis and Mulvihills. Within twenty years, the local census tract counted two Hispanic residents for every Italian.",
+    "story": "In the early 1950s the San Francisco city directory showed something new on outer Mission Street. Among the Cerrutis, Mulvihills and Pellegrinis were Guadalajara Mexican Groceries at 4421 Mission and residents such as Mary Sandoval at 4449 and Manuel Gonzales at 4789 [1]. Latino families were moving out from North Beach, South of Market and the Tenderloin, and new immigrants were arriving from Mexico and Central America [1]. The census counts for one Excelsior tract tell the story. In 1950 it had 1,006 Italians and 772 'Hispanics'. By 1960 Hispanics had pulled ahead, 1,868 to 1,779. By 1970 the Italian count had barely moved, at 1,728, while the Hispanic count had doubled to 3,714 [1]. In the 1970s researcher Phylis Martinelli interviewed old-time 'villagers'. She found that the two groups went to the same churches, shops and schools without overt discrimination, though some Italians resented the newcomers [1]. In the 1980s refugees from Central America's wars added to the neighbourhood [2]. Oscar Grande, a son of Salvadoran immigrants, has described growing up here with deep ties to the Mission [3].",
+    "people": [
+      {
+        "name": "Phylis Martinelli",
+        "role": "researcher of the Excelsior 'villagers'"
+      },
+      {
+        "name": "Oscar Grande",
+        "role": "Excelsior native, son of Salvadoran immigrants"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Latinx Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/news/latinx-life-in-the-excelsior/",
+        "supports": "1950s directory entries at 4421, 4449 and 4789 Mission; migration sources; census tract 260 figures for 1950, 1960 and 1970; Martinelli findings"
+      },
+      {
+        "title": "Excelsior District, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Excelsior_District,_San_Francisco",
+        "supports": "Neighbourhood became predominantly Latino with refugees from Central American wars and immigrants from Mexico in the 1980s"
+      },
+      {
+        "title": "Excelsior District",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Excelsior_District",
+        "supports": "Oscar Grande on growing up in the Excelsior as a son of Salvadoran immigrants"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-filipino-mission-street",
+    "title": "Paying cash: the Filipino Excelsior",
+    "theme": "communities",
+    "year": 1982,
+    "place": {
+      "label": "Site of Bulakena Grocery, 4995 Mission Street",
+      "lat": 37.71853,
+      "lon": -122.43927,
+      "precision": "building"
+    },
+    "hook": "In 1977 a local barber was amazed that Filipino families were paying cash for their houses. By the 1980s you could rent Filipino videos with your groceries on Mission Street.",
+    "story": "In the 1970 census Filipinos were only 6 percent of the Excelsior [1]. Two things changed that. At home, redevelopment was wiping out Manilatown on Kearny Street, most painfully with the 1977 eviction of elderly tenants from the International Hotel. Nationally, the 1965 immigration reforms ended a quota that had allowed just 100 immigrants a year from the Philippines. Many of the new arrivals were professionals, and they looked for houses with yards [1]. In 1977 Excelsior barber Caspare La Rosa told a reporter that upwardly mobile Filipino families would 'pay cash for the houses they are buying' [1]. By the early 1980s small markets were selling goods from the Philippines, including Bulakena Grocery at 4995 Mission, across the street from Manila Florist. Many ran a busy sideline in Filipino video rentals and CDs [1]. Parishes that had been emptying filled up again [1]. The Filipino American turntablist DJ Qbert lived a few blocks away, and his Invisibl Skratch Piklz got their start in a garage on Moscow Street [2]. The Filipino Community Center opened at 4681 Mission in 2004 [1]. The Excelsior still has a large Filipino community [3].",
+    "people": [
+      {
+        "name": "Caspare La Rosa",
+        "role": "Excelsior barber"
+      },
+      {
+        "name": "DJ Qbert",
+        "role": "turntablist raised nearby"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Filipino Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/filipino-life-in-the-excelsior/",
+        "supports": "1970 census figure, Manilatown and I-Hotel, 1965 Immigration Act, La Rosa quote, Bulakena Grocery at 4995 Mission and Manila Florist, video rentals, parish revival, Filipino Community Center at 4681 Mission in 2004"
+      },
+      {
+        "title": "Excelsior district takes care of its own",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2002,
+        "url": "https://www.sfgate.com/entertainment/article/excelsior-district-takes-care-of-its-own-2790710.php",
+        "supports": "DJ Qbert, Filipino American, lived a few blocks away; Invisibl Skratch Piklz began in a Moscow Street garage"
+      },
+      {
+        "title": "Excelsior District, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Excelsior_District,_San_Francisco",
+        "supports": "The Excelsior has a large Filipino community"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "outer-mission-2p-sons-of-italy-villagers",
+    "title": "Wine cellars, bocce and the Sons of Italy",
+    "theme": "communities",
+    "year": 1957,
+    "place": {
+      "label": "Sons of Italy Hall, 5051 Mission Street",
+      "lat": 37.71769,
+      "lon": -122.43975,
+      "precision": "building"
+    },
+    "hook": "Excelsior Italians swapped vegetables across the street because some would only grow on one side. In 1957 the Sons of Italy made Mission Street their western headquarters.",
+    "story": "Mid-century Excelsior Italians called themselves 'villagers', and they lived like it. Almost every household had a garden. Long experience had taught them that some vegetables grew well on only one side of the street, so neighbours traded produce as well as special dishes and desserts [1]. In wine-making season the neighbourhood smelled of grapes fermenting in backyards and garages. Every year a procession marked the Feast of the Madonna della Guardia [1]. In 1957 the Sons of Italy, a national fraternal organisation, opened its western headquarters at 5051 Mission Street, in a hall built for the purpose. It was still in use more than sixty years later [1][2]. As late as 1976 one historian wrote that 'next to North Beach, the Excelsior has probably maintained itself as an Italian district more than any other' [1]. The Italian presence lingered. In 2002 a reporter found old-timers at morning coffee in the Italian American Social Club, the Sons of Italy building down the street, old men playing bocce nearby and houses that still had wine cellars [3]. By 2020 the two club buildings were almost the only visible sign that this had been an Italian district [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Italian-American Life in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/italian-american-life-in-the-excelsior/",
+        "supports": "'Villagers' and vegetable exchange quote, home wine-making, Madonna della Guardia procession, Sons of Italy western headquarters at 5051 Mission in 1957, 1976 historian quote, club buildings as the last evidence"
+      },
+      {
+        "title": "Top 5 Institutional Buildings in the Excelsior",
+        "publisher": "SF Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-institutional-buildings-in-the-excelsior/",
+        "supports": "Sons of Italy Hall at 5051 Mission purpose-built as a fraternal hall and still operating"
+      },
+      {
+        "title": "Excelsior district takes care of its own",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2002,
+        "url": "https://www.sfgate.com/entertainment/article/excelsior-district-takes-care-of-its-own-2790710.php",
+        "supports": "Old-timers' morning coffee, Sons of Italy building down the street, bocce, wine cellars"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  }
+]

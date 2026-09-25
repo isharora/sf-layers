@@ -1,0 +1,629 @@
+[
+ {
+  "id": "inner-sunset-2p-sutro-forest-suicides",
+  "title": "The Dark Side of Sutro's Forest",
+  "theme": "gold-rush-victorian",
+  "year": 1903,
+  "yearEnd": 1904,
+  "place": {
+   "label": "Sutro Forest on Mount Sutro, behind the Affiliated Colleges (now UCSF)",
+   "lat": 37.759,
+   "lon": -122.456,
+   "precision": "area"
+  },
+  "hook": "Mushroom pickers, a forest keeper and passing strangers kept making the same discovery in Adolph Sutro's eucalyptus woods above Parnassus.",
+  "story": "Adolph Sutro planted his eucalyptus on the bare hills above the Inner Sunset to give the city a forest [2]. Around 1900 its dense, lonely groves became the scene of one suicide after another, reported mostly in the San Francisco Call [1].\n\nIn December 1899 the forest keeper reported a man's body a few feet from a path behind the Affiliated Colleges. He had a bicycle pump in his pocket and a packet marked \"poison.\" A postcard in his pocket named him Frank Parker; a friend later identified him as Grant Bell, a bicycle repairer from San Jose [1]. In November 1903, two mushroom gatherers from Stanyan Street found remains midway between the colleges and the Almshouse. The dead man was a member of the Marine Firemen's Union whose name had been scraped off his union certificate. Across it was scrawled an unsigned note: \"If you want to bury me, I'm thankful to you\" [1].\n\nIn April 1904 two men found Thomas Murnane, 52, in a tall eucalyptus. Once a wealthy businessman, he had ended up in the Almshouse. He had vanished in February, the day after telling a fellow inmate that his last child had died and he was tired of a life of poverty [1].",
+  "people": [
+   {
+    "name": "Thomas Murnane",
+    "role": "Former businessman and Almshouse inmate"
+   },
+   {
+    "name": "Grant Bell",
+    "role": "Bicycle repairer from San Jose"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Ghosts of Sutro Forest: A Legacy of Suicides (Rex Bell, 2011, transcribing San Francisco Call reports)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2011,
+    "url": "https://www.outsidelands.org/sutro-ghosts.php",
+    "supports": "The 1899, 1903 and 1904 cases, names, details and quotes"
+   },
+   {
+    "title": "The Seedbank of Mount Sutro (Elizabeth Creely)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mount_Sutro",
+    "supports": "Sutro planted the eucalyptus forest on Mount Sutro"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-seventh-avenue-presbyterian",
+  "title": "Down to Seven Members, Then a Tower",
+  "theme": "communities",
+  "year": 1905,
+  "yearEnd": 1989,
+  "place": {
+   "label": "Seventh Avenue Presbyterian Church, 1329 7th Avenue",
+   "lat": 37.7635,
+   "lon": -122.46446,
+   "precision": "building"
+  },
+  "hook": "In 1903 this congregation had seven active members. Two years later it bet everything on a lot in the Inner Sunset's sand.",
+  "story": "The congregation began downtown in 1892 as Cumberland Presbyterian Church. It soon had 132 members, but by 1903 only seven were still active [1]. A new pastor revived it, and in 1905 the members bought land on 7th Avenue in the barely built Inner Sunset. The church there was finished in 1907, and the congregation has been on the same site ever since [1][2].\n\nThe neighbourhood filled in around it. By the 1920s there were more than 300 members, and the building was enlarged into its present form, dedicated in 1929. For decades a big neon cross with the church's name stuck out over the sidewalk, until it was taken down in the 1960s [1][2]. The church got through money trouble in the Depression, paid off its debts by the late 1950s and had more than 400 members, before suburban moves thinned the pews after 1975 [1].\n\nThen came October 17, 1989. The Loma Prieta earthquake seriously damaged the church [1]. Nearby, an apartment building at the northwest corner of 7th Avenue and Judah was so badly damaged that it was torn down the next April, with the church tower looking on [2][3]. The church was repaired, and membership has grown back to more than 100 [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Streetwise: Changing Houses of Worship (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-changing-houses-of-worship.php",
+    "supports": "1892 founding, decline to 7 members by 1903, 1905 purchase, 1907 completion, 1929 expansion, neon cross, membership figures, Loma Prieta damage"
+   },
+   {
+    "title": "Streetwise: SF Police Department On Duty (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-sf-police-department-on-duty.php",
+    "supports": "Church on site since 1907, present building dedicated 1929; April 1990 demolition at NW corner of 7th and Judah after Loma Prieta"
+   },
+   {
+    "title": "Streetwise: October Happenings in the Western Neighborhoods (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2024,
+    "url": "https://www.outsidelands.org/streetwise-october-happenings-in-the-western-neighborhoods.php",
+    "supports": "Quake-damaged apartment building at 7th and Judah demolished the following spring, with the church tower in view"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-834-irving-tanforan",
+  "title": "A Rancho Heiress Behind the Grocery Counter",
+  "theme": "communities",
+  "year": 1912,
+  "yearEnd": 1919,
+  "place": {
+   "label": "834 Irving Street (today's Blackthorn Tavern), near 10th Avenue",
+   "lat": 37.76426,
+   "lon": -122.46704,
+   "precision": "building"
+  },
+  "hook": "The woman selling Acme Beer and jam on Irving Street was a Tanforan, daughter of a Mexican-era land grantee.",
+  "story": "834 Irving Street went up in 1907 as a corner grocery. In 1912 grocer William A. Rodgers and his wife Nelly bought it with a loan from the Bank of Italy. They lived around the corner at 1307 10th Avenue and sold Acme Beer and Sunlit jams [1].\n\nThen things came apart. In 1916 Nelly went into partnership with August W. Peterson, who lived on 9th Avenue, and the shop became N. Rodgers & Co. In 1918 she sued William for divorce on grounds of desertion. In August 1919 the whole business, stock, Ford truck, meat slicer and all, was sold at auction [1].\n\nNelly had been born Catherine Nelly Tanforan on May 13, 1877. Her father, Toribio Tanforan, was a native of Chile (some said Peru) who held part of an 1836 Mexican land grant near Mission Dolores. The San Bruno racetrack, and the mall that replaced it, were named for him [1][2]. Orphaned at seven, she later lived with her siblings in the family's old cottages on Dolores Street until her death in 1953 [1].\n\nThe storefront carried on: a sheet-metal shop, Billings Dime Store, then a line of bars (Ole's, The Scene, the Golden Grommet), and today the Blackthorn [1].",
+  "people": [
+   {
+    "name": "Catherine Nelly Tanforan Rodgers",
+    "role": "Grocer, daughter of Toribio Tanforan"
+   },
+   {
+    "name": "William A. Rodgers",
+    "role": "Grocer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Podcast #502: 834 Irving (transcript)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2023,
+    "url": "https://www.outsidelands.org/podcast/WNP502_834_Irving",
+    "supports": "Building date, owners, loan, partnership, divorce, auction, Nelly's parentage and later life, succession of businesses"
+   },
+   {
+    "title": "Tanforan Racetrack",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Tanforan_Racetrack",
+    "supports": "The racetrack was named for Toribio Tanforan (pointer)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-guinea-pigs-rabbits",
+  "title": "Guinea Pigs for the Medical School",
+  "theme": "parks-nature",
+  "year": 1920,
+  "yearEnd": 1929,
+  "place": {
+   "label": "18th Avenue near Judah Street, then at the edge of the dunes",
+   "lat": 37.76155,
+   "lon": -122.47563,
+   "precision": "area"
+  },
+  "hook": "Four brothers on 18th Avenue raised guinea pigs to sell to the university's medical school, and hunted rabbits with slingshots.",
+  "story": "Stan Adair grew up in the Sunset in the early 1920s. When his family first moved to 18th Avenue, fewer than a dozen houses stood nearby. There were no paved streets, no sidewalks and no streetlights, just brushy hills behind the house and dunes all the way to the ocean [1].\n\nThe four Adair boys ripped out a huge blackberry vine and raised chickens and rabbits in the back yard. Later they raised guinea pigs and sold them to the University of California Medical School in San Francisco for lab tests. Cottontails were so thick that the boys could get dinner within 500 feet of the front door, using slingshots because they weren't allowed guns. Their mother wanted a garden, so the family hauled tons of black loam in from South San Francisco, because nothing grows in sand [1].\n\nNearby, other kids made rabbit hunting a weekend ritual. Mary Ada Williams recalled boys meeting at 19th Avenue and Judah at 7 a.m. on Saturdays and yelling \"Hooy, Hooy, Hooy!\" until neighbourhood dogs jumped their fences to join in. They hunted west through lupine and sagebrush, then split the catch evenly at an empty real estate office at 19th and Ortega [2].",
+  "people": [
+   {
+    "name": "Stan Adair",
+    "role": "Memoirist who grew up on 18th Avenue"
+   },
+   {
+    "name": "Mary Ada Williams",
+    "role": "Memoirist of Sunset rabbit hunts"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Country Living in the Sunset (Stan Adair, from his unpublished book 'Spell Hippopotamus', 1991)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 1991,
+    "url": "https://www.outsidelands.org/adair1.php",
+    "supports": "Early-1920s 18th Avenue house, guinea pigs sold to the UC Medical School, rabbits and slingshots, hauling loam"
+   },
+   {
+    "title": "Rabbit Hunting in the Sunset (Mary Ada Williams)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Rabbit_Hunting_in_the_Sunset",
+    "supports": "Saturday hunts starting at 19th Avenue and Judah, the dog call, splitting the catch at 19th and Ortega"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-connell-parnassus",
+  "title": "Annie's Pink Cocktail on Parnassus",
+  "theme": "communities",
+  "year": 1925,
+  "yearEnd": null,
+  "place": {
+   "label": "The Connell house, 311 Parnassus Avenue",
+   "lat": 37.76404,
+   "lon": -122.45473,
+   "precision": "building"
+  },
+  "hook": "She weighed 77 pounds, argued politics with a cocktail tilted at 30 degrees and never spilled a drop. Her silent husband outwitted a paddy wagon.",
+  "story": "Annie Lynch Connell was born in County Cavan in 1848, the last of fourteen girls. At five she and four sisters were sent to America, at $10 a passage. She married Jim Connell at 35, honeymooned in San Francisco, fell for its \"blessed fog\" and refused to leave [1].\n\nAt 311 Parnassus she ruled a table of seven. Her grandson remembered her at 77 pounds, debating politics with a stemmed glass of her own pink cocktail. Five o'clock was cocktail time. She once talked a police officer into letting her keep flowers she had picked in Golden Gate Park. She also let in a friendly assessor because he said he was from Ireland, and he rewarded her with a whopping personal property tax bill [1].\n\nJim was big and quiet. After Annie died he rode downtown each day on a quarter: a dime for the round-trip streetcar, fifteen cents for silent movies. One evening he dozed off against a hydrant on Market Street, and police took him for a drunk. As the patrol wagon climbed Haight Street alongside the No. 6 streetcar he usually rode home, he convinced the officers he was no drunk and, with their permission, swung aboard [1][2]. At dinner, his grandson recalled, he spoke just four words: \"Pass the Worcestershire Sauce.\"",
+  "people": [
+   {
+    "name": "Annie Lynch Connell",
+    "role": "Irish-born matriarch"
+   },
+   {
+    "name": "Jim Connell",
+    "role": "Her husband"
+   },
+   {
+    "name": "Harold A. Lane Jr.",
+    "role": "Grandson who wrote down the family stories"
+   }
+  ],
+  "sources": [
+   {
+    "title": "311 Parnassus Street: Tales of the Connell family (Harold A. Lane Jr., shared by Julie Lane)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2008,
+    "url": "https://www.outsidelands.org/311-parnassus.php",
+    "supports": "All family details, anecdotes and quotes"
+   },
+   {
+    "title": "6 Haight and Masonic Streetcar Line",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/6-line.php",
+    "supports": "The 6-line streetcar ran from the Ferry Building via Market and Haight Streets to the Inner Sunset"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-nuremberg-dentist-son",
+  "title": "The Dentist Upstairs and the Nazi Prisoners",
+  "theme": "war-military",
+  "year": 1945,
+  "yearEnd": null,
+  "place": {
+   "label": "Dental office above the corner drugstore, NW corner of 9th Avenue and Irving Street",
+   "lat": 37.76428,
+   "lon": -122.46655,
+   "precision": "block"
+  },
+  "hook": "A no-nonsense dentist drilled Inner Sunset teeth above the Rexall. His son spent 1945 testing Göring and Hess.",
+  "story": "Denis Quinn remembered the corner of 9th and Irving around 1959: a Rexall drugstore, known locally as K & K, with phone booths and a soda fountain. Upstairs was the office of George F. Kelley, DDS, a \"no-nonsense\" dentist whose motto was \"Get in and get the work done!\" Quinn believed Kelley's son had been chief psychiatrist at the Nuremberg trials [1].\n\nThe details fit. Douglas McGlashan Kelley, born in Truckee in 1912 and raised in San Francisco, was the son of George Kelley, a dentist [2][3]. In 1945 the Army made him chief psychiatrist for the captured Nazi leaders. Over five months he examined 22 of them, including Hermann Göring and Rudolf Hess, using Rorschach and IQ tests. His conclusion was that they had no special Nazi pathology [3].\n\nThe story ended badly. On New Year's Day 1958, Kelley, by then a Berkeley criminologist, drove into San Francisco to pick up his father, the dentist, to watch the Rose Bowl. Back home in Kensington, in front of his wife, his father and his three children, he swallowed potassium cyanide, the same poison Göring had used [2].",
+  "people": [
+   {
+    "name": "George F. Kelley",
+    "role": "Inner Sunset dentist"
+   },
+   {
+    "name": "Douglas M. Kelley",
+    "role": "Chief psychiatrist at Nuremberg Prison, 1945"
+   },
+   {
+    "name": "Denis F. Quinn",
+    "role": "Neighbourhood memoirist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Irving and Ninth Avenue Memories (Denis F. Quinn, 2010)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/irving-9th-memories.php",
+    "supports": "K & K Rexall, Dr. George F. Kelley's office upstairs, his motto, Quinn's belief about the son"
+   },
+   {
+    "title": "Mysterious suicide of Nuremberg psychiatrist (Joan Ryan)",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2005,
+    "url": "https://www.sfgate.com/bayarea/article/Mysterious-suicide-of-Nuremburg-psychiatrist-2732801.php",
+    "supports": "Grew up in San Francisco; father a dentist; New Year's Day 1958 death by potassium cyanide in front of family"
+   },
+   {
+    "title": "Douglas Kelley",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Douglas_Kelley",
+    "supports": "Born Truckee 1912, son of George Kelley, dentist; Nuremberg role, 22 defendants, tests, conclusions (pointer)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-jefferson-school-fire",
+  "title": "The Report Card That Burned a School",
+  "theme": "modern-city",
+  "year": 1959,
+  "yearEnd": null,
+  "place": {
+   "label": "Jefferson School, SE corner of 19th Avenue and Irving Street",
+   "lat": 37.76314,
+   "lon": -122.47654,
+   "precision": "building"
+  },
+  "hook": "Near the end of the 1959 school year, a pupil tried to get rid of a bad grade. Jefferson School went up in flames.",
+  "story": "On June 1, 1959, near the end of the school year, fire tore through Jefferson School at 19th Avenue and Irving Street. Investigators got a confession from a student: he had set fire to a piece of schoolwork that had earned him a poor grade, and the fire spread [1].\n\nThe damage was so bad that the next fall Jefferson's pupils were sent off to several nearby schools. The 1920s classroom building on 19th Avenue had to be demolished and was replaced with a modern one, still with a red-brick front. Only the old arch-windowed auditorium was saved and refurbished, and it is still in use [1][2][3]. Newspapers at the time said the arsonist was a pupil trying to cover up a bad grade [3].\n\nDunnigan also passed on a piece of schoolyard legend. He wrote that about ten years later the same young man was hired as night watchman while the new St. Ignatius campus was built on 37th Avenue. Seniors heard it \"from the horse's mouth\" and never told the administration [3]. Treat that part as a story, not a record.",
+  "people": [],
+  "sources": [
+   {
+    "title": "Streetwise: Fires in the Western Neighborhoods (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-fires-in-the-western-neighborhoods.php",
+    "supports": "June 1, 1959 arson; student's confession about a poorly graded paper; classroom building rebuilt, auditorium saved"
+   },
+   {
+    "title": "Streetwise: Lost School Buildings of the Western Neighborhoods (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-lost-school-buildings-of-the-western-neighborhoods.php",
+    "supports": "Students dispersed for the next year; 1920s building demolished and replaced with a red-brick-fronted school; only the auditorium saved"
+   },
+   {
+    "title": "Streetwise - Irving Insights (Frank Dunnigan, 2010)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/streetwise-irving.php",
+    "supports": "Auditorium as sole survivor; night-watchman anecdote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-forest-knolls-1961",
+  "title": "Willie Brown Picks a Fight in Forest Knolls",
+  "theme": "civil-rights",
+  "year": 1961,
+  "yearEnd": null,
+  "place": {
+   "label": "Forest Knolls tract, Christopher Drive on the slope of Mount Sutro",
+   "lat": 37.75511,
+   "lon": -122.45725,
+   "precision": "area"
+  },
+  "hook": "A 27-year-old lawyer who defended hustlers for a living took on a developer who wouldn't sell new hillside homes to Black buyers.",
+  "story": "Around 1953 crews clear-cut trees and terraced the hillside east of 8th Avenue and Lawton, below Mount Sutro, for a new subdivision called Forest Knolls [2]. In 1961 the developer was refusing to sell homes there to Black people. The Chronicle placed the tract \"west of Twin Peaks\" [1].\n\nWillie Brown, 27, took him on. A Hastings law graduate who couldn't get hired by the big firms, Brown was defending pimps, prostitutes and street hustlers to make a living. His fiery, articulate protest got wide press coverage. Many white San Franciscans backed him, including Dianne Feinstein, then a little-known homemaker [1].\n\nThe Chronicle later judged that the protest failed to end housing discrimination. But it made Brown's name, and three years later he was in the State Assembly [1]. The Western Neighborhoods Project credits the community campaign with finally opening Forest Knolls to people of color [2]. Brown went on to become Assembly Speaker and mayor of San Francisco. It started on these streets below the forest.",
+  "people": [
+   {
+    "name": "Willie Brown",
+    "role": "Lawyer and protest leader, later Assembly Speaker and mayor"
+   },
+   {
+    "name": "Dianne Feinstein",
+    "role": "Supporter of the protest, later mayor and U.S. senator"
+   }
+  ],
+  "sources": [
+   {
+    "title": "It's Brown vs. Brown: Ex-speaker's reputation helps, hinders him (Clarence Johnson), archived",
+    "publisher": "San Francisco Chronicle",
+    "year": 1995,
+    "url": "https://web.archive.org/web/2008/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1995/10/24/MN71927.DTL",
+    "supports": "1961 protest against Forest Knolls developer, Brown's age and law practice, Feinstein's support, outcome, Assembly three years later"
+   },
+   {
+    "title": "Podcast #396: Forest Knolls",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2020,
+    "url": "https://www.outsidelands.org/podcast/WNP396_Forest_Knolls",
+    "supports": "Community action led by the politician opened the development to people of color; c.1953 clear-cutting and terracing seen from 8th Ave and Lawton"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-poly-march-1968",
+  "title": "Poly's Students March Downtown",
+  "theme": "civil-rights",
+  "year": 1968,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of Polytechnic High School, 701 Frederick Street (now housing; the two gyms survive)",
+   "lat": 37.76576,
+   "lon": -122.45663,
+   "precision": "building"
+  },
+  "hook": "When teachers called their school \"a failure,\" a thousand Poly students marched downtown chanting for their Black principal. Can you dig it?",
+  "story": "By 1968 Polytechnic High on Frederick Street, across from Kezar Stadium, had 1,650 students, 51 percent of them Black and Filipino. Most white students had been assigned to Lincoln High or chose to go there. That spring Poly got its first Black principal, Nathaniel Brooks [1][2].\n\nIn October 1968, Poly teachers wrote to Superintendent Robert Jenkins that the school was \"currently a failure as an educational institution.\" They listed drugs, violence and truancy. Students read the letter in the newspaper, and the school exploded. On October 25, backed by the Black Panthers, about 1,000 Poly students, Black, white and Filipino, marched through the Haight to the district office. One placard read \"Mr. Brooks is here to stay, baby. Can you dig it\" [1]. Alumna Lonetta Spears said James Brown's \"Say It Loud\" was their theme song [1].\n\nThe superintendent granted their demands. The number of Black teachers doubled from 8 to 16, and Black studies classes were added. But Brooks resigned in 1969, enrollment fell to 750, and in 1972 the district decided to close Poly because it was not earthquake-safe [1]. Only the old gyms were kept when the school was torn down for housing [2][3].",
+  "people": [
+   {
+    "name": "Nathaniel Brooks",
+    "role": "Poly's first Black principal"
+   },
+   {
+    "name": "Lonetta Spears",
+    "role": "Student marcher, later a school counselor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Poly High alums seek spirit of '68 (Venise Wagner)",
+    "publisher": "San Francisco Examiner / SFGATE",
+    "year": 1996,
+    "url": "https://www.sfgate.com/news/article/Poly-High-alums-seek-spirit-of-68-3121056.php",
+    "supports": "Enrollment and demographics, Brooks, teachers' letter and quote, Oct 25 march, placard, demands won, decline and closure"
+   },
+   {
+    "title": "San Francisco Polytechnic High School",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/San_Francisco_Polytechnic_High_School",
+    "supports": "701 Frederick Street site; first Black principal spring 1968 (pointer)"
+   },
+   {
+    "title": "Poly High on Frederick Street (John Molloy; photos by Chris Carlsson)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Poly_High_on_Frederick_Street",
+    "supports": "The old Poly gyms were kept when the school was torn down for housing"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-st-john-of-god",
+  "title": "The Easygoing Parish at 5th and Irving",
+  "theme": "communities",
+  "year": 1967,
+  "yearEnd": null,
+  "place": {
+   "label": "St. John of God Church, NE corner of 5th Avenue and Irving Street",
+   "lat": 37.76446,
+   "lon": -122.4619,
+   "precision": "building"
+  },
+  "hook": "An old Protestant church near UCSF became a Catholic student center, and 1970s couples found a priest who allowed John Denver songs.",
+  "story": "The church on the northeast corner of 5th Avenue and Irving began as a Protestant church in the 1920s, with a classic Craftsman interior. In 1967 it became the Catholic Newman Club for students at the nearby UC medical campus, and later a parish of its own, St. John of God [1]. It is one of the Sunset's Catholic parishes, alongside St. Anne's, Holy Name and St. Gabriel [2].\n\nFor Frank Dunnigan's college friends in the 1970s, it had one big advantage. The priest was known as easier to work with than older pastors. Couples who wanted John Denver on guitar and vows they had written themselves found a welcome here, in a church much smaller and more intimate than the big neighbourhood churches, St. Anne's and St. Cecilia's [1].\n\nIt was a small sign of change on inner Irving Street. In the same decade, Dunnigan remembered, USF students crowded into the Embers bar on Irving and took first dates to the Recovery Room on Judah for tablecloths, candles and veal [1].",
+  "people": [
+   {
+    "name": "Frank Dunnigan",
+    "role": "Columnist who attended 1970s weddings there"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise - Irving Insights (Frank Dunnigan, 2010)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/streetwise-irving.php",
+    "supports": "Former 1920s Protestant church, Craftsman interior, Newman Club 1967, later parish, 1970s weddings, the Embers, the Recovery Room"
+   },
+   {
+    "title": "Podcast #395: Catholic Sunset",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2020,
+    "url": "https://www.outsidelands.org/podcast/WNP395_Catholic_Sunset",
+    "supports": "St. John of God among the Sunset's Catholic parishes"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-liquor-moratorium",
+  "title": "Too Many Bars for Six Blocks",
+  "theme": "modern-city",
+  "year": 1996,
+  "yearEnd": null,
+  "place": {
+   "label": "Inner Sunset commercial core, Lincoln Way to Kirkham, 7th to 11th Avenues",
+   "lat": 37.7642,
+   "lon": -122.468,
+   "precision": "area"
+  },
+  "hook": "State guidelines said the Inner Sunset's core should have 28 places serving liquor. It had 38, and a supervisor wanted the tap turned off.",
+  "story": "Inner Irving Street had always liked a drink. Its bars ranged from the 1893 Little Shamrock on Lincoln Way to the Embers on Irving [2]. By 1996 some neighbours thought it had too many.\n\nIn September 1996 Supervisor Mabel Teng proposed an 18-month moratorium on new liquor licenses for bars and restaurants in the area bounded by Lincoln Way, 7th Avenue, Kirkham Street and 11th Avenue. The area had 38 bars and restaurants serving alcohol, while the state Bureau of Alcoholic Beverage Control recommended 28. \"This is a neighborhood and family issue,\" Teng said. Police said the Inner Sunset's crime rate was about 18 percent above the city average [1].\n\nOthers pushed back. Supervisor Susan Leal, author of the Mission District's ban two years earlier, said \"this is a restaurant town\" and argued that liquor stores and corner shops should be included. The same day the board refused a license for a new bar and restaurant on Irving Street. Only Supervisor Tom Hsieh voted for it, saying it was unfair to an owner who had already spent his money [1]. Teng was the first Chinese American elected to the board without first being appointed [3].",
+  "people": [
+   {
+    "name": "Mabel Teng",
+    "role": "Supervisor who proposed the moratorium"
+   },
+   {
+    "name": "Susan Leal",
+    "role": "Supervisor"
+   },
+   {
+    "name": "Tom Hsieh",
+    "role": "Supervisor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "New liquor limits urged for Sunset (Diana Walsh)",
+    "publisher": "San Francisco Examiner / SFGATE",
+    "year": 1996,
+    "url": "https://www.sfgate.com/news/article/New-liquor-limits-urged-for-Sunset-3125592.php",
+    "supports": "Proposal, boundaries, 38 vs 28, quotes, crime rate, Leal's response, license vote"
+   },
+   {
+    "title": "Streetwise: Westside Watering Holes (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise_watering_holes.php",
+    "supports": "The Embers on Irving Street; Little Shamrock at 807 Lincoln Way"
+   },
+   {
+    "title": "Mabel Teng",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mabel_Teng",
+    "supports": "First Chinese American elected to the board without prior appointment (pointer)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-alice-fong-yu-school",
+  "title": "Where English Speakers Learn Cantonese",
+  "theme": "communities",
+  "year": 1996,
+  "yearEnd": null,
+  "place": {
+   "label": "Alice Fong Yu Alternative School, 1541 12th Avenue",
+   "lat": 37.75896,
+   "lon": -122.46968,
+   "precision": "building"
+  },
+  "hook": "In 1926 she became the city school district's first Chinese American teacher. Seventy years later, a Sunset school teaching Chinese to all children took her name.",
+  "story": "On a Saturday in January 1996, about 200 parents and students gathered at the former Columbus School in the Sunset to rename it for Alice Fong Yu. At 90 and in a wheelchair, she raised her mittened hands like a prizefighter [1]. In 1926 Yu had become the first Chinese American teacher in the San Francisco Unified School District. As the only bilingual teacher at Chinatown's Commodore Stockton School, she was also translator, social worker and go-between [1].\n\nThe new school turned her story around. It set out to teach mostly English-speaking children Chinese, spoken 50 to 80 percent of the time depending on the grade. Officials called it the first school of its kind in the nation. It capped 12 years of work by founding teacher Liana Szeto and parents; the program had run out of West Portal Elementary until September 1995. In 1996 it had 175 students in kindergarten to fifth grade, about 40 percent Chinese, 25 percent white, 20 percent Eurasian and 15 percent Black [1].\n\nToday the school on 12th Avenue teaches Cantonese from kindergarten through eighth grade and Mandarin in the middle grades [2].",
+  "people": [
+   {
+    "name": "Alice Fong Yu",
+    "role": "First Chinese American teacher in SFUSD"
+   },
+   {
+    "name": "Liana Szeto",
+    "role": "Founding teacher of the immersion program"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Veteran teacher honored at innovative S.F. school (Steven A. Chin)",
+    "publisher": "San Francisco Examiner / SFGATE",
+    "year": 1996,
+    "url": "https://www.sfgate.com/bayarea/article/Veteran-teacher-honored-at-innovative-S-F-school-3152379.php",
+    "supports": "Dedication, Yu's career, immersion model, history of the program, 1996 enrollment"
+   },
+   {
+    "title": "Alice Fong Yu Alternative School (K-8)",
+    "publisher": "San Francisco Unified School District",
+    "year": null,
+    "url": "https://www.sfusd.edu/school/alice-fong-yu-alternative-school-k-8",
+    "supports": "1541 12th Avenue, Inner Sunset; first Chinese immersion public school; Cantonese K-8, Mandarin 6-8"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-craigslist-ninth-avenue",
+  "title": "Craigslist Outgrows a Condo, Lands on 9th",
+  "theme": "modern-city",
+  "year": 1999,
+  "yearEnd": 2000,
+  "place": {
+   "label": "Early Craigslist office on 9th Avenue, Inner Sunset (exact address not given)",
+   "lat": 37.7628,
+   "lon": -122.4663,
+   "precision": "street"
+  },
+  "hook": "The website that changed newspaper classified ads forever started in a Cole Valley condo, then squeezed into an office on Ninth Avenue.",
+  "story": "Craig Newmark came to San Francisco in 1993, a programmer of about 40, hired away from IBM by Charles Schwab [1][2]. In 1995 he began emailing friends a list of arts and tech events. People kept asking to join and sending him items, until friends told him he had accidentally built a brand: \"craigslist\" [1].\n\nFor the first couple of years the whole operation ran out of his condo on Cole Street in Cole Valley. When he began hiring, he told the Western Neighborhoods Project, \"we realized we were gonna run outta space immediately. So, we found a place on Ninth Avenue in the Sunset.\" He guessed that was around 1999 or 2000. He remembered the neighbourhood as \"very down to earth,\" full of regular people and Chinese, Japanese and Thai food, Thai being his favorite. They soon outgrew that too and moved downtown [1].\n\nMemories differ on the dates. Columnist Frank Dunnigan wrote that Craigslist was founded in 1995 \"in a small 9th Avenue storefront\" [3]. In 2000 Newmark stepped down as chief executive to do customer service, a job he said he was much better at [1].",
+  "people": [
+   {
+    "name": "Craig Newmark",
+    "role": "Founder of Craigslist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Podcast #498: Craig of Craigslist (transcript)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2023,
+    "url": "https://www.outsidelands.org/podcast/WNP498_Craigslist",
+    "supports": "Newmark's account of the list, the name, the Cole Street condo, the Ninth Avenue office c.1999-2000, the neighbourhood, stepping down in 2000"
+   },
+   {
+    "title": "Craig Newmark",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Craig_Newmark",
+    "supports": "Moved to San Francisco in 1993 for Charles Schwab (pointer)"
+   },
+   {
+    "title": "Streetwise: Breaking Away (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-breaking-away.php",
+    "supports": "Claim that Craigslist was founded in 1995 in a small 9th Avenue storefront"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-2p-furlong-sisters-corner",
+  "title": "The Furlong Sisters' Corner at 9th and Irving",
+  "theme": "labor-industry",
+  "year": 1959,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Furlong's store, 801 Irving Street, SW corner of 9th Avenue",
+   "lat": 37.76392,
+   "lon": -122.46654,
+   "precision": "building"
+  },
+  "hook": "Sisters selling school uniforms, a druggist's wife who became a singer, and a bar where you didn't order a martini: one crossroads around 1959.",
+  "story": "Around 1959 the four corners of 9th Avenue and Irving Street worked like a small-town main street. On the southwest corner was Furlong's, which sold baby and children's clothes and the uniforms that parochial schools required. Denis Quinn remembered it as run by three Furlong sisters and their mother, who lived in a large apartment upstairs with its own door on 9th Avenue [1]. Pharmacist Leon Levy remembered two sisters running a dry-goods store at 801 Irving [2].\n\nAcross 9th, on the northwest corner, the K & K Rexall had a soda fountain, and on its outside wall a yellow call phone that rang straight through to Yellow Cab [1]. On the northeast corner, William Weiman and his wife ran Dessel's Pharmacy from the 1950s to the late 1970s. When they sold, Levy said, she finally did what she had always wanted and became a professional singer [2]. On the southeast corner was the Stein, a shot-and-beer bar. If you wanted a martini, you went somewhere else [1][3].\n\nLevy said that when the sisters closed Furlong's, they leased the building to the Reliable Rexall Drug Co., where he was a pharmacist from 1959 to 1977 [2]. Memories blur here: Quinn placed the Rexall across the street, with Furlong's still open, around 1959 [1].",
+  "people": [
+   {
+    "name": "The Furlong sisters",
+    "role": "Owners of Furlong's children's and uniform store"
+   },
+   {
+    "name": "William Weiman",
+    "role": "Owner of Dessel's Pharmacy, with his wife"
+   },
+   {
+    "name": "Leon Levy",
+    "role": "Pharmacist at the Rexall, 1959-77"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Irving and Ninth Avenue Memories (Denis F. Quinn, 2010)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/irving-9th-memories.php",
+    "supports": "Furlong store, the sisters, their mother and brother, K & K Rexall, Yellow Cab phone, the Stein"
+   },
+   {
+    "title": "Leon Levy (Lorri Ungaretti, 2002)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/levy.php",
+    "supports": "Furlong's at 801 Irving run by two sisters, leased to Reliable Rexall; Levy there 1959-77; Dessel's at 756 Irving and Mrs. Weiman's singing career"
+   },
+   {
+    "title": "Streetwise: Breaking Away (Frank Dunnigan)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/streetwise-breaking-away.php",
+    "supports": "The Stein bar on the southeast corner of 9th Avenue and Irving Street"
+   }
+  ],
+  "photo": null
+ }
+]

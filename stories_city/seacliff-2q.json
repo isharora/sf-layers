@@ -1,0 +1,552 @@
+[
+  {
+    "id": "seacliff-2q-hanson-house",
+    "title": "A Master Mariner's Shingle House",
+    "theme": "architecture-landmarks",
+    "year": 1907,
+    "place": {
+      "label": "Hanson House, 126 27th Avenue (City Landmark No. 196)",
+      "lat": 37.786939,
+      "lon": -122.487055,
+      "precision": "building"
+    },
+    "hook": "Before Sea Cliff had a name, a naval instructor built a shingled house with a ski-slope roof on land that the block book still measured in acres in 1901.",
+    "story": "The land that became Sea Cliff was the Baker Ranch tract. Its first verifiable resident was John H. Baker, proprietor of the Golden Gate Dairy Ranch. He died in 1863 and left it to his widow, Maria, and six children. The city's Outside Lands Committee confirmed Maria's title in December 1872 [1]. As late as the block book of October 1901, the tract was still listed in acres, not in blocks and lots [1]. Alfred G. Hanson was a master mariner who taught at the U.S. Naval Training Station on Yerba Buena Island from 1903 to 1908. He bought two lots here in 1904–05. His first house, at 120 27th Avenue, was probably finished just before the 1906 earthquake [1]. In 1907 he followed it with No. 126, designed by John Charles Flugger [1][2]. Flugger was a Richmond District man through and through. He grew up on Point Lobos Avenue, his father owned a dairy at Point Lobos and Tenth Avenue, and a relative ran a saloon in the neighbourhood [1]. The house is an outstanding early shingle-style design, with flared edges, cross gables and a ski-slope side gable, and it is now City Landmark No. 196 [1].",
+    "people": [
+      {
+        "name": "Alfred G. Hanson",
+        "role": "master mariner and naval instructor; first owner"
+      },
+      {
+        "name": "John Charles Flugger",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #196: Hanson House",
+        "publisher": "NoeHill in San Francisco (adapted from City Planning Commission Resolution 7566)",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/sf196.asp",
+        "supports": "Baker Ranch history, 1901 block book, Hanson's career and lots, first house at 120 27th Ave, Flugger's background, shingle-style description, landmark number"
+      },
+      {
+        "title": "Sea Cliff, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Sea_Cliff,_San_Francisco",
+        "supports": "Hanson House at 126 27th Avenue built 1907 by architect John Charles Flugger"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-west-clay-park",
+    "title": "The Marine-View Park off Lake Street",
+    "theme": "communities",
+    "year": 1918,
+    "place": {
+      "label": "West Clay Park (West Clay Street), off Lake Street between 22nd and 24th Avenues",
+      "lat": 37.786483,
+      "lon": -122.483052,
+      "precision": "street"
+    },
+    "hook": "Tucked between Lake Street and the Presidio, West Clay Park was sold as a \"marine view residence park\", and Ansel Adams's parents gave it as their address.",
+    "story": "West Clay Park was once an address of its own. The 1918 San Francisco Blue Book gave it a section, \"between Lake and San Francisco Bay\" [2], and West Clay Street survives there today. It came out of the residence-park era, when developers sold big lots with building restrictions and views. The firm of Lyon & Hoag boasted about it in a brochure for its next tract, Lincoln Manor. \"When a few years ago we put West Clay Park—at that time the newest marine view residence park—on the market,\" it said, \"we told our buyers of the sure increase and all our predictions have been fulfilled\" [1]. Lots at West Clay Park, the brochure added, now sold for $200 to $300 a front foot [1]. According to Wikipedia, Lincoln Manor's builder, the S. A. Born Building Company, also built in West Clay Park and Sea Cliff [3]. The Blue Book lists the park's residents house by house, from Mr. and Mrs. E. I. De Laveaga at No. 2 to Dr. and Mrs. B. Foulkes at No. 346. It also files one 24th Avenue household under the park's name: \"Mr. and Mrs. Chas. H. Adams, 129 24th Ave., West Clay Park\" [2]. That was the house where Ansel Adams grew up [4].",
+    "people": [
+      {
+        "name": "Lyon & Hoag",
+        "role": "developers and sales agents"
+      },
+      {
+        "name": "Charles H. Adams",
+        "role": "resident; father of Ansel Adams"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lincoln Manor (undated sales brochure, 1910s)",
+        "publisher": "Lyon & Hoag (via Internet Archive / California Revealed)",
+        "year": 1914,
+        "url": "https://archive.org/details/cua_000333",
+        "supports": "quote about West Clay Park as 'the newest marine view residence park'; $200–$300 per front foot"
+      },
+      {
+        "title": "San Francisco Blue Book (1918 edition)",
+        "publisher": "Internet Archive",
+        "year": 1918,
+        "url": "https://archive.org/details/sanfranciscoblue1918sanf",
+        "supports": "West Clay Park section 'between Lake and San Francisco Bay' listing residents from No. 2 to No. 346; 'Chas. H. Adams, 129 24th Ave., West Clay Park'"
+      },
+      {
+        "title": "Lincoln Manor",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Lincoln_Manor",
+        "supports": "Lincoln Manor developed by Lyon & Hoag and built by the S. A. Born Building Company, builders of West Clay Park and Sea Cliff"
+      },
+      {
+        "title": "Ansel Adams' boyhood San Francisco house",
+        "publisher": "SFGATE",
+        "year": 2010,
+        "url": "https://www.sfgate.com/realestate/article/ansel-adams-boyhood-san-francisco-house-3201869.php",
+        "supports": "Ansel Adams grew up at 129 24th Ave."
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-road-of-the-sea",
+    "title": "The Road of the Sea Opens",
+    "theme": "architecture-landmarks",
+    "year": 1915,
+    "place": {
+      "label": "El Camino del Mar at 26th Avenue",
+      "lat": 37.787354,
+      "lon": -122.486539,
+      "precision": "street"
+    },
+    "hook": "In 1915 the World's Fair, the city and the Army paid for a clifftop boulevard through the land being sold as Sea Cliff.",
+    "story": "Park superintendent John McLaren is credited with a 1909 or 1910 plan for a boulevard system through Lincoln Park. By 1912 the Panama-Pacific International Exposition's plans showed a coastal boulevard to Lincoln Park [1]. By the end of 1915 the John Brickell Company, working under the City Engineer, had finished the first stretch of El Camino del Mar, \"The Road of the Sea\", between the Presidio and Lincoln Park [1]. The Bureau of Engineering described 1,665 feet of boulevard \"along the cliffs above Bakers Beach\" into the Presidio near Lobos Creek. Its contract list says the road ran \"through John Brickell Tract\", the land then being sold as Sea Cliff [2]. The Exposition gave $56,000 for paving and the city $30,000 for rights of way. Because it would also serve as a military road between Fort Miley and the Presidio, the federal government put up $30,000 more. The Park Service history counts that money toward this section; the city engineers said it was for carrying the road on through the Presidio [1][2]. In September 1915 two ceremonies were held in Lincoln Park: one for the completion of the transcontinental Lincoln Highway, the other opening El Camino del Mar on September 26 [1]. Farther west, landslides later closed the Lincoln Park stretch to cars for good [1].",
+    "people": [
+      {
+        "name": "John McLaren",
+        "role": "park superintendent credited with the boulevard plan"
+      },
+      {
+        "name": "John Brickell Company",
+        "role": "contractor and Sea Cliff landowner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Civil History of Golden Gate National Recreation Area and Point Reyes National Seashore, Vol. II",
+        "publisher": "National Park Service (via Internet Archive)",
+        "year": 1980,
+        "url": "https://archive.org/details/GGNRACivilHistoryV2",
+        "supports": "McLaren plan, PPIE boulevard plans, 1915 construction by John Brickell Company, cost shares, September 26, 1915 opening, later slides and closure"
+      },
+      {
+        "title": "Annual Report of the Bureau of Engineering, Department of Public Works, 1915–1920",
+        "publisher": "City and County of San Francisco (via Internet Archive)",
+        "year": 1916,
+        "url": "https://archive.org/details/annualreportbu19151920san",
+        "supports": "1,665-ft section above Bakers Beach, military road, $30,000 federal, $56,000 Exposition, $30,000 city; 'El Camino Del Mar, through John Brickell Tract'"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-kelham-hills",
+    "title": "The Architect and the Coffee Man Next Door",
+    "theme": "labor-industry",
+    "year": 1926,
+    "place": {
+      "label": "98 Sea Cliff Avenue (George W. Kelham's home, c. 1918–1928)",
+      "lat": 37.789284,
+      "lon": -122.486705,
+      "precision": "block"
+    },
+    "hook": "In the 1920s the man who planned the 1915 World's Fair lived at 98 Sea Cliff Avenue. Listed right beside him was a Hills Bros. coffee man.",
+    "story": "George W. Kelham came to San Francisco in 1906 for the Palace Hotel job and never left [2]. He drew the master plan for the 1915 Panama-Pacific International Exposition. He went on to design the old Main Library, now the Asian Art Museum, the Federal Reserve Bank, the Russ Building and the Shell Building [1][2]. The Pacific Coast Architecture Database says that from about 1918 to 1928 he lived at 98 Sea Cliff Avenue with his wife, their son Bruce and a Norwegian-born servant, Gertrude Hall [1]. A society blue book from the late 1920s lists the Kelhams there. The entry just before theirs is Mr. and Mrs. R. W. Hills Jr., at No. 90, and the same book gives Hills's other address as 2 Harrison Street [3]. That was the Hills Bros. Coffee building. The firm had been founded by the brothers Austin H. and Reuben W. Hills, and in 1900 it was the first to pack roast coffee in vacuum cans [4]. The firm moved into 2 Harrison in 1926, and the building was Kelham's own design [1][4]. So the man next door went to work each day in a plant his neighbour had drawn. The records don't say whether they ever talked shop.",
+    "people": [
+      {
+        "name": "George W. Kelham",
+        "role": "architect; resident of 98 Sea Cliff Avenue"
+      },
+      {
+        "name": "R. W. Hills Jr.",
+        "role": "resident of 90 Sea Cliff Avenue; business address at the Hills Bros. building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "George William Kelham (Architect)",
+        "publisher": "Pacific Coast Architecture Database, University of Washington",
+        "year": 2017,
+        "url": "https://pcad.lib.washington.edu/person/294/",
+        "supports": "residence at 98 Sea Cliff Avenue c. 1918–1928 with family and servant; works including PPIE master plan, Main Library, Federal Reserve, Russ and Shell buildings, Hills Brothers Coffee plant 1926"
+      },
+      {
+        "title": "George W. Kelham",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/George_W._Kelham",
+        "supports": "arrival in 1906 for the Palace Hotel; list of major San Francisco buildings"
+      },
+      {
+        "title": "San Francisco Blue Book and Club Directory (c. 1928)",
+        "publisher": "Internet Archive",
+        "year": 1928,
+        "url": "https://archive.org/details/sanfranciscoblue28sanf",
+        "supports": "Sea Cliff Avenue listing: 90 R. W. Hills Jr., 98 G. W. Kelham; Hills also at 2 Harrison"
+      },
+      {
+        "title": "Hills Bros. Coffee",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Hills_Bros._Coffee",
+        "supports": "founders Austin H. and Reuben W. Hills; first vacuum-packed roast coffee in 1900; 1926 move to 2 Harrison Street, a building designed by George W. Kelham"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-wright-unbuilt",
+    "title": "The Frank Lloyd Wright House Never Built",
+    "theme": "architecture-landmarks",
+    "year": 1946,
+    "yearEnd": 1965,
+    "place": {
+      "label": "830 El Camino del Mar",
+      "lat": 37.787297,
+      "lon": -122.492644,
+      "precision": "building"
+    },
+    "hook": "A downtown gift-shop owner twice hired Frank Lloyd Wright to design a house for this clifftop lot. Neither design was built, and a grocer's family moved in instead.",
+    "story": "Vere C. Morris ran the gift shop at 140 Maiden Lane that Frank Lloyd Wright redesigned in 1948. Its curving interior ramp is described as a trial run for the one in the Guggenheim Museum [2]. Morris also owned a lot on the north side of El Camino del Mar, one of only ten lots on that side of the road west of China Cove [1]. A 2014 Planning Department review records that he commissioned Wright to design a residence there in 1946 and again in 1954, but the plans were never built [1]. The steep cliffs kept the lots on this side of the road empty until the late 1910s and 1920s, and many, this one included, until the 1960s [1]. The house that finally went up, in 1965–66, is a Third Bay Tradition design by the little-known architect Frants Albert, built for Edward P. and Angela Eassa. They owned the Sutro Super Market on Point Lobos Road and lived here until 1992 [1]. Planners found it too new, and too different in style, to count toward the eligible Sea Cliff historic district [1].",
+    "people": [
+      {
+        "name": "Vere C. Morris",
+        "role": "gift-shop owner and client of Frank Lloyd Wright"
+      },
+      {
+        "name": "Frank Lloyd Wright",
+        "role": "architect of the unbuilt house"
+      },
+      {
+        "name": "Edward P. and Angela Eassa",
+        "role": "owners of Sutro Super Market; built the 1965 house"
+      },
+      {
+        "name": "Frants Albert",
+        "role": "architect of the 1965 house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Resource Evaluation Response, 830 El Camino del Mar (Case 2013.1180E), in Certificates of Determination of Exemption",
+        "publisher": "San Francisco Planning Department (via Internet Archive)",
+        "year": 2014,
+        "url": "https://archive.org/details/certificateofde2014sanf_0",
+        "supports": "Morris ownership, Wright commissions in 1946 and 1954 never built, lots west of China Cove, 1965 house for the Eassas and Sutro Super Market, district period of significance"
+      },
+      {
+        "title": "V. C. Morris Gift Shop",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/V._C._Morris_Gift_Shop",
+        "supports": "Wright's 1948 design at 140 Maiden Lane as prototype for the Guggenheim ramp"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-film-noir",
+    "title": "Film Noir's Favourite Clifftop Suburb",
+    "theme": "arts-counterculture",
+    "year": 1947,
+    "yearEnd": 1950,
+    "place": {
+      "label": "25th Avenue at Sea Cliff Avenue (Nora Prentiss establishing shot, looking past 55 25th Avenue)",
+      "lat": 37.788589,
+      "lon": -122.485188,
+      "precision": "block"
+    },
+    "hook": "Hollywood made Sea Cliff home to a doctor who fakes his own death, then sent a fleeing noir couple into a U-turn on El Camino del Mar.",
+    "story": "In Warner Bros.' Nora Prentiss (1947), directed by Vincent Sherman and photographed by James Wong Howe, Kent Smith plays Dr. Richard Talbot, a San Francisco physician bored with his marriage [2]. He falls for Ann Sheridan's nightclub singer and fakes his own death. He puts his wedding ring on a dead patient, sets his car on fire and pushes it off a cliff [2]. The film makes the Talbots comfortable residents of Sea Cliff. Reel SF, which matches old frames to today's streets, found the establishing shot on 25th Avenue. The centre house in the frame is No. 55, with Baker Beach and the Golden Gate Bridge beyond, though the film never says which house is the doctor's [1]. The interiors were filmed on a Warner soundstage in Burbank, with the bridge view added by rear projection [1]. Three years later came The Man Who Cheated Himself (1950), with Lee J. Cobb as a homicide detective covering up a killing for Jane Wyatt's socialite [4]. Fleeing, the lovers hear a police bulletin on the radio and make a quick U-turn toward the bridge on El Camino del Mar near Sea Cliff Avenue [3]. Reel SF says the spot has \"hardly changed in over 60 years\" [3].",
+    "people": [
+      {
+        "name": "Vincent Sherman",
+        "role": "director, Nora Prentiss"
+      },
+      {
+        "name": "James Wong Howe",
+        "role": "cinematographer, Nora Prentiss"
+      },
+      {
+        "name": "Felix E. Feist",
+        "role": "director, The Man Who Cheated Himself"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nora Prentiss - The Doctor",
+        "publisher": "Reel SF",
+        "year": 2026,
+        "url": "https://reelsf.com/reelsf/2026/4/13/nora-prentiss-the-doctor",
+        "supports": "Seacliff setting, 55 25th Avenue in frame, Baker Beach and bridge, Burbank soundstage and rear projection"
+      },
+      {
+        "title": "Nora Prentiss",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Nora_Prentiss",
+        "supports": "1947 Warner Bros. film noir, director, cinematographer, cast and plot"
+      },
+      {
+        "title": "The Man Who Cheated Himself - Fugitives",
+        "publisher": "Reel SF",
+        "year": 2013,
+        "url": "https://reelsf.com/reelsf/2013/10/17/the-man-who-cheated-himself-fugitives",
+        "supports": "U-turn on El Camino del Mar near Sea Cliff Avenue; 'hardly changed in over 60 years'"
+      },
+      {
+        "title": "The Man Who Cheated Himself",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/The_Man_Who_Cheated_Himself",
+        "supports": "1950 film noir, director and cast, plot"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-ranch-house",
+    "title": "A Ranch House Among the Mansions",
+    "theme": "architecture-landmarks",
+    "year": 1951,
+    "place": {
+      "label": "535 El Camino del Mar",
+      "lat": 37.787411,
+      "lon": -122.489273,
+      "precision": "building"
+    },
+    "hook": "In 1951 a theatre architect built a low courtyard ranch house in Sea Cliff. The type is so rare in San Francisco that planners later called it historic.",
+    "story": "Most of Sea Cliff was built between about 1910 and 1930, mostly in French and Mediterranean, Spanish Revival, Edwardian and Arts and Crafts–Tudor styles [1]. After the Second World War the remaining empty lots were sold, and several got modern houses that broke sharply with the older look [1][2]. One was 535 El Camino del Mar, commissioned in 1951 by Milton Meyer. Its architect, J. Lloyd Conrich, had worked for Hyman & Appleton and for Bakewell & Brown. Over his career he designed at least 31 theatres, the KPIX station on Van Ness Avenue and the Zanzibar Cocktail Lounge on Ocean Avenue [1]. The house is a single storey, U-shaped around a central courtyard, with floor-to-ceiling glass opening views to the Pacific [1]. The ranch house is rare in San Francisco, planners noted, because it uses up land that a dense, vertical city can't spare. In 2012 they found the house individually eligible for the California Register [1]. From 1960 until her death in 2009 it was home to Mariedi Anders, who ran a business managing concert musicians from the house [1]. Other modernists followed, including William Wurster at 850 El Camino del Mar in 1958 (since altered) and Joseph Esherick at No. 890 in 1963 [1].",
+    "people": [
+      {
+        "name": "J. Lloyd Conrich",
+        "role": "architect"
+      },
+      {
+        "name": "Milton Meyer",
+        "role": "original owner"
+      },
+      {
+        "name": "Mariedi Anders",
+        "role": "concert manager; resident 1960–2009"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Resource Evaluation Response, 535 El Camino del Mar (Case 2012.0266E), in Certificates of Determination of Exemption",
+        "publisher": "San Francisco Planning Department (via Internet Archive)",
+        "year": 2012,
+        "url": "https://archive.org/details/certificateofde2012sanf_0",
+        "supports": "1951 construction, Meyer, Conrich's career, ranch-house features and rarity, eligibility, Mariedi Anders, list of modern houses by Wurster (1958, altered) and Esherick"
+      },
+      {
+        "title": "Historic Resource Evaluation Response, 830 El Camino del Mar (Case 2013.1180E)",
+        "publisher": "San Francisco Planning Department (via Internet Archive)",
+        "year": 2014,
+        "url": "https://archive.org/details/certificateofde2014sanf_0",
+        "supports": "Sea Cliff houses largely built 1910s–1930s with a number built between the Second World War and the early 1970s"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-sewage-overflows",
+    "title": "When Rain Sent Sewage to the Beaches",
+    "theme": "parks-nature",
+    "year": 1988,
+    "yearEnd": 1996,
+    "place": {
+      "label": "Sea Cliff Avenue at 25th Avenue, above Baker Beach",
+      "lat": 37.7893,
+      "lon": -122.4845,
+      "precision": "area"
+    },
+    "hook": "Under Sea Cliff's elegant streets ran sewers that overflowed in heavy rain. By one 1988 count, sewage reached nearby beaches as many as 83 times a year.",
+    "story": "San Francisco's sewers are a combined system: household sewage and street runoff share the same pipes [2]. Pumping stations boosted the flow toward the main sewers, and the Department of Public Works ran two here: Sea Cliff No. 1 at Phelan (China) Beach and Sea Cliff No. 2, listed at 100 Sea Cliff Avenue [1]. Excess storm flow, the department explained, was diverted to the bay or ocean through outfalls [1]. In its report for the year ending June 1955, the department noted that Sea Cliff No. 1 had been out of service from May 8 to May 18. It took emergency work \"to prevent discharge of raw sewage to Phelan Beach\" [1]. In 1988 the Richmond ReView reported that winter rains sent untreated sewage and runoff onto Baker Beach, China Beach and the Lincoln Park shoreline as many as 83 times a year [2]. A 1992 federal assessment put the average at 40 overflows a year through four outfalls. It cited a state cease-and-desist order to cut them to eight a year by March 1996 [3]. The fix was the Richmond Transport, a 10,200-foot tunnel 14 feet across, which would carry the overflow to the Oceanside plant. The plan also called for eliminating all overflows at Baker Beach and demolishing its outfall [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Annual Report of the Department of Public Works, fiscal year ending June 30, 1955",
+        "publisher": "City and County of San Francisco (via Internet Archive)",
+        "year": 1955,
+        "url": "https://archive.org/details/annualreportofd1955sanf_0",
+        "supports": "Sea Cliff No. 1 at Phelan Beach, No. 2 at 100 Sea Cliff Ave.; excess storm flow diverted through outfalls; May 8–18 outage and emergency work"
+      },
+      {
+        "title": "Richmond ReView, December 1988 (sewer alternatives article)",
+        "publisher": "Richmond ReView (via Internet Archive)",
+        "year": 1988,
+        "url": "https://archive.org/details/richmondreview13rich",
+        "supports": "combined system; overflows onto Baker Beach, China Beach and Lincoln Park shoreline as many as 83 times annually"
+      },
+      {
+        "title": "Environmental Assessment: Activities Proposed by the San Francisco Clean Water Program (Richmond Transport)",
+        "publisher": "National Park Service / GGNRA (via Internet Archive)",
+        "year": 1992,
+        "url": "https://archive.org/details/C124921078",
+        "supports": "40 overflows a year through four outfalls, cease-and-desist order to 8 per year by March 1996, 10,200-ft 14-ft tunnel to Oceanside, elimination of Baker Beach overflows and demolition of its outfall"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-the-lineup",
+    "title": "A Squad Car Races Along Sea Cliff's Edge",
+    "theme": "arts-counterculture",
+    "year": 1958,
+    "place": {
+      "label": "El Camino del Mar at 32nd Avenue",
+      "lat": 37.78712,
+      "lon": -122.493,
+      "precision": "street"
+    },
+    "hook": "In Don Siegel's 1958 thriller The Lineup, a police car answering the alarm speeds along El Camino del Mar with Sea Cliff spread out below.",
+    "story": "The Lineup started as a CBS police show, on radio from 1950 to 1953 and on television from 1954 to 1960. In 1958 Don Siegel made it into a feature film, shooting many of its scenes on location in San Francisco [2]. The plot follows a drug ring that hides heroin in the luggage of unsuspecting tourists coming home from Asia. Eli Wallach plays Dancer, the killer sent to collect it, and the film ends with a chase onto the unfinished Embarcadero Freeway [2]. As the opening credits roll, responders across the city answer the alarm. Motorcycle officers head down the Great Highway, a car answers on Potrero Hill, and another \"responds from Sea Cliff on El Camino Del Mar at 32nd Avenue\" before they all converge on Pier 41 [1]. Reel SF, which matched the frame to today's street, says the view looks over Sea Cliff toward the Presidio. Today some newer houses stand in the foreground \"amongst the recognizable survivors\" [1]. The shot lasts only moments, but it caught this corner a few years before Joseph Esherick built two modern houses close by, at 890 El Camino del Mar and 100 32nd Avenue, in 1963 [3].",
+    "people": [
+      {
+        "name": "Don Siegel",
+        "role": "director"
+      },
+      {
+        "name": "Eli Wallach",
+        "role": "actor, Dancer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Lineup - First Responders",
+        "publisher": "Reel SF",
+        "year": 2011,
+        "url": "https://reelsf.com/reelsf/the-lineup-first-responders",
+        "supports": "police car responding on El Camino del Mar at 32nd Avenue; view over Sea Cliff to the Presidio; other response locations and Pier 41"
+      },
+      {
+        "title": "The Lineup (film)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/The_Lineup_(film)",
+        "supports": "origins on CBS radio and TV, 1958 Don Siegel film, location shooting, plot, Embarcadero Freeway"
+      },
+      {
+        "title": "Historic Resource Evaluation Response, 535 El Camino del Mar (Case 2012.0266E)",
+        "publisher": "San Francisco Planning Department (via Internet Archive)",
+        "year": 2012,
+        "url": "https://archive.org/details/certificateofde2012sanf_0",
+        "supports": "Esherick houses at 890 El Camino del Mar and 100 32nd Avenue, 1963"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-polk-district-vote",
+    "title": "The Historic District That Lost 6 to 5",
+    "theme": "modern-city",
+    "year": 1990,
+    "place": {
+      "label": "Scenic Way (Willis Polk houses at 9, 25 and 45 Scenic Way)",
+      "lat": 37.788147,
+      "lon": -122.485849,
+      "precision": "street"
+    },
+    "hook": "In 1990 preservationists asked the city to protect five Sea Cliff houses, three of them by Willis Polk. The supervisors said no, by one vote.",
+    "story": "The architect Willis Polk designed three houses at 9, 25 and 45 Scenic Way [2]. Wikipedia dates them to 1914 [3]. In 1989 the Landmarks Preservation Advisory Board recommended making them a new city historic district under Article 10 of the Planning Code, together with 60 26th Avenue and 79 25th Avenue. It was to be named the Willis Polk/Florence M. and John W. Procter Sea Cliff Historic District [1][4]. On November 9, 1989, the City Planning Commission voted against designation, and supporters appealed to the Board of Supervisors [1]. The hearing was postponed again and again. Finally, on March 12, 1990, the board heard appellants including Alice Carey and Ann Bloomfield, and respondents including Planning Director Dean Macris and Rowlin and Grace Perkins [1]. Supervisor Maher tried to save the district by leaving out 9 Scenic Way and 29 25th Avenue, but the amendment failed, 4–7. The board then upheld the commission 6–5 and tabled the ordinance [1]. Almost two decades later, city planners still cited the Polk houses as examples of the renowned architects who built Sea Cliff [2].",
+    "people": [
+      {
+        "name": "Willis Polk",
+        "role": "architect"
+      },
+      {
+        "name": "Alice Carey",
+        "role": "appellant"
+      },
+      {
+        "name": "Dean Macris",
+        "role": "Director of City Planning, respondent"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Journal of Proceedings, Board of Supervisors, January–June 1990",
+        "publisher": "City and County of San Francisco (via Internet Archive)",
+        "year": 1990,
+        "url": "https://archive.org/details/journalofproceedjanjune85sanfrich",
+        "supports": "district name and addresses, Resolution 11788 of November 9, 1989, continuances, March 12, 1990 hearing participants, 4–7 amendment and 6–5 votes"
+      },
+      {
+        "title": "Historic Resource Evaluation Response, 242 32nd Avenue (Case 2008.1348E), in Certificates of Determination",
+        "publisher": "San Francisco Planning Department (via Internet Archive)",
+        "year": 2009,
+        "url": "https://archive.org/details/certificateofdet2009sanf",
+        "supports": "Willis Polk designed 9, 25 and 45 Scenic Way; cited as renowned local architects' work in Sea Cliff"
+      },
+      {
+        "title": "Sea Cliff, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Sea_Cliff,_San_Francisco",
+        "supports": "9, 25 and 45 Scenic Way built 1914 by Willis Polk"
+      },
+      {
+        "title": "Agenda, San Francisco City Planning Commission, 1989",
+        "publisher": "City Planning Commission (via Internet Archive)",
+        "year": 1989,
+        "url": "https://archive.org/details/agendasanfrancis1989nfra",
+        "supports": "Landmarks Board recommendation to designate the district (Case 89.362L), Assessor's Block 1304"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "seacliff-2q-double-roadways",
+    "title": "Double Roads and Red Brick Walls",
+    "theme": "architecture-landmarks",
+    "year": 1916,
+    "yearEnd": 1928,
+    "place": {
+      "label": "Sea Cliff Avenue near 27th Avenue (Harry B. Allen listed at 290 Sea Cliff Avenue, late 1920s)",
+      "lat": 37.78885,
+      "lon": -122.489504,
+      "precision": "block"
+    },
+    "hook": "Sea Cliff's split-level streets and brick retaining walls were an engineer's plan for a private, picturesque hillside. Its builder lived on the street he sold.",
+    "story": "The old Baker Tract became Sea Cliff through a partnership between the John Brickell Company, the builder and developer Harry B. Allen, and the engineer William B. Hoag [1]. Lots first went on sale in 1913, and further subdivisions followed in 1916, 1923 and 1928 [1]. Buyers could hire their own architect, subject to the developer's approval, or have Allen & Company build a house for them. The result was remarkably consistent in scale, setbacks and materials, yet full of one-off designs by Willis Polk, Albert Farr, George W. Kelham, William Wurster and a long list of others [1]. To keep the hillside private and picturesque, Hoag designed double roadways with red brick retaining walls, landscaping and raised sidewalks, and he terraced the lots into the slope [1]. The neighbourhood was entered through columned gateways [2]. Allen lived in what he sold. A society blue book from the late 1920s lists Mr. and Mrs. Harry B. Allen at 290 Sea Cliff Avenue [3]. In 2013 city planners called Sea Cliff an excellent example of the restricted residence parks laid out west of Twin Peaks, and they treat it as a district eligible for the California Register [1][2].",
+    "people": [
+      {
+        "name": "Harry B. Allen",
+        "role": "builder and developer"
+      },
+      {
+        "name": "William B. Hoag",
+        "role": "engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Resource Evaluation Response, 520 El Camino del Mar (Case 2013.0423E), in Certificates of Determination",
+        "publisher": "San Francisco Planning Department (via Internet Archive)",
+        "year": 2013,
+        "url": "https://archive.org/details/certificateofdet2014sanf",
+        "supports": "Brickell, Allen and Hoag; subdivisions 1913–1928; Allen & Company building; architects list; Hoag's double roadways, brick walls and terracing; residence-park assessment"
+      },
+      {
+        "title": "Historic Resource Evaluation Response, 535 El Camino del Mar (Case 2012.0266E)",
+        "publisher": "San Francisco Planning Department (via Internet Archive)",
+        "year": 2012,
+        "url": "https://archive.org/details/certificateofde2012sanf_0",
+        "supports": "columned entrances; potential California Register historic district"
+      },
+      {
+        "title": "San Francisco Blue Book and Club Directory (c. 1928)",
+        "publisher": "Internet Archive",
+        "year": 1928,
+        "url": "https://archive.org/details/sanfranciscoblue28sanf",
+        "supports": "Mr. and Mrs. Harry B. Allen, 290 Sea Cliff Av."
+      }
+    ],
+    "photo": null
+  }
+]

@@ -19,7 +19,13 @@ ALAMO_DROP = {'communities-emanu-el-residence', 'modern-zen-center-page-street',
               'modern-rainbow-house', 'victorian-full-house-postcard-row', 'harlem-sacred-heart-panthers', 'harlem-ame-zion', 'victorian-nightingale-house'}
 # cross-neighbourhood duplicates found after the city research run (same event told twice)
 CITY_DROP = {'inner-richmond-anza-mountain-lake', 'oceanview-merced-ingleside-wolfes-hall', 'tenderloin-hammett-891-post', 'haight-ashbury-panhandle-freeway-revolt',
-             'golden-gate-park-diggers-free-food', 'inner-richmond-mountain-lake-alligator', 'tenderloin-twitter-tax-break', 'nob-hill-betty-ann-ong-rec-center'}
+             'golden-gate-park-diggers-free-food', 'inner-richmond-mountain-lake-alligator', 'tenderloin-twitter-tax-break', 'nob-hill-betty-ann-ong-rec-center',
+             # pass 2: the two lenses (or neighbouring researchers) sometimes found the same story
+             'mission-bay-2q-camanche-monitor', 'marina-2q-sherman-music-room', 'mission-bay-2q-hay-wharf', 'oceanview-merced-ingleside-2q-broad-street-firehouse',
+             'oceanview-merced-ingleside-2q-farragut-school', 'marina-2q-shamrock-isle', 'marina-2q-julia-morgan-home', 'outer-mission-2p-valente-marini-perata',
+             'inner-richmond-2q-balboa-streetcar-crash', 'inner-richmond-2q-comics-crusade', 'inner-richmond-2q-haigs-delicacies', 'mission-bay-2q-takahashi-trading',
+             'outer-mission-2p-joes-cable-car', 'twin-peaks-2q-youth-guidance-center', 'outer-mission-2q-excelsior-library', 'inner-richmond-2q-house-of-love-and-prayer',
+             'japantown-2q-kabuki-springs', 'japantown-2q-japantown-bowl', 'mission-bay-2q-bottom-of-the-hill'}
 regions = [json.load(open(f)) for f in glob.glob('regions/*.json')]
 rgeoms = [shape(r['geometry']).buffer(0) for r in regions]
 rtree = STRtree(rgeoms)

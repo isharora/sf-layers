@@ -1,0 +1,594 @@
+[
+ {
+  "id": "south-of-market-2p-alleys-named-for-ships",
+  "title": "Alleys named for ships, not madams",
+  "theme": "gold-rush-victorian",
+  "year": 1851,
+  "yearEnd": null,
+  "place": {
+   "label": "Natoma Street between Fifth and Sixth streets",
+   "lat": 37.781106,
+   "lon": -122.406781,
+   "precision": "street"
+  },
+  "hook": "Jessie, Minna, Natoma, Clementina: the old story says these alleys were named for Gold Rush madams. A historian went through the 1850s newspapers and found ships.",
+  "story": "The narrow alleys between South of Market's big streets carry names that sound like women's: Jessie, Annie, Minna, Clementina, and their \"sisters\" Tehama and Natoma. A popular tale says they honor Gold Rush prostitutes or madams, and at least one bar on these streets uses the story in its marketing [1]. Historian LisaRuth Elliott doubts it. Very few early San Francisco streets were named for women, she notes, and a book from 1912 said the alley names had no meaning at all [1]. Searching the Daily Alta California, the Sacramento Daily Union and other papers of the time, she found ships instead. A Peruvian brig named Annie cleared the port in May 1851, a ship called Jessie arrived that March, the steamboat Tehama made her first voyage in June 1850, and the Californian wrote up a Bremen whaler called Clementine, with an untrustworthy crew, in November 1847 [1]. Natoma was also the name of a gold digging on the American River [1]. Minna Street appears in December 1850 advertisements as \"the first street below Mission\", so new that it needed directions [1]. Elliott offers the ship idea as a theory, not a proof. Others say Jessie Street honors Jessie Benton Frémont, wife of the explorer John C. Frémont, and the photographer Mark Ellinger calls the prostitute legends apocryphal [1][2].",
+  "people": [
+   {
+    "name": "LisaRuth Elliott",
+    "role": "historian who traced the names"
+   },
+   {
+    "name": "Jessie Benton Frémont",
+    "role": "possible namesake of Jessie Street"
+   }
+  ],
+  "sources": [
+   {
+    "title": "SOMA Side Streets Named After Ladies",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=SOMA_Side_Streets_Named_After_Ladies",
+    "supports": "myth, 1912 book, ships Annie, Jessie, Tehama, Clementine; Natoma; Minna 1850 ads; theory status"
+   },
+   {
+    "title": "Sixth Street (Part Two)",
+    "publisher": "FoundSF",
+    "url": "https://www.foundsf.org/index.php?title=Sixth_Street_(Part_Two)",
+    "supports": "prostitute legends apocryphal; Jessie named for wife of John C. Frémont"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-silver-street-kindergarten",
+  "title": "The West's first free kindergarten",
+  "theme": "gold-rush-victorian",
+  "year": 1878,
+  "yearEnd": null,
+  "place": {
+   "label": "Stillman Street (formerly Silver Street) between Third and Fourth streets",
+   "lat": 37.780507,
+   "lon": -122.397655,
+   "precision": "street"
+  },
+  "hook": "In 1878 a young teacher who would later write Rebecca of Sunnybrook Farm opened a free class for Tar Flat's poorest children. A thousand people came to watch.",
+  "story": "Kindergartens were a new idea in the 1870s: fewer than a dozen existed in the United States before 1870 [2]. In San Francisco, Judge Solomon Heydenfeldt and the merchant Samuel Levy, inspired by lectures from the New York reformer Felix Adler, formed the Public Kindergarten Society with $130 in pledges and went looking for a teacher [2]. They found Kate Wiggin, a young New Englander trained at Emma Marwedel's kindergarten school [2]. As Kate Douglas Wiggin she would later write Rebecca of Sunnybrook Farm [1]. She wanted to plant a kindergarten \"in some dreary, poverty-stricken place in a large city, a place swarming with unmothered, undefended, under-nourished child-life\" [1]. In September 1878 (\"toward the end of 1878\", in another account) she opened the Silver Street Free Kindergarten on a small alley between Third and Fourth streets, today's Stillman Street. The city's planning history calls it the first free kindergarten in the West [1][2]. Free kindergartens served working families whose mothers had no other childcare [1]. In the first year and a half, about a thousand educators, writers, society people and curious visitors came to watch the Tar Flat class [2]. More followed: the western South of Market eventually had at least four kindergartens, on Ninth, Harrison and Folsom streets and at Thirteenth and Treat. None survive [1].",
+  "people": [
+   {
+    "name": "Kate Douglas Wiggin",
+    "role": "teacher and founder, later novelist"
+   },
+   {
+    "name": "Solomon Heydenfeldt",
+    "role": "judge, Public Kindergarten Society"
+   },
+   {
+    "name": "Samuel Levy",
+    "role": "merchant, Public Kindergarten Society"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: South of Market Area",
+    "publisher": "Page & Turnbull for San Francisco Planning Department",
+    "year": 2009,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/372-SOMA_Historic_Context_Statement_06-30-2009.pdf",
+    "supports": "Wiggin, quote, September 1878, Silver (Stillman) Street between 3rd and 4th, first free kindergarten in the West, later kindergartens"
+   },
+   {
+    "title": "Public Schools in 19th Century San Francisco (William Issel and Robert Cherny)",
+    "publisher": "FoundSF",
+    "url": "https://www.foundsf.org/index.php?title=Public_Schools_in_19th_Century_San_Francisco",
+    "supports": "Heydenfeldt, Levy, Adler, $130, Marwedel, Silver Street Free Kindergarten, thousand visitors"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-columbia-square-camp-24",
+  "title": "Camp 24: green cottages in a square",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1907,
+  "place": {
+   "label": "Columbia Square refugee camp site (today Victoria Manalo Draves Park), Folsom Street between Sixth and Seventh",
+   "lat": 37.7766,
+   "lon": -122.4064,
+   "precision": "area"
+  },
+  "hook": "With South of Market burned flat, one small park became a village of 1,500 refugees living in rows of green two-room cottages.",
+  "story": "The 1906 earthquake and fire destroyed most of South of Market's housing and left thousands of its residents homeless [1]. Many fled to makeshift camps in the unburned Mission and Potrero districts [1]. After the San Francisco Relief and Red Cross Funds Corporation was incorporated on July 20, 1906, it hired union carpenters to build thousands of small cottages before the rains came [1]. Open land was scarce in the district, so South of Market had just two official camps: South Park, Camp No. 28, and Columbia Square, Camp No. 24, a small park on the block bounded by Folsom, Sixth, Harrison and Seventh streets [1]. On September 29, 1906, Columbia Square became the second camp in the city to switch from tents to cottages. It housed 1,500 people in 605 two-room and 40 three-room cottages [1]. The cottages had cedar-shingle roofs, fir floors and redwood walls, and were painted green to blend into the parks [2]. When the camps began closing in August 1907, refugees hauled their cottages away to private lots, often joining two or more into a bigger house [2]. Only a handful are known to survive [2]. The square later became the site of the Bessie Carmichael School, and today it is Victoria Manalo Draves Park [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Historic Context Statement: South of Market Area",
+    "publisher": "Page & Turnbull for San Francisco Planning Department",
+    "year": 2009,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/372-SOMA_Historic_Context_Statement_06-30-2009.pdf",
+    "supports": "destruction, Relief Corporation, two camps, Camp No. 24 details, 1,500 people, cottage counts, date"
+   },
+   {
+    "title": "1906 Earthquake Refugee Cottages",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "url": "https://www.outsidelands.org/shacks.php",
+    "supports": "cottage materials, green paint, camps closing August 1907, cottages moved to lots, few survive"
+   },
+   {
+    "title": "San Francisco Filipino Heritage: Addendum to the South of Market Historic Context Statement",
+    "publisher": "Page & Turnbull for San Francisco Planning Department",
+    "year": 2013,
+    "url": "https://default.sfplanning.org/Preservation/central_soma_hrs/SOMA_Filipino_Heritage_HCS_Final_Report-031313.pdf",
+    "supports": "Bessie Carmichael School in Columbia Square; renamed Victoria Manalo Draves Park"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-peoples-laundry",
+  "title": "The bathhouse that became a Japanese laundry",
+  "theme": "communities",
+  "year": 1920,
+  "yearEnd": 1973,
+  "place": {
+   "label": "People's Laundry (former James Lick Baths), 165 Tenth Street",
+   "lat": 37.774575,
+   "lon": -122.414814,
+   "precision": "building"
+  },
+  "hook": "When James Lick's public baths closed, the Tsukamoto family turned the building into a laundry. Its all-Japanese crew, mostly men from one prefecture, slept upstairs.",
+  "story": "The James Lick Baths on Tenth Street came through 1906 better than most buildings. Its core survived, probably because it had its own well and a huge water reservoir in its tower [1]. Business fell away after the fire, though, as residents moved west and new buildings came with their own bathrooms. The baths closed in 1919 because of financial trouble [2]. In 1920 the building became the People's Laundry, a commercial laundry run by the Tsukamoto family [1]. It was one of the best-known Japanese-owned businesses South of Market outside South Park, which had been the city's first mainly Japanese neighbourhood before Japantown [1]. In the early years the Tsukamotos lived in the building, and later they moved into quarters behind it, across Grace Street [1]. The workers were all Japanese. Most were single men who had come to California from Chiba Prefecture, and they lived upstairs, above the laundry [1]. The People's Laundry ran here until 1973, though the Tsukamoto family did not run it the whole time [1][2]. The old bathhouse is now a city landmark; in 2012 it housed an architecture firm [2].",
+  "people": [
+   {
+    "name": "Tsukamoto family",
+    "role": "owners of the People's Laundry"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: South of Market Area",
+    "publisher": "Page & Turnbull for San Francisco Planning Department",
+    "year": 2009,
+    "url": "https://sfplanning.s3.amazonaws.com/archives/documents/372-SOMA_Historic_Context_Statement_06-30-2009.pdf",
+    "supports": "survival in 1906, Tsukamoto family, Chiba workforce living upstairs, Grace Street quarters, South Park as first Japanese enclave, 1920-1973"
+   },
+   {
+    "title": "San Francisco Landmark #246: James Lick Baths",
+    "publisher": "NoeHill in San Francisco",
+    "url": "https://noehill.com/sf/landmarks/sf246.asp",
+    "supports": "decline after 1906, closure 1919, People's Laundry 1920-1973, architecture firm today"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-new-pullman-hotel",
+  "title": "Where Pullman porters could get a bed",
+  "theme": "labor-industry",
+  "year": 1909,
+  "yearEnd": 1984,
+  "place": {
+   "label": "New Pullman Hotel, 228-248 Townsend Street",
+   "lat": 37.778265,
+   "lon": -122.393882,
+   "precision": "building"
+  },
+  "hook": "In the Jim Crow era, Black railroad workers often couldn't find a hotel that would take them. For about forty years this plain two-storey building on Townsend Street did.",
+  "story": "Built in 1909, as South of Market rebuilt after the fire, this two-storey building had a hotel upstairs and six storefronts below [1]. The hotel changed names again and again: Bancroft Hotel, Hotel Carlo, Hotel Townsend, Dades Hotel, Eleanor Hotel, Aunt Mary's Hotel, New Townsend Hotel. From 1948 it was the New Pullman Hotel [1]. Pullman porters and maids, the African American workers who staffed the railroads' sleeping cars, often struggled to find lodging under Jim Crow. In San Francisco their main option was here [1]. City directories and census records show Black waiters, cooks, laborers, maids and porters living in the building from 1909 to about 1950. The first documented porter, Claude C. Waller, moved in in 1911 [1]. By the 1950s the building also held the Red Cap Café, Porter's Inn Liquors and the Galilee Mission Baptist Church. From 1950 the hotel was listed in the Negro Motorist Green Book, the guide to places that would serve Black travelers [1]. Lena's Luncheonette served downstairs from at least the 1960s until 1984, the year the hotel closed [1]. In 2018 the city made it a landmark. It is the only known San Francisco building strongly tied to the Pullman porters, whose union was the first all-Black union in the country [2].",
+  "people": [
+   {
+    "name": "Claude C. Waller",
+    "role": "first documented Pullman porter resident, 1911"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #280: New Pullman Hotel",
+    "publisher": "NoeHill in San Francisco",
+    "url": "https://noehill.com/sf/landmarks/sf280.asp",
+    "supports": "1909 construction, hotel names, porters, Waller, businesses, Green Book, Lena's Luncheonette, 1984 closure"
+   },
+   {
+    "title": "Ordinance No. 253-18: Landmark Designation, 228-248 Townsend Street (aka New Pullman Hotel)",
+    "publisher": "San Francisco Board of Supervisors",
+    "year": 2018,
+    "url": "https://web.archive.org/web/2025/https://sfplanninggis.org/docs/landmarks_and_districts/LM280.pdf",
+    "supports": "2018 designation, only known property tied to porters, first all-Black union"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-project-one-warehouse",
+  "title": "A commune, a candy factory, a mainframe",
+  "theme": "arts-counterculture",
+  "year": 1971,
+  "yearEnd": 1980,
+  "place": {
+   "label": "Project One warehouse site, Tenth and Howard streets",
+   "lat": 37.774356,
+   "lon": -122.414241,
+   "precision": "block"
+  },
+  "hook": "Artists, filmmakers and a free school moved into an empty candy factory. They built their own walls, and installed the computer Doug Engelbart had used in his famous 1968 demo.",
+  "story": "Architect Ralph Scott, a former student of Buckminster Fuller, started Project One in an abandoned candy factory South of Market. The building was leased in 1970, and the community lasted from 1971 to 1980 [1]. It is remembered as San Francisco's first 'warehouse community' [1][2]. The residents found an empty 84,000-square-foot shell and built the walls, hallways and living spaces themselves [1]. Filmmaker Craig Baldwin, who lived there, remembered \"78 or 79 people\" and studios for stained glass, silk-screening, film and music; he described it as a multi-story vertical village [2]. Tenants included the Symbas alternative high school, the Optic Nerve video collective and KPOO community radio [1]. Resource One installed an SDS-940 mainframe there [1][3]. Engineer Lee Felsenstein wrote that the machine had been leased by Stanford Research Institute, where Doug Engelbart used it in his historic 1968 demonstration of personal computing. Transamerica Leasing then handed it over on \"long term loan\" [3]. It needed 23 tons of air conditioning and a sealed room [3]. On August 8, 1973, the group switched on Community Memory, a public electronic bulletin board: a Teletype in a hand-built cardboard box at Leopold's Records in Berkeley, linked by phone line to the computer here [1][4]. Sources place the building at Tenth and Howard, though one says Tenth and Harrison [1][2].",
+  "people": [
+   {
+    "name": "Ralph Scott",
+    "role": "architect who started Project One"
+   },
+   {
+    "name": "Lee Felsenstein",
+    "role": "engineer who installed the mainframe"
+   },
+   {
+    "name": "Craig Baldwin",
+    "role": "filmmaker and resident"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Project One Warehouse",
+    "publisher": "FoundSF",
+    "url": "https://www.foundsf.org/index.php?title=Project_One_Warehouse",
+    "supports": "Scott, candy factory, dates, first warehouse community, 84,000 sq ft, self-built, tenants, Community Memory, 10th and Howard"
+   },
+   {
+    "title": "Warehouse history shows importance of artists living where they work",
+    "publisher": "KALW",
+    "year": 2017,
+    "url": "https://www.kalw.org/show/crosscurrents/2017-03-02/warehouse-history-shows-importance-of-artists-living-where-they-work",
+    "supports": "Baldwin quotes, 78-79 residents, first artists' warehouse community, 10th and Harrison"
+   },
+   {
+    "title": "Installing a Mainframe at Project One (Lee Felsenstein)",
+    "publisher": "FoundSF",
+    "url": "https://www.foundsf.org/index.php?title=Installing_a_Mainframe_at_Project_One",
+    "supports": "SDS-940 history, Engelbart demo, Transamerica loan, 23 tons of air conditioning"
+   },
+   {
+    "title": "Community Memory: The Beginning (Lee Felsenstein)",
+    "publisher": "FoundSF",
+    "url": "https://www.foundsf.org/index.php?title=Community_Memory:_The_Beginning",
+    "supports": "Leopold's Records terminal, cardboard enclosure, opening August 8, 1973"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-filipino-education-center",
+  "title": "A school that teaches in Tagalog, too",
+  "theme": "communities",
+  "year": 1972,
+  "yearEnd": 2009,
+  "place": {
+   "label": "Bessie Carmichael School / Filipino Education Center, 824 Harrison Street",
+   "lat": 37.780419,
+   "lon": -122.400314,
+   "precision": "building"
+  },
+  "hook": "When a freeway threatened her school in the 1950s, principal Bessie Carmichael fought to move it. Two decades later a Filipino school opened nearby, and eventually the two became one.",
+  "story": "Franklin Elementary once stood at Eighth and Harrison streets. When freeway construction threatened it in the early 1950s, its principal, Bessie Carmichael, lobbied to move the school to Columbia Square, where it was re-established in 1954 as a ten-classroom school [1]. The school now carries her name. Many San Francisco neighbourhood schools were then overwhelmingly Euro-American, but hers reflected the South of Market's mix, including growing numbers of Mexican and Filipino immigrants [1]. After the 1965 immigration reform brought many more Filipino families to the neighbourhood, Bessie Carmichael became predominantly Filipino [2]. On May 1, 1972, the Filipino Education Center opened at 390 Fourth Street, and soon moved here to 824 Harrison. It taught non-English-speaking children from kindergarten through twelfth grade and helped their families find health and social services [1]. By the late 1990s it was running a dual-language program in English and Tagalog [1]. The two schools merged. In 2004 the elementary grades moved to a new campus at 375 Seventh Street, and the old Filipino Education Center building became the middle school, rebuilt in 2009 [1]. As of 2013 they were the only public schools South of Market [1].",
+  "people": [
+   {
+    "name": "Bessie Carmichael",
+    "role": "principal of Franklin Elementary"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Filipino Heritage: Addendum to the South of Market Historic Context Statement",
+    "publisher": "Page & Turnbull for San Francisco Planning Department",
+    "year": 2013,
+    "url": "https://default.sfplanning.org/Preservation/central_soma_hrs/SOMA_Filipino_Heritage_HCS_Final_Report-031313.pdf",
+    "supports": "Franklin School, 1954 move, student mix, FEC opening 1972, addresses, dual-language program, 2004 and 2009 changes"
+   },
+   {
+    "title": "SOMA Transformed (James Sobredo)",
+    "publisher": "FoundSF",
+    "url": "https://www.foundsf.org/index.php?title=SOMA_Transformed",
+    "supports": "post-1965 immigration; Bessie Carmichael became predominantly Filipino; Filipino Educational Center"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-woolf-house",
+  "title": "Housing named for a man who wouldn't move",
+  "theme": "civil-rights",
+  "year": 1979,
+  "yearEnd": 1982,
+  "place": {
+   "label": "Woolf House, 801 Howard Street at Fourth Street",
+   "lat": 37.782976,
+   "lon": -122.402829,
+   "precision": "building"
+  },
+  "hook": "The elderly tenants who sued to stop Yerba Buena's bulldozers ended up building their own replacement homes. The first went up on this corner.",
+  "story": "In 1969 the elderly tenants of South of Market's residential hotels, facing demolition for the Yerba Buena Center, met in the lobby of the Milner Hotel on Fourth Street and organized as Tenants and Owners in Opposition to Redevelopment, or TOOR. Their slogan was \"We Won't Move\" [1][2]. Their federal lawsuit held up the redevelopment project for four years [2]. In 1971 TOOR set up the Tenants and Owners Development Corporation, TODCO, to build replacement housing itself. It was only the city's second community-based housing developer [2]. A 1973 settlement forced the city to hand over four Yerba Buena sites for new housing, with hotel-tax money to help pay for it [2]. TODCO's first organizers included TOOR co-founder Peter Mendelsohn, who had spent 40 years as a merchant seaman [1][2]. In 1979 the first building opened on the first of those sites, at Fourth and Howard. Woolf House had 112 apartments for seniors and was named for TOOR's chairman, George Woolf, the first president of the Alaska Cannery Workers' Union, who had died in 1971 [1][2]. An addition in 1982 brought 70 more apartments [2]. A small daily lunch program at Woolf House grew into TODCO's services for the roughly 1,000 residents of its buildings [2].",
+  "people": [
+   {
+    "name": "George Woolf",
+    "role": "TOOR chairman and namesake"
+   },
+   {
+    "name": "Peter Mendelsohn",
+    "role": "TOOR co-founder and TODCO organizer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "TOOR (Tenants and Owners in Opposition to Redevelopment) (Ben Ratliff)",
+    "publisher": "FoundSF",
+    "url": "https://www.foundsf.org/index.php?title=TOOR_(Tenants_and_Owners_in_Opposition_to_Redevelopment)",
+    "supports": "Milner Hotel founding, slogan, Woolf and Mendelsohn backgrounds"
+   },
+   {
+    "title": "The TODCO Group Story: History",
+    "publisher": "TODCO",
+    "url": "https://todco.org/history/",
+    "supports": "lawsuit delay, TODCO 1971, 1973 settlement, staff, Woolf House 1979 and 1982, Woolf died 1971, lunch program"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-filipino-hero-streets",
+  "title": "Five alleys renamed for Filipino heroes",
+  "theme": "communities",
+  "year": 1979,
+  "yearEnd": 1980,
+  "place": {
+   "label": "Rizal Street and the San Lorenzo Ruiz Center (former Dimasalang House), 50 Rizal Street",
+   "lat": 37.782049,
+   "lon": -122.399577,
+   "precision": "street"
+  },
+  "hook": "Lapu Lapu Street used to be Maloney Street. In 1979 a Filipino mutual aid society had the alleys around its new senior housing renamed for national heroes.",
+  "story": "In the late 1970s the Caballeros de Dimas-Alang, a Philippine mutual aid society, joined TODCO to build senior housing on a Yerba Buena site along Rizal and Shipley streets, southwest of Fourth Street [1][2]. The society's name came from a pen name of the Filipino national hero José Rizal [1]. The HUD-funded Dimasalang House opened in 1980 with 149 apartments. It is now the San Lorenzo Ruiz Center, named for the first Filipino saint [1][2]. While it was being built, the Caballeros asked the city to rename the streets around it, and in August 1979 the Board of Supervisors agreed [1]. Part of Clara Street became Rizal Street. Part of Shipley Street became Bonifacio, for Andrés Bonifacio, founder of a revolutionary society. Alice Street became Mabini, for Apolinario Mabini, who drafted the constitution of the first Philippine republic. Maloney Street became Lapu Lapu, for the Mactan chief credited with killing Ferdinand Magellan. O'Doul Lane became Tandang Sora, the honorific name of a heroine of the Philippine Revolution [1]. Residents of the building keep a community garden among these streets. As one writer noted, it is the only part of San Francisco with Filipino street names [3].",
+  "people": [
+   {
+    "name": "Caballeros de Dimas-Alang",
+    "role": "Filipino mutual aid society that petitioned for the names"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Filipino Heritage: Addendum to the South of Market Historic Context Statement",
+    "publisher": "Page & Turnbull for San Francisco Planning Department",
+    "year": 2013,
+    "url": "https://default.sfplanning.org/Preservation/central_soma_hrs/SOMA_Filipino_Heritage_HCS_Final_Report-031313.pdf",
+    "supports": "Dimasalang House, 149 units, 1980, San Lorenzo Ruiz Center, August 1979 resolution, each renamed street"
+   },
+   {
+    "title": "The TODCO Group Story: History",
+    "publisher": "TODCO",
+    "url": "https://todco.org/history/",
+    "supports": "1980 HUD-funded joint venture, 149 apartments, renamed San Lorenzo Ruiz Center"
+   },
+   {
+    "title": "SOMA Transformed (James Sobredo)",
+    "publisher": "FoundSF",
+    "url": "https://www.foundsf.org/index.php?title=SOMA_Transformed",
+    "supports": "only area of the city with Filipino street names; community garden"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-leather-david-ringold-alley",
+  "title": "A plaster David goes biker, then granite",
+  "theme": "lgbtq",
+  "year": 1966,
+  "yearEnd": 2017,
+  "place": {
+   "label": "Leather History Alley, Ringold Street near Ninth Street",
+   "lat": 37.773685,
+   "lon": -122.410895,
+   "precision": "street"
+  },
+  "hook": "In 1966 an artist snapped the arm off a plaster Michelangelo and rebuilt him as a leather biker. Half a century later his image was set in stone here.",
+  "story": "In 1966 Febe's opened at the western end of Folsom Street and helped move San Francisco's gay leather scene there. Bars soon filled a three-block strip [1]. Artist Mike Caffee designed Febe's logo and a statue that came to symbolize the bar. He took a small plaster copy of Michelangelo's David, broke off the raised left arm and lowered it \"so his thumb could go in his pants pocket, giving him cruiser body language,\" then built a biker jacket, button Levi's, boots and a Harley cap from layers of wet plaster [1]. Two-foot casts sold by the hundreds. One crossed the country on the back of a motorcycle to a Boston leather bar, and another went to Melbourne [1]. In July 2017 a rebuilt Ringold Alley, between Eighth and Ninth streets, opened with 'Leather Memoir', four artworks by landscape architect Jeffrey Miller's firm [2][3]. Before the AIDS crisis, men met in this alley after the Folsom Street bars closed [2]. A black granite stone at Ninth and Ringold carries a history by Gayle Rubin, a copy of Chuck Arnett's lost Tool Box mural and an image of Caffee's Leather David. Metal bootprints along the curb name people who built the leather community [2][3]. Rubin believes it is the only monument to leather history on a public street anywhere [3].",
+  "people": [
+   {
+    "name": "Mike Caffee",
+    "role": "artist of the Leather David"
+   },
+   {
+    "name": "Jeffrey Miller",
+    "role": "landscape architect of Leather Memoir"
+   },
+   {
+    "name": "Gayle Rubin",
+    "role": "leather historian and adviser"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Folsom Street: The Miracle Mile (Gayle Rubin)",
+    "publisher": "FoundSF",
+    "year": 1998,
+    "url": "https://www.foundsf.org/index.php?title=Folsom_Street:_The_Miracle_Mile",
+    "supports": "Febe's 1966, Caffee statue and quote, casts, Boston and Melbourne"
+   },
+   {
+    "title": "Ringold Alley \"Leather Memoir\"",
+    "publisher": "Miller Company Landscape Architects",
+    "url": "http://www.millercomp.com/ringold-alley",
+    "supports": "alley history, marker stone contents, bootprints"
+   },
+   {
+    "title": "Honoring gay leather culture with art installation in SoMa alleyway",
+    "publisher": "J. The Jewish News of Northern California",
+    "year": 2018,
+    "url": "https://www.jweekly.com/2018/06/21/honoring-gay-leather-culture-with-art-installation-in-soma-alleyway/",
+    "supports": "four artworks, opened July 2017, Rubin quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-holc-squat-1984",
+  "title": "Punks squat a laundry for the convention",
+  "theme": "arts-counterculture",
+  "year": 1984,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Hotel Owners Laundry Company building, Fifth and Folsom streets",
+   "lat": 37.780154,
+   "lon": -122.404123,
+   "precision": "block"
+  },
+  "hook": "In 1984, as the Democrats came to Moscone Center, young squatters took over an empty laundry two blocks away. They held meetings, served free meals and built a skate rink.",
+  "story": "Evicted from a squat called The Vats, many young activists moved into an abandoned building near Fifth and Folsom that had belonged to the Hotel Owners Laundry Company, nicknamed HOLC, or \"hole-see\" [1]. From April until their eviction in October 1984 they ran a highly political squat [1]. They met twice a week and agreed two rules: no shooting drugs, and everyone had to work [1]. They held open houses with free meals, turned the ground floor into a skateboard rink and, by one account, had visits from punk bands including MDC, Reagan Youth, the Exploited and DRI [1]. A 75-year-old former merchant seaman who lived in the hotel next door helped them get the electricity going and put in a hot water tank. He told them he didn't care they were there \"as long as you don't torch the place\" [1]. Only a couple of blocks from Moscone Center, HOLC became a planning center for demonstrators at the 1984 Democratic National Convention [1]. At one protest, activists pushed a twelve-foot 'Trojan Donkey', which 'excreted' toy missiles and tanks, from the protest pen at Moscone down Fifth Street to the Hall of Justice on Bryant. Riot police met them there, and many protesters sat down in front of the entrance [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "The Hotel Owners Laundry Company (HOLC) Squat: 1984 (Jeff Goldthorpe)",
+    "publisher": "FoundSF",
+    "year": 1988,
+    "url": "https://www.foundsf.org/index.php?title=The_Hotel_Owners_Laundry_Company_(HOLC)_Squat:_1984",
+    "supports": "Vats eviction, location, dates, rules, meals, skate rink, bands, neighbor, convention planning center"
+   },
+   {
+    "title": "Trojan Donkey at 1984 Democratic Convention (Jeff Goldthorpe)",
+    "publisher": "FoundSF",
+    "year": 1984,
+    "url": "https://www.foundsf.org/index.php?title=Trojan_Donkey_at_1984_Democratic_Convention",
+    "supports": "Trojan Donkey, march down Fifth to Hall of Justice, riot police, sit-down"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-slims-sun-ra-parade",
+  "title": "Sun Ra leads a parade down Eleventh",
+  "theme": "arts-counterculture",
+  "year": 1988,
+  "yearEnd": 2020,
+  "place": {
+   "label": "Slim's, 333 Eleventh Street",
+   "lat": 37.771491,
+   "lon": -122.413241,
+   "precision": "building"
+  },
+  "hook": "Boz Scaggs wanted to open the R&B club of his dreams. Six weeks after it opened, Sun Ra marched the whole crowd out the door and down the street.",
+  "story": "Rock star Boz Scaggs wanted to open the R&B nightclub of his dreams. With some high-powered partners he took over a vacant South of Market restaurant called the Warehouse, threw a New Year's Eve party there, and then closed it for nine months of remodeling [1]. Slim's opened on September 16, 1988, with Katie Webster, Anson Funderburgh, Delbert McClinton and \"Presidio Slim\", who was Scaggs himself [1]. On October 30, Sun Ra and his Arkestra led the entire crowd on a Halloween parade out of the club and down Eleventh Street [1]. That Christmas Eve the Oakland Interfaith Gospel Choir sang the first of what became yearly concerts there [1]. The club kept a house band at first, but soon it was booking almost everything. When the power on Eleventh Street failed during a 1991 show, Mary Chapin Carpenter handed her keyboard player an accordion and the band played on from the bar. Radiohead sold out its first San Francisco show here in 1993, the year Green Day paid to replace the stage carpets it had ruined [1]. Slim's closed for good in March 2020. Scaggs said the decision had been made the year before, long before the pandemic shut the club: \"Slim's did what it was here to do\" [2].",
+  "people": [
+   {
+    "name": "Boz Scaggs",
+    "role": "founder"
+   },
+   {
+    "name": "Sun Ra",
+    "role": "bandleader"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Boz Scaggs' nightclub Slim's 20 years old (Joel Selvin)",
+    "publisher": "SFGATE / San Francisco Chronicle",
+    "year": 2008,
+    "url": "https://www.sfgate.com/entertainment/article/Boz-Scaggs-nightclub-Slim-s-20-years-old-3263369.php",
+    "supports": "founding, opening night, Sun Ra parade, gospel choir, Carpenter, Radiohead, Green Day"
+   },
+   {
+    "title": "Slim's closed for good after more than three decades at heart of SF's music scene",
+    "publisher": "San Francisco Chronicle",
+    "year": 2020,
+    "url": "https://datebook.sfchronicle.com/music/slims-to-close-after-more-than-three-decades-at-heart-of-sfs-music-scene",
+    "supports": "March 2020 closure, decision made earlier, Scaggs quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-dna-lounge-under-the-floor",
+  "title": "Under the dance floor, the 1906 fire",
+  "theme": "modern-city",
+  "year": 2000,
+  "yearEnd": null,
+  "place": {
+   "label": "DNA Lounge, 375 Eleventh Street",
+   "lat": 37.771011,
+   "lon": -122.412687,
+   "precision": "building"
+  },
+  "hook": "When a former Netscape programmer dug up his nightclub's floor in 2000 to fix the sewer, the building smelled of smoke for days. Underneath lay the burnt rubble of 1906.",
+  "story": "Before 1906 this part of Eleventh Street was lined with flats. By 1893 the lot held two row houses, each with a pair of two-bedroom flats [1]. Like nearly everything around them, they burned after the earthquake [1]. Photos from 1923 appear to show Dave Lerer, who was in the truck-parts business, putting up the building that stands here now. At various times it was an auto repair shop and, reportedly, a foundry that cast manhole covers for the city [1]. In 1977, according to the club's own history, it became a leather bar called Chaps. On November 22, 1985, Jim English, Jeff Mason and Brian Raffi reopened it as DNA Lounge, a dance club [1]. In February 2000 Jamie Zawinski, a former Netscape programmer, packed a city Board of Appeals hearing with at least 150 fans while the police tried to use his purchase of the club to take away its after-hours permits [2]. That year, during a remodel, he had holes dug to repair the sewer lines [1]. Under two or three feet of sand lay four feet or more of old bricks and burned wood, the wreckage of whatever had stood here before the fire. The disturbed cinders made the whole building smell like fire for days, he wrote, \"after being underground for ninety-four years\" [1].",
+  "people": [
+   {
+    "name": "Jamie Zawinski",
+    "role": "owner from 2000, former Netscape programmer"
+   },
+   {
+    "name": "Dave Lerer",
+    "role": "built the building in the 1920s"
+   }
+  ],
+  "sources": [
+   {
+    "title": "DNA Sequencing: Ancient History, 1906-1998 (Jamie Zawinski)",
+    "publisher": "DNA Lounge",
+    "url": "https://www.dnalounge.com/backstage/log/1906-1998.html",
+    "supports": "pre-1906 flats, Lerer, foundry and garage uses, Chaps 1977, DNA opening 1985, 2000 excavation and fire smell"
+   },
+   {
+    "title": "Free the night life! (Andrew Leonard)",
+    "publisher": "Salon",
+    "year": 2000,
+    "url": "https://web.archive.org/web/2001/http://www.salon.com/tech/feature/2000/02/10/zawinski/index.html",
+    "supports": "Zawinski ex-Netscape, Board of Appeals hearing, 150 fans, police and after-hours permits"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "south-of-market-2p-mint-mall",
+  "title": "A Filipino plaza inside one building",
+  "theme": "civil-rights",
+  "year": 2000,
+  "yearEnd": 2025,
+  "place": {
+   "label": "Mint Mall and Hall, 951-957 Mission Street",
+   "lat": 37.781553,
+   "lon": -122.407365,
+   "precision": "building"
+  },
+  "hook": "A 1916 hotel became a mall where Filipinos ate, bought Tagalog books, rehearsed plays and sang karaoke. When dot-com offices began pushing them out in 2000, the community fought back.",
+  "story": "The building at 951-957 Mission Street went up in 1916 as a hotel with more than 250 rooms. By the late 1940s its upper floors had become apartments [1]. The Nocon family bought it in the 1970s, and in 1981 the ground floor and basement reopened as the Mint Mall Shopping Center. Its first documented tenant was the Philipina Café [1]. Upstairs, in the Mint Hall, about 90% of residents are Filipino, most of them from Pampanga. Newcomers use the rent-controlled units as a first home, then pass the lease on to the next relative [1]. In 1998 Marie Romero moved Arkipelago Books, one of the only Filipino specialty bookstores in the United States, into the basement, and Bindlestiff Studio rehearsed in its hallways [1]. In 2000, during the dot-com boom, a Filipino theater group, a print shop and an office space were evicted to make room for internet tenants. The city cited the building's managers for illegally turning shops into offices [2]. \"We need to be cognizant that we are a dying species in the South of Market area,\" warned the activist Bill Sorro [2]. The Mint Mall Organizing Committee fought the evictions [1]. In October 2025 the city made the Mint Mall and Hall its 321st landmark [1][3].",
+  "people": [
+   {
+    "name": "Marie Romero",
+    "role": "owner of Arkipelago Books"
+   },
+   {
+    "name": "Bill Sorro",
+    "role": "housing activist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Article 10 Landmark Designation Fact Sheet: Mint Mall and Hall",
+    "publisher": "San Francisco Planning Department",
+    "year": 2025,
+    "url": "https://files.sfplanning.org/documents/preservation/LM321.pdf",
+    "supports": "1916 hotel, Nocon family, 1981 mall, Philipina Café, Pampanga, lease passing, Arkipelago, Bindlestiff, organizing committee"
+   },
+   {
+    "title": "HUB IN CRISIS / Evictions Dispersing Filipino American Businesses (Ryan Kim)",
+    "publisher": "San Francisco Chronicle",
+    "year": 2000,
+    "url": "https://www.sfgate.com/news/article/hub-in-crisis-evictions-dispersing-filipino-3236232.php",
+    "supports": "2000 evictions, citation for illegal conversion, Sorro quote"
+   },
+   {
+    "title": "Designated Landmarks and Landmark Districts",
+    "publisher": "San Francisco Planning Department",
+    "url": "https://sfplanning.org/project/designated-landmarks-and-landmark-districts",
+    "supports": "321st landmark, approved October 16, 2025"
+   }
+  ],
+  "photo": null
+ }
+]

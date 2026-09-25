@@ -1,0 +1,681 @@
+[
+  {
+    "id": "haight-ashbury-2p-maybeck-power-house",
+    "title": "The camp that became a Maybeck house",
+    "theme": "architecture-landmarks",
+    "year": 1910,
+    "yearEnd": null,
+    "place": {
+      "label": "Power House, 1526 Masonic Avenue",
+      "lat": 37.76607,
+      "lon": -122.443893,
+      "precision": "building"
+    },
+    "hook": "A lawyer's family burned out in 1906 fell for a hillside view, hired an unknown architect named Maybeck, and later got into a feud with relatives across the street.",
+    "story": "When the 1906 fire burned their downtown flat, the family of lawyer E. B. Power took refuge in the Masonic Cemetery and, by some accounts, then camped on open land at the edge of today's Cole Valley [2]. They liked the quiet and the view so much that they built there. In 1910 they hired Bernard Maybeck, then known mainly for his work in the East Bay, to design 1526 Masonic Avenue [1][2]. It already shows what made him famous: rough shingles against huge smooth beams, a pitched roof and deep eaves [1][3]. He went on to design the Palace of Fine Arts [1][3].\n\nThe neighbours had their own dramas. Relatives living across the street at 1524 Masonic fell out with the Powers and added a second-floor \"spite wall\" that blocked the bay view from their living room [1]. OpenSFHistory is more careful and calls it a \"supposed\" spite wall [2]. The family lived in the house into the 1940s [2]. In 2026 the Board of Supervisors started the process of making it a city landmark [3]. Sources disagree on the details: FoundSF and the city call the owner \"Powers\", a U.S. Attorney, while OpenSFHistory has E. B. Power, a state assistant attorney general [1][2][3].",
+    "people": [
+      {
+        "name": "Bernard Maybeck",
+        "role": "architect"
+      },
+      {
+        "name": "Erastus Barnum (E. B.) Power",
+        "role": "lawyer and original owner"
+      },
+      {
+        "name": "Minerva Power",
+        "role": "original owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Upper Masonic (Haight-Ashbury Architectural Tour)",
+        "publisher": "FoundSF",
+        "year": 2008,
+        "url": "https://www.foundsf.org/index.php?title=Upper_Masonic",
+        "supports": "1910 house, camping after 1906, Maybeck features, 1524 spite wall, 1499/1501 roofline"
+      },
+      {
+        "title": "The San Franciscans: E. B. and Minerva Power",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2017,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2017/07/16/the-san-franciscans-e-b-and-minerva-power/",
+        "supports": "Power family biography, 1906 refuge, 'supposed' spite wall, occupancy into the 1940s"
+      },
+      {
+        "title": "Resolution No. 113-26: Initiating Landmark Designation - Power House",
+        "publisher": "San Francisco Board of Supervisors",
+        "year": 2026,
+        "url": "https://media.api.sf.gov/documents/r0113-26.pdf",
+        "supports": "1910 construction, Maybeck design, character-defining features, 2026 landmark initiation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-buena-vista-oaks",
+    "title": "Oaks older than the park",
+    "theme": "parks-nature",
+    "year": 1894,
+    "yearEnd": null,
+    "place": {
+      "label": "Coast live oak grove, north slope of Buena Vista Park",
+      "lat": 37.7688,
+      "lon": -122.4418,
+      "precision": "area"
+    },
+    "hook": "Under the eucalyptus planted by John McLaren is something much older: one of San Francisco's last native oak woodlands, growing where sand dunes once poured over the hill.",
+    "story": "Before the city existed, the great sand dunes that covered about a third of San Francisco climbed right up and over this hill. Hundreds of years ago, pioneering plants held the sand in place and the soil got rich enough for coast live oaks to grow [1]. When the city set the hill aside in the 1860s, one reason was that it had native trees and shrubs, which were rare in San Francisco [3].\n\nAfter it was dedicated as Buena Vista Park in 1894, John McLaren had the hill planted with eucalyptus, cypress, pine, Australian tea trees and small redwoods around the few native live oaks and toyons already there. During Adolph Sutro's term as mayor, schoolchildren planted seedlings on Arbor Day [2]. The newcomers now tower over the park, but the old grove survived. The city describes it as one of its few remaining coast live oak groves, on the park's northern side [4]. Along with stands in Golden Gate Park and by Lobos Creek, it is among the largest left in San Francisco [1]. Today park staff and the Friends of Buena Vista Park pull ivy and plant natives around the oaks [1].",
+    "people": [
+      {
+        "name": "John McLaren",
+        "role": "park superintendent"
+      },
+      {
+        "name": "Pete Holloran",
+        "role": "naturalist and writer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Buena Vista Peak",
+        "publisher": "FoundSF (Pete Holloran)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Buena_Vista_Peak",
+        "supports": "dunes over the hilltop, origin of the oak woodland, largest remnant stands, restoration work"
+      },
+      {
+        "title": "Buena Vista History",
+        "publisher": "FoundSF (Jeanne Alexander, from the San Francisco Observer, 1999)",
+        "year": 1999,
+        "url": "https://www.foundsf.org/index.php?title=Buena_Vista_History",
+        "supports": "1894 dedication, McLaren's plantings around existing live oaks and toyon, Arbor Day seedlings, 1950 proposal to sell parkland"
+      },
+      {
+        "title": "Buena Vista Park (Haight-Ashbury Architectural Tour)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Buena_Vista_Park",
+        "supports": "park chosen partly for its native trees and shrubs"
+      },
+      {
+        "title": "Buena Vista Park",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": null,
+        "url": "https://sfrecpark.org/Facilities/Facility/Details/Buena-Vista-Park-155",
+        "supports": "one of the city's few remaining coast live oak groves, natural area on the northern side"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-golden-cask",
+    "title": "No slacks at the Golden Cask",
+    "theme": "lgbtq",
+    "year": 1961,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Golden Cask, 1725 Haight Street",
+      "lat": 37.76921,
+      "lon": -122.451206,
+      "precision": "building"
+    },
+    "hook": "A lesbian bar owner who lost her waterfront produce-district bar in 1961 moved to Haight Street and opened a bar for gay men, where women in slacks were not welcome.",
+    "story": "Before the Castro, Haight Street had its own quiet gay nightlife. Charlotte Coleman had run The Front, a lesbian bar near the old produce market, where she worked in slacks, jacket and tie. After police harassment, morals charges and the loss of her liquor licence, and with redevelopment about to demolish the building, she closed it in 1961 [1]. That same year she opened the Golden Cask on Haight Street, a bar for gay men. \"I wouldn't even let women in with slacks,\" she later said [1].\n\nIt was not alone. Romeo's, at 1605 Haight, also opened in 1961 and drew mostly women. One of them remembered it as a \"small, dirty, sleaze bar\", and also as the place where she found her first female lover [1]. By 1965 there was a small cluster of gay and lesbian bars in and near the neighbourhood [1]. That year a San Francisco Examiner series called the Haight-Ashbury the city's new bohemian quarter, listing \"homosexuals, lesbians\" and \"hippies\" among its residents. The local police captain asked the bars to \"be discreet and don't dance\" [2]. The building at 1725 Haight still stands [1].",
+    "people": [
+      {
+        "name": "Charlotte Coleman",
+        "role": "bar owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Coleman and The Front, 1961 opening of the Golden Cask, 'slacks' quote, Romeo's at 1605 Haight, 1965 bar cluster, 1725 Haight extant"
+      },
+      {
+        "title": "Haight Street Turns On",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2022,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/haight-street-turns-on/",
+        "supports": "1965 Examiner description, Romeo's and the Golden Cask as meeting places, police captain's 'don't dance' advice"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-sir-basement",
+    "title": "A gay rights movement planned in a basement",
+    "theme": "lgbtq",
+    "year": 1964,
+    "yearEnd": null,
+    "place": {
+      "label": "529 Clayton Street",
+      "lat": 37.77026,
+      "lon": -122.448979,
+      "precision": "building"
+    },
+    "hook": "For months in 1964, four men met in a Clayton Street basement to plan what became the largest homophile organisation in America.",
+    "story": "In 1964 four men, Bill Plath, William Beardemphl, Jim Foster and Mark Forrester, met for months in the basement of an apartment building at 529 Clayton Street. What they were planning launched in September 1964 as the Society for Individual Rights, or SIR [1]. Its statement of policy was angrier than earlier homophile groups had dared: \"We find ourselves scorned, our rights as persons and citizens before the law imperiled, our individuality suppressed by a hostile social order\" [1].\n\nThe founders wanted SIR to be democratic and open to \"all expressions of the homosexual community\" [1]. It held dances, brunches and drag shows and ran bowling leagues, bridge clubs and art classes. It also worked closely with the gay bars, and SIR-funded lawyers helped many men arrested in them [1]. In April 1966 it opened what the city's LGBTQ context statement calls the country's first gay community center, on Sixth Street, and it grew into the largest homophile organisation in the United States [1][2]. Plath already owned the D'Oak Room, an early gay bar on Divisadero [1]. Lesbian bar owner Rikki Streicher, who opened Maud's in Cole Valley, was one of SIR's leaders [2]. The Clayton Street building still stands, just along the street from 558 Clayton, where the Haight-Ashbury Free Clinic opened in 1967 [1].",
+    "people": [
+      {
+        "name": "Bill Plath",
+        "role": "SIR co-founder"
+      },
+      {
+        "name": "William Beardemphl",
+        "role": "SIR co-founder"
+      },
+      {
+        "name": "Jim Foster",
+        "role": "SIR co-founder"
+      },
+      {
+        "name": "Mark Forrester",
+        "role": "SIR co-founder"
+      },
+      {
+        "name": "Rikki Streicher",
+        "role": "SIR leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "founders meeting in the basement of 529 Clayton, September 1964 founding, policy statement, activities, 1966 community center, Plath's D'Oak Room"
+      },
+      {
+        "title": "Rikki Streicher",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Rikki_Streicher",
+        "supports": "Streicher's leadership role in SIR; SIR as largest homophile organisation (pointer to NYT obituary and other sources)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-page-street-owners",
+    "title": "The Black homeowners of Page Street",
+    "theme": "civil-rights",
+    "year": 1967,
+    "yearEnd": 1970,
+    "place": {
+      "label": "Page Street between Shrader and Stanyan",
+      "lat": 37.770396,
+      "lon": -122.45226,
+      "precision": "block"
+    },
+    "hook": "Pushed out of the Fillmore by bulldozers, Black families bought homes on Page Street and soon found themselves landlords to young white hippies.",
+    "story": "The famous version of the 1960s Haight is about white hippies. Community organiser Calvin Welch described another one. In 1960 fewer than 10 percent of the neighbourhood's residents were non-white. By 1970, 24 percent were African American [2]. The change came from next door. Urban renewal was bulldozing the Western Addition, and Black property owners there received settlements, and many moved to the Haight [1]. By 1964–65, much of Page Street just south of the Panhandle had become a Black neighbourhood. By 1967, Welch said, a simple majority of the owners of the duplexes and triplexes on Page between Baker and Stanyan were working-class Black families [1].\n\nThen the hippies arrived, mostly as tenants. San Francisco had no rent control, and the landlord–tenant fights between Black owners and white renters threatened to turn violent. In one case, 12 units were lost in a suspicious fire [1]. The Episcopal-backed 409 House and the Free Clinic tried to find housing for young people, and a Tenants Action Group became active in late 1969 [1]. The city's LGBTQ context statement also describes the Haight of the 1950s to 1980s as a place of refuge for people pushed out by urban renewal: a mix of hippies, old-timers, gays and lesbians, and Black families from the Western Addition [3].",
+    "people": [
+      {
+        "name": "Calvin Welch",
+        "role": "community organiser and historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Redevelopment Hits the Haight",
+        "publisher": "FoundSF (Calvin Welch lecture, 1994)",
+        "year": 1994,
+        "url": "https://www.foundsf.org/index.php?title=Redevelopment_Hits_the_Haight",
+        "supports": "Black owners displaced from the Western Addition, Page Street between Baker and Stanyan by 1967, tensions, fire, 409 House, Tenants Action Group"
+      },
+      {
+        "title": "The Haight Ashbury",
+        "publisher": "FoundSF (Calvin Welch lecture, 1994)",
+        "year": 1994,
+        "url": "https://www.foundsf.org/index.php?title=The_Haight_Ashbury",
+        "supports": "1960 and 1970 demographic figures"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Haight-Ashbury as a refuge for residents displaced by urban renewal, multiracial mix"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-haight-straight-theater",
+    "title": "The theater that kept changing its name",
+    "theme": "arts-counterculture",
+    "year": 1964,
+    "yearEnd": 1979,
+    "place": {
+      "label": "Site of the Haight / Straight Theater, 1702 Haight Street at Cole",
+      "lat": 37.769771,
+      "lon": -122.450613,
+      "precision": "building"
+    },
+    "hook": "In fifteen years the old Haight Theatre was a failed 'gay theater', briefly a church, the psychedelic Straight Theater, and finally a vacant lot.",
+    "story": "By 1964 the neighbourhood movie house at Haight and Cole had gone dark [2]. That year new owners reopened it and called it the first \"gay theater\" in the country. They showed art films and camp movies such as Glen or Glenda (SF Heritage says gay pornographic films) and hosted Mr. San Francisco physique and drag contests. Neighbours picketed, local youths and police harassed it, and it lasted about a month [1].\n\nAfter a short time as home to an Assembly of God congregation, the building was rented by three young promoters who planned rock concerts, dances and repertory theatre. They renamed it the Straight Theater [2]. City permits were, in SF Heritage's words, \"mysteriously difficult\" to get [2]. Still, from 1966 to 1969 the Grateful Dead, Janis Joplin with Big Brother, Country Joe and Santana played there [3]. By the Summer of Love it was holding concerts, \"happenings\" and consciousness-raising lectures [4].\n\nAfter years of arguments over its future, it was torn down in 1979 [4]. A drugstore built on the site burned in 1988 [4]. The apartments over shops that stand there now were built in 1992 and 2004 [4]. They also cover the site of the Park Masonic Hall next door [4].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "1964 'gay theater', films, contests, pickets and one-month run"
+      },
+      {
+        "title": "Haight Street Turns On",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2022,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/haight-street-turns-on/",
+        "supports": "1964 closure, Assembly of God interlude, trio of promoters, Straight Theater name, difficult permits"
+      },
+      {
+        "title": "The Straight on the Haight",
+        "publisher": "Reg E. Williams, thestraight.com (archived)",
+        "year": 2001,
+        "url": "https://web.archive.org/web/2010/http://www.thestraight.com/index.html",
+        "supports": "1966–69 Straight Theater, performers who played there"
+      },
+      {
+        "title": "Before the Summer of Love: A Closer Look",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2017,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2017/03/12/before-the-summer-of-love-a-closer-look/",
+        "supports": "1967 uses, 1979 demolition, 1988 drugstore fire, 1992/2004 buildings, Park Masonic Hall"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-mnasidika-bell-bottoms",
+    "title": "Where bell-bottoms were born",
+    "theme": "labor-industry",
+    "year": 1965,
+    "yearEnd": 1968,
+    "place": {
+      "label": "Mnasidika, 1510 Haight Street",
+      "lat": 37.77007,
+      "lon": -122.447314,
+      "precision": "building"
+    },
+    "hook": "A 24-year-old Delta Air Lines employee opened a boutique off Haight and Ashbury, sold Janis Joplin her jeans, and talked Levi Strauss into making flares.",
+    "story": "Peggy Caserta moved to San Francisco from near New Orleans while working for Delta Air Lines. She borrowed money from her parents, found a storefront just off Haight and Ashbury for $87.50 a month (\"I was just looking for cheap rent\") and opened Mnasidika [2]. The name comes from Greek poetry: Mnasidika was a young lover of Sappho [3]. SF Heritage dates the opening to April 1965, at 1510 Haight [1][2].\n\nWes Wilson's posters hung on the walls, and Bill Graham sold concert tickets there [2]. The city's LGBTQ history calls it the neighbourhood's first \"hip\" clothing store [3]. Janis Joplin, still relatively unknown, came in unable to afford new jeans. She and Caserta became close, and later lovers [2][3].\n\nThen a customer named Judy split the side seams of her boyfriend's Levi's and sewed in paisley triangles. Caserta paid her to make a dozen, and they sold out fast. Judy could not keep up with more [2]. Caserta drove to the Levi Strauss factory on Valencia Street. After a first refusal, an old employee who said he had worked with Levi Strauss himself agreed to make 30 dozen flared jeans on credit [2]. A six-month deal let Mnasidika sell them exclusively through 1968. In 1969 Levi's released its 646 Bell Bottom [2].",
+    "people": [
+      {
+        "name": "Peggy Caserta",
+        "role": "boutique owner"
+      },
+      {
+        "name": "Janis Joplin",
+        "role": "customer and friend"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Haight Street Turns On",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2022,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/haight-street-turns-on/",
+        "supports": "April 1965 opening at 1510 Haight, bell-bottom jeans"
+      },
+      {
+        "title": "How Haight St. Hippie Style Became a Levi's Sensation",
+        "publisher": "Levi Strauss & Co.",
+        "year": 2019,
+        "url": "https://www.levistrauss.com/2019/11/22/how-haight-st-hippie-style-became-a-levis-sensation/",
+        "supports": "rent, loan from parents, Joplin, Judy's altered jeans, factory visit, 30 dozen, 1968 exclusive, 646 in 1969"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "name from Sappho, first 'hip' clothing store, Caserta's relationship with Joplin, 1965–68 at 1510 Haight"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-psychedelic-shop",
+    "title": "America's first head shop opens",
+    "theme": "arts-counterculture",
+    "year": 1966,
+    "yearEnd": null,
+    "place": {
+      "label": "The Psychedelic Shop, 1535 Haight Street",
+      "lat": 37.769638,
+      "lon": -122.447543,
+      "precision": "building"
+    },
+    "hook": "Two brothers whose father ran the local Woolworth's opened a shop for 'everything an acidhead might be interested in', and the old merchants refused to let them join.",
+    "story": "On January 3, 1966, brothers Ron and Jay Thelin opened a shop of metaphysical books and trinkets at 1535 Haight Street and named it after Timothy Leary's ideas: the Psychedelic Shop [1]. It is often called the first head shop in the United States. A New York shop called \"Head Shop\" opened four months later [2]. Writer Charles Perry said it stocked \"everything an acidhead might be interested in\": Indian paisley fabrics, dance posters, bells, bamboo flutes [1]. The Thelins knew retail. Their father had managed the Haight Street Woolworth's [1].\n\nThe shop soon became a centre of the new Haight. Poet Allen Cohen worked the counter, and Ron Thelin gave him $500 to start a psychedelic newspaper, which became the Oracle. It was distributed from the shop [1][3]. In November 1966 police raided the shop and City Lights Bookstore and seized Lenore Kandel's The Love Book because it \"excited lewd thoughts\". The case went on for years until a federal court threw out the prosecution in 1974 [4]. When the Haight Street Merchants' Association turned down the shop's application to join, the Thelins and other hip merchants started their own group, the Haight Independent Proprietors [1].",
+    "people": [
+      {
+        "name": "Ron Thelin",
+        "role": "shop co-owner"
+      },
+      {
+        "name": "Jay Thelin",
+        "role": "shop co-owner"
+      },
+      {
+        "name": "Allen Cohen",
+        "role": "clerk, Oracle editor"
+      },
+      {
+        "name": "Lenore Kandel",
+        "role": "poet"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Haight Street Turns On",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2022,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/haight-street-turns-on/",
+        "supports": "January 3, 1966 opening at 1535 Haight, merchandise, father at Woolworth's, Oracle distribution, HIP"
+      },
+      {
+        "title": "Head shop",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Head_shop",
+        "supports": "often cited as the first US head shop; New York 'Head Shop' four months later (pointer to Village Voice, 1966)"
+      },
+      {
+        "title": "Allen Cohen 1940-2004",
+        "publisher": "SFHeart.com",
+        "year": 2004,
+        "url": "http://www.sfheart.com/cohen_bio.html",
+        "supports": "Cohen working at the shop, $500 from Ron Thelin to start the paper"
+      },
+      {
+        "title": "Lenore Kandel: Beat poet whose 'The Love Book' fell victim to one of San Francisco's longest ever court cases",
+        "publisher": "The Independent",
+        "year": 2009,
+        "url": "https://www.independent.co.uk/news/obituaries/lenore-kandel-beat-poet-whose-the-love-book-fell-victim-to-one-of-san-franciscos-longest-ever-court-cases-1837947.html",
+        "supports": "November 1966 raid, 'excited lewd thoughts', 1974 federal ruling"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-print-mint-woolworths",
+    "title": "The Woolworth's that sold rock posters",
+    "theme": "labor-industry",
+    "year": 1966,
+    "yearEnd": 1967,
+    "place": {
+      "label": "The Print Mint, 1542 Haight Street (former Woolworth's)",
+      "lat": 37.770189,
+      "lon": -122.447759,
+      "precision": "building"
+    },
+    "hook": "A Berkeley bookseller bought the old Haight Street Woolworth's to open a bookstore, but the city wouldn't let him sell used books, so rock posters moved in.",
+    "story": "The Woolworth's dime store at 1542 Haight Street belonged to the old, blue-collar Haight. By late 1966 it had become the Print Mint, selling celebrity posters, art prints, political broadsides and the hugely popular concert posters made for the Fillmore and Winterland [1].\n\nIt was meant to be a bookstore. The building had been bought by Moe Moskowitz, who wanted to open a second location of Moe's Books, but the city would not give him a permit to sell used books [2]. SF Heritage, without naming the applicant, reports that the Board of Appeals turned down a used bookstore on Haight Street because it might bring in an \"undesirable element\" [1]. So the Print Mint's second shop moved in, in December 1966 [2].\n\nIn the Summer of Love the store became a centre of neighbourhood life and a main source of countercultural news [2]. The Oracle newspaper worked for a while out of offices behind it [3]. The branch manager, Travis Rivers, was a Texas friend of Janis Joplin [3]. In December 1967 Moskowitz gave up the building and his bookstore plan, ending the Print Mint in San Francisco [2]. (One SF Heritage photo caption puts the shop at 1538 Haight [1].) The Print Mint went on to publish and distribute underground comics from Berkeley [2].",
+    "people": [
+      {
+        "name": "Moe Moskowitz",
+        "role": "bookseller and building owner"
+      },
+      {
+        "name": "Travis Rivers",
+        "role": "Print Mint Haight Street manager"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Haight Street Turns On",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2022,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/haight-street-turns-on/",
+        "supports": "Woolworth's at 1542 Haight became the Print Mint, merchandise, Board of Appeals 'undesirable element' denial"
+      },
+      {
+        "title": "Print Mint",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Print_Mint",
+        "supports": "December 1966 opening, Moskowitz's bookstore plan and denied permit, December 1967 loss of building (pointer to Ten Years That Shook the City, City Lights, 2011)"
+      },
+      {
+        "title": "San Francisco Oracle",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Oracle",
+        "supports": "Oracle offices behind the Print Mint, Travis Rivers as manager (pointer to Allen Cohen's history of the Oracle)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-mauds",
+    "title": "Twenty-three Christmases at Maud's",
+    "theme": "lgbtq",
+    "year": 1966,
+    "yearEnd": 1989,
+    "place": {
+      "label": "Maud's, 937 Cole Street (929–941 Cole)",
+      "lat": 37.765296,
+      "lon": -122.450152,
+      "precision": "building"
+    },
+    "hook": "In a Cole Valley storefront, Rikki Streicher ran a lesbian bar with no dancing, no mixed drinks and, at first, only male bartenders. It stayed open 365 days a year.",
+    "story": "Rikki Streicher opened Maud's, first called The Study, on Cole Street in 1966 [1][3]. Its longtime manager Susan Fahey said it opened in the \"twilight of the closeted days and the beginning of the hippies\" [1]. Streicher believed bars were \"the most honest, open, free place that women could go.\" She ran Maud's with a \"no labels\" policy, welcoming women who didn't fit the strict butch/femme codes of other lesbian bars [1].\n\nThe rules were still tight. A visitor in 1969 complained that dancing and mixed drinks weren't allowed. California law kept women from serving alcohol until 1973, so the early bartenders had to be men [1][2]; Wikipedia gives 1971 [3]. Regulars called themselves \"Maudies\", celebrated birthdays and graduations together, and fielded one of the strongest teams in the lesbian and gay softball leagues [1]. Del Martin, Phyllis Lyon, Sally Gearhart and Janis Joplin all drank there [2].\n\nMaud's outlasted almost every other LGBTQ business of the 1960s Haight and closed in 1989 [1]. \"I've always stayed open 365 days of the year,\" Streicher said, so that whoever had nowhere else to go would find it open on Christmas [1]. In 2026 the city made the 1916 building, including the double-storefront barroom, a landmark [2].",
+    "people": [
+      {
+        "name": "Rikki Streicher",
+        "role": "owner"
+      },
+      {
+        "name": "Susan Fahey",
+        "role": "manager"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "opening, 'no labels', 1969 restrictions, 1973 law, Maudies, softball, 1989 closing, Christmas quote"
+      },
+      {
+        "title": "Ordinance No. 69-26 and Landmark Designation Fact Sheet: Maud's, 925-941 Cole Street",
+        "publisher": "San Francisco Board of Supervisors / Planning Department",
+        "year": 2026,
+        "url": "https://citypln-m-extnl.sfgov.org/external/link.ashx?Action=Download&ObjectVersion=-1&vault={A4A7DACD-B0DC-4322-BD29-F6F07103C6E0}&objectGUID={134060A0-7B64-4EEF-B3AF-194C7887EEC1}&fileGUID={6948AF5B-6DF6-4370-9F4A-AB1C4DDEB0AB}",
+        "supports": "landmark designation, 1916 building by Louis M. Gardner, notable patrons, interior bar features, male bartenders"
+      },
+      {
+        "title": "Maud's (bar)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Maud%27s_(bar)",
+        "supports": "original name The Study, 1966 opening (pointer to sources); gives 1971 as the year women could tend bar"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-chautauqua-house",
+    "title": "Red Power in a stucco house",
+    "theme": "civil-rights",
+    "year": 1967,
+    "yearEnd": null,
+    "place": {
+      "label": "American Indian Historical Society / Chautauqua House, 1451 Masonic Avenue",
+      "lat": 37.766791,
+      "lon": -122.444882,
+      "precision": "building"
+    },
+    "hook": "From a quiet Masonic Avenue house, a Cahuilla engineer and his Cherokee wife challenged racist textbooks, and a future Alcatraz leader's committee met in its rooms.",
+    "story": "In 1967 the American Indian Historical Society moved out of the private home of its founders and into a two-story stucco house at 1451 Masonic Avenue, which they called Chautauqua House [1]. The founders were Rupert Costo, who was Cahuilla, and Jeannette Henry-Costo, who was Eastern Cherokee. Sources disagree on when they started the society: the city's 2026 landmark ordinance says 1964, while Rupert Costo's biographers give 1950 [1][2].\n\nThe house became a hub of the Red Power movement. With hundreds of members, the society challenged textbooks, testified before Congress, lobbied to protect burial grounds and held community meetings [1]. An education committee led by Richard Oakes, who was Mohawk, met there. Oakes helped create San Francisco State's first Native American Studies department and led the occupation of Alcatraz that began in November 1969 [1]. The house had a gallery for Native artists, the Museum of Indian Art, and it published The Indian Historian, a quarterly edited by Native scholars [1]. The Costos' Indian Historian Press went on to publish books such as Textbooks and the American Indian (1970) and Indian Treaties: Two Centuries of Dishonor (1977) [2]. Rupert Costo died in San Francisco in 1989 [2]. The house became a city landmark in 2026 [1].",
+    "people": [
+      {
+        "name": "Rupert Costo",
+        "role": "co-founder, Cahuilla"
+      },
+      {
+        "name": "Jeannette Henry-Costo",
+        "role": "co-founder, Eastern Cherokee"
+      },
+      {
+        "name": "Richard Oakes",
+        "role": "Mohawk activist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ordinance No. 62-26: Landmark Designation - American Indian Historical Society/Chautauqua House",
+        "publisher": "San Francisco Board of Supervisors",
+        "year": 2026,
+        "url": "https://citypln-m-extnl.sfgov.org/external/link.ashx?Action=Download&ObjectVersion=-1&vault={A4A7DACD-B0DC-4322-BD29-F6F07103C6E0}&objectGUID={5AC7A84D-A64C-4918-B829-2D1F2127F6DC}&fileGUID={338F9B1D-B122-4122-B11F-29AAA2789DB9}",
+        "supports": "1967 move, founders, 1964 founding date, Red Power activities, Richard Oakes, gallery, Indian Historian, 2026 designation"
+      },
+      {
+        "title": "Rupert Costo",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Rupert_Costo",
+        "supports": "1950 founding date, Indian Historian Press, publications, 1989 death (pointer to LA Times and Sun obituaries)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-good-earth-commune",
+    "title": "Brown rice and squatters at the White House",
+    "theme": "communities",
+    "year": 1970,
+    "yearEnd": 1982,
+    "place": {
+      "label": "The 'White House', 404–410 Cole Street at Oak",
+      "lat": 37.771224,
+      "lon": -122.450406,
+      "precision": "building"
+    },
+    "hook": "After the Summer of Love collapsed, a commune of nearly 2,000 people controlled about nine buildings near the Panhandle and grew a food-buying club of more than 1,500 households.",
+    "story": "\"By 1970, the bottom had fallen out of the Haight Ashbury,\" organiser Calvin Welch recalled. Communes had to get organised to survive. The biggest was the Good Earth Commune, which at its peak had close to 2,000 people and controlled about nine buildings, most of them on Oak Street by the Panhandle and on Cole [1]. Welch compared it to the later Delancey Street programme: it took in very antisocial people and socialised them, and it organised childcare [1].\n\nThe Good Earth grew into the Food Conspiracy, a buying club. At its height in 1974–75 more than 1,500 households belonged. Volunteer collectives bought cheese, vegetables and grains in bulk and divided them up. \"Tremendous amount of brown rice and seaweed was passed out,\" Welch said [1].\n\nThe Good Earth were the original squatters in the \"White House\", a large abandoned apartment building at Cole and Oak. By 1980 the main force occupying it was the White Panthers, who lived at 439 Cole and ran a food conspiracy in the basement [2]. Writer Chris Carlsson joined it until they handed him a pamphlet by Stalin [2]. In 1982 the White Panthers gathered enough signatures to force a recall vote against Mayor Dianne Feinstein over gun control. She won with 82 percent [2].",
+    "people": [
+      {
+        "name": "Calvin Welch",
+        "role": "organiser"
+      },
+      {
+        "name": "Chris Carlsson",
+        "role": "writer and neighbour"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Communes and Housing",
+        "publisher": "FoundSF (Calvin Welch lecture, 1994)",
+        "year": 1994,
+        "url": "https://www.foundsf.org/index.php?title=Communes_and_Housing",
+        "supports": "Good Earth Commune size and buildings, Food Conspiracy membership and collectives"
+      },
+      {
+        "title": "White House at Cole and Oak",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=White_House_at_Cole_and_Oak",
+        "supports": "404–410 Cole squat, White Panthers at 439 Cole, basement food conspiracy, 1982 recall and 82% result"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-faery-circle",
+    "title": "Faeries gather above Haight and Ashbury",
+    "theme": "lgbtq",
+    "year": 1975,
+    "yearEnd": null,
+    "place": {
+      "label": "604 Ashbury Street, near Haight",
+      "lat": 37.769838,
+      "lon": -122.446757,
+      "precision": "building"
+    },
+    "hook": "In an apartment a few steps from the famous corner, an activist who fixed Volkswagens started a gay pagan circle that helped inspire the Radical Faeries.",
+    "story": "Arthur Evans had been a gay-liberation activist in New York. After two years homesteading in Washington state, he moved to San Francisco in 1974 and took an apartment at the corner of Haight and Ashbury [2]. He ran a Volkswagen repair business called the Buggery and started writing a book about how homosexuals were persecuted in the Middle Ages [2].\n\nIn the fall of 1975 he started the Faery Circle in his apartment at 604 Ashbury Street. It was a pagan-inspired group that combined, in the words of the city's LGBTQ history, \"countercultural consciousness, gay sensibility, and ceremonial playfulness\" [1]. It was devoted to ritual play [2]. In 1978 he published his research as Witchcraft and the Gay Counterculture [1]. The circle helped inspire the Radical Faeries, the movement Harry Hay and others started in 1979 to find a spiritual side to gay identity [1][2].\n\nEvans never really left the corner. He lived in the same Haight-Ashbury apartment for the rest of his life and died there on September 11, 2011 [2].",
+    "people": [
+      {
+        "name": "Arthur Evans",
+        "role": "activist and writer"
+      },
+      {
+        "name": "Harry Hay",
+        "role": "Radical Faeries co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Faery Circle founded fall 1975 at 604 Ashbury, description, 1978 book, Radical Faeries 1979"
+      },
+      {
+        "title": "Arthur Evans (author)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Arthur_Evans_(author)",
+        "supports": "1974 move, apartment at Haight and Ashbury, the Buggery, influence on Radical Faeries, 2011 death (pointer to NYT obituary, 2011)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "haight-ashbury-2p-i-beam",
+    "title": "Disco, punk and the I-Beam",
+    "theme": "arts-counterculture",
+    "year": 1977,
+    "yearEnd": 1994,
+    "place": {
+      "label": "Site of the I-Beam, 1748 Haight Street (upstairs in the old Park Masonic Hall)",
+      "lat": 37.769601,
+      "lon": -122.451092,
+      "precision": "building"
+    },
+    "hook": "Upstairs in a hall where Haight merchants once met, a gay disco opened in 1977 and went on to host New Order, the Pixies and Pearl Jam.",
+    "story": "The tall windows above the storefronts at 1748 Haight once lit the Park Masonic Hall, where neighbourhood groups and the Haight Ashbury Merchants Improvement Association met [3]. On an October night in 1977, Sanford Kellman opened the I-Beam on its second floor [1]. It began as one of the city's first big gay discos [1][2]. One regular remembered that in the Haight of 1977, which shared a supervisorial district with the Castro, most of the few major businesses were gay-owned [1].\n\nOpen to everyone, the club followed the music from disco into new wave and punk, then hip-hop nights and, by the late 1980s, acid house [1]. The acts: Sylvester, the Buzzcocks, New Order (for $10), the Beastie Boys with Run-DMC, Siouxsie and the Banshees, the Pixies, Jane's Addiction, the Red Hot Chili Peppers and Pearl Jam [1]. When neighbours complained about noise to the planning commission, a supporter played a tape of Hell's Angels circling the block at 10 p.m.. The club stayed open [1]. AIDS took many staff and regulars [1]. The 1989 Loma Prieta earthquake split its ceiling; after a brief closure it reopened, and it shut for good in 1994. The site sat vacant for about ten years before the building was torn down and replaced with apartments [1][3].",
+    "people": [
+      {
+        "name": "Sanford Kellman",
+        "role": "founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "From Disco To Punk, Remembering The I-Beam",
+        "publisher": "Hoodline (Camden Avery)",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/08/flashback-remembering-the-i-beam/",
+        "supports": "October 1977 opening, location, performers, Hell's Angels recording, AIDS losses, Loma Prieta damage, 1994 closing, demolition"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves and Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "I-Beam as a famous gay disco at 1748 Haight, late 1970s to the 1990s"
+      },
+      {
+        "title": "Before the Summer of Love: A Closer Look",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2017,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2017/03/12/before-the-summer-of-love-a-closer-look/",
+        "supports": "Park Masonic Hall as meeting place for neighbourhood groups and merchants, later housing on the site"
+      }
+    ],
+    "photo": null
+  }
+]

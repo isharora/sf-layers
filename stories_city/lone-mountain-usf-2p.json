@@ -1,0 +1,692 @@
+[
+ {
+  "id": "lone-mountain-usf-2p-calvary-leased-graves",
+  "title": "Graves leased only until the year 2000",
+  "theme": "communities",
+  "year": 1887,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Calvary Cemetery, western slope of Lone Mountain near Parker Avenue (site of the pauper ground)",
+   "lat": 37.7795,
+   "lon": -122.4533,
+   "precision": "area"
+  },
+  "hook": "In 1887 a Calvary plot cost 60 cents a square foot, and the deed let you stay only until the year 2000. Paupers, suicides and priests each had their ground.",
+  "story": "Archbishop Joseph Alemany opened Calvary Cemetery in 1860 on a tract that took in Lone Mountain itself. Its first burial, that November, was John Riley, a pauper [1][2]. By 1887 it was the most populous cemetery in San Francisco. Within seventeen years of opening it had taken 23,500 bodies, and the Morning Call described headstones \"as thick as standing corn\", with three or four funeral processions climbing to the gate on most days [2]. The paper also explained the business side. The Archbishop, the cemetery's sole owner, sold lots at 60 cents a square foot: $10 bought enough ground for a baby, and a small single lot cost about $15 [2]. The deed let a family occupy the lot only until the year 2000, though some deeds promised the right to renew for 300 years more. \"There will be very little left of the Calvary graves in A.D. 2000,\" the reporter predicted [2]. The poor lay in the valley on the western slope under short wooden crosses. Suicides and unbaptised children went into a patch of unconsecrated ground, and priests into a heart-shaped plot called The Heart [2]. The prediction came true early. Removals began in 1938, and by the late 1940s the graves had gone to Colma [3].",
+  "people": [
+   {
+    "name": "Joseph Sadoc Alemany",
+    "role": "Archbishop who founded Calvary Cemetery"
+   },
+   {
+    "name": "John Riley",
+    "role": "pauper, Calvary's first burial (1860)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "In the Shadow of Lone Mountain (Walter J. Thompson, San Francisco Chronicle, 11 Feb 1918)",
+    "publisher": "SFgenealogy",
+    "year": 1918,
+    "url": "https://legacy.sfgenealogy.org/sf/history/hgsto31.htm",
+    "supports": "Calvary established 1860 by Alemany on a tract including Lone Mountain; first burial John Riley"
+   },
+   {
+    "title": "Calvary Cemetery (transcribed Daily Alta 1862 and Morning Call 27 March 1887)",
+    "publisher": "SFgenealogy (Ron Filion)",
+    "year": 1887,
+    "url": "https://web.archive.org/web/2010/http://www.sfgenealogy.com/sf/history/hcmcal.htm",
+    "supports": "Riley a pauper, Nov 1860; 23,500 burials in 17 years; most populous; standing corn; processions; Archbishop as owner; lot prices; deeds to 2000 and 300-year renewal; prediction quote; pauper ground; unconsecrated ground; The Heart"
+   },
+   {
+    "title": "Streetwise: The Western Neighborhoods Under Construction",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2022,
+    "url": "https://www.outsidelands.org/streetwise-western-neighborhoods-under-construction.php",
+    "supports": "Calvary removals began in 1938 and were completed in the late 1940s"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-belle-cora-calvary",
+  "title": "A madam's grave on the Catholic hill",
+  "theme": "gold-rush-victorian",
+  "year": 1862,
+  "yearEnd": 1916,
+  "place": {
+   "label": "Former Calvary Cemetery, north slope of Lone Mountain (exact grave site not recorded)",
+   "lat": 37.7806,
+   "lon": -122.45,
+   "precision": "area"
+  },
+  "hook": "Belle Cora bribed witnesses, married her gambler an hour before the vigilantes hanged him, and was buried at Calvary. Fifty-four years later a newspaper serial got her moved.",
+  "story": "Belle Cora ran one of Gold Rush San Francisco's best-known parlour houses, from 1855 in a brick building at 27 Waverly Place [1]. She and the gambler Charles Cora lived as man and wife without marrying. In November 1855 U.S. Marshal William Richardson tried to have the couple thrown out of the first balcony of the American Theater. Two nights later Charles shot him dead at Clay and Leidesdorff streets [1]. Belle hired three leading lawyers at $5,000 each, witnesses were tampered with, and the trial ended in a hung jury [1]. In May 1856 the Vigilance Committee seized Cora. On the day of his execution a priest refused him the last rites unless he married Belle. She came to Fort Gunnybags for the wedding, and an hour later he was hanged [1]. Belle kept her brothel open for six more years and died on February 18, 1862, aged 35. HistoryNet blames years of chloroform abuse, and other accounts say pneumonia [1][3]. She was buried in Calvary Cemetery below Lone Mountain [2]. In 1916 Pauline Jacobson wrote a serial about her for the San Francisco Bulletin. It led to Belle being dug up and reburied beside Charles under a shared headstone at Mission Dolores [2].",
+  "people": [
+   {
+    "name": "Belle Cora (Arabella Ryan)",
+    "role": "brothel keeper"
+   },
+   {
+    "name": "Charles Cora",
+    "role": "gambler hanged by the Vigilance Committee, 1856"
+   },
+   {
+    "name": "Pauline Jacobson",
+    "role": "Bulletin writer whose 1916 serial prompted the reburial"
+   }
+  ],
+  "sources": [
+   {
+    "title": "This Madam Would Stop at Nothing to Save Her Man",
+    "publisher": "HistoryNet (Austin Stahl)",
+    "year": 2024,
+    "url": "https://historynet.com/belle-cora-vs-vigilance-committee/",
+    "supports": "Waverly Place, theatre quarrel, shooting, lawyers and hung jury, vigilante seizure, wedding before hanging, death 18 Feb 1862 from chloroform abuse"
+   },
+   {
+    "title": "A short history of bordellos in San Francisco, part 2",
+    "publisher": "Marina Times (Ernest Beyl)",
+    "year": 2012,
+    "url": "https://web.archive.org/web/20200219214218/http://www.marinatimes.com/2012/09/a-short-history-of-bordellos-in-san-francisco-2/",
+    "supports": "died at 35 in 1862; 1916 Jacobson serial; disinterred from Calvary and reburied with husband at Mission Dolores"
+   },
+   {
+    "title": "Belle Cora",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Belle_Cora",
+    "supports": "pneumonia as cause of death in other accounts; Calvary burial"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-whitfield-poet",
+  "title": "The abolitionist poet in the Masonic ground",
+  "theme": "communities",
+  "year": 1871,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Masonic Cemetery, now USF's lower campus near Fulton Street (grave site not recorded)",
+   "lat": 37.7752,
+   "lon": -122.4488,
+   "precision": "area"
+  },
+  "hook": "A barber whose anti-slavery poems ran in Frederick Douglass's paper came west, led California's Black Masons, and was buried in the cemetery that became USF.",
+  "story": "James Monroe Whitfield was born in Exeter, New Hampshire, in 1822 and made his living as a barber [1][2]. Living in Buffalo, he wrote anti-slavery poems that appeared in the North Star, Frederick Douglass' Paper and The Liberator, and he worked with Martin Delany on proposals for Black Americans to emigrate [1]. His 1853 book was America and Other Poems [3]. After two years in Central America he settled in San Francisco around 1860 and kept cutting hair, with spells in Portland, in Idaho and in Nevada. In Elko in 1869 he and three other Black men sat on a jury, a first for that state [1]. From 1864 to 1869 he was Grand Master of the Prince Hall Masons in California [1]. On New Year's Day 1867 he read a poem at Platt's Hall for the fourth anniversary of the Emancipation Proclamation, printed at the Elevator office and dedicated to P. A. Bell. It opens with two ships nearing America \"with different intent\": one carried the Pilgrims, the other enslaved Africans [3]. He died of heart disease on April 23, 1871, aged 49, and was buried in San Francisco's Masonic Cemetery, ground that later became part of the University of San Francisco campus [1][2][4].",
+  "people": [
+   {
+    "name": "James Monroe Whitfield",
+    "role": "poet, abolitionist, barber, Prince Hall Grand Master"
+   },
+   {
+    "name": "P. A. Bell",
+    "role": "dedicatee of the 1867 Emancipation poem"
+   }
+  ],
+  "sources": [
+   {
+    "title": "James Monroe Whitfield (1822-1871)",
+    "publisher": "BlackPast.org (L. Mennenga)",
+    "year": 2008,
+    "url": "https://www.blackpast.org/african-american-history/whitfield-james-monroe-1822-1871/",
+    "supports": "barber-poet, publications, emigrationism with Delany, San Francisco, Pacific Northwest, Elko jury, Grand Master 1864-69, death 23 April 1871, Masonic cemetery burial"
+   },
+   {
+    "title": "James Monroe Whitfield",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/James_Monroe_Whitfield",
+    "supports": "birth in Exeter 1822; burial at the Masonic Cemetery, San Francisco"
+   },
+   {
+    "title": "James M. Whitfield's 'A Poem' for the Fourth Anniversary of the Emancipation Proclamation",
+    "publisher": "Classroom Electric (Robert S. Levine, ed.)",
+    "year": 2003,
+    "url": "http://www.classroomelectric.org/volume1/levine/otpoem.html",
+    "supports": "Platt's Hall, 1 January 1867; Elevator office; dedication to P. A. Bell; text of the poem; America and Other Poems"
+   },
+   {
+    "title": "Lone Mountain Cemetery",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Lone_Mountain_Cemetery",
+    "supports": "Masonic Cemetery's 30 acres became part of the USF campus"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-emperor-norton-burial",
+  "title": "The Emperor's surprisingly small funeral",
+  "theme": "gold-rush-victorian",
+  "year": 1880,
+  "yearEnd": 1934,
+  "place": {
+   "label": "Former Masonic Cemetery, centre of the grounds (now USF's lower campus)",
+   "lat": 37.7773,
+   "lon": -122.4512,
+   "precision": "area"
+  },
+  "hook": "Ten thousand people filed past Emperor Norton's coffin downtown. Only three carriages followed it out to the Masonic Cemetery, where about thirty people watched him buried.",
+  "story": "Joshua Norton, self-proclaimed Emperor of the United States and Protector of Mexico, collapsed and died at California and Dupont streets on the night of January 8, 1880 [1]. He had five or six dollars in small change on him and nothing else of value. He would have had a pauper's funeral if members of the Pacific Club had not raised a fund for a rosewood casket [2]. On January 10 he lay in state at the undertakers at 16 O'Farrell Street, and the Chronicle estimated that 10,000 people came to look, \"from capitalists to the pauper, the clergyman to the pickpocket\" [2][3]. A legend later grew of a cortege two miles long. The Chronicle actually reported just three carriages, with nobody from the crowd following on foot [3]. Some people rode the streetcar out to the Masonic Cemetery. There, in a little square formed by four graves near the superintendent's house, about thirty people watched him committed to the earth, with no stone or board to mark the spot [3]. When the cemetery was cleared his remains were dug up in 1932. On June 30, 1934, members of the Pacific-Union Club gave him a grander reburial at Woodlawn in Colma [1][3].",
+  "people": [
+   {
+    "name": "Joshua A. Norton",
+    "role": "'Emperor Norton I'"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Emperor Norton",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Emperor_Norton",
+    "supports": "death on 8 January 1880 at California and Dupont; Masonic Cemetery burial; 1934 reburial at Woodlawn"
+   },
+   {
+    "title": "Le Roi Est Mort (San Francisco Chronicle, 11 January 1880), transcription",
+    "publisher": "zpub.com via Internet Archive",
+    "year": 1880,
+    "url": "https://web.archive.org/web/20110524052455/http://www.zpub.com/sf/history/nort3.html",
+    "supports": "small change on his person, Pacific Club fund, rosewood casket, 16 O'Farrell Street, 'capitalists to the pauper' quote"
+   },
+   {
+    "title": "A Funeral Cortege 'Two Miles Long'? Not Really.",
+    "publisher": "The Emperor Norton Trust (John Lumea)",
+    "year": 2023,
+    "url": "https://web.archive.org/web/20230522203235/http://emperornortontrust.org/blog/2023/5/22/emperor-norton-funeral-cortege-not-two-miles-long",
+    "supports": "10,000 viewers, three carriages, about thirty at the burial, unmarked grave near the superintendent's house, 1932 disinterment, 30 June 1934 reburial by Pacific-Union Club members"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-klondike-boy-bones",
+  "title": "Digging for Klondike gold, he found a coffin",
+  "theme": "gold-rush-victorian",
+  "year": 1899,
+  "yearEnd": null,
+  "place": {
+   "label": "Golden Gate Avenue at Stanyan Street",
+   "lat": 37.7769,
+   "lon": -122.4551,
+   "precision": "street"
+  },
+  "hook": "In August 1899 a seven-year-old playing gold miners at Golden Gate and Stanyan dug up bones, coffin wood, a shroud and a pair of boots.",
+  "story": "On August 14, 1899, seven-year-old Willie Elsie of 2722 Golden Gate Avenue was \"playing Klondike\" with some boys his own age where Golden Gate Avenue met Stanyan Street, digging for gold [1]. They didn't find nuggets. They found human bones and pieces of a coffin, then scraps of a shroud and a pair of boots [1]. The finds went to the Morgue, but there was no inquest or autopsy. The Morning Call explained that the site had been a cemetery many years before, \"and when the bodies were exhumed some were forgotten\" [1]. Which cemetery is not certain. The Western Neighborhoods Project says a Greek cemetery once lay close to this intersection, reached through the Odd Fellows grounds. Its bodies were moved to the Golden Gate Cemetery, it adds, possibly without much care [2]. The Odd Fellows Cemetery itself lay just to the north, between Turk Street and Geary, and the Masonic Cemetery began a block east at Parker Avenue [2][3]. The corner is now the western edge of USF's campus, and builders there have kept finding what the movers missed: human remains turned up during work on the Gleeson Library, Hayes-Healy Hall and the Lo Schiavo science centre [3].",
+  "people": [
+   {
+    "name": "Willie Elsie",
+    "role": "seven-year-old who made the find"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Odd Fellow's Cemetery (transcribed 'A Neglected Graveyard', San Francisco Morning Call, 15 August 1899)",
+    "publisher": "SFgenealogy (Ron Filion)",
+    "year": 1899,
+    "url": "https://web.archive.org/web/2010/http://www.sfgenealogy.com/sf/history/hcmodd.htm",
+    "supports": "Willie Elsie, address, 'playing Klondike', bones, coffin, shroud, boots, Morgue, no inquest, forgotten bodies"
+   },
+   {
+    "title": "Odd Fellows Cemetery",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2005,
+    "url": "https://www.outsidelands.org/odd_fellows.php",
+    "supports": "Greek cemetery near Stanyan and Golden Gate reached via Odd Fellows grounds, moved to Golden Gate Cemetery; Odd Fellows bounds Geary, Turk, Parker, Arguello"
+   },
+   {
+    "title": "Lone Mountain Cemetery",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Lone_Mountain_Cemetery",
+    "supports": "Masonic Cemetery bounds; remains found during Gleeson Library, Hayes-Healy and Lo Schiavo Center construction"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-pallas-skulls",
+  "title": "Football with skulls, then Latin from a platform",
+  "theme": "communities",
+  "year": 1931,
+  "yearEnd": 1966,
+  "place": {
+   "label": "Former Masonic Cemetery grounds, USF's lower campus",
+   "lat": 37.7757,
+   "lon": -122.4497,
+   "precision": "area"
+  },
+  "hook": "In the late 1920s, schoolboy Ray Pallas played football with skulls on the half-cleared Masonic Cemetery. By the 1960s he was St. Ignatius's last old-style Jesuit lecturer.",
+  "story": "The Jesuits had campaigned for years to move the cemeteries out of their neighbourhood, and in the late 1920s the old Masonic Cemetery was still not empty. Ray Pallas, then a St. Ignatius student, remembered wandering the site in the late 1920s with friends and playing pick-up football games with disinterred skulls that lay strewn about as the land was cleared [1]. The clearing took years. In December 1931 the cemetery association reported that relatives had moved 5,600 bodies, mostly to Woodlawn in Colma, but 14,300 were still there. Of 5,000 letters sent to families, about 2,500 had come back undeliverable. Anyone left unclaimed would go to a special section at Woodlawn [2]. Pallas became a Jesuit. In the mid-1960s Father Pallas was teaching World History at St. Ignatius on Stanyan Street, the last Jesuit there who still insisted on a raised lecture platform at the front of his classroom [3]. He read aloud from up there, slipped Latin punchlines into his jokes to see who was keeping up, and was not above throwing out class clowns himself [3]. One of his 1932 classmates, the father of columnist Frank Dunnigan, warned his freshman son over dinner: \"Don't let him offer you any cigarettes—he's the one who got me started smoking\" [3].",
+  "people": [
+   {
+    "name": "Raymond Pallas, S.J.",
+    "role": "St. Ignatius student (class of 1932), later Jesuit teacher"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise - Richmond Ramble",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/streetwise-richmond-ramble.php",
+    "supports": "Jesuit campaign to move the cemeteries out; Pallas's memory of football with disinterred skulls on the USF site in the late 1920s"
+   },
+   {
+    "title": "Masonic Cemetery (transcribed San Francisco Chronicle, 22 December 1931)",
+    "publisher": "SFgenealogy (Ron Filion)",
+    "year": 1931,
+    "url": "https://web.archive.org/web/2010/http://www.sfgenealogy.com/sf/history/hcmmas.htm",
+    "supports": "5,600 moved, 14,300 left, 5,000 letters with 2,500 returned, unclaimed to special section of Woodlawn"
+   },
+   {
+    "title": "Streetwise: Stanyan Street Days",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2016,
+    "url": "https://www.outsidelands.org/streetwise-stanyan-days.php",
+    "supports": "Father Pallas teaching World History in the 1960s, lecture dais, Latin punchlines, throwing out class clowns, 1932 classmate and cigarettes quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-rozelle-publicist",
+  "title": "The student publicist who remade the NFL",
+  "theme": "modern-city",
+  "year": 1948,
+  "yearEnd": 1952,
+  "place": {
+   "label": "USF main campus, Fulton Street (Rozelle's student and staff years)",
+   "lat": 37.7758,
+   "lon": -122.452,
+   "precision": "area"
+  },
+  "hook": "Before he built the modern NFL and the Super Bowl, Pete Rozelle was a USF student writing press releases for the Dons.",
+  "story": "Pete Rozelle came to the University of San Francisco in 1948 from Compton Community College, where he had been the student athletic news director and a part-time public relations assistant for the Los Angeles Rams [1]. At USF he was a student publicist for the Dons. He promoted the football team and helped win national attention for the basketball team that took the 1949 National Invitation Tournament [1][2]. He graduated in 1950 and stayed on as USF's full-time athletic news director [2]. He was the Dons' publicist in 1951, when the unbeaten football team refused an Orange Bowl invitation that would have meant leaving its Black players at home [3]. In 1952 he went back to the Rams [1]. In January 1960 the NFL's owners took 23 ballots to choose a new commissioner and settled on Rozelle, then 33 [1]. The league then had 12 teams, and their combined revenues were under $20 million a year [2]. Rozelle got the owners to share their television money, created Monday Night Football with ABC's Roone Arledge, and brought the rival AFL into one league with a single championship game [1][2]. He disliked that game's name. Lamar Hunt had coined it after his son's bouncy Super Ball, and it stuck: the Super Bowl [2].",
+  "people": [
+   {
+    "name": "Pete Rozelle",
+    "role": "USF student publicist and athletic news director, later NFL commissioner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pete Rozelle",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Pete_Rozelle",
+    "supports": "Compton, Rams work, 1948 arrival at USF, 1949 NIT publicity, 1952 return to Rams, 23 ballots, age 33, revenue sharing and TV deals"
+   },
+   {
+    "title": "Pete Rozelle: From USF Student Publicist to 'Father of the Super Bowl' and Beyond",
+    "publisher": "San Francisco Foghorn (USF student newspaper)",
+    "year": 2012,
+    "url": "https://web.archive.org/web/2013/http://foghorn.usfca.edu/2012/02/pete-rozelle-from-usf-student-publicist-to-father-of-the-super-bowl-and-beyond/",
+    "supports": "1950 graduation, student publicist, athletic news director, 1960 commissioner, revenues under $20m, Super Ball naming, Monday Night Football"
+   },
+   {
+    "title": "University of San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/University_of_San_Francisco",
+    "supports": "Rozelle's role as athletic publicist for the 1951 team; Orange Bowl refusal"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-st-marys-trays-burgers",
+  "title": "Christmas trays and 75-cent hamburgers",
+  "theme": "communities",
+  "year": 1951,
+  "yearEnd": 1972,
+  "place": {
+   "label": "St. Mary's Hospital, 2200 Hayes Street, at the vanished end of Grove Street",
+   "lat": 37.7743,
+   "lon": -122.4527,
+   "precision": "block"
+  },
+  "hook": "At St. Mary's on Hayes Street, a new mother kept the Nativity card from her Christmas breakfast tray, and schoolboys slipped in for cheap burgers and a cigarette machine.",
+  "story": "St. Mary's Hospital settled at 2200 Hayes Street, between Shrader and Stanyan, by 1909, and it stayed there for more than six decades [1]. In late December 1918, as the influenza pandemic filled whole sections of local cemeteries, the sculptor Haig Patigian was admitted in critical condition. He did not recover until February 1919 [2]. On Christmas Day 1951 a new mother kept the small printed cardboard Nativity scene from her breakfast tray and wrote on the back: \"From my breakfast tray at St. Mary's Hospital—December 25, 1951, just after Frankie was born\" [3]. Frankie grew up to be the Western Neighborhoods columnist Frank Dunnigan [1][3]. That same year the hospital's nursing school graduates began receiving bachelor's degrees from the University of San Francisco next door [1]. In the 1960s, St. Ignatius boys from Stanyan Street treated the hospital cafeteria, reached from Grove Street, as their best source of cheap hot food: thick, generous hamburgers for 75 cents, and a cigarette machine out of the Jesuits' sight [4]. In 1972 a new hospital building replaced the old one and took the address 450 Stanyan Street [1]. Sometime in the 1970s the multi-storey nurses' dormitory was torn down and the last block of Grove Street was closed [4].",
+  "people": [
+   {
+    "name": "Haig Patigian",
+    "role": "sculptor, influenza patient 1918-19"
+   },
+   {
+    "name": "Frank Dunnigan",
+    "role": "born here in December 1951; later historian and columnist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Hospitals in the Western Neighborhoods",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2024,
+    "url": "https://www.outsidelands.org/streetwise-hospitals-in-san-franciscos-western-neighborhoods.php",
+    "supports": "2200 Hayes by 1909, author's birth there, nursing graduates receiving USF degrees from 1951, 1972 replacement and 450 Stanyan address"
+   },
+   {
+    "title": "Golden Gate Park's John J. Pershing Statue",
+    "publisher": "Western Neighborhoods Project (Nicole Meldahl)",
+    "year": null,
+    "url": "https://www.outsidelands.org/ggp-pershing.php",
+    "supports": "Patigian admitted to St. Mary's with influenza in late December 1918, recovered February 1919"
+   },
+   {
+    "title": "Streetwise - When the Twin Peaks Tunnel had Stockings",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2012,
+    "url": "https://www.outsidelands.org/streetwise-xmas2012.php",
+    "supports": "the breakfast-tray Nativity scene and its inscription"
+   },
+   {
+    "title": "Streetwise - Richmond Ramble",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/streetwise-richmond-ramble.php",
+    "supports": "cafeteria via Grove Street, 75-cent hamburgers, cigarette machine, nurses' dormitory demolished and Grove Street closed"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-dons-no-home-court",
+  "title": "National champions with no home court",
+  "theme": "communities",
+  "year": 1955,
+  "yearEnd": 1958,
+  "place": {
+   "label": "War Memorial Gymnasium (Sobrato Center), 2335 Golden Gate Avenue",
+   "lat": 37.7769,
+   "lon": -122.4494,
+   "precision": "building"
+  },
+  "hook": "Bill Russell's Dons won two national titles without a gym of their own. They practised at the high school next door, and this gym was built only after they left.",
+  "story": "In 1954-55 the University of San Francisco had no gymnasium on campus. The Dons played home games at Kezar Pavilion a few blocks away and sometimes at the Cow Palace. They usually practised at neighbouring St. Ignatius High School, or at Kezar when high school games left it free. When neither was available they squeezed into the San Francisco Boys Club's Page Street gym [1]. Coach Phil Woolpert, hired from St. Ignatius High, started three African American players: Bill Russell, K.C. Jones and Hal Perry. No major college team that went on to win a national title had done that before [1]. At the All-College Tournament in Oklahoma City, hotels refused rooms to the Black players, so the whole team camped in a college dormitory that was closed for the holidays [1]. In the 1955 NCAA final K.C. Jones held La Salle's Tom Gola to 16 points, and USF won 77-63. The team came home to a downtown parade [1]. A second title followed in 1956, and the winning streak reached 60 games [2]. Sportswriters then led a fund drive for an on-campus gym [1]. War Memorial Gymnasium opened in 1958, too late for Russell and Jones [3].",
+  "people": [
+   {
+    "name": "Bill Russell",
+    "role": "USF center, 1953-56"
+   },
+   {
+    "name": "K.C. Jones",
+    "role": "USF guard"
+   },
+   {
+    "name": "Hal Perry",
+    "role": "USF guard"
+   },
+   {
+    "name": "Phil Woolpert",
+    "role": "USF coach"
+   }
+  ],
+  "sources": [
+   {
+    "title": "1953-56 NCAA Championship Seasons: The Bill Russell Years (Bernie Schneider)",
+    "publisher": "University of San Francisco Athletics, via Internet Archive",
+    "year": 2006,
+    "url": "https://web.archive.org/web/20061128191756/http://usfdons.cstv.com/trads/russell_years.html",
+    "supports": "no campus gym, Kezar, Cow Palace, St. Ignatius and Page Street practices, Woolpert and three Black starters, Oklahoma City hotels, 1955 final, parade, gym fund drive"
+   },
+   {
+    "title": "John Lo Schiavo dies at 90; USF president terminated basketball program",
+    "publisher": "Los Angeles Times (Steve Chawkins)",
+    "year": 2015,
+    "url": "https://www.latimes.com/local/obituaries/la-me-john-loschiavo-20150519-story.html",
+    "supports": "60 consecutive wins 1954-56; back-to-back titles"
+   },
+   {
+    "title": "Sobrato Center",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Sobrato_Center",
+    "supports": "War Memorial Gym opened 1958 after the championship-driven fundraising; address"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-presentation-high",
+  "title": "Plaid skirts on the 31-Balboa",
+  "theme": "communities",
+  "year": 1991,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Presentation High School, 2350 Turk Boulevard (now USF School of Education)",
+   "lat": 37.77889,
+   "lon": -122.4486,
+   "precision": "building"
+  },
+  "hook": "For more than half a century the girls of Presentation High shared Turk Street, Muni buses and school dances with the St. Ignatius boys up the hill.",
+  "story": "Presentation was a Catholic girls' high school with nineteenth-century roots. Columnist Frank Dunnigan's grandmother graduated in 1898 from its pre-1906 school on Powell Street [1]. From the 1930s the school stood at Turk Street and Masonic Avenue [2]. Presentation girls wore pleated plaid skirts, white blouses, navy sweaters and navy-on-white saddle shoes, and San Franciscans could tell Presentation's plaid from Mercy's at a glance. One 1970 graduate said the uniform made it easy to spot schoolmates on Muni and get to know them before and after school [3]. The boys noticed too. St. Ignatius students rode the 28-Nineteenth Avenue bus with \"Pres girls\", and many S.I. boys took the 31-Balboa home partly because it carried lots of Presentation girls to talk to before the next dance or football game [1][4]. The school closed in 1991, and the University of San Francisco acquired the site [2][3]. (One Dunnigan column puts the end in the 1980s [1].) The school building now houses USF's School of Education. The old convent on the corner, which Lincoln University used in the 1970s, is now USF's School of Professional Studies [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Streetwise - Richmond Ramble",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/streetwise-richmond-ramble.php",
+    "supports": "1898 Powell Street graduate, 28 bus, School of Education, convent and Lincoln University"
+   },
+   {
+    "title": "Streetwise - Remembering When",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2017,
+    "url": "https://www.outsidelands.org/streetwise-obits.php",
+    "supports": "Presentation at Turk and Masonic from the 1930s until 1991, acquired by USF"
+   },
+   {
+    "title": "Streetwise - Pleated Skirts and Starched Collars",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2014,
+    "url": "https://www.outsidelands.org/streetwise_school_uniforms.php",
+    "supports": "uniform details, Presentation vs Mercy plaid, 1970 graduate's Muni recollection"
+   },
+   {
+    "title": "Streetwise - MUNI Memories",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2015,
+    "url": "https://www.outsidelands.org/streetwise_muni_memories.php",
+    "supports": "S.I. boys choosing the 31-Balboa for its Presentation girls"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-si-store",
+  "title": "The S.I. Store and its soda-bottle rule",
+  "theme": "labor-industry",
+  "year": 1968,
+  "yearEnd": null,
+  "place": {
+   "label": "Northwest corner of Stanyan and McAllister streets",
+   "lat": 37.77595,
+   "lon": -122.45535,
+   "precision": "block"
+  },
+  "hook": "St. Ignatius seniors spent their lunch money at a corner grocery on Stanyan, where a sign threatened suspension for walking off with a soda bottle.",
+  "story": "For generations of St. Ignatius boys, the most important building on Stanyan Street after the school itself was a tiny grocery on the northwest corner of Stanyan and McAllister [1][2]. Its official name, never advertised, was Acme Grocery, and everyone called it the S.I. Store [2]. Seniors had off-campus lunch privileges. In the late 1960s they crowded in to buy from Mrs. Welch and her daughter, Betty Mersich, who stocked better food than the school cafeteria at what the boys remembered as outrageous prices: 20 cents for a bottle of Coca-Cola [1][2]. A sign behind the counter warned that any S.I. student caught carrying soda bottles away from the front of the store would be suspended. It named a Jesuit administrator (the columnist recalls him as principal in one column, assistant principal in another), and a new name was pasted over the old each time the job changed hands [1][2]. Around the corner the Jesuits bought an aging Victorian at 2580 McAllister for the band, the newspaper and the yearbook. The most junior staffer was sent to Doggie Diner with orders like \"11 hot dogs, 4 cheeseburgers, 6 Cokes... and 31 bags of fries\" [1]. When the school left in 1969, the Stanyan-McAllister street sign went with the boys. It ended up in a friend's basement on Everglade Drive [3].",
+  "people": [
+   {
+    "name": "Mrs. Welch",
+    "role": "storekeeper"
+   },
+   {
+    "name": "Betty Mersich",
+    "role": "storekeeper, her daughter"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise - Richmond Ramble",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/streetwise-richmond-ramble.php",
+    "supports": "corner store location, owners, 20-cent Cokes, sign, 2580 McAllister, Doggie Diner orders"
+   },
+   {
+    "title": "Streetwise - Looking Back at 1968",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2018,
+    "url": "https://www.outsidelands.org/streetwise-si-1968.php",
+    "supports": "Acme Grocery name, seniors' off-campus lunch, owners, soda-bottle suspension sign"
+   },
+   {
+    "title": "Streetwise - The Sands of Time",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2009,
+    "url": "https://www.outsidelands.org/streetwise-st-ignatius.php",
+    "supports": "Stanyan-McAllister street sign taken in 1969, kept in a basement on Everglade Drive"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-si-leaves-stanyan",
+  "title": "Stripping the old school for souvenirs",
+  "theme": "modern-city",
+  "year": 1969,
+  "yearEnd": 1987,
+  "place": {
+   "label": "Site of St. Ignatius High School, 222 Stanyan Street (now USF's Koret Center)",
+   "lat": 37.77674,
+   "lon": -122.45471,
+   "precision": "building"
+  },
+  "hook": "When St. Ignatius left its 'fog-stained bomb shelter' on Stanyan Street in 1969, the boys pried off clocks, fountains and locker doors, even though the building had been sold.",
+  "story": "St. Ignatius High School moved into 222 Stanyan Street in the fall of 1929 and stayed forty years. One alumnus reckoned nearly 9,000 boys passed through, and that from the north the building looked like \"a fog-stained bomb shelter\" [1]. By the 1960s the baby boom had pushed enrolment to about 1,000, and the 1929 building was bursting at the seams [2]. Students had sold candy bars and raffle tickets for years to pay for a new campus. Late in 1968 came word that it would be ready in the Sunset, at 37th Avenue, by August 1969 [3]. The last months were hard on the building. Souvenir hunters carried off drinking fountains, double-sided hallway clocks, locker doors and light fixtures. Principal Father Edward McFadden told the student body that the building had been sold to the University of San Francisco and was supposed to be handed over reasonably intact [3]. The pilfering slowed but did not stop. The wooden detention bench outside the assistant principal's office went to the new campus officially, and it is still used there [2]. USF used the old school as Loyola Hall in the 1970s. It was demolished in 1986-87 to make way for the Koret Health and Recreation Center [4][3].",
+  "people": [
+   {
+    "name": "Edward McFadden, S.J.",
+    "role": "principal of St. Ignatius, 1969"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise - Richmond Ramble",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/streetwise-richmond-ramble.php",
+    "supports": "222 Stanyan, 1929-1969, nearly 9,000 students, 'fog-stained bomb shelter'"
+   },
+   {
+    "title": "Streetwise - Looking Back at 1968",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2018,
+    "url": "https://www.outsidelands.org/streetwise-si-1968.php",
+    "supports": "1,000 students, bursting at the seams, detention bench moved to 37th Avenue"
+   },
+   {
+    "title": "Streetwise - The Sands of Time",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2009,
+    "url": "https://www.outsidelands.org/streetwise-st-ignatius.php",
+    "supports": "fundraising, late-1968 announcement, souvenir hunting, McFadden's warning, sale to USF, 1987 demolition photo"
+   },
+   {
+    "title": "Streetwise - Back-to-School Days",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2012,
+    "url": "https://www.outsidelands.org/streetwise-USF.php",
+    "supports": "building became Loyola Hall in the 1970s, demolished 1986 and replaced by the Koret Center"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-fromm-institute",
+  "title": "A school with no grades, for the over-fifties",
+  "theme": "communities",
+  "year": 1976,
+  "yearEnd": 2003,
+  "place": {
+   "label": "Fromm Hall (former Xavier Hall), Parker Avenue side of USF's main campus",
+   "lat": 37.7762,
+   "lon": -122.4527,
+   "precision": "block"
+  },
+  "hook": "A dancer who escaped a Hitler rally and reached America with $50 later founded a USF school for people over 50, with no tests and no grades.",
+  "story": "Hanna Gruenbaum grew up in a prominent Jewish family in Nuremberg and trained as a dancer and choreographer [1][2]. In the mid-1930s she went to the University of Essen to pick up her diploma and found herself in the middle of a Hitler rally [2]. In 1936 she married Alfred Fromm, a fourth-generation winemaker from Kitzingen, and the couple fled Germany, sailing to the United States with $50 [1][2]. In California Alfred built a business distributing Christian Brothers wine and brandy and later took over the Paul Masson vineyards [1]. In 1976 the Fromms backed a new program at the University of San Francisco: noncredit courses for adults over 50, taught mainly by emeritus professors, with no assignments and no grades [1][2]. It started with 300 students [1]. Hanna ran it as its unpaid executive director until the last months of her life. \"They may wear out,\" she said of her students, \"but their minds will never rust out\" [2]. The Fromm Institute became the model for the Osher Lifelong Learning Institutes at more than 120 colleges and universities, and it had a sister program in Jerusalem [1][2]. She died on January 2, 2003, just after turning 89 [2]. Xavier Hall, the 1959 Jesuit residence facing Parker Avenue, is now Fromm Hall [3].",
+  "people": [
+   {
+    "name": "Hanna Fromm",
+    "role": "founder and volunteer director"
+   },
+   {
+    "name": "Alfred Fromm",
+    "role": "vintner and co-founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Fromm Institute for Lifelong Learning",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Fromm_Institute_for_Lifelong_Learning",
+    "supports": "1976 founding, format, 300 first students, Fromms' backgrounds and wine careers, volunteer directorship, Osher model"
+   },
+   {
+    "title": "A pioneer of lifelong learning, Hanna Fromm dies at 89",
+    "publisher": "J. The Jewish News of Northern California (Abby Cohn)",
+    "year": 2003,
+    "url": "https://web.archive.org/web/2024/https://jweekly.com/2003/01/10/a-pioneer-of-lifelong-learning-hanna-fromm-dies-at-89/",
+    "supports": "Essen diploma and Hitler rally, $50, 'rust out' quote, emeritus professors, Jerusalem program, death 2 January 2003"
+   },
+   {
+    "title": "Streetwise - Back-to-School Days",
+    "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+    "year": 2012,
+    "url": "https://www.outsidelands.org/streetwise-USF.php",
+    "supports": "Xavier Hall (1959) on Parker Avenue renamed Fromm Hall"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lone-mountain-usf-2p-lo-schiavo-shutdown",
+  "title": "The priest who cancelled basketball",
+  "theme": "modern-city",
+  "year": 1982,
+  "yearEnd": 1985,
+  "place": {
+   "label": "War Memorial Gymnasium (Sobrato Center), 2335 Golden Gate Avenue",
+   "lat": 37.7769,
+   "lon": -122.4494,
+   "precision": "building"
+  },
+  "hook": "In 1982 USF's president shut down one of America's most famous basketball programmes over boosters' cash. The Queen later whispered to ask when it was coming back.",
+  "story": "USF was still a national basketball power when the Rev. John Lo Schiavo became president in 1977. The son of Italian immigrants had grown up around his father's downtown restaurant and starred for St. Ignatius High School [1]. But the NCAA had twice disciplined the Dons for recruiting violations [1]. Then All-American guard Quintin Dailey pleaded guilty to assaulting a nursing student in her dormitory room, and he revealed that a booster had paid him $1,000 a month for a job that did not exist [1][2]. On July 29, 1982, Lo Schiavo suspended the program indefinitely: \"We have no responsible choice but to rid the university of the burden and the problems\" [1]. Editorial writers around the country applauded. One alumnus complained that the president \"should have taken his beating like a man\" [1]. In 1983 Queen Elizabeth II met him in a receiving line and beckoned him closer to whisper, \"When are you going to bring back basketball?\" [1]. He did, in November 1985, with alumnus Jim Brovelli as coach and a pickup-style roster of freshmen and transfers [2]. The overzealous booster club, the Dons Century Club, had gone. Its replacement, the Green and Gold Club, answered to the athletic department, and all its money was deposited within the university [2].",
+  "people": [
+   {
+    "name": "John Lo Schiavo, S.J.",
+    "role": "USF president 1977-91"
+   },
+   {
+    "name": "Jim Brovelli",
+    "role": "coach of the revived team"
+   }
+  ],
+  "sources": [
+   {
+    "title": "John Lo Schiavo dies at 90; USF president terminated basketball program",
+    "publisher": "Los Angeles Times (Steve Chawkins)",
+    "year": 2015,
+    "url": "https://www.latimes.com/local/obituaries/la-me-john-loschiavo-20150519-story.html",
+    "supports": "background, NCAA violations, Dailey, $1,000 a month, 29 July 1982 announcement and quote, alumnus quote, Queen Elizabeth in 1983"
+   },
+   {
+    "title": "Fresh Start: USF Has Restored Basketball--Must Build Back to Glory",
+    "publisher": "Los Angeles Times",
+    "year": 1985,
+    "url": "https://www.latimes.com/archives/la-xpm-1985-11-23-sp-1371-story.html",
+    "supports": "1985 return, Brovelli, roster, Dons Century Club replaced by Green and Gold Club"
+   }
+  ],
+  "photo": null
+ }
+]

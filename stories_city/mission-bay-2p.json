@@ -1,0 +1,522 @@
+[
+  {
+    "id": "mission-bay-2p-camanche-aquila",
+    "title": "The ironclad that sank before it sailed",
+    "theme": "war-military",
+    "year": 1864,
+    "yearEnd": null,
+    "place": {
+      "label": "Third and King streets, site of the Camanche's 1864 launch",
+      "lat": 37.7782,
+      "lon": -122.3921,
+      "precision": "block"
+    },
+    "hook": "The Pacific coast's only Union ironclad arrived in pieces, sank at the wharf within days, and had to be fished off the bottom before anyone could build it.",
+    "story": "In the middle of the Civil War, a Passaic-class monitor named Camanche was prefabricated in Jersey City by Secor Brothers, taken apart and shipped around Cape Horn to San Francisco in the sailing ship Aquila [1]. The Aquila reached San Francisco on November 10, 1863. Four days later, after storm damage and a collision with another ship, she sank at her wharf in 30 feet of water with the dismantled ironclad aboard [1][2]. The parts were salvaged from the wreck [1][2]. Mechanics from Peter Donahue's Union Iron Works then put the monitor together at Third and King, on the old Steamboat Point shipbuilding shore, on the site of one of John North's earlier yards. Her turret armour was eleven inches thick [3]. The Camanche was launched on November 14, 1864, a year to the day after the Aquila went down [1][2]. For more than a year she was the only U.S. ironclad on the Pacific coast. She spent most of her career laid up at Mare Island and trained the California Naval Militia in 1896-97 [1][2]. Sold in 1899, she was stripped and spent decades hauling coal around the bay as a collier [1].",
+    "people": [
+      {
+        "name": "Peter Donahue",
+        "role": "Union Iron Works owner whose mechanics assembled the monitor"
+      },
+      {
+        "name": "Charles J. McDougal",
+        "role": "Lieutenant commander, first commanding officer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "USS Camanche (1864)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/USS_Camanche_(1864)",
+        "supports": "Prefabrication, Aquila voyage, arrival 10 Nov 1863 and sinking 14 Nov 1863 in 30 ft of water, salvage, launch 14 Nov 1864, later career"
+      },
+      {
+        "title": "USS Camanche",
+        "publisher": "NavSource Naval History",
+        "year": 2020,
+        "url": "http://www.navsource.net/archives/01/camanche.htm",
+        "supports": "Built by Secor Brothers, Jersey City; Aquila sank at her dock 14 Nov 1863; salvaged, assembled at San Francisco and launched 14 Nov 1864; laid up at Mare Island; Naval Militia 1896-97; sold 1899"
+      },
+      {
+        "title": "Steamboat Point, 1851-1864 (Vanished Waters, ch. 7)",
+        "publisher": "FoundSF / Mission Creek Conservancy",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Steamboat_Point,_1851-1864",
+        "supports": "Assembled at Third and King by Donahue's Union Iron Works mechanics; 11-inch turret armour; site of John North's earlier shipyard"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-marcucci-steamboat-point",
+    "title": "A Venezuelan forty-niner builds steamboats",
+    "theme": "gold-rush-victorian",
+    "year": 1859,
+    "yearEnd": 1866,
+    "place": {
+      "label": "Steamboat Point, around Fourth and King streets",
+      "lat": 37.7762,
+      "lon": -122.394,
+      "precision": "area"
+    },
+    "hook": "Six weeks after landing in 1849, a 22-year-old from Maracaibo had bolted together the first steamboat to run from San Francisco to Stockton.",
+    "story": "Domingo Marcucci was born in Maracaibo, Venezuela, in 1827 and trained in American shipbuilding at a Philadelphia yard [1]. He arrived in San Francisco on the Pacific Mail steamer Oregon on September 18, 1849. Within days his company was assembling a knocked-down steamboat, shipped out from the East, on the beach at Happy Valley near the foot of Folsom Street. The Captain Sutter was ready in six weeks and became the first steamer on the San Francisco-Stockton run [1][2]. Marcucci then moved his yard to Steamboat Point, the bayshore around Fourth and King. The two sources differ on when: the Mission Creek Conservancy's history says the early 1850s, Wikipedia says 1858 [1][2]. A 'shipyard' there was little more than a sliver of flat land beside the water, yet it turned out big river steamers [2]. Marcucci built the Flora Templeton, the barkentine Monitor (FoundSF says 'probably'), the Cyrus Walker for Puget Sound and the Reliance [1][2]. In 1890 he became an assistant inspector of steam vessels for the port. In 1893 a falling timber fractured his skull while he inspected the ferry Thoroughfare. He recovered, retired in 1900 and died in 1905 [1].",
+    "people": [
+      {
+        "name": "Domingo Marcucci",
+        "role": "Venezuelan-born shipbuilder and steamboat inspector"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Domingo Marcucci",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Domingo_Marcucci",
+        "supports": "Birth in Maracaibo, Philadelphia training, 1849 arrival on the Oregon, Captain Sutter, move to Steamboat Point (dated 1858), vessels built, inspector job, 1893 injury, death 1905"
+      },
+      {
+        "title": "Steamboat Point, 1851-1864 (Vanished Waters, ch. 7)",
+        "publisher": "FoundSF / Mission Creek Conservancy",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Steamboat_Point,_1851-1864",
+        "supports": "Marcuci assembled the Captain Sutter in six weeks; moved to Steamboat Point around Fourth and King in the early 1850s; vessels built; unimproved shipyard conditions"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-hay-wharf",
+    "title": "Hay scows and a city of horses",
+    "theme": "gold-rush-victorian",
+    "year": 1884,
+    "yearEnd": 1909,
+    "place": {
+      "label": "Former Hay Wharf, north side of Channel Street between Second and Third streets",
+      "lat": 37.7765,
+      "lon": -122.3897,
+      "precision": "area"
+    },
+    "hook": "Before cars, San Francisco ran on horses, and their feed came up Mission Creek by the scow-load, with sailors' pipes starting fires on the pier.",
+    "story": "A horse-drawn city needed mountains of hay. It came by water, in flat-bottomed scow schooners that could slide over mudflats on the tide to load bales along creeks and sloughs from Petaluma to Sacramento and Milpitas [1][2]. Nobody wanted the hay men as neighbours. 'The hay dealers make a warehouse of wharves, landing their hay and keeping it there until it is peddled off,' the San Francisco Call complained in 1876. The supervisors had promised the China Basin area to the harbor commission for the hay dealers, then reneged [1]. By 1884 they finally had their own wharf, angling into Channel Street from Pope & Talbot's lumber yard between Second and Third. A dozen or more scows could be seen tied up there at once, two or three abreast [1][2]. One scow, the 65-foot Annie L., built in 1900 by Emil Munder, brought in more than 350 bales at a time [1]. In a single week in 1896 three fires broke out on the hay wharf, blamed on scow men knocking out their pipes [1]. Kiel-born seaman Fred Klebingat, who arrived on the waterfront in 1909, remembered cheap restaurants and saloons at the foot of Third Street. That year a scow out of control pushed its bowsprit through his cabin porthole and then backed out again [1].",
+    "people": [
+      {
+        "name": "Emil Munder",
+        "role": "Builder of the scow schooner Annie L."
+      },
+      {
+        "name": "Fred Klebingat",
+        "role": "Seaman who recalled the channel in 1909"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Work on Land & Water, 1880-1920 (Vanished Waters, ch. 12)",
+        "publisher": "FoundSF / Mission Creek Conservancy",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Work_on_Land_%26_Water,_1880-1920",
+        "supports": "1876 Call quote, reneged promise, 1884 hay wharf location, Annie L. details, 1896 fires, Klebingat recollections"
+      },
+      {
+        "title": "Mission Bay Gazeteer of Historic Places",
+        "publisher": "FoundSF / Mission Creek Conservancy",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Bay_Gazeteer_of_Historic_Places",
+        "supports": "Hay dealers arriving by scow schooner from places like Petaluma; hay wharf built by 1884 off Pope & Talbot's lumberyard"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-takahashi-trading",
+    "title": "From Topaz to a Rhode Island Street warehouse",
+    "theme": "communities",
+    "year": 1965,
+    "yearEnd": 2019,
+    "place": {
+      "label": "Takahashi Trading Company, 200 Rhode Island Street",
+      "lat": 37.76698,
+      "lon": -122.40312,
+      "precision": "building"
+    },
+    "hook": "Behind barbed wire in Utah, a young couple dreamed of importing Japanese crafts. Twenty years later, bulldozed out of Japantown, they moved their import business to this brick warehouse.",
+    "story": "Tomoye 'Tami' Nozawa was born in San Francisco in 1915. Her father owned Japantown's Starlight Laundry, and she graduated from UC Berkeley in Oriental studies, focusing on ancient Chinese and modern Japanese, and decorative arts. She married Henri Takahashi, a Pomona graduate and sports editor at a Japanese American paper, in 1941. Months later they were sent to Tanforan and then to the Topaz camp in Utah, where she had two children [1][2]. After the war they bought 1661-1663 Post Street and opened a small dry-goods store, Takahashi Trading Company. They got an export licence so locals could send medicine and staples to relatives in war-torn Japan [1]. The business grew into an importer of Japanese home goods with stores on Grant Avenue, in Ghirardelli Square, in Sausalito and on 57th Street in New York [1]. When the Redevelopment Agency demolished their Japantown building, they bought this five-story 1912 brick warehouse in 1965. The warehouse is shaped to fit a triangular lot beside an old Western Pacific rail line [3]. Their charitable foundation, founded in 1985 with Tami's sister Martha Suzuki, was based here too. The family sold the building in 2019, three years after Tami died just short of 101, and the city made it Landmark 305 [1][3].",
+    "people": [
+      {
+        "name": "Tomoye 'Tami' Takahashi",
+        "role": "Co-founder, philanthropist"
+      },
+      {
+        "name": "Henri Takahashi",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Masako Martha Suzuki",
+        "role": "Tami's sister, business partner and foundation co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Philanthropist Tomoye Takahashi Dies at 100",
+        "publisher": "Discover Nikkei (from The Rafu Shimpo)",
+        "year": 2016,
+        "url": "https://discovernikkei.org/en/journal/2016/6/16/tomoye-takahashi/",
+        "supports": "Tami's family, education, marriage, Tanforan and Topaz, Post Street store, export licence, stores, foundation"
+      },
+      {
+        "title": "Henri Takahashi (obituary)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2002,
+        "url": "https://www.sfgate.com/bayarea/article/Henri-Takahashi-3656459.php",
+        "supports": "Henri's background, internment at Topaz, founding of the company in Japantown"
+      },
+      {
+        "title": "San Francisco Landmark 305: Takahashi Trading Company",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2023,
+        "url": "https://noehill.com/sf/landmarks/sf305.asp",
+        "supports": "1965 purchase after Redevelopment demolition, 1912 Lansburgh warehouse, triangular parcel by Western Pacific right of way, foundation headquarters, 2019 sale"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-henry-adams-design-center",
+    "title": "The man who turned warehouses into showrooms",
+    "theme": "modern-city",
+    "year": 1974,
+    "yearEnd": null,
+    "place": {
+      "label": "San Francisco Design Center, 2 Henry Adams Street",
+      "lat": 37.76913,
+      "lon": -122.40411,
+      "precision": "building"
+    },
+    "hook": "With industry fleeing the city, one design-trade businessman went shopping for empty brick warehouses. Today the street he started on carries his name.",
+    "story": "By the late 1970s this corner of the city had hit bottom. Manufacturing was moving to the suburbs and overseas, and by 1977 San Francisco kept only 12 percent of the region's manufacturing jobs [1]. Henry Adams saw something else. He was president of the Western Merchandise Mart and a leading figure in the interior design trade, which since the Second World War had clustered in Jackson Square. There, rents were rising, parking was scarce and there was no room to grow. In the early 1970s Adams went looking for old brick buildings with bigger floors, and he found them in the warehouses of the northern Potrero [1]. He bought the 1915 Dunham, Carrigan & Hayden warehouse at 2 Kansas Street and turned it into the San Francisco Design Center. In 1974 he bought two more warehouses on the next block [1][2]. By the early 1980s he or his colleagues had bought most of the neighbouring buildings. The Baker & Hamilton warehouse at Seventh and Townsend, the old Planters Peanuts factory and the Schlessinger & Bender winery at 16th and Rhode Island all became showrooms, and the district became Showplace Square [1]. The street outside his first building is now Henry Adams Street, and the building became City Landmark 283 in 2019 [1][2].",
+    "people": [
+      {
+        "name": "Henry Adams",
+        "role": "Design-trade developer, president of the Western Merchandise Mart"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Showplace Square Survey Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://www.sanfranciscohistory.com/ShowplaceSquare.pdf",
+        "supports": "Area's 1970s decline, 1977 jobs figure, Henry Adams's background and search, Design Center at 2 Kansas (Henry Adams) St, 1974 purchases, later conversions"
+      },
+      {
+        "title": "San Francisco Landmark 283: Dunham, Hayden & Carrigan Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2023,
+        "url": "https://noehill.com/sf/landmarks/sf283.asp",
+        "supports": "1915 warehouse, mill construction, now the San Francisco Design Center; landmark approved 2019"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-bridge-to-bridge-run",
+    "title": "The half-kilometre race with two beers",
+    "theme": "communities",
+    "year": 1983,
+    "yearEnd": null,
+    "place": {
+      "label": "Mission Creek between the Third and Fourth Street bridges",
+      "lat": 37.7752,
+      "lon": -122.3925,
+      "precision": "street"
+    },
+    "hook": "Who needs Bay to Breakers? In 1983 the Mission Creek houseboaters staged their own race: bridge to bridge, winners picked by lottery.",
+    "story": "In 1983 the houseboat families of Mission Creek and their friends formed the Mission Creek Conservancy to fight for a place in the plans for the railyards around them [1]. They had fun doing it. That May, houseboater Jack Davis organised the Bridge to Bridge Run. Herb Caen described it in his column: 'Who needs Bay to Breakers? The Mission Creek Conservancy is having a “Bridge-to-Bridge” run … From the Third to the Fourth St. bridge, a grueling 0.5 kilometers, winners to be democratically determined by lottery.' The $7.50 entry fee got you a T-shirt and two beers [1]. Davis, who also ran SOMAR, a non-profit gallery and theatre, remembered the early harbour as 'like a gypsy camp'. At parties, he said, 'the one-eyed man would get in a fight with the man with one leg.' When the sinking dock went underwater at high tide, he and a friend rebuilt it themselves. Residents published a newsletter called 'Rats and Rubbers', after what the low tide revealed [2]. It wasn't all rough. On Betty Boatwright's houseboat, with its white carpet and grand piano, guests took their shoes off [1]. By 2001, a tiny wooden 'Genuine People Feeder' stood in the creekside park, where kind souls left sandwiches for hungry people [2].",
+    "people": [
+      {
+        "name": "Jack Davis",
+        "role": "Houseboater, race organiser, president of the Mission Creek Harbor Association"
+      },
+      {
+        "name": "Herb Caen",
+        "role": "Chronicle columnist"
+      },
+      {
+        "name": "Betty Boatwright",
+        "role": "Houseboat resident"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Living Memories, 1987-2010",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1987-2010",
+        "supports": "Conservancy founded 1983; May 1983 Bridge to Bridge Run, Caen quote, entry fee; Boatwright houseboat"
+      },
+      {
+        "title": "Still Afloat: Mission Creek's houseboat community",
+        "publisher": "SFGATE (Carol Lloyd)",
+        "year": 2001,
+        "url": "https://www.sfgate.com/entertainment/article/Still-Afloat-Mission-Creek-s-houseboat-3240003.php",
+        "supports": "Jack Davis and SOMAR, 'gypsy camp' quote, rebuilt dock, 'Rats and Rubbers' newsletter, Genuine People Feeder"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-willie-mays-statue",
+    "title": "'What happened to the ball?'",
+    "theme": "modern-city",
+    "year": 2000,
+    "yearEnd": 2024,
+    "place": {
+      "label": "Willie Mays statue, 24 Willie Mays Plaza (Third and King streets)",
+      "lat": 37.7784,
+      "lon": -122.391,
+      "precision": "building"
+    },
+    "hook": "The Giants wanted to sculpt Willie Mays making his famous catch. Mays and the sculptor pointed out that his backside would greet every fan coming in.",
+    "story": "At the December 1997 groundbreaking for the new ballpark, Giants president Peter Magowan surprised Willie Mays by announcing its address: 1 Willie Mays Plaza. By the following August, giving in to fans, the Giants said they would ask the city to make it 24, Mays's number [1]. That day in August 1998 Magowan also unveiled a foot-tall model of the statue at the building site. Magowan had thought of showing Mays's famous over-the-shoulder catch in the 1954 World Series. Mays and the sculptor saw a problem. 'The catch wouldn't be appropriate,' Mays said. 'The reason is you'd have to be backwards. That means you're back end is going to be sticking out coming into the ballpark' [1]. North Carolina sculptor William Behrends instead showed him dropping the bat after a swing. Mays loved it: 'I'm saying, “What happened to the ball? Where did it go?”' [1]. The nine-foot bronze was unveiled on March 31, 2000, ringed by 24 palm trees [1][2]. When Mays died on June 18, 2024, a stream of people came to it with flowers [2][3]. Max Callan remembered seeing him carted around the field at the 2007 All-Star Game when he was six. Omar Moore recalled that many white fans had booed Mays in his first San Francisco years [3].",
+    "people": [
+      {
+        "name": "Willie Mays",
+        "role": "Giants Hall of Famer"
+      },
+      {
+        "name": "Peter Magowan",
+        "role": "Giants president"
+      },
+      {
+        "name": "William Behrends",
+        "role": "Sculptor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "All Choked Up: Giants legend Willie Mays is moved by statue of him for new ballpark",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/ALL-CHOKED-UP-Giants-legend-Willie-Mays-is-2998761.php",
+        "supports": "Address announcement and change to 24, model unveiling, Mays's quotes about the catch and the swing, Behrends, 24 palm trees"
+      },
+      {
+        "title": "Statue of Willie Mays",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Statue_of_Willie_Mays",
+        "supports": "Unveiled March 31, 2000; nine feet; 24 palm trees; tributes after his death"
+      },
+      {
+        "title": "Fans come together at Willie Mays' statue to remember baseball legend",
+        "publisher": "NBC Bay Area",
+        "year": 2024,
+        "url": "https://www.nbcbayarea.com/news/local/fans-memorial-willie-mays-statue/3570721/",
+        "supports": "Fans leaving flowers the day after his death; Callan and Moore quotes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-mccovey-statue",
+    "title": "'I'm taller than Willie Mays'",
+    "theme": "modern-city",
+    "year": 2003,
+    "yearEnd": 2024,
+    "place": {
+      "label": "Willie McCovey statue, China Basin Park, south shore of McCovey Cove",
+      "lat": 37.7758,
+      "lon": -122.3899,
+      "precision": "block"
+    },
+    "hook": "The water beyond right field got its name from two sportswriters. Its namesake got a bronze across the cove, and a one-liner about height.",
+    "story": "The water beyond the ballpark's right-field wall is properly China Basin, and the nickname has never become official, the mouth of Mission Creek. The San Jose Mercury News columnist Mark Purdy proposed naming it for Willie McCovey, and his colleague Leonard Koppett of the Oakland Tribune supplied the catchier 'McCovey Cove' [1]. In May 2003 the Giants unveiled a nine-foot bronze of McCovey's left-handed swing across the cove, cast by William Behrends, who had also made the Mays statue [2][3]. Eyes stayed mostly dry through a long ceremony until former teammates Tom Haller, Hobie Landrith and Mike McCormick began to choke up. Then McCovey did too [2]. Asked why his statue was taller than Mays's, he replied: 'Haven't you ever seen us standing side by side? I'm taller than Willie Mays' [2]. McCovey played 19 of his 21 big-league seasons in San Francisco, hit 521 home runs, and died in 2018 at 80 [3]. In 2020 his statue was taken down and stored during construction of the Mission Rock neighbourhood. On March 18, 2024, it went back up in the new China Basin Park, a little west of its old spot and still in view of the ballpark [3].",
+    "people": [
+      {
+        "name": "Willie McCovey",
+        "role": "Giants Hall of Fame first baseman"
+      },
+      {
+        "name": "Mark Purdy",
+        "role": "Sportswriter who proposed the name"
+      },
+      {
+        "name": "Leonard Koppett",
+        "role": "Sportswriter who suggested 'McCovey Cove'"
+      }
+    ],
+    "sources": [
+      {
+        "title": "McCovey Cove",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/McCovey_Cove",
+        "supports": "Official name China Basin; Purdy and Koppett naming story"
+      },
+      {
+        "title": "Giants notebook: Emotional unveiling of McCovey statue",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2003,
+        "url": "https://www.sfgate.com/sports/article/GIANTS-NOTEBOOK-Emotional-unveiling-of-McCovey-2618481.php",
+        "supports": "2003 unveiling, teammates, Behrends, 'taller than Willie Mays' quote"
+      },
+      {
+        "title": "Willie McCovey statue returns at new site across McCovey Cove",
+        "publisher": "San Francisco Chronicle (John Shea), via Internet Archive",
+        "year": 2024,
+        "url": "https://web.archive.org/web/20240319142553/https://www.sfchronicle.com/sports/giants/article/willie-mccovey-statue-returns-new-site-across-19169773.php",
+        "supports": "2020 removal, March 18, 2024 reinstallation in China Basin Park, career stats, death in 2018"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-ichiro-inside-the-park",
+    "title": "Ichiro and the wall's strange bounce",
+    "theme": "modern-city",
+    "year": 2007,
+    "yearEnd": null,
+    "place": {
+      "label": "Right-center field wall, Oracle Park (then AT&T Park)",
+      "lat": 37.7775,
+      "lon": -122.389,
+      "precision": "building"
+    },
+    "hook": "The ballpark's quirky right-field wall produced something no All-Star Game had ever seen: an inside-the-park home run.",
+    "story": "San Francisco hosted the All-Star Game on July 10, 2007. Before the first pitch the crowd honoured Willie Mays, who threw the ceremonial pitch to the Mets' José Reyes [1]. The National League led 1-0 in the fifth inning when Baltimore's Brian Roberts walked. Seattle's Ichiro Suzuki, leading off for the American League, drove Chris Young's first pitch deep to right-center [1][2]. Ken Griffey Jr. seemed well placed to play it off the padded wall. But the ball took a strange bounce off a sign and ricocheted to his right [1][2]. By the time Griffey chased it down and threw it in, and nobody cut it off, Ichiro had scored standing up, with Roberts crossing the plate just ahead of him [2]. It was the first inside-the-park home run in All-Star history and the first of Ichiro's seven-year major-league career [2]. It gave the American League a 2-1 lead. The AL won 5-4, and Ichiro was named Most Valuable Player [1].",
+    "people": [
+      {
+        "name": "Ichiro Suzuki",
+        "role": "Seattle Mariners outfielder, game MVP"
+      },
+      {
+        "name": "Ken Griffey Jr.",
+        "role": "National League right fielder"
+      },
+      {
+        "name": "Willie Mays",
+        "role": "Threw the ceremonial first pitch"
+      }
+    ],
+    "sources": [
+      {
+        "title": "2007 Major League Baseball All-Star Game",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/2007_Major_League_Baseball_All-Star_Game",
+        "supports": "Date, Mays first pitch, fifth-inning sequence, bounce off a sign, 5-4 result, MVP"
+      },
+      {
+        "title": "Ichiro runs into record book",
+        "publisher": "MLB.com (Corey Brock), via Internet Archive",
+        "year": 2007,
+        "url": "https://web.archive.org/web/20070713174247/http://mlb.mlb.com/news/article.jsp?ymd=20070710&content_id=2080667&vkey=allstar2007&fext=.jsp",
+        "supports": "First-pitch fastball from Chris Young, strange bounce, uncut throw, Ichiro scoring standing up, first career inside-the-park homer"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-matt-cain-perfect-game",
+    "title": "27 up, 27 down",
+    "theme": "modern-city",
+    "year": 2012,
+    "yearEnd": null,
+    "place": {
+      "label": "Pitcher's mound, Oracle Park (then AT&T Park)",
+      "lat": 37.7782,
+      "lon": -122.3898,
+      "precision": "building"
+    },
+    "hook": "In 130 years no Giant had thrown a perfect game. On a June night in 2012 Matt Cain did it, thanks partly to a belly-flop on the warning track.",
+    "story": "Before the game on June 13, 2012, Matt Cain and golfer Dustin Johnson hit golf balls from home plate into McCovey Cove [1]. Then Cain retired all 27 Houston Astros he faced, striking out 14, as the Giants won 10-0 in front of 42,298 people [1][2]. It was the first perfect game in the franchise's 130 years. None of Mathewson, Hubbell, Marichal, Perry or Lincecum had managed it [2]. It needed help. Melky Cabrera made running catches in left [1][2]. In the seventh, Jordan Schafer drove a ball to right-center that looked like extra bases. Gregor Blanco, whom coaches had told to shade toward center, dived and landed belly-first on the warning track in front of the Visa sign with the ball in his glove [2]. Back in the dugout, Cain hugged him [2]. In the last three innings, Cain said, there was so much adrenaline he had trouble seeing Buster Posey's signs [2]. Pinch-hitter Jason Castro bounced the 125th pitch to third. Joaquín Arias backed up and threw across to Brandon Belt, and the Giants poured out to mob Cain [1][2]. He was, as it happens, the only pitcher ever to score a run in his own perfect game [1].",
+    "people": [
+      {
+        "name": "Matt Cain",
+        "role": "Giants pitcher"
+      },
+      {
+        "name": "Gregor Blanco",
+        "role": "Right fielder who made the diving catch"
+      },
+      {
+        "name": "Joaquín Arias",
+        "role": "Third baseman who made the final play"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Matt Cain's perfect game",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Matt_Cain%27s_perfect_game",
+        "supports": "Golf balls into the cove with Dustin Johnson, 14 strikeouts, 125 pitches, final out, only pitcher to score a run in his perfect game"
+      },
+      {
+        "title": "Matt Cain throws perfect game as Giants win 10-0",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2012,
+        "url": "https://www.sfgate.com/giants/article/Matt-Cain-throws-perfect-game-as-Giants-win-10-0-3632764.php",
+        "supports": "Crowd of 42,298, 130-year franchise first, Cabrera and Blanco catches, Visa sign, hug, trouble seeing signs, final play"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2p-valkyries-ballhalla",
+    "title": "The Valkyries sell out 'Ballhalla'",
+    "theme": "modern-city",
+    "year": 2025,
+    "yearEnd": null,
+    "place": {
+      "label": "Chase Center, 1 Warriors Way",
+      "lat": 37.768,
+      "lon": -122.38756,
+      "precision": "building"
+    },
+    "hook": "A first-year team of role players and rookies sold out every home game, set a WNBA attendance record, then had to host its first playoff game in San Jose.",
+    "story": "Northern California had been without a WNBA team since the Sacramento Monarchs folded in 2009. In October 2023 the league awarded an expansion franchise to the Warriors' owners, and within hours fans had placed more than 2,000 season-ticket deposits [1]. The team was named the Golden State Valkyries in May 2024 [1]. They lost their debut, 84-76 to the Los Angeles Sparks, on May 16, 2025, and won for the first time five days later [1]. Built from former sixth women, role players, international players and rookies, they defied expectations and won 23 games, a record for a first-year expansion team [1][3]. On September 4, beating Dallas at Chase Center, they became the first expansion team to reach the playoffs in their first season [2][3]. They sold out all 22 home games, setting WNBA records of 397,408 fans in total and 18,604 on average [1][4]. The team calls it 'Ballhalla', which its president says is about the fans, not one building [2]. Their first home playoff game had to move to San Jose's SAP Center, because a tennis tournament, the Laver Cup, had booked Chase Center in 2023, before the Bay Area was awarded the team [2]. Coach Natalie Nakase was named WNBA Coach of the Year in her first season as a WNBA head coach [3].",
+    "people": [
+      {
+        "name": "Natalie Nakase",
+        "role": "Head coach, 2025 WNBA Coach of the Year"
+      },
+      {
+        "name": "Jess Smith",
+        "role": "Team president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Golden State Valkyries",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Golden_State_Valkyries",
+        "supports": "Monarchs history, 2023 award and deposits, 2024 name, May 2025 debut and first win"
+      },
+      {
+        "title": "Golden State Valkyries Clinch Postseason Berth; Become First-Ever WNBA Expansion Franchise to Reach Playoffs in Inaugural Season",
+        "publisher": "Golden State Valkyries / WNBA",
+        "year": 2025,
+        "url": "https://valkyries.wnba.com/news/valkyries-clinch-postseason-berth-20250904",
+        "supports": "Sept 4 clinch at Chase Center, 'Ballhalla', playoff game moved to SAP Center because of the Laver Cup booking"
+      },
+      {
+        "title": "Golden State's Natalie Nakase Named 2025 WNBA Coach of the Year",
+        "publisher": "WNBA",
+        "year": 2025,
+        "url": "https://www.wnba.com/news/nakase-2025-coty",
+        "supports": "Coach of the Year in her first season; 23 wins, expansion record; first team to make playoffs in inaugural season"
+      },
+      {
+        "title": "Valkyries set WNBA attendance record in inaugural season",
+        "publisher": "Front Office Sports",
+        "year": 2025,
+        "url": "https://frontofficesports.com/valkyries-set-wnba-attendance-record-in-inaugural-season/",
+        "supports": "Sold out all 22 games; total 397,408 and average 18,604 attendance records"
+      }
+    ],
+    "photo": null
+  }
+]

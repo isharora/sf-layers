@@ -1,0 +1,718 @@
+[
+  {
+    "id": "glen-park-2p-fairmount-school-water",
+    "title": "The school where the janitor carried water",
+    "theme": "gold-rush-victorian",
+    "year": 1877,
+    "yearEnd": null,
+    "place": {
+      "label": "Dolores Huerta Elementary (former Fairmount School), 65 Chenery Street near Randall",
+      "lat": 37.74034,
+      "lon": -122.42545,
+      "precision": "building"
+    },
+    "hook": "In 1875 Fairmount's 170 pupils were crammed into a two-room wooden schoolhouse and rented rooms, and the janitor hauled drinking water on his head from blocks away.",
+    "story": "Fairmount School first opened in September 1864 for children of the new Fairmount Tract, making it one of the oldest schools in San Francisco [1]. By the end of 1875 it was a scandal. About 170 pupils were squeezed into a wooden building with two small rooms and some rented space, and the library held 33 books. One complaint said the janitor had to \"carry water on his head, like the ancients, a distance of several blocks, providing the neighbors will let him have it\" [1]. In 1876 Supervisor Henry Haight declared it \"high time to give the suburban primary schools some of the necessaries.\" Within a month the Board of Education agreed to seek plans. In December 1877 a two-storey, eight-room school by architect Charles Geddes was dedicated on Chenery near Randall, praised for its ventilation, for desks arranged so light fell over the pupils' left shoulders, and for lockable toilet rooms that kept \"prowling thieves\" from the children's hats and shawls [1]. It soon overflowed too: by 1891 one class had 74 pupils. The streetcar company even blamed Fairmount pupils for sliding down the Chenery Street rails on boards [2]. A brick school replaced it in 1917, a new building came in 1977, and in 2018 the school was renamed for Dolores Huerta [1].",
+    "people": [
+      {
+        "name": "Henry Haight",
+        "role": "San Francisco supervisor"
+      },
+      {
+        "name": "Charles Geddes",
+        "role": "architect of the 1877 school"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of the Old Fairmount School",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2020,
+        "url": "https://www.glenparkhistory.org/single-post/2015-4-8-origins-of-the-fairmount-school",
+        "supports": "1864 opening, 1875 conditions and janitor quote, Haight quote, 1877 Geddes school, 1891 crowding, 1917/1977 buildings, 2018 renaming"
+      },
+      {
+        "title": "Getting Downtown by Shooting the Chenery Chute",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2016,
+        "url": "https://www.glenparkhistory.org/single-post/2016/12/28/getting-downtown-by-shooting-the-chenery-chute",
+        "supports": "railway blamed Fairmount School students for sliding on the rails"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-chenery-chute",
+    "title": "Shooting the Chenery Chute",
+    "theme": "gold-rush-victorian",
+    "year": 1894,
+    "yearEnd": 1927,
+    "place": {
+      "label": "Chenery Street hill between 30th and Randall streets",
+      "lat": 37.74195,
+      "lon": -122.42562,
+      "precision": "street"
+    },
+    "hook": "Overloaded cars full of mourners came down Chenery Street hill 'like toboggans'. The railway blamed its motormen's inexperience, and schoolboys on the rails.",
+    "story": "When Behrend Joost's electric railway opened in 1892, its cars swung south onto Chenery at 30th Street and climbed a very steep grade to Randall [1]. The first accident came six weeks into service, and most that followed had the same script: cars overloaded with passengers returning from the cemeteries, people with \"barely a foothold\" hanging onto the ends, and a car that turned \"unmanageable\" on the way down or rounded the 30th Street curve \"with a heavy list to starboard.\" Some cars left the tracks and crashed. There were many injuries; three in 1894 were life-threatening [1]. Management said the operators needed more practice, and blamed Fairmount School children for using the track as a toboggan run, sliding down on boards until the rails were too smooth for brakes to hold. Newspapers began calling it the \"Chenery street slide\" [1]. A 2001 neighbourhood history tells a grimmer version, of brakes failing near Roanoke Street and cars leaping the tracks at Diamond, \"frequently killing passengers,\" until the Municipal Railway took over the line in 1916 [2]. The grade was later reduced, but in 1927 three young men died when their speeding touring car fishtailed at the Natick curve into a 26-line streetcar. Police called Chenery \"one of the worst death traps in San Francisco\" [1].",
+    "people": [
+      {
+        "name": "Behrend Joost",
+        "role": "owner of the San Francisco and San Mateo electric railway"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Getting Downtown by Shooting the Chenery Chute",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2016,
+        "url": "https://www.glenparkhistory.org/single-post/2016/12/28/getting-downtown-by-shooting-the-chenery-chute",
+        "supports": "route, accidents from 1892, 1894 injuries, blame on students, 'Chenery street slide', 1927 crash and police quote"
+      },
+      {
+        "title": "Glen Park: The Architecture and Social History",
+        "publisher": "San Francisco Apartment Association magazine (Christopher P. Verplanck), via Internet Archive",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20070928094254/http://www.sfaa.org/0112verplanck.html",
+        "supports": "alternative account of brake failures, runaways and deaths before the 1916 Muni takeover"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-three-saloons",
+    "title": "Three saloons on one creekside corner",
+    "theme": "gold-rush-victorian",
+    "year": 1897,
+    "yearEnd": 1907,
+    "place": {
+      "label": "701-703 Chenery Street at Diamond (Haack's saloon and hall, later Glen Park Cleaners)",
+      "lat": 37.73441,
+      "lon": -122.43412,
+      "precision": "building"
+    },
+    "hook": "Before Glen Park had sewers, it had beer. By 1907 three saloons faced each other across Diamond and Chenery, and one of them came with a community hall.",
+    "story": "In the 1890s the spot where today's Diamond and Chenery streets meet, beside Islais Creek on the road south, was a place for travellers to rest and have \"a good stiff drink\" [1]. In 1897 Walter Haack built a saloon, residence and community hall there, the building at 701-703 Chenery that later housed Glen Park Cleaners and is now a yoga studio [1]. A 2001 survey called it the oldest surviving commercial building in Glen Park, though it dated the building to the early 1890s, when it came with a large tank house and stables [2]. That September the San Francisco Call printed a picture of Haack being held up in his Gum Tree Saloon [3]. Within ten years the crossing had three saloons on opposite corners, kept by Haack, August Straub and Anton Dissmeyer [1][3]. Dissmeyer's Enterprise Steam Beer Saloon opened in a new building at 702 Chenery, just north of the old creek trestle, and still stands, much altered, where Glen Park Cafe later traded [2][3]. Straub was more than a barkeeper. In 1907 he and Theodore Pinther organised the Glen Park Improvement Association, the first San Francisco neighbourhood association open to both men and women [4]. In the 1910s and 1920s his Straub's Refreshment Parlor traded at 673 Chenery [2].",
+    "people": [
+      {
+        "name": "Walter Haack",
+        "role": "saloonkeeper, builder of 701-703 Chenery"
+      },
+      {
+        "name": "August Straub",
+        "role": "saloonkeeper and co-founder of the Glen Park Improvement Association"
+      },
+      {
+        "name": "Anton Dissmeyer",
+        "role": "saloonkeeper"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rising Water in and Around Glen Park is Nothing New: A Look Back",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2023,
+        "url": "https://www.glenparkhistory.org/single-post/rising-water-in-and-around-glen-park-is-nothing-new-a-look-back",
+        "supports": "1890s drinking stop, Haack's 1897 saloon, residence and hall, three saloons within ten years"
+      },
+      {
+        "title": "Glen Park: The Architecture and Social History",
+        "publisher": "San Francisco Apartment Association magazine (Christopher P. Verplanck), via Internet Archive",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20070928094254/http://www.sfaa.org/0112verplanck.html",
+        "supports": "701-703 Chenery as oldest commercial building (dated early 1890s), Dissmeyer's Enterprise Steam Beer Saloon at 702 Chenery, Straub's at 673 Chenery"
+      },
+      {
+        "title": "At the Casa Blanca: Mid-Century Gender-Bending Drag Shows in Glen Park",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2023,
+        "url": "https://www.glenparkhistory.org/single-post/at-the-casa-blanca-mid-century-gender-bending-drag-shows-in-glen-park",
+        "supports": "San Francisco Call image of Haack held up at the Gum Tree Saloon, Sept. 21, 1897; locations of the three saloons"
+      },
+      {
+        "title": "\"We Have the Meats!\" Vogel Bros. Meat Co. of Chenery Street",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2026,
+        "url": "https://www.glenparkhistory.org/single-post/we-have-the-meats-vogel-bros-meat-co-of-chenery-street",
+        "supports": "Straub and Pinther founded the Glen Park Improvement Association in 1907, first co-educational neighbourhood association"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-vogel-bros-meat",
+    "title": "Minnie Vogel picks up the cleaver",
+    "theme": "labor-industry",
+    "year": 1929,
+    "yearEnd": 1947,
+    "place": {
+      "label": "683 Chenery Street (Vogel Bros. Meat Co. building, later Chenery Park restaurant)",
+      "lat": 37.73434,
+      "lon": -122.43353,
+      "precision": "building"
+    },
+    "hook": "Widowed in 1906 with six children, Minnie Vogel ran the family butcher shop herself. Her sons built a meat business and a Spanish-style market on Chenery.",
+    "story": "German-born Herman Vogel opened his own butcher shop on San Bruno Road in 1892. When he died at 46 in late 1906, his wife Wilhelmina, known as Minnie, took over as butcher, a highly unusual job for a woman then, with six children to feed [1]. The family soon had a foothold in booming post-quake Glen Park. Herman's nephew August Vogel was a butcher living on Chenery by 1907, a director of the new Glen Park Volunteer Fire Company in 1908, and a partner in Henderson & Vogel at today's 683 Chenery [1]. Minnie's sons turned the trade into a small empire, with markets at Civic Center, on Fillmore and in the Mission. In 1928 the youngest, Adolph, took over the Chenery shop. In 1929, the year Vogel Bros. Meat Co. was incorporated with $200,000 in capital, he replaced the old building with the Spanish Colonial/Mediterranean Revival storefront that still stands [1]. The company was dissolved in 1947. Albert's Meats, a laundromat, Diamond Pizza and the Chenery Park restaurant followed [1]. The owners of a nearby liquor store remembered that even after the shabby 1970s laundromat became a pizzeria, one tiled wall still read \"Vogel Bros. Meat Co.\" [2] In 2025 builders found the green and yellow mosaic behind drywall, but it could not be saved [1].",
+    "people": [
+      {
+        "name": "Minnie (Wilhelmina) Vogel",
+        "role": "butcher"
+      },
+      {
+        "name": "August Vogel",
+        "role": "butcher, fire company director"
+      },
+      {
+        "name": "Adolph Vogel",
+        "role": "builder of 683 Chenery"
+      }
+    ],
+    "sources": [
+      {
+        "title": "\"We Have the Meats!\" Vogel Bros. Meat Co. of Chenery Street",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2026,
+        "url": "https://www.glenparkhistory.org/single-post/we-have-the-meats-vogel-bros-meat-co-of-chenery-street",
+        "supports": "Vogel family history, Minnie as butcher, August Vogel and the fire company, 1929 building and incorporation, later tenants, 2025 mosaic"
+      },
+      {
+        "title": "A glass half full (memoir by the former owners of Tiffany's Wines & Spirits), Glen Park News, Summer 2004",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2004,
+        "url": "https://archive.org/details/glenparknewssummunse_6",
+        "supports": "1976 laundromat with tiled 'Vogel Bros. Meat Co.' wall"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-lippard-road-bee",
+    "title": "Three hundred men, one road, lunch included",
+    "theme": "quake1906",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "Lippard Avenue near Chenery Street",
+      "lat": 37.73473,
+      "lon": -122.43577,
+      "precision": "street"
+    },
+    "hook": "The city wouldn't fix muddy Lippard Avenue, so in 1908 the women of Glen Park recruited the men who would, fed them, and hired a band.",
+    "story": "After the 1906 earthquake thousands of displaced San Franciscans moved out to Glen Park, where residents would spend years lobbying for a main sewer and water supply [1]. In February 1908 about 40 women formed the Glen Park Outdoor Art League, the first of its kind in San Francisco, to make Glen Park a \"model suburb\" with garbage cans and greenery [2]. Its president was Ada Frances Parker Stillings, a quake refugee whose husband sold Singer sewing machines [2]. The city had failed to act on Lippard Avenue, \"almost impassable ... during winter months,\" so the League \"organized a corps of men\" to do the work. The women supplied a homemade luncheon and a band for inspiration; the Examiner covered it on 4 May 1908, and by one count up to 300 men turned out [1]. Stillings' League followed such work parties with New England-style boiled dinners [2]. A 1979 neighbourhood history told a similar tale, though it set it before the earthquake, of parents holding a community dinner, then going out with picks and shovels to build the road to Glen Park School [3]. The League also won Glen Park a library station and gas lines [2]. Stillings later became a police matron in Tacoma, where she captured an escaped convict, and died in 1967 at 97 [2].",
+    "people": [
+      {
+        "name": "Ada Frances Parker Stillings",
+        "role": "president, Glen Park Outdoor Art League"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rising Water in and Around Glen Park is Nothing New: A Look Back",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2023,
+        "url": "https://www.glenparkhistory.org/single-post/rising-water-in-and-around-glen-park-is-nothing-new-a-look-back",
+        "supports": "post-quake migration, Lippard Avenue work party, quotes, luncheon, band, Examiner May 4 1908, up to 300 men"
+      },
+      {
+        "title": "Ada Frances Parker Stillings: One of Glen Park's First Civic Activists",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2020,
+        "url": "https://www.glenparkhistory.org/single-post/2016/12/28/ada-frances-parker-stillings-one-of-glen-parks-first-civic-activists",
+        "supports": "Outdoor Art League founding, Stillings biography, boiled dinners, library, fire department, gas lines, later life"
+      },
+      {
+        "title": "History of Glen Park: Our Own Toonerville Trolley (Elaine Patterson), Glen Park Perspective, March 1979",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 1979,
+        "url": "https://archive.org/details/glenparkperspectunse_7",
+        "supports": "parents built the road to Glen Park School with picks and shovels after a community dinner"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-mamie-davis",
+    "title": "Mrs. Davis's club for Glen Park's children",
+    "theme": "civil-rights",
+    "year": 1913,
+    "yearEnd": null,
+    "place": {
+      "label": "Surrey Street between Diamond and Castro streets",
+      "lat": 37.73601,
+      "lon": -122.43375,
+      "precision": "block"
+    },
+    "hook": "In 1913 a Black evangelist from Surrey Street told reformers she had started a club for Glen Park's boys and girls. Then she vanished from the record.",
+    "story": "Mamie F. Davis was born in California in June 1875. In 1900 she was a 24-year-old waitress living with her widowed mother, Annie, a Louisiana-born seamstress who ran a boarding house on Minna Street [1]. By 1913 the city directory listed Mrs. Davis on Surrey Street between Diamond and Castro [1], a street where, after the earthquake, Umbsden Realty sold small cottages to working-class buyers; a row of six identical ones survives [2]. In February 1912 the new Colored Women's Nonpartisan League, formed to study politics, was the only club to enrol en masse at a St. Francis Hotel registration. That October Davis spoke to the League on social education, and to the California League for the Protection of Motherhood in favour of pensions for working mothers. In December she represented the Nonpartisan League at the convention of the California Federation of Women's Clubs [1]. In March 1913, described in the press as a \"negro evangelist,\" she told the Juvenile Protective Association that she had set up a neighbourhood club for boys and girls in Glen Park, and asked for help to open a reading room. After that she disappears from public records [1]. Glen Park's history project calls her the first African American woman in San Francisco linked to a women's club that it has yet identified [1].",
+    "people": [
+      {
+        "name": "Mamie F. Davis",
+        "role": "evangelist and club woman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Our Local Connections with African American History",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2023,
+        "url": "https://www.glenparkhistory.org/single-post/our-local-connections-with-african-american-history",
+        "supports": "Davis's census details, 1913 Surrey Street address, Colored Women's Nonpartisan League, 1912 speeches and convention, 1913 Juvenile Protective Association appeal"
+      },
+      {
+        "title": "Glen Park: The Architecture and Social History",
+        "publisher": "San Francisco Apartment Association magazine (Christopher P. Verplanck), via Internet Archive",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20070928094254/http://www.sfaa.org/0112verplanck.html",
+        "supports": "Umbsden Realty's post-quake worker cottages on Surrey Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-gray-quarry-shooting",
+    "title": "Seventeen dollars and fifty cents",
+    "theme": "labor-industry",
+    "year": 1914,
+    "yearEnd": null,
+    "place": {
+      "label": "Gray Brothers quarry, Castro Street near 30th Street (Billy Goat Hill)",
+      "lat": 37.74207,
+      "lon": -122.43352,
+      "precision": "area"
+    },
+    "hook": "A hungry quarryman asked his millionaire boss for $17.50 in back wages at the Castro Street pit. George Gray laughed at him. It was the last thing he did.",
+    "story": "George and Harry Gray blasted rock out of San Francisco's hills for ships' ballast, paving and bay fill, and ignored the neighbours whose houses they damaged. After a judge banned their blasting on Telegraph Hill in 1895 they kept moving, and by the 1910s were quarrying at 29th and Castro streets, on today's Billy Goat Hill [1][2]. On 10 November 1914 Joseph Lococo, a 36-year-old Sicilian immigrant, came to that quarry to ask George Gray for $17.50 in back wages. According to one account he was ill, had not eaten for two days, had a wife and two babies who were starving, and was about to be evicted from his house on Arkansas Street. Gray, a millionaire by then, laughed in his face and told him to get out. Lococo pulled a gun and shot him dead [1]. He was acquitted by reason of insanity and, one account says, walked out of court cheered by 100 supporters [1]. The Grays' firm went bankrupt; Harry lived until 1937 [1]. It was not the first such killing: in 1909 the Grays' cashier, Carolyn Bush, had been shot dead by an unpaid worker who lost his temper [1]. The quarry left a scarred hillside above 30th and Castro [1].",
+    "people": [
+      {
+        "name": "George Gray",
+        "role": "quarry owner"
+      },
+      {
+        "name": "Joseph Lococo",
+        "role": "quarry worker"
+      },
+      {
+        "name": "Harry Gray",
+        "role": "quarry owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gray Brothers Noe Valley Quarry",
+        "publisher": "FoundSF (Anika Okje Erdmann)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Gray_Brothers_Noe_Valley_Quarry",
+        "supports": "Gray brothers' quarrying, 1895 injunction, 1909 killing of Carolyn Bush, 1914 shooting details, acquittal, bankruptcy"
+      },
+      {
+        "title": "A Product of \"Arrested Development\": History of Diamond Heights",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": null,
+        "url": "https://www.glenparkhistory.org/diamond-heights-c1l4v",
+        "supports": "Gray quarries at 26th/Douglass and 29th/Castro on Billy Goat Hill; 1914 shooting over back wages; insanity verdict"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-bagatelos-family",
+    "title": "Three generations, one flat, a ladder garden",
+    "theme": "communities",
+    "year": 1942,
+    "yearEnd": 2006,
+    "place": {
+      "label": "732 Chenery Street",
+      "lat": 37.73489,
+      "lon": -122.43481,
+      "precision": "building"
+    },
+    "hook": "In 1942 a Greek produce peddler borrowed $100 from 'Joe the produce man' to buy a flat on Chenery. His sons went to war and paid it off.",
+    "story": "Peter and Vaneta Bagatelos came from Longa, Greece; Vaneta reached Ellis Island in 1914, aged 16, with $12 [1]. In 1941 they were renting a two-bedroom flat on Shotwell Street with five sons, and Vaneta wanted more room. The house at 732 Chenery cost $6,000. At the last minute the realtor wanted another $100 on top of the $500 down, so Peter, who peddled produce from a horse and wagon, borrowed it from Joe, a produce man at the Embarcadero market. The three eldest sons went to war, sent their pay home, and the house was paid off in four years [1]. By 1949 three generations, including a new baby, shared the four-bedroom, one-bathroom flat. The family grew potatoes on a strip of dirt reached by a ladder, kept rabbits and chickens, and fertilised with horse droppings gathered from the street. Vaneta, who lived to 99, ate wild greens every week and took her grandson up into Glen Canyon to pick bags of them [1]. Downstairs the family ran the Park Fountain soda fountain, later a grocery. In the 1970s a tenant ran a \"Chenery Street Theater\" in the flat, projecting double features for $4 through a hole in the bedroom wall [1]. The bakery downstairs, Sweet Sue's, moved out in 2006, when a granddaughter still lived upstairs [1][2].",
+    "people": [
+      {
+        "name": "Vaneta Bagatelos",
+        "role": "Greek immigrant, matriarch"
+      },
+      {
+        "name": "Peter Bagatelos",
+        "role": "produce peddler"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Glen Park History: Through the Eyes of One Family (Elizabeth Weise), Glen Park News, Fall 2006",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/glenparknewsfallunse_8",
+        "supports": "all Bagatelos family details, Park Fountain, Chenery Street Theater, Sweet Sue's"
+      },
+      {
+        "title": "Glen Park News, Summer 2006 (village business notes)",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/glenparknewssummunse_8",
+        "supports": "Sweet Sue's bakery moving to larger quarters"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-dalere-salon",
+    "title": "She did the nuns' hair",
+    "theme": "communities",
+    "year": 1968,
+    "yearEnd": 2012,
+    "place": {
+      "label": "Dalere's Beauty Salon, 660 Chenery Street",
+      "lat": 37.73471,
+      "lon": -122.43331,
+      "precision": "building"
+    },
+    "hook": "Glory Dalere came from the Philippines at 19. The Chenery Street salon she opened in 1968 outlasted nearly every shop around it.",
+    "story": "Glory Dalere came to the United States from the Philippines in 1956, at 19. She trained at a beauty school near Union Square, married, and worked in a friend's Mission District salon. In 1960 the family moved to Glen Park: \"We had a yard, and a school right there for the kids\" [1]. In 1968, at a friend's urging, she opened her own salon in the space later taken by La Corneta taqueria. In 1974, worried by rumours that the landlords would tear the building down for a mall, she bought the store at 660 Chenery and put in two stations and a row of hair dryers, which were still there in 2008 [1]. She sent her three children to St. John's school down the street, did all the nuns' hair, and worked long hours to pay the tuition: six days a week, 9 a.m. to midnight, because \"back then everyone had their hair done\" [1]. The Glen Park News congratulated her on 25 years in business in 1993 [2]. Her daughter Marian grew up in the salon and joined her in 1985 [1]. In 2012, when the Cheese Boutique's owners were being forced out of their shop next door, the Daleres offered to rent them part of their own building [3].",
+    "people": [
+      {
+        "name": "Glory Dalere",
+        "role": "salon owner"
+      },
+      {
+        "name": "Marian Dalere",
+        "role": "hairdresser, her daughter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cutting Hair in Glen Park: A Mother-Daughter Affair (Emma Bland Smith), Glen Park News, Fall 2008",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2008,
+        "url": "https://archive.org/details/glenparknewsfallunse_9",
+        "supports": "Dalere biography, 1968 opening, 1974 purchase, St. John's and the nuns, hours, Marian"
+      },
+      {
+        "title": "Glen Park News, December 1993",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 1993,
+        "url": "https://archive.org/details/glenparknewsdeceunse_0",
+        "supports": "25 years in business"
+      },
+      {
+        "title": "Glen Park News, Spring 2012",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2012,
+        "url": "https://archive.org/details/glenparknewsspri131unse",
+        "supports": "Daleres offer space to the displaced Cheese Boutique"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-thelma-williams",
+    "title": "The white-haired coach of future big leaguers",
+    "theme": "modern-city",
+    "year": 1991,
+    "yearEnd": null,
+    "place": {
+      "label": "Glen Canyon Park baseball field, near Elk Street and O'Shaughnessy Boulevard",
+      "lat": 37.7358,
+      "lon": -122.4413,
+      "precision": "area"
+    },
+    "hook": "Thelma Williams took over a kids' team after her husband was tossed for arguing with the umpire. She coached in Glen Canyon for 40 years.",
+    "story": "Baseball has been played in Glen Canyon since about 1907, when the Crocker Estate Company fenced the grounds and rented them out. The city bought the land in 1922, and thousands of youth, high school and semi-pro games followed [1]. For decades one of the canyon's fixtures was Thelma Williams. According to a 2000 tribute, her husband had been acting coach of the 7-to-9-year-olds until he was \"tossed\" for arguing with the umpire. Thelma took over, did so well that she kept the job, and spent 40 years teaching small children the rudiments, such as the fact that the second baseman does not stand on second base [2]. One neighbourhood child said she was like \"Grandma, with her white hair and stooped-over body\" [2]. She was named Coach of the Year by the Amateur Baseball Association, and some of her players reached the majors: Ken Reitz joined the St. Louis Cardinals and Juan Eichelberger the San Diego Padres, and a 1992 history adds Al Gallagher to the list [1][2]. In March 1991 the Glen Park News announced that she would be honoured on 6 April for her years of coaching, and the Glen Park baseball field dedicated to her [3]. She was 89 when she died [2].",
+    "people": [
+      {
+        "name": "Thelma Williams",
+        "role": "volunteer youth baseball coach"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Glen Park Baseball (Rich Allen), Glen Park News, June 1992",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 1992,
+        "url": "https://archive.org/details/glenparknews92unse",
+        "supports": "history of baseball in the canyon since c.1907, 1922 purchase, major leaguers coached by Thelma Williams"
+      },
+      {
+        "title": "Thanks, Thelma Williams (Zoanne Nordstrom), Glen Park News, Summer 2000",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2000,
+        "url": "https://archive.org/details/glenparknewssummunse_3",
+        "supports": "40 years coaching, how she became coach, honours, protégés, age 89"
+      },
+      {
+        "title": "Glen Park News, March 1991",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 1991,
+        "url": "https://archive.org/details/glenparknews1991unse",
+        "supports": "April 6, 1991 honour and field dedication"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-glenridge-coop",
+    "title": "A preschool in the woods, burned and reborn",
+    "theme": "modern-city",
+    "year": 1971,
+    "yearEnd": 2006,
+    "place": {
+      "label": "Silvertree building, Glen Canyon Park (Glenridge Cooperative Nursery School), approximate",
+      "lat": 37.7415,
+      "lon": -122.4418,
+      "precision": "area"
+    },
+    "hook": "Since 1971 small children have walked through a towering forest to a co-op nursery school hidden in Glen Canyon. In 1977 vandals set it on fire.",
+    "story": "Glenridge Cooperative Nursery School opened in 1971 in the Silvertree building, a squat two-storey Recreation and Park Department building at the end of a gravel path across Islais Creek that Silvertree Day Camp used in summer [1]. As in any co-op, parents worked alongside the teachers. On 26 December 1977 vandals broke in and burned the ground floor. Within 30 minutes almost $8,000 of books, records, toys and equipment had been destroyed, and damage to the building was put at $25,000. By April 1978 the building had been vandalised three times in as many months [2]. The school's main income was its spring fair in the canyon, and in April 1978 the neighbourhood newsletter billed the eighth annual fair, with live music, games and food, as crucial to its survival [2]. It survived. In 2006 director Mame Campbell Salin described what three- and four-year-olds learned there: walking to school through a towering forest, building dams to steer rainwater back to the creek, looking for aphids to find ladybugs, and never picking up a banana slug because the salt on their hands would hurt it. \"We are teaching these children to be gentle with our planet,\" she said. Families were urged to walk in rather than drive [1].",
+    "people": [
+      {
+        "name": "Mame Campbell Salin",
+        "role": "director, Glenridge Cooperative Nursery School"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Glenridge Fosters Nature Appreciation for Tiny Tots (Kate Stoia), Glen Park News, Winter 2006",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/glenparknewswintunse_5",
+        "supports": "1971 opening, Silvertree building, co-op model, Salin quotes, walking in"
+      },
+      {
+        "title": "Glenridge Fair, Glen Park Association Newsletter, April 1978",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 1978,
+        "url": "https://archive.org/details/glenparkassociatunse_0",
+        "supports": "Dec. 26 fire, losses, repeat vandalism, 8th annual fair"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-st-john-jfk-school",
+    "title": "A parish school named for Kennedy",
+    "theme": "communities",
+    "year": 1967,
+    "yearEnd": 2003,
+    "place": {
+      "label": "St. John the Evangelist School, 925 Chenery Street at Burnside",
+      "lat": 37.73489,
+      "lon": -122.43753,
+      "precision": "building"
+    },
+    "hook": "When St. John's parish rebuilt its school on Chenery Street in the 1960s, it named it for John F. Kennedy. The name lasted until 1980.",
+    "story": "The Catholic parish of St. John the Evangelist was created in 1893 for Glen Park, Holly Park and Sunnyside. Its church on St. Mary's Avenue went up in 1903 and, undamaged in 1906, became a first refuge for thousands fleeing the fire along Mission Road [1]. An imposing four-storey St. John's School was built beside the church; its top floor briefly housed the Ursuline High School. Problems with the building eventually led to its demolition, and the parish looked for a new site near Glen Canyon Park [1]. In the mid-1960s it cleared houses on Chenery Street at Burnside and built a new school, dedicated in 1967 as the John F. Kennedy Elementary School of St. John. In 1980 the name went back to St. John the Evangelist [1]. A Burnside Street neighbour later wrote that the parish had not owned all that land at first, and sent \"rather pushy\" real estate agents door to door: some owners sold eagerly, some flat-out refused, and three original homes still ring the school [2]. By 2001 the school faced falling enrolment, low morale and rising tuition. Two years later it won the national 2003 Catholic School of Tomorrow Award for Innovation with Technology, for wireless laptops run with the help of junior-high student tech aides [3].",
+    "people": [
+      {
+        "name": "Glory Dalere",
+        "role": "parent"
+      },
+      {
+        "name": "Ken Willers",
+        "role": "principal from 2001"
+      }
+    ],
+    "sources": [
+      {
+        "title": "St. John the Evangelist: One in a Series of Remarkable Things About Glen Park (Dolan Eargle), Glen Park News, Summer 2006",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/glenparknewssummunse_8",
+        "supports": "parish history, 1906 refuge, old school, 1967 JFK school on Chenery, 1980 renaming"
+      },
+      {
+        "title": "Letters to the Editor (Joan Seiwald on the St. John's school site)",
+        "publisher": "Glen Park News (Fall 2006)",
+        "year": 2006,
+        "url": "https://archive.org/details/glenparknewsfallunse_8",
+        "supports": "parish sent real estate agents to buy the homes on the school site; some refused; three original homes remain"
+      },
+      {
+        "title": "At St. John's, High Tech is Kids' Realm (Ken Willers), Glen Park News, Summer 2003",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2003,
+        "url": "https://archive.org/details/glenparkassociatunse_1",
+        "supports": "2001 decline, 2003 Catholic School of Tomorrow award, student tech aides"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-poppy-lane-ohlone-way",
+    "title": "The neighbours who kept the lanes dirt",
+    "theme": "modern-city",
+    "year": 1972,
+    "yearEnd": 2005,
+    "place": {
+      "label": "Poppy Lane at Diamond Street, between Sussex and Moffitt",
+      "lat": 37.73789,
+      "lon": -122.43488,
+      "precision": "street"
+    },
+    "hook": "Poppy Lane and Ohlone Way are among the last dirt streets in San Francisco. Glen Park neighbours spent decades clearing, naming and defending them.",
+    "story": "Glen Park keeps three \"bucolic byways\", unpaved public lanes that neighbours must maintain: Ohlone Way, Poppy Lane and Penny Lane [1]. The lane between Surrey and Sussex was just \"Alley\" on maps until 1983, when Dolan Eargle bought a cottage on Van Buren Street. In 1986 he cleared it himself, hauling away three truckloads of brambles. In 1992 he and neighbour Nadyne Gray proposed naming it for the Ohlone; 20 of the 23 adjacent owners signed, and the supervisors approved unanimously [1]. Poppy Lane, which runs east from Conrad Street across Diamond, had a harder time. In the 1960s a developer combined lots running down to the lane, and from 1972 architect John Rohosky and his wife Roberta Guise fought to keep the resulting \"pocket\" unbuilt [1]. In 1995 an out-of-town developer proposed a 3,500-square-foot house and a plan to pave the first 130 feet of the lane. The supervisors approved it 9 to 2, but neighbours kept objecting. In August 2005 the Planning Commission agreed with them. By 2007 the house had been cut to two storeys and the city had promised no further building along the lane [1]. In 2008 Eargle, by then a Glen Park News columnist, reported that the lane had been laid with light, mortarless brick that heavy vehicles cannot use [2].",
+    "people": [
+      {
+        "name": "Dolan Eargle",
+        "role": "resident who cleared and named Ohlone Way"
+      },
+      {
+        "name": "John Rohosky",
+        "role": "architect and neighbour"
+      },
+      {
+        "name": "Roberta Guise",
+        "role": "neighbour"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Bucolic Byways of Glen Park: Ohlone Way, Poppy Lane, and Penny Lane",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2016,
+        "url": "https://www.glenparkhistory.org/single-post/2016/07/17/the-bucolic-byways-of-glen-park-ohlone-way-poppy-lane-and-penny-lane",
+        "supports": "lane maintenance rules, Ohlone Way clearing and naming, Poppy Lane development fight 1960s-2005, vote"
+      },
+      {
+        "title": "Local Lanes Looking Lively",
+        "publisher": "Glen Park News (Fall 2008), by Dolan Eargle",
+        "year": 2008,
+        "url": "https://archive.org/details/glenparknewsfallunse_9",
+        "supports": "Poppy Lane house reduced to two storeys; lane surfaced with mortarless brick unusable by heavy vehicles"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-jack-symons-bridge",
+    "title": "The patrolman from Bosworth Street",
+    "theme": "labor-industry",
+    "year": 1953,
+    "yearEnd": 1958,
+    "place": {
+      "label": "Bosworth Street near Elk and Congo streets (Symons family home c.1950-1958)",
+      "lat": 37.73572,
+      "lon": -122.44157,
+      "precision": "block"
+    },
+    "hook": "In late 1953 a Glen Park highway patrolman was given the Golden Gate Bridge beat. Within weeks he had watched two people jump.",
+    "story": "Jack Alvan Symons was born in Holly Park in 1916 and chose \"Let the world come to me\" as his Balboa High School yearbook motto in 1933 [1]. He worked as a patternmaker at Bethlehem Steel, served in the Navy in the Second World War, joined the San Francisco police in 1948 and the California Highway Patrol in 1953. By 1950 he, his wife Marilyn, a nurse, and three children lived in a small house near Bosworth, Elk and Congo streets [1]. Late in 1953 he began patrolling the Golden Gate Bridge. On 30 November he saw 24-year-old Marie McCormick climb over the rail. He swung his car around and ran toward her shouting \"Wait a minute!\" but she jumped. On 11 December a 61-year-old San Mateo realtor stood outside the railing as Symons called out again; the man \"just looked at me and stepped off\" [1]. Bridge directors floated higher railings, then a barbed-wire barrier; in February 1954 a Marin newspaper photographed Symons inspecting the test section. After March the idea was dropped [1]. In April 1955 he and bystanders stopped a Navy veteran from jumping. By 1956 he was on the Bay Bridge, and in 1958 the family moved to Santa Rosa [1]. A stainless-steel suicide net along his old beat was finished in January 2024 [2].",
+    "people": [
+      {
+        "name": "Jack Alvan Symons",
+        "role": "California Highway Patrol officer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The World Came to Him: On the Bridge Beat with CHP Officer Jack Symons",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2024,
+        "url": "https://www.glenparkhistory.org/single-post/the-world-came-to-him-on-the-bridge-beat-with-chp-officer-jack-symons",
+        "supports": "Symons biography, Glen Park homes, 1953 incidents, 1954 deterrent proposal, 1955 rescue, later career"
+      },
+      {
+        "title": "Suicides at the Golden Gate Bridge",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Suicides_at_the_Golden_Gate_Bridge",
+        "supports": "barrier completed January 2024"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-cheyenne-loftin",
+    "title": "Cheyenne's half hour at Tyger's",
+    "theme": "modern-city",
+    "year": 2008,
+    "yearEnd": null,
+    "place": {
+      "label": "Chenery Street at Lippard Avenue (Loftin home from 1957)",
+      "lat": 37.7355,
+      "lon": -122.43493,
+      "precision": "block"
+    },
+    "hook": "For 27 years a Wyoming-born cowboy in boots and a Levi's jacket sat at the round table by Tyger's door every morning, for exactly half an hour.",
+    "story": "Henry \"Cheyenne\" Loftin was born in Buffalo, Wyoming, on 18 November 1910 [1]. He lived on Chenery Street from 1957, in a house at the corner of Lippard, for more than half a century [1][2]. Every morning he walked down to Tyger's, arriving at 6:40 for oatmeal \"laden with vast amounts of sugar.\" For 27 years he sat at the round table near the door, sipping coffee for exactly half an hour [1]. He had spent many years working with cattle, and neighbourhood lore said he had driven cattle for Gene Autry [1][3]. He told a fellow regular he was half Irish and half American Indian and had lived in a teepee for his first 13 years. Another Wyoming native remembered him saying, \"Ernie, you would be surprised at how many men in San Francisco couldn't handle a team of horses\" [1]. Each year he gave waitress Sandy Kim $20 for her birthday. In 2006 he modelled the Friends of Glen Canyon Park T-shirt outside Glen Park Hardware, and in 2007 the store put out a card for his 97th birthday [2][3]. He died on 14 May 2008, a few months short of 98, having outlived Winnie, his wife of 70 years, by nearly a decade [1].",
+    "people": [
+      {
+        "name": "Henry \"Cheyenne\" Loftin",
+        "role": "retired cowboy, neighbourhood fixture"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Neighborhood Says Farewell to 97-Year-Old Local Cowboy (Murray Schneider), Glen Park News, Summer 2008",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2008,
+        "url": "https://archive.org/details/glenparknewssummunse_9",
+        "supports": "Loftin's birth, home, Tyger's routine, stories, death"
+      },
+      {
+        "title": "Glen Park News, Winter 2006-2007",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/glenparknewswintunse_6",
+        "supports": "Chenery Street resident since 1957; T-shirt photo at Glen Park Hardware"
+      },
+      {
+        "title": "Neighborhood News and Notes, Glen Park News, Winter 2007/2008",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2007,
+        "url": "https://archive.org/details/glenparknews254unse",
+        "supports": "97th birthday; house at Lippard and Chenery; years with cattle"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "glen-park-2p-st-aidans-pantry",
+    "title": "A food pantry on Gold Mine Hill",
+    "theme": "communities",
+    "year": 2007,
+    "yearEnd": 2010,
+    "place": {
+      "label": "St. Aidan's Episcopal Church, 101 Gold Mine Drive, Diamond Heights",
+      "lat": 37.74319,
+      "lon": -122.4378,
+      "precision": "building"
+    },
+    "hook": "At St. Aidan's on Gold Mine Drive, a rector in a Yale sweatshirt hands out groceries to neighbours, some from a farmworkers' union apartment block across the street.",
+    "story": "St. Aidan's Episcopal Church has been on Gold Mine Drive in Diamond Heights since 1964, and since 1998 its congregation, 240 members in 2008, has been a partner of the United Farm Workers [1], the union Dolores Huerta co-founded with César Chávez [2]. Across the street stands Vista Del Monte, a 104-unit apartment complex owned by the UFW [1]. In May 2007 the church began a Friday food pantry for low-income and disabled people in the 94131 ZIP code; it was first housed at Vista Del Monte [1][3]. By autumn 2008 more than 20 volunteers ran it under the Rev. Tommy Dillon, a Yale Divinity School graduate who had seen Hurricane Katrina's chaos in Baton Rouge. He worked the pantry in a Yale sweatshirt and cut-off cargo shorts. Al Wong, a retired electrician who remembered hunger from growing up in Chinatown, ran the baked-goods table with pastries from Arizmendi Bakery. \"St. Aidan's gets me over the hump each month,\" said Jeanette Simpkins of Diamond Heights Boulevard. The pantry officially served one ZIP code, but no one was turned away [1]. By 2010 the church also housed the Si Se Puede/Aidan's Way Learning Center [3].",
+    "people": [
+      {
+        "name": "Tommy Dillon",
+        "role": "rector, St. Aidan's"
+      },
+      {
+        "name": "Al Wong",
+        "role": "volunteer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "St. Aidan's food pantry feature, Glen Park News, Fall 2008",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2008,
+        "url": "https://archive.org/details/glenparknewsfallunse_9",
+        "supports": "church since 1964, UFW partnership since 1998, Vista Del Monte, pantry, volunteers, quotes"
+      },
+      {
+        "title": "History of the Old Fairmount School",
+        "publisher": "Glen Park Neighborhoods History Project",
+        "year": 2020,
+        "url": "https://www.glenparkhistory.org/single-post/2015-4-8-origins-of-the-fairmount-school",
+        "supports": "Dolores Huerta co-founded the United Farm Workers with César Chávez"
+      },
+      {
+        "title": "Glen Park News, Summer 2010",
+        "publisher": "Glen Park Association, via Internet Archive",
+        "year": 2010,
+        "url": "https://archive.org/details/glenparknewssumm282unse",
+        "supports": "Friday food pantry for 94131; Si Se Puede/Aidan's Way Learning Center at St. Aidan's"
+      }
+    ],
+    "photo": null
+  }
+]

@@ -1,0 +1,661 @@
+[
+  {
+    "id": "presidio-heights-2p-zodiac-cab",
+    "title": "The cab ride that ended on Cherry Street",
+    "theme": "modern-city",
+    "year": 1969,
+    "yearEnd": null,
+    "place": {
+      "label": "Washington Street at Cherry Street",
+      "lat": 37.7887,
+      "lon": -122.45727,
+      "precision": "street"
+    },
+    "hook": "Teenagers at a party saw a man rummaging in a taxi on a quiet Presidio Heights corner. They had just seen the Zodiac's last confirmed murder.",
+    "story": "On the night of October 11, 1969, San Francisco cab driver Paul Stine, 29, was shot dead by a passenger at Cherry and Washington streets [1]. \"Kids were having a party at one of the corner houses,\" crime-tour guide Russell Kyle later told the Richmond ReView. \"They saw the execution and called the cops\" [3]. SFGATE says three teenagers at home there saw the man rummaging in the cab, and calls it the killer's closest call [2].\n\nThen the hunt went wrong. A dispatcher broadcast a lookout for a Black suspect, and two police officers stopped a white man on a nearby street, who may have been the killer, and let him go [1].\n\nTwo days later the Chronicle received a letter with a bloodstained swatch of Stine's shirt. \"I am the murderer of the taxi driver over by Washington St & Maple St last night,\" it began, a block off from where the cab actually stopped. It mocked the police search and threatened to \"wipe out a school bus some morning\" [4]. Bay Area police departments assigned officers to escort school buses [1].\n\nStine's is the last murder that can be definitely pinned on the Zodiac [2]. The killer was never identified.",
+    "people": [
+      {
+        "name": "Paul Stine",
+        "role": "cab driver, murder victim"
+      },
+      {
+        "name": "Russell Kyle",
+        "role": "true-crime tour guide quoted in 2004"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Amateurs Stir Embers Of Notorious Zodiac Case",
+        "publisher": "San Francisco Chronicle / SFGATE (Tom Zoellner)",
+        "year": 2000,
+        "url": "https://www.sfgate.com/bayarea/article/Amateurs-Stir-Embers-Of-Notorious-Zodiac-Case-3303028.php",
+        "supports": "Date, place and victim's age; dispatcher's wrong description; officers stopping a white man; bloody shirt and school-bus threat; bus escorts"
+      },
+      {
+        "title": "Why has the Zodiac Killer never been caught?",
+        "publisher": "SFGATE (Katie Dowd)",
+        "year": 2021,
+        "url": "https://www.sfgate.com/sfhistory/article/why-has-Zodiac-Killer-never-been-caught-15847923.php",
+        "supports": "Stine's the last murder definitely attributed to Zodiac; seen by three people; his closest call"
+      },
+      {
+        "title": "Crime tour guide (Richmond ReView, August 2004)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 2004,
+        "url": "https://archive.org/details/richmondreview1611rich",
+        "supports": "Russell Kyle's account of teenagers at a party in a corner house who saw the killing and called police"
+      },
+      {
+        "title": "Zodiac Killer letter, October 13th 1969",
+        "publisher": "Wikisource",
+        "year": 1969,
+        "url": "https://en.wikisource.org/wiki/Zodiac_Killer_letter,_October_13th_1969",
+        "supports": "Text of the letter: 'Washington St & Maple St', bloodstained shirt, school bus threat"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-open-air-school",
+    "title": "A school that began in a back yard",
+    "theme": "communities",
+    "year": 1918,
+    "yearEnd": null,
+    "place": {
+      "label": "Presidio Hill School, 3839 Washington Street (behind the Salz home at 3838 Clay)",
+      "lat": 37.788584,
+      "lon": -122.45606,
+      "precision": "building"
+    },
+    "hook": "Two Presidio Heights mothers didn't like the schools on offer. So one couple built a kindergarten in their back yard, and the husband bought the lot behind it.",
+    "story": "By 1917 Helen and Ansley Salz's children, at 3838 Clay Street, were nearing kindergarten age. The couple built a one-room schoolhouse in their back yard, hired a teacher with Larry and Flora Arnstein, who had two children of their own, and soon other parents' children came too [1]. When the children were ready for real school, Ansley bought the big lot behind the yard and built one [1].\n\nThe Presidio Open Air School opened in 1918, built on John Dewey's idea of learning by doing. The school's history counts 15 original pupils [2]. Its director Marion Turner, trained at Columbia, had the children govern their own playground affairs using Robert's Rules of Order [1].\n\nFlora \"Forgie\" Arnstein taught there for many years, first music and dance and then poetry. Her classes produced the book Adventure into Poetry, later reprinted as Children Write Poetry. In it, a three-year-old says the sun \"makes my eyes all out of breath\" [1]. The school says she taught a young piano prodigy, Pierre Salinger, later John F. Kennedy's press secretary, to read, writing the words he asked for on cards [3].\n\nRenamed Presidio Hill School, it is still there. The school says the Salz family donated the property; Helen recalled that Ansley sold it and gave the building to a new group of parents [1][3].",
+    "people": [
+      {
+        "name": "Helen Salz",
+        "role": "co-founder, artist"
+      },
+      {
+        "name": "Flora Jacobi Arnstein",
+        "role": "co-founder, poetry teacher"
+      },
+      {
+        "name": "Ansley Salz",
+        "role": "bought the land and built the school"
+      },
+      {
+        "name": "Marion Turner",
+        "role": "director"
+      },
+      {
+        "name": "Pierre Salinger",
+        "role": "pupil, later White House press secretary"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sketches of an Improbable Ninety Years: Helen Salz (oral history, 1973-1975)",
+        "publisher": "Regional Oral History Office, Bancroft Library, UC Berkeley, via Internet Archive",
+        "year": 1975,
+        "url": "https://archive.org/details/sketchesimprob00salzrich",
+        "supports": "Backyard kindergarten, lot behind the Clay Street yard, Marion Turner and self-government, Arnstein's teaching and books, 'eyes all out of breath' quote, 3838 Clay Street"
+      },
+      {
+        "title": "History",
+        "publisher": "Presidio Hill School",
+        "year": 2024,
+        "url": "https://www.presidiohill.org/about-us/history",
+        "supports": "Founded 1918 by Helen Salz and Flora Arnstein as Presidio Open Air School; about 15 original students; Dewey's ideas; later renamed"
+      },
+      {
+        "title": "Celebrating 100 Years",
+        "publisher": "Presidio Hill School",
+        "year": 2018,
+        "url": "https://www.presidiohill.org/about-us/celebrating-100-years",
+        "supports": "Arnstein teaching Pierre Salinger to read with word cards; the school opening on property donated by the Salz family"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-red-diaper-school",
+    "title": "Paul Robeson sings, and the school sues",
+    "theme": "civil-rights",
+    "year": 1946,
+    "yearEnd": null,
+    "place": {
+      "label": "Presidio Hill School, 3839 Washington Street",
+      "lat": 37.78862,
+      "lon": -122.45612,
+      "precision": "building"
+    },
+    "hook": "When a Presidio Heights school took Paul Robeson out to dinner and the restaurant refused to serve him, the school's board took the restaurant to court.",
+    "story": "In the late 1930s and 1940s the little progressive school on Washington Street became a place for causes. Its director Josephine Duveneck worked with the American Friends Service Committee, and the school helped refugees from Hitler's Germany settle and find work, some of them on its own staff [1][2].\n\nWhen Japanese American families were sent to wartime camps, school families helped them pack their belongings and gave them food for the bus journey. The school's history calls it a centre of protest against the internment [1][2].\n\nIn 1946 sisters Rosalind and Stephanie Williams enrolled. As far as the school can tell, they were the first African American students at any independent school in San Francisco. Stephanie later sat on its board [1].\n\nPaul Robeson sang for the school. When board members took him to Vanessi's restaurant, he was refused service. By the school's account a scandal followed, and the board sued the restaurant for discrimination [2]. As the anti-Communist hearings began, people called it the \"Red Diaper Baby School.\" Later, blacklisted folk singer Pete Seeger came to sing for the school community with Malvina Reynolds [1][2].",
+    "people": [
+      {
+        "name": "Josephine Whitney Duveneck",
+        "role": "school director from 1936"
+      },
+      {
+        "name": "Rosalind and Stephanie Williams",
+        "role": "first African American students"
+      },
+      {
+        "name": "Paul Robeson",
+        "role": "singer and activist"
+      },
+      {
+        "name": "Pete Seeger",
+        "role": "folk singer"
+      },
+      {
+        "name": "Malvina Reynolds",
+        "role": "folk singer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History",
+        "publisher": "Presidio Hill School",
+        "year": 2024,
+        "url": "https://www.presidiohill.org/about-us/history",
+        "supports": "Duveneck and the AFSC refugee work; protest against internment; the Williams sisters in 1946; Robeson, Seeger and Malvina Reynolds"
+      },
+      {
+        "title": "Celebrating 100 Years",
+        "publisher": "Presidio Hill School",
+        "year": 2018,
+        "url": "https://www.presidiohill.org/about-us/celebrating-100-years",
+        "supports": "Robeson refused service at Vanessi's and the board's lawsuit; help for Japanese families being sent to camps; 'Red Diaper Baby School'; Duveneck named head in 1936"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-salz-salon",
+    "title": "Wagner played with a whisk broom",
+    "theme": "arts-counterculture",
+    "year": 1929,
+    "yearEnd": 1954,
+    "place": {
+      "label": "Salz home, 3838 Clay Street",
+      "lat": 37.788197,
+      "lon": -122.456225,
+      "precision": "building"
+    },
+    "hook": "At one Clay Street house, a small Isaac Stern played for Hadassah and Ansel Adams played Wagner with a whisk broom, then with an orange.",
+    "story": "Helen and Ansley Salz lived at 3838 Clay Street from 1914 to 1954 [1]. He was a tannery businessman and a fine amateur violinist whose collection of violins went to Israel and the University of California. She was a painter who had studied with Robert Henri, and co-founded the school behind their garden [1][2].\n\nTheir house was full of music. Helen remembered Isaac Stern giving what she believed was his first concert there, about 1929, when he was around ten, for the Jewish women's group Hadassah. Afterwards she rescued him from his admirers and sent him to play in the yard with the children [1].\n\nAt the Salzes' New Year's parties, the photographer Ansel Adams sat at the piano and played Wagner with a whisk broom, and later with an orange. There were skits and a big supper. At midnight one year the watercolourist Dong Kingman's wife asked when the bridge game would start. The Salzes had no cards in the house [1].\n\nOne private evening, only for musicians, the cellist Luigi Silva played Ernest Bloch's Schelomo. Bloch was so pleased that he rushed up and kissed him on both cheeks. Many people, Helen said, were insulted not to be asked [1].\n\nIn 1934 Helen Salz and Alexander Meiklejohn founded the Northern California branch of the ACLU [1].",
+    "people": [
+      {
+        "name": "Helen Salz",
+        "role": "painter, hostess, ACLU co-founder"
+      },
+      {
+        "name": "Ansley Salz",
+        "role": "businessman, violinist, violin collector"
+      },
+      {
+        "name": "Isaac Stern",
+        "role": "violinist, then a child"
+      },
+      {
+        "name": "Ansel Adams",
+        "role": "photographer and pianist"
+      },
+      {
+        "name": "Ernest Bloch",
+        "role": "composer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sketches of an Improbable Ninety Years: Helen Salz (oral history, 1973-1975)",
+        "publisher": "Regional Oral History Office, Bancroft Library, UC Berkeley, via Internet Archive",
+        "year": 1975,
+        "url": "https://archive.org/details/sketchesimprob00salzrich",
+        "supports": "Years at 3838 Clay; Isaac Stern's concert for Hadassah about 1929; Ansel Adams with whisk broom and orange; Dong Kingman anecdote; Bloch and Silva; ACLU founding in 1934; the Salz tannery; Ansley's violins donated to Israel and to the University of California; Helen's study with Henri"
+      },
+      {
+        "title": "History",
+        "publisher": "Presidio Hill School",
+        "year": 2024,
+        "url": "https://www.presidiohill.org/about-us/history",
+        "supports": "Helen Salz as co-founder of the neighbouring school on Salz land"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-twenty-dollar-lot",
+    "title": "Twenty dollars down at a kiosk",
+    "theme": "quake1906",
+    "year": 1908,
+    "yearEnd": 1969,
+    "place": {
+      "label": "Stadtmuller House, 3235 Pacific Avenue",
+      "lat": 37.791349,
+      "lon": -122.448308,
+      "precision": "building"
+    },
+    "hook": "Out for a walk along the Presidio wall, a young couple met a man selling lots from a kiosk. They put down $20 and stayed more than sixty years.",
+    "story": "After the 1906 earthquake and fire, many San Franciscans whose homes in the eastern neighbourhoods were destroyed moved west, reassured by the bedrock under these hills. Half of all the building in Presidio Heights happened between 1900 and 1915 [1].\n\nOne day in 1908, the young Edwin and Elisabeth Stadtmuller were out walking along the crest by the Presidio wall, one of their favourite spots. They met a realtor selling lots from a kiosk, and Edwin put $20 down on the spot for the empty lot at 3235 Pacific Avenue [1].\n\nElisabeth asked their architect, William Knowles, for a high-ceilinged living room with a balcony. He gave her something like a small shingled church, with a steeple and lancet window outside and a cathedral ceiling and choir-loft balcony inside [1]. It joined the row of shingled houses on this block that NoeHill calls the city's finest collection of Shingle Style houses [2].\n\nThe Stadtmullers never left. Elisabeth died in 1958, a few days short of her 85th birthday, and Edwin stayed until his death at 92 in 1969. Their main changes were closing in a porch for a breakfast room and turning the coal scuttle into a garage [1].",
+    "people": [
+      {
+        "name": "Edwin Stadtmuller",
+        "role": "homeowner"
+      },
+      {
+        "name": "Elisabeth Stadtmuller",
+        "role": "homeowner"
+      },
+      {
+        "name": "William Knowles",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Victorian Alliance of San Francisco Annual House Tour: Presidio Heights",
+        "publisher": "Victorian Alliance of San Francisco, via Internet Archive",
+        "year": 2008,
+        "url": "https://archive.org/details/victorianallianc00unse_8",
+        "supports": "The kiosk and the $20 deposit in 1908; Elisabeth's request and Knowles's church-like design; the couple's dates of death; their alterations; the move west after 1906; half of building 1900-1915"
+      },
+      {
+        "title": "Presidio Wall",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2019,
+        "url": "http://noehill.com/sf/landmarks/poi_presidio_wall.asp",
+        "supports": "The 3200 and 3300 blocks of Pacific as the city's finest Shingle Style group"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-servants-census",
+    "title": "The servant with no name in the record",
+    "theme": "gold-rush-victorian",
+    "year": 1900,
+    "yearEnd": 1910,
+    "place": {
+      "label": "Laidlaw-Stanford House, 3232 Jackson Street",
+      "lat": 37.790931,
+      "lon": -122.448797,
+      "precision": "building"
+    },
+    "hook": "In 1900 a senator's nephew lived on Jackson Street with his wife, daughter and two servants. One has a name. The other is just 'a Japanese man (age 24).'",
+    "story": "Dr. Horace Laidlaw, a physician and druggist who worked on Sacramento Street, had this Classical Revival house built in 1897 for $3,500. He never lived in it [1]. He rented it to Jerome B. Stanford, nephew of Senator Leland Stanford, who had brought him to California as a small child in 1856. Jerome was at various times a mining engineer, merchant, stockbroker and editor [1].\n\nThe 1900 census found Stanford, 52, living here with his wife Clara, 31, their daughter Helen, 3, and two servants. The house's history, drawn from that census, names one, Selma Gaffe, 43. The other appears only as \"a Japanese man (age 24)\" [1].\n\nOther big households nearby relied on live-in staff too. In 1910 the Koshlands on Washington Street had seven live-in servants from Finland, Germany, Sweden and Japan, and only one was a U.S. citizen. The Platts on Locust Street had a Swedish maid, Ellen Loeser, 26 [1]. Helen Salz, on Clay Street, later remembered her big dinner parties \"in the days when servants were easier to get\" [2].\n\nOthers worked the streets. A rag, bottle and sack cart came round, the milkman delivered three or four times a week, and vegetable trucks, driven mostly by Chinese, sold fresh produce. Children played kick-the-can in the road [1].",
+    "people": [
+      {
+        "name": "Jerome B. Stanford",
+        "role": "tenant, nephew of Leland Stanford"
+      },
+      {
+        "name": "Selma Gaffe",
+        "role": "household servant"
+      },
+      {
+        "name": "Horace Laidlaw",
+        "role": "physician and druggist, owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Victorian Alliance of San Francisco Annual House Tour: Presidio Heights",
+        "publisher": "Victorian Alliance of San Francisco, via Internet Archive",
+        "year": 2008,
+        "url": "https://archive.org/details/victorianallianc00unse_8",
+        "supports": "Laidlaw and Stanford details; 1900 census household; Koshland and Platt 1910 servants; street vendors, milkman, Chinese vegetable trucks, kick-the-can"
+      },
+      {
+        "title": "Sketches of an Improbable Ninety Years: Helen Salz (oral history, 1973-1975)",
+        "publisher": "Regional Oral History Office, Bancroft Library, UC Berkeley, via Internet Archive",
+        "year": 1975,
+        "url": "https://archive.org/details/sketchesimprob00salzrich",
+        "supports": "'In the days when servants were easier to get'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-coffee-to-butchertown",
+    "title": "From Folger's coffee to Butchertown beef",
+    "theme": "labor-industry",
+    "year": 1922,
+    "yearEnd": null,
+    "place": {
+      "label": "Platt House, 200 Locust Street",
+      "lat": 37.789104,
+      "lon": -122.452064,
+      "precision": "building"
+    },
+    "hook": "It was built for a coffee executive's family, then bought by a meatpacker's. In between it gained a garage that was first used as a ballroom.",
+    "story": "Two of San Francisco's working industries paid for this house on Locust Street.\n\nIt was built in 1904 for Emma F. Platt, to a stucco design by William A. Knowles, for $9,400. Her husband Charles B. Platt, born in Connecticut in 1852, was second vice president of J. A. Folger and Company, the local coffee and tea firm [1]. Folger's roots went back to the Pioneer Steam Coffee and Spice Mills, founded in San Francisco in 1850 [2]. In 1910 the Platts lived here with their daughter Gladys, 18, and a Swedish servant [1].\n\nIn August 1922 the house sold for $20,000 to Marion R. Roth. Her husband Lester L. Roth ran the Roth Blum Packing Company at 1490 Fairfax Avenue in the Bayview, the meatpacking district once known as Butchertown [1]. Both were Californians, she the daughter of German parents and he of French ones [1].\n\nThat same year a bathroom and a garage were added for $15,000, and the garage was first used as a ballroom. A breakfast room followed in 1926, for $1,500 [1]. Money from coffee and from Bayview beef both ended up in this hilltop house.",
+    "people": [
+      {
+        "name": "Charles B. Platt",
+        "role": "vice president, J. A. Folger & Co."
+      },
+      {
+        "name": "Emma F. Platt",
+        "role": "original owner"
+      },
+      {
+        "name": "Marion R. and Lester L. Roth",
+        "role": "later owners; Roth Blum Packing Co."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Victorian Alliance of San Francisco Annual House Tour: Presidio Heights",
+        "publisher": "Victorian Alliance of San Francisco, via Internet Archive",
+        "year": 2008,
+        "url": "https://archive.org/details/victorianallianc00unse_8",
+        "supports": "Construction, cost and architect; Platt's job at Folger; 1910 census; 1922 sale to the Roths; Roth Blum Packing at 1490 Fairfax; the garage used as a ballroom; 1926 breakfast room"
+      },
+      {
+        "title": "Folgers",
+        "publisher": "Wikipedia (pointer to Ukers, All About Coffee, 1922)",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Folgers",
+        "supports": "J. A. Folger & Co. traces back to the Pioneer Steam Coffee and Spice Mills, San Francisco, 1850"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-miz-browns",
+    "title": "Burgers and matzo balls at Miz Brown's",
+    "theme": "modern-city",
+    "year": 1953,
+    "yearEnd": 2004,
+    "place": {
+      "label": "Miz Brown's, 3401 California Street, Laurel Village",
+      "lat": 37.786655,
+      "lon": -122.450206,
+      "precision": "building"
+    },
+    "hook": "For half a century a no-nonsense coffee shop in Laurel Village fed Bing Crosby burgers, Herb Caen lunches and Dianne Feinstein cheeseburgers.",
+    "story": "Laurel Village is the row of shops on California Street between Spruce and Laurel [3]. Robert Overin opened Miz Brown's there, at 3401 California Street, in 1953. Harry Meharry, whose daughters were Overin's nieces, ran it for many years, and by 2002 those daughters, Collen Meharry and Marlee Meharry Simms, owned it [1][4]. At one time there were nine Miz Brown's restaurants and three bars around the Bay Area, including one on Clement Street. By 2002 only the Laurel Village coffee shop was left [1].\n\nIt was a classic American coffee shop. Breakfast was served at any hour, the hamburger meat was ground fresh daily, and there was an early-bird dinner for $9.95. Matzo ball soup was on the menu seven days a week, and on Fridays regulars had to choose between it and clam chowder in a bread bowl. The soup often ran out by 1:30 [1].\n\nA 2002 reviewer who had eaten there since 1961 said Bing Crosby used to drop in for a burger and a milkshake, Herb Caen came in now and then, and Senator Dianne Feinstein had been seen eating a cheeseburger [1].\n\nIn 2004 the Meharry family closed Miz Brown's Feedbag, after half a century at the same spot [1][2].",
+    "people": [
+      {
+        "name": "Robert Overin",
+        "role": "founder, 1953"
+      },
+      {
+        "name": "Harry Meharry",
+        "role": "longtime operator"
+      },
+      {
+        "name": "Collen Meharry and Marlee Meharry Simms",
+        "role": "owners in 2002"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Best Bites: Miz Brown's (Ginny Kolmar), Richmond ReView, February 2002",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 2002,
+        "url": "https://archive.org/details/richmondreview145rich",
+        "supports": "1953 opening by Robert Overin; the Meharry family; nine restaurants and three bars; menu and prices; Crosby, Caen and Feinstein"
+      },
+      {
+        "title": "Longtime local businesses, Pat O'Shea's, Miz Brown's close (Richmond ReView, May 2004)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 2004,
+        "url": "https://archive.org/details/richmondreview168rich",
+        "supports": "Closure of Miz Brown's Feedbag at Laurel Village by the Meharry family; the Clement Street branch"
+      },
+      {
+        "title": "Celebration at Laurel Village (Richmond ReView, December 2002)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 2002,
+        "url": "https://archive.org/details/richmondreview153rich",
+        "supports": "Laurel Village shopping centre on California Street between Spruce and Laurel"
+      },
+      {
+        "title": "Police report (Richmond ReView, June 1994)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1994,
+        "url": "https://archive.org/details/richmondreview69unse",
+        "supports": "Address: 3401 California St., Laurel Village Shopping Center"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-parker-shack",
+    "title": "Two refugee shacks became a little red house",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": 1993,
+    "place": {
+      "label": "165 Parker Avenue, between Geary Boulevard and Euclid Avenue",
+      "lat": 37.782446,
+      "lon": -122.4547,
+      "precision": "building"
+    },
+    "hook": "For almost ninety years a home on Parker Avenue was really two earthquake refugee shacks nailed together. In 1993 it was slated to come down.",
+    "story": "After the 1906 earthquake and fire, union carpenters built more than 5,600 small cottages for refugees in camps across the city. They had redwood walls, fir floors and cedar-shingle roofs, and were painted green to blend into the parks [2]. Type A shacks measured 10 by 14 feet and cost $100 [1]. When the camps began closing in August 1907, refugees hauled their cottages to private lots and often joined two or more together into a bigger home [2].\n\nThe little red house at 165 Parker Avenue, between Geary Boulevard and Euclid Avenue, started as two Type A shacks [1]. By 1993 it had fallen into such disrepair that \"there was no hope to save it,\" said Jane Cryan, founder of the Society for the Preservation and Appreciation of San Francisco's 1906 Refugee Shacks [1]. Cryan's campaigning since the early 1980s had won landmark status for shacks at 1227 24th Avenue [2]. She had tried to win the same for Parker Avenue [1].\n\nIt was to be demolished and replaced by a two-family house. Cryan hoped to bury a time capsule with the shack's history under the new building [1].",
+    "people": [
+      {
+        "name": "Jane Cryan",
+        "role": "founder, Society for the Preservation and Appreciation of San Francisco's 1906 Refugee Shacks"
+      },
+      {
+        "name": "Deanna Kastler",
+        "role": "Richmond ReView reporter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "End of an era (Richmond ReView, April 1993)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1993,
+        "url": "https://archive.org/details/richmondreview57unse",
+        "supports": "165 Parker Ave. built from two Type A shacks; its condition and planned replacement; Cryan quote and time capsule; Type A size and cost"
+      },
+      {
+        "title": "1906 Earthquake Refugee Cottages",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2020,
+        "url": "https://www.outsidelands.org/shacks.php",
+        "supports": "Cottage numbers, materials and green paint; camps closing in 1907 and cottages hauled to private lots and combined; Jane Cryan's campaign and Landmark #171"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-madison-bell",
+    "title": "The old Madison school bell rings again",
+    "theme": "communities",
+    "year": 1999,
+    "yearEnd": null,
+    "place": {
+      "label": "Claire Lilienthal School, Madison campus, 3950 Sacramento Street",
+      "lat": 37.78697,
+      "lon": -122.457792,
+      "precision": "building"
+    },
+    "hook": "After two decades of makeshift bungalows and a move across town, a Sacramento Street school got a new home, and its old bell rang again.",
+    "story": "The public school at 3950 Sacramento Street was once Madison School, renamed Claire Lilienthal in 1981 after a former school board president [1]. In 1973, when seismic rules were tightened, the district hurriedly put up bungalows on the site. Children were still using them more than twenty years later. \"Run-down, horrible, age-old bungalows,\" one parent called them [1].\n\nThe school then moved to the larger old Winfield Scott school on Divisadero Street in the Marina. Its first public event there was the 1996 May Fair [1][2]. Smaller class sizes soon filled that building too, and families asked for their Sacramento Street site back [1].\n\nThe bungalows came down in late 1997. Building began in March 1998, three months late because of heavy El Niño rains. Only the old Madison Auditorium was kept. Kindergartners moved in that autumn and the first and second graders on January 19, 1999. Neighbours raised $120,000 for the library [1].\n\nAbout 400 people came to the dedication in March, close to Claire Lilienthal's birthday. \"It was really moving to hear that old Madison school bell again,\" said John Rothmann, a 1960 Madison graduate. \"It brought tears to my eyes\" [1].",
+    "people": [
+      {
+        "name": "Claire Matzger Lilienthal",
+        "role": "former school board president, school's namesake"
+      },
+      {
+        "name": "John Rothmann",
+        "role": "1960 Madison graduate, parent"
+      },
+      {
+        "name": "Voula Sideris",
+        "role": "parent"
+      }
+    ],
+    "sources": [
+      {
+        "title": "New Claire Lilienthal campus opens; Lilienthal celebrates dedication (Richmond ReView, April 1999)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1999,
+        "url": "https://archive.org/details/richmondreview117rich",
+        "supports": "Renaming in 1981; 1973 bungalows; moves between campuses; construction dates and costs; library fundraising; the dedication and Rothmann quote"
+      },
+      {
+        "title": "Lilienthal to hold festival May 18 (Richmond ReView, May 1996)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1996,
+        "url": "https://archive.org/details/richmondreview88unse",
+        "supports": "Mayfair '96 as the first public event at the school's new site, 3630 Divisadero St."
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-spruce-auto-barn",
+    "title": "Dinner in a 1930 auto barn",
+    "theme": "modern-city",
+    "year": 2007,
+    "yearEnd": null,
+    "place": {
+      "label": "Spruce, 3640 Sacramento Street",
+      "lat": 37.787725,
+      "lon": -122.452758,
+      "precision": "building"
+    },
+    "hook": "Presidio Heights waited more than two years for its big restaurant. It opened inside a 1930 garage, with a farm truck that ran on its used cooking oil.",
+    "story": "At the start of August 2007, more than two years after its planned debut, Spruce opened at 3640 Sacramento, near Spruce Street. It was built inside a 1930 auto barn converted to a 5,000-square-foot restaurant [1].\n\nIt came from the Bacchus Management Group, the team behind Woodside's Village Pub. Tim Stannard was owner, Mark Sullivan chef-partner and Andrew Green wine director. Designer Stephen Brady filled the old garage with mohair banquettes, saddle-leather chairs and a small takeout cafe by the door. The wine list had nearly 1,000 choices [1].\n\nMost of the produce came from the restaurant's partner farm, SMIP Ranch in Woodside. The farm's delivery truck ran on biodiesel made from Spruce's used cooking oil [1]. The opening bar menu had a Niman Ranch burger [1].\n\nBy 2025 Eater said Spruce had the only burger in town \"rumored to induce labor.\" It was served only at the bar, where you had better arrive when the doors opened. The dining room still had valet parking and white tablecloths [2].",
+    "people": [
+      {
+        "name": "Tim Stannard",
+        "role": "owner"
+      },
+      {
+        "name": "Mark Sullivan",
+        "role": "chef-partner"
+      },
+      {
+        "name": "Andrew Green",
+        "role": "wine and spirits director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "OPENING: Spruce in Presidio Heights",
+        "publisher": "San Francisco Chronicle / SFGATE (Miriam Morgan)",
+        "year": 2007,
+        "url": "https://www.sfgate.com/restaurants/article/opening-spruce-in-presidio-heights-2300347.php",
+        "supports": "1930 auto barn converted to 5,000 sq ft; two-year delay; team and design; SMIP Ranch and biodiesel truck; wine list; Niman Ranch burger"
+      },
+      {
+        "title": "Spruce Stands Firm as a San Francisco Destination",
+        "publisher": "Eater SF (Paolo Bicchieri)",
+        "year": 2025,
+        "url": "https://sf.eater.com/dining-report/208854/spruce-review",
+        "supports": "Burger 'rumored to induce labor'; bar-only a la carte; valet and white tablecloths"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-julius-kahn-clubhouse",
+    "title": "A clubhouse for the boy who played here",
+    "theme": "parks-nature",
+    "year": 1992,
+    "yearEnd": null,
+    "place": {
+      "label": "Julius Kahn Playground, Pacific Avenue at Spruce Street (edge of the Presidio)",
+      "lat": 37.7907,
+      "lon": -122.4541,
+      "precision": "area"
+    },
+    "hook": "When philanthropists Richard and Rhoda Goldman lost their son, they gave the playground where he had played as a child a new clubhouse.",
+    "story": "Julius Kahn Playground sits at Pacific Avenue and Spruce Street, on the edge of the Presidio. Its clubhouse dated from 1926 [1].\n\nIn November 1991 about 70 people stood in the cold for a groundbreaking. Richard Goldman dug the first shovel of dirt while his wife Rhoda and other family members looked on [1]. The couple, well-known philanthropists, had given $250,000 for a new clubhouse in memory of their son Richard Walter Goldman, who had died at 42. He had played at the park as a boy [2].\n\nThe new building had double the floor space of the old one, with a director's office, room for indoor games and reading, a kitchenette, fully accessible restrooms and tables for adults [1].\n\nIt opened in mid-July 1992 in front of about 200 people. Acting mayor Annemarie Conroy dedicated a plaque to Richard Walter Goldman [2]. The octagonal clubhouse had a metal roof and earth-toned stucco walls trimmed with wood. Windows near the ceiling let in natural light, and the playground director got a 360-degree view of the park. Fantasia Bakery made the snacks for the party, and Just Desserts the cake [2].",
+    "people": [
+      {
+        "name": "Richard and Rhoda Goldman",
+        "role": "donors"
+      },
+      {
+        "name": "Richard Walter Goldman",
+        "role": "their son, memorialised by the clubhouse"
+      },
+      {
+        "name": "Annemarie Conroy",
+        "role": "acting mayor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Locals give gift to Julius Kahn Park - new clubhouse (Richmond ReView, December 1991)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1991,
+        "url": "https://archive.org/details/richmondreview43rich",
+        "supports": "Groundbreaking on Nov. 15 with about 70 people; Richard Goldman's first shovel; the 1926 clubhouse; the new building's floor space and rooms; the park at Pacific Avenue and Spruce Street"
+      },
+      {
+        "title": "New clubhouse for J. Kahn Park (Richmond ReView, August 1992)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1992,
+        "url": "https://archive.org/details/richmondreview411unse",
+        "supports": "Opening in mid-July with about 200 people; Conroy's plaque; the $250,000 gift in memory of Richard Walter Goldman, 42, who played there; the building's design; Fantasia Bakery and Just Desserts"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "presidio-heights-2p-cancer-center-pit",
+    "title": "The giant pit at Sacramento and Maple",
+    "theme": "modern-city",
+    "year": 1993,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Marshall Hale Hospital (CPMC East Campus), 3773 Sacramento Street at Maple Street",
+      "lat": 37.78709,
+      "lon": -122.45474,
+      "precision": "block"
+    },
+    "hook": "Neighbours fought a plan to bury cancer-killing linear accelerators under a hospital parking lot. The hospital won, dug the hole, then hit hard times.",
+    "story": "Marshall Hale Hospital, at Sacramento and Maple streets, had run a cancer centre on the site since 1952. In 1988 it merged with Children's Hospital next door. In 1991 the combined hospital merged with Pacific Presbyterian to form California Pacific Medical Center [2][3].\n\nIn 1992 CPMC planned a new underground cancer centre beneath the parking lot. It would house linear accelerators, the powerful machines used to kill cancer cells [1][2]. The zoning administrator had exempted it from a conditional-use permit and environmental review, as long as it did not significantly enlarge the centre's operations [1][3]. Neighbours said they were caught by surprise. The hospital said the work would take 17 months; residents worried about parking and about what would happen to the accelerators if an earthquake struck [2][3].\n\nThe appeal held up the project for eight months. Then the Board of Permit Appeals turned down about a dozen residents and let the work go ahead [3]. Crews dug a big hole and began shoring its walls [3][4].\n\nBy October 1993 financial hard times had hit. The medical centre had laid off close to 300 employees, and the project was stalled. \"What to do with a giant pit?\" the Richmond ReView asked. The centre's fate would be settled in a wider reorganisation [4].",
+    "people": [
+      {
+        "name": "Bob Passmore",
+        "role": "San Francisco zoning administrator"
+      },
+      {
+        "name": "Aubrey Serfling",
+        "role": "CPMC chief executive"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cancer center on hold for permit (Richmond ReView, July 1992)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1992,
+        "url": "https://archive.org/details/richmondreview410unse",
+        "supports": "The plan under the parking lot at the former Marshall Hale Hospital; the zoning exemption; neighbours' surprise"
+      },
+      {
+        "title": "Cancer center plans (Richmond ReView, June 1992)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1992,
+        "url": "https://archive.org/details/richmondreview49unse",
+        "supports": "Linear accelerators; the hospital's 17-month estimate; neighbours' parking and earthquake worries; 1988 merger with Children's and 1991 merger with Pacific Presbyterian"
+      },
+      {
+        "title": "Cancer center report (Richmond ReView, February 1993)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1993,
+        "url": "https://archive.org/details/richmondreview55unse",
+        "supports": "Cancer centre at the site since 1952; eight-month appeal; Board of Permit Appeals upholding the exemption; earthquake worries"
+      },
+      {
+        "title": "Future uncertain for cancer center (Richmond ReView, October 1993)",
+        "publisher": "The Richmond ReView, via Internet Archive",
+        "year": 1993,
+        "url": "https://archive.org/details/richmondreview61unse",
+        "supports": "The 'giant pit'; shoring begun; project stalled; nearly 300 layoffs; reorganisation plan"
+      }
+    ],
+    "photo": null
+  }
+]

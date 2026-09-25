@@ -1,0 +1,590 @@
+[
+  {
+    "id": "lone-mountain-usf-2q-mels-sit-in",
+    "title": "Every stool taken at Mel's",
+    "theme": "civil-rights",
+    "year": 1963,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of Mel's Drive-In, 3355 Geary Boulevard at Beaumont Avenue",
+      "lat": 37.781171,
+      "lon": -122.45488,
+      "precision": "building"
+    },
+    "hook": "Black San Franciscans could eat at this Geary drive-in but not work out front. One weekend in 1963, protesters filled every seat and waited to be arrested.",
+    "story": "Mel's Drive-In at 3355 Geary was part of a chain co-owned by Mel Weiss and Supervisor Harold Dobbs, who was running for mayor in 1963 [1]. Members of the DuBois Clubs, working with Black teenagers, heard the same thing again and again: they could eat at Mel's, but they couldn't work there [2]. A student Direct Action Group found that Black employees were kept to kitchen and janitorial jobs, \"always out of sight\" [1]. Pickets from the Ad Hoc Committee to End Discrimination went up in October. Mario Savio, later the voice of Berkeley's Free Speech Movement, joined a Mel's picket line a couple of times [2]. On the weekend before the election, protesters picketed Dobbs's home on Saturday. That night and again on Sunday they held the first mass sit-in of the Bay Area civil rights movement, filling every empty booth and stool and refusing to order [1][2]. Police arrested 64 people the first night and 48 the next [1]. Dobbs lost to John Shelley. Within days he signed an agreement to put Black workers in \"up front\" jobs as waitresses, cashiers and bartenders [1][2]. Months later the same tactics came to the Sheraton-Palace Hotel [1].",
+    "people": [
+      {
+        "name": "Harold Dobbs",
+        "role": "Supervisor, mayoral candidate and co-owner of Mel's"
+      },
+      {
+        "name": "Art Sheridan",
+        "role": "SF State student, chair of the Direct Action Group"
+      },
+      {
+        "name": "Tracy Sims",
+        "role": "Ad Hoc Committee leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mel's Drive-In Protest 1963",
+        "publisher": "FoundSF (R.J. Moore)",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=Mel%E2%80%99s_Drive-In_Protest_1963",
+        "supports": "Address, owners, DAG findings, picketing, sit-in, arrest counts, agreement"
+      },
+      {
+        "title": "From Freedom Now! to Free Speech: How the 1963-64 Bay Area Civil Rights Demonstrations Paved the Way to Campus Protest",
+        "publisher": "Jo Freeman",
+        "year": 2004,
+        "url": "http://www.jofreeman.com/sixtiesprotest/baycivil.htm",
+        "supports": "DuBois Clubs, 'eat but not work', first mass sit-in, over 100 arrested, Savio on picket line, up-front jobs"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-airplane-mansion",
+    "title": "The Airplane's black-and-gold mansion",
+    "theme": "arts-counterculture",
+    "year": 1968,
+    "yearEnd": null,
+    "place": {
+      "label": "2400 Fulton Street at Willard Street North, across from Golden Gate Park",
+      "lat": 37.774752,
+      "lon": -122.456567,
+      "precision": "building"
+    },
+    "hook": "A lumberman's columned mansion facing Golden Gate Park became Jefferson Airplane's home, office and party house. The band painted it black and gold.",
+    "story": "The four-story Neoclassical house at 2400 Fulton was built in 1904 for R.A. Vance, a lumber and banking magnate from Eureka, with Indian mahogany, a grand staircase and eight fireplaces [1]. A popular story says Enrico Caruso took shelter here after the 1906 earthquake, but nobody has proved it [1]. The Vance family kept the house for 64 years. In May 1968 it came on the market, and Jefferson Airplane bought it for $70,000, with every band member's name on the deed [1]. Their new manager, Bill Thompson, made it the band's office and shared home [2]. They painted it black and gold. Music writer Joel Selvin called it \"a culture center for the Haight-Ashbury.\" At the 1968 Thanksgiving party, he recalled, Owsley Stanley wired the house and played an advance copy of \"Hey Jude\" over and over in every room [1]. At a welcome-home banquet, bassist Jack Casady was photographed slumped on a table with a champagne bottle. The picture became the cover of Bless Its Pointed Little Head [1]. Grace Slick wrote that she once pulled a gun on David Crosby here, thinking he was an intruder [1]. In 1987 the band named a compilation album after the address [3].",
+    "people": [
+      {
+        "name": "Grace Slick",
+        "role": "singer"
+      },
+      {
+        "name": "Bill Thompson",
+        "role": "band manager"
+      },
+      {
+        "name": "R.A. Vance",
+        "role": "lumberman who built the house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The debauched story of San Francisco's most rock 'n' roll house, 2400 Fulton",
+        "publisher": "SFGATE (Andrew Chamings)",
+        "year": 2023,
+        "url": "https://www.sfgate.com/obscuresf/article/sf-2400-fulton-jefferson-airplane-17751356.php",
+        "supports": "1904 build, Vance, Caruso legend, 1968 $70,000 purchase, paint, parties, album cover, Slick and Crosby"
+      },
+      {
+        "title": "Jefferson Airplane",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Jefferson_Airplane",
+        "supports": "Bill Thompson bought the mansion as the band's office and communal residence"
+      },
+      {
+        "title": "2400 Fulton Street (album)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/2400_Fulton_Street",
+        "supports": "1987 compilation named after the address"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-blue-unicorn",
+    "title": "Poems and 'hippies' at the Blue Unicorn",
+    "theme": "arts-counterculture",
+    "year": 1964,
+    "yearEnd": 1965,
+    "place": {
+      "label": "Former Blue Unicorn coffeehouse, 1927 Hayes Street near Ashbury",
+      "lat": 37.773569,
+      "lon": -122.448166,
+      "precision": "building"
+    },
+    "hook": "Before the Summer of Love, young poets read to strangers in a Hayes Street coffeehouse while motorcycles revved outside. A reporter found a new word there.",
+    "story": "In 1964 the Blue Unicorn, on Hayes Street a couple of blocks above Masonic, was one of the few coffeehouses outside North Beach, and the base for much of the city's poetry scene [1]. Gene and Hilary Fowler ran a weekly reading series. Poets sent in poems, and two or three were chosen to read each week to audiences of twenty or thirty [1]. The poet Stephen Vincent, then a San Francisco State student, remembered it as \"an extension of the street.\" A motorcycle might warm up outside during your first poem, or a drunk might wander in off the sidewalk [1]. He read his \"495 Words for John Coltrane\" there, a single long sentence written to A Love Supreme [1]. Ed Bullins and Steve Gaskin were among the others who read or dropped in to talk [1]. Vincent and his girlfriend lived nearby, \"on the edge of the Haight\" [2]. In September 1965 the Examiner's Michael Fallon wrote about the café and called the North Beach refugees moving into the neighbourhood \"hippies,\" the first West Coast use of the word in print, according to Wikipedia's history of the term [3].",
+    "people": [
+      {
+        "name": "Stephen Vincent",
+        "role": "poet"
+      },
+      {
+        "name": "Gene Fowler",
+        "role": "poet, ran the reading series with Hilary Fowler"
+      },
+      {
+        "name": "Michael Fallon",
+        "role": "Examiner reporter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Poems in Street, Coffeehouse, and Print: The Mid-1960s",
+        "publisher": "FoundSF (Stephen Vincent, 1981)",
+        "year": 1981,
+        "url": "https://www.foundsf.org/index.php?title=Poems_in_Street,_Coffeehouse,_and_Print%E2%80%94The_Mid-1960s",
+        "supports": "Location, 1964 reading series, Fowlers, audience, atmosphere, Coltrane poem, readers"
+      },
+      {
+        "title": "Lew Welch: A Journal of Remembrance",
+        "publisher": "FoundSF (Stephen Vincent, 1972)",
+        "year": 1972,
+        "url": "https://www.foundsf.org/index.php?title=Lew_Welch%E2%80%94A_Journal_of_Remembrance",
+        "supports": "Readings at the Blue Unicorn, 'on the edge of the Haight'"
+      },
+      {
+        "title": "Hippie",
+        "publisher": "Wikipedia (citing Fallon, SF Examiner, Sept. 5, 1965, and Perry 2005)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Hippie",
+        "supports": "1927 Hayes address, Fallon's Sept. 1965 use of 'hippie'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-lone-mountain-cross",
+    "title": "The cross the wind knocked down five times",
+    "theme": "architecture-landmarks",
+    "year": 1918,
+    "yearEnd": 1930,
+    "place": {
+      "label": "Summit of Lone Mountain, now USF's Lone Mountain campus",
+      "lat": 37.779096,
+      "lon": -122.451916,
+      "precision": "area"
+    },
+    "hook": "For decades a wooden cross topped Lone Mountain. In 1918 a writer predicted the hill's own funeral, and the roads that would bring it.",
+    "story": "The Spanish called this hill El Divisadero, a place from which to look far [1]. In 1860 Archbishop Joseph Alemany bought the land for Calvary Cemetery, and the hill came with it. A year after the dedication a cross went up on the sandy summit [2]. On February 11, 1918, the Chronicle ran Walter J. Thompson's elegy for the hill. The cross could be seen from every corner of the surrounding cemeteries. Five times the wind threw it to the ground, and each time it was put back. Young visitors hacked their initials and dates into its soft wood with jack-knives [2]. But Thompson saw what was coming. The city had promised to extend Parker Avenue over the hill to the new St. Ignatius Church, and Turk Street would soon be cut through from Masonic to Parker. Contractors \"who haven't an ounce of sentiment\" said the clay hill would be easy to reshape [2]. Alice Brown Chittenden's 1910 watercolour still shows the cross above the shacks or tents of 1906 refugees [3]. The last wooden cross came down in 1930, and in 1932 work began on a college on the summit [4].",
+    "people": [
+      {
+        "name": "Walter J. Thompson",
+        "role": "writer, San Francisco Chronicle"
+      },
+      {
+        "name": "Joseph Alemany",
+        "role": "Archbishop, bought the Calvary land"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Beginnings of San Francisco, Appendix B: The Streets of San Francisco (Z.S. Eldredge, 1912)",
+        "publisher": "SFgenealogy",
+        "year": 1912,
+        "url": "https://legacy.sfgenealogy.org/sf/history/hbbegb.htm",
+        "supports": "El Divisadero as the Spanish name for Lone Mountain"
+      },
+      {
+        "title": "In the Shadow of Lone Mountain (San Francisco Chronicle, Feb. 11, 1918)",
+        "publisher": "SFgenealogy",
+        "year": 1918,
+        "url": "https://legacy.sfgenealogy.org/sf/history/hgsto31.htm",
+        "supports": "Calvary 1860, cross, five topplings, carved initials, Parker and Turk plans, contractors' view"
+      },
+      {
+        "title": "Lone Mountain ca 1910 (watercolour by Alice Brown Chittenden)",
+        "publisher": "Wikimedia Commons",
+        "year": 1910,
+        "url": "https://commons.wikimedia.org/wiki/File:Lone_Mountain_ca_1910.jpg",
+        "supports": "1910 painting showing the cross and post-1906 shacks"
+      },
+      {
+        "title": "Lone Mountain (Deanna L. Kastler, The Argonaut, 1992)",
+        "publisher": "FoundSF",
+        "year": 1992,
+        "url": "https://www.foundsf.org/index.php?title=LONE_MOUNTAIN",
+        "supports": "Last wooden cross torn down 1930; college construction 1932"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Lone_Mountain_ca_1910.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lone_Mountain_ca_1910.jpg",
+      "credit": "Alice Brown Chittenden",
+      "license": "Public domain (PD-Art)",
+      "year": 1910
+    }
+  },
+  {
+    "id": "lone-mountain-usf-2q-bret-harte-poems",
+    "title": "Bret Harte's hill of Sindbad",
+    "theme": "arts-counterculture",
+    "year": 1871,
+    "yearEnd": null,
+    "place": {
+      "label": "Lone Mountain's western (seaward) slope, above the old cemetery grounds",
+      "lat": 37.7792,
+      "lon": -122.4545,
+      "precision": "area"
+    },
+    "hook": "To Bret Harte, the graveyard hill was Sindbad's magnetic mountain, pulling every ship in the bay onto its rocks sooner or later.",
+    "story": "In the 1850s and 1860s San Franciscans buried their dead around Lone Mountain. The first cemetery here opened in 1854 as Lone Mountain Cemetery and was renamed Laurel Hill in 1867 [1]. Bret Harte gave the hill two poems in his 1871 collection East and West [2]. \"Lone Mountain,\" subtitled \"Cemetery, San Francisco,\" makes it the magnetic mountain of the Sindbad tales: \"This is that hill of awe / That Persian Sindbad saw, / The mount magnetic.\" Scattered along its seaward base lie \"the wrecks prophetic.\" Every ship on the bay, the argosies blown by every idle breeze and the little shallops \"launched on yon shining bay,\" drifts toward it in the end. The poem closes with the poor porter of the tales: \"Here come alike the same, / Hindbad and Sindbad\" [2]. In \"The Two Ships\" the speaker stands on the summit: \"As I stand by the cross on the lone mountain's crest, / Looking over the ultimate sea.\" One ship spreads its white wings and sails away; another lies at rest in the mountain's gloom, \"the ship that is waiting for me\" [2]. The cross he stood by was real. A Chronicle writer in 1918 recalled that it could be seen from every part of the burial grounds below [3].",
+    "people": [
+      {
+        "name": "Bret Harte",
+        "role": "poet and writer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lone Mountain (California)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Lone_Mountain_(California)",
+        "supports": "Lone Mountain Cemetery opened 1854, renamed Laurel Hill 1867"
+      },
+      {
+        "title": "East and West: Poems (1871), 'Lone Mountain' and 'The Two Ships'",
+        "publisher": "Project Gutenberg",
+        "year": 1871,
+        "url": "https://www.gutenberg.org/ebooks/8402",
+        "supports": "Text of both poems"
+      },
+      {
+        "title": "In the Shadow of Lone Mountain (San Francisco Chronicle, Feb. 11, 1918)",
+        "publisher": "SFgenealogy",
+        "year": 1918,
+        "url": "https://legacy.sfgenealogy.org/sf/history/hgsto31.htm",
+        "supports": "The cross on the summit, visible across the cemeteries"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-howell-fiddleneck",
+    "title": "A botanist races the grader",
+    "theme": "parks-nature",
+    "year": 1933,
+    "yearEnd": null,
+    "place": {
+      "label": "Lone Mountain's graded slopes, USF Lone Mountain campus",
+      "lat": 37.78,
+      "lon": -122.4515,
+      "precision": "area"
+    },
+    "hook": "In 1933 a botanist climbed a freshly bulldozed Lone Mountain looking for a wildflower first collected there sixty years earlier, and found a few survivors.",
+    "story": "In spring 1933 John Thomas Howell of the California Academy of Sciences set out to answer a question. Could coast fiddleneck (Amsinckia kelloggii) still be found on Lone Mountain, the place where it had first been collected more than sixty years earlier [1][2]? He wasn't hopeful. Until a few months before, the hill had been \"a conical oasis of wild vegetation in a desert of streets and houses.\" Now a school stood on its \"truncated summit,\" and the slopes had been graded until hardly any native plants were left [1]. Howell walked across the new-made ground past weeds crowding in. Then, beside a clay fill, he found a narrow strip of the original sand, with sand phacelia, trailing croton, dune oenothera and \"to my great delight\" a few fiddleneck plants [1]. He pressed specimens for the Academy's herbarium as a permanent record and wondered if \"the next sweep of the grader would snuff out forever this plant in its classic home\" [1]. Walking on toward the Presidio, he cut across the cemetery on the hill's west side, past \"yawning holes of exhumed graves\" [1]. In 1958 Howell and two young colleagues published a flora of San Francisco listing 608 native species [2].",
+    "people": [
+      {
+        "name": "John Thomas Howell",
+        "role": "botanist, California Academy of Sciences"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Field Days in San Francisco, I (Leaflets of Western Botany, vol. 1, no. 9, January 1934)",
+        "publisher": "Internet Archive",
+        "year": 1934,
+        "url": "https://archive.org/details/leafletsofwester01howe",
+        "supports": "Full account of the Lone Mountain search, quotes, specimens, exhumed graves"
+      },
+      {
+        "title": "Native Flora of San Francisco (Pete Holloran)",
+        "publisher": "FoundSF",
+        "year": 1998,
+        "url": "https://www.foundsf.org/index.php?title=Native_Flora_of_San_Francisco",
+        "supports": "Common names; Howell's 1934 ramble; 1958 flora with 608 native species"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-31-balboa-streetcar",
+    "title": "The last streetcar line climbs Lone Mountain",
+    "theme": "labor-industry",
+    "year": 1932,
+    "yearEnd": 1944,
+    "place": {
+      "label": "Turk Boulevard over Lone Mountain, near Parker Avenue (route of the 31-Balboa)",
+      "lat": 37.777979,
+      "lon": -122.453706,
+      "precision": "street"
+    },
+    "hook": "San Francisco's last new streetcar line hauled riders up and over Lone Mountain on Turk. In wartime, car #981 came down too fast.",
+    "story": "On May 15, 1932, the private Market Street Railway opened the 31-Balboa, built to compete with the city's Muni streetcars on Geary two blocks away [1]. It ran from the Ferry Building out Market, Eddy, a short stretch of Divisadero and Turk, jogged north at Arguello onto Balboa, and ended at 30th Avenue. It was the last new streetcar line built in San Francisco [1]. Between Masonic and Arguello the cars climbed Lone Mountain past the university and dropped down the other side. The grade was long and steady, and at the bottom cars had to slow to 5-10 mph for the jog onto Balboa [1]. On June 6, 1944, D-Day in Europe, car #981 came down the hill too fast, jumped the tracks at Balboa and ploughed into a Standard Oil station on the corner. Apparently no one was seriously hurt [1]. Nobody pinned down the cause, but the war had drained the company of experienced motormen and mechanics, who left for better-paid shipyard jobs [1]. The city had already voted to let Muni buy its rival, and on September 29, 1944 the Market Street Railway was merged into Muni [1]. Years later the city bought the gas-station corner to give the 31's buses a gentler curve [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "D-Day Crash: A Closer Look",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2021,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2021/06/06/d-day-crash-a-closer-look/",
+        "supports": "1932 opening, route, last new line, Lone Mountain grade, 1944 crash, wartime staffing, Muni merger"
+      },
+      {
+        "title": "Streetwise: Oops!",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2021,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2021/10/24/streetwise-oops/",
+        "supports": "City later bought the corner station for a gentler bus curve"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-apollo-bottling",
+    "title": "Seattle beer bottled beside the graveyards",
+    "theme": "labor-industry",
+    "year": 1905,
+    "yearEnd": null,
+    "place": {
+      "label": "2739-2741 Geary Boulevard (formerly 219 Point Lobos Avenue), near Masonic",
+      "lat": 37.781971,
+      "lon": -122.448492,
+      "precision": "building"
+    },
+    "hook": "Among the florists and saloons facing the cemeteries, a teamster's family bottled beer inside their own Geary Boulevard house, which still stands.",
+    "story": "On the south side of Geary near Masonic, a pair of 1880s Italianate houses has outlasted the three cemeteries that once hemmed in this corner, earlier \"improvements\" to Masonic and the 1950s Geary tunnel [1]. Around 1905 a photographer caught a delivery wagon out front lettered \"Apollo Lager Beer / Seattle's Famous Brew. C. H. Dechent & Co. 219 Pt. Lobos Ave.\" Point Lobos Avenue was the old name of this stretch of Geary [2]. Charles Dechent Jr. had started out as a teamster. He and his wife Nettie bottled beer inside the middle house while raising Charles Wallace, Chester and Clarice, who probably appear by the wagon [1]. Charles Jr.'s father kept a nursery and flower shop up the hill, where the Muni offices stand now, selling arrangements to mourners bound for Calvary, Masonic and Laurel Hill cemeteries [1]. The children did well: Charles and Clarice went to Stanford [1]. The house was standing by 1889. In 2018 it held a café and apartments and was up for sale [1]. On the corner nearby, the old Pub restaurant (later Mo'z Café) kept a muraled Prohibition speakeasy in its basement [1].",
+    "people": [
+      {
+        "name": "Charles Dechent Jr.",
+        "role": "teamster and beer bottler"
+      },
+      {
+        "name": "Nettie Dechent",
+        "role": "co-ran the home bottling works"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apollo Bottling: A Closer Look",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2018,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2018/07/15/apollo-bottling-a-closer-look/",
+        "supports": "Dechent family, home bottling, nursery, house history, Pub speakeasy, 2018 sale"
+      },
+      {
+        "title": "Geary near Masonic, circa 1905 (wnp37.04294)",
+        "publisher": "OpenSFHistory",
+        "year": 1905,
+        "url": "https://opensfhistory.org/Display/wnp37.04294.jpg",
+        "supports": "Wagon lettering, Seattle brew, surviving houses at 2731-35 and 2739-41 Geary"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-old-lowell",
+    "title": "The 'unsafe' school that was never demolished",
+    "theme": "architecture-landmarks",
+    "year": 1913,
+    "yearEnd": 1962,
+    "place": {
+      "label": "Old Lowell High School, now City College John Adams Campus, 1860 Hayes Street at Masonic",
+      "lat": 37.774019,
+      "lon": -122.447179,
+      "precision": "building"
+    },
+    "hook": "For fifty years the city's top public high school filled this brick block. Students left in 1962 believing it would be torn down. It never was.",
+    "story": "In January 1913 Lowell High School, the city's college-preparatory public school, moved into a full block of brick buildings bounded by Hayes, Masonic, Ashbury and Grove [1][2]. Students had to be recommended to get in. They came from all over the city by cable car, streetcar and trolley bus [1]. For half a century its halls turned out politicians, artists and business people: Cyril Magnin (1918), Governor Pat Brown (1923), William Hewlett (1930), Carol Channing (1938), the painter Richard Diebenkorn (1939) and Justice Stephen Breyer (1955) [1]. In 1952 the school began looking for a new site near Lake Merced, and it moved there in 1962 [2]. Students were told the old campus was seismically unsafe and would be demolished. It wasn't. The brick buildings survived and became part of City College [1]. On May 19, 2012, the class of 1962, the last to spend four years here, borrowed the building back for its 50th reunion and filed into the third-floor auditorium as if for an assembly. \"It still smells exactly the same,\" said art dealer Ed Russell. \"Polished linoleum\" [1].",
+    "people": [
+      {
+        "name": "Ed Russell",
+        "role": "Lowell class of 1962"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lowell Class of '62 reclaims building for reunion",
+        "publisher": "San Francisco Chronicle / SFGATE (Sam Whiting)",
+        "year": 2012,
+        "url": "https://www.sfgate.com/default/article/Lowell-Class-of-62-reclaims-building-for-reunion-3588955.php",
+        "supports": "Block boundaries, 1913, admissions, alumni, 'unsafe' claim, reunion and quotes"
+      },
+      {
+        "title": "Lowell High School (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Lowell_High_School_(San_Francisco)",
+        "supports": "January 1913 move; 1952 search for new site; 1962 move"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-masonic-streetscape",
+    "title": "Neighbours knock doors to tame Masonic",
+    "theme": "modern-city",
+    "year": 2018,
+    "yearEnd": null,
+    "place": {
+      "label": "Masonic Avenue at Geary Boulevard, where the project's new plaza sits on the southwest corner",
+      "lat": 37.7818,
+      "lon": -122.4478,
+      "precision": "block"
+    },
+    "hook": "Masonic saw 113 crashes in five years. Neighbours spent a decade pushing to make it safer. Not everyone wanted the fix.",
+    "story": "Masonic Avenue carries traffic down from Geary to the Panhandle, and for years it was on the city's list of streets where injuries are most concentrated. From 2009 to 2014 there were 113 collisions between Fell and Geary, including 14 involving pedestrians and 24 involving cyclists, and two people were killed [1]. The fix began with neighbours. A petition signed by more than 500 people led the Board of Supervisors to unanimously back a redesign in 2008 [1]. Michael Helquist of the group Fix Masonic said it \"took several years of going door to door to build support\" [2]. Not everyone agreed. At a 2016 open house, residents mourned the roughly 140 parking spaces that would go. \"This will mean chaos and mayhem,\" one contractor said [2]. Construction on the $26 million project began in 2016 [1][2]. By mid-2018 Masonic had a planted median of ginkgo and tulip trees, bus boarding islands, wider sidewalks and bike lanes raised two inches above the road. There was also a new plaza on the southwest corner at Geary [1][3]. Cycling advocates complained that the design was already out of date. The unprotected lanes filled with delivery trucks, and one blog called the bike lanes at Fell \"suicide lanes\" [3].",
+    "people": [
+      {
+        "name": "Michael Helquist",
+        "role": "Fix Masonic advocate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Masonic Avenue Streetscape Project",
+        "publisher": "SFMTA",
+        "year": 2016,
+        "url": "https://www.sfmta.com/projects/masonic-avenue-streetscape-project",
+        "supports": "Collision figures, petition, 2008 resolution, cost, features, plaza"
+      },
+      {
+        "title": "A Safer Masonic on the Way",
+        "publisher": "Streetsblog San Francisco",
+        "year": 2016,
+        "url": "https://sf.streetsblog.org/2016/05/26/a-safer-masonic-on-the-way",
+        "supports": "Helquist quote, parking loss, residents' objections"
+      },
+      {
+        "title": "Early Reactions as Masonic Makeover Nears Completion",
+        "publisher": "Streetsblog San Francisco",
+        "year": 2018,
+        "url": "https://sf.streetsblog.org/2018/07/02/early-reactions-as-masonic-makeover-nears-completion",
+        "supports": "2018 completion, median trees, raised lanes, criticisms"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-lyon-street-name",
+    "title": "The street named for Bloody Island's captain",
+    "theme": "civil-rights",
+    "year": 1850,
+    "yearEnd": null,
+    "place": {
+      "label": "Lyon Street at Geary Boulevard (east edge of City Center)",
+      "lat": 37.78205,
+      "lon": -122.44395,
+      "precision": "street"
+    },
+    "hook": "Lyon Street honours an army officer. A 1912 history said he 'punished the Indians of Clear Lake.' Pomo descendants tell it as a massacre.",
+    "story": "In his 1912 history of the city, Zoeth Eldredge explained where Lyon Street's name came from: Nathaniel Lyon, captain of C Troop, 1st Dragoons. Eldredge wrote that Lyon \"punished the Indians of Clear Lake for murder\", which he dated to 1849. He also recorded that Lyon became a general and was killed at Wilson's Creek, Missouri, on August 10, 1861 [1]. What happened at Clear Lake, on May 15, 1850, is now known as the Bloody Island Massacre. Two ranchers, Andrew Kelsey and Charles Stone, had enslaved and starved Pomo people, and in the end the Pomo killed them. U.S. soldiers under Lyon and Lt. J.W. Davidson then fell on Pomo families gathered to fish and collect plants at the island of Bonopoti [2][3]. The Daily Alta first reported \"the work of butchery,\" in which neither sex nor age was spared. Three days later, after an army officer objected, it printed a new version describing a fight and calling the massacre of women and children \"wholly unfounded\" [2]. Estimates of the dead run from about 60 to 200 or more [2][3]. A six-year-old, Lucy Moore, survived by hiding underwater and breathing through a reed. She lived to 110 [2]. A state landmark calling it a massacre went up in 2005 [3].",
+    "people": [
+      {
+        "name": "Nathaniel Lyon",
+        "role": "U.S. Army officer, namesake of Lyon Street"
+      },
+      {
+        "name": "Lucy Moore (Ni'ka)",
+        "role": "Pomo survivor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Beginnings of San Francisco, Appendix B: The Streets of San Francisco (Z.S. Eldredge, 1912)",
+        "publisher": "SFgenealogy",
+        "year": 1912,
+        "url": "https://legacy.sfgenealogy.org/sf/history/hbbegb.htm",
+        "supports": "Lyon Street's namesake and Eldredge's wording"
+      },
+      {
+        "title": "Marking a California Massacre, With a Native Ceremony of Forgiveness",
+        "publisher": "KQED",
+        "year": 2020,
+        "url": "https://www.kqed.org/news/11818362/marking-a-california-massacre-with-a-native-ceremony-of-forgiveness",
+        "supports": "Bonopoti, Lyon's command, Daily Alta reports, Lucy Moore, death estimates, SF street"
+      },
+      {
+        "title": "Bloody Island massacre",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Bloody_Island_massacre",
+        "supports": "Date, Kelsey and Stone, 60-200 estimate, 2005 landmark No. 427"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-gay-mens-chorus",
+    "title": "The concert the archbishop cancelled",
+    "theme": "lgbtq",
+    "year": 1981,
+    "yearEnd": 2018,
+    "place": {
+      "label": "St. Ignatius Church, 650 Parker Avenue at Fulton Street",
+      "lat": 37.776099,
+      "lon": -122.452842,
+      "precision": "building"
+    },
+    "hook": "In 1981 the Gay Men's Chorus had sold tickets and hired an orchestra for St. Ignatius. Then the archbishop called it off. It took 37 years.",
+    "story": "The San Francisco Gay Men's Chorus was barely three years old when it booked St. Ignatius Church, famous for its acoustics, for a concert on April 25, 1981. It had sold tickets and hired the Berkeley Symphony Orchestra [1]. Weeks before the date, Archbishop John Quinn cancelled it. He said the concert could be \"misinterpreted\" as the Church approving of homosexuality [1]. The chorus called that a breach of contract. Superior Court Judge Ira Brown ruled that the Jesuits could refuse the chorus [2]. A later lawsuit settled out of court for $5,000 [1]. For decades afterward, artistic director Tim Seelig said, the message was that no chorus with \"gay\" in its name could sing in the city's Catholic churches [1]. Then in 2018 a letter came with St. Ignatius's return address. Seelig expected the worst, but it was an invitation. Father Greg Bonfiglio, a pastor who had not known about 1981, called it a chance \"to repair the relationship\" [1]. That October the chorus held its 40th-anniversary concert in the church. It sang \"When We No Longer Touch,\" the first requiem dedicated to people who died of AIDS [1].",
+    "people": [
+      {
+        "name": "John Quinn",
+        "role": "Archbishop of San Francisco"
+      },
+      {
+        "name": "Tim Seelig",
+        "role": "artistic director, SF Gay Men's Chorus"
+      },
+      {
+        "name": "Greg Bonfiglio",
+        "role": "pastor, St. Ignatius Church"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SF Gay Men's Chorus to play church decades after archbishop rejected it",
+        "publisher": "San Francisco Chronicle (Heather Knight)",
+        "year": 2018,
+        "url": "https://www.sfchronicle.com/bayarea/heatherknight/article/SF-Gay-Men-s-Chorus-to-play-St-Ignatius-13318381.php",
+        "supports": "1981 cancellation, Quinn quote, orchestra, $5,000 settlement, Seelig and Bonfiglio quotes, 2018 concert and requiem"
+      },
+      {
+        "title": "San Francisco Gay Men's Chorus",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Gay_Men%27s_Chorus",
+        "supports": "1981 ruling by Judge Ira Brown"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-2q-cwa-rossi-workers",
+    "title": "Two hundred jobless men dig a playground",
+    "theme": "labor-industry",
+    "year": 1933,
+    "yearEnd": 1934,
+    "place": {
+      "label": "Angelo J. Rossi Playground, 600 Arguello Boulevard (former Odd Fellows Cemetery)",
+      "lat": 37.779081,
+      "lon": -122.458262,
+      "precision": "area"
+    },
+    "hook": "On Thanksgiving Day 1933, with a quarter of the country out of work, the city sent 200 unemployed men to turn an emptied cemetery into a playground.",
+    "story": "By late 1932 unemployment was reaching 25 percent. On November 8, 1933, President Roosevelt created the Civil Works Administration to put people to work on public projects over the winter [1]. San Francisco applied for jobs for as many as 16,000 people and ran the program from Larkin Hall in the Civic Auditorium [1]. On Thanksgiving Day, November 30, local chairman Frederick Whitten announced the first assignments. Along with 2,800 men for Lake Merced Boulevard, he sent 200 to the Odd Fellows Cemetery on the west slope of Lone Mountain. More came later [1]. The Odd Fellows had moved some 26,000 graves to their new Greenlawn Cemetery in Colma in 1932 [2]. A photograph taken the day after Christmas 1933 shows the crews at work on what became Rossi Playground [1][2]. The CWA was criticised for offering no lasting jobs, and Roosevelt ended it in 1934 before launching the WPA the next year [1]. The paychecks were temporary, but the playground is still here [1].",
+    "people": [
+      {
+        "name": "Frederick Whitten",
+        "role": "chairman, San Francisco CWA works committee"
+      }
+    ],
+    "sources": [
+      {
+        "title": "CWA Projects in San Francisco: A Closer Look",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2019,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2019/12/21/cwa-projects-in-san-francisco-a-closer-look/",
+        "supports": "CWA creation, SF office and job target, Thanksgiving assignments, 200 men, Dec 26 photo, CWA's end"
+      },
+      {
+        "title": "Odd Fellows Cemetery: A Closer Look",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2020,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2020/11/15/odd-fellows-cemetery-a-closer-look/",
+        "supports": "26,000 graves moved to Green Lawn in 1932; conversion to Rossi Playground by end of 1933"
+      }
+    ],
+    "photo": null
+  }
+]

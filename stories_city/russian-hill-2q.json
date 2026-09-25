@@ -1,0 +1,437 @@
+[
+  {
+    "id": "russian-hill-2q-selby-smelter",
+    "title": "The mayor's smelter on the cove",
+    "theme": "labor-industry",
+    "year": 1867,
+    "yearEnd": 1885,
+    "place": {
+      "label": "Selby smelter site, eastern shore of Black Point Cove near Beach and Larkin streets",
+      "lat": 37.8062,
+      "lon": -122.4218,
+      "precision": "area"
+    },
+    "hook": "For eighteen years a lead smelter owned by a future mayor smoked on the shore of today's Aquatic Park, until it packed up for the other side of the bay.",
+    "story": "Thomas Henry Selby was 29 when the Gold Rush drew him from New York to San Francisco, where he became a merchant. He built the Selby Shot Tower and founded the Selby Smelting Works [2]. In 1867 he put up a large smelter on the eastern shore of Black Point Cove, today's Aquatic Park. With the water company's pump station and the woolen mill beside it, the shoreline took on a decidedly industrial character [1]. The army, which had fortified Black Point in 1863, decided in 1869 to evict these 'squatting' industries. Opposition was fierce, and on July 1, 1870, Congress shrank the military reservation, leaving the cove to the private speculators who occupied it [1]. By then Selby was mayor, serving from December 1869 to December 1871 as the city's first Republican mayor [2]. The works loomed over the swimmers: in August 1875 the banker William Ralston took his last swim off the end of Larkin Street 'in the shadow of the Selby Lead Smelting Works' [3]. Selby himself had died of pneumonia that June [2]. In 1885 the company closed the smelter, saying it needed rail service, deep-water frontage and room to grow, and within the year it had moved to the eastern shore of the bay [1].",
+    "people": [
+      {
+        "name": "Thomas Henry Selby",
+        "role": "merchant, smelter owner and mayor of San Francisco 1869–1871"
+      }
+    ],
+    "sources": [
+      {
+        "title": "James P. Delgado, 'A Dream of Seven Decades: San Francisco's Aquatic Park' (reprinted from California History 64:4)",
+        "publisher": "California Historical Society / National Park Service",
+        "year": 1985,
+        "url": "https://archive.org/details/ADreamOfSevenDecadesSanFranciscosAquaticPark",
+        "supports": "1867 smelter on the cove's eastern shore, army eviction attempt and 1870 act of Congress, 1885 closure and move"
+      },
+      {
+        "title": "Thomas Henry Selby",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Thomas_Henry_Selby",
+        "supports": "Gold Rush arrival, shot tower and smelting works, mayoral term, first Republican mayor, death in June 1875"
+      },
+      {
+        "title": "Real Drowning off Aquatic Park",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Real_Drowning_off_Aquatic_Park",
+        "supports": "Ralston's 1875 swim in the shadow of the Selby Lead Smelting Works"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-2q-union-street-cable",
+    "title": "The cable line that crowned Russian Hill",
+    "theme": "gold-rush-victorian",
+    "year": 1880,
+    "yearEnd": 1906,
+    "place": {
+      "label": "Union Street hill between Larkin and Polk, on the Presidio & Ferries cable line",
+      "lat": 37.79902,
+      "lon": -122.42158,
+      "precision": "street"
+    },
+    "hook": "In 1880 the first cable line to take on Russian Hill hauled its cars along Union Street from a powerhouse on the summit, and rounded the first cable-car corner.",
+    "story": "The Presidio & Ferries Railroad, organised in 1878, was the first cable line to take on Russian Hill. Andrew Hallidie had been president of its predecessor company [1]. It opened on October 23, 1880 [1][2]. A horsecar from the Ferry Building met the cable at Montgomery Street (now Columbus Avenue). The cable ran out Columbus and turned west along Union to Steiner, where a steam train carried on to the Presidio: three kinds of transport on one ride [1]. The powerhouse stood at the line's highest point, at Union and Sharp Place near Leavenworth, on the summit of the hill. That eased the strain on the cables but made hauling fuel uphill harder [1]. It was the first cable line to go around a corner, at Columbus and Union [2]. In November 1885 a car climbing the steep hill between Larkin and Polk 'broke its grip and started back down the hill at a rapid rate' [2]. In 1904 a storm swept a train off its tracks at Baker and Union [1]. The 1906 earthquake twisted the Union Street rails, and the line took the worst damage of any cable road. It was rebuilt as an electric line [1][2]. The city took it over in 1913, and its descendant is the 41 Union trolleybus line, suspended since 2020 [1][3].",
+    "people": [
+      {
+        "name": "Andrew S. Hallidie",
+        "role": "president of the predecessor Presidio Railroad Co."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Presidio & Ferries Railroad – 1880",
+        "publisher": "Cable Car Museum",
+        "year": 2022,
+        "url": "http://www.cablecarmuseum.org/co-presidio-ferries.html",
+        "supports": "organisation, opening date, route, summit powerhouse, 1904 storm, 1906 damage and electrification, 1913 city takeover"
+      },
+      {
+        "title": "Presidio & Ferries Railway (Joe Thompson, The Cable Car Home Page)",
+        "publisher": "cable-car-guy.com",
+        "year": 2018,
+        "url": "http://www.cable-car-guy.com/html/ccsfpf.html",
+        "supports": "first line to turn a corner, 1885 runaway between Larkin and Polk, 1906 twisted tracks, 41 Union successor"
+      },
+      {
+        "title": "41 Union",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/41_Union",
+        "supports": "1913 municipal takeover, E Union streetcar and later trolleybus route"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-2q-hyde-street-grip",
+    "title": "Two-and-twenty let-gos on the Hyde Street Grip",
+    "theme": "gold-rush-victorian",
+    "year": 1891,
+    "yearEnd": 1957,
+    "place": {
+      "label": "Hyde and Union streets, where Hyde Street cars dropped the rope to cross the Union Street cable",
+      "lat": 37.79903,
+      "lon": -122.41916,
+      "precision": "street"
+    },
+    "hook": "San Francisco's last new cable line crossed so many older ones that its gripmen let go of the rope 22 times a trip. Gelett Burgess put it in verse.",
+    "story": "On February 9, 1891, the California Street Cable Railroad opened its O'Farrell, Jones and Hyde line, 2.5 miles from Market Street over Russian Hill to Beach Street. It was the last new cable line built in the city [1]. Coming last meant giving way at every crossing: its cars used a bottom grip and had to drop the rope 22 times on a round trip, at nine crossings, the powerhouse and the end of the line. At Union Street they had to let go to cross the older Presidio & Ferries cable [2]. The poet Gelett Burgess, of 'The Purple Cow' fame, caught the gripman's job in 'The Ballad of the Hyde Street Grip', published in 1901: 'Two-and-twenty \"let-go's\" every double trip / It takes a bit of doing on the Hyde Street Grip!' And: 'Drop your rope at Union—never make a slip' [1]. Cal Cable stopped on July 31, 1951, after Lloyd's of London cancelled its insurance when an injured waitress won a $140,000 judgment [1]. Muni reopened it in 1952, but the last O'Farrell, Jones and Hyde car went into the barn on May 15, 1954 [1][2]. In 1957 its Hyde Street leg was joined to a cut-back Powell line to create today's Powell–Hyde route, whose descent of about 21 percent is the steepest in the system [1][3].",
+    "people": [
+      {
+        "name": "Gelett Burgess",
+        "role": "poet, author of 'The Ballad of the Hyde Street Grip'"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Ballad of the Hyde St Grip (introduction by Walter Rice, with poem text)",
+        "publisher": "cable-car-guy.com",
+        "year": 2004,
+        "url": "http://www.cable-car-guy.com/html/cchsg.html",
+        "supports": "1891 opening, last new line, 1901 poem and text, 1951 insurance shutdown, 1952 Muni takeover, 1954 end, 1957 Powell-Hyde"
+      },
+      {
+        "title": "California Street Cable Railroad (Joe Thompson, The Cable Car Home Page)",
+        "publisher": "cable-car-guy.com",
+        "year": 2018,
+        "url": "http://www.cable-car-guy.com/html/ccsfcsc.html",
+        "supports": "bottom grip, 22 rope drops, inferior crossing at Hyde and Union, last car May 15, 1954"
+      },
+      {
+        "title": "San Francisco cable car system (Powell–Hyde line section)",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_cable_car_system",
+        "supports": "1957 combination of the Hyde leg with a truncated Powell line; 21% steepest grade"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-2q-paris-block-survivors",
+    "title": "The Paris Block's survivors",
+    "theme": "architecture-landmarks",
+    "year": 1906,
+    "yearEnd": 1964,
+    "place": {
+      "label": "South side of the 1000 block of Green Street (the Paris Block), between Leavenworth and Jones",
+      "lat": 37.79833,
+      "lon": -122.41632,
+      "precision": "block"
+    },
+    "hook": "When fire swept Russian Hill in 1906, one side of this Green Street block burned and the other lived. The survivors include a house that had already moved once.",
+    "story": "The 1000 block of Green Street is a single flat block on top of Russian Hill, lined with eleven houses set back behind fenced gardens, each in a different style [1]. In 1906 the fire that destroyed most of San Francisco left a few pockets, including parts of Russian Hill, where houses were saved by residents who refused the order to leave and by how thinly the hilltop was built. On this block every house on the north side burned, but five on the south side survived [1]. Number 1033, an early Italianate built around 1870 somewhere else, had been moved here around 1891. Its owner was a fashionable tailor, Oliver W. Nordwell; from 1897 a cannery superintendent, James S. Cowan, lived in it [1]. Number 1045, the smallest house on the block, dates from about 1867. John O'Brien, an employment and real estate agent, moved in in 1875, and his son Charles, a postman, added shingles and a cupola around 1910 and stayed until 1945 [1]. Number 1055, an 1866 cottage, was remade by Julia Morgan in 1915 as a Beaux Arts villa [1][2]. The nickname came much later, probably coined by Margot Patterson Doss in a Chronicle column of July 5, 1964. Residents credited Lewis Hobart's elegant Bos Apartments of 1913 at 1050 Green [1][2].",
+    "people": [
+      {
+        "name": "Charles W. O'Brien",
+        "role": "postman, resident of 1045 Green St c.1875–1945"
+      },
+      {
+        "name": "Julia Morgan",
+        "role": "architect, remodelled 1055 Green St"
+      },
+      {
+        "name": "Margot Patterson Doss",
+        "role": "Chronicle columnist who probably coined 'Paris Block'"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register #87002288: Russian Hill–Paris Block Architectural District (adapted from the 1987 nomination)",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2019,
+        "url": "https://noehill.com/sf/landmarks/nat1987002288.aspx",
+        "supports": "block description, 1906 survival of five south-side houses, histories of 1033, 1045, 1050 and 1055 Green, origin of the name"
+      },
+      {
+        "title": "Urban Outings: Russian Hill hike (Gail Todd)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2009,
+        "url": "https://www.sfgate.com/outdoors/article/Russian-Hill-hike-San-Francisco-3255772.php",
+        "supports": "Julia Morgan's 1915 redesign of 1055 Green; Hobart's 1913 building at 1050 Green"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-2q-haslett-warehouse",
+    "title": "Peaches, monastery stones and the waiting dead",
+    "theme": "labor-industry",
+    "year": 1909,
+    "yearEnd": 1963,
+    "place": {
+      "label": "Haslett Warehouse, 680 Beach St at Hyde",
+      "lat": 37.80682,
+      "lon": -122.4201,
+      "precision": "building"
+    },
+    "hook": "Built to store canned fruit, this brick warehouse on Beach Street later held a Spanish monastery in numbered pieces and the dead awaiting passage home to China.",
+    "story": "The California Fruit Canners Association, whose largest peach cannery stood across the street [3], commissioned this warehouse at the same time as the Cannery. It went up in 1907–1909 to designs by William S. Mooser Jr. [1]. Until 1936, peaches, asparagus, cherries and apricots came from the interior valleys by riverboat and ferry. Once canned, they were shuttled across the street on a short railroad line to be stored here. From 1916, after a merger created the California Packing Company, they carried the Del Monte label [1]. By 1936 canning had moved to the East Bay, and in 1948 the Haslett Warehouse Company bought the building [1]. Over the years it sheltered strange cargo. Some 10,000 stones of Santa María de Óvila, a Spanish monastery bought by William Randolph Hearst for a castle he never built, reached San Francisco in 1931 on eleven freighters and were stored here, running up fees of $15,000 a year [2]. (The landmark report calls it Italian and dates its stay 1930–1943 [1].) Shortly after the Second World War it served as a mortuary. The bodies of Chinese dead bound for burial in their homeland rested here until brokers decided there was a full cargo for China [1]. In 1963 the state bought the building for a railroad museum that never opened [1].",
+    "people": [
+      {
+        "name": "William S. Mooser Jr.",
+        "role": "architect"
+      },
+      {
+        "name": "William Randolph Hearst",
+        "role": "publisher who stored a dismantled monastery here"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #59: Haslett Warehouse (adapted from City Planning Commission Resolution 7075, 1973)",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2009,
+        "url": "https://noehill.com/sf/landmarks/sf059.asp",
+        "supports": "construction, architect, fruit route and rail link, Del Monte, 1948 purchase, Hearst monastery stones (described as Italian, 1930–1943), post-war mortuary, 1963 state purchase"
+      },
+      {
+        "title": "Santa María de Óvila",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Monastery_of_Santa_Mar%C3%ADa_de_%C3%93vila",
+        "supports": "Hearst purchase, 10,000 stones on 11 freighters, storage in the Haslett warehouse at $15,000 a year"
+      },
+      {
+        "title": "Cannery",
+        "publisher": "FoundSF",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=Cannery",
+        "supports": "California Fruit Canners Association and its largest peach cannery across the street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-2q-belt-line-tunnel",
+    "title": "A railroad under the point to the fair",
+    "theme": "architecture-landmarks",
+    "year": 1914,
+    "yearEnd": 1993,
+    "place": {
+      "label": "Belt Line tracks at the north end of Van Ness Avenue, by the Fort Mason Tunnel's east portal",
+      "lat": 37.8057,
+      "lon": -122.425,
+      "precision": "area"
+    },
+    "hook": "To reach the 1915 world's fair, a waterfront railroad crossed Black Point Cove on a trestle and bored under Fort Mason. The tunnel is still waiting for trains.",
+    "story": "In 1913 backers of the coming Panama-Pacific International Exposition wanted the waterfront Belt Line Railroad to reach their fairground west of Black Point. They won permission to run it across Black Point Cove, today's Aquatic Park, on an elevated trestle, and to cut a tunnel through Black Point itself. The tailings were dumped beside the trestle [1]. The single-track tunnel opened to trains in 1914. Its east portal is near the north end of Van Ness Avenue, its west portal on Marina Boulevard at Laguna Street. It carried goods and passengers to the fair, and the army used it to build its port of embarkation at Fort Mason [2]. In 1921 the trestle was moved closer inland [1]. The state-owned Belt Railroad, begun in 1889, eventually ran 67 miles of track linking the docks to the big railroads [3]. Part of Dirty Harry was filmed on either side of the tunnel in 1971 [2], and in November 1975 the American Freedom Train's locomotive, Southern Pacific No. 4449, stood on display at Aquatic Park near the foot of Hyde Street [3]. Service ended in 1993 [2][3]. In 2012 the National Park Service released a final environmental report on running Muni's F-line streetcars through the tunnel; in 2017 the cost was put at $60 million [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "James P. Delgado, 'A Dream of Seven Decades: San Francisco's Aquatic Park' (reprinted from California History 64:4)",
+        "publisher": "California Historical Society / National Park Service",
+        "year": 1985,
+        "url": "https://archive.org/details/ADreamOfSevenDecadesSanFranciscosAquaticPark",
+        "supports": "1913 trestle and tunnel for the Exposition, tailings, 1921 relocation of the trestle"
+      },
+      {
+        "title": "Fort Mason Tunnel",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Fort_Mason_Tunnel",
+        "supports": "1913–14 construction, portals, Exposition and army use, Dirty Harry, 1993 suspension, F-line study and cost"
+      },
+      {
+        "title": "San Francisco Belt Railroad",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Belt_Railroad",
+        "supports": "1889 origin, 67 miles, 1975 Freedom Train locomotive at Aquatic Park, 1993 closure"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-2q-municipal-pier",
+    "title": "A curving pier built from leftovers",
+    "theme": "parks-nature",
+    "year": 1931,
+    "yearEnd": 1933,
+    "place": {
+      "label": "Foot of Van Ness Avenue, landward end of the Aquatic Park Municipal Pier",
+      "lat": 37.8064,
+      "lon": -122.4245,
+      "precision": "area"
+    },
+    "hook": "Voters refused to pay for Aquatic Park, so the city built half a pier anyway, using salvaged timber, borrowed tools and a stockpile of old street cobblestones.",
+    "story": "In 1923 the architects Bakewell, Brown and Bauer drew an ambitious plan for Black Point Cove: curving concrete piers arcing into the bay to enclose the water, at a cost of almost two million dollars [1]. A bond issue went to voters in November 1928 with ads urging, 'People Demand and Deserve A Safe Place to SWIM, ROW, FISH in the Heart of San Francisco.' Hoping it would pass, the supervisors set aside $100,000 for one enclosing pier. The bonds failed, but the money had been promised [1]. Van Ness Avenue was pushed out over landfill to the tip of Black Point, and on August 17, 1931, a crew began clearing the site beside a sign announcing 'Site of San Francisco's AQUATIC PARK.' Salvaged cribbing was piled at the foot of Van Ness. By December the Healy-Tibbetts company had the first half of the reinforced concrete pier in place [1]. Then the money ran out, and it sat half-built until 1933. While the city waited, workers with borrowed tools stockpiled granite cobblestones trucked in from resurfaced streets [1]. The WPA later built a stepped granite cobblestone seawall whose curve mirrors the pier's [1]. The curving Municipal Pier is now part of the Aquatic Park Historic District, a National Historic Landmark since 1987 [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "James P. Delgado, 'A Dream of Seven Decades: San Francisco's Aquatic Park' (reprinted from California History 64:4)",
+        "publisher": "California Historical Society / National Park Service",
+        "year": 1985,
+        "url": "https://archive.org/details/ADreamOfSevenDecadesSanFranciscosAquaticPark",
+        "supports": "1923 plan, 1928 bond campaign and failure, $100,000 appropriation, 1931 start, Healy-Tibbetts, half-built until 1933, cobblestones, WPA seawall"
+      },
+      {
+        "title": "Aquatic Park Historic District",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Aquatic_Park_Historic_District",
+        "supports": "Municipal Pier within the Aquatic Park Historic District, a National Historic Landmark since 1987"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-2q-fontana-height-limit",
+    "title": "Pasta factory towers and the 40-foot line",
+    "theme": "civil-rights",
+    "year": 1961,
+    "yearEnd": 1964,
+    "place": {
+      "label": "Fontana Towers, 1000–1050 North Point St at Van Ness (site of the Fontana pasta factory)",
+      "lat": 37.80551,
+      "lon": -122.42416,
+      "precision": "building"
+    },
+    "hook": "Two curving towers rose where a spaghetti factory had stood. The fight they set off, with Caspar Weinberger as the neighbours' lawyer, held the northern waterfront to 40 feet.",
+    "story": "The brick Fontana spaghetti factory stood at North Point and Van Ness; in 1950 the army was using the old warehouse as a motor pool [1]. In the early 1960s developers proposed replacing it with curving 17-story towers [1]. In December 1960 the city's planning director, James McCarthy, had warned against a 'Chinese Wall' of skyscrapers along the waterfront like lower Manhattan's [1]. Russian Hill residents, mostly well off, organised through the Russian Hill Improvement Association. Their lawyer was Caspar Weinberger, a Republican former assemblyman who would later be Ronald Reagan's Secretary of Defense [1]. They were too late: the Fontana Towers went up in 1962 [1][2]. But the fight spread. In June 1961 the Planning Commission voted a temporary 40-foot height limit over about 100 blocks of the northern waterfront. Twenty-two neighbourhood groups, including the Telegraph Hill Dwellers, gathered 8,000 signatures, while the Real Estate Board, contractors and the Building Trades Council fought back [1]. In February 1964 the supervisors made the 40-foot limit permanent by 9 votes to 1. Weinberger argued it would preserve 'the whole relationship of the city to the Bay' [1]. Next door, talk of a similar tower on the Ghirardelli chocolate works set the stage for its rescue as Ghirardelli Square [2].",
+    "people": [
+      {
+        "name": "Caspar Weinberger",
+        "role": "lawyer for the Russian Hill Improvement Association"
+      },
+      {
+        "name": "James R. McCarthy",
+        "role": "San Francisco planning director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Height Limit Revolt Saves Waterfront Vistas (Chris Carlsson, after Jasper Rubin, A Negotiated Landscape)",
+        "publisher": "FoundSF",
+        "year": 2014,
+        "url": "https://www.foundsf.org/index.php?title=Height_Limit_Revolt_Saves_Waterfront_Vistas",
+        "supports": "factory and motor pool, 17-story proposal, McCarthy warning, RHIA and Weinberger, 1961 interim limit, petition, opponents, 1964 vote and quote"
+      },
+      {
+        "title": "Ghirardelli Square",
+        "publisher": "FoundSF",
+        "year": 2014,
+        "url": "https://www.foundsf.org/index.php?title=Ghirardelli_Square",
+        "supports": "Fontana Towers built in 1962 on the pasta factory site; plans for a similar high-rise at Ghirardelli"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-2q-eichler-summit",
+    "title": "The suburban builder's tower on Russian Hill",
+    "theme": "architecture-landmarks",
+    "year": 1967,
+    "yearEnd": null,
+    "place": {
+      "label": "The Summit, 999 Green St at Jones",
+      "lat": 37.79845,
+      "lon": -122.41522,
+      "precision": "building"
+    },
+    "hook": "Joseph Eichler made his name with low, glass-walled homes in the suburbs. On Russian Hill he built a 32-story concrete tower, moved into the penthouse, and watched his company fail.",
+    "story": "Joseph Eichler's company was known for low-slung, wood-framed modern houses in suburban tracts [2]. When land prices soared in the mid-1960s, Eichler turned to the city, building projects in the Western Addition and Visitacion Valley, row houses on Diamond Heights and a luxury high-rise on Russian Hill: the Summit, at 999 Green Street [1][3]. It was nothing like an Eichler home, a 32-story tower of reinforced concrete and glass. Eichler and his wife lived in the penthouse [2]. The big projects overextended the firm. By the mid-1960s Eichler Homes was in financial distress, and in 1967 it filed for bankruptcy [1]. The Eichler Network blames financial problems 'tied to urban projects like the Eichler Summit' [4]. The tower still dominates the crest. Tiny Russian Hill Place, lined with four small Mediterranean villas that Willis Polk built for Norman Livermore, ends abruptly against it [3]. The Chronicle's walking guide notes that the tall Green Street towers here were built before 40-foot height limits came to Russian Hill in the early 1970s [3]. Plenty of residents never knew the Summit was an Eichler. When the philanthropist Lorry Lokey put his unit up for sale in 2014 to fund his giving, he said he had known from the start [2].",
+    "people": [
+      {
+        "name": "Joseph Eichler",
+        "role": "developer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Joseph Eichler",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Joseph_Eichler",
+        "supports": "mid-1960s urban projects including the Summit, financial distress, 1967 bankruptcy"
+      },
+      {
+        "title": "Eichler Summit Sale Will Benefit Charity (Dave Weinstein)",
+        "publisher": "Eichler Network",
+        "year": 2014,
+        "url": "https://www.eichlernetwork.com/blog/dave-weinstein/eichler-summit-sale-will-benefit-charity",
+        "supports": "32-story reinforced concrete tower, Eichler's penthouse, Lokey's sale"
+      },
+      {
+        "title": "Urban Outings: Russian Hill hike (Gail Todd)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2009,
+        "url": "https://www.sfgate.com/outdoors/article/Russian-Hill-hike-San-Francisco-3255772.php",
+        "supports": "Summit at 999 Green built by Eichler, Russian Hill Place backing into it, Green Street towers predating early-1970s height limits"
+      },
+      {
+        "title": "Eichler's Shangri-La",
+        "publisher": "Eichler Network",
+        "year": 2015,
+        "url": "https://www.eichlernetwork.com/article/eichlers-shangri-la",
+        "supports": "bankruptcy tied to urban projects like the Eichler Summit"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-2q-duskin-prop-t",
+    "title": "The tower that never rose on Hyde Street",
+    "theme": "civil-rights",
+    "year": 1971,
+    "yearEnd": null,
+    "place": {
+      "label": "Hyde Street at Lombard, facing the Alice Marble playground",
+      "lat": 37.80221,
+      "lon": -122.41939,
+      "precision": "block"
+    },
+    "hook": "In 1971 a sweater maker's campaign against a 'skyline of tombstones' lost at the polls, yet by his account his Russian Hill volunteers won their hill a 40-foot limit.",
+    "story": "In 1971 Alvin Duskin, a San Francisco-born maker of sweaters and mini-dresses, put Proposition T on the ballot. It would have capped new buildings at 72 feet, about six stories, unless voters approved a taller one [2]. His full-page ads warned of 'a skyline of tombstones', and he got 16 artists to fill a coloring book asking how many tourists would come if San Francisco looked like 'the Detroit or Newark they just left' [2]. Mayor Joseph Alioto and the Chronicle called him an irresponsible extremist. Prop T led in early polls and pushed the city to speed up an urban design plan limiting heights, but on election day it fell short [2]. Duskin later recalled that his strongest support came from Russian Hill. A Kansas City developer, Werner Haas, had bought the lot at the top of Hyde Street facing the little Alice Marble playground, where Duskin said the second-biggest building in the city was planned [1]. His own family lived on Vallejo Street between Hyde and Leavenworth, which was set to be ringed by high-rises [1]. 'The city fathers, in their wisdom, saw that we were winning,' he said. 'They down-zoned Russian Hill to 40 feet.' The developer, by his account, lost two million dollars, and with their own streets safe his volunteers drifted away [1].",
+    "people": [
+      {
+        "name": "Alvin Duskin",
+        "role": "clothing maker and leader of the 1971 Proposition T campaign"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alvin Duskin, High Rise Hater (interview by Marcus Duskin)",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Alvin_Duskin,_High_Rise_Hater",
+        "supports": "Russian Hill support, Haas lot opposite Alice Marble playground, Vallejo Street, down-zoning to 40 feet"
+      },
+      {
+        "title": "1971 high-rise hater Duskin still standing tall (John King)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2009,
+        "url": "https://www.sfgate.com/entertainment/article/1971-high-rise-hater-Duskin-still-standing-tall-3224219.php",
+        "supports": "Proposition T terms, ads, coloring book, Alioto's criticism, early poll lead and defeat"
+      }
+    ],
+    "photo": null
+  }
+]

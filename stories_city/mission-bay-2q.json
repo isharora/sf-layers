@@ -1,0 +1,688 @@
+[
+  {
+    "id": "mission-bay-2q-steamboat-point-shipyards",
+    "title": "Riverboat palaces built on a beach",
+    "theme": "labor-industry",
+    "year": 1854,
+    "yearEnd": 1864,
+    "place": {
+      "label": "Steamboat Point, south side of Townsend between Third and Fourth streets",
+      "lat": 37.7776,
+      "lon": -122.39307,
+      "precision": "block"
+    },
+    "hook": "Before landfill, Townsend Street was a beach. On that narrow shelf, Gold Rush shipwrights built the Pacific Coast's first three-master and the speed queen of the Sacramento riverboats.",
+    "story": "In the 1850s the edge of Mission Bay ran along Townsend Street, and the point of land between Second and Fourth streets was home to its most important early industry, shipbuilding. It took its name from that trade: Steamboat Point [1]. There was no proper yard at all, just water, a sliver of flat ground, timber and skilled men [1]. Domingo Marcuci had arrived with a steamboat shipped out in pieces and put it together in six weeks. He moved his work to Fourth and King [1]. John G. North set up 'on the south side of Townsend, between Third and Fourth' around 1854. That year he launched the Susan and Kate Dellin, said to be the first three-masted schooner on the Pacific Coast [1]. The banker William Ralston had his yacht Brisk cut in two and lengthened in North's yard [1]. North's most famous boat was the 245-foot sidewheeler Chrysopolis of 1860. On December 31, 1861, she ran from Sacramento to San Francisco in 5 hours 19 minutes [2]. Sources disagree on where she was built. One places her at Steamboat Point, the other at North's new yard in the Potrero [1][2]. By the mid-1860s the builders were moving out to the Potrero, complaining that Steamboat Point no longer had enough elbowroom [1].",
+    "people": [
+      {
+        "name": "John G. North",
+        "role": "shipbuilder"
+      },
+      {
+        "name": "Domingo Marcuci",
+        "role": "shipbuilder"
+      },
+      {
+        "name": "William Ralston",
+        "role": "banker, yacht owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Steamboat Point, 1851-1864 (from Vanished Waters)",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Steamboat_Point,_1851-1864",
+        "supports": "Location and extent of Steamboat Point; Marcuci, North's yard location, Susan and Kate Dellin, Ralston's Brisk, Chrysopolis from North's yard, builders leaving"
+      },
+      {
+        "title": "Chrysopolis (sidewheeler)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Chrysopolis_(sidewheeler)",
+        "supports": "Dimensions, 1861 record run, Wikipedia's claim that she was built at North's Potrero yard"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-camanche-monitor",
+    "title": "The ironclad that sank before launch",
+    "theme": "war-military",
+    "year": 1864,
+    "place": {
+      "label": "Third and King streets, launching site of the monitor Camanche",
+      "lat": 37.7784,
+      "lon": -122.3921,
+      "precision": "street"
+    },
+    "hook": "A Civil War warship came around Cape Horn in pieces, sank with the ship carrying it, then was fished from the bay and bolted together at Third and King.",
+    "story": "The Civil War monitor Camanche was prefabricated in Jersey City, New Jersey, then taken apart and shipped around Cape Horn in the sailing ship Aquila [1][2]. The Aquila reached San Francisco on November 10, 1863. Four days later a storm and a collision sent her to the bottom at her wharf, in about 30 feet of water, with the warship in her hold [1][2]. The pieces were salvaged. Mechanics from Peter Donahue's Union Iron Works then put the 200-foot monitor together on the Mission Bay shore at Third and King [3]. Her turret armor was eleven inches thick [3]. The site had once been one of John North's shipyards [3]. Camanche was launched on November 14, 1864, a year to the day after the sinking [1][2]. She was commissioned in 1865, after the war ended; sources differ on whether that was May or August [1][2]. For over a year she was the only U.S. ironclad on the Pacific coast [1]. Her life after that was quiet, mostly laid up at Mare Island. She was sold in 1899 and turned into a coal barge [1][2]. In 1937 the Sausalito News described her lying at the Bethlehem shipyard as 'a useless forgotten hulk' [1].",
+    "people": [
+      {
+        "name": "Peter Donahue",
+        "role": "ironworks owner"
+      },
+      {
+        "name": "Charles J. McDougal",
+        "role": "first commander"
+      }
+    ],
+    "sources": [
+      {
+        "title": "USS Camanche (1864)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/USS_Camanche_(1864)",
+        "supports": "Prefabrication, Aquila voyage and sinking dates, launch date, only Pacific ironclad, later collier and 1937 hulk quote"
+      },
+      {
+        "title": "USS Camanche",
+        "publisher": "NavSource Naval History",
+        "year": null,
+        "url": "https://web.archive.org/web/2020/http://www.navsource.org/archives/01/camanche.htm",
+        "supports": "Aquila sank at her dock 14 Nov 1863; salvaged, assembled at San Francisco, launched 14 Nov 1864; sold 1899"
+      },
+      {
+        "title": "Steamboat Point, 1851-1864 (from Vanished Waters)",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Steamboat_Point,_1851-1864",
+        "supports": "Assembled at Third and King by Union Iron Works mechanics; 11-inch turret armor; site of John North's earlier shipyard"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "mission-bay-2q-hay-wharf",
+    "title": "Hay scows for a city of horses",
+    "theme": "labor-industry",
+    "year": 1884,
+    "yearEnd": 1909,
+    "place": {
+      "label": "Site of the Hay Wharf, north side of the channel near Third Street",
+      "lat": 37.777,
+      "lon": -122.39,
+      "precision": "area"
+    },
+    "hook": "San Francisco's horses ran on hay, much of it brought by boat. For decades it was unloaded, stacked and sometimes set alight at one crowded wharf on the channel.",
+    "story": "In the horse-drawn city, hay was fuel, and it came by water. Flat-bottomed scow schooners carried it from Petaluma, Sacramento, Milpitas and many sloughs in between [1][2]. Nobody wanted the hay men nearby. In 1876 the Call complained that they used the wharves as warehouses and peddled hay straight off them. That year the supervisors reneged on a promise to set aside the China Basin area for the hay dealers [1]. By 1884 the dealers had their own wharf anyway. It stuck out at an angle into the channel from Pope & Talbot's lumberyard, between Second and Third streets, and left only a narrow passage [1][2]. Often a dozen or more scows lay there at once, tied two or three abreast, each loaded with five or six tiers of bales [1]. The Annie L., built in 1900 by Emil Munder, was 65 feet long and could bring in over 350 bales [1]. Hay burns easily. In a single week in 1896 three fires broke out at the wharf, blamed on scow men knocking out their pipes. A burning scow could drift out on the ebb tide, 'burning picturesquely' [1]. For a while the channel itself was known as the Hay wharf [3]. Once trucks replaced horses, the trade vanished without a trace [2].",
+    "people": [
+      {
+        "name": "Emil Munder",
+        "role": "builder of the scow schooner Annie L."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Work on Land & Water, 1880-1920 (from Vanished Waters)",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Work_on_Land_%26_Water,_1880-1920",
+        "supports": "1876 Call complaint and supervisors reneging, 1884 wharf location, scows abreast, Annie L., 1896 fires"
+      },
+      {
+        "title": "Mission Bay Gazeteer of Historic Places",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Bay_Gazeteer_of_Historic_Places",
+        "supports": "Hay dealers from Petaluma, wharf between Second and Third off Pope and Talbot, trade ended with the truck"
+      },
+      {
+        "title": "Filling The Bay Along San Francisco's Southern Waterfront",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Filling_The_Bay_Along_San_Francisco%E2%80%99s_Southern_Waterfront",
+        "supports": "The channel first became known as the Hay wharf"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-baker-hamilton",
+    "title": "The warehouse the 1906 fire skipped",
+    "theme": "architecture-landmarks",
+    "year": 1905,
+    "yearEnd": 1981,
+    "place": {
+      "label": "Baker & Hamilton Building, 601 Townsend Street (Seventh and Townsend)",
+      "lat": 37.77135,
+      "lon": -122.402,
+      "precision": "building"
+    },
+    "hook": "It was built for a hardware firm founded by two of the railroad's Big Four. In 1906 the fire came down Townsend Street, then turned away.",
+    "story": "The brick warehouse at Seventh and Townsend was built in 1904-05 for the Pacific Hardware and Steel Company. Mark Hopkins and Collis P. Huntington had founded the firm in Sacramento in the 1850s [1]. Sutton & Weeks designed it. Years later Charles Peter Weeks, working with W.P. Day, designed the Mark Hopkins and Huntington hotels on Nob Hill [1]. In April 1906 the fire came down Townsend Street, turned north and burned only the east side of Seventh. The warehouse survived, and the rebuilding boom made the company one of the biggest steel and hardware wholesalers in the West [1]. The new warehouse district grew up around it [1][2]. In 1918 the firm merged with Baker & Hamilton, a Gold Rush hardware house. Baker & Hamilton had built the 'Sweepstake' wooden-wheel plow, the first made on a large scale, and later the steel 'Eureka' [1][2]. Rail cars loaded along Townsend and wagons along King [1]. The business left in 1981 [1]. In 2000-01 the building was turned into offices, later used by Macromedia and then Adobe [1][3]. The rooftop sign still reads 'BAKER HAMILTON, SINCE 1849' [1].",
+    "people": [
+      {
+        "name": "Charles Peter Weeks",
+        "role": "architect"
+      },
+      {
+        "name": "Albert Sutton",
+        "role": "architect"
+      },
+      {
+        "name": "Mark Hopkins",
+        "role": "co-founder, Pacific Hardware and Steel"
+      },
+      {
+        "name": "Collis P. Huntington",
+        "role": "co-founder, Pacific Hardware and Steel"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Registration Form: Baker & Hamilton",
+        "publisher": "National Park Service",
+        "year": 2004,
+        "url": "https://npgallery.nps.gov/GetAsset/NRHP/05000001_text",
+        "supports": "1904-05 construction, Hopkins and Huntington founding, Sutton & Weeks and later Weeks & Day hotels, 1906 fire path, 1918 merger, plows, rail and wagon loading, 1981 closure, 2000-01 rehab, roof sign"
+      },
+      {
+        "title": "San Francisco Landmark #193: Baker and Hamilton",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf193.asp",
+        "supports": "Landmark significance, warehouse district, Sweepstake and Eureka plows"
+      },
+      {
+        "title": "Baker and Hamilton Building",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Baker_and_Hamilton_Building",
+        "supports": "Later office tenants Organic, Macromedia and Adobe"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-sp-roundhouse",
+    "title": "Where the Southern Pacific turned its engines",
+    "theme": "labor-industry",
+    "year": 1905,
+    "yearEnd": 2014,
+    "place": {
+      "label": "Former Southern Pacific Mission Bay yard, rail crossing on 16th Street near Third",
+      "lat": 37.7668,
+      "lon": -122.3912,
+      "precision": "area"
+    },
+    "hook": "The Southern Pacific once turned its locomotives on a roundhouse here. The last tracks across 16th Street survived until the children's hospital was nearly finished.",
+    "story": "By 1938, an aerial photograph shows Mission Bay as largely a Southern Pacific railyard [1]. The yard's heart was a roundhouse, where engines could be switched from one track to another. A 1905 Sanborn map and a 1938 aerial photo put it near Mariposa and Third (then Kentucky) Street; photo captions on another page place it near Mariposa and Minnesota [1][2][3]. The 1905 Sanborn map shows it with a surprising amount of Mission Bay still under water nearby [2]. The roundhouse's workers often came from the Italian neighborhood on Potrero Hill. A 1942 photograph of the roundhouse crew shows Frank I. Alioto in the center of the second row [2]. Around 1943, Library of Congress photographer Ann Rosener photographed women taking over car and maintenance work in the company's San Francisco yards [2]. Aerial film from 1963 still shows the railyards spread across the flats, the roundhouse tracks running amid dozens of others [2]. In 2014, as the new UCSF Children's Hospital was finished, a few rails still crossed 16th Street toward the old roundhouse site. They are gone now [2]. Sources differ on the hospital's exact position: one says it stands on the roundhouse site, another that the roundhouse lay just west of it [1][2].",
+    "people": [
+      {
+        "name": "Frank I. Alioto",
+        "role": "roundhouse worker"
+      },
+      {
+        "name": "Ann Rosener",
+        "role": "photographer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "MISSION BAY",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=MISSION_BAY",
+        "supports": "1938 railyard, Sanborn map placing roundhouse near Mariposa and Third at today's Children's Hospital"
+      },
+      {
+        "title": "Southern Pacific Roundhouse",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Southern_Pacific_Roundhouse",
+        "supports": "Roundhouse function, 1905 Sanborn, Alioto 1942 photo, Rosener WWII photos, 1963 aerial, tracks across 16th in 2014, roundhouse just west of hospital"
+      },
+      {
+        "title": "16th Street at the Bay",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=16th_Street_at_the_Bay",
+        "supports": "1938 aerial with roundhouse off Mariposa and Third at Children's Hospital site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-takahashi-trading",
+    "title": "From Topaz to Rhode Island Street",
+    "theme": "communities",
+    "year": 1965,
+    "yearEnd": 2019,
+    "place": {
+      "label": "Takahashi Trading Company, 200 Rhode Island Street",
+      "lat": 37.766977,
+      "lon": -122.403123,
+      "precision": "building"
+    },
+    "hook": "Redevelopment bulldozed their Japantown store. A couple who had been incarcerated at Topaz rebuilt a Japanese design business from a brick warehouse in Showplace Square.",
+    "story": "Tomoye Takahashi was born on Stanyan Street and studied decorative arts at UC Berkeley. Henri Takahashi was born in Japan and worked as a journalist [1]. They married shortly before Pearl Harbor and were sent to the Topaz War Relocation Center [1][2]. After the war they opened Takahashi Trading Co. at 1661 Post Street in Japantown. At first they sent medicines, clothing and staples to war-torn Japan, then began importing folk pottery, lacquerware and musical instruments [1]. San Francisco Heritage notes that many of their creations were chosen for the Museum of Modern Art's Good Design exhibition in 1950 [1]. In 1959 their building was demolished to redevelop Japantown, ironically for the Japanese Trade and Cultural Center [1][3]. In 1965 they bought 200 Rhode Island Street [1][2]. It was a 1912 brick warehouse by the theater architect G. Albert Lansburgh, built with a trapezoidal plan to fit a triangular lot beside an old Western Pacific rail line [2]. Tomoye's sister Martha Suzuki helped run the business, and from 1985 their foundation supported the Asian Art Museum and other groups [1][2]. The family sold the building in 2019. In 2022 the city designated it Landmark No. 305 [2][3]. When it was nominated, only two city landmarks were tied to Japanese American history, and both were in Japantown [1].",
+    "people": [
+      {
+        "name": "Tomoye Takahashi",
+        "role": "co-founder, designer"
+      },
+      {
+        "name": "Henri Takahashi",
+        "role": "co-founder"
+      },
+      {
+        "name": "Masako Martha Suzuki",
+        "role": "business partner"
+      },
+      {
+        "name": "G. Albert Lansburgh",
+        "role": "architect of the 1912 warehouse"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Takahashi Trading Co. Building Approved for Landmark Work Program",
+        "publisher": "San Francisco Heritage",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/takahashi-trading-co-building-approved-for-landmark-work-program/",
+        "supports": "Biographies, Topaz, Post Street store and exports, MoMA Good Design, 1959 demolition, 1965 purchase, Martha Suzuki, foundation, landmark context"
+      },
+      {
+        "title": "San Francisco Landmark 305: Takahashi Trading Company",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf305.asp",
+        "supports": "Lansburgh 1912 warehouse for H. Levi & Co., trapezoidal plan, Western Pacific right of way, 1965 purchase, 1985 foundation, 2019 sale"
+      },
+      {
+        "title": "Takahashi Trading Company",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Takahashi_Trading_Company",
+        "supports": "Redevelopment Agency seizure for Japan Center; 2022 landmark designation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-i280-stub",
+    "title": "The freeway that stopped in midair",
+    "theme": "modern-city",
+    "year": 1973,
+    "yearEnd": 1997,
+    "place": {
+      "label": "Northern end of I-280 near Fifth and King streets",
+      "lat": 37.776,
+      "lon": -122.3965,
+      "precision": "area"
+    },
+    "hook": "I-280 was supposed to reach the Bay Bridge. For almost 25 years it ended in thin air over Mission Bay, with ramps waiting for a bridge nobody built.",
+    "story": "Planners meant Interstate 280 to curl under the Bay Bridge approach and join the Embarcadero Freeway and I-80 [1][2]. San Francisco balked. In October 1969 the city asked the state to stop work on the I-280/I-480 connection [2]. In 1973 the freeway was finished only as far as Third Street, and there it ended in midair [1][2]. At Fifth Street, stub ramps waited for the Southern Crossing, a second bay bridge that was never built [1]. Beneath it lay a hidden world. Photographer Ed Buryn caught Mission Creek's houseboaters partying in Huffaker Park on the south bank, with the freeway stump ending in the distance [3]. After the 1989 Loma Prieta earthquake, plans to link I-280 to I-80 were dropped. The quake-damaged Embarcadero Freeway came down in 1991, and in 1997 the freeway's end was rebuilt as today's King Street ramps [1]. The stub still casts a shadow. In 2013 Mayor Ed Lee's office said it would consider what could be built if the stub came down and the Caltrain yard shrank, and a proposal to replace the freeway from Mariposa to Sixth Street with a boulevard was still being discussed [2].",
+    "people": [
+      {
+        "name": "Ed Buryn",
+        "role": "photographer"
+      },
+      {
+        "name": "Ed Lee",
+        "role": "mayor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Interstate 280 (California)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Interstate_280_(California)",
+        "supports": "Planned link to I-80/I-480, terminus in midair at 3rd Street, stub ramps at 5th for Southern Crossing, post-1989 abandonment, 1997 King Street ramps"
+      },
+      {
+        "title": "California Highways: Interstate 280",
+        "publisher": "cahighways.org",
+        "year": null,
+        "url": "https://web.archive.org/web/2024/https://cahighways.org/ROUTE280.html",
+        "supports": "1969 city request to stop work, completion to 3rd Street in 1973, 2013 Ed Lee redevelopment ideas, Mariposa-to-6th boulevard proposal"
+      },
+      {
+        "title": "Mission Creek in the 1980s Before Redevelopment",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Creek_in_the_1980s_Before_Redevelopment",
+        "supports": "Ed Buryn photographs of the I-280 stump, houseboaters' park party and views under the freeway"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-spsf-merger",
+    "title": "A failed merger creates a landlord",
+    "theme": "modern-city",
+    "year": 1986,
+    "yearEnd": 1990,
+    "place": {
+      "label": "Former Southern Pacific and Santa Fe railyards, central Mission Bay",
+      "lat": 37.77,
+      "lon": -122.393,
+      "precision": "area"
+    },
+    "hook": "Two railroads were so sure they would merge that they repainted their locomotives. Washington said no, and Mission Bay's 300 acres ended up with a land company.",
+    "story": "In September 1983 the Southern Pacific and the Santa Fe announced they would merge. By December a holding company owned both. It was California's largest private landowner, and Mission Bay's old tidelands and railyards were part of the estate [1][2][3]. Confident of approval, the railroads began repainting locomotives in a joint 'SPSF' scheme [2]. Then, on a July Thursday in 1986, the Interstate Commerce Commission voted 4-1 to reject the merger. Only the ICC's chairman, Heather Gradison, voted yes. John J. Schmidt, chairman of Santa Fe Southern Pacific, called it 'a horrible mistake' and conceded, 'we are going to have to sell something' [1]. The Southern Pacific was sold in 1988 [2]. The company kept the former railroad lands, however, and put them into a new firm, Santa Fe Pacific Realty [2][3]. In 1990 it was renamed Catellus, a name that won an employee contest: CA for California, Tellus for the goddess of the land [3]. Catellus owned 300 undeveloped acres that politicians called a chance for a 'city within the City.' Houseboaters, conservationists, housing groups and neighbors spent years fighting and bargaining with it over what should be built there [3].",
+    "people": [
+      {
+        "name": "John J. Schmidt",
+        "role": "chairman, Santa Fe Southern Pacific Corp."
+      },
+      {
+        "name": "Heather Gradison",
+        "role": "ICC chairman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Southern Pacific-Santa Fe Merger Prohibited by ICC",
+        "publisher": "Los Angeles Times",
+        "year": 1986,
+        "url": "https://www.latimes.com/archives/la-xpm-1986-07-25-mn-245-story.html",
+        "supports": "4-1 vote, Gradison lone yes, Schmidt quotes, largest private landowner, 1983 timeline"
+      },
+      {
+        "title": "Santa Fe–Southern Pacific merger",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Santa_Fe%E2%80%93Southern_Pacific_merger",
+        "supports": "SPSF paint scheme, July 1986 denial, 1988 sale of SP, real estate spun off as Catellus"
+      },
+      {
+        "title": "Living Memories, 1987-2010 (from Vanished Waters)",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1987-2010",
+        "supports": "Railroad tidelands, Santa Fe Pacific Realty, Catellus name contest, 300 acres, 'city within the City'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-bottom-of-the-hill",
+    "title": "An indie rock landmark at the Bottom",
+    "theme": "arts-counterculture",
+    "year": 1991,
+    "yearEnd": 2026,
+    "place": {
+      "label": "Bottom of the Hill, 1233 17th Street at Missouri",
+      "lat": 37.764922,
+      "lon": -122.396415,
+      "precision": "building"
+    },
+    "hook": "A 1911 saloon at the foot of Potrero Hill became the room where Oasis, the White Stripes and Arcade Fire played to a few hundred people.",
+    "story": "The light-blue Edwardian at 17th and Missouri opened in 1911 as the 17th Street Restaurant, a saloon and eatery for Italian and working-class families who worked in the nearby shipyards and warehouses [1]. It became a soda fountain in the 1930s, possibly a speakeasy during Prohibition, then a family restaurant [1]. Around 1990 Tim Benetti bought it and made use of its entertainment license. It reopened as Bottom of the Hill in 1991, booking local punk and rock bands [1]. The music soon outdrew the food. A back wall was jackhammered out for a bigger stage, and the blue neon sign went up [1]. The club gave early shows to Oasis, Alanis Morissette, Marilyn Manson and Elliott Smith, then Neutral Milk Hotel, Arcade Fire and the White Stripes [1]. In 1996 a radio DJ let slip that a band billed as 'Quasar' was really the Beastie Boys, and a riot broke out [1]. A 2003 fire in the upstairs office ended its live recordings [1]. In January 2026 its owners, Lynn Schwarz, Kathleen Owen and Ramona Downey, announced the 247-capacity club would close on New Year's Eve after 35 years [2].",
+    "people": [
+      {
+        "name": "Tim Benetti",
+        "role": "founder"
+      },
+      {
+        "name": "Ramona Downey",
+        "role": "co-owner and booker"
+      },
+      {
+        "name": "Kathleen Owen",
+        "role": "co-owner"
+      },
+      {
+        "name": "Lynn Schwarz",
+        "role": "co-owner and booker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bottom of the Hill: Gigging alone at the Bottom of the Hill",
+        "publisher": "SF Weekly",
+        "year": 2017,
+        "url": "http://www.sfweekly.com/music/feature-music/bottom-of-the-hill/",
+        "supports": "1911 building history, Benetti purchase c.1990, 1991 renaming, renovations, bands, Quasar riot, 2003 fire"
+      },
+      {
+        "title": "After 35 years, historic SF club will close",
+        "publisher": "SFGATE",
+        "year": 2026,
+        "url": "https://www.sfgate.com/sf-culture/article/35-years-historic-sf-club-close-21277606.php",
+        "supports": "Owners, 247 capacity, closure planned for New Year's Eve after 35 years"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-cca-greyhound",
+    "title": "Art school in a bus garage",
+    "theme": "arts-counterculture",
+    "year": 1996,
+    "yearEnd": 2027,
+    "place": {
+      "label": "California College of the Arts, 1111 Eighth Street",
+      "lat": 37.767451,
+      "lon": -122.399443,
+      "precision": "building"
+    },
+    "hook": "In 1996 an Oakland art school opened a campus in the design district, in a former Greyhound bus maintenance shop. Thirty years later, a Tennessee university is buying the campus.",
+    "story": "California College of the Arts was founded in 1907 and was long based in Oakland. For a decade or so before 1996 it rented spaces in San Francisco [1]. In 1996 it opened a San Francisco campus in the design district. Its main building there had been a Greyhound maintenance facility [1]. Leddy Maytum Stacy Architects converted the bus shop into 75,000 square feet of studios, workshops and galleries, with rooftop solar hot-water collectors and radiant floors that cut energy use by 60 percent [1]. The district suited it. Furniture design was based there, and the program's chair wanted students out in the galleries and showrooms [1]. After closing its historic Oakland campus, the school finished a $97.5 million San Francisco expansion in 2024 [2]. Enrollment kept falling, and its president called the tuition-driven model \"not sustainable\" [2]. On January 13, 2026, CCA announced it would close at the end of the 2026–27 academic year. Vanderbilt University is buying the campus as a West Coast outpost for about 1,000 students [2]. Vanderbilt's chancellor said it chose the site for its student housing and its closeness to Mission Bay's bioscience labs. The college's Wattis Institute gallery is to carry on under a 'CCA Institute' [2].",
+    "people": [
+      {
+        "name": "David Howse",
+        "role": "CCA president"
+      },
+      {
+        "name": "Daniel Diermeier",
+        "role": "Vanderbilt chancellor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "CCA a seat of Calif. furniture design",
+        "publisher": "SFGATE",
+        "year": 2013,
+        "url": "https://www.sfgate.com/homeandgarden/article/CCA-a-seat-of-Calif-furniture-design-4649189.php",
+        "supports": "1907 founding, renting SF space, 1996 campus, Greyhound facility, Leddy Maytum Stacy, energy features, design district ties"
+      },
+      {
+        "title": "California College of the Arts Will Close in 2027",
+        "publisher": "KQED",
+        "year": 2026,
+        "url": "https://www.kqed.org/arts/13985359/california-college-of-the-arts-closing-vanderbilt-university",
+        "supports": "Closure announcement, Vanderbilt purchase, 1,000 students, reasons for site, 2024 expansion cost, Wattis Institute"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-mission-bay-library",
+    "title": "A new neighborhood's first public room",
+    "theme": "communities",
+    "year": 2006,
+    "place": {
+      "label": "Mission Bay Branch Library, 960 Fourth Street",
+      "lat": 37.77539,
+      "lon": -122.3932,
+      "precision": "building"
+    },
+    "hook": "For years Mission Bay had condos and labs but nowhere for the public to gather. Then San Francisco opened its first new library branch in four decades.",
+    "story": "As towers rose on the old railyards, Mission Bay had no public room of its own. That changed on July 8, 2006, when the Mission Bay Branch Library opened at Fourth and Berry streets [1][2]. It was the city's 27th branch and the first new one in 40 years. The library called it 'the first public community gathering place in Mission Bay' [1]. It is small, about 7,500 square feet, on the ground floor of a building that also holds affordable senior housing, an adult day health center, shops and a community meeting room [2]. Neighbors had campaigned for it, and two co-chairs of the Mission Bay Library Campaign Committee were on the opening program alongside Mayor Gavin Newsom and City Librarian Luis Herrera [1]. The opening collection of about 34,000 books, CDs and DVDs was chosen to reflect local interests: baseball, maritime history and boating [1]. A children's corner with storytimes was aimed at the young families beginning to move into the neighborhood [1].",
+    "people": [
+      {
+        "name": "Luis Herrera",
+        "role": "City Librarian"
+      },
+      {
+        "name": "Karen Knowles-Pearce",
+        "role": "co-chair, Mission Bay Library Campaign Committee"
+      },
+      {
+        "name": "Wendy LaRiviere",
+        "role": "co-chair, Mission Bay Library Campaign Committee"
+      }
+    ],
+    "sources": [
+      {
+        "title": "New Branch Library the First to Open in San Francisco in 40 Years",
+        "publisher": "San Francisco Public Library",
+        "year": 2006,
+        "url": "http://web.archive.org/web/2006/http://sfpl.lib.ca.us/news/releases/missionbay2.htm",
+        "supports": "27th branch, first in 40 years, 7,500 sq ft, first public gathering place, speakers, collection size and focus, children's area"
+      },
+      {
+        "title": "Mission Bay, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Mission_Bay,_San_Francisco",
+        "supports": "Opening date July 8, 2006 and the mixed-use building with senior housing and adult day health center"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "mission-bay-2q-sinking-sidewalk",
+    "title": "The sidewalk that keeps sinking",
+    "theme": "parks-nature",
+    "year": 2016,
+    "yearEnd": 2019,
+    "place": {
+      "label": "1200 block of Fourth Street, south of Mission Creek",
+      "lat": 37.77235,
+      "lon": -122.39142,
+      "precision": "block"
+    },
+    "hook": "The buildings stay put. The sidewalks beside them sit on old swamp and bay fill, and on one Mission Bay block they keep dropping away.",
+    "story": "On the 1200 block of Fourth Street, the sidewalk has been pulling away from the buildings beside it. NBC reported in 2016 that it had sunk as much as six inches. The city's chief of street use, Jerry Sanguinetti, said it was not up to standard because it was separating from the building [1]. A temporary fix and wheelchair ramps followed in 2017, and permits for permanent work that December. Yet photos in January 2019 showed the gaps getting deeper [1]. The reason is underground. The neighborhood sits on artificial fill over land once known as Mission Swamp, and a shallow bay teeming with marsh life [1][2]. From about 1860 to 1910, steam shovels dumped sand hills into Mission Bay. Garbage dumps near Seventh and Eighth streets added more, and finally rubble from 1906 [2]. A longtime houseboater once described building here as pile-driving down through unconsolidated fill toward bedrock [3]. The sidewalks, laid on the fill itself, have not stayed put [1]. Historical geographer Gray Brechin noted that scientists have known Mission Bay's land was sinking for well over a century. The U.S. Geological Survey warns that such soil can liquefy in an earthquake and makes shaking worse [1].",
+    "people": [
+      {
+        "name": "Jerry Sanguinetti",
+        "role": "chief of street use, Department of Public Works"
+      },
+      {
+        "name": "Gray Brechin",
+        "role": "historical geographer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The sidewalk is still sinking in SF's Mission Bay. It could liquefy during an earthquake.",
+        "publisher": "SFGATE",
+        "year": 2019,
+        "url": "https://www.sfgate.com/local/article/sidewalk-sinking-mission-bay-why-soil-earthquake-13578335.php",
+        "supports": "1200 block of 4th St, six inches by 2016, Sanguinetti quote, 2017 permits, landfill and liquefaction, Brechin"
+      },
+      {
+        "title": "MISSION BAY",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=MISSION_BAY",
+        "supports": "Filling of Mission Bay 1860-1910 with sand hills, garbage and 1906 debris; neighborhood built on landfill subject to liquefaction"
+      },
+      {
+        "title": "Living Memories, 1987-2010 (from Vanished Waters)",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1987-2010",
+        "supports": "Corinne Woods on building down to bedrock in unconsolidated fill"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-mission-rock",
+    "title": "From Parking Lot A to Mission Rock",
+    "theme": "modern-city",
+    "year": 2023,
+    "yearEnd": 2024,
+    "place": {
+      "label": "China Basin Park and Mission Rock, former Seawall Lot 337",
+      "lat": 37.776125,
+      "lon": -122.388345,
+      "precision": "area"
+    },
+    "hook": "Activists once hoped it would become a wetland. For decades it was the Giants' parking lot. Now it's a neighborhood where some residents can watch the Giants from bed.",
+    "story": "Across McCovey Cove from the ballpark lies Seawall Lot 337. It was filled land that the Port held as the backlands for Piers 48 and 50, and it became Giants Parking Lot A [1]. The 1991 Mission Bay development agreement promised an eight-acre wetland there, but that plan died in 1995 [1]. Mayor London Breed later recalled partying on the empty lot as a young woman 'because there was nobody around to complain about the noise' [2]. The Giants began planning to build on it around 2008. A 2015 ballot measure let the project exceed the height limit after the team agreed that 40 percent of the homes would be below market rate [2]. Anchor Steam, meant to occupy historic Pier 48, pulled out, and the pandemic hit months after Visa agreed to move its headquarters there [2]. The first apartments, in the Canyon, opened in June 2023 [2]. The five-acre China Basin Park followed in April 2024. It has a lawn sloping to the bay, a 'beach' of sand and oyster-shell fragments, and a stormwater garden [3]. The developers initially dropped the 6,000 engraved fan tiles from the park's smaller 2003 version. The team backed down after the Chronicle reported it [3].",
+    "people": [
+      {
+        "name": "London Breed",
+        "role": "mayor"
+      },
+      {
+        "name": "Kate Orff",
+        "role": "landscape architect, Scape"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Living Memories, 1987-2010 (from Vanished Waters)",
+        "publisher": "FoundSF (Shaping San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1987-2010",
+        "supports": "Seawall Lot 337 as Port backlands and Giants Parking Lot A; 1991 plan's eight-acre wetland"
+      },
+      {
+        "title": "With Giants on a win streak, team's brass celebrates another victory: a new housing project",
+        "publisher": "San Francisco Chronicle",
+        "year": 2023,
+        "url": "https://www.sfchronicle.com/sf/article/s-f-giants-brass-celebrates-opening-mission-rock-18161986.php",
+        "supports": "Canyon opening June 2023, 15-year effort, 2015 height measure and 40% below-market units, Anchor Steam and Visa, Breed quote"
+      },
+      {
+        "title": "San Francisco has another great park. This one's on China Basin.",
+        "publisher": "San Francisco Chronicle",
+        "year": 2024,
+        "url": "https://www.sfchronicle.com/bayarea/article/china-basin-park-19370598.php",
+        "supports": "5-acre park opened April 2024, Scape design features, the 6,000 fan tiles from 2003"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-2q-openai-third-street",
+    "title": "The AI boom moves into Uber's campus",
+    "theme": "modern-city",
+    "year": 2023,
+    "place": {
+      "label": "1455 Third Street, Mission Bay",
+      "lat": 37.77005,
+      "lon": -122.38879,
+      "precision": "building"
+    },
+    "hook": "The pandemic emptied the city's offices. Then the maker of ChatGPT leased almost half a million square feet of Uber's brand-new headquarters on Third Street.",
+    "story": "Uber had moved into its new Mission Bay headquarters on Third Street in March 2021. It was a set of 6- and 11-story buildings joined by bridges and walkways [1]. After the pandemic, few big office leases were being signed in San Francisco. CBRE put the city's vacancy rate at 34.7 percent in the third quarter of 2023 [2]. In October 2023 Uber confirmed it had subleased two of its four buildings, 1455 and 1515 Third Street, to OpenAI, the maker of ChatGPT: 486,600 square feet in all [2]. The company had started in a founder's living room and in 2016 moved into the Pioneer Building in the Mission District [3]. The Chronicle called the lease one of the most significant deals of recent years. Mayor London Breed said it showed San Francisco was 'the place to be if you want to be a part of what's next' [2]. The same week, Anthropic reportedly signed a lease for 250,000 square feet in the former Slack headquarters on Howard Street [2]. Uber kept the other two buildings, at 1655 and 1725 Third Street [2].",
+    "people": [
+      {
+        "name": "London Breed",
+        "role": "mayor"
+      },
+      {
+        "name": "Hannah Wong",
+        "role": "OpenAI spokesperson"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Uber (company)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Uber",
+        "supports": "March 2021 move to Mission Bay headquarters on Third Street, building form"
+      },
+      {
+        "title": "OpenAI closes big lease deal at Uber's San Francisco headquarters",
+        "publisher": "San Francisco Chronicle",
+        "year": 2023,
+        "url": "https://www.sfchronicle.com/realestate/article/openai-s-f-uber-lease-18451102.php",
+        "supports": "Two of four buildings, addresses, 486,600 sq ft, 34.7% vacancy, Breed quote, Anthropic lease, Uber keeping 1655 and 1725"
+      },
+      {
+        "title": "OpenAI",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/OpenAI",
+        "supports": "Began in Brockman's living room; 2016 move to the Pioneer Building; headquarters at 1455 and 1515 Third Street"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  }
+]

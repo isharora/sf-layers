@@ -1,0 +1,583 @@
+[
+  {
+    "id": "lincoln-park-2p-seamens-obelisk",
+    "title": "A Catalog Obelisk for Forgotten Sailors",
+    "theme": "gold-rush-victorian",
+    "year": 1884,
+    "yearEnd": null,
+    "place": {
+      "label": "Seamen's Memorial, Lincoln Park Golf Course (15th green), below the Legion of Honor parking lot",
+      "lat": 37.7852,
+      "lon": -122.4978,
+      "precision": "area"
+    },
+    "hook": "In the middle of a golf green stands a tall Victorian obelisk for sailors buried here. The man who paid for it may have ordered it from a catalog.",
+    "story": "In 1884 Rebecca Lambert, a sea captain's widow, asked Henry Cogswell to pay for a monument over the plot where the Ladies' Seamen's Friend Society buried sailors, on a hill looking out to the Golden Gate [1][3]. Cogswell was a millionaire dentist, a '49er and a champion of temperance. San Francisco already knew him for the temperance fountains he gave the city, topped with a figure that looked suspiciously like him. In 1894 a gang of young journalists lassoed one at Market and Drumm and pulled it down [1]. Accounts of the size differ. Lenhart describes a 15-foot iron monument; historian John Martini calls it a bronze column about seventeen feet tall [1][2]. It has maritime motifs on every side. Martini found a maker's mark and learned it was a catalog item, with side panels you could swap to suit whoever you were mourning [2]. Merchant sailors were among the most exploited workers of the 19th-century port, and many died with nothing [2]. The city's landmark report sees the obelisk as Victorian 'sentimentality, melancholy, romanticism, and didactic moralism' [3]. The graves were never all moved [3]. Today it stands on the 15th green, and along with the Chinese funerary shrine it is one of the only visible traces of the old cemetery [1][4].",
+    "people": [
+      {
+        "name": "Henry D. Cogswell",
+        "role": "dentist, temperance campaigner and donor"
+      },
+      {
+        "name": "Rebecca Lambert",
+        "role": "sea captain's widow who asked for the monument"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Henry Cogswell and His Monuments (Gloria Lenhart, The Semaphore #203)",
+        "publisher": "FoundSF",
+        "year": 2013,
+        "url": "https://www.foundsf.org/index.php?title=Henry_Cogswell_and_His_Monuments",
+        "supports": "1884 request by Rebecca Lambert; Cogswell's background, fountains, 1894 lassoing; 15-foot iron monument on the 15th green"
+      },
+      {
+        "title": "Podcast #156: City Cemetery (with John Martini), transcript",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2016,
+        "url": "https://www.outsidelands.org/podcast/WNP156_City_Cemetery",
+        "supports": "About 17-foot bronze monument paid for by Cogswell; maritime motifs; catalog item with interchangeable panels; exploited merchant seamen"
+      },
+      {
+        "title": "San Francisco Landmark 306: City Cemetery 1870-1898",
+        "publisher": "NoeHill in San Francisco (adapted from the Landmark Designation Application)",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf306.asp",
+        "supports": "Ladies' Seaman's Friend Society obelisk and the quoted description"
+      },
+      {
+        "title": "Vestiges of Lincoln Park",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+        "supports": "Seaman's Memorial and Chinese tomb are the only visible reminders of the cemetery"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-headboards",
+    "title": "Line Upon Line of Collapsing Headboards",
+    "theme": "communities",
+    "year": 1885,
+    "yearEnd": 1898,
+    "place": {
+      "label": "Former potter's field, high ground of Lincoln Park near the Legion of Honor",
+      "lat": 37.7843,
+      "lon": -122.4993,
+      "precision": "area"
+    },
+    "hook": "Reporters came out to the paupers' graves and found no trees, no grass, only numbered boards leaning in the wind. Then the new neighbours wanted the dead gone.",
+    "story": "Every so often a newspaper sent a reporter out to the City Cemetery. As historian John Martini sums up their stories, some sections were well tended, especially the Serbian and Jewish plots. The potter's field was different. At least 11,000 of the city's poor lay there, on the high ground where the Legion of Honor stands now. There was no tree and no grass, just row after row of faded, collapsing headboards, with paper and rubbish blowing between them [1]. Many indigent graves had a numbered wooden marker instead of a name [2]. Then the city came closer. Railroads reached the ocean, and one line ran around Lands End just below the cemetery. That was good for families visiting their dead. For anyone building a house nearby, it was bad for property values. Early in the 1880s, Martini says, the Richmond Association took up the cry that the cemetery had to go [1]. There were also stories of homeless people living at the cemetery's edge, who ate the food left after Chinese funerals [1]. The city banned new burials in 1898 [2], but thousands of the poor were never moved [2].",
+    "people": [
+      {
+        "name": "John Martini",
+        "role": "historian and retired park ranger"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Podcast #156: City Cemetery (with John Martini), transcript",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2016,
+        "url": "https://www.outsidelands.org/podcast/WNP156_City_Cemetery",
+        "supports": "Reporters' descriptions of the potter's field; at least 11,000 indigent burials on the high ground; railroads; Richmond Association in the 1880s; homeless and food offerings"
+      },
+      {
+        "title": "San Francisco Landmark 306: City Cemetery 1870-1898",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf306.asp",
+        "supports": "Numbered wooden markers on indigent graves; 1898 ban on new burials"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-eastwood-wildflowers",
+    "title": "Alice Eastwood's Wildflower Walk on the Tracks",
+    "theme": "parks-nature",
+    "year": 1895,
+    "yearEnd": null,
+    "place": {
+      "label": "Lands End Coastal Trail (old Cliff Line railbed) between 32nd Avenue and Lands End",
+      "lat": 37.7872,
+      "lon": -122.499,
+      "precision": "area"
+    },
+    "hook": "In the 1890s a great botanist walked the Lands End railway line noting sand verbenas and cow-parsnip. Since 2004, volunteers have been planting natives back.",
+    "story": "Alice Eastwood worked for more than six decades at the California Academy of Sciences. In the late 1890s she compiled a valuable record of San Francisco's native plants [1]. In 1945, in the journal Leaflets of Western Botany, she described the city's lost wildflower gardens [1]. Another attractive excursion, she remembered, followed the railroad that 'once went to Sutro Heights via Lands End'. Apart from the wild currant, which was abundant in spring, she wrote that this stretch 'was better for summer and fall'. Pink and yellow sand verbenas grew along it, with San Francisco willow-herb, Angelica hendersonii, cow-parsnip, goldenrod, lizard leaf, Baccharis and the heather-leaved Ericameria [1]. The landscape did not stay that way. Grading, planting and building over the next 150 years crowded out coastal scrub, prairie, dune and streamside plants. Non-native species moved in [2]. Since 2004 the Golden Gate National Parks Conservancy has worked with hundreds of volunteers to bring natives back to Lands End: arroyo willow, seaside daisy, California poppy, dune grass, salt rush, coyote brush and red alder [2]. Seaside daisy, which Eastwood still found in the city's dunes in 1945, is on that list [1][2].",
+    "people": [
+      {
+        "name": "Alice Eastwood",
+        "role": "botanist, California Academy of Sciences"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wildflowers (Alice Eastwood, 'The Wild Flower Gardens of San Francisco in the 1890s', 1945)",
+        "publisher": "FoundSF",
+        "year": 1945,
+        "url": "https://www.foundsf.org/index.php?title=Wildflowers",
+        "supports": "Eastwood's career, 1890s record and her description and plant list for the Lands End railroad"
+      },
+      {
+        "title": "Vestiges of Lands End Trail",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lands-end-trail.htm",
+        "supports": "Loss of native plant communities; Conservancy restoration since 2004 with volunteers; native species"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-mortar-names",
+    "title": "A Mortar Battery Split in Two",
+    "theme": "war-military",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Mortar battery (Batteries Livingston and Springer), east side of Fort Miley",
+      "lat": 37.7838,
+      "lon": -122.5015,
+      "precision": "area"
+    },
+    "hook": "Sixteen squat mortars were dug in here to guard the Golden Gate. By 1906 the pits were so crowded the Army pulled half of them out.",
+    "story": "On November 27, 1899, work began at the new Point Lobos reservation on a battery for sixteen 12-inch mortars [1]. Nearby, Battery Chester's big rifles covered all three channels into the Golden Gate [1]. In 1900 the post was renamed Fort Miley, after Lieutenant Colonel John D. Miley, who had died in Manila the year before [1]. The state military museum's history says the mortars were finished in 1902 [2]. In December 1904 the Army named the battery for Colonel LaRhett Livingston of the 3rd Artillery, a Civil War veteran who had died in 1903 [2]. The four pits were too cramped for four mortars each. In 1906 the two forward guns in each pit were taken out and the battery was divided. The southern pits became Battery Anton Springer [2]. Captain Springer of the 1st Infantry had been killed in action near Lipa in the Philippines in 1901 [2]. So the fort and one of its batteries both carry the names of men who died in America's war in the Philippines. A fourth battery, Call, followed in 1914 [2]. The concrete remains of these early batteries still edge the hospital grounds [1].",
+    "people": [
+      {
+        "name": "John D. Miley",
+        "role": "lieutenant colonel, namesake of the fort"
+      },
+      {
+        "name": "LaRhett Livingston",
+        "role": "colonel, 3rd Artillery, battery namesake"
+      },
+      {
+        "name": "Anton Springer",
+        "role": "captain, 1st Infantry, battery namesake"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fort Miley Military Reservation: World War II in the San Francisco Bay Area travel itinerary",
+        "publisher": "National Park Service, National Register of Historic Places",
+        "year": null,
+        "url": "https://web.archive.org/web/2019/https://www.nps.gov/nr/travel/wwIIbayarea/mil.htm",
+        "supports": "Mortar battery work began November 27, 1899; renamed Fort Miley in 1900 after Miley; channels of approach"
+      },
+      {
+        "title": "Historic California Posts: Fort Miley (Point Lobos Military Reservation)",
+        "publisher": "California State Military Museum (Gordon Chappell, NPS)",
+        "year": 1981,
+        "url": "http://www.militarymuseum.org/FtMiley.html",
+        "supports": "Mortar battery completed 1902 with sixteen M1890 mortars; naming for Livingston; 1906 removal of forward guns and split; Battery Springer and Anton Springer's death near Lipa, 1901; Battery Call 1914"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-ordnance-storehouse",
+    "title": "The Last Building of Old Fort Miley",
+    "theme": "architecture-landmarks",
+    "year": 1902,
+    "yearEnd": null,
+    "place": {
+      "label": "Fort Miley ordnance storehouse area, trail east of the VA Medical Center",
+      "lat": 37.7824,
+      "lon": -122.5032,
+      "precision": "area"
+    },
+    "hook": "Barracks, stables and an officers' club once ringed a parade ground here. One plain storehouse outlived them all, and even it was moved.",
+    "story": "The Army built its first two buildings on the Point Lobos reservation in 1898, during the Spanish-American War. They housed a small Signal Corps detachment. Its job is now long forgotten, though it may have been to watch for enemy ships [1]. Once the gun batteries went in, the Army built a parade ground between them, with a complex of frame barracks and quarters to standard plans. The horseshoe-shaped ground opened to the north toward the Golden Gate. Most of the complex went up between 1902 and 1906 [1]. One of those buildings was an ordnance storehouse, built in 1902 [2]. In the early 1930s the parade ground was chosen for the new Veterans Administration hospital. In 1934 almost all the old army buildings around it were pulled down [1][3]. The storehouse was the exception. It is the only Fort Miley building from before 1934, though it no longer stands on its original site [1]. The state military museum's history says it was moved southeast and became a ranger office [2]. The Park Service's World War II guide calls it a maintenance building [3]. A resurfaced trail east of the hospital passes the area [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Fort Miley Military Reservation",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Fort_Miley_Military_Reservation",
+        "supports": "1898 Signal Corps buildings; parade ground and 1902–1906 complex; 1934 demolition; storehouse only pre-1934 building, moved; trail east of the hospital"
+      },
+      {
+        "title": "Historic California Posts: Fort Miley (Point Lobos Military Reservation)",
+        "publisher": "California State Military Museum (Gordon Chappell, NPS)",
+        "year": 1981,
+        "url": "http://www.militarymuseum.org/FtMiley.html",
+        "supports": "Ordnance storehouse built 1902, relocated southeast, used as NPS South District Ranger Office"
+      },
+      {
+        "title": "Fort Miley Military Reservation: World War II in the San Francisco Bay Area travel itinerary",
+        "publisher": "National Park Service, National Register of Historic Places",
+        "year": null,
+        "url": "https://web.archive.org/web/2019/https://www.nps.gov/nr/travel/wwIIbayarea/mil.htm",
+        "supports": "Sole surviving army building is now an NPS maintenance building; 1934 demolitions"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-chester-1918",
+    "title": "Big Guns Shipped East, Too Late for War",
+    "theme": "war-military",
+    "year": 1918,
+    "yearEnd": null,
+    "place": {
+      "label": "Battery Chester, West Fort Miley picnic area",
+      "lat": 37.7813,
+      "lon": -122.509,
+      "precision": "block"
+    },
+    "hook": "In 1918 the Army pulled two 12-inch barrels out of Fort Miley and sent them across the country for the war in Europe. The war ended first.",
+    "story": "Battery Chester was Fort Miley's heavyweight. Its first two 12-inch rifles were mounted in 1901. They sat on Buffington-Crozier 'disappearing' carriages [1][3]. A third 12-inch gun went in on the south flank in 1903 [2]. On December 27, 1904, the Army named the emplacements for Major James Chester of the 3rd Artillery, a Civil War veteran who had died the year before [1][2]. Then came the First World War. The Army modified many coastal gun barrels and sent them overseas to help the war in Europe. In 1918 the barrels in Chester's emplacements #1 and #2 were lifted out and shipped to New York for modification [2]. The war ended before they could be used. Fort Miley got replacements from two other forts guarding the Golden Gate: Battery Spencer at Fort Baker and Battery Lancaster at Fort Winfield Scott [2]. The state military museum's table tells it differently, recording just one gun removed [1]. Those guns served until 1943, when they were scrapped [2]. Today the emplacement foundations and doors of Battery Chester are still there, and the old gun platform is a picnic area in the Golden Gate National Recreation Area [2].",
+    "people": [
+      {
+        "name": "James Chester",
+        "role": "major, 3rd U.S. Artillery, battery namesake"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic California Posts: Fort Miley (Point Lobos Military Reservation)",
+        "publisher": "California State Military Museum (Gordon Chappell, NPS)",
+        "year": 1981,
+        "url": "http://www.militarymuseum.org/FtMiley.html",
+        "supports": "Two 12-inch M1895 rifles on disappearing carriages completed 1901; third gun 1903; named December 27, 1904 for Major James Chester"
+      },
+      {
+        "title": "Vestiges of Lincoln Park",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+        "supports": "1918 removal of the #1 and #2 gun tubes to New York; replacements from Battery Spencer and Battery Lancaster; scrapped 1943; picnic area"
+      },
+      {
+        "title": "Fort Miley Military Reservation",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Fort_Miley_Military_Reservation",
+        "supports": "Buffington-Crozier disappearing carriages"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-pioneer-tower",
+    "title": "The 850-Foot Lighthouse That Never Rose",
+    "theme": "architecture-landmarks",
+    "year": 1912,
+    "yearEnd": null,
+    "place": {
+      "label": "Heights of Lincoln Park, near the Legion of Honor",
+      "lat": 37.784,
+      "lon": -122.4985,
+      "precision": "area"
+    },
+    "hook": "The first plans for the 1915 world's fair put an 850-foot tower on these cemetery heights, honouring the pioneers. It would have been a lighthouse, too.",
+    "story": "After the 1906 earthquake and fire, San Francisco rebuilt fast. Many people regretted that the city had missed its chance to carry out Daniel Burnham's grand 1905 plan [1]. The first plans for the Panama-Pacific International Exposition read, as historian Gray Brechin puts it, like an atonement for the hasty rebuilding. Instead of one fairground, the exposition would turn the whole city into a fair with permanent improvements. There would be centres in Golden Gate Park, Lincoln Park, Harbor View, on Telegraph Hill and along the waterfront, linked by lit, planted boulevards [1]. The boldest piece was for this headland. A permanent tower 850 feet high would rise on the heights of Lincoln Park. It would honour the 'heroic pioneers' and double as an immense lighthouse at the Golden Gate [1]. In 1912 the citywide plan was dropped because of its enormous cost. The fair shrank to 635 acres at Harbor View and in the Presidio [1]. At the time the ground here was the old City Cemetery, only recently handed to the park commissioners and named Lincoln Park in 1909 [2]. Lincoln Park got a piece of the fair all the same. After the exposition, a permanent copy of its French Pavilion went up here as the Legion of Honor [3].",
+    "people": [
+      {
+        "name": "Gray Brechin",
+        "role": "historian and author of the essay"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sailing to Byzantium: The Architecture of the Fair (Gray Brechin)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=SAILING_TO_BYZANTIUM:_1915_Panama_Pacific_International_Exposition",
+        "supports": "Early multi-node plans including the 850-foot tower on Lincoln Park heights; 1912 abandonment; 635 acres at Harbor View"
+      },
+      {
+        "title": "Vestiges of Lincoln Park",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+        "supports": "1909 transfer to the Park Commission and naming of Lincoln Park"
+      },
+      {
+        "title": "Legion of Honor (museum)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Legion_of_Honor_(museum)",
+        "supports": "Legion of Honor as a replica of the exposition's French Pavilion"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-jobless-forest",
+    "title": "The Forest Planted by the Jobless",
+    "theme": "parks-nature",
+    "year": 1933,
+    "yearEnd": 1934,
+    "place": {
+      "label": "Cypress groves on the Lands End hillsides below the Legion of Honor",
+      "lat": 37.7864,
+      "lon": -122.5012,
+      "precision": "area"
+    },
+    "hook": "Much of the dark cypress woods that make Lands End feel ancient is Depression work. Federal relief crews planted more than 10,000 trees here in the 1930s.",
+    "story": "Until the 1880s Lands End was mostly open dune covered in scrub, edged by beaches and cliffs [1]. Adolph Sutro was the first to plant windbreaks of cypress, eucalyptus and pine for his gardens. Thousands more cypress and pines went onto the hillsides when El Camino del Mar was built in the 1920s [1]. Then came the Depression. By the time Franklin Roosevelt was elected in November 1932, unemployment was nearing 25 percent. On November 8, 1933, his administration announced the Civil Works Administration, a federal program that paid people for manual work on public projects [2]. San Francisco ran its office from Larkin Hall in the Civic Auditorium and hoped to employ as many as 16,000 people. On Thanksgiving Day 1933, local chairman Frederick Whitten announced the first crews' assignments [2]. Lands End was among the city's CWA projects [2]. Between the CWA and its successor, the Works Progress Administration, more than 10,000 trees were planted here in the 1930s as 'restoration' [1]. The CWA itself lasted only through the winter of 1933 to 1934 [2]. Those non-native cypress came to dominate the headland. Today Park Service arborists thin them, and sometimes remove trees, to bring back a little of the open landscape that came before [1].",
+    "people": [
+      {
+        "name": "Frederick Whitten",
+        "role": "chairman of San Francisco's CWA works committee"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vestiges of Lands End Trail",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lands-end-trail.htm",
+        "supports": "Pre-1880s open dunes; Sutro plantings; 1920s El Camino del Mar plantings; more than 10,000 trees planted by CWA and WPA in the 1930s; NPS thinning"
+      },
+      {
+        "title": "Civil Works Administration Projects in San Francisco",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Civil_Works_Administration_Projects_in_San_Francisco",
+        "supports": "CWA announced Nov 8, 1933; unemployment near 25%; Larkin Hall office; up to 16,000 jobs; Whitten's Thanksgiving assignments; Lands End among projects; CWA ended 1934"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-battery-lands-end",
+    "title": "Army Guns on Concrete Plugs at Lands End",
+    "theme": "war-military",
+    "year": 1944,
+    "yearEnd": null,
+    "place": {
+      "label": "Battery Lands End gun blocks, tip of the Lands End promontory",
+      "lat": 37.7878,
+      "lon": -122.5052,
+      "precision": "block"
+    },
+    "hook": "In the Second World War the Army leased the cliffs and bolted guns onto bare concrete pads. Two of those pads still sit at the tip of Lands End.",
+    "story": "By 1937 the Army had decided Fort Miley's old 12-inch batteries should be abandoned [2], but war brought the headland back into service. In 1941 soldiers here worked an enormous range finder. According to the caption on a photograph from that year, it guided 16-inch guns 20 miles away, with the readings flashed to their gunnery officers [1]. From November 1941 to April 1944 the fort's garrison included Battery F of the 18th Coast Artillery [2]. The Army also wanted the cliffs below. At the start of the war it leased 64.83 acres of the Lands End coast from the city, Adolph Sutro's heirs and other owners. The land was split into two reservations, Point Lobos north of Sutro Baths and Lands End north of Fort Miley [3]. Temporary batteries went up fast. Battery Lobos was ready by July 1943, with two Navy deck guns bolted to 20-foot concrete plugs and no protection for the gun crews [3]. Battery Lands End entered service in January 1944 with two 90mm guns on concrete plugs 120 feet apart [3]. After the war the guns were removed and salvaged. Both of Battery Lands End's gun blocks can still be seen at the tip of the promontory [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Fort Miley Military Reservation: World War II in the San Francisco Bay Area travel itinerary",
+        "publisher": "National Park Service, National Register of Historic Places",
+        "year": null,
+        "url": "https://web.archive.org/web/2019/https://www.nps.gov/nr/travel/wwIIbayarea/mil.htm",
+        "supports": "1941 photograph of the Fort Miley range finder guiding 16-inch guns 20 miles away"
+      },
+      {
+        "title": "Fort Miley Military Reservation",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Fort_Miley_Military_Reservation",
+        "supports": "1937 decision to abandon 12-inch batteries; Battery F, 18th Coast Artillery, November 1941 to April 1944"
+      },
+      {
+        "title": "Vestiges of Lands End Trail",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lands-end-trail.htm",
+        "supports": "Wartime lease of 64.83 acres; Point Lobos and Lands End reservations; Battery Lobos July 1943; Battery Lands End January 1944 with two 90mm guns 120 feet apart; gun blocks still visible"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-sudden-fear",
+    "title": "A Secret Rendezvous at the Legion",
+    "theme": "arts-counterculture",
+    "year": 1952,
+    "yearEnd": null,
+    "place": {
+      "label": "California Palace of the Legion of Honor, 100 34th Avenue",
+      "lat": 37.784536,
+      "lon": -122.500744,
+      "precision": "building"
+    },
+    "hook": "Six years before Vertigo, another thriller used the Legion for a secret meeting: two lovers who plan to murder Joan Crawford, at a Bach organ recital.",
+    "story": "Six years before Hitchcock brought Vertigo here, the Legion of Honor played a part in Sudden Fear. It was a 1952 thriller directed by David Miller from a novel by Edna Sherry [1]. Joan Crawford plays Myra Hudson, a rich playwright who fires the actor Lester Blaine, played by Jack Palance, from her Broadway play. She then falls for him on the train home to San Francisco and marries him. Then his old lover Irene Neves, played by Gloria Grahame, turns up, and the two plan to kill Myra for her money [1]. In the location list compiled by Reel SF, the scene where the old flame shows up is at the Palace of the Legion of Honor [1]. Other accounts set the lovers' secret rendezvous at a Bach organ recital in the museum [2]. That organ, a 1924 Skinner, hides its 4,526 pipes in the building. Its sound comes through canvas painted to look like stucco [3]. The New York Times praised how the director used the 'steep streets and panoramic views' of San Francisco and Los Angeles [4]. Crawford and Palance were both nominated for Oscars, and François Truffaut called the film 'a masterpiece of cinema' [1].",
+    "people": [
+      {
+        "name": "Joan Crawford",
+        "role": "actor (Myra Hudson)"
+      },
+      {
+        "name": "Jack Palance",
+        "role": "actor (Lester Blaine)"
+      },
+      {
+        "name": "Gloria Grahame",
+        "role": "actor (Irene Neves)"
+      },
+      {
+        "name": "David Miller",
+        "role": "director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sudden Fear (1952)",
+        "publisher": "Reel SF",
+        "year": null,
+        "url": "https://reelsf.com/sudden-fear-1952/",
+        "supports": "Director, novel, plot, Oscar nominations, Truffaut quote; Legion of Honor listed as the 'An Old Flame Shows Up' location"
+      },
+      {
+        "title": "Legion of Honor (museum)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Legion_of_Honor_(museum)",
+        "supports": "Blaine and Neves have a clandestine rendezvous at a Bach organ recital at the Legion"
+      },
+      {
+        "title": "The Spreckels Organ",
+        "publisher": "Fine Arts Museums of San Francisco",
+        "year": null,
+        "url": "https://www.famsf.org/stories/the-spreckels-organ",
+        "supports": "1924 Skinner organ; 4,526 pipes; sound through painted canvas"
+      },
+      {
+        "title": "Sudden Fear",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Sudden_Fear",
+        "supports": "A.H. Weiler's New York Times review quote on San Francisco's streets and views"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-thinker-park-years",
+    "title": "The Thinker's Nine Years in Golden Gate Park",
+    "theme": "arts-counterculture",
+    "year": 1915,
+    "yearEnd": 1924,
+    "place": {
+      "label": "Court of Honor, Legion of Honor (The Thinker)",
+      "lat": 37.7845,
+      "lon": -122.5007,
+      "precision": "building"
+    },
+    "hook": "Before he settled into the Legion's courtyard, Rodin's Thinker spent nine years sitting on a rock in Golden Gate Park, in the fog near the Conservatory.",
+    "story": "Rodin's Thinker is so much a part of the Legion of Honor that it seems it has always been there. It hasn't [1][2]. The cast first came to San Francisco for the 1915 Panama-Pacific International Exposition. It stood at the entrance court of the French Pavilion, just south of the Palace of Fine Arts [1]. A 1915 book on the exposition's sculpture called it a replica of the Thinker placed before the doors of the Panthéon in Paris [1]. Loie Fuller, the dancer who introduced Alma Spreckels to Rodin, had encouraged her to buy it [2]. When the fair closed in December 1915 there was no museum to take it. So the statue was set on a big rock near the Conservatory of Flowers in Golden Gate Park, and there it sat for about nine years [1]. The San Francisco Public Library puts it more gently: the Thinker 'did moonlight in Golden Gate Park for a spell' before the museum opened [2]. Only in 1924, when the Legion of Honor, a permanent copy of the French Pavilion, opened on Armistice Day, did it move to Lincoln Park [1][2]. It has presided over the Court of Honor ever since [2].",
+    "people": [
+      {
+        "name": "Auguste Rodin",
+        "role": "sculptor"
+      },
+      {
+        "name": "Alma de Bretteville Spreckels",
+        "role": "collector and museum founder"
+      },
+      {
+        "name": "Loie Fuller",
+        "role": "dancer and Rodin's go-between"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Some Notes at the Intersection of The Left Bank and Lincoln Park (Ken Stein)",
+        "publisher": "FoundSF",
+        "year": 2022,
+        "url": "https://www.foundsf.org/index.php?title=Some_Notes_at_the_Intersection_of_The_Left_Bank_and_Lincoln_Park",
+        "supports": "The Thinker at the French Pavilion in 1915; installed in Golden Gate Park after the fair; nine years on a rock near the Conservatory; moved in 1924"
+      },
+      {
+        "title": "100th Anniversary of the Legion of Honor",
+        "publisher": "San Francisco Public Library, Magazines and Newspapers Center",
+        "year": 2024,
+        "url": "https://sfplmagsandnews.blogspot.com/2024/11/100th-anniversary-of-legion-of-honor.html",
+        "supports": "Fuller encouraged the purchase; Thinker 'did moonlight in Golden Gate Park'; dedication November 11, 1924"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-huntington-riders",
+    "title": "Two Riders from a Woman Sculptor",
+    "theme": "arts-counterculture",
+    "year": 1927,
+    "yearEnd": null,
+    "place": {
+      "label": "Legion of Honor forecourt: El Cid and Joan of Arc statues",
+      "lat": 37.785,
+      "lon": -122.5,
+      "precision": "building"
+    },
+    "hook": "The warrior on horseback facing the Golden Gate, and Joan of Arc nearby, came from one of the few women of her era trusted with giant public statues.",
+    "story": "Two bronze riders stand at the Legion of Honor, and both are the work of Anna Hyatt Huntington. She was born in Cambridge, Massachusetts, in 1876, the daughter of the artist Audella Beebe and Alpheus Hyatt, who taught paleontology and zoology at Harvard and MIT and encouraged her interest in animal anatomy. Her first teacher, Henry Hudson Kitson, reportedly threw her out after she pointed out mistakes in the anatomy of his horses [1]. At a time when very few women made a living as artists, she became one of New York's most prominent sculptors. The Metropolitan Museum of Art ranks her among the foremost American women to take on large public commissions [1]. Her El Cid, modelled in 1927, shows the 11th-century Spanish warrior in the saddle. The Lincoln Park cast faces the Golden Gate [2][1]. Other casts stand in Seville, Valencia, New York, Buenos Aires and San Diego, where one was dedicated on July 5, 1930 [3][1]. Her Joan of Arc began in Manhattan at Riverside Drive and 93rd Street. It marked the 500th anniversary of Joan's birth, and its unveiling made Huntington famous around the world. A replica stands in front of the Legion of Honor [1]. She died in 1973 [1].",
+    "people": [
+      {
+        "name": "Anna Hyatt Huntington",
+        "role": "sculptor (1876–1973)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Anna Hyatt Huntington",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington",
+        "supports": "Biography, parents and Kitson anecdote; Met ranking; El Cid (1927) editions including Lincoln Park; Joan of Arc original and replica in front of the Legion"
+      },
+      {
+        "title": "Legion of Honor (museum)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Legion_of_Honor_(museum)",
+        "supports": "El Cid Campeador by Anna Hyatt Huntington (1927), facing the Golden Gate, at the Legion"
+      },
+      {
+        "title": "El Cid Campeador (sculpture)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/El_Cid_Campeador_(sculpture)",
+        "supports": "San Diego cast dedicated July 5, 1930; casts in Buenos Aires, New York, San Francisco, Seville, Valencia"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-2p-va-research",
+    "title": "From Gun Fort to Research Hospital",
+    "theme": "modern-city",
+    "year": 2015,
+    "yearEnd": null,
+    "place": {
+      "label": "San Francisco VA Medical Center, 4150 Clement Street",
+      "lat": 37.781537,
+      "lon": -122.504846,
+      "precision": "building"
+    },
+    "hook": "The parade ground where coast artillerymen drilled now holds the biggest research program in the whole veterans' health system.",
+    "story": "The Veterans Administration hospital opened on Fort Miley's old parade ground in 1934. Over the decades it took on specialist work: an Epilepsy Center of Excellence, a centre for the surgical treatment of Parkinson's disease and other movement disorders, a 3D imaging laboratory, and a clinic for veterans of the wars in Afghanistan and Iraq [1]. It has been affiliated with the UCSF School of Medicine for more than 50 years, and every physician is recruited jointly by the hospital and UCSF [2]. The Northern California Institute for Research and Education, an independent nonprofit, is based on the grounds [2]. By 2015 the San Francisco VA had the largest funded research program in the Veterans Health Administration, with $90.2 million in research spending. It also held national centres of excellence in epilepsy, cardiac surgery, post-traumatic stress disorder, HIV and renal dialysis [2]. Around the modern wards, the concrete of the old gun batteries still edges the hospital grounds [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Vestiges of Lincoln Park",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+        "supports": "Treatment centers and clinics at the VA Medical Center"
+      },
+      {
+        "title": "San Francisco VA Medical Center",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_VA_Medical_Center",
+        "supports": "Founded 1934; UCSF affiliation; NCIRE; largest funded VHA research program ($90.2M, 2015); centers of excellence"
+      },
+      {
+        "title": "Fort Miley Military Reservation: World War II in the San Francisco Bay Area travel itinerary",
+        "publisher": "National Park Service, National Register of Historic Places",
+        "year": null,
+        "url": "https://web.archive.org/web/2019/https://www.nps.gov/nr/travel/wwIIbayarea/mil.htm",
+        "supports": "Remains of pre-WWI batteries edge the hospital perimeter"
+      }
+    ],
+    "photo": null
+  }
+]

@@ -1,0 +1,777 @@
+[
+  {
+    "id": "marina-2q-presidio-ferries-steam",
+    "title": "Cable, horse and steam to the Presidio",
+    "theme": "gold-rush-victorian",
+    "year": 1880,
+    "yearEnd": 1913,
+    "place": {
+      "label": "Union and Steiner Streets, where cable cars met the steam line",
+      "lat": 37.79701,
+      "lon": -122.4373,
+      "precision": "street"
+    },
+    "hook": "One early line along Union Street used three kinds of power on one trip. One stormy night in 1904, a cable train was swept right off its tracks.",
+    "story": "The Presidio & Ferries Railroad, organised in 1878 with cable-car pioneer Andrew Hallidie as its president, ran mostly along Union Street, roughly two miles [1]. It combined three kinds of early transit. A horsecar carried riders from the Ferry Building to Columbus and Montgomery. A cable line climbed over Russian Hill and ran west on Union to Steiner Street. At Steiner a steam train took over for the run to the Presidio [1][2]. Sources disagree on the opening date: the Cable Car Museum gives October 23, 1880, while other accounts say December 1881 [1][2]. The cable was extended along Union and Baker in 1892 [2]. The line is probably the only one in the city to lose a car to the rain. During severe storms in the autumn of 1904, a cable train was washed off its tracks near Baker and Union around midnight [1]. The 1906 earthquake damaged it worse than any other cable line, so it was converted to small electric cars [1]. When its franchise ran out in 1913 the city took it over, and it became the E Union streetcar ahead of the 1915 fair. Its descendant, the 41 Union trolleybus, was suspended in 2020 [1][2].",
+    "people": [
+      {
+        "name": "Andrew S. Hallidie",
+        "role": "first president of the company's predecessor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Presidio & Ferries Railroad – 1880",
+        "publisher": "Cable Car Museum (Friends of the Cable Car Museum)",
+        "year": 2022,
+        "url": "http://www.cablecarmuseum.org/co-presidio-ferries.html",
+        "supports": "1878 organisation, Hallidie, route, three modes, 1880 opening, 1904 storm, 1906 conversion, 1913 municipal takeover"
+      },
+      {
+        "title": "41 Union",
+        "publisher": "Wikipedia (pointer to SFMTA and Callwell chronology)",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/41_Union",
+        "supports": "December 1881 opening date, steam section at Union and Steiner, 1892 extension, E Union 1915, bus conversion and 2020 suspension"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-sherman-music-room",
+    "title": "Paderewski played in the piano man's parlour",
+    "theme": "arts-counterculture",
+    "year": 1879,
+    "yearEnd": null,
+    "place": {
+      "label": "Leander Sherman House, 2160 Green Street",
+      "lat": 37.79651,
+      "lon": -122.43464,
+      "precision": "building"
+    },
+    "hook": "The man who sold San Francisco its pianos built a three-storey music room onto his Cow Hollow house, and some of the era's greatest performers played there.",
+    "story": "Leander Sherman started out as a clerk in A. A. Rosenberg's music store at Kearny and Sutter. In 1870 he bought out his employer, and in 1879 he took on Major Clement C. Clay as a partner [2]. Sherman, Clay & Co. grew into a West Coast piano empire. It imported instruments and sheet music, built pianos and church organs in its own factory, and eventually had some 60 stores [2]. At home on Green Street, Sherman built his passion into the architecture. His late-1870s house, now City Landmark No. 49, has a huge three-storey music and reception room that forms the whole west wing [1]. In the skylit room is a platform where the pianist Ignacy Jan Paderewski performed [1]. Singers entertained from a balcony in the corner, among them the contralto Ernestine Schumann-Heink and, earlier, Lotta Crabtree, who lived next door to the west [1]. Sherman died in 1926. His firm carried on for another 87 years and closed its last stores in 2013 [2].",
+    "people": [
+      {
+        "name": "Leander S. Sherman",
+        "role": "founder of Sherman, Clay & Co."
+      },
+      {
+        "name": "Ignacy Jan Paderewski",
+        "role": "pianist"
+      },
+      {
+        "name": "Lotta Crabtree",
+        "role": "performer and next-door neighbour"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #49: Leander Sherman House (quoting Olmsted and Watkins, Here Today, 1968)",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf049.asp",
+        "supports": "music room, Paderewski, Schumann-Heink, Lotta Crabtree next door"
+      },
+      {
+        "title": "Sherman Clay",
+        "publisher": "Wikipedia (pointer to company histories and SFGATE)",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Sherman_Clay",
+        "supports": "Rosenberg store, 1870 buyout, Clay partnership 1879, factory, store count, 2013 closure"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-western-nursery",
+    "title": "The last farm in Cow Hollow",
+    "theme": "labor-industry",
+    "year": 1885,
+    "yearEnd": 1947,
+    "place": {
+      "label": "Blackstone Court, off Franklin Street between Lombard and Greenwich",
+      "lat": 37.80052,
+      "lon": -122.42697,
+      "precision": "block"
+    },
+    "hook": "Behind a hotel at Lombard and Franklin, a gated alley keeps the crooked line of a lagoon-side trail, and trees from a nursery that lasted until 1947.",
+    "story": "Blackstone Court is an odd, angled alley in the middle of the block bounded by Lombard, Franklin, Gough and Greenwich [1]. The angle is a relic of an early trail that ran from town to the Presidio around the north end of Washerwoman's Lagoon, which was drained and filled long ago [1][2]. Five pre-1906 buildings survive there. The oldest, 9-11 Blackstone Court, has a Gothic Revival veranda that suggests the 1850s. It may have been moved to the site and is first documented there in 1893. Before 1899 the Favilla family, early Italian arrivals from North Beach, raised it by a storey [1][2]. The court survived largely because of one man. Charles Abraham built the house at No. 30 in 1885, enlarged it in 1905, and ran the Western Nursery on most of the block from 1885 to 1947 [1]. It was the last farm-type business in the Cow Hollow and Marina area [1][2]. After the war, housing pressure cut the parcel down. The five remaining buildings were saved, and the city designated them a landmark district in November 1987 [1][2]. An Australian peppermint tree and a Monterey cypress appear to date from the nursery days [1].",
+    "people": [
+      {
+        "name": "Charles Abraham",
+        "role": "founder of the Western Nursery"
+      },
+      {
+        "name": "Favilla family",
+        "role": "early Italian-American residents"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blackstone Court District (adapted from SF Planning Code Article 10, Appendix H)",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf_blackstone_court.asp",
+        "supports": "trail, 9-11 Blackstone dating, Favilla family, Abraham house 1885/1905, Western Nursery 1885–1947, trees, 1987 designation"
+      },
+      {
+        "title": "Blackstone Court",
+        "publisher": "FoundSF",
+        "year": 2023,
+        "url": "https://www.foundsf.org/Blackstone_Court",
+        "supports": "location behind the Lombard hotel, lagoon trail, post-war parcel reduction"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-wilford-ostrich",
+    "title": "Houses in ostrich-leather plaster",
+    "theme": "architecture-landmarks",
+    "year": 1890,
+    "yearEnd": null,
+    "place": {
+      "label": "Albert Wilford Houses, 2121 and 2127 Vallejo Street",
+      "lat": 37.7953,
+      "lon": -122.43224,
+      "precision": "building"
+    },
+    "hook": "A Swedish-born carpenter who once ran a saloon borrowed ideas from a millionaire's mansion and dressed two Vallejo Street houses in plaster that looks like ostrich skin.",
+    "story": "Albert Wilford was born in Stockholm in 1843 and came to the United States in 1866 [1]. San Francisco directories list him as a carpenter, then a builder, and in 1880 as running a liquor saloon [1]. In 1889 and 1890 he built twelve houses on one Pacific Heights block, facing Webster, Buchanan and Vallejo Streets [1]. The best survivors are the twin houses at 2121 and 2127 Vallejo, perched high above the sidewalk with views over the bay [1][2]. Their oddest feature is a broad band of plaster set with small rocks and scored between them. The National Register nomination calls it a large-scale imitation of ostrich-skin leather, and it has not been documented on any other house [1][2]. The nomination suggests Wilford took the idea from the pebbled-plaster gables of William H. Crocker's 1888 mansion on California Street. That house had become a kind of 'builder's poster' for San Francisco rowhouse designers [1]. Wilford signed for the water connections on June 24, 1890, and had both houses sold by early December [1]. One buyer quickly resold his house to Richard M. Tobin, later president of the Hibernia Bank, who rented it out [1].",
+    "people": [
+      {
+        "name": "Albert Wilford",
+        "role": "carpenter-builder-developer"
+      },
+      {
+        "name": "Richard M. Tobin",
+        "role": "early owner of 2127 Vallejo"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Nomination: Wilford, Albert, Houses",
+        "publisher": "National Park Service",
+        "year": 1985,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/85001914_text",
+        "supports": "Wilford biography, twelve-house development, ostrich-leather band, Crocker house source, water and sale dates, Tobin"
+      },
+      {
+        "title": "Wilford Houses",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/nat1985001914.asp",
+        "supports": "summary of significance, ostrich-leather fascia undocumented elsewhere"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-fair-seawall",
+    "title": "A silver baron's wall in the bay",
+    "theme": "parks-nature",
+    "year": 1892,
+    "yearEnd": 1912,
+    "place": {
+      "label": "Former Harbor View lagoon, roughly Divisadero to Webster between Bay Street and Marina Boulevard",
+      "lat": 37.8045,
+      "lon": -122.4365,
+      "precision": "area"
+    },
+    "hook": "Before there was a Marina, a Comstock millionaire bought up the underwater lots and started walling off the bay. The dunes of Cow Hollow went in behind it.",
+    "story": "In the 19th century the future Marina was called Harbor View. It was a semi-rural corner of truck farms, fishermen's shacks and industrial plants, much of it underwater or marsh, and cut off from the city by big sand dunes [1][2]. In the early 1890s the 'Silver Baron' James G. Fair began buying the submerged water lots. By 1893 he controlled all but five of the 49 blocks between Chestnut, Baker and Webster Streets and the bay [1]. In 1892 he began a seawall along the northern edge of his holdings, the first step in filling the 'land' for industrial sites [1][2]. The next year the city took over the job and hired Warren & Malley to finish the wall and fill and grade the streets. The fill came from dunes at Fort Mason and from a large dune that separated Harbor View from Cow Hollow [1]. An oval lagoon was left, roughly between Divisadero, Webster, Bay and today's Marina Boulevard [1]. Fair's heirs welcomed the 1915 exposition, which filled the rest for free. In 1912, dredges pumped more than 1.3 million cubic yards of bay mud into the 70-acre lagoon over 146 days [1].",
+    "people": [
+      {
+        "name": "James G. Fair",
+        "role": "Comstock millionaire and landowner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Report: San Francisco Ladies' Protection and Relief Society, 3400 Laguna Street",
+        "publisher": "San Francisco Planning Department",
+        "year": 2024,
+        "url": "https://files.sfplanning.org/documents/preservation/LM320.pdf",
+        "supports": "Harbor View description, Fair's purchases, 1892 seawall, Warren & Malley, dune fill, lagoon, 1912 dredging (citing Bardell, The Argonaut, 2003)"
+      },
+      {
+        "title": "Marina District, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Marina_District,_San_Francisco",
+        "supports": "pre-1906 shallows, marsh and dunes, sandwall, levelled dunes and industrial plants"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-fillmore-counterbalance",
+    "title": "Two streetcars on one rope",
+    "theme": "gold-rush-victorian",
+    "year": 1895,
+    "yearEnd": 1941,
+    "place": {
+      "label": "Fillmore Street hill between Broadway and Green",
+      "lat": 37.79596,
+      "lon": -122.43512,
+      "precision": "street"
+    },
+    "hook": "On Fillmore's steepest blocks, every car going down the hill hauled another one up. San Francisco used this trick nowhere else.",
+    "story": "The Fillmore Street line crossed a brutally steep hill: grades on its three steepest blocks ran from 14.5 to 25.5 percent [1]. In 1895 the Market Street Railway solved the problem with a counterbalance. A looping underground cable ran around sheaves in brick vaults beneath the street [1][2]. Small electric streetcars hooked onto it through a slot, so the weight of a car going down the hill helped pull another car up [1][2]. When the system was tested with two cars on August 5, 1895, it was called 'a perfect success from the start' [1]. The cars were the smallest in San Francisco, single-truck 'dinkies'. A railway official said a car going downhill without the cable could not have been stopped by its own brakes, because the wheels would skid faster than they could roll [1]. Walter de Vecchi remembered the hill as 'two massive Kilamanjaros, mixtures of dirt, grass and cobblestone', with bell signals timing each pair of runs [3]. A tunnel under Fillmore was proposed for the 1915 fair but cancelled [1]. In 1941 shuttle buses replaced the counterbalance cars [2].",
+    "people": [
+      {
+        "name": "Walter de Vecchi",
+        "role": "Marina resident and memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fillmore Counterbalance",
+        "publisher": "Wikipedia (pointer to Chronicle 1895 and Callwell chronology)",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Fillmore_Counterbalance",
+        "supports": "grades, mechanism, 1895 test quote, dinkies, braking remark, cancelled tunnel"
+      },
+      {
+        "title": "The 22 Fillmore – SF's Forgotten Funicular",
+        "publisher": "SFMTA (Jeremy Menzies)",
+        "year": 2016,
+        "url": "https://www.sfmta.com/blog/22-fillmore-sfs-forgotten-funicular",
+        "supports": "1895 line, counterbalance between Green and Broadway, 1941 replacement by shuttle buses"
+      },
+      {
+        "title": "Fillmore Street Cars (from Walter de Vecchi, Marina Memories)",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/Fillmore_Street_Cars",
+        "supports": "de Vecchi's recollection and quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-alice-burr-studio",
+    "title": "A chemist's lab, a photographer's studio",
+    "theme": "arts-counterculture",
+    "year": 1916,
+    "yearEnd": 1968,
+    "place": {
+      "label": "Burr House, 1772 Vallejo Street",
+      "lat": 37.79662,
+      "lon": -122.42639,
+      "precision": "building"
+    },
+    "hook": "Behind a mansard-roofed wedding present on Vallejo Street, a sugar chemist kept a laboratory and his daughter built a studio for painterly photographs.",
+    "story": "The Italianate house at 1772 Vallejo, with its Second Empire mansard roof, was built for Edmund Burr, son of former mayor Ephraim Willard Burr. Local lore says it was a wedding present for Edmund and his bride, Anna Barnard [1][2]. The city landmark listing gives 1875 as the building date; the 2014 National Register nomination says 1878 is most likely [1][2]. Edmund had trained as a chemist in Germany. After perfecting a sugar-refining process he bought the Alameda Sugar Company in 1889, and he kept a chemical laboratory in the garden cottage [1]. His daughter Alice took the house in another direction. She graduated in 1916 from the Clarence White School of Photography in New York, where Dorothea Lange also studied, and her work belongs to the Pictorialist school [1]. That year architect Henry H. Gutterson designed an Arts and Crafts studio for her at the Green Street edge of the garden [1]. She tried bromoil, pigment and colour Autochrome processes, and photographed the city, nature and the family's own house [1]. Alice and her sister Marian lived there until they died, in 1968 and 1966, ending almost a century of Burr family life in the house [1].",
+    "people": [
+      {
+        "name": "Alice Burr",
+        "role": "Pictorialist photographer"
+      },
+      {
+        "name": "Edmund C. Burr",
+        "role": "chemist and sugar refiner"
+      },
+      {
+        "name": "Ephraim Willard Burr",
+        "role": "former mayor, builder of the house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Registration Form: Burr House",
+        "publisher": "National Park Service (prepared by Chattel, Inc.)",
+        "year": 2014,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/14000967_text",
+        "supports": "1878 date, Edmund's chemistry and sugar company, lab in cottage, Alice's training, studio by Gutterson 1916, processes, sisters' deaths"
+      },
+      {
+        "title": "San Francisco Landmark #31: Burr Mansion",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf031.asp",
+        "supports": "1875 date, architect attribution, wedding gift to Edmond and Anna Barnard"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-belt-railroad-palace",
+    "title": "The railroad that saved the Palace",
+    "theme": "labor-industry",
+    "year": 1913,
+    "yearEnd": 1927,
+    "place": {
+      "label": "Belt Railroad line at Marina Boulevard and Laguna Street, beside Fort Mason",
+      "lat": 37.80551,
+      "lon": -122.43194,
+      "precision": "area"
+    },
+    "hook": "Freight tracks laid to build the 1915 fair ended up as a bargaining chip. The Army swapped the Palace of Fine Arts for the right to run trains.",
+    "story": "In 1913 the state's Board of Harbor Commissioners laid out a Belt Railroad extension from Fort Mason to the exposition site [1]. A railroad tunnel under Fort Mason, which the Park Service dates to the World War I years, carried the line from the downtown waterfront [1][2]. Large amounts of building materials were hauled from the downtown port to the Esplanade, today's Marina Boulevard. The line was not used during the fair itself [1]. The Army saw a use for it afterwards. In 1915 it asked to extend the Belt Line from Fort Mason to the general warehouses in the Presidio. To seal the deal it offered the city the Palace of Fine Arts, the last exposition building still standing on federal land, in exchange for the right to run and maintain a spur track [1]. The swap was ratified in 1927, and the Palace and its grounds have been the city's ever since [1]. The tracks went on to serve two world wars. Troops and supplies moved along them between the Presidio and the Port of Embarkation at Fort Mason. Hospital trains carried wounded men from ships at Fort Mason to Letterman Army Hospital [1]. The Belt Railroad, once 67 miles long, shut down in 1993 [1][2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "State Belt Railroad",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": 2019,
+        "url": "https://www.nps.gov/goga/learn/historyculture/state-belt-railroad.htm",
+        "supports": "1913 tracks for PPIE construction, Esplanade, unused during fair, 1915 Army request, Palace exchange ratified 1927, wartime and hospital trains, 67 miles, 1993"
+      },
+      {
+        "title": "San Francisco Belt Railroad",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Belt_Railroad",
+        "supports": "tunnel to Fort Mason, extension to Presidio 1917, closure 1993"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-shamrock-isle",
+    "title": "The fight over the fair's Irish village",
+    "theme": "communities",
+    "year": 1915,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Shamrock Isle on the Joy Zone, now the Moscone Recreation Center ball field",
+      "lat": 37.8027,
+      "lon": -122.4335,
+      "precision": "area"
+    },
+    "hook": "An Englishman won the contract for the 1915 exposition's Irish village, and San Francisco's fiery 'Labor priest' went to war in print.",
+    "story": "The Panama-Pacific fair's amusement strip, the Joy Zone, lay at its eastern end near Fort Mason [2]. Its only Irish-themed concession was the Shamrock Isle. It stood where the Moscone Recreation Center's baseball diamond is today, behind a replica of Drogheda's St. Laurence Gate, with the Chinese Village directly opposite [1]. The contract went in 1913 to Kenneth R. Croft, an Englishman from London's 'smart set' [1]. His first choice of name, 'Donnybrook Fair', was vetoed. The concessions committee required the gentler Shamrock Isle and named six Irish-American 'censors', including Archbishop Riordan, to watch over it [1]. Much of the attack came from Father Peter Yorke of St. Peter's in the Mission, known as the Labor priest [1]. 'This Englishman has got from the fair directors a concession for the Irish Village,' he wrote. 'The whole thing has an ancient and moldy smell of small graft' [1]. He warned readers against the 'degrading stage Irishman' [1]. Perhaps to calm the critics, Croft's management team was entirely Irish-born. The tailor and nationalist Patrick Joseph Kelleher was named to manage the theatre inside a replica King John's Castle, though a month before opening day the job went to someone else [1]. The Isle cost $100,000 to build and stock and took in only $13,096 [1].",
+    "people": [
+      {
+        "name": "Kenneth R. Croft",
+        "role": "concessionaire"
+      },
+      {
+        "name": "Father Peter C. Yorke",
+        "role": "priest and critic"
+      },
+      {
+        "name": "Patrick Joseph Kelleher",
+        "role": "tailor and theatre manager"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Shamrock Isle at the Panama Pacific International Exposition and the end of the Irish Village (Elizabeth Creely, 2015)",
+        "publisher": "FoundSF",
+        "year": 2015,
+        "url": "https://www.foundsf.org/Shamrock_Isle_at_the_Panama_Pacific_International_Exposition_and_the_end_of_the_Irish_Village",
+        "supports": "location, St. Laurence Gate, Croft, name change, censors, Yorke quotes, management team, theatre"
+      },
+      {
+        "title": "Panama–Pacific International Exposition",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Panama%E2%80%93Pacific_International_Exposition",
+        "supports": "the Zone as the amusement avenue at the Fort Mason end of the fair"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-adventurous-bowman",
+    "title": "The fair's last column, felled by cars",
+    "theme": "architecture-landmarks",
+    "year": 1916,
+    "yearEnd": 1926,
+    "place": {
+      "label": "Marina Boulevard at Cervantes Boulevard, former site of the Column of Progress",
+      "lat": 37.8058,
+      "lon": -122.4419,
+      "precision": "street"
+    },
+    "hook": "After the 1915 fair closed, its towers came down in clouds of coloured plaster. One column held on by the waterfront until drivers kept crashing into it.",
+    "story": "The Panama-Pacific International Exposition closed on December 4, 1915, with buglers playing 'Taps' from the Tower of Jewels as the lights went out [1]. Many people hoped to save it. Architect Willis Polk lobbied to keep the Palace of Fine Arts, the Palace of Horticulture, the gardens and the Avenue of Palms, and the Commonwealth Club passed a resolution urging preservation [2]. Speculators won instead. Arches and towers came down 'in clouds of colored plaster', showing the lath framework underneath. Small buildings were barged around the Bay Area [2]. Anything movable was sold, from furniture to sculpture, and the rest was demolished. The site was cleared by February 1917 [1]. Two things lingered. One was the Palace of Fine Arts. The other was the Column of Progress, topped by a sculpture called 'The Adventurous Bowman', which stood at the end of Scott Street, where Marina and Cervantes Boulevards now meet [1][2]. After one too many reckless motorists hit it, the column was pulled down in the mid-1920s [1][2].",
+    "people": [
+      {
+        "name": "Willis Polk",
+        "role": "architect who lobbied to save the fair"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Report: San Francisco Ladies' Protection and Relief Society, 3400 Laguna Street",
+        "publisher": "San Francisco Planning Department",
+        "year": 2024,
+        "url": "https://files.sfplanning.org/documents/preservation/LM320.pdf",
+        "supports": "closing night, sale and demolition, clearance by 1917, Column of Progress location and removal"
+      },
+      {
+        "title": "Destruction of the Fair (Gray Brechin)",
+        "publisher": "FoundSF",
+        "year": 2010,
+        "url": "https://www.foundsf.org/Destruction_of_the_Fair",
+        "supports": "Polk's lobbying, Commonwealth Club, plaster clouds, barged buildings, Column of Progress at end of Scott Street and its removal"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-spanish-streets",
+    "title": "Spanish streets for Italian flats",
+    "theme": "architecture-landmarks",
+    "year": 1922,
+    "yearEnd": 1930,
+    "place": {
+      "label": "Cervantes Boulevard, heart of the Marina-Vanderbilt Tract",
+      "lat": 37.80335,
+      "lon": -122.438,
+      "precision": "street"
+    },
+    "hook": "Developers laid out Cervantes, Alhambra and Toledo to sell romantic villa lots. The buyers, mostly North Beach Italians, cut them up for flats.",
+    "story": "In 1922 the speculator George E. Bevel and his partners, the Rothschild Brothers, bought 55 acres of the old fairground from Virginia Fair-Vanderbilt, owner of the largest part of the Fair estate's land [1]. Between Marina Boulevard and Laguna, Bay, Fillmore, Chestnut and Scott Streets they broke the city grid with diagonal and curving streets: Cervantes Boulevard, Casa Way, Prado, Toledo Way, Rico Way, Retiro Way, Mallorca Way and Alhambra Street [1]. The names set a 'romantic' Spanish theme [1]. The partners called their subdivision the Marina-Vanderbilt Tract. It covered only about a third of the neighbourhood, but in the 1920s 'Marina' replaced the old name, Harbor View, for the whole area [1]. They marketed it as a 'residence park' of half-acre villa lots, like St. Francis Wood. Most lots, though, were bought by Italian families from North Beach, who split them into standard 25- or 30-foot lots for flats and rowhouses [1]. A handful of builders put up most of the district in a short time, among them the Meyer Brothers, the Stoneson Brothers and Irvine & Ebbets. That is why its stucco walls, red tile and iron balconies look so uniform [1]. By 1930 three-quarters of the tract was built up [1][2].",
+    "people": [
+      {
+        "name": "George E. Bevel",
+        "role": "real estate developer"
+      },
+      {
+        "name": "Virginia Fair-Vanderbilt",
+        "role": "landowner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Report: San Francisco Ladies' Protection and Relief Society, 3400 Laguna Street",
+        "publisher": "San Francisco Planning Department",
+        "year": 2024,
+        "url": "https://files.sfplanning.org/documents/preservation/LM320.pdf",
+        "supports": "1922 purchase, street names, Marina-Vanderbilt Tract name, villa marketing, Italian buyers, builders, 1930 build-out"
+      },
+      {
+        "title": "Marina District, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Marina_District,_San_Francisco",
+        "supports": "post-fair sale to private developers and residential build-out completed in the 1920s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-julia-morgan-home",
+    "title": "Julia Morgan's home for women",
+    "theme": "communities",
+    "year": 1925,
+    "yearEnd": null,
+    "place": {
+      "label": "San Francisco Ladies' Protection and Relief Society (Heritage on the Marina), 3400 Laguna Street",
+      "lat": 37.8029,
+      "lon": -122.43102,
+      "precision": "building"
+    },
+    "hook": "A Gold Rush charity for stranded women hired California's leading woman architect. Its gardeners' cottage was built from the city's cast-off cobblestones.",
+    "story": "The San Francisco Ladies' Protection and Relief Society was founded in 1853 to help women and children stranded by the Gold Rush [2]. For decades it ran a children's home near Van Ness. In the early 1920s, as the state began placing orphans in foster homes, it turned to caring for convalescent and elderly women [2]. In 1922 it acquired a block of former fairground facing Lobos Square, now Moscone Park, and hired Julia Morgan [1][2]. Morgan designed a single brick building along Laguna Street, which sheltered the gardens behind it from the harsh onshore winds [1]. The permit was filed and granted on the same day, March 20, 1924. The $140,000 building was paid for partly by a $50,000 bequest from Lizzie G. Hovey [1]. The public was invited in on May 16, 1925. Nursing and board cost $1 a day, and retired women could stay for life 'if their conduct proves such as to make them adaptable' [1]. The gardens, planted with hedges, flowers and wild strawberry lawns, were thought to help healing [1]. In December 1928 the board hired a contractor to build a stone cottage for the head groundskeeper, apparently built from street cobbles pulled up downtown [1]. The city made it a landmark in 2024 [1][2].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "architect"
+      },
+      {
+        "name": "Lizzie G. Hovey",
+        "role": "benefactor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Report: San Francisco Ladies' Protection and Relief Society, 3400 Laguna Street",
+        "publisher": "San Francisco Planning Department",
+        "year": 2024,
+        "url": "https://files.sfplanning.org/documents/preservation/LM320.pdf",
+        "supports": "site choice, Morgan design, permit date, cost, Hovey bequest, opening, $1 a day, gardens, cobblestone cottage"
+      },
+      {
+        "title": "San Francisco Ladies Protection and Relief Society",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Ladies_Protection_and_Relief_Society",
+        "supports": "1853 founding, Gold Rush mission, 1922 change of focus and land, 2024 landmark listing"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-st-francis-yacht-club",
+    "title": "Sailors who wanted a club in town",
+    "theme": "parks-nature",
+    "year": 1927,
+    "yearEnd": 1976,
+    "place": {
+      "label": "St. Francis Yacht Club, on the Marina jetty",
+      "lat": 37.8073,
+      "lon": -122.4466,
+      "precision": "building"
+    },
+    "hook": "In 1927, before the Golden Gate Bridge, some sailors refused to follow their club to Belvedere. They built a new one on the fair's leftover harbour.",
+    "story": "The 1915 exposition left behind a small harbour east of the Presidio, and some sailors saw a use for it [1]. In early 1927 the San Francisco Yacht Club was moving its clubhouse from Sausalito to Belvedere. Before the Golden Gate Bridge, that meant a boat trip for every city member [1][2]. At a general meeting on February 5, 1927, Don Lee told his fellow members: 'if you say that you are going to build it here, you can build it here, because here is where your demand for a club is' [1]. The breakaway group incorporated the St. Francis Yacht Club on May 6, 1927, with former commodore John Punnett as its first commodore [1]. Their Mediterranean-style clubhouse, on land leased from the city on the fair's fill, is credited to Willis Polk; Polk died before the plans were finished, and his office completed them [1][2]. On December 21, 1976, the clubhouse caught fire during a party. One member was killed and seven were badly injured, and the western half had to be rebuilt [2]. The 1989 earthquake then damaged its foundations, and the club notes that little of Polk's building remains [1][2].",
+    "people": [
+      {
+        "name": "John Punnett",
+        "role": "first commodore"
+      },
+      {
+        "name": "Don Lee",
+        "role": "yachtsman"
+      },
+      {
+        "name": "Willis Polk",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The History of St. Francis Yacht Club",
+        "publisher": "St. Francis Yacht Club",
+        "year": 2024,
+        "url": "https://www.stfyc.com/history",
+        "supports": "harbour from the fair, split, Don Lee quote, incorporation date, Punnett, Polk design, little original remains"
+      },
+      {
+        "title": "St. Francis Yacht Club",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/St._Francis_Yacht_Club",
+        "supports": "Belvedere move, pre-bridge access, Polk's death, 1976 fire casualties, 1989 damage"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-marina-library",
+    "title": "A library as inviting as a bar",
+    "theme": "modern-city",
+    "year": 1954,
+    "yearEnd": null,
+    "place": {
+      "label": "Marina Branch Library, 1890 Chestnut Street",
+      "lat": 37.80131,
+      "lon": -122.43417,
+      "precision": "building"
+    },
+    "hook": "In 1951 San Francisco's head librarian complained that libraries looked like pumping stations, and said they should be as inviting as a good bar.",
+    "story": "The Marina Branch opened in 1954 as the 23rd branch of the San Francisco Public Library. It cost $156,742, plus $12,926 for furnishings [1]. It was designed by Appleton & Wolfard, who between 1951 and 1966 designed eight branch libraries for the city, more than any other firm in its history [2]. The partners admired Scandinavian modernism, especially the Finnish architect Alvar Aalto [2]. The building reflected a new idea of what a library should be. In a 1951 Chronicle article, City Librarian Laurence J. Clarke argued that a library 'must merchandise its services in much the same way a successful bookshop sells its wares'. 'Unfortunately,' he went on, 'most existing public libraries look like a Water Department pumping station. Smart entrepreneurs make their cocktail lounges so attractive that you can't help but stay on for another drink. Why not libraries?' [2]. A 2007 renovation costing $3.9 million added a small addition and made the building seismically safe and accessible [1]. It is now City Landmark No. 262 [2].",
+    "people": [
+      {
+        "name": "Laurence J. Clarke",
+        "role": "City Librarian"
+      },
+      {
+        "name": "Appleton & Wolfard",
+        "role": "architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Marina Library History",
+        "publisher": "San Francisco Public Library",
+        "year": 2024,
+        "url": "https://sfpl.org/locations/marina/marina-library-history",
+        "supports": "23rd branch, 1954 opening, costs, 2007 renovation"
+      },
+      {
+        "title": "San Francisco Landmark #262: Marina Branch Library (adapted from SF Planning Case 2008.09681)",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2016,
+        "url": "https://noehill.com/sf/landmarks/sf262.asp",
+        "supports": "Appleton & Wolfard's eight branches, Aalto influence, Clarke's 1951 Chronicle quote, landmark number"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-metro-film-festival",
+    "title": "America's oldest film festival opened here",
+    "theme": "arts-counterculture",
+    "year": 1957,
+    "yearEnd": 2006,
+    "place": {
+      "label": "Metro Theatre, 2055 Union Street",
+      "lat": 37.79711,
+      "lon": -122.43307,
+      "precision": "building"
+    },
+    "hook": "On December 4, 1957, a Union Street neighbourhood movie house hosted the first night of what became the oldest international film festival in the United States.",
+    "story": "The Metropolitan Theatre opened on April 23, 1924 with the silent film 'The Fighting Coward'. It was a second-run house in Samuel H. Levin's San Francisco Theatres chain [2][3]. The Reid Brothers designed it in Spanish Colonial Revival style, with tiered seating they had pioneered [1]. In 1941 it was remade in Art Deco and renamed the Metro. The old ornament was covered over rather than torn out, and new murals by the Heinsbergen firm of Los Angeles showed fairy-like figures floating over treetops [1]. Irving M. 'Bud' Levin believed San Francisco could host a festival to rival Cannes, Venice and Berlin. Neighbourhood houses like the Vogue and the Clay were already showing foreign films, even if crowds were often small [1]. On December 4, 1957, the first San Francisco International Film Festival opened at the Metro. It ran for fourteen days with films from twelve countries [1]. The festival grew into the oldest international film festival in the United States [1]. The Metro became a prestige first-run house and closed in 2006. It was landmarked in 2009 and turned into a gym that kept the murals [1][2].",
+    "people": [
+      {
+        "name": "Irving M. 'Bud' Levin",
+        "role": "festival founder and director"
+      },
+      {
+        "name": "Reid Brothers",
+        "role": "architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #261: Metro Theater (adapted from Landmarks Preservation Advisory Board Resolution 630, 2009)",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf261.asp",
+        "supports": "Reid Brothers, tiered seating, 1941 remodel, Heinsbergen murals, Levin, first festival details, closure and landmarking"
+      },
+      {
+        "title": "Metro Theatre",
+        "publisher": "Cinema Treasures",
+        "year": 2024,
+        "url": "https://cinematreasures.org/theaters/3260",
+        "supports": "1924 opening and first film, Levin chain, 1941 reopening, festival home, 2006 closure, gym conversion"
+      },
+      {
+        "title": "Metro Theatre (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Metro_Theatre_(San_Francisco)",
+        "supports": "opening date, first festival dates December 4–18, 1957"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-matrix-club",
+    "title": "The pizza parlour that launched Jefferson Airplane",
+    "theme": "arts-counterculture",
+    "year": 1965,
+    "yearEnd": 1972,
+    "place": {
+      "label": "Former site of the Matrix, 3138 Fillmore Street",
+      "lat": 37.7987,
+      "lon": -122.43555,
+      "precision": "building"
+    },
+    "hook": "In the summer of 1965 a singer talked three investors into $3,000 each, turned a Marina pizza joint into a club and built a band to play there.",
+    "story": "Singer Marty Balin persuaded three limited partners to put up $3,000 apiece, gave them 75 percent of the business, and kept 25 percent for creating and running it [1]. The club was a beer-and-pizza shop at 3138 Fillmore Street that held only about 100 to 120 people; accounts differ [1]. The Matrix opened on August 13, 1965, with the house band Balin had put together, the Jefferson Airplane [1][2]. The critic Ralph J. Gleason first saw them there and became an early champion [1]. The room was dark except for the small stage, with a mural of the Four Horsemen of the Apocalypse on one wall, and it served only beer and wine [1]. The Museum of the City of San Francisco's rock chronology tracks the stream of acts through the room: Lightnin' Hopkins with the Airplane opening in September 1965, Big Brother and the Holding Company, Howlin' Wolf, and Jim Morrison and the Doors on March 7, 1967 [2]. Hunter S. Thompson was a regular [1]. The Matrix closed in 1972 [1].",
+    "people": [
+      {
+        "name": "Marty Balin",
+        "role": "singer and club founder"
+      },
+      {
+        "name": "Ralph J. Gleason",
+        "role": "music critic"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Matrix (club)",
+        "publisher": "Wikipedia (pointer to Balin interviews and Gleason)",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/The_Matrix_(club)",
+        "supports": "financing, capacity, opening date, Gleason, layout, musicians' hangout, Thompson, closing year"
+      },
+      {
+        "title": "Chronology of San Francisco Rock 1965-1969",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 2010,
+        "url": "https://www.sfmuseum.org/hist1/rock.html",
+        "supports": "August 13, 1965 opening at 3138 Fillmore with Jefferson Airplane; Hopkins, Big Brother, Howlin' Wolf, the Doors dates"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-erotic-film-festival",
+    "title": "The Cockettes at a Chestnut Street premiere",
+    "theme": "arts-counterculture",
+    "year": 1970,
+    "yearEnd": null,
+    "place": {
+      "label": "Presidio Theatre, 2340 Chestnut Street",
+      "lat": 37.80038,
+      "lon": -122.44197,
+      "precision": "building"
+    },
+    "hook": "In December 1970, Chestnut Street's Art Deco cinema hosted the first San Francisco Erotic Film Festival. The Cockettes sang, and Supervisor Dianne Feinstein denounced 'money hungry people'.",
+    "story": "The Presidio Theatre opened on July 1, 1937 as the El Presidio, an 828-seat neighbourhood house [2]. John Ahnden designed it in a streamlined Art Deco style for $75,000, and it remains a landmark of the Chestnut Street shopping district [1][2]. On December 2, 1970, KPIX Eyewitness News reported on something very different: the first San Francisco Erotic Film Festival, premiering at the Presidio [3]. Its cameras caught crowds arriving, and Hibiscus and Tahara of the Cockettes troupe singing 'By a Waterfall' [3]. The station also interviewed the organisers and Supervisor Dianne Feinstein. 'The thing that I regret,' Feinstein said, 'is that this whole field is jeopardized right now because of the irresponsibility of certain money hungry people ... who are capitalizing on sickness to sell their very depraved wares' [3]. The 5-minute 54-second newsfilm survives in San Francisco State University's Bay Area Television Archive [3]. The theatre was later split into four screens and reopened on Christmas Day 2004 [2].",
+    "people": [
+      {
+        "name": "Dianne Feinstein",
+        "role": "San Francisco Supervisor"
+      },
+      {
+        "name": "Hibiscus",
+        "role": "Cockettes performer"
+      },
+      {
+        "name": "John Ahnden",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Report: San Francisco Ladies' Protection and Relief Society, 3400 Laguna Street",
+        "publisher": "San Francisco Planning Department",
+        "year": 2024,
+        "url": "https://files.sfplanning.org/documents/preservation/LM320.pdf",
+        "supports": "Ahnden design, 1937 construction, $75,000, Chestnut Street context"
+      },
+      {
+        "title": "Presidio Theatre",
+        "publisher": "Cinema Treasures",
+        "year": 2024,
+        "url": "https://cinematreasures.org/theaters/1623",
+        "supports": "July 1, 1937 opening as El Presidio, 828 seats, 2004 reopening as four screens"
+      },
+      {
+        "title": "Erotic Film Festival (1970), KPIX 103824",
+        "publisher": "Bay Area Television Archive, San Francisco State University",
+        "year": 1970,
+        "url": "https://diva.sfsu.edu/collections/sfbatv/bundles/190447",
+        "supports": "December 2, 1970 festival at the Presidio Theater, Cockettes performance, Feinstein quote, film details"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2q-russian-consulate",
+    "title": "Smoke from the consulate chimney",
+    "theme": "modern-city",
+    "year": 2017,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Consulate General of Russia, 2790 Green Street",
+      "lat": 37.79514,
+      "lon": -122.445,
+      "precision": "building"
+    },
+    "hook": "For 44 years Moscow's diplomats worked from a Cow Hollow apartment building. On the eve of their eviction, black smoke poured from the chimney in a heat wave.",
+    "story": "Russia first named a consul in San Francisco in 1852 [2]. The Soviet Union opened a consulate on Divisadero Street in 1934 (NoeHill says 1933), closed it in a 1948 diplomatic row, and returned only after a 1972 thaw [1][2]. In 1973 the consulate moved into 2790 Green Street, a six-storey building designed by Edward E. Young in 1922 as co-op apartments [1][2]. It was one of only two Soviet consulates in the United States [2]. Neighbours knew the diplomats for bringing plates of food and vodka shots to block parties, and for inflating a big snowman outside at Christmas [1]. In 1984 a US government report suggested that some 50 Soviet spies might be working out of the building, mostly targeting Silicon Valley [2]. On August 31, 2017, the State Department gave Russia until September 2 to close it, in retaliation for cuts to US staff in Russia [3]. The day before the deadline, during a historic heat wave, black smoke billowed from a chimney [3]. 'No need to worry,' a Russian official told CNN. 'They are not electing a Pope' [3]. The fire department tweeted that it was 'a fire alarm NOT A FIRE' [3].",
+    "people": [
+      {
+        "name": "Edward E. Young",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Russian Consulate",
+        "publisher": "NoeHill in San Francisco (quoting SF Chronicle, September 1, 2017)",
+        "year": 2017,
+        "url": "https://noehill.com/sf/landmarks/poi_russian_consulate.asp",
+        "supports": "architect, co-op origin, 1933/34 Divisadero consulate, block parties and snowman, 2017 closure"
+      },
+      {
+        "title": "Consulate General of Russia, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Consulate_General_of_Russia,_San_Francisco",
+        "supports": "1852 consul, 1948 closure, 1972 restoration, June 1973 move, six storeys, 1984 spy report"
+      },
+      {
+        "title": "Smoke spotted coming from Russian consulate ahead of facility closure",
+        "publisher": "CNN",
+        "year": 2017,
+        "url": "https://www.cnn.com/2017/09/01/politics/russia-consulate-san-francisco-smoke/index.html",
+        "supports": "closure order and deadline, black smoke, heat wave, 'not electing a Pope' quote, fire department tweet"
+      }
+    ],
+    "photo": null
+  }
+]

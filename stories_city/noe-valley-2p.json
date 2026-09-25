@@ -1,0 +1,670 @@
+[
+ {
+  "id": "noe-valley-2p-rolph-pleasure-den",
+  "title": "Sunny Jim's rumoured 'pleasure den'",
+  "theme": "communities",
+  "year": 1931,
+  "yearEnd": 1933,
+  "place": {
+   "label": "3690 21st Street, near Sanchez, on Liberty Hill",
+   "lat": 37.75654358695704,
+   "lon": -122.42980704414074,
+   "precision": "building"
+  },
+  "hook": "For decades neighbours whispered that a hilltop house on 21st Street was Mayor Rolph's Prohibition party pad. The records tell a duller, more interesting story.",
+  "story": "James \"Sunny Jim\" Rolph ran San Francisco for 19 years, from 1912 until he quit City Hall in January 1931 to become governor of California. He died in office in 1934 [2]. A rumour tied to him has clung to the house at 3690 21st Street, at the corner of Sanchez on the crest of Liberty Hill. The story went that it was an \"entertainment hideout\" where rich, well-connected men drank and met prostitutes during Prohibition [1].\n\nFoundSF checked the paperwork. A Rolph-linked company, the Burlingame Corporation, did control the lot late in the Prohibition era. But the house wasn't built until 1931. City directories place James Rolph III, the governor's son, living there with his wife in 1932 and 1933. In 1933 it was sold to Francisco and Beatrice DiGrazia. One source claims DiGrazia was an eye surgeon who had operated on a relative of Mussolini, and that the grateful dictator sent over a lavish fountain [1]. The Rolph family owned the finished house for only about two years, and there's little reason to think it was ever a den of anything. It's simply a nice house with a great view that has fed salacious gossip for years [1].",
+  "people": [
+   {
+    "name": "James Rolph Jr.",
+    "role": "Mayor of San Francisco 1912–1931, governor 1931–1934"
+   },
+   {
+    "name": "James Rolph III",
+    "role": "The mayor's son, who lived in the house"
+   },
+   {
+    "name": "Francisco and Beatrice DiGrazia",
+    "role": "Bought the house in 1933"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Jim Rolph's Pleasure Den",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Jim_Rolph%27s_Pleasure_Den",
+    "supports": "Rumours, 1931 construction date, Burlingame Corporation, Rolph III's residence per city directories, 1933 sale to the DiGrazias, fountain anecdote"
+   },
+   {
+    "title": "James Rolph",
+    "publisher": "Wikipedia (pointer)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/James_Rolph",
+    "supports": "Mayor from January 8, 1912, to 1931; governor from January 6, 1931, until his death on June 2, 1934"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-tuggeys-hardware",
+  "title": "114 years of nuts, bolts and advice",
+  "theme": "labor-industry",
+  "year": 1898,
+  "yearEnd": 2012,
+  "place": {
+   "label": "Former Tuggey's Hardware, 3885 24th Street, near Sanchez",
+   "lat": 37.751371779971784,
+   "lon": -122.4292750961703,
+   "precision": "building"
+  },
+  "hook": "The sign said 1900 because two zeroes were cheaper to paint. For more than a century, Tuggey's sold Noe Valley the parts nobody else stocked.",
+  "story": "The hardware store at 3885 24th Street opened in 1898 as Sawyer's Hardware. About a year later William Tuggey bought it and put his own name on it. He passed it to his son Gene [2][3]. Why did the sign say 1900? \"Purely cost,\" the last owner explained. \"It was cheaper to go with two zeroes than '98\" [3]. An earlier Voice profile, working back from the store's age in 1997, put the founding a few years earlier [1].\n\nGene Tuggey hired a neighbourhood boy from Sanchez Street, Bob Giovannoli, as a delivery boy. After Bob came home from the Army in World War II, Gene shut the front door one day and took him to the bank to buy the business, in 1957 [2]. Bob's son Denny took over in 1976. He once spent 20 minutes sketching an ancient plumbing part for a first-time customer. Even Home Depot sent people to him for obscure pieces, and he still kept catalogues for parts that had vanished around Prohibition [1].\n\nTuggey's closed on July 16, 2012, after 114 years, beaten by online shopping and big-box stores with free parking. Giovannoli turned down restaurants and leased the building to a medical practice [3].",
+  "people": [
+   {
+    "name": "William Tuggey",
+    "role": "Bought the store around 1899"
+   },
+   {
+    "name": "Bob Giovannoli",
+    "role": "Delivery boy who bought the store in 1957"
+   },
+   {
+    "name": "Denny Giovannoli",
+    "role": "Owner from 1976 to 2012"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Four Folksy Businesses Among 24th's Longtime Survivors",
+    "publisher": "The Noe Valley Voice",
+    "year": 1997,
+    "url": "https://www.noevalleyvoice.com/1997/May/stores77.html",
+    "supports": "Store's age in 1997, the plumbing-part sketch, Home Depot referrals, old catalogues"
+   },
+   {
+    "title": "Tuggey's Hardware: A Well-Loved Noe Valley Fixture",
+    "publisher": "The Noe Valley Voice",
+    "year": 2006,
+    "url": "https://www.noevalleyvoice.com/2006/September/Tug.html",
+    "supports": "Founded 1898 as Sawyer's; William and Gene Tuggey; 1957 sale to Bob Giovannoli; Denny takes over in 1976"
+   },
+   {
+    "title": "Tuggey's Pulls the Plug, Medical Group Expands",
+    "publisher": "The Noe Valley Voice",
+    "year": 2012,
+    "url": "https://www.noevalleyvoice.com/2012/September/Tugg.htm",
+    "supports": "Closed July 16, 2012, after 114 years; the 1900 sign; reasons for closing; new tenant"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-drewes-meats",
+  "title": "The butcher shop that wouldn't die",
+  "theme": "labor-industry",
+  "year": 1889,
+  "yearEnd": null,
+  "place": {
+   "label": "Drewes Bros. Meats, 1706 Church Street, near 29th",
+   "lat": 37.74348207596594,
+   "lon": -122.42693151601499,
+   "precision": "building"
+  },
+  "hook": "In 1998 the Examiner ran Drewes Meats' obituary on its front page. Eleven days later, two young butchers were pounding chicken behind the counter again.",
+  "story": "Drewes has been selling meat on outer Church Street since about 1888 or 1889. By 2011 it was one of the street's oldest businesses [1][2]. Daniel Murphy remembered his mother sending him there in 1946, aged ten, with a five-dollar bill in a leather pouch and a note for \"Mr. Dietz\" asking for two pounds of lamb for a stew, at 50 cents a pound. He spent an hour treating half the kids on Duncan Street to penny candy, and when he finally reached the counter the five-dollar bill was gone [2].\n\nIn October 1998 the shop nearly died. Staff first noticed business slipping in 1991, during the filming of Sister Act at St. Paul's. Muni medians then cut parking, and his tendonitis made butchering painful. Owner Dave McCarroll closed the doors on October 15. The next day the Examiner's front page announced that Drewes had ended its 109-year run [1]. Workers Josh and Isaac Epple, aged 26 and 24, called themselves \"the Drewes Brothers\" and reopened the shop eleven days later. Its fate rested with Phil Tomasello, who had worked there as a butcher for 40 years and owned the building. \"We're going to take it slow,\" he said [1]. The name stuck. In 2011 the shop was still trading as Drewes Bros. Meats [2].",
+  "people": [
+   {
+    "name": "Josh and Isaac Epple",
+    "role": "Butchers who revived the shop in 1998"
+   },
+   {
+    "name": "Phil Tomasello",
+    "role": "Butcher there for 40 years and owner of the building"
+   },
+   {
+    "name": "Daniel C. Murphy",
+    "role": "Remembered shopping there as a boy in 1946"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Drewes Meat Market on Last Legs",
+    "publisher": "The Noe Valley Voice",
+    "year": 1998,
+    "url": "https://www.noevalleyvoice.com/1998/November/drewes.html",
+    "supports": "About 1888 origin, 1998 closure and Examiner headline, the reasons, the Epple brothers' revival, Tomasello"
+   },
+   {
+    "title": "Other Voices: Only Four Blocks to Drewes",
+    "publisher": "The Noe Valley Voice",
+    "year": 2011,
+    "url": "https://www.noevalleyvoice.com/2011/June/Othr.htm",
+    "supports": "122 years in 2011, renamed Drewes Bros. Meats, the 1946 errand, Mr. Dietz, lamb at 50 cents a pound"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-searchlight-blue-church",
+  "title": "Nickelodeon, Holiness Temple, then the Blue Church",
+  "theme": "communities",
+  "year": 1916,
+  "yearEnd": 2009,
+  "place": {
+   "label": "1596 Church Street at 28th Street (site of the Searchlight Theater)",
+   "lat": 37.74544353166355,
+   "lon": -122.42699649876963,
+   "precision": "building"
+  },
+  "hook": "The royal-blue church at Church and 28th had been a movie house with nine or more names before it found religion. Its last years ended in court.",
+  "story": "In 1916 a nickelodeon opened at Church and 28th streets. A piano played along to the silent films [3]. It opened as the Searchlight and went on to be the Empress, the Lux, the De Lux, the Isis, the Princess, the Church, the Rita and finally the Del Mar. In the 1930s it showed German and Russian films [1]. In 1965 the Holiness Temple in Christ bought it, and the building became the royal-blue \"Blue Church\" of outer Church Street [1][2].\n\nFrom 1996 the congregation, by then the non-denominational Church at San Francisco, was led by Rev. Joesiah Bell, a social-activist pastor. His food and clothing giveaways and his plans for a shelter for homeless women brought complaints from some neighbours. Bell called the harassment racist [1]. In 2006 the church agreed to hand the building to a developer in exchange for 40 percent of the profits from condos on the site. When the lease ran out, it refused to leave. A jury sided with the church in 2008, but appeal judges reversed the verdict in 2009 [2]. By then 15 to 20 people with nowhere else to go were living in a building with no kitchen or showers [2]. The old theatre was torn down soon after, and by 2011 gold-and-grey condos were planned for the corner [4].",
+  "people": [
+   {
+    "name": "Rev. Joesiah Bell",
+    "role": "Pastor of the Church at San Francisco from 1996"
+   },
+   {
+    "name": "James Branch",
+    "role": "Developer of the condominiums"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Fed-Up Pastor Sells Church to Condo Developer",
+    "publisher": "The Noe Valley Voice",
+    "year": 2006,
+    "url": "https://www.noevalleyvoice.com/2006/October/Blue.html",
+    "supports": "1916 Searchlight opening, list of names, 1930s German and Russian films, 1965 Holiness Temple purchase, Bell's account of neighbourhood tensions"
+   },
+   {
+    "title": "'Blue Church' Inches Closer to Demolition",
+    "publisher": "The Noe Valley Voice",
+    "year": 2009,
+    "url": "https://www.noevalleyvoice.com/2009/September/Blue.htm",
+    "supports": "2006 deal for 40 percent of profits, lease dispute, 2008 jury verdict reversed in 2009, 15 to 20 residents"
+   },
+   {
+    "title": "Fairmount Heights",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Fairmount_Heights",
+    "supports": "1959 neighbourhood committee's memory of a nickelodeon at 28th and Church with a piano"
+   },
+   {
+    "title": "Gold Condos Coming to Blue Church Site",
+    "publisher": "The Noe Valley Voice",
+    "year": 2011,
+    "url": "https://www.noevalleyvoice.com/2011/February/Blue.htm",
+    "supports": "Demolition more than a year before February 2011; the planned gold-and-grey building"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-agnes-farrell-sanchez",
+  "title": "Fiddles, cops and $2,600 on Sanchez",
+  "theme": "communities",
+  "year": 1918,
+  "yearEnd": 2008,
+  "place": {
+   "label": "1316 Sanchez Street, between 25th and 26th",
+   "lat": 37.74803639060118,
+   "lon": -122.42959607606589,
+   "precision": "building"
+  },
+  "hook": "Agnes Farrell's Irish parents bought their Sanchez Street house outright for $2,600. The parties there were loud enough that police called at 2 a.m.",
+  "story": "Agnes Farrell was born South of Market to Irish immigrant parents. In 1918 the family moved to 1316 Sanchez Street, and after renting for years they scraped together $2,600 to buy it outright. They sold it in 1964 for $9,000 [1]. Her father had watched the 1906 fire from the top of the Noe Street hill [1].\n\nIn her memory, 1920s Noe Valley was a working-class mix of Irish and Italian families. Horse-drawn buggies still made their rounds, and a rags-and-bottles man came by once a week calling for empties. Every corner had a grocery, and the butcher handed children free slices of baloney. Kids played \"hickey,\" skating with one foot in the gutter, and hitched rides on the produce truck until the driver threw potatoes at them [1]. A nickel streetcar ride took them to the Beach Chalet to watch hurling and Gaelic football. Back on Sanchez, the after-match parties went on until the police asked for quiet at 2 a.m. Next-door neighbour Bill O'Dwyer played the fiddle, and \"When Irish Eyes Are Smiling\" got more off-key as the night went on [1]. In 2008, aged 91, she was booked to share these stories on a panel at St. Paul's Parish Center for a festival on Noe Valley's Irish [2].",
+  "people": [
+   {
+    "name": "Agnes Farrell",
+    "role": "Lived in Noe Valley from 1918"
+   },
+   {
+    "name": "Bill O'Dwyer",
+    "role": "Fiddle-playing next-door neighbour"
+   },
+   {
+    "name": "Monica Curran",
+    "role": "Her daughter"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Agnes Farrell Shares Memories of An Irish Noe Valley",
+    "publisher": "The Noe Valley Voice",
+    "year": 2008,
+    "url": "https://www.noevalleyvoice.com/2008/March/Agns.html",
+    "supports": "1918 move to 1316 Sanchez; $2,600 and $9,000; street life of the 1920s; parties, O'Dwyer's fiddle, Gaelic games"
+   },
+   {
+    "title": "Neighborhood Irish Featured in Cultural Festival",
+    "publisher": "The Noe Valley Voice",
+    "year": 2008,
+    "url": "https://www.noevalleyvoice.com/2008/March/Fest.html",
+    "supports": "March 2008 panel on 'The Noe Valley Irish' at St. Paul's Parish Center with Agnes Farrell"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-girl-in-the-bay-window",
+  "title": "The little girl in the bay window",
+  "theme": "communities",
+  "year": 1930,
+  "yearEnd": 1939,
+  "place": {
+   "label": "Corner of 23rd and Castro streets",
+   "lat": 37.752787211766325,
+   "lon": -122.43390235289053,
+   "precision": "block"
+  },
+  "hook": "A cable car conductor told his kids to be grateful, like the sickly girl who waved from a window at 23rd and Castro. Years later his son married her.",
+  "story": "In the 1930s the little Castro Street cable cars, which local children called \"Dinkies,\" climbed over the hill from 18th Street to a turntable at 26th [1]. The line was phased out by 1941 [2]. One conductor, Bob Beban Sr., kept telling his family about a sad, sickly girl of four or five. She knelt in a big bay window at 23rd and Castro and waved at every car. He told his children to stop complaining about their vegetables and be grateful they were healthy [1].\n\nYears later his wife, Marie, told this story to her daughter-in-law, Vivian. Vivian's eyes grew wide: \"Mom, that little girl was me!\" Just before her fifth birthday her appendix had burst. She spent six weeks in San Francisco General and had 13 operations. She was only allowed home once her mother bought an electric refrigerator to make ice packs. Her bed was set in the sunny front window of their corner flat, and she waved at the Dinkies. One man always smiled and rang the bell for her [1]. Her husband Bob was stunned: \"You? I married the little girl in the window?\" Bob Sr. had died of a heart attack at 48, so Vivian never got to reminisce with him [1].",
+  "people": [
+   {
+    "name": "Vivian Beban",
+    "role": "The girl in the window, later the author of the memoir"
+   },
+   {
+    "name": "Bob Beban Sr.",
+    "role": "Castro Street cable car conductor"
+   },
+   {
+    "name": "Marie Beban",
+    "role": "His wife, who told the story"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Little Girl in the Window",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Little_Girl_in_the_Window",
+    "supports": "The Beban family memoir: the 'Dinkies' from 18th to 26th, the girl at 23rd and Castro, her illness, the conductor"
+   },
+   {
+    "title": "Harry Aleo -- Champion of Small-Town Noe Valley",
+    "publisher": "The Noe Valley Voice",
+    "year": 1999,
+    "url": "https://www.noevalleyvoice.com/1999/June/aleo.html",
+    "supports": "Castro cable cars running from 26th to 18th, with the line phased out by 1941"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-harry-aleo-window",
+  "title": "The Republican window on liberal 24th Street",
+  "theme": "communities",
+  "year": 1947,
+  "yearEnd": 2008,
+  "place": {
+   "label": "Former Twin Peaks Properties, 4072 24th Street, near Castro",
+   "lat": 37.751575778966746,
+   "lon": -122.43347539513977,
+   "precision": "building"
+  },
+  "hook": "Harry Aleo filled his real-estate window with Nixon, Reagan and 'Looney Valley' signs. Someone shot at it. Then his racehorse became a Kentucky Derby hopeful.",
+  "story": "Harry Aleo grew up at 820 Diamond Street above his parents' fruit and vegetable store. He played ball for the Douglass Midgets, later pitched in college, and signed with the Brooklyn Dodgers until an arm injury ended it. He then fought at the Battle of the Bulge [1]. In 1947 he opened Twin Peaks Properties, and in 1958 he moved it to 4072 24th Street [1]. In 1961 Willopi Hall, condemned by the city, came up for sale. Aleo quietly gathered 19 other businesses to buy it and sell it to the city, and it became today's public parking lot [1].\n\nMost passers-by knew him from his window. He filled it with GOP memorabilia from Ike to \"Dubya\" in one of the city's most liberal neighbourhoods. Vandals spat on it, scratched it, and in the Reagan years put bullet holes through the glass. In 2001 someone glued up clippings in the shape of swastikas [2]. Neighbours rallied round him. The Bay Guardian named it the \"Best Place to See Startled Democrats\" [2].\n\nIn 2005 his colt Lost in the Fog kept winning races and was talked about as a Kentucky Derby candidate. The horse was put down with cancer in 2006. Aleo died in 2008, and a documentary about the pair by Noe Valley native John Corey toured festivals [3].",
+  "people": [
+   {
+    "name": "Harry Aleo",
+    "role": "Realtor, merchant leader and racehorse owner (1920–2008)"
+   },
+   {
+    "name": "John Corey",
+    "role": "Director of the documentary Lost in the Fog"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Harry Aleo -- Champion of Small-Town Noe Valley",
+    "publisher": "The Noe Valley Voice",
+    "year": 1999,
+    "url": "https://www.noevalleyvoice.com/1999/June/aleo.html",
+    "supports": "Childhood at 820 Diamond, baseball, the Dodgers contract, war service, 1947 opening and 1958 move, Willopi Hall parking lot"
+   },
+   {
+    "title": "Marks on Harry Aleo's Window Show an Ugly Side of Noe Valley",
+    "publisher": "The Noe Valley Voice",
+    "year": 2001,
+    "url": "https://www.noevalleyvoice.com/2001/September/Aleo.html",
+    "supports": "Window displays, bullet holes in the Reagan era, 2001 swastika vandalism, Bay Guardian award"
+   },
+   {
+    "title": "John Corey Takes Harry Aleo and His Horse on the Film Circuit",
+    "publisher": "The Noe Valley Voice",
+    "year": 2009,
+    "url": "https://www.noevalleyvoice.com/2009/February/John.html",
+    "supports": "Lost in the Fog's 2005 streak and 2006 death, Aleo's death in 2008, the documentary"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-mortuary-college",
+  "title": "Upstairs from the funeral parlour, a college",
+  "theme": "labor-industry",
+  "year": 2002,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Reilly Co./Goodwin & Scannell Funeral Home, 1598 Dolores Street at 29th",
+   "lat": 37.74394444339659,
+   "lon": -122.42466806766083,
+   "precision": "building"
+  },
+  "hook": "For about a decade, students on the top floor of a Dolores Street funeral home learned to embalm. Many went on to become coroners. San Francisco rents buried the school.",
+  "story": "The San Francisco College of Mortuary Science opened on June 6, 1930, and graduated more than 5,000 students [1]. It started out on Post Street. In the early 1990s it moved to the top floor of the Reilly Co./Goodwin & Scannell Funeral Home, a two-storey Romanesque building at 1598 Dolores Street, on the corner of 29th [1]. Students learned on the job. The college's own chapel handled about 350 funerals a year, often for low-income families. Many graduates went on to work as coroners and deputy coroners [1].\n\nThe city's costs finished it off. Faculty couldn't afford to live in San Francisco, and students doubled and tripled up in apartments. The last class graduated on June 8, 2002, and the curriculum moved to American River College in Sacramento [1]. Since 1997 the funeral home had been owned by Steven Welch, of the Duggan-Welch family of Mission District funeral directors. Their plan to replace the 1920s mortuary with 13 condominiums led to a noisy neighbourhood fight over height and parking. At one Upper Noe Neighbors meeting, residents objected loudly to the developer's claims of local support. Supervisor Mark Leno pressed for a compromise [2].",
+  "people": [
+   {
+    "name": "Susan Maher",
+    "role": "College board member"
+   },
+   {
+    "name": "Steven Welch",
+    "role": "Funeral home owner and would-be developer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Funeral School Breathes Its Last at Reilly's, But Condos Revived",
+    "publisher": "The Noe Valley Voice",
+    "year": 2002,
+    "url": "https://www.noevalleyvoice.com/2002/June/Schl.html",
+    "supports": "1930 founding, 5,000 graduates, move to Dolores Street, 350 funerals a year, June 8, 2002, closing, merger with American River College"
+   },
+   {
+    "title": "Reilly Mortuary Project May Be Downsized",
+    "publisher": "The Noe Valley Voice",
+    "year": 2001,
+    "url": "https://www.noevalleyvoice.com/2001/June/Reil.html",
+    "supports": "1920s-era mortuary, the condo plan, neighbourhood opposition, Leno's mediation"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-shufat-market",
+  "title": "A corner store named for a Palestinian village",
+  "theme": "communities",
+  "year": 1972,
+  "yearEnd": null,
+  "place": {
+   "label": "Shufat Market, 3807 24th Street at Church",
+   "lat": 37.75150323704145,
+   "lon": -122.42768788508545,
+   "precision": "building"
+  },
+  "hook": "A Palestinian grocer went from Brazil to Nicaragua, then after the Managua earthquake bought a 24th Street market. His family has run it for three generations since.",
+  "story": "The store at 3807 24th Street began in 1907 as the Hoffman Bros. grocery and butcher shop [2]. Sources disagree on the start date: a FoundSF photo caption dates a Hoffman Brothers grocery at 24th and Church to about 1878 [3]. In the Voice's 2010 account, Mouhammed Omar left his family's grocery business in Palestine in 1955. He went first to Brazil, then Nicaragua, where he ran a dry-goods business. After the Managua earthquake of 1972 he came to San Francisco, bought the store from the Louie family and named it after his hometown, Shufat, outside Jerusalem [2]. (A 1997 Voice profile gives different dates, with the father starting the business around 1968 [1].)\n\nHis wife, four sons and daughter followed. Omar's Spanish, learned in Central America, helped him feel at home [2]. In 2010 about 30 relatives lived in the city. Two of the sons lived around the corner and upstairs, and the store stayed open from 8 a.m. to 2 a.m. seven days a week [2]. One afternoon a reporter watched Mike Omar answer questions in English, cash a lottery ticket in Spanish and talk about a deli order with his daughter in Arabic, all at once [2]. The family knew their customers' names, their kids and their partners [1].",
+  "people": [
+   {
+    "name": "Mouhammed Omar",
+    "role": "Founder"
+   },
+   {
+    "name": "Jamil (James) Abu-nie",
+    "role": "Eldest son and owner"
+   },
+   {
+    "name": "Kamal (Mike) Omar",
+    "role": "Son and co-proprietor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Four Folksy Businesses Among 24th's Longtime Survivors",
+    "publisher": "The Noe Valley Voice",
+    "year": 1997,
+    "url": "https://www.noevalleyvoice.com/1997/May/stores77.html",
+    "supports": "Family-run store, the Shufat name, a different early timeline, knowing customers by name"
+   },
+   {
+    "title": "Shufat Market--the Granddaddy of Mom and Pop Stores",
+    "publisher": "The Noe Valley Voice",
+    "year": 2010,
+    "url": "https://www.noevalleyvoice.com/2010/March/Shuf.htm",
+    "supports": "1907 Hoffman Bros. origin, Omar's route from Palestine to Brazil and Nicaragua, 1972 purchase, the family, hours, three languages"
+   },
+   {
+    "title": "Noe Valley History",
+    "publisher": "FoundSF",
+    "year": 1992,
+    "url": "https://www.foundsf.org/index.php?title=Noe_Valley_History",
+    "supports": "Photo caption: Hoffman Brothers grocery at 24th Street and Church, c. 1878"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-keiko-fukuda-dojo",
+  "title": "The judo master of Castro Street",
+  "theme": "communities",
+  "year": 1973,
+  "yearEnd": 2013,
+  "place": {
+   "label": "Soko Joshi Judo Club, 1622 Castro Street at 26th",
+   "lat": 37.74819904001165,
+   "lon": -122.43406301812675,
+   "precision": "building"
+  },
+  "hook": "She was under five feet tall, a granddaughter of samurai and the last living student of judo's founder. She taught women to throw people at Castro and 26th.",
+  "story": "Keiko Fukuda was born in Tokyo in 1913. Her grandfather was a famous jujitsu master, and as a young woman she trained with his former student Jigoro Kano, the founder of judo [2][3]. Kano liked to say, \"If you want to learn judo, watch the women study.\" [2] Judo teachers were expected not to marry, so she stayed single and taught women around the world. She was invited to the United States in 1953 (her obituary says the 1960s) and eventually settled into the Hoffman Avenue home of her student, Dr. Shelley Fernandez. \"I thought she was going to live here for a year,\" Fernandez said. \"Turned out to be 45.\" [2][3]\n\nIn 1973 she founded the Soko Joshi Judo Club, a women's club at Castro and 26th streets [2]. She taught nurses after a string of rapes at UCSF, and Japanese women over 75 [2]. She was a fifth-degree black belt for 30 years [3]. In 2011, aged 98, she became the first woman to receive judo's highest rank, the 10th dan. She still taught three days a week, mostly from a chair [3]. At 90 she could still stand up, grab a student's lapels and throw her three times running [4]. She died at home in Noe Valley in 2013, two months short of 100 [1].",
+  "people": [
+   {
+    "name": "Keiko Fukuda",
+    "role": "Judo master (1913–2013)"
+   },
+   {
+    "name": "Shelley Fernandez",
+    "role": "Student, housemate and former president of San Francisco NOW"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Noe Valley Judo Star Dies",
+    "publisher": "The Noe Valley Voice",
+    "year": 2013,
+    "url": "https://www.noevalleyvoice.com/2013/March/Obit.htm",
+    "supports": "Died at home on Feb. 9, 2013, two months short of 100; teaching in Noe Valley from 1973; her foundation"
+   },
+   {
+    "title": "Latest Honor for Judo Master Keiko Fukuda",
+    "publisher": "The Noe Valley Voice",
+    "year": 2008,
+    "url": "https://www.noevalleyvoice.com/2008/November/Keik.html",
+    "supports": "Grandfather, training with Kano, Kano's quote, arrival in 1953, UCSF nurses, women over 75, club founded in 1973, 1622 Castro address"
+   },
+   {
+    "title": "Local Judo Star Awarded Sport's Top Honor",
+    "publisher": "The Noe Valley Voice",
+    "year": 2011,
+    "url": "https://www.noevalleyvoice.com/2011/September/Judo.htm",
+    "supports": "First woman to hold the 10th dan, in 2011; fifth degree for 30 years; teaching from a chair; the Fernandez quote"
+   },
+   {
+    "title": "A Lifetime of Judo: Keiko Fukuda (reprinted from the San Francisco Chronicle, 2003)",
+    "publisher": "JudoInfo / San Francisco Chronicle",
+    "year": 2003,
+    "url": "https://web.archive.org/web/2024/http://www.judoinfo.com/fukuda.htm",
+    "supports": "At 90, rising from her chair to throw a student three times in a row"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-man-in-the-window",
+  "title": "The Man in the Window on Church Street",
+  "theme": "modern-city",
+  "year": 1989,
+  "yearEnd": 2007,
+  "place": {
+   "label": "1357 Church Street, near Clipper",
+   "lat": 37.749060374835274,
+   "lon": -122.42703854560938,
+   "precision": "building"
+  },
+  "hook": "For 18 years a retired teacher taped quotations in his window beside the J-Church stop. One sign helped a young couple decide to marry.",
+  "story": "Dean Bistline was born in Iowa in 1921. He served in the Coast Guard, then worked as a teacher and principal and later as a speechwriter in Washington. In 1989 he and his wife Susan moved into the bottom flat of his daughter's house at 1357 Church Street, beside a J-Church stop [2]. Six weeks later came the Loma Prieta earthquake, and soon after, the first Gulf War. He taped a sign to the garage: \"I love my country, I fear my government.\" [1]\n\nOne sign grew into three. The Bistlines clipped quotations from Will Rogers, Joan Didion, Tom Stoppard and even Donald Trump and Nicole Kidman, and changed them about once a month. Eventually Susan claimed alternate months [1]. After they posted \"Leap, and the net will appear,\" a young couple knocked with flowers. The line had helped them decide to marry. A Latina woman came by every day to copy the signs down and practise her English [1]. When Bistline died in April 2007, the last sign read, \"The Man in the Window says goodbye.\" Within hours a memorial of orchids, lilies and notes grew on the doorstep. One came from a little girl he used to give Tootsie Rolls: \"Dear Dean, I hope your second life is great.\" [2]",
+  "people": [
+   {
+    "name": "Dean Bistline",
+    "role": "Retired educator, 'the Man in the Window' (1921–2007)"
+   },
+   {
+    "name": "Susan Bistline",
+    "role": "His wife and co-author of the signs"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Man (and the Woman) Behind the Window Signs on Church Street",
+    "publisher": "The Noe Valley Voice",
+    "year": 2005,
+    "url": "https://www.noevalleyvoice.com/2005/October/bist.html",
+    "supports": "Origin of the signs, the first sign, sources of quotations, the marriage story, the English learner"
+   },
+   {
+    "title": "Say Goodbye to 'The Man in the Window'--Dean Bistline",
+    "publisher": "The Noe Valley Voice",
+    "year": 2007,
+    "url": "https://www.noevalleyvoice.com/2007/May/Bist.html",
+    "supports": "Biography, 1357 Church Street, the farewell sign, the doorstep memorial, the note"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-fonda-sandals",
+  "title": "Resoling Mother Teresa's dumpster sandals",
+  "theme": "communities",
+  "year": 1995,
+  "yearEnd": null,
+  "place": {
+   "label": "Fonda's Custom Orthopedic Shoes, 1752 Church Street, near Day",
+   "lat": 37.74268003847973,
+   "lon": -122.42671224478744,
+   "precision": "building"
+  },
+  "hook": "When Mother Teresa visited her nuns on Church Street, a local shoemaker stayed up all night rebuilding the sandals she'd found in a Calcutta dumpster.",
+  "story": "Pietro Fonda started making shoes at 13 in Pirano, a small town then in northern Italy and now part of Slovenia. A badly healed ankle break had left one leg shorter than the other, so his mother found him a trade he could do sitting down [1]. In 1957, with his village under Communist rule, a Catholic association paid to bring his family to New Orleans. He saved $150 for a bus ticket west, learned orthopedic work at Gerlach's Shoe Clinic and later went out on his own. In 1978, when his Fillmore Street rent tripled, he moved the business to 1752 Church Street near Day as Fonda's Custom Orthopedic Shoes [1]. His four children went to St. Paul's schools [1].\n\nMother Teresa's Missionaries of Charity had opened a novitiate for nuns at St. Paul's convent, a few blocks away, in 1982 [2]. In 1995, Fonda said, the Nobel laureate came to visit her nuns and he worked through the night on her sandals. She had found them in a dumpster in Calcutta and worn them for ten years. \"I saw evidence of patch jobs done all over the world, and had to remove them all and start over.\" He was asked to save the old patches as possible holy relics [1].",
+  "people": [
+   {
+    "name": "Pietro (Peter) Fonda",
+    "role": "Orthopedic shoemaker"
+   },
+   {
+    "name": "Mother Teresa",
+    "role": "Founder of the Missionaries of Charity"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pietro Fonda: A Shoemaker Whose Footing is Strong on Outer Church",
+    "publisher": "The Noe Valley Voice",
+    "year": 2002,
+    "url": "https://www.noevalleyvoice.com/2002/October/Shoe.html",
+    "supports": "Fonda's biography, the 1978 shop at 1752 Church, the 1995 sandal repair and quote"
+   },
+   {
+    "title": "A Loving Farewell to Mother Teresa",
+    "publisher": "The Noe Valley Voice",
+    "year": 1997,
+    "url": "https://www.noevalleyvoice.com/1997/October/teresa.html",
+    "supports": "Missionaries of Charity novitiate at St. Paul's convent, 29th and Church, from 1982"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-kate-kennedy-school",
+  "title": "Named for the teacher who won equal pay",
+  "theme": "civil-rights",
+  "year": 1874,
+  "yearEnd": 1890,
+  "place": {
+   "label": "Former Clement / Kate Kennedy School, Noe and 30th streets",
+   "lat": 37.7424,
+   "lon": -122.431,
+   "precision": "block"
+  },
+  "hook": "An Irish famine refugee found she earned $22.50 a month less than the men. She changed California law, sued the school board and won. A school here took her name.",
+  "story": "Neighbours researching Upper Noe history in 1959 recorded that one of the area's first schools, a small wooden building called the Clement School at Noe and 30th streets, had become the Kate Kennedy School [3]. Kate Kennedy was born in Ireland in 1827 and left during the potato famine. She arrived in San Francisco in 1856 [1][2] and was hired as a teacher in 1858 [2]. As principal of the North Cosmopolitan Grammar School she was paid at the lower primary-school rate: $180 a month instead of $202.50, a gap of $22.50 [2]. She took on the Board of Education. Her test case produced a state law requiring equal pay for women teachers holding the same certificates as men, which FoundSF dates to 1874 [1][2]. FoundSF's historian calls her the first woman to receive equal pay for equal work under law [2].\n\nIn 1886 she ran for state superintendent of schools on the Labor ticket, at a time when women couldn't vote. The board then transferred her to a remote two-teacher school, nearly halving her pay, and dismissed her without a hearing. She sued, won at the California Supreme Court in 1890 and collected $5,700.75 in back pay. The ruling helped establish teacher tenure [1][2].",
+  "people": [
+   {
+    "name": "Kate Kennedy",
+    "role": "Teacher, labor activist and equal-pay pioneer (1827–1890)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Kate Kennedy, San Francisco's First Female Schoolteacher",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Kate_Kennedy,_San_Francisco%27s_First_Female_Schoolteacher",
+    "supports": "Hiring in 1858, the pay gap, the equal-pay law, the 1886 campaign, dismissal, Supreme Court victory and back pay"
+   },
+   {
+    "title": "Kate Kennedy",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=KATE_KENNEDY",
+    "supports": "Born in 1827, emigration, 1874 equal-pay precedent, 1886 candidacy, 1890 case, a school named after her"
+   },
+   {
+    "title": "Fairmount Heights",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Fairmount_Heights",
+    "supports": "The Clement School at Noe and 30th, later the Kate Kennedy School, from the 1959 neighbourhood history committee"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-2p-bell-market",
+  "title": "Four decades of Bell Market",
+  "theme": "labor-industry",
+  "year": 1969,
+  "yearEnd": 2009,
+  "place": {
+   "label": "Former Bell Market, 3950 24th Street, between Noe and Sanchez",
+   "lat": 37.75186637217091,
+   "lon": -122.43085190808584,
+   "precision": "building"
+  },
+  "hook": "For forty years three brothers' meat-and-potatoes supermarket was the only full-size grocery in Noe Valley. Its closing on Valentine's Day 2009 alarmed a butcher and a cheesemonger.",
+  "story": "Dominick Bell and two of his brothers opened a supermarket under their own name at 3950 24th Street. They sold vegetables, meat and groceries at a time when meat and potatoes was standard fare [2]. The Voice dated the opening to February 1969 in one account and called the store a landmark since 1968 in another [1][2]. For about a decade, until the mid-1980s, the Bells ran a second branch at 1333 Castro Street, known affectionately as \"Little Bell.\" It later became a Walgreens [1].\n\nIn the mid-1990s the grocery giant Ralphs acquired the chain. In 2005 it was reported to be seeking buyers for its Bell and Cala stores in Northern California. Bell was by then the only full-scale grocery in the neighbourhood, since the Real Food Company had shut its doors in 2003 [1]. The end came on February 14, 2009, four decades after the brothers opened. The building was to be gutted for a smaller-than-usual Whole Foods [2]. Some neighbours were thrilled. Others worried. \"No matter what, we cannot compete with a big store like Whole Foods,\" said Charles Kung of the 24th Street Cheese Company. At Drewes on Church Street, butcher Josh Epple said, \"I wish Bell were staying\" [2].",
+  "people": [
+   {
+    "name": "Dominick Bell",
+    "role": "Co-founder, with two of his brothers"
+   },
+   {
+    "name": "Josh Epple",
+    "role": "Butcher at Drewes Bros. Meats"
+   },
+   {
+    "name": "Charles Kung",
+    "role": "Owner of the 24th Street Cheese Company"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ralphs Looking for a Buyer for Bell Markets",
+    "publisher": "The Noe Valley Voice",
+    "year": 2005,
+    "url": "https://www.noevalleyvoice.com/2005/September/Bell.html",
+    "supports": "Landmark since 1968, ownership by Ralphs, planned sale, 'Little Bell' at 1333 Castro, Real Food's 2003 closure"
+   },
+   {
+    "title": "Goodbye Bell Market, Hello Whole Foods",
+    "publisher": "The Noe Valley Voice",
+    "year": 2009,
+    "url": "https://www.noevalleyvoice.com/2009/February/Bell.html",
+    "supports": "Dominick Bell and two brothers, the February 14, 2009, closing four decades on, the Whole Foods remodel, the Kung and Epple quotes"
+   }
+  ],
+  "photo": null
+ }
+]

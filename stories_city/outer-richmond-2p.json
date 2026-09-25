@@ -1,0 +1,639 @@
+[
+  {
+    "id": "outer-richmond-2p-ostrich-farm",
+    "title": "Ostriches in the Fog at 47th Avenue",
+    "theme": "labor-industry",
+    "year": 1913,
+    "yearEnd": 1915,
+    "place": {
+      "label": "Site of the Golden Gate Ostrich Farm, north side of Balboa Street between 46th and 47th Avenues",
+      "lat": 37.77558,
+      "lon": -122.50755,
+      "precision": "block"
+    },
+    "hook": "In 1913 investors bet that African ostriches could turn a profit on the windy dunes by Sutro Heights. Then Paris changed its hats.",
+    "story": "Ostrich plumes were the height of fashion, and ads promised ostrich farms were a sure thing. The Golden Gate Ostrich Farm incorporated in late November 1912 and asked permission to open on the north side of Balboa Street between 46th and 47th Avenues. The Sutro heirs protested about the smell. They lost, and the farm opened on March 1, 1913, where the show was the plucking of its prize bird, \"William Jennings Bryant\" [1].\n\nBut it sat two steep blocks from the nearest streetcar stop. When the city's new Geary line reached Cabrillo Street and the Great Highway on June 25, 1913, the farm leased a lot facing the end of the tracks and moved its fences there by August [1].\n\nWhen war broke out in 1914, Paris hats turned to plain turbans and feather sales plummeted; one paper said a whole ostrich was now worth about what one feather used to fetch. The farm let its one-year lease lapse in August 1915 and \"loaned\" its 20 birds to Golden Gate Park. By 1916 park staff were boiling the eggs and feeding them to the peacocks [1]. It lasted five months on Balboa and a year by the beach. Across Cabrillo, Looff's carousel was going up: the Call announced it in October 1913, though FoundSF dates it to 1912 [1][2].",
+    "people": [
+      {
+        "name": "Golden Gate Ostrich Farm investors",
+        "role": "promoters of the 1913 venture"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ostriches at San Francisco's Ocean Beach?",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/ostrich-farms.php",
+        "supports": "Incorporation, Balboa site, Sutro protest, opening date, move to Geary terminus, WWI collapse, birds loaned to park, eggs fed to peacocks"
+      },
+      {
+        "title": "Playland",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Playland",
+        "supports": "Looff's Hippodrome carousel dated to 1912 (differs from the 1913 announcement cited by WNP)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-kellys-cove",
+    "title": "Who Was Kelly of Kelly's Cove?",
+    "theme": "parks-nature",
+    "year": 1938,
+    "yearEnd": 1956,
+    "place": {
+      "label": "Kelly's Cove, Ocean Beach just south of the Cliff House, below Sutro Heights",
+      "lat": 37.778,
+      "lon": -122.5129,
+      "precision": "area"
+    },
+    "hook": "San Francisco surfing grew up on a patch of sand below the Cliff House. Nobody is sure whether it was named for a swimmer or a tire ad.",
+    "story": "Around 1900 the northern tip of Ocean Beach was just \"Cliff House Beach,\" where visitors in bowler hats posed beside Seal Rocks. It also drew open-air exercise enthusiasts, often older men in homemade swimsuits [1].\n\nPatrick Cunneen, a sixth-grader in the mid-1940s, remembers taking the 7 streetcar to Playland, then building driftwood bonfires at what everyone called Kelly's Cove. An old man he took to be Kelly had a roofless driftwood windbreak on the rocks and seemed to live there. In 1938 a Samuel Kelly, \"well-known to beach habitues,\" did die on Ocean Beach after his daily swim. There is a rival theory: in the 1920s a Kelly Tire Company billboard stood against the Sutro Heights cliff just above the beach [1].\n\nBy the late 1940s and 1950s the cove belonged to swimmers in flippers and early surfers, who burned old car tires as a smoky beacon on foggy days [1]. Surfing was not yet welcome. Early surfers recalled police harassing and arresting board riders south of the Lurline pipeline pier at the foot of Balboa Street. Jim Gallagher said he bought one of the first two boards Jack O'Neill sold commercially, when O'Neill's shop was out by Sloat Boulevard [2].",
+    "people": [
+      {
+        "name": "Samuel Kelly",
+        "role": "Ocean Beach swimmer who died after his daily swim in 1938"
+      },
+      {
+        "name": "Patrick Cunneen",
+        "role": "remembered the cove in the 1940s"
+      },
+      {
+        "name": "Jim Gallagher",
+        "role": "early Ocean Beach surfer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Naming Kelly's Cove",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/kellys-cove.php",
+        "supports": "Cliff House Beach, Cunneen memories, Samuel Kelly 1938 death, Kelly Tire billboard, tire bonfires"
+      },
+      {
+        "title": "Jack O'Neill's First Surf Shop",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/jack-oneill.php",
+        "supports": "Police harassment of surfers south of the Lurline pier; Gallagher's first O'Neill board"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-its-it",
+    "title": "It's-It Was Born in a Playland Pie Shop",
+    "theme": "labor-industry",
+    "year": 1928,
+    "yearEnd": 1972,
+    "place": {
+      "label": "Site of Playland-at-the-Beach food stands, Great Highway between Balboa and Cabrillo Streets",
+      "lat": 37.77445,
+      "lon": -122.5104,
+      "precision": "area"
+    },
+    "hook": "Ice cream, two oatmeal cookies and a dip in chocolate. For more than 40 years it was a Playland treat.",
+    "story": "In 1928 George Whitney, the operator behind Playland-at-the-Beach, came up with a treat for his pie shop: a disc of vanilla ice cream pressed between two oatmeal cookies and dipped in melted chocolate, made to order [1].\n\nNobody knows for certain where the name came from. The company's president in 1998 said a woman who had worked at the pie shop told them it went back to the cow races held near Playland. A cow named It won one day, someone asked who had come in first, and the answer was \"It's it.\" Whitney liked it [1].\n\nGenerations of San Franciscans grew up eating Playland It's-Its, along with meals at The Hot House [2]. It was sold there until the park was razed in the early 1970s. In 1974 a Burlingame company, Jamal's Enterprises, acquired the trademark. By 1998 its plant was turning out more than 3 million sandwiches a year, in chocolate, strawberry, mint and cappuccino as well as the original vanilla [1]. One couple, according to company lore, even had a wedding \"cake\" made of them [1].",
+    "people": [
+      {
+        "name": "George Whitney",
+        "role": "Playland operator who created the It's-It"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The What's What About It's-It / Ice cream treat born at beach playland park",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/bayarea/article/The-What-s-What-About-It-s-It-Ice-cream-treat-3005729.php",
+        "supports": "1928 invention by Whitney at the pie shop, recipe, cow-race name story, trademark 1974, production and flavors"
+      },
+      {
+        "title": "Playland",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/playland.php",
+        "supports": "Generations ate Playland It's-Its and Hot House meals"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-gwhs-opening",
+    "title": "A High School With No Chairs",
+    "theme": "architecture-landmarks",
+    "year": 1936,
+    "yearEnd": 1942,
+    "place": {
+      "label": "George Washington High School, groundbreaking site at 31st Avenue and Anza Street",
+      "lat": 37.7779,
+      "lon": -122.4906,
+      "precision": "block"
+    },
+    "hook": "San Francisco's newest high school rose on an old rock quarry with a magnificent view. When students arrived, there was nowhere to sit.",
+    "story": "The land was set aside early: in 1861 a 150-by-240-foot lot was reserved for a school under the Outside Lands Act. The rest of the site, a rock quarry, was bought in 1925, and ground was broken at 31st Avenue and Anza Street on November 4, 1934 [1]. Timothy Pflueger designed the three-story building, inspired by Washington's Mount Vernon. It cost about $2 million and was planned for 3,000 students [1][2].\n\nThe building was finished before its furniture, so it stood idle through the first half of 1936, and it opened in August [1][2]. The school's 1947 yearbook remembered pupils standing or sitting on the floor, gym classes held in classrooms, and a library that held nothing but one set of encyclopedias. Construction noise from the gymnasium lasted two years. With no gym or auditorium, rallies were held outdoors and the first indoor rally took place at Presidio Junior High, and the first commencement, for 148 students on December 16, 1937, took place at Commerce High [1].\n\nThe stadium, auditorium and gym were added in 1940, when speakers at the first indoor rally had to stand on chairs because the stage wasn't finished [1][2]. Beniamino Bufano was hired to carve the stadium frieze, but Sargent Johnson finished it in 1942 [1][2].",
+    "people": [
+      {
+        "name": "Timothy L. Pflueger",
+        "role": "architect"
+      },
+      {
+        "name": "Sargent Johnson",
+        "role": "sculptor who completed the stadium frieze"
+      },
+      {
+        "name": "Beniamino Bufano",
+        "role": "sculptor originally hired for the frieze"
+      }
+    ],
+    "sources": [
+      {
+        "title": "George Washington High School (from the 1947 yearbook, The Surveyor)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 1947,
+        "url": "https://www.outsidelands.org/washington.php",
+        "supports": "1861 lot, quarry, groundbreaking, cost, capacity, furniture delay, first-year conditions, first commencement, frieze"
+      },
+      {
+        "title": "George Washington High School (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/George_Washington_High_School_(San_Francisco)",
+        "supports": "Pflueger design inspired by Mount Vernon, August 1936 opening, 1940 additions, Johnson frieze 1942"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-johnny-mathis",
+    "title": "The High Jumper Who Chose to Sing",
+    "theme": "arts-counterculture",
+    "year": 1953,
+    "yearEnd": 1956,
+    "place": {
+      "label": "George Washington High School campus, 600 32nd Avenue",
+      "lat": 37.77784,
+      "lon": -122.49174,
+      "precision": "area"
+    },
+    "hook": "Before \"Chances Are,\" Washington High's Johnny Mathis stood 5-foot-7 and cleared six feet in the high jump. Bill Russell was his rival.",
+    "story": "Johnny Mathis was born in Gilmer, Texas, in 1935 and grew up in San Francisco, where he was a star athlete at George Washington High School: a high jumper, hurdler and basketball player [2]. He stood just 5-foot-7, yet he repeatedly cleared 6-foot-5, and his main Bay Area rival was Bill Russell, then a struggling basketball player at Oakland's McClymonds High [1].\n\nMathis said his jumping started in junior high, when gym teachers held a cane pole between two students and kept raising it. His \"claim to fame,\" he said, was a Chronicle photograph of Russell sailing over his head. The paper ran a shot of the pair in May 1954, by which time Mathis was at San Francisco State. He said he beat Russell's high-jump mark once, in Nevada, \"but I think that's the only time,\" and the two stayed friends for decades [1].\n\nIn 1956 he was invited to the Olympic trials. That same week a telegram arrived from a Columbia Records executive asking him to come to New York to record. He took the record deal, and he has been with Columbia for most of his career since [1][2]. He never learned to dunk. \"You've got to be able to palm it,\" he said, \"and I couldn't\" [1].",
+    "people": [
+      {
+        "name": "Johnny Mathis",
+        "role": "singer; Washington High athlete"
+      },
+      {
+        "name": "Bill Russell",
+        "role": "high-jump rival, later NBA star"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Johnny Mathis was singing a different tune as a high jumper",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2015,
+        "url": "https://www.sfgate.com/music/article/Johnny-Mathis-was-singing-a-different-tune-as-a-6129201.php",
+        "supports": "Height and jumps, Russell rivalry, photo, Olympic trials and Columbia telegram, quotes"
+      },
+      {
+        "title": "Johnny Mathis",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Johnny_Mathis",
+        "supports": "Birthplace and year, Washington High athletics, Columbia career"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-young-family",
+    "title": "The Army Came to 37th Avenue",
+    "theme": "communities",
+    "year": 1948,
+    "yearEnd": 1962,
+    "place": {
+      "label": "Young family home, 674 37th Avenue near Balboa Street",
+      "lat": 37.77622,
+      "lon": -122.49703,
+      "precision": "building"
+    },
+    "hook": "Realtors told a decorated Army officer they would not sell to \"an Asiatic.\" So his Army buddy bought the house for him.",
+    "story": "In 1948 Lt. Col. John C. Young, a Stanford-trained engineer who had spent more than two years on the Burma front, wanted to move his family out of a crowded Chinatown flat. Realtors told him, \"We cannot and will not sell to an Asiatic.\" His friend Lt. Col. Keith Bering bought a bungalow at 674 37th Avenue and sold it to the Youngs a month later, taking a risk under the neighbourhood's racial covenant [1].\n\nConnie Young Yu remembered them as the first Chinese family that far out in the Avenues. A neighbour circulated a petition to force them out. In response, Young's Army Reserve comrades held their monthly unit meetings at the house, arriving in uniform with their families, until the Korean War. The petition faded [1].\n\nDown the block, at 740 37th Avenue, stood Mei Lun Yuen, a Chinese children's home founded in 1933 by Donaldina Cameron, Dr. Bessie Yeen Jeong, Helen Wu and Chinese Presbyterian women. Gardens and fences were proposed to hide the children from white residents. Al never once saw an orphan there. Mei Lun Yuen was defunct by 1962 [1]. Al, who drag-raced his '47 Chevy on the Great Highway as a teenager, became the first Asian American world champion race car driver [2]. Connie became a historian [3].",
+    "people": [
+      {
+        "name": "John C. Young",
+        "role": "Army officer and businessman"
+      },
+      {
+        "name": "Keith Bering",
+        "role": "Army friend who bought the house for the Youngs"
+      },
+      {
+        "name": "Connie Young Yu",
+        "role": "historian, daughter"
+      },
+      {
+        "name": "Alfred John Young",
+        "role": "son, later drag-racing champion"
+      },
+      {
+        "name": "Donaldina Cameron",
+        "role": "co-founder of Mei Lun Yuen"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinese In The Richmond: Alfred John Young and Connie Young Yu",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) / Chinese Historical Society of America",
+        "year": 2022,
+        "url": "https://www.outsidelands.org/chinese-in-the-richmond-alfred-john-young-and-connie-young-yu.php",
+        "supports": "Realtor refusal, Bering purchase, petition, Army Reserve meetings, Mei Lun Yuen history"
+      },
+      {
+        "title": "A Drive-By History of Great Highway",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2025,
+        "url": "https://www.outsidelands.org/a-drive-by-history-of-great-highway.php",
+        "supports": "Al Young racing on the Great Highway; first Asian American world champion race driver"
+      },
+      {
+        "title": "Connie Young Yu",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Connie_Young_Yu",
+        "supports": "Connie Young Yu as writer and historian; father John C. Young"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-chinn-family",
+    "title": "A Two-by-Four Behind the Garage Door",
+    "theme": "civil-rights",
+    "year": 1951,
+    "yearEnd": 1967,
+    "place": {
+      "label": "Chinn family home, 539 29th Avenue",
+      "lat": 37.77906,
+      "lon": -122.48928,
+      "precision": "building"
+    },
+    "hook": "A Chinese American math teacher bought a house on 29th Avenue through a go-between. The death threats that followed were kept from his children.",
+    "story": "William G. Chinn grew up in Chinatown, served as an Air Corps meteorologist in World War II and became a San Francisco public school maths teacher. He first tried to buy a house in Santa Clara and met \"extreme resistance, threats\" [1]. So in 1951 he used a third party to buy a single-family house at 539 29th Avenue [1].\n\nHis daughter Lenore, who was two when they moved, learned only later that there had been death threats. The real estate agent and the go-between warned her parents to wedge a two-by-four behind the garage doors. Her father refused to move [1]. She recalled \"only a handful of Japanese and a sprinkling of Chinese\" around her, no Hispanic or African American neighbours, and trips with her father to the de Young and the Legion of Honor [1][2].\n\nLenore graduated from Washington High in 1967. She became a photorealist painter whose large portraits centre queer people and people of colour, and a founder of the Queer Cultural Center [1][2][3]. His Chronicle obituary later remembered her father as a past president of the Mathematics Association of America [1].",
+    "people": [
+      {
+        "name": "William G. Chinn",
+        "role": "mathematician and teacher"
+      },
+      {
+        "name": "Lenore Chinn",
+        "role": "painter and activist, his daughter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinese In The Richmond: Lenore Chinn",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) / Chinese Historical Society of America",
+        "year": 2022,
+        "url": "https://www.outsidelands.org/chinese-in-the-richmond-lenore-chinn.php",
+        "supports": "Third-party purchase, threats, two-by-four, childhood, 1967 graduation, art career, father's later career"
+      },
+      {
+        "title": "'Cultural Confluences' reflects warmth of diversity",
+        "publisher": "SFGATE",
+        "year": 2012,
+        "url": "https://www.sfgate.com/art/article/Cultural-Confluences-reflects-warmth-of-3649390.php",
+        "supports": "Move to the Richmond when few Asian Americans lived there; museum visits with her father; Washington High"
+      },
+      {
+        "title": "Lenore Chinn",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Lenore_Chinn",
+        "supports": "Founding member of Queer Cultural Center; realist painter"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-balboa-strip",
+    "title": "Penny Candy and a DiMaggio Bar on Balboa",
+    "theme": "labor-industry",
+    "year": 1955,
+    "place": {
+      "label": "Balboa Street shopping strip at 38th Avenue",
+      "lat": 37.77541,
+      "lon": -122.49859,
+      "precision": "block"
+    },
+    "hook": "In the 1950s, six blocks of Balboa Street had everything a kid needed: delivery jobs, a quarter matinee and a bar owned by a DiMaggio.",
+    "story": "Victor Berardelli, who grew up near Lafayette School, described Balboa Street from 33rd to 39th Avenue as his first classroom. The strip held three food markets, where boys got their first jobs delivering groceries, plus two pharmacies, an old-fashioned pharmacy with a soda counter, a Bank of America branch, a five-and-dime, the Sugar Bowl bakery, Frosty Bossy ice cream and a Firestone store [1].\n\nMid-block between 37th and 38th, a man named Luke ran a penny-candy and joke shop and greeted children with a gruff \"What do you vant, keeds?\" Older boys learned what was hidden behind the curtain at the back. At the Balboa Theatre, a quarter bought a Saturday B-movie, a serial and cartoons, and Berardelli won his first Schwinn in a matinee drawing [1].\n\nHe also remembered that Vince DiMaggio owned a bar at 38th and Balboa, where children peeked in at the baseball memorabilia. Another bar, Hockey Haven, was owned by a former San Francisco Shamrocks player [1]. Berardelli called Vince the youngest of the clan, but he was the big brother, outshone by Joe and Dom. He left baseball in 1951 at 38 and spent years moving between jobs, from bartending to selling Fuller brushes, while his brothers prospered [2].",
+    "people": [
+      {
+        "name": "Victor F. Berardelli",
+        "role": "memoirist who grew up in the Outer Richmond"
+      },
+      {
+        "name": "Vince DiMaggio",
+        "role": "former major-league outfielder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Growing Up in the Richmond in the 1950s",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/richmond-life-1950s.php",
+        "supports": "Balboa strip businesses, Luke's shop, Balboa matinees, DiMaggio bar and Hockey Haven recollections"
+      },
+      {
+        "title": "Vince DiMaggio",
+        "publisher": "Society for American Baseball Research",
+        "year": null,
+        "url": "https://sabr.org/bioproj/person/vince-dimaggio/",
+        "supports": "Vince left the game at 38 in 1951 and moved between jobs including bartender and Fuller Brush salesman"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-lafayette-school",
+    "title": "Swapping Sandwiches at Lafayette School",
+    "theme": "communities",
+    "year": 1950,
+    "yearEnd": null,
+    "place": {
+      "label": "Lafayette School, Anza Street near 37th Avenue",
+      "lat": 37.7776,
+      "lon": -122.4969,
+      "precision": "block"
+    },
+    "hook": "After the war, families from North Beach, the Mission and the Fillmore met in one schoolyard, where lunch was the first thing that got traded.",
+    "story": "After World War II, one former pupil wrote, the Richmond became a \"first stop melting pot\" for families leaving crowded ethnic enclaves: Italians from North Beach, Irish from the Mission, Ukrainians and Russians from the Fillmore and Divisadero, Chinese from Grant Avenue. They met at Lafayette School on Anza Street [1].\n\nVictor Berardelli swapped his mother's Italian eggplant sandwich for a friend's pastrami or another boy's empanada. In the late 1940s and early 1950s, teachers were assigned to schools in their own neighbourhoods, so a teacher might spot you misbehaving on Balboa Street and mention it at the PTA. Classmates compared fathers' war stories. One boy's father never came home. One day, when a grandmother's sweater sleeve slipped, Berardelli saw numbers tattooed on her forearm. Catholic children walked to catechism and Jewish children to Hebrew school, while Chinese children rode a bus across town to Chinese classes [1].\n\nIn 1930 voters approved a tax increase to build a branch library, and the Anza Branch was built on the site of the old Lafayette School. It opened on April 10, 1932, with 11,823 new books [2].",
+    "people": [
+      {
+        "name": "Victor F. Berardelli",
+        "role": "Lafayette School pupil and memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Growing Up in the Richmond in the 1950s",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/richmond-life-1950s.php",
+        "supports": "Melting-pot families, sandwich swaps, neighbourhood teachers, war stories, tattoo, religious classes"
+      },
+      {
+        "title": "Anza Library History",
+        "publisher": "San Francisco Public Library",
+        "year": null,
+        "url": "https://sfpl.org/locations/anza/anza-library-history",
+        "supports": "1930 charter amendment, Anza Branch built on old Lafayette School site, dedicated April 10, 1932 with 11,823 books"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-peace-march-1969",
+    "title": "The Peace March Down Cabrillo Street",
+    "theme": "civil-rights",
+    "year": 1969,
+    "place": {
+      "label": "Cabrillo Street at 30th Avenue, on the 1969 march route to the Polo Field",
+      "lat": 37.77392,
+      "lon": -122.4896,
+      "precision": "street"
+    },
+    "hook": "On November 15, 1969, an antiwar march filled the quiet residential blocks of Cabrillo Street on its way into Golden Gate Park.",
+    "story": "The march began at the Embarcadero and covered about 7.5 miles through business and residential streets to the Polo Field in Golden Gate Park. It was organised by the New Mobilization Committee to End the War in Vietnam, co-chaired by Terence Hallinan, as a follow-up to October's Moratorium Day. In the Richmond the crowd filled Cabrillo Street and 30th Avenue before turning into the park. Lenore Chinn, who lived nearby on 29th Avenue, remembered it passing her home [1].\n\nCrowd estimates differ: one account says up to 100,000 marched, another more than a quarter million [1][2]. San Francisco school boards had refused to let high school students take part, calling the protest \"unpatriotic\"; more than half of the city's high school students skipped class the day before [2].\n\nThe Examiner noted the long hair, the blue jeans, boys walking with their arms around boys, and one man in a grey flannel suit and bow tie walking alone. At the Polo Field, former Senator Wayne Morse and the Rev. Ralph Abernathy spoke. KQED carried the rally live, including Black Panther David Hilliard's obscene remarks about President Nixon, and cast members of \"Hair\" performed, clothed [1].",
+    "people": [
+      {
+        "name": "Terence Hallinan",
+        "role": "co-chair of the New Mobilization Committee"
+      },
+      {
+        "name": "Lenore Chinn",
+        "role": "watched the march pass near her home"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinese In The Richmond: Lenore Chinn",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) / Chinese Historical Society of America",
+        "year": 2022,
+        "url": "https://www.outsidelands.org/chinese-in-the-richmond-lenore-chinn.php",
+        "supports": "Route along Cabrillo and 30th, organisers, Examiner estimate and descriptions, speakers, KQED broadcast"
+      },
+      {
+        "title": "Moratorium to End the War in Vietnam",
+        "publisher": "Wikipedia (citing Fountain, California History, 2015)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Moratorium_to_End_the_War_in_Vietnam",
+        "supports": "Quarter-million estimate; school board refusal; high school walkouts on November 14"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-family-dog",
+    "title": "The Family Dog Howls at Ocean Beach",
+    "theme": "arts-counterculture",
+    "year": 1969,
+    "yearEnd": 1970,
+    "place": {
+      "label": "Site of the Family Dog on the Great Highway (old Ocean Beach Pavilion), 660 Great Highway",
+      "lat": 37.7761,
+      "lon": -122.5111,
+      "precision": "block"
+    },
+    "hook": "After the Summer of Love, Chet Helms took his dances to an old beachfront ballroom by Playland. The Grateful Dead once played there in disguise.",
+    "story": "By the mid-1960s the old Ocean Beach Pavilion beside Playland was known as the Surf Club [1], and by 1969 its ballroom had become a slot-car track. That summer promoter Chet Helms reopened it as the Family Dog on the Great Highway, sometimes billed \"at the edge of the Western World,\" at 660 Great Highway, next door to Playland's old skating rink [2].\n\nHelms brought the Summer of Love scene to the beach, with acts including Jefferson Airplane and the Grateful Dead [1]. Part of a Dead show there on February 4, 1970, was broadcast on a national educational television special [4]. On April 18, 1970, the band played a \"stealth\" acoustic set billed as \"Mickey Hart and His Heartbeats\" and \"Bobby Ace and His Cards from the Bottom of the Deck,\" joined on some songs by members of the New Riders of the Purple Sage. Pigpen closed alone with an acoustic guitar. Nobody knew the tape existed until Carolyn \"Mountain Girl\" Garcia found it among Jerry Garcia's old reels; it came out in 2013 [3].\n\nThe run was short. Helms left the concert business in 1970 [2], and two years later Playland itself was demolished [1].",
+    "people": [
+      {
+        "name": "Chet Helms",
+        "role": "promoter, Family Dog Productions"
+      },
+      {
+        "name": "Grateful Dead",
+        "role": "performers"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Drive-By History of Great Highway",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2025,
+        "url": "https://www.outsidelands.org/a-drive-by-history-of-great-highway.php",
+        "supports": "Helms's Family Dog concerts at the Surf Club with Jefferson Airplane and the Grateful Dead; Ocean Beach Pavilion in its Surf Club era; Playland demolished 1972"
+      },
+      {
+        "title": "Chet Helms",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Chet_Helms",
+        "supports": "Family Dog on the Great Highway opened summer 1969 in former Ocean Beach Pavilion ballroom turned slot-car track at 660 Great Highway; Helms left concert business in 1970"
+      },
+      {
+        "title": "Family Dog at the Great Highway, San Francisco, CA 4/18/70",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Family_Dog_at_the_Great_Highway,_San_Francisco,_CA_4/18/70",
+        "supports": "Stealth billing, New Riders guests, Pigpen solo close, tape found by Mountain Girl, 2013 release"
+      },
+      {
+        "title": "Grateful Dead Download Series: Family Dog at the Great Highway",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Grateful_Dead_Download_Series:_Family_Dog_at_the_Great_Highway",
+        "supports": "February 4, 1970 show, songs broadcast on a NET television special"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-sutro-statues",
+    "title": "Where Did Sutro's Statues Go?",
+    "theme": "parks-nature",
+    "year": 1942,
+    "yearEnd": 1975,
+    "place": {
+      "label": "Sutro Heights Park, near the gazebo and former parapet",
+      "lat": 37.7781,
+      "lon": -122.5108,
+      "precision": "area"
+    },
+    "hook": "Adolph Sutro lined his clifftop garden with copies of classical statues. Nearly all of them vanished, and San Francisco still argues about where.",
+    "story": "To bring European culture to ordinary visitors, Adolph Sutro imported more than 200 concrete copies of Greek and Roman statues from Belgium for his Sutro Heights gardens [2]. Vandals damaged them through the 1920s and 1930s, and the house itself was torn down in 1939 [2]. Then the statues vanished, and accounts differ on how [1][2].\n\nOne tale, from a former gardener speaking to historian Arthur Chandler, says they were buried during World War II so Japanese submarine gunners wouldn't use them as targets. Historian John Martini is sceptical, noting that the Cliff House made a far better target. Photographs show most statues going from 1942 onward, though the Venus de Milo and \"Satyr's Dream\" were still standing in the early 1960s. Martini suspects a former sunken flower bed near the gazebo may hold broken pieces, but no official record has been found [1].\n\nA longtime Recreation and Park gardener passed on another story: in the early 1970s, tired of cleaning up broken statuary, a crew boss had each statue toppled into a hole dug at its base and covered over, with no work order [1]. Today the lions at the gate and a statue of Diana remain [2]. In 2012 high school students digging nearby uncovered the blue-and-white tile floor of Sutro's conservatory [3].",
+    "people": [
+      {
+        "name": "Adolph Sutro",
+        "role": "owner of Sutro Heights"
+      },
+      {
+        "name": "John Martini",
+        "role": "historian"
+      },
+      {
+        "name": "Arthur Chandler",
+        "role": "historian who recorded the burial story"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Mysterious Buried Statues of Sutro Park",
+        "publisher": "FoundSF (from a National Park Service brochure, with 2019 addendum)",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=The_Mysterious_Buried_Statues_of_Sutro_Park",
+        "supports": "Burial legends, Martini's comments and photo evidence, 1970s gardener account"
+      },
+      {
+        "title": "Sutro Heights Park",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Sutro_Heights_Park",
+        "supports": "200+ concrete replicas imported from Belgium; vandalism; 1939 demolition; Lions and Diana remain"
+      },
+      {
+        "title": "Streetwise - Savoring the Past",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2014,
+        "url": "https://www.outsidelands.org/streetwise_hot_house.php",
+        "supports": "2012 student dig uncovered conservatory tile floor"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-hot-house",
+    "title": "Playland's Tamales Moved to Balboa Street",
+    "theme": "modern-city",
+    "year": 1972,
+    "yearEnd": 1996,
+    "place": {
+      "label": "The Hot House restaurant, 4052 Balboa Street near 42nd Avenue",
+      "lat": 37.77568,
+      "lon": -122.50242,
+      "precision": "building"
+    },
+    "hook": "When the wrecking ball hit Playland, one beloved restaurant escaped a few blocks inland and served the same 1934 recipes for another 24 years.",
+    "story": "The Hot House served Mexican food at 750 Great Highway, inside Playland, from the early 1930s. On peak World War II weekends it was estimated to sell up to 12,000 tamales. In a very San Francisco twist, every table got baskets of dark-baked sourdough and butter instead of tortillas, and spaghetti stayed on the menu for decades [1][2].\n\nFounder Barney Gavello sold the place in the late 1960s to Juan Faranda, a Lima-born son of a Sicilian-Peruvian family who had managed Playland's Pie Shop, and his partner Jose Robleto. They kept the original 1934 recipes. When Playland closed in 1972, Faranda bought out his partner and moved The Hot House a few blocks away to 4052 Balboa Street, later expanding into a former drugstore next door [1].\n\nMany old customers assumed it had died with the amusement park. Columnist Frank Dunnigan's family only heard about the new location in the early 1980s, through his mother's bingo friends. Faranda closed the restaurant in 1996. Years later his son Eric, a trained chef, got him to hand over the recipes, which were written in barrels, sacks and gallons, and began cooking them again for catering orders [1].",
+    "people": [
+      {
+        "name": "Barney Gavello",
+        "role": "original operator"
+      },
+      {
+        "name": "Juan Faranda",
+        "role": "owner who moved the restaurant to Balboa Street"
+      },
+      {
+        "name": "Eric Faranda",
+        "role": "son who revived the recipes"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise - Savoring the Past",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2014,
+        "url": "https://www.outsidelands.org/streetwise_hot_house.php",
+        "supports": "Playland location and dates, tamale sales, sourdough and spaghetti, ownership changes, 4052 Balboa move, 1996 closing, recipe revival"
+      },
+      {
+        "title": "Playland",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/playland.php",
+        "supports": "Hot House quasi-Mexican meals at Playland"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-richmond-2p-mile-rock-tunnel",
+    "title": "The Mayor Who Toured the Sewer",
+    "theme": "architecture-landmarks",
+    "year": 1915,
+    "yearEnd": 1995,
+    "place": {
+      "label": "Former sewage pumping station site, 48th Avenue and Fulton Street",
+      "lat": 37.77165,
+      "lon": -122.5088,
+      "precision": "block"
+    },
+    "hook": "In 1915 Mayor Sunny Jim Rolph was photographed deep inside a new tunnel built to carry the Richmond's sewage beneath the neighbourhood to the ocean.",
+    "story": "As the dunes filled with houses after 1906, the city laid sewers ahead of the builders. Under a 1908 sewer bond it dug the Mile Rock Sewage Tunnel, beginning at a pumping station at 48th Avenue and Fulton Street. City photographer Horace Chaffee photographed the station's excavation on March 11, 1915, and on September 2 of that year Mayor James \"Sunny Jim\" Rolph posed inside the tunnel. It ran more than 4,200 feet, up to 300 feet below the streets, with walls about a foot thick, and emptied at Mile Rock Beach north of the Cliff House [1].\n\nFor decades the outfall did exactly what that implies. In wet weather, old outfalls around the city, Mile Rock among them, poured untreated sewage into the sea. Critics in the 1960s noted that Ocean Beach was often too polluted for swimming on more than 100 days a year [2]. The fix was a huge new system begun in the mid-1970s. By 1995, FoundSF reported, the Mile Rock and China Beach outfalls were no longer active, and waste went to the Southwest plant through the Richmond Transport, a big tunnel under Sutro Heights [2]. The old tunnel now carries only storm water in the heaviest rains [1].",
+    "people": [
+      {
+        "name": "James Rolph",
+        "role": "Mayor of San Francisco"
+      },
+      {
+        "name": "Horace Chaffee",
+        "role": "Department of Public Works photographer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Deep Underground in the Western Neighborhoods",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2022,
+        "url": "https://www.outsidelands.org/streetwise-deep-underground-in-the-western-neighborhoods.php",
+        "supports": "1908 bond, 48th and Fulton pumping station, 1915 photos, Rolph visit, tunnel dimensions, later storm-water-only use"
+      },
+      {
+        "title": "Sewerage",
+        "publisher": "FoundSF",
+        "year": 1995,
+        "url": "https://www.foundsf.org/index.php?title=Sewerage",
+        "supports": "Wet-weather raw sewage from Mile Rock and other outfalls, 100+ polluted days, Richmond Transport under Sutro Heights"
+      }
+    ],
+    "photo": null
+  }
+]

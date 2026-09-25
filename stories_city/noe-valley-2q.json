@@ -1,0 +1,667 @@
+[
+  {
+    "id": "noe-valley-2q-39-chattanooga-cottage",
+    "title": "Noe Valley's little house on the prairie",
+    "theme": "architecture-landmarks",
+    "year": 1869,
+    "yearEnd": 2006,
+    "place": {
+      "label": "39 Chattanooga Street, between 22nd and 23rd streets",
+      "lat": 37.755887,
+      "lon": -122.426401,
+      "precision": "building"
+    },
+    "hook": "A sagging cottage with a cowboy-movie false front turned out to be older than the grading of its own street. Its discovery set off a four-year fight.",
+    "story": "In 2002 builder John Williams, who lived on Elizabeth Street, paid $681,000 for a 986-square-foot, two-bedroom cottage at 39 Chattanooga Street. He told neighbours he would tear it down and put up a much larger two-unit building [1]. His demolition request triggered a historical review, and it landed with city planner Moses Corrette, who had once lived around the corner. The clues were in the bones. The house has a central entrance and hallway, typical of the 1850s and 1860s, and its ground floor sits well below the sidewalk, which suggests it was built before Chattanooga Street was graded in the 1870s. It appears on an 1869 U.S. Coast Survey map but not on one from 1857 [1]. Corrette noted that fewer than 50 of the city's 70,000 buildings date from those decades [1]. Playwright Charlie Varon, who lived next door, called it Noe Valley's \"Little House on the Prairie,\" and neighbours and preservationists banded together as Save 39 Chattanooga [1][2]. Williams dropped the demolition and drew about half a dozen alternatives. But in 2006, after some $120,000 in carrying costs, he sold. \"Life's too short,\" he said. The buyer paid $902,000 for the dilapidated cottage, well over the asking price [2].",
+    "people": [
+      {
+        "name": "Moses Corrette",
+        "role": "city planner who dated the house"
+      },
+      {
+        "name": "Charlie Varon",
+        "role": "playwright and next-door neighbour"
+      },
+      {
+        "name": "John Williams",
+        "role": "builder and owner, 2002-2006"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Noe Valley's Little House on the Prairie (Corrie M. Anders)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2004,
+        "url": "http://www.noevalleyvoice.com/2004/May/Chat.html",
+        "supports": "Purchase price, demolition plan, Corrette's dating evidence, 1857/1869 maps, rarity figures, neighbours' campaign"
+      },
+      {
+        "title": "Developer Throws in the Towel on 39 Chattanooga Street (Corrie M. Anders)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2006,
+        "url": "http://www.noevalleyvoice.com/2006/July-August/Chat.html",
+        "supports": "Save 39 Chattanooga group, alternatives, $120,000 costs, 2006 sale for $902,000, Williams quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-411-30th-street",
+    "title": "One flat-front Victorian, fifty residents",
+    "theme": "gold-rush-victorian",
+    "year": 1877,
+    "yearEnd": 1998,
+    "place": {
+      "label": "411 30th Street, between Church and Sanchez",
+      "lat": 37.741659,
+      "lon": -122.429448,
+      "precision": "building"
+    },
+    "hook": "A birthday present grew into a 310-page biography of one Upper Noe house, starring a jazz pianist, a cellar winery and a $360 coat of stucco.",
+    "story": "In 1996 Christian Ard set out to write his father-in-law, Neil Mosher, a history of Mosher's house as a birthday present. He thought it would take five months. It took more than two years and filled 310 pages [1]. The two-storey flat-front Victorian at 411 30th Street went up in 1877, probably built by contractor John Nelson and his teenage son Fernando. Fernando had arrived from New York at 16 and went on to become one of San Francisco's most prolific builders [1][2]. The first known residents were Irish seaman John Higgins, his wife Julia and their seven children. Carpenter William Cavanaugh, who built streetcars for the Market Street Railway, split the house into two flats. From 1903 to 1905 the downstairs flat was home to the Ellis family, whose teenage son Frankie taught piano. He later played in Art Hickman's band and led the orchestras at the St. Francis Hotel and the Cliff House [1][3]. In 1921 bootblack Frank Fazzio and his wife Josephine bought the house. Every year two tons of Napa grapes arrived by rail for Frank's cellar wine. Josephine didn't drink, but she could judge a grape's sugar by taste, and she salted olives while he worked [1]. After Frank died, a contractor stripped off the Victorian ornament and stuccoed the front for $360 [1].",
+    "people": [
+      {
+        "name": "Christian Ard",
+        "role": "house historian"
+      },
+      {
+        "name": "Frankie Ellis",
+        "role": "jazz pianist, resident 1903-1905"
+      },
+      {
+        "name": "Frank and Josephine Fazzio",
+        "role": "owners from 1921"
+      },
+      {
+        "name": "Fernando Nelson",
+        "role": "probable builder with his father John"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The View from a Window on 30th Street (Kathy Dalle-Molle)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2000,
+        "url": "http://www.noevalleyvoice.com/2000/March/411-30th.html",
+        "supports": "Ard's manuscript, 1877 date, Nelson builders, Higgins, Cavanaugh, Ellis, Fazzio wine cellar, $360 stucco, 50 residents"
+      },
+      {
+        "title": "Nelson House, 701 Castro (Zann Cannon Goff, from Hoodline)",
+        "publisher": "FoundSF",
+        "year": 2015,
+        "url": "https://www.foundsf.org/index.php?title=Nelson_House,_701_Castro",
+        "supports": "Fernando Nelson came from New York at 16 and was a prolific San Francisco builder"
+      },
+      {
+        "title": "Art Hickman",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Art_Hickman",
+        "supports": "Frank Ellis listed among Hickman's band members"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-diamond-heights-blight",
+    "title": "The slum its residents never noticed",
+    "theme": "civil-rights",
+    "year": 1955,
+    "yearEnd": 1978,
+    "place": {
+      "label": "Gold Mine Drive near Diamond Heights Boulevard (70 Gold Mine Drive, an 1895 survivor)",
+      "lat": 37.744093,
+      "lon": -122.437331,
+      "precision": "block"
+    },
+    "hook": "The city called the rocky hills above Noe Valley blighted. The people living there were stunned, fought all the way to the U.S. Supreme Court, and lost.",
+    "story": "Before redevelopment, the hills south-west of Noe Valley were largely open ground with scattered houses. Goats probably gave Billy Goat Hill its name, and in the old quarry teenagers spun their pickups in the mud [1][2]. The city's redevelopment agency saw a problem. In July 1955 it described the 300-acre site as \"a predominantly open, blighted area\" suffering from \"economic disuse\" and \"faulty planning\" [1]. Members of the Diamond Heights Neighborhood Association, historian Mae Silver wrote, \"were unaware they were living in a slum.\" They sued, arguing that no one, the government included, had the right to take their land. According to Silver, the California Supreme Court sided with the agency in November 1954, and that December the U.S. Supreme Court refused to hear the case. A neighbourhood historian later put the date at 1953 [1][2]. The final plan was approved on October 24, 1955 [3]. Bulldozers had regraded the hills by 1961, and the project dragged on until 1978 through grand jury and federal audits [1]. A few old homes survived, such as the 1895 house at 70 Gold Mine Drive [3]. Greg Gaar, who had played there as a boy, came home from the Navy to find the land \"scraped away\" and became an open-space advocate [2].",
+    "people": [
+      {
+        "name": "Mae Silver",
+        "role": "historian of Rancho San Miguel"
+      },
+      {
+        "name": "Greg Gaar",
+        "role": "local historian and open-space advocate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Diamond Heights (Mae Silver)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Diamond_Heights",
+        "supports": "300-acre site, 1955 blight language, residents' lawsuit and court dates, property counts, 1961 bulldozing, completion 1978 amid investigations"
+      },
+      {
+        "title": "Billy Goat Hill Finds Friends and Funding for Trails (Heather World)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2009,
+        "url": "http://www.noevalleyvoice.com/2009/November/Billy.htm",
+        "supports": "Pre-development landscape, goats, quarry, teenagers' pickups, Gaar's 1953 date and reaction"
+      },
+      {
+        "title": "Diamond Heights, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Diamond_Heights,_San_Francisco",
+        "supports": "Plan approved October 24, 1955; 70 Gold Mine Drive built 1895; the three hills"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-landmark-oak",
+    "title": "A backyard oak joins the city's landmarks",
+    "theme": "parks-nature",
+    "year": 2007,
+    "yearEnd": null,
+    "place": {
+      "label": "Coast live oak behind 4124 23rd Street, between Castro and Diamond",
+      "lat": 37.753098,
+      "lon": -122.434896,
+      "precision": "building"
+    },
+    "hook": "You can't see it from the street, but a century-old coast live oak on 23rd Street became Noe Valley's first official landmark tree after a trench nearly cut its roots.",
+    "story": "When Robert and Susan Call moved into 4124 23rd Street in the late 1980s, they found a giant in the back yard. It was a coast live oak, a species native to California, standing 35 to 40 feet tall. Its 50-foot crown covered their yard and a third of the neighbour's [1][2]. The tree was thought to be about 100 years old. It can't be seen from the front of the house, but its canopy is visible from 23rd and Castro [1]. The family hung chandeliers in it for birthday parties, and three crows came to yell at the cats [1]. In mid-2006 the Calls came home to find a trench being dug across the neighbour's yard for an addition, one that would have cut the roots under half the tree. Robert Call persuaded the neighbour to stop, then hurried to City Hall. Supervisor Bevan Dufty's nomination protected the oak for 180 days, but that ran out before a decision, so Call applied himself [1]. On November 13, 2007 the Board of Supervisors made it the first landmark tree in Noe Valley, alongside 12 other individual trees and the Dolores Street palms. It can now come down only if it becomes a hazard [1].",
+    "people": [
+      {
+        "name": "Robert Call",
+        "role": "antiques dealer who nominated the tree"
+      },
+      {
+        "name": "Susan Call",
+        "role": "co-owner"
+      },
+      {
+        "name": "Bevan Dufty",
+        "role": "District 8 supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Local Resident's Oak Tree Wins Landmark Status (Corrie M. Anders)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2007,
+        "url": "http://www.noevalleyvoice.com/2007/December-January/Tree.html",
+        "supports": "Tree size and age, the Calls' stories, trench episode, Dufty nomination, November 13 vote, other landmark trees, protections"
+      },
+      {
+        "title": "Quercus agrifolia",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Quercus_agrifolia",
+        "supports": "Coast live oak is an evergreen oak native to California"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-community-store",
+    "title": "A grocery chartered to teach democracy",
+    "theme": "labor-industry",
+    "year": 1973,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Noe Valley Community Store (now Alice's Restaurant), 1599 Sanchez Street at 29th",
+      "lat": 37.743704,
+      "lon": -122.428625,
+      "precision": "building"
+    },
+    "hook": "Its founders' legal papers said its purpose was education: in unpaid labour, self-organising and direct democracy. Groceries were only part of the plan.",
+    "story": "In the early 1970s Noe Valley had a \"food conspiracy\", one of the neighbourhood buying clubs that pooled orders for bulk groceries [2]. Inspired by the Seeds of Life collective store on 24th Street in the Mission, the club opened the Noe Valley Community Store at 1599 Sanchez Street, on the corner of 29th, in October 1973 [1]. On October 12 it became the first of the city's collective food stores to file incorporation papers. The founding directors were Michael Martin, Carl Fauset, Susanne DiVincenzo and James Ploss, and the original name was the Noe Valley Free Store, a nod to the Diggers' 1967 free store [1]. The papers reached far beyond groceries. The store's stated purpose was education: teaching \"voluntary commitment of substantial and regular amounts of unpaid labor,\" community self-organising and \"direct democracy.\" Almost every later collective in the People's Food System copied that wording [1]. The stores ran largely on volunteer labour with a 15 percent markup, when most grocers marked food up 40 to 75 percent [1]. Noe Valley and Seeds jointly opened a warehouse in Hunters Point that became a centre of the growing movement [1]. Alice's Restaurant now occupies the corner [1].",
+    "people": [
+      {
+        "name": "Michael Martin",
+        "role": "founding director"
+      },
+      {
+        "name": "Carl Fauset",
+        "role": "founding director"
+      },
+      {
+        "name": "Susanne DiVincenzo",
+        "role": "founding director"
+      },
+      {
+        "name": "James Ploss",
+        "role": "founding director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Bay Area People's Food System (John Curl)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco_Bay_Area_People%E2%80%99s_Food_System",
+        "supports": "Food conspiracy origins, October 1973 opening at 1599 Sanchez, incorporation details and purposes, markups, warehouse, Alice's Restaurant on the site"
+      },
+      {
+        "title": "People's Food System",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=People%27s_Food_System",
+        "supports": "Food-buying clubs turning into worker-run co-op storefronts in the mid-1970s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-louise-brooks-society",
+    "title": "A silent star's first cyberspace fan club",
+    "theme": "arts-counterculture",
+    "year": 1995,
+    "yearEnd": 1997,
+    "place": {
+      "label": "Church Street at 27th (What's for Dessert cafe, 1497 Church Street, site of the 1997 exhibit)",
+      "lat": 37.747031,
+      "lon": -122.426815,
+      "precision": "building"
+    },
+    "hook": "A bookseller on Church Street rented Pandora's Box, watched it twice, found no fan club for Louise Brooks, and taught himself HTML to start one.",
+    "story": "One Friday night in 1991, Thomas Gladysz rented the silent film Pandora's Box from Video Wave on Castro Street. He watched it, went to bed, and watched it again the next morning, \"totally wowed\" by Louise Brooks [1]. He went looking for a Brooks fan club and found that none existed. So the bookseller, who worked by day at the Booksmith, taught himself HTML. In August 1995 he launched the Louise Brooks Society, which he ran from his home on Church Street and called \"the world's first fan club in cyberspace\" [1][2]. Within two years it had about 36,000 hits and more than 350 members in 25 countries. Fans mailed in clippings and photos from around the world; the site showed oddities such as a 1920s Chronicle ad of Brooks modelling an ankle watch. Film critic Roger Ebert told Gladysz he used the site for his University of Chicago class [1]. In September 1997 the online club came to the neighbourhood: \"Louise Brooks: Portraits and Memorabilia,\" with 1920s photos, movie magazines and cigarette cards from his collection, went on display at What's for Dessert, the corner cafe at 1497 Church Street [1]. The society went on to be credited in reprints of Brooks's biography and her memoir, Lulu in Hollywood, and to inspire a documentary [2].",
+    "people": [
+      {
+        "name": "Thomas Gladysz",
+        "role": "founder of the Louise Brooks Society"
+      },
+      {
+        "name": "Louise Brooks",
+        "role": "silent film star (1906-1985)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Flapper Has 'Virtual' Fan Club in Noe Valley (Fontaine Roberson)",
+        "publisher": "The Noe Valley Voice",
+        "year": 1997,
+        "url": "http://www.noevalleyvoice.com/1997/September/brook997.html",
+        "supports": "Gladysz's discovery of Brooks, Church Street home, August 1995 launch, statistics, Ebert, the 1997 exhibit at 1497 Church"
+      },
+      {
+        "title": "Louise Brooks Society",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Louise_Brooks_Society",
+        "supports": "Founded 1995; credited in reprints of the Barry Paris biography and Lulu in Hollywood; inspired a documentary"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-mazzolini-blues",
+    "title": "The blues festival run from Hill Street",
+    "theme": "arts-counterculture",
+    "year": 1973,
+    "yearEnd": 2008,
+    "place": {
+      "label": "Hill Street, Noe Valley, where Tom Mazzolini bought a two-flat in 1970",
+      "lat": 37.75545,
+      "lon": -122.4314,
+      "precision": "street"
+    },
+    "hook": "From a record-lined flat on Hill Street, a Chicago bar owner's son ran the San Francisco Blues Festival, billed as the country's longest-running, for more than three decades.",
+    "story": "Tom Mazzolini grew up in an integrated corner of Chicago in the 1950s. His father ran a bar and his mother was a celebrity photographer, and there were blues clubs nearby. After the Marines and a history degree from San Francisco State, he gave up his Haight-Ashbury apartment in 1970 and bought a two-flat building on Hill Street. Noe Valley, he said, was then blue-collar and \"very, very affordable\" [1]. In 1973 he staged the first San Francisco Blues Festival in a small gym at the U.C. Extension Center, with Charlie Musselwhite and Jimmy McCracklin on the bill [1][2]. It grew into what the Voice called the longest-running blues festival in the country, often drawing 20,000 people to Fort Mason's Great Meadow to see acts from B.B. King to Big Mama Thornton [1]. His home office held nearly 5,000 recordings. It also held a Stratocaster that Carlos Santana gave him and an acoustic guitar once owned by Delta bluesman Johnny Shines [1]. He also hosted KPFA's \"Blues by the Bay\" [1]. In 2008 he announced that the festival had to stop for economic reasons [2].",
+    "people": [
+      {
+        "name": "Tom Mazzolini",
+        "role": "founder and producer of the San Francisco Blues Festival"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tom Mazzolini, Disciple for the Blues (Corrie M. Anders)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2007,
+        "url": "http://www.noevalleyvoice.com/2007/September/Blue.html",
+        "supports": "Biography, 1970 Hill Street purchase, 1973 first festival, crowds, KPFA show, record collection and guitars"
+      },
+      {
+        "title": "San Francisco Blues Festival",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Blues_Festival",
+        "supports": "Festival ran 1973-2008, founded by Mazzolini, 1973 performers, ended for economic reasons"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-leo-holub-21st-street",
+    "title": "The photographer on the 21st Street hill",
+    "theme": "arts-counterculture",
+    "year": 1957,
+    "yearEnd": 2010,
+    "place": {
+      "label": "3600 block of 21st Street, between Church and Sanchez (Dolores Heights)",
+      "lat": 37.756677,
+      "lon": -122.428901,
+      "precision": "street"
+    },
+    "hook": "Imogen Cunningham was a regular guest at a brown-shingled house on 21st Street, and Ansel Adams a longtime friend. The man inside hardly ever sought the limelight.",
+    "story": "In 1957 Leo and Florence Holub were on their way to a lot they owned on Cumberland Street when they saw a For Sale sign on a plain brown-shingled house on 21st Street, on the steep block between Church and Sanchez [3]. They paid $7,600 [2]. Leo built a darkroom and workshop in the basement [2]. He had been born in Arkansas in 1916 and met Florence at the California School of Fine Arts [1][2]. After a 1956 workshop with Ansel Adams he began documenting a fast-changing San Francisco with a large-format view camera [1]. Imogen Cunningham was a regular guest, and Wallace Stegner, Ruth Asawa and Richard Diebenkorn were longtime friends [2]. In 1969 he founded Stanford's photography program and built its darkroom himself. Adams celebrated his 70th birthday in it [1]. Florence, meanwhile, spent decades writing \"Florence's Family Album\" for the Voice. She was one of 16 people who drew up the 1980 Special Use District that limits development on the Dolores Heights hilltop [3]. Leo died at home in 2010, aged 93, after 53 years in Noe Valley [2][4].",
+    "people": [
+      {
+        "name": "Leo Holub",
+        "role": "photographer, founder of Stanford's photography program"
+      },
+      {
+        "name": "Florence Holub",
+        "role": "artist and Voice columnist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Leo Holub's Life in Pictures (Rosie Ruley Atkins)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2004,
+        "url": "http://www.noevalleyvoice.com/2004/March/Leo.html",
+        "supports": "Arkansas birth in 1916, 1956 Adams workshop, view camera, Stanford program and hand-built darkroom, Adams's 70th birthday"
+      },
+      {
+        "title": "Loving Leo and The Light (Corrie M. Anders)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2010,
+        "url": "http://www.noevalleyvoice.com/2010/July-August/Leo.htm",
+        "supports": "1957 purchase for $7,600, basement darkroom, famous friends, death at 93 after 53 years in Noe Valley"
+      },
+      {
+        "title": "Florence's Family Album: On the Street Where We Live (Florence Holub)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2008,
+        "url": "http://www.noevalleyvoice.com/2008/April/Flor.html",
+        "supports": "House on the 3600 block of 21st Street, Cumberland lot, 1980 Dolores Heights Special Use District"
+      },
+      {
+        "title": "Leo Holub",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Leo_Holub",
+        "supports": "Dates, founding of Stanford photography program in 1969, death at home in Noe Valley"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-22nd-street-stairs",
+    "title": "Stairs where 22nd Street gave up",
+    "theme": "parks-nature",
+    "year": 1926,
+    "yearEnd": 2012,
+    "place": {
+      "label": "22nd Street stairs between Castro and Diamond, at Collingwood Street",
+      "lat": 37.7545,
+      "lon": -122.4362,
+      "precision": "street"
+    },
+    "hook": "Too steep for a road, one block of 22nd Street became a staircase. Kids rode plywood down it, and neighbours turned it into a native-plant hillside.",
+    "story": "On the map, 22nd Street runs straight over the hill between Castro and Diamond streets. On the ground, it was always too steep for that. In June 1920 a city Department of Public Works photographer recorded the corner of Collingwood and 22nd before grading [1]. In August 1926 another photographer caught the stairway climbing from Diamond Street, \"not long after they were built.\" The sources differ on the age of the stairs: one says the hill was climbed by staircases well before 1920 [1][2]. Writer Chris Carlsson calls such stubs ghost streets, found mostly on hillsides too steep for traffic [2]. In the 1960s, Ed Ferris and his friends played on the flights and rode down them on pieces of plywood [2]. In 2012 the staircase, known as the Jungle Stairs, became a project of the city's Street Parks program. Artists, muralists, metalworkers, landscapers and neighbours, with city and institutional funders, have since worked on the hillside and the stairs on both sides of the hill [1]. They gave priority to plants native to the Franciscan bioregion, and yellow lupine now blooms beside the steps. A metal sign made by Brennan Cox of Groundworks marks the Collingwood exit [1].",
+    "people": [
+      {
+        "name": "Ed Ferris",
+        "role": "childhood stair-rider in the 1960s"
+      },
+      {
+        "name": "Brennan Cox",
+        "role": "metalworker who made the stair sign"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jungle Stairs at 22nd Street",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Jungle_Stairs_at_22nd_Street",
+        "supports": "1920 DPW photo before grading, staircases in use well before 1920, 2012 Street Parks project, collaborators, native plants, lupine, Brennan Cox sign"
+      },
+      {
+        "title": "Ghost Streets of San Francisco (Chris Carlsson)",
+        "publisher": "FoundSF (originally Streetsblog SF, 2009)",
+        "year": 2009,
+        "url": "https://www.foundsf.org/index.php?title=Ghost_Streets_of_San_Francisco",
+        "supports": "1926 photo of the new stairs from Diamond Street, ghost-street concept, Ed Ferris riding plywood in the 1960s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-joplin-892-noe",
+    "title": "Trick-or-treat at Janis Joplin's door",
+    "theme": "arts-counterculture",
+    "year": 1968,
+    "yearEnd": null,
+    "place": {
+      "label": "892 Noe Street at 22nd Street, above the laundromat",
+      "lat": 37.754845,
+      "lon": -122.432359,
+      "precision": "building"
+    },
+    "hook": "The neighbourhood kids knew the psychedelic Porsche parked on Noe Street. One Halloween they rang the bell, and they were invited up to Janis Joplin's apartment.",
+    "story": "Eileen Collins Spiers grew up at 913 Noe Street between 1963 and 1970, when the neighbourhood still had a strong Irish flavour and children roamed its hills freely [1]. Halloween meant the spooky Tagle Haunted House on Castro between Alvarado and 22nd, and old ladies on Hill Street handing out cold Coca-Cola and popcorn balls [1]. And one year it meant a famous neighbour. The kids knew that Janis Joplin lived in the apartment at 892 Noe, on the corner of 22nd above the coin laundry. They had seen her climb out of her 1965 Porsche with its custom psychedelic paint job, parked out front [1]. One Halloween, which Spiers thought was 1968, she and a couple of the Gallagher girls summoned all their courage and rang the bell. They were invited up into a room of exotic incense, bright fabric and beaded fringe, and Joplin was very gracious. Spiers couldn't remember whether they got any treats; they were too star-struck to care. They ran giggling down the stairs, ready to tell everyone, \"Oh my God, we met Janis!\" [1]. Other accounts also say Joplin lived briefly in Noe Valley, in a Noe Street apartment [2][3].",
+    "people": [
+      {
+        "name": "Janis Joplin",
+        "role": "singer"
+      },
+      {
+        "name": "Eileen Collins Spiers",
+        "role": "neighbourhood child and later memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gone But Not Forgotten: My Back Yard (Eileen Collins Spiers)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2000,
+        "url": "http://www.noevalleyvoice.com/2000/September/gone.html",
+        "supports": "Spiers's childhood, Halloween rounds, Joplin at 892 Noe above the laundry, the Porsche, the visit"
+      },
+      {
+        "title": "This 'n' That (Cabral and Country Joe McDonald book)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2004,
+        "url": "http://www.noevalleyvoice.com/2004/July-August/TnT.html",
+        "supports": "Janis Joplin lived in Noe Valley for a short time"
+      },
+      {
+        "title": "Terence Hallinan",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Terence_Hallinan",
+        "supports": "Refers to Joplin's Noe Street apartment"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-streetlight-records",
+    "title": "Thirty-three years in the Streetlight bins",
+    "theme": "arts-counterculture",
+    "year": 1976,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Streetlight Records, 3979 24th Street, near Noe",
+      "lat": 37.751216,
+      "lon": -122.431311,
+      "precision": "building"
+    },
+    "hook": "It started as overflow space for a stereo shop, with sagging cardboard boxes of used records. Bobby McFerrin thanked it on his first album.",
+    "story": "In 1976 Robert Fallon, whose own staff described him as an eccentric sculptor and junk collector, opened Streetlight on 24th Street as extra space for his stereo-components shop [1]. General manager Jeff Moss remembered one small sign and \"saggy cardboard boxes with used records--and this was before anyone understood the concept of used records\" [2]. As record sales grew, Streetlight spread to Market Street, San Jose and Santa Cruz [1]. In the 1970s and '80s collectors came from all over to dig through its bins. Bobby McFerrin, then a neighbour, was a regular and thanked the store on his first album. Tracy Chapman was spotted there too [1]. Manager Sunlight Weismehl got hired after returning a Jethro Tull album because its liner wasn't in mint condition [2]. When chains like Tower Records went under, Moss joked that Streetlight had \"forgot to go out of business\" [1]. But downloads, big-box discounts and the loss of foot traffic after the Real Food Company closed in 2003 took their toll [1][2]. Fallon said the store had lost money since 2001, and in 2008 he announced that 3979 24th Street would close on January 31 [2].",
+    "people": [
+      {
+        "name": "Robert Fallon",
+        "role": "founder and owner"
+      },
+      {
+        "name": "Jeff Moss",
+        "role": "general manager"
+      },
+      {
+        "name": "Sunlight Weismehl",
+        "role": "store manager"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Human Touch Keeps Streetlight Records Spinning (Reema Bahnasy)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2007,
+        "url": "http://www.noevalleyvoice.com/2007/December-January/StLt.html",
+        "supports": "1976 founding, Fallon, branch stores, McFerrin and Chapman, Moss quote, Real Food closure's effect"
+      },
+      {
+        "title": "Streetlight Set to Close Local Store (Joshua Brandt)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2008,
+        "url": "http://www.noevalleyvoice.com/2008/November/StLt.html",
+        "supports": "Early cardboard-box days, Weismehl's hiring, losses since 2001, planned January 31 closing at 3979 24th Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-edison-charter",
+    "title": "A public school handed to a corporation",
+    "theme": "modern-city",
+    "year": 1998,
+    "yearEnd": 2001,
+    "place": {
+      "label": "Edison school, 3531 22nd Street at Dolores Street",
+      "lat": 37.754861,
+      "lon": -122.426088,
+      "precision": "building"
+    },
+    "hook": "Called the worst elementary school in San Francisco, Edison was given to a New York company in 1998. The fight that followed reached national news.",
+    "story": "By the late 1990s, Edison Elementary at 22nd and Dolores had a longstanding reputation, repeated in the newspapers, as \"the worst elementary school in San Francisco.\" The district had already tried \"reconstitution\", replacing the principal and the entire faculty [1]. Fifth-graders wrote angry letters to the press. \"It looks like you were only here long enough just to take a picture,\" one told the Independent [1]. Then, on June 24, 1998, the Board of Education, led by Superintendent Bill Rojas, voted 5 to 2 to turn the school over to Edison Schools, Inc., a New York firm [2]. The question that followed was whether a private company should run a public school on taxpayers' money and make a profit from it. There were charges of pressure on teachers, of test scores boosted by \"counseling out\" struggling pupils, and of missing bilingual teaching. Many parents, though, praised the longer school day, strict discipline and new computers [2]. A new board majority elected on an anti-privatisation platform voted 6 to 1 in March 2001 to begin revoking the charter, before about 400 mostly pro-Edison parents and students [2]. By October 2002 the Edison Charter Academy was still open, boasting the highest test scores in its history [3].",
+    "people": [
+      {
+        "name": "Bill Rojas",
+        "role": "San Francisco schools superintendent"
+      },
+      {
+        "name": "Barbara Karvelis",
+        "role": "interim principal, 1997-98"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Edison School Rises Above 'Bad Rap' (Dodie Hamblen)",
+        "publisher": "The Noe Valley Voice",
+        "year": 1998,
+        "url": "http://www.noevalleyvoice.com/1998/March/edison.html",
+        "supports": "Reputation, reconstitution, students' letters, Karvelis"
+      },
+      {
+        "title": "Local Parents Steer Clear of Edison Charter Academy (Kathy Dalle-Molle)",
+        "publisher": "The Noe Valley Voice",
+        "year": 2001,
+        "url": "http://www.noevalleyvoice.com/2001/May/Edis.html",
+        "supports": "June 24, 1998 vote, controversies, March 2001 vote to begin revocation, parents' views"
+      },
+      {
+        "title": "This 'n' That",
+        "publisher": "The Noe Valley Voice",
+        "year": 2002,
+        "url": "http://www.noevalleyvoice.com/2002/October/This.html",
+        "supports": "Edison Charter Academy still operating in 2002 with its highest scores"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-army-street-chavez",
+    "title": "Save Army Street versus Cesar Chavez",
+    "theme": "civil-rights",
+    "year": 1995,
+    "yearEnd": null,
+    "place": {
+      "label": "Cesar Chavez Street (formerly Army Street) between Sanchez and Noe",
+      "lat": 37.747762,
+      "lon": -122.430035,
+      "precision": "street"
+    },
+    "hook": "When the city renamed Army Street for the farm-labour leader, orange-and-black 'Save Army Street' signs bloomed in Noe Valley windows. The ballot fight drew national attention.",
+    "story": "Army Street got its name in 1851 from a developer who also named Navy and Clipper streets, apparently hoping the military would drain his swamps [1]. In January 1995 the Board of Supervisors voted unanimously to rename it for Cesar Chavez, the farm-labour leader who had died in 1993. They had first considered 24th Street, but businesses there objected to the cost [2]. Many residents of the Noe Valley stretch, a two-lane, tree-lined avenue, felt ignored by City Hall [1][2]. Mary Corbin, who had lived on the street for half a century, put two \"Save Army Street\" placards in her windows. \"It's been Army Street for 145 years,\" she said [1]. Organisers gathered 18,000 signatures to put Proposition O on the November ballot. \"We are the little people,\" said property manager DiAnne Withelder, a leader of the Yes side [1][2]. Down the hill in the Mission, people saw it differently. \"It signifies we have a place here too,\" said grocer Maria Payan [1]. There was vandalism on both sides and even a fistfight [2]. Proposition O was losing as the votes were counted, and the street still bears Chavez's name [2][3]. In March 2026, after abuse allegations against Chavez, a supervisor and a former supervisor said the name should come down [3].",
+    "people": [
+      {
+        "name": "Mary Corbin",
+        "role": "longtime Army Street resident"
+      },
+      {
+        "name": "DiAnne Withelder",
+        "role": "leader of the Save Army Street campaign"
+      },
+      {
+        "name": "Maria Payan",
+        "role": "Mission Street grocer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chavez Street: a Route to Discord in S.F. (Richard C. Paddock)",
+        "publisher": "Los Angeles Times",
+        "year": 1995,
+        "url": "https://www.latimes.com/archives/la-xpm-1995-10-30-mn-62893-story.html",
+        "supports": "1851 naming, January 1995 renaming, orange-and-black signs, Noe Valley stretch, Corbin, Withelder and Payan quotes, 18,000 signatures"
+      },
+      {
+        "title": "Measure to Change Chavez St. Back to Army Losing (Carl Nolte)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 1995,
+        "url": "https://www.sfgate.com/news/article/SAN-FRANCISCO-Measure-to-Change-Chavez-St-3020743.php",
+        "supports": "24th Street first considered, unanimous vote, Withelder quote, vandalism, fistfight, 19 mayors, Prop O trailing"
+      },
+      {
+        "title": "Cesar Chavez Street",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Cesar_Chavez_Street",
+        "supports": "Street still named for Chavez; March 2026 calls by officials to remove the name after allegations"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "noe-valley-2q-cara-black-alvarado",
+    "title": "Paris murders written before dawn on Alvarado",
+    "theme": "arts-counterculture",
+    "year": 1999,
+    "yearEnd": null,
+    "place": {
+      "label": "Alvarado Street, Noe Valley, home of mystery writer Cara Black",
+      "lat": 37.7536,
+      "lon": -122.4358,
+      "precision": "street"
+    },
+    "hook": "A former preschool teacher got up at five, wrote Paris thrillers until eleven, then walked down the hill to 24th Street, which she said felt 'kind of like Europe.'",
+    "story": "On a 1984 visit to Paris, Cara Black toured the Marais with a friend, who told her how her mother, a 14-year-old Jewish girl, had lost her parents to the Nazi deportations and survived the occupation alone [1]. Fifteen years later the story had become Murder in the Marais, the first novel featuring Aimée Leduc, a half-French, half-American private eye whose partner is a computer-hacking dwarf with a black belt [1]. Black, a Chicago-born former preschool teacher, lived on Alvarado Street with her husband Jun Ishimuro, a bookseller, their son, and Ishimuro's mother [1][2]. They had left the Mission and found the house by driving around on Sundays. \"Go in, and look out the little window in the bathroom,\" Ishimuro told her. \"That's what we'll have.\" [1] She wrote from about 5 a.m. until 11, then walked down to 24th Street, which she said \"feels kind of like Europe\" [1]. She thanked the Noe Valley branch librarians in her acknowledgments and held her book-signing party at Cover to Cover on 24th Street [1]. That first print run of 5,000 soon went into a second printing, and the Aimée Leduc series eventually reached 21 novels [1][2].",
+    "people": [
+      {
+        "name": "Cara Black",
+        "role": "mystery novelist"
+      },
+      {
+        "name": "Jun Ishimuro",
+        "role": "bookseller, her husband"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Noe Valley Author Cara Black Finds Mystery in France (Jim Christie)",
+        "publisher": "The Noe Valley Voice",
+        "year": 1999,
+        "url": "http://www.noevalleyvoice.com/1999/September/cara.html",
+        "supports": "1984 Marais visit, novel's origin, Alvarado Street home, family, writing routine, librarians, Cover to Cover, printing"
+      },
+      {
+        "title": "Cara Black (author)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Cara_Black_(author)",
+        "supports": "Chicago birth, preschool teaching, husband Jun Ishimuro, 21-novel Aimée Leduc series"
+      }
+    ],
+    "photo": null
+  }
+]

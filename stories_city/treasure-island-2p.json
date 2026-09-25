@@ -1,0 +1,607 @@
+[
+ {
+  "id": "treasure-island-2p-island-from-the-bay",
+  "title": "An island pumped from the bay floor",
+  "theme": "architecture-landmarks",
+  "year": 1936,
+  "yearEnd": 1937,
+  "place": {
+   "label": "Treasure Island, centre of the 1936–37 fill",
+   "lat": 37.824,
+   "lon": -122.3715,
+   "precision": "area"
+  },
+  "hook": "In eighteen and a half months, Army engineers turned shoals that ships steered around into 400 acres of dry land, then named it after the gold in the mud.",
+  "story": "Before 1936, the water just north of Yerba Buena Island was a place mariners avoided: treacherous shoals, nowhere deeper than 26 feet [1]. On February 11, 1936, the Army Corps of Engineers began turning them into land [2]. The city won approval for it as a WPA project, but the WPA judged the job beyond it, so the Army took over, with Colonel Fred Butler running the day-to-day work [3]. Crews sank a seawall of 287,000 tons of quarried rock and piled dredged sea bottom inside it: 20 million cubic yards by a 1938 count, nearly 30 million by the Navy's later reckoning [1][2]. The fill was salty, so engineers flushed it with fresh water and drew off the diluted brine, and barges brought loam from the mainland to make things grow [1][2].\n\nThe island was finished on August 24, 1937, on time and under budget [2]. It was a mile long and two-thirds of a mile wide [1].\n\nThe name came from the dirt. The Navy's history says much of the silt had washed down from the gold-bearing Sierra Nevada. \"Gold Island\" was suggested and didn't sound right, so \"Treasure Island\" was chosen [2]. The Treasure Island Museum is more careful: the island \"may have been named for the gold its soil might contain\" [4].",
+  "people": [
+   {
+    "name": "Col. Fred Butler",
+    "role": "Army engineer who ran the day-to-day reclamation work"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Trails End for '39ers (from Almanac for Thirty-Niners, Federal Writers' Project, 1938)",
+    "publisher": "Museum of the City of San Francisco (sfmuseum.net)",
+    "year": 1938,
+    "url": "http://www.sfmuseum.net/hist5/treasis.html",
+    "supports": "Shoals no deeper than 26 feet; 287,000-ton rock walls; 20 million cubic yards dredged; leaching salt; loam barged in; 400 acres, a mile long"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Start date Feb 11, 1936, completion Aug 24, 1937, on time and under budget; 29.7 million cubic yards; freshwater flushing; naming from Sierra gold silt and rejected 'Gold Island'"
+   },
+   {
+    "title": "Symphonies in Steel: Bay Bridge and the Golden Gate (from San Francisco, the Story of a City)",
+    "publisher": "Museum of the City of San Francisco (sfmuseum.net); John Bernard McGloin",
+    "year": 1978,
+    "url": "http://www.sfmuseum.net/hist9/mcgloin.html",
+    "supports": "Approved as a WPA project; WPA judged it could not handle the work, so the Army Corps of Engineers carried it out; Col. Fred Butler oversaw daily work"
+   },
+   {
+    "title": "Island History",
+    "publisher": "Treasure Island Museum",
+    "year": 2024,
+    "url": "https://www.treasureislandmuseum.org/island-history",
+    "supports": "Built by the Army Corps of Engineers 1936–37 from dredged mud; 'may have been named for the gold its soil might contain'"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-lonesome-billy",
+  "title": "The goat head and the name change",
+  "theme": "communities",
+  "year": 1931,
+  "yearEnd": null,
+  "place": {
+   "label": "Old Naval Training Station pier, east side of Yerba Buena Island",
+   "lat": 37.8124,
+   "lon": -122.362,
+   "precision": "area"
+  },
+  "hook": "When Goat Island officially became Yerba Buena Island again in 1931, the Navy marked the moment by kicking a sailor in a goat suit off the pier.",
+  "story": "For about a century the island in the middle of the bay had two names. Goats made \"Goat Island\" the popular one, and in 1895 the U.S. Geographic Board made it official [1]. Accounts differ on when the goats came. The Navy's history says Nathan Spear brought a herd around 1837; a City Guides history credits squatters after the Gold Rush [1][2].\n\nThe last goat anyone remembered was Lonesome Billy, a thin, one-horned billy who died just after 1900 at more than 30 years old. He was so cantankerous that, the Navy's historians note, there is no record of anyone mourning him. His stuffed, mounted head hung for years in the Goat Island Training Station's administration building [1].\n\nThen the Native Daughters of the Golden West ran an intense campaign to bring back the old Spanish name, and in 1931 the same board reversed itself: Yerba Buena Island again [1]. According to the Navy's account, the change was not marked by throwing Billy's head into the bay. Instead Navy Radioman Jack Lowe put on a goat suit and Rear Admiral W. C. Cole kicked him off the end of the pier. Billy's head was lost around the same time [1]. \"Goat Island\" fell out of use by about 1940 [1].",
+  "people": [
+   {
+    "name": "Lonesome Billy",
+    "role": "the island's last famous goat"
+   },
+   {
+    "name": "Jack Lowe",
+    "role": "Navy radioman who wore the goat suit"
+   },
+   {
+    "name": "Rear Adm. W. C. Cole",
+    "role": "commanding officer who did the kicking"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Lonesome Billy, his mounted head, the 1895 and 1931 name decisions, the Native Daughters' campaign, the goat-suit stunt, Nathan Spear's goats c.1837"
+   },
+   {
+    "title": "Goats on Goat Island in San Francisco (Guidelines newsletter, archived)",
+    "publisher": "San Francisco City Guides",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20111002174554/http://www.sfcityguides.org/public_guidelines.html?article=410&submitted=TRUE&srch_text=&submitted2=&topic=Early%20San%20Francisco",
+    "supports": "Island's many names; goats brought by squatters after the Gold Rush gave it the name Goat Island"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-first-ncaa-west",
+  "title": "The first NCAA tournament's western bracket",
+  "theme": "architecture-landmarks",
+  "year": 1939,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of the California Coliseum, northern fairgrounds (approximate)",
+   "lat": 37.8274,
+   "lon": -122.3692,
+   "precision": "area"
+  },
+  "hook": "March Madness has a Treasure Island chapter. In 1939, Oregon's future champions won the West in a fair hall later dismantled and shipped to Mare Island.",
+  "story": "The very first NCAA men's basketball tournament, in March 1939, was a modest affair split into East and West. The NCAA's record book lists the Western Regional in San Francisco at the California Coliseum, a hall built in 1938 that seated 9,476 [1]. It was one of the new fair's buildings on Treasure Island, used for animal shows and indoor athletic contests [2].\n\nOn March 21, 1939, Oregon beat Oklahoma to win the West, after leading 21–14 at halftime. The record book counts that game as a national semifinal [1]. Six days later Oregon beat Ohio State 46–33 for the first national title [1]. The final was played elsewhere, but the champions' run went through the island. Oregon's 1939 players included Bobby Anet, Laddie Gale, John Dick and Slim Wintermute [1].\n\nThe Coliseum outlived the fair around it. Most exposition buildings were torn down for the naval base, but this one was carefully taken apart, moved to Mare Island Naval Shipyard and put back together. There it became the Field House, Building 523, and it was still standing in 1995 [2].",
+  "people": [
+   {
+    "name": "Oregon 'Webfoots' (Bobby Anet, Laddie Gale, John Dick, Slim Wintermute)",
+    "role": "1939 West winners and first NCAA champions"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NCAA Men's Final Four Records Book (2018)",
+    "publisher": "NCAA",
+    "year": 2018,
+    "url": "http://fs.ncaa.org/Docs/stats/m_final4/2018/MFFBook.pdf",
+    "supports": "1939 Western Regional at California Coliseum, San Francisco (built 1938, capacity 9,476); Oregon 21–14 at half over Oklahoma, 3-21-1939; Oregon 46–33 Ohio State; Oregon roster"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "California Coliseum built 1938 for animal shows and indoor athletics; dismantled, moved to Mare Island and rebuilt as Field House, Building 523"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-aquacade",
+  "title": "Where Billy Rose's Aquacade swam",
+  "theme": "arts-counterculture",
+  "year": 1939,
+  "yearEnd": 1940,
+  "place": {
+   "label": "Site of Palace C-1 and the Aquacade, south-west fairgrounds (approximate)",
+   "lat": 37.8193,
+   "lon": -122.3711,
+   "precision": "area"
+  },
+  "hook": "Esther Williams and Johnny Weissmuller swam here for the fair. A few years later, sailors shot baskets on a floor laid over the filled-in pool.",
+  "story": "Billy Rose's Aquacade, a water show, was one of the fair's star attractions. Its headliners were the swimmers Johnny Weissmuller and Esther Williams [1][2]. The Navy's building records place it at the east end of Palace C-1, one of the Homes and Gardens halls, in the 1939–40 fair years [1].\n\nSingers wanted in too. Mel Lewis, 23, heard that bandleader Fred Waring, inventor of the Waring Blender, was auditioning a chorus for the Aquacade. Lewis sang \"All the Things You Are\" without looking at the music, but part of it was in harmony. \"You don't read music, do you,\" Waring said, rather than asked. With a new show every week and the harmonies to be memorised, that ended it. Lewis went on to win a radio amateur hour instead [2].\n\nWhat happened to the pool depends on who you ask. The Navy's 1995 history says the Aquacade became the base swimming pool [1]. The base newspaper told sailors in 1945 that if they played basketball in Gymnasium No. 1, they were \"romping about on the spot where Billy Rose's Aquacade swam its way to fame.\" The pool, it said, was \"of a tar and chicken wire construction,\" and had been filled in with a floor laid over it [3].",
+  "people": [
+   {
+    "name": "Billy Rose",
+    "role": "showman"
+   },
+   {
+    "name": "Esther Williams",
+    "role": "swimmer"
+   },
+   {
+    "name": "Johnny Weissmuller",
+    "role": "swimmer"
+   },
+   {
+    "name": "Fred Waring",
+    "role": "bandleader who auditioned the chorus"
+   },
+   {
+    "name": "Mel Lewis",
+    "role": "singer who auditioned"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Aquacade with Weissmuller and Esther Williams among the fair's big names; Palace C-1 (Aquacade, east end); later swimming pool"
+   },
+   {
+    "title": "Mel Lewis, Big Band Singer",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Mel_Lewis,_Big_Band_Singer",
+    "supports": "Waring's Aquacade chorus auditions, Esther Williams and Johnny Weissmuller, Lewis's failed audition and quote"
+   },
+   {
+    "title": "The Masthead (Naval Station Treasure Island newspaper), Jan–Jun 1945",
+    "publisher": "U.S. Navy, Treasure Island; digitised by the Treasure Island Museum",
+    "year": 1945,
+    "url": "http://books.treasureislandmuseum.org/Masthead/1945A/index.html",
+    "supports": "Feb 17, 1945 guide: Gymnasium No. 1 stands where the Aquacade swam; tar-and-chicken-wire pool filled in and floored over"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-delta-queen-navy",
+  "title": "The riverboat that became a barracks",
+  "theme": "war-military",
+  "year": 1941,
+  "yearEnd": null,
+  "place": {
+   "label": "Old ferry slip, east shore of Treasure Island (approximate)",
+   "lat": 37.8225,
+   "lon": -122.3635,
+   "precision": "area"
+  },
+  "hook": "The Navy's first home on the empty fairgrounds was a Sacramento River paddlewheeler, with a galley so greasy it fixed itself by catching fire.",
+  "story": "When the Navy began setting up a Section Base on the deserted fairgrounds in 1941, it had almost nothing to work with. Its commanding officer, Captain Culp, solved the problem by bringing the Delta Queen, a paddlewheel riverboat that had run scheduled trips between San Francisco and Sacramento, down the river and tying her up at the island's ferry slip [1]. She became the temporary barracks, offices, training space and galley for the \"Local Defense Force\" until permanent buildings went up [1].\n\nLife aboard the \"Delta Queen Navy\" was improvised. The supply officer remembered galley grease so thick that the best scrubbing failed, \"with the resultant galley fire, which thoroughly did the job of eliminating this grease hazard.\" The office was boards laid on sawhorses, which \"had a tendency to fall apart at the passing of each rowboat.\" When the base asked for desks, the answer was \"what for?\" In the end, he said, equipment was found \"by begging, pilfering, and other means\" [1].\n\nThe Navy listed her as the ferry boat Delta Queen (YHB-7), used in San Francisco Bay during the war. She was reclassified YFB-56 on July 5, 1944, and struck from the Navy List on August 28, 1946 [2].",
+  "people": [
+   {
+    "name": "Captain Culp",
+    "role": "commanding officer of the new Section Base"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Captain Culp brought the Delta Queen to the ferry slip as temporary barracks, offices and galley; supply officer's account of the grease fire and sawhorse desks"
+   },
+   {
+    "title": "Delta Queen (Dictionary of American Naval Fighting Ships, archived)",
+    "publisher": "Naval Historical Center, U.S. Navy",
+    "year": 2004,
+    "url": "https://web.archive.org/web/20040301194053/http://www.history.navy.mil/danfs/d3/delta_queen.htm",
+    "supports": "Delta Queen (YHB-7) ferry used in San Francisco Bay in WWII; reclassified YFB-56 on 5 July 1944; struck 28 August 1946"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-radio-materiel-school",
+  "title": "Half the Navy's radio technicians",
+  "theme": "war-military",
+  "year": 1941,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Site of Radio Materiel School A (Building 27), Treasure Island (approximate)",
+   "lat": 37.8226,
+   "lon": -122.373,
+   "precision": "area"
+  },
+  "hook": "The school opened in the rain with a blown-up boiler and no textbooks. By V-J Day it had trained more than half of the Navy's wartime radio technicians.",
+  "story": "The first technical school on the new naval station, the Radio Materiel School, opened in October 1941 with nine officers, nine chiefs and six hundred students [1]. Very little was ready. Its buildings were unfinished and the rainy season was in full swing. The heating plant blew up, so a donkey boiler was brought in. The books and equipment promised by Washington never came, and classes began with mimeographed pamphlets that officers had brought from Bellevue. After an entrance exam, the fifty highest scorers were told almost overnight that they would be teachers instead of students. Luckily several of them were electrical engineers [1].\n\nThe first class graduated in June 1942. The quota doubled from 100 men a month to 200, then settled at 400 [1]. By V-J Day the school had turned out more than ten thousand radio technicians, which the Navy's historians put at more than half of all those it trained in the war [1].\n\nStudents knew they had a good posting. \"Radio technician is a 'good deal' because I like the work,\" F. R. Hicks, a seaman first class at the school, told the base newspaper in 1945. \"Besides I can get college credits for the time I am spending in this Navy school\" [2]. After the war the school became the island's Electronics Schools [1].",
+  "people": [
+   {
+    "name": "F. R. Hicks",
+    "role": "student at the Radio Materiel School"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Opening in Oct 1941, the blown heating plant, mimeographed pamphlets, student instructors, graduation rates, over 10,000 graduates and more than half of the Navy's radio technicians; later Electronics Schools; Building 27 as School A"
+   },
+   {
+    "title": "The Masthead (Naval Station Treasure Island newspaper), Jul–Dec 1945",
+    "publisher": "U.S. Navy, Treasure Island; digitised by the Treasure Island Museum",
+    "year": 1945,
+    "url": "http://books.treasureislandmuseum.org/Masthead/1945B/index.html",
+    "supports": "F. R. Hicks, S1c(RT), Radio Materiel School, quoted on the job and college credits"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-waves",
+  "title": "Eighteen WAVES in 'this man's navy'",
+  "theme": "war-military",
+  "year": 1942,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Site of the WAVES mess (Building 230), Treasure Island (approximate)",
+   "lat": 37.8237,
+   "lon": -122.367,
+   "precision": "area"
+  },
+  "hook": "The first women sailors arrived to a cool welcome in 1942. Within three years more than 800 of them were running much of the base.",
+  "story": "The first eighteen WAVES, members of the Navy's new women's reserve, came aboard Treasure Island on November 30, 1942. The Navy's own history admits they were \"not particularly welcome in 'this man's navy'\" [1]. As men shipped out, women took over job after job, including some that had always been men's. By February 1945 more than eight hundred were attached to fifteen activities on the island [1]. They ran almost all of the Communication Division and taught signalling, damage control, lookout recognition and navigation. Ten were gunnery instructors, and a WAVE officer was in charge of the dispensary's physical therapy department [1].\n\nThe base paper, the Masthead, followed them every week. In August 1944 it praised the 37 \"charming WAVES\" among the storekeepers in the disbursing office, and noted that the hospital's WAVE softball team was \"better known as the 'Doc-ettes'\" [2]. Their quarters grew from one barracks to six, with their own mess hall, three theatres and a beauty parlour [1]. After the gas-chamber drill, the first group said they felt \"pretty well initiated into the service\" [1]. By December 1945, only one of the original eighteen was still on the island [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Arrival of 18 WAVES on Nov 30, 1942; peak of 800+ in Feb 1945; their jobs, barracks, mess, beauty parlour, gas drill quote; one of 18 left by Dec 1945; WAVES Subsistence Building 230"
+   },
+   {
+    "title": "The Masthead (Naval Station Treasure Island newspaper), Aug–Dec 1944",
+    "publisher": "U.S. Navy, Treasure Island; digitised by the Treasure Island Museum",
+    "year": 1944,
+    "url": "http://books.treasureislandmuseum.org/Masthead/1944/index.html",
+    "supports": "37 WAVE storekeepers in disbursing; the WAVE hospital softball team 'Doc-ettes'"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-galley-k",
+  "title": "A mess hall serving one man a second",
+  "theme": "labor-industry",
+  "year": 1942,
+  "yearEnd": 1946,
+  "place": {
+   "label": "Site of Palace K / Galley K, central Treasure Island (approximate)",
+   "lat": 37.8207,
+   "lon": -122.3705,
+   "precision": "area"
+  },
+  "hook": "The fair's food palace became Galley K, which the Navy called the world's largest mess hall under one roof. Christmas pies alone took five tons of apples.",
+  "story": "The fair's Palace K, the Foods and Beverages and Agriculture building, got a fitting second life. The Navy made it Galley K, the island's main mess hall, able to serve more than 7,000 meals an hour [1]. The Navy's historians called it the largest mess hall under one roof in the world. It served one man per second along six lines at once, seated three thousand at a time and on occasion fed eighteen thousand men in two hours [1].\n\nIt took one hundred cooks, five hundred mess cooks and one hundred bakers. A normal day meant 5,000 pounds of fresh bread and, when they were on the menu, 50,000 doughnuts and 4,000 pies. Each meal needed two tons of steak and 200 gallons of gravy. Christmas pies used more than five tons of apples [1].\n\nIn September 1944 the Masthead reported that Galley K had reopened after several days of repairs. The huge curved roof had been strengthened, the bulkheads repainted gleaming white and blue, and the mess deck covered in maroon [2]. It did not last much longer. The Navy's history records a fire that destroyed Galley K and neighbouring barracks, dated 1946 in one place and 1947 in another. Almost all the remaining palaces were razed in 1947 [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Palace K became Galley K; capacity and staffing figures; daily food quantities; fire and 1947 razing of palaces"
+   },
+   {
+    "title": "The Masthead (Naval Station Treasure Island newspaper), Aug–Dec 1944",
+    "publisher": "U.S. Navy, Treasure Island; digitised by the Treasure Island Museum",
+    "year": 1944,
+    "url": "http://books.treasureislandmuseum.org/Masthead/1944/index.html",
+    "supports": "Sept 2, 1944 reopening of Galley K after repairs: strengthened curved roof, white and blue enamel, maroon deck"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-segregated-dances",
+  "title": "A separate dance for 'Colored Personnel'",
+  "theme": "civil-rights",
+  "year": 1944,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Naval Station gymnasiums and pool, former fair palaces (approximate)",
+   "lat": 37.8201,
+   "lon": -122.3697,
+   "precision": "area"
+  },
+  "hook": "The base newspaper listed segregation right beside softball scores and chapel times: dances for Black sailors, and pool hours set aside for 'Colored personnel.'",
+  "story": "In August 1944 the Masthead announced \"the initial dance for the colored bluejackets stationed at Treasure Island,\" to be held that night in the Treasure Island gym from 8 p.m. to midnight with the station swing band. There was a caveat: because of the \"pressing engagements\" of USO hostesses in Berkeley, Oakland and San Francisco, only a limited number of them would come [1]. Four weeks later the paper said plans were complete for a second station dance \"for the Colored Personnel\" on September 13, promising \"lovely hostesses\" [1].\n\nWhat stands out now is how ordinary the notices looked. They ran beside softball scores, movie listings and chapel times [1]. Segregation reached the pool too. The recreation schedule printed in March 1945 set weekday swimming as \"Warfare Aquatics\" until 3 p.m., then an hour for officers only, then 4 to 6 p.m. for \"Colored personnel.\" On Saturdays there was a separate block of \"recreational swimming for Colored personnel\" [2].\n\nThese were the rules on a base that was loading tens of thousands of men a month onto outbound ships [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "The Masthead (Naval Station Treasure Island newspaper), Aug–Dec 1944",
+    "publisher": "U.S. Navy, Treasure Island; digitised by the Treasure Island Museum",
+    "year": 1944,
+    "url": "http://books.treasureislandmuseum.org/Masthead/1944/index.html",
+    "supports": "Aug 5, 1944 notice of the first dance for 'colored bluejackets' at the Treasure Island gym; Aug 19, 1944 mention of a similar dance on Sept 13; Sept 2, 1944 notice that plans were complete for the second dance 'for the Colored Personnel'"
+   },
+   {
+    "title": "The Masthead (Naval Station Treasure Island newspaper), Jan–Jun 1945",
+    "publisher": "U.S. Navy, Treasure Island; digitised by the Treasure Island Museum",
+    "year": 1945,
+    "url": "http://books.treasureislandmuseum.org/Masthead/1945A/index.html",
+    "supports": "March 1945 recreation schedule with separate swimming hours for 'Colored personnel'"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Embarkation rate of 25,000 men a month, with a peak of 43,000 in one month"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-elephant-towers",
+  "title": "Where the elephant towers stood",
+  "theme": "architecture-landmarks",
+  "year": 1939,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Site of the Portals of the Pacific and Elephant Towers, west side of Treasure Island (approximate)",
+   "lat": 37.8191,
+   "lon": -122.3734,
+   "precision": "area"
+  },
+  "hook": "The fair's gate was tested with a fan and chicken feathers. Six years later, sailors needed a newspaper guide to find where it had been.",
+  "story": "The fair's main entrance faced west, into the prevailing wind. Its gateway, the Portals of the Pacific, was guarded by the Elephant Towers, which blended Asian and Mayan motifs [1][2]. The portals were built as windbreaks to shelter the court behind them. While designing them, the engineer tested models with a fan and chicken feathers [2]. The fair was so big that visitors rode \"Elephant Trains\": small tractors dressed as elephants, each towing up to five cars. After the fair their costumes came off and they went to Mare Island Naval Shipyard, where they carried workers around during the war [2].\n\nBy February 1945 the fair was gone, and the Masthead ran a guide to the one under sailors' feet. The main entrance, it explained, had been between Barracks D and E, guarded by huge elephant towers \"long since torn down.\" The Tower of the Sun's foundation now held the bandstand. The street in front of the Administration Building had been the Avenue of Palms, and it was \"rumored that the brig now stands\" on the old Gayway [3]. The Navy's own history, though, lists an \"Elephant Gate Building\" among the few structures spared when the palaces were razed in 1947 [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Treasure Island Fair: Golden Gate International Exposition",
+    "publisher": "FoundSF (Gail Hynes Shea)",
+    "year": 2009,
+    "url": "https://www.foundsf.org/index.php?title=Treasure_Island_Fair:_Golden_Gate_International_Exposition",
+    "supports": "Elephant Towers at the west entrance blending Oriental and Mayan design"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Entrance facing the prevailing west wind; portals tested with a fan and chicken feathers; Elephant Trains sent to Mare Island; Elephant Gate Building spared in 1947"
+   },
+   {
+    "title": "The Masthead (Naval Station Treasure Island newspaper), Jan–Jun 1945",
+    "publisher": "U.S. Navy, Treasure Island; digitised by the Treasure Island Museum",
+    "year": 1945,
+    "url": "http://books.treasureislandmuseum.org/Masthead/1945A/index.html",
+    "supports": "Feb 17, 1945 guide to the vanished fair: entrance between Barracks D and E, elephant towers torn down, Tower of the Sun foundation as bandstand, brig rumoured on the Gayway"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-vj-day-hospital",
+  "title": "V-J Day and a ward of broken jaws",
+  "theme": "war-military",
+  "year": 1945,
+  "yearEnd": null,
+  "place": {
+   "label": "U.S. Naval Hospital, Treasure Island (site approximate)",
+   "lat": 37.8218,
+   "lon": -122.3645,
+   "precision": "area"
+  },
+  "hook": "The base planned only a simple ceremony of thanksgiving for Japan's surrender. Instead, its hospital had its busiest day ever and had to open a whole ward for broken jaws.",
+  "story": "As Japan's surrender neared in August 1945, the island's commander sent round a memo. The base would mark V-J Day with nothing more than \"a simple ceremony of thanksgiving,\" and routine would \"proceed as on any other day\" [1]. San Francisco had other ideas. When President Truman announced the surrender at 4 p.m. on August 14, thousands ran into the streets, and by evening the celebrations had turned into riots. When the \"peace riots\" ended on August 18, eleven people were dead and about a thousand injured [2].\n\nFor the naval hospital on Treasure Island, V-J Day was the busiest day in its history. Three complete surgical teams worked around the clock, and by the end of the night an entire ward had been set aside for patients with fractured jaws. The surgeons treated 125 cases that day and night. The Navy's historians added, with some pride, that not one of them was a corpsman [3].\n\nThe hospital was used to pressure. Commissioned in April 1942 with 500 beds, it admitted more than 17,500 patients in 1944 alone. All wounded servicemen flown in from fleet hospitals in the South and Central Pacific were sent here, and none were turned away [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "The Masthead (Naval Station Treasure Island newspaper), Jul–Dec 1945",
+    "publisher": "U.S. Navy, Treasure Island; digitised by the Treasure Island Museum",
+    "year": 1945,
+    "url": "http://books.treasureislandmuseum.org/Masthead/1945B/index.html",
+    "supports": "Commander's memo that V-J Day would be marked only by 'a simple ceremony of thanksgiving' with normal routine"
+   },
+   {
+    "title": "Chronology of San Francisco War Events, 1945",
+    "publisher": "Museum of the City of San Francisco (sfmuseum.net)",
+    "year": 1945,
+    "url": "http://www.sfmuseum.net/war/45.html",
+    "supports": "Truman's announcement at 4 p.m. Aug 14; street celebrations and rioting; peace riots ended Aug 18 with 11 dead and 1,000 injured"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "V-J Day as the hospital's busiest day; three surgical teams; a ward for fractured jaws; 125 cases, none a corpsman; hospital commissioning, 1944 admissions, Pacific air evacuees"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-hi-mates-sign",
+  "title": "'Hi Mates – Great Work' on the hillside",
+  "theme": "war-military",
+  "year": 1945,
+  "yearEnd": null,
+  "place": {
+   "label": "Western slope of Yerba Buena Island, facing the Golden Gate",
+   "lat": 37.8108,
+   "lon": -122.3715,
+   "precision": "area"
+  },
+  "hook": "For sailors steaming home in 1945, the first words from San Francisco were plywood letters on Yerba Buena Island's hillside, put up at the cost of one skinned finger.",
+  "story": "For sailors sailing home across the Pacific at the end of the war, one of the first messages they could read was spelled out on a hillside. A huge sign reading \"HI MATES - GREAT WORK\" was put up on the western end of Yerba Buena Island, where troop ships could see it as they came into the bay. A second sign on Angel Island, \"WELCOME HOME - JOB WELL DONE,\" greeted returning Army troops [1].\n\nIn November 1945 the Masthead reported that the sign \"spread-eagled on the slopes of Yerba Buena as a welcome mat to returning veterans\" had gone up \"at the cost of one skinned finger\" [2]. By December its plywood letters were lit at night by lights plugged into inverted posts [2].\n\nThe homecoming it greeted was enormous. The Receiving Ship command on Yerba Buena Island had handled about 1,500 men a day during the war. Once the transports and carriers of the \"Magic Carpet\" began bringing veterans home, its first month of peace brought in about one hundred thousand. It learned to receive a man, process him and send him on his way in an average of seventy-two hours [1]. In 1946 the command moved to Treasure Island, and Yerba Buena never again headquartered a Navy command [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "The 'HI MATES - GREAT WORK' sign on the western end of Yerba Buena and its Angel Island companion; Receiving Ship workloads, 100,000 in the first month, 72-hour processing; 1946 transfer"
+   },
+   {
+    "title": "The Masthead (Naval Station Treasure Island newspaper), Jul–Dec 1945",
+    "publisher": "U.S. Navy, Treasure Island; digitised by the Treasure Island Museum",
+    "year": 1945,
+    "url": "http://books.treasureislandmuseum.org/Masthead/1945B/index.html",
+    "supports": "Nov 10, 1945: sign placed 'at the cost of one skinned finger'; Dec 1, 1945: plywood letters illuminated"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-potomac-sinks",
+  "title": "FDR's yacht sinks at Treasure Island",
+  "theme": "modern-city",
+  "year": 1981,
+  "yearEnd": null,
+  "place": {
+   "label": "Treasure Island waterfront, east side (exact mooring not recorded)",
+   "lat": 37.824,
+   "lon": -122.364,
+   "precision": "area"
+  },
+  "hook": "Roosevelt's 'floating White House' was seized after a drug raid, towed to Treasure Island and left to rot until a piling punched through her hull.",
+  "story": "The Potomac had been Franklin D. Roosevelt's presidential yacht. She was built as the Coast Guard cutter Electra, renamed Potomac in 1936, and carried him regularly until 1941, when inspectors declared her unseaworthy for presidential use, partly out of fear of German submarines [1]. After that she slid downhill. Among her many owners was Elvis Presley, who bought her in January 1964 and gave her to St. Jude's Hospital in Memphis a month later [1].\n\nIn August 1980 she was berthed at San Francisco's Pier 26 when the man running her was arrested in a major drug raid. U.S. Customs seized the vessel and towed her to Treasure Island that September [1][2]. On March 18, 1981, a piling punched through her neglected hull and she sank at her mooring [1]. Navy reservists raised her again. The Navy's history says it took a week; the Potomac Association says two weeks [1][2].\n\nRescue came from across the bay. The Port of Oakland bought her for $15,000 and led a $5 million restoration with organised labour, maritime companies and volunteers [2]. By 1995 she was berthed at the FDR Pier at Jack London Square in Oakland [1].",
+  "people": [
+   {
+    "name": "Franklin D. Roosevelt",
+    "role": "president who used the yacht"
+   },
+   {
+    "name": "Elvis Presley",
+    "role": "owner in 1964"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Potomac's history as Electra, FDR use until 1941, Elvis purchase, 1980 Pier 26 drug raid, Customs tow to Treasure Island, sinking on March 18, 1981, refloating by Navy Reserves, berth at Jack London Square"
+   },
+   {
+    "title": "History",
+    "publisher": "Potomac Association (usspotomac.org)",
+    "year": 2024,
+    "url": "https://www.usspotomac.org/history",
+    "supports": "Seized in 1980 in San Francisco and impounded at Treasure Island, where she sank; refloated by the Navy two weeks later; sold to the Port of Oakland for $15,000; $5 million restoration"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-hoga-pier-1",
+  "title": "A Pearl Harbor tug waits at Pier 1",
+  "theme": "modern-city",
+  "year": 1994,
+  "yearEnd": null,
+  "place": {
+   "label": "Treasure Island Pier 1 area, south-east waterfront (approximate)",
+   "lat": 37.8189,
+   "lon": -122.3646,
+   "precision": "area"
+  },
+  "hook": "On December 7, 1941, the tug Hoga pushed the burning USS Nevada aground. In 1994 she was tied up at Treasure Island, waiting to learn her fate.",
+  "story": "On December 7, 1941, the Navy harbour tug Hoga pushed the burning battleship USS Nevada onto the beach at Pearl Harbor, keeping the main channel clear, and then poured water onto her. She also fought the fires on the USS Arizona as it sank and pulled wounded sailors from the water [1].\n\nIn 1948 she was loaned to the Port of Oakland as a fireboat. Renamed Port of Oakland and later City of Oakland, she spent decades fighting fires on the waterfront [2]. In 1994 she was returned to the Navy and struck from the Naval Register [2]. In December 1994 she was tied up at Treasure Island's Pier 1. The base's historians, writing as their own station closed, described her as the last remaining ship from the attack on Pearl Harbor. A group in Honolulu was trying to buy her and take her back to the scene of her greatest day [1].\n\nThat did not happen. Hoga went into the National Defense Reserve Fleet in Suisun Bay, and in 2005 the Arkansas Inland Maritime Museum was selected to receive her [2]. For a while, though, one of Pearl Harbor's heroes sat among the old piers of a closing base, like the island itself waiting for its future [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island, and their Buildings",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Technical Division for Naval Station Treasure Island (digitised by the Treasure Island Museum)",
+    "year": 1995,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html",
+    "supports": "Hoga's Pearl Harbor actions; berthed at Treasure Island Pier 1 as of December 1994; described as the last remaining ship from the attack; Honolulu group's purchase effort"
+   },
+   {
+    "title": "Pearl Harbor Survivor: Tugboat ex-USS Hoga (YT 146)",
+    "publisher": "Naval Historical Foundation",
+    "year": 2012,
+    "url": "https://www.navyhistory.org/2012/12/pearl-harbor-survivor-tugboat-uss-hoga/",
+    "supports": "Loaned to the Port of Oakland in 1948; renamed Port of Oakland and City of Oakland; decades as a fireboat; returned to the Navy in 1994, struck and placed in reserve at Suisun Bay; Arkansas Inland Maritime Museum selected in 2005"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-2p-ybi-evictions",
+  "title": "Forty households told to leave the hill",
+  "theme": "civil-rights",
+  "year": 2015,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Navy housing, Forest Road area, Yerba Buena Island",
+   "lat": 37.81052,
+   "lon": -122.36715,
+   "precision": "area"
+  },
+  "hook": "Residents who had keys to each other's homes were offered about $5,000 to leave Yerba Buena Island. Some came to City Hall in hazmat suits.",
+  "story": "After the Navy handed Yerba Buena Island to San Francisco in 2007, a small community grew up in the old Navy housing on the hill [1]. By 2015 it was about 40 households, roughly 100 people. That summer the city told them to leave to make way for the long-planned redevelopment. They could take roughly $5,000 and move off the island, or move into an apartment on Treasure Island, and they had until September to choose [1].\n\nResidents protested at City Hall. Betty Mackey, who had lived on the island for 11 years, said neighbours were so close that many had keys to each other's homes. She said their community would be torn down for \"exclusive luxury homes for the ultra-rich\" [1]. Some protesters wore white hazmat suits to show what they thought moving onto Treasure Island's contaminated soil would take. Their signs read \"No Luxury Island For The Rich\" and \"Public Land for Public Hands\" [1].\n\nThe evictions went ahead. About a third of the households took the payment and left; about two-thirds moved to Treasure Island [2]. In June 2019 the developer Wilson Meany began building 266 condominiums on Yerba Buena Island, only 14 of them below market rate [2].",
+  "people": [
+   {
+    "name": "Betty Mackey",
+    "role": "Yerba Buena Island resident of 11 years"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Yerba Buena Island residents fight against evictions prompted by development",
+    "publisher": "The Mercury News (Bay City News)",
+    "year": 2015,
+    "url": "https://www.mercurynews.com/2015/07/24/yerba-buena-island-residents-fight-against-evictions-prompted-by-development/",
+    "supports": "40 households and about 100 people; $5,000 or relocation offer; September deadline; Betty Mackey's quotes; hazmat suits and protest signs; 2007 Navy handover"
+   },
+   {
+    "title": "Development on SF's Yerba Buena Island an early step in Treasure Island project",
+    "publisher": "San Francisco Chronicle (J.K. Dineen)",
+    "year": 2019,
+    "url": "https://www.sfchronicle.com/bayarea/article/New-development-on-SF-s-Yerba-Buena-Island-13969736.php",
+    "supports": "About 40 households evicted in 2015; one-third took payment, two-thirds moved to Treasure Island; 266 condos begun June 2019 with 14 below-market units"
+   }
+  ],
+  "photo": null
+ }
+]

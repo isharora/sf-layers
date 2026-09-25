@@ -1,0 +1,563 @@
+[
+  {
+    "id": "oceanview-merced-ingleside-2q-broad-street-firehouse",
+    "title": "The Firehouse That Lost Its Hose Tower",
+    "theme": "architecture-landmarks",
+    "year": 1896,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Engine Co. 33 firehouse, 117 Broad Street",
+      "lat": 37.71290451981785,
+      "lon": -122.45675050141901,
+      "precision": "building"
+    },
+    "hook": "Ocean View's 1896 firehouse was built for horses and a steam engine. Decades later, Muni drivers still had keys to its bathroom.",
+    "story": "In April 1896 the Call cheered that the Supervisors had just finished a $5,000 house for an engine and hose cart in Ocean View, to be occupied the next day by a brand-new engine. With a new water main from Lake Merced, the paper said, residents now had water 'for all purposes' [1]. The building still stands at 117 Broad Street. The OMI historic context statement lists it as the 1896 Engine Co. No. 33 firehouse, designed by architect Charles R. Wilson [2]. Its crew covered a huge, thinly built district. When fire broke out on Francis Street in February 1897, the district engineer telephoned Ocean View to 'start out engine 33', and the steamer had three miles of rain-worn roads to cover [3]. The firehouse had a stable for the horses. Its tower held no bell: firemen hung hoses up it to dry [4]. Western Neighborhoods Project historians say friends bought the building from the city in the early 1970s and found that every streetcar driver on the passing M line had a key and dropped in to use the bathroom. A later owner removed the hose tower. That, David Gallagher said, was 'like cutting the mustache off of Teddy Roosevelt' [4].",
+    "people": [
+      {
+        "name": "Charles R. Wilson",
+        "role": "architect"
+      },
+      {
+        "name": "David Gallagher",
+        "role": "Western Neighborhoods Project historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Call, 'Ocean View Progress,' April 5, 1896, p. 18",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1896,
+        "url": "https://www.loc.gov/resource/sn85066387/1896-04-05/ed-1/?sp=18",
+        "supports": "$5,000 engine house just completed; new engine and hose cart; water main from Lake Merced"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "117 Broad Street, Engine Co. #33, built 1896, Charles R. Wilson architect"
+      },
+      {
+        "title": "San Francisco Call, fire report, February 3, 1897, p. 16",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1897,
+        "url": "https://www.loc.gov/resource/sn85066387/1897-02-03/ed-1/?sp=16",
+        "supports": "Engine 33 called from Ocean View; three miles of roads"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 25: Oceanview (transcript)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2013,
+        "url": "https://www.outsidelands.org/podcast/WNP25_Ocean_View",
+        "supports": "Stable, hose-drying tower, 1970s sale, Muni drivers' keys, tower removed"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-frog-pond",
+    "title": "Frogs' Legs From the Village Pond",
+    "theme": "parks-nature",
+    "year": 1896,
+    "yearEnd": null,
+    "place": {
+      "label": "Old Ocean View village centre near Sagamore Street and Plymouth Avenue (pond site approximate)",
+      "lat": 37.7122,
+      "lon": -122.4575,
+      "precision": "area"
+    },
+    "hook": "Before houses filled Ocean View, a pond in the middle of the village supplied San Francisco's French colony with frogs' legs.",
+    "story": "Ocean View began as a scatter of homes around a railroad stop that locals first called San Miguel [1][2]. In April 1896, a Call article on 'Ocean View Progress' paused over one old feature that still sat in the centre of the settlement: a pond that 'has in the past supplied the French colony with frogs' legs' [1]. The paper said the 'nice, fat batrachians' had made San Miguel the favourite haunt of 'the unfortunate frog-catcher, Jennie Bonnet'. It recalled that she had been shot through a window about twenty years earlier while sharing a bottle of wine with a companion, and that the house where she died still stood [1]. The same article boasted that Ocean View was 'the choicest of sections about the City for the growth of wild flowers' [1]. More than a century later, Western Neighborhoods Project historians described a brackish pond where people caught frogs to sell to French restaurants downtown. David Gallagher suggested it might have fed the arroyo that now runs along Brotherhood Way; that is a guess, not a documented fact [3]. It was a different pond from 'Lake Geneva', the spring-fed source of Islais Creek farther east near Geneva Avenue [2][3].",
+    "people": [
+      {
+        "name": "Jennie Bonnet",
+        "role": "frog-catcher, killed about 1876"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Call, 'Ocean View Progress,' April 5, 1896, p. 18",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1896,
+        "url": "https://www.loc.gov/resource/sn85066387/1896-04-05/ed-1/?sp=18",
+        "supports": "Pond supplied the French colony with frogs' legs; Jennie Bonnet; wildflowers"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "San Miguel station and settlement names; Lake Geneva as a source of Islais Creek"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 25: Oceanview (transcript)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2013,
+        "url": "https://www.outsidelands.org/podcast/WNP25_Ocean_View",
+        "supports": "Frog pond, frogs sold to French restaurants; possible link to Brotherhood Way arroyo"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-sadowa-windmill-feud",
+    "title": "A Windmill Feud on Sadowa Street",
+    "theme": "gold-rush-victorian",
+    "year": 1904,
+    "yearEnd": null,
+    "place": {
+      "label": "131 Sadowa Street",
+      "lat": 37.7120533379738,
+      "lon": -122.45705304617992,
+      "precision": "building"
+    },
+    "hook": "In 1904 Ocean View's water came from backyard windmills. One owner turned off a neighbour's supply over a broken window.",
+    "story": "In 1900 Ocean View had only about 200 buildings. A typical lot held a small house with a windmill or water tank beside it [1]. Some residents drew water from a neighbour's pump, which could go badly wrong. In September 1904 Andrew Douglas of 131 Sadowa Street and William Wells of 137 Sadowa came before Police Judge Mogan on a charge of disturbing the peace. Patrolmen King and Cronin had needed five minutes to pull the two men apart [2]. According to the testimony, Douglas owned a windmill pump that supplied several Sadowa Street homes. Small boys had broken a window in the house where Wells lived, which belonged to Douglas's mother-in-law, Mrs. Condon. Each side said the other should pay for the glass, so Douglas cut off the Wells family's water [2]. Wells said it was 'the principle of the thing'. The judge told the men they reminded him of 'the obstinate characters in a New England rural drama', and dismissed the case [2]. A 1905 advertisement for a new cottage at 272 Sadowa listed a barn, stables, chicken houses, 'windmill, tank' [3]. Water mains came in the 1920s. No Ocean View windmill is known to survive [1].",
+    "people": [
+      {
+        "name": "Andrew Douglas",
+        "role": "windmill owner, 131 Sadowa St."
+      },
+      {
+        "name": "William Wells",
+        "role": "neighbour, 137 Sadowa St."
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "About 200 buildings in 1900; windmills and tanks on lots; 1920s water mains; none known to survive"
+      },
+      {
+        "title": "San Francisco Call, police court report, September 29, 1904, p. 9",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1904,
+        "url": "https://www.loc.gov/resource/sn85066387/1904-09-29/ed-1/?sp=9",
+        "supports": "Douglas-Wells fight, windmill pump, broken window, judge's remarks"
+      },
+      {
+        "title": "San Francisco Call, classified advertisement, April 30, 1905, p. 41",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1905,
+        "url": "https://www.loc.gov/resource/sn85066387/1905-04-30/ed-1/?sp=41",
+        "supports": "272 Sadowa cottage with barn, stables, chicken-houses, windmill, tank"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-ocean-shore-cut",
+    "title": "Reach the Beaches: A Railroad in a Trench",
+    "theme": "labor-industry",
+    "year": 1905,
+    "yearEnd": 1920,
+    "place": {
+      "label": "Alemany Boulevard beside Sagamore Street (old Ocean Shore Railroad cut)",
+      "lat": 37.711177367611306,
+      "lon": -122.45632625999554,
+      "precision": "street"
+    },
+    "hook": "A grand electric railroad to Santa Cruz dug a trench through Ocean View. The trains are long gone, but the trench became Alemany Boulevard.",
+    "story": "The Ocean Shore Railway was incorporated on May 18, 1905. It planned a 1,500-volt electric, double-track line between San Francisco and Santa Cruz, and construction began that September [1]. Its San Francisco route ran from 12th and Mission Streets through what is now Alemany Boulevard, partly alongside the Southern Pacific tracks through Ocean View [2]. A photograph dated April 3, 1906, shows a steam shovel mounted on a rail car, digging a cut under the United Railroads streetcar tracks near today's Alemany Boulevard and Sickles Avenue. The company's slogan invited city people to 'Reach the Beaches' [3]. The 1906 earthquake sent parts of the coastal roadbed and equipment into the Pacific. The line never reached Santa Cruz and ran as two separate pieces, the northern one ending at Tunitas Glen. The company filed for bankruptcy in 1909, and mainline service was abandoned in 1920 after a labour walkout [1]. The OMI context statement judges that it had 'minimal impact' on the neighbourhood [2]. Its right of way outlived it. A city photograph from February 1926 looks northwest up Sickles from Winnipeg Avenue across the below-grade Ocean Shore cut, captioned as the 'future route of Alemany Boulevard' [4].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Ocean Shore Railroad",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Ocean_Shore_Railroad",
+        "supports": "Incorporation, voltage plan, 1905 start, 1906 damage, Tunitas Glen, 1920 abandonment"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Route from 12th and Mission through present Alemany Boulevard; minimal impact on OMI"
+      },
+      {
+        "title": "Ocean View photos: Ocean Shore Railroad",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/oceanview-photos3.php",
+        "supports": "Steam shovel cut under URR tracks near Alemany and Sickles; 'Reach the Beaches'"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 65: Death's Crossing (photo caption)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2014,
+        "url": "https://www.outsidelands.org/podcast/WNP65_OceanView_Railroads",
+        "supports": "Below-grade Ocean Shore cut, future route of Alemany Boulevard"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-five-cent-fare-lots",
+    "title": "Two Rooms, a Lot and $20 a Month",
+    "theme": "quake1906",
+    "year": 1907,
+    "yearEnd": 1910,
+    "place": {
+      "label": "Lakeview Avenue near San Jose Avenue (Columbia Heights sales tracts)",
+      "lat": 37.716786,
+      "lon": -122.451789,
+      "precision": "street"
+    },
+    "hook": "After the 1906 disaster, agents sold Ocean View as the cheapest land inside the nickel fare. Two plastered rooms and a lot cost $925.",
+    "story": "The 1906 earthquake and fire sent thousands of working families to the city's edges. Ocean View grew from 206 buildings in 1900 to 916 by 1915 [1]. The classified pages show how it was sold. In September 1907, Heagerty's real estate office, 'directly opposite' the Ocean View depot, offered 'the cheapest lots in San Francisco': $225 to $350, with $10 down and $5 a month. Buyers could 'keep within the 5c car fare limit' and enjoy 'all the pleasures of the country and benefits of the city' [2]. By 1910 Rivers Bros. of Montgomery Street were advertising ready-built homes. A 'new, neat, 2 room, plastered cottage', including a 25-by-100-foot lot, cost $925: $50 down and $20 a month without interest. Buyers were told to take the Guerrero Street car 'marked Ocean View' to Lakeview Avenue [3]. The Western Neighborhoods Project preserves a broadsheet for the Rivers Tract of Columbia Heights, the small subdivision along San Jose Avenue [4]. Not every new home came from a builder. Refugee cottages from the relief camps were hauled onto empty lots and joined together as starter homes [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Building counts 1900 and 1915; refugee cottages as starter homes"
+      },
+      {
+        "title": "San Francisco Call, classified advertisement, September 5, 1907, p. 12",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1907,
+        "url": "https://www.loc.gov/resource/sn85066387/1907-09-05/ed-1/?sp=12",
+        "supports": "Heagerty's lots at Ocean View: $225-350, $10 down, $5 a month, 5c fare limit"
+      },
+      {
+        "title": "San Francisco Call, classified advertisement, November 6, 1910, p. 61",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1910,
+        "url": "https://www.loc.gov/resource/sn85066387/1910-11-06/ed-1/?sp=61",
+        "supports": "Rivers Bros. 2-room plastered cottage and lot, $925; Ocean View car to Lakeview Av."
+      },
+      {
+        "title": "Outside Lands Podcast Episode 311: Columbia Heights",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/podcast/WNP311_Columbia_Heights",
+        "supports": "Broadsheet for the Rivers Tract of Columbia Heights along San Jose Avenue"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-farragut-school",
+    "title": "The Concrete School That Vanished",
+    "theme": "architecture-landmarks",
+    "year": 1910,
+    "yearEnd": 1911,
+    "place": {
+      "label": "Site of Farragut School, on the Holloway Avenue block between Capitol and Faxon Avenues",
+      "lat": 37.72143,
+      "lon": -122.45967,
+      "precision": "block"
+    },
+    "hook": "The Ingleside's improvement club pushed through a ten-room concrete school in 1910. Neighbours dedicated it with flags and songs. Then it disappeared.",
+    "story": "Refugees arrived after 1906 and the Ingleside's population grew roughly fivefold. The neighbourhood needed a school [1]. The Ingleside Improvement Club laid the cornerstone of the new Farragut School on April 17, 1910, joined by the district's fraternal, social and religious groups. That September the Call described the ten-room concrete building, nearly finished, as a monument to the club's 'enterprise and insistence' [2]. It was dedicated in March 1911 at Capitol and Faxon Avenues, under the Citizens' Promotion Association of Lakeview. The Mothers' Club of Ingleside presented a flag and the pupils sang patriotic songs [3]. The chairman of the day was Thomas P. Degnan, president of the promotion association, and the orator was Frederick J. Churchill of the Mission Promotion Association [3]. The school the clubs fought for did not last. The context statement records that Farragut School is no longer standing, and that some of the Ingleside's few multi-family buildings now stand on its former site [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Ingleside population growth; Farragut built 1910, no longer extant; multi-family buildings on its former site"
+      },
+      {
+        "title": "San Francisco Call, 'Improvement clubs' report, September 3, 1910, p. 8",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1910,
+        "url": "https://www.loc.gov/resource/sn85066387/1910-09-03/ed-1/?sp=8",
+        "supports": "Cornerstone April 17, 1910 by Ingleside Improvement Club; ten-room concrete structure"
+      },
+      {
+        "title": "San Francisco Call, 'Farragut School to Be Dedicated Today,' March 12, 1911, p. 43",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1911,
+        "url": "https://www.loc.gov/resource/sn85066387/1911-03-12/ed-1/?sp=43",
+        "supports": "Dedication at Capitol and Faxon avenues; Citizens' Promotion Association of Lakeview; Mothers' Club flag; Degnan and Churchill"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-oldest-houses",
+    "title": "Ocean View's Oldest Houses Hide in Plain Sight",
+    "theme": "gold-rush-victorian",
+    "year": 1878,
+    "yearEnd": 1904,
+    "place": {
+      "label": "215 Randolph Street",
+      "lat": 37.7140730925137,
+      "lon": -122.46471817301475,
+      "precision": "building"
+    },
+    "hook": "A Stick-style house on Randolph Street may date from about 1878, when Ocean View was a homestead scheme with more lots than people.",
+    "story": "Ocean View was mapped in the 1860s and 1870 by homestead associations, but it filled slowly. By 1900 it still had only about 200 buildings [1]. A few from that thin early period survive. The OMI historic context statement singles out 215 Randolph Street, a Stick-style house built around 1878, as an example of pre-1906 Ocean View [1]. The authors think the district's oldest surviving buildings date from the 1870s and may be tied to the homestead associations or the vanished railroad station. They add that no survey of the area's buildings has been done to confirm it [1]. The statement also points to four Victorians on Broad Street that got Spring Valley water service in the 1890s, and to 222 Plymouth Avenue, built in 1904 [1]. Western Neighborhoods Project historian David Gallagher called 222 Plymouth 'kind of a farmhouse that sits on the corner', behind a fence at Plymouth and Broad [2]. Woody LaBounty suggested why such houses survive: in overlooked neighbourhoods that 'haven't become trendy', old buildings are rarely restored or renovated away [2]. Because pre-1906 buildings are so rare in Ocean View, the context statement argues they deserve extra consideration even when altered [1].",
+    "people": [
+      {
+        "name": "David Gallagher",
+        "role": "Western Neighborhoods Project historian"
+      },
+      {
+        "name": "Woody LaBounty",
+        "role": "Western Neighborhoods Project historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "215 Randolph c.1878 Stick style; Broad St Victorians; 222 Plymouth 1904; building counts; significance criteria"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 25: Oceanview (transcript)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2013,
+        "url": "https://www.outsidelands.org/podcast/WNP25_Ocean_View",
+        "supports": "222 Plymouth farmhouse built 1904; why ignored neighbourhoods keep old buildings"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-lakeview-name",
+    "title": "How Lakeview Lost and Found Its Name",
+    "theme": "communities",
+    "year": 1890,
+    "yearEnd": null,
+    "place": {
+      "label": "Lakeview Avenue near Plymouth Avenue, crest of the ridge",
+      "lat": 37.718032,
+      "lon": -122.456511,
+      "precision": "street"
+    },
+    "hook": "Adolph Sutro named a tract 'Lakeview' in 1890. The name vanished, then decades later reappeared a hill away, and nobody agrees why.",
+    "story": "In 1890 Adolph Sutro subdivided his land south of the old Ocean Road, which he liked to call 'Grand Ocean Boulevard'. He named the tract 'Lakeview' [1][2]. Its grid, from Ashton to Harold Avenue and from Ocean Avenue up to Lakeview Avenue, is still the Ingleside's street plan [1]. Sutro turned down the name 'Ingleside City', but it won anyway. Locals named the area after Cornelius Stagg's Ingleside Inn, and after the Ingleside Racetrack opened in 1895, 'Lakeview' survived only on some official maps [1][2]. Then the name came back somewhere else. According to the OMI context statement, the African American community revived 'Lakeview', and many residents still use it for Ocean View, south of the ridge [2]. Sources disagree about the origin. Woody LaBounty of the Western Neighborhoods Project thought residents took it, perhaps in the 1960s, from Lakeview Avenue along the crest of the hill [3]. Wikipedia's Oceanview article says instead that it recalls the vanished Lake Geneva to the east, not Lake Merced [4]. Either way, a developer's 1890 label now belongs to a neighbourhood Sutro never planned.",
+    "people": [
+      {
+        "name": "Adolph Sutro",
+        "role": "landowner and developer"
+      },
+      {
+        "name": "Cornelius Stagg",
+        "role": "keeper of the Ingleside Inn"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Naming the Ingleside",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/ingleside-name.php",
+        "supports": "Sutro's 1890 Lakeview tract and grid; Stagg's Ingleside Inn; name spread"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Grand Ocean Boulevard; Lakeview name succumbed to Ingleside; resurrected by African-American community for Ocean View"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 25: Oceanview (transcript)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2013,
+        "url": "https://www.outsidelands.org/podcast/WNP25_Ocean_View",
+        "supports": "Lakeview name taken from Lakeview Avenue, perhaps in the 1960s"
+      },
+      {
+        "title": "Oceanview, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Oceanview,_San_Francisco",
+        "supports": "Claim that Lakeview refers to former Lake Geneva"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-ingleside-heights",
+    "title": "Ingleside Heights: A Name Borrowed From Next Door",
+    "theme": "architecture-landmarks",
+    "year": 1911,
+    "yearEnd": 1914,
+    "place": {
+      "label": "146 Beverly Street",
+      "lat": 37.71873481432748,
+      "lon": -122.47136836165934,
+      "precision": "building"
+    },
+    "hook": "When a fancy residence park rose on the old racetrack, the humble slope next door rebranded itself. A 1914 house still stands among 1940s neighbours.",
+    "story": "For decades the west end of Merced Heights was open hillside, laid out on paper in 1870 by the City Land Association but reached by few roads [1]. In July 1911 the Call reported that owners in the City Land tract 'on the south of the Ingleside track' were about to start street work 'on an extensive scale'. It called the slope, overlooking Lake Merced and the ocean, 'one of the most sightly locations in the city' [2]. In 1912 the Ingleside Terraces residence park began rising on the old racetrack next door. Real estate salesmen and residents started calling the slope 'Ingleside Heights' [1]. The context statement, which ties the name to the builders of the post-war years, says it was presumably meant to add cachet, although the houses, materials and street plan matched other Merced Heights blocks [3]. Residents lobbied for basic services, including water, and in the 1920s builders began filling the blocks south of Holloway Avenue with Sunset-style stucco houses [1]. Most of the hill waited until after World War II. The context statement's example is 146 Beverly Street, built in 1914 and now surrounded by houses from the 1940s [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Merced Heights",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/merced_heights.php",
+        "supports": "City Land 1870 map; 'Ingleside Heights' name after 1912; lobbying for water; 1920s stucco houses"
+      },
+      {
+        "title": "San Francisco Call, real estate report, July 1, 1911, p. 17",
+        "publisher": "Library of Congress, Chronicling America",
+        "year": 1911,
+        "url": "https://www.loc.gov/resource/sn85066387/1911-07-01/ed-1/?sp=17",
+        "supports": "City Land association tract south of the Ingleside track preparing street work; 'most sightly locations'"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "'Ingleside Heights' used for cachet; 146 Beverly Street built 1914 among 1940s houses"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-bungalow-storefronts",
+    "title": "Storefronts Dressed as Bungalows",
+    "theme": "architecture-landmarks",
+    "year": 1917,
+    "yearEnd": null,
+    "place": {
+      "label": "1524-1532 Ocean Avenue, beside Westwood Park",
+      "lat": 37.72465720396869,
+      "lon": -122.45870690638729,
+      "precision": "building"
+    },
+    "hook": "To sell a new residence park, its developers built shops that looked like the houses and advertised them under a name that left out 'Ingleside'.",
+    "story": "Ocean Avenue began as a muddy road of seasonal roadhouses and saloons. In the 1910s and 1920s, new residence parks north of it changed that: Westwood Park, Balboa Terrace, Westwood Highlands and St. Francis Wood [1]. Their developers helped build shops and community buildings to make their tracts more attractive [1]. Baldwin & Howell, the firm behind Westwood Park, called its 280-acre tract 'a typical Baldwin and Howell product' in the 'high class' tradition of its Presidio Terrace development [2]. In 1917, as the first Westwood Park houses were occupied, long buildings with several storefronts went up beside the tract. They were styled like the bungalows behind them, Craftsman with Colonial and Tudor touches. Examples survive at 1524 and 1532 Ocean Avenue and at 1700-1720 Ocean [1]. The firm's advertisements usually described the shops as being in the 'Westwood District'. The context statement suggests Baldwin & Howell may have wanted to avoid the working-class associations of the name Ingleside [1]. By 1950 every lot on Ocean Avenue from Plymouth to Fairfield was occupied [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Residence parks boosted Ocean Ave; 1917 Craftsman storefronts at 1524, 1532, 1700-1720 Ocean; 'Westwood District' ads; built out by 1950"
+      },
+      {
+        "title": "Westwood Park",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Westwood_Park",
+        "supports": "Baldwin and Howell's description of its 280-acre residence park"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-k-line-brighton",
+    "title": "The K Line's Dead End on Brighton",
+    "theme": "modern-city",
+    "year": 1919,
+    "yearEnd": 1952,
+    "place": {
+      "label": "Brighton Avenue at Grafton Avenue (former K-Ingleside terminal)",
+      "lat": 37.72005,
+      "lon": -122.4551,
+      "precision": "block"
+    },
+    "hook": "The city's streetcars had to pay a rival company to run on Ocean Avenue. For decades the K's terminal was a stub on a quiet side street.",
+    "story": "The Municipal Railway opened its K line through the new Twin Peaks Tunnel on February 3, 1918. But Ocean Avenue already carried the cars of the privately owned United Railroads, successor to the Market Street Railway, which had built a line out Ocean Avenue in just six days in 1895 to serve the new Ingleside Racetrack [1]. That November the city signed the 'Parkside Agreements': Muni cars could use the company's Ocean Avenue track as far as Harold Avenue in exchange for cash and shared maintenance [1]. The K reached Miramar Avenue in February 1919. On May 18, 1919, it was pushed a few blocks further east to Brighton Avenue, then two blocks down Brighton to a stub-end terminal at Grafton Avenue [1]. Entering the 1920s, Ocean Avenue had two streetcar lines serving the fast-growing neighbourhoods [2]. A 1950 photograph in the OMI context statement shows a K car at Brighton and Grafton [2]. After Muni bought the private Market Street Railway, the old route 12 streetcar left Ocean Avenue in April 1945 [1]. On May 18, 1952, the Brighton Avenue trackage was abandoned and replaced by the Phelan Loop near City College, and the quiet side street lost its streetcars [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "K Ingleside",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/K_Ingleside",
+        "supports": "1918 opening; 1895 Ocean Avenue line; Parkside Agreements; 1919 extensions to Miramar and Brighton/Grafton; 1945 route 12 removal; 1952 Phelan Loop"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Two streetcar lines on Ocean Ave in 1920s; 1950 photo of K car at Brighton and Grafton"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-junior-five",
+    "title": "A Neighbourhood Named in the Classifieds",
+    "theme": "architecture-landmarks",
+    "year": 1946,
+    "yearEnd": null,
+    "place": {
+      "label": "400 block of Bright Street, Merced Heights",
+      "lat": 37.71886132849624,
+      "lon": -122.46329892345877,
+      "precision": "block"
+    },
+    "hook": "Before 1946 nobody called this hill 'Merced Heights'. Real estate ads for compact 'Junior 5' houses gave the hill its name.",
+    "story": "For most of its history the ridge between Ocean View and the Ingleside had no single name. Locals called its western summit Kite Hill or Poppy Hill. The rest was lumped in with Lakeview, Ingleside, Columbia Heights or Ocean View [1]. Some streets drawn over its crest on 19th-century maps took eighty years to become more than lines on a map [1]. Then the post-war housing rush arrived. Car ownership made steep hills practical to build on, and builders large and small bought lots [2]. In 1946 the name 'Merced Heights' began appearing in real estate ads for pre-war 'Junior 5' models, compact houses with two bedrooms, a living room and a combined kitchen and dining area [1]. Small-scale builders put up hundreds of one-storey homes over garages on standard 25-by-100-foot lots, much as builders were doing in the Sunset District [2]. Many of the 1946 ads said the owners were moving soon and wanted quick sales, a hint of the white flight that followed. Much of the new housing of the 1950s was sold to African American families [1]. The context statement uses the 400 block of Bright Street as an example [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Merced Heights",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/merced_heights.php",
+        "supports": "Earlier names; streets took 80 years; 1946 'Merced Heights' ads for Junior 5 models; quick-sale ads"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Postwar builders large and small; cars made steep lots feasible; small-scale builders' one-story-over-garage homes on 25x100 lots; 400 block Bright Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2q-ortega-home-school",
+    "title": "A Home School for the Baby Boom",
+    "theme": "modern-city",
+    "year": 1953,
+    "yearEnd": null,
+    "place": {
+      "label": "Jose Ortega Elementary School, 400 Sargent Street",
+      "lat": 37.71636384089729,
+      "lon": -122.46651938447081,
+      "precision": "building"
+    },
+    "hook": "When new houses filled Merced Heights, the city rushed to build a small school just for its youngest children.",
+    "story": "Houses filled the empty hillsides of Merced Heights in the late 1940s and 1950s, and young families came with them [1][2]. As the blocks filled, the city quickly planned a school for the new neighbourhood. The post-war baby boom had overloaded San Francisco's public schools, and the answer was 'home schools': small new campuses for children from kindergarten to third grade [1]. In the fall of 1953 the Ocean View Heights Home School opened at Sargent and Ramsell Streets, with room for 250 pupils [1]. It is now Jose Ortega Elementary School at 400 Sargent Street [1][3]. The new school sat in a neighbourhood that was changing fast. By the early 1960s the single-family houses of Merced Heights were about 65 percent African American-occupied [1]. Today Ortega runs a Mandarin immersion programme, and in 2023 the U.S. Department of Education named it a National Blue Ribbon School, its first [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Merced Heights",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/merced_heights.php",
+        "supports": "Home schools; Ocean View Heights Home School opened fall 1953 at Sargent and Ramsell, 250 pupils; later Jose Ortega; citing Chronicle 1951 and 1953"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+        "publisher": "Western Neighborhoods Project for the SF Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Post-war construction on Merced Heights"
+      },
+      {
+        "title": "Jose Ortega Elementary School",
+        "publisher": "San Francisco Unified School District",
+        "year": 2025,
+        "url": "https://www.sfusd.edu/school/jose-ortega-elementary-school",
+        "supports": "400 Sargent Street; Mandarin Immersion; 2023 National Blue Ribbon"
+      }
+    ],
+    "photo": null
+  }
+]

@@ -1,0 +1,690 @@
+[
+  {
+    "id": "nob-hill-2p-atkinson-house",
+    "title": "A Bible verse over Russian Hill's oldest door",
+    "theme": "architecture-landmarks",
+    "year": 1853,
+    "yearEnd": null,
+    "place": {
+      "label": "Atkinson-Escher House, 1032 Broadway",
+      "lat": 37.7971454,
+      "lon": -122.4143309,
+      "precision": "building"
+    },
+    "hook": "A bricklayer carved a psalm over his door in 1853. His daughter later filled the house with the young bohemians who wrote 'The Purple Cow'.",
+    "story": "Joseph H. Atkinson, a Pennsylvania builder, reached San Francisco around 1850 with his wife and young daughter. In 1853 he built this Italian villa for himself and cut a verse into the stone over the door: \"Except the Lord build the house, they labor in vain that build it\" [1]. In an 1867 photograph a fence encloses perhaps a third of the block, and Broadway below is just a goat path zigzagging up the hill. A spring above Taylor Street still leaks through the asphalt [1]. His daughter Catherine, born about 1845, made the house a haven for young writers and artists, from Mark Twain in the 1860s to Les Jeunes in the 1890s. That circle included Gelett Burgess, Bruce Porter and Willis Polk, who produced the little magazine The Lark. Burgess, author of \"The Purple Cow\", was her cousin and lived in a tiny shack nearby [2]. Polk remodeled the house; the two sources date the work to the 1890s or around 1900 [1][2]. In 1906 neighbours stayed behind and fought the fire with cistern water, buckets, brooms and wet towels, and the house survived [1]. Two Paul cousins later ran a small school here. In 1946 the tugboat king Thomas Crowley bought the house, and his daughter Virginia Crowley Escher's family lived in it until 1976 [1].",
+    "people": [
+      {
+        "name": "Joseph H. Atkinson",
+        "role": "builder and first owner"
+      },
+      {
+        "name": "Catherine Atkinson",
+        "role": "his daughter, host to young artists"
+      },
+      {
+        "name": "Gelett Burgess",
+        "role": "poet, her cousin"
+      },
+      {
+        "name": "Virginia Crowley Escher",
+        "role": "later owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #97: Atkinson-Escher House",
+        "publisher": "NoeHill in San Francisco (quoting the Landmarks Board case report, 1977)",
+        "year": 2011,
+        "url": "https://noehill.com/sf/landmarks/sf097.asp",
+        "supports": "1853 construction, inscription, goat path and spring, 1906 fire fight, Paul school, Crowley and Escher ownership"
+      },
+      {
+        "title": "National Register nomination: Russian Hill–Vallejo Street Crest District",
+        "publisher": "National Park Service",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002289_text",
+        "supports": "Catherine Atkinson's salon, Les Jeunes and The Lark, Burgess as cousin, Polk remodel dated c.1893"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-house-of-the-flag",
+    "title": "A flag, soda siphons and a saved hilltop",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "House of the Flag, 1652-1656 Taylor Street",
+      "lat": 37.7978251,
+      "lon": -122.4134972,
+      "precision": "building"
+    },
+    "hook": "As the 1906 fire climbed Russian Hill, a man dipped his biggest flag at the soldiers below. They ran up the hill and fought with seltzer bottles.",
+    "story": "This shingled house was built in two stages: the lower part in 1864 for the civil engineer Angus McPherson, the upper part in 1903 for Eli T. Shepherd, a lawyer and former U.S. consul in China [2]. Neighbourhood legend says a sea captain built it with Georgia pine brought around the Horn [1]. In April 1906, with the fire closing in, the publisher Edward A. Dakin dipped his largest flag in salute before leaving the house [2]. NoeHill says the flag was raised and lowered three times. That caught the eye of a company of soldiers below, who charged up the hill [1]. They found a bathtub full of water, sand from a mansion being built nearby, and soda-water siphons to squirt into places they couldn't reach [1][2]. A photo caption of the day claimed the flag flew through the whole fire, but that is not what happened [1]. The house and its neighbours survived as an island in the burned city [2]. Two weeks after the fire, Frank \"Pop\" Demerest moved into a cistern on his family's lot at Broadway and Florence. As the \"Hermit of Russian Hill\" he offered cheap quarters to generations of bohemians; his compound survived until the mid-1950s [2].",
+    "people": [
+      {
+        "name": "Edward A. Dakin",
+        "role": "publisher who raised the flag"
+      },
+      {
+        "name": "Eli T. Shepherd",
+        "role": "lawyer who enlarged the house in 1903"
+      },
+      {
+        "name": "Frank W. \"Pop\" Demerest",
+        "role": "the Hermit of Russian Hill"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #46: House of the Flag",
+        "publisher": "NoeHill in San Francisco (quoting Planning Commission Resolution 6809, 1972)",
+        "year": 2011,
+        "url": "https://noehill.com/sf/landmarks/sf046.asp",
+        "supports": "flag salute raised three times, soldiers, bathtub, sand, soda siphons, legend of the caption, sea captain legend"
+      },
+      {
+        "title": "National Register nomination: Russian Hill–Vallejo Street Crest District",
+        "publisher": "National Park Service",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002289_text",
+        "supports": "1864/1903 build dates and owners, Dakin as flag raiser, sand from No. 34, district escaping the fire, Pop Demerest in the cistern"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-vallejo-street-ramps",
+    "title": "The street the neighbours built themselves",
+    "theme": "architecture-landmarks",
+    "year": 1914,
+    "yearEnd": 1915,
+    "place": {
+      "label": "Vallejo Street Improvements, Vallejo Street at Jones",
+      "lat": 37.79795,
+      "lon": -122.415,
+      "precision": "street"
+    },
+    "hook": "The city owned the land, but it was the neighbours who hired Willis Polk to turn its steep crest into balustraded ramps and stairs.",
+    "story": "Horatio Putnam Livermore (1837–1916) was the son of a Maine pioneer who reached California in 1850 and began damming the American River at Folsom. At the end of 1897 H.P. Livermore moved his family to the top of Vallejo Street [1]. The architect Willis Polk had already rented one of Livermore's houses before building his own nearby [1]. In 1912 Livermore began building nine houses. By the time he died four years later people called him the \"Father of Russian Hill\" [2]. For Florence and Jones streets he hired Charles F. Whittlesey, a former Santa Fe Railroad architect from Los Angeles, to design Pueblo- and Mission-style houses [2]. Then came the street itself. In 1914–15 Polk's firm built retaining walls, car ramps and a walk that zigzags down the slope. The City owned the land, but it was the neighbouring owners, organised by Livermore, who commissioned the work. It is one of the very few city-beautification plans Polk ever saw built [1]. Across the district, walls, steps and ramps tame grades of 16, 23 and 40 percent [2]. Livermore's son Norman had Polk design four more houses on Russian Hill Place in 1915 [1].",
+    "people": [
+      {
+        "name": "Horatio Putnam Livermore",
+        "role": "industrialist and developer"
+      },
+      {
+        "name": "Willis Polk",
+        "role": "architect"
+      },
+      {
+        "name": "Norman Banks Livermore",
+        "role": "his son"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register nomination: Russian Hill–Vallejo Street Crest District",
+        "publisher": "National Park Service",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002289_text",
+        "supports": "Livermore family history, move in 1897, Polk as tenant, 1914–15 Vallejo Street Improvements paid for by neighbours, Russian Hill Place houses"
+      },
+      {
+        "title": "National Register #87002289: Russian Hill - Vallejo Street Crest Historic District",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2019,
+        "url": "https://noehill.com/sf/landmarks/nat1987002289.aspx",
+        "supports": "1912 building programme, 'Father of Russian Hill', Whittlesey, grades of 16, 23 and 40 percent"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-wilder-visit",
+    "title": "Laura Ingalls Wilder's room with a view",
+    "theme": "arts-counterculture",
+    "year": 1915,
+    "yearEnd": null,
+    "place": {
+      "label": "Williams-Polk House, 1019 Vallejo Street",
+      "lat": 37.797706,
+      "lon": -122.4142174,
+      "precision": "building"
+    },
+    "hook": "Years before the Little House books, Laura Ingalls Wilder came to stay with her reporter daughter at the very top of Russian Hill.",
+    "story": "Rose Wilder Lane came to San Francisco in 1908 and worked as a telegrapher at the Fairmont Hotel [2]. In early 1915 she took what she meant as a stopgap job at the San Francisco Bulletin, and soon her byline was running every day [2]. Around 1915–16 she rented rooms in the Williams side of a shingled duplex that Willis Polk built in 1892. The widowed painter Dora Norton Williams had paid for it by giving Polk's parents half the building and lot [1]. That year Rose's mother, Laura Ingalls Wilder, came to visit and see the Panama-Pacific Exposition. She was still learning to write; her Little House books would not start appearing until 1932 [1]. Her letters home to her husband Almanzo were published decades later as West From Home. She called the flat \"a dandy little place to live with a fine view from the windows. It is up at the very top of a hill, with the bay in sight\" [1]. She also described the stone stairs that climb inside the Theller retaining wall on Taylor Street, and found \"the little artist girl\" who illustrated her verses living nearby at 1637 Taylor [1]. Rose's diaries suggest she and her husband were separated that year, though her mother's letters don't say so [2].",
+    "people": [
+      {
+        "name": "Laura Ingalls Wilder",
+        "role": "visiting mother, future author"
+      },
+      {
+        "name": "Rose Wilder Lane",
+        "role": "San Francisco Bulletin reporter"
+      },
+      {
+        "name": "Dora Norton Williams",
+        "role": "painter who owned the house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register nomination: Russian Hill–Vallejo Street Crest District",
+        "publisher": "National Park Service",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002289_text",
+        "supports": "Lane as tenant c.1915–16, Wilder's visit and quotes, Williams-Polk house history, Theller wall stairs, 1637 Taylor"
+      },
+      {
+        "title": "Rose Wilder Lane",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Rose_Wilder_Lane",
+        "supports": "Fairmont telegrapher job, 1915 Bulletin job, mother's visit, diaries on separation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-guadalupe-church",
+    "title": "The Spanish Church and Little Mexico's ruins",
+    "theme": "communities",
+    "year": 1875,
+    "yearEnd": 1912,
+    "place": {
+      "label": "Our Lady of Guadalupe Church, 906 Broadway",
+      "lat": 37.7974752,
+      "lon": -122.412375,
+      "precision": "building"
+    },
+    "hook": "Consuls from seven countries helped build the 'mother church' of Spanish-speaking San Francisco. After 1906, families made tortillas inside its burned walls.",
+    "story": "In the early 1870s Spanish-speaking businessmen, most of them Mexican, began raising money for a church of their own. Consuls from Chile, Peru, Nicaragua, Spain, Costa Rica, Colombia and Bolivia joined in, and a Basque hotel owner, Juan Miguel Aguirre, gave a large gift [1]. On August 15, 1875 the cornerstone was laid after a procession that included the Mexican militia clubs the Juarez Guards and Laredo Guards [1]. For five years only the basement stood. The wooden church was dedicated in March 1880, and newspapers called it the \"Spanish Church\" [1]. The 1906 fire left only its masonry walls. Mexican families who had lost their homes moved inside them. In January 1907 the Sunday Call ran a story headlined \"Little Mexico in the Ruins of a Church,\" with photographs of residents making tortillas, cooking on outdoor stoves and hanging out laundry [1]. The church was rebuilt in 1912 by Shea and Lofquist, probably the first church in San Francisco made of reinforced concrete [2]. Through the rebuilding, at least a third of the city's Mexicans lived nearby, in what came to be called \"Barrio Guadalupe.\" From 1924, parishioners serenaded the Virgin with Las Mañanitas, the Mexican birthday song, every December 12 [1].",
+    "people": [
+      {
+        "name": "Juan Miguel Aguirre",
+        "role": "Basque hotelier and donor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "906 Broadway (Our Lady of Guadalupe Church) landmark amendment packet, with Draft Latino Historic Context Statement excerpts",
+        "publisher": "San Francisco Historic Preservation Commission",
+        "year": 2018,
+        "url": "http://commissions.sfplanning.org/hpcpackets/HPC%20Packet%2012.19.18%20-%20906%20Broadway.pdf",
+        "supports": "fundraising, consuls, Aguirre, 1875 cornerstone and procession, 1880 dedication, 'Spanish Church', 1907 Sunday Call story, Barrio Guadalupe, Las Mañanitas"
+      },
+      {
+        "title": "San Francisco Landmark #204: Nuestra Senora de Guadalupe",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf204.asp",
+        "supports": "1912 rebuilding by Shea and Lofquist, probably the city's first reinforced-concrete church"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-hack-temple",
+    "title": "The Imperial March on a nineteenth-century organ",
+    "theme": "modern-city",
+    "year": 2017,
+    "yearEnd": 2024,
+    "place": {
+      "label": "Former Our Lady of Guadalupe Church ('Hack Temple'), 906–908 Broadway",
+      "lat": 37.7973576,
+      "lon": -122.4124991,
+      "precision": "building"
+    },
+    "hook": "The archdiocese closed the old Spanish church in 1992. A Russian venture capitalist bought it and had its historic organ play Darth Vader's theme.",
+    "story": "The Archdiocese closed Our Lady of Guadalupe in 1992. About 5,000 people signed a petition to save it, and the city made it Landmark No. 204 in 1993. In 1994 St. Mary's Chinese School moved in [2]. In November 2016 Pavel Cherkashin, a 44-year-old Russian venture capitalist, bought the neglected church for $7 million. He spent about $3 million more turning it into the \"Hack Temple,\" a space for artists and technologists [1]. At an event in April 2017 the Kazakh prime minister announced a tie-up with Silicon Valley. Blue neon hid the painted angels and saints, and a projector screen partly covered the Last Supper mural. Behind the stage hung Evgeniy Lapchenko's update of Bosch's Garden of Earthly Delights, with Steve Jobs, Tupac Shakur and the Dalai Lama painted in [1]. Then the church's 19th-century pipe organ played for an audience for the first time in two decades. It played \"The Imperial March\" from Star Wars [1]. The organ is an 1888 Hook & Hastings, brought here in 1912 from the First Unitarian Church [2]. The owners defaulted on their loan. In January 2024 the church and its rectory sold for $3.4 million, roughly half of what Cherkashin had paid [3].",
+    "people": [
+      {
+        "name": "Pavel Cherkashin",
+        "role": "venture capitalist and owner"
+      },
+      {
+        "name": "Evgeniy Lapchenko",
+        "role": "painter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A North Beach Catholic Church Is Reborn as a Hacker Temple",
+        "publisher": "SFGATE / San Francisco Magazine",
+        "year": 2017,
+        "url": "https://www.sfgate.com/bayarea/article/A-North-Beach-Catholic-Church-Is-Reborn-as-a-11191827.php",
+        "supports": "$7M purchase, $3M renovation, Hack Temple, April event, Lapchenko painting, organ playing the Imperial March, 1992 closure"
+      },
+      {
+        "title": "Our Lady of Guadalupe Church (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe_Church_(San_Francisco)",
+        "supports": "1993 landmarking and petition, St. Mary's Chinese School, organ history"
+      },
+      {
+        "title": "S.F. 'Hack Temple' sells for half of pre-pandemic value after lender takeover",
+        "publisher": "San Francisco Chronicle",
+        "year": 2024,
+        "url": "https://www.sfchronicle.com/realestate/article/s-f-hack-temple-sells-for-half-18602624.php",
+        "supports": "$3.4 million sale, roughly half the earlier price"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-fireproof-fairmont",
+    "title": "Carrying the art into a 'fireproof' hotel",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Fairmont Hotel lobby, 950 Mason Street, across from the Mark Hopkins Institute of Art",
+      "lat": 37.7921752,
+      "lon": -122.4106719,
+      "precision": "building"
+    },
+    "hook": "Strangers on Nob Hill broke into an art museum to save its treasures, carried them across the street into a 'fireproof' hotel, and watched both burn.",
+    "story": "Charles Kendrick and his wife May lived in an apartment on Pine Street near Leavenworth. During the 1906 fire he joined a small crowd on Nob Hill watching the city burn [1]. A young man named Charles Dickman broke the silence. The Fairmont, he said, had been advertised as the first fireproof building in the West, and right across the street the Mark Hopkins Art Institute held some of the finest art in the world. Why not move it [1]? Half a dozen of them threw their weight against the Institute's door and burst it open. For about two hours they carried paintings, statues, bronzes and ceramics across Mason Street, forced the Fairmont's doors, and piled everything on the lobby floor [1]. It was \"love's labor lost,\" Kendrick wrote. The fire climbed the hill. A week later the Fairmont was gutted to its bones and the art was ash. The heat had even melted parts of the granite, which was later patched with ground granite mixed into cement [1]. The new hotel had changed hands just twelve days before the earthquake. Its interior was destroyed but the shell survived, and the hotel finally opened on April 18, 1907 [2]. Kendrick walked to the foot of Hyde Street and took a ferry to Sausalito [1].",
+    "people": [
+      {
+        "name": "Charles Kendrick",
+        "role": "eyewitness"
+      },
+      {
+        "name": "Charles Dickman",
+        "role": "proposed the rescue"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Charles Kendrick's Eyewitness Account of the 1906 Earthquake",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "http://sfmuseum.org/1906/ew17.html",
+        "supports": "all details of the art rescue, the Fairmont's gutting and melted granite, the ferry"
+      },
+      {
+        "title": "National Register nomination: Fairmont Hotel",
+        "publisher": "National Park Service",
+        "year": 2002,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/02000373_text",
+        "supports": "sale twelve days before the quake, interior destroyed with shell surviving, reopening April 18, 1907"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-sutter-hospital-dynamite",
+    "title": "Carnations in a hospital wired with dynamite",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Sutter Street just east of Van Ness Avenue, the 1906 'doctors' quarter'",
+      "lat": 37.7876,
+      "lon": -122.4212,
+      "precision": "block"
+    },
+    "hook": "A woman ran into an abandoned private hospital to look for patients left behind. She found fresh flowers, oriental rugs, and guncotton under the floor.",
+    "story": "All morning Louise Herrick Wall had heard that the 1906 fire would be stopped at Van Ness Avenue. The plan was to widen that broad street into a firebreak by blowing up the buildings on its east side [1]. She hurried along Sutter Street, which she called a \"doctors' quarter,\" ducking in and out of its abandoned hospitals [1]. Near Van Ness, opposite the white St. Dunstan apartments, she ran into Dr. McNutt's hospital in case a patient had been left behind. It was deserted. Cotton, bandages and instruments had been pulled from the drawers. The private suites still held oriental rugs, brass and carved teak, and a huge bunch of fresh scarlet carnations lay on a table. Guncotton had already been laid under the building. Outside a soldier shouted: \"You are here at your risk. Dynamite!\" [1] Across the avenue, refugees slept on mattresses laid on tables, their \"inverted four-posters\" [1]. Charles Kendrick recalled a swath 100 feet deep blown up along the east side, with owners who refused to leave driven out at bayonet point [2]. He wrote that the fire never crossed Van Ness, but a battalion chief's son recalled two fires burning west of it. Cable cars parked on California Street between Franklin and Hyde were burned down to their wheels and grips [3].",
+    "people": [
+      {
+        "name": "Louise Herrick Wall",
+        "role": "eyewitness"
+      },
+      {
+        "name": "Gen. Frederick Funston",
+        "role": "ordered the dynamiting"
+      }
+    ],
+    "sources": [
+      {
+        "title": "1906 Earthquake Eyewitness Account of Louise Herrick Wall",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "http://sfmuseum.org/1906.2/ew24.html",
+        "supports": "Sutter Street hospitals, McNutt's hospital, carnations, guncotton, soldier's warning, refugees on Van Ness"
+      },
+      {
+        "title": "Charles Kendrick's Eyewitness Account of the 1906 Earthquake",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "http://sfmuseum.org/1906/ew17.html",
+        "supports": "Funston's dynamiting of a 100-foot swath, bayonets, claim that fire never crossed Van Ness"
+      },
+      {
+        "title": "Eyewitness Account of John J. Conlon",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "http://sfmuseum.org/1906/ew10.html",
+        "supports": "fires burning west of Van Ness, burned cable cars on California Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-saint-francis-burn-center",
+    "title": "Five doctors, one fire, and a burn center",
+    "theme": "modern-city",
+    "year": 1967,
+    "yearEnd": null,
+    "place": {
+      "label": "Saint Francis Memorial Hospital (now UCSF Health Hyde Hospital), 900 Hyde Street at Bush",
+      "lat": 37.789582,
+      "lon": -122.4169591,
+      "precision": "building"
+    },
+    "hook": "Five doctors founded Saint Francis in 1905 and lost it to the fire a year later. Rebuilt on Nob Hill, it opened a burn center in 1967.",
+    "story": "In 1905 five San Francisco doctors set out to build \"the most up-to-date modern hospital west of Chicago.\" Despite its name, Saint Francis was never a Catholic hospital [2]. The 1906 fire burned it to the ground. For a while the hospital carried on in Dr. Redmond Payne's home [1], and in 1909 it moved into a former 30-bed hospital on Cole Street [2]. In 1911 it opened a 100-bed building at Bush and Hyde, which was full within ten days [1]. A 200-bed maternity wing followed in 1921, and in 1938 the doctors' for-profit company became a nonprofit association [1]. In 1955 the hospital set aside a four-bed ward for burn patients. After ground was broken in 1965 for a 12-story tower, the Bothin Burn Center opened in 1967 with ten acute-care beds [1], led by Dr. James Macho [2]. Saint Francis added the first hospital-based sports-medicine centre in 1979 [2]. In 2012 it began doubling the burn centre to 20 beds [1]. Since 2024 it has belonged to UCSF Health, and today it is UCSF Health Hyde Hospital [2].",
+    "people": [
+      {
+        "name": "Dr. Redmond Payne",
+        "role": "co-founder whose home sheltered the hospital"
+      },
+      {
+        "name": "Dr. James Macho",
+        "role": "first director of the Bothin Burn Center"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Saint Francis Memorial Hospital: History",
+        "publisher": "Dignity Health (archived)",
+        "year": 2024,
+        "url": "http://web.archive.org/web/20240718123749/https://www.dignityhealth.org/bayarea/locations/saintfrancis/about-us/history",
+        "supports": "1905 founding, 1906 loss, Payne home, 1911 building full in ten days, 1921 wing, 1938 nonprofit, 1955 burn ward, 1965 tower, 1967 Bothin Burn Center, 2012 expansion"
+      },
+      {
+        "title": "UCSF Health Hyde Hospital",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Saint_Francis_Memorial_Hospital",
+        "supports": "'west of Chicago' aim, not Catholic, Cole Street, Dr. Macho, 1979 sports medicine, UCSF rename"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-krotoszyner-offices",
+    "title": "The urologist's brick jewel box",
+    "theme": "architecture-landmarks",
+    "year": 1912,
+    "yearEnd": null,
+    "place": {
+      "label": "Dr. Martin Krotoszyner Medical Offices and Residence, 995-999 Sutter Street at Hyde",
+      "lat": 37.7880644,
+      "lon": -122.4166457,
+      "precision": "building"
+    },
+    "hook": "A German philology student turned ship's surgeon brought the cystoscope to San Francisco, then built one of downtown's finest doctor's office buildings.",
+    "story": "Martin Krotoszyner was born in Ostrowo, Germany, in 1861 and, fluent in Greek and Latin, began studying philology in Berlin to become a teacher. After three semesters he switched to medicine [1]. With his medical degree in hand he answered an advertisement for a ship's surgeon and reached New York in March 1888 [1]. He filled in for a young doctor in Arizona, found frontier life not to his liking, and moved on to Los Angeles, which was just as hot. That autumn he came to San Francisco, where he had relatives, and set up at 43 Sixth Street [1]. After six months of specialist study in Germany in 1893, he is credited with bringing the cystoscope to San Francisco, demonstrating it in 1894 [1]. He became chief urologist at the French Hospital and later at the German (Franklin) Hospital, and at the Polyclinic he \"trained many of the best known urologists in San Francisco\" [1]. In 1911–12 the architect Herman Barth designed this combined office and home for him on the southeast corner of Sutter and Hyde, with a richly mottled brick front [1][2]. The ground floor held his office, reception and examining rooms. The family lived upstairs, staying on after his death in 1918 until 1938 [1]. It is thought the finest of its kind downtown [2].",
+    "people": [
+      {
+        "name": "Dr. Martin M. Krotoszyner",
+        "role": "urologist"
+      },
+      {
+        "name": "Herman Barth",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register nomination: Dr. Martin M. Krotoszyner Medical Offices and Residence",
+        "publisher": "National Park Service",
+        "year": 1985,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/85001784_text",
+        "supports": "biography, cystoscope, hospital posts, 1911–12 construction, layout, family leaving in 1938"
+      },
+      {
+        "title": "National Register #85001784: Dr. Martin M. Krotoszyner Medical Offices and House",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/nat1985001784.asp",
+        "supports": "Herman Barth, masonry surface, finest example of its type downtown"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-womans-athletic-club",
+    "title": "'Such a club could never be a success'",
+    "theme": "communities",
+    "year": 1917,
+    "yearEnd": null,
+    "place": {
+      "label": "Woman's Athletic Club (now Metropolitan Club), 640 Sutter Street",
+      "lat": 37.7891927,
+      "lon": -122.4111222,
+      "precision": "building"
+    },
+    "hook": "A husband scoffed that women couldn't run a club. They built one anyway, with a seawater pool and the city's first indoor tennis court.",
+    "story": "The idea came from Elizabeth Taylor Pillsbury, who had visited the new Woman's Athletic Club of Chicago. From 1912 she and a circle of friends spread it among their friends, and the club was incorporated in 1915 [1]. Its Sutter Street clubhouse by Bliss & Faville, modelled on a Florentine palazzo, opened in 1917. It was the first women's athletic club west of Chicago [1]. The club says it also had the city's first indoor tennis court [2]. Seawater for the pool was pumped in from Ocean Beach under contract with the Olympic Salt Water Company. The Olympic Club sent two huge baskets of American Beauty roses [1]. Not everyone was impressed. The club's historian recorded one member's husband saying \"such a Club could never be a success run by women\" [1]. Seven months in, the Examiner reported a row over a male \"efficiency expert\" brought in to cut a deficit. By autumn the treasurer said the club was paying its way [1]. The 1920 bulletin fined anyone \"caught shampooing in the shower bath\" a dollar [3]. In 1945 members hosted women at the United Nations conference [1]. In 1966 they voted 688 to 184 to become the Metropolitan Club [1].",
+    "people": [
+      {
+        "name": "Elizabeth Taylor Pillsbury",
+        "role": "founding president"
+      },
+      {
+        "name": "Molly Thomas McMullin",
+        "role": "founding vice president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register nomination: Woman's Athletic Club of San Francisco",
+        "publisher": "National Park Service",
+        "year": 2004,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04000955_text",
+        "supports": "founding story, 1917 opening, first west of Chicago, Ocean Beach water, roses, husband's remark, efficiency expert, UN conference, 1966 vote"
+      },
+      {
+        "title": "About Us: The House That Women Built",
+        "publisher": "Metropolitan Club",
+        "year": 2025,
+        "url": "https://www.metropolitanclubsf.org/about-us",
+        "supports": "1915 founding, first indoor tennis court, founders' names"
+      },
+      {
+        "title": "In Our Rear View Mirror",
+        "publisher": "640 Heritage Preservation Foundation",
+        "year": 2024,
+        "url": "https://640hpf.org/in-our-rear-view-mirror/",
+        "supports": "1920 shampoo fine"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-marines-memorial",
+    "title": "A women's club becomes a living memorial",
+    "theme": "war-military",
+    "year": 1946,
+    "yearEnd": null,
+    "place": {
+      "label": "Marines' Memorial Club (former Western Women's Club), 609 Sutter Street at Mason",
+      "lat": 37.7888745,
+      "lon": -122.4104972,
+      "precision": "building"
+    },
+    "hook": "The Marine Corps wanted a 'living memorial' to its Pacific war dead. A group of Marines found one in a women's clubhouse off Union Square.",
+    "story": "In 1926 Bliss & Faville, the firm that designed the Woman's Athletic Club across the street, finished a 12-storey Beaux-Arts tower on this corner for the Western Women's Club [1][2]. Its theatre carried national radio broadcasts by Bob Hope, Jack Benny and Frank Sinatra [2]. Early in 1946 the Commandant of the Marine Corps, Gen. Alexander Vandegrift, decided to create a \"living memorial\" to the Marines who had died in the Pacific, and to put it in San Francisco [3]. A group of Marines set out to buy a building a block off Union Square. After months of planning they found the money, and the club opened on November 10, 1946, the Marine Corps' birthday [3]. Some accounts date the purchase to 1947 [1][2]. Today membership is open to veterans of every branch [2]. The theatre went on to house the San Francisco Actor's Workshop and was the first home of the American Conservatory Theater [2]. The lobby displays the bell of the cruiser USS San Francisco, and a Tribute Wall remembers Americans killed in Iraq and Afghanistan [2].",
+    "people": [
+      {
+        "name": "Gen. Alexander A. Vandegrift",
+        "role": "Commandant of the Marine Corps"
+      }
+    ],
+    "sources": [
+      {
+        "title": "In Our Rear View Mirror",
+        "publisher": "640 Heritage Preservation Foundation",
+        "year": 2024,
+        "url": "https://640hpf.org/in-our-rear-view-mirror/",
+        "supports": "1926 Western Women's Club by Bliss & Faville, purchase by Marines dated 1947"
+      },
+      {
+        "title": "Marines' Memorial Club",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Marines%27_Memorial_Club",
+        "supports": "theatre history, radio broadcasts, Actor's Workshop, ACT, ship's bell, Tribute Wall, membership"
+      },
+      {
+        "title": "A Living Memorial",
+        "publisher": "Marines' Memorial Association (archived)",
+        "year": 2009,
+        "url": "http://web.archive.org/web/20090220205135/http://marineclub.com:80/about.htm",
+        "supports": "Vandegrift's 1946 decision, purchase near Union Square, opening November 10, 1946"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-bohemian-club",
+    "title": "Weaving spiders come not here",
+    "theme": "arts-counterculture",
+    "year": 1934,
+    "yearEnd": null,
+    "place": {
+      "label": "Bohemian Club city clubhouse, 624 Taylor Street at Post",
+      "lat": 37.7882474,
+      "lon": -122.4114717,
+      "precision": "building"
+    },
+    "hook": "Newspapermen founded it in 1872. It once paid a woman poet as its librarian, then banned women from its clubhouse for 23 years.",
+    "story": "The Bohemian Club began in 1872 as an informal gathering of journalists, artists and writers at the home of the Chronicle writer James Bowman. Seventeen of its 24 charter members worked for newspapers or printers [1]. Journalists were to be the regular members, with artists and musicians as honorary members. The rules were eventually relaxed to let in men with deeper pockets [1]. The poet Ina Coolbrith worked part-time as the club's librarian from 1899, for $50 a month [3]. Yet women were banned from the clubhouse entirely from 1910 to 1933 [1]. The club has long stood at Post and Taylor, on the same block as the Olympic Club [2]. Over the Taylor Street door perches its owl, circled by the motto \"Weaving Spiders Come Not Here,\" from A Midsummer Night's Dream. The idea is that outside business stays outside [2]. On the wall is Jo Mora's bronze memorial to Bret Harte, dedicated on August 15, 1919, with fifteen characters from Harte's stories. When the old clubhouse was torn down the relief came off. In 1934 it went up again on the building that stands today [2]. Membership is still for men only [2].",
+    "people": [
+      {
+        "name": "James Bowman",
+        "role": "Chronicle writer and co-founder"
+      },
+      {
+        "name": "Jo Mora",
+        "role": "sculptor of the Bret Harte memorial"
+      },
+      {
+        "name": "Ina Coolbrith",
+        "role": "club librarian from 1899"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Guide to the Bohemian Club Collection, 1872-2009",
+        "publisher": "San Francisco Public Library via Online Archive of California",
+        "year": 2010,
+        "url": "https://oac.cdlib.org/findaid/ark:/13030/c84q829w/",
+        "supports": "1872 founding at Bowman's home, 17 of 24 charter members in newspapers, membership rules, women banned 1910–1933"
+      },
+      {
+        "title": "Bohemian Club",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Bohemian_Club",
+        "supports": "clubhouse location and 1934 building, owl and motto, Bret Harte relief details, men-only membership"
+      },
+      {
+        "title": "Ina Coolbrith",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Ina_Coolbrith",
+        "supports": "librarian post from January 1899 at $50 a month"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-ntouch-protest",
+    "title": "Three forms of ID at the N'Touch",
+    "theme": "lgbtq",
+    "year": 1981,
+    "yearEnd": null,
+    "place": {
+      "label": "Former N'Touch bar, 1548 Polk Street",
+      "lat": 37.7913546,
+      "lon": -122.4205847,
+      "precision": "building"
+    },
+    "hook": "When a Polk Street disco popular with gay Asian men began demanding three IDs from Asian customers, the protests outside launched a movement.",
+    "story": "The N'Touch opened at 1548 Polk Street in 1974 and lasted until 2008. It was a bar and disco for Asian men in their twenties and thirties, owned by Bill Bentley [2]. One review noted that white patrons were \"as often objects of desire as they were dismissed as 'rice queens'\" [2]. When the Gay Asian Support Group, apparently the city's first formal Asian American LGBTQ group, held disco dances at the Gay Community Center on Page Street, the N'Touch supplied the music [1]. Then in 1981 the bar suddenly began requiring Asian and Pacific Islander customers to show three forms of ID. After several nights of protest outside, activists founded the Association of Lesbian and Gay Asians [1]. ALGA published a monthly newsletter, held meetings with guest speakers, and organised social and cultural events [1]. The story came full circle. In 1986, ALGA's last known year, it held a black-tie benefit for the San Francisco AIDS Foundation back at the N'Touch, which had reopened and was once again welcoming to Asian patrons [1]. The space is now the Kozy Kar [2].",
+    "people": [
+      {
+        "name": "Bill Bentley",
+        "role": "owner of the N'Touch"
+      },
+      {
+        "name": "Tamara Ching",
+        "role": "transgender activist in the Gay Asian Support Group"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "N'Touch's Asian clientele, GASG dances, 1981 ID policy and protests, ALGA founding and activities, 1986 benefit"
+      },
+      {
+        "title": "Polk Gulch LGBTQI History: A Walking Tour (Nan Alamilla Boyd)",
+        "publisher": "FoundSF",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=Polk_Gulch_LGBTQI_History",
+        "supports": "1974–2008 dates, owner, review quote, Renegade name, current Kozy Kar"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-2p-kimos-etvc",
+    "title": "Out of the backyard, into Kimo's",
+    "theme": "lgbtq",
+    "year": 1982,
+    "yearEnd": 2011,
+    "place": {
+      "label": "Former Kimo's, 1351 Polk Street at Pine",
+      "lat": 37.7894139,
+      "lon": -122.420605,
+      "precision": "building"
+    },
+    "hook": "A group of transgender friends decided to stop meeting in private backyards. They picked a Polk Street tiki bar.",
+    "story": "Kime Cochran opened Kimo's as a gay tiki bar at Polk and Pine in 1978 [2]. A few years later it became part of a quieter revolution. In the early 1980s a small group of friends formed the Educational TV Channel, or ETVC, to end the isolation most transgender people lived with. The group dates its start to 1982; the city's LGBTQ history puts its first monthly socials in 1983 [1][3]. At first they met in members' homes and backyards, such as that of the founder Joanie Sheldon. Then they did something almost unheard of: they held their gatherings in public venues, including Chez Mollet South of Market and Kimo's, to make transgender people visible [1][3]. By 1989 ETVC had more than 400 members. It became a nonprofit in 1994 and backed the transgender civil-rights ordinance the Board of Supervisors passed late that year. In 1998 it renamed itself TransGender San Francisco [3]. As AIDS devastated Polk Street in the 1980s, Kimo's moved from drag shows to rock. Metallica played there in 2002 under the name Spun. When it closed in 2011 it was known as a gay- and trans-friendly grunge haven [2].",
+    "people": [
+      {
+        "name": "Kime Cochran",
+        "role": "founder of Kimo's"
+      },
+      {
+        "name": "Joanie Sheldon",
+        "role": "ETVC founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "ETVC monthly events from 1983, move from homes to Chez Mollet and Kimo's for visibility"
+      },
+      {
+        "title": "Polk Gulch LGBTQI History: A Walking Tour (Nan Alamilla Boyd)",
+        "publisher": "FoundSF",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=Polk_Gulch_LGBTQI_History",
+        "supports": "1978 founding by Kime Cochran, drag-to-rock shift, Metallica as Spun, 2011 closure"
+      },
+      {
+        "title": "TGSF History",
+        "publisher": "TransGender San Francisco (archived)",
+        "year": 2015,
+        "url": "http://web.archive.org/web/20150222180421/http://tgsf.org/history/",
+        "supports": "1982 formation, Joanie Sheldon, public venues incl. Kimo's, 400 members by 1989, 1994 nonprofit and ordinance, 1998 rename"
+      }
+    ],
+    "photo": null
+  }
+]

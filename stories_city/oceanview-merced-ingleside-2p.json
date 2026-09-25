@@ -1,0 +1,686 @@
+[
+  {
+    "id": "oceanview-merced-ingleside-2p-farleys-hall-st-emydius",
+    "title": "A Saloonkeeper's Hall Becomes a Church",
+    "theme": "communities",
+    "year": 1910,
+    "yearEnd": 1928,
+    "place": {
+      "label": "Site of Farley's Hall, west side of Brighton Avenue just south of Ocean Avenue",
+      "lat": 37.7232,
+      "lon": -122.45544,
+      "precision": "block"
+    },
+    "hook": "Barney Farley ran a bar, staged boxing and illegal dog fights, and sold a cure-all elixir. Then his hall became the first home of a Catholic parish.",
+    "story": "Bernard Farley was one of Ingleside's early settlers. From the 1860s he farmed land near Ocean Avenue and today's Junipero Serra Boulevard. He also ran a small bar, staged boxing matches and illegal dog fights, and sold an elixir called \"B. Farley's Wonderful Discovery\" [1]. His hall was one of the first meeting places in the district.\n\nAfter the 1906 earthquake, refugees came out to Ingleside. The old racetrack became a camp for elderly and infirm refugees, and 24 percent of the people who lived there had been born in Ireland [1]. Farley gave his hall to the refugees to use as a church [1]. The parish dates its first home to 1910, in \"a Hall owned by Barney Farley on the west side of Brighton Avenue, just south of Ocean Avenue\" [2]. It was named for St. Emydius, the patron saint against earthquakes, because so many of the first parishioners had lost their homes in 1906 [2].\n\nBy 1911 the congregation was meeting in three shacks joined together [1]. A Tudor Gothic church opened on DeMontfort Avenue (1913 in one account, 1914 in the parish's), and the congregation soon outgrew it. In 1928 it dedicated today's golden-domed, twin-towered church, which seats 800 [1][2].",
+    "people": [
+      {
+        "name": "Bernard (Barney) Farley",
+        "role": "Early settler, saloonkeeper and hall owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "OMI Neighborhoods 1862-1959 Historic Context Statement",
+        "publisher": "Western Neighborhoods Project for the San Francisco Planning Department",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Farley's farming, bar, boxing, dog fights, elixir, hall donated to refugees; Ingleside Camp's Irish-born share; three joined shacks by 1911; church at Ashton and DeMontfort 1913"
+      },
+      {
+        "title": "History",
+        "publisher": "St. Emydius Church, San Francisco (archived parish website)",
+        "year": 2020,
+        "url": "https://web.archive.org/web/2020/http://stemydiussf.org/history/",
+        "supports": "1910 first location in Barney Farley's hall on Brighton Ave; name chosen for 1906 refugees; 1914 first church; 1928 domed church, 800 seats"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-farragut-school",
+    "title": "Farragut School, as Its Pupils Remembered It",
+    "theme": "communities",
+    "year": 1910,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of Farragut School, Holloway Avenue at Capitol Avenue",
+      "lat": 37.72223,
+      "lon": -122.45952,
+      "precision": "block"
+    },
+    "hook": "Nobody photographed it much and nobody saved it. But the Ingleside's old grammar school lives on in the memories of the children who went there.",
+    "story": "Farragut School opened in 1910 on the corner of Holloway and Capitol avenues. It is long gone [1][2]. Ray Wilson, born in the mid-1940s, started kindergarten there with Miss Robinson. His mother watched from the window of their apartment at 210 Jules, a block away, to see him come out [3]. He called the building \"dilapidated\". The hallways \"smelled like urine,\" even though three or four janitors worked there all day. His teacher Mrs. Preston was 76 or 78, he said, and had taught his sister years before [3]. After first grade he moved to West Portal Lutheran School.\n\nTwo decades later, in about 1969, Ella Driscoll's daughter started there. Then school busing sent her across town to Robert Louis Stevenson School in the Sunset. On the first day she was the only white child on the bus [4].\n\nAl Harris remembered what came next. The school stood abandoned for a long time, and its alarm went off in the night. Then it was torn down, and the James Johnson Center and condominiums went up in its place. \"The whole thing kind of went through a whole decline and rebirth,\" he said [2].",
+    "people": [
+      {
+        "name": "Ray F. Wilson",
+        "role": "Former pupil"
+      },
+      {
+        "name": "Ella Driscoll",
+        "role": "Parent"
+      },
+      {
+        "name": "Al Harris",
+        "role": "Neighbourhood leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "OMI Neighborhoods 1862-1959 Historic Context Statement",
+        "publisher": "Western Neighborhoods Project for the San Francisco Planning Department",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Farragut School constructed 1910, no longer extant; later multiple-family housing on its site"
+      },
+      {
+        "title": "Al Harris Interview (I am OMI)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/harris-interview.php",
+        "supports": "School at Holloway and Capitol; abandoned, alarm at night, replaced by housing; quote"
+      },
+      {
+        "title": "Ray F. Wilson Interview (I am OMI)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/wilson-interview.php",
+        "supports": "Kindergarten with Miss Robinson, 210 Jules, conditions, janitors, Mrs. Preston"
+      },
+      {
+        "title": "Ella Driscoll Interview (I am OMI)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2004,
+        "url": "https://www.outsidelands.org/driscoll-interview.php",
+        "supports": "Daughter began at Farragut about 1969, then was bused to Robert Louis Stevenson as the only white child on the bus"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-wartime-on-the-hill",
+    "title": "War Comes to the Hill Above Jules",
+    "theme": "war-military",
+    "year": 1941,
+    "yearEnd": 1954,
+    "place": {
+      "label": "Granada and Grafton avenues, near the Wilson family's home at 95 Granada",
+      "lat": 37.7199,
+      "lon": -122.45736,
+      "precision": "block"
+    },
+    "hook": "An anti-aircraft battery on the hilltop, a Japanese laundry emptied, a wartime marriage broken up, and years later an Army bomb squad in a neighbour's backyard.",
+    "story": "Ray Wilson was born in the mid-1940s, but he grew up hearing the neighbourhood's war stories [1]. In his telling, the Army set up an anti-aircraft battery on top of the hill on Jules Avenue a few days after Pearl Harbor [2].\n\nThe Goto family ran a Japanese laundry down the street. They were sent to the relocation camps, and Wilson said the neighbourhood was \"so much against that, because they had been here for years\" [2]. He still kept three or four of their coat hangers. On Holloway, the son of an Italian grocer his mother knew had married a Japanese woman about six months before Pearl Harbor. She was sent to a camp anyway. The groom's mother gave him hell, and then he was drafted [1][2].\n\nIn 1953 the Wilsons moved up to Granada Avenue at Grafton. Next door lived Mr. Peters, a World War I veteran of about 80. He told ten-year-old Ray that the slopes from Holloway over to Ocean View Park had been an artillery training ground in that war. That is his account and no other source confirms it. Not long afterwards an Army demolition team arrived and took a World War I mortar shell out of Peters's backyard in a box [2].",
+    "people": [
+      {
+        "name": "Ray F. Wilson",
+        "role": "Ingleside childhood resident, oral-history narrator"
+      },
+      {
+        "name": "Mr. Peters",
+        "role": "Neighbour, World War I veteran"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ray F. Wilson (I am OMI)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/wilson.php",
+        "supports": "Born mid-1940s; Japanese-American wife relocated; memories summary"
+      },
+      {
+        "title": "Ray F. Wilson Interview (I am OMI)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/wilson-interview.php",
+        "supports": "Anti-aircraft battery on Jules hill; Goto's laundry; grocer's son's marriage; move to 95 Granada in 1953; Mr. Peters and the mortar shell"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-talking-cat",
+    "title": "The Cat That Said 'Go Away'",
+    "theme": "communities",
+    "year": 1959,
+    "yearEnd": null,
+    "place": {
+      "label": "Lakeview Avenue near Lee Avenue, Ingleside",
+      "lat": 37.71818,
+      "lon": -122.45382,
+      "precision": "block"
+    },
+    "hook": "Two paperboys on a dark 1959 morning swore they heard a spotted white cat stop a police dog in its tracks with two clearly spoken words.",
+    "story": "In 1959 Hamilton Barrett was a sixth-grader at Farragut Elementary, the Ingleside school built in 1910 [1][2]. He lived on the Brighton Avenue hill and got up before dawn to help an older friend, Bill Corkery of Plymouth Avenue, with his paper route [1]. They folded the papers into \"Tommy hawks\" to throw at the neighbourhood's high porches. After the route, on the K streetcar tracks on Ocean Avenue, they hunted for dropped coins to spend on donuts. Barrett admits they also helped themselves to sodas from a Mobil station's unlocked cooler [1].\n\nOne morning on Lakeview Avenue near Lee they were being trailed, as usual, by Caesar. He was a big former police dog with a name as a cat killer. Caesar bolted up about forty steps after a white cat with large spots. The cat sat \"like an Egyptian statue\" on the top step and, Barrett insists, said in a scary cat voice: \"Gooooooo awaaaaaaay.\" Then it said it again [1]. Caesar froze. The cat jumped onto a balcony and was gone.\n\n\"Did you hear that?\" Barrett asked. \"I sure did,\" said Bill. The boys told everyone they met, imitating the voice. It is one boy's memory, told decades later, and a fine piece of Ingleside folklore.",
+    "people": [
+      {
+        "name": "Hamilton Barrett",
+        "role": "Author, former paperboy"
+      },
+      {
+        "name": "Bill Corkery",
+        "role": "Paperboy"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Talking Cat of the Ingleside District",
+        "publisher": "Western Neighborhoods Project (Hamilton Barrett)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/ingleside_cat.php",
+        "supports": "All details of the paper route, coin hunting, Caesar and the talking cat"
+      },
+      {
+        "title": "OMI Neighborhoods 1862-1959 Historic Context Statement",
+        "publisher": "Western Neighborhoods Project for the San Francisco Planning Department",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Farragut School in the Ingleside (built 1910) and the K-Ingleside streetcar line on Ocean Avenue"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-maria-picar-brighton",
+    "title": "Rock Candy, Comics and a Filipino Childhood",
+    "theme": "communities",
+    "year": 1955,
+    "yearEnd": 2003,
+    "place": {
+      "label": "230 Brighton Avenue, Maria Picar's first home",
+      "lat": 37.72246,
+      "lon": -122.45481,
+      "precision": "building"
+    },
+    "hook": "Growing up as one of the few Filipino children in the 1960s Ingleside, Maria Picar hung out with Black classmates \"because I thought they looked more like me.\"",
+    "story": "Maria Fe Picar's parents were born in the northern Philippines. Her mother came from Pangasinan and her father from Abra, near Baguio. Their first house was at 230 Brighton Avenue, and they moved there about a year after Maria was born. Her mother was 41 when she had her [1]. In 1963 the family built a house up the hill at 200 Grafton, where Maria still lived in 2003. Her parents were strict, but the street was her playground: dodgeball, hopscotch, jacks, kickball [1].\n\nShe remembered a druggist on Miramar who handed out cheap rock candy and comic books. There was Charlie's corner store at Holloway and Brighton, which lasted until about 2001, and across from it a Chinese shopkeeper everyone called Mr. George. There was also a \"stinky pet store\" where Java on Ocean later opened [2]. At school \"there weren't too many people like me,\" she said. \"I usually hung out with a lot of the black kids in school because I thought they looked more like me\" [2].\n\nShe watched Holloway become a drug corner in the 1980s, then fill with new Asian neighbours. She became a dancer and choreographer and opened Ingleside Creative Arts. She also led the Cultural Participation Project of OMI, working for the neighbourhood's kids [2].",
+    "people": [
+      {
+        "name": "Maria Fe Picar",
+        "role": "Dancer, choreographer, community arts leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Maria Fe Picar Interview (I am OMI)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/picar-interview.php",
+        "supports": "Parents' origins, 230 Brighton, 1963 move to 200 Grafton, mother's age, games"
+      },
+      {
+        "title": "Maria Fe Picar (I am OMI)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/picar.php",
+        "supports": "Shops (druggist, Charlie's, Mr. George, pet store), school quote, 1980s drug corner, career and community roles"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-beeps-burgers",
+    "title": "A Soviet Rocket Sells Burgers on Ocean",
+    "theme": "modern-city",
+    "year": 1962,
+    "yearEnd": null,
+    "place": {
+      "label": "Beep's Burgers, 1051 Ocean Avenue at Lee Avenue",
+      "lat": 37.72317,
+      "lon": -122.45391,
+      "precision": "building"
+    },
+    "hook": "At the height of the space race, two brothers opened a drive-in on Ocean Avenue and put a Soviet Vostok rocket on the sign.",
+    "story": "In 1962 brothers Stephen and George Essaf opened a drive-in burger stand at Ocean and Lee avenues. They aimed it at students from City College and the nearby high schools [1]. Stephen had been a photographer for the Associated Press and the San Francisco Examiner, his family says. He gave that up to go into business with his brother. Even their father helped out, making sure the potatoes for the fries were fresh, peeled and cut. The stand was open seven days a week, closed only on Christmas and New Year's Day [1].\n\nThey called it Beep's after the beeping of the first satellites. The neon sign shows a spacecraft that the city's Legacy Business report identifies as the USSR's Vostok One rocket. An Ingleside Light article reprinted in the city's file calls it \"no small irony\" that an icon of Soviet space triumph was selling burgers and shakes to American motorists [1].\n\nThe Essafs retired in the 1970s, though the family kept the property, and a series of operators followed. For years the rocket's neon was dark [1][2]. In 2014 Samantha Wong, who had eaten there as a San Francisco State student, bought the business and had the sign restored [1][2]. In 2017 the city took up Beep's nomination for its Legacy Business Registry [1][2].",
+    "people": [
+      {
+        "name": "Stephen Essaf",
+        "role": "Co-founder"
+      },
+      {
+        "name": "George Essaf",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Samantha Wong",
+        "role": "Owner since 2014"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Registry Staff Report and application: Beep's Burgers (LBR-2016-17-035)",
+        "publisher": "San Francisco Office of Small Business",
+        "year": 2017,
+        "url": "https://web.archive.org/web/20220803223143/https://sfosb.org/sites/default/files/Legacy%20Business/SBC%20Hearings/Item%203a.%20LBR-2016-17-035%20Beep%27s%20Burgers.pdf",
+        "supports": "Founders, 1962, customers, name and Vostok sign, ownership history, restoration, Ingleside Light article reprinted in the file"
+      },
+      {
+        "title": "Streetwise: Signs of the Times",
+        "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+        "year": 2023,
+        "url": "https://www.outsidelands.org/streetwise-signs-of-the-times.php",
+        "supports": "Opened 1962 at the dawn of the Space Age; owners retired early 1970s; refurbished since 2014 by Samantha Wong"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-lick-wilmerding",
+    "title": "A Free School for Hands Moves West",
+    "theme": "labor-industry",
+    "year": 1955,
+    "yearEnd": 1972,
+    "place": {
+      "label": "Lick-Wilmerding High School, 755 Ocean Avenue",
+      "lat": 37.72278,
+      "lon": -122.44899,
+      "precision": "building"
+    },
+    "hook": "Three 19th-century bequests paid for free trade schooling for San Francisco's children. In 1955 the combined school moved to Ocean Avenue, and it stayed tuition-free for twenty years more.",
+    "story": "The school at 755 Ocean Avenue grew from three 19th-century bequests. James Lick left $540,000 for the California School of Mechanical Arts, which opened in January 1895 and gave boys and girls a free education mixing academics and shop work [1]. Jellis Wilmerding left $400,000 for a boys' school of building trades and drafting. Miranda Lux left money to train girls in sewing, cooking, health, art and retailing [1]. From the post-earthquake years until 1939 the three schools shared a campus at 17th Street and Potrero Avenue, and for years one director, George Merrill, ran all three [1][2].\n\nIn the early 1950s the Lux school closed and sent its pupils to Lick, and Lick and Wilmerding merged. In 1955, by the Western Neighborhoods Project's account, the new Lick-Wilmerding High School moved to Ocean Avenue; Wikipedia gives 1956 [1][2]. It was a boys' school for 17 years, until it went co-ed again in 1972. Thanks to the old endowments it charged no tuition until the mid-1970s [1].\n\nLick held its entrance exam weeks before the Catholic boys' high schools held theirs. Columnist Frank Dunnigan and many of his St. Cecilia School classmates took it as \"practice\". On a cold Saturday in January 1966 he sat it in the gym, for a $5 fee. \"For the record,\" he wrote, \"I PASSED!\" [1]",
+    "people": [
+      {
+        "name": "James Lick",
+        "role": "Benefactor"
+      },
+      {
+        "name": "Jellis Wilmerding",
+        "role": "Benefactor"
+      },
+      {
+        "name": "Miranda Lux",
+        "role": "Benefactor"
+      },
+      {
+        "name": "George Merrill",
+        "role": "Director"
+      },
+      {
+        "name": "Frank Dunnigan",
+        "role": "Columnist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Lick-Wilmerding",
+        "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/streetwise-lick.php",
+        "supports": "Bequests, 1895 opening, shared campus, 1955 move, boys-only until 1972, free tuition until mid-1970s, 1966 exam anecdote"
+      },
+      {
+        "title": "Lick-Wilmerding High School",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Lick-Wilmerding_High_School",
+        "supports": "Founding at 16th/17th and Potrero; Merrill director until 1939; early-1950s merger; move to 755 Ocean Avenue given as 1956"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-lacys-barbershop",
+    "title": "Seventy Years Behind a Broad Street Chair",
+    "theme": "communities",
+    "year": 1952,
+    "yearEnd": 2026,
+    "place": {
+      "label": "Lacy's Barbershop, Broad Street at Plymouth Avenue",
+      "lat": 37.71291,
+      "lon": -122.45655,
+      "precision": "block"
+    },
+    "hook": "In 1952 a barber bought Furlough's Tonsorial Parlor on Broad Street. His godson has been cutting hair in the same shop since 1972.",
+    "story": "At the corner of Broad Street and Plymouth Avenue, in the heart of Ocean View, one old-school barbershop has weathered the pandemic, falling foot traffic and rising costs [1]. Lloyd Lacy Jr.'s godfather bought it in 1952, when it was called Furlough's Tonsorial Parlor [1]. \"I've been cutting hair here since 1972, and worked here with my godfather until 1998, and I've done everything you can do with some hair,\" said Lacy, as he is known [1]. He took over the shop in 2010. He dreams of opening a barber college to train the next generation [1].\n\nWhen the Lakeview edition of the Walk the Block series, which celebrates Black culture and resilience, came to Broad Street in July 2025, Lacy spoke to the crowd. Covid had changed the area, he said: \"It's calmer now, but there's not as much foot traffic\" [2]. Another speaker, Tinisch Hollins, recalled vanished businesses such as Will Reno's barbershop and a fish-fry shop [2].\n\nIn February 2026 the shop started a GoFundMe to raise $4,500 to stay open. It was applying to join the city's Legacy Business Registry. The OMI Cultural Participation Project called Lacy's \"a cornerstone in our neighborhood\" [1].",
+    "people": [
+      {
+        "name": "Lloyd \"Lacy\" Lacy Jr.",
+        "role": "Barber and owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lacy's Barbershop GoFundMe campaign",
+        "publisher": "The Ingleside Light (Anthony Myers)",
+        "year": 2026,
+        "url": "https://www.inglesidelight.com/lacys-barbershop-gofundme-campaign/",
+        "supports": "Furlough's Tonsorial Parlor bought 1952; Lacy's quote; 2010 takeover; barber college; GoFundMe; Legacy application; OMI CPP quote"
+      },
+      {
+        "title": "Walk The Block Lakeview Highlights Black Culture, Resilience",
+        "publisher": "The Ingleside Light (Anthony Myers)",
+        "year": 2025,
+        "url": "https://www.inglesidelight.com/san-francisco-walk-the-block-lakeview/",
+        "supports": "Shop at Plymouth and Broad; Lacy's remarks; vanished businesses"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-korean-martial-arts-center",
+    "title": "The Grandmaster Who Never Wanted a Business",
+    "theme": "communities",
+    "year": 1983,
+    "yearEnd": null,
+    "place": {
+      "label": "Korean Martial Arts Center, 1414 Ocean Avenue",
+      "lat": 37.72445,
+      "lon": -122.45759,
+      "precision": "building"
+    },
+    "hook": "A probation-department employee who began formal martial arts training at a Mormon church group opened an Ocean Avenue studio in 1983. Four decades on, he still insists it's a club.",
+    "story": "Merrill Jung's parents taught kung fu, but he says his own formal training began at a Mormon church group meeting [1]. He went to city schools, including City College. He taught martial arts at clubs and recreation centres such as the Embarcadero YMCA, and he worked for the San Mateo Probation Department until he retired in 2005 [1][2].\n\nIn 1983 he founded the Korean Martial Arts Center on Ocean Avenue, with help from his student Andrew Erickson, who talked him into it. \"I never wanted to do business,\" Jung said. \"I figured that the business will hurt what I'm trying to do, my love, my sport, my martial arts\" [2]. The studio teaches taekwondo, hapkido, yongmudo, judo, karate, kung fu, tai chi, Wing Chun and Filipino stick fighting, to children as young as four and to adults [1][2]. Some students have gone on to the Junior Olympics and to competitions in Korea [1].\n\nIn August 2020, 37 years in, the city's Small Business Commission voted unanimously to add KMAC to the Legacy Business Registry [1]. Jung holds high ranks in several arts, and his son, daughter and nephew help run the studio. \"We're not really a 'business,'\" he said in 2022. \"We're more of a club\" [2].",
+    "people": [
+      {
+        "name": "Merrill W. Jung",
+        "role": "Founder and grandmaster"
+      },
+      {
+        "name": "Andrew Erickson",
+        "role": "Student who helped found the studio"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Korean Martial Arts Center Added To Register Of San Francisco Legacy Businesses",
+        "publisher": "The Ingleside Light (Alex Mullaney)",
+        "year": 2020,
+        "url": "https://www.inglesidelight.com/korean-martial-arts-center-added-to-register-of-san-francisco-legacy-businesses/",
+        "supports": "Founded 1983; arts taught; Mormon church group; probation career; competitions; unanimous Legacy approval Aug. 2020"
+      },
+      {
+        "title": "Korean Martial Arts Center Teaches Lifelong Lessons",
+        "publisher": "The Ingleside Light (Anne Marie Kristoff)",
+        "year": 2022,
+        "url": "https://www.inglesidelight.com/korean-martial-arts-center-teaches-lifelong-lessons/",
+        "supports": "Andrew Erickson; quotes; YMCA teaching; family roles; address 1414 Ocean Ave."
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-wang-wah-golden-china",
+    "title": "Golden China, Ocean Avenue's Little United Nations",
+    "theme": "communities",
+    "year": 1985,
+    "yearEnd": null,
+    "place": {
+      "label": "Wang Wah (opened as Golden China), 1612 Ocean Avenue",
+      "lat": 37.72481,
+      "lon": -122.45932,
+      "precision": "building"
+    },
+    "hook": "When Golden China opened in 1985, it was the only Chinese restaurant on a strip of mostly Black-owned shops. Its first regulars were patient with a nervous newcomer.",
+    "story": "Bing Xu grew up in western Guangdong during the Cultural Revolution. He came to San Francisco in 1983, hauled boxes in a Chinatown grocery and took English classes after long shifts [1]. In 1985 he and a partner opened Golden China on Ocean Avenue, timed to catch foot traffic from a new Walgreens. It was the only Chinese restaurant on a corridor made up mostly of African American-owned shops, bars and restaurants [1]. When the partner left in 1987, Xu kept it, though he spoke little English.\n\nHis wife, Juan Zhou Xu, sewed and studied English before joining full time in 1991 as the restaurant's public face. She was nervous about phone orders, but her first regulars, mostly Black neighbours, were patient: \"There's no rush, take your time\" [1]. Muni drivers used to pull their buses up out front so she could hand them their food.\n\nAs Black homeowners moved to the East Bay and Chinese families moved in, Chinese construction crews packed the lunch hour. Xu added bone-in catfish for customers from the Sze Yup region. Now called Wang Wah, it is the Ingleside's oldest Chinese restaurant. \"We are like a little United Nations,\" he says [1]. By 1970 the district had been about two-thirds African American (62 percent, in the city's context statement) [1][2].",
+    "people": [
+      {
+        "name": "Bing Xu",
+        "role": "Co-founder and cook"
+      },
+      {
+        "name": "Juan Zhou Xu",
+        "role": "Co-owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "At Ingleside's Oldest Chinese Restaurant, A 'United Nations' of Customers",
+        "publisher": "The Ingleside Light / San Francisco Public Press (Zhe Wu)",
+        "year": 2025,
+        "url": "https://www.inglesidelight.com/san-francisco-ingleside-oldest-chinese-restaurant-wang-wah-golden-china/",
+        "supports": "All details of the Xus, founding, customers and quotes; LaBounty on the neighbourhood's changing population"
+      },
+      {
+        "title": "OMI Neighborhoods 1862-1959 Historic Context Statement",
+        "publisher": "Western Neighborhoods Project for the San Francisco Planning Department",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "African Americans 62 percent of Ingleside, Merced Heights and Ocean View by 1970"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-invest-black-broad-street",
+    "title": "'Invest Black,' Painted and Nearly Washed Away",
+    "theme": "civil-rights",
+    "year": 2020,
+    "yearEnd": null,
+    "place": {
+      "label": "Broad Street, Ocean View (site of the 2020 'Invest Black' street mural)",
+      "lat": 37.71296,
+      "lon": -122.45883,
+      "precision": "street"
+    },
+    "hook": "In June 2020 neighbours painted two huge yellow words on Broad Street. Eleven days later, a city crew showed up late at night with a pressure washer.",
+    "story": "The spring of 2020 was tense in Ocean View. On May 26 Donald Andrews, a lifelong resident who owns the Dream Team shop, paid a private chef to cook a community breakfast on the sidewalk. A staff member of a local family resource centre called the police on the gathering of mostly Black young men. The officer took a plate of food and told Andrews to \"go on about your day\" [1]. On June 10 nearly eighty people joined an online meeting, \"Recipe for Restoration: Rooting Out Anti-Blackness in the OMI\" [1].\n\nResident Gale Rosboro had been inspired by the Black Lives Matter street paintings in the Fillmore and Oakland. On June 24, with artist Malik Seneferu, dozens of volunteers painted \"Invest Black\" in bright yellow letters on Broad Street [2]. Late on Sunday, July 5, after someone called 311 about \"a large amount of paint on the public street,\" a Public Works graffiti crew began pressure-washing it away. Neighbours phoned Supervisor Ahsha Safai, who drove over and got the crew to stop [2]. Public Works said very little had been removed, and crews came back the next morning to restore it [2].\n\n\"It's not just paint on the street,\" Rosboro said, \"it's a message to invest\" [2].",
+    "people": [
+      {
+        "name": "Gale Rosboro",
+        "role": "Resident who conceived the mural"
+      },
+      {
+        "name": "Malik Seneferu",
+        "role": "Artist"
+      },
+      {
+        "name": "Donald Andrews",
+        "role": "Dream Team owner"
+      },
+      {
+        "name": "Ahsha Safai",
+        "role": "District 11 Supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "After Anti-Black Incident On Broad Street, Community Convenes To Discuss Path Forward",
+        "publisher": "The Ingleside Light (Peter Suter)",
+        "year": 2020,
+        "url": "https://www.inglesidelight.com/after-anti-black-incident-on-broad-street-community-convenes-to-discuss-path-forward/",
+        "supports": "May 26 breakfast, police call, officer's words, community meeting"
+      },
+      {
+        "title": "'Not Just Paint On The Street': Attempt To Remove New 'Invest Black' Mural Curbed By Community",
+        "publisher": "The Ingleside Light (Alex Mullaney)",
+        "year": 2020,
+        "url": "https://www.inglesidelight.com/not-just-paint-on-the-street-attempt-to-remove-new-invest-black-mural-curbed-by-community/",
+        "supports": "Mural origin, June 24 painting, 311 call, pressure washing, Safai, repair, Rosboro quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-sargent-street-newcomers",
+    "title": "Shot-Out Windows, Then a Family on Sargent",
+    "theme": "modern-city",
+    "year": 2000,
+    "yearEnd": 2003,
+    "place": {
+      "label": "Sargent Street, Merced Heights",
+      "lat": 37.71592,
+      "lon": -122.46726,
+      "precision": "street"
+    },
+    "hook": "The day escrow closed on her Merced Heights house, Elaine Ellsworth found every window shot out. Three years later she called her neighbours family.",
+    "story": "Around 2000, good friends Elaine Ellsworth and Chris Tweedie each bought a house in Merced Heights, drawn by affordable prices and big views. They later told their story to the \"I am OMI\" project [1][2]. Their welcomes could not have been more different. Chris's next-door neighbour, Rose Snell, greeted her \"with opened arms.\" But on the day escrow closed on Elaine's house, she found the windows \"had all been shot out by a B.B. gun.\" Then a neighbour's pit bull injured her dog, mysterious, likely poisoned pork chops turned up on her doorstep, and her car was keyed [1].\n\nThen she got to know the street. An elderly Japanese woman across the way always had treats and toys for her dog, Wolfie. Elaine listed the rest: a middle-aged white gay couple, older Black families, young Black professional families who asked her to barbecues, and a backyard neighbour from the Philippines. \"I thought was so San Francisco,\" she said [1]. Across from Chris on Sargent Street lived Juanita, who \"knows everybody.\" The two friends helped start a tree planting with Friends of the Urban Forest, and Chris canvassed for it [1]. She had a stroke while handing out leaflets on Shields Street. Neighbours found her unconscious and got her an ambulance. \"I felt like part of a family,\" Elaine said [1].",
+    "people": [
+      {
+        "name": "Elaine Ellsworth",
+        "role": "Resident"
+      },
+      {
+        "name": "Chris Tweedie",
+        "role": "Resident, tree-planting organiser"
+      },
+      {
+        "name": "Rose Snell",
+        "role": "Neighbour"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Elaine Ellsworth and Chris Tweedie (I am OMI)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/ellswrth-tweedie.php",
+        "supports": "Arrival, welcomes, incidents, neighbours, tree planting, stroke, quotes"
+      },
+      {
+        "title": "I am OMI: People",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2004,
+        "url": "https://www.outsidelands.org/omi-people.php",
+        "supports": "Ellsworth and Tweedie among the project's oral-history narrators"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-holloway-corner-stores",
+    "title": "Holloway's Corner Stores and the Suitcase Man",
+    "theme": "communities",
+    "year": 1950,
+    "yearEnd": 2026,
+    "place": {
+      "label": "Holloway Avenue near Plymouth Avenue, Ingleside",
+      "lat": 37.72206,
+      "lon": -122.45648,
+      "precision": "block"
+    },
+    "hook": "Italian grocers, then Black-owned markets and barbershops, then a man with cash offers: seventy years of change on one quiet Ingleside street.",
+    "story": "Ray Wilson remembered four little groceries in the 1950s on Holloway Avenue between City College and Ashton. The biggest was Paul Selmi's at Ashton, which stocked \"everything that Safeway now would have.\" The smaller mom-and-pops resented it [1].\n\nAfter the war, Black families moved into the Ingleside, where no racial covenants kept them out. Al Harris, who has lived at Grafton and Granada for about 50 years, remembered a Black-owned market, cleaners and café on the street [2]. Renard Monroe of Youth 1st got his hair cut at a barbershop called Kings and Queens [2]. Then, Harris said, came \"the suitcase man,\" who put up \"We buy houses\" signs on telephone poles. He offered the grown children who inherited their parents' homes \"$450,000 cash money,\" and many took it and moved to Oakland, Antioch and Pittsburg [2]. In the 1970s Harris had seven or eight Black families nearby. By 2026 there was one [2].\n\nHolloway is still a street of small shops. Malik Rodgers runs Tailored Cuts, one of the last Black-owned businesses. Cool Guys Market at 845 Holloway had been there almost 30 years by 2024. The deli inside sells a \"Rev G\" sandwich, named for Ingleside Presbyterian's Rev. Roland Gordon [2][3].",
+    "people": [
+      {
+        "name": "Al Harris",
+        "role": "Neighbourhood leader"
+      },
+      {
+        "name": "Paul Selmi",
+        "role": "Grocer"
+      },
+      {
+        "name": "Malik Rodgers",
+        "role": "Owner, Tailored Cuts"
+      },
+      {
+        "name": "Renard Monroe",
+        "role": "Youth 1st director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ray F. Wilson Interview (I am OMI)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/wilson-interview.php",
+        "supports": "Four groceries on Holloway; Selmi's at Ashton and Holloway"
+      },
+      {
+        "title": "Holloway Avenue: Where Horse Stables Gave Way To A Diverse Street",
+        "publisher": "The Ingleside Light (Anne Marie Kristoff)",
+        "year": 2026,
+        "url": "https://www.inglesidelight.com/san-fancisco-ingleside-holloway-avenue-horse-stables-demographics/",
+        "supports": "No racist restrictions; Harris's memories, suitcase man quote, family counts; Kings and Queens; Tailored Cuts; Cool Guys Market"
+      },
+      {
+        "title": "Holloway Mike's Deli & Ice Cream",
+        "publisher": "The Ingleside Light (Anne Marie Kristoff)",
+        "year": 2024,
+        "url": "https://www.inglesidelight.com/holloway-mikes-deli-ice-cream/",
+        "supports": "Cool Guys Market owners, almost 30 years, 845 Holloway, 'Rev G' sandwich"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-columbia-heights-water",
+    "title": "The Neighbour Who Sold Spring Water",
+    "theme": "gold-rush-victorian",
+    "year": 1893,
+    "yearEnd": 1915,
+    "place": {
+      "label": "72 Majestic Avenue, Columbia Heights (site of George Wilson's private water works)",
+      "lat": 37.71744,
+      "lon": -122.45185,
+      "precision": "building"
+    },
+    "hook": "The private water company wouldn't lay mains up to this hilltop tract, so a resident tapped a spring in his yard and charged his neighbours for water.",
+    "story": "In 1893 Easton, Eldridge & Co. auctioned off \"Columbia Heights\", a wedge of lots on the east slope of Merced Heights above San Jose Avenue [1][2]. It promised \"perfect natural drainage and perpetual sunshine,\" lots from $145 and \"200 per cent profit\" within a year. Only 68 of the 391 lots sold [1]. There was no gas, electricity or sewer, and the street grades were not set. Buyers were told \"pure water can be had by boring 14 feet\" [1][2]. On January 5, 1895, a storm blew one of the first houses over: \"Household furniture was scattered in all directions\" [1].\n\nAfter the 1906 earthquake brothers Thomas and Christopher Rivers bought the unsold lots, built houses and advertised hard. Their sales office still stands, altered, at 15 Lakeview Avenue [1]. In July 1907 they complained to the Board of Supervisors that neighbours' cows kept trespassing [1].\n\nThe Spring Valley Water Company decided the ridge was not worth new mains. So for years a resident named George Wilson ran his own utility. He tapped a spring on his Majestic Avenue land and piped water to neighbours for a fee, until city pressure made Spring Valley buy him out. The 1915 Sanborn map shows his water works behind 72 Majestic Avenue [1].",
+    "people": [
+      {
+        "name": "George Wilson",
+        "role": "Resident who ran a private water works"
+      },
+      {
+        "name": "Thomas and Christopher Rivers",
+        "role": "Real estate developers"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Columbia Heights: A History (first published in San Francisco Story)",
+        "publisher": "The Ingleside Light (Woody LaBounty)",
+        "year": 2024,
+        "url": "https://www.inglesidelight.com/columbia-heights-san-francisco-neighborhood-history/",
+        "supports": "Auction, promises, lot sales, lack of utilities, 1895 storm, Rivers brothers, cows, George Wilson's water works, 72 Majestic, 15 Lakeview"
+      },
+      {
+        "title": "Merced Heights",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/merced_heights.php",
+        "supports": "Columbia Heights filed 1893 by Easton, Eldridge & Co.; no water, sewage or gas service on the ridgeline before 1900"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "oceanview-merced-ingleside-2p-engine-33-broad-street",
+    "title": "Ocean View's Firehouse Since 1896",
+    "theme": "labor-industry",
+    "year": 1896,
+    "yearEnd": 1974,
+    "place": {
+      "label": "Former Engine Company No. 33 firehouse, 117 Broad Street",
+      "lat": 37.7129,
+      "lon": -122.45675,
+      "precision": "building"
+    },
+    "hook": "For 78 years Ocean View's firefighters answered calls from a wooden firehouse on Broad Street. It is still standing and could become a city landmark.",
+    "story": "Early Ocean View was a village of farm hands and railroad workers. Its improvement clubs lobbied City Hall for fire stations, water service and a public school [1]. On April 8, 1896, the Fire Department organized Engine Company No. 33 there and housed it at 117 Broad Street [2].\n\nThe 1906 disaster brought no fire and little recorded damage to the OMI, but it did damage the company's two-storey wood-frame firehouse, to the tune of $500 [1][2]. The engine company stayed on Broad Street for another 68 years. On May 11, 1974, it moved into a new station at 8 Capitol Avenue. It left again in 2003, sharing Engine 15's quarters at 1000 Ocean Avenue while its station was earthquake-retrofitted, and came home on September 10, 2004 [2].\n\nThe old Broad Street firehouse survived. Restored, it became the base for riding tours on an antique fire engine [3]. In 2026 the Planning Department named the \"decommissioned Ocean View firehouse\" among buildings in the greater Ingleside that it considered worthy of landmark designation [4].",
+    "people": [],
+    "sources": [
+      {
+        "title": "OMI Neighborhoods 1862-1959 Historic Context Statement",
+        "publisher": "Western Neighborhoods Project for the San Francisco Planning Department",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Improvement clubs petitioned for fire stations; OMI saw no fire and little recorded damage in 1906"
+      },
+      {
+        "title": "Engine Company 33",
+        "publisher": "Guardians of the City (San Francisco Fire Department history)",
+        "year": 2020,
+        "url": "https://web.archive.org/web/2024/https://www.guardiansofthecity.org/sffd/companies/engines/engine33.html",
+        "supports": "Organized April 8, 1896 at 117 Broad; $500 quake damage to two-story wood firehouse; move to 8 Capitol May 11, 1974; 2003-2004 retrofit move"
+      },
+      {
+        "title": "Oceanview, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Oceanview,_San_Francisco",
+        "supports": "Restored 1890s firehouse at 117 Broad offers riding tours on an antique fire engine"
+      },
+      {
+        "title": "Here Are All Of The Potential Historic Landmarks For The Greater Ingleside",
+        "publisher": "The Ingleside Light (Anne Marie Kristoff)",
+        "year": 2026,
+        "url": "https://www.inglesidelight.com/here-are-all-of-the-potential-historic-landmarks-for-the-greater-ingleside/",
+        "supports": "Decommissioned Ocean View firehouse on the Planning Department's list of potential landmarks"
+      }
+    ],
+    "photo": null
+  }
+]

@@ -1,0 +1,735 @@
+[
+  {
+    "id": "marina-2p-western-nursery",
+    "title": "The last farm in Cow Hollow",
+    "theme": "labor-industry",
+    "year": 1885,
+    "yearEnd": 1947,
+    "place": {
+      "label": "Abraham House, 30 Blackstone Court (off Franklin near Lombard)",
+      "lat": 37.80052,
+      "lon": -122.42697,
+      "precision": "building"
+    },
+    "hook": "Behind a Lombard Street hotel hides a gated alley on a trail older than the street grid, where a nurseryman grew plants until 1947.",
+    "story": "Just off Franklin near Lombard, behind a hotel, a gated blind alley called Blackstone Court runs at an odd angle to the street grid. It follows an early trail that led from town toward the Presidio around the north end of Washerwoman's Lagoon, which was drained and filled long ago [1][2]. In 1885 Charles Abraham built a house at No. 30 and enlarged it in 1905. He also founded the Western Nursery, which operated on most of the block from 1885 to 1947. It was the last agricultural business in a district that had taken its name from dairy cows [1][2]. Next door, the building at 9-11 Blackstone Court appears to date from the 1850s and may have been moved here. It is first documented on the site in 1893. Before 1899 the Favilla family from North Beach raised it a story. They were very early Italian American residents of what became the Marina [1]. FoundSF credits the nursery with saving the court: Abraham's business held the land, and when postwar housing demand shrank the parcel, the five surviving buildings were kept and designated a historic district in 1987 [2]. An Australian peppermint tree and a Monterey cypress appear to date from the nursery [1]. The court is private property and closed to casual visitors [1].",
+    "people": [
+      {
+        "name": "Charles Abraham",
+        "role": "Founder of the Western Nursery"
+      },
+      {
+        "name": "The Favilla family",
+        "role": "Early Italian American residents of 9-11 Blackstone Court"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blackstone Court District",
+        "publisher": "NoeHill in San Francisco (adapted from SF Planning Code Article 10, Appendix H)",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf_blackstone_court.asp",
+        "supports": "Trail around Washerwoman's Lagoon; 9-11 dates from 1850s, documented 1893, raised by the Favilla family before 1899; Abraham House 1885/1905; Western Nursery 1885-1947, last agricultural enterprise; peppermint tree and cypress; designated 1987; private"
+      },
+      {
+        "title": "Blackstone Court",
+        "publisher": "FoundSF",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=Blackstone_Court",
+        "supports": "Court survived because Abraham operated the Western Nursery there; postwar housing demand reduced the parcel; five buildings saved and designated in 1987"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-sherman-music-room",
+    "title": "Paderewski in the piano man's parlor",
+    "theme": "gold-rush-victorian",
+    "year": 1879,
+    "yearEnd": null,
+    "place": {
+      "label": "Leander Sherman House, 2160 Green Street",
+      "lat": 37.79651,
+      "lon": -122.43464,
+      "precision": "building"
+    },
+    "hook": "A clock-shop apprentice who arrived at 14 built a San Francisco music empire, then built a house whose whole west wing was a concert hall.",
+    "story": "Leander Sherman came to San Francisco from Boston in 1861, when he was 14. He apprenticed in a clock shop and then clerked at A. A. Rosenberg's music store, and in 1870 he bought the business [2]. With Clement Clay as partner it became Sherman, Clay and Co., in time one of the oldest commercial firms in the West [2]. In 1879 Sherman built himself a house on Green Street between Fillmore and Webster [1]. What made it famous was the music room. As Roger Olmsted and T. H. Watkins described it in their 1968 book Here Today, 'a huge, three-story music and reception room forms the entire west wing of the house.' Under its skylight was a platform where 'such music greats as Paderewski performed.' From a balcony in the corner, singers such as Madame Schumann-Heink entertained, and earlier Lotta Crabtree, who lived next door to the west [1]. The Chronicle's Carl Nolte summed it up simply: Sherman 'built a mansion that came with a concert hall. Famous artists, Paderewski among them, played there' [2]. Sherman died in 1926. His company stayed in family hands until 1960; in 2013, after 142 years in San Francisco, it sold its flagship Mission Street store to Steinway & Sons [2]. The house is San Francisco Landmark No. 49 [1].",
+    "people": [
+      {
+        "name": "Leander Sherman",
+        "role": "Founder of Sherman, Clay and Co."
+      },
+      {
+        "name": "Ignacy Jan Paderewski",
+        "role": "Pianist who performed in the music room"
+      },
+      {
+        "name": "Lotta Crabtree",
+        "role": "Entertainer and next-door neighbor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #49: Leander Sherman House",
+        "publisher": "NoeHill in San Francisco (quoting Olmsted and Watkins, Here Today, 1968)",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf049.asp",
+        "supports": "Built 1879 for Sherman, Clay founder; three-story music room forming west wing; Paderewski performed; Schumann-Heink and Lotta Crabtree, who lived next door to the west, sang from the balcony"
+      },
+      {
+        "title": "Sherman Clay, piano merchant's swan song",
+        "publisher": "San Francisco Chronicle / SFGATE (Carl Nolte)",
+        "year": 2013,
+        "url": "https://www.sfgate.com/bayarea/article/Sherman-Clay-piano-merchant-s-swan-song-4432568.php",
+        "supports": "Sherman came from Boston in 1861 at 14; clock shop apprentice; clerk at Rosenberg's; bought it in 1870; Clement Clay partner; mansion with concert hall where Paderewski played; died 1926; family-held until 1960; closing after 142 years"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-pixley-st-mary",
+    "title": "An agnostic's gift to Cow Hollow",
+    "theme": "communities",
+    "year": 1891,
+    "yearEnd": null,
+    "place": {
+      "label": "Episcopal Church of St. Mary the Virgin, 2325 Union Street at Steiner",
+      "lat": 37.79653,
+      "lon": -122.4376,
+      "precision": "building"
+    },
+    "hook": "Frank Pixley told a young priest he hated all religions. He still gave him land for a church, and his ashes lie beneath its floor.",
+    "story": "In August 1888 Florence Gay started a Sunday school for five children in a Cow Hollow home, in a pasture where dairy cows grazed among the chaparral [2]. In 1890 the mission got a priest, the Cambridge-educated Anglo-Catholic William Bolton, whom Bishop Ingraham Kip seemed glad to send to the frontier [1][2]. Bolton needed land. The obvious owner was Frank Pixley, former state attorney general and publisher of the Argonaut. His family estate filled the wooded block bounded by Union, Steiner, Green and Fillmore, and he called himself 'an agnostic with a touch of atheism' [1]. Bolton's memoirs record the answer: 'I hate your —– religion and all religions and you ask me for land to spread it... but I like your pluck in tackling that Hell's job in Cow Hollow.' Pixley said he would speak to his wife. His wife, Amelia, probably had a lot to do with what happened next [1]. St. Mary the Virgin became San Francisco's ninth Episcopal parish in April 1891 and held its first services in the new church on October 4, 1891. The Pixleys also gave the altar painting [2]. He died in 1895 and Amelia three years later. Their cremated remains lie in the crypt beneath St. Mary's floor [1].",
+    "people": [
+      {
+        "name": "Frank M. Pixley",
+        "role": "Publisher of the Argonaut; donor of the church lot"
+      },
+      {
+        "name": "Amelia Pixley",
+        "role": "His wife"
+      },
+      {
+        "name": "Rev. William W. Bolton",
+        "role": "First rector"
+      },
+      {
+        "name": "Florence Gay",
+        "role": "Founded the Sunday school"
+      }
+    ],
+    "sources": [
+      {
+        "title": "An Argonaut in Cow Hollow",
+        "publisher": "The New Fillmore",
+        "year": 2015,
+        "url": "https://newfillmore.com/2015/09/01/an-argonaut-in-cow-hollow/",
+        "supports": "Pixley's estate block and self-description; Bolton's background and Bishop Kip; Bolton's memoir quote; Amelia's likely influence; Pixley's anti-Catholic denial; deaths and crypt burial"
+      },
+      {
+        "title": "Our History",
+        "publisher": "St. Mary the Virgin Episcopal Church",
+        "year": 2026,
+        "url": "https://www.smvsf.org/about/our-history",
+        "supports": "1888 Sunday school for five children in a cow pasture; Bolton sent in 1890; parish founded April 1891 as ninth Episcopal parish; lot secured from Pixley; altar painting gift; first services October 4, 1891"
+      },
+      {
+        "title": "Frank M. Pixley",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Frank_M._Pixley",
+        "supports": "Pixley's background, 1853 marriage to Amelia Van Reynegom, death in 1895"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-exposition-church",
+    "title": "The 'Exposition Church' at Green and Steiner",
+    "theme": "communities",
+    "year": 1913,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Vincent de Paul Church, 2320 Green Street at Steiner",
+      "lat": 37.7961,
+      "lon": -122.43743,
+      "precision": "building"
+    },
+    "hook": "A Catholic parish that began in a Fillmore Street hall finished its church just in time for the world's fair, and crowds filled the pews.",
+    "story": "Archbishop Patrick Riordan formed the parish of St. Vincent de Paul on August 24, 1901. On September 22 an Irish priest, Father Martin P. Ryan, said its first Mass in a hall near Fillmore and Greenwich [1][2]. The next year the parish built a rectory and a small one-story church at Green and Steiner. Both came through the 1906 earthquake [1][2]. In June 1902 the Call announced a grander 'sacred edifice of great beauty' in Northern Italian Romanesque style, but it proved too ambitious for a young parish [1]. Work on the present church, designed by Shea and Lofquist around the earlier building, started in 1911, and it opened with a celebration Mass on October 26, 1913 [1]. Father Ryan had reportedly spent time in Switzerland and liked Swiss buildings, so he asked the architects to take their cue from them [1]. The timing was lucky: the Panama-Pacific Exposition opened on the bay 16 months later. Locals and visitors crowded in, the Mass schedule was expanded for the length of the fair, and it became known as the 'Exposition Church' [1]. A parish school was added next door in 1924 [1].",
+    "people": [
+      {
+        "name": "Father Martin P. Ryan",
+        "role": "First pastor"
+      },
+      {
+        "name": "Archbishop Patrick W. Riordan",
+        "role": "Founded the parish"
+      }
+    ],
+    "sources": [
+      {
+        "title": "'Exposition Church' inspired by the Swiss",
+        "publisher": "The New Fillmore (Bridget Maley)",
+        "year": 2015,
+        "url": "https://newfillmore.com/2015/05/01/exposition-church-inspired-by-the-swiss/",
+        "supports": "1901 founding and first Mass; 1902 church and rectory survived 1906; 1902 Call plan and Fillmore hall; construction from 1911; October 26, 1913 opening; Swiss inspiration; expanded Mass schedule during the exposition; 'Exposition Church'; 1924 school"
+      },
+      {
+        "title": "St. Vincent de Paul Church, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/St._Vincent_de_Paul_Church,_San_Francisco",
+        "supports": "Parish formed August 24, 1901; first Mass September 22, 1901 by Father Martin Ryan; 1902 buildings survived 1906"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-shamrock-isle",
+    "title": "The Irish village that wasn't Irish enough",
+    "theme": "communities",
+    "year": 1915,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Shamrock Isle on the exposition's Joy Zone, now the Moscone Recreation Center ball fields (Chestnut, Bay, Laguna and Webster)",
+      "lat": 37.803,
+      "lon": -122.4328,
+      "precision": "area"
+    },
+    "hook": "The 1915 fair promised San Francisco's Irish the 'real Ireland.' They got an Englishman's concession, a fight with a firebrand priest, and a flop.",
+    "story": "In March 1914 the Monitor, the archdiocese's newspaper, told its readers that at the coming exposition 'the real Ireland is to be properly represented' [1]. The Shamrock Isle went up on the Joy Zone, the fair's amusement strip, about where the Moscone Recreation Center's baseball diamond is now. Visitors entered through a replica of Drogheda's St. Laurence Gate, and the Chinese Village stood directly across the way [1]. The concession went to an Englishman, Kenneth Croft. Father Peter Yorke, the Mission District's 'labor priest,' smelled 'small graft' and predicted the return of the 'degrading stage Irishman' [1]. The fair's directors made Croft drop his first name for it, 'Donnybrook Fair,' and appointed six Irish American 'censors,' Archbishop Riordan among them, to oversee it [1]. None of it helped. By April admission was free, and by May a vaudeville act of triplets from Barnum and Bailey's circus had joined the Gaelic singing and dancing. In June Croft left town escorting recruits for the British army; he was arrested for violating American neutrality and later acquitted [1]. The official historian was dry: the village 'failed to reach any very altitudinous position in the financial world,' and the public 'did not seem especially interested in Irish singing and clog dancing' [2]. It had cost $100,000 and took in about $13,097 [1].",
+    "people": [
+      {
+        "name": "Kenneth R. Croft",
+        "role": "English concessionaire"
+      },
+      {
+        "name": "Father Peter Yorke",
+        "role": "Mission District priest and critic"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Shamrock Isle at the Panama Pacific International Exposition and the end of the Irish Village",
+        "publisher": "FoundSF (Elizabeth Creely)",
+        "year": 2015,
+        "url": "https://www.foundsf.org/index.php?title=Shamrock_Isle_at_the_Panama_Pacific_International_Exposition_and_the_end_of_the_Irish_Village",
+        "supports": "Monitor quote; location at today's Moscone Rec baseball diamond; St. Laurence Gate; Chinese Village opposite; Croft; Yorke's charges; name change and six censors; free admission, triplets act; Croft's June departure with recruits, arrest and acquittal; $100,000 cost and $13,096.76 revenue"
+      },
+      {
+        "title": "The Story of the Exposition, vol. 2",
+        "publisher": "Frank Morton Todd, G. P. Putnam's Sons (Internet Archive)",
+        "year": 1921,
+        "url": "https://archive.org/details/storyofexpositio02todd",
+        "supports": "'Failed to reach any very altitudinous position in the financial world'; public not interested in Irish singing and clog dancing; war prevented good exhibits; later the Streets of All Nations"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-grand-prix-1915",
+    "title": "Racing the palaces in the pouring rain",
+    "theme": "architecture-landmarks",
+    "year": 1915,
+    "yearEnd": null,
+    "place": {
+      "label": "Exposition grounds of the central Marina, where the 1915 race course looped the palaces",
+      "lat": 37.8043,
+      "lon": -122.4383,
+      "precision": "area"
+    },
+    "hook": "In 1915 some of the era's star drivers raced 400 miles through the fairgrounds, over planks laid on a swamp, past bales of hay and a crowd of 65,000.",
+    "story": "Heavy rain followed the exposition's February 1915 opening, and the part of its automobile course that ran around the dirt race track 'was a swamp' [1]. The fair bought 650,000 feet of lumber, and three shifts totaling 1,000 men planked the course day and night under searchlights from the Tower of Jewels [1]. On February 27 about 65,000 people watched the International Grand Prix in the rain. It was 400 miles: 104 laps of a 3.85-mile course. It circled the race track on planks that spurted muddy water, then wound around the Palaces of Varied Industries and of Mines, with right-angle turns lined with hay bales [2]. Thirty cars started, with Barney Oldfield, Ralph de Palma and Eddie Rickenbacker among the drivers [2]. Dario Resta, an Italian-born English driver in a French Peugeot, won in 7 hours, 7 minutes and 57 seconds, just over 56 miles an hour. The race finished after 6 p.m., in the dark [2]. A car went through the rail and a dog was killed, but nobody was hurt [2]. On March 6 Resta also won the postponed Vanderbilt Cup, even stopping to help when 'Wild Bob' Burman's car overturned [2]. The official history said it was the first time on record that one driver and car had won both races [2].",
+    "people": [
+      {
+        "name": "Dario Resta",
+        "role": "Winner of the Grand Prix and Vanderbilt Cup"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Story of the Exposition, vol. 2",
+        "publisher": "Frank Morton Todd, G. P. Putnam's Sons (Internet Archive)",
+        "year": 1921,
+        "url": "https://archive.org/details/storyofexpositio02todd",
+        "supports": "Rain, swamped dirt track, 650,000 feet of lumber, three shifts of 1,000 men, searchlights from the Tower of Jewels"
+      },
+      {
+        "title": "The Story of the Exposition, vol. 3",
+        "publisher": "Frank Morton Todd, G. P. Putnam's Sons (Internet Archive)",
+        "year": 1921,
+        "url": "https://archive.org/details/storyofexpositio03todd",
+        "supports": "Grand Prix of February 27: course route, 65,000 spectators, 30 starters, Resta's time and speed, mishaps; March 6 Vanderbilt Cup, Burman, first double win"
+      },
+      {
+        "title": "Vanderbilt Cup",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Vanderbilt_Cup",
+        "supports": "The Vanderbilt Cup was held in San Francisco in 1915"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-burr-sisters",
+    "title": "The Burr sisters never left Vallejo Street",
+    "theme": "arts-counterculture",
+    "year": 1916,
+    "yearEnd": 1968,
+    "place": {
+      "label": "Burr House, 1772 Vallejo Street",
+      "lat": 37.79662,
+      "lon": -122.42639,
+      "precision": "building"
+    },
+    "hook": "Two daughters of a Cow Hollow chemist grew up in a Vallejo Street house and never left it. One of them was a gifted photographer.",
+    "story": "The house at 1772 Vallejo is traditionally called a wedding present from Ephraim Willard Burr, the 1850s mayor who started the first savings bank on the Pacific Coast, to his son Edmund and Anna Barnard, who married in 1875. Water records suggest it was finished around 1878 [1][2]. Edmund had trained as a chemist in Leipzig. He kept a laboratory in the garden cottage and took control of the Alameda Sugar Company in 1889 [1][2]. Two of the couple's three daughters stayed for good. Alice, born in 1883, finished the Clarence White School of Photography in New York in 1916; White's students included Dorothea Lange. That same year a small Arts and Crafts studio was built on the property just for her [1][2]. In it she tried bromoil prints and the early color Autochrome process, and she later filmed her travels in Africa with her sister Marian using a motion picture camera [2]. Alice was active in the League of Women Voters; Marian worked with the Red Cross [1][2]. Marian died in 1966 and Alice in 1968, ending almost a century of Burr family life in the house [1]. Her work had rarely been shown for decades when a 1998 traveling exhibition, seen at Wesleyan University, presented her as a Pictorialist rediscovered [3].",
+    "people": [
+      {
+        "name": "Alice Burr",
+        "role": "Pictorialist photographer"
+      },
+      {
+        "name": "Marian Burr",
+        "role": "Her sister, Red Cross volunteer"
+      },
+      {
+        "name": "Edmund Coffin Burr",
+        "role": "Their father, chemist"
+      },
+      {
+        "name": "Ephraim Willard Burr",
+        "role": "Mayor of San Francisco, 1856-59"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Burr House, National Register of Historic Places Registration Form",
+        "publisher": "National Park Service",
+        "year": 2014,
+        "url": "https://npgallery.nps.gov/GetAsset/f5bc3307-5627-4f00-aa5c-fc39f0ec4325",
+        "supports": "Wedding-present lore; 1878 water records; Edmund's chemistry and cottage laboratory; Alice at the Clarence White School in 1916; 1916 studio; Marian's Red Cross work; 1940 Wurster rental house; deaths in 1966 and 1968"
+      },
+      {
+        "title": "Finding Aid to the Burr-Allyne Family Papers and Photographs, MS 717",
+        "publisher": "California Historical Society / Online Archive of California",
+        "year": 2012,
+        "url": "https://web.archive.org/web/2024/http://pdf.oac.cdlib.org/pdf/chs/ms717.pdf",
+        "supports": "E. W. Burr's savings bank and mayoralty; Edmund studied chemistry in Leipzig, married Anna Barnard in 1875, controlled Alameda Sugar Co.; Alice born 1883, League of Women Voters, bromoil and Autochrome, filmed Africa travels"
+      },
+      {
+        "title": "Alice Burr, Photographer: A California Pictorialist Rediscovered",
+        "publisher": "Davison Art Center, Wesleyan University",
+        "year": 1998,
+        "url": "https://www.wesleyan.edu/dac/exhibitions/pages/1998c-alice-burr.html",
+        "supports": "1998 exhibition of Burr's little-known work; student of Clarence White"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-north-end-station",
+    "title": "Bootleg trouble at the North End station",
+    "theme": "quake1906",
+    "year": 1920,
+    "yearEnd": 1925,
+    "place": {
+      "label": "Former North End Police Station, 2475 Greenwich Street",
+      "lat": 37.79813,
+      "lon": -122.44026,
+      "precision": "building"
+    },
+    "hook": "Built to police the 1915 world's fair, this handsome little station was soon caught up in a Prohibition liquor scandal involving the city's bail-bond kings.",
+    "story": "The North End's old station on Washington Street near Polk burned in 1906 [1]. The new one, on Greenwich between Pierce and Scott, would serve both the neighborhood and the Panama-Pacific Exposition rising on the bay. It was the district police station for the 1915 fair [1][2]. In January 1913 the Chronicle praised 'a handsomer exterior than is usually looked for at a police station,' with low red tile roofs, hand-carved brackets and ornamental iron lamps [1]. Then came Prohibition. In the early 1920s a Chronicle headline announced 'Police Scandal Breaks in McDonough Liquor Case.' Two North End officers were at odds over a liquor ring reportedly operating around the station, and one officer's son testified against the McDonough brothers, who were on trial for bootlegging [1]. The name was notorious. Pete McDonough, who with his brother ran the city's bail-bond business and was accused over the years of paying off police, had grown up in Cow Hollow; during Prohibition he spent eight months in the Alameda County Jail for bootlegging [3]. The station was mothballed in 1940, became a civil defense headquarters in 1941 and later housed the Police Juvenile Bureau [1]. When it was converted to a home and studio in the 1990s, its prisoner cell and its turntable for spinning cars around were kept [1].",
+    "people": [
+      {
+        "name": "Pete McDonough",
+        "role": "Bail bondsman raised in Cow Hollow"
+      },
+      {
+        "name": "Alfred I. Coffey",
+        "role": "City architect who designed the station"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A police station with a past — and a future",
+        "publisher": "The New Fillmore",
+        "year": 2018,
+        "url": "https://newfillmore.com/2018/03/01/a-police-station-with-a-past-and-a-future/",
+        "supports": "Original station burned in 1906; site chosen to serve the exposition; 1913 Chronicle description; early-1920s McDonough liquor scandal; 1940 mothballing, 1941 civil defense, Juvenile Bureau; 1990s conversion keeping the cell and car turntable"
+      },
+      {
+        "title": "San Francisco Landmark #218: North End Police Station",
+        "publisher": "NoeHill in San Francisco (from Planning Commission Resolution 14066)",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/sf218.asp",
+        "supports": "Built 1912 to replace stations lost in 1906; district police station for the 1915 exposition"
+      },
+      {
+        "title": "Pete McDonough",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Pete_McDonough",
+        "supports": "Raised in Cow Hollow; bail-bond business; accusations of bribery and police payoffs; eight months in Alameda County Jail for bootlegging"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-heritage-home",
+    "title": "From Gold Rush refuge to Julia Morgan home",
+    "theme": "communities",
+    "year": 1925,
+    "yearEnd": null,
+    "place": {
+      "label": "The Heritage (San Francisco Ladies' Protection and Relief Society), 3400 Laguna Street",
+      "lat": 37.8029,
+      "lon": -122.43102,
+      "precision": "building"
+    },
+    "hook": "A women's charity founded during the Gold Rush ran an orphanage for sixty years, then moved to former fairgrounds in a building by Julia Morgan.",
+    "story": "The San Francisco Ladies' Protection and Relief Society was founded in 1853 [1]. Its mission was 'to render protection and assistance to strangers, to sick independent women and children,' and it began by helping women and families stranded by the Gold Rush [3]. For six decades it ran a children's home on Franklin Street that people affectionately called the 'Old Brown Ark.' After the 1906 earthquake 145 children were moved to tents in the Presidio [3]. In 1921 the state began placing orphans in foster homes. In 1922 the society changed course, deciding to care for elderly women and convalescents instead, and accepted a block of former exposition land bounded by Francisco, Bay, Laguna and Octavia from Kate F. Austin [3]. Julia Morgan designed the new home. It is reinforced concrete faced with brick and trimmed with terra cotta [2]. The society held its first meeting in the front parlor on March 3, 1925. The job came in $28,000 under its $150,000 budget [3]. Later benefactors included Edith and Lucy Allyne, sisters from Green and Gough, who were members and made a significant gift [4]. In 1957 residents of the Crocker Old People's Home moved in, and in 1959 the enlarged home was named The Heritage [3]. It came through the 1989 earthquake almost untouched [3].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "Architect"
+      },
+      {
+        "name": "Kate F. Austin",
+        "role": "Donor of the Laguna Street land"
+      },
+      {
+        "name": "Edith and Lucy Allyne",
+        "role": "Members and benefactors"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco chronology, 1853",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 2000,
+        "url": "https://sfmuseum.org/hist/chron3.html",
+        "supports": "Ladies' Protection and Relief Society founded in 1853"
+      },
+      {
+        "title": "The Heritage, Julia Morgan, 1924-25",
+        "publisher": "Mary Ann Sullivan, Digital Imaging Project, Bluffton University",
+        "year": 2009,
+        "url": "https://homepages.bluffton.edu/~sullivanm/jmheritage/jmheritage.html",
+        "supports": "Society commissioned the retirement home for elderly women from Morgan; reinforced concrete faced with brick, terra cotta trim, 'vaguely English style'"
+      },
+      {
+        "title": "San Francisco Ladies Protection and Relief Society",
+        "publisher": "Wikipedia (timeline drawn from Beans, Inasmuch, 1953)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Ladies_Protection_and_Relief_Society",
+        "supports": "Mission; Old Brown Ark; 1906 evacuation of 145 children; 1921-22 change of focus; Kate F. Austin land; March 3, 1925 first meeting; budget; 1957 Crocker merger; 1959 name; 1989"
+      },
+      {
+        "title": "Benevolent spinsters' home now Allyne Park",
+        "publisher": "The New Fillmore (Bridget Maley)",
+        "year": 2015,
+        "url": "https://newfillmore.com/2015/04/02/benevolent-spinsters-home-now-allyne-park/",
+        "supports": "Allyne sisters were members and gave a significant contribution to the Ladies Home at Laguna and Bay"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-lucca-deli",
+    "title": "Ravioli from a garage on Chestnut",
+    "theme": "labor-industry",
+    "year": 1929,
+    "yearEnd": null,
+    "place": {
+      "label": "Lucca Delicatessen, 2120 Chestnut Street",
+      "lat": 37.80077,
+      "lon": -122.43838,
+      "precision": "building"
+    },
+    "hook": "In 1929 a railroad man from Colorado opened an Italian deli in a garage on a half-empty Chestnut Street. The ravioli machine he imported still runs.",
+    "story": "In 1929 Mike Bosco opened an Italian delicatessen at 2120 Chestnut Street with two partners, Maggiore Colona, a cook, and Italo Cencini. Bosco had grown up in Glenwood Springs, Colorado, working on the Denver & Rio Grande Railroad [1]. The Marina was still thinly settled then, with vacant lots along Chestnut. Landlords were turning the ground floors under their apartments into shops, and Lucca's started out as the parking garage beneath a six-unit building [1]. The partners put a kitchen in back and bought an Italian-built machine for ravioli and fresh pasta. The ravioli sold so well they began delivering it, and one of their first customers was the Fairmont Hotel [1]. That same 1930s machine still makes it, although the cutting and rolling are done by hand [1]. Italians were spreading from North Beach into the Marina. Bosco's grandson Paul remembered 'a small, tight-knit community, where everyone kind of knew everyone.' His maternal grandfather, one of the founders of Columbus Salame, lived just behind the deli [1]. Bosco bought out his partners in 1959, his son Ed became sole owner in 1968, and Ed's children Linda and Paul took it over [1]. Its customers have included Joe DiMaggio and Marilyn Monroe [1]. The 1920s black tiles and the old salami rack are still there [1].",
+    "people": [
+      {
+        "name": "Michele (Mike) Bosco",
+        "role": "Founder"
+      },
+      {
+        "name": "Maggiore Colona",
+        "role": "Co-founder and cook"
+      },
+      {
+        "name": "Italo Cencini",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Ed Bosco",
+        "role": "Second-generation owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Registry application and staff report: Lucca Delicatessen (includes a Hoodline interview with Paul Bosco)",
+        "publisher": "San Francisco Office of Small Business / Historic Preservation Commission",
+        "year": 2018,
+        "url": "https://web.archive.org/web/2020/https://sfosb.org/sites/default/files/Legacy%20Business/SBC%20Hearings/Item%203b.%20LBR-2017-18-027%20Lucca%20Delicatessen.pdf",
+        "supports": "All founding, ownership, garage origin, ravioli machine and Fairmont deliveries, Italian community quotes, 1989, customers, surviving features"
+      },
+      {
+        "title": "A view of the bay helped lure the maestro",
+        "publisher": "The New Fillmore",
+        "year": 2017,
+        "url": "https://newfillmore.com/2017/06/01/a-view-of-the-bay-helped-lure-the-maestro/",
+        "supports": "Lucca Deli on Chestnut still a neighborhood shopping stop in 2017"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-allyne-park",
+    "title": "The spinsters' garden that became Allyne Park",
+    "theme": "parks-nature",
+    "year": 1963,
+    "yearEnd": null,
+    "place": {
+      "label": "Allyne Park, Green and Gough Streets",
+      "lat": 37.797,
+      "lon": -122.4274,
+      "precision": "area"
+    },
+    "hook": "Two sisters lived their whole lives in a Victorian house at Green and Gough. When developers came for the lot, the neighbors fought back.",
+    "story": "Mary Newell Burr, daughter of the 1850s mayor Ephraim Burr, married the oil man John Winslow Allyne in 1871. They built a big house at Green and Gough, which a 1905 map shows with several small greenhouses on the grounds [1][2]. At one time the family owned all the lots from Green to Union along the west side of Gough [1]. Allyne died in 1901 and left the house to his daughters, Edith and Lucy. Neither married, and they lived there their entire lives [1][2]. With their Burr cousins they traveled the world, filling diaries and sketchbooks now at the California Historical Society, which also holds Lucy's photographs of the 1915 exposition [2]. They gave land to the Colonial Dames, who in 1952 moved the Octagon House across Gough onto it, and later a corner lot for its garden [1]. Gifts in their wills helped the California Historical Society buy the Whittier Mansion [1]. The sisters died in 1960 and 1963, though the sources disagree about which went first [1][2]. Then a developer proposed a 140-unit apartment building for the site. The Dames, neighbors, the Union Street Association and the Sherman School PTA petitioned against it. The city bought the property, tore down the house and made a park [1]. Today its lawn belongs to neighborhood dogs and hide-and-seek [1].",
+    "people": [
+      {
+        "name": "Edith Winslow Allyne",
+        "role": "Resident and benefactor"
+      },
+      {
+        "name": "Lucy Helen Allyne",
+        "role": "Resident, benefactor and amateur photographer"
+      },
+      {
+        "name": "John Winslow Allyne",
+        "role": "Their father, oil businessman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Benevolent spinsters' home now Allyne Park",
+        "publisher": "The New Fillmore (Bridget Maley)",
+        "year": 2015,
+        "url": "https://newfillmore.com/2015/04/02/benevolent-spinsters-home-now-allyne-park/",
+        "supports": "House and greenhouses; family landholdings; 1901 inheritance; sisters' lifelong residence; gifts to the Colonial Dames and 1952 Octagon move; Whittier Mansion; deaths 1960 and 1963; 140-unit proposal and petitions; city purchase and park"
+      },
+      {
+        "title": "Finding Aid to the Burr-Allyne Family Papers and Photographs, MS 717",
+        "publisher": "California Historical Society / Online Archive of California",
+        "year": 2012,
+        "url": "https://web.archive.org/web/2024/http://pdf.oac.cdlib.org/pdf/chs/ms717.pdf",
+        "supports": "1871 marriage; home at Green and Gough; Allyne died December 4, 1901; travels with Burr cousins; Lucy Allyne's exposition photographs; life dates Lucy 1873-1960, Edith 1877-1963"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-perrys",
+    "title": "The saloon that made Union Street swing",
+    "theme": "modern-city",
+    "year": 1969,
+    "yearEnd": null,
+    "place": {
+      "label": "Perry's, 1944 Union Street",
+      "lat": 37.7979,
+      "lon": -122.43133,
+      "precision": "building"
+    },
+    "hook": "A homesick New York ad man opened a saloon in a rundown contractor's office. Then Herb Caen called it a 'body exchange.'",
+    "story": "In 1969 Perry Butler was a 26-year-old advertising executive who had just moved to San Francisco and missed the neighborhood saloons of New York's Upper East Side [1]. He and his then-wife, Katherine, modeled their place on Martel's, their favorite bar there. 'We lived in the Marina and a real estate guy showed us this rundown building that was a contractor's office and we said, OK, we'll take it,' Butler recalled. Union Street, he said, 'was a pretty sleepy neighborhood back then' [2]. Perry's opened pouring cocktails for 75 to 85 cents and eight-ounce glasses of jug wine for 50 cents. Butler hired career bartenders, among them Michael McCourt, brought up from Los Angeles, and Mike English, who could pour, keep three dice games going and quote the stock market all at once [2]. Then Herb Caen wrote that Perry's was a singles bar, a 'body exchange,' and 'overnight, that's what we became all throughout the '70s,' Butler said. 'It always bothered me' [2]. Chronicle critic Michael Bauer later credited Perry's with starting the 'fern bar' trend [1]. It also turned up in Armistead Maupin's Tales of the City [1]. The blue-and-white checked tablecloths and photo-crowded walls have hardly changed [1][2].",
+    "people": [
+      {
+        "name": "Perry Butler",
+        "role": "Founder"
+      },
+      {
+        "name": "Michael McCourt",
+        "role": "Original head bartender"
+      },
+      {
+        "name": "Herb Caen",
+        "role": "Chronicle columnist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Registry application and staff report: Perry's",
+        "publisher": "San Francisco Office of Small Business / Historic Preservation Commission",
+        "year": 2017,
+        "url": "https://web.archive.org/web/2020/https://sfosb.org/sites/default/files/Legacy%20Business/SBC%20Hearings/Item%203c.%20LBR-2016-17-054%20Perry%27s.pdf",
+        "supports": "Founded 1969 by 26-year-old ad executive Perry Butler; New York saloon inspiration; Tales of the City; Herb Caen coverage; checked tablecloths; reprinted 2009 Michael Bauer review crediting the fern bar trend"
+      },
+      {
+        "title": "The last great saloonlord",
+        "publisher": "The New Fillmore",
+        "year": 2014,
+        "url": "https://newfillmore.com/2014/07/31/the-last-great-saloonlord/",
+        "supports": "Martel's model; Butler's quotes on the building and Union Street; opening prices; McCourt and English; Caen's 'body exchange' item and Butler's reaction"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-stfyc-fire",
+    "title": "Fire at the yacht club Christmas party",
+    "theme": "modern-city",
+    "year": 1976,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Francis Yacht Club, on the Marina jetty (99 Yacht Road)",
+      "lat": 37.8072,
+      "lon": -122.44689,
+      "precision": "building"
+    },
+    "hook": "A yacht club born from a 1927 walkout lost half its clubhouse when a Christmas tree went up in flames in the middle of a party.",
+    "story": "The St. Francis Yacht Club began with a walkout. In 1927 the old San Francisco Yacht Club, founded in 1869, split over whether to move from Sausalito to Belvedere. Members who wanted a club on the city waterfront left, and St. Francis was incorporated on May 6, 1927, with two-time commodore John Punnett as its first commodore [1]. They built on land left over from the 1915 exposition, beside its harbor, to a design by Willis Polk [1][3]. Polk died before the plans were finished; his office completed them [3]. On December 21, 1976, during a party at the club, a Christmas tree burst into flames. The five-alarm fire sent flames 100 feet into the air, killed at least one person and put seven more in the hospital [2]. The western half of the clubhouse was destroyed, and the members rallied to rebuild it [3]. In 1989 the Loma Prieta earthquake damaged the building badly enough that major foundation repairs were needed [3]. The club's own history says little of the original building is left [1]. Its best-known event began in 1964 with eight big yachts and was soon nicknamed the Big Boat Series; it is still sailed each September in the club's 'front yard' [1].",
+    "people": [
+      {
+        "name": "John Punnett",
+        "role": "First commodore"
+      },
+      {
+        "name": "Willis Polk",
+        "role": "Architect of the original clubhouse"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History",
+        "publisher": "St. Francis Yacht Club",
+        "year": 2026,
+        "url": "https://www.stfyc.com/history",
+        "supports": "1927 split from the San Francisco Yacht Club; incorporation May 6, 1927; Punnett; Polk clubhouse on exposition land; rebuilt after fire and earthquakes, little original remains; 1964 regatta nicknamed the Big Boat Series"
+      },
+      {
+        "title": "Christmas tree fire at Yacht Club kills 1, sends 7 to hospital",
+        "publisher": "San Francisco Chronicle / SFGATE (Chronicle archives)",
+        "year": 2001,
+        "url": "https://www.sfgate.com/bayarea/article/Christmas-tree-fire-at-Yacht-Club-kills-1-sends-2836367.php",
+        "supports": "December 21, 1976 five-alarm fire from a Christmas tree during a party; flames 100 feet high; at least one dead, seven hospitalized"
+      },
+      {
+        "title": "St. Francis Yacht Club",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/St._Francis_Yacht_Club",
+        "supports": "Polk died before blueprints were complete; western half destroyed and rebuilt; 1989 foundation repairs"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-izzys-punch",
+    "title": "The district attorney's punch at Izzy's",
+    "theme": "modern-city",
+    "year": 1996,
+    "yearEnd": null,
+    "place": {
+      "label": "Izzy's Steaks and Chops, 3345 Steiner Street (the Marina's first post office)",
+      "lat": 37.80026,
+      "lon": -122.43801,
+      "precision": "building"
+    },
+    "hook": "A steakhouse in the Marina's old post office became a City Hall hangout. In 1996 the new district attorney threw a punch there.",
+    "story": "In 1977 Sam DuVall read about Izzy Gomez, a Portuguese immigrant and legendary Barbary Coast saloon keeper on Pacific Street, whose fans included William Saroyan. DuVall promised himself he would one day open a 'Bohemian' steakhouse in Izzy's memory [1]. He did it on February 9, 1987, at 3345 Steiner, in the building that had been the Marina's first post office. Art Deco postal eagles are still carved into its parapet [1]. Izzy's became a regular spot for judges, city attorneys and mayors [1]. In 1996, barely five months into his first term as district attorney, Terence Hallinan was heading for the door after a birthday party there attended by the city's political elite. Developer Joe O'Donoghue was furious that Hallinan had fired veteran prosecutors by leaving pink slips on their chairs while they were at lunch, and he shouted an obscene insult [2]. Hallinan, whose boyhood nickname was 'Kayo,' turned and landed a punch. Neither man was hurt [2]. One paper covered it like a prizefight, with the fighters' ages, heights, weights and reach, and David Letterman made jokes about it [2]. A few days later Mayor Willie Brown arranged a lunch where the two made up. By 1997 O'Donoghue called Hallinan 'a real nice guy personally' [2].",
+    "people": [
+      {
+        "name": "Sam DuVall",
+        "role": "Founder of Izzy's"
+      },
+      {
+        "name": "Terence Hallinan",
+        "role": "San Francisco district attorney"
+      },
+      {
+        "name": "Joe O'Donoghue",
+        "role": "Developer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legacy Business Registry application: Izzy's Steaks and Chops",
+        "publisher": "San Francisco Office of Small Business / Historic Preservation Commission",
+        "year": 2017,
+        "url": "https://web.archive.org/web/2020/https://sfosb.org/sites/default/files/Legacy%20Business/SBC%20Hearings/Item%203b.%20LBR-2016-17-089%20Izzy%27s%20Steaks%20and%20Chops.pdf",
+        "supports": "Izzy Gomez story and 1977 inspiration; opening February 9, 1987; Marina's first post office and eagle carvings; survived 1989; clientele of officials; Hallinan-O'Donoghue scuffle"
+      },
+      {
+        "title": "A Liberal Lays Down the Law in S.F.",
+        "publisher": "Los Angeles Times (Maura Dolan)",
+        "year": 1997,
+        "url": "https://www.latimes.com/archives/la-xpm-1997-04-05-mn-45606-story.html",
+        "supports": "Five months into his tenure; pink slips; O'Donoghue's taunt; 'Kayo' punch, neither hurt; boxing-style coverage; Letterman jokes; reconciliation lunch arranged by Mayor Brown"
+      },
+      {
+        "title": "Terence Hallinan",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Terence_Hallinan",
+        "supports": "Scuffle with Joe O'Donoghue at a birthday party at Izzy's Steaks and Chops"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-2p-moscone-rec",
+    "title": "The mayor's home court on Chestnut Street",
+    "theme": "parks-nature",
+    "year": 2008,
+    "yearEnd": null,
+    "place": {
+      "label": "Moscone Recreation Center, Chestnut and Buchanan Streets",
+      "lat": 37.8017,
+      "lon": -122.4331,
+      "precision": "building"
+    },
+    "hook": "The Marina rec center's gym has always been too narrow for a regulation court. George Moscone played there anyway, and his wife watched from the balcony.",
+    "story": "When the city reopened the Moscone Recreation Center at Chestnut and Buchanan in July 2008, after an 18-month, $8 million makeover, a brass band played 'Bye Bye Blackbird' and other songs that were popular when the building opened in the 1920s [1]. One thing the money couldn't buy was a wider basketball court. 'The sides of the court are too close to the wall,' said 23-year-old Anthony Harrison. 'You bump into them... It's still a great place to play' [1]. George Moscone knew that court well. He was an all-city basketball star at St. Ignatius [2], and the Chronicle wrote that the future mayor used to put up 'his patented jump shots' here [1]. At the reopening his widow, Gina, stood beside a giant red 'M' on the new floor and remembered sitting in the balcony bleachers watching him play. Their daughter Jennifer remembered him walking her to the rec center and the park and buying her popcorn from a vendor on the corner [1]. The park, which runs between Chestnut and Bay and between Laguna and Webster, is named for Moscone, who was assassinated in City Hall in November 1978 [3][1]. 'There's a lot of sports things to play with,' seven-year-old Brigid Maher said [1].",
+    "people": [
+      {
+        "name": "George Moscone",
+        "role": "Mayor of San Francisco, 1976-78"
+      },
+      {
+        "name": "Gina Moscone",
+        "role": "His widow"
+      }
+    ],
+    "sources": [
+      {
+        "title": "S.F.'s Moscone Rec Center back bigger, better",
+        "publisher": "San Francisco Chronicle / SFGATE (Steve Rubenstein)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/news/article/S-F-s-Moscone-Rec-Center-back-bigger-better-3276128.php",
+        "supports": "2008 rededication, $8 million, 18 months; 1920s building; narrow court and Harrison quote; Moscone's jump shots; Gina and Jennifer's memories; seismic work and old north facade kept; Brigid Maher quote"
+      },
+      {
+        "title": "Moscone's Time Was Anything But Quiet",
+        "publisher": "San Francisco Chronicle / SFGATE (Susan Sward)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/politics/article/Moscone-s-Time-Was-Anything-But-Quiet-His-2976274.php",
+        "supports": "Moscone was an all-city basketball star at St. Ignatius; assassinated November 27, 1978"
+      },
+      {
+        "title": "Moscone Recreation Center",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Moscone_Recreation_Center",
+        "supports": "Park bounded by Chestnut, Bay, Laguna and Webster; renamed for Mayor Moscone"
+      }
+    ],
+    "photo": null
+  }
+]

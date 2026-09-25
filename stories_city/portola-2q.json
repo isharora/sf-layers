@@ -1,0 +1,491 @@
+[
+  {
+    "id": "portola-2q-1906-severed-mains",
+    "title": "A Full Reservoir, Cut Off From the Fire",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "University Mound Reservoir, where the Crystal Springs pipeline ended (University and Bacon streets)",
+      "lat": 37.7258,
+      "lon": -122.412,
+      "precision": "area"
+    },
+    "hook": "In 1906 the University Mound reservoir came through the earthquake almost unharmed. But the pipes leading out were cut, and its water couldn't reach the fire.",
+    "story": "In the 1880s the Spring Valley Water Company laid a 44-inch wrought-iron pipe from Crystal Springs Reservoir in San Mateo County to its new reservoir on University Mound [1]. On April 18, 1906, the earthquake broke the system in two places at once. To the south, the big pipe crossed three swamps on wooden bridges built on piles between San Bruno and San Francisco. The shaking threw sections of it four or five feet to the east and west [1]. Chief engineer Hermann Schussler later marvelled at one 800-foot length lying twisted into a 'snake-like' curve, yet showing hardly a strained seam [1].\n\nOn May 26, 1906, a reconstruction subcommittee reported that the reservoirs themselves had come through largely unharmed. But the mains leading out of College Hill and University Mound were 'completely severed', and the committee believed every serious break was in made ground. The breaks rapidly wasted the water stored in the city's reservoirs, and the districts where the main fires started were cut off completely [2]. Repair crews had to wait about ten days for scarce lumber. When it came, they rebuilt the pipe bridges with planks and flexible joints braced with wire cables made on the spot. At 7:10 a.m. on May 16, Crystal Springs water began flowing into University Mound again [1].",
+    "people": [
+      {
+        "name": "Hermann Schussler",
+        "role": "chief engineer, Spring Valley Water Company"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Water Supply of San Francisco, California, Before, During and After the Earthquake of April 18th, 1906",
+        "publisher": "Hermann Schussler / Spring Valley Water Company (Internet Archive)",
+        "year": 1906,
+        "url": "https://archive.org/details/watersupplyofsan00schu",
+        "supports": "44-inch Crystal Springs pipe to University Mound, damage on the marsh bridges, the 800-foot 'snake-like' section, the repairs, and water reaching University Mound at 7:10 a.m. on May 16"
+      },
+      {
+        "title": "Report of the Sub-committee on Water Supply and Fire Protection to the Committee on the Reconstruction of San Francisco",
+        "publisher": "Committee of Forty on Reconstruction (Internet Archive)",
+        "year": 1906,
+        "url": "https://archive.org/details/reportofsubcommi00sanf",
+        "supports": "Distributing reservoirs not injured except Lake Honda; mains from College Hill and University Mound completely severed, with all serious breaks believed to be in made ground, cutting off the districts where the main fires began"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-mclaren-park-on-paper",
+    "title": "A 550-Acre Park on Paper",
+    "theme": "parks-nature",
+    "year": 1926,
+    "yearEnd": 1958,
+    "place": {
+      "label": "University Street at Mansell Street, the park's northeastern edge",
+      "lat": 37.7195,
+      "lon": -122.41084,
+      "precision": "street"
+    },
+    "hook": "In 1926 San Francisco planned a park of 550 acres here and named it after John McLaren. Voters wouldn't pay for it, and the park ended up far smaller.",
+    "story": "In October 1926 the Board of Supervisors voted to take land by eminent domain for a large new public park south of Silver Avenue and east of La Grande Avenue. It was to be called Mission Park [1]. On November 29, 1926, they renamed it John McLaren Park, in thanks for the work of the city's long-serving park chief [1]. The plan was generous: 550 acres in the broad area between Alemany Boulevard, Bayshore Boulevard, Mission Street and the county line [1].\n\nIn 1927 appraisers valued every property inside the line. But the city attorney never began condemnation because there wasn't enough money, and on November 6, 1928, voters rejected a $2 million bond to buy and build the park [1]. After that the city bought land a piece at a time. The park shrank in stages to about 420 acres and then 361. Land inside the original line went to the School and Convent of the Good Shepherd, the Lick Home on University Street, two water department reservoirs, the Sunnydale housing project and Crocker Amazon Playground [1][2]. In 1946 the supervisors set the boundary at 318 acres, and the last purchases were made in 1958 [2].",
+    "people": [
+      {
+        "name": "John McLaren",
+        "role": "park superintendent the park was named for in 1926"
+      }
+    ],
+    "sources": [
+      {
+        "title": "John McLaren Park Area: Proposed General Plan, January 24, 1950",
+        "publisher": "San Francisco Department of City Planning (Internet Archive)",
+        "year": 1950,
+        "url": "https://archive.org/details/johnmclarenparka1950sanf",
+        "supports": "1926 Mission Park resolution, renaming on November 29, 1926, 550-acre area and its bounds, 1927 appraisals, 1928 bond defeat, later reductions and the land taken out for other uses"
+      },
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Internet Archive)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "Reductions to 421 and 361 acres, 318 acres set in 1946, property acquisition completed in 1958"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-zoe-longfield",
+    "title": "Paintings Nailed to a Portola Garage Wall",
+    "theme": "arts-counterculture",
+    "year": 1949,
+    "yearEnd": 2013,
+    "place": {
+      "label": "E. R. Taylor School, 423 Burrows Street, where Longfield went to grammar school (her Portola home's address is not published)",
+      "lat": 37.72783,
+      "lon": -122.40733,
+      "precision": "area"
+    },
+    "hook": "In 1949 a critic ranked her among the best new abstract painters. After her death in 2013, her canvases turned up nailed to her Portola garage wall.",
+    "story": "Zoe Golovinsky was born in San Francisco in 1924, the only child of Russian émigrés. Her father had been an aviator in the Czar's military, and he died in a work accident soon after arriving in America [1]. Her mother, a seamstress, married another émigré, Maxim Dolgopoloff. In high school Zoe changed her surname to Longfield, a loose English translation of his [1]. She went to E. R. Taylor Grammar School, Portola Junior High and Balboa High, and as a teenager she skated in figure-skating exhibitions [1][2].\n\nAfter Berkeley she studied at the California School of Fine Arts under Clyfford Still, Mark Rothko and Richard Diebenkorn. She was one of the few women among the first Bay Area Abstract Expressionists [1][2]. In 1949 she and eleven of Still's students opened the cooperative Metart Gallery in a former laundry on Bush Street. A Chronicle reviewer called her one of the most successful painters working in the new style [1]. In 1951 she married and set her ambitions aside. Later she lived in her childhood home in the Portola, worked as a lithographer and graphic artist, and was often seen feeding the neighbourhood's feral cats [1]. After her death in 2013, a large collection of her paintings was found unstretched and nailed to the back wall of her garage [1].",
+    "people": [
+      {
+        "name": "Zoe Longfield",
+        "role": "Abstract Expressionist painter who grew up and lived in the Portola"
+      },
+      {
+        "name": "Clyfford Still",
+        "role": "her teacher at the California School of Fine Arts"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Zoe Longfield: Biography",
+        "publisher": "The Estate of Zoe Longfield",
+        "year": 2023,
+        "url": "https://zoelongfield.com/biography",
+        "supports": "Family history, name change, schools, CSFA teachers, Metart Gallery, the 1949 review, life in her Portola childhood home, paintings found in the garage"
+      },
+      {
+        "title": "Zoe Longfield",
+        "publisher": "Wikipedia (pointer to Marter, Women of Abstract Expressionism, and Landauer)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Zoe_Longfield",
+        "supports": "Schools attended, skating exhibitions, CSFA study and Metart members"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-mansell-parkway",
+    "title": "Mansell Street, the Freeway That Never Came",
+    "theme": "modern-city",
+    "year": 1963,
+    "yearEnd": 2016,
+    "place": {
+      "label": "Mansell Street at San Bruno Avenue, eastern end of the 1963 parkway",
+      "lat": 37.72125,
+      "lon": -122.40129,
+      "precision": "street"
+    },
+    "hook": "Mansell Street is far wider than the streets it joins. It was built as one piece of a cross-town parkway, and the rest was never built.",
+    "story": "In January 1950 the City Planning Department proposed a parkway along Mansell Street to link McLaren Park with the Bayshore Freeway, with an extension east to Bayview Park and the bay [1]. A 1951 study grew the idea into a seven-and-a-half-mile cross-town John McLaren Parkway running from Lake Merced to Bayview Park [2]. Only one piece was built: a divided four-lane road from Brazil Avenue east to San Bruno Avenue, finished in 1963 [2]. Once Interstate 280 opened, the cross-town route was no longer needed. The city's own 1983 park plan called the road 'an unneeded anachronism' that had taken the park's flattest ridgetop land and split the park in two [2]. The plan's traffic figures showed only 1,867 cars eastbound and 2,330 westbound in a day [2].\n\nFor decades, people on foot jumped guardrails to get across, a real-life game of Frogger [3]. On November 23, 2015 the city broke ground on a $6.8 million project between University Street and Brazil Avenue; the Portola blog put the total at over $7 million. It was designed to put cars on one side of the wooded median and give the other side to people walking and cycling [3][4]. The Portola stretch, from University down to San Bruno Avenue, is part of the same 1963 road [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "John McLaren Park Area: Proposed General Plan, January 24, 1950",
+        "publisher": "San Francisco Department of City Planning (Internet Archive)",
+        "year": 1950,
+        "url": "https://archive.org/details/johnmclarenparka1950sanf",
+        "supports": "Proposed parkway along Mansell to the Bayshore Freeway, extended to Bayview Park and the bay"
+      },
+      {
+        "title": "Master Plan for the Development of McLaren Park",
+        "publisher": "San Francisco Recreation and Park Department (Internet Archive)",
+        "year": 1983,
+        "url": "https://archive.org/details/masterplanfordev1983sanf",
+        "supports": "1951 crosstown parkway study, segment from Brazil to San Bruno Avenue, 1963 construction, 'unneeded anachronism', traffic counts"
+      },
+      {
+        "title": "McLaren Park's Promenade Breaks Ground",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2015,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2015/11/mclaren-parks-promenade-breaks-ground/",
+        "supports": "Mansell as a relic of the never-completed crosstown freeway plan, the 'Frogger' crossings, the November 23, 2015 groundbreaking, the planned layout"
+      },
+      {
+        "title": "$6.8M bicycle, pedestrian corridor construction to begin at McLaren Park",
+        "publisher": "San Francisco Examiner / Bay City News (archived)",
+        "year": 2015,
+        "url": "https://web.archive.org/web/2017/http://www.sfexaminer.com/6-8m-bicycle-pedestrian-corridor-to-begin-construction-at-mclaren-park/",
+        "supports": "$6.8 million Mansell Street Corridor Improvement Project between University Street and Brazil Avenue, groundbreaking November 2015"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-alvin-duskin",
+    "title": "The Portola Boy Who Fought the Skyscrapers",
+    "theme": "civil-rights",
+    "year": 1971,
+    "yearEnd": null,
+    "place": {
+      "label": "San Bruno Avenue, the Portola shopping street of Duskin's boyhood",
+      "lat": 37.72745,
+      "lon": -122.40382,
+      "precision": "street"
+    },
+    "hook": "He grew up shopping on San Bruno Avenue and got rich selling mini-dresses. Then he spent the money trying to stop downtown San Francisco from building upward.",
+    "story": "Alvin Duskin called himself 'a child of the Depression'. He grew up in what he called the San Bruno Avenue/Portola district, a working-class neighbourhood that he remembered as Jewish, Italian and Maltese [1]. His parents ran an apparel factory and built their house during World War II for $15,000 [1][2]. Walks to the San Bruno Avenue shops took forever, because his parents stopped 'three times in every block' to talk to people they knew [1].\n\nDuskin went into the clothing business himself. His big idea was simple: add ten inches to a snug knit sweater and you have a mini-dress that sells for twice as much [2]. Then he turned to politics. His full-page newspaper ads helped stop a Texas developer's plan to turn Alcatraz into a tourist attraction. In 1971 he put Proposition T on the ballot, which would have banned new buildings over 72 feet unless voters approved them in advance [2]. His ad warned that the city could become 'a skyline of tombstones', and the campaign gave out 50,000 copies of a 'Vote on High-Rise Coloring Book' [2]. Proposition T lost, and so did a follow-up in 1972. But by the end of 1972 city planners had released an urban design plan controlling where towers could rise [2]. Duskin died in 2021, aged 90 [2].",
+    "people": [
+      {
+        "name": "Alvin Duskin",
+        "role": "Portola-raised dressmaker and leader of the 1971 anti-high-rise campaign"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alvin Duskin, High Rise Hater (interview by Marcus Duskin)",
+        "publisher": "FoundSF",
+        "year": 2009,
+        "url": "https://www.foundsf.org/index.php?title=Alvin_Duskin,_High_Rise_Hater",
+        "supports": "Growing up in the San Bruno Avenue/Portola district, its Jewish, Italian and Maltese character, the $15,000 wartime house, stopping three times a block"
+      },
+      {
+        "title": "Alvin Duskin, a creative crusader against high-rises, dies at 90",
+        "publisher": "San Francisco Chronicle (John King)",
+        "year": 2021,
+        "url": "https://www.sfchronicle.com/bayarea/article/Alvin-Duskin-a-creative-crusader-against-16449620.php",
+        "supports": "Portola upbringing and parents' apparel factory, the sweater-dress idea, Alcatraz ads, Proposition T and the 72-foot limit, the coloring book, 1972 sequel, the urban design plan, death at 90"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-breakfast-at-tiffanys",
+    "title": "The Diner the Neighbourhood Wouldn't Let Go",
+    "theme": "modern-city",
+    "year": 1978,
+    "yearEnd": 2014,
+    "place": {
+      "label": "Breakfast at Tiffany's, 2499 San Bruno Avenue at Thornton Avenue",
+      "lat": 37.73048,
+      "lon": -122.40452,
+      "precision": "building"
+    },
+    "hook": "When the owner of the Portola's corner diner died in 2013, the new owner planned a noodle shop. Neighbours kept asking about the diner until he changed his mind.",
+    "story": "Regular Chuck Dee remembers when this corner of San Bruno and Thornton avenues was a doughnut shop, the Pastry Express [1]. In 1978 Gerald 'Jerry' Adan took it over and ran it as Breakfast at Tiffany's, named after his niece, his sister April Martin's daughter. For 35 years he ran it from the griddle, serving what Dee called 'truck-stop style food, but with fresher ingredients' and loud politics [1]. Adan died of cancer in September 2013. Martin hoped to take over, but the building's elderly owner refused to renew the lease and put it up for sale; Martin pasted a goodbye note on the window [1][2][3].\n\nKash Feng, a Portola resident who owned several Japanese restaurants, bought the building that October. He planned to open a Northern Chinese noodle-and-dumpling shop [1]. But while he gutted the space, neighbours he had never seen kept stopping by to ask whether 'Tiffy's' was coming back. Jack Tse, then the Portola Neighborhood Association's corridor manager, told him that reopening the diner would guarantee success [1]. Partway through the remodel Feng changed his plans, and the city's SF Shines program helped pay for paint and a new sign [1]. He kept only the old counter, ordered swivel seats from the East Coast, and reopened on November 1, 2014, to a line out the door [1].",
+    "people": [
+      {
+        "name": "Gerald Adan",
+        "role": "owner and cook, 1978–2013"
+      },
+      {
+        "name": "Kash Feng",
+        "role": "bought the building in 2013 and revived the diner"
+      },
+      {
+        "name": "Jack Tse",
+        "role": "Portola corridor manager who urged the revival"
+      }
+    ],
+    "sources": [
+      {
+        "title": "How an S.F. neighborhood saved its diner, Breakfast at Tiffany's",
+        "publisher": "San Francisco Chronicle (Jonathan Kauffman)",
+        "year": 2016,
+        "url": "https://www.sfchronicle.com/restaurants/article/How-an-S-F-neighborhood-saved-its-diner-6818329.php",
+        "supports": "Pastry Express, Adan's ownership from 1978, the naming, his death in 2013, the lease, Feng's purchase and change of plan, Jack Tse, SF Shines, the November 1, 2014 reopening"
+      },
+      {
+        "title": "After 35 years, Breakfast at Tiffany's closes",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2013,
+        "url": "https://web.archive.org/web/2020/http://portolaplanet.com/2013/10/35-years-breakfast-tiffanys-closes/",
+        "supports": "Closure after the death of owner and chef Gerald Adan; his sister April's message in the window"
+      },
+      {
+        "title": "Prime restaurant space in the Portola opens: old Breakfast at Tiffany's space",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2013,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2013/11/prime-resturant-space-portola-opens-old-breakfast-tiffanys-space/",
+        "supports": "The building's owner decided to sell after Adan's death"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-reservoir-goats-parrots",
+    "title": "Goats, Parrots and a Hawk on Woolsey Hill",
+    "theme": "parks-nature",
+    "year": 2012,
+    "yearEnd": 2017,
+    "place": {
+      "label": "Woolsey Street side of University Mound Reservoir's South Basin",
+      "lat": 37.72278,
+      "lon": -122.41111,
+      "precision": "block"
+    },
+    "hook": "One August morning in 2012 a truck unloaded 275 goats onto the reservoir slopes. They were there to eat the brush and cut the fire risk.",
+    "story": "On the morning of August 2, 2012, a truck unloaded 275 goats onto the Woolsey Street side of University Mound Reservoir's South Basin [1]. The mixed herd of Angora, Pygmy, Alpine and Spanish goats came from a company called Goats R Us. With a goatherd and a dog, they were to spend a few days eating the brush on the steep slopes to reduce the fire risk, as part of the water department's integrated pest management program [1]. Jerilyn Downing, the department's landscape manager, said the goats were hired once a year for sites across the city: about 300 more were at Twin Peaks, and roughly 1,000 were working citywide [1]. Two weeks later a flock turned up at College Hill Reservoir in Bernal Heights. A new neighbour there worked out that they belonged to the same SF Water brush-clearance project that had 'recently devoured the tall grasses of the Portola District' [2].\n\nThe hill has wilder residents too. In 2017 neighbours reported a flock of wild parrots, apparently cherry-headed conures, living in the trees between Woolsey Street and the north end of Burton High School. Neighbours said the birds flew off toward downtown in the morning and came back in the late afternoon. A block away, near Goettingen and Dwight streets, a hawk had built a nest [3].",
+    "people": [
+      {
+        "name": "Jerilyn Downing",
+        "role": "landscape manager, SF Water"
+      }
+    ],
+    "sources": [
+      {
+        "title": "275 goats invade University Mound Reservoir",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2012,
+        "url": "https://web.archive.org/web/2016/http://portolaplanet.com/2012/08/275-goats-invade-university-mound-reservoir/",
+        "supports": "Date, number and breeds of goats, Goats R Us, the South Basin's Woolsey Street side, fire-hazard purpose, figures from Jerilyn Downing"
+      },
+      {
+        "title": "Swarm of hungry goats invades College Hill Reservoir",
+        "publisher": "Bernalwood",
+        "year": 2012,
+        "url": "https://bernalwood.com/2012/08/16/swarm-of-hungry-goats-invades-college-hill-reservoir/",
+        "supports": "Same SF Water brush-clearance goats, which had recently grazed in the Portola"
+      },
+      {
+        "title": "The Wild Parrots Of The Portola",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2017,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2017/04/wild-parrots-portola/",
+        "supports": "Parrot flock between Woolsey Street and Burton High, commuting, cherry-headed conures, hawk nest near Goettingen and Dwight"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-yosemite-creek",
+    "title": "A Buried Creek Beneath Wayland Street",
+    "theme": "parks-nature",
+    "year": 2013,
+    "yearEnd": 2017,
+    "place": {
+      "label": "Wayland Street near University Street, along the proposed Upper Yosemite Creek daylighting route",
+      "lat": 37.72376,
+      "lon": -122.41379,
+      "precision": "street"
+    },
+    "hook": "A creek rises in McLaren Park and runs to the bay, mostly in a pipe under Portola streets. In 2013 the city began planning to bring part back above ground.",
+    "story": "Yosemite Creek rises from a spring in McLaren Park and once ran downhill all the way to the bay [1][2]. Today most of it flows through a covered pipe under the Portola's streets and into the city's combined sewer system. On a dry day that system treats about 80 million gallons of water; in a heavy rain it can be 575 million [1]. An early Portola resident, in oral histories gathered by Chris Ortiz, recalled a creek by his house near Mansell Street, 'probably Yosemite Cr.' [3].\n\nIn the autumn of 2013 the Public Utilities Commission led a packed crowd of neighbours along the route of its Upper Yosemite Creek Daylighting project, a plan to bring part of the creek back to the surface along McLaren Park's border with the Portola [1]. One idea was to move back the reservoir fence and let the creek wind down beside the basin through a new public space [1]. Project manager Raphael Garcia said that if it succeeded it would be the city's first daylighting project of its kind. Asked for money to take it further, he said: 'the funds I have, are the funds I have' [1]. In March 2017 the final design, with the creek drawn along Wayland Street, was shown at a church hall on Woolsey Street [2].",
+    "people": [
+      {
+        "name": "Raphael Garcia",
+        "role": "SFPUC project manager"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Upper Yosemite Creek Daylighting out reach meeting",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2013,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2013/10/upper-yosemite-creek-daylighting-reach-meeting/",
+        "supports": "Creek history, sewer figures, the October 2013 walking tour, the reservoir-edge proposal, Raphael Garcia's comments"
+      },
+      {
+        "title": "Yosemite Creek Daylight Plans To Be Revealed At Thursday Meeting",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2017,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2017/03/yosemite-creek-daylight-plans-revealed-thursday-meeting/",
+        "supports": "Spring in McLaren Park, covered pipe under the streets, rendering along Wayland Street, March 23, 2017 open house at 465 Woolsey Street"
+      },
+      {
+        "title": "The Portola District",
+        "publisher": "FoundSF (Chris Ortiz)",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=The_Portola_District",
+        "supports": "Oral-history memory of a creek, 'probably Yosemite Cr.', near Mansell Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-fdr-brewery",
+    "title": "A Brewery Comes to San Bruno Avenue",
+    "theme": "labor-industry",
+    "year": 2016,
+    "yearEnd": null,
+    "place": {
+      "label": "Ferment Drink Repeat taproom, 2636 San Bruno Avenue",
+      "lat": 37.72826,
+      "lon": -122.40416,
+      "precision": "building"
+    },
+    "hook": "Plans for San Bruno Avenue's first brewery took 16 months just to get permits and money. On opening night the taproom was full until closing.",
+    "story": "When a start-up called Ferment Drink Repeat announced plans for San Bruno Avenue's first brewery. In October 2015 several neighbours emailed the local blog asking for news, so its writer asked the owners directly [1]. Their answer: they had spent 16 months getting building permits and funding in place, about 12 months longer than they had hoped, and had only just received the approval letter for the loan they needed to build [1]. They wouldn't guess at an opening date, because projects 'seem to have a habit of falling behind schedule' [1]. A reader noted that nothing had changed at the storefront [1].\n\nBy April 2016 they were at least selling home-brewing supplies in the space. Co-owner Kevin helped a blogger choose a first batch, a Little Bitty Brown Ale, which ended up bubbling in a bucket in his office [2]. The taproom at 2636 San Bruno Avenue finally had a soft opening on May 25, 2016, almost two and a half years after the project began, and it stayed full until closing [3]. Co-owner Shae kept thanking the neighbourhood for backing them through the city approvals. The blog's writer was glad of a reason to be on the main street after 3 p.m. [3]. A year later the brewery marked its first anniversary with live music all day [4].",
+    "people": [
+      {
+        "name": "Kevin",
+        "role": "co-owner, Ferment Drink Repeat"
+      },
+      {
+        "name": "Shae",
+        "role": "co-owner, Ferment Drink Repeat"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Bruno Ave. Brewery Update",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2015,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2015/10/san-bruno-ave-brewery-update/",
+        "supports": "Billed as San Bruno Avenue's first brewery; neighbours' emails; 16 months of permits and funding; loan approval letter; no opening date; reader comment on the unchanged storefront"
+      },
+      {
+        "title": "Home brewing from FDR, cooking up!",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2016,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2016/04/home-brewing-from-fdr-cooking-up/",
+        "supports": "Home-brew store on San Bruno Avenue, owner Kevin, the Little Bitty Brown Ale kit"
+      },
+      {
+        "title": "F.D.R. Brewery Opens (Softly) To A Crowd",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2016,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2016/05/f-d-r-brewery-opens-softly-crowd/",
+        "supports": "Soft opening at 2636 San Bruno Avenue, project begun almost 2.5 years earlier, full house until closing, co-owner Shae, 'past 3 p.m.'"
+      },
+      {
+        "title": "Portola's Brewery Turns 1 This Weekend",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2017,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2017/06/portolas-brewery-turns-1-weekend-celebration-saturday/",
+        "supports": "First-anniversary party with live music, June 24, 2017"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-fire-hydrants",
+    "title": "No High-Pressure Hydrants for the Portola",
+    "theme": "modern-city",
+    "year": 2016,
+    "yearEnd": 2017,
+    "place": {
+      "label": "Silver Avenue at University Street, on the proposed route of a high-pressure fire main to University Mound Reservoir",
+      "lat": 37.73062,
+      "lon": -122.41546,
+      "precision": "street"
+    },
+    "hook": "After 1906 San Francisco built an emergency firefighting water network that never reached the Portola. By 2016 the proposed substitute was fifteen miles of hose.",
+    "story": "After the 1906 disaster, a city committee called for a separate high-pressure fire main system supplied with water pumped from the bay. It was meant only for the 'congested value district' downtown [2]. The resulting Auxiliary Water Supply System was finished by 1913 and never reached many outer neighbourhoods, the Portola among them [1].\n\nBetween 2010 and 2012, Public Utilities Commission maps showed an extension running along Geneva and Silver avenues to University Mound Reservoir, the Portola's 140-million-gallon hilltop basin [1]. The agency's later plans dropped it. Instead it floated a 'Flexible Water Supply System': about 15 miles of 12-inch hose stored at the Sunset and University Mound reservoirs, which volunteers from the Neighborhood Emergency Response Team would lay out after an earthquake. Critics warned of debris-blocked, pitch-dark streets, and the plan was abandoned [1]. On April 6, 2016, firefighters' union president Thomas O'Connor wrote to Supervisor Aaron Peskin that the union was 'greatly disturbed' that the Silver Avenue extension and others were being dropped. At a hearing on March 15, 2017, Peskin wondered aloud whether the city should 'bite the bullet' on a half-billion-dollar investment [1]. By then only University Mound's North Basin had been seismically upgraded, in 2010 [1].",
+    "people": [
+      {
+        "name": "Thomas O'Connor",
+        "role": "president, San Francisco Fire Fighters Local 798"
+      },
+      {
+        "name": "Aaron Peskin",
+        "role": "supervisor who held hearings on the fire water system"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Auxiliary Water Supply System Expansion Abandoned (Thomas K. Pendergast)",
+        "publisher": "FoundSF, reprinted from the Sunset Beacon, Richmond Review and Ingleside-Excelsior Light",
+        "year": 2017,
+        "url": "https://www.foundsf.org/index.php?title=Auxiliary_Water_Supply_System_Expansion_Abandoned",
+        "supports": "AWSS completed by 1913 and not extended to the Portola, the 2010–2012 maps of a Geneva and Silver Avenue extension to University Mound, the abandoned flexible-hose plan, O'Connor's letter, Peskin's March 2017 remark, the 2010 North Basin upgrade"
+      },
+      {
+        "title": "Report of the Sub-committee on Water Supply and Fire Protection to the Committee on the Reconstruction of San Francisco",
+        "publisher": "Committee of Forty on Reconstruction (Internet Archive)",
+        "year": 1906,
+        "url": "https://archive.org/details/reportofsubcommi00sanf",
+        "supports": "The 1906 recommendation of a separate bay-water fire main system for the congested value district"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-2q-goettingen-stairs",
+    "title": "A Mudslide Stairway Becomes a Hillside Garden",
+    "theme": "parks-nature",
+    "year": 2018,
+    "yearEnd": null,
+    "place": {
+      "label": "Goettingen Street stairway and garden at Dwight Street",
+      "lat": 37.72307,
+      "lon": -122.40513,
+      "precision": "block"
+    },
+    "hook": "The slope beside the Goettingen Street steps used to be a dirt pile full of dumped rubbish. Neighbours spent ten years turning it into a garden with a lookout.",
+    "story": "About ten years before 2018, the slope beside the Goettingen Street stairs was a mud slide and a dumping ground. The Portola's neighbourhood blog later called it 'a garbage covered dirt pile' [1][3]. Neighbours on the 700 block of Goettingen formed the Goettingen Neighbors Group and started clearing it [1]. By 2015 the group had members from as far away as Hamilton and Colby streets. That September they spent a whole Saturday sweeping, weeding, hauling rubbish and laying donated slate flagstones ahead of the annual Portola Garden Tour [1].\n\nIn 2016 the group tried to win a Parks Alliance grant in an online vote for 'Goettingen Cascades'. Portola artist Phillip Hua designed it as a glass and ceramic 'waterway' that would shimmer and even glow as it ran down through the garden at Dwight and Goettingen. The group also held a plant sale to raise money [2]. In summer 2018 work finally began. Paid for by neighbours and city Community Challenge Grants, crews poured a board-formed concrete platform halfway up the stairs, with built-in benches and a view north toward downtown. A tile mosaic on the steps was planned as the next phase [3].",
+    "people": [
+      {
+        "name": "Phillip Hua",
+        "role": "Portola artist who designed the Goettingen Cascades proposal"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Goettingen St. (and beyond) Neighbors Beautifying the Portola",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2015,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2015/09/goettingen-st-beyond-neighbors-beautifying-portola/",
+        "supports": "Group formed by 700-block neighbours about a decade earlier, hillside was a mud slide and dumping ground, 2015 work day, slate flagstones"
+      },
+      {
+        "title": "PortolART: Support the Goettingen Cascades Stairway Transformation",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2016,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2016/04/portolart-goettigen-cascades-a-new-art-project-coming-to-the-portola/",
+        "supports": "Goettingen Cascades design by Phillip Hua, Parks Alliance grant vote, plant sale"
+      },
+      {
+        "title": "New Goettingen Staircase Parklet is Underway",
+        "publisher": "The Portola Planet (archived)",
+        "year": 2018,
+        "url": "https://web.archive.org/web/2019/http://portolaplanet.com/2018/08/new-goettingen-staircase-parklet-is-underway/",
+        "supports": "2018 construction, board-formed concrete benches, view north, Community Challenge Grants, 'garbage covered dirt pile', planned mosaic"
+      }
+    ],
+    "photo": null
+  }
+]
