@@ -157,7 +157,19 @@
   }
   @media (min-width: 861px) { body.dopen .topbar, body.dopen .results { right: 448px; } }
   @media (min-width: 861px) and (max-width: 1640px) { body.dopen .search { width: 170px; } }
-  @media (min-width: 861px) and (max-width: 1420px) { body.dopen .cartouche { opacity: 0; } }
+  @media (min-width: 861px) and (max-width: 1640px) { body.dopen .cartouche { opacity: 0; } }
+  .daynav { display: flex; align-items: center; gap: 6px; margin: 2px 0 6px; flex-wrap: wrap; }
+  .daynav button, .daynav select { white-space: nowrap; }
+  .daynav button { font: 500 13px var(--ui); color: var(--ink); background: #fbf5e6; border: 1px solid #d6c49c; border-radius: 999px; padding: 6px 12px; cursor: pointer; }
+  .daynav select { font: 500 13px var(--ui); color: var(--ink); background: #fbf5e6; border: 1px solid #d6c49c; border-radius: 999px; padding: 5px 10px; }
+  .dcard { margin: 12px 0; padding: 13px 16px; background: #fbf5e6; border-radius: 10px; border-left: 4px solid var(--c, #b8903f); cursor: pointer; }
+  .dcard:hover { background: #fffaf0; }
+  .dcard .y { font: 700 30px/1 var(--display); color: var(--c); }
+  .dcard .w { font: 600 20px/1.25 var(--display); margin: 4px 0 3px; }
+  .dcard .s { font: 12px var(--ui); color: var(--ink-2); }
+  .dcard .ago { float: right; font: 600 11px var(--ui); color: #9b8561; letter-spacing: .04em; margin-top: 6px; }
+  .nothing { margin: 8px 0 4px; padding: 12px 14px; border-radius: 10px; background: #3d3026; color: #f6eedb; font: italic 18px/1.4 var(--display); }
+  .nothing small { display: block; font: 600 10.5px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: #d8c8a6; font-style: normal; margin-bottom: 3px; }
   .loading { position: fixed; left: 50%; top: 50%; transform: translate(-50%,-50%); font: italic 22px var(--display); color: var(--ink); background: rgba(248,240,220,.95); padding: 14px 24px; border-radius: 12px; border: 1px solid #c9b58a; }
 </style>
 </head>
@@ -167,7 +179,7 @@
 <div class="cartouche"><div class="k">LAYERS · A MAP IN TIME</div><h1>San Francisco</h1><div class="s">Every block, every era. Zoom in to explore.</div></div>
 <nav class="quick" id="quick" aria-label="Jump to a neighbourhood"><div class="lbl">Jump to</div></nav>
 <div class="backbar" id="backbar"><button id="backBtn">← All of San Francisco</button><b id="bbName"></b><span id="bbStat"></span></div>
-<div class="topbar"><input class="search" id="search" placeholder="Search any address or story" aria-label="Search addresses, places and stories" autocomplete="off" spellcheck="false"><button id="walkBtn" title="Follow your location and get a buzz when you reach a story">📍 Walk mode</button><button class="pri" id="toursBtn">Walking tours</button><button id="storiesBtn">All stories</button></div>
+<div class="topbar"><input class="search" id="search" placeholder="Search any address or story" aria-label="Search addresses, places and stories" autocomplete="off" spellcheck="false"><button id="dayBtn" title="What happened in San Francisco on today’s date">📅 On this day</button><button id="walkBtn" title="Follow your location and get a buzz when you reach a story">📍 Walk mode</button><button class="pri" id="toursBtn">Walking tours</button><button id="storiesBtn">All stories</button></div>
 <div class="results" id="results"></div>
 <div class="legend" id="legend"></div>
 <div class="themekey" id="themekey"></div>
@@ -185,6 +197,7 @@
 <script src="city/base.js"></script>
 <script src="city/stories.js"></script>
 <script src="city/tours.js"></script>
+<script src="city/days.js"></script>
 <script>
 const B = window.BASE, ST = window.STORIES || { themes: {}, stories: [] };
 const cv = document.getElementById('cv'); let ctx = cv.getContext('2d');
@@ -505,7 +518,7 @@ function openBlock(b) {
     ${ss.length ? `<div class="stat" style="margin-top:18px">Stories on this block</div>${ss.map(card).join('')}` : `<div class="soon">No stories pinned to this block yet. Nearby pins may tell its neighbourhood's story.</div>`}</div>`;
   drawer.classList.add('open'); drawer.scrollTop = 0;
 }
-document.getElementById('close').onclick = () => { drawer.classList.remove('open'); SEL = null; NEARVIEW = null; if (!WALK) { HERE = null; NEAR = null; } dirty(); };
+document.getElementById('close').onclick = () => { drawer.classList.remove('open'); SEL = null; NEARVIEW = null; HERE = null; NEAR = null; dirty(); };
 document.getElementById('storiesBtn').onclick = () => { FILTER = { theme: 'all', hood: FOCUS ? FOCUS.n : 'all' }; listStories(); };
 
 /* ---------- neighbourhood quick-jumps ---------- */
@@ -644,6 +657,40 @@ function openNear(label, x, y, noFly) {
 let NEARVIEW = null;
 
 new MutationObserver(() => document.body.classList.toggle('dopen', drawer.classList.contains('open'))).observe(drawer, { attributes: true, attributeFilter: ['class'] });
+
+/* ---------- on this day ---------- */
+const DAYS = window.DAYS || [];
+const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const mdOf = d => (d.getMonth() + 1) * 100 + d.getDate();
+const mdName = md => `${MONTHS[Math.floor(md / 100) - 1]} ${md % 100}`;
+function shiftDay(md, n) { const d = new Date(2024, Math.floor(md / 100) - 1, md % 100); d.setDate(d.getDate() + n); return mdOf(d); } // 2024: a leap year, so Feb 29 exists
+function nextWithStories(md) { for (let i = 1; i <= 366; i++) { const m = shiftDay(md, i); if (DAYS.some(r => r[0] === m)) return [m, i]; } return null; }
+function onThisDay(md = mdOf(new Date())) {
+  const today = mdOf(new Date()), rows = DAYS.filter(r => r[0] === md).sort((a, b) => a[1] - b[1]);
+  let body = '', shown = rows, showMd = md;
+  if (!rows.length) {
+    const nx = nextWithStories(md);
+    if (nx) { showMd = nx[0]; shown = DAYS.filter(r => r[0] === nx[0]).sort((a, b) => a[1] - b[1]); }
+    body = `<div class="nothing"><small>Nothing on ${mdName(md)}</small>None of our stories happened on this date. The next milestone is ${nx ? `${nx[1] === 1 ? 'tomorrow' : `${nx[1]} days later`}, on <b style="font-style:normal">${mdName(nx[0])}</b>` : 'still to be found'}.</div>`;
+  }
+  const thisYear = new Date().getFullYear();
+  body += shown.map(([m, y, id, what]) => { const s = SBY[id]; if (!s) return ''; return `<div class="dcard" style="--c:${col(s)}" data-sid="${id}"><span class="ago">${thisYear - y} years ago</span><div class="y">${y}</div><div class="w">${esc(what)}</div><div class="s">${esc(s.title)} · ${esc(s.place)}</div></div>`; }).join('');
+  dbody.innerHTML = `<div class="hd"><div class="k">${md === today ? 'Today in San Francisco history' : 'On this day in San Francisco history'}</div><h2>${mdName(md)}</h2><div class="sub">${rows.length ? `${rows.length} ${rows.length === 1 ? 'thing' : 'things'} that happened on this date` : 'A quiet day in our records'}</div></div>
+    <div class="bd"><div class="daynav"><button id="dPrev">← ${mdName(shiftDay(md, -1)).replace(/^(\w{3})\w*/, '$1')}</button><select id="dMon" aria-label="Month">${MONTHS.map((n, i) => `<option value="${i + 1}" ${i + 1 === Math.floor(md / 100) ? 'selected' : ''}>${n}</option>`).join('')}</select><select id="dDay" aria-label="Day">${Array.from({ length: new Date(2024, Math.floor(md / 100), 0).getDate() }, (_, i) => `<option ${i + 1 === md % 100 ? 'selected' : ''}>${i + 1}</option>`).join('')}</select><button id="dNext">${mdName(shiftDay(md, 1)).replace(/^(\w{3})\w*/, '$1')} →</button>${md !== today ? '<button id="dToday">Today</button>' : ''}</div>${body}</div>`;
+  drawer.classList.add('open'); drawer.scrollTop = 0; CUR = shown.map(r => SBY[r[2]]).filter(Boolean);
+  document.getElementById('dPrev').onclick = () => onThisDay(shiftDay(md, -1));
+  document.getElementById('dNext').onclick = () => onThisDay(shiftDay(md, 1));
+  const t = document.getElementById('dToday'); if (t) t.onclick = () => onThisDay();
+  const pickDay = () => { const m = +document.getElementById('dMon').value, d = Math.min(+document.getElementById('dDay').value, new Date(2024, m, 0).getDate()); onThisDay(m * 100 + d); };
+  document.getElementById('dMon').onchange = pickDay; document.getElementById('dDay').onchange = pickDay;
+  dbody.querySelectorAll('.dcard').forEach(c => c.onclick = () => openStory(c.dataset.sid, true));
+  // show where today's stories happened
+  const pts = CUR.map(s => s.c); if (pts.length && !(WALK && WALK.follow)) { const bx = [Math.min(...pts.map(p => p[0])), Math.min(...pts.map(p => p[1])), Math.max(...pts.map(p => p[0])), Math.max(...pts.map(p => p[1]))]; flyFit(bx, 1.6, 1000); }
+  if (FOCUS) exitHoodQuiet();
+  NEAR = new Set(CUR.map(s => s.id)); HERE = null; SEL = null; dirty();
+}
+function exitHoodQuiet() { FOCUS = null; backbar.classList.remove('on'); quick.classList.remove('hide'); FILTER.hood = 'all'; quick.querySelectorAll('button.on').forEach(b => b.classList.remove('on')); }
+document.getElementById('dayBtn').onclick = () => { if (TOUR) exitTour(true); onThisDay(); };
 
 /* ---------- walking tours ---------- */
 const TOURS = window.TOURS || [];
