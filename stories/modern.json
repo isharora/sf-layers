@@ -1,0 +1,835 @@
+[
+  {
+    "id": "modern-love-pageant-rally",
+    "title": "The Day LSD Became Illegal",
+    "year": 1966,
+    "yearEnd": 1967,
+    "place": {
+      "label": "The Panhandle at Masonic Avenue and Fell Street",
+      "lat": 37.77332,
+      "lon": -122.4456,
+      "precision": "block"
+    },
+    "hook": "The day California outlawed LSD, the Haight threw a party on the Panhandle, with the Grateful Dead and Big Brother playing, dogs in psychedelic gear and Kesey's bus.",
+    "story": "On October 6, 1966, the day a new California law against LSD took effect, the editors of the San Francisco Oracle staged a \"Love Pageant Rally\" on the Panhandle [1]. Contemporary newspaper accounts put the gathering at the corner of Masonic and Fell, with a traffic jam building along Masonic [2]. Estimates of the crowd ranged from about 500 in one contemporary report to between 1,000 and 3,000 in later retellings [1][2]. The Grateful Dead and Big Brother and the Holding Company played. Ken Kesey's multicoloured bus turned up, carrying \"long-haired children\" and dogs outfitted in \"psychedelic gear\" [2]. Afterwards, organiser Michael Bowen told Richard Alpert, \"People are sure hungry for some communicating,\" and that remark helped inspire the Human Be-In a few months later [1]. The rally was the first of five Grateful Dead appearances in the Panhandle over eight months [4]. Other bands also played free in the grassy strip between Fell and Oak. The most famous was Jimi Hendrix, who played on Jefferson Airplane's flatbed truck one Sunday in June 1967, farther west near Cole Street [3]. On March 8, 2026, musicians revived the flatbed tradition for an estimated 5,000 people. The generator powering the amplifiers ran out of fuel in the middle of \"Wharf Rat\" [4].",
+    "people": [
+      {
+        "name": "Michael Bowen",
+        "role": "Artist and organiser, San Francisco Oracle"
+      },
+      {
+        "name": "Ken Kesey",
+        "role": "Author; arrived with the Merry Pranksters' bus"
+      },
+      {
+        "name": "Jimi Hendrix",
+        "role": "Played a free Panhandle show, June 1967"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hungry for Communication: The Love Pageant Rally & Michael Bowen",
+        "publisher": "California Historical Society (Nicole Meldahl)",
+        "year": 2016,
+        "url": "https://californiahistoricalsociety.blogspot.com/2016/10/hungry-for-communication-love-pageant.html",
+        "supports": "Oracle organisers, date and LSD law, crowd estimate, bands, Bowen quote and the Be-In"
+      },
+      {
+        "title": "October 6, 1966: The Panhandle, San Francisco",
+        "publisher": "Grateful Dead Sources (transcribed 1966 newspaper accounts)",
+        "year": 2017,
+        "url": "http://deadsources.blogspot.com/2017/03/october-6-1966-panhandle-san-francisco.html",
+        "supports": "Masonic and Fell location, ~500 crowd, Kesey's bus, dogs in psychedelic gear, traffic on Masonic"
+      },
+      {
+        "title": "The Chronicle's Bay Area Musical History Tour",
+        "publisher": "San Francisco Chronicle (Joel Selvin)",
+        "year": 2009,
+        "url": "https://www.sfgate.com/entertainment/article/The-Chronicle-s-Bay-Area-Musical-History-Tour-3250341.php",
+        "supports": "Free concerts between Fell and Oak; Hendrix on the Airplane's flatbed, June 1967, at Oak and Cole"
+      },
+      {
+        "title": "Grateful Dead Music on a Flatbed Truck in Golden Gate Park's Panhandle",
+        "publisher": "Grateful Web (Gabriel David Barkin)",
+        "year": 2026,
+        "url": "https://www.gratefulweb.com/articles/grateful-dead-music-on-a-flatbed-truck-in-golden-gate-parks-panhandle/",
+        "supports": "Five Dead Panhandle shows from the rally on; the 2026 revival, crowd estimate and generator failure"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-1090-page-ballroom",
+    "title": "The Ballroom in the Basement",
+    "year": 1965,
+    "yearEnd": 1966,
+    "place": {
+      "label": "1090 Page Street (the Albin rooming house)",
+      "lat": 37.77226,
+      "lon": -122.4387,
+      "precision": "block"
+    },
+    "hook": "Under a shabby Page Street rooming house lay an old ballroom with a proscenium arch. The jam sessions held there helped give birth to San Francisco rock.",
+    "story": "In the mid-1960s, 1090 Page Street was a Victorian rooming house. Rod Albin managed it from 1964 and let his brother Peter and other San Francisco State students take over rooms and the basement [4]. Down there, the band later wrote, was \"the ghost of a beautiful old ballroom complete with proscenium arch that was a perfect rehearsal and dance space\" [1]. Chet Helms organised dances and jam sessions in that rosewood-panelled room. The Chronicle's Joel Selvin wrote that musicians who played there went on to form Quicksilver Messenger Service, the Grateful Dead and Big Brother and the Holding Company [2]. Peter Albin, who had started out wanting to write songs for children, formed Big Brother with Sam Andrew. They were joined by guitarist James Gurley and drummer Dave Getz, a cook and art instructor who \"simply asked for the job\" [1]. For about six months the band worked on its sound underground. It made its public debut on January 22, 1966, at Ken Kesey's Trips Festival [1]. Janis Joplin later rehearsed with the band at what Hoodline called the \"Albin House\" [3]. Selvin reported in 2009 that the old house had been torn down long ago [2].",
+    "people": [
+      {
+        "name": "Chet Helms",
+        "role": "Promoter; staged jam sessions in the basement"
+      },
+      {
+        "name": "Peter Albin",
+        "role": "Bassist, co-founder of Big Brother"
+      },
+      {
+        "name": "Rod Albin",
+        "role": "Managed the rooming house"
+      },
+      {
+        "name": "Sam Andrew",
+        "role": "Guitarist, co-founder of Big Brother"
+      },
+      {
+        "name": "Janis Joplin",
+        "role": "Singer who rehearsed there with Big Brother"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The History of Big Brother & the Holding Co.",
+        "publisher": "Big Brother & the Holding Company (Sam Andrew)",
+        "year": null,
+        "url": "https://www.bbhc.com/how-big-brother-got-started/",
+        "supports": "Ballroom quote, members, Helms's dances, six months underground, Trips Festival debut 22 Jan 1966"
+      },
+      {
+        "title": "The Chronicle's Bay Area Musical History Tour",
+        "publisher": "San Francisco Chronicle (Joel Selvin)",
+        "year": 2009,
+        "url": "https://www.sfgate.com/entertainment/article/The-Chronicle-s-Bay-Area-Musical-History-Tour-3250341.php",
+        "supports": "Rosewood-panelled ballroom, Helms's jam sessions, bands that formed, house torn down"
+      },
+      {
+        "title": "Summer Of Love Look Back: Janis Joplin's San Francisco",
+        "publisher": "Hoodline (Alisa Scerrato)",
+        "year": 2017,
+        "url": "https://hoodline.com/2017/05/summer-of-love-look-back-janis-joplin-s-san-francisco/",
+        "supports": "Joplin and Big Brother rehearsed at 1090 Page, the 'Albin House'"
+      },
+      {
+        "title": "Albin Rooming House: Big Brother & The Holding Company Began Here",
+        "publisher": "Rock and Roll Roadmap",
+        "year": null,
+        "url": "https://rockandrollroadmap.com/places/hotels-motels/san-francisco-area-hotels-motels/albin-rooming-house-big-brother-and-the-holding-company-began-here/",
+        "supports": "Rod Albin managed the house from 1964; SF State students took rooms and the basement"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-janis-lyon-street",
+    "title": "Janis Lived Next Door",
+    "year": 1967,
+    "yearEnd": 1968,
+    "place": {
+      "label": "122 Lyon Street",
+      "lat": 37.77234,
+      "lon": -122.44206,
+      "precision": "building"
+    },
+    "hook": "Tour guides have pointed at four different Lyon Street houses as Janis Joplin's. Her driver's license points to just one of them.",
+    "story": "During the Summer of Love, Janis Joplin lived in a small flat on Lyon Street, across from the Panhandle. The Chronicle later wrote that she walked her dog around the neighbourhood and browsed the shops on Haight Street [3]. Her exact address has been muddled ever since. In 1999 a nonprofit announced a new 20-bed rehab centre for drug-addicted mothers at 124 Lyon and said it was Joplin's old house. Media as far away as England repeated the claim. Then experts produced a copy of her 1960s driver's license, which gave her address as 122 Lyon, the house next door [1]. According to local lore, she had lived in any of four houses on the block [1]. \"It just shows how mythological the whole thing is,\" said Country Joe McDonald, her boyfriend at the time, who had lived with her there for \"three somewhat fuzzy months\" [1]. Her roommate, the clothing designer Linda Gravenites, said they loved the flat but it had only one bedroom, so in 1968 they moved to Noe Street [1][2]. The confusion never quite ended. A 2009 Chronicle guide listed the apartment as 112 Lyon, No. 3 [3]. In 2014 the six-unit Queen Anne at 122 Lyon went on the market for $1.7 million [2].",
+    "people": [
+      {
+        "name": "Janis Joplin",
+        "role": "Singer, tenant of Apartment 3"
+      },
+      {
+        "name": "Linda Gravenites",
+        "role": "Roommate and clothing designer"
+      },
+      {
+        "name": "Country Joe McDonald",
+        "role": "Musician, Joplin's boyfriend in 1967"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Oops! Turns Out Janis Joplin Lived Next Door",
+        "publisher": "San Francisco Chronicle (Kevin Fagan)",
+        "year": 1999,
+        "url": "https://www.sfgate.com/news/article/Oops-Turns-Out-Janis-Joplin-Lived-Next-Door-2929576.php",
+        "supports": "Rehab centre mix-up, driver's license at 122 Lyon, four-houses lore, McDonald quotes, Gravenites and the move to Noe Street"
+      },
+      {
+        "title": "Janis Joplin's Apartment For Sale",
+        "publisher": "Hoodline (Nuala Sawyer)",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/01/janis-joplin-s-apartment-for-sale/",
+        "supports": "Apartment 3, license as only official record, six-unit Queen Anne, $1.7 million listing"
+      },
+      {
+        "title": "The Chronicle's Bay Area Musical History Tour",
+        "publisher": "San Francisco Chronicle (Joel Selvin)",
+        "year": 2009,
+        "url": "https://www.sfgate.com/entertainment/article/The-Chronicle-s-Bay-Area-Musical-History-Tour-3250341.php",
+        "supports": "Upstairs flat across from the Panhandle, walking her dog, listed as 112 Lyon St. No. 3"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-rainbow-house",
+    "title": "The Rainbow House on Steiner Street",
+    "year": 1967,
+    "yearEnd": null,
+    "place": {
+      "label": "908 Steiner Street",
+      "lat": 37.77796,
+      "lon": -122.433,
+      "precision": "building"
+    },
+    "hook": "Years before the Painted Ladies got their famous colours, an artist two blocks north handed strangers paint cans and told them to have at her house.",
+    "story": "When artist Maija Peeples-Bright and her then-husband David Zack moved into 908 Steiner Street in 1967, the 1888 Victorian had fallen on hard times. It cost them $17,000 and was being used as a shelter for soup-kitchen workers from St. Anthony Dining Room. \"The rooms were all divided with sheetrock and there were bare lamps hanging from the ceilings,\" she recalled [1]. The 25-year-old covered the walls and ceilings inside with poetry and the colourful \"beasties\" that ran through her Funk art. A friend, the artist David Gilhooly, contributed a six-foot fiberglass alligator that crawled out of a front window [1]. For the outside, Zack bought cheap paint from a marine supply store in every colour he could find. Strangers climbed the scaffolding and asked to help. \"I offered them a can of paint and a brush,\" Peeples-Bright said, \"and the only directive I gave was not to put the same color next to itself\" [1]. Nicknamed the \"Psychedelic House\" and the \"Rainbow House,\" it was featured in the Saturday Evening Post and the Chronicle in 1968 [2]. The Chronicle later called it arguably the first high-profile colourful home in San Francisco. A few years later the Painted Ladies, two short blocks south, got their own bright paint jobs [1].",
+    "people": [
+      {
+        "name": "Maija Peeples-Bright",
+        "role": "Funk artist who painted the house"
+      },
+      {
+        "name": "David Zack",
+        "role": "Her husband at the time"
+      },
+      {
+        "name": "David Gilhooly",
+        "role": "Artist who supplied the fiberglass alligator"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The strange, psychedelic history of how San Francisco got colorful homes",
+        "publisher": "San Francisco Chronicle (Peter Hartlaub)",
+        "year": 2026,
+        "url": "https://www.sfchronicle.com/totalsf/article/victorian-home-san-francisco-21939697.php",
+        "supports": "1967 move-in, $17,000 price, shelter use, quotes, interior art, alligator, marine paint, 'first high-profile' claim, Painted Ladies painted later"
+      },
+      {
+        "title": "Rainbow Victorians and the Colorist Era in San Francisco",
+        "publisher": "San Francisco Heritage (Kerri Young)",
+        "year": 2020,
+        "url": "https://sfheritage.org/features/colorfully-painted-victorians",
+        "supports": "Built 1888; nicknames; 1968 Saturday Evening Post and Chronicle coverage"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-zen-center-page-street",
+    "title": "From Jewish Women's Residence to Zen Temple",
+    "year": 1969,
+    "yearEnd": null,
+    "place": {
+      "label": "300 Page Street (San Francisco Zen Center)",
+      "lat": 37.77388,
+      "lon": -122.42605,
+      "precision": "building"
+    },
+    "hook": "Julia Morgan designed it as a refuge for young Jewish working women. In 1969 Shunryu Suzuki's American students moved in and turned the gym into a meditation hall.",
+    "story": "The building at Page and Laguna was completed in 1922 to designs by Julia Morgan and Dorothy Wormser [1][2]. It was built for the Emanu-El Sisterhood for Personal Service as a residence for single Jewish women who had come to San Francisco looking for work. It housed up to 60 women at first and 70 by 1955 [1]. In the 1930s it took in mostly German refugees [2]. In 1969 the residence club closed and sold the building to the San Francisco Zen Center [1]. The Zen Center had grown up around Shunryu Suzuki, the Japanese priest of Sokoji temple on Bush Street. He had invited American students with no Zen training to sit with him and the Japanese congregation there [3]. Sokoji itself occupied a former synagogue, the old home of Congregation Ohabai Shalome, which had been founded by members who broke away from Emanu-El. So Suzuki's students moved from one Jewish building to another [1][2]. At Page Street the old gymnasium became the zendo, the meditation hall [1]. Suzuki established the new City Center, also known as Beginner's Mind Temple (Hosshin-ji), as a Soto Zen training centre open to the public [4]. Students still practise, work and live there.",
+    "people": [
+      {
+        "name": "Shunryu Suzuki",
+        "role": "Founder of San Francisco Zen Center"
+      },
+      {
+        "name": "Julia Morgan",
+        "role": "Architect"
+      },
+      {
+        "name": "Dorothy Wormser",
+        "role": "Co-designer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of 300 Page Street",
+        "publisher": "San Francisco Zen Center, Sangha News (Mary C. Morgan)",
+        "year": 2012,
+        "url": "https://blogs.sfzc.org/blog/2012/09/25/history-of-300-page-street/",
+        "supports": "1922, Morgan and Wormser, Emanu-El Sisterhood, 60/70 residents, 1969 sale, gym to zendo, Sokoji in former synagogue"
+      },
+      {
+        "title": "Then and Now: Now Zen Center, then refuge for Jewish women",
+        "publisher": "J. The Jewish News of Northern California (Dan Schifrin)",
+        "year": 2012,
+        "url": "https://jweekly.com/2012/09/28/then-and-now-now-zen-center-then-refuge-for-jewish-women/",
+        "supports": "German refugees in the 1930s, 1969 sale, Ohabai Shalome connection"
+      },
+      {
+        "title": "SF Zen Center: The Practice of Perspective",
+        "publisher": "Hayes Valley Neighborhood Association (Jarrod Shappell)",
+        "year": 2011,
+        "url": "https://hayesvalleysf.org/sf-zen-center-the-practice-of-perspective/2011/11/",
+        "supports": "Suzuki invited American students to sit with him at the Bush Street temple"
+      },
+      {
+        "title": "About City Center",
+        "publisher": "San Francisco Zen Center",
+        "year": null,
+        "url": "https://www.sfzc.org/practice-centers/city-center/about",
+        "supports": "Beginner's Mind Temple (Hosshin-ji), established 1969, open to the public"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-hayes-street-gay-enclave",
+    "title": "Hayes Street's Gay Main Street",
+    "year": 1966,
+    "yearEnd": 2000,
+    "place": {
+      "label": "488 Hayes Street (David's House / Marlena's)",
+      "lat": 37.77692,
+      "lon": -122.42435,
+      "precision": "building"
+    },
+    "hook": "Long before the boutiques came, a few blocks of Hayes Street held a gay thrift shop, a drag bar, a gay weekly newspaper and a street fair.",
+    "story": "In the 1960s the Society for Individual Rights, San Francisco's leading gay-rights group, ran the Sirporium on Hayes Street [1][2]. It was a thrift shop that sold items donated by members and used the money to pay for community events [1]. Sources disagree on the address: the city's LGBTQ context statement gives 515 Hayes, while the neighbourhood association gives 525 [1][2]. In the 1970s Dottie's Stardust Lounge, a gay bar, stood at the corner of Hayes and Laguna [2]. In 1984 David's House opened at 488 Hayes, next to David's Garden Cafe. It became the Overpass in 1986 and Marlena's in 1990, a bar remembered for its welcome to older gay men [2]. Next door, from 1983 to 1992, 500 Hayes housed the offices of the San Francisco Sentinel [2]. Founded in the early 1970s, the Sentinel was one of the city's first commercially successful gay weeklies and stopped weekly publication in 1995 [1]. From 1981 to 1990, during the worst years of AIDS, the Lily Street Fair filled a four-block alley nearby [2]. Around the corner at 320 Fell Street, the photographer Daniel Nicoletta ran a studio from 1990 to 2000, where he hosted salons, fundraisers and memorial services [2].",
+    "people": [
+      {
+        "name": "Daniel Nicoletta",
+        "role": "Photographer; ran a studio on Fell Street"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna Graves and Shayne Watson)",
+        "year": 2016,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/FinalLGBTQ_HCS_March2016.pdf",
+        "supports": "Sirporium at 515 Hayes and its purpose; Sentinel at 500 Hayes, founding and end of weekly run"
+      },
+      {
+        "title": "LGBTQ History in Hayes Valley",
+        "publisher": "Hayes Valley Neighborhood Association",
+        "year": 2022,
+        "url": "https://hayesvalleysf.org/lgbtq-history-in-hayes-valley/2022/03/",
+        "supports": "Sirporium at 525 Hayes; Dottie's; David's House/Overpass/Marlena's; Sentinel 1983-92; Lily Street Fair; Nicoletta studio"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-628-divisadero",
+    "title": "The Many Lives of 628 Divisadero",
+    "year": 1967,
+    "yearEnd": 2004,
+    "place": {
+      "label": "628 Divisadero Street (The Independent)",
+      "lat": 37.77553,
+      "lon": -122.43751,
+      "precision": "building"
+    },
+    "hook": "Jazz, punk, Nirvana, lesbian dance nights, turntablists: behind one plain red front on Divisadero, the city's music changed about every ten years.",
+    "story": "\"Supposedly, Thelonious Monk played here back when this was a hot jazz strip,\" Justice League owner Michael O'Connor told the Chronicle in 1998. He wanted to put up a plaque listing every club the room had been [2]. Accounts disagree on the 1960s name. The Bay Guardian called it the Half Note, a jazz club with a house band that included George Duke and a young Al Jarreau [1]. The Chronicle named the Both/And as a past tenant, where Janis Joplin first heard Big Mama Thornton sing \"Ball and Chain\" [2]. In the early 1980s it was the VIS Club, playing punk, new wave and experimental music. By the late 1980s it had become the Kennel Club, where Nirvana opened for Tad [1][2]. The DJ Page Hodel's roving club The Box drew hundreds of gay men and lesbians to monthly dances there [3]. After the short-lived Crash Palace failed, O'Connor opened the Justice League around 1997. The artist Barry McGee (\"Twist\") painted its murals, and the club hosted drum-and-bass, hip-hop and house nights [2]. In February 2004 it reopened as The Independent, a 500-capacity room. \"The night we opened, the fire department [was] signing everything off while the band was sound-checking,\" recalled owner Allen Scott [1].",
+    "people": [
+      {
+        "name": "Michael O'Connor",
+        "role": "Founder of the Justice League"
+      },
+      {
+        "name": "Allen Scott",
+        "role": "Managing owner of The Independent"
+      },
+      {
+        "name": "Page Hodel",
+        "role": "DJ behind The Box and Club Q"
+      },
+      {
+        "name": "Barry McGee",
+        "role": "Artist ('Twist'), painted the Justice League murals"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A very Indy decade",
+        "publisher": "San Francisco Bay Guardian (Emma Silvers)",
+        "year": 2014,
+        "url": "https://sfbgarchive.48hills.org/sfbgarchive/2014/02/11/very-indy-decade/?_sf_s=A+Very+Indy+Decade",
+        "supports": "Half Note, VIS Club, Kennel Club, Justice League, February 2004 opening, 500 capacity, Allen Scott quote"
+      },
+      {
+        "title": "And Music for All / Divisadero nightclub Justice League carves out an eclectic niche",
+        "publisher": "San Francisco Chronicle (James Sullivan)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/entertainment/article/And-Music-for-All-Divisadero-nightclub-Justice-3009924.php",
+        "supports": "O'Connor's Monk quote, Both/And and Joplin, Nirvana opening for Tad, Crash Palace, McGee murals, weekly nights"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department",
+        "year": 2016,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/FinalLGBTQ_HCS_March2016.pdf",
+        "supports": "The Box's monthly dance at the Kennel Club drawing hundreds of gays and lesbians"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-black-lgbtq-western-addition",
+    "title": "Coming Home in the Western Addition",
+    "year": 1988,
+    "yearEnd": null,
+    "place": {
+      "label": "Western Addition Cultural Center, 762 Fulton Street",
+      "lat": 37.77828,
+      "lon": -122.42926,
+      "precision": "building"
+    },
+    "hook": "At the height of the AIDS crisis, Black gay and lesbian San Franciscans organised in Western Addition living rooms and shared Thanksgiving dinners.",
+    "story": "On May 16, 1988, Bay Area Black Lesbians and Gays held an organisational kickoff at the Western Addition Cultural Center, 762 Fulton Street. That month the group had voted to become a chapter of the National Coalition of Black Lesbians and Gays again [1]. Its San Francisco meetings took place in members' homes, including Mary Midgett's at 437 Webster Street and the AIDS activist Reggie Williams's at 630 Fillmore Street. Midgett also opened her home for a 1988 holiday party and a Thanksgiving dinner. The city's LGBTQ context statement describes these as important gatherings for people who could not always join their biological families [1]. Williams, born in Cincinnati, had settled in San Francisco in the early 1980s. He saw that AIDS prevention was not reaching Black gay and bisexual men and called a meeting that led to the AIDS task force of Black and White Men Together. That task force grew into the National Task Force on AIDS Prevention, which he ran until 1994 [2]. \"My personal struggle with AIDS has forced me to demand respect and dignity from my people,\" he said. \"Black, gay men need to be able to come home\" [2]. He died in Amsterdam on February 7, 1999, aged 47 [2].",
+    "people": [
+      {
+        "name": "Reggie Williams",
+        "role": "AIDS activist, founding head of the National Task Force on AIDS Prevention"
+      },
+      {
+        "name": "Mary Midgett",
+        "role": "Hosted Bay Area Black Lesbians and Gays gatherings at her Webster Street home"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna Graves and Shayne Watson)",
+        "year": 2016,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/FinalLGBTQ_HCS_March2016.pdf",
+        "supports": "May 16, 1988 kickoff at 762 Fulton; NCBLG chapter vote; meetings at 630 Fillmore and 437 Webster; Midgett's holiday party and Thanksgiving"
+      },
+      {
+        "title": "Reggie Williams, Renowned S.F. AIDS Activist",
+        "publisher": "San Francisco Chronicle (J.L. Pimsleur)",
+        "year": 1999,
+        "url": "https://www.sfgate.com/news/article/Reggie-Williams-Renowned-S-F-AIDS-Activist-2946805.php",
+        "supports": "Williams's background, BWMT AIDS task force, NTFAP leadership to 1994, quotes, death in Amsterdam at 47"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-848-divisadero",
+    "title": "848: Anything Could Happen",
+    "year": 1991,
+    "yearEnd": 2005,
+    "place": {
+      "label": "848 Divisadero Street",
+      "lat": 37.77754,
+      "lon": -122.43799,
+      "precision": "building"
+    },
+    "hook": "In a windowless upstairs studio on Divisadero, a few dancers made a home for queer performance, trans art and safer-sex parties during the AIDS years.",
+    "story": "In November 1991, Michael \"Med-O\" Whitson, Todd Eugene and the dancer Keith Hennessy took over a second-floor studio at 848 Divisadero from friends who were moving out, and kept its name [2]. The room was windowless, about 1,100 square feet, with movable risers that seated fewer than 50 people [2]. It held a weekly Contact Improvisation jam and hundreds of performances, concerts and exhibitions [2]. It quickly became a sex-radical space as well. The city's LGBTQ context statement says 848 organised and welcomed sex events partly as a way to address healing around AIDS [1]. \"At 848 we bragged that anything could happen,\" Hennessy remembered. \"For $100 a night we handed the keys to the space to almost anyone\" [1]. Groups including Body Electric, Queen of Heaven, the Radical Faeries and Black Leather Wings held events there, as did the artist Annie Sprinkle [1]. In 1994 it showed Loren Cameron's transgender photography exhibit and David Harrison's performance \"FTM\" [2]. By Hennessy's count, it drew about 10,000 visitors a year in its later years. In 2005 its collective gave rise to CounterPULSE [2].",
+    "people": [
+      {
+        "name": "Keith Hennessy",
+        "role": "Dancer, co-founder"
+      },
+      {
+        "name": "Michael \"Med-O\" Whitson",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Todd Eugene",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Loren Cameron",
+        "role": "Photographer, 1994 exhibit"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department",
+        "year": 2016,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/FinalLGBTQ_HCS_March2016.pdf",
+        "supports": "Opened fall 1991; sex events and AIDS healing; Hennessy quote; list of groups and Annie Sprinkle"
+      },
+      {
+        "title": "848: queer, sex, performance in 1990s San Francisco (article draft)",
+        "publisher": "Circo Zero (Keith Hennessy)",
+        "year": 2013,
+        "url": "https://circozero.org/writing-rants/2013/05/848-queer-sex-performance-in-1990s-san.html",
+        "supports": "Founders, November 1991, size and seating, Contact jam, 1994 trans shows, visitor numbers, CounterPULSE 2005"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-lower-haight-microbrew-alley",
+    "title": "From Needle Alley to Microbrew Alley",
+    "year": 2001,
+    "yearEnd": null,
+    "place": {
+      "label": "500 block of Haight Street (Toronado, 547 Haight)",
+      "lat": 37.7719,
+      "lon": -122.4312,
+      "precision": "block"
+    },
+    "hook": "At the turn of the millennium, the Chronicle called the Lower Haight the city's underground: beer bars, record shops, DJ nights and a dark bar lit by static.",
+    "story": "\"Lower Haight is to the underground what Upper Haight was 30 years ago,\" the Chronicle declared in 2001 [1]. The 500 block of Haight Street, once known as Needle Alley, had become Microbrew Alley. On one side was the Toronado, where owner David \"Big Daddy\" Keene kept a back room lined with hundreds of custom tap handles. Across the street, English fans at the Mad Dog in the Fog watched European football over pints at 6 a.m. [1]. Next door to the Toronado, Noc Noc was lit mostly by old TVs showing static [1]. The strip had five record stores, which supplied the records DJs wheeled into clubs on dollies [1]. At 460 Haight, Nickie's BBQ was one of the Bay Area's oldest destination dance clubs. It hosted Grateful Dead jams by Dark Star Dan on Mondays and Cheb I. Sabbah's global \"Outer National Mix\" on Tuesdays [1]. Nickie's went back to 1948, when it was Nicki's Barbecue. It was later a dancehall and a dive bar, and from 2007 an Irish sports bar [2]. In 2020 a longtime regular, Tom Mills, bought it. He said he and 20 or 30 other regulars thought of it as \"the neighborhood's living room\" [2].",
+    "people": [
+      {
+        "name": "David \"Big Daddy\" Keene",
+        "role": "Owner of the Toronado"
+      },
+      {
+        "name": "Cheb I. Sabbah",
+        "role": "DJ, Tuesday nights at Nickie's"
+      },
+      {
+        "name": "Tom Mills",
+        "role": "Bought Nickie's in 2020"
+      }
+    ],
+    "sources": [
+      {
+        "title": "High on Haight / Lower Haight, where the trends begin and the beers end",
+        "publisher": "San Francisco Chronicle (Sam Whiting)",
+        "year": 2001,
+        "url": "https://www.sfgate.com/magazine/article/high-on-haight-lower-haight-where-the-trends-2876731.php",
+        "supports": "Underground quote, Needle Alley and Microbrew Alley, Toronado and Keene, Mad Dog, Noc Noc, record stores, Nickie's nights"
+      },
+      {
+        "title": "New owner aims to restore Nickie's as 'neighborhood living room' for Lower Haight",
+        "publisher": "Hoodline (Alisa Scerrato)",
+        "year": 2020,
+        "url": "https://hoodline.com/2020/08/new-owner-aims-to-restore-nickie-s-as-neighborhood-living-room-for-lower-haight/",
+        "supports": "Nickie's origins in 1948, its later phases, 2007 renovation, Tom Mills's 2020 purchase and quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-central-freeway-falls",
+    "title": "The Freeway That Split Hayes Valley",
+    "year": 1989,
+    "yearEnd": 2003,
+    "place": {
+      "label": "Octavia Street between Oak and Fell (former Central Freeway ramps)",
+      "lat": 37.7751,
+      "lon": -122.4243,
+      "precision": "block"
+    },
+    "hook": "The 1989 quake cracked a double-decker freeway over Hayes Valley. It took ten years and four ballot measures before the city finally agreed to tear it down.",
+    "story": "The double-deck Central Freeway opened in 1959. It connected western San Francisco to downtown but split Hayes Valley apart, bringing blight and crime to the blocks beneath it [3]. \"The freeway was the border, and you didn't want to go under it,\" remembered longtime resident Madeline Behrens-Brigham. \"We were called 'the bad block'... You couldn't get a pizza, you couldn't get a taxi; the police wouldn't even come here\" [1]. The Loma Prieta earthquake of October 17, 1989 damaged the freeway, and key ramps had to be demolished [1][2]. What came next was a long political fight. \"Half the city wanted the freeway restored, and half wanted it torn down,\" said a Caltrans spokesman, who kept a chunk of the old freeway in a potted plant in his office [2]. In 1997 voters approved Proposition H to rebuild the freeway to Fell Street. In 1998 Proposition E, organised by activists including Robin Levitt, repealed it in favour of a boulevard. In 1999 voters passed Proposition I, which funded the Octavia Boulevard plan, and rejected Proposition J, a compromise with elevated ramps [1]. The ramps to Fell, Oak, Franklin and Gough came down in stages, the last in 2003 [2]. \"When the freeway disappeared, so did a lot of the problems,\" Levitt said [2].",
+    "people": [
+      {
+        "name": "Robin Levitt",
+        "role": "Architect and Hayes Valley Neighborhood Association board member"
+      },
+      {
+        "name": "Madeline Behrens-Brigham",
+        "role": "Longtime resident"
+      },
+      {
+        "name": "Patricia Walkup",
+        "role": "Neighborhood activist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The End Of The Central Freeway In Hayes Valley",
+        "publisher": "Hoodline (Jennie Butler)",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/08/the-end-of-the-central-freeway-in-hayes-valley/",
+        "supports": "Quake date, ballot measures 1997-99 and results, Levitt's role, Behrens-Brigham quote"
+      },
+      {
+        "title": "Boulevard of dreams, the premiere / Hayes Valley freed of freeway",
+        "publisher": "San Francisco Chronicle (Rachel Gordon)",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/SAN-FRANCISCO-Boulevard-of-dreams-the-premiere-2610871.php",
+        "supports": "Quake damage and ramp demolitions, Caltrans quote and potted plant, ramps removed in stages ending 2003, Levitt quote"
+      },
+      {
+        "title": "An urban success story / Octavia Boulevard an asset to post-Central Freeway area",
+        "publisher": "San Francisco Chronicle (John King)",
+        "year": 2007,
+        "url": "https://www.sfgate.com/bayarea/place/article/SAN-FRANCISCO-An-urban-success-story-Octavia-2659608.php",
+        "supports": "Double-deck freeway opened 1959, split the neighbourhood, blight and crime"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-patricias-green",
+    "title": "Patricia's Green",
+    "year": 2005,
+    "yearEnd": 2006,
+    "place": {
+      "label": "Patricia's Green, Octavia Boulevard between Fell and Hayes",
+      "lat": 37.7762,
+      "lon": -122.4244,
+      "precision": "block"
+    },
+    "hook": "Where freeway ramps once came down, a small park opened in 2005. Months later it was renamed for the soft-spoken activist who fought to get it built.",
+    "story": "On September 9, 2005, Octavia Boulevard opened with a ribbon-cutting at Market Street [2]. The designers, Allan Jacobs and Elizabeth Macdonald, followed the principle \"No one gets everything, but everyone gets a lot\" [2][3]. The boulevard has four central lanes for commuters and a slower lane on each side for local traffic [2]. It was planted with 261 trees, including evergreen elms, flowering cherries and pears, and Lombardy poplars [1]. At its northern end, between Fell and Hayes, was a new park called Hayes Green. \"This is just an amazing gift for the neighborhood,\" said Patricia Walkup, the activist who helped lead the fight against rebuilding the freeway [1]. \"In a few years, there will be people who will never know a freeway was there\" [1]. Walkup, founder of the Hayes Valley Neighborhood Association, died on June 6, 2006, at 59. That August the Recreation and Park Commission voted unanimously to rename the park \"Patricia's Green in Hayes Valley\" [4]. \"If not for Patricia, that park would not be there,\" said her friend Robin Levitt. \"If she hadn't done that work, we would have a freeway there\" [4]. In December 2006 the American Planning Association gave the project its first award for \"hard-won victories\" [2].",
+    "people": [
+      {
+        "name": "Patricia Walkup",
+        "role": "Founder of the Hayes Valley Neighborhood Association"
+      },
+      {
+        "name": "Allan Jacobs",
+        "role": "Planner, boulevard designer"
+      },
+      {
+        "name": "Elizabeth Macdonald",
+        "role": "Planner, boulevard designer"
+      },
+      {
+        "name": "Robin Levitt",
+        "role": "Architect and neighbour"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Boulevard of dreams, the premiere / Hayes Valley freed of freeway",
+        "publisher": "San Francisco Chronicle (Rachel Gordon)",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/SAN-FRANCISCO-Boulevard-of-dreams-the-premiere-2610871.php",
+        "supports": "261 trees and species, Hayes Green between Fell and Hayes, Walkup quotes"
+      },
+      {
+        "title": "An urban success story / Octavia Boulevard an asset to post-Central Freeway area",
+        "publisher": "San Francisco Chronicle (John King)",
+        "year": 2007,
+        "url": "https://www.sfgate.com/bayarea/place/article/SAN-FRANCISCO-An-urban-success-story-Octavia-2659608.php",
+        "supports": "Sept. 9, 2005 ribbon-cutting, lane layout, Jacobs and Macdonald, APA award"
+      },
+      {
+        "title": "Everyone Gets A Lot: The Creation Of Octavia Boulevard And Patricia's Green",
+        "publisher": "Hoodline (Jennie Butler)",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/10/central-freeway-octavia-boulevard-patricias-green/",
+        "supports": "'No one gets everything, but everyone gets a lot' design principle"
+      },
+      {
+        "title": "Hayes Valley park to be named after green activist",
+        "publisher": "San Francisco Examiner",
+        "year": 2006,
+        "url": "https://www.sfexaminer.com/news/hayes-valley-park-to-be-named-after-green-activist/article_ba1af560-f491-5348-b638-59d7527bd1e8.html",
+        "supports": "Walkup's death at 59, unanimous commission vote, new name, Levitt quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-hayes-valley-farm",
+    "title": "A Farm Where the On-Ramps Were",
+    "year": 2010,
+    "yearEnd": 2013,
+    "place": {
+      "label": "Laguna Street between Oak and Fell (Hayes Valley Farm, 450 Laguna)",
+      "lat": 37.7752,
+      "lon": -122.4262,
+      "precision": "block"
+    },
+    "hook": "For three years, vacant lots left by the demolished freeway ramps grew fava beans and fruit trees, until the condos arrived as planned.",
+    "story": "After the Central Freeway's on-ramps came down, the land on Laguna Street between Oak and Fell stood empty [1][2]. In 2010 Mayor Gavin Newsom's Office of Economic and Workforce Development proposed an interim use and put up a $50,000 first-year grant, paid for with parking revenue from Octavia Boulevard [1]. Volunteers built Hayes Valley Farm on the lots. The soil was tested at 64 points, and only one exceeded federal lead standards [1]. \"Our main yield is education,\" said director Chris Burley [1]. The farm grew a permaculture garden by sheet-mulching cardboard, horse manure and mulch straight onto the old freeway land, and planted fava beans to put nitrogen back into the soil [2]. \"It doesn't take a lot of time, funding, or resources to create biodiversity spaces loved by communities,\" said co-founder Jay Rosenberg [2]. The farm was always meant to be temporary, with the lots set aside for mixed affordable and market-rate housing [1]. By the farm's own count, tens of thousands of visitors took part [3]. It moved off its Oak Street side on March 1, 2013, and its final day was May 31, 2013 [3]. Volunteers went on to start a string of new urban-farming projects around the city [2].",
+    "people": [
+      {
+        "name": "Chris Burley",
+        "role": "Director, Hayes Valley Farm"
+      },
+      {
+        "name": "Jay Rosenberg",
+        "role": "Co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Building a Farm Where a Freeway Used to Be",
+        "publisher": "Streetsblog San Francisco (Matthew Roth)",
+        "year": 2010,
+        "url": "https://sf.streetsblog.org/2010/02/08/building-a-farm-where-a-freeway-used-to-be",
+        "supports": "Location, former on-ramps, interim-use idea, $50,000 grant from parking revenue, soil tests, Burley quote, housing plans"
+      },
+      {
+        "title": "The True Story Behind Hayes Valley Farm",
+        "publisher": "Hoodline (Ryan Curran White)",
+        "year": 2013,
+        "url": "https://hoodline.com/2013/06/the-true-story-behind-hayes-valley-farm/",
+        "supports": "Sheet mulching, fava beans, Rosenberg quote, legacy projects"
+      },
+      {
+        "title": "History",
+        "publisher": "Hayes Valley Farm",
+        "year": null,
+        "url": "https://www.hayesvalleyfarm.org/history/",
+        "supports": "Tens of thousands of visitors, March 1 transition off Oak Street, final day May 31, 2013"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-whats-nopa",
+    "title": "\"Huh? What's NoPa?\"",
+    "year": 2006,
+    "yearEnd": null,
+    "place": {
+      "label": "Nopa, 560 Divisadero Street (at Hayes)",
+      "lat": 37.77483,
+      "lon": -122.43747,
+      "precision": "building"
+    },
+    "hook": "Realtors get the blame for the name NoPa. It actually came from a neighbourhood newsletter, and a restaurant in an old bank made it stick.",
+    "story": "The North of the Panhandle Neighborhood Association was founded in 1991, as neighbours organised against drug-related crime [2]. At some point in the 1990s the group's newsletter briefly changed its name from \"North Panhandle News\" to \"NoPa News.\" The name didn't stick, according to longtime board member James Cowan. He had also heard that someone proposed \"Parc North\" and residents vetoed it [1]. In 2000 the writer Mat Honan used \"NoPa\" in the Bay Guardian, which may be the first time it appeared in print. He described a neighbourhood \"struggling to define itself as gentrification takes hold\" [1]. The name only caught on after April 11, 2006. That night Jeff Hanak and Allyson and Laurence Jossel opened a restaurant in a grand old bank building at Divisadero and Hayes [3]. When they were choosing a name, a friend pointed out that the address was in NoPa. \"We were like, 'Huh? What's NoPa?'\" Allyson recalled [3]. At the time, only a few restaurants stood on that stretch of Divisadero. On opening night the kitchen ran low on food, and a customer brought in chicken from the Popeyes across the street [3]. As restaurants such as Bi-Rite, Bar Crudo, Ragazza and the Mill opened nearby, a name that needed constant explaining became the neighbourhood's own [1][3].",
+    "people": [
+      {
+        "name": "James Cowan",
+        "role": "NOPNA board member"
+      },
+      {
+        "name": "Mat Honan",
+        "role": "Writer, San Francisco Bay Guardian"
+      },
+      {
+        "name": "Laurence Jossel",
+        "role": "Chef and co-owner, Nopa"
+      },
+      {
+        "name": "Allyson Jossel",
+        "role": "Co-owner, Nopa"
+      },
+      {
+        "name": "Jeff Hanak",
+        "role": "Co-owner, Nopa"
+      }
+    ],
+    "sources": [
+      {
+        "title": "NoPa Vs. Western Addition: What's In A Name?",
+        "publisher": "Hoodline (Nuala Sawyer)",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/07/nopa-vs-western-addition-what-s-in-a-name/",
+        "supports": "'NoPa News' newsletter, Cowan, 'Parc North', Honan's 2000 Bay Guardian usage and quote, restaurant popularising the name"
+      },
+      {
+        "title": "Meet The North Of The Panhandle Neighborhood Association",
+        "publisher": "Hoodline (Nuala Sawyer)",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/07/meet-the-north-of-the-panhandle-neighborhood-association-nopna/",
+        "supports": "NOPNA founded in 1991 in response to drug-related crime"
+      },
+      {
+        "title": "Nopa at 10: The restaurant that built a neighborhood (and vice versa)",
+        "publisher": "San Francisco Chronicle (Amanda Gold)",
+        "year": 2016,
+        "url": "https://www.sfchronicle.com/restaurants/article/Nopa-at-10-The-restaurant-that-built-a-6892082.php",
+        "supports": "April 11, 2006 opening, owners, bank building, naming story and quote, Popeyes anecdote, later neighbours"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-full-house-postcard-row",
+    "title": "The Picnic That Made Postcard Row Famous",
+    "year": 1990,
+    "yearEnd": null,
+    "place": {
+      "label": "Postcard Row, 710-720 Steiner Street",
+      "lat": 37.77613,
+      "lon": -122.43268,
+      "precision": "block"
+    },
+    "hook": "The Tanners never lived on Steiner Street. Fans still leave flowers there, and one woman brought a finished jigsaw of the houses all the way from Istanbul.",
+    "story": "\"Full House\" premiered on ABC on September 22, 1987 [3]. For its first three seasons, the adult cast in the opening credits was not filmed in San Francisco. That changed with season four, which premiered in September 1990 [1][3]. From then on, the sequence ended with the cast having a picnic in Alamo Square, with the row of Painted Ladies behind them. The Tanners' house was never one of them, though many people think it was. The house used for the show's exterior was on Broderick Street [1][2]. The Chronicle has noted that the Painted Ladies, now a top-10 tourist attraction, once stood in a zone slated for demolition [4]. George Horsfall lives in the 1894 house at 712 Steiner. When actor Bob Saget died, fans left some 50 bouquets a day on his steps, along with cleaning gloves, because Saget's character was always cleaning [2]. Horsfall told them it wasn't the show's house, but they kept coming [2]. Strangers have married on his stoop. One woman rang his bell to give him a finished, glued jigsaw puzzle of the houses. When he asked where she had put it together, she said, \"Istanbul\" [2].",
+    "people": [
+      {
+        "name": "George Horsfall",
+        "role": "Owner of 712 Steiner Street"
+      },
+      {
+        "name": "Bob Saget",
+        "role": "Actor who played Danny Tanner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Title Sequence",
+        "publisher": "Full House Forever (full-house.org)",
+        "year": null,
+        "url": "http://www.full-house.org/fullhouse/fullhouse_openingcredits.php",
+        "supports": "Adults not filmed in SF until season four; Alamo Square picnic shot; Tanner house not among the Painted Ladies"
+      },
+      {
+        "title": "We toured one of the SF homes 'Full House' made famous",
+        "publisher": "SFGATE (Kendra Smith)",
+        "year": 2023,
+        "url": "https://www.sfgate.com/local/article/san-francisco-painted-ladies-tour-17694864.php",
+        "supports": "712 Steiner built 1894, Horsfall, Saget bouquets and gloves, weddings, Istanbul puzzle, real house on Broderick"
+      },
+      {
+        "title": "List of Full House episodes",
+        "publisher": "Wikipedia (pointer for air dates)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/List_of_Full_House_episodes",
+        "supports": "Premiere Sept. 22, 1987 and season-four premiere Sept. 21, 1990 on ABC"
+      },
+      {
+        "title": "The strange, psychedelic history of how San Francisco got colorful homes",
+        "publisher": "San Francisco Chronicle (Peter Hartlaub)",
+        "year": 2026,
+        "url": "https://www.sfchronicle.com/totalsf/article/victorian-home-san-francisco-21939697.php",
+        "supports": "Painted Ladies once in a demolition zone; now a top-10 tourist attraction"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "modern-alamo-square-renovation",
+    "title": "The Year the Famous View Closed",
+    "year": 2016,
+    "yearEnd": 2017,
+    "place": {
+      "label": "Alamo Square Park (Hayes and Steiner streets)",
+      "lat": 37.7764,
+      "lon": -122.4346,
+      "precision": "area"
+    },
+    "hook": "For a year, chain-link fences surrounded the city's most photographed lawn. When the park reopened, its planners wanted it to become the view itself.",
+    "story": "In May 2016 the 12.7-acre Alamo Square Park closed for a $5.3 million renovation. The work was supposed to take seven months, but it took a year because of a wet winter and extra work that wasn't in the original plan [1][2]. Crews rebuilt the irrigation system, which is controlled by a small device on a nearby flagpole that monitors temperature and rainfall. The park was expected to save more than 2.5 million gallons of water a year, about a third of its use [2]. They repaved the paths, added an all-gender accessible restroom, and planted a rain garden and native plants, using the tennis court as a temporary nursery [1][2]. Neighbours paid for 45 new trees [1]. \"Everyone loves the views out of the park,\" said Recreation and Park project manager Brett Desmarais. \"But we want the park to become the view itself\" [2]. On the last quiet morning before it reopened, the sidewalk by the Painted Ladies, normally crowded, was empty except for a woman in a bathrobe handing her husband a mug of coffee as he set off on his bike [2]. The ribbon was cut on May 24, 2017, and Board of Supervisors President London Breed called the park \"one of the jewels of our city\" [1].",
+    "people": [
+      {
+        "name": "Brett Desmarais",
+        "role": "Recreation and Park Department project manager"
+      },
+      {
+        "name": "London Breed",
+        "role": "President, Board of Supervisors"
+      },
+      {
+        "name": "Ed Lee",
+        "role": "Mayor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alamo Square Park Has Officially Reopened",
+        "publisher": "Hoodline (with Bay City News)",
+        "year": 2017,
+        "url": "https://hoodline.com/2017/05/alamo-square-park-has-officially-reopened/",
+        "supports": "May 2016 closure, seven-month plan and delays, $5.3M, restroom, 45 trees, May 24, 2017 reopening, Breed quote"
+      },
+      {
+        "title": "Alamo Square Park, neighbor of Painted Ladies, reopening",
+        "publisher": "San Francisco Chronicle (Lizzie Johnson)",
+        "year": 2017,
+        "url": "https://www.sfgate.com/bayarea/article/Alamo-Square-Park-neighbor-of-Painted-Ladies-11168387.php",
+        "supports": "12.7 acres, rain delay, irrigation and flagpole sensor, water savings, rain garden, tennis-court nursery, Desmarais quote, empty sidewalk scene"
+      }
+    ],
+    "photo": null
+  }
+]

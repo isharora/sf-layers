@@ -1,0 +1,744 @@
+[
+  {
+    "id": "communities-st-paulus-hydrant",
+    "title": "The Hydrant That Saved St. Paulus",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Paulus Lutheran Church, 999 Eddy St at Gough",
+      "lat": 37.78245,
+      "lon": -122.4242,
+      "precision": "building"
+    },
+    "hook": "Crews were about to dynamite the German Lutheran church to stop the 1906 fire. Then the pastor asked them to try one more hydrant.",
+    "story": "St. Paulus was the pioneer German Lutheran parish of its synod on the West Coast. Pastor Jacob M. Buehler organized the German Evangelical St. Paulus Congregation on May 15, 1867, and in 1872 the parish opened a German-American weekday school, the first Lutheran day school on the Pacific Coast [1]. Its carpenter-Gothic church at Eddy and Gough was dedicated on February 11, 1894. The architect, the Stuttgart-born Julius E. Krafft, seems to have had Chartres Cathedral in mind, and the tallest of its three redwood spires rose 55 meters [1]. In April 1906 the fire crept as close as Van Ness Avenue on one side and Golden Gate Avenue on the other. With the water mains broken, crews were dynamiting buildings to make firebreaks, and St. Paulus was on the list. Before the charges went off, Pastor G. A. Bernthal asked the workers to try the hydrant on the Eddy–Gough corner. It worked, and the church was saved [1]. In thanks the parish lent its lower rooms to the city as the First Reserve Hospital. Over two months, more than 3,000 injured people were hospitalized there and more than 10,000 were given first aid [1][2]. Services stayed German until 1920 [1][3]. The church survived a spire fire in 1940, but a fire on November 5, 1995 destroyed it [1][4].",
+    "people": [
+      {
+        "name": "Jacob M. Buehler",
+        "role": "founding pastor, 1867"
+      },
+      {
+        "name": "G. A. Bernthal",
+        "role": "pastor in 1906"
+      },
+      {
+        "name": "Julius E. Krafft",
+        "role": "architect"
+      },
+      {
+        "name": "J. H. Romig",
+        "role": "physician in charge of the First Reserve Hospital"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Inventory–Nomination Form: Saint Paulus Lutheran Church",
+        "publisher": "National Park Service",
+        "year": 1980,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/82002251_text",
+        "supports": "Founding, school, dedication, architect, the 1906 hydrant, the First Reserve Hospital, English services from 1920, 1940 fire"
+      },
+      {
+        "title": "St. Paulus Lutheran Church",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/St._Paulus_Lutheran_Church",
+        "supports": "Served as a shelter and hospital in 1906, German services until 1920, 1940 and 1995 fires"
+      },
+      {
+        "title": "'Amazing grace': St. Paulus Lutheran celebrates 150 years",
+        "publisher": "Living Lutheran",
+        "year": 2017,
+        "url": "https://www.livinglutheran.org/2017/06/amazing-grace-st-paulus-lutheran-celebrates-150-years/",
+        "supports": "German immigrant founders, 1906 hospital and shelter, change to English in 1920, 1995 fire"
+      },
+      {
+        "title": "San Francisco Landmark #116: Saint Paulus Lutheran Church",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf116.asp",
+        "supports": "Address 999 Eddy at Gough; destroyed by fire 5 November 1995"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-sacred-heart-irish",
+    "title": "The Most Irish Parish West of Chicago",
+    "year": 1906,
+    "yearEnd": 1936,
+    "place": {
+      "label": "Sacred Heart Church, Fillmore & Fell Streets (554 Fillmore St)",
+      "lat": 37.77474,
+      "lon": -122.43055,
+      "precision": "building"
+    },
+    "hook": "Its first pastor was a Father James Flood, but not the silver millionaire. His parish at Fillmore and Fell came through 1906 without a scratch.",
+    "story": "Sacred Heart was founded in 1885 to serve Catholics on the city's western edge. Its first pastor, Father James Flood, was no relation to the Comstock silver king of the same name. He began in makeshift quarters and lived in a rented flat at 710 Hayes Street [1]. Thomas J. Welsh's Romanesque church at Fillmore and Fell was finished in 1898 [1][2]. For more than three decades most of its parishioners were Irish Catholics, among them the Mahony and Fay families and the opera singer Maude Fay Symington. It was remembered as \"the most Irish parish west of Chicago\" [1]. The church came through the 1906 earthquake and fire unscathed. The parish school, then in the old Sutro mansion at Hayes and Fillmore, served as a temporary hospital and shelter [1][2]. In 1910 the parish unveiled three Carrara marble altars for its silver jubilee. The main one weighed 95 tons [3]. By the 1910s many Irish families were leaving the district, and Italian, Mexican, Guatemalan and Puerto Rican families joined the parish in the 1920s and '30s [1]. The Dominican Sisters, who taught about 500 pupils there in the early 1920s, had once lived in a \"rat ridden shed.\" They finally got a proper convent in 1936 [1].",
+    "people": [
+      {
+        "name": "Father James Flood",
+        "role": "first pastor, 1885–1889"
+      },
+      {
+        "name": "Thomas J. Welsh",
+        "role": "architect of the church"
+      },
+      {
+        "name": "Maude Fay Symington",
+        "role": "opera singer and parishioner"
+      },
+      {
+        "name": "Father John Cullen",
+        "role": "pastor from 1922; built the school and convent"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark No. 316: Sacred Heart Parish Complex, Landmark Designation Report",
+        "publisher": "San Francisco Planning Department",
+        "year": 2016,
+        "url": "https://files.sfplanning.org/documents/preservation/LM316.pdf",
+        "supports": "Founding, Father Flood, the 'most Irish parish' phrase, Irish parishioners, 1906, Sacred Heart College, demographic change, the 'rat ridden shed' and the 1936 convent"
+      },
+      {
+        "title": "Sacred Heart Chronology",
+        "publisher": "Friends of 1800",
+        "year": null,
+        "url": "https://www.friendsof1800.org/SACREDHEART/sacredheartchronology.html",
+        "supports": "Established 1885, completed 1898 to Welsh's design, food and shelter after 1906, little damage"
+      },
+      {
+        "title": "Sacred Heart Parish of San Francisco",
+        "publisher": "Friends of 1800",
+        "year": null,
+        "url": "http://www.friendsof1800.org/SACREDHEART/sacredheart.html",
+        "supports": "Carrara marble altars unveiled in 1910 for the silver jubilee; the main altar weighs 95 tons"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-old-st-patricks",
+    "title": "The Church That Moved Twice",
+    "year": 1891,
+    "yearEnd": 1899,
+    "place": {
+      "label": "Old St. Patrick's Church / Holy Cross Parish Hall, 1820 Eddy St",
+      "lat": 37.78102,
+      "lon": -122.43792,
+      "precision": "building"
+    },
+    "hook": "The city's oldest wooden church started out on Market Street, where the Palace Hotel now stands. It was carted across town twice before it came to rest on Eddy Street.",
+    "story": "The plain Classical Revival building on the north side of Eddy between Scott and Divisadero began life downtown, as St. Patrick's Church in Happy Valley on Market Street [1]. Its exact age is disputed. The parish historian Luke Carroll dated it to 1854 and said it was brought around the Horn in a sailing vessel. The Historic American Buildings Survey argued that it more likely dated to 1851, and another account gives 1852 [1][2]. The Palace Hotel was going up on its site, so in 1873 the church was moved to Eddy Street between Octavia and Laguna and reconsecrated as St. John the Baptist. From 1885 to 1891 Archbishop Riordan used it as his pro-cathedral [1]. When St. Mary's Cathedral opened on Van Ness in 1891, the little church moved again, this time to Eddy near Divisadero. It was rededicated on May 24, 1891 as the first home of Holy Cross Parish [1][2]. Holy Cross laid the cornerstone of a larger church next door on April 3, 1898 and dedicated it on August 13, 1899, under pastor Rev. John McGinty. The old building became the parish hall [2]. It was named San Francisco Landmark No. 6 in 1968 and is considered the oldest frame church building in the city [3][4].",
+    "people": [
+      {
+        "name": "Archbishop Patrick Riordan",
+        "role": "used the building as his pro-cathedral, 1885–1891"
+      },
+      {
+        "name": "Rev. John McGinty",
+        "role": "pastor of Holy Cross"
+      },
+      {
+        "name": "Luke Carroll",
+        "role": "Holy Cross parish historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Holy Cross Parish Hall (Original St. Patrick's Church), HABS No. CAL-1908, Photograph-Data Book Report",
+        "publisher": "Historic American Buildings Survey / Library of Congress",
+        "year": null,
+        "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0600/ca0655/data/ca0655data.pdf",
+        "supports": "Origins on Market Street, the disputed dates, the 1873 and 1891 moves, the pro-cathedral years, becoming the parish hall in 1899"
+      },
+      {
+        "title": "Holy Cross Church: A Closer Look",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2017,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2017/02/06/holy-cross-church-a-closer-look/",
+        "supports": "The 1852 date, rededication as Holy Cross on May 24, 1891, 1898 cornerstone, 1899 dedication, Rev. John McGinty"
+      },
+      {
+        "title": "San Francisco Landmark #6: Old St. Patrick's Church",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf006.asp",
+        "supports": "City Landmark No. 6"
+      },
+      {
+        "title": "Old St. Patrick's Church (San Francisco)",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Old_St._Patrick%27s_Church_(San_Francisco)",
+        "supports": "Oldest frame church building in the city; landmark dates of 1968"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-old-holy-virgin",
+    "title": "A Russian Cathedral in an Episcopal Church",
+    "year": 1931,
+    "yearEnd": 1965,
+    "place": {
+      "label": "Old Holy Virgin Cathedral, 858–864 Fulton St",
+      "lat": 37.77802,
+      "lon": -122.43094,
+      "precision": "building"
+    },
+    "hook": "Russians who had fled the Revolution bought a redwood Episcopal church on Fulton Street. For 34 years it was the cathedral of the Russian Orthodox Church Outside Russia's western diocese.",
+    "story": "In 1927, as refugees from the Russian Revolution settled in San Francisco, a group of faithful led by Archbishop Apollinary (Koshevoi) formed a parish of the Russian Orthodox Church Outside Russia. They dedicated it to the icon of the Mother of God, \"Joy of All Who Sorrow\" [1]. At first they worshipped in a storefront on Sacramento Street. In 1931 they bought the former St. Stephen's Episcopal Church on Fulton Street between Webster and Fillmore [1][2]. It is a German Renaissance–style building of California redwood, dated to about 1880 [2]. They installed an iconostasis in front of the altar and carved icon shrines along the walls, and the building became the cathedral of the diocese [1]. Archbishop Tikhon (Troitsky) led the diocese from 1930 to 1962 [1]. After the communist victory in China, thousands of Orthodox refugees came to San Francisco in the early 1950s, many of them by way of the Philippines under the guidance of St. John of Shanghai and San Francisco. The cathedral was packed so tight that candles had to be passed hand to hand to reach the stands [1]. St. John became archbishop of San Francisco in 1963 and kept serving at Fulton Street until the new cathedral on Geary opened in 1965 [1][3]. The old building became City Landmark No. 28 in 1970 [1][2].",
+    "people": [
+      {
+        "name": "Archbishop Apollinary (Koshevoi)",
+        "role": "led the founding of the parish, 1927"
+      },
+      {
+        "name": "Archbishop Tikhon (Troitsky)",
+        "role": "ruling hierarch in San Francisco, 1930–1962"
+      },
+      {
+        "name": "St. John of Shanghai and San Francisco (John Maximovitch)",
+        "role": "archbishop of San Francisco from 1963"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History: The Old Cathedral of the Holy Virgin 'Joy of All Who Sorrow'",
+        "publisher": "Old Holy Virgin Cathedral",
+        "year": null,
+        "url": "http://stariisobor.org/about-ohvc/history/",
+        "supports": "1927 founding, the Sacramento Street storefront, 1931 purchase of St. Stephen's Episcopal, iconostasis, Archbishop Tikhon, refugees from China, St. John, 1965 move, Landmark No. 28"
+      },
+      {
+        "title": "San Francisco Landmark #28: Old Holy Virgin Russian Orthodox Church",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf028.asp",
+        "supports": "Address 858–864 Fulton between Webster and Fillmore, built 1880 as an Episcopal church, German Renaissance style, bought 1931"
+      },
+      {
+        "title": "Holy Virgin Cathedral",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Holy_Virgin_Cathedral",
+        "supports": "The Fulton Street 'Old Cathedral' used until 1965; designated a landmark on May 3, 1970; St. John's appointment"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-langendorf-bakery",
+    "title": "Challah the Size of a Shop Window",
+    "year": 1915,
+    "yearEnd": null,
+    "place": {
+      "label": "Langendorf Bakery, 1160 McAllister St",
+      "lat": 37.77885,
+      "lon": -122.43099,
+      "precision": "block"
+    },
+    "hook": "The 1906 fire burned out a Viennese baker south of Market. He started again on McAllister Street and built what neighbors considered the Fillmore's number one Jewish bakery.",
+    "story": "Bernard Langendorf came to America from Vienna at sixteen. In 1895 he moved his small bakery from Chicago to San Francisco and opened Langendorf's Vienna Bakery on Folsom Street, baking rye bread said to follow an old Viennese formula [1]. The 1906 earthquake and fire destroyed it. Like many Jewish families burned out of South of Market, he moved west to the Fillmore and reopened at 878 McAllister near Laguna [1][2]. In 1915, with $400,000 raised from ten prominent San Franciscans, he built a larger plant at 1160 McAllister [1]. Neighbors remembered Langendorf's as the number one Jewish bakery in the district. During the High Holidays its windows held giant challahs, some filled with raisins and candied fruit and sprinkled with colored candy or poppy seeds [1]. By the early 1920s horse-drawn wagons and battery-powered white trucks carried its bread across the city. A 1917 film shows a parade of its horse-drawn wagons and delivery trucks, painted with the slogan \"The Best of all Breads\" [1][3]. Merchants and former employees remembered Bernard himself riding the No. 5 McAllister streetcar to the bank with a paper bag full of the day's cash [1].",
+    "people": [
+      {
+        "name": "Bernard Langendorf",
+        "role": "Viennese-born baker and founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Fillmore: A Jewish Neighborhood in the 1920s (from Jerry Flamm, Good Life in Hard Times)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/The_Fillmore:_A_Jewish_Neighborhood_in_the_1920s",
+        "supports": "Langendorf's biography, the Folsom Street and 878 McAllister bakeries, the 1915 plant at 1160 McAllister, the challahs, delivery fleet and streetcar anecdote"
+      },
+      {
+        "title": "Jewish Fillmore",
+        "publisher": "The New Fillmore",
+        "year": 2009,
+        "url": "https://newfillmore.com/fillmore-classics/jewish-fillmore/",
+        "supports": "Jews displaced in 1906 moved into the Fillmore; Langendorf's among the neighborhood's Jewish businesses"
+      },
+      {
+        "title": "Gould can 1041: Langendorf Bakery Trucks (1917 film)",
+        "publisher": "Prelinger Archives / Internet Archive",
+        "year": 1917,
+        "url": "https://archive.org/details/0773_Gould_can_1041_Langendorf_Bakery_Trucks_13_11_30_00",
+        "supports": "The 1917 parade of horse-drawn and motor delivery vehicles; the slogan 'The Best of all Breads'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-jefferson-market",
+    "title": "Feathers on Buchanan Street",
+    "year": 1925,
+    "yearEnd": null,
+    "place": {
+      "label": "Jefferson Market, 1002 Buchanan St",
+      "lat": 37.77953,
+      "lon": -122.42843,
+      "precision": "building"
+    },
+    "hook": "Cages of squawking chickens were stacked on the sidewalk, and feathers hung in the air. This was where Jewish San Francisco came to buy its Sabbath bird.",
+    "story": "In the 1920s and '30s, the Jefferson Market at 1002 Buchanan, owned by I. Goldstein, was the main place in San Francisco's Jewish community to buy a fresh chicken [1]. Jerry Flamm's account remembers a place that \"bulged with screeching chickens\". Cages were piled on the sidewalk, leaving only narrow aisles for passers-by, and a cloud of feathers hung in the air [1]. You picked your bird and a clerk carried it, flapping, to the back. There the shochet, the kosher slaughterer, killed it with a straight-edge razor and hung it to bleed. Then it was plucked, wrapped in newspaper and handed to you [1][2]. The Jefferson was one of four places in the district that sold kosher chickens, along with Sosnick's, Diller's and Shenson's [2]. They belonged to a dense little world. In the two blocks bounded by Fillmore, Buchanan, McAllister and Golden Gate there were two synagogues, three kosher restaurants, four Jewish bakeries, five kosher meat markets, at least three delicatessens and a Jewish liquor merchant [2][3]. On Saturday nights, after the Sabbath ended at sundown, shops reopened and stayed busy until eleven [1].",
+    "people": [
+      {
+        "name": "I. Goldstein",
+        "role": "owner of the Jefferson Market"
+      },
+      {
+        "name": "Jerry Flamm",
+        "role": "memoirist of the Jewish Fillmore"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Fillmore: A Jewish Neighborhood in the 1920s (from Jerry Flamm, Good Life in Hard Times)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/The_Fillmore:_A_Jewish_Neighborhood_in_the_1920s",
+        "supports": "Address, owner, the description of the chickens and the shochet, Saturday-night hours"
+      },
+      {
+        "title": "Jewish Fillmore",
+        "publisher": "The New Fillmore",
+        "year": 2009,
+        "url": "https://newfillmore.com/fillmore-classics/jewish-fillmore/",
+        "supports": "The four kosher chicken sellers, the shochet, the count of businesses in the two blocks"
+      },
+      {
+        "title": "Jews of the Fillmore: Exhibit honors a once-thriving S.F. Jewish neighborhood",
+        "publisher": "J. The Jewish News of Northern California",
+        "year": 2009,
+        "url": "https://jweekly.com/2009/07/10/jews-of-the-fillmore-exhibit-honors-a-once-thriving-s-f-jewish-neighborhoo/",
+        "supports": "The count of synagogues, restaurants, bakeries and meat markets in the two-block area"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-webster-street-shul",
+    "title": "The Webster Street Shul",
+    "year": 1906,
+    "yearEnd": 1973,
+    "place": {
+      "label": "Congregation Keneseth Israel, 935 Webster St",
+      "lat": 37.77955,
+      "lon": -122.43088,
+      "precision": "block"
+    },
+    "hook": "Its founders thought the Geary Street temple was not strict enough, so they built their own. On the High Holidays, crowds spilled onto the sidewalk.",
+    "story": "Keneseth Israel was one of the Fillmore's two Orthodox synagogues. It was founded by religious immigrants who wanted to keep strictly to the practice of the Old Country. They had split away from the group that founded Beth Israel, the less Orthodox congregation on Geary Street [1]. The cornerstone of the Webster Street building was laid in 1903 [1]. After the 1906 earthquake and fire drove Jews out of South of Market, the synagogue found itself at the center of a growing Jewish district [1][2]. Neighbors called it the Webster Street Shul. Its sister congregation, Anshey Sfard, was known as the Golden Gate Avenue Shul, at 1140 Golden Gate [2][3]. On Rosh Hashanah and Yom Kippur, crowds gathered all day outside the district's three synagogues. Some came out for air between prayers, and plenty never went in at all. Some could not afford congregation membership. Others were nonbelievers who still wanted to \"be counted\" as Jews on the holiest days [1]. As families moved to the Richmond, the Sunset and the suburbs, the neighborhood's institutions followed. Anshey Sfard left in 1958, and Keneseth Israel left Webster Street in 1973 [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "The Fillmore: A Jewish Neighborhood in the 1920s (from Jerry Flamm, Good Life in Hard Times)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/The_Fillmore:_A_Jewish_Neighborhood_in_the_1920s",
+        "supports": "Orthodox founding and the split from Beth Israel, 1903 cornerstone, the High Holiday crowds"
+      },
+      {
+        "title": "Jewish Fillmore",
+        "publisher": "The New Fillmore",
+        "year": 2009,
+        "url": "https://newfillmore.com/fillmore-classics/jewish-fillmore/",
+        "supports": "Address 935 Webster, the nicknames, Anshey Sfard at 1140 Golden Gate, the 1906 migration"
+      },
+      {
+        "title": "The Library's Neighborhood",
+        "publisher": "Jewish Community Library (San Francisco)",
+        "year": null,
+        "url": "https://jewishcommunitylibrary.org/neighborhood/",
+        "supports": "Anshey Sfard moved in 1958; Keneseth Israel departed in 1973"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-dillers-kosher",
+    "title": "Seventy-Five Cents at Diller's",
+    "year": 1925,
+    "yearEnd": null,
+    "place": {
+      "label": "Diller's Strictly Kosher Restaurant, 1233 Golden Gate Ave",
+      "lat": 37.77932,
+      "lon": -122.431,
+      "precision": "block"
+    },
+    "hook": "Dinner at Diller's cost a bissel more than at Schindler's, but on weekend nights the kosher restaurant on Golden Gate Avenue was packed.",
+    "story": "Among the kosher eateries along Golden Gate Avenue and McAllister Street, Diller's Strictly Kosher Restaurant was, in Jerry Flamm's words, \"the biggest, the best, and the most popular\" [1]. It stood on Golden Gate between Webster and Fillmore [1][2]. A dinner cost seventy-five cents, a \"bissel\" (a little) more than the fifty cents charged at Schindler's, and people agreed it was worth it [1]. On weekend nights the place was full. Families coming back from the popular Sunday picnics at San Mateo Park or at Alum Rock Park in San Jose often went straight to Diller's for dinner before going home [1]. Diller's also sold kosher chickens, one of four places in the district that did [2]. It stood in a two-block pocket bounded by Fillmore, Buchanan, McAllister and Golden Gate that held three kosher restaurants, four Jewish bakeries and five kosher meat markets [2][3]. The Jewish Fillmore grew up after the 1906 earthquake, when Jews burned out of South of Market moved west. It faded after World War II as families left for the Richmond, the Sunset and the suburbs [2]. Later redevelopment cleared many of these blocks [3].",
+    "people": [
+      {
+        "name": "Jerry Flamm",
+        "role": "memoirist who described Diller's"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Fillmore: A Jewish Neighborhood in the 1920s (from Jerry Flamm, Good Life in Hard Times)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/The_Fillmore:_A_Jewish_Neighborhood_in_the_1920s",
+        "supports": "Address 1233 Golden Gate, prices, the quote, the Sunday picnic crowds"
+      },
+      {
+        "title": "Jewish Fillmore",
+        "publisher": "The New Fillmore",
+        "year": 2009,
+        "url": "https://newfillmore.com/fillmore-classics/jewish-fillmore/",
+        "supports": "Location between Webster and Fillmore, most popular eatery, kosher chickens, the two-block count, rise and decline of the Jewish Fillmore"
+      },
+      {
+        "title": "Jews of the Fillmore: Exhibit honors a once-thriving S.F. Jewish neighborhood",
+        "publisher": "J. The Jewish News of Northern California",
+        "year": 2009,
+        "url": "https://jweekly.com/2009/07/10/jews-of-the-fillmore-exhibit-honors-a-once-thriving-s-f-jewish-neighborhoo/",
+        "supports": "Diller's among the remembered businesses; the two-block count; redevelopment demolitions"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-menuhin-steiner",
+    "title": "A Prodigy's House on Steiner Street",
+    "year": 1923,
+    "yearEnd": null,
+    "place": {
+      "label": "Menuhin family home, 1043 Steiner St",
+      "lat": 37.77889,
+      "lon": -122.43386,
+      "precision": "building"
+    },
+    "hook": "A Hebrew teacher bought a hillside house with a double parlor that could seat sixty. His seven-year-old son, Yehudi, was about to astonish the concert world.",
+    "story": "Moshe and Marutha Menuhin were Russian Jewish immigrants. They brought their son Yehudi to San Francisco when he was nine months old [1]. Moshe taught Hebrew and went on to run the Jewish Education Society [1][2]. He was also for a time principal of the Central Hebrew School at Grove and Buchanan, which hundreds of neighborhood children attended [3]. Yehudi began violin at five with Sigmund Anker, a teacher of young children. He then studied with Louis Persinger, concertmaster of the San Francisco Symphony, and gave his first professional concert around 1923 at the Oakland Auditorium [1]. That autumn the family left 732 Hayes Street for a two-story wooden house at 1043 Steiner. Its double living room, divided by sliding doors, could seat about sixty guests for informal concerts, and there was a small practice room off the kitchen [4]. Moshe covered the $50-a-month mortgage partly by renting out garage spaces and upstairs rooms [4]. The children, Yehudi and his sisters Hephzibah and Yaltah, were taught at home [1]. Hephzibah, a gifted pianist, had been born in San Francisco in 1920 [2]. In 1927, at age ten, Yehudi played his Carnegie Hall debut and became a star overnight [1].",
+    "people": [
+      {
+        "name": "Yehudi Menuhin",
+        "role": "violinist, grew up in the house"
+      },
+      {
+        "name": "Moshe Menuhin",
+        "role": "Hebrew teacher, Jewish Education Society, father"
+      },
+      {
+        "name": "Marutha Menuhin",
+        "role": "mother"
+      },
+      {
+        "name": "Hephzibah Menuhin",
+        "role": "pianist, sister"
+      },
+      {
+        "name": "Louis Persinger",
+        "role": "violin teacher, San Francisco Symphony concertmaster"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Yehudi Menuhin",
+        "publisher": "Encyclopedia.com (Contemporary Musicians)",
+        "year": null,
+        "url": "https://www.encyclopedia.com/people/literature-and-arts/music-history-composers-and-performers-biographies/yehudi-menuhin",
+        "supports": "Move to SF at nine months, teachers Anker and Persinger, Oakland debut, home schooling, Carnegie Hall at ten"
+      },
+      {
+        "title": "Menuhin, Hephzibah (1920–1981)",
+        "publisher": "Australian Dictionary of Biography",
+        "year": null,
+        "url": "https://adb.anu.edu.au/biography/menuhin-hephzibah-14967",
+        "supports": "Hephzibah born 20 May 1920 in San Francisco; Moshe was manager of the Jewish Education Society"
+      },
+      {
+        "title": "Jewish Fillmore",
+        "publisher": "The New Fillmore",
+        "year": 2009,
+        "url": "https://newfillmore.com/fillmore-classics/jewish-fillmore/",
+        "supports": "Moshe Menuhin was principal of the Central Hebrew School at Grove and Buchanan; the family lived next to 1057 Steiner"
+      },
+      {
+        "title": "The Menuhin Tour of San Francisco, Part 2 (citing Humphrey Burton, Yehudi Menuhin: A Life)",
+        "publisher": "Active Violinist",
+        "year": null,
+        "url": "https://www.activeviolinist.com/blog/the-menuhin-tour-part-2",
+        "supports": "Move from 732 Hayes to 1043 Steiner in autumn 1923; double living room for about sixty; mortgage and lodgers"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-chateau-tivoli-yiddish",
+    "title": "Yiddish Lectures in a Painted Lady",
+    "year": 1917,
+    "yearEnd": 1929,
+    "place": {
+      "label": "1057 Steiner St (now the Chateau Tivoli), at Golden Gate Ave",
+      "lat": 37.7791,
+      "lon": -122.43372,
+      "precision": "building"
+    },
+    "hook": "A shipping magnate's colorful Victorian became a home for young Jewish immigrant women. Later it became a hall for Yiddish writers and radicals.",
+    "story": "The colorful Victorian at the corner of Steiner and Golden Gate was built in 1892 for the shipping magnate Daniel B. Jackson [1]. After 1906, as the Jewish Fillmore filled in around it, the house took on two new lives. In 1917 it became the Emanu-El Sisterhood's Residence for Single Jewish Women [1][2][3]. The Sisterhood had been founded in 1894 by women of Temple Emanu-El. It offered job help and clubs for working girls, and the Steiner Street house was meant to ease newly arrived Eastern European immigrants into American life [1][4]. The residence stayed until 1923, when the Sisterhood moved into a new building designed by Julia Morgan on Page Street [2][3]. In 1929 the house became the Yiddish Cultural Center [2][3]. It was the district's hub for secular Jewish life: classes in Yiddish language and literature, and lectures by prominent Yiddish writers from around the world. It was, the New Fillmore notes, \"also a center of radical politics\" [1]. The center lasted into the 1960s [3]. The house, now the Chateau Tivoli, is one of the few buildings of the Jewish Fillmore still standing [1].",
+    "people": [
+      {
+        "name": "Daniel B. Jackson",
+        "role": "shipping magnate who built the house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jewish Fillmore",
+        "publisher": "The New Fillmore",
+        "year": 2009,
+        "url": "https://newfillmore.com/fillmore-classics/jewish-fillmore/",
+        "supports": "Built 1892 by Daniel B. Jackson; 1917 Sisterhood residence and its purpose; Yiddish Cultural Center activities; the radical-politics quote; a rare survivor"
+      },
+      {
+        "title": "Jews of the Fillmore: Exhibit honors a once-thriving S.F. Jewish neighborhood",
+        "publisher": "J. The Jewish News of Northern California",
+        "year": 2009,
+        "url": "https://jweekly.com/2009/07/10/jews-of-the-fillmore-exhibit-honors-a-once-thriving-s-f-jewish-neighborhoo/",
+        "supports": "1057 Steiner as the Sisterhood residence (1917–1923) and Yiddish Cultural Center (1929)"
+      },
+      {
+        "title": "The Library's Neighborhood",
+        "publisher": "Jewish Community Library (San Francisco)",
+        "year": null,
+        "url": "https://jewishcommunitylibrary.org/neighborhood/",
+        "supports": "Sisterhood residence at Steiner and Golden Gate 1917–1923; Yiddish Cultural Center 1929 to the 1960s"
+      },
+      {
+        "title": "Emanu-El Residence Club of San Francisco records, 1894–1969",
+        "publisher": "The Magnes Collection of Jewish Art and Life, UC Berkeley",
+        "year": null,
+        "url": "https://magnes.berkeley.edu/collections/archives/emanu-el-residence-club-of-san-francisco-records-1894-1969/",
+        "supports": "Sisterhood founded 1894; its work with working women"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-emanu-el-residence",
+    "title": "Julia Morgan's House for Working Girls",
+    "year": 1923,
+    "yearEnd": 1969,
+    "place": {
+      "label": "Emanu-El Residence, 300 Page St at Laguna",
+      "lat": 37.77388,
+      "lon": -122.42605,
+      "precision": "building"
+    },
+    "hook": "In the 1920s, three out of four young women living here spoke Yiddish. The building was designed for them by Julia Morgan.",
+    "story": "The Emanu-El Sisterhood for Personal Service was founded in 1894 by women of Temple Emanu-El, among them Bella Lilienthal and Hanna Gerstle. It began as a settlement house for Eastern European Jews South of Market [1]. After the 1906 fire drove that community west, a new settlement house opened on Golden Gate Avenue [1]. Around 1910–12 the Sisterhood began renting houses on Steiner Street as lodgings for single working women [1][2]. By the 1920s it wanted something bigger. Julia Morgan, working with Dorothy Wormser, reportedly the first Jewish woman architect in the region, designed a residence at 300 Page Street. It opened in 1923 at a cost of $160,000, paid for partly through a \"Buy a Brick\" campaign [2][3]. It housed working women and students aged 18 to 30, at first up to about 60 of them and later around 70 [2][3]. In the 1920s about three-quarters of residents spoke Yiddish [3]. In the 1930s and '40s they were joined by German women fleeing Europe [2]. There was a live-in director, a midnight curfew, and men were kept to the first floor [3]. The aim, the Sisterhood said, was to \"prepare each girl to go forth into a life of her own\" [2]. In 1969 it sold the building to the San Francisco Zen Center [1][2][3].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "architect"
+      },
+      {
+        "name": "Dorothy Wormser",
+        "role": "co-architect"
+      },
+      {
+        "name": "Bella Lilienthal",
+        "role": "Sisterhood founding member"
+      },
+      {
+        "name": "Hanna Gerstle",
+        "role": "Sisterhood founding member"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Emanu-El Residence Club of San Francisco records, 1894–1969",
+        "publisher": "The Magnes Collection of Jewish Art and Life, UC Berkeley",
+        "year": null,
+        "url": "https://magnes.berkeley.edu/collections/archives/emanu-el-residence-club-of-san-francisco-records-1894-1969/",
+        "supports": "Founders, the South of Market settlement, the post-1906 Golden Gate Avenue house, Morgan and Wormser, 1923–1969"
+      },
+      {
+        "title": "History of 300 Page Street",
+        "publisher": "San Francisco Zen Center, Sangha News",
+        "year": 2012,
+        "url": "https://blogs.sfzc.org/blog/2012/09/25/history-of-300-page-street/",
+        "supports": "Steiner Street houses c. 1912, capacity, German refugee residents, the 'life of her own' quote, 1969 sale"
+      },
+      {
+        "title": "For decades, young Jewish women learned to live on their own at the Emanu-El Residence Club",
+        "publisher": "J. The Jewish News of Northern California",
+        "year": 2024,
+        "url": "https://jweekly.com/2024/07/17/for-decades-young-jewish-women-learned-to-live-on-their-own-at-the-emanu-el-residence-club/",
+        "supports": "Opened 1923 at $160,000, Buy a Brick, ages 18–30, 75% Yiddish speakers in the 1920s, house rules, 1969 sale to Zen Center"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-hebrew-orphan-asylum",
+    "title": "The Orphanage That Fed the Neighborhood",
+    "year": 1906,
+    "yearEnd": 1921,
+    "place": {
+      "label": "Pacific Hebrew Orphan Asylum, 600 Divisadero St at Hayes",
+      "lat": 37.77516,
+      "lon": -122.43767,
+      "precision": "building"
+    },
+    "hook": "The earthquake wrecked its kitchen, so the superintendent grilled meat over a fire pit. The Jewish orphanage on Divisadero became a place where neighbors came to eat.",
+    "story": "The Pacific Hebrew Orphan Asylum and Home Society was started in the early 1870s by B'nai B'rith and Temple Emanu-El [1][2]. In 1876 it settled permanently at 600 Divisadero, at the corner of Hayes. It cared for Jewish orphans and also for dependent elderly people [2][3]. When the 1906 earthquake destroyed the asylum's kitchen, Superintendent Henry Mauser grilled meat over a fire pit, and the orphanage became a place where neighbors came to be fed [3]. By the early twentieth century more than 200 people lived in the building, and it was aging badly [1]. Ideas about raising children without families were also changing. Reformers now favored a \"cottage\" plan of small family-style houses instead of big dormitories. One writer argued that \"a boy or girl must be indeed incorrigible who cannot find rest and sweetness in the call of a robin or savor of the new cut grass\" [1]. After years of debate, the trustees bought thirteen acres of Adolph Sutro's forest off Ocean Avenue. On June 13, 1921, under Dr. Samuel Langer, the children moved to the new Homewood Terrace [1][2]. Their old corner on Divisadero later became a Bank of Italy branch [3].",
+    "people": [
+      {
+        "name": "Henry Mauser",
+        "role": "superintendent in 1906"
+      },
+      {
+        "name": "Dr. Samuel Langer",
+        "role": "director who led the move to Homewood Terrace"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Homewood Terrace: A Closer Look",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2017,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2017/07/10/homewood-terrace-a-closer-look/",
+        "supports": "Over 200 residents, the aging building, the cottage plan and quote, the Sutro forest purchase, the 1921 move"
+      },
+      {
+        "title": "Homewood Terrace Orphanage",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/homewood-terrace.php",
+        "supports": "Founding, 600 Divisadero from 1876 for children and dependent aged, Dr. Samuel Langer, move on June 13, 1921"
+      },
+      {
+        "title": "A Short History of 600 Divisadero",
+        "publisher": "Hoodline",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/09/a-short-history-of-600-divisadero/",
+        "supports": "1906 kitchen destroyed, Superintendent Henry Mauser grilling meat to feed neighbors, the later Bank of Italy branch"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "communities-weill-pledge",
+    "title": "Hands on Hearts at Raphael Weill School",
+    "year": 1942,
+    "yearEnd": null,
+    "place": {
+      "label": "Raphael Weill School (now Rosa Parks Elementary), 1501 O'Farrell St",
+      "lat": 37.78301,
+      "lon": -122.4295,
+      "precision": "building"
+    },
+    "hook": "On April 20, 1942, Dorothea Lange photographed Japanese American children reciting the Pledge of Allegiance. Within weeks, the government had taken them away.",
+    "story": "Raphael Weill School on O'Farrell Street served most of the children of the Japanese American community. Its student body reflected one of the most diverse neighborhoods in the West, and Dorothea Lange called the area \"the so-called international district\" [1]. In the spring of 1942 Lange was photographing the removal ordered under Executive Order 9066 for the War Relocation Authority. Between April 16 and 20 she photographed the school [2][3]. Her caption for one frame read: \"Pals at Raphael Weill Public School... Yuichi Sumi (left), of Japanese ancestry, and Tommy Wong of Chinese descent, on one of the last days before evacuation\" [3]. On April 20 she photographed a flag-pledge ceremony [3]. Two seven-year-olds in plaid coats stood in the front row, hands over their hearts. Hideno Nakamoto and Yoko Itashiki were soon sent to the Tanforan Assembly Center in San Bruno and then to the camp at Topaz, Utah [4]. The pictures were taken nine days after the first wave of more than 600 Japanese Americans had been removed from the city [2]. By the end of May every Japanese American family in San Francisco was gone [2].",
+    "people": [
+      {
+        "name": "Dorothea Lange",
+        "role": "photographer for the War Relocation Authority"
+      },
+      {
+        "name": "Hideno Nakamoto (later Helene Mihara)",
+        "role": "pupil in the pledge photograph"
+      },
+      {
+        "name": "Yoko Itashiki (later Mary Ann Yahiro)",
+        "role": "pupil in the pledge photograph"
+      },
+      {
+        "name": "Yuichi Sumi",
+        "role": "pupil photographed with his friend Tommy Wong"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Context Statement: Japantown, San Francisco",
+        "publisher": "San Francisco Planning Department (Donna Graves and Page & Turnbull)",
+        "year": 2011,
+        "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1696-Japantown_Context_Statement_REVISED_5-11.pdf",
+        "supports": "Raphael Weill School at 1501 O'Farrell served most Japantown children; diverse student body; Lange's 'international district'"
+      },
+      {
+        "title": "Pledge of Allegiance",
+        "publisher": "Oakland Museum of California, Picture This",
+        "year": null,
+        "url": "http://picturethis.museumca.org/pictures/pledge-allegiance",
+        "supports": "Photographs taken April 16–20, 1942, nine days after the first 600+ were removed; all SF Japanese Americans gone by end of May"
+      },
+      {
+        "title": "Pals at Raphael Weill Public School, Geary and Buchanan Streets (NARA 536050) and Flag of allegiance pledge (NARA 536053)",
+        "publisher": "U.S. National Archives, via Wikimedia Commons",
+        "year": 1942,
+        "url": "https://commons.wikimedia.org/wiki/File:Pals_at_Raphael_Weill_Public_School,_Geary_and_Buchanan_Streets._Yuichi_Sumi_(left),_of_Japanese_an_._._._-_NARA_-_536050.jpg",
+        "supports": "Lange's original captions and the date of April 20, 1942"
+      },
+      {
+        "title": "JANM Photo Exhibition Depicts Triumph Over Adversity",
+        "publisher": "Rafu Shimpo",
+        "year": 2018,
+        "url": "https://rafu.com/2018/12/janm-photo-exhibition-depicts-triumph-over-adversity/",
+        "supports": "Hideno Nakamoto and Yoko Itashiki, both 7, sent to Tanforan and then Topaz"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/San_Francisco%2C_California._Flag_of_allegiance_pledge_at_Raphael_Weill_Public_School%2C_Geary_and_Buch_._._._-_NARA_-_536053.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco,_California._Flag_of_allegiance_pledge_at_Raphael_Weill_Public_School,_Geary_and_Buch_._._._-_NARA_-_536053.jpg",
+      "credit": "Dorothea Lange, War Relocation Authority / U.S. National Archives",
+      "license": "Public domain",
+      "year": 1942
+    }
+  },
+  {
+    "id": "communities-last-buses-1942",
+    "title": "Six Greyhound Buses on O'Farrell Street",
+    "year": 1942,
+    "yearEnd": null,
+    "place": {
+      "label": "Raphael Weill School (now Rosa Parks Elementary), 1501 O'Farrell St",
+      "lat": 37.78301,
+      "lon": -122.4295,
+      "precision": "building"
+    },
+    "hook": "On the morning of May 20, 1942, the last 274 Japanese Americans in San Francisco boarded buses outside a neighborhood school. \"There were tears,\" the Chronicle reported.",
+    "story": "On December 7, 1941, about 5,280 people of Japanese ancestry lived in San Francisco [1]. Executive Order 9066, signed in February 1942, let the Army clear them out, citizens and non-citizens alike [2]. Each exclusion order gave families only days to register at a Civil Control Station, which offered to arrange the \"leasing, sale, storage or other disposition\" of homes, businesses, cars and household goods [3]. The first groups left in April from control stations at 1701 and 2020 Van Ness Avenue [4]. The city's Japanese Americans reported to sites including Kinmon Gakuen on Bush Street, the YMCA on Buchanan and Raphael Weill School [2]. The last were cleared on May 20. That morning, reported the Chronicle, \"at the Raphael Weill School on O'Farrell Street, they started their ride to Tanforan\" in six Greyhound buses, watched by military police. \"There were tears – but not from the Japanese. They came from those who stayed behind – old friends, old employers, old neighbors\" [1]. By noon all 274 were at the San Bruno racetrack [1]. That night, the paper said, Japanese town was empty, its windows \"plastered with 'To Lease' signs\" [1]. Most San Franciscans were later sent on to Topaz, Utah, and many stayed there until 1945 [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "S.F. Clear of all But 6 Sick Japanese (San Francisco Chronicle, May 21, 1942)",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 1942,
+        "url": "http://sfmuseum.org/hist8/evac19.html",
+        "supports": "5,280 Japanese in SF in 1941; the last 274 left by six Greyhound buses from Raphael Weill School on O'Farrell Street; quotes about the tears and the 'To Lease' signs"
+      },
+      {
+        "title": "Historic Context Statement: Japantown, San Francisco",
+        "publisher": "San Francisco Planning Department (Donna Graves and Page & Turnbull)",
+        "year": 2011,
+        "url": "https://sfplanning.s3.amazonaws.com/archives/documents/1696-Japantown_Context_Statement_REVISED_5-11.pdf",
+        "supports": "EO 9066; registration at Kinmon Gakuen, the YMCA and Raphael Weill School, where the last buses left; Topaz; many held until 1945"
+      },
+      {
+        "title": "Instructions to All Persons of Japanese Ancestry (April 1, 1942)",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 1942,
+        "url": "http://sfmuseum.org/hist9/evacorder.html",
+        "supports": "Civil Control Station at 1701 Van Ness and its property-disposition services"
+      },
+      {
+        "title": "Goodby! Write Soon! (San Francisco News, April 7, 1942)",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 1942,
+        "url": "http://sfmuseum.org/hist8/evac12.html",
+        "supports": "First departures from the control stations at 2020 and 1701 Van Ness"
+      }
+    ],
+    "photo": null
+  }
+]

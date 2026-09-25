@@ -1,0 +1,836 @@
+[
+  {
+    "id": "origins-alamo-cottonwood",
+    "title": "A Lone Cottonwood Marked the Water",
+    "year": 1856,
+    "yearEnd": null,
+    "place": {
+      "label": "Alamo Square (Hayes, Steiner, Fulton and Scott streets)",
+      "lat": 37.77633,
+      "lon": -122.4346,
+      "precision": "area"
+    },
+    "hook": "Before the Painted Ladies, before streets, the hilltop was a trailside watering hole marked by a single tree. That tree gave Alamo Square its name.",
+    "story": "Long before anyone called it a square, the hill at the centre of this map was Alamo Hill. According to the San Francisco Parks Alliance, in the early 1800s a lone cottonwood on the hill marked a watering hole on the horseback trail between Mission Dolores and the Presidio [1]. Álamo is Spanish for poplar. Hoodline's history says the name most likely came from poplar trees on the land, and calls the hill a stopping point on the trail [2].\n\nThe Gold Rush city soon spread toward the hill. In 1856 Mayor James Van Ness set aside 12.7 acres around the watering hole and named it Alamo Square, and the state legislature confirmed it as a public park the following year [1][3]. City records from 1857 describe the reservation as \"Alamo, bounded by Hayes, Steiner, Fulton and Scott streets\", the same four streets that frame the park today [2].\n\nFor decades the reservation stayed what Hoodline calls \"little more than a rocky knoll\", far from the city's edge [2]. The cottonwood is long gone, but the Spanish name for it has stuck to the hill, the park and the whole neighbourhood.",
+    "people": [
+      {
+        "name": "James Van Ness",
+        "role": "Mayor of San Francisco who set the square aside in 1856"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alamo Square (park history page, archived)",
+        "publisher": "San Francisco Parks Alliance",
+        "year": 2015,
+        "url": "https://web.archive.org/web/2015/http://www.sfparksalliance.org/our-parks/parks/alamo-square",
+        "supports": "Lone cottonwood, watering hole on Mission Dolores-Presidio trail; 1856 reservation of 12.7 acres; legislature confirmation"
+      },
+      {
+        "title": "Alamo Square: From 'Primeval Forest Of Rocks' To Iconic Park",
+        "publisher": "Hoodline",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/06/alamo-square-park/",
+        "supports": "Stopping point on the trail; name likely from poplar trees; 1857 reservation wording; rocky knoll"
+      },
+      {
+        "title": "Park History",
+        "publisher": "Alamo Square Neighborhood Association",
+        "year": 2024,
+        "url": "https://alamosquare.org/park-history/",
+        "supports": "Same account of the cottonwood, the 1856 reservation and the 1857 confirmation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-hayes-valley-oaks-springs",
+    "title": "Oaks and Springs in a Sheltered Hollow",
+    "year": 1776,
+    "yearEnd": null,
+    "place": {
+      "label": "Hayes Valley (around Hayes and Buchanan streets)",
+      "lat": 37.776454,
+      "lon": -122.428132,
+      "precision": "area"
+    },
+    "hook": "Most of the peninsula was shifting sand. Hayes Valley was different: a shallow hollow of coast live oaks and natural springs, in Yelamu Ohlone territory.",
+    "story": "Before Spanish settlers arrived in 1776, most of the northern San Francisco peninsula was shifting sand dunes and coastal sage scrub. The planners' historic context statement for this area describes Hayes Valley as different: \"a shallow hollow containing groves of coast live oaks and natural springs\" [1][2]. Shelter and fresh water made it attractive.\n\nThe land lay within the territory of the Yelamu, a group of the Ohlone people. The same report says the nearest known Ohlone village was Chutchui, on Mission Creek and probably not far from Mission Dolores. Its people moved with the seasons to another village, Sitlintac, to gather shellfish on the tidal flats of what is now Mission Bay [1]. Ohlone life centred on extended families and seasonal camps, with acorns among the most important foods [1].\n\nNo major prehistoric site has been recorded in the Market and Octavia plan area, which takes in the eastern edge of this map. The land was heavily disturbed long before archaeologists took an interest. The report still concludes that, with abundant water and food nearby, prehistoric deposits probably remain intact under parts of the area [1].\n\nThe dunes came back into the story later. In the 1850s, fog, wind and shifting sand defeated Thomas Hayes's attempts to farm the valley [1][2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area",
+        "publisher": "Page & Turnbull for the San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Pre-1776 oaks, springs, dunes and scrub; Yelamu territory; Chutchui and Sitlintac; Ohlone diet; archaeological potential; Hayes's failed farming"
+      },
+      {
+        "title": "Hayes Valley Residential Historic District Update (DPR 523D District Record)",
+        "publisher": "Page & Turnbull / San Francisco Planning Department",
+        "year": 2008,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/DPRforms/DPR%20523D_Hayes%20Valley%20Residential%20Update%206_6_08.pdf",
+        "supports": "Hollow of coast live oaks and natural springs contrasting with dunes and chaparral; fog, wind and sand defeated farming"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-sans-souci-roadhouse",
+    "title": "The Roadhouse by a Vanished Lake",
+    "year": 1853,
+    "yearEnd": null,
+    "place": {
+      "label": "Near Fulton and Divisadero streets (site of 1333 Fulton St)",
+      "lat": 37.776701,
+      "lon": -122.438535,
+      "precision": "block"
+    },
+    "hook": "On the old Mission-to-Presidio trail stood the San Souci roadhouse, a refuge from the wind beside a lake that may have washed away in one night.",
+    "story": "Where Fulton meets Divisadero today, early travellers found a roadhouse. Historian Joel Pomerantz found a building at this spot on an 1853 map by City Surveyor Clement Humphreys. It stood on the city line of the time, now Divisadero Street, beside the dotted trail from the Mission to the Presidio [1]. It was the San Souci roadhouse, a refuge from the wind in sandy, hard country [1].\n\nThe best-known description comes from journalist Edward Morphy, writing around 1919: \"probably the best known landmark of Divisadero street in the pioneer days was the old San Souci roadhouse which stood on the east side of a pretty little lake that then filled the space from Fulton to about midway between Hayes and Fell streets\" [2]. Morphy said the lake broke its sandy banks in the very wet winter of 1861-62 and mostly drained away down the valley. Pomerantz points out that the lake rests on Morphy's word alone, and that parts of the flood story don't add up [2].\n\nMuch altered, the roadhouse survived until the 1920s [1]. Historian Joe Pecora counts it among the neighbourhood's lost landmarks [3]. Pomerantz found a reference crediting the roadhouse as the source of the name San Souci Valley, used for the Lower Haight and Panhandle area until about the 1920s [1].",
+    "people": [
+      {
+        "name": "Edward Morphy",
+        "role": "Journalist whose c. 1919 columns described the roadhouse and lake"
+      },
+      {
+        "name": "Clement Humphreys",
+        "role": "City surveyor whose 1853 map shows the building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Souci Roadhouse",
+        "publisher": "Thinkwalks (Joel Pomerantz)",
+        "year": 2010,
+        "url": "http://thinkwalks.org/2010/12/03/san-souci-roadhouse/",
+        "supports": "1853 Humphreys map showing the building on the city line and trail; San Souci Valley name; demolition in the 1920s"
+      },
+      {
+        "title": "The San Souci Lake-Pioche Mystery",
+        "publisher": "Thinkwalks (Joel Pomerantz)",
+        "year": 2010,
+        "url": "https://thinkwalks.org/2010/10/19/the-san-souci-lake%E2%80%93pioche-mystery/",
+        "supports": "Morphy quotation; 1861-62 overflow; lake attested only by Morphy; site at 1333 Fulton"
+      },
+      {
+        "title": "Alamo Square and the families who lived there",
+        "publisher": "The New Fillmore (Joe Pecora)",
+        "year": 2014,
+        "url": "https://newfillmore.com/2014/10/03/alamo-square-and-the-families-who-lived-there/",
+        "supports": "Pecora lists the Sans Souci Roadhouse among the demolished landmarks of the Alamo Square neighbourhood"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-phelps-house-origins",
+    "title": "The Oldest House and Its Rival Origin Stories",
+    "year": 1850,
+    "yearEnd": null,
+    "place": {
+      "label": "Abner Phelps House, 1111 Oak Street",
+      "lat": 37.772768,
+      "lon": -122.438061,
+      "precision": "building"
+    },
+    "hook": "San Francisco's oldest house has at least three birth stories: shipped from New Orleans, framed from Maine lumber, or built from California redwood.",
+    "story": "At 1111 Oak Street stands a Gothic Revival cottage that its 1971 National Register nomination calls \"generally considered to be the oldest unaltered residence in San Francisco\", dating from 1850-51 [1]. The same nomination admits that \"accounts vary as to its date and builder\" [1].\n\nThe earliest published account, from 1934, said John Middleton & Sons built it in 1850 from lumber framed into sections and shipped \"round the Horn from Maine, there being no sawmills here at the time\" [1][2]. In 1961 Abner Phelps's great-granddaughter told another story. The house had been bought in New Orleans and shipped around the Horn to ease the homesickness of his bride, Augusta Roussell [1]. The raised foundation and veranda do recall Louisiana cottages [1]. A 1907 San Francisco Call interview with the family agreed that it \"was built in Louisiana and came around the Horn all ready to be put up\" [3]. Then a 1970s analysis of the wood by UC Berkeley scientists suggested California redwood [3].\n\nThe Junior League book Here Today states with certainty that Phelps, a Mexican War colonel and lawyer, lived there in 1851, well outside a city whose limits did not reach Divisadero until 1854 [1]. When it sold in 2024, the Chronicle still called it \"widely believed to be the city's oldest house\" [4].",
+    "people": [
+      {
+        "name": "Abner Phelps",
+        "role": "Lawyer and Mexican War colonel; the house's first owner"
+      },
+      {
+        "name": "Augusta Roussell",
+        "role": "Phelps's wife, from Louisiana (named in the National Register nomination)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Inventory-Nomination Form: Abner Phelps House",
+        "publisher": "National Park Service",
+        "year": 1971,
+        "url": "https://npgallery.nps.gov/GetAsset/767f3ec8-efbd-4257-a9aa-f64bca198257/",
+        "supports": "'Oldest unaltered residence'; 1850-51; 1934 and 1961 accounts; Louisiana features; Phelps living there in 1851; city limits"
+      },
+      {
+        "title": "San Francisco Landmark #32: Abner Phelps House",
+        "publisher": "NoeHill in San Francisco (quoting the Landmarks Preservation Advisory Board case report, 1969)",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf032.asp",
+        "supports": "Landmark #32 case report text on the 1934 Maine-lumber account"
+      },
+      {
+        "title": "The history and many origin stories of San Francisco's oldest home",
+        "publisher": "SFGATE (Andrew Chamings)",
+        "year": 2024,
+        "url": "https://www.sfgate.com/obscuresf/article/SF-oldest-house-for-lease-17222878.php",
+        "supports": "1907 Call interview; 1970s UC Berkeley redwood analysis"
+      },
+      {
+        "title": "San Francisco music mogul buys city's oldest house at 1111 Oak Street",
+        "publisher": "San Francisco Chronicle",
+        "year": 2024,
+        "url": "https://www.sfchronicle.com/sf/article/abner-phelps-house-sale-19731884.php",
+        "supports": "2024 sale; 'widely believed to be the city's oldest house'"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Abner_Phelps_House_%28San_Francisco%29.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Abner_Phelps_House_(San_Francisco).JPG",
+      "credit": "Sanfranman59 / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "year": 2008
+    }
+  },
+  {
+    "id": "origins-phelps-homestead",
+    "title": "A Homestead With a Duck-Hunting Lake",
+    "year": 1851,
+    "yearEnd": 1904,
+    "place": {
+      "label": "Abner Phelps House, 1111 Oak Street",
+      "lat": 37.772768,
+      "lon": -122.438061,
+      "precision": "building"
+    },
+    "hook": "Abner Phelps rode his horse to a downtown law office from a 160-acre homestead with its own lake. As the grid closed in, his family kept moving the house.",
+    "story": "In the 1850s the Phelps house stood in the middle of a 160-acre homestead at the foot of Buena Vista Hill. Part of today's Panhandle belonged to it [1]. Abner Phelps kept a law office in the Montgomery Block downtown. The National Register nomination says he made \"a long dusty journey to town daily by horseback\", when Divisadero was \"no more than a path\" [1].\n\nA 1907 San Francisco Call profile, quoted by SFGATE, described a ranch lake, 100 feet deep, \"for the boys who were devoted to swimming and duck-hunting\" [2]. The Call said it flooded in heavy rain. After one flood, a neighbour's piano and a barrel of his whiskey \"were found out in the Mission\" [2].\n\nWhen Divisadero was graded in the 1890s, the house was repositioned, and in 1904 it was moved back to the middle of the block so the family could build stores on Divisadero [1][3]. SFGATE reports that two Phelps sisters ran a haberdashery there. The house could only be reached by a 75-foot alley, and Phelps's son Walter told the Call: \"It has cost us more than building a new house, but we like to keep the old place\" [2]. His brother George lived there until he died in 1940. The house was turned to face Oak Street in 1977 [2].",
+    "people": [
+      {
+        "name": "Abner Phelps",
+        "role": "Lawyer and homesteader"
+      },
+      {
+        "name": "Walter Phelps",
+        "role": "Son, quoted on moving the house in 1904"
+      },
+      {
+        "name": "George Phelps",
+        "role": "Son, last Phelps to live in the house (died 1940)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Inventory-Nomination Form: Abner Phelps House",
+        "publisher": "National Park Service",
+        "year": 1971,
+        "url": "https://npgallery.nps.gov/GetAsset/767f3ec8-efbd-4257-a9aa-f64bca198257/",
+        "supports": "160-acre homestead; Panhandle; Montgomery Block office; horseback commute; Divisadero a path; moves in the 1890s and 1904"
+      },
+      {
+        "title": "The history and many origin stories of San Francisco's oldest home",
+        "publisher": "SFGATE (Andrew Chamings)",
+        "year": 2024,
+        "url": "https://www.sfgate.com/obscuresf/article/SF-oldest-house-for-lease-17222878.php",
+        "supports": "1907 Call quotations on the lake, flood and Walter Phelps; haberdashery; alley; George Phelps; 1977 move"
+      },
+      {
+        "title": "San Francisco Landmark #32: Abner Phelps House",
+        "publisher": "NoeHill in San Francisco (quoting the Landmarks Preservation Advisory Board case report, 1969)",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf032.asp",
+        "supports": "1890s repositioning and 1904 move to build stores on Divisadero"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-western-addition-grid",
+    "title": "Streets Drawn on Sand",
+    "year": 1856,
+    "yearEnd": null,
+    "place": {
+      "label": "Linden Street, Hayes Valley",
+      "lat": 37.776282,
+      "lon": -122.424849,
+      "precision": "street"
+    },
+    "hook": "In 1856 three commissioners drew a grid across empty dunes west of Larkin Street. Their plan created the Western Addition, and its odd tree-named alleys.",
+    "story": "In the early 1850s the land west of Larkin Street was dunes, scrub and conflicting land claims. The Van Ness Ordinance of 1855 settled those claims largely in favour of squatters. Anyone in actual possession of land on or before January 1, 1855 got title. A new map then set out the streets and reserved lots for parks, schools and hospitals [1].\n\nOn November 12, 1855, the city council named Horace Hawes, Michael Hayes and Charles Gough to \"lay off the streets in the Western Addition\" [2]. They reported on April 21, 1856, having made \"a patient and thorough examination of the land\" [2]. Only four street names from earlier, unofficial surveys survived into the new era, Webster, Laguna, Haight and Hays, and three of those were moved to new lines [2].\n\nThe southern Western Addition came out with a quirk you can still walk through. Many blocks are cut in half by narrow east-west streets named for plants, such as Ivy, Linden, Rose and Hickory [3]. That created \"through blocks\" whose lots, often 25 feet by 120, front two streets. Builders put a house at each end, stretched one building between both frontages, or put stables at the back [3]. Linden Street is one of those alleys.",
+    "people": [
+      {
+        "name": "Horace Hawes",
+        "role": "Street commissioner, 1855-56"
+      },
+      {
+        "name": "Michael Hayes",
+        "role": "Street commissioner, brother of Thomas Hayes"
+      },
+      {
+        "name": "Charles Gough",
+        "role": "Street commissioner, 1855-56"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area",
+        "publisher": "Page & Turnbull for the San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Van Ness Ordinance terms (possession by January 1, 1855); Van Ness Map reservations; 1856 platting of the Western Addition"
+      },
+      {
+        "title": "Naming of Haight Street, Part 4: The Last Haight Standing",
+        "publisher": "FoundSF (Angus MacFarlane)",
+        "year": 2017,
+        "url": "https://www.foundsf.org/Naming_of_Haight_Street,_Part_4:_The_Last_Haight_Standing",
+        "supports": "November 12, 1855 commission; April 21, 1856 report quotation; four surviving street names"
+      },
+      {
+        "title": "Hayes Valley Residential Historic District Update (DPR 523D District Record)",
+        "publisher": "Page & Turnbull / San Francisco Planning Department",
+        "year": 2008,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/DPRforms/DPR%20523D_Hayes%20Valley%20Residential%20Update%206_6_08.pdf",
+        "supports": "Botanical half-block streets; through blocks; lot sizes; how builders used them"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-hayes-park",
+    "title": "Colonel Hayes's Pleasure Garden",
+    "year": 1864,
+    "yearEnd": null,
+    "place": {
+      "label": "Near Hayes and Laguna streets",
+      "lat": 37.776617,
+      "lon": -122.426596,
+      "precision": "block"
+    },
+    "hook": "To sell lots in a sandy hollow, Tom Hayes built a day-trip resort with a concert hall, gymnasium, shooting gallery and bar.",
+    "story": "Thomas Hayes was an Irish-born politician who sailed for San Francisco in January 1849 with two of his brothers. He got a 160-acre tract through a preemption deed, in effect a squatter's claim, and the Van Ness Ordinance confirmed it in 1855 [1]. A 1928 Chronicle writer called him \"a rather picturesque but shrewd figure in early San Francisco politics and in state military affairs\" [2].\n\nFarming failed in the fog, wind and sand, so Hayes started selling his land for homes instead [1][3]. To bring buyers out, he opened what planners describe as a \"come-on\" attraction: Hayes Park, near today's Hayes and Laguna streets, with a picnic ground, restaurant and bar [3]. Sources give different opening dates. The city's context statement says around 1856, and other accounts say the early 1860s [1].\n\nBy 1864 the San Francisco Directory was advertising Hayes' Park, Pavilion and Garden as a \"suburban resort\" with a garden, concert hall, gymnasium and shooting gallery [2]. Townspeople made a day or half-day trip of it. A photograph of Hayes Valley taken that year shows the semicircular pavilion in the distance, with the Protestant Orphan Asylum in one corner [2].",
+    "people": [
+      {
+        "name": "Thomas Hayes",
+        "role": "Landowner, county clerk and developer of Hayes Valley"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area",
+        "publisher": "Page & Turnbull for the San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Hayes's arrival in 1849; preemption claim confirmed 1855; failed farming; pavilion around 1856 near Hayes and Laguna"
+      },
+      {
+        "title": "Hayes Valley In The 1860s: A Day Trip To The Hayes Park And Pavilion",
+        "publisher": "Hoodline",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/07/hayes-valley-in-the-1860s-a-day-trip-to-the-hayes-park-and-pavilion/",
+        "supports": "Fitzhamon 1928 quotation; 1864 directory advertisement; day trips; 1864 photograph"
+      },
+      {
+        "title": "Hayes Valley Residential Historic District Update (DPR 523D District Record)",
+        "publisher": "Page & Turnbull / San Francisco Planning Department",
+        "year": 2008,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/DPRforms/DPR%20523D_Hayes%20Valley%20Residential%20Update%206_6_08.pdf",
+        "supports": "'Come-on' attraction; picnic ground, restaurant and bar; location"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-hayes-steam-railroad",
+    "title": "A Steam Train Against the Sand",
+    "year": 1860,
+    "yearEnd": null,
+    "place": {
+      "label": "Hayes Street between Octavia and Laguna",
+      "lat": 37.776433,
+      "lon": -122.425001,
+      "precision": "street"
+    },
+    "hook": "On July 4, 1860, steam trains began running out Market Street toward Hayes Valley. Blowing sand beat the engines, and horses took over.",
+    "story": "Thomas Hayes knew his lots would only sell if people could reach them. In 1857 he got a franchise from the state legislature for a steam railroad along Market Street, with a spur six blocks out Hayes Street to his pleasure garden, Hayes Park [1][2]. It followed roughly the route of today's 21-Hayes bus [1].\n\nThe Market Street line opened with steam dummies on July 4, 1860, running from Third and Kearny out Market Street toward the Mission [3]. Planners say the Hayes line was completed the same year [1][2]. The dunes fought back from the start. Drifting sand covered the tracks, and the operators planted windbreaks of brush and scrub oak [1]. Grit still wore out the engines. After public complaints about the steam dummies, the company switched to horses on March 6, 1867 [1][3].\n\nIn a 1948 Examiner column, Dick Nolan said the old-timers \"thought Hayes' newfangled contraption was downright effeminate\" and would rather walk or ride [4]. Hayes ran into money trouble and lost the franchise, and the line became part of the Market Street Railway [2][4]. It had done its job, though. Planners say the investment paid off, and building took off in Hayes Valley during the 1860s [1][2].",
+    "people": [
+      {
+        "name": "Thomas Hayes",
+        "role": "Holder of the 1857 railroad franchise"
+      },
+      {
+        "name": "Dick Nolan",
+        "role": "Examiner columnist who retold the line's history in 1948"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area",
+        "publisher": "Page & Turnbull for the San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "1857 franchise; spur to Hayes Park; 21-Hayes route; sand, windbreaks, engines; horse cars in 1867; building boom"
+      },
+      {
+        "title": "Hayes Valley Residential Historic District Update (DPR 523D District Record)",
+        "publisher": "Page & Turnbull / San Francisco Planning Department",
+        "year": 2008,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/DPRforms/DPR%20523D_Hayes%20Valley%20Residential%20Update%206_6_08.pdf",
+        "supports": "Franchise, six-block Hayes Street spur, completion in 1860, Market Street Railway takeover"
+      },
+      {
+        "title": "Market Street Cable Railway",
+        "publisher": "The Cable Car Home Page (Joe Thompson)",
+        "year": null,
+        "url": "http://www.cable-car-guy.com/html/ccsfmsr.html",
+        "supports": "Steam dummy opened July 4, 1860; replaced by horses March 6, 1867 after public complaints"
+      },
+      {
+        "title": "Hayes Valley In The 1860s: A Day Trip To The Hayes Park And Pavilion",
+        "publisher": "Hoodline",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/07/hayes-valley-in-the-1860s-a-day-trip-to-the-hayes-park-and-pavilion/",
+        "supports": "Nolan's 1948 quotation; Hayes's financial trouble and loss of the franchise"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-sixteen-dollar-lots",
+    "title": "Lots for Sixteen Dollars Apiece",
+    "year": 1859,
+    "yearEnd": 1861,
+    "place": {
+      "label": "Near Oak and Webster streets",
+      "lat": 37.774383,
+      "lon": -122.429427,
+      "precision": "block"
+    },
+    "hook": "When Hayes first sold his valley, a 25-foot lot cost sixteen dollars. A banker nicknamed Big John bought a stack of them and built a farm-like estate.",
+    "story": "Thomas Hayes surveyed and subdivided his tract in three rounds, in 1859, 1860 and 1861 [1][2]. At first he sold whole blocks to speculators, who waited for demand to catch up [1]. The prices look unreal now. A 1928 Chronicle history said that \"cabin lots of 25-foot frontage were sold by Hayes at $16 each\", even after the city limits had moved out past them [3].\n\nOne early buyer was \"Big John\" Sullivan, president of the Hibernia Loan and Savings Society. He bought a number of 25-foot lots at $16 apiece [1][2]. Near Oak and Webster streets, at the western edge of the Hayes tract, he built a large frame house with extensive gardens, a stable and a henhouse [1]. Mayor James Van Ness also built himself a villa somewhere in Hayes Valley [1][2]. Sullivan's house is long gone.\n\nThe streets were laid out but mostly ungraded and unpaved; an 1860s lithograph shows how raw it was [2]. The valley filled in quickly anyway. By 1869 the U.S. Coast Survey map showed its core built up along Hayes Street, reaching about a block north to Grove and south to Fell [1].",
+    "people": [
+      {
+        "name": "John Sullivan (\"Big John\")",
+        "role": "President of the Hibernia Loan and Savings Society; early lot buyer"
+      },
+      {
+        "name": "Thomas Hayes",
+        "role": "Subdivider of the Hayes tract"
+      },
+      {
+        "name": "James Van Ness",
+        "role": "Mayor who built a villa in Hayes Valley"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area",
+        "publisher": "Page & Turnbull for the San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Surveys of 1859-61; block sales to speculators; Sullivan's $16 lots and estate near Oak and Webster; Van Ness villa; 1869 Coast Survey"
+      },
+      {
+        "title": "Hayes Valley Residential Historic District Update (DPR 523D District Record)",
+        "publisher": "Page & Turnbull / San Francisco Planning Department",
+        "year": 2008,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/DPRforms/DPR%20523D_Hayes%20Valley%20Residential%20Update%206_6_08.pdf",
+        "supports": "Surveys; Sullivan; Van Ness villa; ungraded streets and 1860s lithograph"
+      },
+      {
+        "title": "Hayes Valley In The 1860s: A Day Trip To The Hayes Park And Pavilion",
+        "publisher": "Hoodline",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/07/hayes-valley-in-the-1860s-a-day-trip-to-the-hayes-park-and-pavilion/",
+        "supports": "Fitzhamon's 1928 quotation on $16 cabin lots"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-orphan-asylum",
+    "title": "Thirty Children in the Middle of Nowhere",
+    "year": 1854,
+    "yearEnd": 1919,
+    "place": {
+      "label": "Haight and Laguna streets (south side, the former asylum grounds)",
+      "lat": 37.772464,
+      "lon": -122.426338,
+      "precision": "block"
+    },
+    "hook": "In 1854 a group of San Francisco women moved thirty orphans into a stone building among the sandhills, two blocks they had bought for $100.",
+    "story": "In 1851 several San Francisco women, most of them wives of Protestant clergymen, formed the San Francisco Orphan Asylum Society to care for children whose parents had died in an epidemic [1]. They soon needed a permanent home. Their own history describes the land they found as \"far beyond the city limits and basically in the middle of nowhere\" [2]. They bought two blocks bounded by today's Laguna, Hermann, Buchanan and Haight streets for $100 [2][3].\n\nThey raised building money by going door to door and still had to borrow $5,000 [2]. The masonry dormitory went up in 1853-54, from stone quarried on nearby Mint Hill [3][4]. It opened on March 22, 1854, and about thirty children and staff moved in [1][2]. \nThe asylum took in more than 3,500 children in its first fifty years, and at its peak housed as many as 300 [1]. By the 1890s the children went to local public schools [2]. The building was damaged in 1906, and in 1919 the children moved out [2]. The site later became a state teachers' college, then the UC Berkeley Extension campus at 55 Laguna [3][4].",
+    "people": [
+      {
+        "name": "Elizabeth Waller",
+        "role": "Founding leader of the orphan asylum society"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Edgewood - Former Protestant Orphanage",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/edgewood.php",
+        "supports": "1851 founding by clergymen's wives; about thirty children moved in March 1854; 3,500 children; up to 300 residents"
+      },
+      {
+        "title": "The Old 55 Laguna: San Francisco's Orphan Asylum",
+        "publisher": "Hoodline",
+        "year": 2012,
+        "url": "https://hoodline.com/2012/07/the-old-55-laguna-san-franciscos-orphan-asylum/",
+        "supports": "'Middle of nowhere'; $100 land; door-to-door fundraising and $5,000 loan; March 22, 1854 opening; public schools; 1919 move"
+      },
+      {
+        "title": "Naming of Haight Street, Part 4: The Last Haight Standing",
+        "publisher": "FoundSF (Angus MacFarlane)",
+        "year": 2017,
+        "url": "https://www.foundsf.org/Naming_of_Haight_Street,_Part_4:_The_Last_Haight_Standing",
+        "supports": "Asylum boundaries; stone quarried at Mint Hill; later UC Extension site"
+      },
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area",
+        "publisher": "Page & Turnbull for the San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Masonry building 1853-54; later San Francisco State Teachers College site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-haight-waller-names",
+    "title": "Haight Street Was Named for a Woman",
+    "year": 1856,
+    "yearEnd": null,
+    "place": {
+      "label": "Haight Street at Laguna",
+      "lat": 37.7729,
+      "lon": -122.42646,
+      "precision": "street"
+    },
+    "hook": "Plaques credit a banker or a governor. The only first-hand account says Haight and Waller streets honoured two women who ran the orphan asylum.",
+    "story": "Ask who Haight Street is named for and you may hear a banker, Henry W. Haight, or a governor, Henry H. Haight. A mural and a plaque in the Haight-Ashbury name one man each [1]. Local historian Angus MacFarlane argues that both are wrong.\n\nWeltha Ann Buell Haight arrived in San Francisco on December 6, 1852. Within months she was on the board and the building committee of the Protestant Orphan Asylum, alongside its founding leader, Elizabeth Waller [1][2]. The asylum's two blocks were first mapped on a paper street plan. When the Western Addition was resurveyed in 1855-56, those blocks ended up bounded by a new Haight Street to the north, with a new Waller Street running through them [2].\n\nThe only first-hand explanation comes from Weltha herself, in a pamphlet dated May 1, 1900. Once the land had been surveyed, she wrote, \"out of compliment to two of the Managers, Waller street and Haight street were named\" [1][2]. In 1928 a Chronicle writer heard the same story from the asylum's secretary and brushed it aside, suggesting the streets were more likely named for the women's husbands [1]. That version is the one that stuck. MacFarlane notes there is no record that Henry Haight gave the land [2].",
+    "people": [
+      {
+        "name": "Weltha Ann Buell Haight",
+        "role": "Orphan asylum manager for whom Haight Street was named, by her own account"
+      },
+      {
+        "name": "Elizabeth Waller",
+        "role": "Orphan asylum leader, namesake of Waller Street"
+      },
+      {
+        "name": "Angus MacFarlane",
+        "role": "Historian who researched the naming"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Local Herstory: Who Is Haight St. Really Named After?",
+        "publisher": "Hoodline",
+        "year": 2017,
+        "url": "https://hoodline.com/2017/08/local-herstory-who-is-haight-st-really-named-after/",
+        "supports": "Competing plaques; Weltha's biography and board roles; her 1900 memoir quotation; 1928 Chronicle dismissal"
+      },
+      {
+        "title": "Naming of Haight Street, Part 4: The Last Haight Standing",
+        "publisher": "FoundSF (Angus MacFarlane)",
+        "year": 2017,
+        "url": "https://www.foundsf.org/Naming_of_Haight_Street,_Part_4:_The_Last_Haight_Standing",
+        "supports": "December 6, 1852 arrival; building committee; resurvey and street renaming; memoir; no record of a land donation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-dutch-charley",
+    "title": "Dutch Charley's Squatter Headquarters",
+    "year": 1866,
+    "yearEnd": null,
+    "place": {
+      "label": "Block bounded by Divisadero, Fulton, Scott and McAllister streets",
+      "lat": 37.7777,
+      "lon": -122.4375,
+      "precision": "block"
+    },
+    "hook": "Twice banished by vigilantes, fire chief Dutch Charley Duane ran a squatter operation from a cottage just west of Alamo Square, and killed a man over land.",
+    "story": "Charles P. \"Dutch Charley\" Duane was a Gold Rush fireman, political enforcer and brawler. He was chief engineer of the volunteer fire department from 1853 to 1855 [1]. The Vigilance Committees banished him from the city in 1851 and again in 1856, threatening death if he came back. He returned early in 1860 anyway [2].\n\nIn a 1918 series, journalist Edward Morphy described how Charlie and his brother Jack built a little one-story cottage in the middle of the block bounded by Divisadero, Fulton, Scott and McAllister. From there, Morphy wrote, they hired \"desperadoes\" to defend \"various properties [they] unlawfully preempted from being taken over or built upon by their legitimate owners\" [3].\n\nColonel William G. Ross lived nearby, on the block bounded by Divisadero, McAllister, Broderick and today's Golden Gate Avenue [3]. On May 23, 1866, Duane shot Ross dead in a dispute over who owned a piece of land. He was tried in the 12th District Court and acquitted on October 31, 1866 [1]. The Parks Alliance's history of Alamo Square calls Duane \"a known killer and tenacious squatter\" and says the city finally ousted him from the land in 1868 [4]. He died in San Francisco on May 13, 1887 [1].",
+    "people": [
+      {
+        "name": "Charles P. \"Dutch Charley\" Duane",
+        "role": "Fireman, political enforcer and squatter"
+      },
+      {
+        "name": "Jack (John) Duane",
+        "role": "His brother"
+      },
+      {
+        "name": "William G. Ross",
+        "role": "Neighbour shot by Duane in a land dispute, 1866"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SFFD Chiefs: Charles P. Duane",
+        "publisher": "Guardians of the City (San Francisco Fire Department Museum)",
+        "year": null,
+        "url": "https://guardiansofthecity.org/sffd/chiefs/duane.html",
+        "supports": "Chief engineer 1853-55; fatal shooting of Col. Wm. G. Ross on May 23, 1866; acquittal October 31, 1866; death May 13, 1887"
+      },
+      {
+        "title": "Book Review: Against the Vigilantes, edited by John Boessenecker",
+        "publisher": "HistoryNet (Wild West magazine)",
+        "year": null,
+        "url": "https://historynet.com/book-review-against-the-vigilantes-edited-and-introduction-by-john-boessenecker-ww/",
+        "supports": "Banishments of 1851 and 1856; return in 1860"
+      },
+      {
+        "title": "Alamo Square: From 'Primeval Forest Of Rocks' To Iconic Park",
+        "publisher": "Hoodline",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/06/alamo-square-park/",
+        "supports": "Morphy's 1918 account of the cottage and 'desperadoes'; location of Ross's home"
+      },
+      {
+        "title": "Alamo Square (park history page, archived)",
+        "publisher": "San Francisco Parks Alliance",
+        "year": 2015,
+        "url": "https://web.archive.org/web/2015/http://www.sfparksalliance.org/our-parks/parks/alamo-square",
+        "supports": "'Dangerously inaccessible'; ousted in 1868"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-goodall-captain",
+    "title": "The Captain Who Carried Dutch Charley Away",
+    "year": 1859,
+    "yearEnd": null,
+    "place": {
+      "label": "Pierce and McAllister streets",
+      "lat": 37.778018,
+      "lon": -122.434797,
+      "precision": "block"
+    },
+    "hook": "In 1856 tugboat captain Charles Goodall carried the banished Dutch Charley Duane out to an exile ship. Goodall later built a mansion on this corner.",
+    "story": "In June 1856 San Francisco's Vigilance Committee banished Charles \"Dutch Charley\" Duane. The man who carried him from the wharf to the steamer Golden Age was Charles Goodall, master of the steam tug Hercules [1]. Duane did not forget it. Duane later sued Goodall for damages, first asking $25,000 and later $2,000. In 1862, according to the Daily Alta California, Judge Hoffman ruled that the tug itself was not liable, so any judgment could only fall on Goodall personally [1].\n\nGoodall did well for himself. He founded the Pacific Coast Steamship Company, whose ships called at ports from Alaska to San Diego [1]. His home stood at Pierce and McAllister streets, a block or two east of the land Duane squatted on. A 2017 Planning Department report dates the Goodall mansion to 1859 [2]. Accounts of his estate in 1899 place the \"home place\" on the west side of Pierce between Fulton and McAllister, and list a large improved lot on the southeast corner of Pierce and McAllister [1].\n\nThe mansion is gone. In 1950 Third Baptist Church, founded in 1852, bought the corner and built its present church there in 1952 [2]. Historian Joe Pecora counts the Goodall Mansion among the neighbourhood's lost landmarks [3].",
+    "people": [
+      {
+        "name": "Charles Goodall",
+        "role": "Tugboat master, later steamship magnate"
+      },
+      {
+        "name": "Charles P. \"Dutch Charley\" Duane",
+        "role": "Exile who sued him"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Captain Charles Goodall",
+        "publisher": "The Maritime Heritage Project (transcribing the Daily Alta California, 1862, and San Francisco Call, 1899)",
+        "year": null,
+        "url": "https://www.maritimeheritage.org/captains/Charles-Goodall.html",
+        "supports": "Daily Alta report of the Duane v. Goodall suit (tug Hercules, Golden Age, damages, Judge Hoffman); Pacific Coast Steamship Company; 1899 will and estate inventory"
+      },
+      {
+        "title": "Landmark Designation Case Report: Third Baptist Church Complex, 1399 McAllister Street",
+        "publisher": "San Francisco Planning Department",
+        "year": 2017,
+        "url": "https://commissions.sfplanning.org/hpcpackets/2017-004024DES_071917.pdf",
+        "supports": "'Former mansion of Charles Goodall (built 1859)' at Pierce and McAllister; church purchase in 1950 and construction in 1952"
+      },
+      {
+        "title": "Alamo Square and the families who lived there",
+        "publisher": "The New Fillmore (Joe Pecora)",
+        "year": 2014,
+        "url": "https://newfillmore.com/2014/10/03/alamo-square-and-the-families-who-lived-there/",
+        "supports": "Pecora lists the Goodall Mansion among the neighbourhood's demolished landmarks"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-nightingale-claim",
+    "title": "The Forty-Niner Who Wanted the Park",
+    "year": 1882,
+    "yearEnd": null,
+    "place": {
+      "label": "Nightingale House, 201 Buchanan Street",
+      "lat": 37.771825,
+      "lon": -122.427203,
+      "precision": "building"
+    },
+    "hook": "John Nightingale, Forty-Niner and pioneer booster, tried to claim part of Alamo Square in court. He lost, and built himself a picturesque villa instead.",
+    "story": "The city's title to Alamo Square was fought over in court for years. Hoodline, drawing on historian Joe Pecora and on Anne Bloomfield's 1983 research for the historic district, lists several claimants besides the Duane brothers. They included captain of detectives Isaiah W. Less, City Hall saloon keeper Michael Keeney and real estate man John Nightingale [1]. San Francisco's municipal reports record a ruling against Nightingale after he took the city to court. In 1918 journalist Edward Morphy credited a line of city attorneys with saving the park from such claims [1].\n\nLosing did not slow Nightingale down. He was a Forty-Niner, real estate dealer and property manager, and served as president of the Society of California Pioneers [2]. He built speculative housing in Hayes Valley [3]. In 1882 he took a large lot on the west side of Buchanan Street between Laussat and Waller and built a Stick/Eastlake villa designed by John Marquis [3]. Its large lot and picturesque shape set it apart from the row houses around it [3].\n\nThe Landmarks Board noted that this \"cottage\" is all that remains of Nightingale's extensive holdings in the area [2]. It is now San Francisco City Landmark No. 47 [2][3].",
+    "people": [
+      {
+        "name": "John Nightingale",
+        "role": "Forty-Niner, developer and claimant to Alamo Square land"
+      },
+      {
+        "name": "Isaiah W. Less",
+        "role": "Captain of detectives and claimant"
+      },
+      {
+        "name": "Michael Keeney",
+        "role": "City Hall saloon keeper and claimant"
+      },
+      {
+        "name": "John Marquis",
+        "role": "Architect of the Nightingale House"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alamo Square: From 'Primeval Forest Of Rocks' To Iconic Park",
+        "publisher": "Hoodline",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/06/alamo-square-park/",
+        "supports": "Claimants Less, Keeney and Nightingale (after Pecora and Bloomfield); ruling against Nightingale; Morphy on city attorneys"
+      },
+      {
+        "title": "San Francisco Landmark #47: Nightingale House",
+        "publisher": "NoeHill in San Francisco (quoting the Landmarks Preservation Advisory Board)",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf047.asp",
+        "supports": "Built 1882; Forty-Niner, real estate dealer, Society of California Pioneers president; 'all that remains'; Landmark #47"
+      },
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area",
+        "publisher": "Page & Turnbull for the San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Speculative builder; 1882 lot on Buchanan between Laussat and Waller; John Marquis; Stick/Eastlake; Landmark No. 47"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Nightingale_House_San_Francisco.jpeg",
+      "page": "https://commons.wikimedia.org/wiki/File:Nightingale_House_San_Francisco.jpeg",
+      "credit": "Tfinc / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "year": null
+    }
+  },
+  {
+    "id": "origins-yellow-green-cable-cars",
+    "title": "Yellow Cars and Green Cars to the Park",
+    "year": 1883,
+    "yearEnd": 1886,
+    "place": {
+      "label": "McAllister cable powerhouse block (McAllister, Central, Fulton and Masonic)",
+      "lat": 37.777316,
+      "lon": -122.445342,
+      "precision": "block"
+    },
+    "hook": "In the 1880s, bright yellow cable cars on McAllister and green ones on Hayes turned a windy fringe into a place where the wealthy wanted to live.",
+    "story": "Cable traction reached the Western Addition in 1883. That year the old horse-drawn Market Street Railway became the Market Street Cable Railway [1][2]. Its McAllister Street line opened in late 1883. It ran from the Ferry Building out Market and McAllister to Central Avenue, then crossed its own powerhouse block on a private right of way and continued out Fulton to Golden Gate Park [2]. The powerhouse and car barn filled most of the block bounded by Fulton, McAllister, Masonic and Central [1].\n\nOn May 26, 1886, a Hayes Street line followed. It had its own powerhouse and a 33-car barn very near the McAllister plant [1][2]. Each line had its own colour, so riders could spot their car on crowded Market Street. McAllister cars were bright yellow, Hayes cars green and Haight Street cars red [1].\n\nThe effect on the neighbourhood was fast. Historian Joe Pecora writes that the 1880s building boom around Alamo Square \"coincided with the arrival of the cable and horse cars down Hayes and McAllister Streets\" [3]. The Planning Department credits the cable car with drawing the wealthy to the park's views and weather [4]. The McAllister powerhouse later served as a streetcar barn until 1948 [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "The Market Street Cable Railway - 1883",
+        "publisher": "San Francisco Cable Car Museum",
+        "year": null,
+        "url": "http://www.cablecarmuseum.org/co-market-st.html",
+        "supports": "Origin in the 1867 horsecar company; 1883 cable company; McAllister powerhouse block; Hayes line of May 26, 1886 with 33-car barn; car colours"
+      },
+      {
+        "title": "Market Street Cable Railway",
+        "publisher": "The Cable Car Home Page (Joe Thompson)",
+        "year": null,
+        "url": "http://www.cable-car-guy.com/html/ccsfmsr.html",
+        "supports": "McAllister line late 1883 and its route; Hayes line date; powerhouse at Hayes and Masonic; streetcar barn until 1948"
+      },
+      {
+        "title": "Alamo Square and the families who lived there",
+        "publisher": "The New Fillmore (Joe Pecora)",
+        "year": 2014,
+        "url": "https://newfillmore.com/2014/10/03/alamo-square-and-the-families-who-lived-there/",
+        "supports": "Pecora: 1880s building boom coincided with cable and horse cars on Hayes and McAllister"
+      },
+      {
+        "title": "Alamo Square Landmark District Historic Walking Tour Guide",
+        "publisher": "San Francisco Planning Department",
+        "year": null,
+        "url": "https://default.sfplanning.org/Preservation/walking_tours/Walking_Tour_ALAMO_SQUARE.pdf",
+        "supports": "Cable car from the 1880s attracted the wealthy to the park's views and weather"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-omnibus-powerhouse",
+    "title": "The Engine House at Oak and Broderick",
+    "year": 1889,
+    "yearEnd": 1895,
+    "place": {
+      "label": "Oak and Broderick streets",
+      "lat": 37.772738,
+      "lon": -122.439478,
+      "precision": "block"
+    },
+    "hook": "In 1889 a powerhouse at Oak and Broderick began pulling cables under two new lines to Golden Gate Park. Within six years both had been converted.",
+    "story": "The Omnibus Railroad started in 1861 as a horse-car company. In 1889 it went into cable [1]. Two of its new lines met at Oak and Broderick streets, where the company built a powerhouse to drive their cables [1].\n\nThe Oak Street line opened in late 1889. It ran from Howard up 10th Street to Fell, jogged along Fell and Franklin, then ran straight out Oak Street and Stanyan to the Haight Street entrance of Golden Gate Park [1][2]. The Ellis Street line came out Ellis to Broderick, turned south to Oak and joined the same route to the park [1]. The cars gripped the cable from below with an Eppelsheimer bottom grip [1]. A photograph taken between 1889 and early 1894 shows Oak Street car No. 6 at the Stanyan terminal while crowds wait at the park gate [1].\n\nCable-car historian Joe Thompson argues that the company \"made the wrong choice\" in picking cable over electricity, since only the Oak Street line had significant hills [1]. The Market Street Railway took over the Omnibus company on August 13, 1893, and the Oak and Ellis lines were converted in late 1895 [1]. By 1890 cable cars ran on Market, Hayes, Oak and Haight streets, and planners say such lines \"ushered in waves of new construction\" [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Omnibus Railroad & Cable Company",
+        "publisher": "The Cable Car Home Page (Joe Thompson)",
+        "year": null,
+        "url": "http://www.cable-car-guy.com/html/ccsfomni.html",
+        "supports": "1861 horse-car origins; Oak and Ellis routes; powerhouse at Oak and Broderick; bottom grip; photo; Thompson's assessment; 1893 takeover; 1895 conversion"
+      },
+      {
+        "title": "Hayes Valley Residential Historic District Update (DPR 523D District Record)",
+        "publisher": "Page & Turnbull / San Francisco Planning Department",
+        "year": 2008,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/DPRforms/DPR%20523D_Hayes%20Valley%20Residential%20Update%206_6_08.pdf",
+        "supports": "Oak Street line opened 1889 by the Omnibus Railroad & Cable Company; route; cable lines on Market, Hayes, Oak and Haight by 1890"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "origins-alamo-grading",
+    "title": "Taming a Primeval Forest of Rocks",
+    "year": 1892,
+    "yearEnd": 1896,
+    "place": {
+      "label": "Alamo Square",
+      "lat": 37.77633,
+      "lon": -122.4346,
+      "precision": "area"
+    },
+    "hook": "For decades the city's reserved square was bare rock. In 1892 the city spent $25,333 grading the hill, and in 1896 it added the masonry wall.",
+    "story": "Saving Alamo Square from squatters did not make it a park. In 1918 journalist Edward Morphy recalled that the block stayed \"a primeval forest of rocks at the top of hill\" for decades [1]. The rock is still there. In 2018 historian Joel Pomerantz pointed to serpentinite bedrock showing in an open lot at 804 Steiner, part of a ridge of that rock [2].\n\nThe work finally began in 1892. According to Hoodline, the park was \"graded and tamed\" that year at a cost of $25,333 [1]. The Parks Alliance history says crews graded and landscaped the rocky hill, laid out the curving paths, and built stairways and a masonry wall [3]. Hoodline dates the wall to 1896 and credits it to the California Concrete Company [1].\n\nHouses were rising around the park at the same time. Across Steiner Street, the row of Queen Anne houses now called the Painted Ladies went up between 1892 and 1895, facing a view that Planning calls probably the most photographed view of Victorians in the world [4]. The trailside watering hole of the early 1800s had become a landscaped park at the centre of a new neighbourhood.",
+    "people": [
+      {
+        "name": "Edward Morphy",
+        "role": "Journalist who described the ungraded hill"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alamo Square: From 'Primeval Forest Of Rocks' To Iconic Park",
+        "publisher": "Hoodline",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/06/alamo-square-park/",
+        "supports": "Morphy quotation; 1892 grading at $25,333; paths and stairs; 1896 wall by the California Concrete Company"
+      },
+      {
+        "title": "The San Souci Lake-Pioche Mystery",
+        "publisher": "Thinkwalks (Joel Pomerantz)",
+        "year": 2010,
+        "url": "https://thinkwalks.org/2010/10/19/the-san-souci-lake%E2%80%93pioche-mystery/",
+        "supports": "Pomerantz comment on serpentinite bedrock exposed at 804 Steiner"
+      },
+      {
+        "title": "Alamo Square (park history page, archived)",
+        "publisher": "San Francisco Parks Alliance",
+        "year": 2015,
+        "url": "https://web.archive.org/web/2015/http://www.sfparksalliance.org/our-parks/parks/alamo-square",
+        "supports": "1892 grading and landscaping, curving paths, stairways and masonry wall"
+      },
+      {
+        "title": "Alamo Square Landmark District Historic Walking Tour Guide",
+        "publisher": "San Francisco Planning Department",
+        "year": null,
+        "url": "https://default.sfplanning.org/Preservation/walking_tours/Walking_Tour_ALAMO_SQUARE.pdf",
+        "supports": "700 block of Steiner built 1892-1895; most-photographed view of Victorians"
+      }
+    ],
+    "photo": null
+  }
+]

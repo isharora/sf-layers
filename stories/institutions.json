@@ -1,0 +1,574 @@
+[
+  {
+    "id": "institutions-sp-hospital",
+    "title": "A Railroad's Hospital Beside the Panhandle",
+    "year": 1908,
+    "yearEnd": 1974,
+    "place": {
+      "label": "1400 Fell Street (Fell, Baker, Hayes and Lyon)",
+      "lat": 37.774248864467154,
+      "lon": -122.4419526659418,
+      "precision": "building"
+    },
+    "hook": "When the 1906 fire destroyed its hospital, the Southern Pacific built a grand new one on the Panhandle, for railroad workers only.",
+    "story": "The Southern Pacific's 1898 hospital at 14th and Mission Streets burned in the 1906 fire, and that same year the railroad bought an entire block facing the Panhandle, said to be one of the largest property deals after the disaster [1]. Daniel J. Patterson, an architect in SP's Maintenance of Way Department, designed the Neo-Classical hospital, annex and powerhouse, built from 1907-08 [1]. The location was deliberate: planners of the day wanted hospitals in pleasant residential districts, where fresh air and sunlight along the Panhandle would help convalescents [1]. The railroad had begun opening hospitals for its employees in 1868, which the National Register nomination calls the first in the world reserved for railroad workers; this was the flagship, paid for by employee dues and company money [1]. It formally opened on July 15, 1909 with 450 beds [2]. In 1911 Collis P. Huntington's widow and nephew gave Huntington Social Hall as his memorial [1]. Renamed Harkness Community Hospital in 1968, it closed in 1974, apparently bankrupt [1]. The failure halted an expansion plan and left the city's only intact early-1900s hospital complex. Mercy Housing converted it in 1982-83 into 158 senior apartments [2], and it became city Landmark No. 192 in 1989 [3].",
+    "people": [
+      {
+        "name": "Daniel J. Patterson",
+        "role": "Southern Pacific architect who designed the hospital"
+      },
+      {
+        "name": "Collis P. Huntington",
+        "role": "Southern Pacific president memorialised by Huntington Social Hall"
+      },
+      {
+        "name": "Edward S. Harkness",
+        "role": "SP board member for whom the hospital was renamed in 1968"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Registration Form: Southern Pacific Company Hospital Historic District",
+        "publisher": "National Park Service (prepared by Page & Turnbull)",
+        "year": 1989,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/89000319_text",
+        "supports": "1906 purchase, Patterson, siting, 1868 employee hospitals, Huntington Hall, Harkness renaming and 1974 closure, intactness"
+      },
+      {
+        "title": "Southern Pacific Hospital: City Landmark #192",
+        "publisher": "San Francisco Heritage",
+        "year": null,
+        "url": "https://www.sfheritage.org/news/southern-pacific-hospital-city-landmark-192/",
+        "supports": "July 15, 1909 opening, 450 beds, Mercy Housing conversion and 158 units"
+      },
+      {
+        "title": "San Francisco Preservation Bulletin No. 9: San Francisco Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2014,
+        "url": "https://default.sfplanning.org/Preservation/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 192, effective 1989"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-engine-21-firehouse",
+    "title": "Fifty-Four Hours on Duty from Oak Street",
+    "year": 1893,
+    "yearEnd": 1958,
+    "place": {
+      "label": "1152 Oak Street",
+      "lat": 37.77330113775217,
+      "lon": -122.43836622571071,
+      "precision": "building"
+    },
+    "hook": "From this Victorian station, now the city's oldest fire department-owned firehouse, Engine Company 21 fought the 1906 Hayes Valley fires for 54 hours straight.",
+    "story": "Behind its Victorian facade, 1152 Oak Street is the oldest firehouse still owned by the San Francisco Fire Department [1]. Henrikson & Mahoney designed it and R. Doyle & Sons built it in 1893. The architects also designed two near-twin stations: one survives on Washington Street, and the other, on Folsom Street, was demolished [2]. The Oak Street house opened just before the California Midwinter International Exposition of 1894 began nearby in Golden Gate Park [1]. When the city burned in April 1906, its crew, Engine Company 21, 'sought out and fought the Hayes Valley conflagrations, remaining on-duty for 54 hours' [1]. The horses went in 1915 when the department switched to motors, Truck Company 6 moved out in 1916, and Engine 21 left in 1958 for its current station a few blocks north on Grove Street [1]. A giant blue whale was painted on the western wall from the 1970s until the early 2000s [1]. The building's identity has always been a little muddled. The '27' painted on it is, as Hoodline put it, 'a goof' [1], and the city's official landmark list names it 'Old Firehouse, Engine Company No. 2 and Truck No. 6'. It became Landmark No. 89 in 1977 [3].",
+    "people": [
+      {
+        "name": "Henrikson & Mahoney",
+        "role": "architects"
+      },
+      {
+        "name": "R. Doyle & Sons",
+        "role": "builders"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Inside Old Station 21, San Francisco's Landmark Victorian Firehouse",
+        "publisher": "Hoodline",
+        "year": 2016,
+        "url": "https://hoodline.com/2016/04/inside-old-station-21-landmark-firehouse/",
+        "supports": "oldest SFFD-owned firehouse, 1894 opening, 54 hours in 1906, 1915 motorization, 1916 and 1958 moves, whale mural, '27' error"
+      },
+      {
+        "title": "San Francisco Landmark #89: Engine Company No. 21",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf089.asp",
+        "supports": "1893 construction, architects and builder, sister firehouses"
+      },
+      {
+        "title": "San Francisco Preservation Bulletin No. 9: San Francisco Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2014,
+        "url": "https://default.sfplanning.org/Preservation/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "official landmark name and 1977 designation as No. 89"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-fillmore-substation",
+    "title": "The Substation That Restarted the Streetcars",
+    "year": 1902,
+    "yearEnd": 1978,
+    "place": {
+      "label": "1190 Fillmore Street, at Turk",
+      "lat": 37.78064,
+      "lon": -122.43188,
+      "precision": "block"
+    },
+    "hook": "This brick powerhouse helped electrify San Francisco's streetcars and got the Fillmore line running soon after 1906. It has now stood empty for nearly fifty years.",
+    "story": "The brick and sandstone substation at Fillmore and Turk went up in 1902, when San Francisco's street railways were switching from horse cars to electricity [1]. It came through the 1906 earthquake and fire, and the Fillmore Street line was one of the first back in service afterwards [1]. For three-quarters of a century it fed power to United Railroads, the Market Street Railway and finally Muni [2]. In 1978 it was declared surplus and shut, and on April 23, 1979 it became city Landmark No. 105 [2][4]. Since then it has mostly waited. The Redevelopment Agency took it over, and in 2009 redevelopment funds were diverted to bail out the nearby Yoshi's jazz club. When the agency was dissolved, the building went back to the City [2]. In August 2021 Public Works ordered emergency repairs after cracks in its unreinforced masonry were found to pose 'a significant collapse hazard to pedestrians, bicyclists, and motorists below' [2]. A seismic retrofit estimated at $2-3 million in 2003 was put at $20-30 million by 2024. A 2008 call for proposals drew only two bids, and both were rejected [3]. Neighbours have proposed a history museum, a shelter behind the preserved facade, and a 'Maya Angelou Still I Rise Center' [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #105: Market Street Railway Substation",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf105.asp",
+        "supports": "1902, brick and sandstone, electrification, survival in 1906 and early return of the Fillmore line"
+      },
+      {
+        "title": "Historic Neighborhood Substation at Risk of a Collapse",
+        "publisher": "SocketSite",
+        "year": 2021,
+        "url": "https://socketsite.com/archives/2021/08/historic-neighborhood-substation-at-risk-of-a-collapse.html",
+        "supports": "railways served, 1978 closure, Redevelopment and Yoshi's, 2021 emergency order and quote"
+      },
+      {
+        "title": "'Don't tear it down': Locals call for revival of historic Fillmore substation",
+        "publisher": "The San Francisco Standard",
+        "year": 2024,
+        "url": "https://sfstandard.com/2024/08/07/fillmore-substation-vacant-building/",
+        "supports": "retrofit cost estimates, 2008 RFP, community proposals"
+      },
+      {
+        "title": "San Francisco Preservation Bulletin No. 9: San Francisco Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2014,
+        "url": "https://default.sfplanning.org/Preservation/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 105, effective April 23, 1979"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-mish-house",
+    "title": "The Milliner's House That Moved Around the Corner",
+    "year": 1885,
+    "yearEnd": 1975,
+    "place": {
+      "label": "1153 Oak Street",
+      "lat": 37.77274606559436,
+      "lon": -122.43823141229632,
+      "precision": "building"
+    },
+    "hook": "Sarah Mish, a downtown milliner since 1854, had her $15,000 Stick-Eastlake house moved off its Divisadero corner and onto Oak Street.",
+    "story": "From 1854 Sarah Mish ran a dressmaking and millinery business downtown, moving between premises on Kearny, Geary, Market and Dupont Streets, and she also sold wholesale along the coast [1]. Her husband Phenes imported dry goods and was president of Congregation Sherith Israel from 1881 to 1885 [1]. In 1885 the couple built a Stick-Eastlake house on the corner of Oak and Divisadero, designed by McDougall and Son at a cost of $15,000, and the city directory listed them at 407 Divisadero [1]. Phenes died in 1895. In 1897 Sarah had the house moved onto another lot she owned on Oak Street, at a cost of $1,700, and shops and flats went up on the old corner. Some later accounts date the move to 1889 [1][2]. Sarah died on January 2, 1916, and her heirs sold the house in 1928 [1]. It became a rooming house, then as many as 14 apartments, and part of it housed a dance school in 1930 [1][2]. Along the way it lost its mansard roof, and it was damaged by a fire in the 1950s [1]. The city made it Landmark No. 62 in 1974 [3]. The next year the Preservation Group restored it, fitting fifty new windows and restoring its 14-foot ceilings [1].",
+    "people": [
+      {
+        "name": "Sarah Mish",
+        "role": "milliner and dressmaker, owner"
+      },
+      {
+        "name": "Phenes Mish",
+        "role": "dry-goods importer, president of Congregation Sherith Israel"
+      },
+      {
+        "name": "McDougall and Son",
+        "role": "architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Inventory-Nomination Form: Mish House",
+        "publisher": "National Park Service",
+        "year": 1979,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/79000534_text",
+        "supports": "Mish family, 1885 cost and architect, 1897 move and cost, 1916 death, 1928 sale, apartments, 1950s fire, 1975 restoration"
+      },
+      {
+        "title": "All About The Mish House At 1153 Oak Street",
+        "publisher": "Hoodline",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/09/the-mish-house-of-oak-street/",
+        "supports": "1930 dance school; alternative 1889 move date"
+      },
+      {
+        "title": "San Francisco Preservation Bulletin No. 9: San Francisco Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2014,
+        "url": "https://default.sfplanning.org/Preservation/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 62, effective July 6, 1974"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-normal-school-orphanage",
+    "title": "A Teachers' College Among the Orphanage Ruins",
+    "year": 1906,
+    "yearEnd": 1954,
+    "place": {
+      "label": "Former Teachers College campus, Haight Street between Laguna and Buchanan",
+      "lat": 37.7727,
+      "lon": -122.4258,
+      "precision": "block"
+    },
+    "hook": "After the 1906 earthquake, San Francisco State's forerunner set up in the damaged grounds of the West Coast's first orphanage and stayed for almost fifty years.",
+    "story": "The block bounded by Haight, Laguna, Buchanan and Hermann Streets once belonged to the Protestant Orphan Asylum, founded in 1851 as the first orphanage on the West Coast [1]. Hayes Valley did not burn in 1906, but the earthquake badly damaged the asylum's masonry building [1]. The San Francisco State Normal School, founded on Nob Hill in 1899, spent a short time in Oakland and then moved into the orphanage's surviving outbuildings [1][2]. It was led by Frederic Burk, president until his death in 1924. Undeterred by what the nomination calls 'old, barren-looking' facilities, he set admission standards equal to the University of California's and introduced seminar classes and practice teaching [1]. State Architect George B. McDougall worked with Burk on a master plan, and between 1924 and 1935 the Spanish Colonial Revival campus of Richardson Hall, Woods Hall and the WPA-built Woods Hall Annex went up [1]. The Depression stopped the rest of the plan. In 1938 students protested the crumbling 'temporary' buildings, one of San Francisco State's earliest protests [1]. The college, renamed San Francisco State Teachers College in 1921, moved to Lake Merced in 1953-54, and UC Extension used the campus until 2003 [2]. The three surviving halls became city landmarks in 2007 [3].",
+    "people": [
+      {
+        "name": "Frederic Burk",
+        "role": "first president of the San Francisco State Normal School"
+      },
+      {
+        "name": "George B. McDougall",
+        "role": "California State Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Registration Form: San Francisco State Teacher's College",
+        "publisher": "National Park Service",
+        "year": 2007,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/07001391_text",
+        "supports": "orphan asylum, 1906 move, Burk's reforms, McDougall plan, 1924-35 construction, 1938 protest"
+      },
+      {
+        "title": "Streetwise: Modern School Days",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 2021,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2021/08/22/streetwise-modern-school-days/",
+        "supports": "1899 founding, renamings, 1953-54 move, UC Extension 1957-2003"
+      },
+      {
+        "title": "San Francisco Preservation Bulletin No. 9: San Francisco Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2014,
+        "url": "https://default.sfplanning.org/Preservation/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Richardson Hall, Woods Hall and Woods Hall Annex designated Landmarks 256-258 in 2007"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-kadish-alchemy-mural",
+    "title": "The Atom Mural the WPA Found Too Radical",
+    "year": 1935,
+    "yearEnd": null,
+    "place": {
+      "label": "Woods Hall Annex, 218 Buchanan Street",
+      "lat": 37.77234985451121,
+      "lon": -122.42627864537401,
+      "precision": "building"
+    },
+    "hook": "Reuben Kadish wanted to paint the splitting of the atom on a college stairway. What he painted instead was a shattered egg.",
+    "story": "Woods Hall Annex, completed in 1935, was the last building on the Teachers College campus and the only one built by the WPA [1]. On the second-floor landing of its main stair, muralist Reuben Kadish painted 'A Dissertation on Alchemy', six panels of figures and symbols about alchemy and science [1]. The nomination dates it to 1935, while a later account gives 1937 [1][3]. At the centre, a huge shattered egg releases a stylised spiral. Kadish had originally planned to show the splitting of the atom, an idea WPA officials considered too radical, and the egg may be an abstract reworking of it [1]. He had studied with the Mexican muralist David Siqueiros, and the influence shows [1]. The campus was one of the city's busiest centres of WPA art. At least five murals were made here by Kadish, Jack Moxom, Hebe Stackpole, Maxine Albro and John Gerrity [1]. Most are gone. Albro's marble mosaic over the Haight and Buchanan entrance to Woods Hall has been removed or covered, and Gerrity's canvas panels have probably been taken down [1][2]. Kadish's mural and Moxom's winged fresco angel in Richardson Hall survive [1]. The mural was restored after graffiti damage in 2013, and the old campus now houses an apartment complex called Alchemy [3].",
+    "people": [
+      {
+        "name": "Reuben Kadish",
+        "role": "WPA muralist"
+      },
+      {
+        "name": "Maxine Albro",
+        "role": "WPA mosaic artist"
+      },
+      {
+        "name": "Jack Moxom",
+        "role": "WPA fresco painter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places Registration Form: San Francisco State Teacher's College",
+        "publisher": "National Park Service",
+        "year": 2007,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/07001391_text",
+        "supports": "Annex date and WPA construction, mural description, atom idea, Siqueiros, list of muralists, fate of Albro and Gerrity works"
+      },
+      {
+        "title": "UC Extension/San Francisco State Teacher's University - Woods Hall Annex",
+        "publisher": "The Living New Deal",
+        "year": null,
+        "url": "https://livingnewdeal.org/sites/uc-extensionsan-francisco-state-teachers-university-woods-hall-annex-san-francisco-ca/",
+        "supports": "Albro mosaic over the Haight and Buchanan entrance; Kadish mural title"
+      },
+      {
+        "title": "A look at where SFSU's former campus was",
+        "publisher": "Golden Gate Xpress (SF State)",
+        "year": null,
+        "url": "https://goldengatexpress.org/105672/beyond-sfsu/a-look-at-where-sfsus-former-campus-was/",
+        "supports": "2013 restoration after graffiti, Alchemy apartments, 1937 date"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-mcmorry-lagan",
+    "title": "Gaslights Still Burning on Haight Street",
+    "year": 1883,
+    "yearEnd": 1983,
+    "place": {
+      "label": "188-198 Haight Street",
+      "lat": 37.773023304235814,
+      "lon": -122.4253036656334,
+      "precision": "building"
+    },
+    "hook": "Two Victorian houses and a barn stayed in one family for a century, with working gaslights, a copper bathtub and Army blankets from 1906.",
+    "story": "At 188 and 198 Haight Street stand two single-family houses and a barn, built in 1883 and 1889 and kept by the same family for about a century, until 1983 [1]. One is Italianate with a mansard roof and Eastlake detail, and the other is fully Eastlake [1]. The real surprise is inside. The landmark record calls the interiors a virtual time capsule of late-19th-century life. The upstairs bedrooms still have working gaslights, and the kitchen and baths keep their original fixtures, including a copper bathtub, along with the original carpets, wallpaper and custom-made furniture [1]. Only partial electrification was ever added [1]. The houses also hold a memory of 1906. At 2:00 a.m. on April 19, as the fire spread west, the Lagan family was ordered to leave, and the flames were stopped two blocks to the east [1]. Soldiers from the Presidio then slept in the barn, and the landmark record says blankets marked 'U.S. Army' are still there [1]. The complex became city Landmark No. 164 on November 6, 1983, the same year the family's ownership ended [1][2].",
+    "people": [
+      {
+        "name": "The Lagan family",
+        "role": "owners for about a century"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #164: McMorry-Lagan Residence",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf164.asp",
+        "supports": "dates, styles, intact interiors, 1906 evacuation and Army blankets, century of ownership"
+      },
+      {
+        "title": "San Francisco Preservation Bulletin No. 9: San Francisco Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2014,
+        "url": "https://default.sfplanning.org/Preservation/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 164 (listed as McMorry-Lagen House), effective November 6, 1983"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-sacred-heart-cornerstone",
+    "title": "A Stone From Tara in a Fillmore Cornerstone",
+    "year": 1898,
+    "yearEnd": 2004,
+    "place": {
+      "label": "Sacred Heart Church, 554 Fillmore Street at Fell",
+      "lat": 37.77474270489489,
+      "lon": -122.43055168127829,
+      "precision": "building"
+    },
+    "hook": "The 'most Irish parish west of Chicago' sealed rock from Ireland's Hill of Tara into its church. The building now hosts roller skating.",
+    "story": "Founded in 1885, Sacred Heart was the first Catholic parish in western San Francisco, and it was later remembered as 'the most Irish parish west of Chicago' [1]. Its first pastor, Father James Flood, who was no relation to the Comstock millionaire, started out in a derelict Methodist chapel at Linden and Buchanan Streets. In 1886 he bought land at Fillmore and Fell [1]. Architect Thomas J. Welsh designed a wooden church there in 1887, and then, with his partner John Carey, the present brick Romanesque Revival church, his only surviving church in that style [1]. On September 7, 1897 the parish laid the cornerstone and filled it with ancient coins, rock from Tara Hill in Ireland, moss from the roof of St. Columbkille's Abbey, minerals from El Dorado County mines and copies of the day's newspapers [1]. Money ran short. Archbishop Riordan dedicated the church on September 25, 1898, with a temporary wooden wall where the transepts now stand [1]. The complex came through 1906 unharmed, and the finished church was rededicated in 1909 [1]. Damage from the 1989 earthquake and the cost of a retrofit led the Archdiocese to close the church at the end of 2004 [1][3]. The Church of 8 Wheels now runs roller skating inside, and the complex became Landmark No. 316 in 2024 [1][2].",
+    "people": [
+      {
+        "name": "Father James Flood",
+        "role": "first pastor"
+      },
+      {
+        "name": "Thomas J. Welsh",
+        "role": "architect"
+      },
+      {
+        "name": "Archbishop Patrick W. Riordan",
+        "role": "dedicated the church in 1898"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Report: Sacred Heart Parish Complex (Landmark No. 316)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2016,
+        "url": "https://files.sfplanning.org/documents/preservation/LM316.pdf",
+        "supports": "founding, 'most Irish parish' phrase, Flood, Welsh, cornerstone contents, 1898 dedication, 1909 completion, 2004 closure, roller skating lease, 2024 approval"
+      },
+      {
+        "title": "Supervisors Landmark Historic Sacred Heart Parish Complex",
+        "publisher": "Office of Supervisor Dean Preston",
+        "year": 2024,
+        "url": "https://www.deanprestonsf.com/press-releases/supervisors-landmark-historic-sacred-heart-parish-complexnbsp",
+        "supports": "landmarking and Church of 8 Wheels"
+      },
+      {
+        "title": "Sacred Heart Church Could Be Designated A Landmark",
+        "publisher": "Hoodline",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/05/sacred-heart-church-could-be-designated-a-landmark/",
+        "supports": "Loma Prieta damage and 2004 closure"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-sacred-heart-panthers",
+    "title": "Panther Breakfasts and an FBI Plant",
+    "year": 1969,
+    "yearEnd": 1972,
+    "place": {
+      "label": "Sacred Heart Church basement hall, 554 Fillmore Street",
+      "lat": 37.77474270489489,
+      "lon": -122.43055168127829,
+      "precision": "building"
+    },
+    "hook": "A Catholic parish fed up to 100 children a day with the Black Panthers. Then the FBI planted hate-filled coloring books in its basement.",
+    "story": "Father Eugene Boyle became pastor of Sacred Heart in 1968, having already marched with Cesar Chavez from Delano to Sacramento in 1966 [1][2]. In 1969 the Black Panther Party, which had approached most of the churches in the area, came to Sacred Heart. They 'finally came to us on a lark,' Boyle recalled [1]. The parish opened its basement hall and kitchen, and the Breakfast Program for Children began there on March 10, 1969, feeding 75 to 100 local children a day, many of them pupils at the parish school [1]. Police and the FBI took notice. That year San Francisco police told the McClellan Senate investigations committee that Boyle was letting the Panthers hand out coloring books that showed police as pigs [1]. The Panthers had printed a few but never distributed them. In 1975 the Church Committee revealed that the FBI had planted the books in the church basement as part of its campaign against the party [1]. The episode cost the program liberal support, but it carried on [1]. The parish also hosted anti-war and SF State student activists, and on September 21, 1970 Boyle said Mass there for the United Farm Workers' lettuce boycott, whose San Francisco campaign started at Sacred Heart [1][3].",
+    "people": [
+      {
+        "name": "Father Eugene Boyle",
+        "role": "pastor of Sacred Heart, 1968-1972, civil rights activist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Report: Sacred Heart Parish Complex (Landmark No. 316)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2016,
+        "url": "https://files.sfplanning.org/documents/preservation/LM316.pdf",
+        "supports": "Boyle's background, 1969 breakfast program, numbers served, coloring-book affair and FBI plant, UFW Mass"
+      },
+      {
+        "title": "Supervisors Landmark Historic Sacred Heart Parish Complex",
+        "publisher": "Office of Supervisor Dean Preston",
+        "year": 2024,
+        "url": "https://www.deanprestonsf.com/press-releases/supervisors-landmark-historic-sacred-heart-parish-complexnbsp",
+        "supports": "Boyle as pastor 1968-1972 and civil rights activist"
+      },
+      {
+        "title": "Sacred Heart Church Could Be Designated A Landmark",
+        "publisher": "Hoodline",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/05/sacred-heart-church-could-be-designated-a-landmark/",
+        "supports": "Panther breakfasts, activist meetings, 1970 lettuce boycott launch"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-panhandle-freeway",
+    "title": "The Freeway That Never Crossed the Panhandle",
+    "year": 1964,
+    "yearEnd": 1966,
+    "place": {
+      "label": "The Panhandle, between Fell and Oak Streets",
+      "lat": 37.7727,
+      "lon": -122.443,
+      "precision": "area"
+    },
+    "hook": "The state wanted to run an interstate through the Panhandle, the park's oldest planting ground. A folk singer, a rally and three 6-5 votes stopped it.",
+    "story": "The block-wide Panhandle between Fell and Oak was Golden Gate Park's first testing ground. Activist Calvin Welch described it as John McLaren's arboretum, where every tree and bush was planted first to see whether it would survive, which is why it has the park's oldest trees and 21 kinds of eucalyptus [1]. By the 1950s, state highway planners wanted a freeway here, carrying traffic from the Central Freeway through Hayes Valley, partly sunk into the Panhandle, and under Golden Gate Park to link up with Highway 1 at 14th Avenue and Fulton [2]. Supervisors turned down versions 8-3 in 1956 and 6-5 in 1962 [2][3]. On May 17, 1964 the Citizens Committee to Save Golden Gate Park held a rally at the park's Polo Grounds, where folk singer Malvina Reynolds sang 'Cement Octopus' [2]. That October the board rejected the route 6-5 again [3]. The state came back with the plan, and some $250 million in federal interstate money was at stake [2]. On March 21, 1966, the supervisors voted 6-5 against both the Panhandle and Golden Gate freeways [2][3]. In 1966 Reynolds was photographed singing to protesters in the Panhandle itself [1]. The route was taken out of the state highway system in 1972 [3].",
+    "people": [
+      {
+        "name": "Malvina Reynolds",
+        "role": "folk singer who performed at anti-freeway protests"
+      },
+      {
+        "name": "Calvin Welch",
+        "role": "Haight-Ashbury activist and historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Panhandle",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Panhandle",
+        "supports": "Welch quote on the arboretum; 1966 photos of Reynolds in the Panhandle"
+      },
+      {
+        "title": "The Panhandle Freeway And The Revolt That Saved The Park",
+        "publisher": "Hoodline",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/03/panhandle-freeway-revolt/",
+        "supports": "route, federal funds, May 17, 1964 rally and 'Cement Octopus', votes including March 21, 1966"
+      },
+      {
+        "title": "The planned Panhandle Freeway of San Francisco (Interstate 80)",
+        "publisher": "Gribblenation",
+        "year": 2024,
+        "url": "http://www.gribblenation.org/2024/07/the-planned-panhandle-freeway-of-san.html",
+        "supports": "1956, 1962, October 1964 and 1966 votes; 1972 deletion"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-300-page",
+    "title": "Julia Morgan's Women's Residence, Then a Zen Temple",
+    "year": 1922,
+    "yearEnd": 1969,
+    "place": {
+      "label": "300 Page Street, at Laguna",
+      "lat": 37.77388366166076,
+      "lon": -122.42605465256976,
+      "precision": "building"
+    },
+    "hook": "Julia Morgan designed this brick residence for single Jewish working women. In 1969 it became the home of San Francisco Zen Center.",
+    "story": "Women of Temple Emanu-El founded the Emanu-El Sisterhood for Personal Service in 1894. Rather than handing out money, they gave Eastern European Jewish immigrants food, education, training and help finding work [1]. From 1912 the Sisterhood rented houses for single women [2]. It then commissioned Julia Morgan, working with Dorothy Wormser, to design a permanent residence at Page and Laguna, which was finished in 1922 [1]. The brick building housed up to 60 women [1]. Its residents over the years included German women fleeing Europe in the 1930s and '40s, and in 1942-43 nearly all of them were war workers [1][2]. The Sisterhood also offered counselling, childcare and classes in its Institute for Practical Arts [2]. Renamed the Emanu-el Residence Club in 1955, it gradually lost residents, and in 1969 the board voted to close it [2]. That same year San Francisco Zen Center bought the building, and Shunryu Suzuki Roshi founded City Center there as a Soto Zen training centre open to the public [1][3]. It was the Zen community's second Jewish home. Suzuki's congregation, Sokoji, met in the former Bush Street synagogue that Congregation Ohabai Shalome built in 1895 [1][2].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "architect"
+      },
+      {
+        "name": "Dorothy Wormser",
+        "role": "co-designer"
+      },
+      {
+        "name": "Shunryu Suzuki Roshi",
+        "role": "founder of San Francisco Zen Center's City Center"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of 300 Page Street",
+        "publisher": "San Francisco Zen Center, Sangha News Journal",
+        "year": 2012,
+        "url": "https://blogs.sfzc.org/blog/2012/09/25/history-of-300-page-street/",
+        "supports": "Sisterhood's founding and work, Morgan and Wormser, 1922, 60 residents, refugees, 1969 purchase, Sokoji synagogue"
+      },
+      {
+        "title": "History of 300 Page St (by Mary C. Morgan)",
+        "publisher": "Cuke Archives (Shunryu Suzuki archive)",
+        "year": null,
+        "url": "https://www.cuke.com/Cucumber-Project/other/300page-history.htm",
+        "supports": "1912 rented houses, war workers, programs, 1955 renaming, 1969 closure"
+      },
+      {
+        "title": "About City Center",
+        "publisher": "San Francisco Zen Center",
+        "year": null,
+        "url": "https://www.sfzc.org/practice-centers/city-center/about",
+        "supports": "City Center founded 1969 by Suzuki Roshi, open to the public, Julia Morgan building"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "institutions-harding-theater",
+    "title": "The Harding: Movies, Operetta, the Dead, a Church",
+    "year": 1926,
+    "yearEnd": 2017,
+    "place": {
+      "label": "Harding Theater, 616 Divisadero Street at Hayes",
+      "lat": 37.775306298305125,
+      "lon": -122.43769304790636,
+      "precision": "building"
+    },
+    "hook": "One Divisadero movie palace has been a vaudeville house, a Gilbert and Sullivan stage, a Grateful Dead venue, a church and an arcade bar.",
+    "story": "The Harding was built in 1926 for theatre owner Samuel H. Levin, whose chain also included the Balboa, Alexandria, Coliseum, Metro and Empire. It was designed by the Reid Brothers, James and Merritt Reid [1][2]. It seated 1,250 people and opened with Colleen Moore in 'Irene'. Cinema Treasures dates the opening to April 8, 1926, while another account says May [1][2]. In the 1920s it was a neighbourhood movie and vaudeville house, and it later ran as a single-screen cinema [2]. Then it began a long run of second lives. The Lamplighters, San Francisco's Gilbert and Sullivan company, performed there in the 1960s [1][2]. In the late 1960s and early '70s it was a music venue, and the Grateful Dead played on November 6 and 7, 1971 [1][2]. For about thirty years after that it was a church and community centre, until 2003 or 2004 according to different sources [1][2]. In 2008 a Planning Department historic resource evaluation concluded that the Harding was a landmark building [2]. In November 2017 it reopened as Emporium SF, an arcade and bar with pinball, games and billiards [1].",
+    "people": [
+      {
+        "name": "Samuel H. Levin",
+        "role": "theatre owner who built the Harding"
+      },
+      {
+        "name": "James and Merritt Reid",
+        "role": "architects (Reid Brothers)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Harding Theatre",
+        "publisher": "Cinema Treasures",
+        "year": null,
+        "url": "https://www.cinematreasures.org/theaters/3141",
+        "supports": "opening film and date, Reid Brothers, 1,250 seats, Lamplighters, Grateful Dead dates, church to 2004, Emporium 2017"
+      },
+      {
+        "title": "The Harding Theater",
+        "publisher": "Friends of 1800",
+        "year": null,
+        "url": "http://www.friendsof1800.org/HARDING/hardingtheater.html",
+        "supports": "Levin chain, May 1926 opening, sequence of uses, church until 2003, 2008 evaluation"
+      }
+    ],
+    "photo": null
+  }
+]

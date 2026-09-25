@@ -1,0 +1,615 @@
+[
+  {
+    "id": "quake1906-ham-and-eggs-fire",
+    "title": "The Ham and Eggs Fire",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "395 Hayes Street, at Gough",
+      "lat": 37.776811,
+      "lon": -122.42267,
+      "precision": "building"
+    },
+    "hook": "A woman lit her stove to make breakfast after the earthquake. Her cracked chimney started the fire that burned City Hall and most of Hayes Valley.",
+    "story": "The earthquake hit at 5:12 a.m. on April 18, 1906 [3]. Around nine o'clock, a woman in a house on the south side of Hayes Street, about 75 feet east of Gough, lit her stove to cook breakfast. The quake had cracked her chimney, and the house caught fire [1]. Tradition puts the kitchen at 395 Hayes, the corner building that housed a café in 2013 [2]. Every fire company was already busy. At Golden Gate Avenue and Buchanan another blaze burned five houses and kept much of the department tied up until ten [1]. Nobody could mount a proper fight, and Kennedy's 1908 study concluded that this one fire \"may truthfully be said to have burned over more territory than any other single fire\" [1]. It jumped Gough to the west and Franklin to the east. By about 1 p.m. it had reached the St. Nicholas Hotel on Market, and St. Ignatius Church and College at Van Ness and Hayes was burning. Embers set the roof of Mechanics' Pavilion alight [1]. Firemen found that the quake had broken the neighbourhood's water supply [2]. People called it the \"ham and eggs fire\" [1][2]. Before it was stopped it had destroyed City Hall and nearly everything east of Octavia [2][3].",
+    "people": [
+      {
+        "name": "Lawrence J. Kennedy",
+        "role": "historian whose 1908 thesis traced the fire's origin and spread"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Progress of the Fire in San Francisco, April 18th-21st, 1906, As Shown by an Analysis of Original Documents (Lawrence J. Kennedy, UC Berkeley master's thesis, 1908)",
+        "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+        "year": 1908,
+        "url": "https://sfmuseum.org/1906/kennedy.html",
+        "supports": "Location on the south side of Hayes ~75 ft east of Gough, ~9 a.m., defective chimney, the Golden Gate & Buchanan fire, 'ham and egg fire' name and quote, spread and 1 p.m. landmarks"
+      },
+      {
+        "title": "The Dangers of Cooking After a Quake: The Ham and Eggs Fire",
+        "publisher": "Hoodline",
+        "year": 2013,
+        "url": "https://hoodline.com/2013/04/the-dangers-of-cooking-after-a-quake-the-ham-and-eggs-fire/",
+        "supports": "395 Hayes Street address and present café, damaged chimney, water supply cut off, destruction of City Hall"
+      },
+      {
+        "title": "Transit in San Francisco: A Selected Chronology, 1850-1995 (Robert Callwell)",
+        "publisher": "San Francisco Municipal Railway",
+        "year": 1999,
+        "url": "https://archives.sfmta.com/cms/rhome/documents/TransitinSanFrancisco-CallwellChronologyweb.pdf",
+        "supports": "5:12 a.m. time of the earthquake"
+      },
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area (Page & Turnbull)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Everything north of Market and east of Octavia leveled by the 'Ham and Eggs Fire'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-octavia-fire-line",
+    "title": "Where the Fire Stopped: Octavia Street",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Octavia Street at Hayes Street",
+      "lat": 37.776748,
+      "lon": -122.424898,
+      "precision": "street"
+    },
+    "hook": "For a full night the Hayes Valley fire crept west. At dawn on April 19, 1906, firemen held it at Octavia Street, and it never went further.",
+    "story": "The Hayes Valley fire spent the afternoon and evening of April 18 working west from Gough. It reached Fell Street on the south and Golden Gate Avenue on the north [1]. One 1906 account described it spreading \"like a sickle set to a field of grain\" around the south end of the Western Addition, up to Oak and Fell along Octavia. There, the account went on, \"one puny engine puffed a single stream of water upon the burning mass\" [2]. At 12:30 a.m. on the 19th it reached Octavia between Golden Gate and McAllister [1]. Then it stopped. According to Kennedy's 1908 analysis, at five in the morning the fire \"was finally stopped at the west along Octavia Street,\" and south of Fell half a block east of it. Firemen, \"possibly assisted by some dynamiting,\" did it with no help from wind, hills or empty lots [1]. The line held for good [1][3]. City planners still use it: almost everything east of Octavia is post-1906, while Hayes Valley to the west keeps some of the oldest buildings in that part of the city [3]. Many of the Victorians west of Octavia today came through that night.",
+    "people": [],
+    "sources": [
+      {
+        "title": "The Progress of the Fire in San Francisco, April 18th-21st, 1906, As Shown by an Analysis of Original Documents (Lawrence J. Kennedy, UC Berkeley master's thesis, 1908)",
+        "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+        "year": 1908,
+        "url": "https://sfmuseum.org/1906/kennedy.html",
+        "supports": "Westward spread to Fell and Golden Gate, 12:30 a.m. arrival at Octavia, 5 a.m. stop at Octavia and half a block east of it south of Fell, quotes on stopping and dynamiting"
+      },
+      {
+        "title": "Complete Story of the San Francisco Horror (Richard Linthicum and Trumbull White; Hubert D. Russell)",
+        "publisher": "Internet Archive (digitized book)",
+        "year": 1906,
+        "url": "https://archive.org/details/completestorysa01whitgoog",
+        "supports": "Contemporary description: 'like a sickle set to a field of grain' and 'one puny engine' quotes"
+      },
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area (Page & Turnbull)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Octavia as the permanent western boundary of the fire; old buildings surviving west of Octavia"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-watching-from-alamo-square",
+    "title": "Watching the City Burn from Alamo Square",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Alamo Square, near Steiner and Grove Streets",
+      "lat": 37.77695,
+      "lon": -122.43285,
+      "precision": "block"
+    },
+    "hook": "On April 18, 1906, crowds climbed Alamo Square's hill, sat on the grass, and watched downtown San Francisco go up in smoke.",
+    "story": "Alamo Square's hill looks east straight over the city, and on April 18, 1906 that made it a grandstand. Photographs taken that day show the lawn full of people sitting and watching smoke rise from downtown. Wagons loaded with refugees' belongings stand on Fulton Street below [1]. Another view, taken near Steiner and Grove, shows a crowd standing in the park looking east at the fire [1]. A century later, the Examiner still remembered the square as the place \"where people gathered to watch downtown burn in 1906\" [2]. They had a lot to watch. By about 1 p.m. the Hayes Valley fire had reached Market Street, and St. Ignatius Church and College at Van Ness and Hayes was burning [3]. A 1906 account called it \"the greatest Jesuitical institution in the west\" and put its cost at $2,000,000 [4]. The people on the hill were safe. The fire was stopped at Octavia Street, about half a mile east, at dawn the next day [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "OpenSFHistory photographs wnp37.00150 / wnp27.4955 (view east from Alamo Square) and WNP135.00066 (Steiner & Grove)",
+        "publisher": "Western Neighborhoods Project (OpenSFHistory)",
+        "year": null,
+        "url": "https://opensfhistory.org/Display/wnp37.00150",
+        "supports": "April 18, 1906 crowds sitting on the lawn watching the fire, refugee wagons on Fulton Street, crowd near Steiner & Grove"
+      },
+      {
+        "title": "Alamo Square: From 'Primeval Forest Of Rocks' To Iconic Park (Griffin Estes)",
+        "publisher": "Hoodline",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/06/alamo-square-park/",
+        "supports": "Examiner (May 3-4, 2008) quote about people gathering to watch downtown burn"
+      },
+      {
+        "title": "The Progress of the Fire in San Francisco, April 18th-21st, 1906, As Shown by an Analysis of Original Documents (Lawrence J. Kennedy, UC Berkeley master's thesis, 1908)",
+        "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+        "year": 1908,
+        "url": "https://sfmuseum.org/1906/kennedy.html",
+        "supports": "St. Ignatius burning about 1 p.m.; fire stopped at Octavia at dawn April 19"
+      },
+      {
+        "title": "Complete Story of the San Francisco Horror (Richard Linthicum and Trumbull White; Hubert D. Russell)",
+        "publisher": "Internet Archive (digitized book)",
+        "year": 1906,
+        "url": "https://archive.org/details/completestorysa01whitgoog",
+        "supports": "St. Ignatius cost $2,000,000"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-alamo-square-camp-22",
+    "title": "Camp No. 22: Tents on the Hill",
+    "year": 1906,
+    "yearEnd": 1907,
+    "place": {
+      "label": "Alamo Square (Hayes Street side)",
+      "lat": 37.7763,
+      "lon": -122.4346,
+      "precision": "area"
+    },
+    "hook": "Alamo Square became an official refugee camp, with its tents propped up on wooden legs so they stood level on the slope.",
+    "story": "In the first days after the fire, refugees camped wherever they found open ground, and Alamo Square was one of those places [2]. In July 1906 the Army took it over as an official camp, No. 22 [1]. The Relief Survey's records say it opened on July 9, 1906, and was fullest on October 1, with 857 people. It closed on March 13, 1907 [1]. The hill was a problem, because a tent pitched on a slope isn't much of a bed. A photograph shows the camp's answer: the tents were set on wooden undercarriages that held them level [3]. That summer tents in the official camps were given floors, and buildings with latrines, wash-houses and hot and cold running water went up [1]. Alamo Square was one of several camps nearby. Duboce Park, a few blocks south, was Camp No. 19, with up to 650 people until February 1907 [1][2]. Relief District IV, which covered the neighbourhood north of Market, housed 10,737 refugees in all [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco Relief Survey: The Organization and Methods of Relief Used After the Earthquake and Fire of April 18, 1906 (Russell Sage Foundation)",
+        "publisher": "Survey Associates / Project Gutenberg",
+        "year": 1913,
+        "url": "https://www.gutenberg.org/ebooks/56217",
+        "supports": "Camp No. 22 opening July 9, 1906, maximum 857 on Oct. 1, 1906, closing Mar. 13, 1907; Army takeover in July; floored tents and wash-houses; Duboce Park Camp No. 19 figures"
+      },
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area (Page & Turnbull)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Refugee camps at Alamo Square and Duboce Park; Relief District IV housed 10,737 refugees"
+      },
+      {
+        "title": "OpenSFHistory Top Ten: 1906 Earthquake Refugee Camps (Arnold Woods)",
+        "publisher": "Western Neighborhoods Project (OpenSFHistory)",
+        "year": 2021,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2021/04/18/opensfhistory-top-ten-1906-earthquake-refugee-camps/",
+        "supports": "Undercarriages built to keep Alamo Square tents level; photo of camp looking north from Hayes (wnp27.1917)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-jefferson-square-first-week",
+    "title": "Carpets for Roofs in Jefferson Square",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Jefferson Square (Eddy, Gough, Golden Gate & Laguna)",
+      "lat": 37.7817,
+      "lon": -122.4255,
+      "precision": "area"
+    },
+    "hook": "Five thousand people crowded into Jefferson Square after the fire. Most of them sheltered under carpets and bedsheets when a storm broke over the city.",
+    "story": "Jefferson Square sat just outside the burned district, and it filled fast. The brewer Adolphus Busch was caught in the earthquake at the St. Francis Hotel. He later said he \"urged them to escape to Jefferson square, which we did\" [1]. By April 20 there was a food station in the square, one of the first places where refugees lined up for rations [2]. Then, on the first Sunday night after the fire, came the rain. From midnight to 3 a.m. it poured, driven by a high wind [1]. One 1906 account described \"the 5,000 people or more camped in Jefferson Square Park\" as \"something terrible.\" Not more than 5 per cent had an Army tent. The rest had made shelters of \"carpets, bedsheets and every imaginable substance\" [1][3]. People kept their spirit anyway. The same account quoted an aged, disabled woman lying on a dirt floor under patchwork, carpets and tin roofing: \"I am the widow of a union soldier. The sufferings related by my husband at Vicksburg were as nothing compared to mine. I am very comfortable, thank you\" [1][3]. Nearby, St. Paul's Lutheran church served as an emergency hospital [1].",
+    "people": [
+      {
+        "name": "Adolphus Busch",
+        "role": "St. Louis brewer who fled to Jefferson Square"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Complete Story of the San Francisco Horror (Richard Linthicum and Trumbull White; Hubert D. Russell)",
+        "publisher": "Internet Archive (digitized book)",
+        "year": 1906,
+        "url": "https://archive.org/details/completestorysa01whitgoog",
+        "supports": "Busch account; Sunday-night storm; 5,000 campers, 5 per cent with tents, makeshift shelters; widow's quote; St. Paul Lutheran emergency hospital"
+      },
+      {
+        "title": "San Francisco Relief Survey: The Organization and Methods of Relief Used After the Earthquake and Fire of April 18, 1906 (Russell Sage Foundation)",
+        "publisher": "Survey Associates / Project Gutenberg",
+        "year": 1913,
+        "url": "https://www.gutenberg.org/ebooks/56217",
+        "supports": "Food station at Jefferson Square operating by April 20, 1906"
+      },
+      {
+        "title": "Refugee Camps 1906: The First Month (reprint of Ch. 13, 'In the Refugee Camps', Complete Story of the San Francisco Horror)",
+        "publisher": "FoundSF",
+        "year": 1906,
+        "url": "https://www.foundsf.org/index.php?title=Refugee_Camps_1906:_The_First_Month",
+        "supports": "Same primary text: Jefferson Square conditions and the widow's quote"
+      }
+    ],
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/San_Francisco_Earthquake_of_1906%2C_Jefferson_Square_refugee_camp_-_NARA_-_522960.tif/lossy-page1-1920px-San_Francisco_Earthquake_of_1906%2C_Jefferson_Square_refugee_camp_-_NARA_-_522960.tif.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_Earthquake_of_1906,_Jefferson_Square_refugee_camp_-_NARA_-_522960.tif",
+      "credit": "George W. Haley / U.S. National Archives",
+      "license": "Public domain",
+      "year": 1906
+    }
+  },
+  {
+    "id": "quake1906-jefferson-square-camp-16",
+    "title": "Camp No. 16: Cottages You Could Keep",
+    "year": 1906,
+    "yearEnd": 1907,
+    "place": {
+      "label": "Jefferson Square (Camp No. 16)",
+      "lat": 37.7812,
+      "lon": -122.4262,
+      "precision": "area"
+    },
+    "hook": "The tents in Jefferson Square gave way to rows of little redwood cottages. Families who paid their rent could haul them away and keep them.",
+    "story": "Jefferson Square became official Camp No. 16 on June 2, 1906. That month it held as many as 2,000 people [1]. With the rainy season coming, the relief corporation decided to replace the tents with separate wooden cottages. Construction began in the camps on September 10, 1906 [1]. Union carpenters built them in standard sizes, the smallest 10 by 14 feet, and 5,610 went up across the city [2]. Planners later described Camp No. 16 as a large camp holding 1,710 people in these mass-produced cottages [3]. The tents had been free, but the cottages were not. Relief officials charged a small rent, arguing that giving everything away \"killed the self-respect of the efficient class\" [1]. The lease worked as a purchase. A tenant who paid rent up to August 1, 1907 owned the cottage, but had to move it out of the square at their own expense [1]. The camp closed on August 23, 1907 [1]. Many cottages were dragged off on wagons to private lots, and a few are still standing somewhere in the city [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco Relief Survey: The Organization and Methods of Relief Used After the Earthquake and Fire of April 18, 1906 (Russell Sage Foundation)",
+        "publisher": "Survey Associates / Project Gutenberg",
+        "year": 1913,
+        "url": "https://www.gutenberg.org/ebooks/56217",
+        "supports": "Camp No. 16 opening June 2, 1906, max 2,000, closing Aug. 23, 1907; cottage plan and Sept. 10, 1906 start; nominal rent rationale quote; lease-to-own terms"
+      },
+      {
+        "title": "1906 Earthquake Refugee Shacks",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/shacks.php",
+        "supports": "Union carpenters, cottage sizes, 5,610 cottages, cottages hauled to private lots as camps closed from August 1907"
+      },
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area (Page & Turnbull)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Jefferson Square as Camp No. 16 accommodating 1,710 people in refugee cottages"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Camping_in_Jefferson_Square_LCCN2003668286.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Camping_in_Jefferson_Square_LCCN2003668286.jpg",
+      "credit": "Pillsbury Picture Co. / Library of Congress",
+      "license": "Public domain",
+      "year": 1906
+    }
+  },
+  {
+    "id": "quake1906-fillmore-turk-breadline",
+    "title": "Four Blocks for a Loaf",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Fillmore Street between Turk and Eddy",
+      "lat": 37.7811,
+      "lon": -122.4321,
+      "precision": "block"
+    },
+    "hook": "With cooking indoors banned until chimneys were checked, the breadline at Fillmore and Turk stretched four blocks.",
+    "story": "At the end of the third day, Mayor Eugene Schmitz told everyone to put out their stoves. His proclamation warned \"all citizens not to build fires in their homes until the chimneys have been inspected and repaired properly\" [1]. Even families whose houses had survived now had no way to cook. Their pantries soon ran out, most goods in the shops had been seized, and depending on the district the ban on indoor fires lasted from a week to two or three months [2]. So the Western Addition queued. Officials took over the grocery stores still standing and handed out food. One breadline was set up at Fillmore and Turk, where \"every person who stood in line was given a whole loaf.\" That line \"was four blocks long all one afternoon\" [1]. Milk shipped over from Oakland went to women and children [1]. A postcard from the time shows a breadline running east along Eddy Street from Fillmore, with a soldier patrolling beside it. The cataloguer notes some doubt about the exact spot [3]. Photographs from the Western Addition show families cooking in the street on wood-burning stoves [3].",
+    "people": [
+      {
+        "name": "Eugene Schmitz",
+        "role": "Mayor of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Complete Story of the San Francisco Horror (Richard Linthicum and Trumbull White; Hubert D. Russell)",
+        "publisher": "Internet Archive (digitized book)",
+        "year": 1906,
+        "url": "https://archive.org/details/completestorysa01whitgoog",
+        "supports": "Schmitz proclamation text; breadline at Fillmore and Turk, whole loaf, four blocks long; milk from Oakland"
+      },
+      {
+        "title": "San Francisco Relief Survey: The Organization and Methods of Relief Used After the Earthquake and Fire of April 18, 1906 (Russell Sage Foundation)",
+        "publisher": "Survey Associates / Project Gutenberg",
+        "year": 1913,
+        "url": "https://www.gutenberg.org/ebooks/56217",
+        "supports": "No cooking in private houses until chimneys inspected; prohibition lasted from a week to two or three months"
+      },
+      {
+        "title": "Fillmore Street 1906 (OpenSFHistory wnp27.7212 bread line on Eddy from Fillmore; wnp13.426 street cooking)",
+        "publisher": "FoundSF / OpenSFHistory",
+        "year": null,
+        "url": "https://www.foundsf.org/Fillmore_Street_1906",
+        "supports": "Bread line photo on Eddy from Fillmore with soldier; families cooking in the streets on wood-burning stoves"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-fillmore-new-downtown",
+    "title": "Fillmore Street, the New Market Street",
+    "year": 1906,
+    "yearEnd": 1909,
+    "place": {
+      "label": "Fillmore Street at Ellis",
+      "lat": 37.7822,
+      "lon": -122.4324,
+      "precision": "street"
+    },
+    "hook": "With downtown in ashes, San Francisco went shopping on Fillmore. For a few years a neighbourhood street became the city's main street.",
+    "story": "The fire had burned downtown and stopped at Van Ness, so the stores and offices that had lost their buildings looked for somewhere to go. Many of them came to Fillmore Street, a neighbourhood shopping street in the middle of the Western Addition. It briefly became a commercial centre for the whole city, until downtown was rebuilt [1]. Merchants took to calling it \"the new Market Street\" [2]. Streetcars made it possible. United Railroads had its Fillmore line running again within days, and Muni's transit chronology counts that as an important reason Fillmore became, for a short time, San Francisco's main business street [3]. A 1908 photograph at O'Farrell shows the result: crowded sidewalks, a streetcar taking on passengers, a Roos Bros. clothing store on the corner and the Van Vroom Painless Dental Parlors [4]. It didn't last. After a couple of years the big firms went back downtown, and Fillmore became a neighbourhood street again [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Western Addition Early 20th Century Life and Work (William Issel and Robert Cherny, from San Francisco 1865-1932)",
+        "publisher": "FoundSF",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Western_Addition_Early_20th_Century_Life_and_Work",
+        "supports": "Fire stopped at Van Ness; Fillmore briefly the city's commercial centre before downtown rebuilt; houses around Fillmore subdivided"
+      },
+      {
+        "title": "Fillmore: Forever New (Robert F. Oaks)",
+        "publisher": "The New Fillmore",
+        "year": null,
+        "url": "https://newfillmore.com/fillmore-classics/fillmore-forever-new/",
+        "supports": "'The new Market Street'; businesses relocated and returned downtown after a couple of years"
+      },
+      {
+        "title": "Transit in San Francisco: A Selected Chronology, 1850-1995 (Robert Callwell)",
+        "publisher": "San Francisco Municipal Railway",
+        "year": 1999,
+        "url": "https://archives.sfmta.com/cms/rhome/documents/TransitinSanFrancisco-CallwellChronologyweb.pdf",
+        "supports": "Fillmore line back within days; line an important factor in Fillmore becoming the major business street"
+      },
+      {
+        "title": "Fillmore near O'Farrell, 1908 (wnp14.10601)",
+        "publisher": "Western Neighborhoods Project (OpenSFHistory)",
+        "year": null,
+        "url": "https://opensfhistory.org/Display/wnp14.10601",
+        "supports": "1908 view: crowded sidewalks, streetcar boarding, Roos Bros. clothing store, Van Vroom Painless Dental Parlors"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-fillmore-arches",
+    "title": "Fourteen Arches of Light",
+    "year": 1907,
+    "yearEnd": 1943,
+    "place": {
+      "label": "Fillmore Street at Fulton (southern end of the arches)",
+      "lat": 37.7775,
+      "lon": -122.4313,
+      "precision": "street"
+    },
+    "hook": "To show that Fillmore was now a great city street, its merchants hung fourteen glowing iron arches over it. The arches stayed up until 1943.",
+    "story": "Fillmore's merchants wanted their temporary boom to last. In one writer's words, the street had gone \"from a row of suburban delicatessen and cigar shops to the main artery of a great city\" [1]. In April 1907 the Fillmore Street Improvement Association asked the Board of Supervisors to let it build arches. That year Butte Engineering and Electric put up fourteen double iron arches from Sacramento Street down to Fulton. Each one crossed 32 feet above the pavement and carried 120 electric lights [1]. The first was lit at Pine on September 9, 1907, and the whole run on November 27, in time for holiday shopping. The contract was for $7,500 and costs reached $11,000, though boosters claimed $50,000 [1]. At Christmas the bulbs were changed to red and green [1]. In July 1908 a Call reporter, Gibson Adams, spent an evening on Fillmore and paid a quarter at a second-floor dance hall \"where ladies of divers nationalities graciously waltzed with me without the formality of names\" [1]. People often remember the arches as decorations for the 1915 Exposition, but they are older than that [1][2]. In June 1943 they were taken down for wartime scrap [1][2].",
+    "people": [
+      {
+        "name": "Gibson Adams",
+        "role": "San Francisco Call feature reporter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Fillmore Arches (Woody LaBounty)",
+        "publisher": "San Francisco Story",
+        "year": 2022,
+        "url": "https://www.sanfranciscostory.com/fillmore-arches/",
+        "supports": "Improvement Association request, builder, number, span, height, lights, lighting dates, costs, Christmas colours, Gibson Adams quote, PPIE misattribution, 1943 removal"
+      },
+      {
+        "title": "Fillmore Arches Torn Down",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Fillmore_Arches_Torn_Down",
+        "supports": "Arches torn down as WWII scrap in 1943 (and the common PPIE attribution)"
+      },
+      {
+        "title": "Fillmore: Forever New (Robert F. Oaks)",
+        "publisher": "The New Fillmore",
+        "year": null,
+        "url": "https://newfillmore.com/fillmore-classics/fillmore-forever-new/",
+        "supports": "Electrically lit iron arches built across intersections after 1906"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-houdini-ellis-street",
+    "title": "Houdini and His Rival on Ellis Street",
+    "year": 1907,
+    "yearEnd": null,
+    "place": {
+      "label": "Orpheum Theatre (1631 Ellis St) and Princess Theatre (1671 Ellis St), near Fillmore",
+      "lat": 37.7821,
+      "lon": -122.4331,
+      "precision": "block"
+    },
+    "hook": "In 1907 the Orpheum, burned out of downtown, reopened on Ellis near Fillmore. Houdini topped the bill while a rival escape artist played next door.",
+    "story": "The Orpheum vaudeville circuit lost its O'Farrell Street theatre in April 1906 [1]. While downtown was rebuilt, it opened a new Orpheum at 1631 Ellis, near Fillmore, in March 1907. The architects were O'Brien and Werner, and the house had about 1,750 seats [1][2]. On August 31, 1907, Sam Loverich opened the Princess right next door at 1671 Ellis [2]. That September Harry Houdini played the Orpheum. By then he had moved past handcuffs, and he was billed as \"Houdini in New Sensations.\" The feature that week was a challenge to escape from a box built by employees of the Emporium department store [3]. For his last week, the Princess booked George W. Brindamour, advertised as \"King of All Handcuff Kings\" [3]. Variety expected a fight. Instead it reported, under the headline \"Jail Breakers at Peace,\" that each man went about his business \"as though oblivious of the other's existence\" [3]. In April 1909 the Orpheum moved back downtown, and the Ellis Street house became the Garrick [1][2]. Both theatres later became churches and were demolished in the 1970s during Fillmore redevelopment [2].",
+    "people": [
+      {
+        "name": "Harry Houdini",
+        "role": "escape artist, Orpheum headliner"
+      },
+      {
+        "name": "George W. Brindamour",
+        "role": "rival escape artist at the Princess"
+      },
+      {
+        "name": "Sam Loverich",
+        "role": "opened the Princess Theatre"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Orpheum / Garrick Theatre",
+        "publisher": "San Francisco Theatres (Bill Counts)",
+        "year": 2018,
+        "url": "http://sanfranciscotheatres.blogspot.com/2018/10/garrick-theatre.html",
+        "supports": "Loss of O'Farrell St Orpheum in 1906, 1631 Ellis, March 11, 1907 opening, architects, seats, 1909 move and Garrick name"
+      },
+      {
+        "title": "Ellis near Fillmore, circa 1908 (Orpheum and Princess Theatres postcard)",
+        "publisher": "SFMemory (Greg Gaar Postcard Collection)",
+        "year": null,
+        "url": "https://sfmemory.org/Display/sfm001-00759",
+        "supports": "Addresses, Orpheum opening March 11, 1907, Princess opening August 31, 1907, later churches, 1970s demolition"
+      },
+      {
+        "title": "Houdini and Brindamour: Showdown in San Francisco (John Cox)",
+        "publisher": "Wild About Harry",
+        "year": 2016,
+        "url": "https://www.wildabouthoudini.com/2016/02/houdini-and-brindamour-showdown-in-san.html",
+        "supports": "September 1907 engagement, billings, Emporium box challenge, Variety 'Jail Breakers at Peace' report"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-page-fillmore-auditorium",
+    "title": "The Rink at Page and Fillmore",
+    "year": 1906,
+    "yearEnd": 1915,
+    "place": {
+      "label": "The Auditorium, Page Street between Fillmore and Steiner (SW corner of Page & Fillmore)",
+      "lat": 37.7727,
+      "lon": -122.4316,
+      "precision": "block"
+    },
+    "hook": "Six months after the earthquake, an enormous skating rink with 6,000 electric lights opened on Page Street. It could hold 8,000 people.",
+    "story": "While downtown was still rubble, the Western Addition was getting new places to go out. On November 2, 1906, the Auditorium opened at the southwest corner of Page and Fillmore. It ran the whole block along Page to Steiner [1][2]. It was built as a roller-skating rink, and a big one: the skating floor measured about 335 by 100 feet, and the building held 8,000 people [2]. The Call reported \"6000 electric lights, arranged in festoons from the ceiling,\" with walls \"paneled in Flemish oak,\" bevelled mirrors and painted landscapes [1]. People did more than skate there. The hall hosted boxing matches, basketball games, political rallies, dog shows, military balls, indoor carnivals, track meets and a poultry show [1]. There were also hospital benefits, St. Patrick's Day celebrations and roller polo [2]. Trouble came in 1913, when alcohol was apparently served to minors and the building lost its liquor licence [2]. On November 7, 1915, a huge fire destroyed the Auditorium, burned four neighbouring stores and killed a firefighter [1][2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "The Auditorium",
+        "publisher": "San Francisco Theatres (Bill Counts)",
+        "year": 2018,
+        "url": "http://sanfranciscotheatres.blogspot.com/2018/08/auditorium.html",
+        "supports": "Location, November 2, 1906 opening, 8,000 capacity, SF Call description quotes, event list, November 7, 1915 fire"
+      },
+      {
+        "title": "Victorian attractions of San Francisco (Rae Alexandra)",
+        "publisher": "KQED",
+        "year": 2022,
+        "url": "https://www.kqed.org/arts/13909983/victorian-attractions-san-francisco-chutes-gravity-railroad-woodwards-gardens-bonet-tower-auditorium-skating",
+        "supports": "Opened 1906, full block Fillmore to Steiner on Page, rink dimensions, events, 1913 licence loss, fire killing a firefighter and destroying four stores"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-fillmore-chutes",
+    "title": "The Chutes Come to Fillmore Street",
+    "year": 1909,
+    "yearEnd": 1911,
+    "place": {
+      "label": "Chutes Park, block of Fillmore, Turk, Webster & Eddy (entrance near 1226 Fillmore)",
+      "lat": 37.781,
+      "lon": -122.431,
+      "precision": "block"
+    },
+    "hook": "In 1909 San Francisco's famous water-chute amusement park moved to Fillmore Street. Two years later a fire that began in a barber shop destroyed it.",
+    "story": "After 1906 Fillmore had the crowds, and a showman moved in. On March 8, 1909, Irving Ackerman, son of the original Chutes owner, took a 13-year lease on the old Coney Island amusement park. It filled the block bounded by Fillmore, Webster, Eddy and Turk [1]. He spent $250,000 moving and enlarging the Chutes, and the new park opened on July 14, 1909 [1]. It had the famous water chute, a merry-go-round, a Circle Swing, a \"Dante's Inferno\" labyrinth, a human roulette wheel, a dance pavilion and an outdoor movie screen. There were daredevils, an elephant named Mike, a flea circus, and boxing exhibitions that included heavyweight champion Jack Johnson [1]. A fireproof Chutes Theatre opened on December 31, 1909 [2]. Some time after midnight on May 29, 1911, fire broke out in the Bondy brothers' barber shop. It killed three people, injured seven and wrecked most of the park [1]. The concrete theatre survived [1][2]. Ackerman did not rebuild the park. The theatre, turned to face Fillmore Street, reopened in 1915 as the Lyric under Ackerman and Harris [2].",
+    "people": [
+      {
+        "name": "Irving Ackerman",
+        "role": "Chutes owner, later of Ackerman & Harris"
+      },
+      {
+        "name": "Jack Johnson",
+        "role": "heavyweight boxing champion who appeared at the Chutes"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fillmore Chutes: A Closer Look (Arnold Woods)",
+        "publisher": "Western Neighborhoods Project (OpenSFHistory)",
+        "year": 2020,
+        "url": "https://www.opensfhistory.org/osfhcrucible/2020/08/09/fillmore-chutes-a-closer-look/",
+        "supports": "Lease date, block, $250,000, July 14, 1909 opening, attractions and performers, May 29, 1911 fire details, theatre survival, no rebuilding"
+      },
+      {
+        "title": "Chutes / Lyric / American Theatre",
+        "publisher": "San Francisco Theatres (Bill Counts)",
+        "year": 2018,
+        "url": "http://sanfranciscotheatres.blogspot.com/2018/10/american-theatre.html",
+        "supports": "Chutes Theatre opening Dec. 31, 1909 at 1226 Fillmore, survival of the fireproof theatre, 1915 reopening as the Lyric facing Fillmore under Ackerman and Harris"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Fillmore_Chutes_under_construction.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Fillmore_Chutes_under_construction.jpg",
+      "credit": "Abraham Lipman / Marilyn Blaisdell Collection (OpenSFHistory wnp37.03379)",
+      "license": "Public domain",
+      "year": 1909
+    }
+  },
+  {
+    "id": "quake1906-bloody-tuesday-turk-fillmore",
+    "title": "Bloody Tuesday at the Turk Street Car Barn",
+    "year": 1907,
+    "yearEnd": null,
+    "place": {
+      "label": "Turk & Fillmore car barn (yard on Turk behind the powerhouse)",
+      "lat": 37.7805,
+      "lon": -122.4322,
+      "precision": "block"
+    },
+    "hook": "A year after the fire, strikebreakers with pistols drove streetcars out of the Turk and Fillmore barn. The shooting that followed became known as 'Bloody Tuesday.'",
+    "story": "The earthquake gave United Railroads president Patrick Calhoun his chance. He had long wanted to turn his Market Street cable lines into overhead-wire trolleys, and after the disaster he got a permit. He was accused of bribing the entire Board of Supervisors to do it. A 22-month trial ended in a hung jury [1]. In May 1907 more than 1,500 carmen voted to strike for $3 for an eight-hour day [2]. The company brought in professional strikebreakers who could run streetcars and handle guns [2]. At 3:25 p.m. on Tuesday, May 7, six cars pulled out of the Turk and Fillmore barn. Each carried two company inspectors and four of James Farley's strikebreakers wearing pistols [1]. When the crowd threw rocks and bricks, Farley's men opened fire [1]. Strikers captured one car and brought it back, and it crashed into the barn gate. The men inside, thinking they were under attack, started shooting [2]. Accounts of the toll differ. The city's transit chronology says two men were killed and more than twenty wounded [2]. Market Street Railway counts a dead chauffeur and two fatally wounded strikers [1]. The brick powerhouse is still standing [1].",
+    "people": [
+      {
+        "name": "Patrick Calhoun",
+        "role": "president of United Railroads"
+      },
+      {
+        "name": "James Farley",
+        "role": "strikebreaker contractor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "STRIKE! (Rick Laubscher)",
+        "publisher": "Market Street Railway",
+        "year": 2022,
+        "url": "https://www.streetcar.org/strike/",
+        "supports": "Calhoun's post-quake trolley conversion and bribery allegation, hung jury, May 7 events at the Turk & Fillmore barn, casualty account, surviving powerhouse"
+      },
+      {
+        "title": "Transit in San Francisco: A Selected Chronology, 1850-1995 (Robert Callwell)",
+        "publisher": "San Francisco Municipal Railway",
+        "year": 1999,
+        "url": "https://archives.sfmta.com/cms/rhome/documents/TransitinSanFrancisco-CallwellChronologyweb.pdf",
+        "supports": "Strike vote and demands, strikebreakers, 3:25 p.m. departure, car crashing into gate, two killed and 20+ wounded, 'Bloody Tuesday'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "quake1906-hayes-valley-fills-up",
+    "title": "Hayes Valley Fills Up",
+    "year": 1906,
+    "yearEnd": 1915,
+    "place": {
+      "label": "Hayes Street between Octavia and Laguna",
+      "lat": 37.7766,
+      "lon": -122.4257,
+      "precision": "street"
+    },
+    "hook": "The houses west of Octavia survived the fire, and then filled with refugees. Big family homes turned into flats and backyards grew cottages.",
+    "story": "West of Octavia, Hayes Valley came through the fire. It did not come through undamaged. The geologist H.O. Wood found cracked brick walls and fallen gables across the valley, and wrote that \"most chimney stacks were broken\" [1]. Brick-faced storefronts on Hayes Street collapsed onto the sidewalk [1]. The neighbourhood's biggest change came afterwards, as the burned-out moved in. Many refugees rented apartments or built new housing in Hayes Valley. Some owners moved away and turned their large single-family houses into apartments [1]. All over the Victorian districts just outside the fire line, Richard Walker notes, big old homes were quickly divided into flats [2]. Little was torn down. Instead, the 1913–15 Sanborn maps show large lots split up, flats built beside older houses, and cottages squeezed into back yards [1]. Hayes Valley had been middle-class, and it became increasingly working-class [1]. The same maps show the Jefferson Square Building, at the southwest corner of Golden Gate and Octavia, as headquarters of the San Francisco Socialist Party, and a Machinists' Hall on Oak Street [1].",
+    "people": [
+      {
+        "name": "Harry O. Wood",
+        "role": "geologist who surveyed the earthquake damage"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic Context Statement: Market and Octavia Neighborhood Plan Area (Page & Turnbull)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2007,
+        "url": "https://archives.sfplanning.org/documents/682-MO_Context_Final_202007.pdf",
+        "supports": "Wood quote on Hayes Valley damage, collapsed Hayes Street storefronts, refugees renting and building, conversions to apartments, working-class shift, Sanborn infill, Socialist Party HQ, Machinists' Hall"
+      },
+      {
+        "title": "Multiple-Unit Buildings: Invisible Homes, Visible Publics, Derisible Lives (Richard Walker, Ecumene, 1995)",
+        "publisher": "FoundSF",
+        "year": 1995,
+        "url": "https://www.foundsf.org/index.php?title=Multiple-Unit_Buildings:_Invisible_Homes,_Visible_Publics,_Derisible_Lives",
+        "supports": "Large old homes just outside the fire line (Western Addition, Hayes Valley) rapidly subdivided into flats"
+      }
+    ],
+    "photo": null
+  }
+]

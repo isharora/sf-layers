@@ -41,15 +41,56 @@
   .lmcard { margin: 10px 0; padding: 12px 14px; background: #fbf5e6; border-left: 3px solid var(--gold); border-radius: 0 8px 8px 0; }
   .lmcard b { font: 600 19px var(--display); }
   .lmcard a { font: 12px var(--ui); color: var(--rose); }
+
+  .pin { cursor: pointer; }
+  .pin .pi { transform: scale(var(--ps, 1)); transition: opacity .3s; }
+  .pin.dim .pi { opacity: .18; }
+  .pin.off { display: none; }
+  .pin:hover .pi { filter: brightness(1.08); }
+  .topbar { position: fixed; top: 16px; right: 18px; display: flex; gap: 8px; z-index: 5; }
+  .topbar button { font: 600 13px var(--ui); color: var(--ink); background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 999px; padding: 9px 16px; cursor: pointer; box-shadow: 0 6px 20px rgba(0,0,0,.2); }
+  .topbar button.pri { background: #3d3026; color: #f6eedb; border-color: #3d3026; }
+  .timebar { position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%); width: min(620px, calc(100% - 300px)); background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 14px; padding: 10px 18px 12px; box-shadow: 0 10px 30px rgba(0,0,0,.25); z-index: 4; }
+  .timebar .row1 { display: flex; align-items: baseline; gap: 12px; }
+  .timebar .yr { font: 700 30px/1 var(--display); color: var(--ink); min-width: 92px; }
+  .timebar .era { font: italic 16px var(--display); color: var(--ink-2); flex: 1; }
+  .timebar label { font: 500 12px var(--ui); color: var(--ink-2); display: flex; align-items: center; gap: 6px; cursor: pointer; }
+  .timebar input[type=range] { width: 100%; accent-color: #9c3b33; margin: 6px 0 0; }
+  .ticks { display: flex; justify-content: space-between; font: 10.5px var(--ui); color: #9b8561; }
+  @media (max-width: 800px) { .timebar { width: calc(100% - 24px); bottom: 70px; } .legend { display: none; } }
+  .scard { margin: 12px 0; padding: 14px 16px; background: #fbf5e6; border-radius: 10px; border-left: 4px solid var(--c, #b8903f); cursor: pointer; }
+  .scard:hover { background: #fffaf0; }
+  .scard .t { font: 600 21px/1.2 var(--display); }
+  .scard .m { font: 500 11.5px var(--ui); letter-spacing: .06em; text-transform: uppercase; color: var(--c, #8a6d3b); margin-bottom: 3px; }
+  .scard .h { font: italic 17px/1.4 var(--display); color: var(--ink-2); margin-top: 4px; }
+  .story-v .m { font: 600 11.5px var(--ui); letter-spacing: .12em; text-transform: uppercase; color: var(--c); }
+  .story-v h2 { font: 600 34px/1.1 var(--display); margin: 6px 0 6px; }
+  .story-v .place { font: 13px var(--ui); color: var(--ink-2); }
+  .story-v .hook { font: italic 21px/1.45 var(--display); color: var(--ink); margin: 16px 0 12px; padding-left: 14px; border-left: 3px solid var(--c); }
+  .story-v .txt { font: 19px/1.6 var(--display); }
+  .story-v sup a { font: 600 11px var(--ui); color: var(--rose); text-decoration: none; }
+  .story-v .src { font: 12.5px/1.5 var(--ui); color: var(--ink-2); margin-top: 18px; padding-top: 12px; border-top: 1px solid #decfae; }
+  .story-v .src ol { padding-left: 18px; margin: 6px 0 0; } .story-v .src a { color: var(--rose); }
+  .story-v .ppl { margin-top: 12px; }
+  .story-v img { width: 100%; border-radius: 8px; margin: 12px 0 4px; }
+  .navrow { display: flex; justify-content: space-between; gap: 8px; margin-top: 18px; }
+  .navrow button, .backbtn { font: 500 13px var(--ui); color: var(--ink); background: #fbf5e6; border: 1px solid #d6c49c; border-radius: 999px; padding: 7px 14px; cursor: pointer; }
+  .tfil { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 8px; }
+  .tfil button { font: 500 12px var(--ui); border-radius: 999px; padding: 4px 10px; border: 1px solid #d6c49c; background: #fbf5e6; cursor: pointer; color: var(--ink); }
+  .tfil button.on { background: #3d3026; color: #f6eedb; border-color: #3d3026; }
 </style>
 </head>
 <body>
 <div id="stage"><svg id="map" role="img" aria-label="Illustrated map of Alamo Square and the surrounding neighbourhoods"></svg></div>
 <div class="legend" id="legend"></div>
+<div class="topbar"><button class="pri" id="tourBtn">Walk through time</button><button id="storiesBtn">All stories</button></div>
+<div class="timebar"><div class="row1"><span class="yr" id="yr">All years</span><span class="era" id="eraTxt">Drag back in time</span><label><input type="checkbox" id="allYears" checked> All years</label></div>
+<input type="range" id="slider" min="1850" max="2026" step="1" value="2026" aria-label="Year"><div class="ticks"><span>1850</span><span>1880</span><span>1906</span><span>1942</span><span>1960</span><span>1989</span><span>today</span></div></div>
 <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button></div>
 <aside class="drawer" id="drawer" aria-live="polite"><button class="close" id="close" aria-label="Close">✕</button><div id="dbody"></div></aside>
 
 <script src="map.js"></script>
+<script src="stories.js"></script>
 <script>
 const M = window.MAP, NS = 'http://www.w3.org/2000/svg';
 const svg = document.getElementById('map');
@@ -70,6 +111,16 @@ const ERAS = [
   { k: 'unk', label: 'Year unknown', test: () => true, cols: ['#e6dac3', '#e1d5bd'] },
 ];
 const eraOf = y => ERAS.find(e => e.test(y));
+const GLYPH = { // tiny emblems drawn inside each story pin (centre at 0,-21)
+  origins: '<path d="M0 -16 V-26 M0 -22 Q-4 -24 -5 -28 Q-1 -27 0 -23 M0 -20 Q4 -22 5 -26 Q1 -25 0 -21" fill="none" stroke="#9b7b4f" stroke-width="1.6" stroke-linecap="round"/>',
+  victorian: '<path d="M-5 -16 V-22 L0 -27 L5 -22 V-16 Z" fill="none" stroke="#b4556b" stroke-width="1.6" stroke-linejoin="round"/><rect x="-1.4" y="-20" width="2.8" height="4" fill="#b4556b"/>',
+  quake1906: '<path d="M0 -15 C-5 -18 -5 -22 -2 -26 C-2 -23 0 -22 1 -24 C4 -21 5 -18 0 -15 Z" fill="#c0602f"/>',
+  communities: '<circle cx="-3" cy="-23" r="2.2" fill="#5f7f4f"/><circle cx="3" cy="-23" r="2.2" fill="#5f7f4f"/><path d="M-6.5 -16 Q-3 -20 0 -16 Q3 -20 6.5 -16" fill="none" stroke="#5f7f4f" stroke-width="1.6"/>',
+  harlem: '<path d="M1 -27 V-18 A2.6 2.2 0 1 1 -1.4 -19.6 V-27 L5 -28.5 V-20" fill="none" stroke="#3f5f9c" stroke-width="1.6" stroke-linecap="round"/>',
+  redevelopment: '<path d="M-5 -16 H5 M-3 -16 V-26 H4 M4 -26 V-22" fill="none" stroke="#6c6f76" stroke-width="1.6" stroke-linecap="round"/>',
+  institutions: '<path d="M-5.5 -24 L0 -27.5 L5.5 -24 Z M-4 -23 V-17.5 M0 -23 V-17.5 M4 -23 V-17.5 M-5.5 -16.5 H5.5" fill="none" stroke="#8a6d3b" stroke-width="1.4" stroke-linejoin="round"/>',
+  modern: '<path d="M0 -27 L1.6 -22.6 L6 -22.4 L2.6 -19.6 L3.8 -15.4 L0 -18 L-3.8 -15.4 L-2.6 -19.6 L-6 -22.4 L-1.6 -22.6 Z" fill="#7a4f9c"/>',
+};
 function shade(hex, f) { const n = parseInt(hex.slice(1), 16); let r = n >> 16, g = n >> 8 & 255, b = n & 255; r = Math.round(r * f); g = Math.round(g * f); b = Math.round(b * f); return '#' + [r, g, b].map(v => Math.max(0, Math.min(255, v)).toString(16).padStart(2, '0')).join(''); }
 
 /* ---------- build the illustration ---------- */
@@ -94,7 +145,7 @@ function build() {
   const bs = M.buildings.map(b => { const e = eraOf(b.y), col = e.cols[hash(b.a || b.p[0].join()) % e.cols.length]; const cy = b.p.reduce((a, q) => a + q[1], 0) / b.p.length; return { ...b, e, col, cy, lift: Math.min(28, Math.max(3, b.h * k)) }; }).sort((a, b) => a.cy - b.cy);
   s += `<g stroke="#4a3b30" stroke-width=".55" stroke-linejoin="round">${bs.map(b => {
     const base = pts(b.p), roof = pts(b.p.map(([x, y]) => [x, y - b.lift]));
-    return `<polygon points="${base}" fill="${shade(b.col, .72)}"/><polygon points="${roof}" fill="${b.col}" data-e="${b.e.k}"/>`;
+    return `<polygon points="${base}" fill="${shade(b.col, .72)}" data-y="${b.y || ""}"/><polygon points="${roof}" fill="${b.col}" data-e="${b.e.k}" data-y="${b.y || ""}"/>`;
   }).join('')}</g>`;
   // trees: watercolour dabs
   const greens = ['#7fa35f', '#8fb06a', '#6f9656', '#97b873'];
@@ -113,6 +164,9 @@ function build() {
   s += `<path d="${M.aoi.map(path).join(' ')}" fill="none" stroke="#9c3b33" stroke-width="2" stroke-dasharray="10 6" opacity=".55"/>`;
   // landmarks
   s += `<g id="lms">${M.landmarks.filter(l => l.no).map(l => { const x = l.c[0] + PAD, y = l.c[1] + PAD - 10; return `<g class="lm" data-no="${l.no}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="9.5" fill="#fbf1d6" stroke="#b8903f" stroke-width="1.6"/><path d="M0 -5.2 L1.5 -1.6 L5.2 -1.4 L2.3 1 L3.2 4.6 L0 2.6 L-3.2 4.6 L-2.3 1 L-5.2 -1.4 L-1.5 -1.6 Z" fill="#9c3b33"/></g>`; }).join('')}</g>`;
+  // story pins
+  const S = (window.STORIES || { stories: [] }).stories, TH = (window.STORIES || {}).themes || {};
+  s += `<g id="pins">${S.map(st => { const col = (TH[st.theme] || {}).color || '#8a6d3b', x = st.c[0] + PAD, y = st.c[1] + PAD; return `<g class="pin" data-id="${st.id}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><g class="pi"><path d="M0 0 C-3 -6 -12 -12 -12 -21 A12 12 0 1 1 12 -21 C12 -12 3 -6 0 0 Z" fill="${col}" stroke="#fff8e8" stroke-width="2"/><circle cy="-21" r="7.5" fill="#fff8e8"/>${GLYPH[st.theme] || ''}</g></g>`; }).join('')}</g>`;
   // neighbourhood labels
   s += `<g>${M.places.map(p => { const x = p.c[0] + PAD, y = p.c[1] + PAD; return p.k === 'park'
     ? `<text x="${x}" y="${y}" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="700" font-size="30" fill="#3f5a2c" paint-order="stroke" stroke="#e6efcf" stroke-width="5" stroke-linejoin="round">${esc(p.n)}</text>`
@@ -149,7 +203,7 @@ document.getElementById('legend').addEventListener('mouseleave', () => svg.query
 
 /* ---------- pan & zoom ---------- */
 let vb = [0, 0, W, H];
-const setVB = () => svg.setAttribute('viewBox', vb.map(v => v.toFixed(1)).join(' '));
+let setVB = () => svg.setAttribute('viewBox', vb.map(v => v.toFixed(1)).join(' '));
 function fit() { const r = svg.getBoundingClientRect(), s = Math.max(W / r.width, H / r.height); const w = r.width * s, h = r.height * s; vb = [(W - w) / 2, (H - h) / 2, w, h]; setVB(); }
 function zoomAt(cx, cy, f) { const r = svg.getBoundingClientRect(), mx = vb[0] + (cx - r.left) / r.width * vb[2], my = vb[1] + (cy - r.top) / r.height * vb[3]; const nw = Math.min(W * 1.4, Math.max(180, vb[2] * f)); const g = nw / vb[2]; vb = [mx - (mx - vb[0]) * g, my - (my - vb[1]) * g, vb[2] * g, vb[3] * g]; setVB(); }
 svg.addEventListener('wheel', e => { e.preventDefault(); zoomAt(e.clientX, e.clientY, e.deltaY > 0 ? 1.12 : 1 / 1.12); }, { passive: false });
@@ -181,11 +235,64 @@ function openBlock(id) {
     <div class="bd"><div class="stat">When its buildings went up</div><div class="era-bar">${ERAS.filter(e => counts[e.k]).map(e => `<i style="flex:${counts[e.k]};background:${e.cols[0]}" title="${e.label}: ${counts[e.k]}"></i>`).join('')}</div>
     <div>${ERAS.filter(e => counts[e.k]).map(e => `<span class="chip">${e.label}: ${counts[e.k]}</span>`).join('')}</div>
     ${lms.map(l => `<div class="lmcard"><b>★ ${esc(l.name)}</b><br><span class="stat">${esc(l.addr)} · City Landmark No. ${l.no}, designated ${l.year}</span>${l.doc ? `<br><a href="${esc(l.doc)}" target="_blank" rel="noopener">Designation report ↗</a>` : ''}</div>`).join('')}
-    <div class="soon">Stories, historic photographs and the people who lived on this block are coming in the next phase.</div></div>`;
+    ${(() => { const ss = S.filter(s => s.block === id); return ss.length ? `<div class="stat" style="margin-top:18px">Stories on this block</div>${ss.map(card).join('')}` : `<div class="soon">No stories pinned to this block yet. Try a neighbouring block, or open <b>All stories</b>.</div>`; })()}</div>`;
   document.getElementById('drawer').classList.add('open');
 }
-svg.addEventListener('click', e => { if (moved) return; const lm = e.target.closest('.lm'); if (lm) { const l = M.landmarks.find(x => x.no == lm.dataset.no); const b = M.blocks.find(bb => bb.inAoi && bb.p.some(p => inside(l.c, p))); if (b) openBlock(b.id); return; } const t = e.target.closest('.blk'); if (t) openBlock(t.dataset.id); });
+svg.addEventListener('click', e => { if (moved) return; const pn = e.target.closest('.pin'); if (pn) { openStory(pn.dataset.id); return; } const lm = e.target.closest('.lm'); if (lm) { const l = M.landmarks.find(x => x.no == lm.dataset.no); const b = M.blocks.find(bb => bb.inAoi && bb.p.some(p => inside(l.c, p))); if (b) openBlock(b.id); return; } const t = e.target.closest('.blk'); if (t) openBlock(t.dataset.id); });
 document.getElementById('close').onclick = () => { document.getElementById('drawer').classList.remove('open'); svg.querySelectorAll('.blk.sel').forEach(x => x.classList.remove('sel')); };
+
+/* ---------- stories ---------- */
+const S = (window.STORIES || { stories: [] }).stories, TH = (window.STORIES || { themes: {} }).themes;
+const SBY = {}; S.forEach(s => SBY[s.id] = s);
+const col = s => (TH[s.theme] || {}).color || '#8a6d3b';
+function flyTo(c, w = 760) { const r = svg.getBoundingClientRect(), h = w * r.height / r.width, from = vb.slice(), to = [c[0] + PAD - w / 2 + (document.getElementById('drawer').classList.contains('open') && innerWidth > 800 ? w * .18 : 0), c[1] + PAD - h / 2, w, h]; const t0 = performance.now(); (function step(t) { const k = Math.min(1, (t - t0) / 700), e = k < .5 ? 2 * k * k : 1 - Math.pow(-2 * k + 2, 2) / 2; vb = from.map((v, i) => v + (to[i] - v) * e); setVB(); if (k < 1) requestAnimationFrame(step); })(t0); }
+function cite(txt, id) { return esc(txt).replace(/\[(\d+)\]/g, (m, n) => `<sup><a href="#src-${id}-${n}">[${n}]</a></sup>`); }
+function card(s) { return `<div class="scard" style="--c:${col(s)}" data-sid="${s.id}"><div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div></div>`; }
+let TOUR = null;
+function openStory(id, fromTour) {
+  const s = SBY[id], i = S.indexOf(s);
+  svg.querySelectorAll('.blk.sel').forEach(x => x.classList.remove('sel')); svg.querySelector(`.blk[data-id="${s.block}"]`)?.classList.add('sel');
+  const photo = s.photo && s.photo.url ? `<img src="${esc(s.photo.url)}" alt="${esc(s.title)}" loading="lazy"><div class="place">${esc(s.photo.credit || '')}${s.photo.license ? ' · ' + esc(s.photo.license) : ''}${s.photo.page ? ` · <a href="${esc(s.photo.page)}" target="_blank" rel="noopener">source</a>` : ''}</div>` : '';
+  document.getElementById('dbody').innerHTML = `<div class="bd story-v" style="--c:${col(s)};padding-top:26px">
+    <button class="backbtn" id="toBlock">← This block</button>
+    <div class="m" style="margin-top:16px">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div>
+    <h2>${esc(s.title)}</h2><div class="place">📍 ${esc(s.place)}</div>${photo}
+    <div class="hook">${esc(s.hook)}</div><div class="txt">${cite(s.story, s.id)}</div>
+    ${s.people.length ? `<div class="ppl">${s.people.map(p => `<span class="chip">${esc(p.name)}${p.role ? ' · ' + esc(p.role) : ''}</span>`).join('')}</div>` : ''}
+    <div class="src"><b>Sources</b><ol>${s.sources.map((r, k) => `<li id="src-${s.id}-${k + 1}">${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}${r.publisher ? ', ' + esc(r.publisher) : ''}${r.year ? ' (' + esc(r.year) + ')' : ''}</li>`).join('')}</ol></div>
+    <div class="navrow"><button id="prevS" ${i ? '' : 'disabled'}>← ${i ? esc(S[i - 1].year) : ''} Earlier</button><button id="nextS" ${i < S.length - 1 ? '' : 'disabled'}>Later ${i < S.length - 1 ? esc(S[i + 1].year) : ''} →</button></div></div>`;
+  document.getElementById('drawer').classList.add('open'); document.getElementById('drawer').scrollTop = 0;
+  document.getElementById('toBlock').onclick = () => openBlock(s.block);
+  document.getElementById('prevS').onclick = () => { const p = S[i - 1]; setYear(p.year, true); openStory(p.id); };
+  document.getElementById('nextS').onclick = () => { const n = S[i + 1]; setYear(n.year, true); openStory(n.id); };
+  svg.querySelectorAll('.pin').forEach(p => p.style.filter = p.dataset.id === id ? 'drop-shadow(0 0 6px #fff3c4)' : '');
+  flyTo(s.c);
+}
+function listStories(filter = 'all') {
+  const items = S.filter(s => filter === 'all' || s.theme === filter);
+  document.getElementById('dbody').innerHTML = `<div class="hd"><div class="k">${S.length} stories</div><h2>Stories of the neighbourhood</h2><div class="sub">From the sand hills to today, in order.</div></div>
+    <div class="bd"><div class="tfil"><button data-f="all" class="${filter === 'all' ? 'on' : ''}">All</button>${Object.entries(TH).filter(([k]) => S.some(s => s.theme === k)).map(([k, v]) => `<button data-f="${k}" class="${filter === k ? 'on' : ''}" style="border-left:4px solid ${v.color}">${esc(v.label)}</button>`).join('')}</div>${items.map(card).join('')}</div>`;
+  document.getElementById('drawer').classList.add('open'); document.getElementById('drawer').scrollTop = 0;
+  document.querySelectorAll('.tfil button').forEach(b => b.onclick = () => listStories(b.dataset.f));
+}
+document.getElementById('dbody').addEventListener('click', e => { const c = e.target.closest('.scard'); if (c) openStory(c.dataset.sid); });
+document.getElementById('storiesBtn').onclick = () => listStories();
+document.getElementById('tourBtn').onclick = () => { if (!S.length) return; setYear(S[0].year, true); openStory(S[0].id); };
+/* ---------- time slider ---------- */
+const ERA_TXT = [[1850, 'Sand hills, springs and a new survey grid'], [1870, 'The Western Addition fills with Victorians'], [1906, 'Earthquake, fire and a new downtown on Fillmore'], [1915, 'A crossroads of communities'], [1942, 'Wartime: removal and the Great Migration'], [1946, 'Harlem of the West'], [1956, 'Redevelopment and displacement'], [1966, 'Counterculture next door'], [1989, 'Loma Prieta and the freeway'], [2005, 'The neighbourhood today']];
+const slider = document.getElementById('slider'), allY = document.getElementById('allYears');
+function setYear(y, fromStory) { slider.value = y; allY.checked = false; applyYear(); }
+function applyYear() {
+  const all = allY.checked, y = +slider.value;
+  document.getElementById('yr').textContent = all ? 'All years' : y;
+  document.getElementById('eraTxt').textContent = all ? 'Drag back in time' : [...ERA_TXT].reverse().find(([a]) => y >= a)[1];
+  svg.querySelectorAll('.pin').forEach(p => { const s = SBY[p.dataset.id], end = s.yearEnd || s.year; p.classList.toggle('off', !all && s.year > y); p.classList.toggle('dim', !all && end < y - 25); });
+  if (!window._roofs) window._roofs = [...svg.querySelectorAll('polygon[data-y]')];
+  window._roofs.forEach(r => { const by = +r.dataset.y; r.style.opacity = !all && by && by !== 1900 && by > y ? .07 : ''; });
+}
+slider.addEventListener('input', () => { allY.checked = false; applyYear(); });
+allY.addEventListener('change', applyYear);
+const _setVB = setVB; setVB = () => { _setVB(); svg.style.setProperty('--ps', Math.max(.42, Math.min(1.3, vb[2] / W * 1.5)).toFixed(3)); };
 
 build(); fit();
 </script>

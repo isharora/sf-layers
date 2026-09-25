@@ -1,0 +1,892 @@
+[
+  {
+    "id": "victorian-kavanaugh-postcard-row",
+    "title": "The Builder Who Lived Next Door",
+    "year": 1892,
+    "yearEnd": 1896,
+    "place": {
+      "label": "710–720 Steiner Street (Postcard Row)",
+      "lat": 37.776216,
+      "lon": -122.432755,
+      "precision": "block"
+    },
+    "hook": "The world's most photographed row of Victorians began as one contractor's gamble: build three houses on spec, see if they sell, then finish the block.",
+    "story": "Between 1892 and 1896, the contractor Matthew Kavanaugh developed the 700 block of Steiner Street, the uphill row facing Alamo Square that the world now calls Postcard Row [1][2]. He started with his own house on the corner at Grove Street in 1892. It is the biggest of the group and breaks the pattern of the other six [1][3]. According to a 2010 article quoted by SFGATE, once Kavanaugh's own place was done he built the three matching houses at the far end on spec. When those sold for around $8,000 apiece, he finished the strip in 1896 [1]. The result, 710 to 720 Steiner, is a matching run of houses, also nicknamed the Seven Sisters, with downtown rising behind them [1][4]. They started out as a builder's speculation, not as monuments. More than a century later the Alamo Square Neighborhood Association still credits Kavanaugh as their builder, and the row still houses locals [4].",
+    "people": [
+      {
+        "name": "Matthew Kavanaugh",
+        "role": "contractor and developer of Postcard Row"
+      }
+    ],
+    "sources": [
+      {
+        "title": "One of San Francisco's iconic Painted Ladies on Alamo Square could be yours for $5.75M",
+        "publisher": "SFGATE (Anna Marie Erwert)",
+        "year": 2022,
+        "url": "https://www.sfgate.com/realestate/article/Iconic-Painted-Lady-for-sale-17009758.php",
+        "supports": "Kavanaugh built the row; own house 1892; three houses on spec sold for about $8,000 each; row finished 1896; Seven Sisters"
+      },
+      {
+        "title": "Postcard Row's Postman's Home Hits The Market (722 Steiner)",
+        "publisher": "SocketSite",
+        "year": 2010,
+        "url": "https://socketsite.com/archives/2010/02/722_steiner_postcard_rows_postmans_home_hits_the_market.html",
+        "supports": "Kavanaugh developed the 700 block of Steiner 1892–1896; his own home at Steiner and Grove"
+      },
+      {
+        "title": "Painted Ladies' Corner Cousin Is Yours For $5.75M",
+        "publisher": "The Front Steps",
+        "year": 2022,
+        "url": "https://thefrontsteps.com/2022/03/23/722-steiner-painted-ladies/",
+        "supports": "722 breaks the pattern of the other six; same developer"
+      },
+      {
+        "title": "Explore",
+        "publisher": "Alamo Square Neighborhood Association",
+        "year": 2025,
+        "url": "https://alamosquare.org/explore/",
+        "supports": "Painted Ladies at 710–720 Steiner built by Kavanaugh 1892–1896; still house locals"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Painted_Ladies%2C_from_Alamo_Square_Park%2C_San_Francisco_%28September_2018%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Painted_Ladies,_from_Alamo_Square_Park,_San_Francisco_(September_2018).jpg",
+      "credit": "Another Believer / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "year": 2018
+    }
+  },
+  {
+    "id": "victorian-722-steiner",
+    "title": "The Corner House That Nearly Fell",
+    "year": 1975,
+    "yearEnd": 2022,
+    "place": {
+      "label": "722 Steiner Street, at Grove",
+      "lat": 37.776442,
+      "lon": -122.432863,
+      "precision": "building"
+    },
+    "hook": "The oldest and largest house on Postcard Row came through the 1906 quake and was later marked for demolition. In 1975 someone bought it for $65,000.",
+    "story": "The corner house at 722 Steiner, the oldest of the Postcard Row group, was Matthew Kavanaugh's own home [1][2]. It came through the 1906 earthquake, but by the 1970s it was slated for demolition. It survived that threat too and was restored [2][3]. Michael Shannon bought it in 1975 for $65,000 [4]. By 2010 it was marketed as \"The Shannon-Kavanaugh House\", and it paid its way with movie and TV shoots, advertising, tours, weddings and parties [2]. It was listed that year at just under $4 million and then went through years of cuts, default and scheduled foreclosure auctions [3]. In 2014 it finally sold off-market for $3.1 million [1][4]. The new owners repainted it from its longtime spearmint green to a new palette [4]. When they listed it in 2022 at $5.75 million, the agents said it had also been home to José Sarria, the drag performer and activist who in 1961 became the first openly gay candidate for public office [1].",
+    "people": [
+      {
+        "name": "Matthew Kavanaugh",
+        "role": "builder and first occupant"
+      },
+      {
+        "name": "Michael Shannon",
+        "role": "owner from 1975"
+      },
+      {
+        "name": "José Sarria",
+        "role": "reported former resident (per 2022 listing agents)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "One of San Francisco's iconic Painted Ladies on Alamo Square could be yours for $5.75M",
+        "publisher": "SFGATE (Anna Marie Erwert)",
+        "year": 2022,
+        "url": "https://www.sfgate.com/realestate/article/Iconic-Painted-Lady-for-sale-17009758.php",
+        "supports": "722 built 1892, oldest and largest, Kavanaugh's home; 2014 purchase at $3.1M; listing agents' statement about José Sarria"
+      },
+      {
+        "title": "Postcard Row's Postman's Home Hits The Market (722 Steiner)",
+        "publisher": "SocketSite",
+        "year": 2010,
+        "url": "https://socketsite.com/archives/2010/02/722_steiner_postcard_rows_postmans_home_hits_the_market.html",
+        "supports": "Slated for demolition in the 1970s, restored; 'Shannon-Kavanaugh House'; income from films, TV, events"
+      },
+      {
+        "title": "Postcard Row Home Survives Another Threat, Back On The Market",
+        "publisher": "SocketSite",
+        "year": 2014,
+        "url": "https://socketsite.com/archives/2014/03/a_postcard_row_home_survives_foreclosure_returns_to_the.html",
+        "supports": "Survived 1906; listing and foreclosure history 2010–2014"
+      },
+      {
+        "title": "Painted Ladies' Corner Cousin Is Yours For $5.75M",
+        "publisher": "The Front Steps",
+        "year": 2022,
+        "url": "https://thefrontsteps.com/2022/03/23/722-steiner-painted-ladies/",
+        "supports": "Michael Shannon bought in 1975 for $65,000; sold 2014 for $3.1M; repainted from spearmint"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "victorian-westerfeld-house",
+    "title": "The Many Lives of the 'Russian Embassy'",
+    "year": 1889,
+    "yearEnd": 1986,
+    "place": {
+      "label": "1198 Fulton Street (Westerfeld House), at Scott",
+      "lat": 37.777323,
+      "lon": -122.436369,
+      "precision": "building"
+    },
+    "hook": "A candy maker's mansion that became a Russian émigré club, a home for jazz musicians, and the place where Kenneth Anger filmed an occult movie.",
+    "story": "In 1889 the German-born confectioner William Westerfeld had Henry Geilfuss build him a towered Stick-style Italian villa at Fulton and Scott [1][2]. Six years later the house passed to John Mahony of the Mahony Brothers building firm, who added a garage for his Stanley Steamer [1][2]. Mahony died in 1918, and about a decade later the house became a community centre for Russian émigrés. The ballroom turned into the Dark Eyes nightclub and the house picked up a nickname, the \"Russian Embassy\" [2][1]. After the club closed in the late 1930s, the apartments carved out of the house were rented for about two decades to African American jazz musicians [2][3]. In 1965 Charles Fracchia bought it and leased it to the filmmaker Kenneth Anger, who shot parts of \"Invocation of My Demon Brother\" there [2][4]. Anton LaVey came to the house often, and Tom Wolfe described it in 1968 as \"a great shambling old Gothic house, a freaking decayed giant\" [2][4]. Jim Siegel bought the house in 1986 and restored its Victorian interiors [4].",
+    "people": [
+      {
+        "name": "William Westerfeld",
+        "role": "confectioner, original owner"
+      },
+      {
+        "name": "Henry Geilfuss",
+        "role": "architect"
+      },
+      {
+        "name": "John Mahony",
+        "role": "builder, second owner"
+      },
+      {
+        "name": "Kenneth Anger",
+        "role": "filmmaker and tenant"
+      },
+      {
+        "name": "Jim Siegel",
+        "role": "owner and restorer from 1986"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #135: Westerfeld House",
+        "publisher": "NoeHill",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf135.asp",
+        "supports": "1889, Geilfuss, Westerfeld, Mahony, Stanley Steamer garage, Russian Club and Dark Eyes"
+      },
+      {
+        "title": "This Alamo Square Victorian holds 100 years of SF counterculture history",
+        "publisher": "SFGATE (Ana Leorne)",
+        "year": 2020,
+        "url": "https://www.sfgate.com/characters/article/This-Alamo-Square-Victorian-holds-100-years-of-SF-15651657.php",
+        "supports": "Mahony purchase; Russian émigré centre and Dark Eyes; jazz musicians; Fracchia 1965; Anger lease and filming; Tom Wolfe quote"
+      },
+      {
+        "title": "Explore",
+        "publisher": "Alamo Square Neighborhood Association",
+        "year": 2025,
+        "url": "https://alamosquare.org/explore/",
+        "supports": "Russian club in the 1930s, haven for African American jazz musicians in the 1950s"
+      },
+      {
+        "title": "'Snaggletooth' fits right into Westerfeld House's horror heritage in SF",
+        "publisher": "San Francisco Chronicle (Brandon Yu)",
+        "year": 2018,
+        "url": "https://www.sfchronicle.com/entertainment/article/Snaggletooth-fits-right-into-Westerfeld-13048440.php",
+        "supports": "Anger lived there while filming; LaVey visits; Siegel bought 1986 and restored"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "victorian-archbishops-mansion",
+    "title": "A Palace for the Archbishop",
+    "year": 1904,
+    "yearEnd": 2023,
+    "place": {
+      "label": "1000 Fulton Street (Archbishop's Mansion), at Steiner",
+      "lat": 37.777644,
+      "lon": -122.433609,
+      "precision": "building"
+    },
+    "hook": "Built for San Francisco's archbishop in 1904, the mansion on Alamo Square later housed nuns, a boys' home, a psychiatric clinic, an opera-themed inn and a startup incubator.",
+    "story": "In 1904 a Second Empire mansion went up facing the northeast corner of Alamo Square as the home of Patrick Riordan, second archbishop of San Francisco [1][2]. Architect Frank Shea gave it a mahogany staircase under a stained-glass dome, ornate fireplaces and French doors [3]. The Alamo Square Neighborhood Association calls it a symbol of the Catholic Church's prominence in the city's life at the time [2]. The house came through the 1906 earthquake and went on to host a Pope and later archbishops [3]. Over the decades it has also housed a convent, an orphanage, a psychiatric hospital, a rehab centre and a bed-and-breakfast [3]. It sold for $7 million in 2012, and in 2018 the co-living company Roam turned it into rooms for \"modern nomads\" [3]. By early 2023 it housed HF0, a live-in startup incubator, and the archbishop's house had become a tech \"hacker house\" [4].",
+    "people": [
+      {
+        "name": "Patrick William Riordan",
+        "role": "Archbishop of San Francisco, first occupant"
+      },
+      {
+        "name": "Frank Shea",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #151: Archbishop's Mansion",
+        "publisher": "NoeHill",
+        "year": 2009,
+        "url": "https://noehill.com/sf/landmarks/sf151.asp",
+        "supports": "Built 1904 for Riordan, second archbishop; Second Empire; faces Alamo Square"
+      },
+      {
+        "title": "Explore",
+        "publisher": "Alamo Square Neighborhood Association",
+        "year": 2025,
+        "url": "https://alamosquare.org/explore/",
+        "supports": "Built 1904 for Riordan; symbol of the Catholic church's prominence"
+      },
+      {
+        "title": "The Archbishop's Mansion is SF's poshest new co-living space",
+        "publisher": "7x7 Bay Area",
+        "year": 2018,
+        "url": "https://www.7x7.com/san-francisco-archbishops-mansion-open-for-coliving-2565077122.html",
+        "supports": "Frank Shea; survived 1906; archbishops, Pope Pius XII; convent, B&B, orphanage, psychiatric hospital, rehab; sold $7M 2012; Roam"
+      },
+      {
+        "title": "Inside SF's most competitive 'hacker house'",
+        "publisher": "San Francisco Standard (Liz Lindqwister)",
+        "year": 2023,
+        "url": "https://sfstandard.com/2023/01/23/inside-sfs-most-competitive-hacker-house-where-workers-eat-sleep-and-breathe-tech/",
+        "supports": "HF0 incubator in the Archbishop's Mansion, 2023"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Archbishop%27s_Mansion_%281905%29_at_1000_Fulton_Street%2C_San_Francisco.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Archbishop%27s_Mansion_(1905)_at_1000_Fulton_Street,_San_Francisco.png",
+      "credit": "Max Kirkeberg Collection, DIVA San Francisco State University, via Wikimedia Commons",
+      "license": "Public domain",
+      "year": 1905
+    }
+  },
+  {
+    "id": "victorian-clunie-house",
+    "title": "The Mansion at the Edge of the Dunes",
+    "year": 1897,
+    "yearEnd": 1992,
+    "place": {
+      "label": "301 Lyon Street (Clunie House), at Fell",
+      "lat": 37.773638,
+      "lon": -122.442783,
+      "precision": "building"
+    },
+    "hook": "When Congressman Thomas Clunie built his turreted mansion in 1897, only sand dunes lay between it and the Pacific. Seventy years later, R. Crumb painted \"Keep on Truckin'\" upstairs.",
+    "story": "Architect William Curlett designed 301 Lyon in 1897 for Thomas Jefferson Clunie, a lawyer, state senator, congressman and real estate speculator [1][2]. The house stood at what was then the western edge of the city, with nothing but dunes between it and the ocean [2]. Clunie spared no expense and even put in a telephone [1][2]. The city made it Landmark No. 128 in 1981 [3]. Curlett stacked a concrete-block base, a brick first floor and wooden upper storeys, and capped the corner bay with an open belvedere, one of only two left in San Francisco [1]. From 1945 the house changed hands quickly and served as a nursing home, a boarding house and then apartments [2]. By the 1967 Summer of Love as many as 40 \"flower children\" lived there, among them the cartoonist R. Crumb, who painted his \"Keep on Truckin'\" cartoon on a top-floor wall [2]. \"Word got around that it was a good place to crash,\" the Examiner's Walter Blum wrote in 1976 [2]. In 1973 Theta Seminars bought the house for rebirthing sessions [1]. It later became a bed-and-breakfast, and its owners told the New York Times in 1992, \"We found lots of pills in the walls\" [2].",
+    "people": [
+      {
+        "name": "Thomas Jefferson Clunie",
+        "role": "lawyer, congressman, original owner"
+      },
+      {
+        "name": "William Curlett",
+        "role": "architect"
+      },
+      {
+        "name": "R. Crumb",
+        "role": "cartoonist, 1960s resident"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #128: Thomas Jefferson Clunie House",
+        "publisher": "NoeHill",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf128.asp",
+        "supports": "Curlett, Clunie, telephone, materials, belvedere, Theta Seminars 1973"
+      },
+      {
+        "title": "Stately mansion neighboring Panhandle contains volumes of SF history",
+        "publisher": "San Francisco Examiner (Keith Menconi)",
+        "year": 2025,
+        "url": "https://www.sfexaminer.com/news/the-city/landmark-clunie-house-has-lived-at-forefront-of-sf-history/article_c62e3339-8606-45d2-9082-7050ead9c46e.html",
+        "supports": "Dunes, Clunie's offices, uses after 1945, 40 flower children, R. Crumb mural, Blum and NYT quotes"
+      },
+      {
+        "title": "Preservation Bulletin No. 9: San Francisco Designated Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2015,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 128, designated 1981"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/301_Lyon_Street%2C_exterior%2C_San_Francisco_%28March_2024%29_02.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:301_Lyon_Street,_exterior,_San_Francisco_(March_2024)_02.jpg",
+      "credit": "BriefEdits / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "year": 2024
+    }
+  },
+  {
+    "id": "victorian-hinkel-house",
+    "title": "A Row-House Builder Builds for Himself",
+    "year": 1885,
+    "yearEnd": null,
+    "place": {
+      "label": "280 Divisadero Street (Charles L. Hinkel House)",
+      "lat": 37.77182,
+      "lon": -122.436768,
+      "precision": "building"
+    },
+    "hook": "The Hinkels built rows of Italianate houses from Pacific Heights to Eureka Valley. For his own home, Charles Lewis Hinkel took a double lot and went big.",
+    "story": "The Hinkel family built houses for four generations. Charles E. Hinkel, a German immigrant, set up as a residential builder in San Francisco. His son Charles Lewis Hinkel (1847–1908) carried on the trade, and later his three sons and a grandson did too. Rows of Hinkel-built Italianates still stand from Pacific Heights through the Western Addition to Eureka Valley [1]. Hoodline reports that the Hinkel brothers bought up lots, built well-made homes and sold them to middle- and upper-class buyers, and together put up hundreds of houses [2]. In 1885 Charles Lewis built his own house at 280 Divisadero, between Haight and Page, as one of the earliest buildings on the street [1][2]. He used a 50-by-137.5-foot lot, twice the standard 25-by-100, which left room for landscaping and a carriage house. The house rises four storeys in a transitional Second Empire style, finished even on its side and rear walls [1][2]. Hard times came later: a 4-inch concrete slab was poured over the hardwood floors, but brass speaking tubes linking the carriage house, kitchen and laundry still worked [2]. The house became a city landmark in 1988 [3].",
+    "people": [
+      {
+        "name": "Charles Lewis Hinkel",
+        "role": "builder, owner"
+      },
+      {
+        "name": "Charles E. Hinkel",
+        "role": "his father, residential builder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #190: Charles L. Hinkel House and Carriage House (adapted from Planning Commission Resolution 11390)",
+        "publisher": "NoeHill",
+        "year": 2023,
+        "url": "https://noehill.com/sf/landmarks/sf190.asp",
+        "supports": "Family of builders, four generations, Hinkel rows, lot size, carriage house, Second Empire"
+      },
+      {
+        "title": "All About The Charles L. Hinkel House, A Victorian Architect's Home",
+        "publisher": "Hoodline (Nuala Sawyer)",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/10/the-charles-l-hinkel-house-a-victorian-architect-s-home/",
+        "supports": "1885, earliest on Divisadero, brothers built hundreds of houses, concrete slab, speaking tubes"
+      },
+      {
+        "title": "Preservation Bulletin No. 9: San Francisco Designated Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2015,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 190, designated 1988"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Charles_L._Hinkel_House_and_Carriage_House%2C_exterior%2C_San_Francisco_%28January_2024%29_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Charles_L._Hinkel_House_and_Carriage_House,_exterior,_San_Francisco_(January_2024)_01.jpg",
+      "credit": "BriefEdits / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "year": 2024
+    }
+  },
+  {
+    "id": "victorian-nightingale-house",
+    "title": "The Forty-Niner's Last Cottage",
+    "year": 1882,
+    "yearEnd": 2007,
+    "place": {
+      "label": "201 Buchanan Street (Nightingale House), at Waller",
+      "lat": 37.771825,
+      "lon": -122.427203,
+      "precision": "building"
+    },
+    "hook": "John Nightingale was one of the Lower Haight's chief builders. Of all he built nearby, only this spiky Gothic \"cottage\" survives, saved a century later by an artist.",
+    "story": "John Nightingale Sr. came west in the Gold Rush and made his money in real estate. He dealt in property, managed it and served as president of the Society of California Pioneers [1][2]. NoeHill, drawing on the city's 1972 case report, calls him one of the chief builders in the neighbourhood, and says the 1882 house at 201 Buchanan is all that remains of his holdings there [1]. It mixes Eastlake with Carpenter Gothic, Second Empire and Italian Villa touches [1]. Hoodline reports that Nightingale gave it as a wedding present to his daughter Florence when she married Hamilton Page, and that it stood beside his own house on Haight Street [2]. The Pages sold it a year after he died in 1912 [2]. In 1970 the artist and environmental activist Jo Hanson moved in. She cleared out squatters, planted a garden and helped save the house from likely demolition. It was made San Francisco Landmark No. 47 in 1972 [2][3]. Neighbours remembered her sweeping litter off the Buchanan Street sidewalk, and she lived in the house until her death in 2007 [2].",
+    "people": [
+      {
+        "name": "John Nightingale Sr.",
+        "role": "real estate dealer and builder"
+      },
+      {
+        "name": "Jo Hanson",
+        "role": "artist and later owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #47: Nightingale House (citing Landmarks Preservation Advisory Board case report, 1972)",
+        "publisher": "NoeHill",
+        "year": 2019,
+        "url": "https://noehill.com/sf/landmarks/sf047.asp",
+        "supports": "1882; Nightingale's roles; chief builder; only remnant of holdings; style"
+      },
+      {
+        "title": "The History Of The Lower Haight's Nightingale House",
+        "publisher": "Hoodline (Jennie Butler)",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/08/unveiling-the-mysterious-nightingale-house/",
+        "supports": "Wedding gift to Florence and Hamilton Page; sale after 1912; Jo Hanson's life in the house"
+      },
+      {
+        "title": "Preservation Bulletin No. 9: San Francisco Designated Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2015,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 47, effective 1972"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Nightingale_House_San_Francisco.jpeg",
+      "page": "https://commons.wikimedia.org/wiki/File:Nightingale_House_San_Francisco.jpeg",
+      "credit": "Tfinc / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "year": null
+    }
+  },
+  {
+    "id": "victorian-dietle-house",
+    "title": "Sold for a Bag of Gold",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "294 Page Street (Charles Dietle House), at Laguna",
+      "lat": 37.773943,
+      "lon": -122.425587,
+      "precision": "building"
+    },
+    "hook": "After the 1906 fire, a merchant who had lost his business bought this Stick-style house on Page Street. He paid with a bag of gold saved from the ruins.",
+    "story": "Henry Geilfuss, who later designed the Westerfeld House, designed and built the Stick-style house at the corner of Page and Laguna for Charles Dietle [1][2]. The city's landmark records give the date as 1885, though the same NoeHill page also heads it \"Built 1878\" [1]. The house came through the 1906 earthquake and fire. Afterwards Dietle sold it to John DeMartini, who paid with a bag of gold he had rescued from his destroyed business [1][2]. It became San Francisco Landmark No. 48 in 1972 [2][3]. In 2006 it housed a law office, and its interior was later restored [2]. When it came up for sale in 2013 at $2,995,000, SocketSite worked the price out at about 2,034 troy ounces of gold [2]. Its Stick-Eastlake details and its ballroom are still there [4].",
+    "people": [
+      {
+        "name": "Charles Dietle",
+        "role": "original owner"
+      },
+      {
+        "name": "Henry Geilfuss",
+        "role": "architect-builder"
+      },
+      {
+        "name": "John DeMartini",
+        "role": "buyer in 1906"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #48: Charles Dietle House",
+        "publisher": "NoeHill",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf048.asp",
+        "supports": "Geilfuss; built for Dietle; bag of gold sale to DeMartini 1906"
+      },
+      {
+        "title": "From A Bag Of Gold In 1906 To 2,034 Troy Ounces Today",
+        "publisher": "SocketSite",
+        "year": 2013,
+        "url": "https://socketsite.com/archives/2013/04/294_page_street_from_a_bag_of_gold_in_1906_to_2034_ounc.html",
+        "supports": "Built 1885 by Geilfuss; bag of gold; Landmark #48 in 1972; law office; 2013 price and gold equivalent"
+      },
+      {
+        "title": "Preservation Bulletin No. 9: San Francisco Designated Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2015,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 48, 294 Page Street, effective 1972"
+      },
+      {
+        "title": "Opulent Victorian a snapshot of historic San Francisco",
+        "publisher": "SFGATE",
+        "year": 2016,
+        "url": "https://www.sfgate.com/realestate/article/Opulent-Victorian-asnapshot-of-historicSan-10598668.php",
+        "supports": "Stick-Eastlake style, grand ballroom"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/294_Page_St_-_Charles_Dietle_House.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:294_Page_St_-_Charles_Dietle_House.jpg",
+      "credit": "Dreamyshade / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "year": 2017
+    }
+  },
+  {
+    "id": "victorian-green-apothecary",
+    "title": "The Toxicologist's Corner Drugstore",
+    "year": 1889,
+    "yearEnd": null,
+    "place": {
+      "label": "500–502 Divisadero Street (Theodore Green Apothecary), at Fell",
+      "lat": 37.774222,
+      "lon": -122.437364,
+      "precision": "building"
+    },
+    "hook": "Behind the owl-eyed oval windows at Divisadero and Fell, a pharmacist who later ran the coroner's poison tests counselled students and did target practice.",
+    "story": "Samuel Newsom, the Queen Anne architect best known for the Carson Mansion in Eureka, designed this corner pharmacy in 1889. It is one of the few unaltered 19th-century storefronts left in San Francisco, and it became a city landmark in 1986 [1][4]. The business opened as Theodore Green and Son, and by 1896 the son, Frank T. Green, ran it [2]. Green was born in Nevada County in 1863 and graduated from the California College of Pharmacy in 1880. He rose to professor of pharmaceutical chemistry and was dean from 1909 to 1927. Along the way he worked as a toxicologist for the San Francisco coroner's office and counted John Muir as a friend [3]. Former students remembered him breaking off a lecture to shout \"OPEN THE WINDOWS!\" [2]. A trade journal described the shop as a \"little laboratory\" where he examined precious stones or practised with his revolver [2]. Green's Pharmacy stayed in business for decades. When a Burger King tried to take the corner, neighbours fought it off, and Madrone opened in the space in 2004. The tiled \"Green's Pharmacy\" doorway is still there [2].",
+    "people": [
+      {
+        "name": "Franklin Theodore (Frank T.) Green",
+        "role": "pharmacist, dean, coroner's toxicologist"
+      },
+      {
+        "name": "Samuel Newsom",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #182: Theodore Green Apothecary",
+        "publisher": "NoeHill",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf182.asp",
+        "supports": "1889; Samuel Newsom; rare unaltered storefront"
+      },
+      {
+        "title": "Poison! Murder! Car Chase! The History Of Divisadero's Green's Pharmacy",
+        "publisher": "Hoodline",
+        "year": 2016,
+        "url": "https://hoodline.com/2016/03/poison-murder-car-chase-the-history-of-divisadero-s-green-s-pharmacy/",
+        "supports": "Theodore Green and Son; Frank T. Green by 1896; student quote; 'little laboratory'; Burger King fight; Madrone 2004; tiles"
+      },
+      {
+        "title": "Dean Franklin T. Green",
+        "publisher": "UCSF School of Pharmacy",
+        "year": null,
+        "url": "https://pharmacy.ucsf.edu/about/history/dean-franklin-green",
+        "supports": "Born 1863 Nevada County; graduated 1880; dean 1909–1927; coroner's toxicologist; owned Green's Pharmacy at Divisadero and Fell; friend of John Muir"
+      },
+      {
+        "title": "Preservation Bulletin No. 9: San Francisco Designated Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2015,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 182, 500–502 Divisadero, 1986"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Green%27s_Pharmacy%2C_July_2022_-1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Green%27s_Pharmacy,_July_2022_-1.jpg",
+      "credit": "HaeB / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "year": 2022
+    }
+  },
+  {
+    "id": "victorian-mish-house",
+    "title": "The House That Moved Around the Corner",
+    "year": 1885,
+    "yearEnd": null,
+    "place": {
+      "label": "1153 Oak Street (Sarah Mish House)",
+      "lat": 37.772746,
+      "lon": -122.438231,
+      "precision": "building"
+    },
+    "hook": "Sarah Mish's Stick-Eastlake mansion was built on Divisadero. When the street turned commercial, the whole house was moved onto Oak Street.",
+    "story": "The Stick-Eastlake house now at 1153 Oak Street was built in 1885 for the Mish family, most likely on Divisadero Street [1][2]. It didn't stay there. Hoodline dates the move to 1889, NoeHill's National Register entry to 1898, and both tie it to Divisadero's growth as a commercial street [1][2]. The move seems to have lost its mansard roof and grand entry stairs along the way [2]. The house is named for Sarah Mish, who ran a dressmaking and millinery business out of shops at 133 Kearny and 708 Market Street [1][2]. After her Polish-born husband, Phineas, died in 1895, she was left with a business and ten children [1]. After Sarah's death in 1916 her children rented the house out until 1928. It was then split into apartments, and a dance school used part of it from 1930 [1]. It became San Francisco Landmark No. 62 in 1974 and was listed on the National Register in 1979 [2][3].",
+    "people": [
+      {
+        "name": "Sarah Mish",
+        "role": "dressmaker and milliner, owner"
+      },
+      {
+        "name": "Phineas Mish",
+        "role": "her husband"
+      }
+    ],
+    "sources": [
+      {
+        "title": "All About The Mish House At 1153 Oak Street",
+        "publisher": "Hoodline (Nuala Sawyer)",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/09/the-mish-house-of-oak-street/",
+        "supports": "1885; moved 1889 from Divisadero; Sarah Mish's businesses; 10 children; later uses; NR 1979"
+      },
+      {
+        "title": "National Register #79000534: Sarah Mish House",
+        "publisher": "NoeHill",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/nat1979000534.asp",
+        "supports": "Probably built on Divisadero 1885, moved 1898; lost mansard roof and stairs; Landmark 62"
+      },
+      {
+        "title": "Preservation Bulletin No. 9: San Francisco Designated Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2015,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 62, 1153 Oak Street, 1974"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mish_House_%28San_Francisco%29.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Mish_House_(San_Francisco).JPG",
+      "credit": "Sanfranman59 / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "year": 2008
+    }
+  },
+  {
+    "id": "victorian-mcmorry-lagan",
+    "title": "A Victorian Time Capsule on Haight Street",
+    "year": 1883,
+    "yearEnd": 1983,
+    "place": {
+      "label": "188–198 Haight Street (McMorry-Lagan House), near Laguna",
+      "lat": 37.773012,
+      "lon": -122.425394,
+      "precision": "building"
+    },
+    "hook": "Working gaslights, a copper bathtub, Army blankets from 1906 in the barn: when this Haight Street complex became a landmark in 1983, its builders' family still owned it.",
+    "story": "In 1883 the Market Street Railway opened its Haight Street cable line, and building took off along the corridor. Mixed shops and homes spread along Haight, and \"rows upon rows\" of wood-frame flats and houses filled the cross streets [1]. The McMorry-Lagan complex went up in that boom. It has two single-family houses, built in 1883 and 1889, and a barn on Laguna Street [2]. What makes it remarkable is how little changed. The upstairs bedrooms still had working gaslights, and the kitchen and baths kept their original fixtures, copper bathtub included, with original carpets, wallpaper and made-to-order furniture [2]. On April 19, 1906, the Lagan family was ordered out at 2 a.m. as the fire approached. Soldiers from the Presidio slept in the barn, and the fire was stopped two blocks to the east. Blankets stamped U.S. Army were still in the barn generations later [2]. When the city made the complex Landmark No. 164 in 1983, it still belonged to the family that had built it a century before [2][3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Landmark Designation Report: Sacred Heart Parish Complex (Landmark No. 316)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2016,
+        "url": "https://web.archive.org/web/20250504175054/https://files.sfplanning.org/documents/preservation/LM316.pdf",
+        "supports": "1883 Haight Street Cable Railroad; 1880s development along Haight and cross streets"
+      },
+      {
+        "title": "San Francisco Landmark #164: McMorry-Lagan Residence (adapted from Planning Commission Resolution 9719, 1983)",
+        "publisher": "NoeHill",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf164.asp",
+        "supports": "Dates, interior details, 1906 evacuation and soldiers, blankets, family ownership in 1983"
+      },
+      {
+        "title": "Preservation Bulletin No. 9: San Francisco Designated Landmarks",
+        "publisher": "San Francisco Planning Department",
+        "year": 2015,
+        "url": "https://sfplanning.org/sites/default/files/documents/preserv/bulletins/HistPres_Bulletin_09.PDF",
+        "supports": "Landmark No. 164, 188–198 Haight Street, 1983"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/198_Haight_Street_-_McMorry-Lagen_House.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:198_Haight_Street_-_McMorry-Lagen_House.jpg",
+      "credit": "Dreamyshade / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "year": 2017
+    }
+  },
+  {
+    "id": "victorian-rainbow-house",
+    "title": "The Rainbow House on Steiner Street",
+    "year": 1968,
+    "yearEnd": null,
+    "place": {
+      "label": "908 Steiner Street, between Fulton and McAllister",
+      "lat": 37.777961,
+      "lon": -122.433003,
+      "precision": "building"
+    },
+    "hook": "A redevelopment official told Maija Peeples-Bright to paint her Victorian beige. She painted it every colour she could find instead, with a fibreglass alligator in the window.",
+    "story": "Contractor P. O. Chandler built 908 Steiner in 1888 for Niels Iverson, a Danish immigrant who had sailed round Cape Horn in 1848. SF Heritage gives the builder as R. O. Chandler [1][2]. By the 1960s the house had spent years as a St. Anthony Dining Room shelter for homeless men [1]. Then the artist Maija Peeples-Bright and her husband David Zack bought it for $17,000, with $5,000 from her father [1]. When a city redevelopment agent suggested beige, she said no. \"I liked color. I decided to paint it multiple colors,\" she recalled. She used marine enamel, and passers-by sometimes climbed the scaffold to help [1]. She added a peacock head in a gable and a 10-foot Nile alligator in an upper window [1][2]. A 1968 Chronicle story described an exterior \"painted in five different psychedelic hues\" [3]. The Saturday Evening Post and Progressive Architecture wrote it up too, and the house became a stop for tourists [1][2]. Artists of the Funk movement gathered there. A later owner called it the city's first \"Painted Lady\" [1].",
+    "people": [
+      {
+        "name": "Maija Peeples-Bright",
+        "role": "artist, owner and painter of the house"
+      },
+      {
+        "name": "David Zack",
+        "role": "art critic, co-owner"
+      },
+      {
+        "name": "Niels Iverson",
+        "role": "first owner, 1888"
+      }
+    ],
+    "sources": [
+      {
+        "title": "'Painted Lady' for sale for $1.6 million",
+        "publisher": "San Francisco Chronicle / SFGATE (Dana Perrigan)",
+        "year": 2009,
+        "url": "https://www.sfgate.com/realestate/article/Painted-Lady-for-sale-for-1-6-million-3252522.php",
+        "supports": "1888, Chandler, Iverson; shelter; purchase price and $5,000; beige suggestion and quote; marine enamel; alligator; tourists; Funk artists; 'first Painted Lady'"
+      },
+      {
+        "title": "Rainbow Victorians and the Colorist Era in San Francisco",
+        "publisher": "San Francisco Heritage (Kerri Young)",
+        "year": 2020,
+        "url": "https://sfheritage.org/features/colorfully-painted-victorians",
+        "supports": "R. O. Chandler; peacock and alligator; Saturday Evening Post, Chronicle 1968, Progressive Architecture 1969"
+      },
+      {
+        "title": "The Contagious Joy of Maija Peeples-Bright's Animal-Filled World",
+        "publisher": "KQED (Sarah Hotchkiss)",
+        "year": 2023,
+        "url": "https://www.kqed.org/arts/13934441/8-over-80-maija-peeples-bright/",
+        "supports": "Purchase of 908 Steiner; 1968 Chronicle description 'five different psychedelic hues'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "victorian-painted-ladies-book",
+    "title": "The Book That Named the Painted Ladies",
+    "year": 1978,
+    "yearEnd": null,
+    "place": {
+      "label": "Postcard Row, 710–720 Steiner Street",
+      "lat": 37.776216,
+      "lon": -122.432755,
+      "precision": "block"
+    },
+    "hook": "By the 1970s, San Francisco's Victorians were blooming into three, four and five colours. In 1978 a photographer and two writers gave the movement its name.",
+    "story": "The colour revolution started with artists. SF Heritage credits the painter Butch Kardum with trying intense blues and greens on his own Italianate house in 1963. His neighbours hated it at first, but soon his whole block had been repainted just as brightly [1]. By the 1970s colour consultants such as Bob Buckter, known as \"Dr. Color\", were leaving their business cards on newly painted houses [1]. In 1978 Dutton published an 80-page book by the photographer Morley Baer and the writers Elizabeth Pomada and Michael Larsen. They called it Painted Ladies: San Francisco's Resplendent Victorians [2]. It celebrated how \"San Francisco's Painted Ladies have enjoyed an astonishing renaissance\" and covered the Western Addition, colour choices and restoration [2]. The name stuck. It came to mean a Victorian or Edwardian house painted in three or more colours to bring out its architectural details [3]. Pomada and Larsen went on to write six books in the series [4].",
+    "people": [
+      {
+        "name": "Morley Baer",
+        "role": "photographer"
+      },
+      {
+        "name": "Elizabeth Pomada",
+        "role": "co-author"
+      },
+      {
+        "name": "Michael Larsen",
+        "role": "co-author"
+      },
+      {
+        "name": "Butch Kardum",
+        "role": "colorist pioneer"
+      },
+      {
+        "name": "Bob Buckter",
+        "role": "colour consultant"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rainbow Victorians and the Colorist Era in San Francisco",
+        "publisher": "San Francisco Heritage (Kerri Young)",
+        "year": 2020,
+        "url": "https://sfheritage.org/features/colorfully-painted-victorians",
+        "supports": "Kardum 1963; neighbours' reaction; Buckter 'Dr. Color' cards in 1970s"
+      },
+      {
+        "title": "Painted Ladies: San Francisco's Resplendent Victorians (catalogue record)",
+        "publisher": "Google Books / Dutton",
+        "year": 1978,
+        "url": "https://books.google.com/books/about/Painted_Ladies.html?id=115i0tjS98EC",
+        "supports": "Authors, publisher, year, 80 pages, description quote"
+      },
+      {
+        "title": "'Painted Lady' for sale for $1.6 million",
+        "publisher": "San Francisco Chronicle / SFGATE (Dana Perrigan)",
+        "year": 2009,
+        "url": "https://www.sfgate.com/realestate/article/Painted-Lady-for-sale-for-1-6-million-3252522.php",
+        "supports": "Definition of a Painted Lady: three or more colours to highlight architectural details"
+      },
+      {
+        "title": "About Elizabeth Pomada",
+        "publisher": "Larsen Pomada Literary Agents",
+        "year": null,
+        "url": "https://larsen-pomada.com/perspective2.html",
+        "supports": "Six books in the Painted Ladies series"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "victorian-full-house-postcard-row",
+    "title": "Everywhere You Look: Postcard Row on TV",
+    "year": 1990,
+    "yearEnd": null,
+    "place": {
+      "label": "Alamo Square Park, facing Postcard Row (Steiner and Hayes)",
+      "lat": 37.77635,
+      "lon": -122.43455,
+      "precision": "area"
+    },
+    "hook": "Millions of viewers came to believe the Tanner family lived on Postcard Row. They never did. The TV family only had a picnic on the hill across the street.",
+    "story": "Postcard Row got its nickname honestly. The houses turn up on postcards, Christmas ornaments and pens [1]. By 2010, 722 Steiner was earning part of its keep from movies, TV shows and advertising [2]. Their biggest moment came from a sitcom. From its fourth season, which began in 1990, Full House ended its opening credits with the Tanner family picnicking in Alamo Square Park, Postcard Row lined up behind them [3][4]. That led to a lasting belief that the Tanners lived in one of the Painted Ladies [3]. They didn't. The house in the show, with the red door, is 1709 Broderick Street, about a mile north [3][2]. The series creator Jeff Franklin bought that house in 2016 [1]. Postcard Row still pays for the confusion. Paste, citing The Bold Italic, reported that residents were plagued by drunk people calling for the Tanners in the middle of the night [1]. The row showed up again in the sequel, Fuller House [1].",
+    "people": [
+      {
+        "name": "Jeff Franklin",
+        "role": "creator of Full House"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Everywhere You Look: A Full House Fan Explores San Francisco Landmarks from the Show",
+        "publisher": "Paste Magazine",
+        "year": null,
+        "url": "https://www.pastemagazine.com/tv/fuller-house/everywhere-you-look-a-full-house-fan-explores-san",
+        "supports": "Painted Ladies in opening credits and Fuller House; merchandise; late-night callers; Franklin bought 1709 Broderick in 2016"
+      },
+      {
+        "title": "Postcard Row's Postman's Home Hits The Market (722 Steiner)",
+        "publisher": "SocketSite",
+        "year": 2010,
+        "url": "https://socketsite.com/archives/2010/02/722_steiner_postcard_rows_postmans_home_hits_the_market.html",
+        "supports": "Income from movies, TV, advertising; Full House facade was 1709 Broderick"
+      },
+      {
+        "title": "Full House",
+        "publisher": "LocalWiki San Francisco",
+        "year": null,
+        "url": "https://localwiki.org/sf/Full_House",
+        "supports": "From season four, picnic in Alamo Square with Postcard Row; 1709 Broderick a mile north"
+      },
+      {
+        "title": "List of Full House episodes (pointer to broadcast dates)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/List_of_Full_House_episodes",
+        "supports": "Season 4 premiered September 21, 1990"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "victorian-chateau-tivoli",
+    "title": "The Opera Impresario's Chateau",
+    "year": 1892,
+    "yearEnd": 1985,
+    "place": {
+      "label": "1057 Steiner Street (Chateau Tivoli), at Golden Gate Avenue",
+      "lat": 37.779104,
+      "lon": -122.43372,
+      "precision": "building"
+    },
+    "hook": "A lumber baron built it and an opera-house owner gave it her theatre's name. By the 1970s the towered house on Steiner rang with New Age drumming.",
+    "story": "In 1892 the architect William H. Armitage designed a towered house at Steiner and Golden Gate for the lumber baron Daniel B. Jackson [1]. Jackson also built three apartment buildings next door on Golden Gate Avenue. All four were painted alike so they read as one huge facade, and together they were known as the Seattle Block [1]. Jackson later sold the house to Ernestine Kreling, founder and owner of the Tivoli Opera House on Eddy Street, and the house still carries the Tivoli name [1]. By the 1970s the house had become a New Age centre, \"bringing drum beats and chanting to its halls\" [1]. In 1985 Rodney Karr and William Gersbach began a long restoration. They put on a new slate roof in stripe and diamond patterns, stripped many layers of paint and hung hand-printed Bradbury & Bradbury wallpaper [1]. The pair ran Chateau Tivoli and later restored the Hinkel House on Divisadero too, repainting it in \"empire colors\" such as aubergine, turquoise, mustard and teal [2].",
+    "people": [
+      {
+        "name": "Daniel B. Jackson",
+        "role": "lumber baron, original owner"
+      },
+      {
+        "name": "William H. Armitage",
+        "role": "architect"
+      },
+      {
+        "name": "Ernestine Kreling",
+        "role": "owner of the Tivoli Opera House, later owner"
+      },
+      {
+        "name": "Rodney Karr",
+        "role": "restorer"
+      },
+      {
+        "name": "William Gersbach",
+        "role": "restorer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "In San Francisco, a Victorian's Reign",
+        "publisher": "Inhabit (Corcoran)",
+        "year": null,
+        "url": "https://inhabit.corcoran.com/in-san-francisco-a-victorians-reign/",
+        "supports": "Armitage, Jackson, 1892, Seattle Block, Kreling, New Age centre, 1985 restoration details"
+      },
+      {
+        "title": "All About The Charles L. Hinkel House, A Victorian Architect's Home",
+        "publisher": "Hoodline (Nuala Sawyer)",
+        "year": 2014,
+        "url": "https://hoodline.com/2014/10/the-charles-l-hinkel-house-a-victorian-architect-s-home/",
+        "supports": "Karr and Gersbach as Chateau Tivoli proprietors; Hinkel House 'empire colors'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "victorian-alamo-square-district",
+    "title": "A Visual Reminder: Saving the Square",
+    "year": 1984,
+    "yearEnd": null,
+    "place": {
+      "label": "Alamo Square Historic District",
+      "lat": 37.7765,
+      "lon": -122.4346,
+      "precision": "area"
+    },
+    "hook": "In 1984 San Francisco drew a line around Alamo Square's Victorians and declared them, officially, as much a symbol of the city as the cable cars.",
+    "story": "By the time the Board of Supervisors acted in July 1984, the blocks around Alamo Square held a rare, largely intact run of houses built between 1870 and the 1920s [1][2]. The district runs from Golden Gate Avenue to Fell Street and from Webster Street to Divisadero [1]. Its styles vary, but the city found them unified by their \"residential character, relatively small scale, construction type, materials (principally wood), intense ornamentation (especially at entry and cornice)\" [1]. The designation called the district \"a continuum of distinguished residential architecture\" and \"a visual reminder of how businessmen lived two to four generations ago\" [2]. Most of the first owners, it noted, \"were moderately successful businessmen\" [1]. The city also made a bolder claim. It said the Westerfeld House and Postcard Row were \"as identified worldwide with San Francisco as the cable cars and Coit Tower\" [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco Historic District: Alamo Square",
+        "publisher": "NoeHill (quoting the district designation)",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf_alamo_square.asp",
+        "supports": "Boundaries, 1870–1929, July 1984, unifying characteristics quote, businessmen quote, cable cars and Coit Tower quote"
+      },
+      {
+        "title": "Alamo Square Historic District",
+        "publisher": "LocalWiki San Francisco (with scan of Article 10 Appendix E)",
+        "year": null,
+        "url": "https://localwiki.org/sf/Alamo_Square_Historic_District",
+        "supports": "Board of Supervisors 1984; 'continuum' and 'visual reminder' quotes"
+      }
+    ],
+    "photo": null
+  }
+]
