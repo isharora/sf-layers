@@ -17,7 +17,7 @@
   .vignette { position: fixed; inset: 0; pointer-events: none; background: radial-gradient(ellipse at center, transparent 55%, rgba(59,42,24,.28)); }
   .fog { position: fixed; inset: -20%; pointer-events: none; opacity: .22; background: radial-gradient(40% 25% at 20% 30%, #fff, transparent 70%), radial-gradient(35% 22% at 70% 65%, #fff, transparent 70%), radial-gradient(30% 18% at 45% 85%, #fff, transparent 70%); animation: drift 120s linear infinite; }
   @keyframes drift { from { transform: translateX(-12%); } to { transform: translateX(12%); } }
-  .cartouche { position: fixed; left: 18px; top: 16px; background: rgba(248,240,220,.96); border: 2px solid #b8903f; border-radius: 10px; padding: 12px 20px 12px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,.2); pointer-events: none; }
+  .cartouche { transition: opacity .2s; position: fixed; left: 18px; top: 16px; background: rgba(248,240,220,.96); border: 2px solid #b8903f; border-radius: 10px; padding: 12px 20px 12px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,.2); pointer-events: none; }
   .cartouche .k { font: 14px var(--caps); letter-spacing: 5px; color: #8a6d3b; }
   .cartouche h1 { margin: 2px 0 0; font: italic 700 32px/1.05 var(--display); color: var(--ink); }
   .cartouche .s { font: 15px var(--display); color: var(--ink-2); margin-top: 2px; }
@@ -106,6 +106,58 @@
   .backbar b { font: italic 600 19px var(--display); letter-spacing: .01em; }
   .backbar span { color: #d8c8a6; padding-right: 10px; }
   .quick.hide { display: none; }
+  .topbar button.on { background: #2f6fd6; color: #fff; border-color: #2f6fd6; }
+  .tcard { margin: 12px 0; padding: 14px 16px 13px; background: #fbf5e6; border-radius: 10px; border-left: 4px solid var(--c, #9c3b33); cursor: pointer; }
+  .tcard:hover { background: #fffaf0; }
+  .tcard .m { font: 600 11px var(--ui); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2); }
+  .tcard .t { font: 600 23px/1.15 var(--display); margin: 3px 0 2px; }
+  .tcard .h { font: italic 16.5px/1.4 var(--display); color: var(--ink-2); }
+  .tstops { list-style: none; padding: 0; margin: 14px 0 0; counter-reset: st; }
+  .tstops li { position: relative; padding: 9px 0 10px 40px; border-top: 1px solid #e6d8b8; cursor: pointer; }
+  .tstops li::before { counter-increment: st; content: counter(st); position: absolute; left: 0; top: 10px; width: 26px; height: 26px; border-radius: 50%; background: #3d3026; color: #fff8e8; font: 700 12px/26px var(--ui); text-align: center; }
+  .tstops li b { font: 600 18px/1.2 var(--display); display: block; } .tstops li span { font: 13px/1.45 var(--ui); color: var(--ink-2); }
+  .tstops li .leg { display: block; font: 500 11px var(--ui); color: #9b8561; margin-top: 4px; letter-spacing: .03em; }
+  .bigbtn { font: 600 14px var(--ui); border-radius: 999px; padding: 10px 18px; cursor: pointer; border: 1px solid #3d3026; background: #3d3026; color: #f6eedb; margin: 14px 8px 0 0; }
+  .bigbtn.alt { background: #fbf5e6; color: var(--ink); border-color: #c9b58a; } .bigbtn.gps { background: #2f6fd6; border-color: #2f6fd6; color: #fff; }
+  .stopnote { margin: 14px 0 4px; padding: 12px 14px; border-radius: 10px; background: #3d3026; color: #f6eedb; font: italic 18px/1.45 var(--display); }
+  .stopnote small { display: block; font: 600 10.5px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: #d8c8a6; font-style: normal; margin-bottom: 3px; }
+  .nextleg { margin-top: 16px; padding: 12px 14px; border: 1px dashed #c9b58a; border-radius: 10px; font: 13.5px/1.5 var(--ui); color: var(--ink-2); background: #fbf5e6; }
+  .nextleg b { color: var(--ink); }
+  .rowbtns { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .walkbar { position: fixed; left: 50%; transform: translateX(-50%); bottom: 20px; display: none; align-items: center; gap: 8px; background: #2f6fd6; color: #fff; border-radius: 999px; padding: 6px 6px 6px 14px; font: 600 13px var(--ui); box-shadow: 0 10px 30px rgba(0,0,0,.3); z-index: 9; white-space: nowrap; }
+  .walkbar.on { display: flex; } .walkbar i { width: 9px; height: 9px; border-radius: 50%; background: #9fe0a8; box-shadow: 0 0 0 0 rgba(159,224,168,.8); animation: ping 1.8s infinite; }
+  @keyframes ping { to { box-shadow: 0 0 0 10px rgba(159,224,168,0); } }
+  .walkbar button { font: 600 12.5px var(--ui); border: 0; border-radius: 999px; padding: 7px 12px; cursor: pointer; background: rgba(255,255,255,.18); color: #fff; }
+  .walkbar button.stop { background: #fff; color: #2f6fd6; }
+  body.walking .timebar { display: none; }
+  .arrive { position: fixed; left: 50%; bottom: 74px; transform: translate(-50%, 20px); width: min(420px, calc(100% - 24px)); background: #fbf5e6; border-radius: 14px; border-top: 5px solid var(--c, #2f6fd6); box-shadow: 0 20px 50px rgba(0,0,0,.35); padding: 13px 16px 14px; z-index: 9; opacity: 0; pointer-events: none; transition: opacity .25s, transform .25s; color: var(--ink); }
+  .arrive.on { opacity: 1; transform: translate(-50%, 0); pointer-events: auto; }
+  .arrive .k { font: 600 10.5px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: #2f6fd6; }
+  .arrive .t { font: 600 22px/1.15 var(--display); margin: 3px 0 4px; } .arrive .h { font: italic 16px/1.4 var(--display); color: var(--ink-2); }
+  .arrive .x { position: absolute; top: 8px; right: 10px; border: 0; background: none; font: 16px var(--ui); color: var(--ink-2); cursor: pointer; }
+  .toast { position: fixed; left: 50%; top: 70px; transform: translateX(-50%); background: #3d3026; color: #f6eedb; font: 13.5px/1.4 var(--ui); padding: 10px 16px; border-radius: 12px; z-index: 20; max-width: min(460px, calc(100% - 24px)); box-shadow: 0 10px 30px rgba(0,0,0,.3); opacity: 0; transition: opacity .25s; pointer-events: none; }
+  .toast.on { opacity: 1; }
+  .modal { position: fixed; inset: 0; background: rgba(35,25,15,.55); display: none; align-items: center; justify-content: center; z-index: 30; padding: 16px; }
+  .modal.on { display: flex; }
+  .modal .box { background: #f6eedb; border-radius: 16px; padding: 18px; max-width: 520px; width: 100%; max-height: 100%; overflow: auto; box-shadow: 0 30px 80px rgba(0,0,0,.4); text-align: center; position: relative; }
+  .modal img { width: 100%; max-height: 62vh; object-fit: contain; border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,.2); background: #eadcbc; }
+  .modal .rowbtns { justify-content: center; margin-top: 6px; } .modal .x { position: absolute; top: 10px; right: 12px; border: 0; background: none; font: 18px var(--ui); cursor: pointer; color: var(--ink); }
+  .modal .msg { font: 13px var(--ui); color: var(--ink-2); margin-top: 8px; min-height: 18px; }
+  @media (max-width: 860px) {
+    .cartouche, .themekey { display: none; }
+    .topbar { left: 10px; right: 10px; top: 10px; flex-wrap: wrap; justify-content: flex-start; gap: 6px; }
+    .topbar .search { flex: 1 1 100%; width: auto; }
+    .topbar button { padding: 8px 12px; font-size: 12.5px; }
+    .quick, .backbar { top: 104px; left: 10px; }
+    .results { top: 56px; left: 10px; right: 10px; width: auto; }
+    .drawer { top: auto; bottom: 0; height: 56vh; width: 100%; border-radius: 16px 16px 0 0; transform: translateY(105%); }
+    .drawer.open ~ .walkbar { bottom: calc(56vh + 10px); }
+    body.walking .quick { display: none; }
+    .drawer.open ~ .arrive { bottom: calc(56vh + 60px); }
+  }
+  @media (min-width: 861px) { body.dopen .topbar, body.dopen .results { right: 448px; } }
+  @media (min-width: 861px) and (max-width: 1640px) { body.dopen .search { width: 170px; } body.dopen #tourBtn { display: none; } }
+  @media (min-width: 861px) and (max-width: 1420px) { body.dopen .cartouche { opacity: 0; } }
   .loading { position: fixed; left: 50%; top: 50%; transform: translate(-50%,-50%); font: italic 22px var(--display); color: var(--ink); background: rgba(248,240,220,.95); padding: 14px 24px; border-radius: 12px; border: 1px solid #c9b58a; }
 </style>
 </head>
@@ -115,7 +167,7 @@
 <div class="cartouche"><div class="k">LAYERS · A MAP IN TIME</div><h1>San Francisco</h1><div class="s">Every block, every era. Zoom in to explore.</div></div>
 <nav class="quick" id="quick" aria-label="Jump to a neighbourhood"><div class="lbl">Jump to</div></nav>
 <div class="backbar" id="backbar"><button id="backBtn">← All of San Francisco</button><b id="bbName"></b><span id="bbStat"></span></div>
-<div class="topbar"><input class="search" id="search" placeholder="Search any address or story" aria-label="Search addresses, places and stories" autocomplete="off" spellcheck="false"><button id="meBtn" title="Stories near where you are">📍 Near me</button><button class="pri" id="tourBtn">Walk through time</button><button id="storiesBtn">All stories</button></div>
+<div class="topbar"><input class="search" id="search" placeholder="Search any address or story" aria-label="Search addresses, places and stories" autocomplete="off" spellcheck="false"><button id="walkBtn" title="Follow your location and get a buzz when you reach a story">📍 Walk mode</button><button class="pri" id="toursBtn">Walking tours</button><button id="tourBtn" title="Every story in order, from 1776 to today">Time travel</button><button id="storiesBtn">All stories</button></div>
 <div class="results" id="results"></div>
 <div class="legend" id="legend"></div>
 <div class="themekey" id="themekey"></div>
@@ -124,13 +176,18 @@
 <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button></div>
 <div class="peek" id="peek"></div>
 <aside class="drawer" id="drawer"><button class="close" id="close" aria-label="Close">✕</button><div id="dbody"></div></aside>
+<div class="walkbar" id="walkbar"><i></i><span id="wbTxt">Walk mode</span><button id="wbCenter" style="display:none">Recenter</button><button class="stop" id="wbStop">Stop</button></div>
+<div class="arrive" id="arrive"><button class="x" id="arrX" aria-label="Dismiss">✕</button><div id="arrBody"></div></div>
+<div class="toast" id="toast"></div>
+<div class="modal" id="shareM"><div class="box"><button class="x" id="shX" aria-label="Close">✕</button><img id="shImg" alt="Share card"><div class="rowbtns" id="shBtns"></div><div class="msg" id="shMsg"></div></div></div>
 <div class="loading" id="loading">Unrolling the map…</div>
 
 <script src="city/base.js"></script>
 <script src="city/stories.js"></script>
+<script src="city/tours.js"></script>
 <script>
 const B = window.BASE, ST = window.STORIES || { themes: {}, stories: [] };
-const cv = document.getElementById('cv'), ctx = cv.getContext('2d');
+const cv = document.getElementById('cv'); let ctx = cv.getContext('2d');
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 function hash(n) { n = (n ^ 61) ^ (n >>> 16); n = n + (n << 3); n = n ^ (n >>> 4); n = Math.imul(n, 0x27d4eb2d); return Math.abs(n ^ (n >>> 15)); }
 
@@ -286,6 +343,7 @@ function render() {
   }
   // landmarks
   if (s >= 1.2) for (const l of B.landmarks) { if (!l.no) continue; const [X, Y] = toS(l.c[0], l.c[1]); if (X < -20 || Y < -20 || X > W + 20 || Y > H + 20) continue; const r = Math.min(9, 4 + s * 3); ctx.fillStyle = '#fbf1d6'; ctx.strokeStyle = '#b8903f'; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.arc(X, Y - r, r, 0, 7); ctx.fill(); ctx.stroke(); ctx.fillStyle = '#9c3b33'; ctx.beginPath(); ctx.arc(X, Y - r, r * .35, 0, 7); ctx.fill(); }
+  if (TOUR) drawTourPath();
   drawPins();
   // neighbourhood names
   if (s < 1.6 && !FOCUS) {
@@ -311,6 +369,8 @@ let SEL = null, HOV = null, PINSCR = [];
 let OFF = new Set();            // themes hidden from the map
 let HERE = null, NEAR = null;   // searched address and the stories nearest to it
 let FOCUS = null;               // neighbourhood being explored on its own
+let TOUR = null, TOURSET = null; // walking tour in progress: { t, i } (i = -1 on the overview)
+let WALK = null;                // walk mode: live GPS position
 function pinVisible(s) { return (!YEAR || s.year <= YEAR) && !OFF.has(s.theme) && (!FOCUS || FOCUS.ids.has(s.id)); }
 function pinShape(st, X, Y, r, sel, hov, dim) {
   ctx.save(); ctx.translate(X, Y); ctx.globalAlpha = dim ? .28 : 1;
@@ -319,14 +379,16 @@ function pinShape(st, X, Y, r, sel, hov, dim) {
   ctx.fillStyle = col(st); ctx.fill(); ctx.shadowColor = 'transparent'; ctx.lineWidth = 1.6; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
   ctx.beginPath(); ctx.arc(0, -r * 1.75, r * .45, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.fill(); ctx.restore();
 }
+let CARD = null; // while drawing a share card: only this story's pin, drawn large
 function drawPins() {
+  if (CARD) { PINSCR = []; if (CARD.pin) { const [X, Y] = toS(CARD.pin.c[0], CARD.pin.c[1]); pinShape(CARD.pin, X, Y, 34, true, false, false); } if (TOUR && CARD.tour) drawTourStops(); return; }
   PINSCR = []; const s = cam.s, big = s >= .3 || !!FOCUS, R = big ? Math.min(13, 7 + s * 3.2) : 3.4;
   const pts = [];
-  for (const st of S) { if (!pinVisible(st)) continue; const [X, Y] = toS(st.c[0], st.c[1]); if (X < -30 || Y < -40 || X > W + 30 || Y > H + 30) continue; pts.push([st, X, Y]); }
+  for (const st of S) { if (!pinVisible(st) || (TOUR && TOURSET.has(st.id))) continue; const [X, Y] = toS(st.c[0], st.c[1]); if (X < -30 || Y < -40 || X > W + 30 || Y > H + 30) continue; pts.push([st, X, Y]); }
   pts.sort((p, q) => (NEAR ? (NEAR.has(p[0].id) - NEAR.has(q[0].id)) : 0) || p[2] - q[2]);
   for (const [st, X, Y] of pts) {
     const hov = st.id === HOV, sel = st.id === SEL, near = NEAR && NEAR.has(st.id);
-    const dim = (YEAR && (st.yearEnd || st.year) < YEAR - 25) || (NEAR && !near && !sel);
+    const dim = (YEAR && (st.yearEnd || st.year) < YEAR - 25) || (NEAR && !near && !sel) || !!TOUR;
     if (big || sel || near) { const r = (big ? R : 8) * (sel ? 1.35 : hov ? 1.25 : 1); pinShape(st, X, Y, r, sel, hov, dim); PINSCR.push([st, X, Y - r * 1.6, r * 1.5]); }
     else { const r = R * (hov ? 1.5 : 1); ctx.globalAlpha = dim ? .28 : 1; ctx.beginPath(); ctx.arc(X, Y, r, 0, 7); ctx.fillStyle = col(st); ctx.fill(); ctx.lineWidth = 1; ctx.strokeStyle = '#fff8e8'; ctx.stroke(); PINSCR.push([st, X, Y, 6]); }
   }
@@ -338,6 +400,12 @@ function drawPins() {
     ctx.fillStyle = '#9c3b33'; ctx.shadowColor = 'rgba(0,0,0,.35)'; ctx.shadowBlur = 6; ctx.fill(); ctx.shadowColor = 'transparent'; ctx.lineWidth = 1.6; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
     ctx.beginPath(); ctx.arc(0, 0, 3, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.fill(); ctx.restore();
   }
+  if (TOUR) drawTourStops();
+  if (WALK && WALK.pos) { // you: a blue dot with its GPS accuracy halo
+    const [X, Y] = toS(WALK.pos[0], WALK.pos[1]), ar = Math.min(120, Math.max(10, WALK.acc * cam.s));
+    ctx.beginPath(); ctx.arc(X, Y, ar, 0, 7); ctx.fillStyle = 'rgba(47,111,214,.13)'; ctx.fill(); ctx.strokeStyle = 'rgba(47,111,214,.35)'; ctx.lineWidth = 1; ctx.stroke();
+    ctx.beginPath(); ctx.arc(X, Y, 8, 0, 7); ctx.fillStyle = '#2f6fd6'; ctx.shadowColor = 'rgba(0,0,0,.35)'; ctx.shadowBlur = 5; ctx.fill(); ctx.shadowColor = 'transparent'; ctx.lineWidth = 3; ctx.strokeStyle = '#fff'; ctx.stroke();
+  }
 }
 function pinAt(X, Y) { let best = null, bd = 1e9; for (const [st, x, y, r] of PINSCR) { const d = Math.hypot(X - x, Y - y); if (d < r && d < bd) { bd = d; best = st; } } return best; }
 
@@ -348,12 +416,12 @@ const hoodOf = pt => { const hit = B.hoods.find(h => h.p && h.p.some(r => inside
 
 /* ---------- interaction ---------- */
 let anim = null;
-function flyTo(x, y, s = 2.2, dur = 900) { const from = { ...cam }, to = { x: x + (document.getElementById('drawer').classList.contains('open') && W > 860 ? 200 / s : 0), y, s }, t0 = performance.now();
+function flyTo(x, y, s = 2.2, dur = 900) { const open = document.getElementById('drawer').classList.contains('open'), from = { ...cam }, to = { x: x + (open && W > 860 ? 200 / s : 0), y: y + (open && W <= 860 ? H * .28 / s : 0), s }, t0 = performance.now();
   anim = t => { const k = Math.min(1, (t - t0) / dur), e = k < .5 ? 4 * k * k * k : 1 - Math.pow(-2 * k + 2, 3) / 2, ls = Math.log(from.s) + (Math.log(to.s) - Math.log(from.s)) * e; cam.s = Math.exp(ls); cam.x = from.x + (to.x - from.x) * e; cam.y = from.y + (to.y - from.y) * e; dirty(); if (k >= 1) anim = null; }; }
 function zoomAt(X, Y, f) { const [mx, my] = toM(X, Y); cam.s = Math.max(SMIN, Math.min(SMAX, cam.s * f)); cam.x = mx - (X - W / 2) / cam.s; cam.y = my - (Y - H / 2) / cam.s; dirty(); }
 cv.addEventListener('wheel', e => { e.preventDefault(); anim = null; hidePeek(); zoomAt(e.clientX, e.clientY, Math.exp(-e.deltaY * .0016)); }, { passive: false });
 const ptrs = new Map(); let drag = null, pinch = null, moved = false, vel = [0, 0], lastMove = 0;
-cv.addEventListener('pointerdown', e => { anim = null; hidePeek(); ptrs.set(e.pointerId, [e.clientX, e.clientY]); moved = false; if (ptrs.size === 1) drag = [e.clientX, e.clientY, cam.x, cam.y]; else if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); try { cv.setPointerCapture(e.pointerId); } catch (_) { } } });
+cv.addEventListener('pointerdown', e => { anim = null; hidePeek(); if (WALK && WALK.follow) { WALK.follow = false; document.getElementById('wbCenter').style.display = ''; } ptrs.set(e.pointerId, [e.clientX, e.clientY]); moved = false; if (ptrs.size === 1) drag = [e.clientX, e.clientY, cam.x, cam.y]; else if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); try { cv.setPointerCapture(e.pointerId); } catch (_) { } } });
 cv.addEventListener('pointermove', e => {
   if (!ptrs.has(e.pointerId)) { hover(e); return; }
   const prev = ptrs.get(e.pointerId); ptrs.set(e.pointerId, [e.clientX, e.clientY]);
@@ -366,7 +434,7 @@ cv.addEventListener('pointermove', e => {
 const up = e => { ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null; if (!ptrs.size) { if (moved && performance.now() - lastMove < 60) glide(); drag = null; cv.classList.remove('drag'); } };
 cv.addEventListener('pointerup', up); cv.addEventListener('pointercancel', up);
 function glide() { let [vx, vy] = vel; const step = () => { vx *= .92; vy *= .92; cam.x -= vx * 16 / cam.s; cam.y -= vy * 16 / cam.s; dirty(); if (Math.hypot(vx, vy) > .02 && !ptrs.size && !anim) requestAnimationFrame(step); }; requestAnimationFrame(step); }
-cv.addEventListener('click', e => { if (moved) return; const p = pinAt(e.clientX, e.clientY); if (p) return openStory(p.id); const b = blockAt(toM(e.clientX, e.clientY)); if (b && cam.s > .25) openBlock(b); else if (cam.s <= .25) flyTo(...toM(e.clientX, e.clientY), Math.max(cam.s * 3, .6)); });
+cv.addEventListener('click', e => { if (moved) return; const p = pinAt(e.clientX, e.clientY); if (p && TOUR && TOURSET.has(p.id)) return showStop(TOUR.t.stops.findIndex(x => x.id === p.id)); if (p) return openStory(p.id); const b = blockAt(toM(e.clientX, e.clientY)); if (b && cam.s > .25) openBlock(b); else if (cam.s <= .25) flyTo(...toM(e.clientX, e.clientY), Math.max(cam.s * 3, .6)); });
 document.getElementById('zin').onclick = () => zoomAt(W / 2, H / 2, 1.6);
 document.getElementById('zout').onclick = () => zoomAt(W / 2, H / 2, 1 / 1.6);
 addEventListener('resize', resize);
@@ -388,23 +456,29 @@ const drawer = document.getElementById('drawer'), dbody = document.getElementByI
 function cite(txt, id) { return esc(txt).replace(/\[(\d+)\]/g, (m, n) => `<sup><a href="#src-${id}-${n}">[${n}]</a></sup>`); }
 function card(s) { return `<div class="scard" style="--c:${col(s)}" data-sid="${s.id}"><div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}${s.hood ? ' · ' + esc(s.hood) : ''}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div></div>`; }
 let CUR = S;
-function openStory(id, cinematic) {
-  const s = SBY[id], list = CUR.includes(s) ? CUR : S, i = list.indexOf(s); SEL = id; hidePeek(); dirty();
+function storyBody(s) {
   const photo = s.photo && s.photo.url ? `<img src="${esc(s.photo.url)}" alt="${esc(s.title)}" loading="lazy"><div class="place">${esc(s.photo.credit || '')}${s.photo.license ? ' · ' + esc(s.photo.license) : ''}${s.photo.page ? ` · <a href="${esc(s.photo.page)}" target="_blank" rel="noopener">source</a>` : ''}</div>` : '';
-  dbody.innerHTML = `<div class="bd story-v" style="--c:${col(s)};padding-top:26px"><button class="backbtn" id="toList">← Stories</button>
-    <div class="m" style="margin-top:16px">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div>
+  return `<div class="m" style="margin-top:16px">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div>
     <h2>${esc(s.title)}</h2><div class="place">📍 ${esc(s.place)}${s.hood ? ' · ' + esc(s.hood) : ''}</div>${photo}
     <div class="hook">${esc(s.hook)}</div><div class="txt">${cite(s.story, s.id)}</div>
     ${s.people && s.people.length ? `<div style="margin-top:12px">${s.people.map(p => `<span class="chip">${esc(p.name)}${p.role ? ' · ' + esc(p.role) : ''}</span>`).join('')}</div>` : ''}
-    <div class="src"><b>Sources</b><ol>${(s.sources || []).map((r, k) => `<li id="src-${s.id}-${k + 1}">${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}${r.publisher ? ', ' + esc(r.publisher) : ''}${r.year ? ' (' + esc(r.year) + ')' : ''}</li>`).join('')}</ol></div>
+    <div class="src"><b>Sources</b><ol>${(s.sources || []).map((r, k) => `<li id="src-${s.id}-${k + 1}">${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}${r.publisher ? ', ' + esc(r.publisher) : ''}${r.year ? ' (' + esc(r.year) + ')' : ''}</li>`).join('')}</ol></div>`;
+}
+function openStory(id, cinematic) {
+  if (TOUR && TOURSET.has(id)) return showStop(TOUR.t.stops.findIndex(x => x.id === id));
+  const s = SBY[id], list = CUR.includes(s) ? CUR : S, i = list.indexOf(s); SEL = id; hidePeek(); dirty();
+  dbody.innerHTML = `<div class="bd story-v" style="--c:${col(s)};padding-top:26px"><div class="rowbtns"><button class="backbtn" id="toList">← Stories</button><button class="backbtn" id="shareS">Share ↗</button></div>
+    ${storyBody(s)}
     <div class="navrow"><button id="prevS" ${i > 0 ? '' : 'disabled'}>← Earlier</button><button id="nextS" ${i < list.length - 1 ? '' : 'disabled'}>Later →</button></div></div>`;
   drawer.classList.add('open'); drawer.scrollTop = 0;
   document.getElementById('toList').onclick = () => listStories();
+  document.getElementById('shareS').onclick = () => shareStory(s);
   document.getElementById('prevS').onclick = () => { const p = list[i - 1]; setYear(p.year); openStory(p.id, true); };
   document.getElementById('nextS').onclick = () => { const n = list[i + 1]; setYear(n.year); openStory(n.id, true); };
   const [X, Y] = toS(s.c[0], s.c[1]);
+  if (WALK && WALK.follow) return;
   if (cinematic || cam.s < .6) flyTo(s.c[0], s.c[1], Math.max(cam.s, 1.9));
-  else if (X > W - (W > 860 ? 470 : 20) || X < 40 || Y < 80 || Y > H - 140) flyTo(s.c[0], s.c[1], cam.s, 500);
+  else if (X > W - (W > 860 ? 470 : 20) || X < 40 || Y < 80 || Y > H - 140 || (W <= 860 && Y > H * .42)) flyTo(s.c[0], s.c[1], cam.s, 500);
 }
 let FILTER = { theme: 'all', hood: 'all' };
 function listStories() {
@@ -431,7 +505,7 @@ function openBlock(b) {
     ${ss.length ? `<div class="stat" style="margin-top:18px">Stories on this block</div>${ss.map(card).join('')}` : `<div class="soon">No stories pinned to this block yet. Nearby pins may tell its neighbourhood's story.</div>`}</div>`;
   drawer.classList.add('open'); drawer.scrollTop = 0;
 }
-document.getElementById('close').onclick = () => { drawer.classList.remove('open'); SEL = null; HERE = null; NEAR = null; dirty(); };
+document.getElementById('close').onclick = () => { drawer.classList.remove('open'); SEL = null; NEARVIEW = null; if (!WALK) { HERE = null; NEAR = null; } dirty(); };
 document.getElementById('storiesBtn').onclick = () => { FILTER = { theme: 'all', hood: FOCUS ? FOCUS.n : 'all' }; listStories(); };
 document.getElementById('tourBtn').onclick = () => { CUR = S; setYear(S[0].year); openStory(S[0].id, true); };
 
@@ -459,6 +533,7 @@ function enterHood(name, fromHash) {
   FILTER = { theme: 'all', hood: h.n }; listStories();
   const n = h.ids.size, [x0, y0, x1, y1] = hoodBox(h);
   document.getElementById('bbName').textContent = h.n; document.getElementById('bbStat').textContent = `${n} stories`;
+  if (TOUR) endTourState(); document.getElementById('backBtn').textContent = '← All of San Francisco';
   backbar.classList.add('on'); quick.classList.add('hide');
   quick.querySelectorAll('button[data-h]').forEach(b => b.classList.toggle('on', b.dataset.h === h.n));
   const room = [W - (W > 860 ? 470 : 0), H - 170], sc = Math.min(room[0] / (x1 - x0), room[1] / (y1 - y0)) * .9;
@@ -475,9 +550,9 @@ function exitHood(fromHash) {
   if (!fromHash) history.pushState(null, '', location.pathname + location.search);
   dirty();
 }
-document.getElementById('backBtn').onclick = () => exitHood();
-addEventListener('keydown', e => { if (e.key === 'Escape' && FOCUS && document.activeElement !== sIn) exitHood(); });
-addEventListener('popstate', () => { const m = location.hash.match(/hood=([\w-]+)/), h = m && [...B.hoods, ...AREAS].find(x => x.slug === m[1]); h ? enterHood(h.n, true) : exitHood(true); });
+document.getElementById('backBtn').onclick = () => TOUR ? exitTour() : exitHood();
+addEventListener('keydown', e => { if (e.key !== 'Escape' || document.activeElement === sIn) return; if (document.getElementById('shareM').classList.contains('on')) return closeShare(); if (TOUR) exitTour(); else if (FOCUS) exitHood(); });
+addEventListener('popstate', () => { const tm = location.hash.match(/tour=([\w-]+)(?:&stop=(\d+))?/); if (tm) return startTour(tm[1], tm[2] ? +tm[2] - 1 : -1, true); if (TOUR) exitTour(true); const m = location.hash.match(/hood=([\w-]+)/), h = m && [...B.hoods, ...AREAS].find(x => x.slug === m[1]); h ? enterHood(h.n, true) : exitHood(true); });
 
 /* ---------- addresses (every SF address, loaded on first use) ---------- */
 let ADDR = null, ADDR_P = null;
@@ -549,7 +624,7 @@ sRes.addEventListener('click', e => { const d = e.target.closest('[data-i]'); if
 document.addEventListener('click', e => { if (!e.target.closest('.results, .search')) sRes.classList.remove('on'); });
 
 /* ---------- stories near a point ---------- */
-function openNear(label, x, y) {
+function openNear(label, x, y, noFly) {
   if (FOCUS && !FOCUS.p.some(r => inside([x, y], r))) { FOCUS = null; backbar.classList.remove('on'); quick.classList.remove('hide'); FILTER.hood = 'all'; quick.querySelectorAll('button.on').forEach(b => b.classList.remove('on')); history.pushState(null, '', location.pathname); }
   const all = S.map(s => [s, Math.hypot(s.c[0] - x, s.c[1] - y)]).sort((a, b) => a[1] - b[1]);
   const near = all.filter(v => !OFF.has(v[0].theme)).slice(0, 12);
@@ -561,19 +636,223 @@ function openNear(label, x, y) {
     <div class="sub">The ${near.length} closest stories${OFF.size ? ' in the themes you’ve chosen' : ''}</div></div>
     <div class="bd">${b ? `<div class="stat">This block: ${b.n} parcels${b.old ? `, oldest dated building ${b.old}` : ''}</div><div class="era-bar">${era.map(e => `<i style="flex:${b.cnt[e.k]};background:${e.cols[0]}" title="${e.label}: ${b.cnt[e.k]}"></i>`).join('')}</div>` : ''}
     ${near.map(([s, d]) => card(s).replace('<div class="m">', `<div class="m"><span class="near-d">${dist(d)}</span>`)).join('')}</div>`;
-  drawer.classList.add('open'); drawer.scrollTop = 0;
+  drawer.classList.add('open'); if (!noFly) drawer.scrollTop = 0;
+  NEARVIEW = label; if (noFly) return;
   // frame the address with its nearest handful of stories
   const r = Math.max(120, near[Math.min(5, near.length - 1)][1]), room = Math.min(W - (W > 860 ? 470 : 0), H - 160) / 2;
   flyTo(x, y, Math.max(.6, Math.min(3.2, room * .85 / r)), 1000);
 }
-document.getElementById('meBtn').onclick = () => {
-  if (!navigator.geolocation) return alert('Your browser can’t share your location.');
-  navigator.geolocation.getCurrentPosition(p => {
-    const x = (p.coords.longitude - B.origin[0]) * Math.cos(B.origin[1] * Math.PI / 180) * 111320, y = -(p.coords.latitude - B.origin[1]) * 110540;
-    const [x0, y0, x1, y1] = B.bounds; if (x < x0 || x > x1 || y < y0 || y > y1) return alert('You seem to be outside San Francisco. Try searching an address instead.');
-    openNear('you', x, y);
-  }, () => alert('Couldn’t get your location. Try searching an address instead.'), { enableHighAccuracy: true, timeout: 10000 });
-};
+let NEARVIEW = null;
+
+new MutationObserver(() => document.body.classList.toggle('dopen', drawer.classList.contains('open'))).observe(drawer, { attributes: true, attributeFilter: ['class'] });
+
+/* ---------- walking tours ---------- */
+const TOURS = window.TOURS || [];
+const tourStops = t => t.stops.map(x => SBY[x.id]);
+const fmtDist = m => m < 1000 ? `${Math.round(m / 10) * 10} m` : `${(m / 1000).toFixed(1)} km`;
+const fmtMin = m => { const n = Math.max(1, Math.round(m / 80)); return n < 60 ? `${n} min` : `${Math.floor(n / 60)} h ${n % 60} min`; };
+const tourCol = t => { const n = {}; tourStops(t).forEach(st => n[st.theme] = (n[st.theme] || 0) + 1); return (TH[Object.entries(n).sort((a, b) => b[1] - a[1])[0][0]] || {}).color || '#9c3b33'; };
+function tourLine(pts) { const s = cam.s; ctx.beginPath(); pts.forEach(([x, y], k) => { const X = (x - cam.x) * s + W / 2, Y = (y - cam.y) * s + H / 2; k ? ctx.lineTo(X, Y) : ctx.moveTo(X, Y); }); }
+function drawTourPath() {
+  ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+  TOUR.t.legs.forEach((l, k) => { const cur = k === TOUR.i;
+    const u = CARD ? 2 : 1;
+    tourLine(l.p); ctx.lineWidth = (cur ? 10 : 7.5) * u; ctx.strokeStyle = 'rgba(255,250,236,.95)'; ctx.stroke();
+    tourLine(l.p); ctx.lineWidth = (cur ? 4.5 : 3.4) * u; ctx.strokeStyle = cur || CARD ? '#9c3b33' : '#5a4632'; ctx.setLineDash(cur || CARD ? [] : [1, 7]); ctx.stroke(); ctx.setLineDash([]); });
+}
+function drawTourStops() {
+  tourStops(TOUR.t).forEach((st, k) => { const [X, Y] = toS(st.c[0], st.c[1]); if (X < -30 || Y < -30 || X > W + 30 || Y > H + 30) return;
+    const cur = k === TOUR.i, done = TOUR.i > k, r = (cur ? 15 : 12) * (CARD ? 1.9 : 1);
+    ctx.beginPath(); ctx.arc(X, Y, r + 3, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.shadowColor = 'rgba(0,0,0,.3)'; ctx.shadowBlur = 6; ctx.fill(); ctx.shadowColor = 'transparent';
+    ctx.beginPath(); ctx.arc(X, Y, r, 0, 7); ctx.fillStyle = cur ? '#9c3b33' : done ? '#9a8a74' : '#3d3026'; ctx.fill();
+    ctx.fillStyle = '#fff8e8'; ctx.font = `700 ${Math.round(r * .95)}px Inter, system-ui, sans-serif`; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText(k + 1, X, Y + .5);
+    PINSCR.push([st, X, Y, r + 5]); });
+}
+function listTours() {
+  dbody.innerHTML = `<div class="hd"><div class="k">${TOURS.length} walks · real routes on real streets</div><h2>Walking tours</h2><div class="sub">Follow the path stop by stop. Turn on walk mode and your phone buzzes as you arrive.</div></div>
+    <div class="bd">${TOURS.map(t => `<div class="tcard" style="--c:${tourCol(t)}" data-tid="${t.id}"><div class="m">${esc(t.hood)} · ${t.stops.length} stops · ${fmtDist(t.m)} · ${fmtMin(t.m)} walking</div><div class="t">${esc(t.title)}</div><div class="h">${esc(t.tagline)}</div></div>`).join('')}</div>`;
+  drawer.classList.add('open'); drawer.scrollTop = 0;
+  dbody.querySelectorAll('.tcard').forEach(c => c.onclick = () => startTour(c.dataset.tid));
+}
+function tourBox(t) { let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9; t.legs.forEach(l => l.p.forEach(([x, y]) => { x0 = Math.min(x0, x); y0 = Math.min(y0, y); x1 = Math.max(x1, x); y1 = Math.max(y1, y); })); return [x0, y0, x1, y1]; }
+const LEFT = () => W > 860 ? 250 : 0; // theme key + legend column on desktop
+function flyFit(bx, max, dur) { const sc = fitBox(bx, max); flyTo((bx[0] + bx[2]) / 2 - LEFT() / 2 / sc, (bx[1] + bx[3]) / 2, sc, dur); }
+function fitBox([x0, y0, x1, y1], max = 2.4) { const open = drawer.classList.contains('open'), rw = W - LEFT() - (open && W > 860 ? 470 : 0), rh = (open && W <= 860 ? H * .44 : H) - 150; return Math.min(max, Math.min(rw / Math.max(60, x1 - x0), rh / Math.max(60, y1 - y0)) * .85); }
+function endTourState() { TOUR = null; TOURSET = null; }
+function startTour(id, i = -1, fromHash) {
+  const t = TOURS.find(x => x.id === id); if (!t) return;
+  if (FOCUS) { FOCUS = null; FILTER.hood = 'all'; quick.querySelectorAll('button.on').forEach(b => b.classList.remove('on')); }
+  TOUR = { t, i: -1 }; TOURSET = new Set(t.stops.map(x => x.id)); HERE = null; NEAR = null; SEL = null; CUR = tourStops(t);
+  document.getElementById('backBtn').textContent = '← Exit tour';
+  document.getElementById('bbName').textContent = t.title; document.getElementById('bbStat').textContent = `${t.stops.length} stops · ${fmtDist(t.m)}`;
+  backbar.classList.add('on'); quick.classList.add('hide');
+  if (i >= 0) showStop(i, fromHash); else tourOverview(fromHash);
+}
+function tourOverview(fromHash) {
+  const t = TOUR.t, st = tourStops(t); TOUR.i = -1; SEL = null;
+  dbody.innerHTML = `<div class="hd" style="--c:${tourCol(t)}"><div class="k">Walking tour · ${esc(t.hood)}</div><h2>${esc(t.title)}</h2><div class="sub">${esc(t.tagline)}</div></div>
+    <div class="bd"><div class="stat">${t.stops.length} stops · ${fmtDist(t.m)} · about ${fmtMin(t.m)} of walking, plus time to read</div>
+    <p style="margin:10px 0 0">${esc(t.intro)}</p>
+    <div class="rowbtns"><button class="bigbtn" id="tStart">Start at stop 1 →</button><button class="bigbtn gps" id="tGps">📍 Walk it with GPS</button><button class="bigbtn alt" id="tShare">Share ↗</button></div>
+    <ol class="tstops">${t.stops.map((x, k) => `<li data-k="${k}"><b>${esc(st[k].title)}</b><span>${esc(x.note)}</span>${t.legs[k] ? `<em class="leg">↓ ${fmtDist(t.legs[k].m)} · ${fmtMin(t.legs[k].m)}${t.legs[k].via.length ? ' · via ' + esc(t.legs[k].via.join(', ')) : ''}</em>` : ''}</li>`).join('')}</ol></div>`;
+  drawer.classList.add('open'); drawer.scrollTop = 0;
+  document.getElementById('tStart').onclick = () => showStop(0);
+  document.getElementById('tGps').onclick = () => { startWalk(); showStop(0); };
+  document.getElementById('tShare').onclick = () => shareTour(t);
+  dbody.querySelectorAll('.tstops li').forEach(li => li.onclick = () => showStop(+li.dataset.k));
+  if (!fromHash) history.pushState(null, '', '#tour=' + t.id);
+  flyFit(tourBox(t), 1.6, 1100); dirty();
+}
+function showStop(k, fromHash) {
+  const t = TOUR.t, st = tourStops(t), s = st[k], leg = t.legs[k], n = t.stops.length; TOUR.i = k; SEL = s.id; hidePeek();
+  dbody.innerHTML = `<div class="bd story-v" style="--c:${col(s)};padding-top:26px"><div class="rowbtns"><button class="backbtn" id="tOver">← ${esc(t.title)}</button><button class="backbtn" id="shareS">Share ↗</button></div>
+    <div class="stopnote"><small>Stop ${k + 1} of ${n}</small>${esc(t.stops[k].note)}</div>
+    ${storyBody(s)}
+    ${leg ? `<div class="nextleg">Next: <b>${esc(st[k + 1].title)}</b><br>${fmtDist(leg.m)} · ${fmtMin(leg.m)} walk ${leg.via.length ? 'via ' + esc(leg.via.join(', ')) : 'heading ' + leg.dir}. Follow the red line.</div>` : `<div class="nextleg"><b>That’s the end of the walk.</b> ${n} stops and ${fmtDist(t.m)} through ${esc(t.hood)}.</div>`}
+    <div class="navrow"><button id="prevS" ${k > 0 ? '' : 'disabled'}>← Stop ${k}</button><button id="nextS">${leg ? `Stop ${k + 2} →` : 'Back to the tour'}</button></div></div>`;
+  drawer.classList.add('open'); drawer.scrollTop = 0;
+  document.getElementById('tOver').onclick = () => tourOverview();
+  document.getElementById('shareS').onclick = () => shareStory(s);
+  document.getElementById('prevS').onclick = () => showStop(k - 1);
+  document.getElementById('nextS').onclick = () => leg ? showStop(k + 1) : tourOverview();
+  if (!fromHash) history.replaceState(null, '', `#tour=${t.id}&stop=${k + 1}`);
+  if (!(WALK && WALK.follow)) { // frame this stop and the way to the next one
+    const pts = leg ? leg.p : [s.c], bx = [Math.min(...pts.map(p => p[0]), s.c[0]), Math.min(...pts.map(p => p[1]), s.c[1]), Math.max(...pts.map(p => p[0]), s.c[0]), Math.max(...pts.map(p => p[1]), s.c[1])];
+    const sc = Math.max(.9, fitBox(bx, 2.6)); flyTo((bx[0] + bx[2]) / 2 - LEFT() / 2 / sc, (bx[1] + bx[3]) / 2, sc, 900);
+  }
+  dirty();
+}
+function exitTour(fromHash) {
+  if (!TOUR) return; endTourState(); SEL = null;
+  backbar.classList.remove('on'); quick.classList.remove('hide'); document.getElementById('backBtn').textContent = '← All of San Francisco';
+  if (!fromHash) history.pushState(null, '', location.pathname + location.search);
+  listTours(); dirty();
+}
+document.getElementById('toursBtn').onclick = () => { if (TOUR) tourOverview(); else listTours(); };
+
+/* ---------- walk mode: follow GPS, buzz on arrival ---------- */
+const walkbar = document.getElementById('walkbar'), arrive = document.getElementById('arrive'), toastEl = document.getElementById('toast');
+let toastT = null, arriveT = null;
+function toast(msg, ms = 4200) { toastEl.textContent = msg; toastEl.classList.add('on'); clearTimeout(toastT); toastT = setTimeout(() => toastEl.classList.remove('on'), ms); }
+function startWalk() {
+  if (WALK) return;
+  if (!navigator.geolocation) return toast('This browser can’t share your location.');
+  WALK = { follow: true, seen: new Set(), pos: null, acc: 30, lastList: null };
+  WALK.id = navigator.geolocation.watchPosition(p => walkAt(...LL(p.coords.longitude, p.coords.latitude), p.coords.accuracy),
+    err => { if (err.code === 1) { toast('Location is turned off for this site. Allow it in your browser settings to use walk mode.', 6000); stopWalk(); } else toast('Still looking for your location…'); },
+    { enableHighAccuracy: true, maximumAge: 3000, timeout: 30000 });
+  document.body.classList.add('walking'); walkbar.classList.add('on'); document.getElementById('walkBtn').classList.add('on');
+  document.getElementById('wbTxt').textContent = 'Finding you…'; document.getElementById('wbCenter').style.display = 'none';
+  keepAwake(); dirty();
+}
+function stopWalk() {
+  if (!WALK) return; if (WALK.id != null) navigator.geolocation.clearWatch(WALK.id); if (WALK.lock) WALK.lock.release().catch(() => {});
+  WALK = null; document.body.classList.remove('walking'); walkbar.classList.remove('on'); document.getElementById('walkBtn').classList.remove('on'); hideArrive(); dirty();
+}
+async function keepAwake() { try { if (WALK && navigator.wakeLock) WALK.lock = await navigator.wakeLock.request('screen'); } catch (_) { } }
+document.addEventListener('visibilitychange', () => { if (WALK && document.visibilityState === 'visible') keepAwake(); });
+function walkAt(x, y, acc = 20) {
+  if (!WALK) return;
+  const first = !WALK.pos, [x0, y0, x1, y1] = B.bounds;
+  if (x < x0 - 300 || x > x1 + 300 || y < y0 - 300 || y > y1 + 300) { toast('Walk mode works in San Francisco, and you seem to be somewhere else. Try a walking tour on the map instead.', 6500); stopWalk(); return; }
+  WALK.pos = [x, y]; WALK.acc = acc; document.getElementById('wbTxt').textContent = TOUR ? 'Walking the tour' : 'Walk mode';
+  if (WALK.follow) flyTo(x, y, first ? Math.max(cam.s, 2.2) : cam.s, first ? 900 : 700);
+  if (!TOUR && (first || (NEARVIEW === 'you' && drawer.classList.contains('open') && Math.hypot(x - WALK.lastList[0], y - WALK.lastList[1]) > 60))) { openNear('you', x, y, true); WALK.lastList = [x, y]; }
+  checkArrivals(x, y); dirty();
+}
+function checkArrivals(x, y) {
+  const R = 45;
+  if (TOUR) {
+    const st = tourStops(TOUR.t), from = Math.max(0, TOUR.i);
+    for (const k of [from, from + 1]) { const s = st[k]; if (!s || WALK.seen.has(s.id)) continue;
+      if (Math.hypot(s.c[0] - x, s.c[1] - y) < R) { WALK.seen.add(s.id); buzz(); if (TOUR.i !== k) showStop(k); showArrive(s, `You’ve reached stop ${k + 1} of ${st.length}`); return; } }
+    return;
+  }
+  let best = null, bd = R;
+  for (const s of S) { if (!pinVisible(s) || WALK.seen.has(s.id)) continue; const d = Math.hypot(s.c[0] - x, s.c[1] - y); if (d < bd) { bd = d; best = s; } }
+  if (best) { WALK.seen.add(best.id); buzz(); showArrive(best, 'You’re standing where…'); }
+}
+function buzz() { try { if (navigator.vibrate) navigator.vibrate([90, 60, 90]); } catch (_) { } }
+function showArrive(s, kicker) {
+  arrive.style.setProperty('--c', col(s));
+  document.getElementById('arrBody').innerHTML = `<div class="k">${esc(kicker)}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div><div class="rowbtns"><button class="bigbtn" id="arrRead" style="margin-top:10px">Read the story</button></div>`;
+  arrive.classList.add('on'); clearTimeout(arriveT); arriveT = setTimeout(hideArrive, 30000);
+  document.getElementById('arrRead').onclick = () => { hideArrive(); openStory(s.id); };
+}
+function hideArrive() { arrive.classList.remove('on'); }
+document.getElementById('arrX').onclick = hideArrive;
+document.getElementById('walkBtn').onclick = () => WALK ? stopWalk() : startWalk();
+document.getElementById('wbStop').onclick = stopWalk;
+document.getElementById('wbCenter').onclick = () => { if (!WALK) return; WALK.follow = true; document.getElementById('wbCenter').style.display = 'none'; if (WALK.pos) flyTo(WALK.pos[0], WALK.pos[1], Math.max(cam.s, 1.8), 600); };
+
+/* ---------- share cards: a map snapshot + the story, as an image and a link ---------- */
+async function snapshot(x, y, s, w, h) {
+  const save = { ctx, W, H, DPR, x: cam.x, y: cam.y, s: cam.s, HOV };
+  const swap = () => { cam.x = x; cam.y = y; cam.s = s; W = w; H = h; DPR = 1; HOV = null; };
+  const back = () => { ctx = save.ctx; W = save.W; H = save.H; DPR = save.DPR; cam.x = save.x; cam.y = save.y; cam.s = save.s; HOV = save.HOV; dirty(); };
+  swap(); const need = s >= BLD_Z * .8 ? visibleTiles(0) : []; back();
+  await Promise.all(need.filter(([, , k]) => !TILES.has(k)).map(([i, j, k]) => fetch(`city/tiles/${k}.json`).then(r => r.json()).then(raw => TILES.set(k, decodeTile(raw, i, j))).catch(() => { })));
+  const off = document.createElement('canvas'); off.width = w; off.height = h;
+  const a = anim; anim = null; swap(); ctx = off.getContext('2d');
+  try { render(); } finally { back(); anim = a; }
+  return off;
+}
+function wrap(g, text, maxW, maxLines) {
+  const words = text.split(/\s+/), lines = []; let cur = '';
+  for (const w of words) { const t = cur ? cur + ' ' + w : w; if (g.measureText(t).width > maxW && cur) { lines.push(cur); cur = w; } else cur = t; }
+  if (cur) lines.push(cur);
+  if (lines.length > maxLines) { lines.length = maxLines; let l = lines[maxLines - 1]; while (g.measureText(l + '…').width > maxW && l.includes(' ')) l = l.slice(0, l.lastIndexOf(' ')); lines[maxLines - 1] = l.replace(/[,;:.]$/, '') + '…'; }
+  return lines;
+}
+async function makeCard({ kicker, color, title, sub, place, view }) {
+  await Promise.all(['600 74px "Cormorant Garamond"', 'italic 500 42px "Cormorant Garamond"', '26px "IM Fell English SC"', '600 24px Inter', '500 22px Inter'].map(f => document.fonts.load(f).catch(() => { })));
+  const Wc = 1080, Hc = 1350, c = document.createElement('canvas'); c.width = Wc; c.height = Hc; const g = c.getContext('2d');
+  g.fillStyle = '#f4ecd9'; g.fillRect(0, 0, Wc, Hc);
+  const map = await snapshot(view.x, view.y, view.s, 1000, 690);
+  g.save(); g.beginPath(); g.roundRect(40, 40, 1000, 690, 18); g.clip(); g.drawImage(map, 40, 40);
+  const vg = g.createRadialGradient(540, 385, 250, 540, 385, 640); vg.addColorStop(0, 'rgba(59,42,24,0)'); vg.addColorStop(1, 'rgba(59,42,24,.22)'); g.fillStyle = vg; g.fillRect(40, 40, 1000, 690); g.restore();
+  g.lineWidth = 3; g.strokeStyle = '#b8903f'; g.beginPath(); g.roundRect(40, 40, 1000, 690, 18); g.stroke();
+  let y = 800;
+  g.fillStyle = color; g.font = '600 24px Inter, system-ui, sans-serif'; if ('letterSpacing' in g) g.letterSpacing = '3px';
+  g.fillText(wrap(g, kicker.toUpperCase(), 960, 1)[0], 60, y); if ('letterSpacing' in g) g.letterSpacing = '0px';
+  g.fillStyle = '#3d3026'; g.font = '600 74px "Cormorant Garamond", Georgia, serif';
+  for (const l of wrap(g, title, 960, 2)) { y += 80; g.fillText(l, 60, y); }
+  if (place) { y += 50; g.fillStyle = '#6e5a47'; g.font = '500 24px Inter, system-ui, sans-serif'; g.fillText(wrap(g, '📍 ' + place, 960, 1)[0], 60, y); }
+  y += 24; g.fillStyle = '#5a4632'; g.font = 'italic 500 42px "Cormorant Garamond", Georgia, serif';
+  for (const l of wrap(g, sub, 960, Math.max(1, Math.floor((Hc - 150 - y) / 54)))) { y += 54; g.fillText(l, 60, y); }
+  g.strokeStyle = '#d6c49c'; g.lineWidth = 2; g.beginPath(); g.moveTo(60, Hc - 100); g.lineTo(Wc - 60, Hc - 100); g.stroke();
+  g.fillStyle = '#8a6d3b'; g.font = '26px "IM Fell English SC", Georgia, serif'; if ('letterSpacing' in g) g.letterSpacing = '5px'; g.fillText('LAYERS · SAN FRANCISCO IN TIME', 60, Hc - 52); if ('letterSpacing' in g) g.letterSpacing = '0px';
+  g.fillStyle = '#9c3b33'; g.font = '600 22px Inter, system-ui, sans-serif'; g.textAlign = 'right'; g.fillText('isharora.github.io/sf-layers', Wc - 60, Hc - 52);
+  return c;
+}
+const shareM = document.getElementById('shareM');
+function closeShare() { shareM.classList.remove('on'); const i = document.getElementById('shImg'); if (i.src.startsWith('blob:')) URL.revokeObjectURL(i.src); }
+document.getElementById('shX').onclick = closeShare; shareM.addEventListener('click', e => { if (e.target === shareM) closeShare(); });
+async function openShare({ card, url, title, text, file }) {
+  const img = document.getElementById('shImg'), msg = document.getElementById('shMsg'), btns = document.getElementById('shBtns');
+  img.removeAttribute('src'); msg.textContent = 'Drawing your card…'; btns.innerHTML = ''; shareM.classList.add('on');
+  let blob;
+  try { const c = await card(); blob = await new Promise(r => c.toBlob(r, 'image/png')); img.src = URL.createObjectURL(blob); msg.textContent = ''; }
+  catch (e) { msg.textContent = 'Couldn’t draw the image, but the link still works.'; }
+  const f = blob ? new File([blob], file, { type: 'image/png' }) : null;
+  const canFile = f && navigator.canShare && navigator.canShare({ files: [f] });
+  btns.innerHTML = `${canFile || navigator.share ? '<button class="bigbtn" id="shNative">Share…</button>' : ''}${blob ? '<button class="bigbtn alt" id="shDl">Download image</button>' : ''}<button class="bigbtn alt" id="shCopy">Copy link</button><a class="bigbtn alt" style="text-decoration:none;display:inline-block" target="_blank" rel="noopener" href="https://x.com/intent/post?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}">Post on X</a>`;
+  const nat = document.getElementById('shNative');
+  if (nat) nat.onclick = async () => { try { await navigator.share(canFile ? { files: [f], title, text: text + ' ' + url } : { title, text, url }); } catch (_) { } };
+  const dl = document.getElementById('shDl'); if (dl) dl.onclick = () => { const a = document.createElement('a'); a.href = img.src; a.download = file; a.click(); };
+  document.getElementById('shCopy').onclick = async () => { try { await navigator.clipboard.writeText(url); msg.textContent = 'Link copied.'; } catch (_) { msg.textContent = url; } };
+}
+const baseUrl = () => location.origin + location.pathname;
+function shareStory(s) {
+  const prevSel = SEL;
+  openShare({ url: `${baseUrl()}#story=${s.id}`, title: s.title, text: `${s.title} (${s.year}), ${s.place}`, file: `${s.id}.png`,
+    card: async () => { SEL = s.id; CARD = { pin: s }; try { return await makeCard({ kicker: `${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${(TH[s.theme] || {}).label || ''} · ${s.hood || ''}`, color: col(s), title: s.title, sub: s.hook, place: s.place, view: { x: s.c[0], y: s.c[1] - 22, s: 2.3 } }); } finally { SEL = prevSel; CARD = null; } } });
+}
+function shareTour(t) {
+  const bx = tourBox(t), sc = Math.min(1.6, Math.min(1000 / (bx[2] - bx[0]), 690 / (bx[3] - bx[1])) * .82);
+  openShare({ url: `${baseUrl()}#tour=${t.id}`, title: t.title, text: `${t.title}: a ${fmtDist(t.m)} walking tour of ${t.hood}`, file: `${t.id}.png`,
+    card: async () => { const was = TOUR; if (!was) { TOUR = { t, i: -1 }; TOURSET = new Set(t.stops.map(x => x.id)); } CARD = { tour: true }; try { return await makeCard({ kicker: `Walking tour · ${t.stops.length} stops · ${fmtDist(t.m)} · ${t.hood}`, color: tourCol(t), title: t.title, sub: t.tagline, place: '', view: { x: (bx[0] + bx[2]) / 2, y: (bx[1] + bx[3]) / 2, s: sc } }); } finally { CARD = null; if (!was) endTourState(); } } });
+}
 
 /* ---------- theme key: doubles as a map filter ---------- */
 const tkey = document.getElementById('themekey');
@@ -606,6 +885,7 @@ function loop(t) { if (anim) anim(t); if (need) { ensureTiles(); render(); } req
 resize(); fitCity();
 const hs = new URLSearchParams(location.hash.slice(1));
 if (hs.get('hood')) { const h = [...B.hoods, ...AREAS].find(x => x.slug === hs.get('hood')); if (h) setTimeout(() => enterHood(h.n, true), 200); }
+if (hs.get('tour')) setTimeout(() => startTour(hs.get('tour'), hs.get('stop') ? +hs.get('stop') - 1 : -1, true), 250);
 if (hs.get('story') && SBY[hs.get('story')]) setTimeout(() => openStory(hs.get('story'), true), 300);
 document.getElementById('loading').remove();
 requestAnimationFrame(loop);
