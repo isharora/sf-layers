@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Layers: Alamo Square & Environs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=IM+Fell+English+SC&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root { --paper: #efe5cf; --ink: #3d3026; --ink-2: #6e5a47; --gold: #b8903f; --rose: #9c3b33;
+    --display: "Cormorant Garamond", Georgia, serif; --caps: "IM Fell English SC", Georgia, serif; --ui: Inter, -apple-system, system-ui, sans-serif; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #2c2620; }
+  #stage { position: fixed; inset: 0; }
+  #map { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
+  #map.drag { cursor: grabbing; }
+  .blk { fill: transparent; stroke: transparent; cursor: pointer; }
+  .blk:hover { fill: rgba(255, 244, 214, .28); stroke: #b8903f; stroke-width: 2.2; }
+  .blk.sel { fill: rgba(255, 238, 190, .32); stroke: #9c3b33; stroke-width: 3; }
+  .lm { cursor: pointer; }
+  .lm:hover circle { stroke-width: 2.5; }
+  /* ui chrome */
+  .legend { position: fixed; left: 18px; bottom: 18px; background: rgba(243, 234, 214, .95); border: 1px solid #c9b58a; border-radius: 12px; padding: 12px 14px; font: 12px var(--ui); color: var(--ink); box-shadow: 0 10px 30px rgba(0,0,0,.25); }
+  .legend h4 { margin: 0 0 8px; font: 600 10.5px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); }
+  .legend .row { display: flex; align-items: center; gap: 8px; margin: 4px 0; cursor: default; }
+  .legend .sw { width: 22px; height: 12px; border-radius: 3px; border: 1px solid rgba(61,48,38,.4); }
+  .zoom { position: fixed; right: 18px; bottom: 18px; display: flex; flex-direction: column; gap: 6px; }
+  .zoom button { width: 38px; height: 38px; border-radius: 10px; border: 1px solid #c9b58a; background: rgba(243,234,214,.95); font: 600 18px var(--ui); color: var(--ink); cursor: pointer; }
+  .drawer { position: fixed; top: 0; right: 0; height: 100%; width: min(420px, 100%); background: #f6eedb; box-shadow: -20px 0 60px rgba(0,0,0,.35); transform: translateX(105%); transition: transform .35s cubic-bezier(.2,.8,.2,1); overflow-y: auto; color: var(--ink); z-index: 10; }
+  .drawer.open { transform: none; }
+  .drawer .hd { padding: 26px 26px 14px; border-bottom: 1px solid #decfae; }
+  .drawer .k { font: 600 11px var(--ui); letter-spacing: .16em; text-transform: uppercase; color: var(--gold); }
+  .drawer h2 { font: 600 34px/1.1 var(--display); margin: 6px 0 4px; }
+  .drawer .sub { font: italic 18px var(--display); color: var(--ink-2); }
+  .drawer .bd { padding: 18px 26px 40px; font: 18px/1.5 var(--display); }
+  .drawer .close { position: absolute; top: 16px; right: 16px; width: 34px; height: 34px; border-radius: 50%; border: 1px solid #d6c49c; background: #fbf5e6; cursor: pointer; font: 16px var(--ui); color: var(--ink); }
+  .era-bar { display: flex; height: 12px; border-radius: 4px; overflow: hidden; margin: 8px 0 4px; }
+  .stat { font: 13px var(--ui); color: var(--ink-2); }
+  .soon { margin-top: 20px; padding: 14px 16px; border: 1px dashed #c9b58a; border-radius: 10px; font: 14px/1.5 var(--ui); color: var(--ink-2); background: #fbf5e6; }
+  .chip { display: inline-block; font: 500 12px var(--ui); padding: 3px 9px; border-radius: 999px; background: #eadcbc; margin: 3px 4px 0 0; color: var(--ink); }
+  .lmcard { margin: 10px 0; padding: 12px 14px; background: #fbf5e6; border-left: 3px solid var(--gold); border-radius: 0 8px 8px 0; }
+  .lmcard b { font: 600 19px var(--display); }
+  .lmcard a { font: 12px var(--ui); color: var(--rose); }
+
+  .pin { cursor: pointer; }
+  .pin .pi { transform: scale(var(--ps, 1)); transform-origin: 0 0; transition: transform .22s cubic-bezier(.3,.7,.3,1.3), opacity .3s, filter .2s; }
+  .pin .hit { fill: transparent; }
+  .pin.dim .pi { opacity: .18; }
+  .pin.off { display: none; }
+  .pin:hover .pi, .pin:focus .pi, .pin.hov .pi { transform: scale(calc(var(--ps, 1) * 1.28)); filter: drop-shadow(0 3px 4px rgba(60,40,20,.35)); }
+  .pin.sel .pi { transform: scale(calc(var(--ps, 1) * 1.38)); filter: drop-shadow(0 0 7px rgba(255,236,170,.95)) drop-shadow(0 3px 4px rgba(60,40,20,.35)); }
+  .pin:focus { outline: none; }
+  .peek { position: fixed; z-index: 8; width: 300px; pointer-events: none; background: #fbf5e6; color: var(--ink); border-radius: 12px; border: 1px solid #d9c79f; box-shadow: 0 14px 36px rgba(40,25,10,.3); padding: 12px 14px 13px; border-top: 4px solid var(--c, #b8903f); opacity: 0; transform: translateY(6px) scale(.98); transition: opacity .16s ease, transform .16s ease; }
+  .peek.on { opacity: 1; transform: none; }
+  .peek .m { font: 600 10.5px var(--ui); letter-spacing: .12em; text-transform: uppercase; color: var(--c); }
+  .peek .t { font: 600 21px/1.15 var(--display); margin: 3px 0 5px; }
+  .peek .h { font: italic 16px/1.4 var(--display); color: var(--ink-2); }
+  .peek .p { font: 11.5px var(--ui); color: #9b8561; margin-top: 7px; }
+  .peek .cta { font: 600 11px var(--ui); color: var(--rose); margin-top: 6px; letter-spacing: .02em; }
+  .topbar { position: fixed; top: 16px; right: 18px; display: flex; gap: 8px; z-index: 5; }
+  .topbar button { font: 600 13px var(--ui); color: var(--ink); background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 999px; padding: 9px 16px; cursor: pointer; box-shadow: 0 6px 20px rgba(0,0,0,.2); }
+  .topbar button.pri { background: #3d3026; color: #f6eedb; border-color: #3d3026; }
+  .timebar { position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%); width: min(620px, calc(100% - 300px)); background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 14px; padding: 10px 18px 12px; box-shadow: 0 10px 30px rgba(0,0,0,.25); z-index: 4; }
+  .timebar .row1 { display: flex; align-items: baseline; gap: 12px; }
+  .timebar .yr { font: 700 30px/1 var(--display); color: var(--ink); min-width: 92px; }
+  .timebar .era { font: italic 16px var(--display); color: var(--ink-2); flex: 1; }
+  .timebar label { font: 500 12px var(--ui); color: var(--ink-2); display: flex; align-items: center; gap: 6px; cursor: pointer; }
+  .timebar input[type=range] { width: 100%; accent-color: #9c3b33; margin: 6px 0 0; }
+  .ticks { display: flex; justify-content: space-between; font: 10.5px var(--ui); color: #9b8561; }
+  @media (max-width: 800px) { .timebar { width: calc(100% - 24px); bottom: 70px; } .legend { display: none; } }
+  .scard { margin: 12px 0; padding: 14px 16px; background: #fbf5e6; border-radius: 10px; border-left: 4px solid var(--c, #b8903f); cursor: pointer; }
+  .scard:hover { background: #fffaf0; }
+  .scard .t { font: 600 21px/1.2 var(--display); }
+  .scard .m { font: 500 11.5px var(--ui); letter-spacing: .06em; text-transform: uppercase; color: var(--c, #8a6d3b); margin-bottom: 3px; }
+  .scard .h { font: italic 17px/1.4 var(--display); color: var(--ink-2); margin-top: 4px; }
+  .story-v .m { font: 600 11.5px var(--ui); letter-spacing: .12em; text-transform: uppercase; color: var(--c); }
+  .story-v h2 { font: 600 34px/1.1 var(--display); margin: 6px 0 6px; }
+  .story-v .place { font: 13px var(--ui); color: var(--ink-2); }
+  .story-v .hook { font: italic 21px/1.45 var(--display); color: var(--ink); margin: 16px 0 12px; padding-left: 14px; border-left: 3px solid var(--c); }
+  .story-v .txt { font: 19px/1.6 var(--display); }
+  .story-v sup a { font: 600 11px var(--ui); color: var(--rose); text-decoration: none; }
+  .story-v .src { font: 12.5px/1.5 var(--ui); color: var(--ink-2); margin-top: 18px; padding-top: 12px; border-top: 1px solid #decfae; }
+  .story-v .src ol { padding-left: 18px; margin: 6px 0 0; } .story-v .src a { color: var(--rose); }
+  .story-v .ppl { margin-top: 12px; }
+  .story-v img { width: 100%; border-radius: 8px; margin: 12px 0 4px; }
+  .navrow { display: flex; justify-content: space-between; gap: 8px; margin-top: 18px; }
+  .navrow button, .backbtn { font: 500 13px var(--ui); color: var(--ink); background: #fbf5e6; border: 1px solid #d6c49c; border-radius: 999px; padding: 7px 14px; cursor: pointer; }
+  .tfil { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 8px; }
+  .tfil button { font: 500 12px var(--ui); border-radius: 999px; padding: 4px 10px; border: 1px solid #d6c49c; background: #fbf5e6; cursor: pointer; color: var(--ink); }
+  .tfil button.on { background: #3d3026; color: #f6eedb; border-color: #3d3026; }
+</style>
+</head>
+<body>
+<div id="stage"><svg id="map" role="img" aria-label="Illustrated map of Alamo Square and the surrounding neighbourhoods"></svg></div>
+<div class="legend" id="legend"></div>
+<div class="topbar"><button class="pri" id="tourBtn">Walk through time</button><button id="storiesBtn">All stories</button></div>
+<div class="timebar"><div class="row1"><span class="yr" id="yr">All years</span><span class="era" id="eraTxt">Drag back in time</span><label><input type="checkbox" id="allYears" checked> All years</label></div>
+<input type="range" id="slider" min="1850" max="2026" step="1" value="2026" aria-label="Year"><div class="ticks"><span>1850</span><span>1880</span><span>1906</span><span>1942</span><span>1960</span><span>1989</span><span>today</span></div></div>
+<div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button></div>
+<div class="peek" id="peek" aria-hidden="true"></div>
+<aside class="drawer" id="drawer" aria-live="polite"><button class="close" id="close" aria-label="Close">✕</button><div id="dbody"></div></aside>
+
+<script src="map.js"></script>
+<script src="stories.js"></script>
+<script>
+const M = window.MAP, NS = 'http://www.w3.org/2000/svg';
+const svg = document.getElementById('map');
+const PAD = 120, W = M.w + PAD * 2, H = M.h + PAD * 2;
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const pts = p => p.map(([x, y]) => `${(x + PAD).toFixed(1)},${(y + PAD).toFixed(1)}`).join(' ');
+const path = p => 'M' + p.map(([x, y]) => `${(x + PAD).toFixed(1)} ${(y + PAD).toFixed(1)}`).join(' L') + ' Z';
+const line = p => 'M' + p.map(([x, y]) => `${(x + PAD).toFixed(1)} ${(y + PAD).toFixed(1)}`).join(' L');
+function hash(s) { let h = 2166136261; for (const ch of String(s)) { h ^= ch.charCodeAt(0); h = Math.imul(h, 16777619); } return Math.abs(h); }
+
+/* ---------- era palette: a Painted Ladies palette for Victorians, softer tones after 1906 ---------- */
+const ERAS = [
+  { k: 'vic', label: 'Before 1906', test: y => y && y < 1906 && y !== 1900, cols: ['#d98f8a', '#8fb39f', '#e3bd67', '#97a6d3', '#c49bc4', '#e8a37b', '#7ea8b8', '#d7b18c'] },
+  { k: 'edw', label: '1906–1929', test: y => y >= 1906 && y < 1930, cols: ['#eed6ad', '#e8cfc3', '#d3dfcb', '#d8d2e7', '#efdfa6', '#f0c9b0'] },
+  { k: 'deco', label: '1930–1949', test: y => y >= 1930 && y < 1950, cols: ['#e6cca3', '#dcc5a3', '#e9d8bd'] },
+  { k: 'mod', label: '1950–1979', test: y => y >= 1950 && y < 1980, cols: ['#b7bec4', '#a8b3bc', '#c5c1b6'] },
+  { k: 'now', label: '1980–today', test: y => y >= 1980, cols: ['#cdd6d1', '#d9d0c6', '#c9cfd8'] },
+  { k: 'unk', label: 'Year unknown', test: () => true, cols: ['#e6dac3', '#e1d5bd'] },
+];
+const eraOf = y => ERAS.find(e => e.test(y));
+const GLYPH = { // tiny emblems drawn inside each story pin (centre at 0,-21)
+  origins: '<path d="M0 -16 V-26 M0 -22 Q-4 -24 -5 -28 Q-1 -27 0 -23 M0 -20 Q4 -22 5 -26 Q1 -25 0 -21" fill="none" stroke="#9b7b4f" stroke-width="1.6" stroke-linecap="round"/>',
+  victorian: '<path d="M-5 -16 V-22 L0 -27 L5 -22 V-16 Z" fill="none" stroke="#b4556b" stroke-width="1.6" stroke-linejoin="round"/><rect x="-1.4" y="-20" width="2.8" height="4" fill="#b4556b"/>',
+  quake1906: '<path d="M0 -15 C-5 -18 -5 -22 -2 -26 C-2 -23 0 -22 1 -24 C4 -21 5 -18 0 -15 Z" fill="#c0602f"/>',
+  communities: '<circle cx="-3" cy="-23" r="2.2" fill="#5f7f4f"/><circle cx="3" cy="-23" r="2.2" fill="#5f7f4f"/><path d="M-6.5 -16 Q-3 -20 0 -16 Q3 -20 6.5 -16" fill="none" stroke="#5f7f4f" stroke-width="1.6"/>',
+  harlem: '<path d="M1 -27 V-18 A2.6 2.2 0 1 1 -1.4 -19.6 V-27 L5 -28.5 V-20" fill="none" stroke="#3f5f9c" stroke-width="1.6" stroke-linecap="round"/>',
+  redevelopment: '<path d="M-5 -16 H5 M-3 -16 V-26 H4 M4 -26 V-22" fill="none" stroke="#6c6f76" stroke-width="1.6" stroke-linecap="round"/>',
+  institutions: '<path d="M-5.5 -24 L0 -27.5 L5.5 -24 Z M-4 -23 V-17.5 M0 -23 V-17.5 M4 -23 V-17.5 M-5.5 -16.5 H5.5" fill="none" stroke="#8a6d3b" stroke-width="1.4" stroke-linejoin="round"/>',
+  modern: '<path d="M0 -27 L1.6 -22.6 L6 -22.4 L2.6 -19.6 L3.8 -15.4 L0 -18 L-3.8 -15.4 L-2.6 -19.6 L-6 -22.4 L-1.6 -22.6 Z" fill="#7a4f9c"/>',
+};
+function shade(hex, f) { const n = parseInt(hex.slice(1), 16); let r = n >> 16, g = n >> 8 & 255, b = n & 255; r = Math.round(r * f); g = Math.round(g * f); b = Math.round(b * f); return '#' + [r, g, b].map(v => Math.max(0, Math.min(255, v)).toString(16).padStart(2, '0')).join(''); }
+
+/* ---------- build the illustration ---------- */
+function build() {
+  const k = .38; // px of "pop-up" per metre of height
+  let s = `<defs>
+    <filter id="paper" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 .42  0 0 0 0 .33  0 0 0 0 .2  0 0 0 .1 0"/></filter>
+    <filter id="wash" x="-10%" y="-10%" width="120%" height="120%"><feTurbulence type="fractalNoise" baseFrequency=".012" numOctaves="2" seed="9"/><feDisplacementMap in="SourceGraphic" scale="14"/></filter>
+    <filter id="fog" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+    <radialGradient id="vig" cx=".5" cy=".5" r=".75"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#3b2a18" stop-opacity=".28"/></radialGradient>
+    <radialGradient id="hill" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#cfe0a8"/><stop offset="1" stop-color="#9fbf7e"/></radialGradient>
+    <clipPath id="aoiClip"><path d="${M.aoi.map(path).join(' ')}"/></clipPath>
+  </defs>
+  <rect width="${W}" height="${H}" fill="#f4ecd9"/>`;
+  // blocks (land) — outside the study area washed out
+  s += `<g>${M.blocks.map(b => b.p.map(p => `<path d="${path(p)}" fill="${b.inAoi ? '#e4d7bb' : '#e9e0cc'}" stroke="${b.inAoi ? '#e4d7bb' : '#e9e0cc'}" stroke-width="3" stroke-linejoin="round"/>`).join('')).join('')}</g>`;
+  // parks
+  s += `<g>${M.parks.map(p => p.p.map(q => `<path d="${path(q)}" fill="${p.n === 'Alamo Square' ? 'url(#hill)' : '#b5cc93'}" stroke="#8fae6d" stroke-width="1.2"/>`).join('')).join('')}</g>`;
+  // park footpaths
+  s += `<g fill="none" stroke="#f3ead2" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="1 4.5" opacity=".9">${M.streets.filter(t => t.k === 0).map(t => `<path d="${line(t.p)}"/>`).join('')}</g>`;
+  // buildings: walls then roofs, drawn north-to-south so southern buildings overlap
+  const bs = M.buildings.map(b => { const e = eraOf(b.y), col = e.cols[hash(b.a || b.p[0].join()) % e.cols.length]; const cy = b.p.reduce((a, q) => a + q[1], 0) / b.p.length; return { ...b, e, col, cy, lift: Math.min(28, Math.max(3, b.h * k)) }; }).sort((a, b) => a.cy - b.cy);
+  s += `<g stroke="#4a3b30" stroke-width=".55" stroke-linejoin="round">${bs.map(b => {
+    const base = pts(b.p), roof = pts(b.p.map(([x, y]) => [x, y - b.lift]));
+    return `<polygon points="${base}" fill="${shade(b.col, .72)}" data-y="${b.y || ""}"/><polygon points="${roof}" fill="${b.col}" data-e="${b.e.k}" data-y="${b.y || ""}"/>`;
+  }).join('')}</g>`;
+  // trees: watercolour dabs
+  const greens = ['#7fa35f', '#8fb06a', '#6f9656', '#97b873'];
+  s += `<g>${M.trees.map(([x, y], i) => { const r = 2.6 + (hash(i) % 10) / 8; return `<circle cx="${(x + PAD + .9).toFixed(1)}" cy="${(y + PAD + 1.2).toFixed(1)}" r="${r.toFixed(1)}" fill="#4f5e37" opacity=".22"/><circle cx="${(x + PAD).toFixed(1)}" cy="${(y + PAD).toFixed(1)}" r="${r.toFixed(1)}" fill="${greens[i % 4]}" opacity=".9"/>`; }).join('')}</g>`;
+  // street names: longest segment of each named street
+  const best = {};
+  M.streets.filter(t => t.n && t.k >= 1).forEach(t => { const len = Math.hypot(t.p.at(-1)[0] - t.p[0][0], t.p.at(-1)[1] - t.p[0][1]); if (!best[t.n] || len > best[t.n].len) best[t.n] = { len, t }; });
+  s += `<g font-family="IM Fell English SC, Georgia, serif" font-size="11" fill="#8a7356" letter-spacing="2.2">${Object.entries(best).filter(([, v]) => v.len > 120).map(([n, { t }], i) => {
+    const a = t.p[0], b = t.p.at(-1); let ang = Math.atan2(b[1] - a[1], b[0] - a[0]) * 180 / Math.PI; if (ang > 90) ang -= 180; if (ang < -90) ang += 180;
+    const mx = (a[0] + b[0]) / 2 + PAD, my = (a[1] + b[1]) / 2 + PAD;
+    return `<text x="${mx.toFixed(1)}" y="${my.toFixed(1)}" transform="rotate(${ang.toFixed(1)} ${mx.toFixed(1)} ${my.toFixed(1)})" text-anchor="middle" dominant-baseline="middle" paint-order="stroke" stroke="#f4ecd9" stroke-width="4">${esc(n.replace(/ Street$/, ' St').replace(/ Avenue$/, ' Ave').replace(/ Boulevard$/, ' Blvd').toUpperCase())}</text>`;
+  }).join('')}</g>`;
+  // block hit areas
+  s += `<g id="blocks">${M.blocks.filter(b => b.inAoi).map(b => `<path class="blk" data-id="${b.id}" d="${b.p.map(path).join(' ')}"/>`).join('')}</g>`;
+  // study-area boundary
+  s += `<path d="${M.aoi.map(path).join(' ')}" fill="none" stroke="#9c3b33" stroke-width="2" stroke-dasharray="10 6" opacity=".55"/>`;
+  // landmarks
+  s += `<g id="lms">${M.landmarks.filter(l => l.no).map(l => { const x = l.c[0] + PAD, y = l.c[1] + PAD - 10; return `<g class="lm" data-no="${l.no}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="9.5" fill="#fbf1d6" stroke="#b8903f" stroke-width="1.6"/><path d="M0 -5.2 L1.5 -1.6 L5.2 -1.4 L2.3 1 L3.2 4.6 L0 2.6 L-3.2 4.6 L-2.3 1 L-5.2 -1.4 L-1.5 -1.6 Z" fill="#9c3b33"/></g>`; }).join('')}</g>`;
+  // story pins
+  const S = (window.STORIES || { stories: [] }).stories, TH = (window.STORIES || {}).themes || {};
+  s += `<g id="pins">${S.map(st => { const col = (TH[st.theme] || {}).color || '#8a6d3b', x = st.c[0] + PAD, y = st.c[1] + PAD; return `<g class="pin" data-id="${st.id}" tabindex="0" role="button" aria-label="${esc(st.title)}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><g class="pi"><circle class="hit" cy="-18" r="17"/><path d="M0 0 C-3 -6 -12 -12 -12 -21 A12 12 0 1 1 12 -21 C12 -12 3 -6 0 0 Z" fill="${col}" stroke="#fff8e8" stroke-width="2"/><circle cy="-21" r="7.5" fill="#fff8e8"/>${GLYPH[st.theme] || ''}</g></g>`; }).join('')}</g>`;
+  // neighbourhood labels
+  s += `<g>${M.places.map(p => { const x = p.c[0] + PAD, y = p.c[1] + PAD; return p.k === 'park'
+    ? `<text x="${x}" y="${y}" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="700" font-size="30" fill="#3f5a2c" paint-order="stroke" stroke="#e6efcf" stroke-width="5" stroke-linejoin="round">${esc(p.n)}</text>`
+    : `<text x="${x}" y="${y}" text-anchor="middle" font-family="IM Fell English SC, Georgia, serif" font-size="34" letter-spacing="5" fill="#6b4f36" opacity=".72" paint-order="stroke" stroke="#f4ecd9" stroke-width="6" stroke-linejoin="round">${esc(p.n.toUpperCase())}</text>`; }).join('')}</g>`;
+  // drifting fog
+  s += `<g id="fogL" opacity=".26" pointer-events="none" filter="url(#fog)">${[[-200, 300, 420, 150], [300, 900, 520, 170], [900, 200, 480, 140], [1500, 1100, 560, 180], [2000, 500, 420, 150]].map(([x, y, rx, ry]) => `<ellipse cx="${x}" cy="${y}" rx="${rx}" ry="${ry}" fill="#fff"/>`).join('')}<animateTransform attributeName="transform" type="translate" from="-500 0" to="${W + 200} 0" dur="140s" repeatCount="indefinite"/></g>`;
+  // paper texture + vignette
+  s += `<rect width="${W}" height="${H}" filter="url(#paper)" pointer-events="none"/><rect width="${W}" height="${H}" fill="url(#vig)" pointer-events="none"/>`;
+  // cartouche + compass
+  s += cartouche() + compass();
+  svg.innerHTML = s;
+}
+function cartouche() {
+  const x = PAD + 20, y = PAD + 18;
+  return `<g transform="translate(${x} ${y})" pointer-events="none">
+    <rect width="430" height="150" rx="10" fill="#f8f0dc" stroke="#b8903f" stroke-width="2.5"/><rect x="8" y="8" width="414" height="134" rx="6" fill="none" stroke="#b8903f" stroke-width="1" stroke-dasharray="1 4"/>
+    <text x="215" y="46" text-anchor="middle" font-family="IM Fell English SC, Georgia, serif" font-size="15" letter-spacing="6" fill="#8a6d3b">LAYERS · A MAP IN TIME</text>
+    <text x="215" y="92" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="700" font-size="40" fill="#3d3026">Alamo Square &amp; Environs</text>
+    <text x="215" y="124" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-size="17" fill="#6e5a47">San Francisco · six blocks in every direction</text></g>`;
+}
+function compass() {
+  const x = W - PAD - 70, y = PAD + 80, a = -M.angle; // north, after rotating the street grid
+  return `<g transform="translate(${x} ${y}) rotate(${a})" pointer-events="none">
+    <circle r="46" fill="#f8f0dc" stroke="#b8903f" stroke-width="2"/><circle r="38" fill="none" stroke="#b8903f" stroke-width=".8" stroke-dasharray="1 3"/>
+    <path d="M0 -40 L8 0 L0 40 L-8 0 Z" fill="#e8d6ae" stroke="#8a6d3b" stroke-width="1"/><path d="M0 -40 L8 0 L-8 0 Z" fill="#9c3b33"/>
+    <path d="M-40 0 L0 -6 L40 0 L0 6 Z" fill="#efe2c2" stroke="#8a6d3b" stroke-width=".8"/>
+    <text y="-50" text-anchor="middle" font-family="IM Fell English SC, Georgia, serif" font-size="15" fill="#6b4f36">N</text></g>`;
+}
+
+/* ---------- legend ---------- */
+document.getElementById('legend').innerHTML = `<h4>When it was built</h4>` + ERAS.map(e => `<div class="row" data-e="${e.k}"><span class="sw" style="background:linear-gradient(90deg,${e.cols.slice(0, 3).join(',')})"></span>${e.label}</div>`).join('') + `<div class="row"><svg width="22" height="16"><circle cx="11" cy="8" r="7" fill="#fbf1d6" stroke="#b8903f" stroke-width="1.4"/><circle cx="11" cy="8" r="2.4" fill="#9c3b33"/></svg>City landmark</div>`;
+document.getElementById('legend').addEventListener('mouseover', e => { const r = e.target.closest('.row'); if (!r || !r.dataset.e) return; svg.querySelectorAll('polygon[data-e]').forEach(p => p.style.opacity = p.dataset.e === r.dataset.e ? 1 : .25); });
+document.getElementById('legend').addEventListener('mouseleave', () => svg.querySelectorAll('polygon[data-e]').forEach(p => p.style.opacity = ''));
+
+/* ---------- pan & zoom ---------- */
+let vb = [0, 0, W, H];
+let setVB = () => svg.setAttribute('viewBox', vb.map(v => v.toFixed(1)).join(' '));
+function fit() { const r = svg.getBoundingClientRect(), s = Math.max(W / r.width, H / r.height); const w = r.width * s, h = r.height * s; vb = [(W - w) / 2, (H - h) / 2, w, h]; setVB(); }
+function zoomAt(cx, cy, f) { const r = svg.getBoundingClientRect(), mx = vb[0] + (cx - r.left) / r.width * vb[2], my = vb[1] + (cy - r.top) / r.height * vb[3]; const nw = Math.min(W * 1.4, Math.max(180, vb[2] * f)); const g = nw / vb[2]; vb = [mx - (mx - vb[0]) * g, my - (my - vb[1]) * g, vb[2] * g, vb[3] * g]; setVB(); }
+svg.addEventListener('wheel', e => { e.preventDefault(); zoomAt(e.clientX, e.clientY, e.deltaY > 0 ? 1.12 : 1 / 1.12); }, { passive: false });
+const ptrs = new Map(); let drag = null, pinch = null, moved = false;
+svg.addEventListener('pointerdown', e => { ptrs.set(e.pointerId, [e.clientX, e.clientY]); moved = false; if (ptrs.size === 1) drag = [e.clientX, e.clientY, vb[0], vb[1]]; else if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); try { svg.setPointerCapture(e.pointerId); } catch (_) {} } });
+svg.addEventListener('pointermove', e => {
+  if (!ptrs.has(e.pointerId)) return; ptrs.set(e.pointerId, [e.clientX, e.clientY]);
+  const r = svg.getBoundingClientRect();
+  if (ptrs.size === 2 && pinch) { const [a, b] = [...ptrs.values()], d = Math.hypot(a[0] - b[0], a[1] - b[1]); zoomAt((a[0] + b[0]) / 2, (a[1] + b[1]) / 2, pinch / d); pinch = d; moved = true; }
+  else if (drag) { const dx = e.clientX - drag[0], dy = e.clientY - drag[1]; if (!moved && Math.abs(dx) + Math.abs(dy) > 4) { moved = true; svg.classList.add('drag'); try { svg.setPointerCapture(e.pointerId); } catch (_) {} } if (!moved) return; vb[0] = drag[2] - dx / r.width * vb[2]; vb[1] = drag[3] - dy / r.height * vb[3]; setVB(); }
+});
+const up = e => { ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null; if (!ptrs.size) { drag = null; svg.classList.remove('drag'); } };
+svg.addEventListener('pointerup', up); svg.addEventListener('pointercancel', up);
+document.getElementById('zin').onclick = () => { const r = svg.getBoundingClientRect(); zoomAt(r.left + r.width / 2, r.top + r.height / 2, 1 / 1.4); };
+document.getElementById('zout').onclick = () => { const r = svg.getBoundingClientRect(); zoomAt(r.left + r.width / 2, r.top + r.height / 2, 1.4); };
+addEventListener('resize', fit);
+
+/* ---------- block drawer (content comes in the next phase) ---------- */
+const BLK = {}; M.blocks.forEach(b => BLK[b.id] = b);
+function inside(pt, poly) { let c = false; for (let i = 0, j = poly.length - 1; i < poly.length; j = i++) { const [xi, yi] = poly[i], [xj, yj] = poly[j]; if ((yi > pt[1]) !== (yj > pt[1]) && pt[0] < (xj - xi) * (pt[1] - yi) / (yj - yi) + xi) c = !c; } return c; }
+function openBlock(id) {
+  const b = BLK[id]; svg.querySelectorAll('.blk.sel').forEach(x => x.classList.remove('sel')); svg.querySelector(`.blk[data-id="${id}"]`)?.classList.add('sel');
+  const inB = M.buildings.filter(x => b.p.some(p => inside(x.p[0], p)));
+  const counts = {}; inB.forEach(x => { const k = eraOf(x.y).k; counts[k] = (counts[k] || 0) + 1; });
+  const addrs = [...new Set(inB.map(x => x.a).filter(Boolean))];
+  const lms = M.landmarks.filter(l => l.no && b.p.some(p => inside(l.c, p)));
+  const streets = [...new Set(addrs.map(a => a.replace(/^\d+\s*/, '')))].slice(0, 4);
+  document.getElementById('dbody').innerHTML = `<div class="hd"><div class="k">Block ${esc(id)}</div><h2>${esc(streets.slice(0, 2).join(' & ') || 'A block in the Western Addition')}</h2><div class="sub">${inB.length} buildings${b.oldest ? ` · oldest dated building ${b.oldest}` : ''}</div></div>
+    <div class="bd"><div class="stat">When its buildings went up</div><div class="era-bar">${ERAS.filter(e => counts[e.k]).map(e => `<i style="flex:${counts[e.k]};background:${e.cols[0]}" title="${e.label}: ${counts[e.k]}"></i>`).join('')}</div>
+    <div>${ERAS.filter(e => counts[e.k]).map(e => `<span class="chip">${e.label}: ${counts[e.k]}</span>`).join('')}</div>
+    ${lms.map(l => `<div class="lmcard"><b>★ ${esc(l.name)}</b><br><span class="stat">${esc(l.addr)} · City Landmark No. ${l.no}, designated ${l.year}</span>${l.doc ? `<br><a href="${esc(l.doc)}" target="_blank" rel="noopener">Designation report ↗</a>` : ''}</div>`).join('')}
+    ${(() => { const ss = S.filter(s => s.block === id); return ss.length ? `<div class="stat" style="margin-top:18px">Stories on this block</div>${ss.map(card).join('')}` : `<div class="soon">No stories pinned to this block yet. Try a neighbouring block, or open <b>All stories</b>.</div>`; })()}</div>`;
+  document.getElementById('drawer').classList.add('open');
+}
+svg.addEventListener('click', e => { if (moved) return; const pn = e.target.closest('.pin'); if (pn) { openStory(pn.dataset.id); return; } const lm = e.target.closest('.lm'); if (lm) { const l = M.landmarks.find(x => x.no == lm.dataset.no); const b = M.blocks.find(bb => bb.inAoi && bb.p.some(p => inside(l.c, p))); if (b) openBlock(b.id); return; } const t = e.target.closest('.blk'); if (t) openBlock(t.dataset.id); });
+document.getElementById('close').onclick = () => { document.getElementById('drawer').classList.remove('open'); svg.querySelectorAll('.blk.sel, .pin.sel').forEach(x => x.classList.remove('sel')); };
+
+/* ---------- stories ---------- */
+const S = (window.STORIES || { stories: [] }).stories, TH = (window.STORIES || { themes: {} }).themes;
+const SBY = {}; S.forEach(s => SBY[s.id] = s);
+const col = s => (TH[s.theme] || {}).color || '#8a6d3b';
+function flyTo(c, w = 760) { const r = svg.getBoundingClientRect(), h = w * r.height / r.width, from = vb.slice(), to = [c[0] + PAD - w / 2 + (document.getElementById('drawer').classList.contains('open') && innerWidth > 800 ? w * .18 : 0), c[1] + PAD - h / 2, w, h]; const t0 = performance.now(); (function step(t) { const k = Math.min(1, (t - t0) / 700), e = k < .5 ? 2 * k * k : 1 - Math.pow(-2 * k + 2, 2) / 2; vb = from.map((v, i) => v + (to[i] - v) * e); setVB(); if (k < 1) requestAnimationFrame(step); })(t0); }
+function cite(txt, id) { return esc(txt).replace(/\[(\d+)\]/g, (m, n) => `<sup><a href="#src-${id}-${n}">[${n}]</a></sup>`); }
+function card(s) { return `<div class="scard" style="--c:${col(s)}" data-sid="${s.id}"><div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div></div>`; }
+let TOUR = null;
+function openStory(id, fromTour) {
+  const s = SBY[id], i = S.indexOf(s);
+  svg.querySelectorAll('.blk.sel').forEach(x => x.classList.remove('sel')); svg.querySelector(`.blk[data-id="${s.block}"]`)?.classList.add('sel');
+  const photo = s.photo && s.photo.url ? `<img src="${esc(s.photo.url)}" alt="${esc(s.title)}" loading="lazy"><div class="place">${esc(s.photo.credit || '')}${s.photo.license ? ' · ' + esc(s.photo.license) : ''}${s.photo.page ? ` · <a href="${esc(s.photo.page)}" target="_blank" rel="noopener">source</a>` : ''}</div>` : '';
+  document.getElementById('dbody').innerHTML = `<div class="bd story-v" style="--c:${col(s)};padding-top:26px">
+    <button class="backbtn" id="toBlock">← This block</button>
+    <div class="m" style="margin-top:16px">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div>
+    <h2>${esc(s.title)}</h2><div class="place">📍 ${esc(s.place)}</div>${photo}
+    <div class="hook">${esc(s.hook)}</div><div class="txt">${cite(s.story, s.id)}</div>
+    ${s.people.length ? `<div class="ppl">${s.people.map(p => `<span class="chip">${esc(p.name)}${p.role ? ' · ' + esc(p.role) : ''}</span>`).join('')}</div>` : ''}
+    <div class="src"><b>Sources</b><ol>${s.sources.map((r, k) => `<li id="src-${s.id}-${k + 1}">${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}${r.publisher ? ', ' + esc(r.publisher) : ''}${r.year ? ' (' + esc(r.year) + ')' : ''}</li>`).join('')}</ol></div>
+    <div class="navrow"><button id="prevS" ${i ? '' : 'disabled'}>← ${i ? esc(S[i - 1].year) : ''} Earlier</button><button id="nextS" ${i < S.length - 1 ? '' : 'disabled'}>Later ${i < S.length - 1 ? esc(S[i + 1].year) : ''} →</button></div></div>`;
+  document.getElementById('drawer').classList.add('open'); document.getElementById('drawer').scrollTop = 0;
+  document.getElementById('toBlock').onclick = () => openBlock(s.block);
+  document.getElementById('prevS').onclick = () => { const p = S[i - 1]; setYear(p.year, true); openStory(p.id, true); };
+  document.getElementById('nextS').onclick = () => { const n = S[i + 1]; setYear(n.year, true); openStory(n.id, true); };
+  svg.querySelectorAll('.pin').forEach(p => p.classList.toggle('sel', p.dataset.id === id));
+  hidePeek();
+  if (fromTour) flyTo(s.c); else revealIfHidden(s.c);
+}
+function screenOf(c) { const r = svg.getBoundingClientRect(); return [r.left + (c[0] + PAD - vb[0]) / vb[2] * r.width, r.top + (c[1] + PAD - vb[1]) / vb[3] * r.height]; }
+function revealIfHidden(c) { // keep the map still; only slide it if the pin sits under the drawer or off-screen
+  const [x, y] = screenOf(c), dw = innerWidth > 800 ? Math.min(420, innerWidth) : 0, r = svg.getBoundingClientRect();
+  const right = innerWidth - dw - 60, dx = x > right ? x - right + 40 : x < 60 ? x - 100 : 0, dy = y < 90 ? y - 140 : y > innerHeight - 150 ? y - (innerHeight - 200) : 0;
+  if (!dx && !dy) return;
+  const from = vb.slice(), to = [vb[0] + dx / r.width * vb[2], vb[1] + dy / r.height * vb[3], vb[2], vb[3]], t0 = performance.now();
+  (function step(t) { const k = Math.min(1, (t - t0) / 450), e = 1 - Math.pow(1 - k, 3); vb = from.map((v, i) => v + (to[i] - v) * e); setVB(); if (k < 1) requestAnimationFrame(step); })(t0);
+}
+/* hover previews */
+const peek = document.getElementById('peek'); let peekFor = null, peekT = 0;
+function showPeek(pin) {
+  const s = SBY[pin.dataset.id]; if (!s || pin.classList.contains('off')) return;
+  clearTimeout(peekT); peekFor = pin; svg.querySelectorAll('.pin.hov').forEach(p => p !== pin && p.classList.remove('hov')); pin.classList.add('hov');
+  peek.style.setProperty('--c', col(s));
+  peek.innerHTML = `<div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div><div class="p">📍 ${esc(s.place)}</div><div class="cta">Click to read the story →</div>`;
+  const b = pin.getBoundingClientRect(), pw = 300, ph = peek.offsetHeight || 170, gap = 14;
+  let x = b.right + gap, y = b.top + b.height / 2 - ph / 2;
+  const limitR = innerWidth - (document.getElementById('drawer').classList.contains('open') && innerWidth > 800 ? 430 : 12);
+  if (x + pw > limitR) x = b.left - gap - pw;
+  y = Math.max(12, Math.min(innerHeight - ph - 12, y));
+  peek.style.left = x + 'px'; peek.style.top = y + 'px'; peek.classList.add('on');
+}
+function hidePeek() { clearTimeout(peekT); peek.classList.remove('on'); if (peekFor) peekFor.classList.remove('hov'); peekFor = null; }
+const canHover = matchMedia('(hover: hover)').matches;
+svg.addEventListener('pointerover', e => { if (!canHover || ptrs.size) return; const pin = e.target.closest('.pin'); if (pin && pin !== peekFor) showPeek(pin); });
+svg.addEventListener('pointerout', e => { const pin = e.target.closest('.pin'); if (pin && !pin.contains(e.relatedTarget)) { peekT = setTimeout(hidePeek, 90); } });
+svg.addEventListener('focusin', e => { const pin = e.target.closest('.pin'); if (pin) showPeek(pin); });
+svg.addEventListener('focusout', () => hidePeek());
+svg.addEventListener('keydown', e => { const pin = e.target.closest('.pin'); if (pin && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); openStory(pin.dataset.id); } });
+svg.addEventListener('pointerdown', hidePeek);
+svg.addEventListener('wheel', hidePeek, { passive: true });
+function listStories(filter = 'all') {
+  const items = S.filter(s => filter === 'all' || s.theme === filter);
+  document.getElementById('dbody').innerHTML = `<div class="hd"><div class="k">${S.length} stories</div><h2>Stories of the neighbourhood</h2><div class="sub">From the sand hills to today, in order.</div></div>
+    <div class="bd"><div class="tfil"><button data-f="all" class="${filter === 'all' ? 'on' : ''}">All</button>${Object.entries(TH).filter(([k]) => S.some(s => s.theme === k)).map(([k, v]) => `<button data-f="${k}" class="${filter === k ? 'on' : ''}" style="border-left:4px solid ${v.color}">${esc(v.label)}</button>`).join('')}</div>${items.map(card).join('')}</div>`;
+  document.getElementById('drawer').classList.add('open'); document.getElementById('drawer').scrollTop = 0;
+  document.querySelectorAll('.tfil button').forEach(b => b.onclick = () => listStories(b.dataset.f));
+}
+document.getElementById('dbody').addEventListener('click', e => { const c = e.target.closest('.scard'); if (c) openStory(c.dataset.sid); });
+document.getElementById('storiesBtn').onclick = () => listStories();
+document.getElementById('tourBtn').onclick = () => { if (!S.length) return; setYear(S[0].year, true); openStory(S[0].id, true); };
+/* ---------- time slider ---------- */
+const ERA_TXT = [[1850, 'Sand hills, springs and a new survey grid'], [1870, 'The Western Addition fills with Victorians'], [1906, 'Earthquake, fire and a new downtown on Fillmore'], [1915, 'A crossroads of communities'], [1942, 'Wartime: removal and the Great Migration'], [1946, 'Harlem of the West'], [1956, 'Redevelopment and displacement'], [1966, 'Counterculture next door'], [1989, 'Loma Prieta and the freeway'], [2005, 'The neighbourhood today']];
+const slider = document.getElementById('slider'), allY = document.getElementById('allYears');
+function setYear(y, fromStory) { slider.value = y; allY.checked = false; applyYear(); }
+function applyYear() {
+  const all = allY.checked, y = +slider.value;
+  document.getElementById('yr').textContent = all ? 'All years' : y;
+  document.getElementById('eraTxt').textContent = all ? 'Drag back in time' : [...ERA_TXT].reverse().find(([a]) => y >= a)[1];
+  svg.querySelectorAll('.pin').forEach(p => { const s = SBY[p.dataset.id], end = s.yearEnd || s.year; p.classList.toggle('off', !all && s.year > y); p.classList.toggle('dim', !all && end < y - 25); });
+  if (!window._roofs) window._roofs = [...svg.querySelectorAll('polygon[data-y]')];
+  window._roofs.forEach(r => { const by = +r.dataset.y; r.style.opacity = !all && by && by !== 1900 && by > y ? .07 : ''; });
+}
+slider.addEventListener('input', () => { allY.checked = false; applyYear(); });
+allY.addEventListener('change', applyYear);
+const _setVB = setVB; setVB = () => { _setVB(); svg.style.setProperty('--ps', Math.max(.42, Math.min(1.3, vb[2] / W * 1.5)).toFixed(3)); };
+
+build(); fit();
+</script>
+</body>
+</html>

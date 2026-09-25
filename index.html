@@ -3,71 +3,60 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<title>Layers: Alamo Square & Environs</title>
+<title>Layers: San Francisco in Time</title>
+<meta name="description" content="An illustrated, time-travelling map of San Francisco: every building coloured by when it was built, and hundreds of sourced stories pinned to the places they happened.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=IM+Fell+English+SC&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-  :root { --paper: #efe5cf; --ink: #3d3026; --ink-2: #6e5a47; --gold: #b8903f; --rose: #9c3b33;
-    --display: "Cormorant Garamond", Georgia, serif; --caps: "IM Fell English SC", Georgia, serif; --ui: Inter, -apple-system, system-ui, sans-serif; }
+  :root { --ink: #3d3026; --ink-2: #6e5a47; --gold: #b8903f; --rose: #9c3b33; --display: "Cormorant Garamond", Georgia, serif; --caps: "IM Fell English SC", Georgia, serif; --ui: Inter, -apple-system, system-ui, sans-serif; }
   * { box-sizing: border-box; }
-  html, body { margin: 0; height: 100%; overflow: hidden; background: #2c2620; }
-  #stage { position: fixed; inset: 0; }
-  #map { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
-  #map.drag { cursor: grabbing; }
-  .blk { fill: transparent; stroke: transparent; cursor: pointer; }
-  .blk:hover { fill: rgba(255, 244, 214, .28); stroke: #b8903f; stroke-width: 2.2; }
-  .blk.sel { fill: rgba(255, 238, 190, .32); stroke: #9c3b33; stroke-width: 3; }
-  .lm { cursor: pointer; }
-  .lm:hover circle { stroke-width: 2.5; }
-  /* ui chrome */
-  .legend { position: fixed; left: 18px; bottom: 18px; background: rgba(243, 234, 214, .95); border: 1px solid #c9b58a; border-radius: 12px; padding: 12px 14px; font: 12px var(--ui); color: var(--ink); box-shadow: 0 10px 30px rgba(0,0,0,.25); }
-  .legend h4 { margin: 0 0 8px; font: 600 10.5px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); }
-  .legend .row { display: flex; align-items: center; gap: 8px; margin: 4px 0; cursor: default; }
-  .legend .sw { width: 22px; height: 12px; border-radius: 3px; border: 1px solid rgba(61,48,38,.4); }
-  .zoom { position: fixed; right: 18px; bottom: 18px; display: flex; flex-direction: column; gap: 6px; }
-  .zoom button { width: 38px; height: 38px; border-radius: 10px; border: 1px solid #c9b58a; background: rgba(243,234,214,.95); font: 600 18px var(--ui); color: var(--ink); cursor: pointer; }
-  .drawer { position: fixed; top: 0; right: 0; height: 100%; width: min(420px, 100%); background: #f6eedb; box-shadow: -20px 0 60px rgba(0,0,0,.35); transform: translateX(105%); transition: transform .35s cubic-bezier(.2,.8,.2,1); overflow-y: auto; color: var(--ink); z-index: 10; }
-  .drawer.open { transform: none; }
-  .drawer .hd { padding: 26px 26px 14px; border-bottom: 1px solid #decfae; }
-  .drawer .k { font: 600 11px var(--ui); letter-spacing: .16em; text-transform: uppercase; color: var(--gold); }
-  .drawer h2 { font: 600 34px/1.1 var(--display); margin: 6px 0 4px; }
-  .drawer .sub { font: italic 18px var(--display); color: var(--ink-2); }
-  .drawer .bd { padding: 18px 26px 40px; font: 18px/1.5 var(--display); }
-  .drawer .close { position: absolute; top: 16px; right: 16px; width: 34px; height: 34px; border-radius: 50%; border: 1px solid #d6c49c; background: #fbf5e6; cursor: pointer; font: 16px var(--ui); color: var(--ink); }
-  .era-bar { display: flex; height: 12px; border-radius: 4px; overflow: hidden; margin: 8px 0 4px; }
-  .stat { font: 13px var(--ui); color: var(--ink-2); }
-  .soon { margin-top: 20px; padding: 14px 16px; border: 1px dashed #c9b58a; border-radius: 10px; font: 14px/1.5 var(--ui); color: var(--ink-2); background: #fbf5e6; }
-  .chip { display: inline-block; font: 500 12px var(--ui); padding: 3px 9px; border-radius: 999px; background: #eadcbc; margin: 3px 4px 0 0; color: var(--ink); }
-  .lmcard { margin: 10px 0; padding: 12px 14px; background: #fbf5e6; border-left: 3px solid var(--gold); border-radius: 0 8px 8px 0; }
-  .lmcard b { font: 600 19px var(--display); }
-  .lmcard a { font: 12px var(--ui); color: var(--rose); }
-
-  .pin { cursor: pointer; }
-  .pin .pi { transform: scale(var(--ps, 1)); transform-origin: 0 0; transition: transform .22s cubic-bezier(.3,.7,.3,1.3), opacity .3s, filter .2s; }
-  .pin .hit { fill: transparent; }
-  .pin.dim .pi { opacity: .18; }
-  .pin.off { display: none; }
-  .pin:hover .pi, .pin:focus .pi, .pin.hov .pi { transform: scale(calc(var(--ps, 1) * 1.28)); filter: drop-shadow(0 3px 4px rgba(60,40,20,.35)); }
-  .pin.sel .pi { transform: scale(calc(var(--ps, 1) * 1.38)); filter: drop-shadow(0 0 7px rgba(255,236,170,.95)) drop-shadow(0 3px 4px rgba(60,40,20,.35)); }
-  .pin:focus { outline: none; }
-  .peek { position: fixed; z-index: 8; width: 300px; pointer-events: none; background: #fbf5e6; color: var(--ink); border-radius: 12px; border: 1px solid #d9c79f; box-shadow: 0 14px 36px rgba(40,25,10,.3); padding: 12px 14px 13px; border-top: 4px solid var(--c, #b8903f); opacity: 0; transform: translateY(6px) scale(.98); transition: opacity .16s ease, transform .16s ease; }
-  .peek.on { opacity: 1; transform: none; }
-  .peek .m { font: 600 10.5px var(--ui); letter-spacing: .12em; text-transform: uppercase; color: var(--c); }
-  .peek .t { font: 600 21px/1.15 var(--display); margin: 3px 0 5px; }
-  .peek .h { font: italic 16px/1.4 var(--display); color: var(--ink-2); }
-  .peek .p { font: 11.5px var(--ui); color: #9b8561; margin-top: 7px; }
-  .peek .cta { font: 600 11px var(--ui); color: var(--rose); margin-top: 6px; letter-spacing: .02em; }
-  .topbar { position: fixed; top: 16px; right: 18px; display: flex; gap: 8px; z-index: 5; }
-  .topbar button { font: 600 13px var(--ui); color: var(--ink); background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 999px; padding: 9px 16px; cursor: pointer; box-shadow: 0 6px 20px rgba(0,0,0,.2); }
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #b7cbcf; }
+  #cv { position: fixed; inset: 0; width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
+  #cv.drag { cursor: grabbing; } #cv.hand { cursor: pointer; }
+  .texture { position: fixed; inset: 0; pointer-events: none; mix-blend-mode: multiply; opacity: .5; }
+  .vignette { position: fixed; inset: 0; pointer-events: none; background: radial-gradient(ellipse at center, transparent 55%, rgba(59,42,24,.28)); }
+  .fog { position: fixed; inset: -20%; pointer-events: none; opacity: .22; background: radial-gradient(40% 25% at 20% 30%, #fff, transparent 70%), radial-gradient(35% 22% at 70% 65%, #fff, transparent 70%), radial-gradient(30% 18% at 45% 85%, #fff, transparent 70%); animation: drift 120s linear infinite; }
+  @keyframes drift { from { transform: translateX(-12%); } to { transform: translateX(12%); } }
+  .cartouche { position: fixed; left: 18px; top: 16px; background: rgba(248,240,220,.96); border: 2px solid #b8903f; border-radius: 10px; padding: 12px 20px 12px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,.2); pointer-events: none; }
+  .cartouche .k { font: 14px var(--caps); letter-spacing: 5px; color: #8a6d3b; }
+  .cartouche h1 { margin: 2px 0 0; font: italic 700 32px/1.05 var(--display); color: var(--ink); }
+  .cartouche .s { font: 15px var(--display); color: var(--ink-2); margin-top: 2px; }
+  .topbar { position: fixed; top: 16px; right: 18px; display: flex; gap: 8px; z-index: 5; align-items: center; }
+  .topbar button, .search { font: 600 13px var(--ui); color: var(--ink); background: rgba(243,234,214,.97); border: 1px solid #c9b58a; border-radius: 999px; padding: 9px 16px; cursor: pointer; box-shadow: 0 6px 20px rgba(0,0,0,.18); }
   .topbar button.pri { background: #3d3026; color: #f6eedb; border-color: #3d3026; }
-  .timebar { position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%); width: min(620px, calc(100% - 300px)); background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 14px; padding: 10px 18px 12px; box-shadow: 0 10px 30px rgba(0,0,0,.25); z-index: 4; }
+  .search { width: 240px; cursor: text; font-weight: 500; outline: none; }
+  .results { position: fixed; top: 58px; right: 18px; width: 360px; max-height: 60vh; overflow: auto; background: #fbf5e6; border: 1px solid #d6c49c; border-radius: 12px; box-shadow: 0 16px 40px rgba(0,0,0,.25); display: none; z-index: 6; }
+  .results.on { display: block; }
+  .results div { padding: 9px 14px; border-bottom: 1px solid #eadcbc; cursor: pointer; font: 13.5px var(--ui); color: var(--ink); }
+  .results div:hover { background: #f3e7c9; } .results small { color: #9b8561; display: block; }
+  .legend { position: fixed; left: 18px; bottom: 18px; background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 12px; padding: 12px 14px; font: 12px var(--ui); color: var(--ink); box-shadow: 0 10px 30px rgba(0,0,0,.2); }
+  .legend h4 { margin: 0 0 8px; font: 600 10.5px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); }
+  .legend .row { display: flex; align-items: center; gap: 8px; margin: 4px 0; }
+  .legend .sw { width: 22px; height: 12px; border-radius: 3px; border: 1px solid rgba(61,48,38,.35); }
+  .zoom { position: fixed; right: 18px; bottom: 18px; display: flex; flex-direction: column; gap: 6px; }
+  .zoom button { width: 38px; height: 38px; border-radius: 10px; border: 1px solid #c9b58a; background: rgba(243,234,214,.96); font: 600 18px var(--ui); color: var(--ink); cursor: pointer; }
+  .timebar { position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%); width: min(620px, calc(100% - 320px)); background: rgba(243,234,214,.96); border: 1px solid #c9b58a; border-radius: 14px; padding: 10px 18px 12px; box-shadow: 0 10px 30px rgba(0,0,0,.22); z-index: 4; }
   .timebar .row1 { display: flex; align-items: baseline; gap: 12px; }
   .timebar .yr { font: 700 30px/1 var(--display); color: var(--ink); min-width: 92px; }
   .timebar .era { font: italic 16px var(--display); color: var(--ink-2); flex: 1; }
   .timebar label { font: 500 12px var(--ui); color: var(--ink-2); display: flex; align-items: center; gap: 6px; cursor: pointer; }
   .timebar input[type=range] { width: 100%; accent-color: #9c3b33; margin: 6px 0 0; }
   .ticks { display: flex; justify-content: space-between; font: 10.5px var(--ui); color: #9b8561; }
-  @media (max-width: 800px) { .timebar { width: calc(100% - 24px); bottom: 70px; } .legend { display: none; } }
+  @media (max-width: 860px) { .timebar { width: calc(100% - 24px); bottom: 70px; } .legend, .cartouche .s { display: none; } .search { width: 150px; } .cartouche h1 { font-size: 22px; } }
+  .drawer { position: fixed; top: 0; right: 0; height: 100%; width: min(430px, 100%); background: #f6eedb; box-shadow: -20px 0 60px rgba(0,0,0,.3); transform: translateX(105%); transition: transform .35s cubic-bezier(.2,.8,.2,1); overflow-y: auto; color: var(--ink); z-index: 10; }
+  .drawer.open { transform: none; }
+  .drawer .close { position: absolute; top: 16px; right: 16px; width: 34px; height: 34px; border-radius: 50%; border: 1px solid #d6c49c; background: #fbf5e6; cursor: pointer; font: 16px var(--ui); color: var(--ink); z-index: 2; }
+  .hd { padding: 26px 26px 14px; border-bottom: 1px solid #decfae; }
+  .hd .k { font: 600 11px var(--ui); letter-spacing: .16em; text-transform: uppercase; color: var(--gold); }
+  .hd h2 { font: 600 32px/1.1 var(--display); margin: 6px 0 4px; }
+  .hd .sub { font: italic 18px var(--display); color: var(--ink-2); }
+  .bd { padding: 18px 26px 40px; font: 18px/1.5 var(--display); }
+  .stat { font: 13px var(--ui); color: var(--ink-2); }
+  .era-bar { display: flex; height: 12px; border-radius: 4px; overflow: hidden; margin: 8px 0 4px; }
+  .chip { display: inline-block; font: 500 12px var(--ui); padding: 3px 9px; border-radius: 999px; background: #eadcbc; margin: 3px 4px 0 0; color: var(--ink); }
+  .soon { margin-top: 18px; padding: 14px 16px; border: 1px dashed #c9b58a; border-radius: 10px; font: 14px/1.5 var(--ui); color: var(--ink-2); background: #fbf5e6; }
+  .lmcard { margin: 10px 0; padding: 12px 14px; background: #fbf5e6; border-left: 3px solid var(--gold); border-radius: 0 8px 8px 0; }
+  .lmcard b { font: 600 19px var(--display); } .lmcard a { font: 12px var(--ui); color: var(--rose); }
   .scard { margin: 12px 0; padding: 14px 16px; background: #fbf5e6; border-radius: 10px; border-left: 4px solid var(--c, #b8903f); cursor: pointer; }
   .scard:hover { background: #fffaf0; }
   .scard .t { font: 600 21px/1.2 var(--display); }
@@ -76,268 +65,342 @@
   .story-v .m { font: 600 11.5px var(--ui); letter-spacing: .12em; text-transform: uppercase; color: var(--c); }
   .story-v h2 { font: 600 34px/1.1 var(--display); margin: 6px 0 6px; }
   .story-v .place { font: 13px var(--ui); color: var(--ink-2); }
-  .story-v .hook { font: italic 21px/1.45 var(--display); color: var(--ink); margin: 16px 0 12px; padding-left: 14px; border-left: 3px solid var(--c); }
+  .story-v .hook { font: italic 21px/1.45 var(--display); margin: 16px 0 12px; padding-left: 14px; border-left: 3px solid var(--c); }
   .story-v .txt { font: 19px/1.6 var(--display); }
   .story-v sup a { font: 600 11px var(--ui); color: var(--rose); text-decoration: none; }
   .story-v .src { font: 12.5px/1.5 var(--ui); color: var(--ink-2); margin-top: 18px; padding-top: 12px; border-top: 1px solid #decfae; }
   .story-v .src ol { padding-left: 18px; margin: 6px 0 0; } .story-v .src a { color: var(--rose); }
-  .story-v .ppl { margin-top: 12px; }
   .story-v img { width: 100%; border-radius: 8px; margin: 12px 0 4px; }
   .navrow { display: flex; justify-content: space-between; gap: 8px; margin-top: 18px; }
   .navrow button, .backbtn { font: 500 13px var(--ui); color: var(--ink); background: #fbf5e6; border: 1px solid #d6c49c; border-radius: 999px; padding: 7px 14px; cursor: pointer; }
   .tfil { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 8px; }
-  .tfil button { font: 500 12px var(--ui); border-radius: 999px; padding: 4px 10px; border: 1px solid #d6c49c; background: #fbf5e6; cursor: pointer; color: var(--ink); }
+  .tfil button, .tfil select { font: 500 12px var(--ui); border-radius: 999px; padding: 4px 10px; border: 1px solid #d6c49c; background: #fbf5e6; cursor: pointer; color: var(--ink); }
   .tfil button.on { background: #3d3026; color: #f6eedb; border-color: #3d3026; }
+  .peek { position: fixed; z-index: 8; width: 300px; pointer-events: none; background: #fbf5e6; color: var(--ink); border-radius: 12px; border: 1px solid #d9c79f; box-shadow: 0 14px 36px rgba(40,25,10,.3); padding: 12px 14px 13px; border-top: 4px solid var(--c, #b8903f); opacity: 0; transform: translateY(6px) scale(.98); transition: opacity .16s ease, transform .16s ease; }
+  .peek.on { opacity: 1; transform: none; }
+  .peek .m { font: 600 10.5px var(--ui); letter-spacing: .12em; text-transform: uppercase; color: var(--c); }
+  .peek .t { font: 600 21px/1.15 var(--display); margin: 3px 0 5px; }
+  .peek .h { font: italic 16px/1.4 var(--display); color: var(--ink-2); }
+  .peek .p { font: 11.5px var(--ui); color: #9b8561; margin-top: 7px; }
+  .peek .cta { font: 600 11px var(--ui); color: var(--rose); margin-top: 6px; }
+  .loading { position: fixed; left: 50%; top: 50%; transform: translate(-50%,-50%); font: italic 22px var(--display); color: var(--ink); background: rgba(248,240,220,.95); padding: 14px 24px; border-radius: 12px; border: 1px solid #c9b58a; }
 </style>
 </head>
 <body>
-<div id="stage"><svg id="map" role="img" aria-label="Illustrated map of Alamo Square and the surrounding neighbourhoods"></svg></div>
+<canvas id="cv"></canvas>
+<div class="texture" id="tex"></div><div class="fog"></div><div class="vignette"></div>
+<div class="cartouche"><div class="k">LAYERS · A MAP IN TIME</div><h1>San Francisco</h1><div class="s">Every block, every era. Zoom in to explore.</div></div>
+<a href="alamo.html" style="position:fixed;left:18px;top:128px;font:600 12px Inter,system-ui,sans-serif;color:#6e5a47;background:rgba(243,234,214,.94);border:1px solid #c9b58a;border-radius:999px;padding:6px 12px;text-decoration:none">Alamo Square in detail →</a>
+<div class="topbar"><input class="search" id="search" placeholder="Search places & stories" aria-label="Search"><button class="pri" id="tourBtn">Walk through time</button><button id="storiesBtn">All stories</button></div>
+<div class="results" id="results"></div>
 <div class="legend" id="legend"></div>
-<div class="topbar"><button class="pri" id="tourBtn">Walk through time</button><button id="storiesBtn">All stories</button></div>
 <div class="timebar"><div class="row1"><span class="yr" id="yr">All years</span><span class="era" id="eraTxt">Drag back in time</span><label><input type="checkbox" id="allYears" checked> All years</label></div>
-<input type="range" id="slider" min="1850" max="2026" step="1" value="2026" aria-label="Year"><div class="ticks"><span>1850</span><span>1880</span><span>1906</span><span>1942</span><span>1960</span><span>1989</span><span>today</span></div></div>
+<input type="range" id="slider" min="1776" max="2026" step="1" value="2026" aria-label="Year"><div class="ticks"><span>1776</span><span>1849</span><span>1906</span><span>1942</span><span>1967</span><span>1989</span><span>today</span></div></div>
 <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button></div>
-<div class="peek" id="peek" aria-hidden="true"></div>
-<aside class="drawer" id="drawer" aria-live="polite"><button class="close" id="close" aria-label="Close">✕</button><div id="dbody"></div></aside>
+<div class="peek" id="peek"></div>
+<aside class="drawer" id="drawer"><button class="close" id="close" aria-label="Close">✕</button><div id="dbody"></div></aside>
+<div class="loading" id="loading">Unrolling the map…</div>
 
-<script src="map.js"></script>
-<script src="stories.js"></script>
+<script src="city/base.js"></script>
+<script src="city/stories.js"></script>
 <script>
-const M = window.MAP, NS = 'http://www.w3.org/2000/svg';
-const svg = document.getElementById('map');
-const PAD = 120, W = M.w + PAD * 2, H = M.h + PAD * 2;
+const B = window.BASE, ST = window.STORIES || { themes: {}, stories: [] };
+const cv = document.getElementById('cv'), ctx = cv.getContext('2d');
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-const pts = p => p.map(([x, y]) => `${(x + PAD).toFixed(1)},${(y + PAD).toFixed(1)}`).join(' ');
-const path = p => 'M' + p.map(([x, y]) => `${(x + PAD).toFixed(1)} ${(y + PAD).toFixed(1)}`).join(' L') + ' Z';
-const line = p => 'M' + p.map(([x, y]) => `${(x + PAD).toFixed(1)} ${(y + PAD).toFixed(1)}`).join(' L');
-function hash(s) { let h = 2166136261; for (const ch of String(s)) { h ^= ch.charCodeAt(0); h = Math.imul(h, 16777619); } return Math.abs(h); }
+function hash(n) { n = (n ^ 61) ^ (n >>> 16); n = n + (n << 3); n = n ^ (n >>> 4); n = Math.imul(n, 0x27d4eb2d); return Math.abs(n ^ (n >>> 15)); }
 
-/* ---------- era palette: a Painted Ladies palette for Victorians, softer tones after 1906 ---------- */
+/* ---------- palette ---------- */
 const ERAS = [
-  { k: 'vic', label: 'Before 1906', test: y => y && y < 1906 && y !== 1900, cols: ['#d98f8a', '#8fb39f', '#e3bd67', '#97a6d3', '#c49bc4', '#e8a37b', '#7ea8b8', '#d7b18c'] },
-  { k: 'edw', label: '1906–1929', test: y => y >= 1906 && y < 1930, cols: ['#eed6ad', '#e8cfc3', '#d3dfcb', '#d8d2e7', '#efdfa6', '#f0c9b0'] },
-  { k: 'deco', label: '1930–1949', test: y => y >= 1930 && y < 1950, cols: ['#e6cca3', '#dcc5a3', '#e9d8bd'] },
-  { k: 'mod', label: '1950–1979', test: y => y >= 1950 && y < 1980, cols: ['#b7bec4', '#a8b3bc', '#c5c1b6'] },
-  { k: 'now', label: '1980–today', test: y => y >= 1980, cols: ['#cdd6d1', '#d9d0c6', '#c9cfd8'] },
-  { k: 'unk', label: 'Year unknown', test: () => true, cols: ['#e6dac3', '#e1d5bd'] },
+  { k: 'vic', label: 'Before 1906', cols: ['#d98f8a', '#8fb39f', '#e3bd67', '#97a6d3', '#c49bc4', '#e8a37b', '#7ea8b8', '#d7b18c'] },
+  { k: 'edw', label: '1906–1929', cols: ['#eed6ad', '#e8cfc3', '#d3dfcb', '#d8d2e7', '#efdfa6', '#f0c9b0'] },
+  { k: 'deco', label: '1930–1949', cols: ['#e6cca3', '#dcc5a3', '#e9d8bd'] },
+  { k: 'mod', label: '1950–1979', cols: ['#b7bec4', '#a8b3bc', '#c5c1b6'] },
+  { k: 'now', label: '1980–today', cols: ['#cdd6d1', '#d9d0c6', '#c9cfd8'] },
+  { k: 'unk', label: 'Year unknown', cols: ['#e6dac3', '#e1d5bd'] },
 ];
-const eraOf = y => ERAS.find(e => e.test(y));
-const GLYPH = { // tiny emblems drawn inside each story pin (centre at 0,-21)
-  origins: '<path d="M0 -16 V-26 M0 -22 Q-4 -24 -5 -28 Q-1 -27 0 -23 M0 -20 Q4 -22 5 -26 Q1 -25 0 -21" fill="none" stroke="#9b7b4f" stroke-width="1.6" stroke-linecap="round"/>',
-  victorian: '<path d="M-5 -16 V-22 L0 -27 L5 -22 V-16 Z" fill="none" stroke="#b4556b" stroke-width="1.6" stroke-linejoin="round"/><rect x="-1.4" y="-20" width="2.8" height="4" fill="#b4556b"/>',
-  quake1906: '<path d="M0 -15 C-5 -18 -5 -22 -2 -26 C-2 -23 0 -22 1 -24 C4 -21 5 -18 0 -15 Z" fill="#c0602f"/>',
-  communities: '<circle cx="-3" cy="-23" r="2.2" fill="#5f7f4f"/><circle cx="3" cy="-23" r="2.2" fill="#5f7f4f"/><path d="M-6.5 -16 Q-3 -20 0 -16 Q3 -20 6.5 -16" fill="none" stroke="#5f7f4f" stroke-width="1.6"/>',
-  harlem: '<path d="M1 -27 V-18 A2.6 2.2 0 1 1 -1.4 -19.6 V-27 L5 -28.5 V-20" fill="none" stroke="#3f5f9c" stroke-width="1.6" stroke-linecap="round"/>',
-  redevelopment: '<path d="M-5 -16 H5 M-3 -16 V-26 H4 M4 -26 V-22" fill="none" stroke="#6c6f76" stroke-width="1.6" stroke-linecap="round"/>',
-  institutions: '<path d="M-5.5 -24 L0 -27.5 L5.5 -24 Z M-4 -23 V-17.5 M0 -23 V-17.5 M4 -23 V-17.5 M-5.5 -16.5 H5.5" fill="none" stroke="#8a6d3b" stroke-width="1.4" stroke-linejoin="round"/>',
-  modern: '<path d="M0 -27 L1.6 -22.6 L6 -22.4 L2.6 -19.6 L3.8 -15.4 L0 -18 L-3.8 -15.4 L-2.6 -19.6 L-6 -22.4 L-1.6 -22.6 Z" fill="#7a4f9c"/>',
-};
-function shade(hex, f) { const n = parseInt(hex.slice(1), 16); let r = n >> 16, g = n >> 8 & 255, b = n & 255; r = Math.round(r * f); g = Math.round(g * f); b = Math.round(b * f); return '#' + [r, g, b].map(v => Math.max(0, Math.min(255, v)).toString(16).padStart(2, '0')).join(''); }
+const EK = {}; ERAS.forEach(e => EK[e.k] = e);
+const eraOf = y => !y || y === 1900 ? 'unk' : y < 1906 ? 'vic' : y < 1930 ? 'edw' : y < 1950 ? 'deco' : y < 1980 ? 'mod' : 'now';
+const BLOCK_TINT = { vic: '#e2a996', edw: '#ecd6a9', deco: '#e2c99c', mod: '#b9c3c8', now: '#cbd3cd', unk: '#e8ddc6' };
+function shade(hex, f) { const n = parseInt(hex.slice(1), 16); return `rgb(${Math.round((n >> 16) * f)},${Math.round((n >> 8 & 255) * f)},${Math.round((n & 255) * f)})`; }
+const WALL = {}; ERAS.forEach(e => e.cols.forEach(c => WALL[c] = shade(c, .72)));
+const THEME_COL = {};
 
-/* ---------- build the illustration ---------- */
-function build() {
-  const k = .38; // px of "pop-up" per metre of height
-  let s = `<defs>
-    <filter id="paper" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 .42  0 0 0 0 .33  0 0 0 0 .2  0 0 0 .1 0"/></filter>
-    <filter id="wash" x="-10%" y="-10%" width="120%" height="120%"><feTurbulence type="fractalNoise" baseFrequency=".012" numOctaves="2" seed="9"/><feDisplacementMap in="SourceGraphic" scale="14"/></filter>
-    <filter id="fog" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
-    <radialGradient id="vig" cx=".5" cy=".5" r=".75"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#3b2a18" stop-opacity=".28"/></radialGradient>
-    <radialGradient id="hill" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#cfe0a8"/><stop offset="1" stop-color="#9fbf7e"/></radialGradient>
-    <clipPath id="aoiClip"><path d="${M.aoi.map(path).join(' ')}"/></clipPath>
-  </defs>
-  <rect width="${W}" height="${H}" fill="#f4ecd9"/>`;
-  // blocks (land) — outside the study area washed out
-  s += `<g>${M.blocks.map(b => b.p.map(p => `<path d="${path(p)}" fill="${b.inAoi ? '#e4d7bb' : '#e9e0cc'}" stroke="${b.inAoi ? '#e4d7bb' : '#e9e0cc'}" stroke-width="3" stroke-linejoin="round"/>`).join('')).join('')}</g>`;
-  // parks
-  s += `<g>${M.parks.map(p => p.p.map(q => `<path d="${path(q)}" fill="${p.n === 'Alamo Square' ? 'url(#hill)' : '#b5cc93'}" stroke="#8fae6d" stroke-width="1.2"/>`).join('')).join('')}</g>`;
-  // park footpaths
-  s += `<g fill="none" stroke="#f3ead2" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="1 4.5" opacity=".9">${M.streets.filter(t => t.k === 0).map(t => `<path d="${line(t.p)}"/>`).join('')}</g>`;
-  // buildings: walls then roofs, drawn north-to-south so southern buildings overlap
-  const bs = M.buildings.map(b => { const e = eraOf(b.y), col = e.cols[hash(b.a || b.p[0].join()) % e.cols.length]; const cy = b.p.reduce((a, q) => a + q[1], 0) / b.p.length; return { ...b, e, col, cy, lift: Math.min(28, Math.max(3, b.h * k)) }; }).sort((a, b) => a.cy - b.cy);
-  s += `<g stroke="#4a3b30" stroke-width=".55" stroke-linejoin="round">${bs.map(b => {
-    const base = pts(b.p), roof = pts(b.p.map(([x, y]) => [x, y - b.lift]));
-    return `<polygon points="${base}" fill="${shade(b.col, .72)}" data-y="${b.y || ""}"/><polygon points="${roof}" fill="${b.col}" data-e="${b.e.k}" data-y="${b.y || ""}"/>`;
-  }).join('')}</g>`;
-  // trees: watercolour dabs
-  const greens = ['#7fa35f', '#8fb06a', '#6f9656', '#97b873'];
-  s += `<g>${M.trees.map(([x, y], i) => { const r = 2.6 + (hash(i) % 10) / 8; return `<circle cx="${(x + PAD + .9).toFixed(1)}" cy="${(y + PAD + 1.2).toFixed(1)}" r="${r.toFixed(1)}" fill="#4f5e37" opacity=".22"/><circle cx="${(x + PAD).toFixed(1)}" cy="${(y + PAD).toFixed(1)}" r="${r.toFixed(1)}" fill="${greens[i % 4]}" opacity=".9"/>`; }).join('')}</g>`;
-  // street names: longest segment of each named street
-  const best = {};
-  M.streets.filter(t => t.n && t.k >= 1).forEach(t => { const len = Math.hypot(t.p.at(-1)[0] - t.p[0][0], t.p.at(-1)[1] - t.p[0][1]); if (!best[t.n] || len > best[t.n].len) best[t.n] = { len, t }; });
-  s += `<g font-family="IM Fell English SC, Georgia, serif" font-size="11" fill="#8a7356" letter-spacing="2.2">${Object.entries(best).filter(([, v]) => v.len > 120).map(([n, { t }], i) => {
-    const a = t.p[0], b = t.p.at(-1); let ang = Math.atan2(b[1] - a[1], b[0] - a[0]) * 180 / Math.PI; if (ang > 90) ang -= 180; if (ang < -90) ang += 180;
-    const mx = (a[0] + b[0]) / 2 + PAD, my = (a[1] + b[1]) / 2 + PAD;
-    return `<text x="${mx.toFixed(1)}" y="${my.toFixed(1)}" transform="rotate(${ang.toFixed(1)} ${mx.toFixed(1)} ${my.toFixed(1)})" text-anchor="middle" dominant-baseline="middle" paint-order="stroke" stroke="#f4ecd9" stroke-width="4">${esc(n.replace(/ Street$/, ' St').replace(/ Avenue$/, ' Ave').replace(/ Boulevard$/, ' Blvd').toUpperCase())}</text>`;
-  }).join('')}</g>`;
-  // block hit areas
-  s += `<g id="blocks">${M.blocks.filter(b => b.inAoi).map(b => `<path class="blk" data-id="${b.id}" d="${b.p.map(path).join(' ')}"/>`).join('')}</g>`;
-  // study-area boundary
-  s += `<path d="${M.aoi.map(path).join(' ')}" fill="none" stroke="#9c3b33" stroke-width="2" stroke-dasharray="10 6" opacity=".55"/>`;
+/* ---------- camera ---------- */
+let W = 0, H = 0, DPR = 1;
+const cam = { x: 0, y: 0, s: .05 };
+const toS = (x, y) => [(x - cam.x) * cam.s + W / 2, (y - cam.y) * cam.s + H / 2];
+const toM = (X, Y) => [(X - W / 2) / cam.s + cam.x, (Y - H / 2) / cam.s + cam.y];
+function resize() { DPR = Math.min(2, devicePixelRatio || 1); W = innerWidth; H = innerHeight; cv.width = W * DPR; cv.height = H * DPR; dirty(); }
+function fitCity() { const [x0, y0, x1, y1] = B.bounds; cam.x = (x0 + x1) / 2; cam.y = (y0 + y1) / 2; cam.s = Math.min(W / (x1 - x0), H / (y1 - y0)) * .92; }
+const SMIN = .02, SMAX = 7, BLD_Z = .85, TREE_Z = 1.6, LABEL_Z = 1.05;
+
+/* ---------- tiles ---------- */
+const TILESET = new Set(B.tiles), TILES = new Map(), LOADING = new Set();
+function visibleTiles(pad = 1) {
+  const [x0, y0] = toM(0, 0), [x1, y1] = toM(W, H), T = B.tile, out = [];
+  for (let i = Math.floor(x0 / T) - pad; i <= Math.floor(x1 / T) + pad; i++) for (let j = Math.floor(y0 / T) - pad; j <= Math.floor(y1 / T) + pad; j++) { const k = `${i}_${j}`; if (TILESET.has(k)) out.push([i, j, k]); }
+  return out;
+}
+function decodeTile(raw, i, j) {
+  const T = B.tile, ox = i * T, oy = j * T, blds = [];
+  raw.b.forEach((a, n) => { const pts = new Float32Array(a.length - 2); let x = 0, y = 0; for (let k = 2; k < a.length; k += 2) { x += a[k]; y += a[k + 1]; pts[k - 2] = ox + x / 2; pts[k - 1] = oy + y / 2; }
+    let cy = 0; for (let k = 1; k < pts.length; k += 2) cy += pts[k]; cy /= pts.length / 2;
+    const e = EK[eraOf(a[0])], col = e.cols[hash(i * 7919 + j * 104729 + n) % e.cols.length];
+    blds.push({ y: a[0], lift: Math.min(28, Math.max(3, a[1] * .38)), pts, cy, col, wall: WALL[col] }); });
+  blds.sort((p, q) => p.cy - q.cy);
+  const tr = new Float32Array(raw.t.length); for (let k = 0; k < raw.t.length; k += 2) { tr[k] = ox + raw.t[k] / 2; tr[k + 1] = oy + raw.t[k + 1] / 2; }
+  return { blds, trees: tr };
+}
+function ensureTiles() {
+  if (cam.s < BLD_Z * .8) return;
+  for (const [i, j, k] of visibleTiles(1)) {
+    if (TILES.has(k) || LOADING.has(k)) continue;
+    LOADING.add(k);
+    fetch(`city/tiles/${k}.json`).then(r => r.json()).then(raw => { TILES.set(k, decodeTile(raw, i, j)); LOADING.delete(k); dirty(); }).catch(() => LOADING.delete(k));
+  }
+  if (TILES.size > 260) { const keep = new Set(visibleTiles(2).map(v => v[2])); for (const k of TILES.keys()) if (!keep.has(k)) TILES.delete(k); }
+}
+
+/* ---------- time filter ---------- */
+let YEAR = null; // null = all years
+
+/* ---------- drawing helpers ---------- */
+function pathRing(r) { const [x, y] = toS(r[0][0], r[0][1]); ctx.moveTo(x, y); for (let k = 1; k < r.length; k++) { const p = r[k]; ctx.lineTo((p[0] - cam.x) * cam.s + W / 2, (p[1] - cam.y) * cam.s + H / 2); } ctx.closePath(); }
+function inView(bb, m = 0) { const [a, b] = toS(bb[0], bb[1]), [c, d] = toS(bb[2], bb[3]); return c >= -m && a <= W + m && d >= -m && b <= H + m; }
+B.parks.forEach(p => { let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9; p.p.forEach(r => r.forEach(([x, y]) => { x0 = Math.min(x0, x); y0 = Math.min(y0, y); x1 = Math.max(x1, x); y1 = Math.max(y1, y); })); p.bb = [x0, y0, x1, y1]; });
+B.streets.forEach(s => { let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9; s.p.forEach(([x, y]) => { x0 = Math.min(x0, x); y0 = Math.min(y0, y); x1 = Math.max(x1, x); y1 = Math.max(y1, y); }); s.bb = [x0, y0, x1, y1]; });
+
+/* ---------- render ---------- */
+let need = true; function dirty() { need = true; }
+function render() {
+  need = false;
+  ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+  const s = cam.s;
+  ctx.fillStyle = '#b7cbcf'; ctx.fillRect(0, 0, W, H);
+  // land with a soft coastline halo
+  ctx.beginPath(); B.land.forEach(pathRing);
+  ctx.save(); ctx.shadowColor = 'rgba(80,110,115,.45)'; ctx.shadowBlur = 18; ctx.fillStyle = '#f4ecd9'; ctx.fill(); ctx.restore();
+  ctx.lineWidth = 1.2; ctx.strokeStyle = '#8fa9ad'; ctx.stroke();
+  // blocks
+  const showB = s >= BLD_Z;
+  for (const b of B.blocks) {
+    if (!inView(b.bb, 20)) continue;
+    ctx.beginPath(); b.p.forEach(pathRing);
+    const tint = YEAR && b.old && b.old > YEAR ? '#ece3cf' : showB ? '#e4d7bb' : BLOCK_TINT[b.dom];
+    ctx.fillStyle = tint; ctx.fill();
+    if (s > .12) { ctx.lineWidth = Math.min(3, s * 2.4); ctx.strokeStyle = tint; ctx.lineJoin = 'round'; ctx.stroke(); }
+  }
+  // parks, sand, water
+  for (const p of B.parks) {
+    if (!inView(p.bb, 10)) continue;
+    ctx.beginPath(); p.p.forEach(pathRing);
+    ctx.fillStyle = p.k === 'water' ? '#b7cbcf' : p.k === 'sand' ? '#eadbb2' : p.k === 'golf' ? '#c3d6a0' : '#b8cf95'; ctx.fill();
+    if (p.k !== 'sand') { ctx.lineWidth = .8; ctx.strokeStyle = p.k === 'water' ? '#8fa9ad' : '#94b073'; ctx.stroke(); }
+  }
+  // paths in parks
+  if (s > 1.1) { ctx.setLineDash([1.2 * s, 4 * s]); ctx.lineCap = 'round'; ctx.lineWidth = Math.max(1, 1.6 * s); ctx.strokeStyle = 'rgba(245,236,212,.95)';
+    for (const st of B.streets) { if (st.k !== 0 || !inView(st.bb, 10)) continue; ctx.beginPath(); st.p.forEach(([x, y], k) => { const X = (x - cam.x) * s + W / 2, Y = (y - cam.y) * s + H / 2; k ? ctx.lineTo(X, Y) : ctx.moveTo(X, Y); }); ctx.stroke(); }
+    ctx.setLineDash([]); }
+  // freeways at every zoom (helps orientation)
+  if (s < BLD_Z) { ctx.lineWidth = Math.max(1, 6 * s); ctx.strokeStyle = 'rgba(255,248,232,.85)'; ctx.lineCap = 'round';
+    for (const st of B.streets) { if (st.k < 3 || !inView(st.bb, 10)) continue; ctx.beginPath(); st.p.forEach(([x, y], k) => { const X = (x - cam.x) * s + W / 2, Y = (y - cam.y) * s + H / 2; k ? ctx.lineTo(X, Y) : ctx.moveTo(X, Y); }); ctx.stroke(); } }
+  // buildings
+  if (showB) {
+    ctx.lineJoin = 'round'; ctx.lineWidth = Math.min(.8, .35 + s * .12); ctx.strokeStyle = 'rgba(74,59,48,.85)';
+    const vt = visibleTiles(0).map(v => TILES.get(v[2])).filter(Boolean);
+    const all = []; vt.forEach(t => t.blds.forEach(b => all.push(b)));
+    if (vt.length > 1) all.sort((p, q) => p.cy - q.cy);
+    const [mx0, my0] = toM(-40, -40), [mx1, my1] = toM(W + 40, H + 80);
+    for (const b of all) {
+      const p = b.pts; if (b.cy < my0 || b.cy > my1 || p[0] < mx0 - 80 || p[0] > mx1 + 80) continue;
+      const faded = YEAR && b.y && b.y !== 1900 && b.y > YEAR;
+      ctx.globalAlpha = faded ? .08 : 1;
+      const L = b.lift * s;
+      ctx.beginPath(); for (let k = 0; k < p.length; k += 2) { const X = (p[k] - cam.x) * s + W / 2, Y = (p[k + 1] - cam.y) * s + H / 2; k ? ctx.lineTo(X, Y) : ctx.moveTo(X, Y); } ctx.closePath();
+      ctx.fillStyle = b.wall; ctx.fill(); if (s > 1.2) ctx.stroke();
+      ctx.beginPath(); for (let k = 0; k < p.length; k += 2) { const X = (p[k] - cam.x) * s + W / 2, Y = (p[k + 1] - cam.y) * s + H / 2 - L; k ? ctx.lineTo(X, Y) : ctx.moveTo(X, Y); } ctx.closePath();
+      ctx.fillStyle = b.col; ctx.fill(); if (s > .95) ctx.stroke();
+    }
+    ctx.globalAlpha = 1;
+    if (s >= TREE_Z) {
+      const G = ['#7fa35f', '#8fb06a', '#6f9656', '#97b873'];
+      for (const t of vt) { const tr = t.trees; for (let k = 0; k < tr.length; k += 2) { const X = (tr[k] - cam.x) * s + W / 2, Y = (tr[k + 1] - cam.y) * s + H / 2; if (X < -20 || Y < -20 || X > W + 20 || Y > H + 20) continue; const r = (2.6 + (k % 7) / 5) * s;
+        ctx.fillStyle = 'rgba(79,94,55,.2)'; ctx.beginPath(); ctx.arc(X + .9 * s, Y + 1.2 * s, r, 0, 7); ctx.fill(); ctx.fillStyle = G[(k >> 1) % 4]; ctx.globalAlpha = .9; ctx.beginPath(); ctx.arc(X, Y, r, 0, 7); ctx.fill(); ctx.globalAlpha = 1; } }
+    }
+  }
+  // street labels
+  if (s >= LABEL_Z) {
+    ctx.font = `${Math.round(Math.min(14, 8 + s * 2))}px "IM Fell English SC", Georgia, serif`; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.lineWidth = 4; ctx.strokeStyle = '#f4ecd9'; ctx.fillStyle = '#8a7356';
+    for (const [n, x, y, a] of B.labels) { const [X, Y] = toS(x, y); if (X < -100 || Y < -30 || X > W + 100 || Y > H + 30) continue; ctx.save(); ctx.translate(X, Y); ctx.rotate(a * Math.PI / 180); const t = n.toUpperCase().split('').join(' '); ctx.strokeText(t, 0, 0); ctx.fillText(t, 0, 0); ctx.restore(); }
+  }
+  // neighbourhood names
+  if (s < 1.6) {
+    const a = s < BLD_Z ? .85 : Math.max(0, .85 - (s - BLD_Z) * 1.2);
+    ctx.globalAlpha = a; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+    const placed = [];
+    for (const h of [...B.hoods].sort((p, q) => q.a - p.a)) { const [X, Y] = toS(h.c[0], h.c[1]); if (X < -200 || Y < -40 || X > W + 200 || Y > H + 40) continue;
+      const fs = Math.max(10, Math.min(28, 8 + Math.sqrt(h.a) * s * 50));
+      ctx.font = `${fs}px "IM Fell English SC", Georgia, serif`;
+      const t = h.n.replace('Financial District/South Beach', 'Financial District').replace('Oceanview/Merced/Ingleside', 'Ingleside').replace('Castro/Upper Market', 'Castro').toUpperCase().split('').join('\u200A');
+      const w = ctx.measureText(t).width, box = [X - w / 2 - 6, Y - fs * .65, X + w / 2 + 6, Y + fs * .65];
+      if (placed.some(q => box[0] < q[2] && box[2] > q[0] && box[1] < q[3] && box[3] > q[1])) continue;
+      placed.push(box); ctx.lineWidth = 5; ctx.strokeStyle = 'rgba(244,236,217,.9)'; ctx.fillStyle = '#6b4f36'; ctx.strokeText(t, X, Y); ctx.fillText(t, X, Y); }
+    ctx.globalAlpha = 1;
+  }
   // landmarks
-  s += `<g id="lms">${M.landmarks.filter(l => l.no).map(l => { const x = l.c[0] + PAD, y = l.c[1] + PAD - 10; return `<g class="lm" data-no="${l.no}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="9.5" fill="#fbf1d6" stroke="#b8903f" stroke-width="1.6"/><path d="M0 -5.2 L1.5 -1.6 L5.2 -1.4 L2.3 1 L3.2 4.6 L0 2.6 L-3.2 4.6 L-2.3 1 L-5.2 -1.4 L-1.5 -1.6 Z" fill="#9c3b33"/></g>`; }).join('')}</g>`;
-  // story pins
-  const S = (window.STORIES || { stories: [] }).stories, TH = (window.STORIES || {}).themes || {};
-  s += `<g id="pins">${S.map(st => { const col = (TH[st.theme] || {}).color || '#8a6d3b', x = st.c[0] + PAD, y = st.c[1] + PAD; return `<g class="pin" data-id="${st.id}" tabindex="0" role="button" aria-label="${esc(st.title)}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><g class="pi"><circle class="hit" cy="-18" r="17"/><path d="M0 0 C-3 -6 -12 -12 -12 -21 A12 12 0 1 1 12 -21 C12 -12 3 -6 0 0 Z" fill="${col}" stroke="#fff8e8" stroke-width="2"/><circle cy="-21" r="7.5" fill="#fff8e8"/>${GLYPH[st.theme] || ''}</g></g>`; }).join('')}</g>`;
-  // neighbourhood labels
-  s += `<g>${M.places.map(p => { const x = p.c[0] + PAD, y = p.c[1] + PAD; return p.k === 'park'
-    ? `<text x="${x}" y="${y}" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="700" font-size="30" fill="#3f5a2c" paint-order="stroke" stroke="#e6efcf" stroke-width="5" stroke-linejoin="round">${esc(p.n)}</text>`
-    : `<text x="${x}" y="${y}" text-anchor="middle" font-family="IM Fell English SC, Georgia, serif" font-size="34" letter-spacing="5" fill="#6b4f36" opacity=".72" paint-order="stroke" stroke="#f4ecd9" stroke-width="6" stroke-linejoin="round">${esc(p.n.toUpperCase())}</text>`; }).join('')}</g>`;
-  // drifting fog
-  s += `<g id="fogL" opacity=".26" pointer-events="none" filter="url(#fog)">${[[-200, 300, 420, 150], [300, 900, 520, 170], [900, 200, 480, 140], [1500, 1100, 560, 180], [2000, 500, 420, 150]].map(([x, y, rx, ry]) => `<ellipse cx="${x}" cy="${y}" rx="${rx}" ry="${ry}" fill="#fff"/>`).join('')}<animateTransform attributeName="transform" type="translate" from="-500 0" to="${W + 200} 0" dur="140s" repeatCount="indefinite"/></g>`;
-  // paper texture + vignette
-  s += `<rect width="${W}" height="${H}" filter="url(#paper)" pointer-events="none"/><rect width="${W}" height="${H}" fill="url(#vig)" pointer-events="none"/>`;
-  // cartouche + compass
-  s += cartouche() + compass();
-  svg.innerHTML = s;
-}
-function cartouche() {
-  const x = PAD + 20, y = PAD + 18;
-  return `<g transform="translate(${x} ${y})" pointer-events="none">
-    <rect width="430" height="150" rx="10" fill="#f8f0dc" stroke="#b8903f" stroke-width="2.5"/><rect x="8" y="8" width="414" height="134" rx="6" fill="none" stroke="#b8903f" stroke-width="1" stroke-dasharray="1 4"/>
-    <text x="215" y="46" text-anchor="middle" font-family="IM Fell English SC, Georgia, serif" font-size="15" letter-spacing="6" fill="#8a6d3b">LAYERS · A MAP IN TIME</text>
-    <text x="215" y="92" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="700" font-size="40" fill="#3d3026">Alamo Square &amp; Environs</text>
-    <text x="215" y="124" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-size="17" fill="#6e5a47">San Francisco · six blocks in every direction</text></g>`;
-}
-function compass() {
-  const x = W - PAD - 70, y = PAD + 80, a = -M.angle; // north, after rotating the street grid
-  return `<g transform="translate(${x} ${y}) rotate(${a})" pointer-events="none">
-    <circle r="46" fill="#f8f0dc" stroke="#b8903f" stroke-width="2"/><circle r="38" fill="none" stroke="#b8903f" stroke-width=".8" stroke-dasharray="1 3"/>
-    <path d="M0 -40 L8 0 L0 40 L-8 0 Z" fill="#e8d6ae" stroke="#8a6d3b" stroke-width="1"/><path d="M0 -40 L8 0 L-8 0 Z" fill="#9c3b33"/>
-    <path d="M-40 0 L0 -6 L40 0 L0 6 Z" fill="#efe2c2" stroke="#8a6d3b" stroke-width=".8"/>
-    <text y="-50" text-anchor="middle" font-family="IM Fell English SC, Georgia, serif" font-size="15" fill="#6b4f36">N</text></g>`;
+  if (s >= .45) for (const l of B.landmarks) { if (!l.no) continue; const [X, Y] = toS(l.c[0], l.c[1]); if (X < -20 || Y < -20 || X > W + 20 || Y > H + 20) continue; const r = Math.min(9, 4 + s * 3); ctx.fillStyle = '#fbf1d6'; ctx.strokeStyle = '#b8903f'; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.arc(X, Y - r, r, 0, 7); ctx.fill(); ctx.stroke(); ctx.fillStyle = '#9c3b33'; ctx.beginPath(); ctx.arc(X, Y - r, r * .35, 0, 7); ctx.fill(); }
+  drawPins();
 }
 
-/* ---------- legend ---------- */
-document.getElementById('legend').innerHTML = `<h4>When it was built</h4>` + ERAS.map(e => `<div class="row" data-e="${e.k}"><span class="sw" style="background:linear-gradient(90deg,${e.cols.slice(0, 3).join(',')})"></span>${e.label}</div>`).join('') + `<div class="row"><svg width="22" height="16"><circle cx="11" cy="8" r="7" fill="#fbf1d6" stroke="#b8903f" stroke-width="1.4"/><circle cx="11" cy="8" r="2.4" fill="#9c3b33"/></svg>City landmark</div>`;
-document.getElementById('legend').addEventListener('mouseover', e => { const r = e.target.closest('.row'); if (!r || !r.dataset.e) return; svg.querySelectorAll('polygon[data-e]').forEach(p => p.style.opacity = p.dataset.e === r.dataset.e ? 1 : .25); });
-document.getElementById('legend').addEventListener('mouseleave', () => svg.querySelectorAll('polygon[data-e]').forEach(p => p.style.opacity = ''));
-
-/* ---------- pan & zoom ---------- */
-let vb = [0, 0, W, H];
-let setVB = () => svg.setAttribute('viewBox', vb.map(v => v.toFixed(1)).join(' '));
-function fit() { const r = svg.getBoundingClientRect(), s = Math.max(W / r.width, H / r.height); const w = r.width * s, h = r.height * s; vb = [(W - w) / 2, (H - h) / 2, w, h]; setVB(); }
-function zoomAt(cx, cy, f) { const r = svg.getBoundingClientRect(), mx = vb[0] + (cx - r.left) / r.width * vb[2], my = vb[1] + (cy - r.top) / r.height * vb[3]; const nw = Math.min(W * 1.4, Math.max(180, vb[2] * f)); const g = nw / vb[2]; vb = [mx - (mx - vb[0]) * g, my - (my - vb[1]) * g, vb[2] * g, vb[3] * g]; setVB(); }
-svg.addEventListener('wheel', e => { e.preventDefault(); zoomAt(e.clientX, e.clientY, e.deltaY > 0 ? 1.12 : 1 / 1.12); }, { passive: false });
-const ptrs = new Map(); let drag = null, pinch = null, moved = false;
-svg.addEventListener('pointerdown', e => { ptrs.set(e.pointerId, [e.clientX, e.clientY]); moved = false; if (ptrs.size === 1) drag = [e.clientX, e.clientY, vb[0], vb[1]]; else if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); try { svg.setPointerCapture(e.pointerId); } catch (_) {} } });
-svg.addEventListener('pointermove', e => {
-  if (!ptrs.has(e.pointerId)) return; ptrs.set(e.pointerId, [e.clientX, e.clientY]);
-  const r = svg.getBoundingClientRect();
-  if (ptrs.size === 2 && pinch) { const [a, b] = [...ptrs.values()], d = Math.hypot(a[0] - b[0], a[1] - b[1]); zoomAt((a[0] + b[0]) / 2, (a[1] + b[1]) / 2, pinch / d); pinch = d; moved = true; }
-  else if (drag) { const dx = e.clientX - drag[0], dy = e.clientY - drag[1]; if (!moved && Math.abs(dx) + Math.abs(dy) > 4) { moved = true; svg.classList.add('drag'); try { svg.setPointerCapture(e.pointerId); } catch (_) {} } if (!moved) return; vb[0] = drag[2] - dx / r.width * vb[2]; vb[1] = drag[3] - dy / r.height * vb[3]; setVB(); }
-});
-const up = e => { ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null; if (!ptrs.size) { drag = null; svg.classList.remove('drag'); } };
-svg.addEventListener('pointerup', up); svg.addEventListener('pointercancel', up);
-document.getElementById('zin').onclick = () => { const r = svg.getBoundingClientRect(); zoomAt(r.left + r.width / 2, r.top + r.height / 2, 1 / 1.4); };
-document.getElementById('zout').onclick = () => { const r = svg.getBoundingClientRect(); zoomAt(r.left + r.width / 2, r.top + r.height / 2, 1.4); };
-addEventListener('resize', fit);
-
-/* ---------- block drawer (content comes in the next phase) ---------- */
-const BLK = {}; M.blocks.forEach(b => BLK[b.id] = b);
-function inside(pt, poly) { let c = false; for (let i = 0, j = poly.length - 1; i < poly.length; j = i++) { const [xi, yi] = poly[i], [xj, yj] = poly[j]; if ((yi > pt[1]) !== (yj > pt[1]) && pt[0] < (xj - xi) * (pt[1] - yi) / (yj - yi) + xi) c = !c; } return c; }
-function openBlock(id) {
-  const b = BLK[id]; svg.querySelectorAll('.blk.sel').forEach(x => x.classList.remove('sel')); svg.querySelector(`.blk[data-id="${id}"]`)?.classList.add('sel');
-  const inB = M.buildings.filter(x => b.p.some(p => inside(x.p[0], p)));
-  const counts = {}; inB.forEach(x => { const k = eraOf(x.y).k; counts[k] = (counts[k] || 0) + 1; });
-  const addrs = [...new Set(inB.map(x => x.a).filter(Boolean))];
-  const lms = M.landmarks.filter(l => l.no && b.p.some(p => inside(l.c, p)));
-  const streets = [...new Set(addrs.map(a => a.replace(/^\d+\s*/, '')))].slice(0, 4);
-  document.getElementById('dbody').innerHTML = `<div class="hd"><div class="k">Block ${esc(id)}</div><h2>${esc(streets.slice(0, 2).join(' & ') || 'A block in the Western Addition')}</h2><div class="sub">${inB.length} buildings${b.oldest ? ` · oldest dated building ${b.oldest}` : ''}</div></div>
-    <div class="bd"><div class="stat">When its buildings went up</div><div class="era-bar">${ERAS.filter(e => counts[e.k]).map(e => `<i style="flex:${counts[e.k]};background:${e.cols[0]}" title="${e.label}: ${counts[e.k]}"></i>`).join('')}</div>
-    <div>${ERAS.filter(e => counts[e.k]).map(e => `<span class="chip">${e.label}: ${counts[e.k]}</span>`).join('')}</div>
-    ${lms.map(l => `<div class="lmcard"><b>★ ${esc(l.name)}</b><br><span class="stat">${esc(l.addr)} · City Landmark No. ${l.no}, designated ${l.year}</span>${l.doc ? `<br><a href="${esc(l.doc)}" target="_blank" rel="noopener">Designation report ↗</a>` : ''}</div>`).join('')}
-    ${(() => { const ss = S.filter(s => s.block === id); return ss.length ? `<div class="stat" style="margin-top:18px">Stories on this block</div>${ss.map(card).join('')}` : `<div class="soon">No stories pinned to this block yet. Try a neighbouring block, or open <b>All stories</b>.</div>`; })()}</div>`;
-  document.getElementById('drawer').classList.add('open');
-}
-svg.addEventListener('click', e => { if (moved) return; const pn = e.target.closest('.pin'); if (pn) { openStory(pn.dataset.id); return; } const lm = e.target.closest('.lm'); if (lm) { const l = M.landmarks.find(x => x.no == lm.dataset.no); const b = M.blocks.find(bb => bb.inAoi && bb.p.some(p => inside(l.c, p))); if (b) openBlock(b.id); return; } const t = e.target.closest('.blk'); if (t) openBlock(t.dataset.id); });
-document.getElementById('close').onclick = () => { document.getElementById('drawer').classList.remove('open'); svg.querySelectorAll('.blk.sel, .pin.sel').forEach(x => x.classList.remove('sel')); };
-
-/* ---------- stories ---------- */
-const S = (window.STORIES || { stories: [] }).stories, TH = (window.STORIES || { themes: {} }).themes;
-const SBY = {}; S.forEach(s => SBY[s.id] = s);
+/* ---------- story pins ---------- */
+const S = ST.stories, SBY = {}; S.forEach(s => SBY[s.id] = s);
+const TH = ST.themes;
 const col = s => (TH[s.theme] || {}).color || '#8a6d3b';
-function flyTo(c, w = 760) { const r = svg.getBoundingClientRect(), h = w * r.height / r.width, from = vb.slice(), to = [c[0] + PAD - w / 2 + (document.getElementById('drawer').classList.contains('open') && innerWidth > 800 ? w * .18 : 0), c[1] + PAD - h / 2, w, h]; const t0 = performance.now(); (function step(t) { const k = Math.min(1, (t - t0) / 700), e = k < .5 ? 2 * k * k : 1 - Math.pow(-2 * k + 2, 2) / 2; vb = from.map((v, i) => v + (to[i] - v) * e); setVB(); if (k < 1) requestAnimationFrame(step); })(t0); }
-function cite(txt, id) { return esc(txt).replace(/\[(\d+)\]/g, (m, n) => `<sup><a href="#src-${id}-${n}">[${n}]</a></sup>`); }
-function card(s) { return `<div class="scard" style="--c:${col(s)}" data-sid="${s.id}"><div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div></div>`; }
-let TOUR = null;
-function openStory(id, fromTour) {
-  const s = SBY[id], i = S.indexOf(s);
-  svg.querySelectorAll('.blk.sel').forEach(x => x.classList.remove('sel')); svg.querySelector(`.blk[data-id="${s.block}"]`)?.classList.add('sel');
-  const photo = s.photo && s.photo.url ? `<img src="${esc(s.photo.url)}" alt="${esc(s.title)}" loading="lazy"><div class="place">${esc(s.photo.credit || '')}${s.photo.license ? ' · ' + esc(s.photo.license) : ''}${s.photo.page ? ` · <a href="${esc(s.photo.page)}" target="_blank" rel="noopener">source</a>` : ''}</div>` : '';
-  document.getElementById('dbody').innerHTML = `<div class="bd story-v" style="--c:${col(s)};padding-top:26px">
-    <button class="backbtn" id="toBlock">← This block</button>
-    <div class="m" style="margin-top:16px">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div>
-    <h2>${esc(s.title)}</h2><div class="place">📍 ${esc(s.place)}</div>${photo}
-    <div class="hook">${esc(s.hook)}</div><div class="txt">${cite(s.story, s.id)}</div>
-    ${s.people.length ? `<div class="ppl">${s.people.map(p => `<span class="chip">${esc(p.name)}${p.role ? ' · ' + esc(p.role) : ''}</span>`).join('')}</div>` : ''}
-    <div class="src"><b>Sources</b><ol>${s.sources.map((r, k) => `<li id="src-${s.id}-${k + 1}">${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}${r.publisher ? ', ' + esc(r.publisher) : ''}${r.year ? ' (' + esc(r.year) + ')' : ''}</li>`).join('')}</ol></div>
-    <div class="navrow"><button id="prevS" ${i ? '' : 'disabled'}>← ${i ? esc(S[i - 1].year) : ''} Earlier</button><button id="nextS" ${i < S.length - 1 ? '' : 'disabled'}>Later ${i < S.length - 1 ? esc(S[i + 1].year) : ''} →</button></div></div>`;
-  document.getElementById('drawer').classList.add('open'); document.getElementById('drawer').scrollTop = 0;
-  document.getElementById('toBlock').onclick = () => openBlock(s.block);
-  document.getElementById('prevS').onclick = () => { const p = S[i - 1]; setYear(p.year, true); openStory(p.id, true); };
-  document.getElementById('nextS').onclick = () => { const n = S[i + 1]; setYear(n.year, true); openStory(n.id, true); };
-  svg.querySelectorAll('.pin').forEach(p => p.classList.toggle('sel', p.dataset.id === id));
-  hidePeek();
-  if (fromTour) flyTo(s.c); else revealIfHidden(s.c);
+let SEL = null, HOV = null, PINSCR = [];
+function pinVisible(s) { return !YEAR || s.year <= YEAR; }
+function drawPins() {
+  PINSCR = []; const s = cam.s, big = s >= .3, R = big ? Math.min(13, 7 + s * 3.2) : 3.4;
+  const order = S.filter(pinVisible);
+  for (const st of order) {
+    const [X, Y] = toS(st.c[0], st.c[1]); if (X < -30 || Y < -40 || X > W + 30 || Y > H + 30) continue;
+    const old = YEAR && (st.yearEnd || st.year) < YEAR - 25, hov = st.id === HOV, sel = st.id === SEL;
+    const k = sel ? 1.35 : hov ? 1.25 : 1, r = R * k;
+    ctx.globalAlpha = old ? .25 : 1;
+    if (big) {
+      ctx.save(); ctx.translate(X, Y); if (sel || hov) { ctx.shadowColor = sel ? 'rgba(255,230,150,.95)' : 'rgba(60,40,20,.35)'; ctx.shadowBlur = sel ? 14 : 6; ctx.shadowOffsetY = sel ? 0 : 3; }
+      ctx.beginPath(); ctx.moveTo(0, 0); ctx.bezierCurveTo(-r * .25, -r * .5, -r, -r, -r, -r * 1.75); ctx.arc(0, -r * 1.75, r, Math.PI, 0); ctx.bezierCurveTo(r, -r, r * .25, -r * .5, 0, 0); ctx.closePath();
+      ctx.fillStyle = col(st); ctx.fill(); ctx.shadowColor = 'transparent'; ctx.lineWidth = 1.6; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
+      ctx.beginPath(); ctx.arc(0, -r * 1.75, r * .45, 0, 7); ctx.fillStyle = '#fff8e8'; ctx.fill(); ctx.restore();
+      PINSCR.push([st, X, Y - r * 1.6, r * 1.5]);
+    } else {
+      ctx.beginPath(); ctx.arc(X, Y, r, 0, 7); ctx.fillStyle = col(st); ctx.fill(); ctx.lineWidth = 1; ctx.strokeStyle = '#fff8e8'; ctx.stroke();
+      PINSCR.push([st, X, Y, 6]);
+    }
+  }
+  ctx.globalAlpha = 1;
 }
-function screenOf(c) { const r = svg.getBoundingClientRect(); return [r.left + (c[0] + PAD - vb[0]) / vb[2] * r.width, r.top + (c[1] + PAD - vb[1]) / vb[3] * r.height]; }
-function revealIfHidden(c) { // keep the map still; only slide it if the pin sits under the drawer or off-screen
-  const [x, y] = screenOf(c), dw = innerWidth > 800 ? Math.min(420, innerWidth) : 0, r = svg.getBoundingClientRect();
-  const right = innerWidth - dw - 60, dx = x > right ? x - right + 40 : x < 60 ? x - 100 : 0, dy = y < 90 ? y - 140 : y > innerHeight - 150 ? y - (innerHeight - 200) : 0;
-  if (!dx && !dy) return;
-  const from = vb.slice(), to = [vb[0] + dx / r.width * vb[2], vb[1] + dy / r.height * vb[3], vb[2], vb[3]], t0 = performance.now();
-  (function step(t) { const k = Math.min(1, (t - t0) / 450), e = 1 - Math.pow(1 - k, 3); vb = from.map((v, i) => v + (to[i] - v) * e); setVB(); if (k < 1) requestAnimationFrame(step); })(t0);
-}
-/* hover previews */
-const peek = document.getElementById('peek'); let peekFor = null, peekT = 0;
-function showPeek(pin) {
-  const s = SBY[pin.dataset.id]; if (!s || pin.classList.contains('off')) return;
-  clearTimeout(peekT); peekFor = pin; svg.querySelectorAll('.pin.hov').forEach(p => p !== pin && p.classList.remove('hov')); pin.classList.add('hov');
-  peek.style.setProperty('--c', col(s));
-  peek.innerHTML = `<div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div><div class="p">📍 ${esc(s.place)}</div><div class="cta">Click to read the story →</div>`;
-  const b = pin.getBoundingClientRect(), pw = 300, ph = peek.offsetHeight || 170, gap = 14;
-  let x = b.right + gap, y = b.top + b.height / 2 - ph / 2;
-  const limitR = innerWidth - (document.getElementById('drawer').classList.contains('open') && innerWidth > 800 ? 430 : 12);
-  if (x + pw > limitR) x = b.left - gap - pw;
-  y = Math.max(12, Math.min(innerHeight - ph - 12, y));
-  peek.style.left = x + 'px'; peek.style.top = y + 'px'; peek.classList.add('on');
-}
-function hidePeek() { clearTimeout(peekT); peek.classList.remove('on'); if (peekFor) peekFor.classList.remove('hov'); peekFor = null; }
-const canHover = matchMedia('(hover: hover)').matches;
-svg.addEventListener('pointerover', e => { if (!canHover || ptrs.size) return; const pin = e.target.closest('.pin'); if (pin && pin !== peekFor) showPeek(pin); });
-svg.addEventListener('pointerout', e => { const pin = e.target.closest('.pin'); if (pin && !pin.contains(e.relatedTarget)) { peekT = setTimeout(hidePeek, 90); } });
-svg.addEventListener('focusin', e => { const pin = e.target.closest('.pin'); if (pin) showPeek(pin); });
-svg.addEventListener('focusout', () => hidePeek());
-svg.addEventListener('keydown', e => { const pin = e.target.closest('.pin'); if (pin && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); openStory(pin.dataset.id); } });
-svg.addEventListener('pointerdown', hidePeek);
-svg.addEventListener('wheel', hidePeek, { passive: true });
-function listStories(filter = 'all') {
-  const items = S.filter(s => filter === 'all' || s.theme === filter);
-  document.getElementById('dbody').innerHTML = `<div class="hd"><div class="k">${S.length} stories</div><h2>Stories of the neighbourhood</h2><div class="sub">From the sand hills to today, in order.</div></div>
-    <div class="bd"><div class="tfil"><button data-f="all" class="${filter === 'all' ? 'on' : ''}">All</button>${Object.entries(TH).filter(([k]) => S.some(s => s.theme === k)).map(([k, v]) => `<button data-f="${k}" class="${filter === k ? 'on' : ''}" style="border-left:4px solid ${v.color}">${esc(v.label)}</button>`).join('')}</div>${items.map(card).join('')}</div>`;
-  document.getElementById('drawer').classList.add('open'); document.getElementById('drawer').scrollTop = 0;
-  document.querySelectorAll('.tfil button').forEach(b => b.onclick = () => listStories(b.dataset.f));
-}
-document.getElementById('dbody').addEventListener('click', e => { const c = e.target.closest('.scard'); if (c) openStory(c.dataset.sid); });
-document.getElementById('storiesBtn').onclick = () => listStories();
-document.getElementById('tourBtn').onclick = () => { if (!S.length) return; setYear(S[0].year, true); openStory(S[0].id, true); };
-/* ---------- time slider ---------- */
-const ERA_TXT = [[1850, 'Sand hills, springs and a new survey grid'], [1870, 'The Western Addition fills with Victorians'], [1906, 'Earthquake, fire and a new downtown on Fillmore'], [1915, 'A crossroads of communities'], [1942, 'Wartime: removal and the Great Migration'], [1946, 'Harlem of the West'], [1956, 'Redevelopment and displacement'], [1966, 'Counterculture next door'], [1989, 'Loma Prieta and the freeway'], [2005, 'The neighbourhood today']];
-const slider = document.getElementById('slider'), allY = document.getElementById('allYears');
-function setYear(y, fromStory) { slider.value = y; allY.checked = false; applyYear(); }
-function applyYear() {
-  const all = allY.checked, y = +slider.value;
-  document.getElementById('yr').textContent = all ? 'All years' : y;
-  document.getElementById('eraTxt').textContent = all ? 'Drag back in time' : [...ERA_TXT].reverse().find(([a]) => y >= a)[1];
-  svg.querySelectorAll('.pin').forEach(p => { const s = SBY[p.dataset.id], end = s.yearEnd || s.year; p.classList.toggle('off', !all && s.year > y); p.classList.toggle('dim', !all && end < y - 25); });
-  if (!window._roofs) window._roofs = [...svg.querySelectorAll('polygon[data-y]')];
-  window._roofs.forEach(r => { const by = +r.dataset.y; r.style.opacity = !all && by && by !== 1900 && by > y ? .07 : ''; });
-}
-slider.addEventListener('input', () => { allY.checked = false; applyYear(); });
-allY.addEventListener('change', applyYear);
-const _setVB = setVB; setVB = () => { _setVB(); svg.style.setProperty('--ps', Math.max(.42, Math.min(1.3, vb[2] / W * 1.5)).toFixed(3)); };
+function pinAt(X, Y) { let best = null, bd = 1e9; for (const [st, x, y, r] of PINSCR) { const d = Math.hypot(X - x, Y - y); if (d < r && d < bd) { bd = d; best = st; } } return best; }
 
-build(); fit();
+/* ---------- blocks hit-test ---------- */
+function inside(pt, poly) { let c = false; for (let i = 0, j = poly.length - 1; i < poly.length; j = i++) { const [xi, yi] = poly[i], [xj, yj] = poly[j]; if ((yi > pt[1]) !== (yj > pt[1]) && pt[0] < (xj - xi) * (pt[1] - yi) / (yj - yi) + xi) c = !c; } return c; }
+function blockAt(m) { return B.blocks.find(b => m[0] >= b.bb[0] && m[0] <= b.bb[2] && m[1] >= b.bb[1] && m[1] <= b.bb[3] && b.p.some(r => inside(m, r))); }
+const hoodOf = pt => { let best = null, bd = 1e18; B.hoods.forEach(h => { const d = (h.c[0] - pt[0]) ** 2 + (h.c[1] - pt[1]) ** 2; if (d < bd) { bd = d; best = h; } }); return best; };
+
+/* ---------- interaction ---------- */
+let anim = null;
+function flyTo(x, y, s = 2.2, dur = 900) { const from = { ...cam }, to = { x: x + (document.getElementById('drawer').classList.contains('open') && W > 860 ? 200 / s : 0), y, s }, t0 = performance.now();
+  anim = t => { const k = Math.min(1, (t - t0) / dur), e = k < .5 ? 4 * k * k * k : 1 - Math.pow(-2 * k + 2, 3) / 2, ls = Math.log(from.s) + (Math.log(to.s) - Math.log(from.s)) * e; cam.s = Math.exp(ls); cam.x = from.x + (to.x - from.x) * e; cam.y = from.y + (to.y - from.y) * e; dirty(); if (k >= 1) anim = null; }; }
+function zoomAt(X, Y, f) { const [mx, my] = toM(X, Y); cam.s = Math.max(SMIN, Math.min(SMAX, cam.s * f)); cam.x = mx - (X - W / 2) / cam.s; cam.y = my - (Y - H / 2) / cam.s; dirty(); }
+cv.addEventListener('wheel', e => { e.preventDefault(); anim = null; hidePeek(); zoomAt(e.clientX, e.clientY, Math.exp(-e.deltaY * .0016)); }, { passive: false });
+const ptrs = new Map(); let drag = null, pinch = null, moved = false, vel = [0, 0], lastMove = 0;
+cv.addEventListener('pointerdown', e => { anim = null; hidePeek(); ptrs.set(e.pointerId, [e.clientX, e.clientY]); moved = false; if (ptrs.size === 1) drag = [e.clientX, e.clientY, cam.x, cam.y]; else if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); try { cv.setPointerCapture(e.pointerId); } catch (_) { } } });
+cv.addEventListener('pointermove', e => {
+  if (!ptrs.has(e.pointerId)) { hover(e); return; }
+  const prev = ptrs.get(e.pointerId); ptrs.set(e.pointerId, [e.clientX, e.clientY]);
+  if (ptrs.size === 2 && pinch) { const [a, b] = [...ptrs.values()], d = Math.hypot(a[0] - b[0], a[1] - b[1]); zoomAt((a[0] + b[0]) / 2, (a[1] + b[1]) / 2, d / pinch); pinch = d; moved = true; return; }
+  if (!drag) return; const dx = e.clientX - drag[0], dy = e.clientY - drag[1];
+  if (!moved && Math.abs(dx) + Math.abs(dy) > 4) { moved = true; cv.classList.add('drag'); try { cv.setPointerCapture(e.pointerId); } catch (_) { } }
+  if (!moved) return;
+  cam.x = drag[2] - dx / cam.s; cam.y = drag[3] - dy / cam.s; const now = performance.now(); vel = [(e.clientX - prev[0]) / Math.max(1, now - lastMove), (e.clientY - prev[1]) / Math.max(1, now - lastMove)]; lastMove = now; dirty();
+});
+const up = e => { ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null; if (!ptrs.size) { if (moved && performance.now() - lastMove < 60) glide(); drag = null; cv.classList.remove('drag'); } };
+cv.addEventListener('pointerup', up); cv.addEventListener('pointercancel', up);
+function glide() { let [vx, vy] = vel; const step = () => { vx *= .92; vy *= .92; cam.x -= vx * 16 / cam.s; cam.y -= vy * 16 / cam.s; dirty(); if (Math.hypot(vx, vy) > .02 && !ptrs.size && !anim) requestAnimationFrame(step); }; requestAnimationFrame(step); }
+cv.addEventListener('click', e => { if (moved) return; const p = pinAt(e.clientX, e.clientY); if (p) return openStory(p.id); const b = blockAt(toM(e.clientX, e.clientY)); if (b && cam.s > .25) openBlock(b); else if (cam.s <= .25) flyTo(...toM(e.clientX, e.clientY), Math.max(cam.s * 3, .6)); });
+document.getElementById('zin').onclick = () => zoomAt(W / 2, H / 2, 1.6);
+document.getElementById('zout').onclick = () => zoomAt(W / 2, H / 2, 1 / 1.6);
+addEventListener('resize', resize);
+
+/* hover previews */
+const peek = document.getElementById('peek'); const canHover = matchMedia('(hover: hover)').matches;
+function hover(e) { if (!canHover) return; const p = pinAt(e.clientX, e.clientY); cv.classList.toggle('hand', !!p); if ((p && p.id) === HOV) return; HOV = p ? p.id : null; dirty(); p ? showPeek(p, e.clientX, e.clientY) : hidePeek(); }
+function showPeek(s, X, Y) {
+  peek.style.setProperty('--c', col(s));
+  peek.innerHTML = `<div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div><div class="p">📍 ${esc(s.place)}${s.hood ? ' · ' + esc(s.hood) : ''}</div><div class="cta">Click to read the story →</div>`;
+  const ph = peek.offsetHeight || 170, lim = W - (document.getElementById('drawer').classList.contains('open') && W > 860 ? 440 : 12);
+  let x = X + 22; if (x + 300 > lim) x = X - 322; peek.style.left = x + 'px'; peek.style.top = Math.max(12, Math.min(H - ph - 12, Y - ph / 2)) + 'px'; peek.classList.add('on');
+}
+function hidePeek() { peek.classList.remove('on'); if (HOV) { HOV = null; dirty(); } }
+
+/* ---------- drawer: stories & blocks ---------- */
+const drawer = document.getElementById('drawer'), dbody = document.getElementById('dbody');
+function cite(txt, id) { return esc(txt).replace(/\[(\d+)\]/g, (m, n) => `<sup><a href="#src-${id}-${n}">[${n}]</a></sup>`); }
+function card(s) { return `<div class="scard" style="--c:${col(s)}" data-sid="${s.id}"><div class="m">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}${s.hood ? ' · ' + esc(s.hood) : ''}</div><div class="t">${esc(s.title)}</div><div class="h">${esc(s.hook)}</div></div>`; }
+let CUR = S;
+function openStory(id, cinematic) {
+  const s = SBY[id], list = CUR.includes(s) ? CUR : S, i = list.indexOf(s); SEL = id; hidePeek(); dirty();
+  const photo = s.photo && s.photo.url ? `<img src="${esc(s.photo.url)}" alt="${esc(s.title)}" loading="lazy"><div class="place">${esc(s.photo.credit || '')}${s.photo.license ? ' · ' + esc(s.photo.license) : ''}${s.photo.page ? ` · <a href="${esc(s.photo.page)}" target="_blank" rel="noopener">source</a>` : ''}</div>` : '';
+  dbody.innerHTML = `<div class="bd story-v" style="--c:${col(s)};padding-top:26px"><button class="backbtn" id="toList">← Stories</button>
+    <div class="m" style="margin-top:16px">${s.year}${s.yearEnd ? '–' + s.yearEnd : ''} · ${esc((TH[s.theme] || {}).label || '')}</div>
+    <h2>${esc(s.title)}</h2><div class="place">📍 ${esc(s.place)}${s.hood ? ' · ' + esc(s.hood) : ''}</div>${photo}
+    <div class="hook">${esc(s.hook)}</div><div class="txt">${cite(s.story, s.id)}</div>
+    ${s.people && s.people.length ? `<div style="margin-top:12px">${s.people.map(p => `<span class="chip">${esc(p.name)}${p.role ? ' · ' + esc(p.role) : ''}</span>`).join('')}</div>` : ''}
+    <div class="src"><b>Sources</b><ol>${(s.sources || []).map((r, k) => `<li id="src-${s.id}-${k + 1}">${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}${r.publisher ? ', ' + esc(r.publisher) : ''}${r.year ? ' (' + esc(r.year) + ')' : ''}</li>`).join('')}</ol></div>
+    <div class="navrow"><button id="prevS" ${i > 0 ? '' : 'disabled'}>← Earlier</button><button id="nextS" ${i < list.length - 1 ? '' : 'disabled'}>Later →</button></div></div>`;
+  drawer.classList.add('open'); drawer.scrollTop = 0;
+  document.getElementById('toList').onclick = () => listStories();
+  document.getElementById('prevS').onclick = () => { const p = list[i - 1]; setYear(p.year); openStory(p.id, true); };
+  document.getElementById('nextS').onclick = () => { const n = list[i + 1]; setYear(n.year); openStory(n.id, true); };
+  const [X, Y] = toS(s.c[0], s.c[1]);
+  if (cinematic || cam.s < .6) flyTo(s.c[0], s.c[1], Math.max(cam.s, 1.9));
+  else if (X > W - (W > 860 ? 470 : 20) || X < 40 || Y < 80 || Y > H - 140) flyTo(s.c[0], s.c[1], cam.s, 500);
+}
+let FILTER = { theme: 'all', hood: 'all' };
+function listStories() {
+  CUR = S.filter(s => (FILTER.theme === 'all' || s.theme === FILTER.theme) && (FILTER.hood === 'all' || s.hood === FILTER.hood));
+  const hoods = [...new Set(S.map(s => s.hood).filter(Boolean))].sort();
+  dbody.innerHTML = `<div class="hd"><div class="k">${S.length.toLocaleString()} stories · ${hoods.length} neighbourhoods</div><h2>Stories of San Francisco</h2><div class="sub">From the Yelamu to today, in order.</div></div>
+    <div class="bd"><div class="tfil"><select id="hoodSel"><option value="all">All neighbourhoods</option>${hoods.map(h => `<option ${FILTER.hood === h ? 'selected' : ''}>${esc(h)}</option>`).join('')}</select></div>
+    <div class="tfil"><button data-f="all" class="${FILTER.theme === 'all' ? 'on' : ''}">All themes</button>${Object.entries(TH).filter(([k]) => S.some(s => s.theme === k)).map(([k, v]) => `<button data-f="${k}" class="${FILTER.theme === k ? 'on' : ''}" style="border-left:4px solid ${v.color}">${esc(v.label)}</button>`).join('')}</div>
+    <div class="stat">${CUR.length} stories</div>${CUR.slice(0, 250).map(card).join('')}${CUR.length > 250 ? `<div class="soon">Showing the first 250. Narrow by neighbourhood or theme to see more.</div>` : ''}</div>`;
+  drawer.classList.add('open'); drawer.scrollTop = 0;
+  dbody.querySelectorAll('.tfil button').forEach(b => b.onclick = () => { FILTER.theme = b.dataset.f; listStories(); });
+  document.getElementById('hoodSel').onchange = e => { FILTER.hood = e.target.value; listStories(); if (FILTER.hood !== 'all') { const h = B.hoods.find(x => x.n === FILTER.hood); if (h) flyTo(h.c[0], h.c[1], Math.max(.9, 2.2 / Math.sqrt(h.a))); } };
+}
+dbody.addEventListener('click', e => { const c = e.target.closest('.scard'); if (c) openStory(c.dataset.sid); });
+function openBlock(b) {
+  const tot = Object.values(b.cnt).reduce((a, v) => a + v, 0);
+  const ss = S.filter(s => s.block === b.id), lms = B.landmarks.filter(l => l.no && b.p.some(r => inside(l.c, r))), h = hoodOf([(b.bb[0] + b.bb[2]) / 2, (b.bb[1] + b.bb[3]) / 2]);
+  dbody.innerHTML = `<div class="hd"><div class="k">${esc(h ? h.n : '')} · Block ${esc(b.id)}</div><h2>${esc(b.st.join(' & ') || 'A San Francisco block')}</h2><div class="sub">${b.n} parcels${b.old ? ` · oldest dated building ${b.old}` : ''}</div></div>
+    <div class="bd"><div class="stat">When its buildings went up</div><div class="era-bar">${ERAS.filter(e => b.cnt[e.k]).map(e => `<i style="flex:${b.cnt[e.k]};background:${e.cols[0]}" title="${e.label}: ${b.cnt[e.k]}"></i>`).join('')}</div>
+    <div>${ERAS.filter(e => b.cnt[e.k]).map(e => `<span class="chip">${e.label}: ${b.cnt[e.k]}</span>`).join('')}</div>
+    ${lms.map(l => `<div class="lmcard"><b>★ ${esc(l.name)}</b><br><span class="stat">${esc(l.addr)} · City Landmark No. ${l.no}, designated ${l.year}</span>${l.doc ? `<br><a href="${esc(l.doc)}" target="_blank" rel="noopener">Designation report ↗</a>` : ''}</div>`).join('')}
+    ${ss.length ? `<div class="stat" style="margin-top:18px">Stories on this block</div>${ss.map(card).join('')}` : `<div class="soon">No stories pinned to this block yet. Nearby pins may tell its neighbourhood's story.</div>`}</div>`;
+  drawer.classList.add('open'); drawer.scrollTop = 0;
+}
+document.getElementById('close').onclick = () => { drawer.classList.remove('open'); SEL = null; dirty(); };
+document.getElementById('storiesBtn').onclick = () => { FILTER = { theme: 'all', hood: 'all' }; listStories(); };
+document.getElementById('tourBtn').onclick = () => { CUR = S; setYear(S[0].year); openStory(S[0].id, true); };
+
+/* ---------- search ---------- */
+const sIn = document.getElementById('search'), sRes = document.getElementById('results');
+sIn.addEventListener('input', () => {
+  const q = sIn.value.trim().toLowerCase(); if (q.length < 2) { sRes.classList.remove('on'); return; }
+  const hs = B.hoods.filter(h => h.n.toLowerCase().includes(q)).slice(0, 5).map(h => `<div data-h="${esc(h.n)}"><b>${esc(h.n)}</b><small>Neighbourhood</small></div>`);
+  const ss = S.filter(s => (s.title + ' ' + s.place + ' ' + s.hook).toLowerCase().includes(q)).slice(0, 12).map(s => `<div data-s="${s.id}"><b>${esc(s.title)}</b><small>${s.year} · ${esc(s.place)}</small></div>`);
+  sRes.innerHTML = [...hs, ...ss].join('') || '<div><small>No matches</small></div>'; sRes.classList.add('on');
+});
+sRes.addEventListener('click', e => { const d = e.target.closest('div'); if (!d) return; sRes.classList.remove('on'); if (d.dataset.s) openStory(d.dataset.s, true); else if (d.dataset.h) { const h = B.hoods.find(x => x.n === d.dataset.h); flyTo(h.c[0], h.c[1], Math.max(.9, 2.2 / Math.sqrt(h.a))); } });
+document.addEventListener('click', e => { if (!e.target.closest('.results, .search')) sRes.classList.remove('on'); });
+
+/* ---------- time ---------- */
+const ERA_TXT = [[1776, 'Yelamu homeland, the Presidio and Mission Dolores'], [1848, 'Gold Rush: a village becomes a city'], [1870, 'The Victorian city spreads west'], [1906, 'Earthquake, fire and rebuilding'], [1915, 'A world’s fair city'], [1941, 'Wartime boom'], [1950, 'Freeways and redevelopment'], [1965, 'Counterculture and liberation'], [1989, 'Loma Prieta and the new waterfront'], [2000, 'The city today']];
+const slider = document.getElementById('slider'), allY = document.getElementById('allYears');
+function setYear(y) { slider.value = y; allY.checked = false; applyYear(); }
+function applyYear() { YEAR = allY.checked ? null : +slider.value; document.getElementById('yr').textContent = YEAR || 'All years'; document.getElementById('eraTxt').textContent = YEAR ? [...ERA_TXT].reverse().find(([a]) => YEAR >= a)[1] : 'Drag back in time'; dirty(); }
+slider.addEventListener('input', () => { allY.checked = false; applyYear(); }); allY.addEventListener('change', applyYear);
+
+/* ---------- legend + texture ---------- */
+document.getElementById('legend').innerHTML = `<h4>When it was built</h4>` + ERAS.map(e => `<div class="row"><span class="sw" style="background:linear-gradient(90deg,${e.cols.slice(0, 3).join(',')})"></span>${e.label}</div>`).join('');
+(function texture() { const c = document.createElement('canvas'); c.width = c.height = 200; const g = c.getContext('2d'), d = g.createImageData(200, 200); for (let i = 0; i < d.data.length; i += 4) { const v = 200 + Math.random() * 55; d.data[i] = v; d.data[i + 1] = v * .96; d.data[i + 2] = v * .88; d.data[i + 3] = 255; } g.putImageData(d, 0, 0); document.getElementById('tex').style.background = `url(${c.toDataURL()})`; })();
+
+/* ---------- loop ---------- */
+function loop(t) { if (anim) anim(t); if (need) { ensureTiles(); render(); } requestAnimationFrame(loop); }
+resize(); fitCity();
+const hs = new URLSearchParams(location.hash.slice(1));
+if (hs.get('story') && SBY[hs.get('story')]) setTimeout(() => openStory(hs.get('story'), true), 300);
+document.getElementById('loading').remove();
+requestAnimationFrame(loop);
 </script>
 </body>
 </html>

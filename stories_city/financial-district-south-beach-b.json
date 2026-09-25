@@ -1,0 +1,749 @@
+[
+  {
+    "id": "financial-district-south-beach-caruso-palace-quake",
+    "title": "Caruso Wakes to a Rocking Palace",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Palace Hotel, Market & New Montgomery",
+      "lat": 37.78841,
+      "lon": -122.40195,
+      "precision": "building"
+    },
+    "hook": "The world's most famous tenor sang Carmen, went to bed happy, and woke at five to see buildings toppling outside his fifth-floor window.",
+    "story": "On the night of April 17, 1906, Enrico Caruso sang Don José in Carmen and went back to his room on the fifth floor of the Palace Hotel, the grand hotel William Ralston had built in 1875 [1][2]. Around 5 a.m. he woke to his bed rocking \"as though I am in a ship on the ocean.\" At the window he saw buildings toppling and heard screams from the street, and he stood there for about forty seconds, he later wrote, thinking \"forty thousand different things\" [1]. His valet calmly told him \"It is nothing,\" then dragged his trunks down six flights of stairs. When a stranger tried to claim the luggage, a soldier who recognised \"Caruso, the artist who sang in Carmen\" sent the man packing. Caruso spent the night sleeping on the ground in Union Square, then paid a man with a cart to take him to the Oakland ferry [1]. Newspapers said he wept on his valise; he insisted he had been frightened but \"did not lose my head\" [1]. By that afternoon the Palace itself had burned. Caruso reportedly swore never to return to the city [2]. The rebuilt Palace, with a near-replica of its glass-roofed court, opened in December 1909 [2][3].",
+    "people": [
+      {
+        "name": "Enrico Caruso",
+        "role": "operatic tenor and hotel guest"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Enrico Caruso and the 1906 Earthquake (reprint of his account in The Sketch / The Theatre, July 1906)",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 1906,
+        "url": "https://sfmuseum.org/1906/ew19.html",
+        "supports": "Caruso's first-person account: fifth floor, Carmen, valet, soldier, Union Square night, cart to the ferry"
+      },
+      {
+        "title": "San Francisco Landmark #18: Garden Court of the Palace Hotel",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2002,
+        "url": "https://noehill.com/sf/landmarks/sf018.asp",
+        "supports": "Palace burned the afternoon of April 18; Caruso vowed never to return; rebuilt hotel opened Dec 19, 1909"
+      },
+      {
+        "title": "Palace Hotel (essay by Gray Brechin)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Palace_Hotel",
+        "supports": "Ralston's 1875 hotel, its loss in 1906, rebuilt 1909 with replica court"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-ferry-clerk-1906",
+    "title": "The Ticket Clerk Who Kept Ferries Running",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Ferry Building, foot of Market Street",
+      "lat": 37.79555,
+      "lon": -122.3937,
+      "precision": "building"
+    },
+    "hook": "With the south wall of the Ferry Building in the bay and the city burning behind him, Thomas Chase sold tickets and got the first boat out 20 minutes late.",
+    "story": "Thomas Jefferson Chase, a telegrapher and ticket clerk, was walking to the early shift down First Street just after 5 a.m. on April 18, 1906, when the quake threw him flat. He watched power lines writhe \"like reptiles\" and cobblestones dance \"like corn in a popper\" [1]. Reaching the foot of Market, he found the Ferry Building's entire south wall had crashed through the driveway into the bay, but the boats were backing into their slips again. Chase and a captain decided to open: \"We got the first boat out around 6:20, only 20 minutes late\" [1]. As refugees poured in, he stopped selling long-distance train tickets and sold only ferry tickets to keep the crowds moving. Their abandoned bundles grew into a pile \"like a hay stack\" on the Embarcadero, and it later caught fire as buildings across the street went up [1]. Hose lines were run through the terminal until the heat drove the firemen back; the staff locked the cash in the vaults and opened the gates so the last of the crowd could reach the boats [1]. The 1898 building, with its tower modelled on Seville's Giralda, survived [2].",
+    "people": [
+      {
+        "name": "Thomas Jefferson Chase",
+        "role": "Ferry Building ticket clerk and telegrapher"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Thomas Chase's Eyewitness Account at the Ferry Building",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "https://sfmuseum.org/1906/ew1.html",
+        "supports": "All details of Chase's morning: south wall collapse, 6:20 boat, ticket sales, pile of bundles, fire"
+      },
+      {
+        "title": "San Francisco Landmark #90: Ferry Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf090.asp",
+        "supports": "Building opened 1898; Giralda-inspired tower"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-stevens-shooting-1908",
+    "title": "Korean Patriots Confront Japan's American Advocate",
+    "theme": "communities",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "Ferry Building plaza, foot of Market Street",
+      "lat": 37.7952,
+      "lon": -122.3942,
+      "precision": "area"
+    },
+    "hook": "In March 1908 two Korean immigrants who had never planned together both came to the ferry to stop the same man.",
+    "story": "Durham Stevens, an American diplomat working for Japan's colonial administration in Korea, arrived in San Francisco in March 1908 and told a San Francisco paper that ordinary Koreans were benefiting from Japanese rule [1][2]. The city's small Korean community, fewer than 2,000 people on the whole mainland, most of them recent arrivals, was furious [1]. Two local associations met and demanded he retract; on March 22 four men confronted him at his hotel and a scuffle broke out [2]. The next day, March 23, Jeon Myeong-un met Stevens at the waterfront as he headed for the Oakland ferry. His handkerchief-wrapped revolver would not fire, so he clubbed Stevens with it. Jang In-hwan, acting separately, fired into the struggle, hitting Stevens twice in the back and wounding Jeon too [2][3]. Stevens died two days later. Jang was convicted of second-degree murder; charges against Jeon were dropped for lack of evidence [2][3]. Money for the defence came from Koreans in Korea, Japan, Siberia, Manchuria, Mexico and the US, and in Korea the two men are remembered as patriots [1][2].",
+    "people": [
+      {
+        "name": "Jang In-hwan",
+        "role": "Korean independence activist"
+      },
+      {
+        "name": "Jeon Myeong-un",
+        "role": "Korean independence activist"
+      },
+      {
+        "name": "Durham White Stevens",
+        "role": "American adviser to Japan's Residency-General in Korea"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Ferry Building (section: Early 20th century Korean nationalism)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Ferry_Building",
+        "supports": "Confrontation in front of the Ferry Building; community size; worldwide defence fund"
+      },
+      {
+        "title": "Durham Stevens",
+        "publisher": "Wikipedia (pointer to Gim 1988, SF Call reports)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Durham_Stevens",
+        "supports": "Newspaper interview, March 22 assault, March 23 shooting, death, Jang's second-degree murder verdict"
+      },
+      {
+        "title": "Jeon Myeong-un",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Jeon_Myeong-un",
+        "supports": "Jeon's gun failed; charges dropped June 1908"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-tetrazzini-lottas-fountain",
+    "title": "A Diva Sings Free at Lotta's Fountain",
+    "theme": "arts-counterculture",
+    "year": 1910,
+    "yearEnd": null,
+    "place": {
+      "label": "Lotta's Fountain, Market, Kearny & Geary",
+      "lat": 37.78797,
+      "lon": -122.40334,
+      "precision": "building"
+    },
+    "hook": "Blocked by a lawsuit, soprano Luisa Tetrazzini vowed to sing in the street if she had to. On Christmas Eve 1910, she did.",
+    "story": "Luisa Tetrazzini had made her American debut at San Francisco's Tivoli in 1905 and gone on to conquer New York and London [1]. When impresario Oscar Hammerstein served her with an injunction in November 1910, she told reporters: \"I will sing in San Francisco... If necessary, I will sing in the streets. I will sing at Lotta's Fountain\" [1]. A judge let her tour go on, and she kept the promise anyway. On Christmas Eve 1910 a stage went up beside Lotta Crabtree's 1875 fountain, a favourite meeting spot opposite the Chronicle [1][2]. With no amplification, a crowd variously reported as up to 250,000 filled Market Street to Union Square; the historian who retold the story urges caution about the number [1]. Office workers hung telephone receivers out of windows so families at home could listen. Tetrazzini, in a gown sewn with 3,000 rhinestones, sang just two pieces, \"The Last Rose of Summer\" and the waltz from Romeo and Juliet. Men wept; she called the city \"my home\" [1]. In 1912 a plaque honouring the concert was placed on the fountain [1][2].",
+    "people": [
+      {
+        "name": "Luisa Tetrazzini",
+        "role": "coloratura soprano"
+      },
+      {
+        "name": "William 'Doc' Leahy",
+        "role": "impresario"
+      },
+      {
+        "name": "Oscar Hammerstein I",
+        "role": "rival promoter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tetrazzini's Christmas Gift (essay by Woody LaBounty, San Francisco Story, Dec 2025)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Tetrazzini%27s_Christmas_Gift",
+        "supports": "Injunction, quote, crowd estimate caveat, phones out windows, gown, songs, 1912 plaque"
+      },
+      {
+        "title": "Lotta's Fountain",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Lotta%27s_Fountain",
+        "supports": "Fountain's location, opposite the Chronicle; Tetrazzini concert Dec 24, 1910"
+      },
+      {
+        "title": "San Francisco Landmark #73: Lotta Crabtree Fountain",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf073.asp",
+        "supports": "Fountain built 1875 at Market, Geary and Kearny"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-preparedness-day-bomb",
+    "title": "The Bomb at Steuart and Market",
+    "theme": "civil-rights",
+    "year": 1916,
+    "yearEnd": 1939,
+    "place": {
+      "label": "Steuart Street just south of Market",
+      "lat": 37.794,
+      "lon": -122.3945,
+      "precision": "street"
+    },
+    "hook": "A suitcase bomb killed ten at a pro-war parade. The city convicted a labour organiser, though a photo placed him a mile away.",
+    "story": "On Saturday, July 22, 1916, the Chamber of Commerce staged a huge Preparedness Day parade, reportedly with 51,329 marchers and 52 bands, to rally support for entering the war in Europe [1]. At 2:06 p.m., about half an hour in, a bomb hidden in a suitcase exploded on the west side of Steuart Street just south of Market, killing ten bystanders and wounding forty, the worst terrorist act in the city's history [1][2]. Suspicion fell at once on radical labour. Tom Mooney, a militant organiser, and Warren Billings were convicted on testimony later shown to be false, and a detective with long ties to utilities had coached witnesses [2]. A photograph taken at 2:01 p.m. showed Tom and Rena Mooney on the roof of the Eilers Building at 975 Market, a mile away; prosecutors had it but never showed it at trial [2]. Mooney was sentenced to hang. After pressure from President Wilson his sentence was commuted to life, and Governor Culbert Olson pardoned him in January 1939. Sources differ on Billings: one says he was pardoned too, another that he was freed in 1942 [1][2]. The bomber was never identified [1].",
+    "people": [
+      {
+        "name": "Tom Mooney",
+        "role": "labour organiser, wrongly convicted"
+      },
+      {
+        "name": "Warren K. Billings",
+        "role": "labour activist, wrongly convicted"
+      },
+      {
+        "name": "Culbert Olson",
+        "role": "Governor who pardoned Mooney"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Future (Preparedness Day, 1916) – film notes",
+        "publisher": "Museum of the City of San Francisco / Library of Congress",
+        "year": null,
+        "url": "http://www.sfmuseum.org/loc/prepday.html",
+        "supports": "Time and exact site of the bomb, casualties, parade size, convictions, pardons, bomber unknown"
+      },
+      {
+        "title": "Tom Mooney (essay by Chris Carlsson)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=TOM_MOONEY",
+        "supports": "Chamber of Commerce parade, Swanson's coached witnesses, Eilers Building photo, Wilson, 1939 pardon, Billings released 1942"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-hallidie-glass-wall",
+    "title": "Willis Polk's Wall of Glass",
+    "theme": "architecture-landmarks",
+    "year": 1918,
+    "yearEnd": null,
+    "place": {
+      "label": "Hallidie Building, 130 Sutter Street",
+      "lat": 37.79009,
+      "lon": -122.40286,
+      "precision": "building"
+    },
+    "hook": "Decades before glass towers took over downtown, a seven-storey building on Sutter Street hung its whole face in glass.",
+    "story": "Architect Willis Polk designed a modest seven-storey office block at 130 Sutter Street whose street front was not masonry at all but a sheer sheet of glass hung in front of the structure: a curtain wall [1][2]. It is often called one of the first glass curtain walls in the country, though a 1909 clothing building in Kansas City came earlier, and even the opening year is disputed: guidebooks give 1917 or 1918 [1][2]. The building was named for Andrew Smith Hallidie, the cable car pioneer, and Polk softened the glass with ornate iron fire escapes and sheet-metal cornices [2]. In 1971, when a bank was thinking of replacing it with a much taller tower, the Board of Supervisors made it City Landmark #37, and it was added to the National Register the same year [1][2]. The technique Polk tried here would come to dominate commercial architecture later in the century [1]. A two-year restoration finished in 2013, and the local chapter of the American Institute of Architects now occupies its ground floor [2].",
+    "people": [
+      {
+        "name": "Willis Polk",
+        "role": "architect"
+      },
+      {
+        "name": "Andrew Smith Hallidie",
+        "role": "cable car pioneer, building's namesake"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #37: Hallidie Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2019,
+        "url": "https://noehill.com/sf/landmarks/sf037.asp",
+        "supports": "Polk's glass curtain wall; 1917 vs 1918 dating dispute; National Register"
+      },
+      {
+        "title": "Hallidie Building",
+        "publisher": "Wikipedia (pointer to NRHP nomination and SF Chronicle)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hallidie_Building",
+        "supports": "Named for Hallidie; Kansas City precedent; 1971 landmarking after bank's plan; 2013 restoration; AIA centre"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-farnsworth-green-street",
+    "title": "Television's First Picture: A Straight Line",
+    "theme": "labor-industry",
+    "year": 1927,
+    "yearEnd": null,
+    "place": {
+      "label": "Farnsworth's lab, 202 Green Street",
+      "lat": 37.80048,
+      "lon": -122.40292,
+      "precision": "building"
+    },
+    "hook": "In a plain loft below Telegraph Hill, a 21-year-old farm boy from Utah sent a single line across a room and invented electronic television.",
+    "story": "Philo Taylor Farnsworth said he had worked out the principle of his image dissector as a teenager, inspired by the back-and-forth rows of a ploughed field [2]. Backed by San Francisco philanthropists, he set up a laboratory at 202 Green Street at the foot of Telegraph Hill [1][2]. On September 7, 1927, the 21-year-old and his assistants sent the first all-electronic television image from the camera tube to a receiver in another room. It was a straight line, lit from behind by an arc lamp through a glass slide [1][2]. His wife Pem later recalled him breaking the stunned silence: \"There you are, electronic television!\" [2]. When his backers asked when they would see dollars from the invention, the image he showed at a 1928 press demonstration was a dollar sign [2]. In 1929 he transmitted live human images, including a tiny picture of Pem with her eyes closed against the glare [2]. Farnsworth later won a patent interference case brought by RCA, and the state marked the Green Street site as California Historical Landmark 941, calling him \"the Genius of Green Street\" [1][2].",
+    "people": [
+      {
+        "name": "Philo T. Farnsworth",
+        "role": "inventor"
+      },
+      {
+        "name": "Elma 'Pem' Farnsworth",
+        "role": "wife and collaborator"
+      }
+    ],
+    "sources": [
+      {
+        "title": "California Historical Landmark 941: Farnsworth's Green Street Lab",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/cal0941.asp",
+        "supports": "Plaque text: 202 Green Street, Sept 7, 1927, first all-electronic image, age 21, 'Genius of Green Street'"
+      },
+      {
+        "title": "Philo Farnsworth",
+        "publisher": "Wikipedia (pointer to Schwartz, Godfrey and Pem Farnsworth's memoir)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Philo_Farnsworth",
+        "supports": "Straight line image, arc lamp, Pem's quote, dollar sign, 1929 live images, RCA suit"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-south-park-gran-oriente",
+    "title": "Filipino Seamen Buy a House on South Park",
+    "theme": "communities",
+    "year": 1921,
+    "yearEnd": null,
+    "place": {
+      "label": "Gran Oriente Filipino Hotel, 106 South Park",
+      "lat": 37.78171,
+      "lon": -122.3944,
+      "precision": "building"
+    },
+    "hook": "Barred from buying property directly, Filipino sailors joined the Freemasons, and with $6,000 bought a home that still shelters their community.",
+    "story": "South Park's oval, once ringed by wealthy families who later decamped to Nob Hill, had become a working neighbourhood by the early twentieth century [2]. It was one of the city's largest Japanese American enclaves, with Japanese-run hostels, hotels, baths and shops sandwiched between the waterfront and the railroad terminus; the Madrid Hotel at 22 South Park was once the Eimoto Hotel [2]. After the 1906 fire the blocks were rebuilt with warehouses, workshops and hotels, drawing longshoremen and immigrants from many countries [2]. In 1921 a group of Filipino immigrants working as seamen and merchant mariners bought a three-storey house on the park and named it the Gran Oriente Filipino Hotel, after a fraternity in the Philippines [1]. Because Filipinos were not allowed to buy property directly, a couple of dozen men joined the Freemasons and formed their own chapter so it could hold the title [1]. The 24-room hotel became a meeting place for Filipinos working in the city and the Central Valley, and the group later bought an apartment building and a lodge nearby [1]. Bought with a $6,000 investment, the property was later worth millions, but by the late 1990s the fraternity still refused to sell, and elderly Filipino men, many of them World War II veterans, still lived there in low-cost rooms [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "South Park Filipinos (courtesy Northern California Coalition on Immigrant Rights)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=SOUTH_PARK_FILIPINOS",
+        "supports": "1921 purchase, name, Masonic workaround, 24 rooms, $6,000, later residents"
+      },
+      {
+        "title": "South Park, San Francisco",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/South_Park,_San_Francisco",
+        "supports": "Japanese American enclave, Eimoto Hotel at 22 South Park, post-1906 warehouses and immigrants"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-rivera-stock-exchange",
+    "title": "A Communist Paints the Stock Exchange",
+    "theme": "arts-counterculture",
+    "year": 1931,
+    "yearEnd": null,
+    "place": {
+      "label": "Stock Exchange Tower (City Club), Sansome near Pine",
+      "lat": 37.79165,
+      "lon": -122.40124,
+      "precision": "building"
+    },
+    "hook": "When Timothy Pflueger hired Diego Rivera to paint inside capitalism's West Coast citadel, just about everyone in San Francisco was angry.",
+    "story": "In September 1930 architect Timothy Pflueger announced that Mexican muralist Diego Rivera, an avowed Communist, would paint a fresco in his new Stock Exchange tower [1]. Pflueger's firm had just remodelled the exchange at Pine and Sansome [3]. The painter Maynard Dixon called Rivera \"the greatest living artist in the world\" but said the exchange \"could look the world over without finding a man more inappropriate\" [1]. The Chronicle mocked up his satirical Capitalist Dinner panel on the Lunch Club staircase and asked whether the club's art would be \"touched in pink\" [1]. Rivera's 1931 fresco, Allegory of California, climbs the stairwell wall and runs across the ceiling [2]. Its giant goddess was modelled on tennis champion Helen Wills Moody, one hand holding fruit and wheat, the other scooping up earth to show miners at work. Around her are oil refineries, Matson and Dollar Line ships, gold dredges, James Marshall and Luther Burbank [2]. He pleased his patrons, but signed it in red paint beneath a redwood stump. A red-handed warning gauge may hint at his belief that capitalism would destroy itself [2]. The fresco remains inside a private club [1].",
+    "people": [
+      {
+        "name": "Diego Rivera",
+        "role": "muralist"
+      },
+      {
+        "name": "Timothy Pflueger",
+        "role": "architect"
+      },
+      {
+        "name": "Helen Wills Moody",
+        "role": "tennis champion and model"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Diego Rivera in San Francisco (essay by Masha Zakheim)",
+        "publisher": "FoundSF",
+        "year": 1998,
+        "url": "https://www.foundsf.org/index.php?title=Diego_Rivera_in_San_Francisco",
+        "supports": "Sept 1930 announcement, Dixon quote, Chronicle mock-up, private club"
+      },
+      {
+        "title": "Allegory of California (essay by Masha Zakheim)",
+        "publisher": "FoundSF",
+        "year": 1998,
+        "url": "https://www.foundsf.org/index.php?title=Allegory_of_California",
+        "supports": "1931 true fresco, wall and ceiling, Helen Wills Moody, imagery, red signature, gauge"
+      },
+      {
+        "title": "Pacific Exchange",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Pacific_Exchange",
+        "supports": "Building at Pine and Sansome remodelled in 1930 by Miller and Pflueger"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-bloody-thursday-1934",
+    "title": "Bloody Thursday at Steuart and Mission",
+    "theme": "labor-industry",
+    "year": 1934,
+    "yearEnd": null,
+    "place": {
+      "label": "Steuart and Mission streets",
+      "lat": 37.7929,
+      "lon": -122.3935,
+      "precision": "street"
+    },
+    "hook": "On July 5, 1934, police fired into striking longshoremen at the foot of Rincon Hill. Within days, the whole city stopped work.",
+    "story": "By July 1934 West Coast longshoremen had been on strike for nearly two months, and shipowners, backed by Mayor Rossi and the police, decided to \"open the port\" [1]. On July 5, police charged 2,000 pickets at Pier 38, then spent the afternoon trying to drive about 5,000 strikers off Rincon Hill, which overlooked the Belt Line Railway. Tear gas and \"vomit gas\" filled the streets, and salesmen from competing firms handed out free samples to the police [1]. Strikers answered with bricks and railroad spikes. Police bullets killed Howard Sperry and Nicholas Bordoise, and more than a hundred people were hurt [1]. Accounts differ on details: a sidewalk marker names Gene Olsen among those who fell, and one essay blames National Guardsmen rather than police [2][3]. The corner of Steuart and Mission was covered in flowers and chalked: \"Two men killed here, murdered by police\" [1]. Strike leader Harry Bridges's office in the Audiffred Building overlooked the spot [2]. Within days, tens of thousands marched in silence down Market Street behind the coffins, and a general strike shut the city for four days [4].",
+    "people": [
+      {
+        "name": "Howard Sperry",
+        "role": "striker, killed"
+      },
+      {
+        "name": "Nicholas Bordoise",
+        "role": "striker, killed"
+      },
+      {
+        "name": "Harry Bridges",
+        "role": "longshore strike leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "July 5, 1934: Bloody Thursday (essay by Chris Carlsson)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=July_5,_1934:_Bloody_Thursday",
+        "supports": "Pier 38 and Rincon Hill fighting, gas samples, names of the dead, chalked memorial at Steuart and Mission"
+      },
+      {
+        "title": "San Francisco Landmark #7: Audiffred Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2020,
+        "url": "https://noehill.com/sf/landmarks/sf007.asp",
+        "supports": "Marker text: Bridges's office overlooked the site; names Perry/Sperry and Olsen"
+      },
+      {
+        "title": "Audiffred Building (essay by Libby Ingalls)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Audiffred_Building",
+        "supports": "Alternative account attributing shooting to National Guardsmen; annual commemoration"
+      },
+      {
+        "title": "Trial of the Rincon Annex Murals (essay by Gray Brechin)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Trial_of_the_Rincon_Annex_Murals",
+        "supports": "Silent funeral procession down Market; four-day general strike"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-rincon-annex-murals",
+    "title": "The Post Office Murals Congress Tried to Erase",
+    "theme": "civil-rights",
+    "year": 1948,
+    "yearEnd": 1953,
+    "place": {
+      "label": "Rincon Annex Post Office, 101 Mission Street",
+      "lat": 37.79228,
+      "lon": -122.39416,
+      "precision": "building"
+    },
+    "hook": "Anton Refregier painted San Francisco's history with the ugly parts left in. Congressmen called it communist propaganda and wanted it gone.",
+    "story": "The streamlined Rincon Annex post office, designed by Gilbert Underwood, opened on October 26, 1940, on land once meant for a Southern Pacific station [3]. In 1943 New York artist Anton Refregier won the commission to paint the \"History of San Francisco\" around its lobby, the last year of federal art sponsorship; the work was not painted until after the war [1]. Instead of heroic pioneers, Refregier showed vigilantes, anti-Chinese riots, the 1934 waterfront strike, and the 1916 Preparedness Day bombing that sent Tom Mooney and Warren Billings to prison [1]. In May 1948 Refregier and CIO longshoremen carried a banner protesting the covering up of one section [1]. On May 1, 1953, at the height of the McCarthy era, the House Committee on Public Works held a day of hearings on destroying the murals. Representative Hubert Scudder of Sebastopol accused the artist of slandering the state's pioneers and pushing communism on post office patrons [2]. An American Legion spokesman complained the murals were \"depressing\" [1]. They survived, and the building became City Landmark #107; the murals still ring the lobby, though it is no longer a post office [1][3].",
+    "people": [
+      {
+        "name": "Anton Refregier",
+        "role": "muralist"
+      },
+      {
+        "name": "Hubert Scudder",
+        "role": "Congressman who sought the murals' removal"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rincon Annex Post Office (Steven M. Gelber, California History, 1979)",
+        "publisher": "FoundSF",
+        "year": 1979,
+        "url": "https://www.foundsf.org/index.php?title=Rincon_Annex_Post_Office",
+        "supports": "1943 commission, subjects, 1948 protest photo, American Legion testimony"
+      },
+      {
+        "title": "Trial of the Rincon Annex Murals (essay by Gray Brechin)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Trial_of_the_Rincon_Annex_Murals",
+        "supports": "May 1, 1953 House Committee hearing; Scudder's charges"
+      },
+      {
+        "title": "San Francisco Landmark #107: Rincon Annex Post Office",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf107.asp",
+        "supports": "Southern Pacific site, opened Oct 26, 1940, Gilbert Underwood, Streamline Moderne"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-morris-gift-shop-wright",
+    "title": "Frank Lloyd Wright's Rehearsal for the Guggenheim",
+    "theme": "architecture-landmarks",
+    "year": 1949,
+    "yearEnd": null,
+    "place": {
+      "label": "V. C. Morris Gift Shop, 140 Maiden Lane",
+      "lat": 37.78827,
+      "lon": -122.40589,
+      "precision": "building"
+    },
+    "hook": "Behind a blank brick wall on a Union Square alley, Wright built a spiral ramp a decade before his famous museum.",
+    "story": "San Francisco has just one building by Frank Lloyd Wright, and from Maiden Lane it barely looks like a shop: a flat wall of brick pierced by a single arched entrance [1]. Between 1948 and 1949 Wright remodelled a 1911 building as a store for the Morris family [1]. Inside, a curving ramp spirals up from the ground floor to a circular mezzanine, under a ceiling of translucent plastic discs and half-bubbles hung beneath skylights. Many critics see it as a trial run for the Guggenheim Museum's spiral a decade later [1][2]. Reviewing it in Architectural Forum in February 1950, Elizabeth Mock wrote that the ramp rose like \"a wave checked in its break,\" and that a visitor's \"transformation into a customer is accomplished with dignity and dispatch\" [1]. The arch had a local ancestor: city landmark reports compare it to the Chicago-style arched entry of the Mills Building [3]. The Morrises ran the store until they died in the early 1960s; Wright associate Aaron Green restored it in 1998 [1].",
+    "people": [
+      {
+        "name": "Frank Lloyd Wright",
+        "role": "architect"
+      },
+      {
+        "name": "V. C. Morris",
+        "role": "shop owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #72: V. C. Morris Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/sf072.asp",
+        "supports": "Only Wright building in SF; 1911 building remodelled 1948-49; ramp; Guggenheim precursor; Mock quote; Morrises until early 1960s; Green restoration 1998"
+      },
+      {
+        "title": "V. C. Morris Gift Shop",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/V._C._Morris_Gift_Shop",
+        "supports": "Designed 1948; prototype for Guggenheim ramp"
+      },
+      {
+        "title": "San Francisco Landmark #76: Mills Building and Tower",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf076.asp",
+        "supports": "Landmark report compares Morris Building entrance to Mills Building arch"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-audiffred-whiskey-1906",
+    "title": "Whiskey for the Firemen, a Building Spared",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Audiffred Building, 1-21 Mission Street",
+      "lat": 37.79326,
+      "lon": -122.39293,
+      "precision": "building"
+    },
+    "hook": "As firemen dynamited the waterfront in 1906, a saloon keeper in this mansard-roofed building made them an offer they could not refuse. Or so the story goes.",
+    "story": "Hippolite d'Audiffred put up his cast-iron, French mansard-roofed building at the foot of Mission Street in 1889, and it quickly became a waterfront hub [1][2]. The Sailors' Union of the Pacific rented rooms upstairs, and three saloons and a restaurant filled the ground floor [2]. In April 1906, as the fire swept east, firemen were blasting a firebreak between the burning city and the wharves where relief supplies were landing [2]. Legend says the barkeepers of the Bulkhead Saloon offered each firefighter two quarts of whiskey, plus a wagonload of wine, to save their block [1][2]. Tellings differ: another version offers a keg per fireman [2]. The city's own marker says only \"whether the story, or some variation, is true,\" the Audiffred was the sole survivor on its block [1]. Along with the Ferry Building, it is one of just two central waterfront buildings that came through the earthquake and fire [1]. Its luck held: Harry Bridges ran the 1934 longshore strike from an office upstairs, and after a 1979 fire it was saved as City Landmark #7 [1][2].",
+    "people": [
+      {
+        "name": "Hippolite d'Audiffred",
+        "role": "builder"
+      },
+      {
+        "name": "Bulkhead Saloon barkeepers",
+        "role": "alleged whiskey bribers"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #7: Audiffred Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2020,
+        "url": "https://noehill.com/sf/landmarks/sf007.asp",
+        "supports": "Marker text: 1889, cast iron and mansard, whiskey story with caveat, sole survivor, Bridges's office"
+      },
+      {
+        "title": "Audiffred Building (essay by Libby Ingalls, from the SF Labor Landmarks Guide)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Audiffred_Building",
+        "supports": "Sailors' Union upstairs, saloons, dynamiting firebreak, variant keg version, 1979 fire and landmarking"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-sailors-union-hall-1950",
+    "title": "A Union Hall Shaped Like a Ship",
+    "theme": "labor-industry",
+    "year": 1950,
+    "yearEnd": null,
+    "place": {
+      "label": "Sailors' Union of the Pacific, First and Harrison streets",
+      "lat": 37.78656,
+      "lon": -122.39301,
+      "precision": "block"
+    },
+    "hook": "The state stopped the sailors' first building site for Bay Bridge test borings. So they moved a block over and built a white ship on land.",
+    "story": "The Sailors' Union of the Pacific, founded in San Francisco in 1885, spent decades in rented rooms along the waterfront, including the upper floors of the Audiffred Building [1][3]. In September 1947 it broke ground for a permanent headquarters at Fremont and Harrison. By March 1948 the state had halted work with a court order: the Division of Highways wanted the site for test borings for the neighbouring Bay Bridge [1]. The union moved to the corner of First and Harrison, and the new hall opened in 1950 [1]. Architect William Gladstone Merchant designed it in white stone and concrete in the Art Moderne style, with balconies shaped like parts of a ship, porthole windows and ship models in the lobby [1]. Its heart is the Dispatch Hall, where the union still matches sailors to berths, and the union's constitution requires a library in every hall [1]. Outside stand busts of two Norwegian-born leaders: Andrew Furuseth, who fought for the Seamen's Act of 1915, and Harry Lundeberg, who led the union from the mid-1930s until his death in 1957 [1][2]. The building sits near the site of the 1934 \"Battle of Rincon Hill\" [1].",
+    "people": [
+      {
+        "name": "William Gladstone Merchant",
+        "role": "architect"
+      },
+      {
+        "name": "Andrew Furuseth",
+        "role": "union leader"
+      },
+      {
+        "name": "Harry Lundeberg",
+        "role": "union leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sailors' Union of the Pacific Building (essay by Libby Ingalls)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Sailors%27_Union_of_the_Pacific_Building",
+        "supports": "1947 groundbreaking, 1948 court order, move to First and Harrison, 1950, Merchant, design, Dispatch Hall, library, busts"
+      },
+      {
+        "title": "Sailors' Union of the Pacific",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Sailors%27_Union_of_the_Pacific",
+        "supports": "Founded 1885; Furuseth and Lundeberg's tenures; Seamen's Act 1915"
+      },
+      {
+        "title": "Audiffred Building",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Audiffred_Building",
+        "supports": "SUP upstairs in the Audiffred until 1905"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-embarcadero-freeway-1959",
+    "title": "The Freeway That Stopped at Broadway",
+    "theme": "civil-rights",
+    "year": 1959,
+    "yearEnd": null,
+    "place": {
+      "label": "Embarcadero at Broadway, end of the Embarcadero Freeway",
+      "lat": 37.799,
+      "lon": -122.398,
+      "precision": "area"
+    },
+    "hook": "In 1959 a double-decker freeway opened along the waterfront. The same year, 30,000 San Franciscans signed petitions that made sure it went no further.",
+    "story": "Postwar planners drew freeways across San Francisco, and in the 1950s the state began a double-decked Embarcadero Freeway meant to link the Bay Bridge with the Golden Gate Bridge [1][2]. Its first section, from the bridge approach near First Street north to Broadway, opened on February 5, 1959 [2]. It walled off the Ferry Building and left older waterfront buildings in shadow [3][4]. Opposition had been growing in neighbourhoods from Telegraph Hill to the Sunset and the Haight. In January 1959, after neighbourhood groups delivered petitions with 30,000 signatures, the Board of Supervisors voted to cancel seven of ten planned freeways, including the rest of the Embarcadero route [1][2]. Preservationists call it the first time any government body voted to stop freeways [1]. The Embarcadero Freeway stopped just past Broadway, and for decades a stub hung in the air where it was supposed to continue [1]. The \"freeway revolt\" became a founding moment for the city's environmental movement, and after the 1989 Loma Prieta earthquake damaged the structure it came down in 1991 [1][4].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco, CA: Embarcadero Freeway",
+        "publisher": "Preservation Institute (Removing Freeways – Restoring Cities)",
+        "year": null,
+        "url": "http://www.preservenet.com/freeways/FreewaysEmbarcadero.html",
+        "supports": "Planned link between bridges; 30,000 signatures; seven of ten freeways cancelled; 'first time'; stub at Broadway; environmental movement; 1991 removal"
+      },
+      {
+        "title": "California State Route 480 (Embarcadero Freeway)",
+        "publisher": "Wikipedia (pointer to Caltrans and Chronicle reports)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Embarcadero_Freeway",
+        "supports": "Opened Feb 5, 1959 from near First Street to Broadway; Resolution 45-59 in January 1959"
+      },
+      {
+        "title": "Freeways Never Built, or Unbuilt after 1989 quake",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Freeways_Never_Built,_or_Unbuilt_after_1989_quake",
+        "supports": "Freeway hid the Ferry Building; demolition photos"
+      },
+      {
+        "title": "Audiffred Building",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Audiffred_Building",
+        "supports": "Freeway boxed Audiffred into a dark corner; removed after Loma Prieta"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-crown-zellerbach-1959",
+    "title": "Downtown's First Glass Box Turns Its Back",
+    "theme": "architecture-landmarks",
+    "year": 1959,
+    "yearEnd": null,
+    "place": {
+      "label": "Crown Zellerbach Building, 1 Bush Street",
+      "lat": 37.79109,
+      "lon": -122.40012,
+      "precision": "building"
+    },
+    "hook": "The first big downtown building in thirty years was a gleaming glass tower in its own plaza. Its front door faced away from Market Street.",
+    "story": "For three decades after the Crash of 1929, almost nothing significant rose in downtown San Francisco. That changed in 1959, when the paper giant Crown Zellerbach, founded by San Franciscan Isadore Zellerbach's family firm, finished its 20-storey headquarters at 1 Bush Street [1][2]. Designed by Skidmore, Owings & Merrill, it was the city's first International Style glass tower, built soon after the Lever House and Seagram Building in New York [1][2]. It was also the first to stand apart in a private plaza, an idea later copied across downtown with mixed results [1]. Wide steel girders spanned the whole floor without interior columns, opening the way for the open-plan office [1]. Market Street was in decline, so the architects put the main entrance on Bush Street and turned the tower's back to the city's main boulevard [1][2]. The site had its own history: here, in 1898, Charles Fey invented the three-reel Liberty Bell slot machine in his workshop, now marked by a state plaque [1]. Crown Zellerbach itself was swallowed in a hostile takeover in the mid-1980s [1][2].",
+    "people": [
+      {
+        "name": "Isadore Zellerbach",
+        "role": "founder of the Zellerbach paper company"
+      },
+      {
+        "name": "Charles August Fey",
+        "role": "slot machine inventor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #183: Crown Zellerbach Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf183.asp",
+        "supports": "Company history, SOM, first International Style curtain wall tower, private plaza, girders, Bush Street entrance, Fey's 1898 slot machine, takeover"
+      },
+      {
+        "title": "One Bush Plaza",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/One_Bush_Plaza",
+        "supports": "Completed 1959, 20 storeys, first significant downtown structure in 30 years, entrance controversy"
+      }
+    ],
+    "photo": null
+  }
+]
