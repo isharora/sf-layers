@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Layers: Alamo Square & Environs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=IM+Fell+English+SC&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root { --paper: #efe5cf; --ink: #3d3026; --ink-2: #6e5a47; --gold: #b8903f; --rose: #9c3b33;
+    --display: "Cormorant Garamond", Georgia, serif; --caps: "IM Fell English SC", Georgia, serif; --ui: Inter, -apple-system, system-ui, sans-serif; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #2c2620; }
+  #stage { position: fixed; inset: 0; }
+  #map { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
+  #map.drag { cursor: grabbing; }
+  .blk { fill: transparent; stroke: transparent; cursor: pointer; }
+  .blk:hover { fill: rgba(255, 244, 214, .28); stroke: #b8903f; stroke-width: 2.2; }
+  .blk.sel { fill: rgba(255, 238, 190, .32); stroke: #9c3b33; stroke-width: 3; }
+  .lm { cursor: pointer; }
+  .lm:hover circle { stroke-width: 2.5; }
+  /* ui chrome */
+  .legend { position: fixed; left: 18px; bottom: 18px; background: rgba(243, 234, 214, .95); border: 1px solid #c9b58a; border-radius: 12px; padding: 12px 14px; font: 12px var(--ui); color: var(--ink); box-shadow: 0 10px 30px rgba(0,0,0,.25); }
+  .legend h4 { margin: 0 0 8px; font: 600 10.5px var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); }
+  .legend .row { display: flex; align-items: center; gap: 8px; margin: 4px 0; cursor: default; }
+  .legend .sw { width: 22px; height: 12px; border-radius: 3px; border: 1px solid rgba(61,48,38,.4); }
+  .zoom { position: fixed; right: 18px; bottom: 18px; display: flex; flex-direction: column; gap: 6px; }
+  .zoom button { width: 38px; height: 38px; border-radius: 10px; border: 1px solid #c9b58a; background: rgba(243,234,214,.95); font: 600 18px var(--ui); color: var(--ink); cursor: pointer; }
+  .drawer { position: fixed; top: 0; right: 0; height: 100%; width: min(420px, 100%); background: #f6eedb; box-shadow: -20px 0 60px rgba(0,0,0,.35); transform: translateX(105%); transition: transform .35s cubic-bezier(.2,.8,.2,1); overflow-y: auto; color: var(--ink); z-index: 10; }
+  .drawer.open { transform: none; }
+  .drawer .hd { padding: 26px 26px 14px; border-bottom: 1px solid #decfae; }
+  .drawer .k { font: 600 11px var(--ui); letter-spacing: .16em; text-transform: uppercase; color: var(--gold); }
+  .drawer h2 { font: 600 34px/1.1 var(--display); margin: 6px 0 4px; }
+  .drawer .sub { font: italic 18px var(--display); color: var(--ink-2); }
+  .drawer .bd { padding: 18px 26px 40px; font: 18px/1.5 var(--display); }
+  .drawer .close { position: absolute; top: 16px; right: 16px; width: 34px; height: 34px; border-radius: 50%; border: 1px solid #d6c49c; background: #fbf5e6; cursor: pointer; font: 16px var(--ui); color: var(--ink); }
+  .era-bar { display: flex; height: 12px; border-radius: 4px; overflow: hidden; margin: 8px 0 4px; }
+  .stat { font: 13px var(--ui); color: var(--ink-2); }
+  .soon { margin-top: 20px; padding: 14px 16px; border: 1px dashed #c9b58a; border-radius: 10px; font: 14px/1.5 var(--ui); color: var(--ink-2); background: #fbf5e6; }
+  .chip { display: inline-block; font: 500 12px var(--ui); padding: 3px 9px; border-radius: 999px; background: #eadcbc; margin: 3px 4px 0 0; color: var(--ink); }
+  .lmcard { margin: 10px 0; padding: 12px 14px; background: #fbf5e6; border-left: 3px solid var(--gold); border-radius: 0 8px 8px 0; }
+  .lmcard b { font: 600 19px var(--display); }
+  .lmcard a { font: 12px var(--ui); color: var(--rose); }
+</style>
+</head>
+<body>
+<div id="stage"><svg id="map" role="img" aria-label="Illustrated map of Alamo Square and the surrounding neighbourhoods"></svg></div>
+<div class="legend" id="legend"></div>
+<div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button></div>
+<aside class="drawer" id="drawer" aria-live="polite"><button class="close" id="close" aria-label="Close">✕</button><div id="dbody"></div></aside>
+
+<script src="map.js"></script>
+<script>
+const M = window.MAP, NS = 'http://www.w3.org/2000/svg';
+const svg = document.getElementById('map');
+const PAD = 120, W = M.w + PAD * 2, H = M.h + PAD * 2;
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const pts = p => p.map(([x, y]) => `${(x + PAD).toFixed(1)},${(y + PAD).toFixed(1)}`).join(' ');
+const path = p => 'M' + p.map(([x, y]) => `${(x + PAD).toFixed(1)} ${(y + PAD).toFixed(1)}`).join(' L') + ' Z';
+const line = p => 'M' + p.map(([x, y]) => `${(x + PAD).toFixed(1)} ${(y + PAD).toFixed(1)}`).join(' L');
+function hash(s) { let h = 2166136261; for (const ch of String(s)) { h ^= ch.charCodeAt(0); h = Math.imul(h, 16777619); } return Math.abs(h); }
+
+/* ---------- era palette: a Painted Ladies palette for Victorians, softer tones after 1906 ---------- */
+const ERAS = [
+  { k: 'vic', label: 'Before 1906', test: y => y && y < 1906 && y !== 1900, cols: ['#d98f8a', '#8fb39f', '#e3bd67', '#97a6d3', '#c49bc4', '#e8a37b', '#7ea8b8', '#d7b18c'] },
+  { k: 'edw', label: '1906–1929', test: y => y >= 1906 && y < 1930, cols: ['#eed6ad', '#e8cfc3', '#d3dfcb', '#d8d2e7', '#efdfa6', '#f0c9b0'] },
+  { k: 'deco', label: '1930–1949', test: y => y >= 1930 && y < 1950, cols: ['#e6cca3', '#dcc5a3', '#e9d8bd'] },
+  { k: 'mod', label: '1950–1979', test: y => y >= 1950 && y < 1980, cols: ['#b7bec4', '#a8b3bc', '#c5c1b6'] },
+  { k: 'now', label: '1980–today', test: y => y >= 1980, cols: ['#cdd6d1', '#d9d0c6', '#c9cfd8'] },
+  { k: 'unk', label: 'Year unknown', test: () => true, cols: ['#e6dac3', '#e1d5bd'] },
+];
+const eraOf = y => ERAS.find(e => e.test(y));
+function shade(hex, f) { const n = parseInt(hex.slice(1), 16); let r = n >> 16, g = n >> 8 & 255, b = n & 255; r = Math.round(r * f); g = Math.round(g * f); b = Math.round(b * f); return '#' + [r, g, b].map(v => Math.max(0, Math.min(255, v)).toString(16).padStart(2, '0')).join(''); }
+
+/* ---------- build the illustration ---------- */
+function build() {
+  const k = .38; // px of "pop-up" per metre of height
+  let s = `<defs>
+    <filter id="paper" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" seed="3"/><feColorMatrix values="0 0 0 0 .42  0 0 0 0 .33  0 0 0 0 .2  0 0 0 .1 0"/></filter>
+    <filter id="wash" x="-10%" y="-10%" width="120%" height="120%"><feTurbulence type="fractalNoise" baseFrequency=".012" numOctaves="2" seed="9"/><feDisplacementMap in="SourceGraphic" scale="14"/></filter>
+    <filter id="fog" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+    <radialGradient id="vig" cx=".5" cy=".5" r=".75"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#3b2a18" stop-opacity=".28"/></radialGradient>
+    <radialGradient id="hill" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#cfe0a8"/><stop offset="1" stop-color="#9fbf7e"/></radialGradient>
+    <clipPath id="aoiClip"><path d="${M.aoi.map(path).join(' ')}"/></clipPath>
+  </defs>
+  <rect width="${W}" height="${H}" fill="#f4ecd9"/>`;
+  // blocks (land) — outside the study area washed out
+  s += `<g>${M.blocks.map(b => b.p.map(p => `<path d="${path(p)}" fill="${b.inAoi ? '#e4d7bb' : '#e9e0cc'}" stroke="${b.inAoi ? '#e4d7bb' : '#e9e0cc'}" stroke-width="3" stroke-linejoin="round"/>`).join('')).join('')}</g>`;
+  // parks
+  s += `<g>${M.parks.map(p => p.p.map(q => `<path d="${path(q)}" fill="${p.n === 'Alamo Square' ? 'url(#hill)' : '#b5cc93'}" stroke="#8fae6d" stroke-width="1.2"/>`).join('')).join('')}</g>`;
+  // park footpaths
+  s += `<g fill="none" stroke="#f3ead2" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="1 4.5" opacity=".9">${M.streets.filter(t => t.k === 0).map(t => `<path d="${line(t.p)}"/>`).join('')}</g>`;
+  // buildings: walls then roofs, drawn north-to-south so southern buildings overlap
+  const bs = M.buildings.map(b => { const e = eraOf(b.y), col = e.cols[hash(b.a || b.p[0].join()) % e.cols.length]; const cy = b.p.reduce((a, q) => a + q[1], 0) / b.p.length; return { ...b, e, col, cy, lift: Math.min(28, Math.max(3, b.h * k)) }; }).sort((a, b) => a.cy - b.cy);
+  s += `<g stroke="#4a3b30" stroke-width=".55" stroke-linejoin="round">${bs.map(b => {
+    const base = pts(b.p), roof = pts(b.p.map(([x, y]) => [x, y - b.lift]));
+    return `<polygon points="${base}" fill="${shade(b.col, .72)}"/><polygon points="${roof}" fill="${b.col}" data-e="${b.e.k}"/>`;
+  }).join('')}</g>`;
+  // trees: watercolour dabs
+  const greens = ['#7fa35f', '#8fb06a', '#6f9656', '#97b873'];
+  s += `<g>${M.trees.map(([x, y], i) => { const r = 2.6 + (hash(i) % 10) / 8; return `<circle cx="${(x + PAD + .9).toFixed(1)}" cy="${(y + PAD + 1.2).toFixed(1)}" r="${r.toFixed(1)}" fill="#4f5e37" opacity=".22"/><circle cx="${(x + PAD).toFixed(1)}" cy="${(y + PAD).toFixed(1)}" r="${r.toFixed(1)}" fill="${greens[i % 4]}" opacity=".9"/>`; }).join('')}</g>`;
+  // street names: longest segment of each named street
+  const best = {};
+  M.streets.filter(t => t.n && t.k >= 1).forEach(t => { const len = Math.hypot(t.p.at(-1)[0] - t.p[0][0], t.p.at(-1)[1] - t.p[0][1]); if (!best[t.n] || len > best[t.n].len) best[t.n] = { len, t }; });
+  s += `<g font-family="IM Fell English SC, Georgia, serif" font-size="11" fill="#8a7356" letter-spacing="2.2">${Object.entries(best).filter(([, v]) => v.len > 120).map(([n, { t }], i) => {
+    const a = t.p[0], b = t.p.at(-1); let ang = Math.atan2(b[1] - a[1], b[0] - a[0]) * 180 / Math.PI; if (ang > 90) ang -= 180; if (ang < -90) ang += 180;
+    const mx = (a[0] + b[0]) / 2 + PAD, my = (a[1] + b[1]) / 2 + PAD;
+    return `<text x="${mx.toFixed(1)}" y="${my.toFixed(1)}" transform="rotate(${ang.toFixed(1)} ${mx.toFixed(1)} ${my.toFixed(1)})" text-anchor="middle" dominant-baseline="middle" paint-order="stroke" stroke="#f4ecd9" stroke-width="4">${esc(n.replace(/ Street$/, ' St').replace(/ Avenue$/, ' Ave').replace(/ Boulevard$/, ' Blvd').toUpperCase())}</text>`;
+  }).join('')}</g>`;
+  // block hit areas
+  s += `<g id="blocks">${M.blocks.filter(b => b.inAoi).map(b => `<path class="blk" data-id="${b.id}" d="${b.p.map(path).join(' ')}"/>`).join('')}</g>`;
+  // study-area boundary
+  s += `<path d="${M.aoi.map(path).join(' ')}" fill="none" stroke="#9c3b33" stroke-width="2" stroke-dasharray="10 6" opacity=".55"/>`;
+  // landmarks
+  s += `<g id="lms">${M.landmarks.filter(l => l.no).map(l => { const x = l.c[0] + PAD, y = l.c[1] + PAD - 10; return `<g class="lm" data-no="${l.no}" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="9.5" fill="#fbf1d6" stroke="#b8903f" stroke-width="1.6"/><path d="M0 -5.2 L1.5 -1.6 L5.2 -1.4 L2.3 1 L3.2 4.6 L0 2.6 L-3.2 4.6 L-2.3 1 L-5.2 -1.4 L-1.5 -1.6 Z" fill="#9c3b33"/></g>`; }).join('')}</g>`;
+  // neighbourhood labels
+  s += `<g>${M.places.map(p => { const x = p.c[0] + PAD, y = p.c[1] + PAD; return p.k === 'park'
+    ? `<text x="${x}" y="${y}" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="700" font-size="30" fill="#3f5a2c" paint-order="stroke" stroke="#e6efcf" stroke-width="5" stroke-linejoin="round">${esc(p.n)}</text>`
+    : `<text x="${x}" y="${y}" text-anchor="middle" font-family="IM Fell English SC, Georgia, serif" font-size="34" letter-spacing="5" fill="#6b4f36" opacity=".72" paint-order="stroke" stroke="#f4ecd9" stroke-width="6" stroke-linejoin="round">${esc(p.n.toUpperCase())}</text>`; }).join('')}</g>`;
+  // drifting fog
+  s += `<g id="fogL" opacity=".26" pointer-events="none" filter="url(#fog)">${[[-200, 300, 420, 150], [300, 900, 520, 170], [900, 200, 480, 140], [1500, 1100, 560, 180], [2000, 500, 420, 150]].map(([x, y, rx, ry]) => `<ellipse cx="${x}" cy="${y}" rx="${rx}" ry="${ry}" fill="#fff"/>`).join('')}<animateTransform attributeName="transform" type="translate" from="-500 0" to="${W + 200} 0" dur="140s" repeatCount="indefinite"/></g>`;
+  // paper texture + vignette
+  s += `<rect width="${W}" height="${H}" filter="url(#paper)" pointer-events="none"/><rect width="${W}" height="${H}" fill="url(#vig)" pointer-events="none"/>`;
+  // cartouche + compass
+  s += cartouche() + compass();
+  svg.innerHTML = s;
+}
+function cartouche() {
+  const x = PAD + 20, y = PAD + 18;
+  return `<g transform="translate(${x} ${y})" pointer-events="none">
+    <rect width="430" height="150" rx="10" fill="#f8f0dc" stroke="#b8903f" stroke-width="2.5"/><rect x="8" y="8" width="414" height="134" rx="6" fill="none" stroke="#b8903f" stroke-width="1" stroke-dasharray="1 4"/>
+    <text x="215" y="46" text-anchor="middle" font-family="IM Fell English SC, Georgia, serif" font-size="15" letter-spacing="6" fill="#8a6d3b">LAYERS · A MAP IN TIME</text>
+    <text x="215" y="92" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="700" font-size="40" fill="#3d3026">Alamo Square &amp; Environs</text>
+    <text x="215" y="124" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-size="17" fill="#6e5a47">San Francisco · six blocks in every direction</text></g>`;
+}
+function compass() {
+  const x = W - PAD - 70, y = PAD + 80, a = -M.angle; // north, after rotating the street grid
+  return `<g transform="translate(${x} ${y}) rotate(${a})" pointer-events="none">
+    <circle r="46" fill="#f8f0dc" stroke="#b8903f" stroke-width="2"/><circle r="38" fill="none" stroke="#b8903f" stroke-width=".8" stroke-dasharray="1 3"/>
+    <path d="M0 -40 L8 0 L0 40 L-8 0 Z" fill="#e8d6ae" stroke="#8a6d3b" stroke-width="1"/><path d="M0 -40 L8 0 L-8 0 Z" fill="#9c3b33"/>
+    <path d="M-40 0 L0 -6 L40 0 L0 6 Z" fill="#efe2c2" stroke="#8a6d3b" stroke-width=".8"/>
+    <text y="-50" text-anchor="middle" font-family="IM Fell English SC, Georgia, serif" font-size="15" fill="#6b4f36">N</text></g>`;
+}
+
+/* ---------- legend ---------- */
+document.getElementById('legend').innerHTML = `<h4>When it was built</h4>` + ERAS.map(e => `<div class="row" data-e="${e.k}"><span class="sw" style="background:linear-gradient(90deg,${e.cols.slice(0, 3).join(',')})"></span>${e.label}</div>`).join('') + `<div class="row"><svg width="22" height="16"><circle cx="11" cy="8" r="7" fill="#fbf1d6" stroke="#b8903f" stroke-width="1.4"/><circle cx="11" cy="8" r="2.4" fill="#9c3b33"/></svg>City landmark</div>`;
+document.getElementById('legend').addEventListener('mouseover', e => { const r = e.target.closest('.row'); if (!r || !r.dataset.e) return; svg.querySelectorAll('polygon[data-e]').forEach(p => p.style.opacity = p.dataset.e === r.dataset.e ? 1 : .25); });
+document.getElementById('legend').addEventListener('mouseleave', () => svg.querySelectorAll('polygon[data-e]').forEach(p => p.style.opacity = ''));
+
+/* ---------- pan & zoom ---------- */
+let vb = [0, 0, W, H];
+const setVB = () => svg.setAttribute('viewBox', vb.map(v => v.toFixed(1)).join(' '));
+function fit() { const r = svg.getBoundingClientRect(), s = Math.max(W / r.width, H / r.height); const w = r.width * s, h = r.height * s; vb = [(W - w) / 2, (H - h) / 2, w, h]; setVB(); }
+function zoomAt(cx, cy, f) { const r = svg.getBoundingClientRect(), mx = vb[0] + (cx - r.left) / r.width * vb[2], my = vb[1] + (cy - r.top) / r.height * vb[3]; const nw = Math.min(W * 1.4, Math.max(180, vb[2] * f)); const g = nw / vb[2]; vb = [mx - (mx - vb[0]) * g, my - (my - vb[1]) * g, vb[2] * g, vb[3] * g]; setVB(); }
+svg.addEventListener('wheel', e => { e.preventDefault(); zoomAt(e.clientX, e.clientY, e.deltaY > 0 ? 1.12 : 1 / 1.12); }, { passive: false });
+const ptrs = new Map(); let drag = null, pinch = null, moved = false;
+svg.addEventListener('pointerdown', e => { svg.setPointerCapture(e.pointerId); ptrs.set(e.pointerId, [e.clientX, e.clientY]); moved = false; if (ptrs.size === 1) drag = [e.clientX, e.clientY, vb[0], vb[1]]; else if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); } svg.classList.add('drag'); });
+svg.addEventListener('pointermove', e => {
+  if (!ptrs.has(e.pointerId)) return; ptrs.set(e.pointerId, [e.clientX, e.clientY]);
+  const r = svg.getBoundingClientRect();
+  if (ptrs.size === 2 && pinch) { const [a, b] = [...ptrs.values()], d = Math.hypot(a[0] - b[0], a[1] - b[1]); zoomAt((a[0] + b[0]) / 2, (a[1] + b[1]) / 2, pinch / d); pinch = d; moved = true; }
+  else if (drag) { const dx = e.clientX - drag[0], dy = e.clientY - drag[1]; if (Math.abs(dx) + Math.abs(dy) > 4) moved = true; vb[0] = drag[2] - dx / r.width * vb[2]; vb[1] = drag[3] - dy / r.height * vb[3]; setVB(); }
+});
+const up = e => { ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null; if (!ptrs.size) { drag = null; svg.classList.remove('drag'); } };
+svg.addEventListener('pointerup', up); svg.addEventListener('pointercancel', up);
+document.getElementById('zin').onclick = () => { const r = svg.getBoundingClientRect(); zoomAt(r.left + r.width / 2, r.top + r.height / 2, 1 / 1.4); };
+document.getElementById('zout').onclick = () => { const r = svg.getBoundingClientRect(); zoomAt(r.left + r.width / 2, r.top + r.height / 2, 1.4); };
+addEventListener('resize', fit);
+
+/* ---------- block drawer (content comes in the next phase) ---------- */
+const BLK = {}; M.blocks.forEach(b => BLK[b.id] = b);
+function inside(pt, poly) { let c = false; for (let i = 0, j = poly.length - 1; i < poly.length; j = i++) { const [xi, yi] = poly[i], [xj, yj] = poly[j]; if ((yi > pt[1]) !== (yj > pt[1]) && pt[0] < (xj - xi) * (pt[1] - yi) / (yj - yi) + xi) c = !c; } return c; }
+function openBlock(id) {
+  const b = BLK[id]; svg.querySelectorAll('.blk.sel').forEach(x => x.classList.remove('sel')); svg.querySelector(`.blk[data-id="${id}"]`)?.classList.add('sel');
+  const inB = M.buildings.filter(x => b.p.some(p => inside(x.p[0], p)));
+  const counts = {}; inB.forEach(x => { const k = eraOf(x.y).k; counts[k] = (counts[k] || 0) + 1; });
+  const addrs = [...new Set(inB.map(x => x.a).filter(Boolean))];
+  const lms = M.landmarks.filter(l => l.no && b.p.some(p => inside(l.c, p)));
+  const streets = [...new Set(addrs.map(a => a.replace(/^\d+\s*/, '')))].slice(0, 4);
+  document.getElementById('dbody').innerHTML = `<div class="hd"><div class="k">Block ${esc(id)}</div><h2>${esc(streets.slice(0, 2).join(' & ') || 'A block in the Western Addition')}</h2><div class="sub">${inB.length} buildings${b.oldest ? ` · oldest dated building ${b.oldest}` : ''}</div></div>
+    <div class="bd"><div class="stat">When its buildings went up</div><div class="era-bar">${ERAS.filter(e => counts[e.k]).map(e => `<i style="flex:${counts[e.k]};background:${e.cols[0]}" title="${e.label}: ${counts[e.k]}"></i>`).join('')}</div>
+    <div>${ERAS.filter(e => counts[e.k]).map(e => `<span class="chip">${e.label}: ${counts[e.k]}</span>`).join('')}</div>
+    ${lms.map(l => `<div class="lmcard"><b>★ ${esc(l.name)}</b><br><span class="stat">${esc(l.addr)} · City Landmark No. ${l.no}, designated ${l.year}</span>${l.doc ? `<br><a href="${esc(l.doc)}" target="_blank" rel="noopener">Designation report ↗</a>` : ''}</div>`).join('')}
+    <div class="soon">Stories, historic photographs and the people who lived on this block are coming in the next phase.</div></div>`;
+  document.getElementById('drawer').classList.add('open');
+}
+svg.addEventListener('click', e => { if (moved) return; const lm = e.target.closest('.lm'); if (lm) { const l = M.landmarks.find(x => x.no == lm.dataset.no); const b = M.blocks.find(bb => bb.inAoi && bb.p.some(p => inside(l.c, p))); if (b) openBlock(b.id); return; } const t = e.target.closest('.blk'); if (t) openBlock(t.dataset.id); });
+document.getElementById('close').onclick = () => { document.getElementById('drawer').classList.remove('open'); svg.querySelectorAll('.blk.sel').forEach(x => x.classList.remove('sel')); };
+
+build(); fit();
+</script>
+</body>
+</html>
