@@ -101,7 +101,7 @@ for el in json.load(open('data_city/osm.json')):
             ln = proj(LineString([(g['lon'], g['lat']) for g in el['geometry']])).simplify(1.5)
             if ln.is_empty or len(ln.coords) < 2: continue
             if k in (0, 3, 4): streets.append(dict(k=k, p=[[round(x), round(y)] for x, y in ln.coords]))
-            if k >= 1 and t.get('name'): labels_src[t['name']].append(ln)
+            if k >= 1 and t.get('name') and hw != 'motorway': labels_src[t['name']].append((ln, k))
         elif ('leisure' in t or 'natural' in t) and el['type'] == 'way' and 'geometry' in el and len(el['geometry']) > 3:
             g = proj(Polygon([(q['lon'], q['lat']) for q in el['geometry']])).buffer(0).simplify(2)
             kind = 'water' if t.get('natural') == 'water' else 'sand' if t.get('natural') in ('beach', 'sand') else 'golf' if t.get('leisure') == 'golf_course' else 'park'
@@ -117,7 +117,8 @@ for el in json.load(open('data_city/osm.json')):
 # street labels: one anchor per ~700 m of each named street, on its longest pieces
 labels = []
 for name, lns in labels_src.items():
-    lns = sorted(lns, key=lambda l: -l.length); taken = []
+    rank = max(k for _, k in lns)  # 3 = primary/secondary/trunk: labelled from mid zoom
+    lns = sorted((l for l, _ in lns), key=lambda l: -l.length); taken = []
     for l in lns:
         if l.is_empty or l.length < 110: break
         mid = l.interpolate(0.5, normalized=True)
@@ -127,7 +128,7 @@ for name, lns in labels_src.items():
         if ang > 90: ang -= 180
         if ang < -90: ang += 180
         short = name.replace(' Street', ' St').replace(' Avenue', ' Ave').replace(' Boulevard', ' Blvd').replace(' Drive', ' Dr')
-        labels.append([short, round(mid.x), round(mid.y), round(ang, 1)]); taken.append(mid)
+        labels.append([short, round(mid.x), round(mid.y), round(ang, 1), min(rank, 3)]); taken.append(mid)
 
 # ---- landmarks ----
 lms = []

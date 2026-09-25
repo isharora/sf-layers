@@ -113,7 +113,7 @@
 <canvas id="cv"></canvas>
 <div class="texture" id="tex"></div><div class="fog"></div><div class="vignette"></div>
 <div class="cartouche"><div class="k">LAYERS · A MAP IN TIME</div><h1>San Francisco</h1><div class="s">Every block, every era. Zoom in to explore.</div></div>
-<nav class="quick" id="quick" aria-label="Jump to a neighbourhood"><div class="lbl">Jump to</div><a href="alamo.html" title="The hand-drawn Alamo Square map, block by block">Alamo Square ✦</a></nav>
+<nav class="quick" id="quick" aria-label="Jump to a neighbourhood"><div class="lbl">Jump to</div></nav>
 <div class="backbar" id="backbar"><button id="backBtn">← All of San Francisco</button><b id="bbName"></b><span id="bbStat"></span></div>
 <div class="topbar"><input class="search" id="search" placeholder="Search any address or story" aria-label="Search addresses, places and stories" autocomplete="off" spellcheck="false"><button id="meBtn" title="Stories near where you are">📍 Near me</button><button class="pri" id="tourBtn">Walk through time</button><button id="storiesBtn">All stories</button></div>
 <div class="results" id="results"></div>
@@ -253,10 +253,21 @@ function render() {
         ctx.fillStyle = 'rgba(79,94,55,.2)'; ctx.beginPath(); ctx.arc(X + .9 * s, Y + 1.2 * s, r, 0, 7); ctx.fill(); ctx.fillStyle = G[(k >> 1) % 4]; ctx.globalAlpha = .9; ctx.beginPath(); ctx.arc(X, Y, r, 0, 7); ctx.fill(); ctx.globalAlpha = 1; } }
     }
   }
-  // street labels
-  if (s >= LABEL_Z) {
-    ctx.font = `${Math.round(Math.min(14, 8 + s * 2))}px "IM Fell English SC", Georgia, serif`; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.lineWidth = 4; ctx.strokeStyle = '#f4ecd9'; ctx.fillStyle = '#8a7356';
-    for (const [n, x, y, a] of B.labels) { const [X, Y] = toS(x, y); if (X < -100 || Y < -30 || X > W + 100 || Y > H + 30) continue; ctx.save(); ctx.translate(X, Y); ctx.rotate(a * Math.PI / 180); const t = n.toUpperCase().split('').join(' '); ctx.strokeText(t, 0, 0); ctx.fillText(t, 0, 0); ctx.restore(); }
+  // street labels: major streets from mid zoom, then everything once buildings are in view
+  if (s >= .16) {
+    const minK = s >= LABEL_Z ? 1 : s >= .5 ? 2 : 3, placed = [];
+    ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.lineJoin = 'round';
+    const order = B.labels.filter(l => (l[4] || 1) >= minK).sort((p, q) => (q[4] || 1) - (p[4] || 1));
+    for (const [n, x, y, a, k = 1] of order) { const [X, Y] = toS(x, y); if (X < -150 || Y < -30 || X > W + 150 || Y > H + 30) continue;
+      const major = k >= 3, fs = major ? Math.round(Math.min(15, 10.5 + s * 2.2)) : Math.round(Math.min(14, 8 + s * 2));
+      ctx.font = `${major ? '600 ' : ''}${fs}px ${major ? 'Inter, system-ui, sans-serif' : '"IM Fell English SC", Georgia, serif'}`;
+      const t = major ? n.toUpperCase().split('').join(' ') : n.toUpperCase().split('').join(' '), w = ctx.measureText(t).width;
+      const r = a * Math.PI / 180, hw = Math.abs(Math.cos(r)) * w / 2 + Math.abs(Math.sin(r)) * fs / 2 + 4, hh = Math.abs(Math.sin(r)) * w / 2 + Math.abs(Math.cos(r)) * fs / 2 + 4;
+      const box = [X - hw, Y - hh, X + hw, Y + hh];
+      if (placed.some(q => box[0] < q[2] && box[2] > q[0] && box[1] < q[3] && box[3] > q[1])) continue; placed.push(box);
+      ctx.save(); ctx.translate(X, Y); ctx.rotate(r);
+      ctx.lineWidth = major ? 4.5 : 4; ctx.strokeStyle = major ? 'rgba(250,244,229,.95)' : '#f4ecd9'; ctx.fillStyle = major ? '#5a4632' : '#8a7356';
+      ctx.strokeText(t, 0, 0); ctx.fillText(t, 0, 0); ctx.restore(); }
   }
   // neighbourhood focus: wash out the rest of the city and outline the chosen one
   if (FOCUS) {
@@ -291,7 +302,7 @@ let SEL = null, HOV = null, PINSCR = [];
 let OFF = new Set();            // themes hidden from the map
 let HERE = null, NEAR = null;   // searched address and the stories nearest to it
 let FOCUS = null;               // neighbourhood being explored on its own
-function pinVisible(s) { return (!YEAR || s.year <= YEAR) && !OFF.has(s.theme) && (!FOCUS || s.hood === FOCUS.n); }
+function pinVisible(s) { return (!YEAR || s.year <= YEAR) && !OFF.has(s.theme) && (!FOCUS || FOCUS.ids.has(s.id)); }
 function pinShape(st, X, Y, r, sel, hov, dim) {
   ctx.save(); ctx.translate(X, Y); ctx.globalAlpha = dim ? .28 : 1;
   if (sel || hov) { ctx.shadowColor = sel ? 'rgba(255,230,150,.95)' : 'rgba(60,40,20,.35)'; ctx.shadowBlur = sel ? 14 : 6; ctx.shadowOffsetY = sel ? 0 : 3; }
@@ -388,11 +399,12 @@ function openStory(id, cinematic) {
 }
 let FILTER = { theme: 'all', hood: 'all' };
 function listStories() {
-  CUR = S.filter(s => (FILTER.theme === 'all' || s.theme === FILTER.theme) && (FILTER.hood === 'all' || s.hood === FILTER.hood));
+  const fa = FOCUS && FILTER.hood === FOCUS.n ? FOCUS : null;
+  CUR = S.filter(s => (FILTER.theme === 'all' || s.theme === FILTER.theme) && (FILTER.hood === 'all' || (fa ? fa.ids.has(s.id) : s.hood === FILTER.hood)));
   const hoods = [...new Set(S.map(s => s.hood).filter(Boolean))].sort();
   const one = FILTER.hood !== 'all';
-  dbody.innerHTML = `<div class="hd"><div class="k">${one ? `${S.filter(s => s.hood === FILTER.hood).length} stories · San Francisco` : `${S.length.toLocaleString()} stories · ${hoods.length} neighbourhoods`}</div><h2>${one ? esc(FILTER.hood) : 'Stories of San Francisco'}</h2><div class="sub">${one ? 'Its stories in order, oldest first. Hover a pin to preview.' : 'From the Yelamu to today, in order.'}</div></div>
-    <div class="bd"><div class="tfil"><select id="hoodSel"><option value="all">All neighbourhoods</option>${hoods.map(h => `<option ${FILTER.hood === h ? 'selected' : ''}>${esc(h)}</option>`).join('')}</select></div>
+  dbody.innerHTML = `<div class="hd"><div class="k">${one ? `${fa ? fa.ids.size : S.filter(s => s.hood === FILTER.hood).length} stories · San Francisco` : `${S.length.toLocaleString()} stories · ${hoods.length} neighbourhoods`}</div><h2>${one ? esc(FILTER.hood) : 'Stories of San Francisco'}</h2><div class="sub">${one ? 'Its stories in order, oldest first. Hover a pin to preview.' : 'From the Yelamu to today, in order.'}</div>${fa && fa.extra ? fa.extra : ''}</div>
+    <div class="bd"><div class="tfil"><select id="hoodSel"><option value="all">All neighbourhoods</option>${fa && fa.custom ? `<option selected>${esc(fa.n)}</option>` : ''}${hoods.map(h => `<option ${FILTER.hood === h ? 'selected' : ''}>${esc(h)}</option>`).join('')}</select></div>
     <div class="tfil"><button data-f="all" class="${FILTER.theme === 'all' ? 'on' : ''}">All themes</button>${Object.entries(TH).filter(([k]) => S.some(s => s.theme === k)).map(([k, v]) => `<button data-f="${k}" class="${FILTER.theme === k ? 'on' : ''}" style="border-left:4px solid ${v.color}">${esc(v.label)}</button>`).join('')}</div>
     <div class="stat">${CUR.length} stories</div>${CUR.slice(0, 250).map(card).join('')}${CUR.length > 250 ? `<div class="soon">Showing the first 250. Narrow by neighbourhood or theme to see more.</div>` : ''}</div>`;
   drawer.classList.add('open'); drawer.scrollTop = 0;
@@ -415,7 +427,13 @@ document.getElementById('storiesBtn').onclick = () => { FILTER = { theme: 'all',
 document.getElementById('tourBtn').onclick = () => { CUR = S; setYear(S[0].year); openStory(S[0].id, true); };
 
 /* ---------- neighbourhood quick-jumps ---------- */
-const QUICK = ['Mission', 'Marina', 'Hayes Valley', 'Noe Valley'];
+const QUICK = ['Alamo Square', 'Mission', 'Marina', 'Hayes Valley', 'Noe Valley'];
+// areas that aren't official neighbourhoods but get the same focus view
+const LL = (lon, lat) => [(lon - B.origin[0]) * Math.cos(B.origin[1] * Math.PI / 180) * 111320, -(lat - B.origin[1]) * 110540];
+const AREAS = [{ n: 'Alamo Square', slug: 'alamo-square', p: [[LL(-122.4245, 37.78435), LL(-122.44751, 37.78107), LL(-122.44514, 37.76929), LL(-122.42224, 37.77293), LL(-122.4245, 37.78435)]], extra: '<a href="alamo.html" class="chip" style="text-decoration:none;margin-top:10px">See the hand-drawn Alamo Square map →</a>' }];
+const areaOf = name => B.hoods.find(x => x.n === name) || AREAS.find(x => x.n === name);
+const inArea = (st, a) => a.custom ? a.p.some(r => inside(st.c, r)) : st.hood === a.n;
+AREAS.forEach(a => a.custom = true);
 const quick = document.getElementById('quick'), backbar = document.getElementById('backbar');
 quick.insertAdjacentHTML('beforeend', QUICK.map(n => `<button data-h="${esc(n)}">${esc(n)}</button>`).join('') +
   `<button id="moreH" title="All neighbourhoods">More ▾</button><select id="moreSel" style="display:none"><option value="">Choose a neighbourhood…</option>${[...B.hoods].map(h => h.n).sort().map(n => `<option>${esc(n)}</option>`).join('')}</select>`);
@@ -426,10 +444,11 @@ moreSel.onchange = () => { if (moreSel.value) enterHood(moreSel.value); moreSel.
 Object.assign(moreSel.style, { font: '500 12px Inter, system-ui, sans-serif', borderRadius: '999px', padding: '5px 8px', border: '1px solid #c9b58a', background: '#fbf5e6', color: '#3d3026' });
 function hoodBox(h) { let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9; h.p.forEach(r => r.forEach(([x, y]) => { x0 = Math.min(x0, x); y0 = Math.min(y0, y); x1 = Math.max(x1, x); y1 = Math.max(y1, y); })); return [x0, y0, x1, y1]; }
 function enterHood(name, fromHash) {
-  const h = B.hoods.find(x => x.n === name); if (!h) return;
+  const h = areaOf(name); if (!h) return;
+  h.ids = h.ids || new Set(S.filter(st => inArea(st, h)).map(st => st.id));
   FOCUS = h; HERE = null; NEAR = null; SEL = null;
   FILTER = { theme: 'all', hood: h.n }; listStories();
-  const n = S.filter(s => s.hood === h.n).length, [x0, y0, x1, y1] = hoodBox(h);
+  const n = h.ids.size, [x0, y0, x1, y1] = hoodBox(h);
   document.getElementById('bbName').textContent = h.n; document.getElementById('bbStat').textContent = `${n} stories`;
   backbar.classList.add('on'); quick.classList.add('hide');
   quick.querySelectorAll('button[data-h]').forEach(b => b.classList.toggle('on', b.dataset.h === h.n));
@@ -449,7 +468,7 @@ function exitHood(fromHash) {
 }
 document.getElementById('backBtn').onclick = () => exitHood();
 addEventListener('keydown', e => { if (e.key === 'Escape' && FOCUS && document.activeElement !== sIn) exitHood(); });
-addEventListener('popstate', () => { const m = location.hash.match(/hood=([\w-]+)/), h = m && B.hoods.find(x => x.slug === m[1]); h ? enterHood(h.n, true) : exitHood(true); });
+addEventListener('popstate', () => { const m = location.hash.match(/hood=([\w-]+)/), h = m && [...B.hoods, ...AREAS].find(x => x.slug === m[1]); h ? enterHood(h.n, true) : exitHood(true); });
 
 /* ---------- addresses (every SF address, loaded on first use) ---------- */
 let ADDR = null, ADDR_P = null;
@@ -577,7 +596,7 @@ document.getElementById('legend').innerHTML = `<h4>When it was built</h4>` + ERA
 function loop(t) { if (anim) anim(t); if (need) { ensureTiles(); render(); } requestAnimationFrame(loop); }
 resize(); fitCity();
 const hs = new URLSearchParams(location.hash.slice(1));
-if (hs.get('hood')) { const h = B.hoods.find(x => x.slug === hs.get('hood')); if (h) setTimeout(() => enterHood(h.n, true), 200); }
+if (hs.get('hood')) { const h = [...B.hoods, ...AREAS].find(x => x.slug === hs.get('hood')); if (h) setTimeout(() => enterHood(h.n, true), 200); }
 if (hs.get('story') && SBY[hs.get('story')]) setTimeout(() => openStory(hs.get('story'), true), 300);
 document.getElementById('loading').remove();
 requestAnimationFrame(loop);
