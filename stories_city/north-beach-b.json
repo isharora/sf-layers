@@ -1,0 +1,688 @@
+[
+  {
+    "id": "north-beach-wine-saved-the-hill",
+    "title": "The wine that saved Telegraph Hill",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "1254-1256 Montgomery St, Telegraph Hill",
+      "lat": 37.8009,
+      "lon": -122.40421,
+      "precision": "building"
+    },
+    "hook": "With no water left, the families on Telegraph Hill broke open their cellar casks and fought the 1906 fire with homemade wine.",
+    "story": "The fire reached Telegraph Hill on April 20, 1906, the third day after the earthquake, after it had consumed downtown and swept through North Beach. Many residents ignored orders to leave. With the open ground of Pioneer Park as a firebreak, they poured homemade wine on the flames and spread wine-soaked sheets over shingle roofs to stop the blowing embers [1]. Writer Henry Anderson Lafler named the rescuers: a prizefighter, warehouse and lumberyard men, an old Irish woman who had saved a few buckets of water, and \"the poor peasant Italian with a barrel of cheap wine in his cellar\" who broke it open with an axe and fought \"till he dropped\" [1]. At 1254-1256 Montgomery, an 1860s rooming house, tenant Giovanni Doneri, his eldest son and neighbours kept the walls cool with burlap sacks soaked in wine from casks in the basement [2]. The crest and northeast slope became the largest of three islands of survivors in the burned city. Twenty-seven houses were left standing [1]. Fifty years later the new Telegraph Hill Dwellers stopped the same building being demolished for an 11-storey apartment block [2].",
+    "people": [
+      {
+        "name": "Giovanni Doneri",
+        "role": "Tenant who saved 1254-1256 Montgomery"
+      },
+      {
+        "name": "Henry Anderson Lafler",
+        "role": "Writer who described the fight"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Happy 30th Anniversary, Telegraph Hill Historic District",
+        "publisher": "The Semaphore (Telegraph Hill Dwellers), Summer 2016, via Internet Archive",
+        "year": 2016,
+        "url": "https://archive.org/details/thesemaphore2016summer214",
+        "supports": "Fire reached the hill April 20, 1906; wine and wine-soaked sheets; Lafler quote; 27 houses survived; largest of three islands"
+      },
+      {
+        "title": "Telegraph Hill's Architectural Survivors",
+        "publisher": "FoundSF (from The Semaphore)",
+        "year": 2016,
+        "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill%27s_Architectural_Survivors",
+        "supports": "Giovanni Doneri and burlap sacks soaked in wine at 1254-1256 Montgomery; saved from an 11-storey tower in 1956"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-gray-brothers-quarry",
+    "title": "Dynamite under cover of the Fourth",
+    "theme": "labor-industry",
+    "year": 1909,
+    "yearEnd": 1914,
+    "place": {
+      "label": "Gray Brothers quarry, east face of Telegraph Hill near Lombard & Montgomery",
+      "lat": 37.8036,
+      "lon": -122.405,
+      "precision": "area"
+    },
+    "hook": "Court orders couldn't stop the Gray Brothers blasting Telegraph Hill away. So in 1909 they timed the dynamite to the holiday fireworks.",
+    "story": "For about twenty years George and Harry Gray blasted and crushed rock from the east face of Telegraph Hill for ship ballast and roadbeds. Their explosions undermined and destroyed houses on Vallejo, Green, Union, Calhoun, Montgomery and Greenwich streets [1]. Irish and Italian residents sometimes answered with barrages of rocks. The brothers ignored court orders or paid their way around them [2]. A campaign led by Alice Griffith and the Telegraph Hill Neighborhood Association got blasting permits revoked in 1903, but the quarry kept going [2]. In 1909, despite another court order, the Grays set off a blast on the Fourth of July, timed to be drowned out by the Presidio's celebration guns (or the fireworks, in another telling). Falling rock gave them away, and angry neighbours chased the crew off [1][2]. The end came from inside the business. Sicilian quarry worker Joseph Lococo, unpaid for months, shot and killed George Gray. Sources date it to 1914 or 1915, and one says the sum owed was just $17.50 [1][2]. Lococo was acquitted and the blasting stopped. The raw cliffs it left behind are still sending rock slides down on Lombard Street and Broadway [1].",
+    "people": [
+      {
+        "name": "George Gray",
+        "role": "Quarry operator"
+      },
+      {
+        "name": "Harry Gray",
+        "role": "Quarry operator"
+      },
+      {
+        "name": "Joseph Lococo",
+        "role": "Unpaid quarry worker"
+      },
+      {
+        "name": "Alice Griffith",
+        "role": "Anti-quarry campaigner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Telegraph Hill Cliff Tales (Judy Irving)",
+        "publisher": "The Semaphore (Telegraph Hill Dwellers), Autumn 2016, via Internet Archive",
+        "year": 2016,
+        "url": "https://archive.org/details/thesemaphore2016autumn215",
+        "supports": "Streets undermined; 1909 court order and July 4 blast timed to Presidio cannon; Lococo killed George Gray in 1914 and was acquitted; later slides"
+      },
+      {
+        "title": "Saving Telegraph Hill 1890-1918 (Chris Carlsson)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/Saving_Telegraph_Hill_1890-1918",
+        "supports": "About 20 years of quarrying; rock barrages; 1909 fireworks blast; George Gray murdered in 1915 over $17.50; Alice Griffith; permits revoked in October 1903"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-julius-castle",
+    "title": "A castle on the cliff edge",
+    "theme": "architecture-landmarks",
+    "year": 1923,
+    "yearEnd": null,
+    "place": {
+      "label": "Julius' Castle, 302 Greenwich St",
+      "lat": 37.80303,
+      "lon": -122.40507,
+      "precision": "building"
+    },
+    "hook": "An Italian restaurateur built himself a castle on a Telegraph Hill precipice, and then needed a turntable to turn his customers' cars around.",
+    "story": "Building permit No. 114873, dated March 20, 1923, started one of San Francisco's oddest buildings. Julius Roz, an Italian restaurateur who had come to San Francisco in 1898, began a castle on a ledge of Telegraph Hill at the dead end of Montgomery Street [1][2]. The lot had held a grocery and then a family home that burned around 1918 [1]. Architect Louis (Luigi) Mastropasqua designed pointed arched windows and battlements in a mix of Gothic Revival and Arts and Crafts. It was a tribute to Layman's wooden castle, which had stood on the hill from 1882 to 1903 [1][2]. Roz is said to have bought the interior panelling from the 1915 Panama-Pacific Exposition. Food was being served by 1924 [1]. Montgomery Street was then barely a one-car dirt track, so in 1931 a turntable was installed at the dead end, and an employee spun cars around and parked them [1]. During Prohibition it was a speakeasy for well-off customers. From its windows diners watched the Bay Bridge rise, Treasure Island being dredged up from the bay for the 1939 fair, and the wartime fleet coming and going [1].",
+    "people": [
+      {
+        "name": "Julius Roz",
+        "role": "Restaurateur and builder"
+      },
+      {
+        "name": "Louis (Luigi) Mastropasqua",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Julius' Castle (Catherine Accardi, The Semaphore #196)",
+        "publisher": "FoundSF",
+        "year": 2011,
+        "url": "https://www.foundsf.org/index.php?title=Julius%27_Castle",
+        "supports": "Permit of March 20, 1923; site history; Mastropasqua; Expo panelling; service by 1924; 1931 turntable; speakeasy; views"
+      },
+      {
+        "title": "San Francisco Landmark #121: Julius' Castle",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf121.asp",
+        "supports": "Built 1923 and 1928; Roz immigrated 1898; tribute to Layman's castle 1882-1903; Gothic Revival and Arts and Crafts"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-coit-tower-murals",
+    "title": "Coit Tower's murals locked away",
+    "theme": "arts-counterculture",
+    "year": 1934,
+    "yearEnd": null,
+    "place": {
+      "label": "Coit Tower, 1 Telegraph Hill Blvd",
+      "lat": 37.80231,
+      "lon": -122.40588,
+      "precision": "building"
+    },
+    "hook": "In the summer of the 1934 waterfront strike, the city padlocked its brand-new tower. The danger was inside: a hammer and sickle painted on the wall.",
+    "story": "Lillie Hitchcock Coit died in 1929 and left money to beautify the city she loved. Arthur Brown Jr.'s concrete tower on Telegraph Hill was dedicated on October 8, 1933 [1]. Its walls became the pilot project of the Public Works of Art Project, the New Deal's first relief program for artists. About twenty-five painters, paid roughly $25 to $45 a week, began frescoes of California life in January 1934 [1][3]. Several put their politics into the plaster. Victor Arnautoff painted left-wing papers on a newsstand. John Langley Howard painted miners holding the Western Worker. Bernard Zakheim painted a man pulling Marx's Capital from a library shelf [2]. Then the waterfront strike broke out at the foot of the hill, and the press whipped up fears of communist agitation. The Parks Commission cancelled the July 7 opening and locked the tower [1][2]. Most of the murals survived. Clifford Wight's hammer and sickle, part of a panel showing America's range of political systems, did not. It was chipped out, along with the Western Worker banner, and the tower opened on October 12, 1934 [1][2].",
+    "people": [
+      {
+        "name": "Lillie Hitchcock Coit",
+        "role": "Benefactor"
+      },
+      {
+        "name": "Clifford Wight",
+        "role": "Muralist"
+      },
+      {
+        "name": "Bernard Zakheim",
+        "role": "Muralist"
+      },
+      {
+        "name": "John Langley Howard",
+        "role": "Muralist"
+      },
+      {
+        "name": "Victor Arnautoff",
+        "role": "Muralist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Coit Tower",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Coit_Tower",
+        "supports": "Bequest; dedication Oct 8, 1933; PWAP pilot; pay; July 7 opening cancelled; removals; opened Oct 12, 1934"
+      },
+      {
+        "title": "Coit Tower (Steven M. Gelber, from California History, 1979)",
+        "publisher": "FoundSF",
+        "year": 1979,
+        "url": "https://www.foundsf.org/index.php?title=Coit_Tower",
+        "supports": "Arnautoff, Howard and Zakheim details; Wight's hammer and sickle; Parks Commission locked the tower until it was chipped off"
+      },
+      {
+        "title": "Revolutionary Art on Telegraph Hill: the Coit Tower Murals",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Revolutionary_Art_on_Telegraph_Hill:_the_Coit_Tower_Murals",
+        "supports": "Work began January 1934; red-baiting during the 1934 strike; opening cancelled"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-finocchios",
+    "title": "Where the most beautiful women were men",
+    "theme": "lgbtq",
+    "year": 1936,
+    "yearEnd": 1999,
+    "place": {
+      "label": "Finocchio's, 506 Broadway",
+      "lat": 37.79812,
+      "lon": -122.40568,
+      "precision": "building"
+    },
+    "hook": "It began when a tipsy customer at a Prohibition speakeasy got up and sang exactly like Sophie Tucker. Joe Finocchio saw his future.",
+    "story": "In the late 1920s Joe Finocchio ran a speakeasy on Stockton Street. One night a well-oiled customer got up and sang in a voice exactly like Sophie Tucker's, and the crowd loved it [1]. In June 1936 the Finocchios opened a bigger club at 506 Broadway, upstairs from what became Enrico's. The draw was female impersonators, and much of the audience was straight [1][2]. The police were not charmed. In July 1936 Joe was arrested for \"keeping a disorderly house and selling liquor after 2 a.m.\" A Chronicle reporter noted the raid took place at 1:45 a.m. [1]. Joe promised to \"run it like a regular theater\", and he did. Performers had to arrive and leave dressed as men and were not to mingle with customers. According to Harry Hay, it was Joe's wife Marjorie who really drove the business [2]. Gray Line tour buses unloaded tourists night after night. Bob Hope and Tallulah Bankhead came to watch, and Lucien Phelps did his Sophie Tucker act there for 27 years [1][2]. The club lasted 63 years and closed on November 27, 1999, after a rent rise. Lawrence Ferlinghetti's verdict: \"What a drag\" [1].",
+    "people": [
+      {
+        "name": "Joe Finocchio",
+        "role": "Founder"
+      },
+      {
+        "name": "Marjorie Finocchio",
+        "role": "Co-owner"
+      },
+      {
+        "name": "Eve Finocchio",
+        "role": "Later owner"
+      },
+      {
+        "name": "Lucien Phelps",
+        "role": "Performer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "What a Drag: Finocchio's to Close (Jesse Hamlin)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 1999,
+        "url": "https://www.sfgate.com/news/article/What-a-Drag-Finocchio-s-to-Close-2899225.php",
+        "supports": "Sophie Tucker origin; July 1936 arrest at 1:45 a.m.; 'regular theater' quote; celebrities; Phelps; closing and Ferlinghetti quote"
+      },
+      {
+        "title": "Finocchio's: The Carnegie Hall of Cross-Dressing (Art Peterson, The Semaphore #202)",
+        "publisher": "FoundSF",
+        "year": 2013,
+        "url": "https://www.foundsf.org/index.php?title=Finocchio%27s:_The_Carnegie_Hall_of_Cross-Dressing",
+        "supports": "Speakeasy origins; Marjorie as prime mover (per Harry Hay); straight audience; dress rules; tour buses; closed Nov 27, 1999"
+      },
+      {
+        "title": "Finocchio's Club",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Finocchio%27s_Club",
+        "supports": "Opened at 506 Broadway on June 15, 1936, above Enrico's"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-monas-440",
+    "title": "Mona's, where girls could be boys",
+    "theme": "lgbtq",
+    "year": 1939,
+    "yearEnd": 1957,
+    "place": {
+      "label": "Mona's 440 Club, 440 Broadway",
+      "lat": 37.79843,
+      "lon": -122.40465,
+      "precision": "building"
+    },
+    "hook": "Waitresses in tuxedos, Gladys Bentley in a top hat, and a teenage Johnny Mathis learning his stagecraft: the story of San Francisco's first famous lesbian bar.",
+    "story": "Mona Sargent and her husband Jimmie opened a bar at 451 Union Street soon after Prohibition ended. They moved to 140 Columbus in 1936, then to 440 Broadway. FoundSF dates that last move to 1939, and other accounts are earlier [1][2]. They had imagined a sawdust-floored bohemian hangout for writers and artists. Instead it became a club where women in men's clothes waited tables and sang [2]. Mona's is often called San Francisco's first lesbian bar. It advertised itself as the place \"where girls can be boys\", and its male impersonators became local celebrities [2]. The 440 had actually been opened by Charlie Murray, who brought Mona in as a partner. Men often had to front for lesbian-run bars [1]. Blues singer Gladys Bentley, famous for performing in a tuxedo and top hat, played there in the 1940s [1][2]. In the mid-1950s singer Ann Dee took over and renamed it Ann's 440. In 1955 she hired a 19-year-old Johnny Mathis two weeks into his professional career and coached his stage presence [1][3]. Mona went on with a new club, Mona's Candle Light, at 473 Broadway from 1948 to 1957 [1].",
+    "people": [
+      {
+        "name": "Mona Sargent",
+        "role": "Owner"
+      },
+      {
+        "name": "Gladys Bentley",
+        "role": "Performer"
+      },
+      {
+        "name": "Ann Dee",
+        "role": "Later owner of Ann's 440"
+      },
+      {
+        "name": "Johnny Mathis",
+        "role": "Singer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Before the Castro: North Beach, a Gay Mecca (Dick Boyd)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "http://www.foundsf.org/index.php?title=Before_the_Castro:_North_Beach,_a_Gay_Mecca",
+        "supports": "Addresses and dates (Union St 1933-35, 140 Columbus 1936, 440 Broadway 1939-48); Charlie Murray; Ann's 440 and Mathis; Candle Light 1948-57"
+      },
+      {
+        "title": "Mona's 440 Club",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Mona%27s_440_Club",
+        "supports": "'Where girls can be boys'; first lesbian bar claim; bohemian origins; Gladys Bentley"
+      },
+      {
+        "title": "Ann Dee, 85; Singer, Club Owner Helped Start Mathis' Career",
+        "publisher": "Los Angeles Times",
+        "year": 2005,
+        "url": "https://www.latimes.com/archives/la-xpm-2005-apr-04-me-dee4-story.html",
+        "supports": "Ann's 440 Club; hired 19-year-old Mathis in 1955"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-enemy-aliens-wharf",
+    "title": "Enemy aliens on Fisherman's Wharf",
+    "theme": "war-military",
+    "year": 1942,
+    "yearEnd": null,
+    "place": {
+      "label": "Fisherman's Wharf, Jefferson St near Taylor",
+      "lat": 37.80815,
+      "lon": -122.4156,
+      "precision": "area"
+    },
+    "hook": "While their sons served in the war, Italian fishermen who had worked this wharf for decades were banned from it. One was Joe DiMaggio's father.",
+    "story": "Fisherman's Wharf was a community of mostly Italian families, and many of its fishermen had lived here for decades without becoming citizens [1]. Italy declared war on the United States in December 1941. Italian nationals became \"enemy aliens\". They had to register, carry photo ID and hand in cameras and short-wave radios, and they fell under curfews and travel limits. The rules were enforced more strictly around San Francisco than in Los Angeles [2]. Exclusion zones along the coast cost Italian fishermen and longshoremen their jobs [2]. About 1,400 San Francisco Italians were forbidden to fish, non-citizens could not come within 14 blocks of the wharf, and 650 Italian-owned boats were taken by the Navy [1]. Dominic DiMaggio later told the U.S. Senate that he came home from the war to find his parents classed as enemy aliens: \"My father was forbidden from fishing or even visiting his friends at the wharf.\" He was sure it changed his father [1]. After protests, Attorney General Francis Biddle announced on Columbus Day 1942 that from October 19 Italian residents would no longer be classed as enemy aliens [2]. The ban had lasted less than a year [1].",
+    "people": [
+      {
+        "name": "Giuseppe DiMaggio",
+        "role": "Fisherman barred from the wharf"
+      },
+      {
+        "name": "Dominic DiMaggio",
+        "role": "Son, later testified to Congress"
+      },
+      {
+        "name": "Francis Biddle",
+        "role": "U.S. Attorney General"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Italian Fishing Ban WWII (from Portwalk No. 15)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Italian_Fishing_Ban_WWII",
+        "supports": "Ban near the wharf; about 1,400 barred; 650 vessels; Dominic DiMaggio's 1999 Senate testimony; lifted within a year"
+      },
+      {
+        "title": "Internment of Italian Americans",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Internment_of_Italian_Americans",
+        "supports": "Registration, contraband, curfews; stricter enforcement around San Francisco; exclusion zone hit fishermen; Biddle's Columbus Day 1942 announcement"
+      },
+      {
+        "title": "Joe DiMaggio",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Joe_DiMaggio",
+        "supports": "Father Giuseppe DiMaggio moved the family to North Beach; Dominic was Joe's brother"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-dark-passage-malloch",
+    "title": "Bogart climbs the Filbert Steps",
+    "theme": "arts-counterculture",
+    "year": 1947,
+    "yearEnd": null,
+    "place": {
+      "label": "Malloch Building, 1360 Montgomery St",
+      "lat": 37.8018,
+      "lon": -122.40432,
+      "precision": "building"
+    },
+    "hook": "Hollywood picked a streamlined apartment house at the top of the Filbert Steps as Lauren Bacall's hideaway. Its real architect's name was left off the building for decades.",
+    "story": "In Dark Passage (1947), Humphrey Bogart plays a man wrongly convicted of murdering his wife who escapes from San Quentin. Lauren Bacall's character, Irene Jensen, hides him in her chic apartment on Telegraph Hill, and Bogart trudges up the Filbert Steps to reach it [1]. The building was real: 1360 Montgomery, completed in 1937 and one of the city's best Streamline Moderne designs [1][2]. It was built for contractor John \"Jack\" Malloch and his son J. Rolph Malloch, who wanted homes with a bay view plus rental income [2]. A 1937 trade magazine feature on it never named the architect. In the early 1980s historian Gray Brechin found the designer: Irvin Goldstine, who had studied at the Ecole des Beaux-Arts but had no licence yet, so the Mallochs were listed instead [1][2]. The city said the building broke a limit of three floors above a garage. The Mallochs won, because each floor steps back up the hill [1][2]. Artist Alfred du Pont carved 40-foot figures into coloured concrete on the facade, including a worker holding a globe over the new Bay Bridge [1][2].",
+    "people": [
+      {
+        "name": "Irvin Goldstine",
+        "role": "Architect"
+      },
+      {
+        "name": "Jack and J. Rolph Malloch",
+        "role": "Builders and owners"
+      },
+      {
+        "name": "Alfred du Pont",
+        "role": "Muralist"
+      },
+      {
+        "name": "Humphrey Bogart and Lauren Bacall",
+        "role": "Stars of Dark Passage"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streamline Moderne gem a quiet star in \"Dark Passage\" (Therese Poletti)",
+        "publisher": "Timothy Pflueger blog",
+        "year": 2012,
+        "url": "http://blog.timothypflueger.com/2012/01/20/streamline-moderne-gem-a-quiet-star-in-dark-passage-at-noir-city-film-festival/",
+        "supports": "Film plot and use of the building; Filbert Steps scene; 1937; Brechin found Goldstine; code dispute; du Pont sgraffito"
+      },
+      {
+        "title": "Malloch Building",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Malloch_Building",
+        "supports": "1937 Streamline Moderne; Mallochs' motives; Goldstine unlicensed; garage-floor ruling; du Pont figures and Bay Bridge"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-grace-marchant-garden",
+    "title": "Grace Marchant's garden on the dump",
+    "theme": "parks-nature",
+    "year": 1949,
+    "yearEnd": 1982,
+    "place": {
+      "label": "Grace Marchant Garden, Filbert Steps at Napier Lane",
+      "lat": 37.80221,
+      "lon": -122.40411,
+      "precision": "block"
+    },
+    "hook": "The slope beside the Filbert Steps was a dump of bedsprings and broken glass. A woman in her sixties decided to turn it into a garden.",
+    "story": "When Grace Marchant moved to a cottage on Napier Lane in 1949, the east slope of Telegraph Hill along the Filbert Steps was a dumping ground. People had thrown their garbage down the stairs. Marchant said it was several feet deep, and when it was burned with the city's permission, it burned for three days [2]. Columnist Margot Patterson Doss later recalled old bedsprings, legless chairs and broken glass. Marchant hauled it away herself and brought in soil, shrubs and trees, at no cost to the city [1]. Her first planting was a pot of baby tears [1]. For more than thirty years she turned the public right-of-way and the lots around her into a lush hanging garden [1][2]. She died in December 1982, aged 96, and asked her neighbour Gary Kray to carry it on [1]. The garden nearly died with her. A buyer planned to replace a 1920s cottage at 221 Filbert with a house five times the size. Neighbours, the Telegraph Hill Dwellers and the Trust for Public Land raised $320,000 in the 1980s to buy the site and protect it with conservation easements [1].",
+    "people": [
+      {
+        "name": "Grace Marchant",
+        "role": "Gardener"
+      },
+      {
+        "name": "Gary Kray",
+        "role": "Her successor as gardener"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Saving Grace's Garden: 30 Years Since the Battle of Filbert Steps (Larry Habegger)",
+        "publisher": "FoundSF (from The Semaphore #213)",
+        "year": 2016,
+        "url": "https://www.foundsf.org/index.php?title=Saving_Grace%E2%80%99s_Garden:_30_Years_Since_the_Battle_of_Filbert_Steps",
+        "supports": "1949 start; Doss quote on debris; baby tears; death at 96 in 1982; Kray; 221 Filbert fight; $320,000 and TPL easements"
+      },
+      {
+        "title": "From garbage dump to iconic views of SF (Matt Charnock)",
+        "publisher": "SFGATE",
+        "year": 2021,
+        "url": "https://www.sfgate.com/health/article/filbert-steps-sf-grace-marchant-napier-lane-coit-16296781.php",
+        "supports": "Moved to Napier Lane cottage in 1949; garbage several feet deep that burned three days; about 30 years of gardening"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-washington-square-green",
+    "title": "Keeping Washington Square a green",
+    "theme": "parks-nature",
+    "year": 1951,
+    "yearEnd": 1958,
+    "place": {
+      "label": "Washington Square, Columbus Ave & Union St",
+      "lat": 37.8008,
+      "lon": -122.4102,
+      "precision": "area"
+    },
+    "hook": "North Beach's front lawn had sheltered refugee tents in 1906. In the 1950s the neighbourhood had to fight off first a library, then a parking garage.",
+    "story": "Washington Square has been North Beach's living room for more than a century. After the 1906 earthquake and fire, some 600 people lived there for a year in tents and wooden barracks [1][2]. In the 1920s it hosted Italian festivals and the Columbus Day parade, and in 1924 the Salesians celebrated the completion of Saints Peter and Paul Church across Filbert Street, a project begun in 1912 [1]. In 1951 the city planned to build the North Beach branch library in the middle of the square. Father Costanzo of Saints Peter and Paul led the fight to keep it an open green [1]. In the mid-1950s a coalition called the Committee to Beautify Washington Square commissioned a redesign. It removed the paths that crossed the park and ringed a central lawn with benches and Lombardy poplars. The design is usually credited to Lawrence Halprin and Douglas Baylis, though one account says Halprin's plan was over budget and Francis McCarthy worked with Baylis instead [1][2][3]. In 1958 a plan to dig a parking garage under the square was defeated. It kept coming back until the park was made a city landmark in 2000 [2].",
+    "people": [
+      {
+        "name": "Father Costanzo",
+        "role": "Saints Peter and Paul priest who led the 1951 fight"
+      },
+      {
+        "name": "Douglas Baylis",
+        "role": "Landscape architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Washington Square",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Washington_Square",
+        "supports": "1906 refugees; festivals; church 1912-1924; 1951 library fight and Father Costanzo; redesign committee"
+      },
+      {
+        "title": "History of Washington Square",
+        "publisher": "Friends of Washington Square",
+        "year": 2000,
+        "url": "http://www.friendsofwashingtonsquare.com/History.html",
+        "supports": "600 refugees in 1906; Halprin and Baylis redesign; 1958 garage defeated; landmark in 2000"
+      },
+      {
+        "title": "Washington Square (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Washington_Square_(San_Francisco)",
+        "supports": "Credit to McCarthy and Baylis, with Halprin's plan over budget"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-city-lights-howl",
+    "title": "City Lights and the Howl bust",
+    "theme": "arts-counterculture",
+    "year": 1953,
+    "yearEnd": 1957,
+    "place": {
+      "label": "City Lights Bookstore, 261 Columbus Ave",
+      "lat": 37.7976,
+      "lon": -122.40658,
+      "precision": "building"
+    },
+    "hook": "America's first all-paperback bookstore sold a poem to an undercover cop in 1957. The trial that followed changed what American writers could publish.",
+    "story": "In 1953, Lawrence Ferlinghetti was walking past the Artigues Building on Columbus Avenue. He saw sociology teacher Peter D. Martin hanging a sign for a \"Pocket Book Shop\" [1]. Martin had borrowed the name City Lights, from the Chaplin film, for a magazine. The two men each put in $500 and opened what is described as the first all-paperback bookstore in the country [1]. Clerk Shigeyoshi \"Shig\" Murao worked unpaid for the first weeks and became the shop's manager [1][3]. Martin sold out in 1955. That year Ferlinghetti began publishing the Pocket Poets series. In November 1956 its fourth title came out: Allen Ginsberg's Howl and Other Poems [1]. In June 1957, police bought the book from the store and arrested Murao for selling obscene material. Ferlinghetti, away in Big Sur, turned himself in [1][2]. Judge Clayton Horn heard the case from August to September 1957. He ruled that Howl was not obscene and that a work with \"the slightest redeeming social importance\" deserved First Amendment protection [1]. \"It had four-letter words in it,\" Ferlinghetti said later, but he thought the real offence was the poem's attack on consumer society [2].",
+    "people": [
+      {
+        "name": "Lawrence Ferlinghetti",
+        "role": "Poet, co-founder and publisher"
+      },
+      {
+        "name": "Peter D. Martin",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Shigeyoshi Murao",
+        "role": "Store manager, arrested 1957"
+      },
+      {
+        "name": "Clayton W. Horn",
+        "role": "Judge"
+      }
+    ],
+    "sources": [
+      {
+        "title": "City Lights Bookstore",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/City_Lights_Bookstore",
+        "supports": "Founding story; $500 each; all-paperback; Murao; Pocket Poets; Howl November 1956; June 1957 raid; Horn ruling"
+      },
+      {
+        "title": "Landmark status likely for beatnik-era bookstore",
+        "publisher": "CNN",
+        "year": 2000,
+        "url": "http://archives.cnn.com/2000/books/news/06/27/beat.establishment/",
+        "supports": "Opened 1953; 1957 arrests after selling Howl to an undercover officer; Ferlinghetti quote"
+      },
+      {
+        "title": "Interview with Peter Martin and City Lights history",
+        "publisher": "San Francisco Chronicle (SFGate, June 9, 2003, via Internet Archive)",
+        "year": 2003,
+        "url": "https://web.archive.org/web/20030720055240/http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/06/09/DD158147.DTL",
+        "supports": "Peter Martin co-founded the store with Ferlinghetti in 1953; Shig Murao"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-the-place-blabbermouth",
+    "title": "Blabbermouth Night at The Place",
+    "theme": "arts-counterculture",
+    "year": 1955,
+    "yearEnd": 1959,
+    "place": {
+      "label": "The Place, 1546 Grant Ave",
+      "lat": 37.80133,
+      "lon": -122.40763,
+      "precision": "building"
+    },
+    "hook": "While the rest of America watched Gunsmoke, upper Grant Avenue climbed into a box and ranted, with a bottle of champagne for the best speech.",
+    "story": "From 1955 to 1959 a small storefront bar at 1546 Grant Avenue was a centre of Beat San Francisco. The Place was run by two former Black Mountain College students, Knute Stiles and Leo Krikorian [1]. Its walls showed work by Jay DeFeo, Wally Hedrick and Robert LaVigne. Krikorian later said Ginsberg tried out Howl there before it was published, Kerouac was \"there all the time\", and a 19-year-old Richard Brautigan was a regular [1]. Once On the Road came out, hitchhikers arrived from all over with their luggage, and he let them leave it there [1]. Its most famous event was Blabbermouth Night. Each week speakers climbed into a loft called the Blabberbox and talked about anything they liked. The best got a free bottle of champagne [1]. On April 15, 1957, one speaker proposed a pipe up Coit Tower that would shoot a 1,000-foot beer geyser every hour. Another proposed passport controls to \"save North Beach for the Bohemians\" [1]. Italian neighbours complained about the noise. By one account, audiences started snapping their fingers instead of cheering. In 1959 the poets were thrown out anyway for making too much noise [1].",
+    "people": [
+      {
+        "name": "Leo Krikorian",
+        "role": "Co-manager"
+      },
+      {
+        "name": "Knute Stiles",
+        "role": "Co-manager"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Place (Mark Schwartz & Art Peterson, The Semaphore #181)",
+        "publisher": "FoundSF",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=The_Place",
+        "supports": "All details: dates, managers, artists, Krikorian quotes, Blabbermouth Night, April 15, 1957 session, finger-snapping story, 1959 ejection"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-caffe-trieste",
+    "title": "Papa Gianni's first cappuccino",
+    "theme": "communities",
+    "year": 1956,
+    "yearEnd": null,
+    "place": {
+      "label": "Caffe Trieste, 601 Vallejo St",
+      "lat": 37.79865,
+      "lon": -122.40736,
+      "precision": "building"
+    },
+    "hook": "A window washer from Istria who had wanted to sing opera opened a little espresso bar at Grant and Vallejo, and taught San Francisco to drink cappuccino.",
+    "story": "Giovanni Giotta grew up in Rovigno d'Istria, a fishing town that was then Italian, and studied opera as a young man. He arrived in San Francisco with his family in 1951 with nothing [1][2]. \"We had nothing, no place to stay, no bread to eat,\" he recalled. Priests at Saints Peter and Paul found the family a home and found him a job washing windows [1]. He missed the coffeehouses of Trieste. In 1956 he took over the small Piccola Cafe at 601 Vallejo and renamed it Caffe Trieste. It is described as the first espresso house on the West Coast [1][2]. At first, he said, \"It was all Italian people. But I got the American people to like cappuccino\" [2]. Beat writers soon outnumbered the Italians, crossing the few blocks from City Lights. On its 50th anniversary cappuccino was sold at the 1956 price of 30 cents, and espresso at 25 [2]. Francis Ford Coppola later wrote much of The Godfather at a table along the back wall. For decades the Giotta family and guests have broken into opera there, with an accordion, on Saturdays [2][3].",
+    "people": [
+      {
+        "name": "Giovanni \"Papa Gianni\" Giotta",
+        "role": "Founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Caffè Trieste",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Caff%C3%A8_Trieste",
+        "supports": "Origins in Rovigno; 1951 arrival; Saints Peter and Paul help and quote; Piccola Cafe; first espresso house claim"
+      },
+      {
+        "title": "50 Years of Art and Coffee (Cecilia M. Vega)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2006,
+        "url": "https://www.sfgate.com/news/article/50-years-of-art-and-coffee-an-espresso-pioneer-2520900.php",
+        "supports": "Opened 1956; window washer; opera; cappuccino quote; Beats; 1956 prices; Coppola table"
+      },
+      {
+        "title": "Caffé Trieste",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "http://www.foundsf.org/index.php?title=Caff%C3%A9_Trieste",
+        "supports": "Saturday opera tradition; Coppola and The Godfather"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-bigarani-bagel-shop",
+    "title": "Poems on the Bagel Shop window",
+    "theme": "civil-rights",
+    "year": 1959,
+    "yearEnd": null,
+    "place": {
+      "label": "Co-Existence Bagel Shop, Grant Ave & Green St",
+      "lat": 37.7996,
+      "lon": -122.40727,
+      "precision": "block"
+    },
+    "hook": "The Beats hanged a policeman in effigy on Grant Avenue. Then Bob Kaufman taped a poem to a shop window comparing the officer to Hitler.",
+    "story": "By 1959 the Police Department had a two-man \"beatnik patrol\" on upper Grant Avenue. Officer William Bigarani made it his mission to keep North Beach in line. Critics said that meant pretext arrests and the occasional beating [1]. His favourite target was Bob Kaufman, a Black poet from New Orleans and former merchant seaman who co-founded the magazine Beatitude that year [1][2]. By one account, Kaufman was arrested on disorderly charges 39 times [2]. In August 1959 the Beats hanged Bigarani in effigy from a telephone pole outside the Co-Existence Bagel Shop at Grant and Green. Police tore it down within minutes [1]. Days later Kaufman and William Margolis pasted poems on the shop window. Kaufman's imagined a bored Hitler moving to San Francisco and becoming \"an ordinary policeman, dedicated... to stamping out Beatniks\" [1]. Bigarani tore them down at 2 a.m. The Associated Press made it national news. The ACLU called it \"a clear violation of freedom of speech\", and a lawyer advised the poets to post copies all over North Beach [1]. Kaufman went looking for another confrontation and remarked, \"You can never find a policeman when you want one\" [1].",
+    "people": [
+      {
+        "name": "Bob Kaufman",
+        "role": "Poet"
+      },
+      {
+        "name": "William Bigarani",
+        "role": "Police officer"
+      },
+      {
+        "name": "William Margolis",
+        "role": "Poet"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Beatniks' battle with S.F. police goes national with poems (Gary Kamiya)",
+        "publisher": "San Francisco Chronicle (via Internet Archive)",
+        "year": 2015,
+        "url": "https://web.archive.org/web/20230314184632/https://www.sfchronicle.com/bayarea/article/Beatniks-battle-with-S-F-police-goes-national-6148365.php",
+        "supports": "Beatnik patrol; effigy at Grant and Green in August 1959; poems; AP story; ACLU quote; Kaufman quip"
+      },
+      {
+        "title": "Bob Kaufman",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Bob_Kaufman",
+        "supports": "Background; Beatitude 1959; alleged 39 arrests"
+      }
+    ],
+    "photo": null
+  }
+]

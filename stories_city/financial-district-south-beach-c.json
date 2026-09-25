@@ -1,0 +1,775 @@
+[
+  {
+    "id": "financial-district-south-beach-bono-fountain-graffiti",
+    "title": "Bono Spray-Paints the Concrete Dog",
+    "theme": "arts-counterculture",
+    "year": 1987,
+    "place": {
+      "label": "Vaillancourt Fountain, Embarcadero Plaza",
+      "lat": 37.7953,
+      "lon": -122.395,
+      "precision": "building"
+    },
+    "hook": "In 1987 the world's biggest rock star climbed San Francisco's most hated fountain with a spray can, and the sculptor cheered him on.",
+    "story": "Armand Vaillancourt's fountain opened in 1971 at the foot of Market Street as a deliberately harsh partner to the double-decker Embarcadero Freeway that loomed beside it [1]. Chronicle critic Allan Temko likened its clattering forms to \"technological excrescences ... deposited by a giant concrete dog with square intestines\" [2]. On November 11, 1987, U2 played a free concert in the plaza during its Joshua Tree tour, and Bono clambered onto the fountain and spray-painted a slogan on it before about 20,000 cheering fans; the Chronicle reported the words as \"Stop the Traffic, Rock and Roll\", though other accounts reverse the order [3]. Mayor Dianne Feinstein condemned the stunt. Vaillancourt, the fountain's own designer, defended it as art. Bono apologised, promised to pay for the cleanup, and became the 346th person cited that year in a citywide graffiti crackdown, facing a $500 fine or a stint scrubbing Muni buses [3]. KGO radio said its callers split roughly 50-50, young against old [3]. The freeway the fountain was built to answer came down in 1991. In April 2026 crews began dismantling the fountain itself, labelling the pieces so it could, in theory, be reassembled one day [4].",
+    "people": [
+      {
+        "name": "Bono (Paul Hewson)",
+        "role": "U2 singer"
+      },
+      {
+        "name": "Armand Vaillancourt",
+        "role": "Sculptor"
+      },
+      {
+        "name": "Dianne Feinstein",
+        "role": "Mayor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vaillancourt Fountain now stands alone",
+        "publisher": "San Francisco Chronicle (John King)",
+        "year": 2013,
+        "url": "http://www.sfgate.com/bayarea/article/Vaillancourt-Fountain-now-stands-alone-4568877.php",
+        "supports": "Opened 1971 beside the Embarcadero Freeway as a harsh counterpart to it"
+      },
+      {
+        "title": "A taste of Temko: his take on 6 S.F. buildings",
+        "publisher": "SFGATE",
+        "year": 2006,
+        "url": "http://www.sfgate.com/default/article/A-taste-of-Temko-his-take-on-6-S-F-buildings-3163489.php",
+        "supports": "Temko's 'giant concrete dog with square intestines' line"
+      },
+      {
+        "title": "U2's Bono cited as graffiti artist (Chronicle archive, Nov. 17, 1987)",
+        "publisher": "SFGATE",
+        "year": 2012,
+        "url": "http://www.sfgate.com/entertainment/article/U2-s-Bono-cited-as-graffiti-artist-4023631.php",
+        "supports": "Date, slogan, 20,000 fans, 346th citation, $500 fine, Feinstein and Vaillancourt reactions, KGO split"
+      },
+      {
+        "title": "San Francisco starts $4M removal of controversial Vaillancourt Fountain",
+        "publisher": "ABC7 News",
+        "year": 2026,
+        "url": "https://abc7news.com/post/san-francisco-starts-4-million-removal-controversial-vaillancourt-fountain-embarcadero-plaza/18981318/",
+        "supports": "Removal began April 2026; pieces labelled for possible reassembly"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-embarcadero-freeway-falls",
+    "title": "The Freeway That Walled Off the Bay",
+    "theme": "modern-city",
+    "year": 1991,
+    "place": {
+      "label": "Former Embarcadero Freeway, The Embarcadero near Howard St",
+      "lat": 37.7915,
+      "lon": -122.3905,
+      "precision": "street"
+    },
+    "hook": "For three decades a double-decker freeway hid the Ferry Building. An earthquake, a stubborn mayor and a 6-5 vote brought it down, and cost him his job.",
+    "story": "The Embarcadero Freeway opened in 1959: two thick decks of concrete that ran north along the waterfront from Folsom Street and ended abruptly at Broadway, cutting downtown off from the bay and leaving the Ferry Building stranded behind a wall of exhaust and noise [1]. The 1989 Loma Prieta earthquake damaged it. Caltrans engineers wanted to retrofit it, and Chinatown groups, the Chamber of Commerce, Fisherman's Wharf merchants and many Telegraph Hill residents wanted it back [2]. Even Herb Caen called Mayor Art Agnos's plans \"disgraceful priorities\" [2]. More than 22,000 people signed petitions to restore the freeway, and on the day of the vote Chinese merchants shut their shops and marched on City Hall [2]. Agnos commissioned traffic studies and went to Washington for demolition money; the Board of Supervisors backed him by a razor-thin 6-5 [2]. In a steady rain on February 27, 1991, demolition began. \"It's a great day to take down a freeway,\" Agnos said [3]. Chinatown withheld its support when he ran for re-election that year, and he lost [2]. Chronicle critic John King later credited the teardown with reconnecting downtown to one of the most spectacular urban waterfronts on the planet [1].",
+    "people": [
+      {
+        "name": "Art Agnos",
+        "role": "Mayor, 1988-1992"
+      },
+      {
+        "name": "Herb Caen",
+        "role": "Chronicle columnist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "15 seconds that transformed S.F.: Remembering the Loma Prieta earthquake",
+        "publisher": "San Francisco Chronicle (John King)",
+        "year": 2004,
+        "url": "http://www.sfgate.com/bayarea/place/article/15-SECONDS-THAT-CHANGED-SAN-FRANCISCO-The-3302464.php",
+        "supports": "Freeway description, 1959 opening, revolt, 1991 demolition, reopened waterfront"
+      },
+      {
+        "title": "Reflections on the Loma Prieta Earthquake 20 Years Later",
+        "publisher": "Huffington Post (Art Agnos)",
+        "year": 2009,
+        "url": "https://web.archive.org/web/20170322060338/http://www.huffingtonpost.com/art-agnos/reflections-on-the-loma-p_b_324350.html",
+        "supports": "Retrofit pressure, opponents, Caen quote, petitions, merchant march, 6-5 vote, lost re-election"
+      },
+      {
+        "title": "Demolition of the Embarcadero Freeway (Highway History: Feb. 27)",
+        "publisher": "Federal Highway Administration",
+        "year": 2020,
+        "url": "https://www.fhwa.dot.gov/byday/fhbd0227.htm",
+        "supports": "Demolition began Feb. 27, 1991 in rain; Agnos quote"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-toor-yerba-buena-fight",
+    "title": "The Old Men Who Stopped the Bulldozers",
+    "theme": "civil-rights",
+    "year": 1970,
+    "place": {
+      "label": "Yerba Buena Gardens (former residential hotels of South of Market)",
+      "lat": 37.785,
+      "lon": -122.4023,
+      "precision": "area"
+    },
+    "hook": "The redevelopment chief called them skid row bums. A retired union organiser, 80 years old, took the city to federal court and won.",
+    "story": "Before Yerba Buena Gardens, these blocks were a neighbourhood of cheap residential hotels, home to poor and elderly people, many of them retired seamen and trade unionists, whose rents averaged less than $40 a month [1]. From 1967 the San Francisco Redevelopment Agency began clearing them for a convention centre; by mid-1969 it owned 44% of the land [1]. Agency director M. Justin Herman reportedly called the residents \"nothing but a bunch of skid row bums.\" George Woolf, an 80-year-old former Alaska cannery union president who had lost his front teeth in the 1934 General Strike, answered: \"I'm not a bum and I resent being discredited and discounted\" [1]. With co-chair Peter Mendelsohn, a merchant seaman of 40 years, he led Tenants and Owners in Opposition to Redevelopment (TOOR) [1]. In 1970 federal judge Stanley Weigel halted the huge project until an adequate relocation plan existed [2]. The eventual decree required 1,500 to 1,800 replacement homes, with residents holding four hotels as \"hostages\" until they were built, though few of the original tenants were ever properly rehoused [1]. TOOR's offshoot, TODCO, went on to become a major builder of affordable housing South of Market [1].",
+    "people": [
+      {
+        "name": "George Woolf",
+        "role": "TOOR chair, retired union organiser"
+      },
+      {
+        "name": "Peter Mendelsohn",
+        "role": "TOOR co-chair"
+      },
+      {
+        "name": "Stanley Weigel",
+        "role": "U.S. District Judge"
+      },
+      {
+        "name": "M. Justin Herman",
+        "role": "Redevelopment Agency director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "TOOR (Tenants and Owners in Opposition to Redevelopment)",
+        "publisher": "FoundSF (Ben Ratliff)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=TOOR_(Tenants_and_Owners_in_Opposition_to_Redevelopment)",
+        "supports": "Residents, 1967 clearance, 44% land, Herman remark, Woolf and Mendelsohn, decree terms, TODCO"
+      },
+      {
+        "title": "Stanley Weigel (obituary)",
+        "publisher": "San Francisco Chronicle",
+        "year": 2000,
+        "url": "http://www.sfgate.com/news/article/Stanley-Weigel-2910268.php",
+        "supports": "Weigel's 1970 ruling stopped Yerba Buena project until a relocation plan was made"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-justin-herman-name-removed",
+    "title": "Taking a Name Off the Plaza",
+    "theme": "civil-rights",
+    "year": 2017,
+    "place": {
+      "label": "Embarcadero Plaza (formerly Justin Herman Plaza)",
+      "lat": 37.7945,
+      "lon": -122.3957,
+      "precision": "area"
+    },
+    "hook": "For 43 years the city's busiest waterfront plaza honoured the man who bulldozed the Fillmore. In 2017, residents who remembered finally got his name taken down.",
+    "story": "From 1974 the plaza at the foot of Market Street carried the name of M. Justin Herman, who ran the San Francisco Redevelopment Agency from 1959 until his death in 1971 [1]. Under Herman, redevelopment displaced thousands of residents, mainly African Americans and Japanese Americans, from 60 blocks of the Western Addition and Fillmore, and moved mostly poor people out of parts of Chinatown and South of Market [1]. In July 2017 Supervisor Aaron Peskin said Herman \"personified a dark chapter in modern San Francisco history\" and proposed stripping the name [1]. The Board of Supervisors voted unanimously in September; Board President London Breed, who grew up in the Western Addition, recalled living in a community \"literally destroyed\" by the agency, and noted the new signs would cost about $5,400 [2]. On November 16, 2017, the Recreation and Park Commission made it official, 4-2, restoring the plaza's original name, Embarcadero Plaza [3]. At the hearing, Fillmore activist Ace Washington introduced himself: \"I'm from the Fillmore. I call it the Fill No More\" [3].",
+    "people": [
+      {
+        "name": "M. Justin Herman",
+        "role": "Redevelopment Agency director, 1959-1971"
+      },
+      {
+        "name": "Aaron Peskin",
+        "role": "Supervisor"
+      },
+      {
+        "name": "London Breed",
+        "role": "Board of Supervisors President"
+      },
+      {
+        "name": "Ace Washington",
+        "role": "Fillmore activist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SF Supervisor Peskin ramps up drive to rename Justin Herman Plaza",
+        "publisher": "San Francisco Chronicle (J.K. Dineen)",
+        "year": 2017,
+        "url": "http://www.sfgate.com/politics/article/SF-Supervisor-Peskin-ramps-up-drive-to-rename-11415576.php",
+        "supports": "Herman's tenure and death, displacement figures, Peskin quote"
+      },
+      {
+        "title": "SF Leaders Vote Unanimously to Rename Justin Herman Plaza",
+        "publisher": "NBC Bay Area / Bay City News",
+        "year": 2017,
+        "url": "http://www.nbcbayarea.com/news/local/SF-Leaders-Vote-Unanimously-to-Rename-Justin-Herman-Plaza-445886603.html",
+        "supports": "Unanimous board vote, Breed quote, $5,400 sign cost"
+      },
+      {
+        "title": "Recreation and Park Commission minutes, November 16, 2017",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2017,
+        "url": "https://sfrecpark.org/DocumentCenter/View/13099/111617-minutes",
+        "supports": "Res. 1711-014 removing Herman's name, 4-2 vote, Ace Washington testimony"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-101-california-shooting",
+    "title": "Thirty-Fourth Floor, 101 California",
+    "theme": "modern-city",
+    "year": 1993,
+    "place": {
+      "label": "101 California Street",
+      "lat": 37.79304,
+      "lon": -122.39803,
+      "precision": "building"
+    },
+    "hook": "A failed businessman with a grudge against one law firm turned a glass tower into a crime scene, and the grief of the survivors helped change national gun law.",
+    "story": "On the afternoon of July 1, 1993, Gian Luigi Ferri, a 55-year-old failed businessman, walked into the glass tower at 101 California Street carrying two 9mm semiautomatic pistols and a .45. At the offices of the law firm Pettit & Martin he put on ear protectors and began shooting, firing more than 50 rounds; he killed eight people and wounded six before killing himself in a stairwell [1]. On his body police found a rambling four-page letter headed \"LIST OF CRIMINALS, RAPISTS, RACKETEERES, LOBBYISTS,\" blaming evil conspiracies for his failed property deals and even railing against the FDA over MSG [1]. The dead included Jody Sposato, a young mother. Four years later her husband Steve stood outside the building with their daughter tugging at his arm and credited the tragedy with fuelling the Brady law and the 1994 federal assault weapons ban: \"People once feared the NRA, (but) gun control is popular now\" [2]. Pettit & Martin, already struggling, never recovered; its partners voted to dissolve the firm in March 1995, citing plummeting morale after the shootings [3].",
+    "people": [
+      {
+        "name": "Gian Luigi Ferri",
+        "role": "Gunman"
+      },
+      {
+        "name": "Jody Sposato",
+        "role": "Victim"
+      },
+      {
+        "name": "Steve Sposato",
+        "role": "Victim's husband, gun-control advocate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco gunman's rage is revealed in four-page letter",
+        "publisher": "Chicago Tribune (from the San Francisco Chronicle)",
+        "year": 1993,
+        "url": "https://www.chicagotribune.com/1993/07/04/san-francisco-gunmans-rage-is-revealed-in-four-page-letter/",
+        "supports": "Ferri's age, weapons, ear protectors, 50 rounds, casualties, letter contents"
+      },
+      {
+        "title": "Relatives recall loved ones lost at 101 California St.",
+        "publisher": "San Francisco Examiner (Julie Chao)",
+        "year": 1997,
+        "url": "https://www.sfchronicle.com/news/article/relatives-recall-loved-ones-lost-at-101-3111871.php",
+        "supports": "Jody Sposato among victims; Steve Sposato quotes on Brady law and assault weapons ban"
+      },
+      {
+        "title": "101 Calif. massacre law firm closing",
+        "publisher": "San Francisco Examiner",
+        "year": 1995,
+        "url": "https://www.sfgate.com/news/article/101-Calif-massacre-law-firm-closing-3158509.php",
+        "supports": "Pettit & Martin dissolution in March 1995 and morale"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-delancey-street-builds-home",
+    "title": "Ex-Cons Who Built Their Own Waterfront",
+    "theme": "communities",
+    "year": 1991,
+    "place": {
+      "label": "Delancey Street, 600 The Embarcadero",
+      "lat": 37.78349,
+      "lon": -122.38889,
+      "precision": "building"
+    },
+    "hook": "The crew boss had poured concrete for a handball court at San Quentin. Three hundred former addicts and felons, none of them builders, raised a whole city block.",
+    "story": "Delancey Street was founded in 1971 by John Maher, a former New York street hoodlum and child heroin addict, with criminologist Mimi Silbert, who has run it since 1985 [1]. Its rule is that residents, many of them former addicts and prisoners, rebuild their lives by running businesses themselves, without government money [2]. After buying a waterfront lot, Silbert put the residents in charge of building their new headquarters. \"Literally, we had 300 and something people who knew nothing working on this building,\" she told Mother Jones. A resident who had poured concrete for the handball court at San Quentin became head of the concrete crew. Silbert took a test to become the contractor. When a wall came out crooked they tore it down and rebuilt it until it was right; \"fixing your mistakes takes a lot of courage,\" she told them [2]. Finished in 1991, the four-storey, 370,000-square-foot complex fills a city block, with shops, a public restaurant and a café around a Mediterranean-style courtyard and housing for 500 [3]. Delancey says Pulitzer Prize-winning critic Allan Temko called it a \"masterpiece of social design\" [3].",
+    "people": [
+      {
+        "name": "Mimi Silbert",
+        "role": "Co-founder and president"
+      },
+      {
+        "name": "John Maher",
+        "role": "Co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Delancey Street founder John Maher dies",
+        "publisher": "Los Angeles Times",
+        "year": 1988,
+        "url": "https://www.latimes.com/archives/la-xpm-1988-12-04-mn-1389-story.html",
+        "supports": "Maher's background, 1971 founding with Silbert, Silbert running it since 1985"
+      },
+      {
+        "title": "The Toughest Love",
+        "publisher": "Mother Jones (Julia Lurie)",
+        "year": 2020,
+        "url": "https://www.motherjones.com/crime-justice/2020/07/delancey-street-foundation-san-francisco-rehab/",
+        "supports": "No government money; residents built headquarters; Silbert quotes; San Quentin concrete crew head"
+      },
+      {
+        "title": "Our Facilities: San Francisco",
+        "publisher": "Delancey Street Foundation",
+        "year": null,
+        "url": "http://www.delanceystreetfoundation.org/facsf.php",
+        "supports": "Completed 1991, 370,000 sq ft, built by residents, contents, Temko quote"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-multimedia-gulch",
+    "title": "Iguanas and Macs in Multimedia Gulch",
+    "theme": "labor-industry",
+    "year": 1994,
+    "place": {
+      "label": "Multimedia Gulch, South of Market warehouses near the Bay Bridge ramps (around 2nd St)",
+      "lat": 37.78251,
+      "lon": -122.39313,
+      "precision": "area"
+    },
+    "hook": "Programmers too hip for suburbia moved into old sweatshops by the Bay Bridge ramps. The seamstresses were still working downstairs.",
+    "story": "In March 1994 Fortune described a new hot spot for startups: Multimedia Gulch, a warehouse district \"hard by the ramps to the Bay Bridge,\" where programmers \"too hip to live in the banal suburbia of Silicon Valley\" teamed up with artists to make CD-ROMs full of video, animation and music [1]. Residents already included Wired magazine, Tim Burton's animation studio and the software maker Macromedia [1]. One 18-person startup, Vivid Publishing, had taken over a 4,000-square-foot room once filled with immigrant Chinese women at sewing machines, paying 60 cents a square foot, about a third of downtown rents. It strung 4,000 feet of cable between its Macintoshes, put a massage table in the conference room and let an iguana named Jim roam free. The Chinese seamstresses were still working downstairs [1]. By 1999, a UC Berkeley study counted 6,000 jobs added in the district between 1994 and 1998, with some 500 digital media companies across a SoMa that was quickly all being called the Gulch [2]. \"This is what has changed the San Francisco economy,\" said study author Ken Rosen [2].",
+    "people": [
+      {
+        "name": "J. Sterling Hutto",
+        "role": "Co-founder, Vivid Publishing"
+      },
+      {
+        "name": "Ken Rosen",
+        "role": "UC Berkeley economist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Multimedia Gulch",
+        "publisher": "Fortune (Alan Deutschman)",
+        "year": 1994,
+        "url": "https://web.archive.org/web/2023/https://money.cnn.com/magazines/fortune/fortune_archive/1994/03/07/79070/index.htm",
+        "supports": "Description, location near Bay Bridge ramps, Wired, Burton, Macromedia, Vivid Publishing details"
+      },
+      {
+        "title": "Making sense of Multimedia Gulch",
+        "publisher": "San Francisco Examiner (George Raine)",
+        "year": 1999,
+        "url": "https://www.sfgate.com/business/article/Making-sense-of-Multimedia-Gulch-3060560.php",
+        "supports": "6,000 jobs 1994-98, 500 companies, Rosen quote, boundaries"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-millennium-tower-sinks",
+    "title": "The Leaning Tower of Mission Street",
+    "theme": "architecture-landmarks",
+    "year": 2016,
+    "yearEnd": 2023,
+    "place": {
+      "label": "Millennium Tower, 301 Mission Street",
+      "lat": 37.79065,
+      "lon": -122.39614,
+      "precision": "building"
+    },
+    "hook": "Residents of San Francisco's most glamorous condo tower were summoned to a secret meeting, IDs checked at the door, and told their building was sinking.",
+    "story": "The 58-story Millennium Tower opened as a home for professional athletes and venture capitalists. Its plans forecast it might settle as much as six inches; by late 2016 it had sunk 16 inches and was tilting, an estimated two to four inches at the base and 14 at the top [1]. A paper trail of concern dated back to early 2009, but most residents knew nothing until they were summoned in May 2016 to a private meeting in a club-level lounge, where identification was checked at the door and they were told what they heard must stay secret [1]. The story broke on the Chronicle's front page that August. In November, City Attorney Dennis Herrera sued the developer, saying it knew the building \"had sunk more than it was supposed to\" before selling a single condo and didn't tell buyers [1]. After years of litigation, a $100 million foundation fix began in 2020, with the building occupied throughout. In June 2023 crews finished transferring its load onto 18 new piles driven to bedrock; the engineer reported the settlement had been arrested and the tower had risen slightly, undoing some of the 30 inches of tilt to the northwest it had gathered over 15 years [2].",
+    "people": [
+      {
+        "name": "Dennis Herrera",
+        "role": "City Attorney"
+      },
+      {
+        "name": "Ronald O. Hamburger",
+        "role": "Engineer of record for the fix"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco sues developer over sinking skyscraper",
+        "publisher": "Los Angeles Times (Joseph Serna and Peter H. King)",
+        "year": 2016,
+        "url": "http://www.latimes.com/local/lanow/la-me-sinking-skyscraper-20161103-story.html",
+        "supports": "Height, residents, 6-inch forecast, 16 inches sunk, tilt, secret meeting, Herrera lawsuit and quote"
+      },
+      {
+        "title": "After 15 Years, Settlement Arrested at San Francisco's Millennium Tower",
+        "publisher": "Engineering News-Record (Nadine M. Post)",
+        "year": 2023,
+        "url": "https://www.enr.com/articles/56665-after-15-years-settlement-arrested-at-san-franciscos-millennium-tower",
+        "supports": "$100M fix from 2020, 18 piles to bedrock, settlement arrested June 2023, 30 in. tilt"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-salesforce-park-cracks",
+    "title": "A Park in the Sky, Closed by Cracks",
+    "theme": "parks-nature",
+    "year": 2018,
+    "yearEnd": 2019,
+    "place": {
+      "label": "Salesforce Transit Center and rooftop park, 425 Mission Street",
+      "lat": 37.78975,
+      "lon": -122.3963,
+      "precision": "building"
+    },
+    "hook": "San Francisco opened a 5.4-acre garden on top of a bus station. Six weeks later a ceiling installer found a crack, and the whole thing shut for ten months.",
+    "story": "The Salesforce Transit Center replaced the old Transbay Terminal with a $2.26 billion, four-and-a-half-block-long hall of steel and glass, and a surprise on top: a 5.4-acre public park, planted and landscaped, floating above the streets of South of Market [1][2]. It opened in August 2018. Then on September 25, less than two months later, a ceiling installer spotted a major crack in the bottom flange of one of the huge steel girders carrying the bus deck across Fremont Street [2]. The transit authority closed the entire building, park included, as a precaution after workers found fissures in two beams; Fremont Street was shut and shored, and buses went back to the temporary terminal at Howard and Main streets [3]. The crack in the brittle steel ran through the flange where a hanger slots through it; crews reinforced the twin girders over Fremont and a similar pair over First Street, although inspectors found no cracks there [2]. By May 2019 the repairs were complete and the building was being recommissioned, with fire, safety and elevator systems retested under independent oversight before it could reopen [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "'Overwhelming, awesome': Riders review new Transbay Transit Center",
+        "publisher": "The Mercury News",
+        "year": 2018,
+        "url": "https://www.mercurynews.com/2018/08/29/overwhelming-awesome-riders-review-new-transbay-transit-center/",
+        "supports": "$2.26 billion cost, 5.4-acre rooftop park, August 2018 opening"
+      },
+      {
+        "title": "June Finish Set for Transit Hub Girder Fix",
+        "publisher": "Engineering News-Record (Nadine M. Post)",
+        "year": 2019,
+        "url": "https://www.enr.com/articles/46293-completion-of-repairs-to-san-franciscos-troubled-salesforce-transit-center-expected-in-june",
+        "supports": "4.5-block length, Sept. 25 closure, ceiling installer found crack, brittle steel, Fremont and First St girders"
+      },
+      {
+        "title": "Update on Temporary Closure of Salesforce Transit Center",
+        "publisher": "Transbay Joint Powers Authority",
+        "year": 2019,
+        "url": "http://tjpa.org/uploads/2019/05/5.10.19-Update-on-Temporary-Closure-of-Salesforce-Transit-Center.pdf",
+        "supports": "Fissures in two beams, repairs complete May 2019, temporary terminal at Howard and Main"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-exploratorium-pier-15",
+    "title": "The Museum That Moved Onto the Bay",
+    "theme": "modern-city",
+    "year": 2013,
+    "place": {
+      "label": "Exploratorium, Pier 15 (Embarcadero at Green St)",
+      "lat": 37.8014,
+      "lon": -122.3976,
+      "precision": "building"
+    },
+    "hook": "A blacklisted physicist, brother of the atomic bomb's father, started a hands-on science museum in 1969. In 2013 it moved out onto a pier and made the bay its exhibit.",
+    "story": "Frank Oppenheimer had worked beside his brother J. Robert Oppenheimer on the Manhattan Project. After a youthful flirtation with communism he was blacklisted from research and teaching in the McCarthy era, became a cattle rancher in small-town Colorado, then drifted back into teaching at a local high school, where he threw out the textbook in favour of hands-on tools [1]. In 1969 he opened the Exploratorium in the cavernous, nearly empty Palace of Fine Arts, and ran it until just before his death in 1985 [1]. In April 2013 the museum moved to Pier 15 on the Embarcadero [1]. The $300 million new home opened with 600 exhibits, a glass-walled bayside observatory and 1.5 acres of free public space on the pier's plazas and walkways [2]. It turned its setting into the show: the tides, the bay water and its organisms became exhibits, and even the shadows and reflected sunlight from the Financial District towers across the Embarcadero were put to work demonstrating optics. \"The location forced us to figure out how to make the whole of the city and the bay hands-on,\" said director Dennis Bartels [2].",
+    "people": [
+      {
+        "name": "Frank Oppenheimer",
+        "role": "Founder"
+      },
+      {
+        "name": "Dennis Bartels",
+        "role": "Executive director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History",
+        "publisher": "Exploratorium",
+        "year": null,
+        "url": "https://www.exploratorium.edu/about/history",
+        "supports": "Oppenheimer biography, 1969 opening at Palace of Fine Arts, 1985, April 2013 move to Pier 15"
+      },
+      {
+        "title": "Exploratorium opens April 10 at Pier 15",
+        "publisher": "San Francisco Chronicle (David Perlman)",
+        "year": 2013,
+        "url": "http://www.sfchronicle.com/science/article/Exploratorium-opens-April-10-at-Pier-15-4430723.php",
+        "supports": "$300M, 600 exhibits, observatory, 1.5 acres, bay and tower exhibits, Bartels quote"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-occupy-sf-federal-reserve",
+    "title": "Occupying the Sidewalk at the Fed",
+    "theme": "civil-rights",
+    "year": 2011,
+    "place": {
+      "label": "Federal Reserve Bank of San Francisco, 101 Market Street",
+      "lat": 37.79327,
+      "lon": -122.39584,
+      "precision": "building"
+    },
+    "hook": "For three months in 2011 protesters camped outside the Federal Reserve. Police cleared them again and again. Each time, they came back.",
+    "story": "In autumn 2011, as Occupy Wall Street spread, San Francisco's version took root on the sidewalk outside the Federal Reserve Bank at 101 Market Street, the original Occupy protest site, established in early October [1]. A second tent city grew up in mid-October in Justin Herman Plaza a block away, protesting bank bailouts and economic injustice [2]. At about 1 a.m. on December 7, police surrounded the plaza camp, gave protesters five minutes to leave and arrested 70 people; crews power-washed the ground afterwards. \"I lost everything I owned,\" said 51-year-old camper Jack Martin. Asked what he would do next, he answered: \"Occupy, occupy, occupy, occupy\" [2]. Within a day the campers had returned to the Fed sidewalk. After hourly warnings, officers moved in at 4 a.m. on Sunday, December 11 and arrested 55 more for illegal lodging [1]. Nick Shaw, 32, said police struck him with batons as he tried to grab his duffel bag, which held his medication, birth certificate and coat; police said protesters spat on officers. By afternoon many were back with sleeping bags and signs. \"I'm undeterred,\" said protester James Cartmill [1].",
+    "people": [
+      {
+        "name": "Jack Martin",
+        "role": "Occupy camper"
+      },
+      {
+        "name": "Nick Shaw",
+        "role": "Protester"
+      },
+      {
+        "name": "James Cartmill",
+        "role": "Protester"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Occupy SF: Police clear last camp, arrest 55",
+        "publisher": "San Francisco Chronicle (Carolyn Jones)",
+        "year": 2011,
+        "url": "https://www.sfgate.com/bayarea/article/occupy-sf-police-clear-last-camp-arrest-55-2395793.php",
+        "supports": "101 Market as original site, Dec. 11 sweep, 55 arrests, Shaw and Cartmill quotes"
+      },
+      {
+        "title": "Occupy San Francisco camp cleared by police; 70 arrested",
+        "publisher": "Los Angeles Times (L.A. Now)",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://latimesblogs.latimes.com/lanow/2011/12/occupy-san-francisco-camp-cleared-70-arrested.html",
+        "supports": "Dec. 7 plaza raid, 70 arrests, Jack Martin quotes, camp set up mid-October"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-pacific-exchange-floor-closes",
+    "title": "The Last Day of Shouting on Pine Street",
+    "theme": "labor-industry",
+    "year": 2002,
+    "place": {
+      "label": "Pacific Stock Exchange, 301 Pine Street",
+      "lat": 37.79183,
+      "lon": -122.40128,
+      "precision": "building"
+    },
+    "hook": "For more than a century San Francisco had a trading floor where brokers shouted orders face to face. Computers ended it, and the floor became a gym.",
+    "story": "Brokers had traded in San Francisco since the San Francisco Stock and Bond Exchange was founded in 1882 to handle deals tied to the Comstock Lode. In 1956 it merged with the Los Angeles Oil Exchange to form the Pacific Coast Stock Exchange, which traded from this 1915 former U.S. Treasury building, remodelled in 1930 by Miller & Pflueger with Art Deco granite figures by Ralph Stackpole [1]. Ironically, it was among the first exchanges to automate, putting computers on the floor in 1969 [1]. By 1999 the Chronicle reported that the exchange planned to abandon Pine Street, leaving the city without a central stock market for the first time in more than a century; with most trades done by computer, a floor of traders scurrying from post to post was obsolete [2]. \"The floor is jazz, the adrenaline in your body,\" said independent floor broker Frank Gallagher. \"I'm not looking forward to sitting in an office. I like my little world\" [2]. The exchange sold its equities business in 2000, closed its Los Angeles floor in 2001 and its San Francisco floor in 2002 [1]. The trading hall later reopened as an Equinox fitness club [3].",
+    "people": [
+      {
+        "name": "Frank Gallagher",
+        "role": "Independent floor broker"
+      },
+      {
+        "name": "Ralph Stackpole",
+        "role": "Sculptor"
+      },
+      {
+        "name": "Timothy Pflueger",
+        "role": "Architect (Miller & Pflueger)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pacific Stock Exchange",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/poi_pacific_coast_stock_exchange.asp",
+        "supports": "1882 founding, 1956 merger, building history, Stackpole, 1969 automation, 2000-2002 closures"
+      },
+      {
+        "title": "Exchange Ending an Era / Pacific is phasing out its historic stock trading floor",
+        "publisher": "San Francisco Chronicle (Sam Zuckerman)",
+        "year": 1999,
+        "url": "http://www.sfgate.com/default/article/Exchange-Ending-an-Era-Pacific-is-phasing-out-2942842.php",
+        "supports": "Planned shutdown, obsolescence, Gallagher quotes"
+      },
+      {
+        "title": "SFist Remembers: Pacific Stock Exchange",
+        "publisher": "SFist",
+        "year": 2011,
+        "url": "https://sfist.com/2011/06/07/sfist_remembers_pacific_stock_excha/",
+        "supports": "2002 closure; building now an Equinox Fitness"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-the-conversation-union-square",
+    "title": "Eavesdropping on Union Square at Lunchtime",
+    "theme": "arts-counterculture",
+    "year": 1974,
+    "place": {
+      "label": "Union Square",
+      "lat": 37.788,
+      "lon": -122.4075,
+      "precision": "area"
+    },
+    "hook": "Coppola's paranoid masterpiece opens high above Union Square, listening. The only footage its fired cameraman shot that survived is that famous opening.",
+    "story": "Francis Ford Coppola began writing The Conversation in 1966 and finished it in 1970 [1]. He shot it in San Francisco, on location in Union Square and at his newly formed American Zoetrope studio, one of the first major directors of his generation to base a studio outside Los Angeles [1]. Gene Hackman plays Harry Caul, a surveillance expert hired to record a young couple as they circle the crowded square at lunchtime; stitching his three imperfect tapes together, he uncovers a sentence that convinces him they are in danger [2]. The shoot was fraught. Cinematographer Haskell Wexler clashed with Coppola and was replaced within weeks by Bill Butler, and all of Wexler's footage was reshot except that technically demanding Union Square sequence, the film's most memorable [1][2]. With Coppola busy on The Godfather Part II, editor Walter Murch shaped the film, and Murch later described the opening: a God's-eye view of \"the soft, billowy sounds of the city at lunchtime,\" suddenly cut by digital racket as you realise you are hearing through a hidden recorder [2]. Released in 1974, it turned a sunny civic square into the setting for an American nightmare about being watched.",
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Writer-director"
+      },
+      {
+        "name": "Gene Hackman",
+        "role": "Actor (Harry Caul)"
+      },
+      {
+        "name": "Walter Murch",
+        "role": "Editor and sound designer"
+      },
+      {
+        "name": "Haskell Wexler",
+        "role": "Original cinematographer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Conversation (1974): History",
+        "publisher": "AFI Catalog of Feature Films",
+        "year": null,
+        "url": "https://catalog.afi.com/Catalog/moviedetails/53857",
+        "supports": "Script dates, Union Square location, American Zoetrope, Wexler replaced by Butler, Murch's role"
+      },
+      {
+        "title": "The Conversation: Francis Ford Coppola's Paranoia-Ridden Tale of Surveillance, Guilt and Isolation",
+        "publisher": "Cinephilia & Beyond",
+        "year": 2019,
+        "url": "https://cinephiliabeyond.org/the-conversation/",
+        "supports": "Plot in Union Square, Wexler footage reshot except opening sequence, Murch quote"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-sfmoma-botta-opens",
+    "title": "A Striped Cathedral for Modern Art",
+    "theme": "architecture-landmarks",
+    "year": 1995,
+    "place": {
+      "label": "SFMOMA, 151 Third Street",
+      "lat": 37.78592,
+      "lon": -122.40075,
+      "precision": "building"
+    },
+    "hook": "The museum that gave Jackson Pollock his first show spent 60 years in rented upstairs rooms. In 1995 it got a bold brick home on old skid row.",
+    "story": "The San Francisco Museum of Modern Art gave Jackson Pollock and Arshile Gorky their first shows in the 1940s, yet for some 60 years it rented cramped rooms upstairs in the War Memorial Veterans Building at Civic Center, where most of the collection had to come down whenever a temporary exhibition went up [2]. Director Jack Lane hired Swiss architect Mario Botta in 1988, along with a Third Street site opposite Yerba Buena Gardens, in a former skid row the city had marked for change, to be the cultural linchpin of the new district [2]. \"We told Mario we wanted a building with some significant exterior character,\" Lane recalled [1]. It opened in January 1995: 225,000 square feet, costing $60 million or $62 million depending on the account, and Botta's first building in the United States [1][2]. A massive stepped brick facade, banded with black and white granite, is crowned by a striped cylindrical skylight tower; inside, visitors cross a steel bridge high under the skylight [1]. Critics were split. The Los Angeles Times loved galleries that \"make the art look great and the viewer feel great,\" but accused the lobby of \"bamboozling visitors with an extravaganza of glitz\" [1]. The New York Times found it distinctive and sober, though not quite the world-class landmark it was ballyhooed as [2].",
+    "people": [
+      {
+        "name": "Mario Botta",
+        "role": "Architect"
+      },
+      {
+        "name": "John R. (Jack) Lane",
+        "role": "Museum director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's MOMA Moment: Mario Botta designed an interior that is sublime",
+        "publisher": "Los Angeles Times (Pilar Viladas)",
+        "year": 1995,
+        "url": "https://www.latimes.com/archives/la-xpm-1995-01-15-ca-20282-story.html",
+        "supports": "$60M, 225,000 sq ft, Botta's first U.S. building, facade and tower, bridge, Lane quote, critique quotes"
+      },
+      {
+        "title": "Critic's Notebook: In San Francisco, a New Home for Art",
+        "publisher": "New York Times (Michael Kimmelman)",
+        "year": 1995,
+        "url": "https://web.archive.org/web/2016/https://www.nytimes.com/1995/01/24/arts/critic-s-notebook-in-san-francisco-a-new-home-for-art.html",
+        "supports": "Pollock and Gorky shows, 60 years in Veterans Building, $62M, Botta picked 1988, skid row site, linchpin, assessment"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-ferry-plaza-farmers-market",
+    "title": "A Farmers Market Grows Where the Freeway Fell",
+    "theme": "communities",
+    "year": 1993,
+    "yearEnd": 2003,
+    "place": {
+      "label": "Ferry Building and Ferry Plaza",
+      "lat": 37.7956,
+      "lon": -122.3934,
+      "precision": "building"
+    },
+    "hook": "Three years after an earthquake wrecked the waterfront freeway, 10,000 people turned up to buy peaches in its shadow, and 2,122 signed a petition demanding more.",
+    "story": "When the 1989 Loma Prieta earthquake buckled the double-decker freeway that had cut the city off from its waterfront and the Ferry Building, a group of restaurateurs, farmers, planners, architects and advocates saw a chance to bring a public market back to the bay [1]. On Sunday, September 12, 1992, their San Francisco Public Market Collaborative staged a one-time harvest market across from the Ferry Building: more than 50 farmers and food producers, about 15 of the city's best-known restaurants cooking street food, more than 10,000 visitors and $75,000 in sales. Some 2,122 people signed a petition demanding a permanent market [1]. On May 22, 1993, a weekly Saturday market opened in front of the Ferry Building with more than 50 farmers and 10 food vendors, and it went year-round that fall [1]. In 1994 Sibella Kraus founded CUESA, a nonprofit that would later run the market. The Collaborative pitched the long-neglected Ferry Building as the market's permanent home, and when the renovated Ferry Building Marketplace opened on March 15, 2003, several businesses that had started as market stalls moved into permanent shops. An estimated 30,000 people came when the Saturday market returned to the plaza that April [1][2].",
+    "people": [
+      {
+        "name": "Sibella Kraus",
+        "role": "Founder of CUESA"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of Foodwise (formerly CUESA)",
+        "publisher": "Foodwise",
+        "year": null,
+        "url": "https://foodwise.org/about/history",
+        "supports": "1992 harvest market figures and petition, 1993 Saturday market, CUESA 1994, 1996 proposal, 2003 Marketplace opening and return"
+      },
+      {
+        "title": "15 seconds that transformed S.F.: Remembering the Loma Prieta earthquake",
+        "publisher": "San Francisco Chronicle (John King)",
+        "year": 2004,
+        "url": "http://www.sfgate.com/bayarea/place/article/15-SECONDS-THAT-CHANGED-SAN-FRANCISCO-The-3302464.php",
+        "supports": "Freeway removal reopening the waterfront and Ferry Building after Loma Prieta"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "financial-district-south-beach-bay-lights",
+    "title": "Twenty-Five Thousand Lights on the Bay Bridge",
+    "theme": "arts-counterculture",
+    "year": 2013,
+    "yearEnd": 2026,
+    "place": {
+      "label": "Rincon Park and the Embarcadero beneath the Bay Bridge's western span",
+      "lat": 37.7885,
+      "lon": -122.389,
+      "precision": "area"
+    },
+    "hook": "A publicist wanted the Bay Bridge out of the Golden Gate's shadow. A Burning Man artist gave it 25,000 LEDs and called it a digital campfire.",
+    "story": "On March 5, 2013, 25,000 white LEDs flickered to life along 1.8 miles of the vertical cables on the Bay Bridge's western span, rising 500 feet above the water just off the Embarcadero [1]. The Bay Lights, by New York artist Leo Villareal, was the brainchild of Ben Davis, founder of the nonprofit Illuminate [1]. The $8 million privately funded piece glittered in abstract patterns for about seven hours a night, invisible to drivers on the bridge; Mayor Ed Lee predicted 50 million people would eventually see it [2]. It was meant to last two years, and in 2015 it went dark. Villareal, a Burning Man veteran used to seeing art consumed by fire, was at peace with that. But so many people begged for its return that Illuminate raised $4 million to reinstall a sturdier set of lights, relit on January 30, 2016 [1][3]. \"It's a digital campfire that brings everyone together,\" Villareal said [3]. Wind, fog, salt air, lightning and constant vibration took their toll, and in early 2023 Davis said the LEDs were failing faster than they could be repaired [4]. They went dark that March, and returned in March 2026 [1].",
+    "people": [
+      {
+        "name": "Leo Villareal",
+        "role": "Artist"
+      },
+      {
+        "name": "Ben Davis",
+        "role": "Founder, Illuminate"
+      },
+      {
+        "name": "Ed Lee",
+        "role": "Mayor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Bay Lights",
+        "publisher": "Illuminate",
+        "year": null,
+        "url": "https://illuminate.org/projects/the-bay-lights/",
+        "supports": "Debut March 5, 2013; 25,000 LEDs, 1.8 miles, 500 ft; Davis; 2016 return; active to March 2023 and from March 2026"
+      },
+      {
+        "title": "'The Bay Lights' Officially Unveiled On Bay Bridge",
+        "publisher": "CBS San Francisco",
+        "year": 2013,
+        "url": "http://sanfrancisco.cbslocal.com/2013/03/06/the-bay-lights-officially-unveiled-on-bay-bridge/",
+        "supports": "$8M private funding, not visible to drivers, seven hours nightly, Ed Lee's 50 million estimate"
+      },
+      {
+        "title": "The Bay Bridge Lights Return for an Unlimited Engagement",
+        "publisher": "KQED (Cy Musiker)",
+        "year": 2016,
+        "url": "http://ww2.kqed.org/arts/2016/01/29/the-bay-bridge-lights-return-for-an-unlimited-engagement/",
+        "supports": "Burning Man veteran, public demand, $4M raised, 'digital campfire' quote"
+      },
+      {
+        "title": "Millionaires sought to fund San Francisco Bay Bridge lights",
+        "publisher": "Los Angeles Times",
+        "year": 2023,
+        "url": "https://www.latimes.com/california/story/2023-01-10/millionaires-sought-to-fund-san-francisco-bay-bridge-lights",
+        "supports": "Environmental wear and LEDs failing faster than repairs in 2023"
+      }
+    ],
+    "photo": null
+  }
+]

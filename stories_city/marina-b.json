@@ -1,0 +1,655 @@
+[
+ {
+  "id": "marina-gateway-to-the-pacific",
+  "title": "Two-Thirds of an Army Sailed From Here",
+  "theme": "war-military",
+  "year": 1941,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Fort Mason piers (San Francisco Port of Embarkation)",
+   "lat": 37.8068,
+   "lon": -122.4318,
+   "precision": "area"
+  },
+  "hook": "For many soldiers of the Pacific war, these three piers were the last American ground they stood on, and the first they touched coming home.",
+  "story": "Lower Fort Mason's three wharves and Mission Revival warehouses were built from 1912 as an Army supply port, with a rail tunnel under the hill feeding tracks right onto the piers [1]. After Pearl Harbor they became the nerve centre of the San Francisco Port of Embarkation. The first convoy sent to rebuild Hawaii's military bases sailed from here [2]. Over 45 months of war, 1,647,174 passengers and 23,589,472 measured tons of cargo moved through the port into the Pacific. That was two-thirds of all troops sent to the Pacific and more than half of all Army cargo shipped from West Coast ports. The busiest month was August 1945, when 93,986 people sailed [1]. (Fort Mason Center's own history gives a bigger figure, 2.5 million soldiers [2]; the NPS numbers above come from Army records.) Liberty ships lined the piers, packed for the voyage out, and the same ships brought soldiers home [3]. The piers stayed busy through the Korean War, until embarkation moved to Oakland in 1962 [3]. One serviceman remembered steaming in through the fog in 1956 as a band on the pier played 'California, Here I Come!': 'There was not a dry eye on board' [1].",
+  "people": [
+   {
+    "name": "Maj. Gen. Frederick Gilbreath",
+    "role": "wartime commander of the San Francisco Port of Embarkation"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The San Francisco Port of Embarkation",
+    "publisher": "National Park Service, Golden Gate National Recreation Area",
+    "year": 2021,
+    "url": "https://www.nps.gov/goga/learn/historyculture/port-of-embarkation.htm",
+    "supports": "1912 buildings, rail tunnel, wartime passenger and tonnage figures, two-thirds share, August 1945 peak, 1956 serviceman's quote"
+   },
+   {
+    "title": "History",
+    "publisher": "Fort Mason Center for Arts & Culture",
+    "year": null,
+    "url": "https://fortmason.org/about/history/",
+    "supports": "First post-Pearl Harbor supply convoy to Hawaii; the conflicting 2.5 million soldiers figure"
+   },
+   {
+    "title": "Historic California Posts: Fort Mason",
+    "publisher": "California State Military Museum (militarymuseum.org)",
+    "year": null,
+    "url": "http://www.militarymuseum.org/FtMason.html",
+    "supports": "Liberty ships at the piers, Korean War troopships, embarkation moved to Oakland in 1962, Gilbreath's command"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "marina-reagan-desk-job",
+  "title": "Lieutenant Reagan's Desk at Fort Mason",
+  "theme": "war-military",
+  "year": 1942,
+  "place": {
+   "label": "Building 201, upper Fort Mason",
+   "lat": 37.8053,
+   "lon": -122.4278,
+   "precision": "block"
+  },
+  "hook": "The future president's war took him no farther than a San Francisco office. Decades later, his memory of it grew a lot more dramatic.",
+  "story": "When the Army called Ronald Reagan to active duty in April 1942, Warner Bros. had already won him deferments so he could finish Kings Row. He reported for duty with severe near-sightedness [3]. His first posting was here at Fort Mason, headquarters of the San Francisco Port of Embarkation, as a liaison officer [3]. The state military museum notes that a young lieutenant named Ronald Reagan served under the port commander, Maj. Gen. Frederick Gilbreath [2]. FoundSF places him in Building 201, tracking down shipments that had gone astray [1]. The job did not last. The liaison post let him transfer to the Army Air Forces, and he spent the rest of the war in Culver City working on training and morale films [3]. He left the Army as a captain in December 1945 without ever going overseas [1][3]. That is why a story he told later caused such a stir. As FoundSF recounts, citing Salon, in 1983 President Reagan told Israeli prime minister Yitzhak Shamir that his Army film unit had filmed the Nazi camps as they were liberated. In fact he had spent the whole war in the United States [1]. Building 201 now houses the national park's headquarters.",
+  "people": [
+   {
+    "name": "Ronald Reagan",
+    "role": "Army second lieutenant, later U.S. president"
+   },
+   {
+    "name": "Frederick Gilbreath",
+    "role": "commanding general, SF Port of Embarkation"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Fort Mason: Where Ronald Reagan Hallucinated During WW II",
+    "publisher": "FoundSF (after Dr. Weirde; quoting Salon, 2010)",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=Fort_Mason:_Where_Ronald_Reagan_Hallucinated_During_WW_II",
+    "supports": "Building 201, job tracing stray shipments, 1983 Shamir claim, never left the U.S."
+   },
+   {
+    "title": "Historic California Posts: Fort Mason",
+    "publisher": "California State Military Museum (militarymuseum.org)",
+    "year": null,
+    "url": "http://www.militarymuseum.org/FtMason.html",
+    "supports": "Young Lt. Ronald Reagan served in Gen. Gilbreath's Port of Embarkation command"
+   },
+   {
+    "title": "Ronald Reagan (military service section), a pointer to cited biographies",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+    "supports": "April 1942 call-up, Kings Row deferments, near-sightedness, Fort Mason liaison officer, transfer to AAF in Culver City, discharge as captain Dec 1945"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-lombard-motel-row",
+  "title": "Motel Row on the Road to the Bridge",
+  "theme": "labor-industry",
+  "year": 1939,
+  "place": {
+   "label": "Marina Motel, 2576 Lombard Street",
+   "lat": 37.79917,
+   "lon": -122.44389,
+   "precision": "building"
+  },
+  "hook": "Why does a stretch of a San Francisco street look like a 1940s highway town? Blame the Golden Gate Bridge, and one retired man's hunch.",
+  "story": "Before the Golden Gate Bridge, Lombard Street through the Marina was a quiet two-lane road [1]. Once the bridge was planned as the longest suspension span in the world, Lombard became its main approach, and after the bridge opened in 1937 drivers poured through [1][2]. One man saw what was coming. Heidi Detjen says her grandfather, the son of a Gold Rush miner, came out of retirement after visiting a motor court. In 1939 he opened the Marina Motel at Lombard and Broderick, the first motor lodge on the street [1]. Motor lodges let guests park right outside their own door, which suited a country that had fallen for the car [1]. The city then widened Lombard to six lanes. To do it, buildings on the south side of the street were torn down, leaving empty lots, and that's when all these other motels appeared, Detjen says [1]. In the early days, she recalls, drivers came off the bridge and went from motel to motel looking for the best rate. The strip of roadside motels is still there today [1][2]. So is the Marina Motel, now run by the third generation of the same family, with the fourth getting involved [1].",
+  "people": [
+   {
+    "name": "Heidi Detjen",
+    "role": "third-generation owner of the Marina Motel"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Why Are There So Many Motels on San Francisco's Lombard Street?",
+    "publisher": "KQED Bay Curious (Christopher Beale, Gabriela Glueck)",
+    "year": 2025,
+    "url": "https://www.kqed.org/news/12058829/why-are-there-so-many-motels-on-san-franciscos-lombard-street",
+    "supports": "Two-lane Lombard, bridge approach, 1939 Marina Motel as first motor lodge, founder's background, widening to six lanes, south-side demolitions, family ownership"
+   },
+   {
+    "title": "Marina District, San Francisco (History section), a pointer",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Marina_District,_San_Francisco",
+    "supports": "Lombard widened after the bridge was completed and developed into a strip of roadside motels"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-six-gallery-howl",
+  "title": "The Night 'Howl' Was First Heard",
+  "theme": "arts-counterculture",
+  "year": 1955,
+  "place": {
+   "label": "Former Six Gallery, 3119 Fillmore Street",
+   "lat": 37.79824,
+   "lon": -122.43602,
+   "precision": "building"
+  },
+  "hook": "In a small gallery on Fillmore near Union, a young poet opened with 'I saw the best minds of my generation' and left the stage in tears.",
+  "story": "On October 7, 1955, Allen Ginsberg was living on Milvia Street in Berkeley, with Jack Kerouac as his houseguest. The two took a bus into the city and got a ride from Lawrence Ferlinghetti, in his Aston Martin, to the Six Gallery at 3119 Fillmore [1]. The gallery doubled as a performance space. Kenneth Rexroth was host, and the reading began around 8 p.m. with Philip Lamantia, then Philip Whalen and Michael McClure [1]. After a short break Ginsberg started a poem he had finished only days before: 'I saw the best minds of my generation destroyed by madness' [1][2]. Kerouac sat at the side of the low stage with a jug of wine and shouted 'Go!' at the end of lines. The crowd, under a hundred people by the Chronicle's count, joined in and burst into applause at the end. Ginsberg left the stage in tears, and Gary Snyder had the bad luck to follow him [1]. Ferlinghetti's City Lights published 'Howl' in 1956. It survived an obscenity trial in 1957 and sold nearly a million copies [1]. In 2005 the city laid a bronze plaque outside the old gallery, then a furniture store [2].",
+  "people": [
+   {
+    "name": "Allen Ginsberg",
+    "role": "poet"
+   },
+   {
+    "name": "Jack Kerouac",
+    "role": "novelist and cheerleader"
+   },
+   {
+    "name": "Kenneth Rexroth",
+    "role": "host"
+   },
+   {
+    "name": "Lawrence Ferlinghetti",
+    "role": "publisher, City Lights"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A 'Howl' That Still Echoes / Ginsberg poem recalled",
+    "publisher": "San Francisco Chronicle / SFGATE (Paul Iorio)",
+    "year": 2000,
+    "url": "https://www.sfgate.com/entertainment/article/a-howl-that-still-echoes-ginsberg-poem-2699554.php",
+    "supports": "Date, address, Milvia St, Aston Martin ride, running order, Kerouac's jug and 'Go!', audience size, tears, Snyder, publication, trial, sales"
+   },
+   {
+    "title": "Michela Alioto-Pier dedicates plaque commemorating HOWL 50th Anniversary",
+    "publisher": "Fog City Journal",
+    "year": 2005,
+    "url": "http://www.fogcityjournal.com/news_in_brief/howl_plaque_051007.shtml",
+    "supports": "Six Gallery at Union and Fillmore, poem completed days before, 2005 bronze plaque at 3115-3117 Fillmore outside a furniture store"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-octagon-time-capsule",
+  "title": "The Tin Box in the Octagon's Wall",
+  "theme": "architecture-landmarks",
+  "year": 1953,
+  "place": {
+   "label": "McElroy Octagon House, 2645 Gough Street",
+   "lat": 37.7978,
+   "lon": -122.42743,
+   "precision": "building"
+  },
+  "hook": "Nobody knew who built Cow Hollow's eight-sided house until an electrician, wiring it for the first time, drilled into a wall and hit a box.",
+  "story": "By the early 1950s the octagonal house on Gough Street was a puzzle. PG&E owned it and had bought the lot for a possible substation, but it had never been wired for electricity [1]. Three Riley sisters rented it for $35 a month until 1951, living like recluses by flickering gaslight. Neighbours said a ghost climbed the central stair every November 24, screamed, and fell [1]. Nobody knew who had built it. In 1952 the Colonial Dames of America stepped in and PG&E sold them the house for $1 [1]. The next year an electrician, finally bringing in power, drilled into an upstairs wall and hit a tin box [1]. Inside was a letter from William McElroy dated July 1861, about three dozen newspaper clippings mostly on the outbreak of the Civil War, and a tintype of William, Harriet and their daughter Emma. McElroy had written with pride about San Francisco's boom: 'Look which ever way you will, and you observe happiness prosperity and wealth' [1]. Built in 1861 in the octagon fad started by phrenologist Orson Fowler, the house is now San Francisco Landmark No. 17 [2].",
+  "people": [
+   {
+    "name": "William C. McElroy",
+    "role": "builder, author of the 1861 letter"
+   },
+   {
+    "name": "Harriet McElroy",
+    "role": "bought the lot in 1859"
+   },
+   {
+    "name": "National Society of the Colonial Dames of America in California",
+    "role": "saved and restored the house"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The tin box that solved the mystery of San Francisco's Octagon House",
+    "publisher": "SFGATE (Katie Dowd)",
+    "year": 2020,
+    "url": "https://www.sfgate.com/sfhistory/article/san-francisco-octagon-house-ghost-history-tour-15089765.php",
+    "supports": "PG&E ownership, no electricity, Riley sisters, ghost legend, $1 sale to the Dames, electrician's discovery, letter, clippings, tintype, quote"
+   },
+   {
+    "title": "San Francisco Landmark #17: McElroy Octagon House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2010,
+    "url": "https://www.noehill.com/sf/landmarks/sf017.asp",
+    "supports": "Built 1861 by William McElroy, Fowler's octagon book, Landmark #17"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-rebuilding-the-palace",
+  "title": "Fifty Men Lift a Dome Form",
+  "theme": "architecture-landmarks",
+  "year": 1964,
+  "yearEnd": 1967,
+  "place": {
+   "label": "Palace of Fine Arts rotunda",
+   "lat": 37.8028,
+   "lon": -122.4483,
+   "precision": "building"
+  },
+  "hook": "The beloved 1915 'ruin' was falling down for real. So San Francisco knocked it flat and built it again in concrete, sometimes by sheer muscle.",
+  "story": "Bernard Maybeck's Palace of Fine Arts was meant to last one season. It was a wood frame covered in 'staff', a mix of plaster and burlap-like fibre [2]. In the decades after the 1915 fair it held eighteen lighted tennis courts (1934 to 1942), wartime trucks and jeeps, phone books and even a temporary fire headquarters. By the 1950s the fake ruin was a real one [2]. In 1964 it was demolished, with only the steel of the exhibit hall left standing, and rebuilt in poured-in-place concrete. A plate in the rotunda credits B.F. Modglin of MacDonald & Kahn for the work of 1964 to 1967 [2]. Construction worker Eric Johnson remembered the day his crew had to move a huge dome form that weighed many tons. No forklift could carry it safely, so fifty men in dusty white overalls lifted it by hand while their foreman, Howard, called out orders [1]. Johnson said getting it moving was like 'shoving an elephant into her stall'. For a moment they felt 'like being gods, or dreamers in unison', until the form swung wide at a doorway and nearly crushed them [1]. The steel dome was up by December 1966 [1].",
+  "people": [
+   {
+    "name": "Eric Johnson",
+    "role": "construction worker and memoirist"
+   },
+   {
+    "name": "B.F. Modglin",
+    "role": "MacDonald & Kahn manager for the rebuild"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Rebuilding the Palace of Fine Arts 1966",
+    "publisher": "FoundSF (Eric Johnson)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Rebuilding_the_Palace_of_Fine_Arts_1966",
+    "supports": "First-hand account of carrying the form, foreman Howard, quotes, dome mounted by December 1966"
+   },
+   {
+    "title": "Palace of Fine Arts, a pointer",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Palace_of_Fine_Arts",
+    "supports": "Staff construction, tennis courts 1934-42, wartime and postwar uses, 1964 demolition, concrete rebuild, Modglin plate 1964-67"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "marina-exploratorium-opens",
+  "title": "A Blacklisted Physicist's Museum of Curiosity",
+  "theme": "modern-city",
+  "year": 1969,
+  "place": {
+   "label": "Former Exploratorium, Palace of Fine Arts exhibit hall, 3601 Lyon Street",
+   "lat": 37.80391,
+   "lon": -122.44876,
+   "precision": "building"
+  },
+  "hook": "Frank Oppenheimer helped build the atomic bomb, lost his career to McCarthyism, raised cattle, then filled an empty exhibition hall with things you were told to touch.",
+  "story": "Frank Oppenheimer had worked with his brother J. Robert on the Manhattan Project. After a brief youthful embrace of communism he was blacklisted from research and teaching in the McCarthy era, and ended up a cattle rancher in small-town Colorado [1]. He drifted back into teaching at a local high school. There he swapped the textbook for hands-on tools and materials, which became his trademark [1]. A National Science Foundation grant let him build about a hundred experiment models, and a 1965 Guggenheim tour of European science museums sharpened the idea [2]. In 1969, aged 57, he took over the 'cavernous, and very empty' exhibit hall behind the Palace of Fine Arts [1]. The Exploratorium opened in August 1969 [2]. Oppenheimer put the exhibit workshop in full view, believing visitors should know 'the way a shop smells when you burn the wood in a saw' [2]. He worked alongside the artists and builders who made the exhibits, and ran the museum until just before his death in 1985 [1]. The Exploratorium stayed in the Marina for more than four decades, then moved to Pier 15 on the Embarcadero in April 2013 [1][2].",
+  "people": [
+   {
+    "name": "Frank Oppenheimer",
+    "role": "physicist and founding director"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History",
+    "publisher": "Exploratorium",
+    "year": null,
+    "url": "https://www.exploratorium.edu/about/history",
+    "supports": "Oppenheimer biography, blacklisting, ranching, teaching, age 57, empty Palace, director until 1985, move to Pier 15 in 2013"
+   },
+   {
+    "title": "Exploratorium, a pointer",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Exploratorium",
+    "supports": "NSF grant and about 100 models, 1965 Guggenheim, August 1969 opening, visible workshop quote, April 2013 move"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-ford-carter-debate",
+  "title": "'No Soviet Domination,' Said the President",
+  "theme": "modern-city",
+  "year": 1976,
+  "place": {
+   "label": "Palace of Fine Arts Theatre",
+   "lat": 37.8034,
+   "lon": -122.4488,
+   "precision": "building"
+  },
+  "hook": "In a Marina theatre in 1976, Gerald Ford made one of the most famous slips in the history of presidential debates, and then repeated it.",
+  "story": "The second Ford–Carter debate, on October 6, 1976, was held before an audience in the Palace of Fine Arts Theatre [1][2]. The theatre had opened in the rebuilt exhibit hall only six years earlier [3]. Moderator Pauline Frederick of NPR noted that San Francisco had seen the signing of the United Nations Charter 31 years before, which made it a fitting place for a debate on foreign policy. She told viewers an estimated 100 million Americans were watching [1]. (Later estimates put the audience at about 64 million [2].) Asked about the Helsinki accords, President Ford declared: 'There is no Soviet domination of Eastern Europe and there never will be under a Ford administration' [1]. Max Frankel of the New York Times, one of the panel of questioners, gave him a chance to take it back. Ford instead said he did not believe the Yugoslavians, Romanians or Poles considered themselves dominated by the Soviet Union [1]. Jimmy Carter answered with a chuckle and invited Ford to convince Polish-, Czech- and Hungarian-Americans that their homelands did not live behind the Iron Curtain [1]. The line became the debate's most infamous moment [2].",
+  "people": [
+   {
+    "name": "Gerald Ford",
+    "role": "President, Republican nominee"
+   },
+   {
+    "name": "Jimmy Carter",
+    "role": "Democratic nominee"
+   },
+   {
+    "name": "Pauline Frederick",
+    "role": "moderator, NPR"
+   },
+   {
+    "name": "Max Frankel",
+    "role": "New York Times questioner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "October 6, 1976 Debate Transcript",
+    "publisher": "Commission on Presidential Debates",
+    "year": 1976,
+    "url": "https://www.debates.org/voter-education/debate-transcripts/october-6-1976-debate-transcript/",
+    "supports": "Venue, moderator and panel, UN Charter remark, 100 million estimate, Ford's statement and follow-up, Carter's reply"
+   },
+   {
+    "title": "1976 United States presidential debates, a pointer",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/1976_United_States_presidential_debates",
+    "supports": "Date and venue, 63.9 million viewers estimate, gaffe's notoriety"
+   },
+   {
+    "title": "Palace of Fine Arts, a pointer",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Palace_of_Fine_Arts",
+    "supports": "966-seat theatre opened 1970"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-fort-mason-saved",
+  "title": "The Army Base That Became a Commons",
+  "theme": "parks-nature",
+  "year": 1972,
+  "yearEnd": 1977,
+  "place": {
+   "label": "Great Meadow, Fort Mason (Phillip Burton statue)",
+   "lat": 37.8058,
+   "lon": -122.4296,
+   "precision": "area"
+  },
+  "hook": "When the Army moved out, developers drew up plans for Fort Mason's bluffs and piers. Instead the whole place became a park, with gardens, theatres and a meadow.",
+  "story": "In 1962 the Army moved its embarkation work to Oakland and declared lower Fort Mason surplus. The post was formally closed in 1966, and in 1968 the piers were handed to the Maritime Administration as a storage yard [1]. A SPUR newsletter of June 1970 showed a development proposed for the site [2]. Then, Fort Mason Center says, the 1969 Indian occupation of Alcatraz turned public attention to the Bay's empty federal lands [2]. In 1972 Congressman Phillip Burton fought off rival development plans and passed HR 9498, creating the 78,000-acre Golden Gate National Recreation Area, Fort Mason included. President Nixon signed it [1][2]. The Park Service could not run the old warehouses itself, so it looked for a partner that would be a 'pioneer in the imaginative use of urban national parklands'. A new Fort Mason Foundation spent months repairing the run-down buildings and opened the campus to the public on January 1, 1977 [2]. Neighbours had been growing vegetables at the Fort Mason Community Garden since 1976 [3]. Today a statue of Burton, 'legislative architect' of the recreation area, stands in the Great Meadow on land that might have been built over [3].",
+  "people": [
+   {
+    "name": "Phillip Burton",
+    "role": "congressman who wrote the GGNRA bill"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic California Posts: Fort Mason",
+    "publisher": "California State Military Museum (militarymuseum.org)",
+    "year": null,
+    "url": "http://www.militarymuseum.org/FtMason.html",
+    "supports": "1962 surplus declaration, 1966 inactivation, 1968 transfer to Maritime Administration, 1972 GGNRA Act signed by Nixon"
+   },
+   {
+    "title": "History",
+    "publisher": "Fort Mason Center for Arts & Culture",
+    "year": null,
+    "url": "https://fortmason.org/about/history/",
+    "supports": "SPUR 1970 development proposal, Alcatraz occupation, Burton and HR 9498, 78,000 acres, NPS partner quote, Fort Mason Foundation, Jan 1, 1977 opening"
+   },
+   {
+    "title": "Fort Mason (photo essay) and Fort Mason: Where Ronald Reagan Hallucinated",
+    "publisher": "FoundSF (Chris Carlsson)",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Fort_Mason",
+    "supports": "Burton statue in the Great Meadow; community garden open since 1976 (caption on the linked Fort Mason pages)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "marina-buried-child",
+  "title": "A Pulitzer Written for a Warehouse Stage",
+  "theme": "arts-counterculture",
+  "year": 1978,
+  "place": {
+   "label": "Magic Theatre, Building D, Fort Mason Center",
+   "lat": 37.8055,
+   "lon": -122.4328,
+   "precision": "building"
+  },
+  "hook": "Sam Shepard's darkest family play, Buried Child, had its world premiere in an old Army warehouse on the Marina waterfront, and went on to win the Pulitzer.",
+  "story": "The Magic Theatre began in 1967, started by a group of Berkeley graduate students led by John Lion who had not planned to found a theatre [1]. It took its name from the magic theatre in Hermann Hesse's Steppenwolf [3]. In 1976 Lion heard about plans to turn a historic military base into an arts centre and moved the company across the bay, making it one of Fort Mason's first nonprofit residents [1][3]. It is still there, on the third floor of Building D, a Mission Revival warehouse built for the Army [1]. Sam Shepard had become playwright in residence in 1975 [3]. In 1978 the Magic staged the premiere of his Buried Child, a bleak comedy about a ruined Illinois farm family keeping a terrible secret. It won the 1979 Pulitzer Prize for Drama, and Fort Mason Center counts more than 400 productions worldwide since [2]. More Shepard premieres followed here, including True West in 1980 and Fool for Love in 1983 [3]. The company also became a home for Beat poet Michael McClure, whose play The Beard had been raided by police [1].",
+  "people": [
+   {
+    "name": "Sam Shepard",
+    "role": "playwright in residence"
+   },
+   {
+    "name": "John Lion",
+    "role": "founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "About",
+    "publisher": "Magic Theatre",
+    "year": null,
+    "url": "https://magictheatre.org/about/",
+    "supports": "1967 founding by Berkeley graduate students and John Lion, among first Fort Mason residents, Building D 3rd floor, Shepard and McClure, The Beard raid"
+   },
+   {
+    "title": "History",
+    "publisher": "Fort Mason Center for Arts & Culture",
+    "year": null,
+    "url": "https://fortmason.org/about/history/",
+    "supports": "Buried Child debut 1978, 1979 Pulitzer, 400+ productions"
+   },
+   {
+    "title": "Magic Theatre, a pointer",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Magic_Theatre",
+    "supports": "Steppenwolf name, 1976 move, Shepard residency from 1975, True West 1980, Fool for Love 1983"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-greens-zen-kitchen",
+  "title": "Zen Students Taught America to Eat Vegetables",
+  "theme": "communities",
+  "year": 1979,
+  "place": {
+   "label": "Greens Restaurant, Building A, Fort Mason Center",
+   "lat": 37.8064,
+   "lon": -122.4312,
+   "precision": "building"
+  },
+  "hook": "A candle has burned on a spice-shelf altar in this waterfront kitchen since opening day in 1979, when Zen Center students set out to change vegetarian cooking.",
+  "story": "Greens opened on the bay at Fort Mason in 1979 as part of the San Francisco Zen Center, inspired by the food at Tassajara Zen Mountain Center. It was meant as a place where Buddhist practice and daily life could meet [1]. For years the only employees were Zen students. They meditated and got their day's work assignments at a small altar to Chenrezig, the Buddha of compassion, on a kitchen spice shelf. It has stayed lit since opening day [1]. Founding chef Deborah Madison had spent eighteen years as a Zen student. She set out to make sure no diner would miss meat, and put then-unfamiliar vegetables such as fingerling potatoes, golden beets and arugula on the menu [1]. Much of the produce came from Green Gulch Farm, a working Zen farm founded in 1972 [1]. Annie Somerville arrived in 1981, became executive chef three years later and was an early champion of farm-to-table cooking [1]. Zen Center carpenters built the dining room from twelve kinds of wood using Japanese joinery, without nails [1]. Fort Mason Center quotes the New York Times: Greens 'established vegetarian food as a cuisine in America' [2].",
+  "people": [
+   {
+    "name": "Deborah Madison",
+    "role": "founding chef"
+   },
+   {
+    "name": "Annie Somerville",
+    "role": "executive chef"
+   },
+   {
+    "name": "San Francisco Zen Center",
+    "role": "founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Our History",
+    "publisher": "Greens Restaurant",
+    "year": null,
+    "url": "https://www.greensrestaurant.com/about",
+    "supports": "1979 opening by Zen Center, Tassajara, Zen student staff, altar to Chenrezig, Madison, vegetables, Green Gulch, Somerville, joinery"
+   },
+   {
+    "title": "History",
+    "publisher": "Fort Mason Center for Arts & Culture",
+    "year": null,
+    "url": "https://fortmason.org/about/history/",
+    "supports": "1979 opening on campus and New York Times quote"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-wave-organ",
+  "title": "An Organ Played by the Tides",
+  "theme": "arts-counterculture",
+  "year": 1986,
+  "place": {
+   "label": "Wave Organ, tip of the Marina jetty",
+   "lat": 37.80848,
+   "lon": -122.43973,
+   "precision": "building"
+  },
+  "hook": "At the end of a breakwater built from a demolished cemetery's headstones, 25 pipes let you put your ear to San Francisco Bay.",
+  "story": "The idea came from sound artist Bill Fontana's recordings of noises coming out of a vent pipe on a floating concrete dock in Sydney, Australia [1]. Peter Richards, a senior artist at the Exploratorium, won a National Endowment for the Arts planning grant in 1980 to study the effect. A rough prototype on this jetty, shown at the New Music '81 festival, won enough support for a permanent piece [1]. Exploratorium founder Frank Oppenheimer began raising money and chasing permits, but construction started in September 1985, seven months after his death [1]. Working with sculptor and stonemason George Gonzalez, Richards finished the Wave Organ in May 1986. It was dedicated to Oppenheimer that June [1]. The jetty itself was built from a demolished cemetery, and its carved granite and marble now form terraces and benches [1][2]. Twenty-five pipes of PVC and concrete reach down to different heights so they catch the rising and falling tide. Waves slap the pipe ends and push water in and out, and the sound is faint [1][2]. As FoundSF puts it, it was 'built not for the eye, but for the ear' [2].",
+  "people": [
+   {
+    "name": "Peter Richards",
+    "role": "artist"
+   },
+   {
+    "name": "George Gonzalez",
+    "role": "sculptor and stonemason"
+   },
+   {
+    "name": "Frank Oppenheimer",
+    "role": "fundraiser, dedicatee"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Wave Organ",
+    "publisher": "Exploratorium",
+    "year": null,
+    "url": "https://www.exploratorium.edu/visit/wave-organ",
+    "supports": "Fontana inspiration, 1980 NEA grant, New Music '81 prototype, Oppenheimer fundraising, Sept 1985 start, May 1986 completion, June dedication, cemetery stone, 25 pipes"
+   },
+   {
+    "title": "The Tide's Weird Music",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Tide%27s_Weird_Music",
+    "supports": "Cemetery granite and marble, pipes and how sound is made, 'built not for the eye, but for the ear'"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-beach-divisadero-rescue",
+  "title": "\"I Just Couldn't Leave\"",
+  "theme": "modern-city",
+  "year": 1989,
+  "place": {
+   "label": "Beach and Divisadero Streets (3701 Divisadero)",
+   "lat": 37.80384,
+   "lon": -122.44395,
+   "precision": "building"
+  },
+  "hook": "As fire spread through a collapsed Marina apartment house after the 1989 quake, one firefighter refused to leave the trapped woman he had found.",
+  "story": "At 5:04 p.m. on October 17, 1989, the Loma Prieta earthquake turned the Marina's fill to liquid. Two four-storey apartment buildings on opposite corners, 3701 Divisadero and 2090 Beach, collapsed and pitched over Beach Street [1]. Neighbours were first on the scene and heard voices calling for help. Captain Robert Jabs of Truck 16 went into 3701 Divisadero with firefighters and volunteers. Thomas Bailon and John Reed cut through a floor and found a man and a woman trapped below [1]. Then a strong aftershock hit, there was an explosion, and fire rolled through the wreck. The man crawled out and Jabs helped carry him across a sagging roof. Heat and smoke drove the crews back before they could reach the woman [1]. The fire's heat set 2090 Beach alight too [1]. Inside it, firefighter Jerry Shannon found another trapped woman who begged him not to go. He stayed and comforted her while others passed tools in, and colleagues hosed down the fires around them to keep him cool [2]. 'After I saw her, I just couldn't leave,' he said. After hours of work between aftershocks, he freed her [2]. Sixty Marina buildings were later destroyed [3].",
+  "people": [
+   {
+    "name": "Capt. Robert C. Jabs",
+    "role": "Truck 16"
+   },
+   {
+    "name": "Jerry Shannon",
+    "role": "firefighter"
+   },
+   {
+    "name": "Thomas Bailon and John Reed",
+    "role": "firefighters"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Fire Department: Marina District Operations (Loma Prieta report)",
+    "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+    "year": 1989,
+    "url": "http://www.sfmuseum.org/quake/ops3.html",
+    "supports": "Collapsed buildings at 3701 Divisadero and 2090 Beach, citizen volunteers, Jabs, Bailon and Reed, aftershock, explosion, rescue of the man, fire spreading to 2090 Beach"
+   },
+   {
+    "title": "Marina District Operations, continued",
+    "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+    "year": 1989,
+    "url": "http://www.sfmuseum.org/quake/ops4.html",
+    "supports": "Shannon staying with the trapped woman, quote, crews cooling him, freed after several hours"
+   },
+   {
+    "title": "San Francisco Earthquake History 1915-1989",
+    "publisher": "Museum of the City of San Francisco",
+    "year": null,
+    "url": "http://sfmuseum.org/alm/quakes3.html",
+    "supports": "60 Marina buildings destroyed, Marina built on lagoon fill"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "marina-fireboat-phoenix",
+  "title": "The Fireboat That Came In at Low Tide",
+  "theme": "modern-city",
+  "year": 1989,
+  "place": {
+   "label": "Marina Yacht Harbor, foot of Divisadero Street",
+   "lat": 37.8063,
+   "lon": -122.4425,
+   "precision": "area"
+  },
+  "hook": "With the Marina's hydrants dry and a fire moving block to block, the city's only fireboat had to squeeze into a harbour almost too shallow to float it.",
+  "story": "The night of the 1989 earthquake, the Marina's hydrants failed. Breaks in the high-pressure system south of Market had drained its supply, and at low tide engines could not draw water straight from the bay [1]. At 6:16 p.m. Battalion Chief Shannon called in the fireboat Phoenix from Pier 22½ [2]. Its pilot was Arvid Havneras. He was born in Norway, had handled Army tugboats and worked tugs on the Mekong River during the Vietnam War, and had joined the Fire Department in 1984 [3]. At 6:49 p.m. commanders radioed that the tide was so low the boat might not have enough water to berth in the yacht harbour [2]. Havneras brought the 89-foot boat in right beside a luxury yacht. 'He did a beautiful job of coming in there where no boat its size had ever been before,' an engineer recalled [3]. By 7 p.m. it was in place [2]. Firefighters and volunteers dragged hose from the boat to Beach and Divisadero, where seven buildings were burning [2]. The Phoenix pumped all night [3]. Former mayor Dianne Feinstein wrote that it 'unquestionably saved the Marina from a greater catastrophe' [3].",
+  "people": [
+   {
+    "name": "Arvid Havneras",
+    "role": "fireboat pilot"
+   },
+   {
+    "name": "Dianne Feinstein",
+    "role": "former mayor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Marina District Operations, continued",
+    "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+    "year": 1989,
+    "url": "http://www.sfmuseum.org/quake/ops4.html",
+    "supports": "Dry hydrants, AWSS breaks, 6:16 p.m. call for Phoenix from Pier 22 1/2"
+   },
+   {
+    "title": "Marina District Operations, continued (2)",
+    "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+    "year": 1989,
+    "url": "http://www.sfmuseum.org/quake/ops5.html",
+    "supports": "Failed drafting at low tide, 6:49 p.m. berthing difficulty, Marina Yacht Harbor at foot of Divisadero, 7 p.m. in position, seven buildings burning, hose lines"
+   },
+   {
+    "title": "Arvid Havneras, fireboat skipper, '89 quake hero",
+    "publisher": "San Francisco Chronicle / SFGATE (Carl Nolte)",
+    "year": 2006,
+    "url": "https://www.sfgate.com/bayarea/article/Arvid-Havneras-fireboat-skipper-89-quake-hero-2482127.php",
+    "supports": "Havneras biography, docking beside yacht, engineer's quote, pumping all night, Feinstein quote"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ }
+]

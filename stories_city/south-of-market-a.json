@@ -1,0 +1,518 @@
+[
+  {
+    "id": "south-of-market-behr-arctic-bog",
+    "title": "An Arctic bog where Seventh Street runs",
+    "theme": "parks-nature",
+    "year": 1850,
+    "yearEnd": 1860,
+    "place": {
+      "label": "Seventh Street between Folsom and Harrison (site of Behr's lone madrone)",
+      "lat": 37.77596,
+      "lon": -122.40705,
+      "precision": "street"
+    },
+    "hook": "Before the grid, a German doctor botanized a hidden bog near Mission Street that he called an \"Arctic oasis\", home to a plant later lost from the region.",
+    "story": "Hans Hermann Behr, a Berlin-trained doctor and naturalist, reached San Francisco by September 1850 and stayed for the rest of his life [2]. In 1896 he published \"Botanical Reminiscences\", a record of the South of Market landscape he had walked in the 1850s [1][2]. He described sand ridges covered in shrubs, and between them swamp, bog and salt flat, crossed by winding tidal creeks [1]. A deep, boggy branch crossed the line of Mission Street. An arm of this swamp, \"inaccessible, even to cows\", ran along Howard Street as far as Fifth, where it ended in a thicket of wax myrtle, ceanothus and ferns [1]. At the center of the bog, water trickled beneath a carpet of the floating fern Azolla, among sedges, bog orchids and buckbean. Behr called it \"a kind of Arctic oasis amidst a vegetation of California type\" [1]. It was the only local home of a marsh sandwort, Arenaria palustris, which he listed as extinct. He also remembered a single straggling madrone on a ridge where Seventh Street now runs between Harrison and Folsom [1].",
+    "people": [
+      {
+        "name": "Hans Hermann Behr",
+        "role": "physician, botanist and entomologist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Botanical Reminiscences of South of Market, 1896",
+        "publisher": "FoundSF (text of H. H. Behr's essay)",
+        "year": 1896,
+        "url": "https://www.foundsf.org/index.php?title=Botanical_Reminiscences_of_South_of_Market,_1896",
+        "supports": "Bog, Azolla carpet, 'Arctic oasis', Arenaria palustris, swamp along Howard to Fifth, madrone on Seventh between Harrison and Folsom"
+      },
+      {
+        "title": "Hans Hermann Behr",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hans_Hermann_Behr",
+        "supports": "Behr's training, arrival in San Francisco by September 1850, 1891 and 1896 Botanical Reminiscences essays"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-plank-road-bottomless-swamp",
+    "title": "The pile that sank out of sight",
+    "theme": "gold-rush-victorian",
+    "year": 1851,
+    "place": {
+      "label": "Mission Street at Seventh Street, where the Mission Plank Road crossed the swamp",
+      "lat": 37.779735,
+      "lon": -122.410062,
+      "precision": "street"
+    },
+    "hook": "Builders of the toll road to Mission Dolores drove a 40-foot pile into the swamp at Seventh Street. With one blow of the hammer it disappeared.",
+    "story": "Today's Mission Street began as the Mission Plank Road, a toll road of wooden planks that opened in 1851 and ran three and a quarter miles from the town to Mission Dolores [1]. The obvious route would have followed Market Street, but an 80-foot sand hill stood in the way between Second and Third streets [1]. The worst trouble came where the road crossed the line of Seventh Street. The historian John S. Hittell, writing in 1878, said the contractor planned a bridge on pilings. The first pile, forty feet long, \"at the first blow of the pile driver sank out of sight.\" A second pile driven on top of it disappeared too, and there was no firm bottom within eighty feet [1]. So the builders laid cribs of logs on the peat instead. The bridge shook whenever heavy teams crossed and slowly sank until its middle was about five feet below the original level [1]. The road cost $96,000 [1]. Hittell thought these \"swamps\" were partly underground lakes 40 to 80 feet deep under a crust of peat. The botanist Hans Behr also remembered a deep, boggy branch crossing Mission Street [2].",
+    "people": [
+      {
+        "name": "John S. Hittell",
+        "role": "historian who recorded the story in 1878"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mission Plank Road",
+        "publisher": "FoundSF (quoting J. S. Hittell, 1878, via Nancy Olmsted's Vanished Waters)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Plank_Road",
+        "supports": "1851 toll road, length, sand hill on Market, sinking piles at Seventh Street, log cribs, sinking bridge, $96,000 cost, subterranean lakes"
+      },
+      {
+        "title": "Botanical Reminiscences of South of Market, 1896",
+        "publisher": "FoundSF (H. H. Behr)",
+        "year": 1896,
+        "url": "https://www.foundsf.org/index.php?title=Botanical_Reminiscences_of_South_of_Market,_1896",
+        "supports": "Deep boggy branch crossing Mission Street"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "south-of-market-russ-gardens-may-day",
+    "title": "May Day at Russ's Gardens",
+    "theme": "communities",
+    "year": 1853,
+    "place": {
+      "label": "Russ's Gardens site, Sixth and Folsom streets",
+      "lat": 37.778442,
+      "lon": -122.405086,
+      "precision": "block"
+    },
+    "hook": "In 1853 about 1,800 German San Franciscans marched out to a jeweler's garden in the dunes and \"leaped, balanced and twirled, danced, sang, drank, smoked\".",
+    "story": "Christian Russ made his money in jewelry and real estate during the Gold Rush. His family estate stood out beyond the city at what is now Sixth and Folsom streets (Sixth was then called Simmons Street) [1]. On May 1, 1853, Russ opened it to the whole German population of San Francisco [1]. The Annals of San Francisco described the Turner Gesang Verein, a gymnastic and singing society, marching out in loose brown linen suits \"with banners flying, and musical instruments sounding.\" About eighteen hundred people \"leaped, balanced and twirled, danced, sang, drank, smoked and made merry\" [2]. The Annals called the gardens one of the most popular resorts near the city, with an amphitheatre for public shows and a steady stream of carriages and riders [2]. Russ went on to invite the French for Bastille Day, the Irish for St. Patrick's Day and the Yankees for the Fourth of July. For a small fee the gardens were open to all [1]. That was generous in a city whose annalists complained in 1854 that it had no public park at all [1].",
+    "people": [
+      {
+        "name": "Christian Russ",
+        "role": "jeweler, landowner and garden proprietor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Early Development Around Mission Bay, 1850-1857",
+        "publisher": "FoundSF (from Nancy Olmsted, Vanished Waters, Mission Creek Conservancy)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Early_Development_Around_Mission_Bay,_1850-1857",
+        "supports": "Location at Simmons (Sixth) and Folsom, Christian Russ's background, May 1, 1853, later national celebrations, open to all"
+      },
+      {
+        "title": "Russ's Garden",
+        "publisher": "FoundSF (excerpt from The Annals of San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Russ%27s_Garden",
+        "supports": "Turner Gesang Verein, brown linen costumes, 1,800 participants, quoted description, amphitheatre"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "south-of-market-butchers-reserve",
+    "title": "Warm blood, ten cents a cup",
+    "theme": "labor-industry",
+    "year": 1853,
+    "yearEnd": 1870,
+    "place": {
+      "label": "Butchers' Reserve, Brannan Street near Ninth, on old Mission Creek",
+      "lat": 37.77007,
+      "lon": -122.40762,
+      "precision": "area"
+    },
+    "hook": "Slaughterhouses on Brannan Street dumped their waste through trap doors for the tide to carry off. Local boys sold the blood to hospital patients.",
+    "story": "In 1853 a group of factory owners asked the Board of Aldermen for an industrial zone \"so remote from the inhabited part of the city\" that nobody could call it a nuisance [1]. They were slaughterhouse operators, and they wanted land near Ninth and Brannan streets, on the banks of Mission Creek. The city agreed, and the area became the \"Butchers' Reserve\" [1]. They picked the spot for the tide, which came in from Mission Bay twice a day and washed away the offal they swept through trap doors in the floor [1]. Years later the South of Market Boys, an old-timers' club, remembered supplying patients at the French hospital with \"healthy, warm animal blood, at 10 cents a cup, from the slaughterhouses on Mission Creek\" [1]. The butchers stayed on Brannan between Sixth and Ninth streets until the city pushed them south to Islais Creek. Nancy Olmsted's history of Mission Bay dates that move to an 1870 ordinance [1]. Other accounts date it to an 1868 ban on slaughtering in the city, which created the Butchertown district in today's Bayview [2].",
+    "people": [
+      {
+        "name": "South of Market Boys",
+        "role": "old-timers' association whose memories were recorded"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Early Development Around Mission Bay, 1850-1857",
+        "publisher": "FoundSF (from Nancy Olmsted, Vanished Waters)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Early_Development_Around_Mission_Bay,_1850-1857",
+        "supports": "1853 request, Butchers' Reserve near Ninth and Brannan, tidal flushing, blood at 10 cents a cup, Brannan between Sixth and Ninth, 1870 move"
+      },
+      {
+        "title": "Bayview–Hunters Point, San Francisco",
+        "publisher": "Wikipedia (citing SFGATE, 2022)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Bayview%E2%80%93Hunters_Point,_San_Francisco",
+        "supports": "1868 ordinance banning slaughter in the city and founding of Butchertown"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-st-ignatius-sand-dunes",
+    "title": "A Jesuit school in shifting sand",
+    "theme": "communities",
+    "year": 1855,
+    "place": {
+      "label": "Market Street between Fourth and Fifth (site of the first St. Ignatius church and college)",
+      "lat": 37.78395,
+      "lon": -122.40716,
+      "precision": "block"
+    },
+    "hook": "The archbishop pointed at an empty patch of dunes on the map. The Jesuits built there anyway, and their one-room school became USF and St. Ignatius Prep.",
+    "story": "In spring 1855 the Jesuit Anthony Maraschi asked Bishop Joseph Alemany where in San Francisco he should build. By one account Alemany pointed his pen at a spot on the map. By another he swept his hand toward the empty land and said \"any place over there!\" [1]. Market Street then stopped at Third. Beyond it lay dunes, and Maraschi's lot sat in a hollow between two sand hills called St. Ann's Valley. Each time he visited, it looked different [1]. He bought Lot 127, on Market between Fourth and Fifth, from Thomas O. Larkin. Paul Totah's history gives the price as both $11,000 and $11,500. It was paid with a French loan at 1.5 percent a month, which pushed the Jesuits' debt to $26,000 [1]. Maraschi is reported to have said, \"Here, in time, will be the heart of a great city\" [1]. The plain $4,000 church opened on July 15, 1855, and the school on October 15 [1][2]. In 1880 the college moved to Hayes Street and Van Ness Avenue. It became the University of San Francisco and St. Ignatius College Preparatory [2][3].",
+    "people": [
+      {
+        "name": "Anthony Maraschi, S.J.",
+        "role": "founder of St. Ignatius church and college"
+      },
+      {
+        "name": "Joseph Alemany",
+        "role": "Catholic bishop, later archbishop, of San Francisco"
+      },
+      {
+        "name": "Thomas O. Larkin",
+        "role": "seller of the lot"
+      }
+    ],
+    "sources": [
+      {
+        "title": "St. Ignatius College 1850s",
+        "publisher": "FoundSF (Paul Totah, from Spiritus Magis)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=St._Ignatius_College_1850s",
+        "supports": "Alemany pointing, St. Ann's Valley dunes, Lot 127 between Fourth and Fifth, Larkin sale, price, loan and debt, Maraschi quote, $4,000 church, July 15, 1855 dedication"
+      },
+      {
+        "title": "St. Ignatius College Preparatory",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/St._Ignatius_College_Preparatory",
+        "supports": "Church opened July 15 and school October 15, 1855; move to Van Ness in 1880"
+      },
+      {
+        "title": "University of San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/University_of_San_Francisco",
+        "supports": "One-room schoolhouse on Market Street; 1880 move to Hayes and Van Ness"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "south-of-market-spreckels-sugar-refinery",
+    "title": "The Sugar King's first cubes",
+    "theme": "labor-industry",
+    "year": 1867,
+    "place": {
+      "label": "California Sugar Refinery site, Eighth and Brannan streets",
+      "lat": 37.771868,
+      "lon": -122.405658,
+      "precision": "block"
+    },
+    "hook": "A German grocer who learned sugar-making on a New York night shift opened a refinery at Eighth and Brannan and sold Californians their first sugar cubes.",
+    "story": "Claus Spreckels left Hanover in 1848 with one thaler in his pocket [1]. He ran a grocery and then a brewery in San Francisco, and then turned to sugar. To learn the trade he worked a night shift in a New York refinery, and later spent months as a workman in a beet-sugar plant in Magdeburg [1][2]. In April 1867 he opened the California Sugar Refinery at Eighth and Brannan streets, this time keeping full control of the company [1]. The plant started at about 9,000 tons a year. Spreckels sped it up with machines patented in his own name and enlarged the buildings four times [2]. He also brought granulated and cube sugar, already known in Europe, to American shoppers. Until then grocers mostly sold hard sugarloaves that had to be broken up with special tools [1][2]. By 1869 overwork had given him a breakdown, and he spent 18 months recovering in Europe [1]. By 1880 he had a near-monopoly on sugar in California. In 1881 he moved production to a huge new refinery at Potrero Point [1][2].",
+    "people": [
+      {
+        "name": "Claus Spreckels",
+        "role": "refiner, the 'Sugar King' of California"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Claus Spreckels",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Claus_Spreckels",
+        "supports": "Emigration with one thaler, New York night shift, April 1867 opening at Eighth and Brannan, full control, sugarloaves vs granulated and cubes, 1869 breakdown, 1881 Potrero refinery"
+      },
+      {
+        "title": "Claus Spreckels",
+        "publisher": "Immigrant Entrepreneurship (German Historical Institute)",
+        "year": null,
+        "url": "https://www.immigrantentrepreneurship.org/entries/claus-spreckels/",
+        "supports": "Magdeburg factory work, 1867 refinery, 9,000-ton capacity, own patents, four enlargements, granulated and cube sugar, 1881 refinery"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "south-of-market-old-mint-granite-lady",
+    "title": "The fortress that held gold",
+    "theme": "architecture-landmarks",
+    "year": 1874,
+    "place": {
+      "label": "Old United States Mint, 88 Fifth Street at Mission",
+      "lat": 37.78274,
+      "lon": -122.4072,
+      "precision": "building"
+    },
+    "hook": "The 'Granite Lady' at Fifth and Mission is mostly sandstone, and its foundations were designed to stop robbers tunnelling into the vaults.",
+    "story": "The first San Francisco mint, which opened on Commercial Street in 1854, was soon outgrown [1]. By 1869 the Treasury had bought a new site at Fifth and Mission. Its architect, Alfred B. Mullett, designed a sober Greek Revival building with a pedimented portico, set around an enclosed central courtyard [1][2]. Three schooners carried sandstone from Newcastle Island in British Columbia for the upper walls and the six great portico columns. Rocklin granite was used for the basement [1]. The cornerstone was laid on May 26, 1870, and the building was finished in 1874 at a cost of about $2 million [1][2]. Its concrete and granite foundation was designed to stop anyone tunnelling into the vaults [2]. The nickname \"Granite Lady\" is a misnomer, since most of the building is sandstone, and the name only caught on as a marketing term in the 1970s [2]. FoundSF records that Ambrose Bierce, back from England in 1875 and unable to live on freelance writing, took a job at the Mint [3]. The building made coins here until 1937 [1].",
+    "people": [
+      {
+        "name": "Alfred B. Mullett",
+        "role": "Supervising Architect of the Treasury"
+      },
+      {
+        "name": "Ambrose Bierce",
+        "role": "writer, Mint employee"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #236: Old United States Mint",
+        "publisher": "NoeHill (quoting SF Planning Commission Resolution 16512, 2003)",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf236.asp",
+        "supports": "Commercial St mint outgrown, 1869 site, Newcastle Island sandstone by three schooners, Rocklin granite, May 26, 1870 cornerstone, ~$2 million, 1874 to 1937"
+      },
+      {
+        "title": "Old San Francisco Mint",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Old_San_Francisco_Mint",
+        "supports": "Mullett, Greek Revival, courtyard, anti-tunnelling foundation, 'Granite Lady' as 1970s marketing term"
+      },
+      {
+        "title": "The Old U.S. Mint at 5th and Mission",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Old_U.S._Mint_at_5th_and_Mission",
+        "supports": "Ambrose Bierce working at the Mint after 1875"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "south-of-market-jack-london-birthplace",
+    "title": "Jack London is born near Third and Brannan",
+    "theme": "arts-counterculture",
+    "year": 1876,
+    "place": {
+      "label": "Jack London birthplace plaque, 601 Third Street at Brannan",
+      "lat": 37.78008,
+      "lon": -122.39377,
+      "precision": "block"
+    },
+    "hook": "The author of The Call of the Wild was born South of Market to a spiritualist music teacher. A plaque on a bank now marks the spot.",
+    "story": "John Griffith Chaney, later Jack London, was born near Third and Brannan streets on January 12, 1876 [1]. His mother, Flora Wellman, worked in San Francisco as a music teacher and spiritualist. Biographers believe his father was the astrologer William Chaney. According to Flora's account in the Chronicle of June 4, 1875, Chaney demanded that she have an abortion. When she refused he disowned the child, and she shot herself but survived [1]. After the birth she sent the baby to be nursed by a neighbor, Virginia \"Jennie\" Prentiss, who had been born into slavery. London later called her his main source of love as a child [1]. Late in 1876 Flora married John London, a partly disabled Civil War veteran [1]. The family kept moving in search of cheaper rent. They lived in Bernal Heights, then in a two-story house at 920 Natoma Street, then in a flat on Folsom Street, before crossing the bay to Oakland [2]. The birthplace house burned in 1906, and the California Historical Society placed a plaque at the site in 1953 [1]. It reads: \"To mark the birthplace of the noted author, Jack London, January 12, 1876\" [2].",
+    "people": [
+      {
+        "name": "Jack London",
+        "role": "author"
+      },
+      {
+        "name": "Flora Wellman",
+        "role": "his mother, music teacher and spiritualist"
+      },
+      {
+        "name": "Virginia (Jennie) Prentiss",
+        "role": "wet nurse and lifelong maternal figure"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jack London",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Jack_London",
+        "supports": "Birth date and place near Third and Brannan, Flora Wellman, William Chaney, 1875 Chronicle report, Jennie Prentiss, John London, 1906 fire, 1953 plaque"
+      },
+      {
+        "title": "Jack London",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=JACK_LONDON",
+        "supports": "Plaque text on the Wells Fargo building at Third and Brannan; moves to Bernal Heights, 920 Natoma Street and Folsom Street"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "south-of-market-lick-baths",
+    "title": "A miser's gift: free hot baths",
+    "theme": "gold-rush-victorian",
+    "year": 1890,
+    "place": {
+      "label": "James Lick Baths, 165 Tenth Street",
+      "lat": 37.774575,
+      "lon": -122.414814,
+      "precision": "building"
+    },
+    "hook": "James Lick once begged bones from butchers. His fortune paid for a bathhouse where working people could soak in a hot tub for free.",
+    "story": "James Lick was famous for being a miser. In 1847, FoundSF recounts, he was the town's lowest bum, begging bones from butchers, while the sand lots he had bought were about to make him rich [1]. Before his death in 1876 he gave nearly all his money away: to the observatory on Mount Hamilton, to the California Academy of Sciences, and to free public baths for the poor. \"Tell them to wash and be clean,\" he is remembered as saying [1]. In 1890 the Lick estate opened the baths at 165 Tenth Street. At the time many working-class San Franciscans had no indoor plumbing [2][3]. The men's wing had forty bathtubs in private changing rooms and the women's wing had twenty. The baths pumped water from their own wells, heated it in boilers and stored it in 10,000-gallon tanks in the tower, so each bather could mix hot and cold at the tap [2]. The building was damaged in 1906, repaired, and used as a bathhouse until 1919. For decades after that it was the People's Laundry [2][3]. It became a San Francisco landmark in 2004 [2].",
+    "people": [
+      {
+        "name": "James Lick",
+        "role": "piano maker, land speculator and philanthropist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "James Lick: Filthy Bum Turns Filthy Rich",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=James_Lick:_Filthy_Bum_Turns_Filthy_Rich",
+        "supports": "Lick's miserly habits, bequests, free baths, 'Tell them to wash and be clean'"
+      },
+      {
+        "title": "James Lick Baths",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/James_Lick_Baths",
+        "supports": "1890 construction by the Lick estate, tub counts, wells, boilers and tower tanks, bath until 1919, People's Laundry, 2004 landmark"
+      },
+      {
+        "title": "San Francisco Landmark #246: James Lick Baths",
+        "publisher": "NoeHill (quoting DPR survey)",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf246.asp",
+        "supports": "Built 1890 at 165 10th Street for the working-class South of Market, rebuilt 1906, closed 1919"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "south-of-market-emporium-opens",
+    "title": "The Emporium lights up Market Street",
+    "theme": "labor-industry",
+    "year": 1896,
+    "place": {
+      "label": "The Emporium, 835 Market Street",
+      "lat": 37.7841,
+      "lon": -122.40614,
+      "precision": "building"
+    },
+    "hook": "San Francisco's great department store started as a co-op of small shops in a widow's building, and its young electrician put up the city's first moving electric sign.",
+    "story": "The Emporium was founded in 1896 by Adolph Feist as a co-operative of individually owned shops. It was housed in the leased Parrott Building, owned by Abby Parrott, the wealthy widow of a Gold Rush banker [1]. The store at 835 Market Street, between Fourth and Fifth, was designed by Albert Pissis, one of the first Americans trained at the École des Beaux-Arts in Paris [1]. In 1897 the Golden Rule Bazaar, founded on Kearny Street in 1871, merged into the new Emporium Company run by the German-born merchant Frederick W. Dohrmann [1]. John James Marshall, a young Liverpool-born electrician, worked at the Emporium for three years around the turn of the century. His daughter recalled that he designed what was described as the first moving electric sign in the city, over the store entrance [2]. He later passed a three-day civil service exam to become electrician of the Mint around the corner and switch it from steam to electricity [2]. The Emporium survived the 1906 earthquake but burned in the fire that followed. It was rebuilt in 1908 [1].",
+    "people": [
+      {
+        "name": "Adolph Feist",
+        "role": "founder"
+      },
+      {
+        "name": "Frederick W. Dohrmann",
+        "role": "merchant who ran the Emporium Company"
+      },
+      {
+        "name": "Albert Pissis",
+        "role": "architect"
+      },
+      {
+        "name": "John James Marshall",
+        "role": "Emporium electrician"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Emporium Capwell",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Emporium_Capwell",
+        "supports": "1896 founding by Feist in Parrott Building, Abby Parrott, Pissis, Golden Rule Bazaar merger and Dohrmann, 1906 fire, 1908 rebuild"
+      },
+      {
+        "title": "The Old U.S. Mint at 5th and Mission",
+        "publisher": "FoundSF (memoir by John James Marshall's daughter)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Old_U.S._Mint_at_5th_and_Mission",
+        "supports": "Marshall's three years at the Emporium, first moving electric sign, civil-service exam and Mint electrification"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "south-of-market-recreation-park-roof-collapse",
+    "title": "Big Game, falling roof",
+    "theme": "gold-rush-victorian",
+    "year": 1897,
+    "place": {
+      "label": "Recreation Park site, Eighth, Harrison, Gordon and Ringold streets",
+      "lat": 37.77375,
+      "lon": -122.40935,
+      "precision": "block"
+    },
+    "hook": "Fifteen thousand fans crammed into a new ballpark on Eighth Street for Stanford versus Cal. In the final seconds, the roof full of freeloading boys gave way.",
+    "story": "Recreation Park opened in September 1897 on the block bounded by Eighth, Harrison, Gordon and Ringold streets. It hosted baseball and football [1]. One of its first big events was that November's Stanford–California game, held on Thanksgiving Day [1][2]. Contractor J. C. Weir had built the stands and was alarmed by what he saw. About 15,000 fans were packed into space he thought was fit for 10,000. Crowds of freeloaders, mostly boys, had climbed the outside fence onto roofs meant only to keep off the rain. Weir later said nobody listened to his warnings [2]. With seconds left in a Stanford rout, a section of roofing over the grandstand collapsed. Spectators pulled jagged beams off trapped fans, but only one victim was hospitalized, a 10-year-old boy thrown from the roof [2][3]. \"That many people were not killed or maimed for life is simply miraculous,\" one witness told the Examiner [2]. The same mix of overflowing crowds and unsupervised boys caused a deadly factory-roof collapse at the 1900 game [2][3]. From 1903 the park was the first home of the San Francisco Seals, until the 1906 fire [1].",
+    "people": [
+      {
+        "name": "J. C. Weir",
+        "role": "contractor who built the stands"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Recreation Park (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Recreation_Park_(San_Francisco)",
+        "supports": "Opened September 1897 at Eighth/Harrison/Gordon/Ringold, 1897 Big Game and partial collapse, Seals from 1903 until 1906"
+      },
+      {
+        "title": "The Big Game Disaster of 1900",
+        "publisher": "Stanford Magazine (Sam Scott)",
+        "year": 2015,
+        "url": "https://stanfordmag.org/contents/the-big-game-disaster-of-1900",
+        "supports": "Thanksgiving 1897 game, J. C. Weir, 15,000 fans in space for 10,000, boys on roofs, collapse, 10-year-old boy, Examiner quote, link to 1900 disaster"
+      },
+      {
+        "title": "Thanksgiving Day Disaster",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Thanksgiving_Day_Disaster",
+        "supports": "1897 grandstand collapse with no deaths and a 10-year-old hospitalised; 1900 disaster"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "south-of-market-post-office-palace",
+    "title": "A post office that's a palace",
+    "theme": "architecture-landmarks",
+    "year": 1905,
+    "yearEnd": null,
+    "place": {
+      "label": "U.S. Courthouse and Post Office (James R. Browning Courthouse), Seventh and Mission streets",
+      "lat": 37.77951,
+      "lon": -122.41102,
+      "precision": "building"
+    },
+    "hook": "Washington built its most lavish West Coast building more than a mile from downtown, among Irish and German workers' flats, and brought in Italian artisans to finish it.",
+    "story": "By the 1870s San Francisco's federal courts and post office were squeezed into rented rooms around downtown [1]. In 1887 a site commission reported that the $350,000 Congress had set aside was not enough, and the budget went up to $1,250,000 [1]. The lot chosen was at Seventh and Mission, more than a mile from the business district, in a working-class neighborhood of Irish and German immigrants. Many people objected, but it was bought in 1891 [1][2]. Supervising Architect James Knox Taylor chose an Italian Renaissance palazzo design, and skilled artisans were brought from Italy to finish the interiors [1][2]. The walls were lined with Carrara and Yellow Siena marble from Italy and Red Numidian from North Africa, the vaulted ceilings with marble mosaics, and the rotundas topped with stained-glass domes. The bronze entry lanterns copy torch-holders made in 1489 for the Florentine banker Filippo Strozzi [1]. Work began in 1897. When the building opened in 1905 it was hailed as \"a post office that's a palace\" [1][2]. Within months it would face the 1906 earthquake and fire.",
+    "people": [
+      {
+        "name": "James Knox Taylor",
+        "role": "Supervising Architect of the Treasury"
+      }
+    ],
+    "sources": [
+      {
+        "title": "James R. Browning U.S. Court of Appeals Building, San Francisco, CA",
+        "publisher": "U.S. General Services Administration",
+        "year": null,
+        "url": "https://www.gsa.gov/real-estate/historic-preservation/explore-historic-buildings/find-a-building/all-historic-buildings/james-r-browning-us-court-of-appeals-building-san-francisco-ca",
+        "supports": "1870s need, 1887 commission and budget, Seventh and Mission site among Irish and German immigrants, 1891 purchase, Taylor, Italian artisans, marbles, Strozzi lanterns, 1897-1905, 'a post office that's a palace'"
+      },
+      {
+        "title": "James R. Browning United States Court of Appeals Building",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/James_R._Browning_United_States_Court_of_Appeals_Building",
+        "supports": "Site history, Taylor's design, groundbreaking 1897, opening 1905"
+      }
+    ],
+    "photo": null
+  }
+]

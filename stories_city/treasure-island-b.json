@@ -1,0 +1,747 @@
+[
+ {
+  "id": "treasure-island-clipper-cove-airport",
+  "title": "San Francisco's first international airport",
+  "theme": "labor-industry",
+  "year": 1939,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Hall of Transportation (Building 2), 300 California Ave",
+   "lat": 37.8188,
+   "lon": -122.36801,
+   "precision": "building"
+  },
+  "hook": "For a few short years, passengers walked out of a Treasure Island hangar, down to a floating dock, and flew off across the Pacific.",
+  "story": "Treasure Island was built to be an airport. With federal aid, three permanent buildings went up alongside the fair: an administration building meant to be the terminal and two steel-and-concrete hangars, each 335 feet long and 78 feet high, that spent 1939 full of borrowed art [1][2]. This one, now Building 2, housed the fair's Hall of Transportation [2].\n\nPan American Airways moved its Clipper flying boats here from Alameda in 1938, making Treasure Island San Francisco's first international airport, the only time the island served its planned purpose [3]. During the fair, passengers and crew walked from Building 2 to a floating dock and boarded aircraft that took off and landed on the water of Clipper Cove [3]. It was luxury travel: the trip to Manila took five days, hopping between islands with overnight hotel stops, and a one-way ticket cost about $2,000 in 1935 [3].\n\nWar ended the dream. The airport was never built [2]. By 1943, Pan Am-operated 'Coronado' transports were loading wartime cargo at the Clipper Cove dock, and by the war's end the flying boats were obsolete [3].",
+  "people": [
+   {
+    "name": "Pan American Airways",
+    "role": "Operator of the transpacific Clipper flying boats"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Treasure Island World's Fair - 1939 (from Almanac for Thirty-Niners, WPA Federal Writers' Project, 1938)",
+    "publisher": "Museum of the City of San Francisco",
+    "year": 1938,
+    "url": "http://www.sfmuseum.net/hist5/treasis.html",
+    "supports": "Hangars 335 ft long and 78 ft high; administration building and hangars built with federal aid to serve a future airport; hangars housed art exhibits"
+   },
+   {
+    "title": "Golden Gate International Exposition Hall of Transportation (National Register #08000082) and Administration Building (#08000081)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2012,
+    "url": "https://noehill.com/sf/landmarks/nat2008000082.asp",
+    "supports": "Building served as the Hall of Transportation and was built as a hangar for the planned airport; airport never built because of WWII"
+   },
+   {
+    "title": "You Are Here: Pan American Airlines 1939-1945",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/pan-american-airlines",
+    "supports": "Move from Alameda in 1938; first international airport; walk from Building 2 to floating dock; Clipper Cove landings 1938-c.1945; five days to Manila, about $2,000; 1943 Coronado cargo photo; flying boats obsolete by war's end"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-pacifica-goddess",
+  "title": "The goddess the Navy tore down",
+  "theme": "architecture-landmarks",
+  "year": 1939,
+  "yearEnd": 1942,
+  "place": {
+   "label": "Site of the Court of Pacifica (today's Mersea restaurant parking lot)",
+   "lat": 37.8245,
+   "lon": -122.3738,
+   "precision": "block"
+  },
+  "hook": "An 80-foot goddess of the Pacific once ruled this corner of the island. She did not survive the war; some of her stone companions did.",
+  "story": "The fair's theme, Pacific Unity, found its grandest expression in the Court of Pacifica, designed under Timothy Pflueger [1]. Presiding over it stood Ralph Stackpole's 80-foot 'Pacifica', the fair's goddess of the western ocean, conceived as a composite of peoples of the Pacific Rim [1][2]. At her feet the three-tiered Fountain of Western Waters was ringed by twenty oversized sculptures of Pacific peoples, dancing, making music, working and sleeping. Chronicle critic Alfred Frankenstein thought them the finest sculpture made for the fair [1].\n\nPacifica herself was demolished when the Navy took over the island for the war [2]. The fountain figures, cast in stone rather than the usual plaster, were built to last. Accounts of how many survive vary: the museum's sculpture exhibit says ten are in storage and four are lost, while six restored figures have stood flanking the doors of Building One [1][3]. The court itself lay where the Mersea restaurant's parking lot is now [3]. In 2013 an Oakland engineer, William Chamberlain, was raising money to build a new Pacifica, estimating the cost at up to $2 million [2].",
+  "people": [
+   {
+    "name": "Ralph Stackpole",
+    "role": "Sculptor of Pacifica"
+   },
+   {
+    "name": "Timothy Pflueger",
+    "role": "Design chief of the Court of Pacifica"
+   },
+   {
+    "name": "William Chamberlain",
+    "role": "Led 2013 campaign to recreate the statue"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Pacific Unity Sculptures",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/pacific-unity-sculptures",
+    "supports": "Pflueger design chief; Stackpole's 80-foot Pacifica; fountain and twenty sculptures; cast stone; Frankenstein's praise; ten in storage, four lost; six flanking Building One"
+   },
+   {
+    "title": "Pacifica's return? Quest to again raise statue on Treasure Island",
+    "publisher": "The Mercury News (Gary Peterson)",
+    "year": 2013,
+    "url": "https://www.mercurynews.com/2013/10/04/pacificas-return-quest-to-again-raise-statue-on-treasure-island/",
+    "supports": "Statue conceived as composite of Pacific Rim ethnicities; demolished by the Navy; Chamberlain's campaign and $2 million estimate"
+   },
+   {
+    "title": "You Are Here: Treasure Island Today",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/treasure-island-today",
+    "supports": "Court of Pacifica was at what is now Mersea Restaurant's parking lot; restoration of the statues"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-nude-ranch",
+  "title": "A quarter to peek at the Nude Ranch",
+  "theme": "arts-counterculture",
+  "year": 1939,
+  "yearEnd": null,
+  "place": {
+   "label": "The Gayway, north end of the fairgrounds",
+   "lat": 37.8275,
+   "lon": -122.3722,
+   "precision": "area"
+  },
+  "hook": "The fair borrowed Botticelli's Venus from Italy. For six months, a sideshow of cowgirls in G-strings outsold it.",
+  "story": "At the north end of the island, beside a 12,000-car parking lot, lay the Gayway, a 40-acre fun zone of thrill rides and shows [1]. Its sideshows included 82 little people in cowboy costumes and a racetrack where monkeys drove cars. The one everybody remembered was Sally Rand's Nude Ranch [2].\n\nFor a quarter, visitors could peek through glass panels at 20 'cowgirls' wearing only G-strings and boots as they tossed horseshoes, swung lariats and played badminton [2]. The museum's account adds pistol belts and donkeys [3]. About 65,000 people packed in during the first week. Meanwhile, most other Gayway shows lost money; about two-thirds of them went broke [2].\n\nThe fair also showed a celebrated collection of European masterpieces. When, after six months, the art exhibit finally took in more than the Nude Ranch, the exposition put out a press release about it [2].\n\nRand herself, the fan dancer who became famous at 1930s world's fairs, did not perform on the island. She owned the Music Box Theater on O'Farrell Street, which is still there today as the Great American Music Hall [4].",
+  "people": [
+   {
+    "name": "Sally Rand",
+    "role": "Burlesque star and fan dancer who ran the Nude Ranch"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Treasure Island World's Fair - 1939 (from Almanac for Thirty-Niners, WPA Federal Writers' Project, 1938)",
+    "publisher": "Museum of the City of San Francisco",
+    "year": 1938,
+    "url": "http://www.sfmuseum.net/hist5/treasis.html",
+    "supports": "Gayway: 40-acre fun zone at the north end next to the 12,000-car parking lot"
+   },
+   {
+    "title": "The '39 world's fair: an island of joyous excess",
+    "publisher": "SFGATE (Gary Kamiya)",
+    "year": 2013,
+    "url": "http://www.sfgate.com/bayarea/article/The-39-world-s-fair-an-island-of-joyous-excess-4739306.php",
+    "supports": "Little people, monkey racetrack; quarter admission, glass panels, 20 cowgirls, G-strings and boots; 65,000 in first week; two-thirds of Gayway shows went broke; art receipts press release"
+   },
+   {
+    "title": "You Are Here: The Golden Gate International Exposition",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/the-golden-gate-international-exposition",
+    "supports": "Women in pistol belts cavorting with donkeys and twirling lariats; Botticelli's Birth of Venus shown at the fair in 1939"
+   },
+   {
+    "title": "As Sounds Go By: Performing Arts at the GGIE",
+    "publisher": "Treasure Island Museum",
+    "year": 2021,
+    "url": "https://www.treasureislandmuseum.org/as-sounds-go-by",
+    "supports": "Rand did not perform at the GGIE; owned the Music Box Theater on O'Farrell, now the Great American Music Hall"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-chinese-village",
+  "title": "Chinatown builds China's pavilion",
+  "theme": "communities",
+  "year": 1939,
+  "yearEnd": 1940,
+  "place": {
+   "label": "Chinese Village, Golden Gate International Exposition (approximate site)",
+   "lat": 37.8262,
+   "lon": -122.3738,
+   "precision": "area"
+  },
+  "hook": "Invaded by Japan, China couldn't come to the fair. So San Francisco's Chinese community built its own village, complete with opera.",
+  "story": "The 1939 fair billed itself as a 'Pageant of the Pacific', but one great Pacific nation was missing. China, exhausted by the Japanese invasion, did not take part. Instead, Chinese residents of San Francisco built and ran a Chinese Village [1]. It was a pointed contrast. Japan had put up an expensive, elaborate pavilion, and historians later concluded its purpose was to project 'harmony' and deflect attention from Japan's atrocities in Asia [1].\n\nThe Chinese Village was designed by the landscape architect Mark Daniels, who had a long interest in Chinese garden design [2]. Performers from San Francisco's Chinatown staged classical Chinese opera there, and a photograph in the Bancroft Library shows the Village's opera troupe [3]. The Works Progress Administration's 1938 guide to the fair listed a 'Chinese City' among the showplaces planned for the Gayway fun zone [4].\n\nThe fair's gateway to China outlasted the peace. After Pearl Harbor, anti-Japanese feeling in the city ran so high that there was a serious proposal to turn Golden Gate Park's Japanese Tea Garden into a hamburger stand. Daniels wrote to the Examiner urging that it become a 'Chinese Tea Garden' instead [2].",
+  "people": [
+   {
+    "name": "Mark Daniels",
+    "role": "Landscape architect who designed the Chinese Village"
+   }
+  ],
+  "sources": [
+   {
+    "title": "You Are Here: The Golden Gate International Exposition",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/the-golden-gate-international-exposition",
+    "supports": "China did not participate; Chinese residents of SF built and operated a Chinese Village; Japan's pavilion motive (PBS History Detectives)"
+   },
+   {
+    "title": "Mark Daniels: Landscape Architect of Forest Hill, Sea Cliff and More",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "http://www.outsidelands.org/daniels.php",
+    "supports": "Daniels created the Chinese Village at the 1939-40 fair; Tea Garden hamburger-stand proposal and his letter"
+   },
+   {
+    "title": "As Sounds Go By: Performing Arts at the GGIE",
+    "publisher": "Treasure Island Museum",
+    "year": 2021,
+    "url": "https://www.treasureislandmuseum.org/as-sounds-go-by",
+    "supports": "Classical Chinese opera by Chinatown performers; Bancroft Library photo of the Chinese Village opera troupe"
+   },
+   {
+    "title": "Treasure Island World's Fair - 1939 (from Almanac for Thirty-Niners, WPA Federal Writers' Project, 1938)",
+    "publisher": "Museum of the City of San Francisco",
+    "year": 1938,
+    "url": "http://www.sfmuseum.net/hist5/treasis.html",
+    "supports": "'Chinese City' listed among Gayway showplaces"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-swing-mikado",
+  "title": "The Swing Mikado's two-week run",
+  "theme": "arts-counterculture",
+  "year": 1939,
+  "yearEnd": 1940,
+  "place": {
+   "label": "Golden Gate International Exposition fairgrounds (central Treasure Island)",
+   "lat": 37.8212,
+   "lon": -122.3712,
+   "precision": "area"
+  },
+  "hook": "An all-Black, swing-era Gilbert and Sullivan hit the island running. Two weeks later, politics shut it down.",
+  "story": "Among the fair's liveliest shows was The Swing Mikado, a production of the New Deal's Federal Theatre Project. It moved Gilbert and Sullivan's story from feudal Japan to a make-believe South Pacific island and set it to swing music with an all-Black cast [1][2]. It had played Chicago and New York before arriving on Treasure Island in 1939 [2].\n\nIt did not last. Political attacks on progressive New Deal programmes closed the show after only two weeks on the island [2]. It then did very well at the Geary Theater in San Francisco and toured the Western states. A few days after its sudden closure, Benny Goodman, 'the King of Swing', started a sold-out residency at the fair [2].\n\nBlack music kept a place on the island. A three-day 'Negro Music Festival' traced African American music from ancient Africa to swing [1]. When the fair closed in 1940, the ASCAP festival's afternoon concert included works by the Black composer William Grant Still. That evening W. C. Handy, 'the Father of the Blues', played 'St. Louis Blues'. Years later he remembered it as 'the greatest program of all-American music ever staged' [2].",
+  "people": [
+   {
+    "name": "W. C. Handy",
+    "role": "Composer and bandleader, performed at the 1940 ASCAP concert"
+   },
+   {
+    "name": "William Grant Still",
+    "role": "Composer whose work the SF Symphony played"
+   },
+   {
+    "name": "Benny Goodman",
+    "role": "Bandleader"
+   }
+  ],
+  "sources": [
+   {
+    "title": "You Are Here: The Golden Gate International Exposition",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/the-golden-gate-international-exposition",
+    "supports": "Swing Mikado by the Federal Theater Project with an all-Black cast; three-day Negro Music Festival"
+   },
+   {
+    "title": "As Sounds Go By: Performing Arts at the GGIE",
+    "publisher": "Treasure Island Museum",
+    "year": 2021,
+    "url": "https://www.treasureislandmuseum.org/as-sounds-go-by",
+    "supports": "South Pacific setting; Chicago and NYC runs; closed after two weeks by political criticism; Geary Theater and Western tour; Goodman residency; ASCAP concert with Still and Handy; Handy quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-rivera-art-in-action",
+  "title": "Diego Rivera paints in public",
+  "theme": "arts-counterculture",
+  "year": 1940,
+  "yearEnd": null,
+  "place": {
+   "label": "Palace of Fine and Decorative Arts (Building 3), 600 California Ave",
+   "lat": 37.81968,
+   "lon": -122.3662,
+   "precision": "building"
+  },
+  "hook": "In 1940, fairgoers could watch Diego Rivera paint Hitler, Frida Kahlo and a Detroit stamping press in wet plaster.",
+  "story": "In the fair's second season, organizers turned the Palace of Fine and Decorative Arts into a working studio called Art in Action. Sculptors, weavers, printmakers and potters worked while visitors watched [1]. At its centre was Diego Rivera [2]. The architect Timothy Pflueger, his friend and patron, had brought him back to San Francisco to paint a fresco in ten sections in front of the public. It was meant to go afterwards to a library Pflueger was designing for the new junior college [2][3].\n\nThe result is 22 feet high and 74 feet long [3]. Rivera called it The Marriage of the Artistic Expression of the North and of the South on this Continent; it is better known as Pan American Unity [3]. It includes Frida Kahlo, Charlie Chaplin and Paulette Goddard in The Great Dictator, and Hitler, Stalin and Mussolini in a war cloud. At its centre is a figure that merges an Aztec earth goddess with a Ford stamping press [2].\n\nThen war intervened, Pflueger died in 1946 and the library was never built. The crated panels waited until 1961, when they were installed in a City College theatre lobby [2][3].",
+  "people": [
+   {
+    "name": "Diego Rivera",
+    "role": "Muralist"
+   },
+   {
+    "name": "Timothy Pflueger",
+    "role": "Architect and Rivera's patron"
+   },
+   {
+    "name": "Frida Kahlo",
+    "role": "Artist, portrayed in the mural"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Treasure Island Fair: Golden Gate International Exposition (Gail Hynes Shea)",
+    "publisher": "FoundSF",
+    "year": 2009,
+    "url": "https://www.foundsf.org/index.php?title=Treasure_Island_Fair:_Golden_Gate_International_Exposition",
+    "supports": "Art in Action turned the Hall of Fine and Decorative Arts into a living art exhibit; list of media; Rivera's fresco"
+   },
+   {
+    "title": "Pan-American Unity (Masha Zakheim)",
+    "publisher": "FoundSF",
+    "year": 1998,
+    "url": "https://www.foundsf.org/index.php?title=Pan-American_Unity",
+    "supports": "Pflueger's invitation; ten sections painted in public; destined for college library; portraits and imagery; Pflueger's 1946 death; 1961 installation"
+   },
+   {
+    "title": "Pan American Unity Mural: Overview",
+    "publisher": "City College of San Francisco",
+    "year": 2016,
+    "url": "https://web.archive.org/web/20171201044256/http://www.ccsf.edu/en/about-city-college/diego-rivera-mural/overview.html",
+    "supports": "22 by 74 feet; original title; centerpiece of Art in Action; storage and 1961 move to theater lobby"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-navy-seizure",
+  "title": "'The island is ours, and that's final'",
+  "theme": "war-military",
+  "year": 1942,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Naval Station Treasure Island (former fairgrounds)",
+   "lat": 37.8238,
+   "lon": -122.3708,
+   "precision": "area"
+  },
+  "hook": "San Francisco built an island for an airport. In April 1942 the Navy simply took it, and offered $44,801.",
+  "story": "The Navy moved onto the island under a lease after the fair closed. On April 17, 1942, it stopped negotiating and seized the island outright [1]. The Navy filed a 'declaration of taking' rather than condemnation proceedings, a federal judge signed it shortly afterwards, and the Navy offered the city $44,801 for its improvements. The island had cost $7,874,318.01, and the city had put in $3,691,000. Utilities Manager Cahill had hoped for $500,000, and there were rumours the Navy might offer a check for $1 [1]. The city was eventually compensated with $10 million in airport improvements [2].\n\nThe lease had been 'for the duration of the war and for five years thereafter'. Fifty-five years later the Navy was still there [2]. Exhibit palaces became barracks, and the fair's food hall became a mess hall that served more than 7,000 men an hour. From 1941 to 1945, about 4.5 million servicemen and women passed through the 'Gateway to the Pacific' [2]. In 1942 the first eighteen WAVES arrived; at the peak, 800 women worked in fifteen different duties. At the war's end the base also held more than 1,300 German prisoners of war [2].",
+  "people": [
+   {
+    "name": "Rear Adm. John Wills Greenslade",
+    "role": "Commandant, 12th Naval District"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Treasure Island Seized by U.S. Navy - 1942 (San Francisco News, April 17, 1942)",
+    "publisher": "Museum of the City of San Francisco",
+    "year": 1942,
+    "url": "http://www.sfmuseum.net/hist9/tiseizure.html",
+    "supports": "Date of seizure; declaration of taking; $44,801 offer; island cost and city investment; Cahill's $500,000; $1 rumour; Greenslade statement"
+   },
+   {
+    "title": "You Are Here: WWII Treasure Island 1941-1945",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/wwii-treasure-island",
+    "supports": "Lease terms; still there 55 years later; $10 million airport compensation; mess hall 7,000 an hour; 4.5 million personnel; WAVES numbers; 1,300 German POWs"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-doris-miller-theater",
+  "title": "Orson Welles names a theatre for Dorie Miller",
+  "theme": "war-military",
+  "year": 1945,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Theater Number Three (Basilone Theater), 680 Avenue I",
+   "lat": 37.8255,
+   "lon": -122.36875,
+   "precision": "building"
+  },
+  "hook": "On a December night in 1945, Orson Welles went on national radio from a Treasure Island movie theatre to honour three fallen heroes.",
+  "story": "On December 9, 1945, ABC radio broadcast a half-hour programme from the Navy's Training and Distribution Center on Treasure Island. Orson Welles hosted. The occasion was the renaming of the base's three movie theatres, until then known simply as Theater Number One, Two and Three, for three naval heroes killed in action [1][2].\n\nTheater Number Three, where the broadcast took place, was named for Marine Gunnery Sergeant John Basilone, a Medal of Honor recipient at Guadalcanal who was killed on the first day at Iwo Jima. Theater Two honoured Lt. Cmdr. Edward 'Butch' O'Hare [1]. Theater One was named for Doris 'Dorie' Miller, a Navy cook who became the first African American to receive the Navy Cross for his actions at Pearl Harbor. He was lost with the USS Liscome Bay in 1943 [1].\n\nThe programme linked in the families. Basilone's father spoke from New York, O'Hare's mother from St. Louis and Miller's parents from Waco, Texas. Welles, who had edited the script by hand in pencil, said he hoped Miller's life and death would help enlighten others [1]. A recording survives as a 'Dorris Miller Tribute' [2].",
+  "people": [
+   {
+    "name": "Orson Welles",
+    "role": "Broadcaster"
+   },
+   {
+    "name": "Doris 'Dorie' Miller",
+    "role": "Navy Cross recipient honoured by Theater One"
+   },
+   {
+    "name": "John Basilone",
+    "role": "Medal of Honor recipient honoured by Theater Three"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Orson Welles ABC KGO Broadcast Script and Photograph Lot: Treasure Island Medal of Honor Dedication",
+    "publisher": "Snyder's Treasures (archived)",
+    "year": 2007,
+    "url": "https://web.archive.org/web/20140316183317/http://www.snyderstreasures.com/pages/welles.htm",
+    "supports": "Date; theatre renamings; broadcast from Theater Number Three; family interviews; Welles's handwritten edits and racial remarks; Liscome Bay"
+   },
+   {
+    "title": "Orson Welles Wartime Broadcasts: 451209 Lear Radio - Dorris Miller Tribute",
+    "publisher": "Internet Archive",
+    "year": 1945,
+    "url": "https://archive.org/details/OrsonWellesWartimeBroadcasts",
+    "supports": "Surviving recording of the December 9, 1945 Doris Miller tribute"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-port-chicago-trial",
+  "title": "Fifty sailors on trial for mutiny",
+  "theme": "civil-rights",
+  "year": 1944,
+  "yearEnd": 2024,
+  "place": {
+   "label": "Yerba Buena Island, site of the 1944 Port Chicago court-martial",
+   "lat": 37.8118,
+   "lon": -122.369,
+   "precision": "area"
+  },
+  "hook": "After an explosion killed 320 men, fifty Black sailors refused to go back to loading bombs. The Navy tried them for mutiny here.",
+  "story": "On July 17, 1944, an explosion at the Port Chicago Naval Magazine near Concord killed 320 sailors and civilians, 202 of them African American [1]. The men had loaded munitions with poor training and under pressure for speed [1]. On August 9, when survivors were ordered back to the same work with no changes, 258 Black sailors refused. Fifty were charged with mutiny [1].\n\nTheir court-martial was held on Yerba Buena Island, part of Naval Station Treasure Island [2]. It ran from September 14 to October 24, 1944 [1]. Lt. Gerald E. Veltmann led the defence, and Thurgood Marshall of the NAACP advised and drew national attention to the case [1]. All fifty were convicted and sentenced to 15 years in prison and dishonourable discharges [3]. The outcry helped push the Navy, and later the whole military, toward desegregation [1][2].\n\nIn 1999, President Clinton pardoned one of the men, Freddie Meeks [1]. On July 17, 2024, the 80th anniversary of the disaster, Navy Secretary Carlos Del Toro exonerated all the Port Chicago sailors [3]. A permanent monument to the Port Chicago 50, fully open to the public, now stands in Panorama Park on this island [4].",
+  "people": [
+   {
+    "name": "Thurgood Marshall",
+    "role": "NAACP counsel"
+   },
+   {
+    "name": "Gerald E. Veltmann",
+    "role": "Lead defence attorney"
+   },
+   {
+    "name": "Freddie Meeks",
+    "role": "Defendant pardoned in 1999"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Mutiny Trial",
+    "publisher": "National Park Service, Port Chicago Naval Magazine National Memorial",
+    "year": 2024,
+    "url": "https://www.nps.gov/poch/learn/historyculture/the-mutiny-trial.htm",
+    "supports": "Explosion toll; August 9 refusal; 50 charged; trial dates; Veltmann and Marshall; impact on desegregation; Meeks pardon"
+   },
+   {
+    "title": "You Are Here: WWII Treasure Island 1941-1945",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/wwii-treasure-island",
+    "supports": "Mutiny trial held on Yerba Buena Island on NAVSTA TI; role in desegregation"
+   },
+   {
+    "title": "Frequently Asked Questions",
+    "publisher": "National Park Service, Port Chicago Naval Magazine National Memorial",
+    "year": 2024,
+    "url": "https://www.nps.gov/poch/faqs.htm",
+    "supports": "All fifty sentenced to 15 years and dishonorable discharge; July 17, 2024 exoneration by Secretary Del Toro"
+   },
+   {
+    "title": "The Port Chicago 50",
+    "publisher": "Treasure Island Museum",
+    "year": 2025,
+    "url": "https://www.treasureislandmuseum.org/youarehere/the-port-chicago-50",
+    "supports": "Permanent public monument to the Port Chicago 50 in Panorama Park on Yerba Buena Island"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-nimitz-house",
+  "title": "Admiral Nimitz's house on the hill",
+  "theme": "war-military",
+  "year": 1966,
+  "yearEnd": null,
+  "place": {
+   "label": "Quarters 1 (Nimitz House), 1 Whiting Way, Yerba Buena Island",
+   "lat": 37.81275,
+   "lon": -122.3642,
+   "precision": "block"
+  },
+  "hook": "The admiral who commanded the Pacific Fleet in the Second World War died in a columned house on a hill above the Bay Bridge.",
+  "story": "Long before there was a Treasure Island, the Navy had a training station on Yerba Buena Island, then called Goat Island. In 1898 President McKinley set aside a 'goodly portion' of the island for it. In 1900 the first barracks and the commander's house were finished [1]. For years it was the Navy's only training station on the West Coast, usually with four to five hundred trainees [1].\n\nQuarters 1, the commander's house, is a Classical Revival wood-frame house of 5,886 square feet. It has Ionic columns, a lawn that sweeps down the hill and formal gardens set into the slope behind [2]. The training station moved to San Diego in 1923, but the senior officers' houses survived [1].\n\nThe house is best known for Fleet Admiral Chester Nimitz, commander of the U.S. Pacific Fleet in World War II. According to the National Register summary, he had full use of Quarters 1 from 1946 and died there in 1966, although his main home was in the East Bay [2]. Roadside panels in front of the house now tell his story [3].",
+  "people": [
+   {
+    "name": "Chester W. Nimitz",
+    "role": "Fleet Admiral, Commander of the U.S. Pacific Fleet in WWII"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Naval Training Station Senior Officers' Quarters District (National Register #08000085)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2013,
+    "url": "https://noehill.com/sf/landmarks/nat2008000085.asp",
+    "supports": "Goat Island; McKinley 1898 order; 1900 barracks and commander's quarters; only West Coast training station; 400-500 trainees; move to San Diego 1923"
+   },
+   {
+    "title": "Nimitz House (National Register #91001380)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2011,
+    "url": "https://noehill.com/sf/landmarks/nat1991001380.asp",
+    "supports": "Classical Revival, 5,886 sq ft, gardens; Nimitz had full use from 1946 and died there in 1966; principal residence in East Bay"
+   },
+   {
+    "title": "Around the Islands",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/around-the-islands",
+    "supports": "Wayside exhibits on the Nimitz House, Admiral Nimitz and the officers' quarters"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-radioactive-legacy",
+  "title": "What the Navy left in the soil",
+  "theme": "modern-city",
+  "year": 2012,
+  "yearEnd": null,
+  "place": {
+   "label": "Northeast corner of Treasure Island, former USS Pandemonium training site",
+   "lat": 37.829,
+   "lon": -122.3683,
+   "precision": "area"
+  },
+  "hook": "Residents were told to grow their plants in pots. In 2012 the Navy finally admitted what the island had really been used for.",
+  "story": "Cold War training left marks on the island. From 1946 the Navy ran radiological safety training here [1]. Around 1959 the Damage Control School staged a 'Mock A-Bomb' with TNT, smoke grenades and hundreds of gallons of napalm, while 150 Marines acted out radiation injuries [1]. Students practised decontamination on the USS Pandemonium, a full-size mock ship built from salvaged parts that sat at the island's northeast corner [1].\n\nIn August 2012, a draft Navy report acknowledged fully for the first time that the island had also repaired and scrapped material from Pacific Fleet ships exposed to atomic tests [2]. Other possible sources of radiation included the training ship, which had been deliberately doused with radioactive material, and glow-in-the-dark buttons handed out at the 1939-40 fair [2]. A state health official wrote that Navy contractors had removed 16,000 cubic yards of dirt, some of it 400 times the EPA's exposure limit for topsoil. The Navy and state toxics regulators said the remaining levels were too low to harm people [2].\n\nResident Emily Rapaport had long grown her plants in above-ground pots, as island rules required. 'They should have been more open and upfront,' she said [2].",
+  "people": [
+   {
+    "name": "Emily Rapaport",
+    "role": "President, Good Neighbors of Treasure Island and Yerba Buena Island"
+   }
+  ],
+  "sources": [
+   {
+    "title": "You Are Here: Post-WWII Naval Base 1946-1997",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/post-wwii-naval-base",
+    "supports": "1946 radiological safety training; c.1959 Mock A-Bomb details; USS Pandemonium mock ship at the northeast corner; contamination concerns"
+   },
+   {
+    "title": "Radiation Contamination on Treasure Island More Widespread Than Reported (Matt Smith, The Bay Citizen)",
+    "publisher": "KQED News",
+    "year": 2012,
+    "url": "https://ww2.kqed.org/news/2012/08/17/radiation-history-on-treasure-island-more-widespread-than-reported/",
+    "supports": "Aug 2012 draft Navy report; atomic-test ships; training ship and glow buttons; 16,000 cubic yards, 400 times EPA limits; Navy and DTSC views; Rapaport's pots and quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-indiana-jones-berlin",
+  "title": "Indiana Jones flies out of Berlin",
+  "theme": "arts-counterculture",
+  "year": 1989,
+  "yearEnd": null,
+  "place": {
+   "label": "Administration Building (Building One), 1 Avenue of the Palms",
+   "lat": 37.81722,
+   "lon": -122.37092,
+   "precision": "building"
+  },
+  "hook": "In 'The Last Crusade', Indy and his father escape Nazi Berlin through an airport draped in swastikas. The airport was Treasure Island's Building One.",
+  "story": "Building One was put up in 1938 as the terminal for an airport that was never built. It is one of the few Art Moderne buildings in San Francisco [1]. Half a century later, Hollywood cast it as exactly what it was designed to be: a 1930s air terminal.\n\nIn 'Indiana Jones and the Last Crusade' (1989), it is the Berlin airport where Indy and his father buy tickets for the zeppelin [2]. The building was still on an active Navy base, and the Nazi flags were added in post-production. 'That's the only way they would let them shoot it,' the Navy's base closure manager, Patricia McFadden, told SFGATE [2]. The city would not allow Nazi banners on the building [3].\n\nAfter the base closed in 1997, the island's hangars became sound stages for films and shows such as The Matrix, The Parent Trap and Nash Bridges [3][4]. Robin Williams, who did not want to travel away from San Francisco to film, made several movies here, including 'Flubber' and 'Patch Adams' [2]. Building One also played a hotel in 'The Parent Trap' and a hospital in Netflix's 'The OA'. The security desk built for that show still stands in the lobby [2].",
+  "people": [
+   {
+    "name": "Patricia McFadden",
+    "role": "Navy Base Closure Manager for Treasure Island"
+   },
+   {
+    "name": "Robin Williams",
+    "role": "Actor who filmed on the island's sound stages"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Golden Gate International Exposition Administration Building (National Register #08000081)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2011,
+    "url": "https://noehill.com/sf/landmarks/nat2008000081.asp",
+    "supports": "Built 1938 as the airport terminal; one of few Art Moderne buildings in SF"
+   },
+   {
+    "title": "How Treasure Island found its way into the most iconic Indiana Jones film (Grant Marek)",
+    "publisher": "SFGATE",
+    "year": 2022,
+    "url": "https://www.sfgate.com/movies/article/George-Lucas-Indiana-Jones-Nazi-flags-Treasure-Isl-14462515.php",
+    "supports": "Berlin airport scene; flags added in post; McFadden quote; Parent Trap, Hulk, The OA desk; Nash Bridges in a hangar; Robin Williams films"
+   },
+   {
+    "title": "You Are Here: Treasure Island Today",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/treasure-island-today",
+    "supports": "City would not allow Nazi banners; list of productions filmed on the island"
+   },
+   {
+    "title": "Island History",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/island-history",
+    "supports": "Hangars converted to sound stages after 1997 closure for The Matrix, Parent Trap, Nash Bridges"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-yerba-buena-tunnel",
+  "title": "The world's tallest bore",
+  "theme": "architecture-landmarks",
+  "year": 1936,
+  "yearEnd": 2013,
+  "place": {
+   "label": "Yerba Buena Tunnel, Bay Bridge, Yerba Buena Island",
+   "lat": 37.8098,
+   "lon": -122.368,
+   "precision": "street"
+  },
+  "hook": "Bay Bridge traffic runs straight through a rocky island in the middle of the bay, in a tunnel once billed as the tallest in the world.",
+  "story": "When the San Francisco–Oakland Bay Bridge opened to cars at 12:30 p.m. on Thursday, November 12, 1936, its two halves met on Yerba Buena Island. Traffic passed through a tunnel cut through the island's rock [1]. With a diameter of 58 feet, the double-deck Yerba Buena Tunnel was billed as the tallest bore in the world [1]. The bridge cost $79.5 million, including the rail lines on its lower deck [1].\n\nThe trains did not last. When the Key System gave up the interurban service, a 1958 rebuild turned each deck into a one-way road. As part of that work, the lower deck was lowered 16 inches through the tunnel [1].\n\nThe 1989 Loma Prieta earthquake damaged the eastern span, closing the bridge for a month, and led to its complete replacement. The new span was due to be finished in 2013 [2]. Its approach runs over the oldest building on the island, an 1891 Army torpedo storehouse by the concrete pioneer Ernest Ransome [3]. A roadside panel nearby credits an unlikely prophet of the bridge, the Emperor Norton, who once decreed that the bay be bridged [4][1].",
+  "people": [
+   {
+    "name": "Charles H. Purcell",
+    "role": "Chief engineer of the Bay Bridge"
+   },
+   {
+    "name": "Emperor Norton",
+    "role": "San Francisco eccentric who 'decreed' a bay bridge"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Symphonies in Steel: Bay Bridge and the Golden Gate (John Bernard McGloin, S.J.)",
+    "publisher": "Museum of the City of San Francisco",
+    "year": 1978,
+    "url": "http://www.sfmuseum.net/hist9/mcgloin.html",
+    "supports": "Opening date and time; 58-foot tunnel diameter, tallest bore; $79.5 million cost; 1958 reconstruction lowering the lower deck 16 inches; Norton decree; Purcell"
+   },
+   {
+    "title": "Yerba Buena Island Lighthouse (National Register #91001096)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2009,
+    "url": "https://noehill.com/sf/landmarks/nat1991001096.asp",
+    "supports": "Loma Prieta damage, one-month closure, replacement span scheduled for 2013"
+   },
+   {
+    "title": "Torpedo Storehouse (Building 262)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2013,
+    "url": "https://noehill.com/sf/landmarks/nat2008000086.asp",
+    "supports": "1891 torpedo storehouse under the new east span; oldest surviving structure; Ernest L. Ransome"
+   },
+   {
+    "title": "Around the Islands",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/around-the-islands",
+    "supports": "Wayside on the Bay Bridge and Emperor Norton"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-after-the-navy",
+  "title": "A naval base becomes a neighbourhood",
+  "theme": "communities",
+  "year": 1997,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Navy housing, Avenue H area, Treasure Island",
+   "lat": 37.82612,
+   "lon": -122.37023,
+   "precision": "area"
+  },
+  "hook": "When the sailors left in 1997, their houses went partly to families climbing out of homelessness. 'Everybody you see in the world, you see on the island here.'",
+  "story": "Naval Station Treasure Island officially closed on September 30, 1997 [1]. San Francisco soon let civilians move into the old Navy housing. It set aside 375 units for vulnerable people, including those with a history of homelessness [1]. An organisation founded in 1994 to plan for them, the Treasure Island Homeless Development Initiative, now One Treasure Island, still runs food pantries, job training and services [1]. In 1998 the Department of Labor opened a Job Corps centre on 35 acres, and the Life Learning Academy charter high school opened [1].\n\nIt remains one of the city's poorest ZIP codes. About half of its more than 2,000 residents live below the poverty line [1]. In 2009 Mayor Gavin Newsom agreed a deal with the Navy that could be worth more than $105 million to transfer the island and remake it as a model of sustainable development [2]. Redevelopment plans call for 8,000 homes, including 2,173 below-market-rate or affordable units [1].\n\nIn oral histories, residents describe a close community. 'Everybody you see in the world, you see on the island here,' said Atta Pilram. Ishmael Wesley and his son Jahfari were the first father and son to graduate from the construction training programme [3].",
+  "people": [
+   {
+    "name": "Atta Pilram",
+    "role": "Resident and Citizen Advisory Board member"
+   },
+   {
+    "name": "Ishmael Wesley",
+    "role": "Construction Training Program graduate"
+   }
+  ],
+  "sources": [
+   {
+    "title": "You Are Here: Treasure Island Today",
+    "publisher": "Treasure Island Museum",
+    "year": 2022,
+    "url": "https://www.treasureislandmuseum.org/youarehere/treasure-island-today",
+    "supports": "Closure date; 375 units; TIHDI/One Treasure Island; Job Corps 1998 on 35 acres; Life Learning Academy; poverty rate and population; 8,000 units and 2,173 affordable"
+   },
+   {
+    "title": "City to get Treasure Island for $105 million (John Coté)",
+    "publisher": "SFGATE / San Francisco Chronicle",
+    "year": 2009,
+    "url": "https://www.sfgate.com/realestate/article/City-to-get-Treasure-Island-for-105-million-3206898.php",
+    "supports": "Newsom-Navy deal: $55 million guaranteed, potentially more than $105 million; sustainable development goal"
+   },
+   {
+    "title": "Treasured Stories: Treasure Island Oral Histories from 1997-Present",
+    "publisher": "Treasure Island Museum",
+    "year": 2023,
+    "url": "https://www.treasureislandmuseum.org/treasuredstories",
+    "supports": "Quotes from Atta Pilram and Ishmael Wesley"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-panorama-park",
+  "title": "Goat paths to a hilltop park",
+  "theme": "parks-nature",
+  "year": 2024,
+  "yearEnd": null,
+  "place": {
+   "label": "Panorama Park, summit of Yerba Buena Island",
+   "lat": 37.8106,
+   "lon": -122.366,
+   "precision": "area"
+  },
+  "hook": "On the summit of the island once named for its goats, the paths of a new park follow the routes the animals once wandered.",
+  "story": "Yerba Buena Island was once called Goat Island [1]. In 2024 its summit became a new public park, designed by the Oakland firm Hood Design Studio [2].\n\nHood's plan, described under the name Hilltop Park, treats the hilltop as a 'cultural + ecological arboretum' and a palimpsest of the island's history [2]. On the eastern high point, native plants reveal the site's ecology, while the western high point focuses on its human past. Trees are planted to echo the outlines of demolished buildings, and fragments of old foundations are left in view. An old water tower has become an amphitheatre overlook. The pathways, Hood's studio writes, were inspired by the meanderings of the goats that once grazed there [2].\n\nThe city describes Panorama Park as a three-acre park with 360-degree views of the bay and home to Hiroshi Sugimoto's sculpture Point of Infinity. Next to it is Signal Point, a two-acre overlook of native plants and oak trees [3]. The park also has a permanent memorial to the Port Chicago 50, the Black sailors tried for mutiny on this island in 1944 [4].",
+  "people": [
+   {
+    "name": "Hood Design Studio",
+    "role": "Landscape architects"
+   },
+   {
+    "name": "Hiroshi Sugimoto",
+    "role": "Artist, Point of Infinity"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Naval Training Station Senior Officers' Quarters District",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2013,
+    "url": "https://noehill.com/sf/landmarks/nat2008000085.asp",
+    "supports": "Yerba Buena Island was then known as Goat Island"
+   },
+   {
+    "title": "Panorama Park",
+    "publisher": "Hood Design Studio",
+    "year": 2024,
+    "url": "https://www.hooddesignstudio.com/panoramapark",
+    "supports": "2024 park at the apex of YBI; arboretum concept; eastern and western high points; trees echo demolished buildings; foundation fragments; water tower amphitheater; goat-inspired paths"
+   },
+   {
+    "title": "Parks and recreation on Treasure and Yerba Buena Islands",
+    "publisher": "SF.gov / Treasure Island Development Authority",
+    "year": 2025,
+    "url": "https://www.sf.gov/information--parks-and-recreation-treasure-and-yerba-buena-islands",
+    "supports": "Three-acre Panorama Park, 360-degree views, Sugimoto's Point of Infinity; Signal Point"
+   },
+   {
+    "title": "The Port Chicago 50",
+    "publisher": "Treasure Island Museum",
+    "year": 2025,
+    "url": "https://www.treasureislandmuseum.org/youarehere/the-port-chicago-50",
+    "supports": "Port Chicago 50 monument in Panorama Park"
+   }
+  ],
+  "photo": null
+ }
+]

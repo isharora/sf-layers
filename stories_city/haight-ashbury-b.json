@@ -1,0 +1,539 @@
+[
+ {
+  "id": "haight-ashbury-five-days-on-the-hilltop",
+  "title": "Five days watching the city burn",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "Summit of Buena Vista Park",
+   "lat": 37.7683,
+   "lon": -122.4408,
+   "precision": "area"
+  },
+  "hook": "In April 1906 the city's oldest park became a grandstand for catastrophe, as crowds climbed Buena Vista to watch downtown burn for days.",
+  "story": "The hilltop had been set aside in 1867 as Hill Park, among the first land reserved for San Francisco's park system, and renamed Buena Vista Park in 1894. John McLaren then forested its slopes, and schoolchildren planted seedlings on Arbor Day while Adolph Sutro was mayor [1]. In April 1906 the view that gave the park its name turned terrible. According to a history of the park by Jeanne Alexander, people gathered on the summit for five days to watch the fires spread after the earthquake [1]. Photographs collected on FoundSF show the blaze as seen from the park [2], and refugees walking up Baker Street toward it from the Panhandle [3]. The neighbourhood below survived. The National Register nomination for a building at Haight and Ashbury explains that the Haight-Ashbury had open land to build on and its infrastructure was intact. Much of its development, and much of its density, came after the earthquake and fire, as people who had lost their homes moved west [4]. The people who stood on this hill watching the old city burn were also looking at the reason their own neighbourhood was about to fill up.",
+  "people": [
+   {
+    "name": "Jeanne Alexander",
+    "role": "historian of Buena Vista Park"
+   },
+   {
+    "name": "John McLaren",
+    "role": "park superintendent who forested the hill"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Buena Vista History",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Buena_Vista_History",
+    "supports": "1867 Hill Park; 1894 renaming; McLaren planting; crowds watched the 1906 fires for five days"
+   },
+   {
+    "title": "Forced Japanese Labor in the 1906 Earthquake (photo: the 1906 fire seen from Buena Vista Park)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Forced_Japanese_Labor_in_the_1906_Earthquake",
+    "supports": "Photograph of the fire from Buena Vista Park"
+   },
+   {
+    "title": "Haight and Baker",
+    "publisher": "FoundSF (Haight-Ashbury Architectural Tour)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Haight_and_Baker",
+    "supports": "Photograph of refugees on Baker Street heading toward Buena Vista Park, 1906"
+   },
+   {
+    "title": "Richard P. Doolan Residence and Storefronts, National Register of Historic Places Registration Form",
+    "publisher": "National Park Service",
+    "year": 2009,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/09001201_text",
+    "supports": "Post-1906 development and density in the Haight-Ashbury; intact infrastructure"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-duboce-park-camp-19",
+  "title": "Tent city in brand-new Duboce Park",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1907,
+  "place": {
+   "label": "Duboce Park, at the foot of Potomac Street",
+   "lat": 37.7696,
+   "lon": -122.4332,
+   "precision": "area"
+  },
+  "hook": "The park was barely four years old when 300 homeless San Franciscans pitched tents on its lawn. They stayed until February 1907.",
+  "story": "Duboce Park was brand new in 1906. In 1900 the neighbourhood had elected Colonel Victor D. Duboce, a Spanish-American War veteran, to the Board of Supervisors. He pushed to turn an odd leftover piece of an old hospital reservation into a park, and he died before the plan was approved. The Board named the park for him, and it was finished by 1902 [1]. The earthquake left the surrounding blocks cracked but standing. Refugees from nearby streamed onto the lawn, and by July 1906 it was officially Relief Camp No. 19, with 300 people living in tents. Relief officials put redwood refugee shacks in parks across the city, but Camp 19 stayed a tent camp until it closed on February 8, 1907 [1]. Doris Bepler was ten and lived at 60 Portola Street, now Potomac, which runs into the park. Her family fled to the East Bay. When they came home, chimneys were still unsafe, so the neighbours cooked on grates and old stoves out in the street. \"We girls were sure that we had the neatest and largest kitchen camp,\" she wrote in her nineties. Refugees still filled the park, and when a call went out for children's clothes, she tried to donate the dresses she disliked [2].",
+  "people": [
+   {
+    "name": "Doris Bepler Sharp",
+    "role": "child eyewitness, 60 Portola (Potomac) St"
+   },
+   {
+    "name": "Victor D. Duboce",
+    "role": "supervisor for whom the park is named"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Duboce Park Historic District, DPR 523 District Record (Page & Turnbull)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2008,
+    "url": "http://web.archive.org/web/20160304055154/http://www.sf-planning.org/ftp/files/Preservation/landmark_districts/proposed/duboce_park/DPR523D_Duboce_Park_NR.pdf",
+    "supports": "Duboce's election and death; park built 1901-02; Relief Camp No. 19, 300 residents in tents, disbanded Feb 8, 1907"
+   },
+   {
+    "title": "Experiencing the 1906 Earthquake (Doris Bepler Sharp, 1986)",
+    "publisher": "FoundSF",
+    "year": 2024,
+    "url": "https://www.foundsf.org/index.php?title=Experiencing_the_1906_Earthquake",
+    "supports": "Bepler family at 60 Portola St; street kitchens; refugees in Duboce Park; clothing drive; quotation"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-6-haight-masonic-streetcar",
+  "title": "The 6 car climbs Masonic",
+  "theme": "architecture-landmarks",
+  "year": 1906,
+  "yearEnd": 1948,
+  "place": {
+   "label": "Masonic Avenue at Frederick Street (route of the 6 streetcar)",
+   "lat": 37.7665,
+   "lon": -122.4446,
+   "precision": "street"
+  },
+  "hook": "Seven weeks after the earthquake, a new streetcar line started up Masonic. It later carried a brass band to the 'streetcar to the stars.'",
+  "story": "On June 10, 1906, less than two months after the disaster, United Railroads started a \"Hayes and Masonic\" streetcar line that ran up to 3rd Avenue and Parnassus [1]. It helped tie the growing Haight-Ashbury and the hills beyond it to downtown. In June 1912 the line was pushed up 9th Avenue to Pacheco Street. A longtime resident said neighbours had paid for the extension, and people called it the \"streetcar to the stars.\" On opening day, two streetcars draped in bunting carried dignitaries and a band that played all the way from the Ferry Building to Sunset Heights, where about 4,000 people came to celebrate [1]. In February 1916 the cars were moved from Hayes Street to Haight Street, and the line became the 6 Haight and Masonic. It ran along Market, Haight, Masonic, Frederick, Clayton and Carl [1]. A 1928 photo shows track work at Ashbury and Frederick [2], and another shows the rails turning from Clayton onto Carl [3]. After the Sunset Tunnel opened, 6 cars shared Carl Street with the N Judah. Rail service ended on July 3, 1948 [1]. A 6 trolley bus still climbs Clayton [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "6 Haight and Masonic Streetcar Line",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/6-line.php",
+    "supports": "Start date June 10, 1906; 1912 extension and celebration; 1916 rename and route; shared Carl St tracks; end July 3, 1948"
+   },
+   {
+    "title": "Oldest Building in Haight (photo: Ashbury and Frederick, 1928)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Oldest_Building_in_Haight",
+    "supports": "Streetcar infrastructure under construction at Ashbury and Frederick, 1928"
+   },
+   {
+    "title": "Cole Valley at Turn of 20th Century",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Cole_Valley_at_Turn_of_20th_Century",
+    "supports": "Photo of #6 tracks turning from Clayton onto Carl; the 6 still runs on Clayton as a trolley bus"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-doolan-house-lifted",
+  "title": "The house jacked up for shops",
+  "theme": "labor-industry",
+  "year": 1907,
+  "yearEnd": null,
+  "place": {
+   "label": "557 Ashbury St / 1500-1512 Haight St (northwest corner of Haight and Ashbury)",
+   "lat": 37.77013,
+   "lon": -122.44711,
+   "precision": "building"
+  },
+  "hook": "The most photographed corner of the hippie Haight began as a quiet house that its owner lifted into the air after 1906 to fit in shops underneath.",
+  "story": "In 1903 the financial agent Richard P. Doolan built a two-storey Colonial Revival house at Haight and Ashbury. It was designed by Frank T. Doolan, probably his brother, who worked as a draftsman [1]. After the earthquake and fire, Doolan guessed that Haight Street from Masonic to Stanyan would soon be all shops as the city moved west. So in 1907 he had the house raised and storefronts built beneath it, also designed by Frank [1][2]. The shops tell a neighbourhood story. The first business on the corner was the Gold Bar saloon, which closed when Prohibition began. Later, Holcombe Jewelers held the corner from 1931 until 1988, run by M. D. Holcombe and then his son Alex. Alex had flown as a crewmember on a World War II mission that served as a decoy for the Enola Gay. 1508 Haight was a barbershop in 1907, and Jimmy Shoe Shine worked at 1504 for 45 years [1]. By 1953 the house upstairs had been split into eight units, probably during the wartime housing shortage [1]. The street names lettered on the building later made it the backdrop for countless hippie-era photographs. It became city Landmark No. 253 [2].",
+  "people": [
+   {
+    "name": "Richard P. Doolan",
+    "role": "owner"
+   },
+   {
+    "name": "Frank T. Doolan",
+    "role": "designer"
+   },
+   {
+    "name": "M. D. Holcombe",
+    "role": "founder of Holcombe Jewelers"
+   },
+   {
+    "name": "Alex Holcombe",
+    "role": "jeweller and WWII airman"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Richard P. Doolan Residence and Storefronts, National Register of Historic Places Registration Form",
+    "publisher": "National Park Service",
+    "year": 2009,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/09001201_text",
+    "supports": "1903 construction; 1907 lifting; Doolans; Gold Bar saloon; Holcombe Jewelers 1931-1988; Enola Gay decoy; barbershop; eight units by 1953"
+   },
+   {
+    "title": "San Francisco Landmark #253: Doolan-Larson Residence and Storefronts",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2012,
+    "url": "https://noehill.com/sf/landmarks/sf253.asp",
+    "supports": "Built 1903, lifted 1907 to insert storefronts; landmark status"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-truck-12-firehouse",
+  "title": "The Waller Street firehouse that guarded the Sunset",
+  "theme": "architecture-landmarks",
+  "year": 1912,
+  "yearEnd": 1956,
+  "place": {
+   "label": "Hose Company #30 Firehouse, 1757 Waller St",
+   "lat": 37.76805,
+   "lon": -122.45257,
+   "precision": "building"
+  },
+  "hook": "From a granite-and-wood firehouse near Stanyan Street, one ladder company answered alarms across the whole Sunset District, all the way to the Pacific.",
+  "story": "In 1895 the city built a two-storey Italianate firehouse on Waller Street, between Stanyan and Shrader, for Engine Company No. 30. The western neighbourhoods were still thinly settled then. The Haight was growing mainly because Golden Gate Park drew weekend crowds [1]. The building's busiest years came after the earthquake, as houses spread over the sand dunes to the west. From 1912 to 1956 it was home to Truck Company No. 12. The city's landmark ordinance says its district covered the entire Sunset, out to the Pacific Ocean [1]. Engine 30 was disbanded in 1918, and Chemical Company No. 5 moved in. The building served as a firehouse until 1959 [1]. Look up at the front today and the old tenants are still listed. The moulded panels are lettered \"Chemical 5,\" \"S.F.F.D.\" and \"Truck 12,\" above carriage doors and arched windows [1]. The city calls it one of San Francisco's earliest surviving firehouses and a rare intact pre-1900 non-residential building in the neighbourhood. The Board of Supervisors made it a city landmark in 2026 [1][2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Ordinance No. 66-26: Landmark Designation, Hose Company #30 Firehouse",
+    "publisher": "San Francisco Board of Supervisors",
+    "year": 2026,
+    "url": "https://citypln-m-extnl.sfgov.org/external/link.ashx?Action=Download&ObjectVersion=-1&vault={A4A7DACD-B0DC-4322-BD29-F6F07103C6E0}&objectGUID={86B411CF-64A4-4A33-B9DC-E6639B953E78}&fileGUID={F9D7F60F-566E-49FB-B665-332EB888201D}",
+    "supports": "Built 1895 for Engine 30; Truck 12 1912-1956 covering the Sunset; Chemical 5 from 1918; firehouse until 1959; lettered panels; landmark designation"
+   },
+   {
+    "title": "Landmarks (San Francisco designated landmarks dataset)",
+    "publisher": "DataSF / San Francisco Planning",
+    "year": 2026,
+    "url": "https://data.sfgov.org/resource/97yj-54sx.json",
+    "supports": "Listing of Hose Company #30 Firehouse, 1757 Waller Street, as a designated landmark"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-park-emergency-hospital",
+  "title": "Free ambulances from Stanyan Street",
+  "theme": "architecture-landmarks",
+  "year": 1913,
+  "yearEnd": 1978,
+  "place": {
+   "label": "Park Emergency Hospital, 811 Stanyan St",
+   "lat": 37.76705,
+   "lon": -122.45328,
+   "precision": "building"
+  },
+  "hook": "For decades, a hurt San Franciscan could be stitched up or driven off in an ambulance for free. One of the stations stood at the edge of the park.",
+  "story": "The single-storey Park Emergency Aid Station went up on Stanyan Street near Beulah in 1902. It was part of a system that later ran five aid stations and 14 ambulances, all free of charge and backed by San Francisco General Hospital [1][2]. A 1920s photograph shows a horse-drawn ambulance parked out front, with its driver and attendant [1]. The city was early to motorise. The historian Ryan Bell, in The Ambulance: A History, wrote that San Francisco had one of the first automobile ambulances in the nation in 1913 and \"never looked back.\" By 1932 the emergency ambulances were answering five calls a day. The stations were placed so an ambulance could reach any call within six minutes [1]. The system drew national magazine coverage. In 1964 the Examiner called it the \"only one of its kind in the U.S.\" [1] Most cases at the aid stations were cuts, bites and specks in the eye. But the crews also worked through the bloodshed of the 1934 waterfront strike and the V-J Day riot of 1945 [1]. Park station stopped treating patients in 1978 and stayed an ambulance station until 1991. Today it is city Landmark No. 201 [2].",
+  "people": [
+   {
+    "name": "Ryan Bell",
+    "role": "ambulance historian quoted"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Free Emergency Services: Gone and Forgotten (James O. Clifford Sr.)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=San_Francisco%E2%80%99s_Free_Emergency_Services:_Gone_and_Forgotten",
+    "supports": "1902 station; five stations and 14 ambulances; 1913 automobile ambulance; five calls a day in 1932; six-minute siting; 1934 and 1945 responses; phase-out 1978"
+   },
+   {
+    "title": "San Francisco Landmark #201: Park Emergency Hospital",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/sf201.asp",
+    "supports": "Built 1902; emergency hospital until 1978; ambulance station until 1991; landmark number"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-sunset-tunnel-west-portal",
+  "title": "Tunnelling under Buena Vista to the Sunset",
+  "theme": "architecture-landmarks",
+  "year": 1928,
+  "yearEnd": null,
+  "place": {
+   "label": "Sunset Tunnel west portal, Carl St near Cole St",
+   "lat": 37.76639,
+   "lon": -122.44861,
+   "precision": "block"
+  },
+  "hook": "For seven years politicians argued over how to reach the Sunset. Then crews blasted 4,232 feet through serpentine rock, and streetcars came out in Cole Valley.",
+  "story": "Planners wanted a streetcar tunnel to the Sunset from 1913 on. The Twin Peaks Tunnel was built first, and the Supervisors did not fund a Sunset tunnel until September 1921. City Engineer M. M. O'Shaughnessy favoured a route from Duboce Avenue under the hill beside Buena Vista Park. The final route was approved only on April 6, 1925, after what one account called \"protracted political discussion\" [1]. Youdall Construction broke ground on June 10, 1926, and cut mostly through serpentine rock. The pilot drift broke through on March 11, 1927. The tunnel was finished on February 4, 1928, for $1,477,618, although a court order held up the rail work from October 1927 to May 1928 [1]. At the east end, the city took the southwest corner of Duboce Park for the entrance [2]. At the west end, a row of billboards lined the tunnel's construction fence near Clayton and Frederick streets [3]. On October 21, 1928, Mayor James Rolph opened the 4,232-foot tunnel. The new N line soon earned the second-highest fares of any streetcar line in the city. Along with the Twin Peaks Tunnel, it helped the Sunset fill with houses in the 1930s and 1940s [1].",
+  "people": [
+   {
+    "name": "M. M. O'Shaughnessy",
+    "role": "city engineer"
+   },
+   {
+    "name": "James Rolph",
+    "role": "mayor who opened the tunnel"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Sunset Tunnel",
+    "publisher": "Wikipedia (pointer; cites Board of Supervisors journals and Vincent Ring's 1971 USF thesis)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Sunset_Tunnel",
+    "supports": "Planning history, dates, contractor, rock, costs, injunction, opening Oct 21, 1928, length, N line revenues"
+   },
+   {
+    "title": "Duboce Park Historic District, DPR 523 District Record (Page & Turnbull)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2008,
+    "url": "http://web.archive.org/web/20160304055154/http://www.sf-planning.org/ftp/files/Preservation/landmark_districts/proposed/duboce_park/DPR523D_Duboce_Park_NR.pdf",
+    "supports": "Southwest corner of Duboce Park developed as the tunnel entrance; opened 1928"
+   },
+   {
+    "title": "Cole Valley at Turn of 20th Century",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Cole_Valley_at_Turn_of_20th_Century",
+    "supports": "Photo c. 1926-27 of billboards on the Sunset Tunnel construction fence at Clayton and Frederick"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-harold-lloyd-streetcar-talkie",
+  "title": "A talkie on a moving streetcar",
+  "theme": "arts-counterculture",
+  "year": 1929,
+  "yearEnd": null,
+  "place": {
+   "label": "Haight Street at Masonic Avenue (route of the 6 Haight and Masonic line)",
+   "lat": 37.77028,
+   "lon": -122.44567,
+   "precision": "street"
+  },
+  "hook": "In November 1929 a 6 Haight and Masonic streetcar became a moving cinema, showing Harold Lloyd's first talking picture as it looped around San Francisco.",
+  "story": "In 1929 the silent comedy star Harold Lloyd spoke on screen for the first time, in Welcome Danger. He played a bumbling botanist, the son of a former police chief, who is called to San Francisco to fight crime [1]. The film opened at the Granada Theatre on November 8, 1929. Paramount also tried a publicity stunt: it showed the whole film, all twelve reels, on a moving car of the Market Street Railway's 6 Haight and Masonic line [1]. That was the line that carried Haight-Ashbury riders down Haight Street toward downtown [2]. The company magazine described the car. Seats were removed from the smoking section to make a projection room, and acoustic cloth lined the inside to keep out light and traffic noise. The audience sat in ten rows of leather seats. The car left Second and Market as the picture began and circled the city without stopping, arriving back just as it ended [1]. During a railroad scene, the car happened to pass the Third and Townsend depot, and \"the sound of real locomotives traveled through the ventilators and mingled with those from the talkie.\" The riders could tell they were moving only when the lit screen rose or dipped on the hills [1].",
+  "people": [
+   {
+    "name": "Harold Lloyd",
+    "role": "film star"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Harold Lloyd on the 6-line (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2008,
+    "url": "https://www.outsidelands.org/lloyd-6-car.php",
+    "supports": "Welcome Danger; Granada opening Nov 8, 1929; twelve reels on a 6-line car; conversion details; route timing; quotation"
+   },
+   {
+    "title": "6 Haight and Masonic Streetcar Line",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/6-line.php",
+    "supports": "Route of the 6 via Market, Haight and Masonic; Market Street Railway operation 1921-1944"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-buena-vista-headstone-gutters",
+  "title": "Gutters paved with forgotten gravestones",
+  "theme": "parks-nature",
+  "year": 1939,
+  "yearEnd": null,
+  "place": {
+   "label": "Paths on the western and northern slopes of Buena Vista Park",
+   "lat": 37.7695,
+   "lon": -122.4428,
+   "precision": "area"
+  },
+  "hook": "Look down at the rain gutters beside Buena Vista's paths. Some of the marble still carries names and dates carved for people buried long ago.",
+  "story": "San Francisco ordered its cemeteries emptied in 1914, and the removals dragged on through the 1940s. Headstones went to Colma, though the remains were not always moved with them. Unclaimed stones were recycled into sea walls, landfill and park gutters [4]. In Buena Vista Park, Depression relief crews built retaining walls and drainage ditches out of broken marble slabs, and in places the inscriptions can still be read [1]. Clyde Healy's December 1939 report on the Works Progress Administration lists improvements to Buena Vista among its 70 park projects [2]. Sources disagree about where the stones came from. One points to the Odd Fellows Cemetery, cleared in the early 1930s [2]. The Encyclopedia of San Francisco says tombstones from Laurel Hill were broken up for the park's gutters once removal there was complete [3]. Others say only \"Lone Mountain cemeteries\" [1]. The hill was almost lost to development as well. In 1950 Supervisor Chester MacPhee proposed selling parts of the park, calling it \"unused, unsightly\" and in need of a policeman at all times. The Board tabled the idea indefinitely [1].",
+  "people": [
+   {
+    "name": "Clyde Healy",
+    "role": "WPA official whose 1939 report lists the work"
+   },
+   {
+    "name": "Chester MacPhee",
+    "role": "supervisor who proposed selling parkland in 1950"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Buena Vista History (Jeanne Alexander)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Buena_Vista_History",
+    "supports": "WPA walls and drains of cemetery marble with legible inscriptions; 1950 MacPhee proposal tabled"
+   },
+   {
+    "title": "W.P.A. Construction in San Francisco (1935-1942)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=W.P.A._Construction_in_San_Francisco_(1935-1942)",
+    "supports": "Healy's December 1939 report lists Buena Vista among 70 park projects; Odd Fellows headstones used for Buena Vista guttering"
+   },
+   {
+    "title": "Cemeteries (Deanna L. Kastler), Encyclopedia of San Francisco",
+    "publisher": "San Francisco Museum and Historical Society (archived)",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20100722233945/http://www.sfhistoryencyclopedia.com/articles/c/cemeteries.html",
+    "supports": "Laurel Hill tombstones broken for Buena Vista Park gutters"
+   },
+   {
+    "title": "Buena Vista Park",
+    "publisher": "San Francisco Recreation and Park Department",
+    "year": null,
+    "url": "https://sfrecpark.org/Facilities/Facility/Details/Buena-Vista-Park-155",
+    "supports": "Cemetery removals 1914 through 1940s; unclaimed headstones recycled into park gutters; oldest park"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-holc-redlining-1937",
+  "title": "Grading the Haight for the bankers",
+  "theme": "civil-rights",
+  "year": 1937,
+  "yearEnd": null,
+  "place": {
+   "label": "Page Street near Clayton (HOLC area D2, north of Haight Street)",
+   "lat": 37.7709,
+   "lon": -122.4494,
+   "precision": "area"
+  },
+  "hook": "Federal appraisers colored the Haight yellow and the blocks near the Panhandle red, warning of a 'possible threat' from 'inharmonious racial elements' who weren't even there.",
+  "story": "In 1937 the federal Home Owners' Loan Corporation mapped San Francisco and graded each neighbourhood by how risky it was for mortgage lenders [2]. Most of the Haight between Golden Gate Park and Buena Vista Park became area C13, \"Definitely Declining.\" The appraisers found it fully built up, 75 percent owner-occupied, and home to skilled workers, small business owners and white-collar workers earning $1,800 to $4,000 a year. They noted \"no racial concentrations\" and called any change \"remote.\" Even so, most lenders would lend there only \"upon a very restricted basis\" [1]. The blocks around the Panhandle, reaching down to Haight Street, became D2, graded \"Hazardous.\" This was an area of flats and small apartment houses over stores, with old mansions now owned by small business owners and artisans. The appraisers wrote: \"On account of age there is a possible threat of an infiltration of inharmonious racial elements. However, no concentrations exist at the present time.\" Several lenders said they would not consider loans on single-family homes there at all [3]. Maps like these, drawn to guide mortgage lending, marked the Haight and the Western Addition in red [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Mapping Inequality: San Francisco 1937, area description C13",
+    "publisher": "Digital Scholarship Lab, University of Richmond",
+    "year": null,
+    "url": "https://dsl.richmond.edu/panorama/redlining/static/citiesData/CASanFrancisco1937/areaDescriptions/C13.json",
+    "supports": "C13 grade and description; incomes; owner occupancy; restricted lending; racial language"
+   },
+   {
+    "title": "History of Redlining in San Francisco Neighborhoods (Nuala Sawyer, Hoodline, 2014)",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=History_of_Redlining_in_San_Francisco_Neighborhoods",
+    "supports": "1937 HOLC map; grade meanings; the Haight among red-marked neighbourhoods"
+   },
+   {
+    "title": "Mapping Inequality: San Francisco 1937, area description D2",
+    "publisher": "Digital Scholarship Lab, University of Richmond",
+    "year": null,
+    "url": "https://dsl.richmond.edu/panorama/redlining/static/citiesData/CASanFrancisco1937/areaDescriptions/D2.json",
+    "supports": "D2 Hazardous grade around the Panhandle; quotation; lenders refusing single-family loans"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-haight-theater-opening",
+  "title": "Opening night at the Haight Theater",
+  "theme": "arts-counterculture",
+  "year": 1910,
+  "yearEnd": 1964,
+  "place": {
+   "label": "Haight Theater, 1700 Haight St at Cole St",
+   "lat": 37.76971,
+   "lon": -122.45045,
+   "precision": "building"
+  },
+  "hook": "The mayor gave a speech and every one of its 1,310 seats sold. For half a century, kids spent whole Saturdays here for twenty cents.",
+  "story": "On March 8, 1910, the Haight Theater opened at the northwest corner of Haight and Cole. It had one screen and 1,310 seats. The Ashbury Club sold out the first night, and Mayor Patrick Henry McCarthy gave a speech. The building cost $33,000. It showed films and vaudeville, with a system of lines and pulleys for shifting backdrops quickly, and the Haight orchestra often played live with the double features [1]. John Molloy grew up nearby. His father had pitched for the Hollywood Stars in 1926, and later gardened for Golden Gate Park's John McLaren and then drove for him. As a preteen, Molloy's favourite weekend treat was spending the whole day at the Haight Theater. Admission was 20 cents, and the 50 cents his father gave him covered everything else. His mother shopped on Haight Street, and at the GallenCamps shoe store he liked to use the X-ray machine to watch the bones of his feet wiggle [2]. By the 1950s, the suburbs and television were emptying neighbourhood movie houses [1]. The Haight closed as a cinema in 1964, after more than fifty years [3].",
+  "people": [
+   {
+    "name": "Patrick Henry McCarthy",
+    "role": "mayor who spoke on opening night"
+   },
+   {
+    "name": "John Molloy",
+    "role": "childhood patron, memoirist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "From Haight Theater To Goodwill, The History Of 1700 Haight Street (Diana Fan)",
+    "publisher": "Hoodline (archived)",
+    "year": 2015,
+    "url": "http://web.archive.org/web/20250323195008/https://hoodline.com/2015/07/from-haight-theater-to-goodwill-the-history-of-1700-haight-street/",
+    "supports": "Opening March 8, 1910; 1,310 seats; Ashbury Club; Mayor McCarthy; $33,000; pulleys; orchestra; 1950s decline"
+   },
+   {
+    "title": "Poly High on Frederick Street (John Molloy)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Poly_High_on_Frederick_Street",
+    "supports": "Molloy's memories: father's career, 20-cent admission, GallenCamps X-ray machine"
+   },
+   {
+    "title": "Straight Theater demolished",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Straight_Theater_demolished",
+    "supports": "Haight Theater closed in 1964 after over fifty years as a movie house"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-triumph-of-light-vanishes",
+  "title": "The goddess who vanished from Mount Olympus",
+  "theme": "architecture-landmarks",
+  "year": 1954,
+  "yearEnd": null,
+  "place": {
+   "label": "Mount Olympus, Upper Terrace (empty pedestal)",
+   "lat": 37.76299,
+   "lon": -122.44553,
+   "precision": "block"
+  },
+  "hook": "For nearly seventy years a 12-foot Goddess of Liberty stood near the city's centre. In 1954 the Art Commission called her 'beyond repair.' Then she was gone.",
+  "story": "On Thanksgiving Day 1887, Adolph Sutro unveiled his gift on the summit of Mount Olympus. It was a copy of a work by the Belgian artist Antoine Wiertz: a 12-foot Goddess of Liberty holding up a torch and a sword over a figure of evil, called the Triumph of Light [1]. The city climbed the hill around her, and she aged badly, losing her torch and her sword. In 1926 the ground around the statue was dedicated as a public park. Sutro's daughter, Dr. Emma Sutro Merritt, asked experts about restoring it and was told it was hopeless [1]. Charles Cushman still photographed the statue on the hilltop in March 1955 [2]. By then its end had been decided. In 1954 the city's Art Commission declared the Triumph of Light \"beyond repair\" and recommended taking it down. It hoped to replace it with a donated Benjamin Bufano statue called \"Peace\" [1]. Within a few years the goddess was removed, and nothing replaced her [1]. Annalee Newitz writes that the statue had nearly been wrecked by vandals and was removed to make way for valuable real estate. Only the stone pedestal still stands, among condominiums on Upper Terrace [2].",
+  "people": [
+   {
+    "name": "Adolph Sutro",
+    "role": "donor of the statue"
+   },
+   {
+    "name": "Emma Sutro Merritt",
+    "role": "Sutro's daughter, physician"
+   },
+   {
+    "name": "Benjamin Bufano",
+    "role": "sculptor of the proposed replacement"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Triumph of Light: A Closer Look (Arnold Wood)",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2020,
+    "url": "https://opensfhistory.org/news/2020/11/22/the-triumph-of-light-a-closer-look/",
+    "supports": "1887 dedication; Wiertz; description; decay; 1926 park; Merritt; 1954 Art Commission; Bufano; removal"
+   },
+   {
+    "title": "Mt. Olympus (Annalee Newitz)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mt._Olympus",
+    "supports": "March 14, 1955 Cushman photo; vandalism and removal for real estate; pedestal among residences"
+   }
+  ],
+  "photo": null
+ }
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "id": "chinatown-ihotel-eviction",
+    "title": "The Night 400 Police Emptied the I-Hotel",
+    "theme": "civil-rights",
+    "year": 1977,
+    "place": {
+      "label": "International Hotel, 848 Kearny St at Jackson",
+      "lat": 37.796076,
+      "lon": -122.404972,
+      "precision": "building"
+    },
+    "hook": "For nine years, elderly Filipino and Chinese tenants, students and artists held a red-brick hotel against the Financial District. Then came 3 a.m. on August 4, 1977.",
+    "story": "The International Hotel was a three-storey red-brick building at Kearny and Jackson, the heart of Manilatown, and its leftist politics earned the block the nickname the \"Red Block\" [1]. In autumn 1968 its owner, Milton Meyer and Company, began sending eviction notices; the plan was a parking lot. \"To my mind, I was getting rid of a slum,\" said chairman Walter Shorenstein [1]. Some 150 elderly Filipino and Chinese tenants, many retired farmworkers and seamen, refused to go [2][1]. In March 1969 a suspicious fire on the top floor killed three tenants [2]. Students repaired burnt-out rooms, and the storefronts filled with the Asian Community Center, the Chinese Progressive Association, Everybody's Bookstore (the nation's first Asian American bookstore) and the Kearny Street Workshop, an artists' collective founded in 1972 [2][3]. The hotel was later sold to Four Seas Investment, which planned more commercial development [1]. At 3 a.m. on August 4, 1977, over 400 riot police, mounted patrols and fire ladder trucks cleared a 3,000-person human barricade, and the tenants were physically removed [2]. The artists were evicted too. Eighteen years later the site was, as one reporter put it, \"still a hole in the ground\" [3].",
+    "people": [
+      {
+        "name": "Walter Shorenstein",
+        "role": "President of Milton Meyer & Co., the owner"
+      },
+      {
+        "name": "Emil de Guzman",
+        "role": "Student leader of the tenants' association"
+      },
+      {
+        "name": "Nancy Hom",
+        "role": "Kearny Street Workshop artist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Battle for the International Hotel",
+        "publisher": "FoundSF (James Sobredo)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Battle_for_the_International_Hotel",
+        "supports": "848 Kearny, Red Block, 1968 notices, Shorenstein quote, Four Seas, tenant profile"
+      },
+      {
+        "title": "History",
+        "publisher": "International Hotel Senior Housing, Inc.",
+        "year": null,
+        "url": "https://www.ihotel-sf.org/history/",
+        "supports": "150 tenants, 1969 fire, storefront groups, first Asian American bookstore, 1977 raid details"
+      },
+      {
+        "title": "Kearny workshop finds a home",
+        "publisher": "San Francisco Examiner / SFGATE",
+        "year": 1995,
+        "url": "https://www.sfgate.com/news/article/kearny-workshop-finds-a-home-3117835.php",
+        "supports": "KSW founded 1972, evicted in 1977, site still a hole in 1995"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-jung-sai-strike",
+    "title": "The Sewing Aunties Who Shook Chinatown",
+    "theme": "labor-industry",
+    "year": 1974,
+    "place": {
+      "label": "Jung Sai garment factory, 646 Washington St",
+      "lat": 37.795618,
+      "lon": -122.40437,
+      "precision": "building"
+    },
+    "hook": "They were called 'goats and sheep'. In 1974, 135 garment workers from an Esprit-owned factory walked out, and Chinatown's own newspaper called it earth-shattering.",
+    "story": "The Jung Sai factory at 646 Washington Street was one of Chinatown's biggest sewing plants, owned by Esprit de Corps, the fashionable maker of clothes for young people [1]. In Cantonese, Jung means Chinese and Sai means West, and the English name was \"Great Chinese American\", a picture of happy partnership [1]. To the women at the machines it meant something else: harassment, speed-ups, no breaks and low pay [1]. In 1974, 135 workers, almost all immigrant women plus two men, went on strike [1]. They rallied in Portsmouth Square and picketed for almost a year, through sixty-four arrests and court injunctions, drawing students and activists to their side [1]. On July 27, 1974, the Chinese Times ran an editorial saying these once-obedient \"sewing factory aunties\", once thought of as \"subservient goats and sheep\", were now shouting, clapping and carrying picket signs: a \"shi po tian jing\", an earth-shattering and heaven-startling event [1]. Historian Harvey Dong argues the strike became a turning point for Asian American activism in the Bay Area. Afterwards, locals heard the name Jung Sai and thought of resistance [1][2].",
+    "people": [
+      {
+        "name": "Harvey Dong",
+        "role": "Historian of the strike"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jung Sai Garment Workers Strike 1974",
+        "publisher": "FoundSF (Harvey Dong, from 'Ten Years That Shook the City', City Lights 2011)",
+        "year": 2011,
+        "url": "https://www.foundsf.org/index.php?title=Jung_Sai_Garment_Workers_Strike_1974",
+        "supports": "All strike details, address, Esprit ownership, Chinese Times editorial"
+      },
+      {
+        "title": "7 Ten Years--Jung Sai garment workers strike (audio excerpt read by the author)",
+        "publisher": "Shaping San Francisco / Internet Archive",
+        "year": 2011,
+        "url": "https://archive.org/details/7TenYears--jungSaiGarmentWorkersStrike",
+        "supports": "Author's reading of the same essay"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-golden-dragon-massacre",
+    "title": "Twenty to Three at the Golden Dragon",
+    "theme": "modern-city",
+    "year": 1977,
+    "place": {
+      "label": "Golden Dragon Restaurant, 822 Washington St",
+      "lat": 37.795288,
+      "lon": -122.406882,
+      "precision": "building"
+    },
+    "hook": "At 2:40 a.m. on Labor Day weekend, masked gunmen came for a gang leader. He dove to the floor. Five bystanders died.",
+    "story": "At 2:40 a.m. on Sunday, September 4, 1977, about 100 people were eating at the Golden Dragon on Washington Street [1]. Among them was 20-year-old Michael \"Hot Dog\" Louie, head of the Wah Ching gang [1]. A friend saw a man with a sawed-off shotgun run past the window and yelled \"Man with a gun!\" in Cantonese; Louie ducked as three gunmen in stocking masks burst in [1]. The shooting lasted about a minute. Five people died and eleven were wounded, and none of them had any link to the gangs [1][2]. The dead were Paul Wada, a 25-year-old law student at USF; his friend Denise Louie, 20, from Seattle; waiter Fong Wong, 48, a violinist and family man; and City College students Calvin Fong, 18, and Donald Kwan, 20 [1]. It was revenge by the Joe Boys for a Fourth of July gunfight over fireworks sales at the Ping Yuen projects [1][3]. Mayor George Moscone offered an unprecedented $100,000 reward, Chinatown business fell by half, and police formed a Gang Task Force [3]. The shooters were convicted, but the getaway driver was never caught [1]. The Chronicle called it the worst mass murder in the city's history [2].",
+    "people": [
+      {
+        "name": "Michael \"Hot Dog\" Louie",
+        "role": "Wah Ching leader, the intended target"
+      },
+      {
+        "name": "Paul Wada",
+        "role": "Victim, USF law student"
+      },
+      {
+        "name": "Denise Louie",
+        "role": "Victim"
+      },
+      {
+        "name": "Fong Wong",
+        "role": "Victim, Golden Dragon waiter"
+      },
+      {
+        "name": "George Moscone",
+        "role": "Mayor who offered the reward"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinatown gang feud ignited one of SF's worst mass homicides",
+        "publisher": "San Francisco Chronicle (Gary Kamiya)",
+        "year": 2016,
+        "url": "https://www.sfchronicle.com/crime/article/Chinatown-gang-feud-ignited-one-of-SF-s-worst-8348992.php",
+        "supports": "Timeline, victims, Ping Yuen trigger, task force, getaway driver"
+      },
+      {
+        "title": "Chronicle Covers: Chinatown's Golden Dragon massacre",
+        "publisher": "San Francisco Chronicle",
+        "year": 2016,
+        "url": "https://www.sfchronicle.com/chronicle_vault/article/Chronicle-Covers-Golden-Dragon-massacre-39-9196352.php",
+        "supports": "822 Washington St address, 'worst mass murder' description"
+      },
+      {
+        "title": "The Golden Dragon Restaurant Massacre",
+        "publisher": "FoundSF (Kevin J. Mullen)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Golden_Dragon_Restaurant_Massacre",
+        "supports": "$100,000 reward, business down 50%, Gang Task Force"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-sam-wo-closes",
+    "title": "Last Call at the Rudest Waiter's Noodle House",
+    "theme": "arts-counterculture",
+    "year": 2012,
+    "place": {
+      "label": "Sam Wo Restaurant (original site), 813 Washington St",
+      "lat": 37.794984,
+      "lon": -122.406715,
+      "precision": "block"
+    },
+    "hook": "You walked through the kitchen and climbed to the dining room, and your food came up by dumbwaiter. In 2012, a century of Chinatown late nights ended.",
+    "story": "To eat at Sam Wo, you walked in through the cramped street-level kitchen and climbed a narrow staircase to tiny second- and third-floor dining rooms, and your food came up by dumbwaiter [1][2]. Nobody agrees on its age: some say it opened after the 1906 earthquake, others say earlier [2]. It stayed open until 3 a.m., and Beat poets hung out there in the 1950s [2]. Its legend was Edsel Ford Fung (often spelled Fong), \"the world's rudest waiter\", who insulted customers, criticised their orders and slammed down plates. Armistead Maupin put him in Tales of the City and Herb Caen wrote about him often [1][2]. Fung died in 1984, but the house-rules sign lived on: \"No Booze, No B.S., No Jive, No Coffee, Milk, Soft Drinks, Fortune Cookies\" [1]. In April 2012, after a meeting with the city's health and fire departments, owner David Ho, who had run it for three decades, said he could not afford the repairs. \"Too old. Everything's too old,\" he said [1][2]. On its final Friday, fans lined up for one last bowl of chow fun, jook and barbecue pork rolls [2].",
+    "people": [
+      {
+        "name": "Edsel Ford Fung",
+        "role": "'World's rudest waiter' (d. 1984)"
+      },
+      {
+        "name": "David Ho",
+        "role": "Owner for about 30 years"
+      },
+      {
+        "name": "Armistead Maupin",
+        "role": "Author who wrote Sam Wo into Tales of the City"
+      }
+    ],
+    "sources": [
+      {
+        "title": "S.F. Chinatown home of 'rudest waiter' is closing",
+        "publisher": "San Francisco Chronicle / SFGATE (Paolo Lucchesi)",
+        "year": 2012,
+        "url": "https://www.sfgate.com/bayarea/article/S-F-Chinatown-home-of-rudest-waiter-is-closing-3496097.php",
+        "supports": "Closure, Fung, sign text, David Ho quote, layout"
+      },
+      {
+        "title": "San Francisco bids farewell to beloved Sam Wo Restaurant",
+        "publisher": "Los Angeles Times (Lee Romney)",
+        "year": 2012,
+        "url": "https://www.latimes.com/local/la-xpm-2012-apr-21-la-me-sam-wo-20120421-story.html",
+        "supports": "Dumbwaiter, 3 a.m. closing, Beat hangout, disputed founding date, final day"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-ping-yuen-rent-strike",
+    "title": "The Rent Strike That Lit Ping Yuen's Stairs",
+    "theme": "civil-rights",
+    "year": 1978,
+    "yearEnd": 1979,
+    "place": {
+      "label": "Ping Yuen public housing, Pacific Ave",
+      "lat": 37.796707,
+      "lon": -122.40929,
+      "precision": "block"
+    },
+    "hook": "After a teenager was murdered on the stairs of her public-housing block, her neighbours stopped paying rent until the city fixed the lights.",
+    "story": "Ping Yuen, the public housing blocks on Pacific Avenue near Stockton Street, was where Chinatown gangs sold illegal fireworks each summer [3]. In August 1978, 18-year-old tenant Julia Wong was sexually assaulted and murdered as she walked up the stairs to her apartment [1]. The papers made it a story about crime-ridden public housing. The tenants blamed dim lighting, a broken elevator and weak security, problems their association had been asking the San Francisco Housing Authority to fix for a long time [1]. So they went on rent strike. They met regularly, paid their rent into escrow and held together until the Authority brought in security guards, more bilingual staff and better lighting [1]. On February 26, 1979, the tenants threw a Unity Party and invited tenants from other projects [1]. Soon North Beach Place was threatening a strike of its own, and the Housing Authority's director worried about a rent-strike \"syndrome\" [1]. The organising lasted. In 1999, Ping Yuen tenants led by Chang Jok Lee noisily protested at Housing Authority headquarters over a new commissioner they feared would tear the project down [2].",
+    "people": [
+      {
+        "name": "Julia Wong",
+        "role": "Ping Yuen tenant, murdered 1978"
+      },
+      {
+        "name": "Chang Jok Lee",
+        "role": "President, Ping Yuen Residents Improvement Association"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinatown Tenants Win Public Housing Rent Strike",
+        "publisher": "FoundSF (John Baranski, from 'Housing the City by the Bay')",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Chinatown_Tenants_Win_Public_Housing_Rent_Strike",
+        "supports": "Julia Wong murder, strike, escrow, concessions, Unity Party, ripple effects"
+      },
+      {
+        "title": "Chinatown Tenants Demand Housing Improvements",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 1999,
+        "url": "https://www.sfgate.com/news/article/Chinatown-Tenants-Demand-Housing-Improvements-2949593.php",
+        "supports": "1999 protest, Chang Jok Lee"
+      },
+      {
+        "title": "Chinatown gang feud ignited one of SF's worst mass homicides",
+        "publisher": "San Francisco Chronicle (Gary Kamiya)",
+        "year": 2016,
+        "url": "https://www.sfchronicle.com/crime/article/Chinatown-gang-feud-ignited-one-of-SF-s-worst-8348992.php",
+        "supports": "Location on Pacific near Stockton, fireworks trade"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-betty-ong-rec-center",
+    "title": "A Chinatown Kid's Courage, Named in Concrete",
+    "theme": "communities",
+    "year": 2012,
+    "place": {
+      "label": "Betty Ann Ong Chinese Recreation Center, Mason & Washington",
+      "lat": 37.7946,
+      "lon": -122.411,
+      "precision": "block"
+    },
+    "hook": "She learned basketball at the rec center on Mason Street. On September 11, 2001, flight attendant Betty Ong calmly stayed on the phone for 23 minutes aboard Flight 11.",
+    "story": "Betty Ann Ong grew up in Chinatown and played basketball at the neighbourhood rec center at Mason and Washington [1][2]. On September 11, 2001, she was a flight attendant on American Airlines Flight 11. Her call to the airline began: \"The cockpit is not answering the phone and there's somebody stabbed in business class\" [3]. For 23 minutes she calmly passed on what she learned from crew and passengers; the call ended two minutes before the plane hit the World Trade Center's North Tower [3][2]. In October 2011, after a petition with more than 3,700 signatures, the Recreation Commission voted unanimously to name the center after her. \"The legacy of Betty and other 9/11 heroes will be remembered forever,\" said her brother Harry [2]. The old 1951 three-storey concrete building was rebuilt with 2008 parks bond money, and on July 14, 2012, Mayor Ed Lee opened the new Betty Ann Ong Chinese Recreation Center [4]. Her childhood friend Rev. Norman Fong, who pushed for the name, listens to her recording every year. \"Maybe sometimes, we don't appreciate that an average Chinatown kid could be a national hero,\" he said [1].",
+    "people": [
+      {
+        "name": "Betty Ann Ong",
+        "role": "Flight attendant on AA Flight 11"
+      },
+      {
+        "name": "Harry Ong",
+        "role": "Her brother"
+      },
+      {
+        "name": "Norman Fong",
+        "role": "Childhood friend who championed the renaming"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco flight attendant who died on 9/11 remembered as a hero",
+        "publisher": "KTVU FOX 2",
+        "year": 2018,
+        "url": "https://www.ktvu.com/news/san-francisco-flight-attendant-who-died-on-9-11-remembered-as-a-hero",
+        "supports": "Mason & Washington location, played basketball there, Norman Fong quote"
+      },
+      {
+        "title": "Betty Ann Ong: 9/11 hero gets lasting tribute",
+        "publisher": "SFGATE City Insider (Rachel Gordon)",
+        "year": 2011,
+        "url": "http://web.archive.org/web/2012/http://blog.sfgate.com/cityinsider/2011/10/21/betty-ann-ong-911-hero-gets-lasting-tribute/",
+        "supports": "Unanimous commission vote, petition of 3,700, 23 minutes, Harry Ong quote"
+      },
+      {
+        "title": "Betty Ong's family remembers",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2011,
+        "url": "https://www.sfgate.com/news/article/Betty-Ong-s-family-remembers-2310213.php",
+        "supports": "Call transcript quote, 23 minutes, North Tower"
+      },
+      {
+        "title": "Betty Ann Ong Chinese Recreation Center Opens in Chinatown",
+        "publisher": "AsianWeek",
+        "year": 2012,
+        "url": "http://web.archive.org/web/2013/http://www.asianweek.com/2012/07/16/betty-ann-ong-chinese-recreation-center-opens-in-chinatown/",
+        "supports": "July 14, 2012 opening, 1951 building, 2008 bond"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-great-star-theater",
+    "title": "The Last Chinese Opera House Lights Up",
+    "theme": "arts-counterculture",
+    "year": 2021,
+    "place": {
+      "label": "Great Star Theater, 636 Jackson St",
+      "lat": 37.796388,
+      "lon": -122.405795,
+      "precision": "building"
+    },
+    "hook": "A 1925 Chinatown theatre that showed Chinese films and staged Chinese opera sat dark behind a roll-down gate. It was revived twice, the second time by two Salesforce engineers.",
+    "story": "The Great Star on Jackson Street was built in 1925, and Bruce Lee used to watch opera there [1]. By 2010 it had been dark for 12 years. It might have stayed that way if George Kaskanlian Jr. hadn't stormed out after a fight with his girlfriend and walked past its roll-down gate [2]. He found mould, ripped wall fabric and a projection room thick with cobwebs, and he and his partner took a 10-year lease [2]. In the 1970s, filmmaker Ruby Yang recalled, Chinatown had half a dozen theatres showing filmed opera and action movies. The Great Star may be the last Chinatown theatre in America to show both Chinese-language films and Chinese opera. \"That place was run by gangs and very dirty, but they were showing some good films there,\" she said [2]. In June 2021, as the pandemic eased, Alice Chu and Roger Pincombe, a married couple who worked as software engineers at Salesforce, reopened it as a nonprofit [1]. They had put in $150,000 of their own money and donations: new red upholstery after nesting birds ruined the old seat covers, 85 new fire sprinklers, and a traditional altar where actors can pray before going on stage [1].",
+    "people": [
+      {
+        "name": "Alice Chu",
+        "role": "Co-founder of the Great Star Theater nonprofit"
+      },
+      {
+        "name": "Roger Pincombe",
+        "role": "Co-founder of the Great Star Theater nonprofit"
+      },
+      {
+        "name": "George Kaskanlian Jr.",
+        "role": "Revived the theatre in 2010"
+      },
+      {
+        "name": "Ruby Yang",
+        "role": "Documentary filmmaker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historic S.F. theater, where Bruce Lee used to watch opera, reopens this weekend in Chinatown",
+        "publisher": "San Francisco Chronicle (Heather Knight)",
+        "year": 2021,
+        "url": "https://www.sfchronicle.com/local/heatherknight/article/Reopening-Chinatown-s-Great-Star-Theater-is-a-16234349.php",
+        "supports": "1925, Bruce Lee, 2021 reopening, Chu and Pincombe, $150,000, restoration details, 636 Jackson"
+      },
+      {
+        "title": "Great Star theater preparing to rise again",
+        "publisher": "San Francisco Chronicle / SFGATE (Sam Whiting)",
+        "year": 2010,
+        "url": "https://www.sfgate.com/movies/article/Great-Star-theater-preparing-to-rise-again-3196287.php",
+        "supports": "12 dark years, Kaskanlian story, last theatre of its kind, Ruby Yang quote"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-rose-pak-station",
+    "title": "A Subway Station Named for a Fighter",
+    "theme": "modern-city",
+    "year": 2022,
+    "yearEnd": 2023,
+    "place": {
+      "label": "Chinatown–Rose Pak Station, Stockton & Washington",
+      "lat": 37.79495,
+      "lon": -122.4079,
+      "precision": "block"
+    },
+    "hook": "She was a chain-smoking power broker who helped make a mayor and fought for a subway. Naming the station after her took six hours of shouting and a 4-3 vote.",
+    "story": "In 1972, a 24-year-old reporter named Rose Pak was in court against a lawyer accused of punching her during an interview. He called her \"extremely pushy.\" \"I was trained to be persistent,\" she replied [3]. She became one of the most powerful figures in San Francisco politics. She helped put Ed Lee in office as the city's first Asian American mayor, and she made plenty of enemies [2][3]. After the 1989 earthquake brought down the Embarcadero Freeway, a main route into Chinatown, she pushed for a rail line to tie the neighbourhood to downtown [2]. Pak died in 2016 at 68 [2]. In August 2019, after about six hours of public comment, much of it in Chinese, the SFMTA board voted 4-3 to name the new station after her. One supporter called her the subway's \"tiger mom\"; opponents wanted it called simply Chinatown Station [2]. The station opened in late 2022 as part of the city's first new subway in over 40 years [4][1]. Even then there was a row: the bronze plaque gave her birthplace as Henan, while her funeral booklet said Hengyang, in Hunan [1].",
+    "people": [
+      {
+        "name": "Rose Pak",
+        "role": "Chinatown activist and power broker (d. 2016)"
+      },
+      {
+        "name": "Ed Lee",
+        "role": "Mayor she backed"
+      },
+      {
+        "name": "Allan Low",
+        "role": "Supporter who called her the subway's 'tiger mom'"
+      }
+    ],
+    "sources": [
+      {
+        "title": "So Where Was Rose Pak Born? Central Subway Plaque Sparks Debate",
+        "publisher": "The San Francisco Standard",
+        "year": 2022,
+        "url": "https://sfstandard.com/2022/11/14/so-where-was-rose-pak-born-central-subway-plaque-sparks-debate/",
+        "supports": "Plaque, Henan vs Hunan, station opening days away in Nov 2022"
+      },
+      {
+        "title": "Chinatown Subway Station to Be Named After Rose Pak, Controversial S.F. Power Broker",
+        "publisher": "KQED",
+        "year": 2019,
+        "url": "https://www.kqed.org/news/11768712/chinatown-subway-station-to-be-named-after-rose-pak-controversial-s-f-power-broker",
+        "supports": "4-3 vote, six hours of comment, quotes, Embarcadero Freeway, death at 68, Ed Lee"
+      },
+      {
+        "title": "Chinatown's champion",
+        "publisher": "San Francisco Chronicle / SFGATE (John Wildermuth)",
+        "year": 2010,
+        "url": "http://www.sfgate.com/politics/article/Chinatown-s-champion-3173928.php",
+        "supports": "1972 court episode and quotes, political career"
+      },
+      {
+        "title": "Central Subway Project",
+        "publisher": "SFMTA",
+        "year": null,
+        "url": "https://www.sfmta.com/projects/central-subway-project",
+        "supports": "First new subway in over 40 years, Chinatown–Rose Pak Station"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-shrimp-boy",
+    "title": "The Dragon Head Who Courted City Hall",
+    "theme": "modern-city",
+    "year": 2014,
+    "yearEnd": 2019,
+    "place": {
+      "label": "Jackson Street, Chinatown (site of Allen Leung's office; exact address not published)",
+      "lat": 37.795863,
+      "lon": -122.407235,
+      "precision": "street"
+    },
+    "hook": "An ex-con posed with politicians as a reformed man. A five-year FBI sting said otherwise, and took down a state senator too.",
+    "story": "In February 2006, Allen Leung, the 56-year-old \"dragon head\" of the Chee Kung Tong, was shot dead by a masked gunman in his import-export office on Jackson Street while his wife watched. Leung also sat on a city economic task force [1]. Within months Raymond \"Shrimp Boy\" Chow, released from prison in 2003, took over the tong [2][4]. Chow presented himself as a reformed man, collected certificates from local politicians and got a photo with Mayor Gavin Newsom. \"We never bought his schtick,\" said a Newsom aide [3]. The FBI didn't buy it either. After a five-year undercover probe, Chow was arrested in March 2014 with 28 others. The case brought down state Senator Leland Yee, accused of trading a Senate proclamation honouring Chow's tong for a bribe [2][3]. At trial, prosecutors said Chow had called himself the \"sun of the underworld\" [5]. A jury convicted him of ordering Leung's murder, a charge carrying a mandatory life sentence, plus racketeering conspiracy and 154 counts of money laundering; an appeals court upheld the verdicts in 2019 [4].",
+    "people": [
+      {
+        "name": "Raymond \"Shrimp Boy\" Chow",
+        "role": "Chee Kung Tong leader"
+      },
+      {
+        "name": "Allen Leung",
+        "role": "Murdered predecessor"
+      },
+      {
+        "name": "Leland Yee",
+        "role": "State senator caught in the probe"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A killing in Chinatown: Allen Leung was slain 2 months ago - and no one is talking",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2006,
+        "url": "https://www.sfgate.com/news/article/A-KILLING-IN-CHINATOWN-Allen-Leung-a-power-in-2500019.php",
+        "supports": "Leung's killing on Jackson Street, roles"
+      },
+      {
+        "title": "'Shrimp Boy' Chow killed his way to the top of S.F. Chinatown group, feds charge",
+        "publisher": "Los Angeles Times",
+        "year": 2015,
+        "url": "https://www.latimes.com/local/lanow/la-me-ln-shrimp-boy-chow-killed-his--20151016-story.html",
+        "supports": "2006 takeover, five-year probe, 28 others, Yee plea"
+      },
+      {
+        "title": "'Shrimp Boy' tried to hang with San Francisco politicians",
+        "publisher": "Los Angeles Times",
+        "year": 2014,
+        "url": "https://www.latimes.com/local/political/la-me-pc-shrimp-boy-san-francisco-politics-20140327-story.html",
+        "supports": "Released 2003, Newsom photo, aide quote, proclamation"
+      },
+      {
+        "title": "Appeals Court Upholds 'Shrimp Boy' Chow Convictions",
+        "publisher": "Bay City News / SFGATE",
+        "year": 2019,
+        "url": "https://www.sfgate.com/news/bayarea/article/Appeals-Court-Upholds-Shrimp-Boy-Chow-13849545.php",
+        "supports": "Convictions, mandatory life sentence, 154 counts"
+      },
+      {
+        "title": "'Shrimp Boy' depicted as ruthless killer, wise leader as trial opens",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2015,
+        "url": "https://www.sfgate.com/crime/article/Chow-likened-to-a-Mafia-don-as-racketeering-6620202.php",
+        "supports": "'Sun of the underworld' quote, arrest March 2014"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-sky-bridge",
+    "title": "Fifty Thousand Mirrors Over Kearny Street",
+    "theme": "architecture-landmarks",
+    "year": 2015,
+    "place": {
+      "label": "Portsmouth Square pedestrian bridge over Kearny St",
+      "lat": 37.7949,
+      "lon": -122.40455,
+      "precision": "street"
+    },
+    "hook": "A forgotten concrete footbridge from a hotel to Chinatown's 'living room' was covered in 50,000 mirrors, glued down by the aunties who dance in the square.",
+    "story": "A concrete footbridge crosses Kearny Street from the Hilton, home of the Chinese Culture Center, to Portsmouth Square. Most days it held a few sunbathers and a skateboarder [1][2]. In August 2015, Austin artist Beili Liu covered it with Sky Bridge: 50,000 brick-sized pieces of mirrored Mylar, each glued to the walkway and walls [1]. On sunny days, visitors were told to bring sunglasses [1]. The biggest group of volunteers came from Chinatown's \"Dancing Aunties\", women who dance to 1950s and '60s Chinese pop in Portsmouth Square every morning and evening, and they laid the mirrors in what turned out to be the hottest week [1]. Curator Abby Chen said the aim was to highlight open space in the country's second-densest neighbourhood, where \"seniors and the children are really kind of trapped in their SROs\" [1]. That December, plans were unveiled to turn the 270-foot bridge into a mini-park with planters, benches and a mosaic called Sunrise by Mik Gaspay [2]. \"Our alleys and our sidewalks are our front and back yards,\" planner Roy Chan said. \"Portsmouth Square is our living room\" [2].",
+    "people": [
+      {
+        "name": "Beili Liu",
+        "role": "Artist, Sky Bridge"
+      },
+      {
+        "name": "Abby Chen",
+        "role": "Chinese Culture Center curator"
+      },
+      {
+        "name": "Roy Chan",
+        "role": "Chinatown Community Development Center planner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dazzling 'Sky Bridge' Transforms Chinatown Pedestrian Bridge",
+        "publisher": "KQED (Sarah Hotchkiss)",
+        "year": 2015,
+        "url": "https://www.kqed.org/arts/10881968/dazzling-sky-bridge-transforms-chinatown-pedestrian-bridge",
+        "supports": "Installation details, Dancing Aunties, Chen quotes"
+      },
+      {
+        "title": "Bridge From Hilton To Portsmouth Square To Become Public Mini-Park",
+        "publisher": "Hoodline",
+        "year": 2015,
+        "url": "https://hoodline.com/2015/12/bridge-from-hilton-to-portsmouth-square-to-become-public-mini-park/",
+        "supports": "Sunrise project, 270 feet, Gaspay, Chan quote, CCC at 750 Kearny"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-him-mark-lai-library",
+    "title": "A Library Named for History's Rescuer",
+    "theme": "communities",
+    "year": 2010,
+    "place": {
+      "label": "Chinatown Branch Library (Him Mark Lai Branch), 1135 Powell St",
+      "lat": 37.795226,
+      "lon": -122.410182,
+      "precision": "building"
+    },
+    "hook": "As a boy he escaped an 8-by-10-foot family home through books from the Chinatown library. The library now carries his name.",
+    "story": "Him Mark Lai was born in Chinatown on November 1, 1925 [2]. He grew up in his immigrant family's 8-by-10-foot home and escaped through books borrowed from the Chinatown branch library [1]. He went on to rescue a history that others had ignored. He wrote ten books and more than 100 essays in English and Chinese on Chinese American life, and with a colleague he taught the country's first Chinese American history course, at San Francisco State [1][2]. Scholars called him the \"Dean of Chinese American History\" [2]. He died of bladder cancer in May 2009 [2]. In November 2010 the Library Commission voted unanimously to add his name to the Chinatown branch. It was only the fifth city library named after a person, and the first since 2003 [1]. \"Him Mark Lai single-handedly helped us recover our voice, our history,\" said Sue Lee of the Chinese Historical Society of America. Vincent Pan of Chinese for Affirmative Action noted that Chinatown's streets are named for Jackson, Washington, Stockton and Powell: \"It's obvious Him Mark Lai's name needs to be there\" [1].",
+    "people": [
+      {
+        "name": "Him Mark Lai",
+        "role": "Historian (1925–2009)"
+      },
+      {
+        "name": "Sue Lee",
+        "role": "Executive director, Chinese Historical Society of America"
+      },
+      {
+        "name": "Vincent Pan",
+        "role": "Executive director, Chinese for Affirmative Action"
+      }
+    ],
+    "sources": [
+      {
+        "title": "It's in the books: The Chinatown branch has become the city's fifth library to be named after an individual",
+        "publisher": "San Francisco Chronicle / SFGATE (Jessica Kwong)",
+        "year": 2010,
+        "url": "https://www.sfgate.com/bayarea/article/Deal-doesn-t-end-shipyard-battle-3247323.php",
+        "supports": "Unanimous vote, fifth named library, childhood home, first course, quotes"
+      },
+      {
+        "title": "In Memoriam — Him Mark Lai and Nathan H. Shapira",
+        "publisher": "UCLA Today",
+        "year": 2009,
+        "url": "http://web.archive.org/web/2010/http://www.today.ucla.edu/portal/ut/in-memoriam-him-mark-lai-93242.aspx",
+        "supports": "Birth date and place, death May 2009, 'Dean' title, publications"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-chsa-ywca",
+    "title": "Lantern on the Hill Finds a Keeper",
+    "theme": "architecture-landmarks",
+    "year": 2001,
+    "place": {
+      "label": "Chinese Historical Society of America, former Chinatown YWCA, 965 Clay St",
+      "lat": 37.793767,
+      "lon": -122.408851,
+      "precision": "building"
+    },
+    "hook": "Julia Morgan designed it with dragons on the floor and Chinese towers on the roof. After the 1989 earthquake it stood empty for years before historians moved in.",
+    "story": "The Chinatown YWCA began in 1916 in an old saloon at Stockton and Sacramento [1]. For its new home on Clay Street, the YWCA hired Julia Morgan, who worked closely with a Chinese American committee [1]. Her 1932 building mixed Western and Chinese design: a courtyard with a koi pond, three Chinese-style towers, glazed tiles with Chinese motifs and a dragon painted on the corridor floor. It also kept white and Chinese American residents apart under one roof [1][2]. The 1989 Loma Prieta earthquake damaged the building, and the YWCA could not afford to retrofit it, so it sold up [1]. The Chinese Historical Society of America, founded in 1963 by Thomas W. Chinn, C.H. Kwock, Chingwah Lee, H.K. Wong and Thomas W.S. Wu, had moved from a small donated building on Adler Place to Commercial Street and Broadway [1]. With help from Supervisor Tom Hsieh and Mayor Willie Brown it bought the building in 1996, and in 2001 it opened its museum there [1]. The building had sat unused for 14 years [2]. In 2004 the restoration of the \"Lantern on the Hill\" won a National Preservation Honor Award from the National Trust [2].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "Architect"
+      },
+      {
+        "name": "Thomas W. Chinn",
+        "role": "CHSA co-founder"
+      },
+      {
+        "name": "Tom Hsieh",
+        "role": "Supervisor who helped the purchase"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Julia Morgan Legacy Project",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2012,
+        "url": "https://chsa.org/julia-morgan-legacy-project/",
+        "supports": "YWCA history, design details, segregation, sale, CHSA founders, 1996 purchase, 2001 opening"
+      },
+      {
+        "title": "CHSA Bulletin, Nov/Dec 2004: National Trust for Historic Preservation Honors CHSA",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2004,
+        "url": "https://www.chsa.org/wp-content/uploads/2010/10/CHSABulletin-Nov04.pdf",
+        "supports": "'Lantern on the Hill', 1932 design, 14 years dormant, 2004 award"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-chinese-hospital-tower",
+    "title": "The Hospital That Serves Warm Water",
+    "theme": "communities",
+    "year": 2016,
+    "place": {
+      "label": "Chinese Hospital, 845 Jackson St",
+      "lat": 37.795473,
+      "lon": -122.408982,
+      "precision": "building"
+    },
+    "hook": "Chinatown built its own hospital because other hospitals turned Chinese patients away. Bruce Lee was born there. In 2016 it opened a new eight-storey tower.",
+    "story": "In an era when other San Francisco hospitals turned away or discriminated against Chinese patients, Chinatown looked after its own [3][2]. In 1899 the Tung Wah Dispensary began seeing patients, staffed by Western-trained doctors and Chinese herbalists. In 1925 the community-built Chinese Hospital opened on Jackson Street [1]. Bruce Lee was born there in 1940 [3]. The kitchen serves jook, and macaroni soup with diced ham, and around Lunar New Year grateful patients drop off tea, oranges and mooncakes [3]. NBC News called it the only Chinese-operated and -governed independent hospital in North America [3]. The 1925 building was later judged seismically unsafe. It was pulled down in 2012 to make way for a new tower [1][2]. On April 18, 2016, the hospital opened the eight-storey, $180 million Patient Tower, with hand-painted cherry blossoms in nearly every room [1][2]. \"We have the food, we have the language, we know the culture,\" said CEO Brenda Yee. \"Other hospitals give you cold water. We know to provide warm water\" [2].",
+    "people": [
+      {
+        "name": "Brenda Yee",
+        "role": "Chinese Hospital CEO"
+      },
+      {
+        "name": "Bruce Lee",
+        "role": "Born at the hospital, 1940"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History",
+        "publisher": "Chinese Hospital",
+        "year": null,
+        "url": "https://www.chinesehospital-sf.org/history",
+        "supports": "Tung Wah Dispensary 1899, 1925 opening, 2012 demolition, April 18, 2016 opening"
+      },
+      {
+        "title": "Chinatown hospital set to unveil 8-story, $180 million building",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2016,
+        "url": "https://www.sfgate.com/bayarea/article/Chinatown-hospital-set-to-open-8-story-180-7251881.php",
+        "supports": "$180M tower, seismic history, Yee quote, art"
+      },
+      {
+        "title": "Chinese Hospital Gives New Meaning to Family Medicine",
+        "publisher": "NBC News (Vanessa Hua)",
+        "year": 2015,
+        "url": "https://www.nbcnews.com/news/asian-america/chinese-hospital-gives-new-meaning-family-medicine-n324251",
+        "supports": "Discrimination context, Bruce Lee, food, only independent Chinese-run hospital"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "chinatown-woo-woo-wong-playground",
+    "title": "Woo Woo's Home Court",
+    "theme": "parks-nature",
+    "year": 2006,
+    "yearEnd": 2021,
+    "place": {
+      "label": "Willie \"Woo Woo\" Wong Playground, 830 Sacramento St",
+      "lat": 37.79365,
+      "lon": -122.4068,
+      "precision": "block"
+    },
+    "hook": "He was 5-foot-5, the last kid picked on the Chinatown court across from his flat. Crowds chanted 'Woo Woo' every time he scored. Now the playground bears his name.",
+    "story": "Willie Wong was the third of seven children of a poor immigrant couple, and the family's flat faced Chinese Playground. That is where he learned basketball [2]. \"I used to stand and watch, and I was always the last guy picked for teams,\" he recalled. \"When I got to play, they always yelled at me not to shoot, because I couldn't\" [2]. He grew into a dead-eye shooter, 5-foot-5 and 125 pounds. He was the only Chinese American on the 1945 All-City prep team, and Examiner writer Bob Brachman named him \"Woo Woo\" after what crowds chanted when he scored [2][1]. Pete Newell recruited him to USF in 1948. \"He was a god in San Francisco's Chinatown,\" Newell said [2]. Wong died in September 2005, aged 79 [2]. In January 2006 the Recreation and Park Commission renamed the playground on Sacramento Street, between Stockton and Grant, the Willie \"Woo Woo\" Wong Playground [1]. After a $14.5 million renovation that kept it closed for more than two years, it reopened in February 2021, in time for Lunar New Year, with new courts, a clubhouse and play areas [3].",
+    "people": [
+      {
+        "name": "Willie \"Woo Woo\" Wong",
+        "role": "Basketball star (1927–2005)"
+      },
+      {
+        "name": "Bob Brachman",
+        "role": "Examiner sportswriter who coined the nickname"
+      },
+      {
+        "name": "Pete Newell",
+        "role": "USF coach"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SAN FRANCISCO / Playground renamed for basketball hero",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2006,
+        "url": "https://www.sfgate.com/default/article/SAN-FRANCISCO-Playground-renamed-for-basketball-2543002.php",
+        "supports": "2006 renaming, location, nickname origin"
+      },
+      {
+        "title": "Willie Wong, 1940s basketball star",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/Willie-Wong-1940s-basketball-star-2610648.php",
+        "supports": "Childhood, quotes, stats, Newell quote, death"
+      },
+      {
+        "title": "City Celebrates Unveils Renovated Playground In Chinatown Just In Time For Lunar New Year",
+        "publisher": "Bay City News / SFGATE",
+        "year": 2021,
+        "url": "https://www.sfgate.com/news/bayarea/article/City-Celebrates-Unveils-Renovated-Playground-In-15947497.php",
+        "supports": "$14.5M renovation, 830 Sacramento St, Feb 2021 reopening"
+      }
+    ],
+    "photo": null
+  }
+]

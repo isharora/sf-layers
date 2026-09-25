@@ -1,0 +1,667 @@
+[
+  {
+    "id": "visitacion-valley-sams-lodge-county-line",
+    "title": "A dance floor split by the county line",
+    "theme": "arts-counterculture",
+    "year": 1930,
+    "yearEnd": 1939,
+    "place": {
+      "label": "Sam's Lodge / A. Silvestri Co., 2629 Bayshore Blvd",
+      "lat": 37.7086,
+      "lon": -122.4051,
+      "precision": "block"
+    },
+    "hook": "In the early 1930s a Swiss-born roadhouse owner painted the San Francisco–San Mateo county line down the middle of his dance floor. Then the fun began.",
+    "story": "On the old Bayshore road, right where San Francisco ends, stands a fake log cabin. In the early 1930s Swiss-born Samuel Chappat turned a plain wooden building into Sam's Lodge, a roadhouse built directly on the San Francisco–San Mateo county line [1][2]. To make the point, Sam painted a yellow line down the middle of the dance floor [1]. What was legal in one county was illegal in the other, and the Chronicle's Carl Nolte records slot machines, after-hours drinking along a 40-foot bar, and police from both sides who didn't look too hard at nightlife on the edge [1]. The road outside had become U.S. 101, the busiest north–south highway in California [1]. After Sam sold, the cabin became a refined Chinese restaurant under the Chan family in the 1940s [2], then a Polynesian place with fire dancers, a stage for some of the city's first punk shows, and even a tropical-fish shop [1]. Since the 1960s it has been the showroom of A. Silvestri Co., the statuary firm [3]. In 2022 it was one of three finalists in San Francisco Heritage's vote to pick the valley's first landmark [2]. \"We're the unsung heroes of San Francisco,\" Sandra Silvestri said [1].",
+    "people": [
+      {
+        "name": "Samuel Chappat",
+        "role": "Swiss-born founder of Sam's Lodge"
+      },
+      {
+        "name": "Sandra Silvestri",
+        "role": "runs A. Silvestri Co."
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's least-known neighborhood seeks landmark status for one building. But which will it be?",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2022,
+        "url": "https://www.sfchronicle.com/bayarea/nativeson/article/San-Francisco-s-least-known-neighborhood-seeks-16949161.php",
+        "supports": "County line on the dance floor, slots and after-hours bar, later uses, Silvestri quote"
+      },
+      {
+        "title": "Visitacion Valley Heritage: landmark vote",
+        "publisher": "San Francisco Heritage",
+        "year": 2022,
+        "url": "https://www.sfheritage.org/visitacion-valley-heritage",
+        "supports": "Samuel Chappat, 1930s opening, Chan family restaurant in the 1940s, 2629 Bayshore, finalist status"
+      },
+      {
+        "title": "Heritage in the Neighborhoods: Visitacion Valley",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "Silvestri statuary in the former Sam's Lodge since the 1960s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-schlage-war-and-whistle",
+    "title": "The lock factory that went to war",
+    "theme": "labor-industry",
+    "year": 1941,
+    "yearEnd": 1945,
+    "place": {
+      "label": "Schlage Lock Co. Old Office, Bayshore Blvd at Leland Ave",
+      "lat": 37.7118,
+      "lon": -122.403,
+      "precision": "block"
+    },
+    "hook": "The push-button doorknob lock was perfected here. During the Second World War, the same Bayshore factory turned out bomb fuses and shell casings.",
+    "story": "For most of the 20th century, the valley ran on Schlage time. The lock company built a 12-acre complex of factory, warehouse and office buildings on Bayshore Boulevard, its administration building designed by William P. Day in 1926 [1]. Schlage perfected and popularised the push-button lock, the little button in the centre of a doorknob [1]. During the Second World War the plant switched to war work: shell casings, bomb tail fuses, aircraft parts and proximity fuses [1]. By the 1970s it employed 1,600 people, making it the largest manufacturer in San Francisco [1]. Neighbours remember the rhythm. When the factory whistle blew at 4:30, scores of workers walked home up the hill to Little Hollywood in a slow blue-collar wave, the realtor Cathy Saunders, who grew up there, told The Frisc [2]. \"Schlage Lock was one of those famous San Francisco names, like Levi's and Ghirardelli Chocolate,\" local historian Edie Epps said in 2014 [3]. Like those names, it left: the plant closed in 1999 [3]. When the factory was demolished in 2009, only the original office building was kept [4].",
+    "people": [
+      {
+        "name": "William P. Day",
+        "role": "architect of the 1926 administration building"
+      },
+      {
+        "name": "Edie Epps",
+        "role": "Visitacion Valley historian"
+      },
+      {
+        "name": "Cathy Saunders",
+        "role": "realtor who grew up nearby"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Valley of Windmills…and Trains and Locks",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/valley-of-windmills-and-trains-and-locks/",
+        "supports": "12-acre complex, push-button lock, WWII production, 1,600 workers in the 1970s, William P. Day building"
+      },
+      {
+        "title": "The Heart of Little Hollywood Is for Sale",
+        "publisher": "The Frisc (Alex Lash)",
+        "year": 2018,
+        "url": "https://thefrisc.com/the-heart-of-little-hollywood-is-for-sale-6f98566ec2fe",
+        "supports": "4:30 factory whistle and workers walking home"
+      },
+      {
+        "title": "S.F.'s Little Hollywood is ready for its close-up",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2014,
+        "url": "https://www.sfgate.com/bayarea/nativeson/article/S-F-s-Little-Hollywood-is-ready-for-its-close-up-5175739.php",
+        "supports": "Epps quote; Schlage closed in 1999"
+      },
+      {
+        "title": "Schlage buildings are razed so Visitacion Valley can rise",
+        "publisher": "SocketSite",
+        "year": 2009,
+        "url": "https://socketsite.com/archives/2009/10/schlage_buildings_are_razed_so_visitacion_valley_can_ri.html",
+        "supports": "Original office building kept while other buildings demolished"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-sunnydale-war-housing",
+    "title": "Sunnydale: garden homes for war workers",
+    "theme": "war-military",
+    "year": 1941,
+    "yearEnd": null,
+    "place": {
+      "label": "Sunnydale housing, Sunnydale Ave south of McLaren Park",
+      "lat": 37.7129,
+      "lon": -122.4182,
+      "precision": "area"
+    },
+    "hook": "Built on a hillside in the shadow of the Cow Palace as the country geared up for war, Sunnydale became San Francisco's biggest public housing project.",
+    "story": "Three years after San Francisco created its Housing Authority in 1938 [2], a new kind of neighbourhood rose on the valley's western slopes. Sunnydale, designed by the architects Roller and Stringham, was built in 1941 to house war workers [1]; a 2005 Chronicle history gives 1942 and notes it became home to many returning servicemen [3]. It spread over about 50 acres: 767 single-storey units of one to four bedrooms, strung along long, winding streets south of McLaren Park [1]. The thinking of the era favoured shared lawns, laundries and play spaces. \"Everything should be open, shared, so children could play,\" is how architect Gita Dev summed up that philosophy in the 1990s [1]. The housing was meant to be temporary, but residents stayed for decades [2]. By 2008 an estimated 1,633 people lived in what had become the city's largest housing project, known to locals as \"The Dale\" [2]. Its long, slow decline, and the fight over what should replace it, would shape the valley for the rest of the century.",
+    "people": [
+      {
+        "name": "Roller and Stringham",
+        "role": "architects"
+      },
+      {
+        "name": "Gita Dev",
+        "role": "architect, Marquis Associates"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Public Housing Comes Full Circle",
+        "publisher": "FoundSF (Diana Scott)",
+        "year": 1996,
+        "url": "https://www.foundsf.org/index.php?title=Public_Housing_Comes_Full_Circle",
+        "supports": "1941 construction for war workers, architects, 50 acres, 767 units, open-space philosophy"
+      },
+      {
+        "title": "Life at the bottom: S.F.'s Sunnydale project",
+        "publisher": "San Francisco Chronicle (Leslie Fulbright)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/news/article/Life-at-the-bottom-S-F-s-Sunnydale-project-3228433.php",
+        "supports": "Housing Authority 1938, WWII origin, 1,633 residents, 'The Dale', residents staying for decades"
+      },
+      {
+        "title": "Neighbors preserve lore and more",
+        "publisher": "San Francisco Chronicle (Vanessa Hua)",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/VISITACION-VALLEY-Neighbors-preserve-lore-and-2724252.php",
+        "supports": "1942 date and returning servicemen"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-geneva-towers-rise",
+    "title": "Eichler's twin towers on the hill",
+    "theme": "architecture-landmarks",
+    "year": 1965,
+    "yearEnd": 1967,
+    "place": {
+      "label": "Geneva Towers site, 1001 Sunnydale Ave",
+      "lat": 37.71012,
+      "lon": -122.41245,
+      "precision": "building"
+    },
+    "hook": "Joseph Eichler's twin 20-storey towers were meant for middle-income tenants. They could be seen for miles from Highway 101.",
+    "story": "In the 1960s the developer Joseph Eichler built something unusual for Visitacion Valley: twin 20-storey towers at 1001 Sunnydale Avenue [1][2]. Geneva Towers was planned as private housing for middle-income tenants, including workers at the airport [1][2]. Vice President Hubert Humphrey paid a visit [1]. Sources give opening dates from 1964 to 1967 [1][2], and counts of 576 or 585 apartments [1][2]. At first, the columnist Lee Hubbard wrote, the buildings held a mix of doctors, lawyers and people of all incomes [3]. They were the only high-rises south of downtown you could see for miles from Highway 101; for him, a glimpse of the two white towers meant he was almost home [3]. But the towers failed to draw enough middle-income renters, so the owners took low-income tenants whose rent was subsidised by the federal government [2]. By 1976 the complex was entirely Section 8 housing [1]. The owners collected $200,000 a month in federal rent subsidies while the buildings fell apart [2]. Even so, many residents loved the place. \"It was a great place to live,\" said Vernon Long, who lived there from 1970 to 1981 [2].",
+    "people": [
+      {
+        "name": "Joseph Eichler",
+        "role": "developer"
+      },
+      {
+        "name": "Hubert Humphrey",
+        "role": "U.S. Vice President, visitor"
+      },
+      {
+        "name": "Vernon Long",
+        "role": "resident 1970–1981"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Why were the Geneva Towers demolished?",
+        "publisher": "KALW",
+        "year": 2022,
+        "url": "https://www.kalw.org/kalw-news/2022-05-11/why-were-the-geneva-towers-demolished",
+        "supports": "Eichler, 1964 date, airport workers, 576 units, Humphrey visit, 1976 Section 8 conversion"
+      },
+      {
+        "title": "Geneva Towers To Tumble",
+        "publisher": "San Francisco Chronicle (Jason B. Johnson)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/Geneva-Towers-To-Tumble-Troubled-S-F-public-3276396.php",
+        "supports": "1001 Sunnydale address, 1967 date, 585 units, Section 8 switch, $200,000 subsidies, Vernon Long quote"
+      },
+      {
+        "title": "Remembrance of Geneva Towers",
+        "publisher": "FoundSF / San Francisco Bay View (Lee Hubbard)",
+        "year": 1998,
+        "url": "https://www.foundsf.org/index.php?title=Remembrance_of_Geneva_Towers",
+        "supports": "Early mixed-income tenants, visibility from Highway 101"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-geneva-towers-implosion",
+    "title": "Fifteen seconds to erase Geneva Towers",
+    "theme": "civil-rights",
+    "year": 1998,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Geneva Towers site, now Kelloch and Velasco Mini Park and housing",
+      "lat": 37.7095,
+      "lon": -122.4128,
+      "precision": "area"
+    },
+    "hook": "Police dodged bowling balls thrown from the balconies. Tenants held a candlelight vigil. Then 600 pounds of explosives brought the towers down.",
+    "story": "By 1991 conditions at Geneva Towers were so bad that the federal housing department (HUD) took the complex over. It was the first time the agency had foreclosed on a property because it was unsafe [1]. \"The post office would not deliver on site. Pizza parlors would not deliver,\" recalled former mayor Art Agnos [1]. Police approaching the towers braced for rocks, televisions and once a bowling ball thrown from the balconies [1]. Still, many tenants called it home. Days before the demolition, former residents held a candlelight vigil. \"It was like a little, small community,\" said Lela Jones [1]. Marie Harrison, a former resident, argued that the towers' bad reputation was unfair to the people living there: \"The stigma always fell on the tenants\" [2]. At 2:30 p.m. on May 16, 1998, 600 pounds of explosives brought the two towers down in what the Chronicle called the biggest implosion California had seen [1]. Onlookers brought barbecue grills and kegs of beer [2]. HUD promised a 341-unit replacement complex [1]. Today the site holds the Kelloch and Velasco Mini Park, low-income housing and senior homes [1][3]. Former residents still gather for a reunion every Fourth of July weekend [3].",
+    "people": [
+      {
+        "name": "Art Agnos",
+        "role": "former mayor, HUD official"
+      },
+      {
+        "name": "Marie Harrison",
+        "role": "former resident and Bay View columnist"
+      },
+      {
+        "name": "Lela Jones",
+        "role": "former resident"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Geneva Towers To Tumble",
+        "publisher": "San Francisco Chronicle (Jason B. Johnson)",
+        "year": 1998,
+        "url": "https://www.sfgate.com/news/article/Geneva-Towers-To-Tumble-Troubled-S-F-public-3276396.php",
+        "supports": "1991 HUD takeover, Agnos quote, bowling ball, vigil, Jones quote, time and explosives, 341 units"
+      },
+      {
+        "title": "Remembrance of Geneva Towers",
+        "publisher": "FoundSF / San Francisco Bay View (Lee Hubbard)",
+        "year": 1998,
+        "url": "https://www.foundsf.org/index.php?title=Remembrance_of_Geneva_Towers",
+        "supports": "Harrison quote, festive crowd at the implosion"
+      },
+      {
+        "title": "Why were the Geneva Towers demolished?",
+        "publisher": "KALW",
+        "year": 2022,
+        "url": "https://www.kalw.org/kalw-news/2022-05-11/why-were-the-geneva-towers-demolished",
+        "supports": "Mini park and housing on the site, annual July 4 reunion"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-schlage-site-home-depot",
+    "title": "The neighbours who said no to Home Depot",
+    "theme": "modern-city",
+    "year": 2000,
+    "yearEnd": 2009,
+    "place": {
+      "label": "Former Schlage Lock site, Bayshore Blvd at Leland Ave",
+      "lat": 37.7112,
+      "lon": -122.404,
+      "precision": "area"
+    },
+    "hook": "When the valley's biggest employer shut down, a big-box store wanted its land. Residents had other ideas, and they're still waiting to see them built.",
+    "story": "Ingersoll-Rand, Schlage's owner, closed the Bayshore factory in 1999, ending more than 70 years of lock-making [1]. By 2000 Home Depot wanted to build a store on the empty site [1]. Neighbours fought it over traffic and other worries, and Supervisor Tom Ammiano sponsored legislation that blocked \"big box\" stores there [1]. Residents then drew up their own plan. A 2002 city-led community plan asked for a grocery store, open space and housing [1]. The site was polluted, though, and for years it was stuck in a lawsuit over contaminated groundwater. In 2008 Ingersoll-Rand settled and handed the 12.3 acres to the developer Universal Paragon [1]. In 2009 the factory buildings came down, all except the original office [2]. One resident noticed that, with the buildings gone, the shapes of San Bruno Mountain and McLaren Ridge could be seen again from Tunnel Avenue [2]. Building has been slow. In 2018 the site was still terraced dirt awaiting nearly 1,700 homes [3]. Russel Morine, who ran a coffee shop on Leland, had predicted in 2011: \"I'm pretty sure something will happen … eventually\" [4].",
+    "people": [
+      {
+        "name": "Tom Ammiano",
+        "role": "Supervisor who blocked big-box retail"
+      },
+      {
+        "name": "Russel Morine",
+        "role": "Leland Ave coffee shop owner and neighbourhood historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Old Schlage Lock factory in S.F. finally sold",
+        "publisher": "San Francisco Chronicle (James Temple)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/business/article/Old-Schlage-Lock-factory-in-S-F-finally-sold-3209939.php",
+        "supports": "1999 closure, Home Depot fight, Ammiano legislation, 2002 plan, 2008 settlement and transfer"
+      },
+      {
+        "title": "Schlage buildings are razed so Visitacion Valley can rise",
+        "publisher": "SocketSite",
+        "year": 2009,
+        "url": "https://socketsite.com/archives/2009/10/schlage_buildings_are_razed_so_visitacion_valley_can_ri.html",
+        "supports": "2009 demolition, office kept, reopened views"
+      },
+      {
+        "title": "The Heart of Little Hollywood Is for Sale",
+        "publisher": "The Frisc (Alex Lash)",
+        "year": 2018,
+        "url": "https://thefrisc.com/the-heart-of-little-hollywood-is-for-sale-6f98566ec2fe",
+        "supports": "Site still terraced dirt awaiting nearly 1,700 units"
+      },
+      {
+        "title": "Redevelopment key to Visitacion Valley revival",
+        "publisher": "San Francisco Chronicle (Robert Selna)",
+        "year": 2011,
+        "url": "https://www.sfgate.com/business/article/Redevelopment-key-to-Visitacion-Valley-revival-2461360.php",
+        "supports": "Morine quote and coffee shop"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-yik-oi-huang",
+    "title": "Grandma Huang's park",
+    "theme": "civil-rights",
+    "year": 2019,
+    "yearEnd": 2022,
+    "place": {
+      "label": "Yik Oi Huang Peace & Friendship Park, 251 Leland Ave",
+      "lat": 37.7128,
+      "lon": -122.40866,
+      "precision": "building"
+    },
+    "hook": "For about 20 years she did qigong on the path around this playground. Today the park carries her name.",
+    "story": "Yik Oi Huang was born in Toi San, China, on February 15, 1930, and had only two years of elementary school [1]. She came to San Francisco in June 1986 with her husband, Ho Wei Huang. She worked as a seamstress, a nanny and a dishwasher, and made her life in Visitacion Valley [1]. Neighbours called her Grandma Huang. For more than 17 years she was an ambassador for the Visitacion Valley Friendship Club, helping Chinese immigrant seniors [1][2]. For about 20 years she did qigong around the edge of Visitacion Valley Playground [1]. On January 8, 2019, she was brutally attacked there during her daily exercise [1]. She fought for a year and died on January 3, 2020, aged 89 [1]. Her attacker had assaulted seven people in two weeks that January; six of them were Asian American [3]. In 2022 the Recreation and Park Commission voted unanimously to rename the playground Yik Oi Huang Peace & Friendship Park [2]. In November 2025 a jury found Keonte Gathron guilty of her murder [3]. \"Be something bigger than yourself,\" her grandson Jeremy Lu said, describing how she lived [1].",
+    "people": [
+      {
+        "name": "Yik Oi Huang",
+        "role": "community advocate"
+      },
+      {
+        "name": "Jeremy Lu",
+        "role": "grandson"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Who is Yik Oi",
+        "publisher": "Remember Yik Oi Huang (family memorial site)",
+        "year": 2020,
+        "url": "https://www.rememberyikoihuang.com/who-is-yik-oi",
+        "supports": "Birth, immigration, jobs, qigong, Friendship Club, attack and death dates, Lu quote"
+      },
+      {
+        "title": "Yik Oi Huang Peace & Friendship Park",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2022,
+        "url": "https://sfrecpark.org/facilities/facility/details/Yik-Oi-Huang-Peace-Friendship-Park-Visit-270",
+        "supports": "251 Leland Ave, unanimous 2022 renaming, Friendship Club role"
+      },
+      {
+        "title": "Suspect found guilty in deadly attack on 'Grandma Huang'",
+        "publisher": "NBC Bay Area",
+        "year": 2025,
+        "url": "https://www.nbcbayarea.com/news/local/suspect-guilty-deadly-attack-grandma-huang/3975464/",
+        "supports": "November 2025 verdict, seven victims in two weeks, six Asian American"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-leland-produce",
+    "title": "Mangoes, kabocha and chorizo on Leland Avenue",
+    "theme": "communities",
+    "year": 2005,
+    "yearEnd": 2015,
+    "place": {
+      "label": "Leland Avenue commercial strip",
+      "lat": 37.71218,
+      "lon": -122.40562,
+      "precision": "street"
+    },
+    "hook": "The valley's main street had boarded-up shops and no fruit market. So a family from Jalisco bought a building and filled it with food for all their neighbours.",
+    "story": "For years, empty storefronts lined Visitacion Valley's five-block main street [1]. The Lopez family, who came from Jalisco, Mexico, and lived in the neighbourhood, knew what was missing: a place to buy fruit and vegetables. They paid more than $500,000 for a building on Leland Avenue and spent ten months fixing it up. Casa Lopez Produce opened in January 2005 [1]. \"We talked to the neighbors, who all said this was a good idea,\" said Rene Lopez, 18 [1]. The shelves showed who lived nearby. Chinese, Filipino and Central American customers suggested what to stock, so homemade chorizo sat next to kabocha squash, jicama, mangoes, Thai rice and Vietnamese spring-roll wrappers [1]. Across the street, Joaquin Escobar was opening La Loma Produce #2 [1]. Business stayed hard. In 2011, 13 percent of Leland's storefronts were empty and the street closed by 8 p.m. [2]. The valley had gone about 30 years without a supermarket before a Grocery Outlet was due to open in 2014 [3]. Still, in 2015 an urban design critic enjoyed the street fair on Leland. There were \"no $14 cocktails\" and \"no tech buses\", and the crowd was local and diverse [4].",
+    "people": [
+      {
+        "name": "Rene Lopez",
+        "role": "co-runs Casa Lopez Produce"
+      },
+      {
+        "name": "Joaquin Escobar",
+        "role": "owner, La Loma Produce #2"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A new vision for Vis Valley",
+        "publisher": "San Francisco Chronicle (Vanessa Hua)",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/SAN-FRANCISCO-A-new-vision-for-Vis-Valley-2686924.php",
+        "supports": "Casa Lopez details, quote, products, La Loma #2"
+      },
+      {
+        "title": "Redevelopment key to Visitacion Valley revival",
+        "publisher": "San Francisco Chronicle (Robert Selna)",
+        "year": 2011,
+        "url": "https://www.sfgate.com/business/article/Redevelopment-key-to-Visitacion-Valley-revival-2461360.php",
+        "supports": "13 percent vacancy, 8 p.m. closing, Escobar"
+      },
+      {
+        "title": "San Francisco's Visitacion Valley to get first grocery store in decades",
+        "publisher": "KALW",
+        "year": 2014,
+        "url": "https://www.kalw.org/show/crosscurrents/2014-01-08/san-franciscos-visitacion-valley-to-get-first-grocery-store-in-decades",
+        "supports": "About 30 years without a supermarket; Grocery Outlet planned for 2014"
+      },
+      {
+        "title": "Viz Valley fair celebrates a spot unmarred by gentrification",
+        "publisher": "San Francisco Chronicle (John King)",
+        "year": 2015,
+        "url": "https://www.sfchronicle.com/bayarea/article/Residents-kiddies-visitors-drop-by-Vis-Valley-6565194.php",
+        "supports": "2015 Leland Avenue festival description"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-misspelled-curbs",
+    "title": "The curb that couldn't spell Visitacion",
+    "theme": "communities",
+    "year": 2008,
+    "yearEnd": null,
+    "place": {
+      "label": "Visitacion Ave at Desmond St",
+      "lat": 37.71075,
+      "lon": -122.4053,
+      "precision": "street"
+    },
+    "hook": "A city crew stamped the neighbourhood's name into fresh concrete, and got it wrong. A local history buff wasn't having it.",
+    "story": "The valley's name comes from Spanish, not English. According to legend, Franciscan missionaries lost in the fog found themselves here on July 2, 1777, the feast of the Visitation of Mary to her cousin Elizabeth, and \"Visitacion\" with the Spanish spelling stuck [1]. Outsiders write \"Visitation\" all the time. In 2008 the city made the same mistake. A crew poured four new curbs at Visitacion Avenue and Desmond Street, and on the southwest and northeast corners the street name was spelled the English way [2]. Russel Morine emailed the Chronicle's ChronicleWatch column to complain [2]. Morine was part of a group of residents who had spent years recording the valley's history and had worked on a 2005 book about it [3]. Within hours, the Department of Public Works sent another crew to redo the concrete. \"We regret this mistake, and we worked fast to fix it,\" said spokeswoman Christine Falvey [2]. For a neighbourhood so often ignored, the spelling mattered. \"We want to make sure this ends up in history,\" Morine said in 2005 [3].",
+    "people": [
+      {
+        "name": "Russel Morine",
+        "role": "resident and neighbourhood historian"
+      },
+      {
+        "name": "Christine Falvey",
+        "role": "DPW spokeswoman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "S.F.: Misspelled names in concrete corrected",
+        "publisher": "San Francisco Chronicle (Jonathan Curiel)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/bayarea/article/S-F-Misspelled-names-in-concrete-corrected-3281864.php",
+        "supports": "Misspelled curbs, corners, Morine's complaint, fix within hours, Falvey quote"
+      },
+      {
+        "title": "San Francisco's least-known neighborhood seeks landmark status for one building",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2022,
+        "url": "https://www.sfchronicle.com/bayarea/nativeson/article/San-Francisco-s-least-known-neighborhood-seeks-16949161.php",
+        "supports": "Naming legend, July 2, 1777, Spanish spelling"
+      },
+      {
+        "title": "Neighbors preserve lore and more",
+        "publisher": "San Francisco Chronicle (Vanessa Hua)",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/VISITACION-VALLEY-Neighbors-preserve-lore-and-2724252.php",
+        "supports": "Morine's history group, book project, quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-first-landmark-vote",
+    "title": "A neighbourhood votes for its first landmark",
+    "theme": "architecture-landmarks",
+    "year": 2022,
+    "yearEnd": null,
+    "place": {
+      "label": "St. James Presbyterian Church, 240 Leland Ave",
+      "lat": 37.71302,
+      "lon": -122.40824,
+      "precision": "building"
+    },
+    "hook": "San Francisco had 288 official landmarks and not one of them was in Visitacion Valley. So the neighbourhood held an election to choose one.",
+    "story": "In 2022 San Francisco had 288 official city landmarks, and none of them was in Visitacion Valley [1]. San Francisco Heritage said landmarking \"heavily favor[s] master architects and downtown edifices\" and overlooks the places where working people live [1]. So the group held a public vote. There were three candidates: Fire Station 44, built in 1913; the old Sam's Lodge roadhouse on the county line; and St. James Presbyterian Church at 240 Leland Avenue [1][2]. Anyone could vote online until March 1 [1]. The church won [2]. Its congregation formed in 1908 with 69 members, and the present building, designed by Julia Morgan, was dedicated in 1923 [2]. The front has a stained-glass window of the Parable of the Sower. Neighbourhood historian Betty Parshall says it first hung in a church in a Nevada town. When the town and church failed, the St. James congregation \"liberated\" it [1]. On June 7, 2022, Supervisor Shamann Walton started the process to make the church an official landmark [2].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "architect"
+      },
+      {
+        "name": "Betty Parshall",
+        "role": "neighbourhood historian"
+      },
+      {
+        "name": "Shamann Walton",
+        "role": "District 10 Supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's least-known neighborhood seeks landmark status for one building. But which will it be?",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2022,
+        "url": "https://www.sfchronicle.com/bayarea/nativeson/article/San-Francisco-s-least-known-neighborhood-seeks-16949161.php",
+        "supports": "288 landmarks, none in the valley, Heritage quote, candidates, March 1 deadline, Sower window story"
+      },
+      {
+        "title": "Visitacion Valley Heritage: landmark vote",
+        "publisher": "San Francisco Heritage",
+        "year": 2022,
+        "url": "https://www.sfheritage.org/visitacion-valley-heritage",
+        "supports": "St. James won, 1908 congregation of 69, 1923 Morgan design, Walton initiation June 7, 2022"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-grapevine",
+    "title": "The Grapevine, one man's 25-year newspaper",
+    "theme": "communities",
+    "year": 1986,
+    "yearEnd": 2011,
+    "place": {
+      "label": "Visitacion Valley Community Center, 50–66 Raymond Ave",
+      "lat": 37.71251,
+      "lon": -122.40436,
+      "precision": "building"
+    },
+    "hook": "For a quarter-century one volunteer wrote, edited, photographed and delivered the valley's only newspaper. Then a state budget stand-off in Sacramento stopped the presses.",
+    "story": "Beginning in 1986, residents could pick up the Grapevine, a free monthly paper published by the Visitacion Valley Community Center on Raymond Avenue [1]. Its volunteer editor, Len Appiano, did almost everything: layout, editing, ad sales, writing, photography, history and delivery. He kept the paper going for more than 25 years [1]. The centre that published it was also a hub for the neighbourhood. Seniors came for lunch, hundreds of newly arrived immigrants took English classes there, and the Visitacion Valley Planning Alliance held its monthly meetings in the gym [1]. In 2010 California went more than 100 days without a state budget. Nearly 80 percent of the centre's operating money depended on the state, and the October and November 2010 issues never came out. It was the first time the valley had gone without its monthly news [1]. Appiano moved on. The paper came back in January 2011 with a small victory to report. At City Hall, Visitacion Valley had been named \"Comeback Neighborhood of the Year\" [1]. That same month, planning alliance chair Fran Martin was worrying aloud about what the governor's threat to abolish redevelopment could mean for the old Schlage site [2].",
+    "people": [
+      {
+        "name": "Len Appiano",
+        "role": "volunteer editor of the Grapevine"
+      },
+      {
+        "name": "Fran Martin",
+        "role": "chair, Visitacion Valley Planning Alliance"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visitacion Valley Grapevine, January 2011 ('What Happened to the Grapevine?')",
+        "publisher": "Visitacion Valley Community Center, via Internet Archive",
+        "year": 2011,
+        "url": "https://archive.org/details/visitacionvalley2011unse",
+        "supports": "1986 start, Appiano's roles and 25 years, budget impasse, missed issues, centre services, Comeback award"
+      },
+      {
+        "title": "Redevelopment key to Visitacion Valley revival",
+        "publisher": "San Francisco Chronicle (Robert Selna)",
+        "year": 2011,
+        "url": "https://www.sfgate.com/business/article/Redevelopment-key-to-Visitacion-Valley-revival-2461360.php",
+        "supports": "Fran Martin, Planning Alliance, worries over state cuts in January 2011"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-library-leland",
+    "title": "From a box of books to a branch",
+    "theme": "modern-city",
+    "year": 2011,
+    "yearEnd": null,
+    "place": {
+      "label": "Visitacion Valley Branch Library, 201 Leland Ave",
+      "lat": 37.71252,
+      "lon": -122.40777,
+      "precision": "building"
+    },
+    "hook": "The valley's library began in 1934 as a small deposit of books. It took 77 years for the neighbourhood to get a library building of its own.",
+    "story": "San Francisco Public Library came to the valley in 1934, not as a building but as a \"deposit collection\", a small stock of books placed in the neighbourhood. It was the system's 18th branch [1]. It later became a full-service branch, housed in a leased storefront at 45 Leland Avenue [1]. Residents wanted more. In 2005 the neighbourhood historians writing a book about the valley hoped to keep their oral histories and local stories at a new branch library that was \"yet to be built, pending funding\" [2]. The new library opened on July 30, 2011, on the corner of Leland Avenue and Rutland Street [1]. It was one of several city investments, along with a Muni streetcar extension and new street improvements, meant to work together with the planned redevelopment of the old Schlage Lock site [3]. The library quickly became part of neighbourhood life. At the 2015 Leland Avenue street fair, its staff ran a prize wheel where a four-year-old won a picture book [4].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Visitacion Valley Library History",
+        "publisher": "San Francisco Public Library",
+        "year": 2011,
+        "url": "https://sfpl.org/locations/visitacion-valley/visitacion-valley-library-history",
+        "supports": "1934 deposit collection, 18th branch, 45 Leland storefront, July 30, 2011 opening at Rutland and Leland"
+      },
+      {
+        "title": "Neighbors preserve lore and more",
+        "publisher": "San Francisco Chronicle (Vanessa Hua)",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/VISITACION-VALLEY-Neighbors-preserve-lore-and-2724252.php",
+        "supports": "Historians' hope for a collection at a branch yet to be built"
+      },
+      {
+        "title": "Redevelopment key to Visitacion Valley revival",
+        "publisher": "San Francisco Chronicle (Robert Selna)",
+        "year": 2011,
+        "url": "https://www.sfgate.com/business/article/Redevelopment-key-to-Visitacion-Valley-revival-2461360.php",
+        "supports": "Library among improvements linked to Schlage redevelopment"
+      },
+      {
+        "title": "Viz Valley fair celebrates a spot unmarred by gentrification",
+        "publisher": "San Francisco Chronicle (John King)",
+        "year": 2015,
+        "url": "https://www.sfchronicle.com/bayarea/article/Residents-kiddies-visitors-drop-by-Vis-Valley-6565194.php",
+        "supports": "Library prize wheel at the 2015 festival"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-sunnydale-rebuild",
+    "title": "Rebuilding Sunnydale without moving anyone out",
+    "theme": "civil-rights",
+    "year": 2019,
+    "yearEnd": 2026,
+    "place": {
+      "label": "Sunnydale HOPE SF, Sunnydale Ave at Hahn St",
+      "lat": 37.7116,
+      "lon": -122.416,
+      "precision": "block"
+    },
+    "hook": "In 2008 a barber called Sunnydale a place with 'no way out unless you die.' Now its wartime barracks are being replaced, with a promise that residents stay.",
+    "story": "In 2008 the Chronicle described Sunnydale's wartime barracks as crumbling, with black mould in sinks, collapsed stairs, and cable installers who would only come in the morning [1]. \"This is like a concentration camp. There is no way out unless you die,\" said Keith \"Kilo\" Perry, 55, who ran a barbershop in the development [1]. The Housing Authority's former director admitted the city could not afford to fix it [1]. The plan to replace it comes from HOPE SF. Founded in 2007, it calls itself the country's first large-scale community development effort built around an anti-displacement mission: every current Sunnydale household is promised a new affordable home [2]. Mercy Housing California and Related California are building 1,700 new homes in all [2]. The new buildings are opening one by one. Casala opened in 2019 with 55 Sunnydale families and Malosi in 2022 with 167 [2]. In 2024 Mayor London Breed, who grew up in public housing, marked the topping out of Amani and Nia at Sunnydale Avenue and Hahn Street, with 170 apartments and space for a grocery store and a health centre [3]. Both were finished in 2025, and a new recreation center at the edge of McLaren Park was due to open in January 2026 [2][4].",
+    "people": [
+      {
+        "name": "Keith \"Kilo\" Perry",
+        "role": "Sunnydale barber"
+      },
+      {
+        "name": "London Breed",
+        "role": "Mayor of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Life at the bottom: S.F.'s Sunnydale project",
+        "publisher": "San Francisco Chronicle (Leslie Fulbright)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/news/article/Life-at-the-bottom-S-F-s-Sunnydale-project-3228433.php",
+        "supports": "Conditions in 2008, Perry quote, Housing Authority admission"
+      },
+      {
+        "title": "Development Plan",
+        "publisher": "Sunnydale HOPE SF (Mercy Housing & Related California)",
+        "year": 2026,
+        "url": "https://gosunnydale.org/community/development-plan/",
+        "supports": "HOPE SF 2007 anti-displacement mission, 1,700 homes, Casala, Malosi, Amani, Nia completion"
+      },
+      {
+        "title": "Mayor Breed celebrates 'topping out' of two new affordable housing communities at Sunnydale HOPE SF",
+        "publisher": "City and County of San Francisco",
+        "year": 2024,
+        "url": "https://www.sf.gov/news/mayor-breed-celebrates-topping-out-two-new-affordable-housing-communities-sunnydale-hope-sf",
+        "supports": "Blocks 3A/3B, 170 apartments, Sunnydale & Hahn location, Breed quote, planned grocery and health centre"
+      },
+      {
+        "title": "Herz Recreation Center opens",
+        "publisher": "Sunnydale HOPE SF",
+        "year": 2025,
+        "url": "https://gosunnydale.org/herz-recreation-center-opens/",
+        "supports": "Herz Recreation Center opening in early January 2026 as a gateway to McLaren Park"
+      }
+    ],
+    "photo": null
+  }
+]

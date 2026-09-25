@@ -1,0 +1,668 @@
+[
+ {
+  "id": "noe-valley-rancho-san-miguel",
+  "title": "Don José's rancho above the valley",
+  "theme": "indigenous-early",
+  "year": 1845,
+  "yearEnd": 1862,
+  "place": {
+   "label": "Grand View Avenue between 22nd and Elizabeth streets (approximate early Noé homesite)",
+   "lat": 37.753,
+   "lon": -122.441,
+   "precision": "area"
+  },
+  "hook": "The whole neighbourhood was once one man's cattle range, and historians still argue over where he actually lived.",
+  "story": "José de Jesús Noé was born in Puebla, Mexico, in 1805 and came north in 1834 with the Híjar-Padrés colony, bringing his wife Guadalupe Garduño and their baby son Miguel [1]. In 1845 he petitioned the governor of Alta California for one square league of land west of Mission Dolores. He said his herds of cattle and horses had grown too big for his old pasture [2]. The grant, Rancho San Miguel, came to about 4,443 acres. It covered today's Noe Valley, the Castro, Glen Park and Diamond Heights. For part of 1846 Noé served as alcalde of Yerba Buena [1].\n\nWhere he lived on all that land is less clear. Historian Mae Silver placed his homestead near 23rd and Guerrero, and an earlier homesite off Grand View between 22nd and Elizabeth [3]. The Noe Valley Voice has written that he reportedly ran the rancho from a Grand View homestead [4]. The Gold Rush and the American conquest ended the rancho way of life, and Noé began selling in 1852. The 1862 city directory lists him simply as \"farmer, dwelling on old San Jose Road\" [1].",
+  "people": [
+   {
+    "name": "José de Jesús Noé",
+    "role": "Californio ranchero and last Mexican alcalde of Yerba Buena"
+   },
+   {
+    "name": "Mae Silver",
+    "role": "historian of Rancho San Miguel"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Neighborhood Historian Sheds New Light on the Image of Jose Noe",
+    "publisher": "Noe Valley Voice",
+    "year": 2001,
+    "url": "http://www.noevalleyvoice.com/2001/September/Jose.html",
+    "supports": "Noé's biography, grant size, alcalde role, 1852 sales, 1862 directory entry"
+   },
+   {
+    "title": "Noe Valley Land Suit (transcribing the San Francisco Call, 13 August 1895)",
+    "publisher": "SFGenealogy",
+    "year": 1895,
+    "url": "https://legacy.sfgenealogy.org/sf/history/hgnoe.htm",
+    "supports": "1845 petition text about cattle and horses"
+   },
+   {
+    "title": "Noe Valley History (from the chapbook Rancho San Miguel)",
+    "publisher": "FoundSF / Mae Silver",
+    "year": 1992,
+    "url": "https://www.foundsf.org/index.php?title=Noe_Valley_History",
+    "supports": "Competing Noé homestead sites"
+   },
+   {
+    "title": "History of the Neighborhood",
+    "publisher": "Noe Valley Voice",
+    "year": null,
+    "url": "http://www.noevalleyvoice.com/valley.shtml",
+    "supports": "Grand View homestead tradition"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-horners-addition",
+  "title": "A Mormon farmer names the streets",
+  "theme": "gold-rush-victorian",
+  "year": 1854,
+  "yearEnd": 1857,
+  "place": {
+   "label": "Elizabeth and Noe streets, in the heart of Horner's Addition",
+   "lat": 37.7523,
+   "lon": -122.4327,
+   "precision": "area"
+  },
+  "hook": "Elizabeth Street is named after a pioneer's wife and Jersey Street after his home state. Many of Noe Valley's street names came from one man's life.",
+  "story": "John Meirs Horner came to Yerba Buena in 1846 on the ship Brooklyn with Sam Brannan's party of Mormons. He became one of California's most successful early farmers [1]. In 1853 or 1854 (sources differ) he bought a large part of Noé's rancho [1][2]. He later wrote that they paid $285,000 for 5,250 acres and staked out 1,050 of them in streets, blocks and lots. The tract was called Horner's Addition [2].\n\nHe probably named many of its east-west streets. His own names became John (now 22nd) and Horner (23rd). Elizabeth was named for his wife and Jersey for his home state. Temple, Navy, Army, Vale, Dale and Grove later became 25th, 26th, Cesar Chavez, 28th, 29th and 30th [2]. On 29 January 1854 Caroline Barnes Crosby, who lived with the Horners, walked the hills to see \"br Horners new purchase\" and the adobe \"where the spaniard resides.\" She called it \"a most beautiful and romantic place\" [2].\n\nBut the hills were steep and hard to reach, and few lots sold. Horner lost his fortune in the Panic of 1857 and had to sell his land [1][3].",
+  "people": [
+   {
+    "name": "John Meirs Horner",
+    "role": "farmer and developer of Horner's Addition"
+   },
+   {
+    "name": "Caroline Barnes Crosby",
+    "role": "Mormon diarist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "John M. Horner",
+    "publisher": "Wikipedia (citing SF Planning South Mission survey)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/John_M._Horner",
+    "supports": "Brooklyn arrival, purchase, poor lot sales, Panic of 1857"
+   },
+   {
+    "title": "John Meirs Horner",
+    "publisher": "SFGenealogy",
+    "year": null,
+    "url": "https://legacy.sfgenealogy.org/sf/history/hgoe04.htm",
+    "supports": "Horner's own account of acreage and price, street names, Crosby diary quotes"
+   },
+   {
+    "title": "Neighborhood Historian Sheds New Light on the Image of Jose Noe",
+    "publisher": "Noe Valley Voice",
+    "year": 2001,
+    "url": "http://www.noevalleyvoice.com/2001/September/Jose.html",
+    "supports": "Horner laid out and named streets, lost claim in 1857 panic"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-southern-pacific-line",
+  "title": "The railroad that cut the valley diagonally",
+  "theme": "gold-rush-victorian",
+  "year": 1864,
+  "yearEnd": 1942,
+  "place": {
+   "label": "Dolores Street at 27th Street, where the Southern Pacific bridge crossed",
+   "lat": 37.7455,
+   "lon": -122.4248,
+   "precision": "street"
+  },
+  "hook": "Wonder why some Noe Valley houses are shaped like slices of pie? A steam railroad ran diagonally through the neighbourhood for nearly 80 years.",
+  "story": "In January 1864 the first train on the San Francisco–San Jose line left the city. It blew smoke across open cattle land on its way south. The route followed the flattest ground it could find. It ran down Harrison Street, angled west across the Mission, and curved southwest near today's Cesar Chavez and Dolores. Then it cut diagonally across lower Noe Valley to Duncan Street and ran south to 30th [1].\n\nPhotos show the line's bridge over Dolores at 27th Street as late as 1929. Another bridge is visible behind houses at 29th and Dolores around 1902 [2]. After the 1906 earthquake, a photographer on Valley Street near Dolores caught St. Paul's rising behind the old railroad bridge [3].\n\nThe line lost importance in 1907, when a new bayshore route opened on filled marshland. It became a branch line and finally faded out in 1942 [1]. The city grew around the tracks, and you can still trace the route today. Look for the odd triangular houses built to fit the right-of-way along its old path [1].",
+  "people": [
+   {
+    "name": "Richard Brandi",
+    "role": "architectural historian who traced the route"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Noe Valley's 'Lost' Railroad Remembered",
+    "publisher": "Noe Valley Voice",
+    "year": 2009,
+    "url": "http://www.noevalleyvoice.com/2009/November/RR.htm",
+    "supports": "1864 opening, route, 1907 decline, 1942 end, triangular houses"
+   },
+   {
+    "title": "Trains in the Mission",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Trains_in_the_Mission",
+    "supports": "Bridge over Dolores at 27th (1929) and at 29th & Dolores (c.1902)"
+   },
+   {
+    "title": "Noe Valley after 1906 Quake",
+    "publisher": "FoundSF / OpenSFHistory",
+    "year": 1906,
+    "url": "https://www.foundsf.org/index.php?title=Noe_Valley_after_1906_Quake",
+    "supports": "1906 photo of Valley St near Dolores with SP bridge"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-axford-house",
+  "title": "An ironworks owner's country house",
+  "theme": "architecture-landmarks",
+  "year": 1877,
+  "yearEnd": null,
+  "place": {
+   "label": "Axford House, 1190 Noe Street at 25th Street",
+   "lat": 37.74997,
+   "lon": -122.43196,
+   "precision": "building"
+  },
+  "hook": "Before the rows of Victorians came, an English ironworker built a farmhouse here with its own well and a hay lift. It still stands.",
+  "story": "In 1877 Noe Valley was still close to open country. William Axford, born in England in 1837, built a Stick-style house and carriage house on the corner of Noe and 25th [1]. He owned the Mission Iron Works, which the city's landmark report says began as a cottage industry run from the property itself [1].\n\nThe house was one of the first in the neighbourhood. Like many early homes here, it had its own water supply, because city water did not reach it until 1905. The carriage house still has a hay lift in its gable, and there is a garden behind an iron fence. The landmark report says that together they show the area's early rural scale. Later, denser housing grew up around them [1].\n\nThat housing came quickly after the Castro Street cable car started running in 1886 [1]. Over time the carriage house became a home, and a new wing now links it to the main house. San Francisco made the complex City Landmark No. 133 in 1981 [1][2].",
+  "people": [
+   {
+    "name": "William Axford",
+    "role": "owner of the Mission Iron Works"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #133: Axford House",
+    "publisher": "NoeHill (quoting Planning Commission Resolution 8943, 1981)",
+    "year": 1981,
+    "url": "http://noehill.com/sf/landmarks/sf133.asp",
+    "supports": "All building details, Axford biography, water, cable car"
+   },
+   {
+    "title": "Axford House",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Axford_House",
+    "supports": "Built 1877 by William Axford, owner of Mission Iron Works"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-castro-cable-car",
+  "title": "The little cable car over the hill",
+  "theme": "architecture-landmarks",
+  "year": 1887,
+  "yearEnd": 1941,
+  "place": {
+   "label": "Castro Street at 26th Street, site of the cable car turntable",
+   "lat": 37.74785,
+   "lon": -122.4337,
+   "precision": "street"
+  },
+  "hook": "Electric streetcars couldn't climb the Castro hill, so Noe Valley kept its own cable car for 35 years after the rest of Market Street's cable network was gone.",
+  "story": "The hill between Eureka and Noe valleys kept Noe Valley out of easy reach until the Market Street Cable Railway brought its line over it. The line ran down Castro to 26th Street. Sources give different opening dates: the city's Axford House report says 1886, and the Noe Valley Voice says 1887 [1][2]. Once it arrived, farmland on the valley floor became rows of Victorians [2].\n\nAfter the 1906 earthquake, faster electric streetcars replaced the cable lines on Market Street. Castro between 18th and 26th was the exception. It was too steep for electric cars, so it stayed a small cable shuttle. Noe Valley riders took it over the hill to catch streetcars downtown [3].\n\nAt 26th Street the cars were turned on a turntable, sometimes with help from local boys. Children called the small cars \"Dinkies\" [3][4]. The Castro cable made its last run on 5 April 1941, and a bus replaced it [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #133: Axford House",
+    "publisher": "NoeHill",
+    "year": 1981,
+    "url": "http://noehill.com/sf/landmarks/sf133.asp",
+    "supports": "Castro cable began service 1886 and spurred building"
+   },
+   {
+    "title": "History of the Neighborhood",
+    "publisher": "Noe Valley Voice",
+    "year": null,
+    "url": "http://www.noevalleyvoice.com/valley.shtml",
+    "supports": "1887 extension to 26th Street and Victorian development"
+   },
+   {
+    "title": "Cable Car to Castro",
+    "publisher": "Market Street Railway",
+    "year": 2008,
+    "url": "https://www.streetcar.org/cable_car_to_castro/",
+    "supports": "Post-1906 survival due to steepness, shuttle role, turntable, 1941 end"
+   },
+   {
+    "title": "The Little Girl in the Window",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Little_Girl_in_the_Window",
+    "supports": "'Dinkies' nickname, 26th Street turntable"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-schneider-house-moved",
+  "title": "The house that walked downhill",
+  "theme": "communities",
+  "year": 1893,
+  "yearEnd": null,
+  "place": {
+   "label": "23rd Street between Church and Chattanooga (3780–3784 23rd St)",
+   "lat": 37.75358,
+   "lon": -122.42715,
+   "precision": "block"
+  },
+  "hook": "In 1893 a crew jacked up a whole family home and slid it down the slope to face another street. Its walls held through 1906, though the fireplace did not.",
+  "story": "Noe Valley illustrator Florence Holub arrived from Idaho in 1925 at age six. Her family stayed with the Haglunds, part of the neighbourhood's Swede-Finn colony, while her mother looked for a place to live. From their window Florence watched a grand Victorian across 23rd Street [1][2].\n\nYears later a schoolmate whose family had lived there told her its story. The house was built in 1869 facing Church Street. It had a stable and a windmill with a water tower, fed from a well on 24th Street. In 1893, grading for a new streetcar line forced a move. Using jacks, blocks and timbers, a crew lowered the house down the slope and set it on a new foundation facing 23rd [1].\n\nNicholas Schneider and Mary Pracy Schneider raised six children there. Their sons Nicholas and George went on to found Schneider Brothers, fur dealers on Post Street [1]. The house survived 1906, but its fireplace broke apart. The bricks fell into the garden and missed the parlour where the family had gathered [2]. Holub's two columns give the address as 3780 and 3784 23rd Street.",
+  "people": [
+   {
+    "name": "Florence Holub",
+    "role": "Noe Valley illustrator and columnist"
+   },
+   {
+    "name": "Nicholas and Mary Pracy Schneider",
+    "role": "owners of the house"
+   },
+   {
+    "name": "Esther (Reicks) Koch",
+    "role": "descendant who shared the family history"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Florence's Family Album: A House with a Rich Past",
+    "publisher": "Noe Valley Voice",
+    "year": 1999,
+    "url": "http://www.noevalleyvoice.com/1999/December-January/9912flo.htm",
+    "supports": "1869 construction, 1893 move, Schneider family, furriers, Swede-Finn colony"
+   },
+   {
+    "title": "Florence's Family Album: Fragments of the '06 Earthquake",
+    "publisher": "Noe Valley Voice",
+    "year": 2006,
+    "url": "http://www.noevalleyvoice.com/2006/April/Flor.html",
+    "supports": "Haglunds, 1906 fireplace story, 3784 address"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-24-million-lawsuit",
+  "title": "The $24 million suit against a neighbourhood",
+  "theme": "gold-rush-victorian",
+  "year": 1895,
+  "yearEnd": null,
+  "place": {
+   "label": "24th and Noe streets, in the former Rancho San Miguel",
+   "lat": 37.75151,
+   "lon": -122.43213,
+   "precision": "area"
+  },
+  "hook": "In 1895 Noé's heirs threatened to sue more than 7,000 landowners, even though Noé himself had told his sons never to go to court.",
+  "story": "In March 1862, knowing he was dying, José de Jesús Noé wrote his will. It divided what remained of Rancho San Miguel among his children. It also advised his sons to settle any quarrels through \"friendly arbitration\" and avoid legal proceedings [1].\n\nThirty-three years later his heirs went the other way. On 13 August 1895 the San Francisco Call reported a coming suit for about $24 million in property. It would cover the whole old rancho, and more than 7,000 defendants would be served, among them the City, the Southern Pacific, the Stanford and Crocker estates and Adolph Sutro [2]. The plaintiffs were Noé's son Miguel and two grandchildren. They argued that when Noé's wife died in 1848, Mexican law had passed her share to the children. If so, the sale to Horner five years later was invalid [2].\n\nThe next day's Call carried the headline \"Land-Owners Laugh at the Twenty-Four Million Dollar Suit\" [2]. The suit failed. By then, as the Noe Valley Voice notes, the land was mostly covered with Victorian houses [3].",
+  "people": [
+   {
+    "name": "Miguel Noé",
+    "role": "son of José de Jesús Noé and plaintiff"
+   },
+   {
+    "name": "José de Jesús Noé",
+    "role": "rancho grantee"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Rancho San Miguel Disappears",
+    "publisher": "FoundSF / Mae Silver",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Rancho_San_Miguel_Disappears",
+    "supports": "Noé's 1862 will and arbitration advice"
+   },
+   {
+    "title": "Noe Valley Land Suit (San Francisco Call, 13–14 August 1895)",
+    "publisher": "SFGenealogy",
+    "year": 1895,
+    "url": "https://legacy.sfgenealogy.org/sf/history/hgnoe.htm",
+    "supports": "$24M claim, 7,000 defendants, named parties, legal theory, 'Land-Owners Laugh'"
+   },
+   {
+    "title": "Neighborhood Historian Sheds New Light on the Image of Jose Noe",
+    "publisher": "Noe Valley Voice",
+    "year": 2001,
+    "url": "http://www.noevalleyvoice.com/2001/September/Jose.html",
+    "supports": "Suit was unsuccessful; land filled with Victorians"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-douglass-quarry-fight",
+  "title": "Neighbours versus the dynamite brothers",
+  "theme": "labor-industry",
+  "year": 1900,
+  "yearEnd": null,
+  "place": {
+   "label": "Douglass Playground, Douglass and 26th streets (former Gray Brothers quarry)",
+   "lat": 37.747,
+   "lon": -122.4388,
+   "precision": "area"
+  },
+  "hook": "The rock walls in Douglass Playground were cut by quarrymen who went on blasting while their neighbours' windows broke.",
+  "story": "George and Harry Gray were San Francisco's most notorious quarrymen. In 1895 a judge ordered them to stop blasting on Telegraph Hill after a rockslide from their blasting crushed a duplex there. They moved their operation to a new quarry near 26th and Douglass in Noe Valley [1].\n\nThe complaints followed them. In November 1899 local residents sued over flying rock, broken windows, cracked plaster, and broken sewer pipes spilling onto the street. On 25 May 1900 about 40 residents, \"most of them ladies,\" went to the Board of Supervisors to protest that the blasting was still going on [1]. The Grays had political friends. Supervisors warned that \"1,500 men would be thrown out of work\" if the quarry closed and promised to inspect the site. They never did [1].\n\nThe brothers were hated across the city for careless blasting and poor-quality products, and they sometimes failed to pay their workers [2]. Quarrying in Noe Valley went on until 1914 [2][3]. The sheer rock walls on the west side of Douglass Playground are what remains [1].",
+  "people": [
+   {
+    "name": "George Gray",
+    "role": "quarry owner"
+   },
+   {
+    "name": "Harry Gray",
+    "role": "quarry owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Gray Brothers Noe Valley Quarry",
+    "publisher": "FoundSF (Anika Okje Erdmann)",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Gray_Brothers_Noe_Valley_Quarry",
+    "supports": "Move from Telegraph Hill, 1899 suit, 1900 Supervisors protest, quarry walls"
+   },
+   {
+    "title": "Billy Goat Hill Finds Friends and Funding for Trails",
+    "publisher": "Noe Valley Voice",
+    "year": 2009,
+    "url": "http://www.noevalleyvoice.com/2009/November/Billy.htm",
+    "supports": "Grays' reputation, unpaid workers, quarrying ended 1914"
+   },
+   {
+    "title": "Noe Valley, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Noe_Valley,_San_Francisco",
+    "supports": "Quarries operated until 1914"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-frances-gibson-1906",
+  "title": "The well that watered 2,000 refugees",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "70 Clipper Street, between Church and Dolores",
+   "lat": 37.74958,
+   "lon": -122.42651,
+   "precision": "building"
+  },
+  "hook": "The earthquake broke the city's water mains. On Clipper Street, a teenager's family pumped their old backyard well 500 strokes a day for their neighbours.",
+  "story": "Frances Gibson was 19 and living at 70 Clipper Street with her Irish immigrant parents and several siblings when the earthquake hit at 5:13 a.m. by the family clock. \"That sure was a corker!\" her brother Tom said when the shaking stopped [1]. Mains laid around 1900 had brought running water to Noe Valley, and the quake broke them. The Gibsons still had a 40-foot well on an underground creek, and it kept working [1].\n\nOn 19 April people said Noe Valley would be dynamited if the fire reached 20th Street. The Powers brothers carted the family's belongings free of charge to the hill at 29th and Noe, and eleven of them slept on mattresses on the grass. The fire was stopped at 20th Street [1].\n\nIn the weeks that followed, refugees nearly doubled the neighbourhood's population. Soldiers camped on the 25th Street hill, and James Lick School became a food depot and emergency hospital [1]. Photographs show Valley Street residents living outdoors for days [2]. The Gibsons' well supplied more than 2,000 people. It took 500 strokes of the pump each day to keep the tank full [1].",
+  "people": [
+   {
+    "name": "Frances Gibson",
+    "role": "19-year-old eyewitness and later Twin Peaks Sentinel writer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "1906 in Noe: An Eyewitness Account of the Great Quake and Fire (from the 1931 Twin Peaks Sentinel)",
+    "publisher": "Noe Valley Voice",
+    "year": 2006,
+    "url": "http://www.noevalleyvoice.com/2006/April/Eye.html",
+    "supports": "Gibson's account: address, well, evacuation, refugees, James Lick relief station"
+   },
+   {
+    "title": "Noe Valley after 1906 Quake",
+    "publisher": "FoundSF / OpenSFHistory",
+    "year": 1906,
+    "url": "https://www.foundsf.org/index.php?title=Noe_Valley_after_1906_Quake",
+    "supports": "Photos of residents living outdoors on Valley Street"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-st-philip-workshop-chapel",
+  "title": "A parish born in a 24th Street workshop",
+  "theme": "communities",
+  "year": 1910,
+  "yearEnd": 1925,
+  "place": {
+   "label": "St. Philip the Apostle Church, 725 Diamond Street",
+   "lat": 37.75163,
+   "lon": -122.43602,
+   "precision": "building"
+  },
+  "hook": "Upper Noe Valley's Catholics were tired of climbing hills and crossing creeks to get to Mass. So they started a church in an old workshop.",
+  "story": "In 1910 upper Noe Valley was a working-class, largely Irish neighbourhood with wooden sidewalks on 24th Street. It had no Catholic church of its own [1]. Every choice meant a long walk. Most Holy Redeemer was over the steep hill at 18th and Diamond. St. James was more than a mile downhill at 23rd and Guerrero. St. Paul's, at Church and 29th, was also about a mile from Diamond Street. \"You had to cross three creeks to get to church,\" as one longtime parishioner puts it [1].\n\nArchbishop Patrick Riordan approved a new parish, and the job of starting it went to Father John Cullen from County Cavan, Ireland. The first chapel was a converted workshop at 4296 24th Street. Cullen lived in a rented upper flat a few doors away, at 4262, for nearly two years [1].\n\nThe congregation soon outgrew the workshop. It opened a church on Elizabeth Street in 1914, then raised $71,000 for a Romanesque church at Diamond and Elizabeth, where the first Mass was held in 1925 [1]. Mae Silver's history notes that the Irish were the largest group in Noe and Eureka valleys from the start [2].",
+  "people": [
+   {
+    "name": "Father John Cullen",
+    "role": "founding pastor"
+   },
+   {
+    "name": "Archbishop Patrick Riordan",
+    "role": "approved the parish"
+   }
+  ],
+  "sources": [
+   {
+    "title": "St. Philip's Celebrates Its Centennial With Grace",
+    "publisher": "Noe Valley Voice",
+    "year": 2010,
+    "url": "http://www.noevalleyvoice.com/2010/October/StPh.htm",
+    "supports": "Founding, workshop chapel, addresses, 1914 and 1925 churches, cost"
+   },
+   {
+    "title": "Noe Valley History (from the chapbook Rancho San Miguel)",
+    "publisher": "FoundSF / Mae Silver",
+    "year": 1992,
+    "url": "https://www.foundsf.org/index.php?title=Noe_Valley_History",
+    "supports": "Irish predominance in Noe Valley"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-st-pauls-pay-as-you-go",
+  "title": "Fourteen years to build, debt-free",
+  "theme": "communities",
+  "year": 1911,
+  "yearEnd": null,
+  "place": {
+   "label": "St. Paul's Catholic Church, 221 Valley Street at Church Street",
+   "lat": 37.74419,
+   "lon": -122.42774,
+   "precision": "building"
+  },
+  "hook": "Noe Valley's twin-spired church took 14 years to build because the priest refused to borrow. Part of it is quarry granite and rubble from 1906.",
+  "story": "St. Paul's parish started in 1876. That year George Shadbourne asked Archbishop Alemany for a new parish and offered to help raise the money. A church for about 750 people opened in 1880 [1].\n\nIn 1897 Father Michael Connolly started a much larger English Gothic church designed by Frank T. Shea. Connolly acted as his own contractor, and nearly every able-bodied man in the parish worked on it. He refused to borrow and paid for the work as money came in from contests, raffles and bazaars, so construction took more than a decade [2]. The walls are granite from a quarry near 30th and Castro, with some curbstones and rubble from the 1906 earthquake [2]. Archbishop Riordan dedicated the church on 29 May 1911, free of debt [1][2]. Its two unequal slate-covered spires can be seen from almost anywhere in Noe Valley. The taller one is about 200 feet high [3].\n\nSources disagree about who filled the pews. FoundSF calls St. Paul's a bastion of the city's Irish Catholics, while a parish history in the Voice describes the area as a German immigrant stronghold [4][5].",
+  "people": [
+   {
+    "name": "Father Michael Connolly",
+    "role": "pastor and self-appointed contractor"
+   },
+   {
+    "name": "Frank T. Shea",
+    "role": "architect"
+   },
+   {
+    "name": "George Shadbourne",
+    "role": "parish founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "St. Paul's Catholic Church (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/St._Paul%27s_Catholic_Church_(San_Francisco)",
+    "supports": "1876 founding, 1880 church, 1911 dedication"
+   },
+   {
+    "title": "St. Paul's at the Millennium",
+    "publisher": "Noe Valley Voice",
+    "year": 1997,
+    "url": "http://www.noevalleyvoice.com/1997/June/spaul697.html",
+    "supports": "Connolly, Shea, pay-as-you-go, granite from 30th & Castro quarry, 1906 rubble"
+   },
+   {
+    "title": "Steeples at St. Paul's Get a Makeover",
+    "publisher": "Noe Valley Voice",
+    "year": 2009,
+    "url": "http://www.noevalleyvoice.com/2009/October/StP.htm",
+    "supports": "Spire heights, 1897–1911 construction"
+   },
+   {
+    "title": "St Paul's",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=St_Paul%27s",
+    "supports": "'Bastion of SF's Irish Catholics'"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-engine-24-no-horses",
+  "title": "The firehouse redrawn without horses",
+  "theme": "labor-industry",
+  "year": 1914,
+  "yearEnd": null,
+  "place": {
+   "label": "Engine Company No. 24, 100 Hoffman Avenue",
+   "lat": 37.75313,
+   "lon": -122.44102,
+   "precision": "building"
+  },
+  "hook": "Halfway through its design, this brick firehouse lost its horse stalls. It was one of the first signs the city's fire department was switching to motor engines.",
+  "story": "In 1914 the city built a two-storey brick firehouse on Hoffman Avenue, high on the western slope of Noe Valley. It has an arched entry and a simple bracketed cornice [1]. The architect was John Reid Jr. Two years later he also designed the neighbourhood's Carnegie library [1][2].\n\nWhat makes the building special is a change to the plans. Reid's first drawings were revised so the station would house motor-driven engines, with no stalls or other provision for horses. NoeHill describes the change as the beginning of the department's switch from horses to motors [1].\n\nThe firehouse is still in use. It was enlarged in 1997, and Engine 24 still answers calls from the Hoffman Avenue building, covering Noe Valley, Twin Peaks and parts of the Mission [1][3].",
+  "people": [
+   {
+    "name": "John Reid Jr.",
+    "role": "city architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Engine Company No. 24",
+    "publisher": "NoeHill",
+    "year": 2012,
+    "url": "http://noehill.com/sf/landmarks/poi_engine_company_24.asp",
+    "supports": "1914, Reid, design revised for motors with no horse provision"
+   },
+   {
+    "title": "San Francisco Landmark #259: Carnegie Library Noe Valley",
+    "publisher": "NoeHill",
+    "year": 2012,
+    "url": "http://noehill.com/sf/landmarks/sf259.asp",
+    "supports": "Reid also designed the 1916 library"
+   },
+   {
+    "title": "Inside the Neighborhood's Firehouses",
+    "publisher": "Noe Valley Voice",
+    "year": 2012,
+    "url": "http://www.noevalleyvoice.com/2012/December-January/Fire.htm",
+    "supports": "Built 1914, enlarged 1997, still in service"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-george-gray-shooting",
+  "title": "$17.50 and a shot at the quarry",
+  "theme": "labor-industry",
+  "year": 1914,
+  "yearEnd": null,
+  "place": {
+   "label": "Castro Street near 29th, below the Gray Brothers quarry",
+   "lat": 37.7436,
+   "lon": -122.4336,
+   "precision": "area"
+  },
+  "hook": "A sick, starving quarryman asked a millionaire for $17.50 in back pay. What happened next shut the quarry down, and a jury let him go.",
+  "story": "The Gray Brothers quarry above 29th and Castro produced gravel for Noe Valley's roads [1]. Some of its granite went into the walls of St. Paul's Church [2].\n\nOn 10 November 1914 Joseph Lococo, a 36-year-old Sicilian immigrant, went to find George Gray at the quarry. He wanted $17.50 in unpaid wages. According to FoundSF, Lococo was sick and had not eaten in two days. His wife and two babies were going hungry, and they were about to be evicted from their home on Arkansas Street. Gray, by then a millionaire, laughed and told him to leave. Lococo shot him dead [3].\n\nLococo was acquitted, on grounds of temporary insanity according to FoundSF. Both FoundSF and local historian Greg Gaar describe cheering in the courtroom [1][3]. The company went bankrupt and the quarry closed. The scarred hillside became a place for picnics and children's games. Today part of it is Billy Goat Hill [1][3].",
+  "people": [
+   {
+    "name": "Joseph Lococo",
+    "role": "quarry worker"
+   },
+   {
+    "name": "George Gray",
+    "role": "quarry owner"
+   },
+   {
+    "name": "Greg Gaar",
+    "role": "local historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Billy Goat Hill Finds Friends and Funding for Trails",
+    "publisher": "Noe Valley Voice",
+    "year": 2009,
+    "url": "http://www.noevalleyvoice.com/2009/November/Billy.htm",
+    "supports": "Quarry supplied road gravel, shooting, acquittal, cheering, closure, picnics"
+   },
+   {
+    "title": "St. Paul's at the Millennium",
+    "publisher": "Noe Valley Voice",
+    "year": 1997,
+    "url": "http://www.noevalleyvoice.com/1997/June/spaul697.html",
+    "supports": "St. Paul's granite from quarry near 30th and Castro"
+   },
+   {
+    "title": "Gray Brothers Noe Valley Quarry",
+    "publisher": "FoundSF (Anika Okje Erdmann)",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Gray_Brothers_Noe_Valley_Quarry",
+    "supports": "Date, location, Lococo's circumstances, $17.50, insanity acquittal, bankruptcy"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-carnegie-library",
+  "title": "Andrew Carnegie's gift on Jersey Street",
+  "theme": "architecture-landmarks",
+  "year": 1916,
+  "yearEnd": null,
+  "place": {
+   "label": "Noe Valley/Sally Brunn Branch Library, 451 Jersey Street",
+   "lat": 37.75029,
+   "lon": -122.43511,
+   "precision": "building"
+  },
+  "hook": "Built with steel magnate Andrew Carnegie's money on the street Horner named for his home state, this 1916 library has lent books to Noe Valley for more than a century.",
+  "story": "Noe Valley had a branch library before it had this building. FoundSF says the branch was the seventh in the San Francisco Public Library system and that its first home was at 1308 Castro Street [1].\n\nWith a grant from Andrew Carnegie, the city then built a two-storey branch of brick and terra cotta on Jersey Street. It was finished on 17 September 1916 for $45,499, furnishings included [1]. The architect was John Reid Jr., who had designed the Hoffman Avenue firehouse two years earlier. It was the third of seven Carnegie branch libraries in San Francisco, and all seven are still libraries [2].\n\nNeighbours have looked after it ever since. They added a deck and community garden in the 1970s. Later they sold 250 engraved bricks, and more than 400 households gave money during a 2006–08 seismic renovation [1][3]. The city made the building Landmark No. 259 [2].",
+  "people": [
+   {
+    "name": "Andrew Carnegie",
+    "role": "philanthropist"
+   },
+   {
+    "name": "John Reid Jr.",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Andrew Carnegie's Noe Valley Library",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Andrew_Carnegie%27s_Noe_Valley_Library",
+    "supports": "Seventh branch, 1308 Castro, completion date and cost, Reid, later community work"
+   },
+   {
+    "title": "San Francisco Landmark #259: Carnegie Library Noe Valley",
+    "publisher": "NoeHill",
+    "year": 2012,
+    "url": "http://noehill.com/sf/landmarks/sf259.asp",
+    "supports": "1916, Reid, third of seven Carnegie branches, landmark number"
+   },
+   {
+    "title": "Noe's Carnegie Library Seeking Landmark Status",
+    "publisher": "Noe Valley Voice",
+    "year": 2007,
+    "url": "http://www.noevalleyvoice.com/2007/October/Lib.html",
+    "supports": "Brick sale and community fundraising"
+   }
+  ],
+  "photo": null
+ }
+]

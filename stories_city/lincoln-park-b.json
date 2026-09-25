@@ -1,0 +1,732 @@
+[
+  {
+    "id": "lincoln-park-va-hospital-evacuated",
+    "title": "The Hospital Emptied by Pearl Harbor",
+    "theme": "war-military",
+    "year": 1941,
+    "yearEnd": 1946,
+    "place": {
+      "label": "San Francisco VA Medical Center, 4150 Clement Street (Fort Miley)",
+      "lat": 37.78154,
+      "lon": -122.50485,
+      "precision": "building"
+    },
+    "hook": "Four days after Pearl Harbor, 300 veterans were moved out of their brand-new hospital. Its neighbours were big guns, and the Army expected bombers.",
+    "story": "In 1932 the Army handed 29 acres of Fort Miley to the Veterans Administration. Barracks, stables, a mess hall and the officers' club came down, and a 21-building complex went up for $1.25 million in the Mayan Deco style of the day, meant to look strong, permanent and efficient [1]. It opened on Armistice Day, 11 November 1934, with 25 staff doctors and 340 beds, 12 of them for women [2]. The site had one drawback. It sat in the middle of a coastal fort. When Japan attacked Pearl Harbor, the Army brought Fort Miley's old batteries back into service, and on 11 December 1941, fearing an air raid on San Francisco, the hospital sent away its 300 patients [2]. For the rest of the war the empty wards stood on alert, ringed by mobile guns [2]. Patients were only allowed back in 1946 [2]. The complex has been expanded several times since. A modernization programme started in 1963, and a $35 million seismic upgrade was finished in 2008 [1]. Western Neighborhoods Project notes it now serves more than 310,000 veterans across Northern California [3].",
+    "people": [
+      {
+        "name": "Veterans Administration",
+        "role": "built and runs the hospital"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vestiges of Lincoln Park: VA Medical Center",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2022,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+        "supports": "29-acre transfer in 1932, demolitions, $1.25M cost, 21 buildings, Mayan Deco style, 1934 dedication, wartime evacuation, reopening in 1946, 1963 modernization, 2008 seismic upgrade"
+      },
+      {
+        "title": "History | VA San Francisco Health Care",
+        "publisher": "U.S. Department of Veterans Affairs",
+        "year": 2023,
+        "url": "https://www.va.gov/san-francisco-health-care/about-us/history/",
+        "supports": "Opened 11 Nov 1934 with 25 doctors and 340 beds (12 for women); 300 patients evacuated 11 Dec 1941; mobile guns; return in 1946"
+      },
+      {
+        "title": "Streetwise: Hospitals in San Francisco's Western Neighborhoods",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/streetwise-hospitals-in-san-franciscos-western-neighborhoods.php",
+        "supports": "Army buildings demolished in 1934; serves more than 310,000 veterans"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-battery-chester-last-guns",
+    "title": "Guns That Arrived After the War",
+    "theme": "war-military",
+    "year": 1943,
+    "yearEnd": 1948,
+    "place": {
+      "label": "Battery Chester and Battery 243, West Fort Miley",
+      "lat": 37.782,
+      "lon": -122.50848,
+      "precision": "area"
+    },
+    "hook": "Fort Miley's 12-inch guns had been written off as obsolete. Then Pearl Harbor happened. Its newest guns weren't mounted until three years after the war ended.",
+    "story": "By 1937 the Army had decided that 12-inch batteries like Battery Chester at Fort Miley should be abandoned, and the fort's guns were decommissioned [1][2]. Then came Pearl Harbor. Chester's 12-inch guns were put back into service and guarded the approaches to the Golden Gate [1]. Once the Allies started winning in the Pacific in 1943, the danger of an attack on San Francisco seemed so remote that the Army ordered the guns salvaged [1]. Nearby, a new emplacement called Battery 243 was completed in 1944 for two 6-inch rapid-fire guns behind steel shields. Its job was to cover the submarine minefields outside the Gate [1]. Oddly, its guns weren't mounted until 1948, when most other coast guns had already been scrapped. The National Park Service calls it one of the last phases of traditional coastal defence [1]. NPS says Fort Miley's last guns left in 1950 [2]. The concrete gun pads still overlook Ocean Beach, and families now use Battery Chester as a picnic area [2].",
+    "people": [
+      {
+        "name": "Major James Chester",
+        "role": "Civil War artillery officer the battery was named for"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fort Miley Military Reservation: World War II in the San Francisco Bay Area (NRHP travel itinerary)",
+        "publisher": "National Park Service",
+        "year": null,
+        "url": "https://web.archive.org/web/20070407151621/http://www.cr.nps.gov/nr/travel/wwIIbayarea/mil.htm",
+        "supports": "1937 abandonment decision, Chester's wartime role until 1943, salvage order, Battery 243 completed 1944 for minefield cover, guns mounted in 1948, picnic area"
+      },
+      {
+        "title": "Vestiges of Lincoln Park: Battery Chester; Fort Miley",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2022,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+        "supports": "Decommissioned 1937, reactivated 1941, scrapped 1943, last guns removed 1950, foundations used as picnic area"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-frank-h-buck-wreck",
+    "title": "Collision in the Fog, and the Ship's Dog",
+    "theme": "labor-industry",
+    "year": 1937,
+    "yearEnd": null,
+    "place": {
+      "label": "Lands End Trail shipwreck overlook",
+      "lat": 37.78677,
+      "lon": -122.50465,
+      "precision": "area"
+    },
+    "hook": "An oil tanker and a luxury liner met head-on in the fog. The tanker ended up on the rocks below Lands End, beside its sister ship.",
+    "story": "On 6 March 1937 the tanker Frank H. Buck was coming in through the Golden Gate with oil from Ventura, bound for Martinez [1]. In thick fog it ran head-on into the President Coolidge, one of the two largest American passenger liners of the day. The warning signals were heard too late [1]. The liner came away with a crushed bow. The tanker was fatally holed. The Coast Guard and the San Francisco Police got all of her crew off, and the ship's dog too [1]. The Buck came to rest on the rocks off Lands End, beside its sister ship the Lyman A. Stewart. That tanker had been wrecked at the same spot after its own fog collision in 1922 [1][2]. In 1938 both hulks were dynamited in a clean-up of the wrecks littering the harbour approach [1][2]. Some of the Buck still refused to leave. From the trail overlook at low tide you can still see its engine and sternpost next to the Stewart's engine block [1][2].",
+    "people": [
+      {
+        "name": "Crew of the Frank H. Buck",
+        "role": "rescued after the collision"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vestiges of Shipwrecks: The Wreck of Frank H. Buck; The Wreck of Lyman A. Stewart",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2022,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-shipwrecks.htm",
+        "supports": "Date, route, collision with President Coolidge in fog, crew and dog rescued, resting beside Lyman A. Stewart, 1938 dynamiting, engines visible at low tide"
+      },
+      {
+        "title": "Historic Shipwrecks - Lost at the Golden Gate (NPS marker)",
+        "publisher": "Historical Marker Database",
+        "year": null,
+        "url": "https://www.hmdb.org/m.asp?m=48638",
+        "supports": "Lyman Stewart 1922 and Frank H. Buck 1937 wrecked at the same spot; dynamited 1938; engine parts visible from the marker at low tide"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-mile-rocks-decapitated",
+    "title": "The Steel Wedding Cake Loses Its Top",
+    "theme": "labor-industry",
+    "year": 1966,
+    "yearEnd": null,
+    "place": {
+      "label": "Mile Rock Beach, looking out to Mile Rocks Lighthouse",
+      "lat": 37.7874,
+      "lon": -122.50622,
+      "precision": "area"
+    },
+    "hook": "For sixty years, keepers lived on a wave-swept rock in plain sight of the city. One keeper's wife sent him flashlight greetings from Lands End.",
+    "story": "Offshore from Mile Rock Beach, the Mile Rocks lighthouse was built after the 1901 wreck of the City of Rio de Janeiro, the worst shipwreck in San Francisco's history [1]. Locals called its tiered steel tower the 'steel wedding cake' [2]. For more than 60 years a small crew lived there in cramped quarters for days at a time, cut off from a city they could see [1]. It was a 'stag station' with no room for families. One keeper's wife walked the family dog out to Lands End in the evenings and flashed a greeting to her husband with a flashlight [3]. In the 1960s the Coast Guard decided to automate the light. Supervisor William Blake and the Conference of California Historical Societies protested [3]. The keepers were removed on 18 August 1965. For $110,000 contractors cut off the lantern and the top two tiers and built a helicopter pad [3]. The Maritime Museum wanted the top 40 feet for display at the foot of Hyde Street, but saving it would have cost $87,000 more, so the living quarters were scrapped [3]. NPS dates the automation to 1966 [1].",
+    "people": [
+      {
+        "name": "William Blake",
+        "role": "San Francisco supervisor who protested the automation plan"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vestiges of Lands End Trail: Mile Rocks Lighthouse",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2022,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lands-end-trail.htm",
+        "supports": "Built after the 1901 City of Rio de Janeiro wreck; crew lived isolated for 60+ years; automated 1966, top tiers replaced with helipad"
+      },
+      {
+        "title": "Historic Shipwrecks - Lost at the Golden Gate (NPS marker)",
+        "publisher": "Historical Marker Database",
+        "year": null,
+        "url": "https://www.hmdb.org/m.asp?m=48638",
+        "supports": "'Steel wedding cake' nickname; closed and dismantled in 1966"
+      },
+      {
+        "title": "Mile Rocks Lighthouse",
+        "publisher": "Lighthouse Friends (Kraig Anderson)",
+        "year": null,
+        "url": "https://www.lighthousefriends.com/light.asp?ID=77",
+        "supports": "Stag station; wife's flashlight signal; Blake and historical societies' protest; deactivated 18 Aug 1965; $110,000 cost; Maritime Museum's failed bid for top 40 feet ($87,000)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-el-camino-del-mar-slides",
+    "title": "The Scenic Boulevard the Cliffs Swallowed",
+    "theme": "parks-nature",
+    "year": 1956,
+    "yearEnd": null,
+    "place": {
+      "label": "Former El Camino del Mar roadbed, west of the Legion of Honor",
+      "lat": 37.786,
+      "lon": -122.5035,
+      "precision": "street"
+    },
+    "hook": "The city built a grand coastal drive from the Marina to Ocean Beach. Wartime closed part of it, and landslides finished it off.",
+    "story": "El Camino del Mar was planned in the 1910s as a scenic boulevard linking the Harbor View district (today's Marina) with Ocean Beach. In 1924 it was pushed through Lincoln Park to Sutro Heights [1]. The ground had other plans. The first damaging landslide hit in 1928, and repairs went on for decades with mixed results [1]. When World War II began, the road was closed for military safety. It was repaired and reopened to the public in 1951 [1]. An NPS photograph from 1947 shows workers putting up signs warning walkers of landslide danger [2]. Then slides in 1955 and again in 1956 persuaded the city to stop repairing it until a permanent fix could be found. None ever was [1]. Engineering studies came and went. Today only fragments of the old roadway survive, as an easy walking trail from Lincoln Park to Lands End with sweeping views [1]. The same unstable bluffs killed the Lands End streetcar line and still strand the occasional hiker [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Vestiges of Lincoln Park: El Camino del Mar",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2022,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+        "supports": "Boulevard concept, 1924 extension, 1928 slide, wartime closure, 1951 reopening, 1955 and 1956 slides, repairs halted, surviving trail"
+      },
+      {
+        "title": "Vestiges of Lands End Trail: Landslides",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2022,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lands-end-trail.htm",
+        "supports": "1947 landslide warning signs; landslides ended the streetcar line and El Camino del Mar; hikers stranded"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-vertigo-carlotta",
+    "title": "Carlotta's Portrait, Gallery 6",
+    "theme": "arts-counterculture",
+    "year": 1958,
+    "yearEnd": null,
+    "place": {
+      "label": "Legion of Honor, 100 34th Avenue",
+      "lat": 37.78456,
+      "lon": -122.50096,
+      "precision": "building"
+    },
+    "hook": "Visitors still ask the Legion to show them the Portrait of Carlotta. It never belonged to the museum, and nobody knows where it went.",
+    "story": "In Alfred Hitchcock's Vertigo (1958), James Stewart's detective Scotty Ferguson trails Kim Novak's Madeleine to the Legion of Honor. She sits on a bench in Gallery 6 and stares at the Portrait of Carlotta, a 19th-century San Franciscan who looks strikingly like her [1]. The film uses three exterior and three interior scenes at the Legion, mostly the rotunda and Gallery 6. Real works from the collection hang in the background, including Largillière's Portrait of a Gentleman (1710), which the museum says can still be seen in Gallery 7 [1]. Madeleine drives her green 1957 Jaguar right up to the entrance. At the time a gravel road ran in front of the building [1]. The famous painting was a prop. It was made by the abstract expressionist John Ferren, Hitchcock's artistic adviser, and taken away when filming wrapped [1]. It reportedly vanished soon after the film was finished [1][2]. Vera Miles, who was first cast as Madeleine, had sat for an early version before she withdrew [2]. Visitors still turn up at the museum asking where Carlotta is [1].",
+    "people": [
+      {
+        "name": "Alfred Hitchcock",
+        "role": "director"
+      },
+      {
+        "name": "Kim Novak",
+        "role": "played Madeleine"
+      },
+      {
+        "name": "John Ferren",
+        "role": "painted the Carlotta prop"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lights, Camera, Action: Alfred Hitchcock's Vertigo at the Legion of Honor",
+        "publisher": "Fine Arts Museums of San Francisco (archived blog)",
+        "year": 2011,
+        "url": "https://web.archive.org/web/20220923133839/https://www.famsf.org/blog/lights-camera-action-alfred-hitchcock-s-vertigo-legion-honor",
+        "supports": "Gallery 6, three exterior and three interior scenes, collection works in shot, Jaguar and gravel road, Ferren prop removed after filming, visitors asking for it"
+      },
+      {
+        "title": "Vertigo (film)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Vertigo_(film)",
+        "supports": "Portrait lost after removal; Vera Miles modelled for an early version"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-kanrin-maru-monument",
+    "title": "Osaka's Gift for a Samurai Voyage",
+    "theme": "communities",
+    "year": 1960,
+    "yearEnd": null,
+    "place": {
+      "label": "Kanrin Maru Monument, El Camino del Mar at 34th Avenue",
+      "lat": 37.78568,
+      "lon": -122.50083,
+      "precision": "building"
+    },
+    "hook": "A granite stone above the Golden Gate marks the arrival of the first Japanese ship to cross the Pacific. Its captain had never tasted ice cream.",
+    "story": "On 17 March 1860 the Kanrin Maru sailed through the Golden Gate, the first Japanese ship ever to cross the Pacific. Japan had been closed to the outside world for more than 200 years, and only one of her crew had ever sailed out of sight of land [1]. San Franciscans stared at samurai topknots and paired swords. The visitors were amazed that the governor travelled without retainers and that men treated women as equals [1]. Captain Katsu Kaishu, later one of the architects of Japan's navy, said of the ice cream he was served: 'I have never tasted such a wonderful thing in my life' [1]. A hundred years later, on 17 May 1960, San Francisco's sister city Osaka presented this monument overlooking the Gate. It marks the centennial of diplomatic relations and a 'sincere desire to further strengthen the ties of friendship' [2]. The granite-and-bronze monument is part of the city's civic art collection [3]. It came just fifteen years after the war. As the Chronicle's Carl Nolte put it, relations 'did not live up to the early promise, as World War II proved' [1].",
+    "people": [
+      {
+        "name": "Katsu Kaishu",
+        "role": "captain of the Kanrin Maru"
+      },
+      {
+        "name": "City of Osaka",
+        "role": "donor of the monument"
+      }
+    ],
+    "sources": [
+      {
+        "title": "150th anniversary of Kanrin Maru's epic voyage",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2010,
+        "url": "https://www.sfgate.com/bayarea/article/150th-anniversary-of-Kanrin-Maru-s-epic-voyage-3269990.php",
+        "supports": "Arrival 17 Mar 1860, first Japanese ship across the Pacific, crew inexperience, local reactions, Katsu's ice cream quote, later careers, WWII remark"
+      },
+      {
+        "title": "The Arrival of the First Japanese Naval Ship (marker)",
+        "publisher": "Historical Marker Database",
+        "year": null,
+        "url": "https://www.hmdb.org/m.asp?m=18266",
+        "supports": "Inscription: gift of sister city Osaka, centennial of diplomatic relations, dated 17 May 1960, location at El Camino del Mar and 34th Ave"
+      },
+      {
+        "title": "Kanrin Maru Monument",
+        "publisher": "San Francisco Arts Commission Civic Art Collection",
+        "year": null,
+        "url": "https://kiosk.sfartscommission.org/objects-1/info/2659",
+        "supports": "Granite with bronze plaque; gift of sister city Osaka; Lincoln Park location"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-holocaust-memorial",
+    "title": "Eleven White Figures Behind Barbed Wire",
+    "theme": "communities",
+    "year": 1984,
+    "yearEnd": null,
+    "place": {
+      "label": "The Holocaust memorial by George Segal, El Camino del Mar",
+      "lat": 37.78567,
+      "lon": -122.49997,
+      "precision": "building"
+    },
+    "hook": "Some San Franciscans thought George Segal's Holocaust memorial was too grim for a beauty spot. An Auschwitz survivor at the dedication said: 'Let people be upset.'",
+    "story": "A cold rain was falling on 7 November 1984 when San Francisco dedicated its controversial memorial to the six million victims of the Holocaust [1]. George Segal's sculpture is a pile of life-size white-painted bronze corpses and one standing man at a barbed-wire fence, set in a grove across from the Legion of Honor [1][2]. Eddy Wyunschenk, 57, of San Bruno, had been pulled off a cattle car at Auschwitz at 16 and was the only survivor of his Dutch family. 'That's the way it was,' he told the Chronicle. Perhaps people disliked the piece because it was such a chilling reminder, he said. 'Let people be upset' [1]. The standing figure probably comes from Margaret Bourke-White's 1945 Life photograph of the liberation of Buchenwald. A Christ-like figure and a woman holding an apple point to the ties between Jews and Christians [3]. The memorial has been defaced again and again. In 2008 swastikas were drawn on it twice in two months [2]. Segal said the graffiti only proved that prejudice had not been solved [3].",
+    "people": [
+      {
+        "name": "George Segal",
+        "role": "sculptor"
+      },
+      {
+        "name": "Eddy Wyunschenk",
+        "role": "Auschwitz survivor at the dedication"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Holocaust memorial is dedicated (Chronicle archives, 1984)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2009,
+        "url": "https://www.sfgate.com/living/article/holocaust-memorial-is-dedicated-3281688.php",
+        "supports": "Dedication in rain on 7 Nov 1984, description, Wyunschenk quotes and biography"
+      },
+      {
+        "title": "Swastikas deface S.F. Holocaust Memorial",
+        "publisher": "San Francisco Chronicle (Rachel Gordon)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/bayarea/article/swastikas-deface-s-f-holocaust-memorial-3185257.php",
+        "supports": "11 life-size white bronze figures, barbed wire, grove across from the Legion, installed 1984, two vandalism incidents in 2008"
+      },
+      {
+        "title": "George Segal Monument",
+        "publisher": "Center for Holocaust & Genocide Studies, University of Minnesota (archived)",
+        "year": 2017,
+        "url": "https://web.archive.org/web/20170309094925/http://chgs.umn.edu/museum/memorials/segal/",
+        "supports": "Bourke-White source image, Christ-like figure and woman with apple, Segal's view of graffiti"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-legion-charnel-heap",
+    "title": "The Museum Built on a Graveyard",
+    "theme": "communities",
+    "year": 1993,
+    "yearEnd": 1994,
+    "place": {
+      "label": "Legion of Honor courtyard and underground galleries",
+      "lat": 37.7847,
+      "lon": -122.5006,
+      "precision": "building"
+    },
+    "hook": "When the Legion of Honor dug down to earthquake-proof itself, it found the poor of 19th-century San Francisco. A pipe ran inches from a skull.",
+    "story": "The Legion of Honor stands on the Potter's Field of the old City Cemetery. When it was built in 1921, workers tore open about 1,500 graves. The foreman said the only thing to do was 'scrape them over and cover them up again' [1]. In 1993 the museum dug under its courtyard for a seismic retrofit and underground expansion, and the dead came back. Archaeologist Miley Holman described a 'charnel heap', probably left over from 1921. Most were elderly people buried in redwood coffins, their bones marked by fractures and arthritis [1]. Director Harry Parker complained that the delays would cost $50,000 a month [1]. The counts differ: Alta says about 900 remains went to the medical examiner, and SF Heritage lists 578 adults and 173 children reburied in Colma [1][2]. Photographer Richard Barnes had been hired to document the renovation. He photographed plumbing running inches from an exposed skull, and a gun, a comb and a shoe from the graves [3]. He called the project a meditation: 'here was part of our history that was not interesting to the curators' [3]. Thousands more still lie beneath the museum [1].",
+    "people": [
+      {
+        "name": "Miley Holman",
+        "role": "archaeologist"
+      },
+      {
+        "name": "Richard Barnes",
+        "role": "photographer who documented the excavation"
+      },
+      {
+        "name": "Harry Parker",
+        "role": "director, Fine Arts Museums of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Hidden History of San Francisco's Graveyards",
+        "publisher": "Alta Journal (Beth Winegarner)",
+        "year": 2022,
+        "url": "https://www.altaonline.com/dispatches/a40981186/hidden-history-san-francisco-graveyards/",
+        "supports": "1921 destruction of 1,500 graves, 1993 'charnel heap', Holman, redwood coffins and skeletal evidence, Parker's $50,000-a-month complaint, ~900 remains to the medical examiner, reburial in Colma"
+      },
+      {
+        "title": "Landmarking City Cemetery",
+        "publisher": "San Francisco Heritage (Heritage News)",
+        "year": 2021,
+        "url": "http://www.sfheritage.org/news/landmarking-city-cemetery/",
+        "supports": "1994 renovation unearthed more than 900 burials; 578 adults and 173 children reburied in Colma"
+      },
+      {
+        "title": "Places: Photographer details museum's mistreatment of cemetery on which it was built",
+        "publisher": "Pittsburgh Post-Gazette (Patricia Lowry), archived",
+        "year": 2001,
+        "url": "https://web.archive.org/web/20221102200904/https://old.post-gazette.com/ae/20010609lowry0609fnp5.asp",
+        "supports": "Barnes hired to document the retrofit, pipe beside a skull, artifacts photographed, 'meditation' quote, almost 800 skeletons boxed"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-serra-di-suvero-sculpture-pad",
+    "title": "The Sculpture San Francisco Wouldn't Take",
+    "theme": "arts-counterculture",
+    "year": 1994,
+    "yearEnd": 2000,
+    "place": {
+      "label": "Sculpture pad in the Legion of Honor forecourt",
+      "lat": 37.7852,
+      "lon": -122.4996,
+      "precision": "area"
+    },
+    "hook": "Richard Serra designed a 48-foot rusting steel giant for the Legion of Honor. Public fury and a city rule sank it, and his boyhood friend's sculpture took the spot.",
+    "story": "In 1994 the Fine Arts Museums announced, too early, a design by Richard Serra for the sculpture site in front of the Legion of Honor. It was a 48-foot rusting steel sculpture, and a donor had already agreed to pay for making and installing it [1]. When The Chronicle published the design, a torrent of public protest followed. What finally killed the project was city policy. The Legion's grounds belong to Recreation and Park, whose gift rules let the city move or alter a donated work. When Serra learned this, he withdrew [1]. Six years later the spot was filled by Mark di Suvero's red-painted steel Pax Jerusalem, on the 'sculpture pad' since November 1999 [1]. The two artists were native San Franciscans and boyhood pals [1]. Chief curator Steve Nash said the museum 'wanted a classic di Suvero' whose symmetry echoed the building. The Chronicle's critic Kenneth Baker called it di Suvero 'at his safest, not his best'. He also complained that its red was too close to the geraniums planted around it [1][2].",
+    "people": [
+      {
+        "name": "Richard Serra",
+        "role": "sculptor who withdrew his proposal"
+      },
+      {
+        "name": "Mark di Suvero",
+        "role": "sculptor of Pax Jerusalem"
+      },
+      {
+        "name": "Kenneth Baker",
+        "role": "Chronicle art critic"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Legion of Concerns Over Sculpture / Di Suvero's mediocre 'Pax Jerusalem' may signal a troubling trend",
+        "publisher": "San Francisco Chronicle (Kenneth Baker)",
+        "year": 2000,
+        "url": "http://www.sfgate.com/entertainment/article/A-Legion-of-Concerns-Over-Sculpture-Di-Suvero-s-2713466.php",
+        "supports": "Serra's 1994 48-foot design, donor, public protest, gift policy and withdrawal, di Suvero piece on the pad since November, boyhood friendship, Nash and Baker quotes, geraniums"
+      },
+      {
+        "title": "Legion of Honor (museum)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Legion_of_Honor_(museum)",
+        "supports": "Pax Jerusalemme installed in 2000 amid controversy (pointer to the Chronicle)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-lincoln-highway-replica",
+    "title": "Boy Scouts Mark the End of the Road",
+    "theme": "architecture-landmarks",
+    "year": 2002,
+    "yearEnd": null,
+    "place": {
+      "label": "Western Terminus of the Lincoln Highway marker, Legion of Honor parking area",
+      "lat": 37.78498,
+      "lon": -122.49942,
+      "precision": "building"
+    },
+    "hook": "America's first coast-to-coast highway starts in Times Square and ends beside a bus stop at the Legion of Honor. Two Boy Scout troops marked the spot, 74 years apart.",
+    "story": "The Lincoln Highway, dreamed up by Carl Fisher in 1912–13, ran about 3,300 miles from Times Square to Lincoln Park, where its western terminus was dedicated in 1915 [1][2]. In 1925 the new numbered federal highways broke it into pieces [2]. As one of its last acts, the Lincoln Highway Association had Boy Scouts set roughly 2,440 concrete markers along the route on 1 September 1928. Each carried a bronze Lincoln medallion [2]. A San Francisco troop set the one reading 'Western Terminus of the Lincoln Highway' here [1]. The old highway was split among numbered routes, and Interstate 80 later followed much of it [1][2]. The association re-formed in 1992 to preserve the route [2]. On 14 June 2002 San Francisco's Boy Scout Troop 17 set a replica marker a few feet from the original spot [1]. In 2005 the association's California chapter added an interpretive sign. It tells how a young Lt. Col. Dwight Eisenhower crossed on the 1919 Army convoy, and how as president he signed the 1956 Interstate Highway Act [1]. An original 1928 marker survives nearby at 32nd Avenue and El Camino del Mar [2].",
+    "people": [
+      {
+        "name": "Boy Scout Troop 17",
+        "role": "placed the 2002 replica marker"
+      },
+      {
+        "name": "Carl Fisher",
+        "role": "conceived the Lincoln Highway"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Western Terminus of the Lincoln Highway (marker)",
+        "publisher": "Historical Marker Database",
+        "year": null,
+        "url": "https://www.hmdb.org/m.asp?m=18145",
+        "supports": "3,300 miles from Times Square, Fisher, 1919 convoy and Eisenhower, 1928 original marker by SF scouts, 14 June 2002 replica by Troop 17, 2005 sign, bus-stop location"
+      },
+      {
+        "title": "Vestiges of Lincoln Park: Lincoln Highway Terminus",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2022,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+        "supports": "1915 dedication, 1925 renumbering, 2,440 markers on 1 Sept 1928, association re-formed 1992, original marker at 32nd Ave and El Camino del Mar"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-lands-end-labyrinth",
+    "title": "The Labyrinth That Keeps Coming Back",
+    "theme": "arts-counterculture",
+    "year": 2004,
+    "yearEnd": 2021,
+    "place": {
+      "label": "Lands End Labyrinth site above Mile Rock Beach",
+      "lat": 37.78781,
+      "lon": -122.50573,
+      "precision": "area"
+    },
+    "hook": "An anonymous car detailer laid stones on a cliff edge at dawn to dodge park rangers. For seventeen years strangers destroyed his labyrinth and a doula kept rebuilding it.",
+    "story": "On the spring equinox of 2004, Eduardo Aguilera built a seven-circuit labyrinth, in the style of Chartres, on a small plateau above the Golden Gate, using stones from the surrounding area [1]. It was a stealth project. Aguilera, who details cars for a living, spent about 16 hours laying it out at dawn and dusk so rangers wouldn't catch him. 'I wanted to be totally anonymous,' he said [2]. Vandals wrecked it soon after, and he rebuilt it. Around 2008 Colleen Yerge, a North Beach doula, became its unofficial keeper. She carried grapefruit-sized rocks up from Mile Rock Beach in a backpack [3][4]. After it was stripped in August 2015, about 50 volunteers helped her rebuild it, spacing the stones exactly 15 inches apart [2]. Aguilera had warned her not to put her whole heart into it, because it would be destroyed. She kept her compassion for whoever did it [4]. In 2020–21 it was wiped out three times, every rock apparently thrown into the sea. Because the Park Service never approved it, destroying it isn't technically a crime [3].",
+    "people": [
+      {
+        "name": "Eduardo Aguilera",
+        "role": "artist who built the labyrinth"
+      },
+      {
+        "name": "Colleen Yerge",
+        "role": "volunteer caretaker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vestiges of Lands End Trail: Lands End Labyrinth",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2022,
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lands-end-trail.htm",
+        "supports": "Built on 2004 vernal equinox by Aguilera from local stones; seven-circuit Chartres style"
+      },
+      {
+        "title": "Labyrinth lovers unite to undo vandalism at Lands End",
+        "publisher": "San Francisco Chronicle (Rachel Swan)",
+        "year": 2015,
+        "url": "http://www.sfgate.com/bayarea/article/Labyrinth-lovers-come-together-to-undo-vandalism-6502278.php",
+        "supports": "Stealth build, 16 hours at dawn/twilight, anonymity quote, car detailer, about 50 volunteers, 15-inch spacing"
+      },
+      {
+        "title": "San Francisco's Lands End labyrinth keeps getting destroyed. Will it be back?",
+        "publisher": "SFGATE (Dan Gentile)",
+        "year": 2021,
+        "url": "https://www.sfgate.com/sf-culture/article/San-Francisco-labyrinth-lands-end-golden-gate-park-16385346.php",
+        "supports": "Yerge caretaker since about 2008, stones from Mile Rock Beach, destroyed three times in the past year, rocks thrown in the water, not technically a crime"
+      },
+      {
+        "title": "Lands End labyrinth destroyed by vandalism",
+        "publisher": "SFGATE (Amy Graff)",
+        "year": 2015,
+        "url": "http://www.sfgate.com/bayarea/article/Lands-End-labyrinth-erased-by-vandals-6453504.php",
+        "supports": "August 2015 destruction, Yerge's backpack of rocks, Aguilera's warning, her statement of compassion"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-bioswale-graves",
+    "title": "A Bullet in a Skull by the Bioswale",
+    "theme": "communities",
+    "year": 2019,
+    "yearEnd": null,
+    "place": {
+      "label": "El Camino del Mar at the northeast corner of Lincoln Park",
+      "lat": 37.7874,
+      "lon": -122.4945,
+      "precision": "street"
+    },
+    "hook": "A stormwater project to keep Sea Cliff from flooding turned up twenty graves, and a .44-calibre bullet rattling inside a skull.",
+    "story": "In summer 2019 crews were building bioswales along El Camino del Mar to divert stormwater so the Sea Cliff neighbourhood wouldn't flood. Near the northeastern corner of Lincoln Park they dug up a coffin [1]. With a city-hired archaeologist watching, they uncovered at least 20 graves from the late 19th century [1]. The markers had been removed a century earlier, and the city had no detailed map of the 200-acre cemetery. So the archaeologists turned to historians Alex Ryder and John Martini, who were rebuilding one [1]. The graves turned out to lie in the old plot of the French Mutual Benevolent Society. Several skeletons showed signs of autopsy and other post-mortem study, which was illegal at the time [1]. One skull held a .44-calibre Winchester bullet [1]. Ryder said the team was close to identifying him. A lead in the newspapers: on 15 January 1896 the Call reported that a French doctor, E. L. Molass, had come west hoping to cure his tuberculosis and shot himself at the French Hospital [1]. SF Heritage notes that routine park work often turns up human remains [2].",
+    "people": [
+      {
+        "name": "Alex Ryder",
+        "role": "historian mapping City Cemetery"
+      },
+      {
+        "name": "John Martini",
+        "role": "historian and retired park ranger"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Hidden History of San Francisco's Graveyards",
+        "publisher": "Alta Journal (Beth Winegarner)",
+        "year": 2022,
+        "url": "https://www.altaonline.com/dispatches/a40981186/hidden-history-san-francisco-graveyards/",
+        "supports": "2019 bioswale work, at least 20 graves, French Mutual Benevolent Society plot, autopsy evidence, .44 Winchester bullet, Ryder and Martini's map, the 1896 Molass report"
+      },
+      {
+        "title": "Landmarking City Cemetery",
+        "publisher": "San Francisco Heritage",
+        "year": 2021,
+        "url": "http://www.sfheritage.org/news/landmarking-city-cemetery/",
+        "supports": "Routine maintenance and infrastructure work often uncovers remains; French Benevolent Society among the plot holders"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-city-cemetery-landmark",
+    "title": "Roast Pig on the Fairway",
+    "theme": "civil-rights",
+    "year": 2022,
+    "yearEnd": null,
+    "place": {
+      "label": "Kong Chow funerary monument, Lincoln Park Golf Course",
+      "lat": 37.78376,
+      "lon": -122.49682,
+      "precision": "building"
+    },
+    "hook": "Golfers stopped their games while Chinese elders burned incense among the fairways. Under the grass lay thousands of forgotten San Franciscans, and the city was finally about to say so.",
+    "story": "About 20,000 people still lie under Lincoln Park's golf course. They were mostly immigrants and the poor of the old City Cemetery, and for a century not one sign mentioned them [1]. One visible remnant is the Kong Chow monument. Its inscription calls the graves a temporary resting place for travellers from Kong Chow in south China, whose bones were meant to go home [2][3]. Historian Woody LaBounty urged the new District 1 supervisor, Connie Chan, to make the cemetery a landmark. She admitted she had never known what it was [3]. In October 2021, dozens of Chinese American San Franciscans gathered at the monument for Chung Yeung, the autumn festival for honouring the dead. Golf stopped while they brought incense, paper money and a whole roast pig. 'Some got teary-eyed,' Chan said. It was probably the first such ceremony in decades [3]. Some golfers worried at first that landmarking would hurt the course [3]. In October 2022 the city designated City Cemetery its first primarily archaeological landmark and unveiled the park's first sign telling its story [4].",
+    "people": [
+      {
+        "name": "Connie Chan",
+        "role": "District 1 supervisor who sponsored the landmark"
+      },
+      {
+        "name": "Woody LaBounty",
+        "role": "historian who proposed it"
+      },
+      {
+        "name": "Mary Anne Ahtye",
+        "role": "descendant of Yee Ah Tye, who helped secure the Chinese burial ground"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmarking City Cemetery",
+        "publisher": "San Francisco Heritage",
+        "year": 2021,
+        "url": "http://www.sfheritage.org/news/landmarking-city-cemetery/",
+        "supports": "Some 20,000 buried, no sign, Kong Chow and Seamen's monuments, coalition, Chan's April 2021 initiation"
+      },
+      {
+        "title": "The untold story of a Chinese cemetery in San Francisco",
+        "publisher": "KTVU FOX 2 (Amber Lee)",
+        "year": 2021,
+        "url": "https://www.ktvu.com/news/the-untold-story-of-a-chinese-cemetery-in-san-francisco",
+        "supports": "Kong Chow inscription meaning, Yee Ah Tye, Ahtye 'sacred ground' quote, LaBounty and Martini"
+      },
+      {
+        "title": "The Hidden History of San Francisco's Graveyards",
+        "publisher": "Alta Journal (Beth Winegarner)",
+        "year": 2022,
+        "url": "https://www.altaonline.com/dispatches/a40981186/hidden-history-san-francisco-graveyards/",
+        "supports": "LaBounty's approach to Chan, her admission, October 2021 Chung Yeung with roast pig, 'teary-eyed' quote, golfers' concerns"
+      },
+      {
+        "title": "City Cemetery Officially Designated as a City Landmark",
+        "publisher": "San Francisco Heritage",
+        "year": 2022,
+        "url": "https://www.sfheritage.org/community/lincoln-park-officially-designated-as-a-city-landmark/",
+        "supports": "October 2022 designation as the first primarily archaeological landmark; new interpretive sign; 2022 Cheung Yeung ceremony"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-california-street-steps",
+    "title": "Two Mothers and a Staircase of Tiles",
+    "theme": "arts-counterculture",
+    "year": 2015,
+    "yearEnd": null,
+    "place": {
+      "label": "Lincoln Park Steps, California Street at 32nd Avenue",
+      "lat": 37.7835,
+      "lon": -122.49365,
+      "precision": "building"
+    },
+    "hook": "The old stairs at the end of California Street were cracked, tagged and full of rubbish. Two school parents spent seven years turning them into tiled art.",
+    "story": "The steps at the western end of California Street date from the early 1900s. They lead from the Outer Richmond up into Lincoln Park, towards the golf course, the Legion of Honor and the Lands End trail [1]. By the 2000s they were cracked and crumbling, and they drew graffiti, dumping and loitering at night [1]. In 2007 Anna Yatroussis and Meg Autry decided to fix them. Both were parents at the Katherine Delmar Burke School right next to the stairs, which was looking for a way to mark its 100th anniversary [1][2]. They founded Friends of Lincoln Park and hired tile artist Aileen Barr, known for the 16th Avenue tiled steps. Other school parents gave architecture and construction management for free [1][2]. Barr's first tiled bench was finished in 2010. Rec and Park put in a $180,000 grant for structural repairs, on condition that the friends raised at least $250,000 privately for the tiles [1]. The Beaux Arts-inspired stairway was formally opened on 28 May 2015 with a ribbon cutting by Supervisor Eric Mar [2].",
+    "people": [
+      {
+        "name": "Anna Yatroussis",
+        "role": "co-founder, Friends of Lincoln Park"
+      },
+      {
+        "name": "Meg Autry",
+        "role": "co-founder, Friends of Lincoln Park"
+      },
+      {
+        "name": "Aileen Barr",
+        "role": "tile artist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "About the Lincoln Park Steps",
+        "publisher": "Friends of Lincoln Park (lincolnparksteps.org, archived)",
+        "year": 2015,
+        "url": "https://web.archive.org/web/2026/http://www.lincolnparksteps.org/about.html",
+        "supports": "Early-1900s steps, decay, 2007 start, Burke School centennial, Aileen Barr and 16th Avenue steps, pro bono help, 2010 first phase, $180,000 grant and $250,000 match"
+      },
+      {
+        "title": "Lincoln Park Steps to be officially introduced (press release)",
+        "publisher": "Friends of Lincoln Park (lincolnparksteps.org, archived)",
+        "year": 2015,
+        "url": "https://web.archive.org/web/2026/http://www.lincolnparksteps.org/press-and-general-inquiries.html",
+        "supports": "Founders as Burke School parents, seven-year project, 28 May 2015 ribbon cutting by Eric Mar, completed 2015"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lincoln-park-apec-leaders-dinner",
+    "title": "World Leaders Dine in a Downpour",
+    "theme": "modern-city",
+    "year": 2023,
+    "yearEnd": null,
+    "place": {
+      "label": "Legion of Honor, Court of Honor",
+      "lat": 37.7846,
+      "lon": -122.5009,
+      "precision": "building"
+    },
+    "hook": "Lightning over the bay, aides sweeping water off the red carpet, and reporters in trash bags. This is how Lincoln Park hosted the leaders of the Pacific Rim.",
+    "story": "On 16 November 2023, during the APEC summit week, President Joe Biden hosted a leaders-and-spouses dinner at the Legion of Honor [1][2]. The weather did not cooperate. A steady drizzle became a torrential downpour around 6:45 p.m., with rare lightning over San Francisco Bay, and Biden's motorcade arrived minutes later [1]. Along its route through the Richmond District, families waved American flags [1]. At the museum, two rows of white-gloved servicemen with swords and rifles stood in formation. A State Department aide pushed pools of water off the red carpet, and soaked reporters were handed trash bags as ponchos [1]. For more than an hour the acting chief of protocol greeted guests who arrived one by one to a military band. Among them were Justin Trudeau, Anthony Albanese, Srettha Thavisin, Ferdinand Marcos Jr. and Yoon Suk Yeol [1]. Servicemen with umbrellas walked them along a candlelit path to a tent inside the grounds [1]. Xi Jinping was on the guest list but was not spotted at the dinner [1].",
+    "people": [
+      {
+        "name": "Joe Biden",
+        "role": "host"
+      },
+      {
+        "name": "Ethan Rosenzweig",
+        "role": "acting U.S. chief of protocol"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Photos: World leaders party at rain-soaked Legion of Honor Museum in San Francisco",
+        "publisher": "The San Francisco Standard (Annie Gaus)",
+        "year": 2023,
+        "url": "https://sfstandard.com/2023/11/16/apec-san-francisco-leaders-legion-of-honor-dinner-biden/",
+        "supports": "Date, downpour and lightning, motorcade timing, Richmond crowds, honour guard, red-carpet water, trash bags, guest list, candlelit walkway, Xi not seen"
+      },
+      {
+        "title": "Legion of Honor (museum)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Legion_of_Honor_(museum)",
+        "supports": "Biden's 2023 APEC dinner at the museum (pointer)"
+      }
+    ],
+    "photo": null
+  }
+]

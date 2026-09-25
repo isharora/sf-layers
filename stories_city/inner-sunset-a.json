@@ -1,0 +1,639 @@
+[
+ {
+  "id": "inner-sunset-powder-works-explosions",
+  "title": "The Semi-Annual Explosion",
+  "theme": "labor-industry",
+  "year": 1872,
+  "yearEnd": 1877,
+  "place": {
+   "label": "Likely site of the California Powder Works, near 2nd Ave & Irving St",
+   "lat": 37.764,
+   "lon": -122.4589,
+   "precision": "area"
+  },
+  "hook": "Before houses, the Inner Sunset's sand hills made nitroglycerin. The factory blew up so often that the Chronicle joked about its 'semi-annual explosion.'",
+  "story": "In the 1870s the empty dunes south of the young Golden Gate Park looked like the perfect place to make dynamite: nobody lived there. The California Powder Works took a 120-acre parcel called the Byfield Tract. No map shows exactly where the works stood, but the area around today's 2nd Avenue and Irving Street is the likeliest site [1]. On June 21, 1872, at 6:15 p.m., between 1,500 and 2,000 pounds of glycerin went up, rattling windows across the city and leaving a crater 12 feet deep and 50 feet wide. The workers had gone home an hour earlier [1]. Six months later, on December 21, came what the Chronicle called 'the semi-annual explosion.' Two men were killed, and one body was found 600 feet away. Laguna Honda School on 7th Avenue, opened that fall with 38 pupils, lost windows and plaster, but it was closed for Christmas [1]. The last blast, on the hottest day of 1877, wrecked nearby saloons and threw a butcher, Herman Gertsheim, off his wagon and astride a fence. The powder makers soon moved to the East Bay, where one company town became Hercules [1][2].",
+  "people": [
+   {
+    "name": "Herman Gertsheim",
+    "role": "Butcher thrown from his wagon by the 1877 blast"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Dynamite Factories in the Sunset District",
+    "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+    "year": 2013,
+    "url": "https://www.outsidelands.org/dynamite-factories.php",
+    "supports": "Byfield Tract and likely 2nd Ave/Irving site; 1872 and 1877 explosions; crater size; Chronicle quote; Laguna Honda School; move to East Bay and Hercules"
+   },
+   {
+    "title": "A Short History of the Sunset District",
+    "publisher": "Western Neighborhoods Project",
+    "year": null,
+    "url": "https://www.outsidelands.org/sunset.php",
+    "supports": "Early Inner Sunset had dynamite factories 'that kept exploding' and an early elementary school"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-buckingham-block",
+  "title": "First Block Ever Cut Up",
+  "theme": "gold-rush-victorian",
+  "year": 1888,
+  "yearEnd": 1889,
+  "place": {
+   "label": "The 'Buckingham Block', 7th–8th Aves between Irving & Judah",
+   "lat": 37.76372,
+   "lon": -122.4655,
+   "precision": "block"
+  },
+  "hook": "A cigar dealer turned developer is often credited with naming the Sunset. The newspapers of 1888 tell a different story.",
+  "story": "In October 1886 the Richardson Tract, 30 full blocks of dunes south of the park, sold for between $625 and $1,450 a block, and speculators took notice. A year later blocks were worth ten times as much [1]. In April 1888 Buckingham and Company advertised lots on the block bounded by 7th and 8th Avenues and I and J streets (today's Irving and Judah) as the 'First Block Ever Cut Up In This Locality.' $650 bought a lot [2]. Aurelius Buckingham, a former clothing clerk and cigar dealer, is often credited with naming the Sunset. Researcher Angus Macfarlane found no evidence of it: the papers simply called this 'the Buckingham Block' [2]. The name 'Sunset' first appeared in print in February 1889, when Wendell Easton's firm, Easton, Eldridge & Co., suggested 'Sunset Heights' for the Byfield Tract and then auctioned blocks under that name [2]. Easton's advertisement described the sun as it 'dips itself gracefully into its evening bath in the placid Pacific' and 'throws its last kisses' on 'these, the truly Sunset Heights' [1]. Hardly anyone lived here. The 1890 voter register lists only 57 men in today's Sunset and Parkside [1].",
+  "people": [
+   {
+    "name": "Aurelius Buckingham",
+    "role": "Real estate developer"
+   },
+   {
+    "name": "Wendell Easton",
+    "role": "President, Easton, Eldridge & Co."
+   }
+  ],
+  "sources": [
+   {
+    "title": "Sunset Finally Becomes Sunset",
+    "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+    "year": 2007,
+    "url": "https://www.outsidelands.org/sunset-name2.php",
+    "supports": "1886 Richardson Tract sale and prices; tenfold rise; Easton's 1889 ad quote; 57 registered voters in 1890"
+   },
+   {
+    "title": "How the Sunset became \"The Sunset\"",
+    "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+    "year": 2005,
+    "url": "https://www.outsidelands.org/sunset-name.php",
+    "supports": "April 1888 Buckingham ad, block boundaries, $650 lots; Buckingham's earlier jobs; first 'Sunset Heights' in print Feb 1889"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-sutro-nursery",
+  "title": "A Quarter-Million Trees Behind the Reservoir",
+  "theme": "parks-nature",
+  "year": 1889,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of Adolph Sutro's tree nursery, behind Laguna Honda Reservoir (1000 Clarendon Ave)",
+   "lat": 37.75317,
+   "lon": -122.46167,
+   "precision": "block"
+  },
+  "hook": "The dark eucalyptus forest on Mount Sutro began as seedlings in a nursery beside a reservoir. By 1889 it held 250,000 trees.",
+  "story": "In 1880 the silver millionaire Adolph Sutro bought the remains of Rancho San Miguel, including the bare hill he named Mount Parnassus (today's Mount Sutro). Soon afterwards he took up tree planting with a passion [1]. With the poet Joaquin Miller he organised California's first Arbor Day on November 26, 1886, when thousands of children planted trees he had donated on Yerba Buena Island [1]. On his own land he built a nursery behind the Laguna Honda reservoir, at what is now 1000 Clarendon Avenue, to find out which plants could hold the sand [1]. On June 24, 1889, his son-in-law George Merritt reported: 'the nursery has 250,000 trees, 50,000 for sale this year according to Flanagan.' Alonzo Flanagan, the ranch superintendent, had started out as a gardener there [1]. Accounts of who did the planting differ. Some say schoolchildren, and one rumour blames day-hired unemployed men for planting too close together. Sutro's accounts show paid nurserymen and labourers [1]. Blue gum eucalyptus, Monterey pine and cypress spread over the hills [2]. Sutro meant the eucalyptus as fast-growing shelter for other trees, but it smothered them, and the forest still divides opinion [1][2].",
+  "people": [
+   {
+    "name": "Adolph Sutro",
+    "role": "Landowner, later mayor"
+   },
+   {
+    "name": "Alonzo Flanagan",
+    "role": "Superintendent of Rancho San Miguel"
+   },
+   {
+    "name": "George Merritt",
+    "role": "Sutro's son-in-law"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Farms, Fire and Forest: Adolph Sutro and Development 'West of Twin Peaks'",
+    "publisher": "FoundSF (Richard Brandi, orig. The Argonaut, 2003)",
+    "year": 2003,
+    "url": "https://www.foundsf.org/index.php?title=Farms,_Fire_and_Forest:_Adolph_Sutro_and_Development_%E2%80%9CWest_of_Twin_Peaks%E2%80%9D",
+    "supports": "1880 purchase; Mount Parnassus name; Arbor Day 1886; nursery at 1000 Clarendon; Merritt's 1889 report; Flanagan; planting accounts; eucalyptus as shelter trees"
+   },
+   {
+    "title": "Mount Sutro",
+    "publisher": "FoundSF (Elizabeth Creely)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mount_Sutro",
+    "supports": "Species planted (Monterey pine, cypress, blue gum); forest management controversy"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-named-for-a-sunset",
+  "title": "Named for the Sunset Outside the Hall",
+  "theme": "communities",
+  "year": 1895,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of La Grande Hall, SE corner of 9th Ave & Lincoln Way (then H St)",
+   "lat": 37.76577,
+   "lon": -122.46625,
+   "precision": "building"
+  },
+  "hook": "Stranded when their streetcar was cut off, angry neighbours met at 9th and H in 1895. A sunset outside the window gave the district its name.",
+  "story": "In 1893, as the Midwinter Fair rose in Golden Gate Park, a $6,000 building went up on the southeast corner of 9th Avenue and H Street (today's Lincoln Way). It had seven shops, a rooming house and a meeting hall, and it was the first large commercial building south of the park [1]. One morning in August 1895 the Metropolitan streetcar line suddenly stopped running west of Cole and Waller streets, stranding residents. The Call suspected that Southern Pacific wanted to spoil Adolph Sutro's offer of land on Mount Parnassus for the new Affiliated Colleges [1]. At the end of August the people who actually lived and worked here met at La Grande Hall and elected W. H. Jones president. They were not the absentee speculators of the older South Side Improvement Club. One member, Gus Fox, had just watched a magnificent sunset outside, and he proposed the name 'Sunset District Improvement Club' [1]. On September 1, 1895, 'Sunset' appeared in print as the district's name for the first time [1]. Popular accounts credit Aurelius Buckingham or the fair's newspaper nickname, 'Sunset City,' but Macfarlane's research in the papers does not support either [2][3].",
+  "people": [
+   {
+    "name": "Gus Fox",
+    "role": "Resident who proposed the 'Sunset' name"
+   },
+   {
+    "name": "W. H. Jones",
+    "role": "First president, Sunset District Improvement Club"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Sunset Finally Becomes Sunset",
+    "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+    "year": 2007,
+    "url": "https://www.outsidelands.org/sunset-name2.php",
+    "supports": "1893 building at 9th & H; August 1895 streetcar cutoff and Call theory; La Grande Hall meeting; Jones; Gus Fox; first printed use Sept 1, 1895"
+   },
+   {
+    "title": "How the Sunset became \"The Sunset\"",
+    "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+    "year": 2005,
+    "url": "https://www.outsidelands.org/sunset-name.php",
+    "supports": "Examiner coined 'Sunset City' for the fair in Oct 1893; no evidence for Buckingham claim"
+   },
+   {
+    "title": "The Sunset District: From Dunes to Cityscape",
+    "publisher": "FoundSF (Lorri Ungaretti)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Sunset_District:_From_Dunes_to_Cityscape",
+    "supports": "Competing naming accounts (Buckingham, Midwinter Fair, 1895 club at 9th & H)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-almshouse-road",
+  "title": "A Country Road Inside the City",
+  "theme": "gold-rush-victorian",
+  "year": 1896,
+  "yearEnd": null,
+  "place": {
+   "label": "Clarendon Avenue, once the Almshouse Road",
+   "lat": 37.75267,
+   "lon": -122.45904,
+   "precision": "street"
+  },
+  "hook": "In 1896 a newspaper writer walked a dirt road over the hills to the Almshouse and felt he was in the Sierra, not San Francisco.",
+  "story": "On November 8, 1896, the San Francisco Call printed an anonymous writer's account of a walk along 'the Almshouse Road.' This dirt track left the top of Stanyan Street and wound over the hills to the city Almshouse, where Laguna Honda Hospital now stands. Most of it survives as today's Clarendon Avenue [1]. 'What other city in the world the size of San Francisco can boast of a country road within its limits?' the writer asked. It had no sidewalks and no lamp-posts. In the canyon beyond the first cut, 'one might as well be in the depths of the Sierras,' with a brook tumbling over the rocks [1][2]. Near the Almshouse the road was lined with pretty houses, 'ponds and reservoirs,' crowing roosters, bellowing cows and 'the sound of the woodsman's ax' [1]. Past the gate ran a 500-foot avenue of eucalyptus whose branches met overhead. Elderly inmates sat in the sun on fresh-cut logs, wearing clothes 'out of fashion over half a century.' Further on, gardeners sang among rows of vegetables [1]. When Rex Bell retraced the walk in 2011, he found a four-lane road, but also a forest where the city still feels far away [1].",
+  "people": [
+   {
+    "name": "Rex Bell",
+    "role": "Local historian who retraced the walk"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Almshouse Road (A Walk Along the Almshouse Road)",
+    "publisher": "FoundSF (Rex Bell)",
+    "year": 2011,
+    "url": "https://www.foundsf.org/index.php?title=Almshouse_Road",
+    "supports": "Full quotations from SF Call, Nov 8, 1896; route and Clarendon Avenue identification; 2011 retracing"
+   },
+   {
+    "title": "A Walk Along the Almshouse Road",
+    "publisher": "Western Neighborhoods Project (Rex Bell)",
+    "year": 2011,
+    "url": "https://www.outsidelands.org/almshouse-road.php",
+    "supports": "Original publication of the article and 1896 Call quotations"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-affiliated-colleges",
+  "title": "Sutro's Gift on Mount Parnassus",
+  "theme": "architecture-landmarks",
+  "year": 1898,
+  "yearEnd": null,
+  "place": {
+   "label": "Affiliated Colleges (now UCSF), Parnassus Avenue",
+   "lat": 37.76386,
+   "lon": -122.45839,
+   "precision": "building"
+  },
+  "hook": "Before UCSF, the city's medical schools were scattered around downtown. Then Mayor Sutro gave them 13 acres of sandy hillside, with strings attached.",
+  "story": "For decades the University of California's professional schools in San Francisco were scattered. Hugh Toland's medical college in North Beach opened in 1864 with eight students and was deeded to the UC Regents in 1873. Pharmacy was on Market and later Fulton Street, and dentistry moved to the Donohoe Building [1]. After years of lobbying, the Legislature approved $250,000 for a new campus. In 1895 Mayor Adolph Sutro settled the question of where by donating 13 acres on the slopes of Mount Parnassus [1]. The gift came with a condition: the land had to be used for professional medical education. Decades later that condition helped keep the medical school in San Francisco when Rockefeller money was offered to move it to Berkeley [2]. The Medical Department moved in by October 1898, and Pharmacy followed a few months later. The buildings held an auditorium, lecture halls, laboratories, a dissection room and a library [1]. They stood alone on the hillside at the end of the streetcar line, on what was then the far western edge of the city [3]. Today's UCSF grew from these buildings.",
+  "people": [
+   {
+    "name": "Adolph Sutro",
+    "role": "Mayor and land donor"
+   },
+   {
+    "name": "Hugh Toland",
+    "role": "Founder of Toland Medical College"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Affiliated Colleges: Origins of UCSF",
+    "publisher": "FoundSF (Arnold Wood, via OpenSFHistory/WNP)",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Affiliated_Colleges:_Origins_of_UCSF",
+    "supports": "Toland 1864, eight students, 1873 deed; pharmacy and dental locations; $250,000; Sutro's 1895 gift of 13 acres; October 1898 move-in; building contents"
+   },
+   {
+    "title": "1919–1939: Debates over Medical Education",
+    "publisher": "A History of UCSF (UCSF Library)",
+    "year": null,
+    "url": "https://web.archive.org/web/2018/http://history.library.ucsf.edu/1919.html",
+    "supports": "Sutro's donation was contingent on use for professional medical education; Rockefeller/Berkeley consolidation episode"
+   },
+   {
+    "title": "1899–1918: The 1906 Earthquake and Response",
+    "publisher": "A History of UCSF (UCSF Library)",
+    "year": null,
+    "url": "https://web.archive.org/web/2018/http://history.library.ucsf.edu/1899_earthquake.html",
+    "supports": "Colleges were in the far western section of the city at the end of the Masonic streetcar line"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-sutro-forest-fire-1899",
+  "title": "Seventy Firemen Against Sutro's Forest",
+  "theme": "parks-nature",
+  "year": 1899,
+  "yearEnd": 1901,
+  "place": {
+   "label": "Sutro Forest on Mount Sutro, above the Affiliated Colleges",
+   "lat": 37.7585,
+   "lon": -122.457,
+   "precision": "area"
+  },
+  "hook": "In 1899 flames tore through Sutro's young eucalyptus forest. The hill was so steep that one fire engine needed five horses to reach the fire.",
+  "story": "Within a few years of planting, Sutro's forest was a fire hazard and a magnet for trespassers. The Chronicle complained that 'the woods are overrun with picnickers, hunters and tramps' [1]. On October 8, 1899, a 'great' fire burned sixty acres and threatened both the new Affiliated Colleges and the Almshouse. Seventy firemen and hundreds of volunteers finally put it out [1]. The slopes were so steep that one engine needed five horses instead of the usual three, and the animals were 'white with foam and apparently ready to drop in their tracks' [1]. Of at least seven fires recorded in the forest since the late 1800s, it was the largest [2]. Sutro had died in 1898, and on June 10, 1901, his estate hired John Brickwedel as a ranger to keep people out. Harold Wollenberg, who grew up at the Almshouse, where his father was superintendent, remembered him as 'a gruff, mean guy' who had a small apple orchard and chased apple-stealing children with a shotgun. 'It was all posted No Trespassing' [1]. Sutro's estate was worth $3 million, but only $473.50 of it was cash [1].",
+  "people": [
+   {
+    "name": "John Brickwedel",
+    "role": "Sutro Forest ranger"
+   },
+   {
+    "name": "Harold Wollenberg",
+    "role": "Son of the Almshouse superintendent"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Farms, Fire and Forest: Adolph Sutro and Development 'West of Twin Peaks'",
+    "publisher": "FoundSF (Richard Brandi, orig. The Argonaut, 2003)",
+    "year": 2003,
+    "url": "https://www.foundsf.org/index.php?title=Farms,_Fire_and_Forest:_Adolph_Sutro_and_Development_%E2%80%9CWest_of_Twin_Peaks%E2%80%9D",
+    "supports": "Chronicle quotes (Oct 9, 1899); fire date, 60 acres, 70 firemen, five horses; Brickwedel hired 1901; Wollenberg quote; estate value and cash"
+   },
+   {
+    "title": "Mount Sutro",
+    "publisher": "FoundSF (Elizabeth Creely)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mount_Sutro",
+    "supports": "Seven fires since the late 1800s; 1899 fire the largest at 60 acres"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-larsen-chicken-ranch",
+  "title": "Fresh Eggs from Sunset Ranch Every Day",
+  "theme": "labor-industry",
+  "year": 1900,
+  "yearEnd": 1913,
+  "place": {
+   "label": "Carl Larsen's chicken ranch, 16th–17th Aves between Moraga & Noriega",
+   "lat": 37.7553,
+   "lon": -122.474,
+   "precision": "block"
+  },
+  "hook": "Every morning a horse-drawn wagon carried eggs from a chicken ranch in the dunes to a famous downtown café. Once a year the ranch threw a party.",
+  "story": "Carl Larsen was born in Odense, Denmark, in 1844. He came to San Francisco as a carpenter and in 1879 opened the Tivoli Café on Eddy Street downtown [1]. From 1888 he bought up the Sunset's dunes, and by 1910 he owned fourteen whole city blocks plus lots adding up to about nine more [1]. On one square block, bounded by Moraga and Noriega streets and 16th and 17th Avenues, he ran a chicken ranch. Each morning a horse-drawn wagon took its eggs to the Tivoli, probably along the Central Ocean Road that zigzagged through the sand behind the ranch. The café's ads promised 'Fresh eggs from Sunset Ranch EVERY DAY' [1][2]. Every Easter the ranch threw a neighbourhood party with open bars and tables of food. Some reports say the parties got out of hand and ended in 1913 [1]. Remembered as the 'Gentle Dane,' Larsen later gave the city land on Golden Gate Heights and two blocks for Larsen Park on 19th Avenue [1][2]. He died in 1928. A handwritten 1909 will leaving more than $500,000 for a museum in Golden Gate Park was found with his signature cut off, and a judge declared it invalid in 1931 [1].",
+  "people": [
+   {
+    "name": "Carl G. Larsen",
+    "role": "Tivoli Café owner, Sunset landowner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Carl Larsen: The Gentle Dane",
+    "publisher": "Western Neighborhoods Project (Lorri Ungaretti)",
+    "year": 2009,
+    "url": "https://www.outsidelands.org/carl-larsen.php",
+    "supports": "Biography; Tivoli Café 1879; landholdings; ranch location; egg deliveries and ad; Easter parties; park gifts; 1909 will, cut signature, 1931 ruling"
+   },
+   {
+    "title": "The Sunset District: From Dunes to Cityscape",
+    "publisher": "FoundSF (Lorri Ungaretti)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Sunset_District:_From_Dunes_to_Cityscape",
+    "supports": "Ranch between 16th-17th Aves and M-N streets; Central Ocean Road behind the ranch; land donations"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-1906-colleges-refuge",
+  "title": "Refugee Tents Below the College on the Hill",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1907,
+  "place": {
+   "label": "Affiliated Colleges buildings, Parnassus Avenue (now UCSF)",
+   "lat": 37.76291,
+   "lon": -122.45823,
+   "precision": "building"
+  },
+  "hook": "The 1906 fire wiped out the dental school downtown but never reached Parnassus. So the dentists moved up the hill and treated the refugees camped below.",
+  "story": "Before April 18, 1906, the Affiliated Colleges stood on the city's outskirts. The earthquake did them only modest damage and the fire never came near. Suddenly they were close to a homeless population, with more than 40,000 people sheltering in Golden Gate Park just below [1][2]. Six days after the quake the university ended the academic year. Students were passed or failed without exams, and women students were urged to go home [2]. Downtown, the Dental Department's clinics in the Donohoe Building, recently fitted with new chairs and fountain cuspidors, were reduced to 'charred rubble.' Even so, the faculty rebuilt its records from what survived and recommended 24 students for graduation [2]. Dentistry moved up the hill and squeezed into the easternmost college building alongside Pharmacy. Its whole first floor was remodelled as a clinic with surgical and extracting rooms to meet the refugees' urgent dental needs [2]. The pharmacists objected to losing their lecture hall, and UC President Benjamin Ide Wheeler ruled for the dentists [2]. One building became a full hospital, a nursing school followed in 1907, and a new UC Hospital opened across Parnassus in 1917 [1].",
+  "people": [
+   {
+    "name": "Benjamin Ide Wheeler",
+    "role": "President, University of California"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Affiliated Colleges: Origins of UCSF",
+    "publisher": "FoundSF (Arnold Wood, via OpenSFHistory/WNP)",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Affiliated_Colleges:_Origins_of_UCSF",
+    "supports": "Modest damage, no fire threat; refugee encampments in the park; hospital conversion; 1907 nursing school; 1917 UC Medical Center"
+   },
+   {
+    "title": "1899–1918: The 1906 Earthquake and Response",
+    "publisher": "A History of UCSF (UCSF Library)",
+    "year": null,
+    "url": "https://web.archive.org/web/2018/http://history.library.ucsf.edu/1899_earthquake.html",
+    "supports": "40,000 in Golden Gate Park; academic year ended six days later; Donohoe Building losses; 24 graduates; dental clinic for refugees; Wheeler's ruling"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-irving-judah-kirkham-lawton",
+  "title": "How Irving, Judah, Kirkham and Lawton Won",
+  "theme": "communities",
+  "year": 1909,
+  "yearEnd": null,
+  "place": {
+   "label": "Irving Street at 9th Avenue",
+   "lat": 37.76379,
+   "lon": -122.46605,
+   "precision": "street"
+  },
+  "hook": "Why do four un-Spanish names break the alphabet of Spanish explorers south of the park? Blame a furious 1909 revolt over 'Spanish Town.'",
+  "story": "Until 1909 the streets south of the park had letters: H, I, J, K, L and on. A commission appointed by Mayor Taylor was asked to end the city's street-name confusion, and the Post Office estimated that 500 letters a day went astray [1]. It proposed giving every numbered avenue and lettered street in the Richmond and Sunset an alphabetical Spanish name. First Avenue would become Arguello, Third Avenue Coronado, and so on [1][2]. On November 15 the supervisors voted 12 to 5 in favour, and the western districts erupted. Speakers warned that the avenues would be mocked as 'Spanish Town,' and the Richmond Banner denounced a 'miserable surrender of American names' [1]. After mass protest the commission gave the avenues their numbers back. The Sunset Improvement Club then asked for the names of Americans 'that reflect glory and luster upon our civilization' [1]. H Street became Lincoln Way. I, J, K and L became Irving (after Washington Irving), Judah (after railroad engineer Theodore Judah), and Kirkham and Lawton (both army generals). Irving and Judah were borrowed from a list meant for Bayview [1][2]. After L the fight ran out, and Moraga, Noriega and Ortega stayed Spanish [2].",
+  "people": [
+   {
+    "name": "Charles Murdock",
+    "role": "Supervisor, chair of the street-naming commission"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Street Naming Controversy--1909",
+    "publisher": "FoundSF (John Freeman)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Street_Naming_Controversy--1909",
+    "supports": "Commission, 500 letters a day, Spanish scheme, 12-5 vote, 'Spanish Town', Richmond Banner and Sunset Improvement Club quotes, Irving/Judah borrowed from Bayview list"
+   },
+   {
+    "title": "\"Spanish Town\": Street Names in Western San Francisco",
+    "publisher": "Western Neighborhoods Project (John Freeman)",
+    "year": null,
+    "url": "https://www.outsidelands.org/street-names.php",
+    "supports": "Nov 15 vote; namesakes of Irving, Judah, Kirkham, Lawton; Moraga, Noriega, Ortega retained"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-ishi-on-parnassus",
+  "title": "Ishi's Five Years on Parnassus",
+  "theme": "communities",
+  "year": 1911,
+  "yearEnd": 1916,
+  "place": {
+   "label": "University Museum of Anthropology, Affiliated Colleges campus (now UCSF)",
+   "lat": 37.76371,
+   "lon": -122.45933,
+   "precision": "block"
+  },
+  "hook": "The last known survivor of the Yahi people spent his final years in a museum on Parnassus. Thousands came to watch him make arrowheads.",
+  "story": "In August 1911 a starving man walked out of the Butte County wilderness into Oroville. UC anthropologists Alfred Kroeber and T. T. Waterman identified him as the last survivor of a remnant Yahi band. On September 4, Waterman brought him to live on the Parnassus campus, and the world came to know him as Ishi [1]. When the Museum of Anthropology opened there that October, some 24,000 people came in six months to watch him make arrowheads and fire [1]. Surgeon Saxton Pope, who taught next door, wrote that Ishi could make fire from two sticks of buckeye in under two minutes and was employed 'in a small way as a janitor' [2]. Pope became his doctor and friend. Ishi taught him to make bows and to hunt 'Indian fashion,' and called him Ku wi, 'Medicine Man' [2]. Ishi had little resistance to disease, and on March 25, 1916, he died of tuberculosis in the UC Hospital [1]. Kroeber, away in New York, wrote 'Please shut down on it' about an autopsy, but his letter came too late. The brain was preserved and sent to the Smithsonian [1]. In 1999 the Smithsonian named the Redding Rancheria and Pit River tribe as his closest kin, and in 2000 his brain and ashes were returned to them for burial [1][3].",
+  "people": [
+   {
+    "name": "Ishi",
+    "role": "Yahi man who lived at the museum, 1911–1916"
+   },
+   {
+    "name": "Saxton Pope",
+    "role": "UC surgeon and Ishi's physician"
+   },
+   {
+    "name": "Alfred L. Kroeber",
+    "role": "Anthropologist, museum director"
+   },
+   {
+    "name": "T. T. Waterman",
+    "role": "Anthropologist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Story of Ishi: A Chronology (Nancy Rockafellar)",
+    "publisher": "A History of UCSF (UCSF Library)",
+    "year": null,
+    "url": "https://web.archive.org/web/20180704153052/http://history.library.ucsf.edu/ishi.html",
+    "supports": "1911 emergence; Sept 4 arrival; museum opening and 24,000 visitors; death Mar 25, 1916; Kroeber letter; brain to Smithsonian; 1999-2000 repatriation steps"
+   },
+   {
+    "title": "Hunting with the Bow and Arrow",
+    "publisher": "Saxton Pope (Project Gutenberg)",
+    "year": 1923,
+    "url": "https://www.gutenberg.org/ebooks/8084",
+    "supports": "Janitor job; fire-making in under two minutes; Pope as physician; archery lessons; 'Ku wi' name"
+   },
+   {
+    "title": "Ishi",
+    "publisher": "Wikipedia (pointer to Smithsonian and Chronicle sources)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Ishi",
+    "supports": "Brain repatriated in 2000 to Redding Rancheria and Pit River descendants"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-streetcar-to-the-stars",
+  "title": "The Streetcar to the Stars",
+  "theme": "architecture-landmarks",
+  "year": 1912,
+  "yearEnd": 1948,
+  "place": {
+   "label": "Summit terminus of the old 6-line, 9th Ave & Pacheco St",
+   "lat": 37.75083,
+   "lon": -122.46565,
+   "precision": "street"
+  },
+  "hook": "In 1912 a brass band rode a streetcar all the way from the Ferry Building to a sandy hilltop, where 4,000 people danced until sunset.",
+  "story": "On Sunday, June 16, 1912, two streetcars draped in bunting and full of dignitaries left the Ferry Building. A band rode along and played the whole way to the sandy heights at 9th Avenue and Pacheco Street [1]. The day before, United Railroads had begun running its Hayes and Masonic line up 9th Avenue to Pacheco [1]. At the mostly empty summit the Upper Sunset Improvement Club put up a grandstand, tents and a giant American flag, and served free food. A reported 4,000 people stayed for speeches and danced 'until sunset' [1]. Bob Fisher, a longtime Sunset Heights resident, said the neighbours had paid for the extension and nicknamed it the 'streetcar to the stars.' Rail historian Walter Rice also heard that developers paid. That was common at the time, and Forest Hill went on sale just as the line opened [1]. In 1916 it was renamed the 6 Haight and Masonic, running from the Ferry Building via Haight, Parnassus and Judah to 9th and Pacheco [1][2]. A 1939 photo caption calls the hill the highest rail location the city ever had. The last streetcars climbed here on July 3, 1948 [1].",
+  "people": [
+   {
+    "name": "Bob Fisher",
+    "role": "Longtime Sunset Heights resident"
+   },
+   {
+    "name": "Walter Rice",
+    "role": "Rail historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "6 Haight and Masonic Streetcar Line",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/6-line.php",
+    "supports": "June 15/16, 1912 extension and celebration (SF Chronicle June 17, 1912); 4,000 attendees; 'streetcar to the stars'; 1916 renaming; highest rail location; end of rail service 1948"
+   },
+   {
+    "title": "Sunset Streetcars",
+    "publisher": "Western Neighborhoods Project (Jack Coll, orig. Sunset Beacon 1993)",
+    "year": 1993,
+    "url": "https://www.outsidelands.org/sunset_streetcars.php",
+    "supports": "Route #6 from 9th Avenue and Pacheco along Judah and Parnassus to the Ferry Building"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-1913-building-boom",
+  "title": "Garages in the Basement, Park at the Door",
+  "theme": "architecture-landmarks",
+  "year": 1913,
+  "yearEnd": null,
+  "place": {
+   "label": "15th Avenue between Lincoln Way & Irving St",
+   "lat": 37.76525,
+   "lon": -122.47254,
+   "precision": "block"
+  },
+  "hook": "In 1913 the Chronicle watched sand dunes along Lincoln Way turn into rows of Craftsman homes, each with a garage tucked into the basement.",
+  "story": "On January 18, 1913, the Chronicle reported that no part of San Francisco was growing faster than the Sunset's first tier of blocks between Lincoln Way, 'formerly H street,' and Irving Street [1]. Builders had arrived only a year earlier. Now, 'instead of sand dunes there are rows of very attractive homes,' priced from $5,000 to $10,000 and many already occupied by 'delighted owners' [1]. Most were two stories and a basement, 'with garages in the basements.' The majority followed Craftsman ideals, and some were Italian Renaissance [1]. The Sunset Home Realty Company was building a row on 15th Avenue between Lincoln Way and 'I street,' which the paper still called by its letter three years after the renaming, with 'each house' in 'a different style.' The McKillop brothers were putting up houses on 8th Avenue near Lincoln [1]. United Railroads was relaying heavy rail on Lincoln Way for beach traffic, and the city was about to pave the park side of the street [1]. The paper said buyers had turned into 'boosters' for the Sunset and the park [1]. Most of the district was still sand, though, and full development of its blocks would take until after World War II [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "1913 Article on Sunset Home Building (reprint of 'Sunset Fast Becoming Beautiful Residence Suburb,' SF Chronicle, Jan 18, 1913)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 1913,
+    "url": "https://www.outsidelands.org/1913_article.php",
+    "supports": "All 1913 details: prices, styles, basement garages, Sunset Home Realty on 15th Ave, McKillop Bros on 8th Ave, rail relaying and paving, 'boosters'"
+   },
+   {
+    "title": "How Water Shaped Development of the Outside Lands",
+    "publisher": "Western Neighborhoods Project (John Freeman)",
+    "year": 2014,
+    "url": "https://www.outsidelands.org/westsidewater.php",
+    "supports": "Sunset block development began at its margins after 1906 and was not complete until after World War II"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-grand-view-peak",
+  "title": "The Summit of the Great Sand Drift",
+  "theme": "parks-nature",
+  "year": 1923,
+  "yearEnd": null,
+  "place": {
+   "label": "Grand View Park, Golden Gate Heights (14th Ave & Moraga St)",
+   "lat": 37.7564,
+   "lon": -122.4718,
+   "precision": "area"
+  },
+  "hook": "Sand once blew in from Ocean Beach and climbed this hill. In 1923 the city saved an acre of its summit, and the dune plants are still there.",
+  "story": "The rocky top of Grand View Park is, in Harold Gilliam's words, 'the highest point in the great sand drift' that blew in from Ocean Beach over thousands of years. The sand climbed some 700 feet here and flowed around outcrops of dark red chert and volcanic greenstone [1]. The 1869 U.S. Coast Survey map simply marks a hill of 673 feet [2]. In 1923 an acre or so at the summit was dedicated as city park land [1]. Park superintendent John McLaren planted the Monterey cypresses and eucalyptus on top, and photographs show Grand View Peak being graded in the late 1920s [1]. The sandy openings still hold a rare survival of native dune scrub: dune tansy, the rare Franciscan wallflower and beach strawberry [1]. The rest of the hill nearly disappeared. In 1952 the city sold the surrounding lots for unpaid taxes, and in the 1960s bulldozers cut into the south side. After Gilliam's 1967 Chronicle column, the city bought the lots back in the mid-1970s 'for much more than what they had sold them for' [1].",
+  "people": [
+   {
+    "name": "John McLaren",
+    "role": "Golden Gate Park superintendent"
+   },
+   {
+    "name": "Harold Gilliam",
+    "role": "Chronicle environmental writer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Grandview Park (essays by Pete Holloran and Harold Gilliam, SF Chronicle, Apr 9, 1967)",
+    "publisher": "FoundSF",
+    "year": 1967,
+    "url": "https://www.foundsf.org/index.php?title=Grandview_Park",
+    "supports": "Sand drift description; 1923 dedication; McLaren's plantings; late-1920s grading photo; native plants; 1952 sale and 1970s buyback"
+   },
+   {
+    "title": "How Water Shaped Development of the Outside Lands",
+    "publisher": "Western Neighborhoods Project (John Freeman)",
+    "year": 2014,
+    "url": "https://www.outsidelands.org/westsidewater.php",
+    "supports": "1869 Coast Survey map elevation 673 for Grand View Park hill"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-sunset-irving-theatre-opening",
+  "title": "Opening Night Starred a Famous Female Impersonator",
+  "theme": "arts-counterculture",
+  "year": 1926,
+  "yearEnd": 1962,
+  "place": {
+   "label": "Site of the Irving Theatre, 1300 block of Irving St (14th–15th Aves)",
+   "lat": 37.76403,
+   "lon": -122.47225,
+   "precision": "building"
+  },
+  "hook": "The Inner Sunset's neighbourhood movie palace opened in 1926 with a comedy starring America's most famous female impersonator.",
+  "story": "On June 10, 1926, the Irving Theatre opened on the north side of Irving Street between 14th and 15th Avenues. At night its big sign lit up the Inner Sunset [1]. The first film on its screen was 'Madame Behave!' [1], a silent comedy that had premiered the previous November. It starred Julian Eltinge as a young man who hides from a policeman by passing himself off as a woman, and it was sold as 'a Cousin to Charley's Aunt' [2]. Eltinge was one of the best-known performers of female roles of his day. Rather than playing women for laughs, his stage act gave the illusion of actually being one, and he took off his wig at the end to surprise the audience [3]. For the next 36 years the Irving was the neighbourhood's movie house. A June 1941 photo shows 'Topper Returns' on the marquee, a Safeway to its left and the Montrose Market to its right. In 1951 an ad promoted 'I Was a Communist for the FBI' [1]. The Irving closed on July 8, 1962, was torn down, and an apartment building now stands on the lot [1].",
+  "people": [
+   {
+    "name": "Julian Eltinge",
+    "role": "Star of the opening film"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Irving Theatre",
+    "publisher": "Western Neighborhoods Project (with Jack Tillmany)",
+    "year": null,
+    "url": "https://www.outsidelands.org/irving.php",
+    "supports": "Opening June 10, 1926; location; first film and star; 1941 photo; 1951 ad; closing July 8, 1962; demolition and apartment building"
+   },
+   {
+    "title": "Madame Behave",
+    "publisher": "Wikipedia (pointer to LoC copyright and Exhibitors Herald sources)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Madame_Behave",
+    "supports": "1925 silent comedy, Nov 1925 premiere, plot, 'Cousin to Charley's Aunt' marketing"
+   },
+   {
+    "title": "Julian Eltinge",
+    "publisher": "Wikipedia (pointer to sources)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Julian_Eltinge",
+    "supports": "Eltinge's career and illusion-based act, removing his wig at the end"
+   }
+  ],
+  "photo": null
+ }
+]

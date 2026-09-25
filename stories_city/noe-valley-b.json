@@ -1,0 +1,723 @@
+[
+ {
+  "id": "noe-valley-james-lick-art-deco-1932",
+  "title": "Skippers, Pirates, Bulldogs and Carlos Santana",
+  "theme": "architecture-landmarks",
+  "year": 1932,
+  "place": {
+   "label": "James Lick Middle School, 1220 Noe Street",
+   "lat": 37.749454,
+   "lon": -122.431943,
+   "precision": "building"
+  },
+  "hook": "An ivory Art Deco school rose on Noe Street in 1932. Its hallways have seen home-ec circle skirts, Beatles-haircut expulsions and a future guitar legend.",
+  "story": "The big ivory-coloured Art Deco building at 1220 Noe Street was finished in 1932. A James Lick school had been on the site since at least the 1890s, when a grammar school stood at 25th and Castro, on what is now the upper yard [1]. The school is named for James Lick, the piano builder and land baron who was the richest man in California when he died in 1876 [1]. Alumni remember it well. Rose Shuck, a student in the late 1950s, still sang the Skippers' school song decades later. She remembered girls being kept out of shop class and made to sew circle skirts, and a 1956 earthquake that knocked a projector off a table mid-film [1]. Joe Cepeda, there in the early 1960s, recalled the first two boys who turned up with Beatles haircuts. Both were sent straight home with letters for their parents [1]. The most famous graduate is Carlos Santana, who lived in the Mission, finished at James Lick and left Mission High in 1965 [2]. When the building turned 75 in 2007, he came back to open the Santana Peace Garden at the front entrance [1]. The team names, by the way, went from Skippers in the 1950s to Pirates by the 1980s and Bulldogs in the 1990s [1].",
+  "people": [
+   {
+    "name": "Carlos Santana",
+    "role": "musician and alumnus"
+   },
+   {
+    "name": "Rose Shuck",
+    "role": "1950s student"
+   },
+   {
+    "name": "Joe Cepeda",
+    "role": "1960s student"
+   }
+  ],
+  "sources": [
+   {
+    "title": "James Lick School Celebrates 75th with Santana (Kate Volkman)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2007,
+    "url": "http://www.noevalleyvoice.com/2007/May/Lick.html",
+    "supports": "1932 building, earlier school at 25th and Castro, James Lick biography, alumni memories, mascots, Santana Peace Garden"
+   },
+   {
+    "title": "Carlos Santana",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Carlos_Santana",
+    "supports": "Santana lived in the Mission, graduated from James Lick Middle School, left Mission High in 1965"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "noe-valley-noe-theater-matinees",
+  "title": "Dime matinees and wartime newsreels at the Noe",
+  "theme": "war-military",
+  "year": 1942,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Former Noe Theater, north side of 24th Street between Noe and Castro (approx. 3982 24th St)",
+   "lat": 37.751578,
+   "lon": -122.431362,
+   "precision": "block"
+  },
+  "hook": "Kids queued for ninety minutes for a ten-cent double bill. Then the Second World War arrived on the screen, and the theatre joined the war effort.",
+  "story": "In the 1930s and '40s, Saturday in Noe Valley meant the Noe Theater on 24th Street. Fred Lossman, born on Jersey Street in 1934, remembered kids arriving an hour and a half before the box office opened just to be near the front of the line [1]. A child's ticket cost a dime. Once it went up to 11 cents, and Lossman had to run home for a penny and came back to find himself last in line [1]. For that you got a double feature, a cartoon, a newsreel and a serial such as Flash Gordon. The tough boys up in the balcony flicked lit cigarette butts down onto the main floor, so the dark looked full of 'fireflies' [1]. The Second World War changed the Noe. It ran bond drives and scrap-metal drives, and even the children sat and watched the war unfold in the newsreels [1]. In 1943 Cyril Saunders opened a soda fountain across the street and named it the X from Noe. Herb Gaines bought it in 1945 and renamed it Herb's Fine Foods in 1953, as customers began staying home to watch TV. The theatre itself closed a few years later [2].",
+  "people": [
+   {
+    "name": "Fred Lossman",
+    "role": "grew up on Jersey Street, wrote the memoir"
+   },
+   {
+    "name": "Cyril Saunders",
+    "role": "opened the X from Noe soda fountain"
+   },
+   {
+    "name": "Herb Gaines",
+    "role": "owner of Herb's Fine Foods"
+   }
+  ],
+  "sources": [
+   {
+    "title": "First in Line for a Matinee on 24th Street (Fred Lossman)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2000,
+    "url": "http://www.noevalleyvoice.com/2000/February/theater.html",
+    "supports": "Queues, dime admission, serials, balcony 'fireflies', wartime bond and scrap drives, location near Just for Fun"
+   },
+   {
+    "title": "Twenty-Five Years in Voice History (1990 entry)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2002,
+    "url": "http://www.noevalleyvoice.com/2002/May/Anny.html",
+    "supports": "X from Noe soda fountain of 1943 across from the Noe Theater, Herb Gaines, 1953 rename, theatre closing a few years later"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-last-11-line-streetcar",
+  "title": "The boy who saved San Francisco's streetcars",
+  "theme": "modern-city",
+  "year": 1949,
+  "place": {
+   "label": "24th Street at Hoffman Avenue, old terminus of the 11-line",
+   "lat": 37.75105,
+   "lon": -122.44065,
+   "precision": "street"
+  },
+  "hook": "In January 1949 the last 11-line streetcar pulled away from 24th and Hoffman. A Douglass Street teenager in the doorway went on to save Muni's first car.",
+  "story": "The Market Street Railway's 11-line once ran up and down 24th Street. On January 15, 1949, a photograph shows Richard Schlaich standing in the door of the last 11-line car to leave 24th and Hoffman [1]. He was 17. Schlaich was born in 1931 and spent his whole life in a Douglass Street house his parents had bought new in 1915 [1]. As a boy at Alvarado School he rode streetcars all over the city, and the 11 was his favourite [1]. In 1951 Muni began scrapping its first streetcars, including car No. 1, the first publicly owned streetcar in the United States. The 20-year-old Schlaich talked railway officials and historians into saving it, and then into saving Market Street Railway car 578 too [1]. Both cars were put back in running order in 1956. They later became the start of today's historic F-line [1]. Schlaich also helped keep the zoo's 'Little Puffer' train from being auctioned. His photographs and papers now sit in San Francisco's railway archives, where historians still credit the 'Richard Schlaich collection' [1][2]. He died at home in 2004. That May, about 40 friends rode car No. 1 along his favourite routes, past Church and 24th [1].",
+  "people": [
+   {
+    "name": "Richard Ellis Schlaich",
+    "role": "transit preservationist and lifelong Noe Valley resident"
+   },
+   {
+    "name": "Emiliano Echeverria",
+    "role": "historian and friend"
+   }
+  ],
+  "sources": [
+   {
+    "title": "End of the Line for Streetcar Savior Richard Schlaich (Laura McHale Holland)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2004,
+    "url": "http://www.noevalleyvoice.com/2004/June/Obit.html",
+    "supports": "1949 last 11-line car photo, Douglass Street home, saving cars No. 1 and 578, 1956 revival, F-line, Little Puffer, memorial ride"
+   },
+   {
+    "title": "Muni at war: crushloads & consolidation 1941-1945",
+    "publisher": "Market Street Railway",
+    "year": null,
+    "url": "https://www.streetcar.org/muni-at-war-crushloads-consolidation-1941-1945/",
+    "supports": "Images credited to the Richard Schlaich Collection, San Francisco Railway Archive"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "noe-valley-lyon-martin-house",
+  "title": "The picture window where lesbians danced",
+  "theme": "lgbtq",
+  "year": 1955,
+  "yearEnd": 2020,
+  "place": {
+   "label": "Lyon-Martin House, 649-651 Duncan Street",
+   "lat": 37.745392,
+   "lon": -122.434504,
+   "precision": "building"
+  },
+  "hook": "Two women bought a hillside cottage for the view in 1955. Months later a phone call in the living room started America's first lesbian organisation.",
+  "story": "Del Martin wanted a view. In 1955 she and Phyllis Lyon, who had moved in together on Valentine's Day 1953, ignored a 'do not disturb occupants' sign and knocked on the door of a small house on Duncan Street. The owners asked $11,000. The couple offered $10,000, and Lyon's stash of war bonds covered the down payment [1]. They had few lesbian friends. That September, Lyon was vacuuming the living room when a woman called to ask whether they would help start an organisation for lesbians. 'OF COURSE,' she said [1]. That group became the Daughters of Bilitis, the first lesbian-rights organisation in the United States. Its early meetings and dance parties were held in the house, and some guests worried that neighbours could see women dancing together through the huge picture window [1]. Back then a car on Duncan Street was an event, the couple said: 'We would run to the window' [2]. On February 12, 2004, they were the first same-sex couple married at City Hall [3]. In 2008 they married again, legally, after a lawsuit they had joined. Martin died that August [1][3]. In 2021 city planners recommended the house become a city landmark, for its significance from 1955 to 2020 [1].",
+  "people": [
+   {
+    "name": "Del Martin",
+    "role": "co-founder, Daughters of Bilitis"
+   },
+   {
+    "name": "Phyllis Lyon",
+    "role": "co-founder, Daughters of Bilitis"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Landmark Designation: Lyon-Martin House, 649-651 Duncan Street (2020-011305DES)",
+    "publisher": "San Francisco Planning Department",
+    "year": 2021,
+    "url": "https://commissions.sfplanning.org/hpcpackets/2020-011305DES.pdf",
+    "supports": "1955 purchase story, price, war bonds, 1955 phone call, DOB meetings and parties, picture window, 2004 and 2008 marriages, period of significance"
+   },
+   {
+    "title": "Del Martin and Phyllis Lyon: Partners in Love and Activism (Erin O'Briant)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2003,
+    "url": "http://www.noevalleyvoice.com/2003/February/Lyon.html",
+    "supports": "Moved in 1955; running to the window when a car passed"
+   },
+   {
+    "title": "Lesbian Pioneer Del Martin Dies (Liz Highleyman)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2008,
+    "url": "http://www.noevalleyvoice.com/2008/September/Del.html",
+    "supports": "First lesbian couple married in February 2004, 2008 marriage after lawsuit, Martin's death Aug. 27, 2008"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-alvarado-arts-workshop",
+  "title": "Ruth Asawa's schoolyard of clay",
+  "theme": "arts-counterculture",
+  "year": 1968,
+  "place": {
+   "label": "Alvarado Elementary School, 625 Douglass Street",
+   "lat": 37.753751,
+   "lon": -122.438586,
+   "precision": "building"
+  },
+  "hook": "A sculptor who learned to draw in an internment camp opened an art workshop at her children's school. It became a model for 50 more.",
+  "story": "Ruth Asawa learned to draw in an internment camp for Japanese Americans during the Second World War, and went on to become famous for her looped-wire sculptures [2]. In 1960 she and her husband, architect Albert Lanier, moved to Noe Valley [1]. In 1968 she started an arts programme at Alvarado Elementary, the public school her children attended [3]. She co-founded the Alvarado Arts Workshop with art historian Sally Woodbridge, and it became a model for arts programmes at 50 other San Francisco schools [1]. Her son Paul Lanier was 10 in 1968. He helped make a boy holding a red balloon for a 30-by-15-foot mosaic mural that still anchors the schoolyard [3]. Thirty years later Paul, now a ceramic artist, led the design of a second mural: 1,200 sculpted tiles forming a tree full of birds and insects. His own kindergarten daughter helped make it. Three generations of Asawa-Laniers were at its unveiling on Eureka Street in May 2000 [3]. By then Alvarado was the only public school in the city with a full-time artist-in-residence working in his own ceramics studio [3]. Asawa died at home in 2013, aged 87 [2].",
+  "people": [
+   {
+    "name": "Ruth Asawa",
+    "role": "sculptor, co-founder of the Alvarado Arts Workshop"
+   },
+   {
+    "name": "Sally Woodbridge",
+    "role": "art historian, co-founder"
+   },
+   {
+    "name": "Paul Lanier",
+    "role": "Asawa's son, ceramic artist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ruth Asawa's Sculptures on Prominent Display in De Young (Corrie M. Anders)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2005,
+    "url": "http://www.noevalleyvoice.com/2005/November/Ruth.html",
+    "supports": "Moved to Noe Valley 1960, co-founded Alvarado Arts Workshop with Sally Woodbridge, model for 50 schools"
+   },
+   {
+    "title": "Ruth Asawa, an Artist Who Wove Wire, Dies at 87",
+    "publisher": "The New York Times",
+    "year": 2013,
+    "url": "https://www.nytimes.com/2013/08/18/arts/design/ruth-asawa-an-artist-who-wove-wire-dies-at-87.html",
+    "supports": "Learned to draw in internment camp; died Aug. 6, 2013 at home in San Francisco, aged 87"
+   },
+   {
+    "title": "Alvarado School Unveils Mural",
+    "publisher": "The Noe Valley Voice",
+    "year": 2000,
+    "url": "http://www.noevalleyvoice.com/2000/May/0005alva.htm",
+    "supports": "1968 start, red-balloon mosaic 30x15 ft, 2000 tile mural of 1,200 tiles, three generations, artist-in-residence"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "noe-valley-music-series-mcferrin",
+  "title": "Bobby McFerrin's first concert hall",
+  "theme": "arts-counterculture",
+  "year": 1981,
+  "yearEnd": 2010,
+  "place": {
+   "label": "Noe Valley Ministry, 1021 Sanchez Street",
+   "lat": 37.752824,
+   "lon": -122.429429,
+   "precision": "building"
+  },
+  "hook": "A flutist bumped from a jazz club rented a Gothic church for Saturday nights. Within two months a singer who passed the hat was on its stage.",
+  "story": "In 1980 flutist Larry Kassin's fusion band lost a Monday-night slot at Keystone Korner and faced a six-month wait for another. So he went looking for his own venue. 'I looked around at churches, figuring that they're nice rooms and not used on Saturday night,' he said [1]. The newly revived Noe Valley Ministry, in the Gothic former Lebanon Presbyterian Church at 1021 Sanchez, wanted community events. On February 8, 1981, Noe Valley Jazz presented its first show, the Bishop Norman Williams Quartet [2]. 'Two months later, we had Bobby McFerrin,' Kassin said. 'He was still playing little jazz clubs, passing the hat. This was his first concert hall' [2]. McFerrin lived on Valley Street and would walk down to try out new ideas [1]. Joan Baez, Bill Frisell, Ramblin' Jack Elliott and Warren Zevon played there too. Zevon's entourage asked for security and 10 pounds of carrots, and wanted the chairs removed so the audience would have to stand [2]. The Noe Valley Music Series ran at the church for 30 years before a renovation sent it to Turk Street in 2011 [2].",
+  "people": [
+   {
+    "name": "Larry Kassin",
+    "role": "founder, Noe Valley Music Series"
+   },
+   {
+    "name": "Bobby McFerrin",
+    "role": "singer, neighbourhood resident"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Music Man (Chronicle profile of Larry Kassin)",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2006,
+    "url": "https://www.sfgate.com/entertainment/article/THE-MUSIC-MAN-2507072.php",
+    "supports": "Keystone Korner origin, churches quote, Feb. 8 1981 start, McFerrin's concert debut and walking to gigs"
+   },
+   {
+    "title": "Music Series Bids Farewell to Ministry Stage (Heather World)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2010,
+    "url": "http://www.noevalleyvoice.com/2010/November/NVMS.htm",
+    "supports": "First show, McFerrin quote, Valley Street, performers, Zevon carrots, 30 years, move to St. Cyprian's"
+   },
+   {
+    "title": "First in Line for a Matinee on 24th Street",
+    "publisher": "The Noe Valley Voice",
+    "year": 2000,
+    "url": "http://www.noevalleyvoice.com/2000/February/theater.html",
+    "supports": "Lebanon Presbyterian Church is now the Noe Valley Ministry"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-mother-teresa-convent",
+  "title": "Mother Teresa takes an empty convent",
+  "theme": "communities",
+  "year": 1982,
+  "place": {
+   "label": "Former St. Paul's convent, 312 29th Street near Church",
+   "lat": 37.743877,
+   "lon": -122.427453,
+   "precision": "building"
+  },
+  "hook": "'Give me a convent and I will send them,' the Nobel laureate told the archbishop. Noe Valley had one standing empty.",
+  "story": "On June 4, 1982, after speaking at St. Mary's Cathedral, Mother Teresa came to Noe Valley to look over a vacant convent belonging to St. Paul's Parish at Church and 29th streets [1]. The winner of the 1979 Nobel Peace Prize was 72. Archbishop John R. Quinn had invited her to send sisters to San Francisco. Her answer, as Herb Caen reported it: 'Give me a convent and I will send them' [1]. The building at 312 29th Street had been built in 1920 for the parish school's teachers. It had since housed a community of priests, the Sisters of the Sacred Heart and even the United Farm Workers union [1]. On July 10 about 30 parishioners turned out to scrub it. The sisters, however, did not want comfort. Their order serves 'the poorest of the poor,' and they asked for every carpet, curtain and modern convenience to be taken out of the three-storey house [1][2]. In July it became a novitiate of her Missionaries of Charity, dedicated at a small Mass in the convent chapel. Mother Teresa, Quinn and the pastor, Father Kevin Gaffey, were there [1].",
+  "people": [
+   {
+    "name": "Mother Teresa",
+    "role": "founder of the Missionaries of Charity"
+   },
+   {
+    "name": "Archbishop John R. Quinn",
+    "role": "invited the sisters"
+   },
+   {
+    "name": "Fr. Kevin Gaffey",
+    "role": "St. Paul's pastor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mother Teresa Brings Order to St. Paul's (Mary O'Brien), Vol. VI No. 5 (scan)",
+    "publisher": "The Noe Valley Voice",
+    "year": 1982,
+    "url": "https://archive.org/details/noevalleyvoice05unse_4",
+    "supports": "June 4 visit, Quinn invitation and quote, 312 29th St built 1920, earlier occupants incl. UFW, cleanup, removal of carpets, July dedication"
+   },
+   {
+    "title": "Twenty-Five Years in Voice History (1982 entry)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2002,
+    "url": "http://www.noevalleyvoice.com/2002/May/Anny.html",
+    "supports": "Summary: novitiate opened in July 1982 in vacant convent on 29th St behind St. Paul's; modern conveniences removed"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "noe-valley-sally-brunn-library",
+  "title": "The librarian's champion who wouldn't let it close",
+  "theme": "civil-rights",
+  "year": 1980,
+  "yearEnd": 2008,
+  "place": {
+   "label": "Noe Valley/Sally Brunn Branch Library, 451 Jersey Street",
+   "lat": 37.750293,
+   "lon": -122.435107,
+   "precision": "building"
+  },
+  "hook": "Twice the city tried to close Noe Valley's Carnegie library. Twice a soft-spoken Hoffman Avenue neighbour stopped it, and now the building carries her name.",
+  "story": "When Sally Brunn moved to Hoffman Avenue in the 1960s, the branch library on Jersey Street wasn't open on Saturdays and had no children's librarian. She set out to change that [2]. The city threatened to close the branch in 1980 and again in 1988. Both times Brunn led the fight to keep it open and to stop it being turned into a storehouse [1][2]. She also raised money for the community room and lobbied against cuts to the book budget [1]. 'Sally was always soft-spoken in her activism, but very effective,' her husband John said [1]. Brunn died of cancer in 1991. The following year the city, 'with a swiftness rarely seen in politics,' renamed the branch the Noe Valley-Sally Brunn Library [1]. A book fund in her name buys titles on grassroots organising, each marked with a bookplate by her friend and neighbour Ruth Asawa [1]. In 2008 the 1916 Carnegie building reopened after a $5.7 million seismic renovation, helped by more than $200,000 raised by neighbours. It won a Governor's Historic Preservation Award [3].",
+  "people": [
+   {
+    "name": "Sally Brunn",
+    "role": "library and schools activist"
+   },
+   {
+    "name": "John Brunn",
+    "role": "her husband"
+   },
+   {
+    "name": "Ruth Asawa",
+    "role": "designed the bookplate"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Sally Brunn's Legacy in Books (Cameron Alston)",
+    "publisher": "The Noe Valley Voice",
+    "year": 1998,
+    "url": "http://www.noevalleyvoice.com/1998/March/brunn.html",
+    "supports": "1980 and 1988 closure fights, storehouse, community room, quote, death 1991, renaming, book fund, Asawa bookplate"
+   },
+   {
+    "title": "Twenty-Five Years in Voice History (1992 entry)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2002,
+    "url": "http://www.noevalleyvoice.com/2002/May/Anny.html",
+    "supports": "No Saturday hours or children's librarian when she arrived; 1980 and 1988 fights; 1992 renaming "
+   },
+   {
+    "title": "Noe Library Wins State Preservation Award (Heather World and Corrie M. Anders)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2008,
+    "url": "http://www.noevalleyvoice.com/2008/November/Libr.html",
+    "supports": "2008 reopening after $5.7M renovation, 1916 building, $200,000+ private funds, Governor's award"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-24th-street-cheese-kung",
+  "title": "From Taipei to Buenos Aires to brie",
+  "theme": "communities",
+  "year": 1986,
+  "place": {
+   "label": "24th Street Cheese Company, 3893 24th Street",
+   "lat": 37.751367,
+   "lon": -122.429361,
+   "precision": "building"
+  },
+  "hook": "A Chinese-Argentine restaurant manager who knew only three cheeses was handed an empty cheese shop by his mother. He became Noe Valley's cheese oracle.",
+  "story": "Charles Kung was born in 1950. His family left mainland China for Taiwan, and in 1964 moved on to Buenos Aires, where they ran a Chinese restaurant and then a supply business for fishing boats [1]. In 1973 his sister, waiting tables at Andy's Doughnuts on Castro Street, heard the building was for sale. Their mother was on the next plane from Argentina with the money [1]. The family went on to buy several Noe Valley buildings, including the one at 3893 24th Street that housed the Cheese Company [1]. When the shop's operator left abruptly in 1984, the counter was bare. 'We can run a Chinese restaurant, but not a cheese store,' his mother protested. Still, she asked Charles to take it on [1]. He arrived in February 1986 with his new wife, and they lived upstairs. He knew Parmesan, mozzarella and provolone, 'that's it' [1]. He washed knives, watched the staff and read cheese books. Two decades later he carried 300 cheeses, and said the rising neighbourhood let him stock ones he 'wouldn't dare to carry' 15 years earlier [1]. In 2009, as Whole Foods moved in a block away, Kung told the Voice he wasn't optimistic [2].",
+  "people": [
+   {
+    "name": "Charles Kung",
+    "role": "owner, 24th Street Cheese Company"
+   },
+   {
+    "name": "Hsueh Wei",
+    "role": "his wife"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A Slice of History from the 24th Street Cheese Company (Kate Volkman)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2007,
+    "url": "http://www.noevalleyvoice.com/2007/April/Chee.html",
+    "supports": "Family migration, 1973 Castro St purchase, 1984 departure, 1986 takeover, quotes, 300 cheeses"
+   },
+   {
+    "title": "Goodbye Bell Market, Hello Whole Foods (Corrie M. Anders)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2009,
+    "url": "http://www.noevalleyvoice.com/2009/February/Bell.html",
+    "supports": "Kung's worries about Whole Foods a block away; 300 cheeses"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "noe-valley-st-pauls-sister-act",
+  "title": "Whoopi's convent in disguise",
+  "theme": "architecture-landmarks",
+  "year": 1992,
+  "place": {
+   "label": "St. Paul's Catholic Church, 221 Valley Street at Church",
+   "lat": 37.744192,
+   "lon": -122.427742,
+   "precision": "building"
+  },
+  "hook": "Hollywood dumped wrecked cars and trash outside Noe Valley's granite Gothic church to make it look like a slum, just as the parish was fighting to stay open.",
+  "story": "St. Paul's, with its two unequal slate spires and walls of granite from a quarry near 30th and Castro, was dedicated in 1911. It came through both the 1906 and 1989 earthquakes with mostly cosmetic damage [1]. After Loma Prieta, though, the archdiocese ordered every parish building retrofitted to new seismic standards, and the cost was so high it seriously considered closing the church [1][2]. In 1992, in the middle of that uncertainty, Hollywood arrived. The church played 'St. Katherine's' in Sister Act, starring Whoopi Goldberg as a lounge singer hiding among nuns [2][3]. The neighbourhood, by then decidedly middle class, was dressed down to look like the Tenderloin or Bayview. Crews recast shopfronts and scattered abandoned cars and trash along the streets [3]. In 1994 the new pastor, Father Mario Farana, began a campaign to save the parish. The old school at 29th and Church was knocked down and rebuilt, and the church itself was retrofitted, with a fundraising target of $7.8 million [1]. The plan worked, and St. Paul's still stands [2].",
+  "people": [
+   {
+    "name": "Whoopi Goldberg",
+    "role": "star of Sister Act"
+   },
+   {
+    "name": "Fr. Mario Farana",
+    "role": "pastor who led the rescue"
+   }
+  ],
+  "sources": [
+   {
+    "title": "St. Paul's at the Millennium (Joseph Metzgar)",
+    "publisher": "The Noe Valley Voice",
+    "year": 1997,
+    "url": "http://www.noevalleyvoice.com/1997/June/spaul697.html",
+    "supports": "Granite source, spires, 1911 dedication, earthquake history, closure threat, Fr. Farana 1994, school rebuild, $7.8M goal"
+   },
+   {
+    "title": "St. Paul's Catholic Church (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/St._Paul%27s_Catholic_Church_(San_Francisco)",
+    "supports": "Closure considered after Loma Prieta; Sister Act filming 1992"
+   },
+   {
+    "title": "Tourism for Locals: Dressing Up St. Paul's Catholic Church for Sister Act (Juan De Anda)",
+    "publisher": "SF Weekly",
+    "year": 2014,
+    "url": "http://archives.sfweekly.com/exhibitionist/2014/10/09/tourism-for-locals-dressing-up-st-pauls-catholic-church-for-sister-act",
+    "supports": "1992 filming, 'St. Katherine's', set redress with recast storefronts, abandoned cars and trash"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "noe-valley-pigeon-lady",
+  "title": "The Pigeon Lady flies home to Estonia",
+  "theme": "modern-city",
+  "year": 1997,
+  "place": {
+   "label": "1329 Sanchez Street, near Cesar Chavez",
+   "lat": 37.747924,
+   "lon": -122.429114,
+   "precision": "building"
+  },
+  "hook": "Hundreds of pigeons lined the wires waiting for Anna Muru. A court order stopped her feeding them, but her farewell party drew more people than birds.",
+  "story": "For years Anna Muru made her rounds of Noe Valley streets dropping birdseed from her coat pockets, while hundreds of pigeons waited on the wires overhead [1][2]. Neighbours whose roofs were being slimed complained, and the Voice covered the feud from 1988 on [1]. In the fall of 1996 a group of mostly homeowners won a restraining order barring the 84-year-old from feeding birds on the street [1]. Her supporters saw something else. One neighbour traced her compulsion to the Second World War, when she had been a homeless, parentless, starving teenager in an Estonia overrun by Nazis and Soviets [1]. In the spring of 1997 she sold her dilapidated, feather-coated Victorian at 1329 Sanchez. It drew 17 bids and sold to an East Bay developer for $241,000, well above the asking price of $199,000 [1]. That money paid for her return to Estonia, which she had not seen in 50 years [1][2]. At a sidewalk farewell party on May 10 she danced to a swing band. 'They were right too in a way,' she admitted of her critics. 'I did get carried away with the birds.' She flew home on May 19 with her cat, Zsa Zsa [1].",
+  "people": [
+   {
+    "name": "Anna Muru",
+    "role": "Noe Valley's 'Pigeon Lady'"
+   },
+   {
+    "name": "Judy Rydell",
+    "role": "realtor who sold her house"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pigeon Lady Wings Her Way Home to Estonia (Sally Smith)",
+    "publisher": "The Noe Valley Voice",
+    "year": 1997,
+    "url": "http://www.noevalleyvoice.com/1997/June/pigeo697.html",
+    "supports": "Address, restraining order, wartime background, sale figures, party, quotes, departure date"
+   },
+   {
+    "title": "Twenty-Five Years in Voice History (1997 entry)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2002,
+    "url": "http://www.noevalleyvoice.com/2002/May/Anny.html",
+    "supports": "Summary of restraining order, birdseed from coat pockets, sale and return to Estonia after 50 years"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "noe-valley-real-food-union-busting",
+  "title": "Padlocked on Labor Day weekend",
+  "theme": "labor-industry",
+  "year": 2003,
+  "yearEnd": 2009,
+  "place": {
+   "label": "Former Real Food Company, 3939 24th Street",
+   "lat": 37.751261,
+   "lon": -122.430564,
+   "precision": "building"
+  },
+  "hook": "Workers at a beloved health-food store asked for a living wage. Days later the doors were chained, and the building stayed dark for years.",
+  "story": "Kimball and Jane Allen opened the Real Food Company on 24th Street in 1970. In 2002 they sold it to Fresh Organics, a subsidiary of the Utah supplement maker Nutraceutical [1]. In 2003 the staff began organising with the Industrial Workers of the World and asked for a living wage, better equipment and a say in running the store [1]. On Thursday, August 28, the workers on shift were told the store was closing immediately. Shoppers arrived for the Labor Day weekend to find the doors chained and padlocked, and about 30 workers lost their jobs [1][2]. The company said it was a remodel. The ex-workers called it union-busting and filed charges [1]. In 2005 a National Labor Relations Board judge ruled for them on nearly all counts, and a board panel upheld that in 2007 [2]. In 2009 a settlement awarded $371,219 in back pay and interest, but no reinstatement [2]. The building sat empty. Peter Gabel later said the company kept it closed for 15 years [3]. The anger also built something: neighbours started a farmers' market that grew into the Noe Valley Town Square [3].",
+  "people": [
+   {
+    "name": "Lisa Fagundes",
+    "role": "ex-employee and organiser"
+   },
+   {
+    "name": "Sarah 'Mitch' Genlot",
+    "role": "fired union organiser"
+   },
+   {
+    "name": "Peter Gabel",
+    "role": "neighbourhood activist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Real Food Closes Amid Charges of Union-Busting (Liz Highleyman)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2003,
+    "url": "http://www.noevalleyvoice.com/2003/October/Real.html",
+    "supports": "1970 founding and 2002 sale, IWW organising, demands, Aug. 28 closure, padlocked doors, 30 workers, NLRB complaints"
+   },
+   {
+    "title": "Real Food Labor Settlement Reached, but Store Plans Still Hazy (Liz Highleyman)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2009,
+    "url": "http://www.noevalleyvoice.com/2009/March/Real.htm",
+    "supports": "3939 24th St address, 2005 NLRB ruling, 2007 upheld, $371,219 settlement without reinstatement"
+   },
+   {
+    "title": "Noe Valley is the only neighborhood in SF with a town square",
+    "publisher": "SFGATE",
+    "year": 2022,
+    "url": "https://www.sfgate.com/local/article/San-Francisco-neighborhood-has-town-square-16984327.php",
+    "supports": "Gabel on the building kept closed for 15 years; closure led to farmers' market and town square (dates the union drive to 2004, which conflicts with the Voice)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "noe-valley-bethany-first-methodist-gay-wedding",
+  "title": "A Methodist first, in the Sunday service",
+  "theme": "lgbtq",
+  "year": 2004,
+  "place": {
+   "label": "Bethany United Methodist Church, 1270 Sanchez Street at Clipper",
+   "lat": 37.748899,
+   "lon": -122.429677,
+   "precision": "building"
+  },
+  "hook": "When City Hall began marrying same-sex couples, a Noe Valley pastor wed two men during Sunday worship. Her church filed a complaint. She later became a bishop.",
+  "story": "On February 12, 2004, parishioner Michael Eaton called his pastor, the Rev. Karen Oliveto of Bethany United Methodist Church, to say City Hall was issuing marriage licences to same-sex couples. He asked her to marry him and his partner, Sean Higgins [2]. She did. Over the following days she conducted seven ceremonies at City Hall, only for couples she knew as their pastor [2]. On Sunday, February 15, she married an eighth couple, Dan Johnson and Bill Hinson, in Bethany's sanctuary during regular worship. It was the first same-sex marriage held in a United Methodist sanctuary [1][2]. Four days later her district superintendent told her a complaint had been filed for 'disobedience to the order and discipline of the United Methodist Church' [1][2]. At a February 22 news conference, more than 100 Methodists stood behind her [1]. 'I am not doing a holy union,' she said. 'I am doing a legal gay marriage' [1]. She called it 'the most moving thing I've ever done in my ministry' [2]. Oliveto had led Bethany since 1992 [2]. In 2016 she was elected the first openly lesbian bishop in the United Methodist Church [3].",
+  "people": [
+   {
+    "name": "Rev. Karen Oliveto",
+    "role": "pastor of Bethany UMC 1992-2004"
+   },
+   {
+    "name": "Dan Johnson and Bill Hinson",
+    "role": "couple married in the sanctuary"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Noe Valleyans Among Gay Marriage Pioneers (Liz Highleyman)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2004,
+    "url": "http://www.noevalleyvoice.com/2004/March/Gay.html",
+    "supports": "Sanctuary wedding as first in a Methodist sanctuary, complaint wording, Feb. 22 press conference, quote"
+   },
+   {
+    "title": "Pastor faces complaint for performing gay marriages",
+    "publisher": "United Methodist News Service",
+    "year": 2004,
+    "url": "http://archives.umc.org/interior.asp?ptid=2&mid=3407",
+    "supports": "Eaton's call, seven City Hall ceremonies, eighth in sanctuary on Feb. 15, Feb. 19 complaint, pastor since 1992, quote"
+   },
+   {
+    "title": "Karen Oliveto",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Karen_Oliveto",
+    "supports": "Elected July 15, 2016 as first openly lesbian UMC bishop"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "noe-valley-town-square",
+  "title": "From gas station to town square",
+  "theme": "parks-nature",
+  "year": 2016,
+  "place": {
+   "label": "Noe Valley Town Square, 3861 24th Street",
+   "lat": 37.751364,
+   "lon": -122.428975,
+   "precision": "building"
+  },
+  "hook": "In 1979 drivers queued three blocks for gas here. Later it was a car park, then a protest farmers' market, and now it's the city's only neighbourhood town square.",
+  "story": "The square sits on the site of a former gas station [4]. During the 1979 oil crisis, Noe Valley's only service station, Dan's Shell at 3865 24th Street, drew queues from 6 a.m. The line of cars ran up 24th Street and three blocks down Sanchez, and most afternoons the pumps ran dry [1]. The station site later became a parking lot [4]. Then the Real Food Company closed without warning in 2003. Neighbours including Leslie Crawford and Peter Gabel decided to grow their own alternative [2][4]. On December 6, 2003, the Noe Valley Farmers' Market opened in the lot between Vicksburg and Sanchez. More than 2,000 people came the first day, and a live band played every Saturday [2]. Not everyone was pleased: a florist complained that the farmers sold flowers below wholesale [2]. In June 2013 the Recreation and Park Department bought the quarter-acre site. After more than four years of work with a residents' group and Supervisor Scott Wiener's office, Noe Valley Town Square opened in October 2016 [3]. 'There's a utopian dimension to it that I really like,' Gabel said [4].",
+  "people": [
+   {
+    "name": "Leslie Crawford",
+    "role": "farmers' market co-founder"
+   },
+   {
+    "name": "Peter Gabel",
+    "role": "activist and law professor"
+   },
+   {
+    "name": "Scott Wiener",
+    "role": "then-supervisor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Twenty-Five Years in Voice History (1979 entry)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2002,
+    "url": "http://www.noevalleyvoice.com/2002/May/Anny.html",
+    "supports": "Dan's Shell at 3865 24th St, 1979 gas lines up 24th and down Sanchez"
+   },
+   {
+    "title": "Most Think Farmers' Market Is Just Peachy (Liz Highleyman)",
+    "publisher": "The Noe Valley Voice",
+    "year": 2004,
+    "url": "http://www.noevalleyvoice.com/2004/February/Farm.html",
+    "supports": "Dec. 6 debut, lot between Vicksburg and Sanchez, 2,000 on opening day, band, florist complaint, response to Real Food closure"
+   },
+   {
+    "title": "Noe Valley Town Square Restroom Project",
+    "publisher": "San Francisco Recreation and Park Department",
+    "year": null,
+    "url": "https://sfrecpark.org/1684/Noe-Valley-Town-Square-Restroom-Project",
+    "supports": "3861 24th St, 0.25 acres, bought June 2013, community collaboration with Wiener's office, opened October 2016"
+   },
+   {
+    "title": "Noe Valley is the only neighborhood in SF with a town square",
+    "publisher": "SFGATE",
+    "year": 2022,
+    "url": "https://www.sfgate.com/local/article/San-Francisco-neighborhood-has-town-square-16984327.php",
+    "supports": "Former gas station site, Gabel and Crawford meetings, utopian quote"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "noe-valley-million-dollar-toilet",
+  "title": "The not-$1.7 million toilet",
+  "theme": "modern-city",
+  "year": 2024,
+  "place": {
+   "label": "Restroom, Noe Valley Town Square, 3861 24th Street",
+   "lat": 37.75145,
+   "lon": -122.42887,
+   "precision": "building"
+  },
+  "hook": "A single toilet with a $1.7 million price tag made world headlines. In the end it cost about $200,000 and opened with a party called the Toilet Bowl.",
+  "story": "The town square's 2014 design included a restroom, but it was dropped for lack of money [2]. Neighbours later won state funding based on a rough estimate for a custom-built toilet [2]. In 2022 the San Francisco Chronicle reported the price: $1.7 million, for one small restroom [1]. The story spread around the world. Governor Gavin Newsom's office said 'a single, small bathroom should not cost $1.7m' and threatened to withhold the state money [1]. The city blamed inflation and the many departments that must sign off on any project [1]. In November 2022 two companies offered help. Public Restroom Company donated a prefab modular unit, and Volumetric Building Companies covered the design work [2]. In 2024 a crane lowered the unit into place, and the city's parks department called it 'the world's most famous and eagerly anticipated prefab toilet' [2]. The final bill to the city was about $200,000, mostly labour [1]. Neighbours celebrated in April with the 'Toilet Bowl', where a band called American Standard played. 'When everybody laughs at you, you gotta take the power back and laugh at yourself,' said organiser Leslie Crawford [1].",
+  "people": [
+   {
+    "name": "Leslie Crawford",
+    "role": "event organiser"
+   },
+   {
+    "name": "Vaughan Buckley and Chad Kaufman",
+    "role": "donor company executives"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Relief as San Francisco public toilet finally opens - and not for $1.7m after all (Dani Anguiano)",
+    "publisher": "The Guardian",
+    "year": 2024,
+    "url": "https://www.theguardian.com/us-news/2024/apr/22/san-francisco-public-toilet-bathroom-opens",
+    "supports": "$1.7m figure, Newsom spokesperson quote, city explanation, ~$200,000 final cost, Toilet Bowl party, American Standard band, Crawford quote"
+   },
+   {
+    "title": "Noe Valley Town Square Restroom Project",
+    "publisher": "San Francisco Recreation and Park Department",
+    "year": null,
+    "url": "https://sfrecpark.org/1684/Noe-Valley-Town-Square-Restroom-Project",
+    "supports": "Restroom dropped from 2014 plan, state funds, Nov. 2022 donor offer, crane placement and 'world's most famous' quote"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ }
+]

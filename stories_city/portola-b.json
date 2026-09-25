@@ -1,0 +1,699 @@
+[
+  {
+    "id": "portola-avenue-dime-matinees",
+    "title": "A dime bought the whole Saturday",
+    "theme": "arts-counterculture",
+    "year": 1930,
+    "yearEnd": 1939,
+    "place": {
+      "label": "Avenue Theatre, 2650 San Bruno Avenue",
+      "lat": 37.728091,
+      "lon": -122.404188,
+      "precision": "building"
+    },
+    "hook": "Newsreel, cartoon, comedy, cowboy picture and a cliffhanger serial, all for ten cents, until your mother came down the aisle hissing your name.",
+    "story": "The Avenue opened on San Bruno Avenue on 20 July 1927 with Charles Murray in \"McFadden's Flats\" [1]. For neighbourhood kids of the 1920s and '30s it was the Saturday ritual. Ruth Eshow Upton, who grew up nearby, remembered a dime buying a Pathé newsreel with its crackling electric tower, a cartoon (Mickey Mouse, Betty Boop), a comedy, often Wheeler and Woolsey, a cowboy picture and one episode of a ten-part serial [2]. There was no popcorn lobby, and her mother considered such food \"junk\" anyway. The price doubled to 20 cents at age twelve, so the small-for-their-age Eshow girls lined up by height behind their little brother, who handed the usher all the tickets at once; they got in for a dime until 16 [2]. Any on-screen kiss set off bedlam. Once, staying for a second showing, Ruth spotted her mother searching the rows, hissing \"Ruthie!\", and was dragged home by the ear [2]. On Friday and Saturday nights there was vaudeville, chorus girls high-kicking through the cigarette haze [2]. Sources disagree on who built the house: 1920s trade papers quoted on Cinema Treasures name Ackerman & Harris, while a theatre history credits the four Levin brothers [1][3].",
+    "people": [
+      {
+        "name": "Ruth Eshow Upton",
+        "role": "Portola memoirist who grew up going to the matinees"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Avenue Theatre, 2650 San Bruno Avenue",
+        "publisher": "Cinema Treasures",
+        "year": null,
+        "url": "https://cinematreasures.org/theaters/1945",
+        "supports": "Opening date and film; Moving Picture World and Film Daily items naming Ackerman & Harris"
+      },
+      {
+        "title": "Avenue Theatre (\"I was there...\" by Ruth Eshow Upton)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Avenue_Theatre",
+        "supports": "Matinee programme, prices, ticket trick, mother in the aisle, vaudeville nights"
+      },
+      {
+        "title": "Avenue Theatre (San Francisco)",
+        "publisher": "Wikipedia (citing Jack Tillmany, Theatres of San Francisco, 2005, and Theatre Organ, January 1985)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Avenue_Theatre_(San_Francisco)",
+        "supports": "Alternative attribution of the builders to the Levin brothers"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-avenue-wurlitzer-silents",
+    "title": "A Chicago Wurlitzer for silent-film nights",
+    "theme": "arts-counterculture",
+    "year": 1966,
+    "yearEnd": 1984,
+    "place": {
+      "label": "Avenue Theatre, 2650 San Bruno Avenue",
+      "lat": 37.728091,
+      "lon": -122.404188,
+      "precision": "building"
+    },
+    "hook": "In 1966 a neighbourhood movie house on San Bruno Avenue became a shrine to silent film, with a 16-rank theatre organ brought from Chicago.",
+    "story": "In the mid-1960s the Lyric Photoplay Film Society, led by Edward Millington Stout III, took over the Avenue [1][2]. In 1966 it installed a three-manual, 16-rank Wurlitzer that had first played in the State Lake Theatre in Chicago, and on 7 October 1966 organist Tom Hazelton opened it by accompanying the silent \"The Lost World\" [1][3]. The Avenue became a destination with an eclectic diet of foreign films, 3-D revivals and, above all, silents with live organ [1]. A surviving calendar, probably from the late 1970s or early '80s, lists \"Son of the Sheikh\" and \"Speedy\" beside \"The Gay Divorcee\" [2]. Lyn Larsen was staff organist in 1967 and 1968; Bob Vaughn took over in 1968 and played until the end, and the American Theatre Organ Society featured the organ at its 1975 and 1983 national conventions [1]. A 1983 TV news report on theatre organs caught the Friday-night silents and the marquee lit up [3]. But crime in the area kept patrons away, and the Avenue closed on 22 December 1984 amid financial trouble [1]. The organ went into storage; a later owner wrote that he had it trucked to Florida in 2005 for restoration [3].",
+    "people": [
+      {
+        "name": "Edward Millington Stout III",
+        "role": "Led the Lyric Photoplay Film Society, which ran the Avenue"
+      },
+      {
+        "name": "Tom Hazelton",
+        "role": "Organist at the 1966 opening"
+      },
+      {
+        "name": "Bob Vaughn",
+        "role": "House organist, 1968 to 1984"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Avenue Theatre (San Francisco)",
+        "publisher": "Wikipedia (citing Jack Tillmany, Theatres of San Francisco, 2005, and Theatre Organ, January 1985)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Avenue_Theatre_(San_Francisco)",
+        "supports": "Film society, organ origin, opening night, organists, ATOS conventions, closure and reasons"
+      },
+      {
+        "title": "Neon Revival: Portola's Avenue Theater Returns",
+        "publisher": "SF Weekly",
+        "year": 2017,
+        "url": "http://www.sfweekly.com/news/feature/neon-revival-portolas-avenue-theater-returns/",
+        "supports": "Stout's silent-film run and the surviving show calendar"
+      },
+      {
+        "title": "Avenue Theatre, 2650 San Bruno Avenue",
+        "publisher": "Cinema Treasures",
+        "year": null,
+        "url": "https://cinematreasures.org/theaters/1945",
+        "supports": "State Lake organ, Hazelton opening, 1983 news clip, later owner's account of moving the organ in 2005"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-avenue-neon-returns",
+    "title": "Pink and green, buzzing back to life",
+    "theme": "architecture-landmarks",
+    "year": 2017,
+    "yearEnd": null,
+    "place": {
+      "label": "Avenue Theatre marquee, 2650 San Bruno Avenue",
+      "lat": 37.728091,
+      "lon": -122.404188,
+      "precision": "building"
+    },
+    "hook": "Nobody could agree what colour the Avenue's neon had been. Then a restorer put a charge through a 77-year-old tube, and it glowed.",
+    "story": "After 1984 the Avenue went dark, its facade graffitied and its seats rotting where they stood [1]. In 2015 the Portola Neighborhood Association struck a deal with the owners: if the community paid to restore the old neon sign, the owners would back the search for a tenant to restore the theatre [1]. A $250,000 city Asset Activation grant, secured with Supervisor David Campos and his aide Hillary Ronen, covered most of the work; neighbours set out to raise $7,500 and ended up on track for more than $20,000 [1]. Then came a mystery. Every old photo was black and white, and residents swore the sign had been pink, or red, or green [2]. A 1983 TV clip offered the only colour image, and when the neon specialist put a direct charge through a salvaged \"N\" and some trim, the 77-year-old tubes lit: pink and green, echoing the Metro Theatre sign on Union Street, which the Avenue's 1940 marquee resembled [2]. Mayor Ed Lee switched the new neon on in September 2017 [3]. Another neighbourhood rumour checked out too: etched-glass lobby doors showing topless nymphs, removed by a church that later used the building, were bought by actor Kevin Spacey, according to the salvage dealer who handled the sale [4].",
+    "people": [
+      {
+        "name": "Luke Spray",
+        "role": "San Bruno Avenue corridor manager who oversaw the restoration"
+      },
+      {
+        "name": "Ed Lee",
+        "role": "Mayor who switched on the restored neon"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Neon Revival: Portola's Avenue Theater Returns",
+        "publisher": "SF Weekly",
+        "year": 2017,
+        "url": "http://www.sfweekly.com/news/feature/neon-revival-portolas-avenue-theater-returns/",
+        "supports": "Decay, 2015 deal, $250,000 grant, fundraising figures"
+      },
+      {
+        "title": "Solving the Avenue's Neon Color Mystery",
+        "publisher": "Portola Planet (archived)",
+        "year": 2017,
+        "url": "http://web.archive.org/web/20190921223318/http://portolaplanet.com:80/2017/08/solving-avenues-neon-color-mystery/",
+        "supports": "Conflicting memories, 1983 clip, salvaged tubes relit, Metro Theatre link, 1940 renovation"
+      },
+      {
+        "title": "Mayor to Unveil Avenue Theater's Striking New Neon Tomorrow",
+        "publisher": "Portola Planet (archived)",
+        "year": 2017,
+        "url": "http://web.archive.org/web/2020/http://portolaplanet.com/2017/09/mayor-unveil-avenue-theaters-striking-new-neon-tomorrow-come-join-party/",
+        "supports": "Mayor Ed Lee's lighting ceremony, September 2017"
+      },
+      {
+        "title": "Apparently Kevin Spacey Has Our Doors",
+        "publisher": "Portola Planet (archived)",
+        "year": 2017,
+        "url": "http://web.archive.org/web/2020/http://portolaplanet.com/2017/08/apparently-kevin-spacey-doors/",
+        "supports": "Church removed the etched doors; salvage dealer Gary Parks confirmed the sale"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-ladies-home-closes",
+    "title": "Care for life, until the money ran out",
+    "theme": "communities",
+    "year": 2014,
+    "yearEnd": null,
+    "place": {
+      "label": "Former University Mound Ladies Home, 350 University Street",
+      "lat": 37.725526,
+      "lon": -122.414207,
+      "precision": "building"
+    },
+    "hook": "In 1884, $300 bought a woman lifelong care on University Mound. In 2014 the endowment was gone, and 27 elderly residents were fighting eviction.",
+    "story": "James Lick's fortune founded the University Mound Ladies Home in 1884, after Mary Staples persuaded him to double his gift to $100,000 for a home for unsupported women [1]. Admission once meant a single $300 payment for care for the rest of one's life; by 1939 it was $50 a month or $3,000 for good. In 1932 Martin J. Rist redid the wooden building with the red-brick facade that still crowns the hill [1]. The endowment ran out in 2008 [2]. On 8 May 2014 the board announced the home would close; about 50 residents moved out, while 27 hung on, hoping it could be saved [1][2]. \"We should have known something when they were having a chili cook-off,\" said Sandra Parker, whose mother Alice lived there [2]. Anna Stratton's mother had lived in nearby Bernal Heights for 50 years; the only room Stratton could find was in Hayward [2]. The board agreed to sell to the Alta Vista School, a private elementary school a few blocks away, but AgeSong, a for-profit operator that had sued claiming a right of first refusal, was allowed to match the offer and took over on 15 August 2014 [1][2]. Since 2018 CiminoCare has run a care home there called Portola Gardens [1].",
+    "people": [
+      {
+        "name": "Mary Staples",
+        "role": "Persuaded James Lick to endow the home"
+      },
+      {
+        "name": "Sandra Parker",
+        "role": "Daughter of a resident in 2014"
+      },
+      {
+        "name": "Anna Stratton",
+        "role": "Daughter of a resident in 2014"
+      }
+    ],
+    "sources": [
+      {
+        "title": "University Mound Ladies Home",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=University_Mound_Ladies_Home",
+        "supports": "Founding, admission terms, 1932 brick facade, closure, AgeSong takeover, Portola Gardens"
+      },
+      {
+        "title": "S.F. senior care home to be sold to private school (J.K. Dineen)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2014,
+        "url": "https://www.sfgate.com/bayarea/article/S-F-senior-care-home-to-be-sold-to-private-school-5607715.php",
+        "supports": "Endowment ran out 2008, resident numbers, quotes, Alta Vista sale, AgeSong lawsuit"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-silver-avenue-detention",
+    "title": "Detained on Silver Avenue",
+    "theme": "war-military",
+    "year": 1942,
+    "yearEnd": null,
+    "place": {
+      "label": "Silver Avenue, Portola (wartime detention centre; exact site not given in sources)",
+      "lat": 37.729442,
+      "lon": -122.418352,
+      "precision": "street"
+    },
+    "hook": "When fire gutted Angel Island's immigration station in 1940, detainees came to the mainland. During the war, Italian 'enemy aliens' were held on Silver Avenue.",
+    "story": "In 1940 fire destroyed the administration building and women's quarters at the Angel Island Immigration Station, and its roughly 200 detainees were moved to a facility on the San Francisco mainland [1]. Portola artists Kate Connell and Oscar Melara write that a neighbourhood landmark built in the 1920s became the city's Immigration and Naturalization Service station in the early 1940s, where Asians and Italians, and briefly the longshore leader Harry Bridges, were held; they note this \"unsavory\" chapter is \"kept under wraps\" [2]. Historian Deanna Paoli Gumina adds that during the war, Italian aliens picked up around San Francisco were held in a temporary detention centre on Silver Avenue and at an Immigration Service facility at Sharp Park in Pacifica; some were then taken by train under armed guard to Fort Missoula, Montana [3]. One was Nereo Francesconi, an anti-fascist announcer on Italian radio whose \"misunderstood devilish wit\" got him taken away in handcuffs by the FBI in front of his screaming wife and children [3]. On Columbus Day, 12 October 1942, Attorney General Francis Biddle announced that Italians would no longer be treated as enemy aliens [3].",
+    "people": [
+      {
+        "name": "Nereo Francesconi",
+        "role": "Italian radio announcer interned during the war"
+      },
+      {
+        "name": "Harry Bridges",
+        "role": "Labor leader briefly held at the INS station, per Connell and Melara"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Angel Island Immigration Station",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Angel_Island_Immigration_Station",
+        "supports": "1940 fire and relocation of about 200 detainees to San Francisco"
+      },
+      {
+        "title": "Amplifying Working Class Culture in Southeast San Francisco (Kate Connell and Oscar Melara)",
+        "publisher": "FoundSF (originally Multiple Cities)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Amplifying_Working_Class_Culture_in_Southeast_San_Francisco",
+        "supports": "1920s landmark that became the INS station in the early 1940s; Asians, Italians and Harry Bridges detained"
+      },
+      {
+        "title": "Columbus Day Which Will Live in History: October 12, 1942 (Deanna Paoli Gumina, The Argonaut, 2024)",
+        "publisher": "FoundSF",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=Columbus_Day_Which_Will_Live_in_History:_October_12,_1942",
+        "supports": "Silver Avenue detention centre, Sharp Park, Fort Missoula, Francesconi, Biddle's proclamation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-wilson-high-time-capsule",
+    "title": "The first class and its buried tube",
+    "theme": "civil-rights",
+    "year": 1964,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Woodrow Wilson High School, now Burton High, 400 Mansell Street",
+      "lat": 37.721264,
+      "lon": -122.406297,
+      "precision": "building"
+    },
+    "hook": "Woodrow Wilson High's first graduates sealed a time capsule in 1964. Fifty years later it held a senior-ball programme, and memories of fistfights.",
+    "story": "Woodrow Wilson High School on Mansell Street, brand new and the first high school on the city's southeast side, graduated its first class in 1964 [1][2]. A few months after the Beatles appeared on \"The Ed Sullivan Show,\" those seniors filled a metal tube and buried it beneath a \"1964\" plaque [1]. It was a tense start. Blue-collar white students mixed with Black students from Hunters Point, and there were fistfights; to build a common bond the students chose the Warriors as mascot, to the dismay of teachers who knew Woodrow Wilson was a pacifist, recalled math teacher Mary Jane Mikuriya [1]. Twenty years later a 1984 consent decree between the NAACP and the city created Phillip and Sala Burton Academic High School, named for the two former congressmembers; it began in Silver Terrace and later moved onto the Wilson site [2]. On 2 April 2015 a crew broke through the concrete. Inside was nothing about civil rights or the Cold War, just a class photo, the student newspaper and the senior-ball programme, themed \"Non Dimenticar,\" Italian for \"never forget,\" tickets $5 [1]. Mikuriya, 80, stood again at the spot where she had heard President Kennedy was dead [1].",
+    "people": [
+      {
+        "name": "Mary Jane Mikuriya",
+        "role": "Math teacher at Wilson in the mid-1960s"
+      },
+      {
+        "name": "Beverly Theis",
+        "role": "Member of the Class of 1964"
+      }
+    ],
+    "sources": [
+      {
+        "title": "S.F. high school Class of '64 opens a 50-year-old time capsule (Jill Tucker)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2015,
+        "url": "https://www.sfgate.com/education/article/S-F-high-school-Class-of-64-opens-a-6176047.php",
+        "supports": "First class, capsule contents, racial tension, mascot, Mikuriya's memories"
+      },
+      {
+        "title": "Phillip & Sala Burton High School",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Phillip_%26_Sala_Burton_High_School",
+        "supports": "1984 NAACP consent decree, Silver Terrace start, Wilson site, first class 1964"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-kalw-burton-campus",
+    "title": "Public radio in a high school",
+    "theme": "modern-city",
+    "year": 2011,
+    "yearEnd": null,
+    "place": {
+      "label": "KALW studios, Burton High School campus, Mansell Street",
+      "lat": 37.720308,
+      "lon": -122.40695,
+      "precision": "block"
+    },
+    "hook": "One of the West Coast's earliest FM stations belongs to the San Francisco school district, and broadcasts from a makeshift studio on a Portola campus.",
+    "story": "KALW 91.7 FM is technically owned by the San Francisco Unified School District [1]. Its origin story comes in two versions. The Chronicle reported that it first broadcast at the 1939 World's Fair on Treasure Island and was donated to the district in 1941 to train students in radio; federal records cited on Wikipedia show the district applying for an educational FM station in May 1940, with test transmissions from Samuel Gompers Trades School on 10 March 1941, making it the first FM station on the West Coast [1][2]. The station cut financial ties with the schools in 1992 but kept a free home at Burton High School on Mansell Street [1]. In January 2011, 70 years on, it was about $120,000 in the hole on a $1.4 million budget, and the school board voted unanimously to lend it up to $200,000, a line of credit equal to about two teachers' salaries [1]. \"This is a bridge loan for an entity that provides a lot to this community,\" general manager Matt Martin said, as reporters worked out of the station's makeshift studio [1]. Two years earlier Carl Nolte had counted KALW, \"tucked away in a corner of the neighborhood,\" among the Portola's secrets [3].",
+    "people": [
+      {
+        "name": "Matt Martin",
+        "role": "KALW general manager in 2011"
+      }
+    ],
+    "sources": [
+      {
+        "title": "KALW: S.F. schools to lend station up to $200,000 (Jill Tucker)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2011,
+        "url": "https://www.sfgate.com/bayarea/article/KALW-S-F-schools-to-lend-station-up-to-200-000-2478387.php",
+        "supports": "District ownership, 1939/1941 origin, 1992 split, Burton studio, loan figures, quote"
+      },
+      {
+        "title": "KALW",
+        "publisher": "Wikipedia (citing FCC history cards and 1941 Broadcast News)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/KALW",
+        "supports": "1940 application, 10 March 1941 test transmissions at Gompers, first West Coast FM station"
+      },
+      {
+        "title": "Portola district: the secret neighborhood (Carl Nolte)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2009,
+        "url": "https://www.sfgate.com/news/article/Portola-district-the-secret-neighborhood-3231494.php",
+        "supports": "KALW described as tucked away in the Portola"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-woolsey-greenhouses",
+    "title": "The Garden District's last greenhouses",
+    "theme": "parks-nature",
+    "year": 2021,
+    "yearEnd": null,
+    "place": {
+      "label": "Former University Mound Nursery greenhouses, 770 Woolsey Street",
+      "lat": 37.723645,
+      "lon": -122.409093,
+      "precision": "block"
+    },
+    "hook": "Blackberries and foxes took over San Francisco's last commercial greenhouses. When a developer bought the block, neighbours set out to buy it back.",
+    "story": "The Portola once had about 20 working farms and greenhouses [1]. The block bounded by Woolsey, Hamilton, Bowdoin and Wayland streets was part of the Garibaldi family's University Mound Nursery, remembered locally as a rose nursery; Portola Planet called it the last San Francisco parcel in continuous agricultural use since 1922 [2][3]. Sources differ on when the roses stopped: the 1980s, 1994, or simply \"by the early 1990s\" [1][2][3]. The wooden frames were left to wild roses, six-foot blackberry brambles, foxes and feral cats [1][3]. The land was listed in 2013 for $12 million and sold in 2017 to the developer Group i for $7.5 million, with plans for 60 and then 86 homes [2][3][4]. The Greenhouse Project, which had spent a decade on an urban-farm plan, was joined by a new group, Friends of 770 Woolsey, and dozens of residents turned up at every city hearing [1][2]. In 2021 Supervisor Hillary Ronen brokered a deal giving the nonprofits the right to buy the site for $8.5 million, with the developer promising to save a fraction of the greenhouses if they fell short [1]. \"To tear down the last piece of that history feels like a wound to the city,\" said Elisa Laird, who grew up among her father's greenhouses [1].",
+    "people": [
+      {
+        "name": "Elisa Laird",
+        "role": "Friends of 770 Woolsey member"
+      },
+      {
+        "name": "Hillary Ronen",
+        "role": "District supervisor who brokered the 2021 deal"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Portola Garden District Returns to Its Roots",
+        "publisher": "KneeDeep Times (Meka Boyle)",
+        "year": 2022,
+        "url": "https://www.kneedeeptimes.org/portola-garden-district-returns-to-its-roots/",
+        "supports": "20 farms, early-1990s closure, 2017 sale, community campaign, 2021 $8.5 million deal, Laird quote"
+      },
+      {
+        "title": "Retain History, Create a Future Vision for Portola's Greenhouses",
+        "publisher": "Portola Planet (archived)",
+        "year": 2018,
+        "url": "http://web.archive.org/web/2020/http://portolaplanet.com/2018/02/retain-history-create-future-vision-portolas-greenhouses/",
+        "supports": "Block boundaries, agriculture since 1922, 1980s closure, $7.5 million sale, 86-unit plan, Friends of 770 Woolsey"
+      },
+      {
+        "title": "Urban Agriculture or More Housing?",
+        "publisher": "SF Weekly",
+        "year": 2017,
+        "url": "https://www.sfweekly.com/news/feature/urban-agriculture-or-more-housing/",
+        "supports": "Garibaldi family's University Mound Nursery, open until 1994, Group I, 60 homes, foxes and blackberries"
+      },
+      {
+        "title": "University Mound Nursery for Sale",
+        "publisher": "Portola Planet (archived)",
+        "year": 2013,
+        "url": "http://web.archive.org/web/2020/http://portolaplanet.com/2013/10/university-mound-nursery-sale/",
+        "supports": "2013 asking price of $12 million; Garibaldi ownership since the 1920s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-burrows-pocket-park",
+    "title": "A dumping-ground dead end becomes a garden",
+    "theme": "parks-nature",
+    "year": 2014,
+    "yearEnd": null,
+    "place": {
+      "label": "Burrows Pocket Park, east end of Burrows Street by San Bruno Avenue",
+      "lat": 37.72882,
+      "lon": -122.40372,
+      "precision": "block"
+    },
+    "hook": "At the end of Burrows Street, Caltrans land full of dumped washing machines became a terraced garden, shaded by grapevines sprouted from old restaurant scraps.",
+    "story": "The dead end where Burrows Street meets the Highway 101 embankment was a dumping ground and occasional encampment when, in early 2012, the Portola Neighborhood Steering Committee began working with Caltrans and Public Works to reclaim it, with volunteer designers from Architecture for Humanity [1]. The plan included a bioswale to clean runoff from the street and freeway, a footbridge and stone seats; every Friday lunchtime a \"Brown Bag Brigade\" turned up to weed [1]. Organisers also wanted a coffeehouse as an anchor, and Four Barrel Coffee opened beside the park in late 2013; SF Weekly dates the park itself to 2014 [2]. In the pandemic it grew far beyond the original lot. Volunteers hauled out old washing machines and plumbing, built an amphitheatre and a propagation station, and Angie Matt built 110 feet of retaining wall from scrap license plates, chains and tools [3]. Co-director Paul Alaga learned that the feral grapevines overhead had grown from food scraps thrown out by old restaurants [3]. \"You turn a corner at what appears to be a dead end with a 20-foot-tall wall and you're like, 'Oh, my God, there's this whole world,'\" said co-director Alex Hobbs [3].",
+    "people": [
+      {
+        "name": "Alex Hobbs",
+        "role": "Portola Garden Club co-director"
+      },
+      {
+        "name": "Angie Matt",
+        "role": "Volunteer builder"
+      },
+      {
+        "name": "Paul Alaga",
+        "role": "Portola Garden Club co-director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Portola's Newest Park Takes Shape at Burrows and San Bruno Avenue",
+        "publisher": "Portola Planet (archived)",
+        "year": 2012,
+        "url": "http://web.archive.org/web/2020/http://portolaplanet.com/2012/02/the-portolas-newest-park-takes-shape-at-burrows-and-san-bruno-avenue/",
+        "supports": "Former dumping ground, Caltrans and DPW, Architecture for Humanity, bioswale, Brown Bag Brigade, coffeehouse goal"
+      },
+      {
+        "title": "Reimagining Tiny Vacant Lots",
+        "publisher": "SF Weekly",
+        "year": 2017,
+        "url": "https://www.sfweekly.com/news/feature/reimagining-tiny-vacant-lots/",
+        "supports": "Park created 2014 in front of Four Barrel Coffee"
+      },
+      {
+        "title": "Portola Garden District Returns to Its Roots",
+        "publisher": "KneeDeep Times (Meka Boyle)",
+        "year": 2022,
+        "url": "https://www.kneedeeptimes.org/portola-garden-district-returns-to-its-roots/",
+        "supports": "Pandemic expansion, junk removed, retaining wall, feral grapes, Hobbs quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-alemany-island-loteria",
+    "title": "A neighbourhood lotería on the freeway fence",
+    "theme": "arts-counterculture",
+    "year": 2013,
+    "yearEnd": null,
+    "place": {
+      "label": "Alemany Island panels, north entrance to San Bruno Avenue",
+      "lat": 37.735011,
+      "lon": -122.406784,
+      "precision": "block"
+    },
+    "hook": "Two artists asked neighbours what the Portola looked like, turned the answers into a bingo game, then hung it at the neighbourhood's front door.",
+    "story": "Artists Kate Connell and Oscar Melara came of age in the Mission's Latino and Chicano arts movement; Melara co-founded La Raza Silkscreen Center [1]. When they moved to the Portola they started collecting its stories, first by offering their garage as a polling place [1]. They distilled what they heard into Porto-Lotería, a version of Mexican picture bingo with 54 cards: \"The Recycler,\" a Chinese neighbour carrying cans and bottles on a shoulder pole; \"The Parol,\" the Filipino star lanterns lit in December windows; \"The Herbalist,\" the trilingual Chinese-Nicaraguan businessman and acupuncturist Sergio Lee. Neighbours vetted it with gusto: \"more Italians!\" and \"no 'possoms, put skunks\" [1]. Opening day at the Portola Branch Library drew more than 800 people, playing in Chinese, Spanish and English [1]. When the Portola Neighborhood Association wanted a mural, board member Lia Smith proposed the lotería, and more than forty households, whole classrooms and one fire station painted panels [1]. One October morning in 2013 volunteers hung 38 of them on a new Caltrans fence at the entrance to San Bruno Avenue, with more to come; best viewed, the Portola Planet advised, while walking to the Alemany Market [2]. Connell counts 48 panels in the finished Alemany Island [1].",
+    "people": [
+      {
+        "name": "Kate Connell",
+        "role": "Artist and co-designer of Porto-Lotería"
+      },
+      {
+        "name": "Oscar Melara",
+        "role": "Artist and co-designer of Porto-Lotería"
+      },
+      {
+        "name": "Lia Smith",
+        "role": "Portola Neighborhood Association board member who proposed the mural"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Amplifying Working Class Culture in Southeast San Francisco (Kate Connell and Oscar Melara)",
+        "publisher": "FoundSF (originally Multiple Cities)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Amplifying_Working_Class_Culture_in_Southeast_San_Francisco",
+        "supports": "Artists' background, garage polling place, lotería cards, library opening, Alemany Island mural and panel count"
+      },
+      {
+        "title": "Glorious New Artwork Installed at Alemany Island",
+        "publisher": "Portola Planet (archived)",
+        "year": 2013,
+        "url": "http://web.archive.org/web/2020/http://portolaplanet.com/2013/10/glorious-new-artwork-installed-alemany-island/",
+        "supports": "October 2013 installation of 38 panels on the Caltrans fence"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-library-seed-lending",
+    "title": "A library that lends seeds",
+    "theme": "modern-city",
+    "year": 2009,
+    "yearEnd": null,
+    "place": {
+      "label": "Portola Branch Library, 380 Bacon Street",
+      "lat": 37.727114,
+      "lon": -122.406361,
+      "precision": "building"
+    },
+    "hook": "After eight decades in rented storefronts, including one eviction, the Portola got its own library in 2009, and started lending chard and radish seeds.",
+    "story": "The Portola's library began in 1927 as a deposit station, the 14th branch in the city system, and spent the next eight decades in leased sites on San Bruno Avenue [1], at one point evicted, as a later branch manager put it, by \"the paradigmatic crotchety landlord\" [2]. On 28 February 2009 it opened in its own building at 380 Bacon Street at Goettingen: 6,300 square feet by Stoner Meek/Noll and Tam, with skylights, a north-facing view garden and a glass-shutter artwork by Dana Zed [1]. The Portola Garden Tour had begun as a way to pay for its books and play spaces [2]. Branch manager Nicole Termini Germain, in the system since 1993, fought to open the garden door, kept locked because thieves might use it for quick getaways (\"We had this whole Blu-ray thief ring for a while\"). With $700 in city money, a teacher from the nearby Alta Vista School and parents with construction know-how, she planted fruit trees, strawberries and a pumpkin patch [2]. Her seed library, one of only two in the city in 2017, lets anyone take seeds home, no library card needed [2][3]. Borrowers who never bring seeds back are forgiven: \"I don't send them to library jail\" [2].",
+    "people": [
+      {
+        "name": "Nicole Termini Germain",
+        "role": "Branch manager and children's librarian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Portola Library History",
+        "publisher": "San Francisco Public Library",
+        "year": null,
+        "url": "https://sfpl.org/locations/portola/portola-library-history",
+        "supports": "1927 deposit station, leased San Bruno Avenue sites, 2009 opening, size, architects, Dana Zed artwork"
+      },
+      {
+        "title": "Portola Has the Coolest Librarian in San Francisco",
+        "publisher": "SF Weekly",
+        "year": 2017,
+        "url": "https://www.sfweekly.com/culture/feature-culture/portola-has-the-coolest-librarian-in-san-francisco/",
+        "supports": "Eviction, Garden Tour origin, locked door and Blu-ray thieves, $700 garden, seed library, quotes"
+      },
+      {
+        "title": "Portola Branch Seed Lending Library",
+        "publisher": "San Francisco Public Library",
+        "year": null,
+        "url": "https://sfpl.org/locations/portola/seed-lending-library",
+        "supports": "Free seed library, no card required"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-palega-rebuild",
+    "title": "A $21 million park and a doomed windmill",
+    "theme": "parks-nature",
+    "year": 2013,
+    "yearEnd": 2019,
+    "place": {
+      "label": "Palega Recreation Center and Playground, Felton Street",
+      "lat": 37.728913,
+      "lon": -122.409871,
+      "precision": "block"
+    },
+    "hook": "The Portola's biggest park got a $21 million rebuild. Its showpiece, a giant twirling sculpture, was no match for the neighbourhood's wind.",
+    "story": "Palega, the big park and recreation centre in the middle of the lower Portola, won about $21.1 million from the city's 2008 Clean Parks Bond [1]. Ground was broken on 7 March 2012. The plan gutted and renovated the gym and offices, added a 3,200-square-foot steel-framed wing with floor-to-ceiling glass and a new entrance on Felton Street, and replaced fields, courts, playground and planting, aiming for LEED Silver [1]. It was meant to take about 14 months; by August 2013 new grass was going down and completion had slipped to the end of September [2]. Not every neighbour felt sure the new building would be for them: artists Kate Connell and Oscar Melara drew a lotería card, \"The Hoops,\" after residents worried that young African American men would be less welcome after the remodel, to stake a claim for returning players [3]. The rebuilt park also got a twirling kinetic sculpture called \"Zephyros.\" It was in and out of the repair shop almost from the start, while neighbour Jackie Morri phoned the Arts Commission monthly for updates; in March 2019 the city gave up on fixing it safely and proposed a replacement from its collection, which the Portola Planet hoped would be \"completely static\" [4].",
+    "people": [
+      {
+        "name": "Toks Ajike",
+        "role": "City project manager for the renovation"
+      },
+      {
+        "name": "Jackie Morri",
+        "role": "Neighbour who tracked the sculpture's repairs"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Palega Park Improvements Ready to Begin",
+        "publisher": "Portola Planet (archived)",
+        "year": 2012,
+        "url": "http://web.archive.org/web/2020/http://portolaplanet.com/2012/03/palega-park-improvements-ready-to-begin/",
+        "supports": "$21.1 million bond, groundbreaking date, scope of works, 14-month schedule"
+      },
+      {
+        "title": "Palega Park Gets Grass, New Extension and Is Close to Completion",
+        "publisher": "Portola Planet (archived)",
+        "year": 2013,
+        "url": "http://web.archive.org/web/2020/http://portolaplanet.com/2013/08/palega-park-gets-grass-new-extension-and-is-close-to-completion/",
+        "supports": "August 2013 progress and delay"
+      },
+      {
+        "title": "Amplifying Working Class Culture in Southeast San Francisco (Kate Connell and Oscar Melara)",
+        "publisher": "FoundSF (originally Multiple Cities)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Amplifying_Working_Class_Culture_in_Southeast_San_Francisco",
+        "supports": "'The Hoops' card and neighbours' concern about the remodel"
+      },
+      {
+        "title": "Zephyros Is No More, New Sculpture Coming to Palega Park",
+        "publisher": "Portola Planet (archived)",
+        "year": 2019,
+        "url": "http://web.archive.org/web/2020/http://portolaplanet.com/2019/04/zephyros-is-no-more-new-sculpture-coming-to-palega-park/",
+        "supports": "Sculpture's repeated repairs, Morri's calls, March 2019 decision, replacement"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-maltese-on-the-road",
+    "title": "Maltese on 'The Road,' and POR-da-lah",
+    "theme": "communities",
+    "year": 2009,
+    "yearEnd": null,
+    "place": {
+      "label": "San Bruno Avenue commercial strip ('The Road')",
+      "lat": 37.729323,
+      "lon": -122.404661,
+      "precision": "street"
+    },
+    "hook": "Sam Spade hunted the Maltese Falcon downtown. But in 2009 the Maltese consulate was on San Bruno Avenue, the Portola's main street.",
+    "story": "Immigrants from the Mediterranean island of Malta began arriving in the 1920s and formed a small ethnic island around San Bruno Avenue, which locals called \"The Road,\" opening grocery stores and small businesses [1][2]. Barbara Fenech, who grew up there, told Chronicle columnist Carl Nolte that at one time about half the families in or near the Portola were Maltese, and that the district was \"a city within a city\": two furniture stores, clothing stores, cleaners, bakeries and a big movie theatre [1]. By 2009 the Maltese consulate was still on San Bruno Avenue, but Lido Pastry, famous for its St. Honoré cake, had become a Central American bakery selling pan salvadoreño, and about half the Portola's roughly 13,000 people were Asian [1]. \"Like any other place, things change,\" Fenech said [1]. The old settlers left their mark on the name itself. Longtime residents insist it is \"POR-da-lah,\" not \"por-TOE-la,\" and SF Weekly traced that stress to the Italian and Maltese immigrants of the 1920s [3]. The argument is older than the neighbourhood's name: before the 1909 Portola Festival, committee member James Rolph consulted scholars, who agreed it \"should be a crescendo, ending with a crash on the 'LA'\" [3].",
+    "people": [
+      {
+        "name": "Barbara Fenech",
+        "role": "Grew up in the Portola's Maltese community"
+      },
+      {
+        "name": "Carl Nolte",
+        "role": "Chronicle columnist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Portola district: the secret neighborhood (Carl Nolte)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2009,
+        "url": "https://www.sfgate.com/news/article/Portola-district-the-secret-neighborhood-3231494.php",
+        "supports": "Maltese arrival, Fenech's recollections, consulate on San Bruno Avenue, Lido Pastry, demographics"
+      },
+      {
+        "title": "Portola, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Portola,_San_Francisco",
+        "supports": "San Bruno Avenue nicknamed 'The Road'; Maltese population and consulate"
+      },
+      {
+        "title": "Portola's Pronunciation Quandary",
+        "publisher": "SF Weekly",
+        "year": 2017,
+        "url": "https://www.sfweekly.com/news/feature/portolas-pronunciation-quandary/",
+        "supports": "POR-da-lah pronunciation linked to 1920s Italian and Maltese settlers; Rolph's 1909 ruling"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "portola-bayshore-freeway-seam",
+    "title": "Eight lanes along the Portola's edge",
+    "theme": "architecture-landmarks",
+    "year": 1954,
+    "yearEnd": 1955,
+    "place": {
+      "label": "Bayshore Freeway (US 101) along the Portola's eastern edge, near Paul Avenue",
+      "lat": 37.7255,
+      "lon": -122.4022,
+      "precision": "street"
+    },
+    "hook": "Silver Terrace used to be part of the Portola. Then, in the 1950s, the Bayshore Freeway came through, burying most of a street lined with greenhouses.",
+    "story": "The first unit of the Bayshore Freeway inside San Francisco, 1.3 miles from Augusta Street north to 25th Street, opened on 1 June 1951. Its right of way, including clearing factories and other buildings, cost $3.4 million, almost as much as building the road itself [1]. By spring 1954 the next piece, the 1.7-mile Alemany-to-Third Street section running south past the Portola, was under construction and due to be finished early the following year [2]. Local historian Chris Ortiz writes that Silver Terrace, now counted as its own neighbourhood, was a contiguous part of the Portola until the freeway was built, and that Charter Oak Avenue, once lined on its west side with flower greenhouses, is mostly lost under it [3]. The concrete left a lasting seam. In 2022 Dee Derisse, whose Hey Neighbor Coffee sits beside the Burrows Street garden, spoke of \"deep history there with the neighborhoods being split by a redline at the highway,\" and of her hope that shared gardens could bring the Bayview and Portola back together [4].",
+    "people": [
+      {
+        "name": "Chris Ortiz",
+        "role": "Portola local historian"
+      },
+      {
+        "name": "Dee Derisse",
+        "role": "Owner of Hey Neighbor Coffee"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bayshore Freeway: First Unit Within City of San Francisco Opened to Public Use",
+        "publisher": "California Highways and Public Works",
+        "year": 1951,
+        "url": "http://libraryarchives.metro.net/DPGTL/Californiahighways/chpw_1951_mayjun.pdf",
+        "supports": "1 June 1951 opening, Augusta to 25th, costs, clearing of buildings"
+      },
+      {
+        "title": "Bay Area Freeways (B. W. Booker)",
+        "publisher": "California Highways and Public Works",
+        "year": 1954,
+        "url": "http://libraryarchives.metro.net/DPGTL/Californiahighways/chpw_1954_marapr.pdf",
+        "supports": "Alemany-Third Street section, 1.7 miles, under construction in 1954"
+      },
+      {
+        "title": "The Portola District (Chris Ortiz)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Portola_District",
+        "supports": "Silver Terrace contiguous with Portola before the freeway; Charter Oak Avenue and greenhouses"
+      },
+      {
+        "title": "Portola Garden District Returns to Its Roots",
+        "publisher": "KneeDeep Times (Meka Boyle)",
+        "year": 2022,
+        "url": "https://www.kneedeeptimes.org/portola-garden-district-returns-to-its-roots/",
+        "supports": "Derisse quote on the highway 'redline' between Bayview and Portola"
+      }
+    ],
+    "photo": null
+  }
+]

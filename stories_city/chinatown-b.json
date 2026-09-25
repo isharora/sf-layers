@@ -1,0 +1,594 @@
+[
+  {
+    "id": "chinatown-hunters-point-refusal",
+    "title": "The Chinatown That Refused to Move",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "736 Commercial Street, Six Companies lot",
+      "lat": 37.79406,
+      "lon": -122.40537,
+      "precision": "building"
+    },
+    "hook": "The ashes were still warm when City Hall decided Chinatown should be rebuilt somewhere else. Chinatown's merchants quietly decided otherwise.",
+    "story": "When fire levelled Chinatown in April 1906, many officials saw an opportunity. A subcommittee of the Committee of Fifty set out to keep the Chinese from returning to their valuable site near downtown, and Hunters Point was floated as the new Chinatown [1]. Refugees were shunted from camp to camp; one site was abandoned after neighbours complained that 'the summer zephyrs would blow the odors of Chinatown into their front doors' [1]. Meanwhile, the Chronicle reported National Guard volunteers picking through the ruins for loot [2]. Nobody, it seemed, asked the Chinese where they wanted to live, though about 40 Chinese merchants owned roughly a third of the district's property [1]. They answered anyway. The secretary of the Six Companies announced that his association owned the lot at 736 Commercial Street, bought for $23,000, and would 'proceed at once with the erection of a nice building' [1]. Leaders then went to Oakland to talk about moving their trade across the bay [1]. Faced with losing Pacific commerce, and with Telegraph Hill residents protesting a fallback site, the subcommittee admitted defeat about three months after the quake [1]. Chinatown rebuilt where it had always been [2].",
+    "people": [
+      {
+        "name": "Committee of Fifty subcommittee on relocating the Chinese",
+        "role": "city relocation planners"
+      },
+      {
+        "name": "Chinese Six Companies",
+        "role": "community leadership that refused to move"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinatown in Hunters' Point?",
+        "publisher": "FoundSF (Ralph Henn, San Francisco Magazine, 1970)",
+        "year": 1970,
+        "url": "https://www.foundsf.org/index.php?title=Chinatown_in_Hunters%27_Point%3F",
+        "supports": "Relocation subcommittee, Hunters Point plan, camp moves and 'zephyrs' complaint, property ownership, 736 Commercial St quote, Oakland talks, Telegraph Hill protest, subcommittee discharged"
+      },
+      {
+        "title": "How San Francisco's Chinatown rose from ashes, after decades of struggle",
+        "publisher": "San Francisco Chronicle (Peter Hartlaub)",
+        "year": 2015,
+        "url": "https://www.sfchronicle.com/oursf/article/Our-SF-Chinatown-rises-from-ashes-after-decades-6546489.php",
+        "supports": "Military removal of Chinese refugees, National Guard looting, Hunters Point proposal, leaders insisting on returning to the old site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-look-tin-eli-oriental-city",
+    "title": "Look Tin Eli Dreams Up a Pagoda City",
+    "theme": "architecture-landmarks",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "Grant Avenue (then Dupont Street) bazaar blocks",
+      "lat": 37.7932,
+      "lon": -122.4059,
+      "precision": "street"
+    },
+    "hook": "The pagoda rooftops tourists photograph today were not in old Chinatown at all. A Mendocino-born merchant invented them, on purpose, after the fire.",
+    "story": "Look Tin Eli was born in Mendocino County, yet officials barred him from re-entering the country after a trip abroad. His court case, In re Look Tin Sing, became one of the earliest rulings that a person born in the United States is a citizen regardless of ancestry [1]. After 1906 he became the public face of Chinatown's rebuilding. As general manager of the Sing Chong Bazaar, he sold the city on a new 'Oriental City' of 'veritable fairy palaces' [1]. With fellow businessman Wong G. Yow he worked with white architects, favouring tourist-friendly flourishes, including pagoda-style buildings that had not existed before the fire [2]. In 1908 he also stared down the police chief over a fireworks permit for Chinese New Year. 'It is part of the Chinese religion to set off fireworks as the old year closes,' he told the Chronicle, adding that treaty rights protected their worship [2]. He went on to help found the Canton Bank of San Francisco [1]. The ending was darker: pursued by gangs, he slipped out of the city in 1919, boarding his ship to China from a tugboat for fear of assassination on the dock [2].",
+    "people": [
+      {
+        "name": "Look Tin Eli",
+        "role": "general manager of the Sing Chong Bazaar, rebuilding leader"
+      },
+      {
+        "name": "Wong G. Yow",
+        "role": "businessman and rebuilding partner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinatown Rising: A Timeline, 1906–2006",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2006,
+        "url": "https://www.chsa.org/wp-content/uploads/2010/05/Chinatown_Rising_Timeline.pdf",
+        "supports": "Look Tin Eli biography: Sing Chong Bazaar manager, 'Oriental City' and 'fairy palaces' vision, In re Look Tin Sing, Canton Bank"
+      },
+      {
+        "title": "How San Francisco's Chinatown rose from ashes, after decades of struggle",
+        "publisher": "San Francisco Chronicle (Peter Hartlaub)",
+        "year": 2015,
+        "url": "https://www.sfchronicle.com/oursf/article/Our-SF-Chinatown-rises-from-ashes-after-decades-6546489.php",
+        "supports": "Mendocino roots, work with Wong G. Yow and white architects on pagoda-style buildings, 1908 fireworks permit and quote, 1919 escape by tugboat"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-cameron-house-rebuilt",
+    "title": "The Mission House Built From Its Own Rubble",
+    "theme": "communities",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "Donaldina Cameron House, 920 Sacramento Street",
+      "lat": 37.79335,
+      "lon": -122.40841,
+      "precision": "building"
+    },
+    "hook": "Firemen blew it up in 1906 trying to stop the flames. Its superintendent rebuilt it with the same bricks, and some say with hidden passages below.",
+    "story": "Since 1873 the Presbyterian mission house at 920 Sacramento Street had taken in Chinese girls and women escaping prostitution, sweatshops and forced domestic service [1]. Its superintendent, the New Zealander Donaldina Cameron, led night-time rescue raids with police carrying axes and sledgehammers. The tongs called her Fahn Quai, 'white devil'; the girls called her Lo Mo, translated by some as 'old mother' and by others as 'little mother' [1][2]. By one estimate she rescued and educated around 3,000 girls [2]. As Chinatown burned in April 1906, firemen dynamited the mission house in a failed attempt to make a firebreak [1]. It rose again on the same spot in 1908, built with bricks salvaged from the original and designed by Julia Morgan [1]. The home was raided by brothel owners, and sometimes by police hunting 'illegal aliens', so according to one account Cameron made sure the new basement had hidden passages where the girls could hide [2]. She kept defending Chinese immigrants until she retired in 1934 [1]. The building is still Cameron House, a social service centre for Asian communities [1].",
+    "people": [
+      {
+        "name": "Donaldina Cameron",
+        "role": "superintendent of the Presbyterian Mission Home"
+      },
+      {
+        "name": "Julia Morgan",
+        "role": "architect of the 1908 building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #44: Donaldina Cameron House",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2004,
+        "url": "http://noehill.com/sf/landmarks/sf044.asp",
+        "supports": "1873 mission, rescue raids, Fahn Quai / Lo Mo, dynamited in 1906, rebuilt 1908 with salvaged bricks by Julia Morgan, retirement 1934, present use"
+      },
+      {
+        "title": "Donaldina Cameron House",
+        "publisher": "FoundSF (Art Peterson, from 'Why Is That Bridge Painted Orange?')",
+        "year": 2013,
+        "url": "https://www.foundsf.org/index.php?title=Donaldina_Cameron_House",
+        "supports": "Estimated 3,000 girls rescued, 'little mother', raids on the home, hidden basement passages in the 1908 building"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-telephone-exchange",
+    "title": "Operators Who Knew Every Name",
+    "theme": "labor-industry",
+    "year": 1909,
+    "yearEnd": null,
+    "place": {
+      "label": "Chinese Telephone Exchange, 743 Washington Street",
+      "lat": 37.79505,
+      "lon": -122.40624,
+      "precision": "building"
+    },
+    "hook": "Callers never gave a number. They asked for a person by name, and the operators, who memorised about 1,500 of them, put them straight through.",
+    "story": "The pagoda at 743 Washington Street was built in 1909 as the second Chinese Telephone Exchange on the site [1]. Sources disagree about when Chinatown's phone service began, giving 1887 or 1898 [2][3]. What made it famous was the switchboard. Callers asked for people, not numbers. In 1901 the Examiner marvelled that the operators had nearly 1,500 names to remember, along with where each person lived, and warned that the work 'would drive an American operator insane' [1]. The first operators were men. Women became the chief operators in 1906, and the Examiner claimed they were preferred for their good tempers [2]. Operators had to handle the district's many languages and dialects, and more than 13,000 calls a day. The switchboard doubled as a job exchange: employers phoned in work and the operators knew whom to connect [2]. In 1943 the exchange's thirty workers joined the Telephone Traffic Employees Organization Local 120, fought their seven-day schedule and won $5,000 in back pay and overtime [2]. Dial phones ended the exchange in the 1940s [2]. Long before, the site had housed Sam Brannan's California Star, San Francisco's first newspaper [1].",
+    "people": [
+      {
+        "name": "Loo Kum Shu",
+        "role": "manager of the exchange in 1901"
+      }
+    ],
+    "sources": [
+      {
+        "title": "California Historical Landmark 85: Site of California Star Newspaper Office",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2007,
+        "url": "http://noehill.com/sf/landmarks/cal0085.asp",
+        "supports": "1909 pagoda built as the second exchange; 1901 Examiner description (1,500 names, 'drive an American operator insane'); California Star site"
+      },
+      {
+        "title": "Chinese Telephone Exchange",
+        "publisher": "FoundSF",
+        "year": 1997,
+        "url": "https://www.foundsf.org/index.php?title=Chinese_Telephone_Exchange",
+        "supports": "1887 start, women operators from 1906, dialects, 13,000 calls a day, job placement, 1943 union and back pay, closure with dial phones"
+      },
+      {
+        "title": "Chinatown Rising: A Timeline, 1906–2006",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2006,
+        "url": "https://www.chsa.org/wp-content/uploads/2010/05/Chinatown_Rising_Timeline.pdf",
+        "supports": "Exchange operating since 1898 and reopening in a new showplace building after the quake"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-chinese-hospital-1925",
+    "title": "A Hospital Opened With a Nine-Day Carnival",
+    "theme": "communities",
+    "year": 1925,
+    "yearEnd": null,
+    "place": {
+      "label": "Chinese Hospital, 835 Jackson Street",
+      "lat": 37.79547,
+      "lon": -122.40898,
+      "precision": "building"
+    },
+    "hook": "Chinatown celebrated its new hospital with a nine-day party that began on April 18, the anniversary of the earthquake, complete with beauty queens and a baby contest.",
+    "story": "Chinatown's residents had long faced discrimination and limited access to public health care [1]. The community's answer began with the Tung Wah Dispensary, founded in 1899 and staffed by both Western-trained doctors and Chinese herbalists [1]. In 1923 fifteen community organisations formed the Chinese Hospital Association to build something bigger [1]. When its permit came before the Board of Supervisors, the Chronicle ran the headline 'Residents Protest Chinese Hospital', but the Health Committee recommended approval unanimously, in front of a large Chinese audience [2]. Money came from the Six Companies, the Chinese Chamber of Commerce, churches and a whole neighbourhood of donors [2]. The hospital already had patients, but it held off its formal opening so it could begin with a carnival on April 18, 1925, that ran for nine days. It drew 'automobiles by the score', a beauty contest for a festival queen and a baby popularity contest [2]. The Chronicle hailed 'one of the finest hospitals in San Francisco' [2]. Chinese Hospital at 835 Jackson Street called itself the first and only institution of its kind in the country [1].",
+    "people": [
+      {
+        "name": "M. S. Jung",
+        "role": "assistant superintendent at opening"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History",
+        "publisher": "Chinese Hospital",
+        "year": 2024,
+        "url": "https://chinesehospital-sf.org/about-us/history",
+        "supports": "Tung Wah Dispensary 1899, Western and herbal practitioners, 15 organisations form association in 1923, 1925 opening at 835 Jackson"
+      },
+      {
+        "title": "Chinese Hospital: History and Foundation",
+        "publisher": "FoundSF",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=Chinese_Hospital:_History_and_Foundation",
+        "supports": "1923 permit hearing and protest headline, funders, nine-day carnival from April 18, 1925, pageant and baby contest, Chronicle quotes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-alice-fong-yu-teacher",
+    "title": "'How Do You Dream?': The First Chinese Teacher",
+    "theme": "civil-rights",
+    "year": 1926,
+    "yearEnd": null,
+    "place": {
+      "label": "Commodore Stockton School (now Gordon J. Lau Elementary), Clay Street",
+      "lat": 37.79408,
+      "lon": -122.40859,
+      "precision": "building"
+    },
+    "hook": "To get into teachers' college she said she would teach in China. Instead she became San Francisco's first Chinese American public school teacher.",
+    "story": "Alice Fong Yu was born in Nevada County in 1905 and grew up in a family so poor that one napkin went from hands to stove to floor [1]. When she applied to San Francisco State Teachers College, principal Frederic Burk objected. She got in by telling him she planned to teach English in China [1]. When she looked for work, the school district quizzed her with questions like 'How do you dream?' and tried to trick her into speaking Chinese [1]. In 1926 she was hired at Commodore Stockton School, the renamed 'Oriental School' that Chinatown's children attended, becoming the first Chinese American woman in the city's public school system [1][2]. There was irony in her classroom: students there were barred from speaking Chinese at school or on the playground [2]. That year she told the Examiner that a Chinese child could not be a good American citizen 'unless he retains the fineness and restraint of his own race' [1]. She had already co-founded the Square and Circle Club in 1924, a women's service club that raised money for Chinatown causes [1]. Today a Chinese-immersion public school carries her name [1].",
+    "people": [
+      {
+        "name": "Alice Fong Yu",
+        "role": "teacher and community organiser"
+      },
+      {
+        "name": "Frederic Burk",
+        "role": "principal of San Francisco State Teachers College"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alice Fong Yu: San Francisco's First Asian-American Teacher",
+        "publisher": "FoundSF (Kyle Zhu)",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Alice_Fong_Yu:_San_Francisco%E2%80%99s_First_Asian-American_Teacher",
+        "supports": "Early life, college admission ruse, 'How do you dream?', 1926 hiring at Commodore Stockton, Examiner quote, Square and Circle Club, school named for her"
+      },
+      {
+        "title": "Chinatown Rising: A Timeline, 1906–2006",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2006,
+        "url": "https://www.chsa.org/wp-content/uploads/2010/05/Chinatown_Rising_Timeline.pdf",
+        "supports": "First Chinese American woman hired in public schools (1926); Oriental School renamed Commodore Stockton; ban on speaking Chinese; school now Gordon J. Lau Elementary"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-julia-morgan-ywca",
+    "title": "Julia Morgan's YWCA for Chinatown's Women",
+    "theme": "architecture-landmarks",
+    "year": 1932,
+    "yearEnd": null,
+    "place": {
+      "label": "Chinese YWCA (now Chinese Historical Society of America), 965 Clay Street",
+      "lat": 37.79377,
+      "lon": -122.40885,
+      "precision": "building"
+    },
+    "hook": "Chinatown's women commissioned Julia Morgan, and she gave them a building that blends Chinese and Tuscan styles and hides its true size.",
+    "story": "The first Chinese YWCA in America was organised in San Francisco in 1916 [1]. By the early 1930s its members wanted a proper home. The YWCA's women's governing committee commissioned Julia Morgan, who had designed the rebuilt Cameron House mission nearby, to design and build it [2][4]. The building opened in 1932 [2]. Morgan mixed traditional Chinese and Tuscan elements, and from the Clay Street side the building is much larger than its modest Powell Street face suggests [3]. For half a century it was a social centre for Chinese American women, offering dance lessons, cultural programmes, cooking classes and youth activities [1]. By the 1980s it was out of date and fell short of building codes. Faced with the cost of retrofitting, the city handed it to the Chinese Historical Society of America [1], which opened its museum and learning centre there in 2001 [2]. The Powell Street portion now holds ninety-seven subsidised apartments for low-income elderly and disabled residents [3].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "architect"
+      },
+      {
+        "name": "Chinese YWCA women's governing committee",
+        "role": "clients who commissioned the building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of the Chinatown YWCA",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2024,
+        "url": "https://chsa.org/about/history/",
+        "supports": "First Chinese YWCA 1916, programmes from the 1930s to 1980s, obsolescence and transfer to CHSA"
+      },
+      {
+        "title": "Chinatown Rising: A Timeline, 1906–2006",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2006,
+        "url": "https://www.chsa.org/wp-content/uploads/2010/05/Chinatown_Rising_Timeline.pdf",
+        "supports": "Women's governing committee commissions Julia Morgan; opening in 1932; CHSA museum opens in 2001"
+      },
+      {
+        "title": "San Francisco Landmark #122: Clay Street Center",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2004,
+        "url": "http://noehill.com/sf/landmarks/sf122.asp",
+        "supports": "Julia Morgan design mixing Chinese and Tuscan elements, 1932, size, apartments and CHSA museum"
+      },
+      {
+        "title": "San Francisco Landmark #44: Donaldina Cameron House",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2004,
+        "url": "http://noehill.com/sf/landmarks/sf044.asp",
+        "supports": "Julia Morgan as architect of the 1908 Cameron House"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-1938-garment-strike",
+    "title": "The Women Who Struck the Dollar Store",
+    "theme": "labor-industry",
+    "year": 1938,
+    "yearEnd": null,
+    "place": {
+      "label": "Strike meeting site, 720 Washington Street",
+      "lat": 37.79544,
+      "lon": -122.40536,
+      "precision": "building"
+    },
+    "hook": "Chinatown's garment workers had been shut out of unions for generations. In 1938 more than a hundred of them walked out, and won.",
+    "story": "In the 1930s the garment trade was Chinatown's largest employer, with low pay, long hours and poor light and ventilation [1]. Unions had long treated Chinese workers as 'unfair competition' [1]. That changed at the National Dollar Stores factory, owned by Joe Shoong. With help from organiser Jennie Matyas, workers formed Local 341 of the Chinese Ladies' Garment Workers' Union in November 1937 [2]. A union election on January 24, 1938, went their way, and an agreement followed the next day. Two weeks later the company announced it had sold the factory to its own foreman and manager, a move the workers saw as a ploy to break the union [2]. At 8 a.m. on February 26, 1938, they struck, picketing the factory and three National Dollar stores. White retail clerks refused to cross the lines and the stores closed for two weeks [2]. Strikers met at 720 Washington Street [1]. The strike lasted 13 weeks [3] and ended with a closed union shop, a 5% raise and a 40-hour week [1]. One striker recalled: 'The strike was the best thing that ever happened. It changed our lives' [2].",
+    "people": [
+      {
+        "name": "Jennie Matyas",
+        "role": "ILGWU organiser"
+      },
+      {
+        "name": "Joe Shoong",
+        "role": "owner of National Dollar Stores"
+      },
+      {
+        "name": "Willie Go",
+        "role": "chief organiser at the factory"
+      }
+    ],
+    "sources": [
+      {
+        "title": "1938 Int'l Ladies Garment Workers Union Strike: 720 Washington",
+        "publisher": "FoundSF (Northern California Coalition for Immigrant Rights)",
+        "year": 1997,
+        "url": "https://www.foundsf.org/index.php?title=1938_Int%27l_Ladies_Garment_Workers_Union_Strike:_720_Washington",
+        "supports": "720 Washington as meeting site, working conditions, union hostility, settlement terms"
+      },
+      {
+        "title": "Garment Workers Strike in 1930s Chinatown",
+        "publisher": "FoundSF (Judy Yung, from 'Unbound Feet', UC Press)",
+        "year": 1995,
+        "url": "https://www.foundsf.org/index.php?title=Garment_Workers_Strike_in_1930s_Chinatown",
+        "supports": "Local 341 charter, NLRB election, factory sale, February 26, 1938 strike, picketing, clerks' support, 'changed our lives' quote"
+      },
+      {
+        "title": "Chinatown Rising: A Timeline, 1906–2006",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2006,
+        "url": "https://www.chsa.org/wp-content/uploads/2010/05/Chinatown_Rising_Timeline.pdf",
+        "supports": "More than a hundred women; 13-week strike"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-rice-bowl-parties",
+    "title": "Filling Rice Bowls for a Nation at War",
+    "theme": "war-military",
+    "year": 1938,
+    "yearEnd": 1941,
+    "place": {
+      "label": "Chinatown streets, Rice Bowl parade and party",
+      "lat": 37.795,
+      "lon": -122.4063,
+      "precision": "area"
+    },
+    "hook": "Three hundred thousand people crowded into Chinatown for a party that raised more money for starving Chinese civilians than any other city in America.",
+    "story": "When Japan's war on China brought mass hunger in the late 1930s, Chinese communities across the U.S. raised relief money. San Francisco's answer was the Rice Bowl. The first, on June 17, 1938, was part of a national effort in more than 700 cities [1]. The Chronicle promised 'not a mere gathering of the well-to-do about a banquet table — but rather a unified community project', with Chinese bands and two Chinese opera companies performing in the streets [1]. By the next morning 300,000 people had come, and San Francisco's $55,000 topped all 700 cities [1]. Later Rice Bowls brought floats, dragon dances and banners [2]. The 1940 festival added a mock 'kangaroo court', where columnist Herb Caen broadcast on the radio from the jail [1]. Accounts of the totals differ: the Chronicle reports more than $80,000 in 1940 and $100,000 in 1941 [1], while historian K. Scott Wong, as cited on FoundSF, puts one four-day party at $93,000 [2]. The same community boycotted Japanese silk and picketed docks where ships bound for Japan were loading [2].",
+    "people": [
+      {
+        "name": "Herb Caen",
+        "role": "columnist who broadcast from the 1940 festival"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinatown charity: 79 years ago, SF's Rice Bowl helped save lives",
+        "publisher": "San Francisco Chronicle (Bill Van Niekerken)",
+        "year": 2017,
+        "url": "https://www.sfchronicle.com/thetake/article/Chinatown-charity-79-years-ago-SF-s-Rice-Bowl-10883976.php",
+        "supports": "June 17, 1938 first event, 700 cities, Chronicle quote, 300,000 attendance, $55,000, 1940 and 1941 totals, kangaroo court and Herb Caen broadcast"
+      },
+      {
+        "title": "Chinese Americans in San Francisco during World War II",
+        "publisher": "FoundSF",
+        "year": 2015,
+        "url": "https://www.foundsf.org/index.php?title=Chinese_Americans_in_San_Francisco_during_World_War_II",
+        "supports": "Floats, dragon dances and banners; $93,000 four-day party (citing K. Scott Wong); silk boycott and dock protests"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-woo-woo-wong",
+    "title": "Chinatown's Five-Foot-Five Basketball Star",
+    "theme": "communities",
+    "year": 1950,
+    "yearEnd": null,
+    "place": {
+      "label": "Chinese Playground (now Willie \"Woo Woo\" Wong Playground), Sacramento Street",
+      "lat": 37.7936,
+      "lon": -122.407,
+      "precision": "block"
+    },
+    "hook": "He climbed the playground gate before school to practise alone. By 1950 he was the first Chinese American to play in Madison Square Garden.",
+    "story": "Willie Wong grew up in a Chinatown flat his family shared with another family, right across the street from the Chinese Playground [1]. His first 'basketball' was a tennis ball bounced off his bedroom ceiling. In 1939 an uncle he had never met arrived from New York and offered each child a gift, and Willie chose a real basketball [1]. He climbed the playground gate early each morning to practise alone. 'I was always the last guy picked for teams,' he recalled, and the others yelled at him not to shoot [1]. At 5 ft 5 and 125 pounds, he made the 1945 All-City team, the only Chinese player to do so, and the Examiner's Bob Brachman nicknamed him 'Woo Woo' after the crowd's chant [1][2]. He led the San Francisco Saints to two Asian American national titles, and Pete Newell recruited him to USF in 1948 [1]. At the 1950 NIT in New York, hundreds of Asian fans welcomed him as the first Chinese American to play in Madison Square Garden [1]. In 2006 the city renamed his playground on Sacramento Street after him [2].",
+    "people": [
+      {
+        "name": "Willie \"Woo Woo\" Wong",
+        "role": "basketball player"
+      },
+      {
+        "name": "Pete Newell",
+        "role": "USF coach"
+      },
+      {
+        "name": "Bob Brachman",
+        "role": "Examiner sportswriter who coined the nickname"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Willie \"Woo Woo\" Wong, USF's little big man",
+        "publisher": "San Francisco Chronicle / SFGate (Dwight Chapin)",
+        "year": 2005,
+        "url": "http://www.sfgate.com/sports/article/PROFILE-Willie-quot-Woo-Woo-quot-Wong-USF-s-2687063.php",
+        "supports": "Childhood flat across from Chinese Playground, tennis ball, 1939 basketball gift, gate climbing, quotes, All-City 1945, Saints titles, USF recruitment, 1950 Madison Square Garden first"
+      },
+      {
+        "title": "Playground renamed for basketball hero",
+        "publisher": "San Francisco Chronicle / SFGate (Becky Bowman)",
+        "year": 2006,
+        "url": "http://www.sfgate.com/default/article/SAN-FRANCISCO-Playground-renamed-for-basketball-2543002.php",
+        "supports": "2006 renaming of Chinese Playground on Sacramento Street, height, weight and nickname origin"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-ping-yuen-housing",
+    "title": "Ping Yuen, the 'Tranquil Garden' Towers",
+    "theme": "civil-rights",
+    "year": 1952,
+    "yearEnd": null,
+    "place": {
+      "label": "Ping Yuen, Pacific Avenue",
+      "lat": 37.79653,
+      "lon": -122.40764,
+      "precision": "block"
+    },
+    "hook": "Chinatown was the most crowded place in the city, but it waited more than a decade for public housing. When it came, it arrived wearing pagoda balconies.",
+    "story": "By the 1930s Chinatown had about 30,000 residents, and two of its blocks were the most densely populated in San Francisco [1]. After years of community pressure, plans were announced for a public housing project. The Second World War delayed it, and Ping Yuen, meaning 'Tranquil Garden', opened roughly a decade later, credited as the first federal housing project west of the Mississippi [1]. Architects John Bolles and J. Francis Ward wrapped a six-storey block facing Pacific Avenue in tiered, pagoda-like balcony corridors. Architectural historian Gwendolyn Wright called the style 'Chinese regionalism superimposed over a functionalist design' [2]. The complex packed 234 units onto the site at 89 units per acre, the highest density of any family housing project in the Bay Area [2]. In 1952 a model apartment showed off designs by painter James Leong, including a child's room [1]. Sources differ slightly on timing: one calls it finished in 1952 [2]. Decades later a writer noted that its reputation for calm contradicted the common view that high-rise public housing could not work for families [2].",
+    "people": [
+      {
+        "name": "John Bolles",
+        "role": "architect"
+      },
+      {
+        "name": "J. Francis Ward",
+        "role": "architect"
+      },
+      {
+        "name": "James Leong",
+        "role": "painter who designed the model apartment"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinatown Rising: A Timeline, 1906–2006",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2006,
+        "url": "https://www.chsa.org/wp-content/uploads/2010/05/Chinatown_Rising_Timeline.pdf",
+        "supports": "Chinatown population and density, plans for Ping Yuen delayed by WWII, first federal housing project west of the Mississippi, 1952 James Leong model apartment"
+      },
+      {
+        "title": "Public Housing Comes Full Circle",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Public_Housing_Comes_Full_Circle",
+        "supports": "'Tranquil Garden', Bolles and Ward, 1952, pagoda-like balcony corridors, Gwendolyn Wright quote, 234 units at 89 per acre, reputation for tranquillity"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-kans-restaurant",
+    "title": "Kan's and the Birth of the Lazy Susan",
+    "theme": "labor-industry",
+    "year": 1953,
+    "yearEnd": null,
+    "place": {
+      "label": "Kan's Restaurant, 708 Grant Avenue",
+      "lat": 37.79362,
+      "lon": -122.40608,
+      "precision": "building"
+    },
+    "hook": "An engineer tinkering with ball bearings in his basement built a spinning tabletop for a friend's Chinatown restaurant. Soon restaurants across America copied it.",
+    "story": "In 1953 Johnny Kan opened a Cantonese restaurant on Grant Avenue at a time when Chinatown's newer restaurateurs were remaking Chinese food for American diners [1]. He wanted Kan's to feel both respectable and modern, and he had help from two brothers-in-law who had started a booming soy sauce company [1]. One of them, George Hall, was a trained engineer who liked to tinker in his basement. In the mid-1950s he rigged ball bearings and round pieces of wood into a revolving tabletop, and it became the centrepiece of Kan's new banquet room [1]. Kan's grew famous within a few years. Celebrities came, competitors across the country copied it, 'right down to its jasmine-scented napkins', and its cooks came from Hong Kong [1]. In 1959 Kan commissioned twelve paintings of Chinese American history from artist Jake Lee for his private Gum Shan, or 'Gold Mountain', dining room [2]. After Kan died in 1972 the paintings disappeared for decades. Eleven surfaced at a 2010 auction; the Chinese Historical Society bought seven, then tracked down the missing twelfth, 'Deadwood' [2].",
+    "people": [
+      {
+        "name": "Johnny Kan",
+        "role": "restaurateur"
+      },
+      {
+        "name": "George Hall",
+        "role": "engineer who built the revolving table"
+      },
+      {
+        "name": "Jake Lee",
+        "role": "painter of the Gum Shan series"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Lazy Susan, a classic centerpiece of Chinese restaurants, is neither classic nor Chinese",
+        "publisher": "Smithsonian Magazine",
+        "year": 2014,
+        "url": "http://www.smithsonianmag.com/arts-culture/lazy-susan-classic-centerpiece-chinese-resturants-neither-classic-nor-chinese-180949844/",
+        "supports": "1953 opening, soy sauce brothers-in-law, George Hall's revolving table, popularity, jasmine-scented napkins, Hong Kong cooks"
+      },
+      {
+        "title": "The Jake Lee Project",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20190316000317/https://chsa.org/2010/10/the-jake-lee-project/",
+        "supports": "1959 commission of twelve paintings for the Gum Shan room, disappearance after 1972, 2010 auction, CHSA recovery of seven plus 'Deadwood'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-confession-program",
+    "title": "The Confession Program's Paper Families",
+    "theme": "civil-rights",
+    "year": 1956,
+    "yearEnd": null,
+    "place": {
+      "label": "Family association halls, Waverly Place",
+      "lat": 37.79454,
+      "lon": -122.40707,
+      "precision": "street"
+    },
+    "hook": "The government offered Chinatown's 'paper sons' a way to come clean. One confession could expose hundreds of villagers.",
+    "story": "Under the exclusion laws, many Chinese entered the United States as 'paper sons', claiming descent from citizens whose birth records had supposedly burned in 1906 [1][2]. Jim Fong arrived in 1929 at seventeen after studying a 200-page coaching book on his 'paper' village and family. He passed three weeks of interrogation, then worked his way up from dishwasher to manager at a Chinatown restaurant [2]. In the 1950s, anti-communist fervour turned that history into a threat. In 1956 a federal grand jury began investigating immigration fraud, and Chinatown's family associations were told to hand over all their records within twenty-four hours [3]. The next year a 'confession program' invited people to admit false identities and adjust their status [3]. Law professor Bill Ong Hing notes that nothing in the law actually changed; many who confessed were deported, and only about 10,000 Chinese in San Francisco came forward [1]. Confessions could implicate whole networks: when twenty men surnamed Huey from one Toisan village confessed, they implicated 300 to 400 fellow villagers [3]. In 1966 Jim Fong gave up his false citizenship and took back his real name, Quock [2].",
+    "people": [
+      {
+        "name": "Jim Fong (Jim Quock)",
+        "role": "paper son who later confessed"
+      },
+      {
+        "name": "Bill Ong Hing",
+        "role": "law professor and historian of the program"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Amnesty: Past and Present",
+        "publisher": "Angel Island Immigration Station Foundation (Bill Ong Hing)",
+        "year": 2012,
+        "url": "https://web.archive.org/web/20150613161515/http://www.aiisf.org/about/articles/756-amnestypast-and-present",
+        "supports": "Paper son claims, confession program offered no legal change, deportations, about 10,000 San Francisco confessions"
+      },
+      {
+        "title": "My Father Was a Paper Son",
+        "publisher": "Angel Island Immigration Station Foundation",
+        "year": 2016,
+        "url": "https://web.archive.org/web/20161202172101/http://www.aiisf.org/stories-by-author/737-my-father-was-a-paper-son",
+        "supports": "1906 Hall of Records fire, Jim Fong's 1929 arrival, coaching book, interrogation, Chinatown restaurant career, 1966 return to the name Quock"
+      },
+      {
+        "title": "Chinatown Rising: A Timeline, 1906–2006",
+        "publisher": "Chinese Historical Society of America",
+        "year": 2006,
+        "url": "https://www.chsa.org/wp-content/uploads/2010/05/Chinatown_Rising_Timeline.pdf",
+        "supports": "1956 grand jury, family associations ordered to submit records in 24 hours, confession program the next year, Huey confessions implicating 300–400 villagers"
+      },
+      {
+        "title": "Tin How Temple",
+        "publisher": "Chinatownology",
+        "year": 2015,
+        "url": "https://chinatownology.com/tin_how_temple.html",
+        "supports": "Clan associations occupying the floor below the temple at 125 Waverly Place"
+      }
+    ],
+    "photo": null
+  }
+]

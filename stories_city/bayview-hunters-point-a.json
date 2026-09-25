@@ -1,0 +1,801 @@
+[
+ {
+  "id": "bayview-hunters-point-bernal-rancho",
+  "title": "A rancho its owner never lived on",
+  "theme": "indigenous-early",
+  "year": 1839,
+  "yearEnd": 1859,
+  "place": {
+   "label": "South bank of Islais Creek, near Quint St and Jerrold Ave",
+   "lat": 37.744,
+   "lon": -122.39,
+   "precision": "area"
+  },
+  "hook": "All of today's Bayview once belonged to one Californio soldier who ran cattle here, built a corral, and lost it all to a mortgage held by William Tecumseh Sherman.",
+  "story": "In 1839 the salt-marsh corner of southeastern San Francisco became Rancho Rincon de las Salinas y Potrero Viejo, 'the corner of the salty marsh' and 'the old pasture' [2]. Its grantee, José Cornelio Bernal, was baptized at Mission Dolores in 1796, served as a Presidio soldier and married Maria Carmen Cibrian in 1819 [1]. He had been running cattle here since at least the mid-1830s; an earlier petition was rejected because the land was claimed as pueblo commons [1]. The rancho's hand-drawn diseño shows a corral in the gap between Mt. St. Joseph and Candlestick Hill, and freshwater springs, aguajitos, along the south bank of Islais Creek, whose name comes from an Ohlone word for the islay cherry [1][3]. As far as historians know, Bernal never lived here; his home was an adobe near today's Duncan Street [1]. The land did not stay in the family. Like many Californios, the Bernals borrowed to defend their title, and in 1859 a large piece was foreclosed by the mortgage holder, General William Tecumseh Sherman, and auctioned for $1,500 [1][2]. Sources differ on which governor signed the 1839 grant.",
+  "people": [
+   {
+    "name": "José Cornelio Bernal",
+    "role": "Californio soldier and grantee of the rancho"
+   },
+   {
+    "name": "William Tecumseh Sherman",
+    "role": "mortgage holder who foreclosed in 1859"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "Bernal's baptism, career, marriage, diseño with corral and aguajitos, residence elsewhere, 1859 Sherman foreclosure and $1,500 auction"
+   },
+   {
+    "title": "Rancho Rincon de las Salinas y Potrero Viejo",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Rancho_Rincon_de_las_Salinas_y_Potrero_Viejo",
+    "supports": "Meaning of the rancho's names, 1839 grant, Sherman foreclosure in 1859"
+   },
+   {
+    "title": "Bayview Hill",
+    "publisher": "FoundSF (Pete Holloran)",
+    "year": 2000,
+    "url": "https://www.foundsf.org/index.php?title=Bayview_Hill",
+    "supports": "Islay as the Ohlone name for the hollyleaf cherry, source of the name Islais Creek"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-hunters-folly",
+  "title": "Hunter's Folly: a paper city on the bay",
+  "theme": "gold-rush-victorian",
+  "year": 1850,
+  "yearEnd": 1874,
+  "place": {
+   "label": "Near Oakdale Ave and Fitch St, site of the Hunters' lodging house",
+   "lat": 37.7282,
+   "lon": -122.3745,
+   "precision": "area"
+  },
+  "hook": "In 1850 three brothers from the East Coast tried to build a rival city called South San Francisco. It left behind empty shacks, $15,000 of debts and their surname.",
+  "story": "During the Gold Rush, Robert and Philip Hunter, soon joined by their brother John, took on a speculative plan to sell lots on Bernal's rancho [1][2]. They platted an entire new city, 'South San Francisco', filed in November 1850, with a grid of 340-foot blocks that ignored hills and creeks. To attract buyers they put up houses, a flagpole and a large sign at the tip of the peninsula [1]. Hardly anyone came. An 1854 Sacramento Union clipping titled 'Hunters Folly' reported that 'little has been done since' [1]. A French traveller who met the Hunter who ran a stage-road inn in 1850 described a courteous Yankee who spoke French and had been 'ruined and re-established three times'. Of the new city, he wrote, nothing remained 'but some uninhabited shacks and fifteen thousand dollars in unpaid bills' [1]. The brothers stayed, farming and dairying near today's Oakdale Avenue and Fitch Street [2][3]. They also sold spring water: from 1855 the Independent Water Company paid $50 a month for it, and ships anchored nearby filled their casks before sailing out the Golden Gate [2]. The family left in 1874, but the point still carries their name [1]. Early sources disagree about who started the venture.",
+  "people": [
+   {
+    "name": "Robert Eugene Hunter",
+    "role": "speculator"
+   },
+   {
+    "name": "Philip Schuyler Hunter",
+    "role": "speculator"
+   },
+   {
+    "name": "John Hunter",
+    "role": "farmer and innkeeper"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "1849-50 South San Francisco plat, 340-ft blocks, flagpole and sign, 'Hunters Folly' clipping, French traveller's account, family left 1874, conflicting accounts"
+   },
+   {
+    "title": "Hunters Point Springs and Albion Brewery, 881 Innes Avenue (Landmarks Board case report, 1973)",
+    "publisher": "FoundSF",
+    "year": 1973,
+    "url": "https://www.foundsf.org/index.php?title=Albion_Brewery",
+    "supports": "Hunter brothers as promoters, lodging house near Oakdale and Fitch, 1855 water sales at $50 a month, ships watering"
+   },
+   {
+    "title": "Candlestick Point State Recreation Area General Plan and Program EIR",
+    "publisher": "California State Parks",
+    "year": 2013,
+    "url": "https://www.parks.ca.gov/pages/21299/files/candlesticksra_final_gp_eir_pgs1to168.pdf",
+    "supports": "Hunters Point named for Robert and Philip Hunter; they stayed on running dairy and gardening ventures"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-bay-view-park-racecourse",
+  "title": "A racetrack built on a marsh",
+  "theme": "gold-rush-victorian",
+  "year": 1864,
+  "yearEnd": 1883,
+  "place": {
+   "label": "Former Bay View Park racecourse, around Yosemite Slough",
+   "lat": 37.727,
+   "lon": -122.38,
+   "precision": "area"
+  },
+  "hook": "The Bayview got its name from a horse track built on tidal marsh, apparently because the soggy ground was thought to put a spring in the horses' step.",
+  "story": "In the 1860s the mining millionaire George Hearst and other investors built Bay View Park, a racetrack with a hotel and stables, on a low tidal marsh south of the Hunters Point peninsula [1]. The 1864 city directory described it: 'The ground is reclaimed and protected from the tide by a breakwater or bulkhead. A large and spacious hotel, with stables and outhouses attached, has been added.' It also mentioned 'a beautiful shell road' about three miles long, expected to cost around $30,000 [1]. Historians think the shells were most likely dug from nearby Ohlone shellmounds [1]. The site was not chosen to sell real estate. Its springy marsh was thought to make the horses faster, and an 1869 drawing shows Yosemite Slough still running through the middle of the oval [1]. Weekend crowds rode out from the city, as they did to other tracks at the edge of town. The track did not last. By the early 1880s the hotel had burned, the tides had broken through the dikes, and by the 1883 Coast Survey map the course was gone [1]. Only its name survived. 'Bay View' spread to the flats and then to the whole district [1], and decades later land offered to the city was still described as the old racetrack site [2].",
+  "people": [
+   {
+    "name": "George Hearst",
+    "role": "mining millionaire and investor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "Hearst-financed Bay View Park, 1864 directory quotes, shell road and middens, springy-marsh theory, 1869 drawing, hotel burned and course abandoned by 1883"
+   },
+   {
+    "title": "Bayview Park, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Bayview_Park,_San_Francisco",
+    "supports": "Land later offered by the Bay View Land Company had formerly been used for the Bay View racetrack"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-first-dry-dock",
+  "title": "A dry dock carved from green rock",
+  "theme": "labor-industry",
+  "year": 1868,
+  "yearEnd": 1916,
+  "place": {
+   "label": "Site of Drydock No. 1, Hunters Point Shipyard",
+   "lat": 37.72799,
+   "lon": -122.35749,
+   "precision": "area"
+  },
+  "hook": "San Francisco's richest men cut a ship-sized trench into the serpentine tip of Hunters Point and lined its mouth with granite hauled from the Sierra foothills.",
+  "story": "Hunters Point was made of green serpentine, a rock that is easy to dig but lets no water through, and it had deep water right at its tip [2]. That made it a natural place for a graving dock, where a ship floats in, the gate closes and the water is pumped out [2]. In 1866 engineer A. W. von Schmidt got 30 acres at the end of the peninsula and brought in the banker William Ralston as partner [1]. The California Dry Dock Company that followed also included Lloyd Tevis and the wheat baron Isaac Friedlander [2]. Workers cut the dock into the bedrock and lined it with timber, and set massive granite blocks from Rocklin at its mouth [2]. Sources differ on its length, 400 or 462 feet, and on whether it was finished in 1867 or 1868 [1][2]. The Alta California admired the new sheds and stables, which gave 'the appearance of active life in striking contrast with the unbroken stillness' of the bare hills, and predicted 1,500 jobs [1]. In November 1868 the Chronicle described the docking of the Pacific Mail side-wheeler Colorado [3]. The dock was obliterated in 1916 to make room for a bigger one, though some of its granite may still lie under the piers [2].",
+  "people": [
+   {
+    "name": "Alexis W. von Schmidt",
+    "role": "engineer (the context statement calls him Alexander)"
+   },
+   {
+    "name": "William C. Ralston",
+    "role": "banker and backer"
+   },
+   {
+    "name": "Isaac Friedlander",
+    "role": "wheat trader and partner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "1866 land grant to von Schmidt, Ralston partnership, 400-ft dimensions, 1867-68 Alta California quotes"
+   },
+   {
+    "title": "Hunters Point Naval Shipyard, Commercial Drydock Area (HAER CA-2273)",
+    "publisher": "Historic American Engineering Record, National Park Service / Library of Congress",
+    "year": 2009,
+    "url": "https://www.loc.gov/item/ca3739/",
+    "supports": "Serpentine geology, California Dry Dock Co. partners, Rocklin granite, 462-ft length, 1868 completion, 1916 demolition and surviving granite"
+   },
+   {
+    "title": "Hunter's Point: History",
+    "publisher": "zpub.com (San Francisco history pages)",
+    "year": 2002,
+    "url": "http://www.zpub.com/sf/thepoint/point-h.html",
+    "supports": "November 1868 Chronicle account of docking the Pacific Mail steamer Colorado"
+   }
+  ],
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Construction_Progress_Photograph%2C_Hunters%27_Point_Dry_Dock%2C_San_Francisco%2C_CA%2C_circa_1868%2C_showing_the_first_dry_dock_-_NARA_-_296809.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Construction_Progress_Photograph,_Hunters%27_Point_Dry_Dock,_San_Francisco,_CA,_circa_1868,_showing_the_first_dry_dock_-_NARA_-_296809.jpg",
+   "credit": "U.S. National Archives, via Wikimedia Commons",
+   "license": "Public domain",
+   "year": 1868
+  }
+ },
+ {
+  "id": "bayview-hunters-point-butchertown-founded",
+  "title": "The day Butchertown opened for business",
+  "theme": "labor-industry",
+  "year": 1868,
+  "yearEnd": 1877,
+  "place": {
+   "label": "Butchers' Reservation, Third St and Arthur Ave",
+   "lat": 37.7462,
+   "lon": -122.388,
+   "precision": "area"
+  },
+  "hook": "Pushed out of the city, San Francisco's butchers built a meat town on stilts over Islais Creek, where the tide carried their waste away.",
+  "story": "In 1867 the state granted about 80 acres of mostly underwater land south of Islais Creek to the Wholesale Butchers' Association, and city law soon made it the only place where slaughtering was allowed [1][2]. On September 14, 1868, 'a numerous concourse' watched the first slaughterhouse open. It was a 50-by-30-foot shed with pens for up to 75 cattle [1]. By 1877 all eighteen of the city's slaughterhouses had moved here, along with tanneries, glue works, fertilizer plants and wool pulleries [2]. That year the Bulletin counted about 325 cattle, 650 hogs and 1,000 sheep killed every day. Horns went to comb makers, hooves to glue and blood to the sugar refineries at Potrero Point, and about 400 men earned $60 to $250 a month [1]. Most of the killing floors stood on pilings over the creek so the tide could carry off the offal [2]. Around 50 vaqueros, about half of them Spanish-speaking Californios, drove cattle from the Second Street wharf out to the pens [1]. Getting the meat back to town was hard: in 1870 the Bulletin complained the only road was 'cut up and ungraded' [3].",
+  "people": [
+   {
+    "name": "Wholesale Butchers' Association",
+    "role": "founders of the reservation"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "1867 grant, 1868 inauguration description, 1877 daily kill counts, byproducts, 400 workers and wages, vaqueros"
+   },
+   {
+    "title": "Butchertown's Beginnings (Conor Casey, The Argonaut, 2007)",
+    "publisher": "FoundSF",
+    "year": 2007,
+    "url": "https://www.foundsf.org/index.php?title=Butchertown%27s_Beginnings",
+    "supports": "Butchers' Reservation boundaries, all 18 slaughterhouses relocated by 1877, allied industries, pilings over the water"
+   },
+   {
+    "title": "Removal of the Butchers (San Francisco Bulletin, March 21, 1870)",
+    "publisher": "FoundSF",
+    "year": 1870,
+    "url": "https://www.foundsf.org/index.php?title=Removal_of_the_Butchers",
+    "supports": "1870 problems with roads between Butchertown and the city"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-sylvester-house",
+  "title": "The butchers' house that moved uphill",
+  "theme": "architecture-landmarks",
+  "year": 1865,
+  "yearEnd": 1913,
+  "place": {
+   "label": "Sylvester House, 1556 Revere Ave",
+   "lat": 37.73134898977565,
+   "lon": -122.38907461627687,
+   "precision": "building"
+  },
+  "hook": "One of the Bayview's oldest houses was built by a local carpenter, lived in by a family of cattle dealers, and moved to a new street in 1913.",
+  "story": "The Italianate house at 1556 Revere Avenue is among the finest of the Bayview's surviving Victorian houses [3]. It was built by Stephen L. Piper, a well-known carpenter and house builder in what was then called South San Francisco. He lived near the old Bay View Park in the 1860s and 1870s [1]. The city's landmark report dates the house by its style to between 1865 and 1870; FoundSF gives 1865 [1][2]. From 1884 to 1900 it was home to the Sylvester family. Daniel and John Sylvester appear in 1879 as wholesale butchers and cattle dealers on First Avenue South, in the Butchers' Reservation the state had set aside in 1870 [1]. Their house then stood on the south side of Sumatra Street, now Quesada Avenue, between Savannah and Platte streets [1]. In 1913 it was moved to Revere. Its new basement was built from the stables that had stood on the old Quesada lot [1]. Today it is San Francisco Landmark No. 61 [1][3].",
+  "people": [
+   {
+    "name": "Stephen L. Piper",
+    "role": "carpenter and builder"
+   },
+   {
+    "name": "Daniel and John Sylvester",
+    "role": "wholesale butchers and cattle dealers"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #61: Sylvester House",
+    "publisher": "NoeHill (quoting the 1973 Landmarks Board case report)",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/sf061.asp",
+    "supports": "Builder Piper, 1865-70 date, Sylvester occupancy 1884-1900, butchers in 1879, original Sumatra St site, 1913 move and basement from stables"
+   },
+   {
+    "title": "Brief History of Bayview-Hunters Point",
+    "publisher": "FoundSF (Will Roscoe)",
+    "year": 1995,
+    "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Bayview-Hunters_Point",
+    "supports": "Piper House built 1865 by Stephen L. Piper; Sylvesters were butchers; moved 1913"
+   },
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "Sylvester House at 1556 Revere Avenue as Landmark No. 61 among the district's oldest Victorian houses"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-albion-brewery",
+  "title": "An English castle brewing ale on India Basin",
+  "theme": "architecture-landmarks",
+  "year": 1870,
+  "yearEnd": 1919,
+  "place": {
+   "label": "Albion Brewery ('Albion Castle'), 881 Innes Ave",
+   "lat": 37.73153701348657,
+   "lon": -122.37555822127281,
+   "precision": "building"
+  },
+  "hook": "A failed fur trader from Sussex found a spring under Hunters Point, cut tunnels into the hill and built a Norman-style stone castle to brew English ale.",
+  "story": "John Hamlin Burnell, from East Hoathly in Sussex, came to San Francisco by way of British Columbia after failing in the fur trade [1][3]. He wanted to brew ales and porters 'in the English tradition', and for that he needed plenty of fresh water. He found it in a natural spring on the north slope of Hunters Point ridge, near today's Innes Avenue and Griffith Street [1][3]. In 1870 he founded the Albion Ale and Porter Brewery, cutting tunnels about 200 to 300 feet into the hillside [1][2]. Above them rose a rough stone building with a three-story tower modelled on English Norman castles [1]. Nobody agrees on where the stone came from. One account says ships' ballast limestone, another says 'float rock' quarried from the nearby hills [1][3]. The landmark report says the hops came from Scotland and the casks and bottles from England [1]. It also says the brewery was never very profitable, though it supported the family [1]. After Burnell died in 1890, his widow, brother and nephews kept it going until 1919, when Mrs. Burnell died and Prohibition arrived [1][3]. The castle is Landmark No. 60 [2].",
+  "people": [
+   {
+    "name": "John Hamlin Burnell",
+    "role": "brewer and founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Hunters Point Springs and Albion Brewery, 881 Innes Avenue (Landmarks Board case report, 1973)",
+    "publisher": "FoundSF",
+    "year": 1973,
+    "url": "https://www.foundsf.org/index.php?title=Albion_Brewery",
+    "supports": "Burnell's origins, 1870 founding, tunnels, Norman style, conflicting stone accounts, imported hops and casks, family ran it until 1919"
+   },
+   {
+    "title": "San Francisco Landmark #60: Hunters Point Springs-Albion Brewery",
+    "publisher": "NoeHill",
+    "year": 2005,
+    "url": "https://noehill.com/sf/landmarks/sf060.asp",
+    "supports": "1870 founding, Norman style, Prohibition closure, Landmark No. 60"
+   },
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "Spring at 9th (Innes) Ave and G (Griffith) St, tunnels and float rock, family operation after 1890 until Prohibition"
+   }
+  ],
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ruins_of_the_Albion_Ale_and_Porter_Brewery.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Ruins_of_the_Albion_Ale_and_Porter_Brewery.png",
+   "credit": "Unknown photographer (San Francisco Public Library), via Wikimedia Commons",
+   "license": "Public domain",
+   "year": null
+  }
+ },
+ {
+  "id": "bayview-hunters-point-mount-st-joseph-orphans",
+  "title": "Moving day for 300 orphans",
+  "theme": "communities",
+  "year": 1873,
+  "yearEnd": 1910,
+  "place": {
+   "label": "Mount St. Joseph orphanage hilltop, Silver Terrace (near Revere Ave and Quint St)",
+   "lat": 37.7335,
+   "lon": -122.3985,
+   "precision": "area"
+  },
+  "hook": "In one day in 1873, about 300 children moved from downtown to a hilltop orphanage in the countryside, in borrowed carriages and carts.",
+  "story": "The Daughters of Charity reached San Francisco in 1852 and started caring for orphans in an 'old brown house' at Market and Montgomery streets [1]. In 1858 the sisters incorporated as the Roman Catholic Orphan Asylum, perhaps the first group of women in California to form a corporation, so their property could not be taken over by the Church [1]. As downtown grew around them, they bought land in rural South San Francisco. It was 52 acres, according to the district's historic context statement [2]. They opened an infant asylum there first, then began a large orphanage in 1869 [1][2]. In 1873 about 300 orphans moved out in a single day. A streetcar company carried children and sisters door to door, and ordinary San Franciscans lent carriages and carts for the furniture [1]. The Market Street lot where they had lived later became the site of the Palace Hotel [1]. The big Second Empire-style building on the summit took its popular name from the hill, Mt. St. Joseph, and in 1888 a Call reporter admired the orphanage crowning it [2]. It survived the 1906 earthquake but burned in 1910 [1][2].",
+  "people": [
+   {
+    "name": "Daughters of Charity of St. Vincent de Paul",
+    "role": "sisters who ran the orphanage"
+   },
+   {
+    "name": "Sister Francis McEnnis",
+    "role": "leader of the first sisters in San Francisco"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco heritage",
+    "publisher": "Daughters of Charity, Province of St. Louise",
+    "year": 2020,
+    "url": "https://www.daughtersofcharity.com/who-we-are/heritage/san-francisco/",
+    "supports": "1852 arrival, 1858 incorporation, Silver Terrace property, 1869 construction, 1873 one-day move of about 300 orphans, 1910 fire"
+   },
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "52-acre purchase, Second Empire orphanage on Mt. St. Joseph, capacity 300, 1888 Call description, 1910 fire"
+   },
+   {
+    "title": "San Francisco's Magdalen Asylum (Beth Winegarner)",
+    "publisher": "FoundSF",
+    "year": 2025,
+    "url": "https://www.foundsf.org/index.php?title=San_Francisco%27s_Magdalen_Asylum",
+    "supports": "Mount St. Joseph's run by the Daughters of Charity in the Silver Terrace area of the Bayview"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-india-basin-scow-builders",
+  "title": "Where the bay's hay boats were born",
+  "theme": "labor-industry",
+  "year": 1875,
+  "yearEnd": 1891,
+  "place": {
+   "label": "Shipwright's Cottage, 900 Innes Ave",
+   "lat": 37.73224066554702,
+   "lon": -122.37572727011451,
+   "precision": "building"
+  },
+  "hook": "Immigrant shipwrights on India Basin built the flat-bottomed scows that carried Northern California's hay. The last surviving one was built in a family's front yard.",
+  "story": "Before trucks, much of Northern California's cargo moved by water in scow schooners, boxy shallow-draft boats that could reach farms up the sloughs of the Delta [1]. As the district's historic context statement puts it, the nineteenth century moved on hay the way the twentieth moved on gasoline [1]. Many of the scows were built on India Basin. Johnson J. Dircks, a Dutch-born builder, set up a yard at today's Evans Avenue and Lane Street in 1868. William Stone moved to Innes Avenue in 1871, and Dircks set up next door in 1876 [1]. The builders were mostly German, Danish, English and Dutch, and they lived among their boat sheds and taught the trade to their sons [1]. The Italianate cottage at 900 Innes, built around 1875, was the Dircks family home and is now a city landmark [1][3][4]. Fred Siemer, who had come from Germany in 1865, built a scow named Adelia after his daughter. In 1891 he built a second, in his son-in-law James Peterson's front yard, and named it Alma after Peterson's daughter [2]. Alma is the last of about 400 bay scows, preserved by the Maritime Park and still sailing [2]. FoundSF credits the 900 Innes yard with building her [4].",
+  "people": [
+   {
+    "name": "Johnson J. Dircks",
+    "role": "shipwright"
+   },
+   {
+    "name": "Fred Siemer",
+    "role": "shipwright, builder of the Alma"
+   },
+   {
+    "name": "James Peterson",
+    "role": "Siemer's son-in-law"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "Scow schooner trade, hay quote, Dircks 1868 and 1876 yards, Stone 1871, immigrant builders, Dircks Residence c.1875 at 900 Innes"
+   },
+   {
+    "title": "Alma",
+    "publisher": "National Park Service, San Francisco Maritime National Historical Park",
+    "year": 2020,
+    "url": "https://www.nps.gov/safr/learn/historyculture/alma.htm",
+    "supports": "Siemer from Germany 1865, Adelia, Alma built in Peterson's front yard in 1891, named for his daughter, last of about 400 scows"
+   },
+   {
+    "title": "San Francisco Landmark 250: Shipwright's Cottage",
+    "publisher": "NoeHill",
+    "year": 2015,
+    "url": "https://noehill.com/sf/landmarks/sf250.asp",
+    "supports": "Built c.1875 at 900 Innes; shipwrights built scow schooners here c.1875-1930"
+   },
+   {
+    "title": "Shipwright's Cottage",
+    "publisher": "FoundSF",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=Shipwright%27s_Cottage",
+    "supports": "Cottage as centre of India Basin boatbuilding; claims the Alma was built here"
+   }
+  ],
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shipwright%27s_Cottage.jpg/1280px-Shipwright%27s_Cottage.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shipwright%27s_Cottage.jpg",
+   "credit": "Billiamwhatcott, via Wikimedia Commons",
+   "license": "CC BY-SA 4.0",
+   "year": 2019
+  }
+ },
+ {
+  "id": "bayview-hunters-point-opera-house",
+  "title": "The opera house that perhaps never staged opera",
+  "theme": "arts-counterculture",
+  "year": 1888,
+  "yearEnd": null,
+  "place": {
+   "label": "South San Francisco (Bayview) Opera House, 4705 Third St",
+   "lat": 37.735004241994424,
+   "lon": -122.39017247224012,
+   "precision": "building"
+  },
+  "hook": "The city's oldest surviving theatre opened in 1888 in a district known mainly for slaughterhouses. David Belasco's name is written in the dressing rooms.",
+  "story": "The South San Francisco Opera House opened on October 24, 1888, with a performance of John W. Sherman's 'Phantasma' [1]. It was designed by Henry Geilfuss, a prolific architect of the city's Victorian era, and is often called the oldest surviving theatre in San Francisco [2]. Beside it stood a Masonic Hall, and lodges and fraternal groups met there from about 1890 to 1930 [3]. In a district most of the city knew only for Butchertown, the pair became the neighbourhood's main place for dances, plays and meetings [3]. Around 1890 residents held a party there to celebrate a new cable-car line to Railroad Avenue, though maps of the time do not show it [1]. Its curtains and backdrops came from well-known theatres downtown, including the old California Theatre [3]. Famous actors played here: David Belasco's name is written in the dressing rooms below the stage, and Pawnee Bill's Wild West Show also came [3]. The name may be grander than the programme. The city's 1968 landmark description says no opera was ever performed here, but FoundSF says it hosted several [3][4]. It survived 1906 and became City Landmark No. 8 [2][3].",
+  "people": [
+   {
+    "name": "Henry Geilfuss",
+    "role": "architect"
+   },
+   {
+    "name": "David Belasco",
+    "role": "actor who performed here"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "October 24, 1888 opening with Sherman's Phantasma; party for the cable line"
+   },
+   {
+    "title": "Bayview Opera House",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Bayview_Opera_House",
+    "supports": "Architect Henry Geilfuss, reputed oldest theatre, survived 1906, landmark 1968, Masonic Hall demolished 1975"
+   },
+   {
+    "title": "San Francisco Landmark #8: Bayview Opera House",
+    "publisher": "NoeHill (adapted from Planning Commission Resolution 6246, 1968)",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/sf008.asp",
+    "supports": "No opera performed, Belasco's name in dressing rooms, Pawnee Bill, California Theatre drops, Masonic Lodge use 1890-1930"
+   },
+   {
+    "title": "Opera House",
+    "publisher": "FoundSF",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=Opera_House",
+    "supports": "Claim that the hall hosted several operatic performances"
+   }
+  ],
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/South_San_Francisco_Opera_House%2C_1601_Newcomb_Ave.%2C_San_Francisco%2C_CA_6-12-2011_5-36-01_PM.JPG/1280px-South_San_Francisco_Opera_House%2C_1601_Newcomb_Ave.%2C_San_Francisco%2C_CA_6-12-2011_5-36-01_PM.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:South_San_Francisco_Opera_House,_1601_Newcomb_Ave.,_San_Francisco,_CA_6-12-2011_5-36-01_PM.JPG",
+   "credit": "Sanfranman59, via Wikimedia Commons",
+   "license": "CC BY-SA 3.0",
+   "year": 2011
+  }
+ },
+ {
+  "id": "bayview-hunters-point-market-gardens",
+  "title": "Windmills, celery and the city's best farmland",
+  "theme": "communities",
+  "year": 1889,
+  "yearEnd": null,
+  "place": {
+   "label": "Garden Tract market gardens, near Paul Ave",
+   "lat": 37.72297,
+   "lon": -122.39704,
+   "precision": "area"
+  },
+  "hook": "In the 1880s the sheltered southern Bayview grew the city's vegetables. Newspapers watched Italian and Portuguese newcomers take over from Chinese growers.",
+  "story": "Sheltered from the fog, with good soil and water from artesian springs, the southern Bayview came to be seen as the best farmland in San Francisco [1]. Market gardeners pumped water with windmills and grew broccoli, asparagus, celery, carrots, radishes, leeks and potatoes for the city's produce market [1]. In 1888 a Call reporter on a 'flying trip' south passed 'a Sahara of sand dotted with here and there a dairy-house' before 'entering Italian market gardens on the left, stocked with luxuriant vegetables' [1]. A year later, on November 17, 1889, the Chronicle reported that Italian and Portuguese immigrants were pushing Chinese growers out of the market-garden and dairy business along the San Bruno Road and in the Bayview Tract. 'Where once the Chinese were the commonest sight with their vegetable baskets swung on poles ... now they have been crowded out by the Italians and the Portuguese,' it wrote [1]. Many gardeners lived in 'light shanties' on their plots, next to their stores of seeds and root crops [1]. By the early 1900s Italian farmers dominated local farming [2], and the Bayview was long remembered as an Italian and Maltese enclave [3]. A few greenhouses survived into the 21st century [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "1888 Call and 1889 Chronicle quotes, crops, windmill irrigation, shift from Chinese to Italian and Portuguese gardeners"
+   },
+   {
+    "title": "Candlestick Point State Recreation Area General Plan and Program EIR",
+    "publisher": "California State Parks",
+    "year": 2013,
+    "url": "https://www.parks.ca.gov/pages/21299/files/candlesticksra_final_gp_eir_pgs1to168.pdf",
+    "supports": "Italian and Chinese farmers from mid-19th century; Italians dominated by early 1900s"
+   },
+   {
+    "title": "Brief History of Bayview-Hunters Point",
+    "publisher": "FoundSF (Will Roscoe)",
+    "year": 1995,
+    "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Bayview-Hunters_Point",
+    "supports": "Bayview originally an Italian and Maltese enclave"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-bingham-ordinance",
+  "title": "The plan to banish Chinatown to Hunters Point",
+  "theme": "civil-rights",
+  "year": 1890,
+  "yearEnd": 1900,
+  "place": {
+   "label": "Hunters Point ridge",
+   "lat": 37.73,
+   "lon": -122.372,
+   "precision": "area"
+  },
+  "hook": "In 1890 San Francisco passed a law ordering every Chinese resident out of Chinatown. The place picked for them was remote Hunters Point.",
+  "story": "In 1890 Supervisor Bingham introduced an order that required all Chinese residents to leave the part of the city where they lived. They could leave San Francisco altogether or move to one designated district [1][2]. The district was Hunters Point, then a thinly settled peninsula of boatyards, shrimp camps and pasture far from downtown [1]. Order No. 2190, known as the 'Bingham Ordinance', was enforced, and Chinese residents were arrested for breaking it [2]. Lee Sing and others challenged their arrests in federal court. Attorney Thomas D. Riordan argued for them, and the court's opinion turned on the Fourteenth Amendment. Judge Lorenzo Sawyer ruled on August 25, 1890 [2], and the ordinance was struck down [1]. The idea kept coming back. In October 1900, John Partridge of the California Geographical Society proposed a Chinese homestead association that would buy land at Hunters Point and build an 'Oriental City'. It never won the support of Chinese San Franciscans [1]. After Chinatown burned in 1906, some San Franciscans again pushed to move it to Hunters Point [3].",
+  "people": [
+   {
+    "name": "Lee Sing",
+    "role": "petitioner who challenged the ordinance"
+   },
+   {
+    "name": "Lorenzo Sawyer",
+    "role": "U.S. Circuit Court judge"
+   },
+   {
+    "name": "Thomas D. Riordan",
+    "role": "attorney for the petitioners"
+   },
+   {
+    "name": "John Partridge",
+    "role": "promoter of the 1900 'Oriental City' plan"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "1890 Bingham ordinance to relocate Chinatown to Hunters Point, struck down; 1900 Partridge 'Oriental City' plan"
+   },
+   {
+    "title": "In re Lee Sing, 43 F. 359 (C.C.N.D. Cal. 1890)",
+    "publisher": "CourtListener (Free Law Project)",
+    "year": 1890,
+    "url": "https://www.courtlistener.com/opinion/8854912/in-re-lee-sing/",
+    "supports": "Order No. 2190, the 'Bingham Ordinance', required Chinese to remove from their quarter to outside the city or a designated district; arrests; Judge Sawyer; decided Aug 25, 1890; Riordan for petitioners"
+   },
+   {
+    "title": "Chinatown in Hunters' Point? (Ralph Henn, San Francisco Magazine, 1970)",
+    "publisher": "FoundSF",
+    "year": 1970,
+    "url": "https://www.foundsf.org/index.php?title=Chinatown_in_Hunters%27_Point%3F",
+    "supports": "After the 1906 fire, proposals to relocate Chinatown to Hunters Point"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-islais-creek-stench",
+  "title": "The creek that Butchertown choked",
+  "theme": "parks-nature",
+  "year": 1895,
+  "yearEnd": 1900,
+  "place": {
+   "label": "Heart of Butchertown, Evans Ave near Islais Creek",
+   "lat": 37.7406,
+   "lon": -122.3808,
+   "precision": "street"
+  },
+  "hook": "By 1895 a city inspector said the smell from Islais Creek's mudflats was beyond description, and the harbor engineer claimed a man could step across it.",
+  "story": "For decades, the slaughterhouses built out over Islais Creek on pilings dumped offal straight into the water and waited for the tide to take it away [1][3]. In 1889 the Chronicle defended the butchers, writing that 'there is not a cleaner place in the manufacturing portion of San Francisco.' That December the city attorney drafted an ordinance to shrink Butchertown, but it apparently never took effect [1]. In 1890 a fire started at 1:30 a.m. in the Horn & Chapman stables and did $20,000 of damage [1]. In October 1895 Health Inspector Lovelace came to look. 'At low tide,' he reported, 'the stench which arise from the mud flats exposed to the sun's rays ... is beyond the possibility of description.' He asked the city to end the dumping and build sewers [1]. The creek was also filling with silt. Local property owners pushed to reopen it to boats, but the state harbor board's chief engineer scoffed that 'Islais Creek can be stepped across by any active man' [2]. In 1900 a neighbourhood club petitioned for dredging so boats could again reach what is now Oakdale Avenue and Quint Street [1].",
+  "people": [
+   {
+    "name": "Inspector Lovelace",
+    "role": "city health inspector"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "Offal dumping, 1889 Chronicle defence and ordinance, 1890 fire, 1895 Lovelace report and quote, 1900 dredging petition"
+   },
+   {
+    "title": "Reopening Islais Creek at Turn of 20th Century (Stephanie T. Hoppe)",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Reopening_Islais_Creek_at_Turn_of_20th_Century",
+    "supports": "1895 campaign to reopen the creek; Harbor Commission engineer's 'stepped across' quote"
+   },
+   {
+    "title": "Butchertown's Beginnings (Conor Casey, The Argonaut, 2007)",
+    "publisher": "FoundSF",
+    "year": 2007,
+    "url": "https://www.foundsf.org/index.php?title=Butchertown%27s_Beginnings",
+    "supports": "Slaughterhouses on pilings so by-products washed away in Islais Creek and bay tides"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-shrimp-camps-burned",
+  "title": "The shrimp camps and the 15,000-pound bonfire",
+  "theme": "communities",
+  "year": 1899,
+  "yearEnd": null,
+  "place": {
+   "label": "Chinese shrimp camp site, Evans Ave and Ingalls St by the bay",
+   "lat": 37.7385,
+   "lon": -122.3775,
+   "precision": "area"
+  },
+  "hook": "Chinese fishermen turned the bay's tiny shrimp into an export business. In 1899 health officials burned their catch, and later admitted it was probably safe.",
+  "story": "From the early 1870s, Chinese fishermen built camps of plank wharves and weathered shacks along the Hunters Point shore [1]. In 1882 the historian John Hittell described camps of 12 to 40 men under a manager. They set funnel-shaped nets 30 feet long in the tidal current, and 200 men in 40 boats landed about a ton and a half of shrimp a day [1]. Most of the catch was sun-dried for export to China, and the shells were ground up for fertilizer [3]. By 1895 the shrimp harvest, almost all of it Chinese, was second in value only to oysters among the region's fisheries [2]. White competitors and officials kept up the pressure. An 1880 state ban on Chinese shrimping was overturned in federal court [3]. Then came the scare over 'Butchertown shrimp', said to be tainted by slaughterhouse waste. In 1899 the city's health officer arrived at the Hunters Point camp with the city chemist, police and inspectors, condemned 15,000 pounds of shrimp and set it on fire. Months later the Board of Health admitted the shrimp had not been germ-ridden after all [2]. Worse followed: a closed season in 1901 and a ban on exports in 1905 [3].",
+  "people": [
+   {
+    "name": "John S. Hittell",
+    "role": "historian who described the camps in 1882"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "Camps from early 1870s, Hittell 1882 description, camp locations including the Evans/Ingalls/Fairfax block"
+   },
+   {
+    "title": "Chinese shrimping village (Chris Carlsson)",
+    "publisher": "FoundSF",
+    "year": 2019,
+    "url": "https://www.foundsf.org/index.php?title=Chinese_shrimping_village",
+    "supports": "1899 raid and burning of 15,000 pounds of shrimp, ptomaine allegation, later admission; 1895 harvest rank"
+   },
+   {
+    "title": "Chinese Shrimp Camps Along The Bay (David D. Schmidt)",
+    "publisher": "FoundSF",
+    "year": 2026,
+    "url": "https://www.foundsf.org/index.php?title=Chinese_Shrimp_Camps_Along_The_Bay",
+    "supports": "Drying and export to China, shells as fertilizer, 1880 ban overturned, 1901 closed season, 1905 export ban"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-bayview-hill-pest-house",
+  "title": "The hill saved by a smallpox scare",
+  "theme": "parks-nature",
+  "year": 1902,
+  "yearEnd": 1915,
+  "place": {
+   "label": "Bayview Hill (Bayview Park) summit",
+   "lat": 37.715,
+   "lon": -122.3925,
+   "precision": "area"
+  },
+  "hook": "The city bought Bayview Hill for a quarantine hospital. A neighbouring landowner gave away land to stop it, and the hill became a park instead.",
+  "story": "In the late 1890s the Bay View Land Company planned luxury homes on the rocky hill above Candlestick Point. The plan failed because the hill was too far from downtown [1][2]. In 1902 the city bought the hilltop for a 'pest house', a hospital to isolate people with contagious diseases. Even that plan ran into the same distance problem: getting there would need a new road [3]. The owners of the neighbouring land feared a quarantine hospital would drag down the value of their land [1]. The usual story says the railroad baron Charles Crocker gave the city his part of the hill on condition that the pest house be dropped [1][2]. But Crocker had died in 1888, so the donation must have come from the Crocker Land Company [3]. In 1905 Daniel Burnham's city plan marked the hill as a future 'Visitacion Park', and it was dedicated as parkland in 1915 [1][3]. Because no one built on it, the hill still has some of the city's richest native grassland, remnant oaks and islay cherry, and rare plants such as San Francisco Chinese houses that grow nowhere else in the city [1].",
+  "people": [
+   {
+    "name": "Charles Crocker",
+    "role": "railroad baron, often wrongly credited with the donation"
+   },
+   {
+    "name": "Daniel Burnham",
+    "role": "planner who proposed Visitacion Park"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Bayview Hill (Pete Holloran)",
+    "publisher": "FoundSF",
+    "year": 2000,
+    "url": "https://www.foundsf.org/index.php?title=Bayview_Hill",
+    "supports": "Luxury-home plan, 1902 purchase for quarantine facility, Crocker donation story, 1915 park, native plants and rare species"
+   },
+   {
+    "title": "Bayview Hill: A hidden hiking gem in SF",
+    "publisher": "SFGate",
+    "year": 2013,
+    "url": "http://www.sfgate.com/outdoors/urbanoutings/article/Bayview-Hill-A-hidden-hiking-gem-in-SF-4389799.php",
+    "supports": "1902 purchase for a pest house for people with communicable diseases; Crocker donation on condition; park in 1915"
+   },
+   {
+    "title": "Bayview Park, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Bayview_Park,_San_Francisco",
+    "supports": "Remoteness and road cost, deed conveyed 1902, Crocker died 1888 so the Crocker Land Company donated, Burnham's 1905 Visitacion Park"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "bayview-hunters-point-battleship-ohio-drydock",
+  "title": "A battleship dwarfed in a new dock",
+  "theme": "war-military",
+  "year": 1903,
+  "yearEnd": null,
+  "place": {
+   "label": "Drydock No. 2, Hunters Point Shipyard",
+   "lat": 37.7262,
+   "lon": -122.36,
+   "precision": "area"
+  },
+  "hook": "In January 1903 the battleship Ohio floated into a brand-new 750-foot dock at Hunters Point. 'Big Battleship Ohio Seems Lost,' ran the headline.",
+  "story": "After the Spanish-American War the Navy expanded its Pacific squadrons, and the San Francisco Dry Dock Company expected more Navy repair work [2]. Its 1868 dock was now too small for modern ships [1]. The company hired Howard C. Holmes, who gave up his job as chief engineer of the State Board of Harbor Commissioners, to design a bigger one [1]. Work began on January 9, 1901, cutting a second basin into the serpentine of Hunters Point at a slight angle to the first. It was 750 feet long, among the largest docks in the world [1]. Union Iron Works built its floating steel gate and launched it in August 1902, while two copies were being built for the Russian government [1]. At the end of January 1903 the battleship Ohio was the first ship docked. Engineers, company president W. F. Babcock and about 100 guests watched the dock drain in two hours as workers scraped marine growth off the hull [1]. The 388-foot Ohio 'Seems Lost', the Call's headline said, and the paper called the dock 'a monument to mechanical skill' [1]. Its brick Neoclassical powerhouse survives [1].",
+  "people": [
+   {
+    "name": "Howard C. Holmes",
+    "role": "engineer who designed Drydock No. 2"
+   },
+   {
+    "name": "W. F. Babcock",
+    "role": "president of the San Francisco Dry Dock Company"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Hunters Point Naval Shipyard, Commercial Drydock Area (HAER CA-2273)",
+    "publisher": "Historic American Engineering Record, National Park Service / Library of Congress",
+    "year": 2009,
+    "url": "https://www.loc.gov/item/ca3739/",
+    "supports": "Holmes hired, 1900 bids, Jan 9, 1901 start, 750-ft dock, Union Iron Works caisson launched Aug 1902 and Russian copies, Ohio docking with Babcock and guests, two-hour draining, Call quotes, Building 205 powerhouse"
+   },
+   {
+    "title": "Historic Context Statement: Bayview-Hunters Point Area B Survey",
+    "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20221025024904/https://sfocii.org/sites/default/files/FileCenter/Documents/797-Final%20BVHP%20Context%2002.11.10.pdf",
+    "supports": "Spanish-American War and Navy expansion as motive; Ohio docked January 29, 1903"
+   }
+  ],
+  "photo": null
+ }
+]

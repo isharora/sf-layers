@@ -1,0 +1,652 @@
+[
+ {
+  "id": "presidio-presidio-27-mutiny",
+  "title": "Twenty-Seven Prisoners Sat Down and Sang",
+  "theme": "civil-rights",
+  "year": 1968,
+  "yearEnd": 1970,
+  "place": {
+   "label": "Presidio stockade, Building 1213, Fort Winfield Scott",
+   "lat": 37.802885,
+   "lon": -122.473639,
+   "precision": "block"
+  },
+  "hook": "A guard shot a disturbed young prisoner in the back. Three days later, 27 soldiers sat on the stockade lawn and the Army charged them with mutiny.",
+  "story": "In 1968 the Presidio stockade was packed with AWOL soldiers. Peter Barnes wrote that Building 1213 held up to 120 prisoners when the Army's own limit was 88. Another account says the jail was built for 56 and held 115 [1][2]. One inmate counted 33 suicide attempts by 21 men between May and October [1]. On 11 October, Private Richard 'Rusty' Bunch, a troubled young man from Dayton, Ohio, was on a shotgun work detail. He asked his guard, 'If I run, will you shoot me?' The guard answered, 'You'll have to run to find out.' Bunch skipped away and was killed by a shotgun blast to the back. Officials called it justifiable homicide [1]. On the morning of 14 October, 27 of the 123 prisoners sat down on the grass and sang 'We Shall Overcome'. They read out demands that included an end to shotgun details, the removal of racist guards and a chance to tell the press about Bunch [1]. Firemen called in to hose them down refused [2]. The 27 were charged with mutiny, a capital offence. The first man sentenced got 15 years, but after public outcry all were released within about 18 months [2]. Sixth Army commander Stanley Larsen later explained: 'We thought the revolution was starting, and we were trying to crush it' [2].",
+  "people": [
+   {
+    "name": "Richard 'Rusty' Bunch",
+    "role": "prisoner killed by a stockade guard"
+   },
+   {
+    "name": "Randy Rowland",
+    "role": "one of the Presidio 27"
+   },
+   {
+    "name": "Lt. Gen. Stanley Larsen",
+    "role": "Sixth Army commander"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Presidio Mutiny of 1968 (excerpt from Pawns: The Plight of the Citizen-Soldier, Knopf 1972)",
+    "publisher": "Peter Barnes, via FoundSF",
+    "year": 1972,
+    "url": "https://www.foundsf.org/index.php?title=The_Presidio_Mutiny_of_1968",
+    "supports": "Building 1213 overcrowding (120 vs 88), suicide-attempt count, Bunch's shooting and the guard's words, 27 of 123 prisoners, demands, 'We Shall Overcome'"
+   },
+   {
+    "title": "Presidio 27",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Presidio_27",
+    "supports": "Alternative capacity figures (56 / 115), firemen refusing, mutiny charges, 15-year first sentence, release within 18 months, Larsen quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-fort-point-saved",
+  "title": "The Fort the Bridge Refused to Destroy",
+  "theme": "architecture-landmarks",
+  "year": 1970,
+  "yearEnd": null,
+  "place": {
+   "label": "Fort Point, beneath the Golden Gate Bridge",
+   "lat": 37.8106,
+   "lon": -122.477,
+   "precision": "building"
+  },
+  "hook": "The fort never fired a shot in anger. It was nearly flattened for the bridge, then saved by retired officers who spent eleven years lobbying to keep it.",
+  "story": "Fort Point was built between 1853 and 1861 to guard the Golden Gate at the height of the Gold Rush. It was the only 'Third System' masonry fort ever built west of the Mississippi. Its guns never fired at an enemy [1]. By the 1930s it was obsolete, and early plans for the Golden Gate Bridge called for knocking it down. Chief Engineer Joseph Strauss saw its architectural value and designed a special arch so the roadway could leap over the fort [1]. Interest in preserving it rose and fell for decades. Then in 1959 a group of retired military officers and civilian engineers founded the Fort Point Museum Association [2]. With the Sixth Army's blessing, they cleaned up the interior and put up safety barricades. They held open houses, led school groups and civic groups on tours, and opened the sallyport doors on weekends to more and more visitors. The members knew the public had to be able to get inside before it would back a new historic park [2]. In 1968 local congressmen introduced bills to make the fort a national historic site. On 16 October 1970, President Richard Nixon signed the final bill into law, and Fort Point National Historic Site was born [1][2].",
+  "people": [
+   {
+    "name": "Joseph Strauss",
+    "role": "Golden Gate Bridge chief engineer who spared the fort"
+   },
+   {
+    "name": "Fort Point Museum Association",
+    "role": "preservation group founded 1959"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History & Culture - Fort Point National Historic Site",
+    "publisher": "National Park Service",
+    "year": null,
+    "url": "https://www.nps.gov/fopo/learn/historyculture/index.htm",
+    "supports": "1853-61 construction, Third System uniqueness, never fired in anger, Strauss's arch, 1959 association, 16 Oct 1970 designation"
+   },
+   {
+    "title": "Sentry at the Golden Gate (Fort Point history)",
+    "publisher": "National Park Service",
+    "year": null,
+    "url": "https://www.nps.gov/fopo/learn/historyculture/upload/SentryatGoldenGate%20for%20web.doc",
+    "supports": "Museum Association's eleven years of fundraising, cleanup, tours and weekend openings with the 6th Army; 1968 bills; Nixon signing"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-burning-man-baker-beach",
+  "title": "The First Man Burned on Baker Beach",
+  "theme": "arts-counterculture",
+  "year": 1986,
+  "yearEnd": 1990,
+  "place": {
+   "label": "Baker Beach",
+   "lat": 37.7935,
+   "lon": -122.4836,
+   "precision": "area"
+  },
+  "hook": "Two friends dragged an 8-foot wooden figure onto a San Francisco beach and set it alight. Strangers came running. Burning Man had begun.",
+  "story": "On the summer solstice of 1986, Larry Harvey and his friend Jerry James put together a rough wooden figure, dragged it down to Baker Beach and set it on fire [1]. Nobody gave them permission. As the 8-foot man went up, people all across the beach came running. A woman ran forward and held its burning hand, and a stranger with a guitar made up a song on the spot [2]. Harvey and James decided to come back the next year. Each year the Man got bigger. Sculptor Mike Acker joined them, and Harvey's roommate Dan Miller rigged pulleys to raise its arms. From 1989 the Cacophony Society, a network of urban pranksters, pitched in [2]. By 1990 the figure stood four storeys tall, and U.S. Park Police noticed that beach fires were limited to 3-by-3-foot campfires. After some haggling on the sand, an officer shook hands on a deal: the Man could stand, but it could not burn [2]. The crowd of hundreds, who had come for a fire, began chanting 'Burn him!' Someone grabbed Harvey by the throat. The organisers lowered the Man and carried it away. That Labor Day they took it to Nevada's Black Rock Desert [2].",
+  "people": [
+   {
+    "name": "Larry Harvey",
+    "role": "co-founder of Burning Man"
+   },
+   {
+    "name": "Jerry James",
+    "role": "co-builder of the first Man"
+   },
+   {
+    "name": "Dan Miller",
+    "role": "designed the Man's pulley system"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Burning Man Timeline: 1986",
+    "publisher": "Burning Man Project",
+    "year": null,
+    "url": "https://burningman.org/timeline/",
+    "supports": "1986 solstice burn on Baker Beach by Harvey and James"
+   },
+   {
+    "title": "What is Burning Man? 1986-1996 history",
+    "publisher": "Burning Man (burningman.com, archived 2008)",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20081014070209/http://www.burningman.com/whatisburningman/1986_1996/",
+    "supports": "8-ft figure, woman holding its hand, guitarist, Acker and Miller, Cacophony Society in 1989, 1990 Park Police deal, 3x3-ft fire rule, 'Burn him!' crowd, move to Black Rock"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-bridgewalk-1987",
+  "title": "The Day Walkers Flattened the Golden Gate",
+  "theme": "modern-city",
+  "year": 1987,
+  "yearEnd": null,
+  "place": {
+   "label": "South end of the Golden Gate Bridge, by the Round House",
+   "lat": 37.8074,
+   "lon": -122.4748,
+   "precision": "area"
+  },
+  "hook": "So many people crowded onto the bridge for its 50th birthday that its arched roadway sagged flat, and the mayor threw a borrowed $800 fedora into the bay.",
+  "story": "For the bridge's 50th anniversary on 24 May 1987, organisers planned 'Bridgewalk '87' to recreate the Pedestrian Day of 1937. They expected a smaller crowd than the 200,000 who had walked across on opening day, because this time the roadway was open to walkers for only four hours [1]. Instead about 300,000 people poured onto the span, among them cyclists, roller skaters and a group dressed as a centipede. Another 400,000 to 500,000 packed every viewpoint nearby [1]. The weight of the crowd flattened the bridge's normally arched roadbed. District engineer Daniel Mohn later ran the numbers and confirmed the bridge had not been overstressed [1][2]. At mid-span, Mayor Dianne Feinstein was meant to throw a wreath into the water for the 11 men who died building the bridge. The wreath was stuck somewhere in the crush, so she grabbed Assembly Speaker Willie Brown's $800 fedora and sent it spinning out to sea like a Frisbee [1]. Tolls were suspended for the day. The celebrations also left something lasting near the Round House: two commemorative gardens and a walkway of personalised bricks, with 7,416 in place by March 1988 [1].",
+  "people": [
+   {
+    "name": "Dianne Feinstein",
+    "role": "Mayor of San Francisco"
+   },
+   {
+    "name": "Willie Brown",
+    "role": "Speaker of the California Assembly, owner of the fedora"
+   },
+   {
+    "name": "Daniel E. Mohn",
+    "role": "Bridge District engineer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Golden Gate Bridge Anniversaries",
+    "publisher": "Golden Gate Bridge, Highway and Transportation District",
+    "year": null,
+    "url": "https://www.goldengate.org/bridge/history-research/moments-events/golden-gate-bridge-anniversaries/",
+    "supports": "Bridgewalk '87 date, crowd figures, flattened roadbed, Mohn's calculations, fedora episode, toll suspension, gardens and 7,416 bricks"
+   },
+   {
+    "title": "History of the Golden Gate Bridge in the Presidio",
+    "publisher": "Presidio Trust",
+    "year": 2024,
+    "url": "https://www.presidio.gov/explore/blog/history-of-the-golden-gate-bridge-in-the-presidio",
+    "supports": "Estimated 800,000 attendees, 300,000 walkers, flattened roadbed, no lasting damage"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-post-to-park",
+  "title": "The Army Hands Over Its Oldest Post",
+  "theme": "war-military",
+  "year": 1994,
+  "yearEnd": null,
+  "place": {
+   "label": "Main Parade Ground, Main Post",
+   "lat": 37.8005,
+   "lon": -122.4575,
+   "precision": "area"
+  },
+  "hook": "After two centuries under three flags, America's oldest continuously operating military base became a national park. Many people expected it to be carved up and sold.",
+  "story": "When Congress created the Golden Gate National Recreation Area in 1972, it added a clause: if the military ever left the Presidio, the land would join the park [1]. It came into play in 1989, when Congress put the post on its list of bases to close [1]. The last troops sent to war from the Presidio were 200 Army engineers who left for Saudi Arabia in 1990. The first, in 1794, had been 20 Spanish horse soldiers riding out to put down an Ohlone rebellion in the Santa Cruz Mountains [2]. On 1 October 1994 the Presidio ended more than two hundred years of service to Spain, Mexico and the United States. It passed to the National Park Service as the oldest continuously operating military base in the country [1]. As it left, the Army even took the contents of the Presidio Army Museum [2]. The Army left behind crumbling barracks, run-down forts and neglected forests. As the Chronicle later recalled, many people gloomily predicted the land would be chopped up and sold to private developers [3]. Instead, Congress set up the Presidio Trust two years later to make it pay its own way [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "From Post to Park",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": null,
+    "url": "https://home.nps.gov/prsf/learn/historyculture/post-to-park.htm",
+    "supports": "1972 GGNRA provision, 1989 closure decision, 1 Oct 1994 transfer, oldest continuously operating base, Trust created two years later"
+   },
+   {
+    "title": "Presidio Officers' Club reopens into a new history museum",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2014,
+    "url": "https://www.sfgate.com/art/article/Presidio-Officers-Club-reopens-into-a-new-5787074.php",
+    "supports": "First (1794) and last (1990) deployments; Army removing the Presidio Army Museum contents in 1994"
+   },
+   {
+    "title": "A green belt in the black: Presidio as national park",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2005,
+    "url": "https://www.sfgate.com/news/article/A-GREEN-BELT-IN-THE-BLACK-PRESIDIO-AS-NATIONAL-2661659.php",
+    "supports": "Crumbling barracks, dilapidated forts and forgotten forests; fears the post would be chopped up and sold to developers"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-golden-gator",
+  "title": "The Alligator of Mountain Lake",
+  "theme": "parks-nature",
+  "year": 1996,
+  "yearEnd": 2014,
+  "place": {
+   "label": "Mountain Lake, southern edge of the Presidio",
+   "lat": 37.788,
+   "lon": -122.4686,
+   "precision": "area"
+  },
+  "hook": "In 1996 an abandoned pet alligator outwitted rangers, zookeepers, two rival newspapers and a hired Florida gator hunter for more than two months.",
+  "story": "In the summer of 1996, a retired architect and birdwatcher, Dan Bushnell, 72, said he had twice seen an alligator with 'pop-up eyes' swimming in Mountain Lake [1]. It seemed to be a dumped pet, and it became a sensation. The Chronicle flew in a professional hunter from Florida. The rival Examiner sent its executive editor, Phil Bronstein, and a reporter in wetsuits to 'protect' the reptile, but police stopped them at the water's edge, citing a rule against swimming in the lake [2]. Examiner readers voted to name it 'Golden Gator', ahead of 'Van Nessie' and 'Presidio Domingo'. A Texas radio station played updates set to a rewritten 'Crocodile Rock' [2]. On 8 October, zoo associate curator John Aikin finally caught the 3-foot-2-inch male with a fishing pole and $1.47 worth of supermarket fish [2][3]. That December the zoo threw a farewell party, with a cake reading 'Best of luck', before flying him to a Louisiana preserve [3]. The gator was a sign of deeper trouble. Neighbours already complained that golf-course contaminants and litter were fouling the once-clear lake [1]. In November 2014 the Presidio Trust used a rotenone-based chemical to wipe out the invasive fish that had plagued it for years [4].",
+  "people": [
+   {
+    "name": "Dan Bushnell",
+    "role": "birdwatcher who reported the alligator"
+   },
+   {
+    "name": "John Aikin",
+    "role": "San Francisco Zoo associate curator who caught it"
+   },
+   {
+    "name": "Phil Bronstein",
+    "role": "Examiner executive editor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Gator Seen Lurking In S.F. Lake",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 1996,
+    "url": "https://www.sfgate.com/news/article/STEVE-RUBENSTEIN-Gator-Seen-Lurking-In-S-F-2971053.php",
+    "supports": "Bushnell's sighting and description; neighbours' complaints about contaminants and litter"
+   },
+   {
+    "title": "Hunt for SF gator ends",
+    "publisher": "Las Vegas Sun (AP)",
+    "year": 1996,
+    "url": "http://lasvegassun.com/news/1996/oct/10/hunt-for-sf-gator-ends/",
+    "supports": "Florida hunter, Examiner wetsuit stunt, police swimming rule, naming contest, Texas radio song, capture details and size"
+   },
+   {
+    "title": "See ya later, alligator: celebrity reptile flies",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 1996,
+    "url": "https://www.sfgate.com/news/article/SEE-YA-LATER-ALLIGATOR-Celebrity-reptile-flies-2956901.php",
+    "supports": "8 Oct capture with $1.47 of fish, farewell party and cake, flight to Louisiana preserve"
+   },
+   {
+    "title": "Workers pour poison into Mountain Lake",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2014,
+    "url": "https://www.sfgate.com/bayarea/article/Workers-pour-poison-into-Mountain-Lake-begin-5888355.php",
+    "supports": "12 Nov 2014 rotenone-based fish eradication by the Presidio Trust to remove invasive species"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-internet-archive",
+  "title": "The Internet's Memory in an Army Building",
+  "theme": "modern-city",
+  "year": 1996,
+  "yearEnd": null,
+  "place": {
+   "label": "Internet Archive, 116 Sheridan Avenue (Main Post)",
+   "lat": 37.800231,
+   "lon": -122.460346,
+   "precision": "building"
+  },
+  "hook": "For years, the project trying to save a copy of the entire web worked out of an old Army building on the Presidio's Main Post.",
+  "story": "Brewster Kahle's dream was what he called 'a Library of Alexandria for the internet'. In the 1990s he began sending out programs called crawlers to take snapshots of every page on the web [1]. The nonprofit he founded, the Internet Archive, described itself in 2002 as 'founded in 1996 and located in the Presidio of San Francisco'. Its mission was to build an 'Internet library' so that born-digital culture would not vanish into what computer scientist Danny Hillis called our 'digital dark age' [2]. It pointed out that many early films had been recycled for their silver, which captures the worry behind the whole project [2]. Its address was 116 Sheridan Avenue, a building on the Main Post of the former Army base. The Archive told visitors its Presidio facilities were open to the public on most Friday afternoons, and it recommended printing a map of the Presidio to find them [3]. Archived copies of that same contact page show the move: by 2010 the headquarters address had changed to 300 Funston Avenue, a former church in the Richmond District [3][1]. Many of the web pages the Archive saved are available to anyone through its Wayback Machine [1].",
+  "people": [
+   {
+    "name": "Brewster Kahle",
+    "role": "founder of the Internet Archive"
+   }
+  ],
+  "sources": [
+   {
+    "title": "He founded the Internet Archive with a utopian vision",
+    "publisher": "San Francisco Chronicle",
+    "year": 2021,
+    "url": "https://web.archive.org/web/20211115095138/https://www.sfchronicle.com/tech/article/He-founded-the-Internet-Archive-with-a-Utopian-16434559.php",
+    "supports": "Kahle's 'Library of Alexandria for the internet', crawlers from the 1990s, Wayback Machine, later HQ in a former church"
+   },
+   {
+    "title": "About the Internet Archive (archived 2002)",
+    "publisher": "Internet Archive",
+    "year": 2002,
+    "url": "https://web.archive.org/web/2002id_/http://www.archive.org/about/about.php",
+    "supports": "Founded 1996 and located in the Presidio; 'Internet library' mission; silver-recycled films; 'digital dark age'"
+   },
+   {
+    "title": "Internet Archive contact page (archived 2005, 2010)",
+    "publisher": "Internet Archive",
+    "year": 2005,
+    "url": "https://web.archive.org/web/2005id_/http://www.archive.org/about/contact.php",
+    "supports": "116 Sheridan Avenue, Presidio address; Friday public hours; Presidio map; by 2010 (web.archive.org/web/20100601id_/…) the address was 300 Funston Avenue"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-crissy-field-marsh",
+  "title": "Peeling Back an Airfield to Find a Marsh",
+  "theme": "parks-nature",
+  "year": 2001,
+  "yearEnd": null,
+  "place": {
+   "label": "Crissy Field tidal marsh",
+   "lat": 37.804,
+   "lon": -122.4595,
+   "precision": "area"
+  },
+  "hook": "In 1999 a channel was cut through the sand, and for the first time in about a century the bay's tides flowed back into Crissy Field.",
+  "story": "Crissy Field sits on the site of an ancient 130-acre salt marsh where Ohlone people once gathered fish and shellfish. The Army treated it as a wasteland to be dumped on and drained, and later built an airfield on the filled land [1]. When the Park Service took over in 1994, the site was 'a derelict concrete wasteland' [1]. From 1997, crews removed almost 90,000 tons of contaminated material. Between 1998 and 2000 they rebuilt an 18-acre tidal marsh and 16 acres of dunes, digging out more than 230,000 cubic yards of dirt, sand and mud [1]. In November 1999 a channel was opened, and fresh and salt water met there for the first time in 100 years [1]. The Haas family's Haas, Jr. Fund had paid for early planning in 1986. In 1997 the fund and Colleen and Robert Haas pledged $18 million, then the largest cash gift in National Park Service history. In all, the community raised more than $34.5 million [2]. Crissy Field reopened in 2001, and the Crissy Field Center opened that May to bring in young people with little access to national parks [2][3]. Nearly 100 bird species have since been recorded using the marsh [1].",
+  "people": [
+   {
+    "name": "Colleen and Robert Haas",
+    "role": "donors to the restoration"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Crissy Field (natural history)",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": null,
+    "url": "https://home.nps.gov/goga/learn/nature/crissy-field.htm",
+    "supports": "130-acre marsh, Army dumping, 'derelict concrete wasteland', 90,000 tons removed, 18-acre marsh, 16 acres dunes, 230,000 cubic yards, Nov 1999 tidal opening, ~100 bird species"
+   },
+   {
+    "title": "Crissy Field",
+    "publisher": "Evelyn and Walter Haas, Jr. Fund",
+    "year": null,
+    "url": "https://www.haasjr.org/issues-impact/community/crissy-field",
+    "supports": "1986 planning grant, $18M lead grant in 1997 (largest cash gift in NPS history then), $34.5M community donations, 2001 reopening"
+   },
+   {
+    "title": "About Crissy Field Center (archived)",
+    "publisher": "Golden Gate National Parks Conservancy",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20111127060813/http://www.parksconservancy.org/our-work/crissy/about/",
+    "supports": "Center opened May 2001; focus on people with little access to national parks"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-letterman-lucas-yoda",
+  "title": "George Lucas Builds an Empire at Letterman",
+  "theme": "modern-city",
+  "year": 2005,
+  "yearEnd": null,
+  "place": {
+   "label": "Letterman Digital Arts Center, 1 Letterman Drive",
+   "lat": 37.798082,
+   "lon": -122.449701,
+   "precision": "building"
+  },
+  "hook": "Where a 10-storey Army hospital once stood, the maker of Star Wars built San Francisco's biggest office project in decades and put a bronze Yoda at the door.",
+  "story": "The site at the Presidio's Lombard Gate once held the 10-storey Letterman Army Hospital and a 13-acre parking lot [1]. The Presidio Trust had to make the park pay for itself by 2013, and it picked George Lucas over more conventional developers [1]. His Letterman Digital Arts Center opened in 2005, with four buildings holding 865,000 square feet. The Chronicle called it the city's largest office project since 101 California St. opened in 1982 [1]. Lucasfilm paid $5.6 million a year in rent [1]. Critic John King described the result as a 'costume drama' of brick and stucco made to look like older Army buildings. 'I'm very much an advocate of historic architecture,' Lucas said. 'I like to work in a facility that ... looks like it's been there for a period of time' [1]. Landscape architect Lawrence Halprin, then 88, laid out 17 acres of open space with 85 kinds of trees and shrubs, an artificial stream and boulders brought from a ranch near Redding [1]. Outside Industrial Light & Magic's door, Lawrence Noble's bronze Yoda, about 32 inches tall, was unveiled in 2005 [2]. It soon became a pilgrimage spot for fans, school groups and ILM staff on their breaks [2].",
+  "people": [
+   {
+    "name": "George Lucas",
+    "role": "founder of Lucasfilm"
+   },
+   {
+    "name": "Lawrence Halprin",
+    "role": "landscape architect"
+   },
+   {
+    "name": "Lawrence Noble",
+    "role": "sculptor of the Yoda fountain"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Lucas casts a spell at Presidio",
+    "publisher": "San Francisco Chronicle / SFGATE (John King)",
+    "year": 2005,
+    "url": "https://www.sfgate.com/bayarea/place/article/SAN-FRANCISCO-Lucas-casts-a-spell-at-Presidio-2624437.php",
+    "supports": "Hospital and parking-lot site, self-sufficiency deadline, 865,000 sq ft, largest since 101 California, $5.6M rent, Lucas quote, Halprin details, Redding boulders"
+   },
+   {
+    "title": "A popular San Francisco tourist destination is a 2-foot-tall statue",
+    "publisher": "SFGATE",
+    "year": 2025,
+    "url": "https://www.sfgate.com/sf-culture/article/story-san-francisco-famous-star-wars-yoda-statue-20152254.php",
+    "supports": "Noble's 32-inch bronze Yoda at 1 Letterman Drive, unveiled 2005, daily visitors"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-goldsworthy-spire",
+  "title": "A Spire Made From a Dying Forest",
+  "theme": "arts-counterculture",
+  "year": 2008,
+  "yearEnd": 2013,
+  "place": {
+   "label": "Andy Goldsworthy's Spire, Bay Area Ridge Trail near Arguello Gate",
+   "lat": 37.7916,
+   "lon": -122.4588,
+   "precision": "area"
+  },
+  "hook": "A British artist bound 37 felled cypress trunks into a nearly 100-foot spire, knowing the young forest planted around it would one day hide it.",
+  "story": "The Army began planting the Presidio's forest in the 1880s. More than a century later, many of its cypress and pines were dying [1][2]. In 2006 the British artist Andy Goldsworthy visited and learned about the Presidio Trust's replanting programme [1]. He came back in October 2008 and worked with the Trust's forestry crew to choose 37 Monterey cypress trunks felled at the site. They were fastened together into a spire nearly 100 feet tall on a 15-foot base [1]. Young cypress were planted around it. In the Trust's words, it is 'the old forest welcoming the new', and as the new trees grow they will slowly swallow the sculpture [1][2]. Goldsworthy said it recalled one of his earliest works, a 1984 group of tree spires in England's Grizedale Forest: 'I have not found another great location for this type of work until now' [2]. Spire was the first of four Presidio works. Next came Wood Line (2011), a 1,200-foot line of eucalyptus branches off Lovers' Lane; Tree Fall (2013), inside a Civil War-era powder magazine; and Earth Wall at the Officers' Club [3]. Together they make up the largest collection of his work on public view in North America [3].",
+  "people": [
+   {
+    "name": "Andy Goldsworthy",
+    "role": "artist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Andy Goldsworthy's Spire",
+    "publisher": "Presidio Trust",
+    "year": null,
+    "url": "https://www.presidio.gov/places/andy-goldsworthys-spire",
+    "supports": "2006 visit, 2008 construction, 37 cypress trunks, nearly 100 ft, 15-ft base, young trees planted around it, first of four works"
+   },
+   {
+    "title": "Spire by Andy Goldsworthy (archived Experiences page)",
+    "publisher": "Presidio Trust",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20090512192134/http://www.presidio.gov/experiences/spire.htm",
+    "supports": "October 2008 construction, declining pines and cypress, 1984 Grizedale 'Memories', Goldsworthy quote, eventual disappearance into the forest"
+   },
+   {
+    "title": "Andy Goldsworthy's Wood Line / Tree Fall",
+    "publisher": "Presidio Trust",
+    "year": null,
+    "url": "https://www.presidio.gov/places/andy-goldsworthys-wood-line",
+    "supports": "Wood Line 1,200 ft completed 2011, Army planting from 1880s, four works, largest collection on public view in North America (Tree Fall page: 2013, powder magazine)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-disney-family-museum",
+  "title": "Walt Disney's Story Moves Into a Barracks",
+  "theme": "architecture-landmarks",
+  "year": 2009,
+  "yearEnd": null,
+  "place": {
+   "label": "Walt Disney Family Museum, 104 Montgomery Street",
+   "lat": 37.801361,
+   "lon": -122.458681,
+   "precision": "building"
+  },
+  "hook": "Walt Disney's daughter turned an empty 1897 Army barracks into a museum of her father's life, and builders found a WWII soldier's secret letters in the walls.",
+  "story": "The red-brick barracks at 104 Montgomery Street went up in 1897, one of a row built to house soldiers on the Main Post [1]. By the time the Army left, the building's historic interior walls, ceilings and finishes were gone. John King reported it was stripped for structural work in 1995 [1][2]. Walt Disney's daughter, Diane Disney Miller, founded a museum about her father here, and it opened in October 2009 [1][2]. The whole project cost $110 million, including $52 million for construction. The brick front and porch look much as they always did, but seismic concrete now hides behind the white walls. The old courtyard has been filled with a 31-foot-tall glass-walled gallery by the theatre designer David Rockwell [2]. Visitors walk in past 248 awards. A former gym next door, built in 1908 with bowling alleys, became offices, and the museum's mechanical systems were tucked into an old machine-gun shed [1][2]. The rehab turned up something unexpected. Behind a wall, workers found a stack of handwritten letters in Italian. They came from an Italian soldier held here as a prisoner of war, who stayed on as a soldier after Italy switched sides in World War II [3].",
+  "people": [
+   {
+    "name": "Diane Disney Miller",
+    "role": "Walt Disney's daughter and museum founder"
+   },
+   {
+    "name": "David Rockwell",
+    "role": "exhibition designer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "About the Museum",
+    "publisher": "The Walt Disney Family Museum",
+    "year": null,
+    "url": "https://www.waltdisney.org/about/the-museum",
+    "supports": "Barracks 104 built 1897, interior stripped by the Army; 122 Riley built 1908 as gym with bowling alleys"
+   },
+   {
+    "title": "Disney museum a lesson for building in Presidio",
+    "publisher": "San Francisco Chronicle / SFGATE (John King)",
+    "year": 2009,
+    "url": "https://www.sfgate.com/news/article/disney-museum-a-lesson-for-building-in-presidio-3216266.php",
+    "supports": "$110M project, $52M construction, stripped in 1995, seismic concrete, 31-ft addition, Rockwell, 248 awards, gym offices and machine-gun shed"
+   },
+   {
+    "title": "Presidio Officers' Club reopens into a new history museum",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2014,
+    "url": "https://www.sfgate.com/art/article/Presidio-Officers-Club-reopens-into-a-new-5787074.php",
+    "supports": "Italian soldier's letters found behind a wall during the Disney barracks rehab"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-officers-club-adobe",
+  "title": "Peeling Back Four Eras at the Officers' Club",
+  "theme": "architecture-landmarks",
+  "year": 2014,
+  "yearEnd": null,
+  "place": {
+   "label": "Presidio Officers' Club, 50 Moraga Avenue",
+   "lat": 37.797447,
+   "lon": -122.4591,
+   "precision": "building"
+  },
+  "hook": "Under 1970s Army drywall, 1930s fabric and 1880s woodwork, restorers found the adobe walls of Spanish San Francisco.",
+  "story": "The Presidio Officers' Club is the park's oldest building and the second-oldest in San Francisco. Parts of it belonged to the Spanish presidio of the late 1700s [1]. For years it sat dormant. Then the Presidio Trust spent three years and $30 million restoring it, and reopened it in October 2014 to mark 20 years since the Army post became a park [2]. The hardest part was working out what was actually old. The 36,895-square-foot building had been added to so many times that the Chronicle compared it to the Winchester Mystery House [2]. In the Mesa Room, once a Spanish soldier's family home, the walls held four eras: adobe from the 1790s, an 1880s fireplace and woodwork, 1930s fabric meant to look Spanish Colonial, and 1970s Army drywall over the lot [2]. Restorers peeled them back layer by layer and fitted sliding glass panels so visitors can uncover the history themselves [2]. The new heritage gallery needed an international hunt for artifacts, because every departing army had taken what it could carry [2]. Under glass sits an Ohlone basket that looks like the oldest thing in the room. It is actually the newest: Linda Yamane was commissioned to weave it, and it took her 1,000 hours [2].",
+  "people": [
+   {
+    "name": "Eric Brandan Blind",
+    "role": "Presidio Trust director of heritage programs"
+   },
+   {
+    "name": "Linda Yamane",
+    "role": "Rumsien Ohlone basket weaver"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Presidio Officers' Club Venues",
+    "publisher": "Presidio Trust",
+    "year": null,
+    "url": "https://presidio.gov/venues/presidio-officers-club-venue",
+    "supports": "Oldest building in the park, second-oldest in SF, part of the original Spanish presidio, reopened 2014 after rehabilitation"
+   },
+   {
+    "title": "Presidio Officers' Club reopens into a new history museum",
+    "publisher": "San Francisco Chronicle / SFGATE (Sam Whiting)",
+    "year": 2014,
+    "url": "https://www.sfgate.com/art/article/Presidio-Officers-Club-reopens-into-a-new-5787074.php",
+    "supports": "$30M, three-year rehab, 20th-anniversary reopening, 36,895 sq ft, Mesa Room's four eras, glass panels, artifact hunt, Yamane basket"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-tunnel-tops",
+  "title": "A Park Built on Top of a Freeway",
+  "theme": "parks-nature",
+  "year": 2022,
+  "yearEnd": null,
+  "place": {
+   "label": "Presidio Tunnel Tops, above the Presidio Parkway tunnels",
+   "lat": 37.803,
+   "lon": -122.457,
+   "precision": "area"
+  },
+  "hook": "Doyle Drive was one of the city's most dangerous roads. Its replacement went into tunnels, and on top of them the Presidio grew 14 acres of meadows.",
+  "story": "For decades, Doyle Drive carried Highway 101 along the Presidio's northern bluff to the Golden Gate Bridge. It was decaying, needed seismic work, and was known as one of the most dangerous and congested roads in the city [1]. In 2015 it was replaced by the $1.1 billion Presidio Parkway, which runs part of the way in tunnels [1][2]. The ground on top of those tunnels became a new park. The Presidio Trust hired James Corner Field Operations, the firm behind New York's High Line [2]. First came a long fight with Caltrans over dirt. The Trust wanted soil rich enough for native plants and free of weed seeds and construction debris. 'The heart of our conflict had to do with the disconnect between national park standards and freeway standards,' said the Trust's Michael Boland. 'You can't change the soil once you put it down' [2]. In 2018 three transportation agencies agreed to pay the Presidio a combined $54 million to turn the construction and storage land into parkland [2]. Presidio Tunnel Tops opened in 2022. The $118 million, 14-acre park has lawns, picnic areas and a nature playground, and it makes an easy walk from the heart of the Presidio to the Crissy Field waterfront [1][3].",
+  "people": [
+   {
+    "name": "Michael Boland",
+    "role": "Presidio Trust chief of park development and operations"
+   }
+  ],
+  "sources": [
+   {
+    "title": "How the Presidio Trust turned a military base into an SF landmark",
+    "publisher": "San Francisco Examiner",
+    "year": 2025,
+    "url": "https://www.sfexaminer.com/news/the-city/how-presidio-trust-turned-military-base-into-sf-landmark/article_6afa71da-efea-11ef-877f-cfbfb6214237.html",
+    "supports": "Doyle Drive's reputation, $1.1B Presidio Parkway completed 2015, Tunnel Tops opened 2022, $118M, 14 acres"
+   },
+   {
+    "title": "Above the bay, the Tunnel Tops green space is starting to take shape",
+    "publisher": "San Francisco Chronicle",
+    "year": 2018,
+    "url": "https://www.sfchronicle.com/bayarea/article/Above-the-bay-the-Tunnel-Tops-green-space-is-12989070.php",
+    "supports": "James Corner Field Operations, soil dispute and Boland quotes, $54M from three agencies"
+   },
+   {
+    "title": "Presidio Tunnel Tops",
+    "publisher": "Presidio Trust",
+    "year": null,
+    "url": "https://presidio.gov/explore/attractions/presidio-tunnel-tops/",
+    "supports": "Built on the Presidio Parkway tunnels; connects the Main Post to Crissy Field; playground and picnic areas"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-trust-pays-its-way",
+  "title": "The National Park That Must Pay Its Bills",
+  "theme": "modern-city",
+  "year": 2005,
+  "yearEnd": 2025,
+  "place": {
+   "label": "Main Post (Presidio Trust)",
+   "lat": 37.800891,
+   "lon": -122.459039,
+   "precision": "area"
+  },
+  "hook": "Congress gave the Presidio an unusual order: pay for yourself. The rent from renovated Army housing, more than Star Wars money, is what kept it going.",
+  "story": "Two years after the Army left, Congress created the Presidio Trust. In 1998 it took charge of the park's non-coastal lands with an unusual order: become financially self-sufficient by 2013 [1]. The Trust decided to lease out old buildings and use the rent to run the park, with tenants paying to renovate [2]. It was George Lucas's campus that got the headlines, but the Chronicle reported that more than half of the operating budget came from homes [2]. Starting with the Baker Beach Apartments in 1999, the Trust restored barracks and officers' quarters. Rents ran from $1,675 for a spartan two-bedroom to $11,000 for a 7,000-square-foot general's house [2]. 'Residential saved us,' said former real-estate director Paul Osmundson, remembering the dot-com crash of 2001 [2]. In 2004 the Trust earned $43.2 million, spent $40.5 million, and made money for the first time [2]. Critics objected. 'What we've got is over-development,' said John Rizzo of the Sierra Club. Director Craig Middleton replied: 'What is sustainable if you can't pay the bills?' [2] Two decades later the model faced a new challenge. In 2025 a presidential executive order targeted the Trust's 'non-statutory components', and the Trust insisted that all of its activities are based in law [3].",
+  "people": [
+   {
+    "name": "Craig Middleton",
+    "role": "Presidio Trust executive director"
+   },
+   {
+    "name": "Paul Osmundson",
+    "role": "former Presidio real estate director"
+   },
+   {
+    "name": "John Rizzo",
+    "role": "Sierra Club Bay Area chair, critic"
+   }
+  ],
+  "sources": [
+   {
+    "title": "From Post to Park",
+    "publisher": "National Park Service",
+    "year": null,
+    "url": "https://home.nps.gov/prsf/learn/historyculture/post-to-park.htm",
+    "supports": "Trust established two years after transfer; 1 July 1998 management of non-coastal areas; 2013 self-sufficiency goal"
+   },
+   {
+    "title": "A green belt in the black: Presidio as national park",
+    "publisher": "San Francisco Chronicle / SFGATE (Dan Levy)",
+    "year": 2005,
+    "url": "https://www.sfgate.com/news/article/A-GREEN-BELT-IN-THE-BLACK-PRESIDIO-AS-NATIONAL-2661659.php",
+    "supports": "Leasing strategy, residential share of budget, Baker Beach Apartments 1999, rent range, Osmundson, Rizzo and Middleton quotes, 2004 surplus figures"
+   },
+   {
+    "title": "How the Presidio Trust turned a military base into an SF landmark",
+    "publisher": "San Francisco Examiner",
+    "year": 2025,
+    "url": "https://www.sfexaminer.com/news/the-city/how-presidio-trust-turned-military-base-into-sf-landmark/article_6afa71da-efea-11ef-877f-cfbfb6214237.html",
+    "supports": "Trust created 1996; 2025 executive order on 'non-statutory components'; Trust's response"
+   }
+  ],
+  "photo": null
+ }
+]

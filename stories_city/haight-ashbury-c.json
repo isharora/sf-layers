@@ -1,0 +1,677 @@
+[
+ {
+  "id": "haight-ashbury-panhandle-freeway-revolt",
+  "title": "The freeway that never cut the Panhandle",
+  "theme": "civil-rights",
+  "year": 1964,
+  "yearEnd": 1966,
+  "place": {
+   "label": "The Panhandle near Shrader Street",
+   "lat": 37.7715,
+   "lon": -122.451,
+   "precision": "area"
+  },
+  "hook": "State engineers wanted eight lanes of traffic running through the Panhandle. A folk singer, a poet and two 6-5 votes kept the eucalyptus standing.",
+  "story": "In the early 1960s the state's plan was to push the Central Freeway west along the Oak and Fell corridor, pave about 60% of the Panhandle and tunnel under the edge of Golden Gate Park toward the Golden Gate Bridge [1]. A group formed in 1960 to fight it, the Haight-Ashbury Neighborhood Council, became one of the city's longest-lived neighbourhood organisations [1][2]. On May 17, 1964, a rally to save the park featured the folk singer Malvina Reynolds and the poet Kenneth Rexroth. That October 13 the Board of Supervisors rejected the Park Freeway 6-5, and Supervisor Terry Francois cast the deciding vote with a six-page rebuttal of the highway engineers [1]. The plan came back in 1966 with warnings that federal money would be lost. This time organised labor sided with the neighbours, and on March 21, 1966 the supervisors killed the Panhandle and Golden Gate freeways, again 6-5 [1]. The last vote came less than a year before the Summer of Love made the neighbourhood world-famous [3]. A small circular plaza at the Panhandle's western end, near Shrader, remembers Sue Bierman, one of the campaigners [1].",
+  "people": [
+   {
+    "name": "Malvina Reynolds",
+    "role": "Folk singer at the 1964 rally"
+   },
+   {
+    "name": "Terry Francois",
+    "role": "Supervisor who cast the deciding 1964 vote"
+   },
+   {
+    "name": "Sue Bierman",
+    "role": "Freeway Revolt campaigner, memorialised in the Panhandle"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Freeway Revolt",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Freeway_Revolt",
+    "supports": "Panhandle freeway route, HANC origins, 1964 rally, Oct 13 1964 and Mar 21 1966 6-5 votes, Francois, Bierman plaza"
+   },
+   {
+    "title": "Mayor Alioto and the Haight (Calvin Welch lecture)",
+    "publisher": "FoundSF",
+    "year": 1994,
+    "url": "https://www.foundsf.org/index.php?title=Mayor_Alioto_and_the_Haight",
+    "supports": "HANC formed in 1960 to fight the freeway"
+   },
+   {
+    "title": "Haight-Ashbury",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Haight-Ashbury",
+    "supports": "Freeway through Panhandle canceled in battles lasting until 1966"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-digger-free-food",
+  "title": "Stew through the Free Frame of Reference",
+  "theme": "arts-counterculture",
+  "year": 1966,
+  "yearEnd": 1967,
+  "place": {
+   "label": "The Panhandle near Ashbury Street",
+   "lat": 37.7719,
+   "lon": -122.447,
+   "precision": "area"
+  },
+  "hook": "To get a free bowl of stew in the Panhandle, you first had to step through a giant yellow picture frame.",
+  "story": "The Diggers took their name from 17th-century English radicals and set out to live as if money were already obsolete [1][2]. From 1966 they served free food in the Panhandle every day at four o'clock, a stew made from donated meat and vegetables for about 100 people [2]. Before you got a bowl you had to step through an oversized yellow wooden frame, the Free Frame of Reference [1][2]. The Digger women did most of the actual work. They cooked soup in steel milk cans using packing-house meat and unsellable produce from the wholesale markets, and baked small loaves in empty coffee cans [1]. The journalist Naomi Wolf was brought along as a child and remembered prostitutes, schoolkids and professors waiting quietly together under the eucalyptus [1]. The group's division of labour has since been criticised as sexist: men promoted and took credit while women collected, cooked and served [2]. They also ran free stores and crash pads, including an apartment at 1775 Haight rented for runaways [1]. By the end of 1967, worn out by the crowds, they had left for rural communes [1][3].",
+  "people": [
+   {
+    "name": "Emmett Grogan",
+    "role": "Digger founder"
+   },
+   {
+    "name": "Peter Coyote",
+    "role": "Digger, actor"
+   },
+   {
+    "name": "Peter Berg",
+    "role": "Digger"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Hippies Who Hated the Summer of Love",
+    "publisher": "Longreads (Kate Daloz)",
+    "year": 2017,
+    "url": "https://longreads.com/2017/08/07/the-hippies-who-hated-the-summer-of-love-2/",
+    "supports": "Food in milk and coffee cans, Free Frame, Naomi Wolf quote, 1775 Haight crash pad, Diggers leaving the Haight"
+   },
+   {
+    "title": "Diggers (theater)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Diggers_(theater)",
+    "supports": "Daily 4 p.m. Panhandle feed for about 100 people, yellow frame, critique of gendered labour"
+   },
+   {
+    "title": "San Francisco Diggers",
+    "publisher": "FoundSF (Eric Noble)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=San_Francisco_Diggers",
+    "supports": "Diggers active 1966-68; free food daily in the Panhandle; free store"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-free-clinic",
+  "title": "The clinic where health care was free",
+  "theme": "civil-rights",
+  "year": 1967,
+  "yearEnd": 2019,
+  "place": {
+   "label": "558 Clayton Street",
+   "lat": 37.76995,
+   "lon": -122.44847,
+   "precision": "building"
+  },
+  "hook": "On its first day, a second-floor flat on Clayton Street treated about 250 young people who had nowhere else to go.",
+  "story": "In 1967 David Smith was a young UCSF researcher studying how drugs affect the mind. Walking home through the Haight, he kept seeing flower children in the middle of bad LSD trips [1]. The neighbourhood's established hospitals would not treat them. By one activist's account, nearby St. Mary's had a standing policy of refusing drug overdoses [2]. On June 7, 1967, Smith opened a small second-floor clinic at 558 Clayton Street [3][4]. According to his account, more than 250 patients came on the first day, including over 40 with venereal disease and 15 with hepatitis. Years later he remembered it as \"like 300 people\" [1][3]. His malpractice insurance was cancelled, and he said he broke the law several times a day by treating drug users without calling the police [1][3]. His motto was that health care is a right, not a privilege [1]. The clinic became the first of more than 600 free clinics opened across the US over the following decade [4]. It merged into HealthRIGHT 360 in 2011–12, and the original site closed in July 2019 after years of losses as the neighbourhood gentrified [3][4].",
+  "people": [
+   {
+    "name": "David E. Smith",
+    "role": "Physician, founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Haight Ashbury Free Clinic (interview with Dr. David E. Smith, Share International, 1993)",
+    "publisher": "FoundSF",
+    "year": 1993,
+    "url": "https://www.foundsf.org/index.php?title=Haight_Ashbury_Free_Clinic",
+    "supports": "Smith's motivation, opening June 1967, 250 patients/40 VD/15 hepatitis, insurance cancelled, health care is a right"
+   },
+   {
+    "title": "Drugs, the Free Clinic, Haight Ashbury Dealers' Assoc. (Calvin Welch)",
+    "publisher": "FoundSF",
+    "year": 1994,
+    "url": "https://www.foundsf.org/index.php?title=Drugs,_the_Free_Clinic,_Haight_Ashbury_Dealers'_Assoc.",
+    "supports": "St. Mary's policy on overdoses"
+   },
+   {
+    "title": "End of an era in Haight-Ashbury: Original free clinic closes its doors",
+    "publisher": "San Francisco Chronicle (Catherine Ho)",
+    "year": 2019,
+    "url": "https://web.archive.org/web/20221108205628/https://www.sfchronicle.com/business/article/End-of-an-era-in-Haight-Ashbury-Original-free-14277667.php",
+    "supports": "558 Clayton second-story clinic, '300 people', felonies quote, July 2019 closure"
+   },
+   {
+    "title": "Haight Ashbury Free Clinics",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Haight_Ashbury_Free_Clinics",
+    "supports": "Founded June 7 1967; first of 600+ free clinics; HealthRIGHT 360 merger"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-huckleberry-house",
+  "title": "A house where runaways could phone home",
+  "theme": "communities",
+  "year": 1967,
+  "yearEnd": null,
+  "place": {
+   "label": "1 Broderick Street (original Huckleberry House)",
+   "lat": 37.77022,
+   "lon": -122.43883,
+   "precision": "building"
+  },
+  "hook": "In 1967 running away was an offence for minors. One Victorian at Haight and Broderick offered teenagers a counsellor instead of a cell.",
+  "story": "Thousands of teenagers came to the Haight in 1967, and for those under 18 running away was a status offence. Police could enter a crash pad without a warrant if they suspected a minor was inside, and most hippie households would not risk taking them in [1]. The Diggers asked for help, and Glide's Methodist ministers answered. Huckleberry House opened at 1 Broderick Street on June 18, 1967, run by Rev. Larry Beggs and social worker Barbara Brachman with 25 volunteers, four of them clinical psychologists [1]. Overnight stays needed parental consent, so staff acted as go-betweens. Sometimes they drew up written contracts in which a teen promised to keep parents informed and the parents agreed to allow a little more freedom [1]. One boy said he \"had to come all the way here to find someone to listen to me\" [1]. The model helped pave the way for the federal Runaway Youth Act of 1974 [1]. Huckleberry moved to Page Street in 1981 and describes itself as the oldest program for runaway and homeless youth in the country [1][2].",
+  "people": [
+   {
+    "name": "Larry Beggs",
+    "role": "Minister, co-director"
+   },
+   {
+    "name": "Barbara Brachman",
+    "role": "Social worker, co-director"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Huckleberry House and Teenage Runaways (Savana Huskins)",
+    "publisher": "FoundSF",
+    "year": 2021,
+    "url": "https://www.foundsf.org/index.php?title=Huckleberry_House_and_Teenage_Runaways",
+    "supports": "Status offence context, opening June 18 1967 at 1 Broderick, staff, contracts, quotes, Runaway Youth Act, 1981 move"
+   },
+   {
+    "title": "Crisis Shelter – Huckleberry House",
+    "publisher": "Huckleberry Youth Programs",
+    "year": null,
+    "url": "https://www.huckleberryyouth.org/crisis-shelter/",
+    "supports": "Established 1967; oldest runaway youth program in the country; now on Page St at Lyon"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-710-ashbury-raid",
+  "title": "The day the Dead got busted",
+  "theme": "arts-counterculture",
+  "year": 1967,
+  "yearEnd": 1968,
+  "place": {
+   "label": "710 Ashbury Street",
+   "lat": 37.76869,
+   "lon": -122.44636,
+   "precision": "building"
+  },
+  "hook": "Police carried away a pound of pot and two Grateful Dead members. Then the band did something it would never do again: it held a political press conference.",
+  "story": "In 1966–68, 710 Ashbury was the Grateful Dead's communal home. Bob Weir recalled that people came in through his front window \"with fair regularity\" [1][2]. On October 2, 1967, city and state narcotics officers raided the house and found about a pound of marijuana and some hashish. They arrested Weir, then 19, Ron \"Pigpen\" McKernan, and several friends on felony charges. The Chronicle's front page ran \"The Grateful Dead: Rock Band Busted\" [1]. The same day, police raided four other Haight homes [1]. The band's lawyers ran the Haight Ashbury Legal Organization from the ground floor of the same building and were not arrested [1]. Instead of keeping quiet, the Dead read out a statement at a press conference in the house attacking California's marijuana laws. Their lawyer complained that if they had lived on Russian Hill, they wouldn't have been busted [1]. In June 1968 everyone pleaded guilty to reduced misdemeanours, and most paid $100 fines [1]. It was the last time the band took a public political stand, and they soon left the Haight [1].",
+  "people": [
+   {
+    "name": "Bob Weir",
+    "role": "Grateful Dead guitarist, arrested"
+   },
+   {
+    "name": "Ron \"Pigpen\" McKernan",
+    "role": "Grateful Dead keyboardist, arrested"
+   },
+   {
+    "name": "Michael Stepanian",
+    "role": "Lawyer, Haight Ashbury Legal Organization"
+   },
+   {
+    "name": "Rock Scully",
+    "role": "Band manager"
+   }
+  ],
+  "sources": [
+   {
+    "title": "When the Dead Were Political: The Raid on 710, the Law, and the Statement (Andrew R. McGaan)",
+    "publisher": "Proceedings of the Grateful Dead Studies Association, vol. 3",
+    "year": 2023,
+    "url": "https://deadstudies.org/wp-content/uploads/2024/04/GDSA_Proceedings3_McGaan.pdf",
+    "supports": "Raid date, haul, arrests, Chronicle headline, other raids, HALO downstairs, press conference, Russian Hill quote, June 1968 pleas and fines, Weir window quote"
+   },
+   {
+    "title": "Ron \"Pigpen\" McKernan",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Ron_%22Pigpen%22_McKernan",
+    "supports": "710 Ashbury as communal home 1966-68; Weir and McKernan the only band members arrested"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-death-of-hippie",
+  "title": "A funeral for the hippie",
+  "theme": "arts-counterculture",
+  "year": 1967,
+  "yearEnd": null,
+  "place": {
+   "label": "Summit of Buena Vista Park",
+   "lat": 37.7686,
+   "lon": -122.4415,
+   "precision": "area"
+  },
+  "hook": "At dawn one October morning the Haight carried a coffin up Buena Vista hill and set fire to the word \"hippie\".",
+  "story": "By autumn 1967 the Haight was overwhelmed by runaways, tourists and the press, and police had raided the Grateful Dead's house on October 2 [1]. Two days later Ron Thelin, who ran the Psychedelic Shop with his brother Jay (it had opened on Haight Street in January 1966 and was often called the first head shop), announced a funeral [1][3]. At dawn on October 6 more than a hundred people set off from the now-closed shop, with more joining as they went. They carried a pine coffin marked \"Hippie, devoted son of mass media\" and filled with beads and shaved-off beards. A medieval bugle played \"Taps\" [1][2]. The march went east along Haight into Buena Vista Park and up to the crest. There, in silence, they lit a fire and burned papers reading \"hippie\" and \"freebie\" along with copies of the Chronicle and the Berkeley Barb [1]. Back on Haight Street, organisers handed out brooms: \"You got to clean house when you have a funeral\" [1]. One organiser later explained the message: don't come here, bring the revolution home [2][3].",
+  "people": [
+   {
+    "name": "Ron Thelin",
+    "role": "Psychedelic Shop co-owner, organiser"
+   },
+   {
+    "name": "Mary Kasper",
+    "role": "Participant quoted on its meaning"
+   }
+  ],
+  "sources": [
+   {
+    "title": "'Death of the Hippies': A Haight Street funeral for the Summer of Love (Peter Hartlaub)",
+    "publisher": "San Francisco Chronicle",
+    "year": 2022,
+    "url": "https://www.sfchronicle.com/projects/2022/visuals/funeral-for-the-hippies/",
+    "supports": "Thelin's announcement, route from Psychedelic Shop to Buena Vista crest, coffin text, Taps, fire, brooms quote"
+   },
+   {
+    "title": "The Hippies Who Hated the Summer of Love",
+    "publisher": "Longreads (Kate Daloz)",
+    "year": 2017,
+    "url": "https://longreads.com/2017/08/07/the-hippies-who-hated-the-summer-of-love-2/",
+    "supports": "Oct 6 1967 parade, coffin 'Hippie, Son of Media', 'stay where you are' quote"
+   },
+   {
+    "title": "Haight-Ashbury",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Haight-Ashbury",
+    "supports": "Thelin brothers' Psychedelic Shop opened Jan 3 1966 as first head shop; Buena Vista Park mock funeral; Kasper quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-manson-cole-street",
+  "title": "Charlie Manson's summer on Cole Street",
+  "theme": "modern-city",
+  "year": 1967,
+  "yearEnd": null,
+  "place": {
+   "label": "636 Cole Street",
+   "lat": 37.76903,
+   "lon": -122.45028,
+   "precision": "building"
+  },
+  "hook": "Before the murders, Charles Manson was a paroled ex-con dancing at Grateful Dead shows and collecting followers a few doors from Haight Street.",
+  "story": "Charles Manson was released from federal prison on March 21, 1967, aged 32. He had spent more than half his life in institutions [2]. Within weeks he was in Berkeley, and then, with his probation officer's permission, in the Haight [2]. That officer, criminologist Roger Smith, also worked at the Haight Ashbury Free Medical Clinic, which Manson and his growing group of mostly young women began to visit [2]. FoundSF places his Haight pad at 636 Cole Street, near Haight [1]. In his own later account he panhandled, hustled pot and LSD for small-time dealers, and busked on guitar. He also described losing himself on the dance floor at a Grateful Dead show and collapsing, then waking the next morning in a room full of strangers [1]. Mixing Heinlein's Stranger in a Strange Land, the Bible, Scientology and the Beatles into a message of free love, he gathered followers there [2]. Before the summer was over they left in a converted school bus for Southern California [2]. A few years later his followers killed Sharon Tate and Rosemary LaBianca [1].",
+  "people": [
+   {
+    "name": "Charles Manson",
+    "role": "Cult leader"
+   },
+   {
+    "name": "Roger Smith",
+    "role": "Federal probation officer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Manson's Mansion (Dr. Weirde)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Manson's_Mansion",
+    "supports": "636 Cole St; panhandling, hustling, Grateful Dead dance quote from Manson in His Own Words"
+   },
+   {
+    "title": "Charles Manson",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Charles_Manson",
+    "supports": "Release March 21 1967; move to Haight; Roger Smith and Free Clinic; influences; school bus"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-hippie-hop-to-mill-ins",
+  "title": "When Haight Street stopped the buses",
+  "theme": "civil-rights",
+  "year": 1967,
+  "yearEnd": 1968,
+  "place": {
+   "label": "Haight and Ashbury Streets",
+   "lat": 37.76993,
+   "lon": -122.4467,
+   "precision": "street"
+  },
+  "hook": "First the tour buses came to gawk. Then the crowds grew so thick the buses couldn't move, and the hippies decided they wanted the street for a park.",
+  "story": "On April 6, 1967, Gray Line launched its \"Hippie Hop\" bus tour, billed as \"the only foreign tour in the domestic U.S.\" Guides handed out a glossary of hippie slang to passengers peering through the windows [1]. It was short-lived. By mid-May the sidewalks were so jammed that buses could not get through, and Gray Line cancelled the tour [1]. The neighbourhood organiser Calvin Welch later recalled that many early hippies resented cars and buses on Haight Street. \"They weren't going anywhere, they'd arrived\" [2]. From 1968, he said, there were \"mill-ins\": thousands of people filled the street between Baker and Stanyan, skipping rope and chanting \"We want a park!\" until the traffic stopped [2]. Mayor Joseph Alioto answered with police. Welch described almost a month of daily clashes and said CS gas was used [2]. In his telling, the confrontation turned the Haight's long-time residents and newcomers into allies against City Hall's plans for the district. That alliance led to a later rezoning that held development to the density already there [2].",
+  "people": [
+   {
+    "name": "Calvin Welch",
+    "role": "Neighbourhood organiser and chronicler"
+   },
+   {
+    "name": "Joseph Alioto",
+    "role": "Mayor of San Francisco 1968–76"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Hippies Who Hated the Summer of Love",
+    "publisher": "Longreads (Kate Daloz)",
+    "year": 2017,
+    "url": "https://longreads.com/2017/08/07/the-hippies-who-hated-the-summer-of-love-2/",
+    "supports": "Gray Line Hippie Hop start date, slogan, glossary, cancellation due to congestion"
+   },
+   {
+    "title": "Mayor Alioto and the Haight (Calvin Welch lecture, New College, 1994)",
+    "publisher": "FoundSF",
+    "year": 1994,
+    "url": "https://www.foundsf.org/index.php?title=Mayor_Alioto_and_the_Haight",
+    "supports": "Anti-car sentiment quote, 1968 mill-ins, 'We want a park', Alioto police response, CS gas claim, rezoning"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-red-victorian",
+  "title": "Sami Sunchild paints the Red Vic",
+  "theme": "arts-counterculture",
+  "year": 1977,
+  "yearEnd": 2013,
+  "place": {
+   "label": "The Red Victorian, 1665 Haight Street",
+   "lat": 37.76943,
+   "lon": -122.4499,
+   "precision": "building"
+  },
+  "hook": "Goldfish swam in a toilet tank, and the guest rooms had names like Flower Child. Later, a Banksy rat went up on the outside wall.",
+  "story": "The building went up in 1904 as the Jefferson Hotel. In the Summer of Love it was the Jeffrey Haight, a free crash pad [1]. In 1977 the artist and activist Sami Sunchild bought it, painted the facade red and reopened it as the Red Victorian Bed, Breakfast & Art [1]. She gave the rooms themes such as the Flower Child, the Rainbow, the Redwoods and the Peacock suite. In one shared bathroom, goldfish swam in the toilet tank [1][2]. Downstairs were a Peace Cafe and a gift shop. From the 1990s she hosted Sunday-morning World Peace Conversations [1]. \"The Red Vic is at the centre of the Haight, and the Haight is at the centre of the universe,\" she told a reporter at 81 [2]. In April 2010 Banksy sprayed a rat clutching a marker pen on the side of the building from a neighbouring roof [3]. Sunchild was about to paint over it when collector Brian Greif arranged to remove the siding, promising her he would never sell it. He later said one collector had offered him $700,000 [3]. Sunchild died in 2013, aged 87 [1].",
+  "people": [
+   {
+    "name": "Sami Sunchild",
+    "role": "Artist, activist, owner"
+   },
+   {
+    "name": "Brian Greif",
+    "role": "Collector who preserved the Banksy rat"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Red Victorian",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/The_Red_Victorian",
+    "supports": "1904 Jefferson Hotel, Jeffrey Haight crash pad, 1977 purchase, room themes, goldfish, Peace Conversations, Sunchild's death"
+   },
+   {
+    "title": "Still a Bohemian rhapsody (Jeanne Cooper)",
+    "publisher": "The Observer",
+    "year": 2007,
+    "url": "https://www.theguardian.com/travel/2007/may/27/escape.sanfrancisco",
+    "supports": "Sunchild quote at 81; themed rooms; aquarium cistern"
+   },
+   {
+    "title": "Quest to display an S.F. Banksy tests value of street art (Evan Sernoffsky)",
+    "publisher": "San Francisco Chronicle",
+    "year": 2014,
+    "url": "https://www.sfchronicle.com/bayarea/article/Banksy-s-S-F-artwork-draws-a-six-figure-fervor-5568831.php",
+    "supports": "April 2010 Banksy rat painted from adjacent roof, siding removed, Greif, $700,000 offer"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-fishbowl-red-vic",
+  "title": "Drag in the Red Vic's windows",
+  "theme": "lgbtq",
+  "year": 2020,
+  "yearEnd": 2021,
+  "place": {
+   "label": "The Red Victorian, 1665 Haight Street (front windows)",
+   "lat": 37.76946,
+   "lon": -122.44985,
+   "precision": "building"
+  },
+  "hook": "With the city shut down, trans performers turned an empty hippie hotel's front windows into a stage and tried to make the building their home.",
+  "story": "The pandemic closures of spring 2020 emptied the Red Victorian, by then run as co-living space and an Airbnb [1][2]. A handful of queer and trans residents stayed on inside the 116-year-old hotel. One evening, a performer called Bussy Dad was sitting in the lounge with artist Michael Borel, who suggested using the huge front windows for a peepshow-style show [2]. From August the Fishbowl ran on Saturday nights. Curtains 18 feet tall opened onto trans and gender-nonconforming performers, while crowds watched from the Haight Street sidewalk [2][3]. \"Seeing trans bodies openly celebrated rather than being hidden away in clubs at night is the goal,\" Bussy Dad said [2]. The shows doubled as fundraisers to turn the hotel into housing for queer, trans and gender-nonconforming people of colour [1][3]. The operator, District Commons, said the group had no right to live there and filed to remove them [1]. The two sides settled in June 2021, and everyone had left by the end of that year [1].",
+  "people": [
+   {
+    "name": "Bussy Dad",
+    "role": "Performer and Fishbowl organiser"
+   },
+   {
+    "name": "Michael Borel",
+    "role": "Resident artist who proposed the window shows"
+   },
+   {
+    "name": "Adam Rice",
+    "role": "Resident organiser of the housing effort"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Red Victorian",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/The_Red_Victorian",
+    "supports": "2020 closure, Fishbowl from August, housing aim, District Commons dispute, June 2021 settlement, vacated end of 2021"
+   },
+   {
+    "title": "'All I have to give to the world is this show': SF Fishbowl performers fight for their home (Amanda Bartlett)",
+    "publisher": "SFGATE",
+    "year": 2020,
+    "url": "https://www.sfgate.com/sf-culture/article/Fishbowl-Red-Vic-performers-SF-nightlife-show-15607228.php",
+    "supports": "Origin of the idea with Borel, performers, Bussy Dad quote, housing fundraiser"
+   },
+   {
+    "title": "With glamour and grit, Red Vic aims for permanent queer housing transformation (Joshua Rotter)",
+    "publisher": "48 Hills",
+    "year": 2020,
+    "url": "https://48hills.org/2020/09/with-glamour-and-grit-red-vic-aims-for-permanent-queer-housing-transformation/",
+    "supports": "18-foot curtains, Saturday shows, QT BIPOC housing goal"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-red-vic-movie-house",
+  "title": "Couches, popcorn and Harold and Maude",
+  "theme": "arts-counterculture",
+  "year": 1980,
+  "yearEnd": 2011,
+  "place": {
+   "label": "Red Vic Movie House, 1727 Haight Street",
+   "lat": 37.76936,
+   "lon": -122.45111,
+   "precision": "building"
+  },
+  "hook": "For 31 years a worker-owned cinema showed movies to people lounging on worn couches, and it ended the way it began, with Harold and Maude.",
+  "story": "The Red Vic Movie House opened on July 25, 1980, in rented space inside the Red Victorian hotel at Haight and Belvedere [1][2]. It was run by a six-member employee-owned collective. At first there were 80 seats, and many of them were worn-out couches [1]. In 1991 it moved a block west to 1727 Haight, into the former Full Moon Saloon, and grew to 143 seats with a concession stand selling organic snacks [1]. In the 1980s it started annual screenings of \"The Hippie Temptation\", Harry Reasoner's shocked 1967 CBS report on the Summer of Love [2]. The collective outlasted most of its kind. The San Francisco Neighborhood Theater Foundation estimated that 25 to 30 neighbourhood cinemas had closed in the previous 30 years [1]. Home video, cable and streaming finally caught up with it. The Red Vic closed on its 31st anniversary, July 25, 2011, with a last showing of Harold and Maude [1].",
+  "people": [
+   {
+    "name": "Jack Rix",
+    "role": "Founding collective member"
+   },
+   {
+    "name": "Claudia Lehan",
+    "role": "Collective member from 1998"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Red Vic Movie House in San Francisco to close (G. Allen Johnson)",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2011,
+    "url": "https://www.sfgate.com/movies/article/Red-Vic-Movie-House-in-San-Francisco-to-close-2355621.php",
+    "supports": "Opening date and site, collective, 80 seats and couches, 1991 move to 1727 Haight, 143 seats, closure date and film, theater closures estimate"
+   },
+   {
+    "title": "The Red Victorian",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/The_Red_Victorian",
+    "supports": "Opened July 1980 in the Red Victorian; Hippie Temptation screenings; closed 2011"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-other-cafe",
+  "title": "The Cole Valley café that made comedians",
+  "theme": "arts-counterculture",
+  "year": 1980,
+  "yearEnd": 1992,
+  "place": {
+   "label": "The Other Café, Carl and Cole Streets (100 Carl St)",
+   "lat": 37.7659,
+   "lon": -122.45028,
+   "precision": "building"
+  },
+  "hook": "On a quiet Cole Valley corner, a small coffee house became a comedy club where Robin Williams, Whoopi Goldberg and Dana Carvey worked out their acts.",
+  "story": "In the 1980s the Bay Area had nearly a dozen comedy nightclubs, five of them in San Francisco, and one of the most influential was a small coffee house at 100 Carl Street, on the corner of Cole [1][2]. The Other Café became a full-time comedy club run by Bob Ayres and Chip Romer, with Richard Snow as a silent partner [1][2]. It helped launch the careers of Robin Williams, Whoopi Goldberg and Dana Carvey [2]. San Francisco \"was not a farm team,\" Williams recalled, \"but an alternative to all that\" [1]. Carvey said his Saturday Night Live character the Church Lady was developed at the Other Café, but added, \"I can't take all the credit\" [1]. The club lost its lease, moved to Emeryville and closed in 1992 [1]. In 2010 Ayres staged a 30th-anniversary reunion at the Palace of Fine Arts with about 30 comics from that era, which dates the club's start to around 1980 [1]. Today the corner is a crêpe restaurant [2].",
+  "people": [
+   {
+    "name": "Bob Ayres",
+    "role": "Co-owner and producer"
+   },
+   {
+    "name": "Chip Romer",
+    "role": "Co-owner"
+   },
+   {
+    "name": "Dana Carvey",
+    "role": "Comedian"
+   },
+   {
+    "name": "Robin Williams",
+    "role": "Comedian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Other Cafe show relives comedy's roaring '80s (David Armstrong)",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2010,
+    "url": "https://www.sfgate.com/bayarea/article/Other-Cafe-show-relives-comedy-s-roaring-80s-3252850.php",
+    "supports": "Owners, Carl and Cole location, number of clubs, Church Lady quote, lease loss/Emeryville/1992 closure, 30th reunion"
+   },
+   {
+    "title": "Haight-Ashbury",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Haight-Ashbury",
+    "supports": "100 Carl St at Cole, now Crepes on Cole; launched Williams, Carvey, Goldberg"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-amoeba-park-bowl",
+  "title": "Records where the bowling pins fell",
+  "theme": "modern-city",
+  "year": 1997,
+  "yearEnd": null,
+  "place": {
+   "label": "Amoeba Music, 1855 Haight Street",
+   "lat": 37.76892,
+   "lon": -122.45262,
+   "precision": "building"
+  },
+  "hook": "Why is the world's most famous independent record store so wide? Because it used to be a bowling alley, and the \"Bowling\" sign is still on the roof.",
+  "story": "Amoeba Music began on Telegraph Avenue in Berkeley in 1990. For about a year before its San Francisco opening, the owners stockpiled records for a second store at the Stanyan end of Haight Street [1]. When the doors opened on November 15, 1997, the line went around the block. \"We had a huge, huge day,\" partner Joe Goldmark remembered [1]. The building was the former Park Bowl, a 24,000-square-foot bowling alley. That explains the long, wide sales floor, and the old \"Bowling\" marquee still stands on top [1][2]. The pin machines, Goldmark said, all ended up in Hong Kong and Taiwan [1]. Its 1990s rivals were Tower Records and Virgin Megastore. Goldmark credits Amoeba's survival to used stock: broke locals traded in old LPs for cash, and when vinyl came back those trade-ins paid off [1]. Elvis Costello, the Raconteurs and Lana Del Rey have played in-store [1]. It regularly stocks more than 100,000 CDs, records and cassettes [2].",
+  "people": [
+   {
+    "name": "Joe Goldmark",
+    "role": "Amoeba SF partner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Amoeba Music Records 20 Years On Haight Street (Joe Kukura)",
+    "publisher": "SF Weekly",
+    "year": 2017,
+    "url": "http://www.sfweekly.com/music/amoeba-music-records-20-years-on-haight-st/",
+    "supports": "Opening day and lines, Goldmark quotes, Park Bowl and marquee, 24,000 sq ft, pin machines overseas, used-stock survival, in-store shows"
+   },
+   {
+    "title": "Amoeba Music",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Amoeba_Music",
+    "supports": "Nov 15 1997 opening in former Park Bowl; 100,000+ items"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-sit-lie",
+  "title": "The sidewalk law born on Haight Street",
+  "theme": "civil-rights",
+  "year": 2010,
+  "yearEnd": null,
+  "place": {
+   "label": "Haight Street at Ashbury",
+   "lat": 37.76985,
+   "lon": -122.4469,
+   "precision": "street"
+  },
+  "hook": "A new mayor pushing a stroller down Haight Street saw a man smoking crack. The ordinance that followed made sitting on San Francisco sidewalks by day a citable offence.",
+  "story": "Haight residents and storekeepers had long complained about transients blocking the sidewalks and aggressive panhandling [2]. Kent Uyehara, who ran skate and snowboard shops on the street, said he and other merchants took the idea of a ban to police that autumn [1]. Mayor Gavin Newsom had recently moved his family to the neighbourhood. He said that while strolling Haight Street with his infant daughter he saw a man smoking crack, and in March 2010 he and Police Chief George Gascón proposed banning sitting or lying on city sidewalks from 7 a.m. to 11 p.m. [1][2]. Opponents, campaigning as \"Sidewalks Are for People\" and \"Stand Against Sit/Lie\", argued it targeted the homeless and day labourers [2][3]. A vice-president of the Haight Ashbury Neighborhood Council, the group born in the 1960s freeway fight, questioned whether voters understood what they had approved [2]. Voters approved it as Proposition L on November 2, 2010 [2][3]. Enforcement peaked at 1,011 citations in 2013 and fell to 114 by 2017 as police changed tactics [4].",
+  "people": [
+   {
+    "name": "Gavin Newsom",
+    "role": "Mayor of San Francisco"
+   },
+   {
+    "name": "George Gascón",
+    "role": "Police chief"
+   },
+   {
+    "name": "Kent Uyehara",
+    "role": "Haight Street merchant"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Sit-lie laws put spotlight on safety (William M. Welch)",
+    "publisher": "USA Today",
+    "year": 2010,
+    "url": "http://usatoday30.usatoday.com/news/nation/2010-03-22-sidewalk-ban-san-francisco_N.htm",
+    "supports": "Haight focus, Newsom's crack sighting, 7am-11pm proposal, Uyehara quote"
+   },
+   {
+    "title": "SF voters approve sit/lie ban on sidewalks (AP, Terry Collins)",
+    "publisher": "San Francisco Chronicle / SFGATE (archived)",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20101105170951/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fn%2Fa%2F2010%2F11%2F03%2Fstate%2Fn120338D96.DTL",
+    "supports": "Measure L passage, Gascón's proposal, Newsom and infant daughter, HANC vice-president's doubts; opponents' view"
+   },
+   {
+    "title": "Sit-lie ordinance",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Sit-lie_ordinance",
+    "supports": "March 2010 proposal, opposition campaign names, Nov 2 2010 approval"
+   },
+   {
+    "title": "The Scanner: SF police have backed off controversial 'sit/lie' citations",
+    "publisher": "San Francisco Chronicle",
+    "year": 2018,
+    "url": "https://www.sfchronicle.com/crime/article/The-Scanner-SF-police-have-backed-off-13322561.php",
+    "supports": "1,011 infractions in 2013, 114 in 2017"
+   }
+  ],
+  "photo": null
+ }
+]

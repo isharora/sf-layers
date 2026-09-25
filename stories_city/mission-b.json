@@ -1,0 +1,723 @@
+[
+  {
+    "id": "mission-valencia-street-hotel",
+    "title": "The hotel that sank three floors",
+    "theme": "quake1906",
+    "year": 1906,
+    "place": {
+      "label": "Valencia Street between 18th and 19th",
+      "lat": 37.76065,
+      "lon": -122.42179,
+      "precision": "block"
+    },
+    "hook": "At dawn on April 18, 1906, a four-storey Valencia Street hotel dropped into the ground until only its top floor was left above the street.",
+    "story": "The Valencia Street Hotel stood on made land: the block between 18th and 19th had been filled in over a gully that dropped more than 40 feet in half a block [1]. When the earthquake hit, people in the all-night coffee shop on the ground floor ran outside. From the street they watched the building 'simultaneously lurch forward and sink', until its fourth floor was the only one left above ground [1]. Two big water mains ran under Valencia, and when they burst the street flooded. A sinkhole later opened where the crowd had been standing [1][2]. Then the fire swept through [1].\n\nEight-year-old DeWitt Baldwin lived at 931 Dolores Street. That morning he ran across Valencia to watch a fire and saw 'a small old three-story hotel' with its first storey sunk into the earth [3]. Nobody agrees on how many died. The Burrito Justice essay passes on a reader's figure of at least 40 drowned [1]. A letter from a refugee a few days later claimed 103 of 106 guests were killed, but its own editor calls it a mix of first-hand observation and 'garbled reports' [4].",
+    "people": [
+      {
+        "name": "DeWitt C. Baldwin",
+        "role": "eight-year-old eyewitness"
+      },
+      {
+        "name": "Frederick H. Collins",
+        "role": "letter writer, 1906"
+      }
+    ],
+    "sources": [
+      {
+        "title": "18th St Gulch, The Willows, Valencia St Hotel (by Burrito Justice)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=18th_St_Gulch,_The_Willows,_Valencia_St_Hotel",
+        "supports": "made land and 40-ft gully; coffee-shop quote; water mains; sinkhole; reader's 40-drowned figure; fire"
+      },
+      {
+        "title": "Lagoon and 1906 Mission",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Lagoon_and_1906_Mission",
+        "supports": "4-storey hotel sank three floors into marsh; street awash from broken mains"
+      },
+      {
+        "title": "Memories of the San Francisco Earthquake and Fire, by DeWitt C. Baldwin",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 1988,
+        "url": "http://www.sfmuseum.org/1906/ew8.html",
+        "supports": "Baldwin's age, address and sight of the sunken hotel"
+      },
+      {
+        "title": "Letter of Frederick H. Collins, 1906",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "http://www.sfmuseum.org/1906/ew11.html",
+        "supports": "103-of-106 claim; editor's note on garbled reports"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-20th-street-fire-line",
+    "title": "Brooms and blankets on 20th Street",
+    "theme": "quake1906",
+    "year": 1906,
+    "place": {
+      "label": "20th Street near Guerrero (the 1906 fire line)",
+      "lat": 37.75848,
+      "lon": -122.42382,
+      "precision": "street"
+    },
+    "hook": "After days of burning, the great fire of 1906 was stopped on 20th Street, mostly by neighbours with brooms, knapsacks and one working hydrant.",
+    "story": "In 1906 the fire burned its way down Valencia Street into the Mission. Young DeWitt Baldwin looked down Valencia from his family's wagon and saw the fire 'bursting on both sides meeting each other on the street' [1]. On April 21 it was finally stopped at 20th and Dolores. The work was done by about 3,000 volunteers and a few firemen, using knapsacks, brooms and a little water from a hydrant that still worked at 20th and Church [2].\n\nWith some 300 breaks in the city's mains, most hydrants were dry. This one kept flowing, probably because it drew on an underground spring. About 300 residents hauled fire engines up the 20th Street hill themselves, a climb too steep for the horses [3]. Historian Art Peterson credits that effort with saving a good piece of the Mission [3]. The 'little hydrant that could' sits a block west, at Church Street. It gets a coat of gold paint every April 18. The disaster also pushed City Engineer Marsden Mason to design the high-pressure auxiliary water system that San Francisco still relies on [3].",
+    "people": [
+      {
+        "name": "DeWitt C. Baldwin",
+        "role": "eyewitness"
+      },
+      {
+        "name": "Marsden Mason",
+        "role": "City Engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Memories of the San Francisco Earthquake and Fire, by DeWitt C. Baldwin",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 1988,
+        "url": "http://www.sfmuseum.org/1906/ew8.html",
+        "supports": "flames meeting across Valencia Street"
+      },
+      {
+        "title": "Timeline of the San Francisco Earthquake, April 18-23, 1906",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "http://www.sfmuseum.org/hist10/06timeline.html",
+        "supports": "April 21: fire stopped at 20th and Dolores by 3,000 volunteers; knapsacks, brooms, hydrant at 20th and Church"
+      },
+      {
+        "title": "Why Are San Francisco Fire Hydrants Different Colors? (Art Peterson)",
+        "publisher": "FoundSF",
+        "year": 2013,
+        "url": "https://www.foundsf.org/index.php?title=Why_Are_San_Francisco_Fire_Hydrants_Different_Colors%3F",
+        "supports": "300 main breaks; spring-fed hydrant; 300 residents hauling engines; gold paint each April 18; Marsden Mason's system"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-recreation-park",
+    "title": "The wooden ballpark at 15th and Valencia",
+    "theme": "communities",
+    "year": 1907,
+    "yearEnd": 1930,
+    "place": {
+      "label": "Recreation Park site, now Valencia Gardens, Valencia and 15th",
+      "lat": 37.76716,
+      "lon": -122.42226,
+      "precision": "block"
+    },
+    "hook": "The 1906 fire burned the Seals out of their ballpark. They rebuilt in the Mission, in a cramped wooden park where a right-field home run needed only 284 feet.",
+    "story": "The fire of 1906 destroyed the San Francisco Seals' ballpark South of Market, and they spent a spell playing in Oakland [1]. In 1907 they came home to a new Recreation Park, which filled the block between 14th, 15th, Valencia and Guerrero [1][2]. It held 15,000 people in wooden stands: a small lower deck sheltered under a big upper deck that was open to the sun [1]. The Oakland Oaks played most of their home games there too until 1913. The Chicago White Sox held spring training there in 1909 and 1910 [1].\n\nIn 1914 the Seals tried a new park, Ewing Field, near the Richmond District. The season was a fog-bound fiasco and they came straight back [1]. Even after the club knocked down buildings on 15th Street to enlarge the park in 1917, right field was just 284 feet down the line [1]. From 1926 a second team, the Mission Reds, shared the grounds. In 1931 both teams moved to the new concrete Seals Stadium at 16th and Bryant [1][2]. San Francisco State used the old field for football as Roberts Field. It was sold to the Housing Authority in 1940, and the block became Valencia Gardens [1].",
+    "people": [
+      {
+        "name": "J. Cal Ewing",
+        "role": "owner of the Seals and the Oaks"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Recreation Park (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Recreation_Park_(San_Francisco)",
+        "supports": "dates, boundaries, capacity, stands, Oaks, White Sox, Ewing Field, 1917 expansion, dimensions, Roberts Field, Valencia Gardens"
+      },
+      {
+        "title": "Mission Life in Early 20th Century (William Issel and Robert Cherny)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Life_in_Early_20th_Century",
+        "supports": "Recreation Park moved to 15th and Valencia in 1907; Seals and Missions moved to Seals Stadium in 1931"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-victoria-theatre",
+    "title": "Brown's Opera House, the great survivor",
+    "theme": "arts-counterculture",
+    "year": 1908,
+    "place": {
+      "label": "Victoria Theatre, 2961 16th Street",
+      "lat": 37.76486,
+      "lon": -122.41887,
+      "precision": "building"
+    },
+    "hook": "San Francisco's oldest working theatre began as a vaudeville house built by a governor's grandfather, and survived by reinventing itself again and again.",
+    "story": "In 1908 Edmund Joseph Brown opened a vaudeville house on 16th Street near Capp. He was the grandfather of Governor Jerry Brown [1]. Brown's Opera House showed vaudeville and early motion pictures [2]. At its peak the district had around 15,000 theatre seats, second only to mid-Market Street [3].\n\nThe little theatre got through by changing with the times. In the Depression it became the 16th Street Theater. It showed second-run films at half price and gave out Depression glassware to bring people in [1]. In the 1940s and 1950s, as Spanish-speaking families settled in the Mission, it became El Teatro Victoria and showed films in Spanish [1][2]. In the 1960s it turned to burlesque as the Follies, with Tempest Storm and Blaze Starr on stage [1]. Renamed the Victoria after a restoration, it is now the oldest operating theatre in San Francisco. Whoopi Goldberg performed her one-woman show here in 1984 [2].",
+    "people": [
+      {
+        "name": "Edmund Joseph Brown",
+        "role": "builder, grandfather of Gov. Jerry Brown"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #215: Victoria Theater",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf215.asp",
+        "supports": "1908, E. J. Brown, 16th Street Theater, glassware, El Teatro Victoria, burlesque performers, oldest operating theatre"
+      },
+      {
+        "title": "Victoria Theatre, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Victoria_Theatre,_San_Francisco",
+        "supports": "vaudeville and motion pictures; Spanish-language films in 1940s-50s; Whoopi Goldberg 1984"
+      },
+      {
+        "title": "San Francisco Landmark #245: New Mission Theater (quoting SF Chronicle, 2006)",
+        "publisher": "NoeHill",
+        "year": 2006,
+        "url": "https://noehill.com/sf/landmarks/sf245.asp",
+        "supports": "15,000 theatre seats in the Mission at peak"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bnai-david",
+    "title": "A synagogue built not to be noticed",
+    "theme": "communities",
+    "year": 1908,
+    "place": {
+      "label": "Congregation B'nai David, 3535 19th Street",
+      "lat": 37.75982,
+      "lon": -122.42223,
+      "precision": "building"
+    },
+    "hook": "On 19th Street, Orthodox immigrants from Eastern Europe built a deliberately modest synagogue with northern California's first mikvah. Worshippers came from as far away as Nevada.",
+    "story": "Between about 1880 and 1910 a new wave of Jewish immigrants reached San Francisco from Russia, Poland and Romania. Most were Orthodox, unlike the established Reform congregations, and they started their own congregation in the Mission, B'nai David [1]. It first met near 16th and Mission. After the 1906 fire it built this temple on 19th Street between Guerrero and Valencia [1].\n\nThe building is stucco and tile over a wood frame and makes no fuss. It has been called 'recessive protective architecture', designed not to draw attention after centuries of persecution [1]. Inside was the first mikvah, or ritual bath, in northern California, and Orthodox Jews travelled from as far as Nevada to use it [1]. It was never a big community. In a district of Irish and German churches, B'nai David was the only synagogue, and a late-1930s survey found just 8 percent of the city's Jews living in the Mission [2]. The congregation shrank as members moved away. Accounts differ on when it closed: one source says regular services had stopped by about 1960, while a cantor's son recalls them running until 1978 [1]. The building became apartments in 1981 [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #118: Congregation B'nai David (quoting Rand Richards, Historic Walks in San Francisco)",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf118.asp",
+        "supports": "origins, 1908 building, architecture, mikvah, decline, conflicting closure dates, 1981 apartments"
+      },
+      {
+        "title": "Mission Life in Early 20th Century (William Issel and Robert Cherny)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Life_in_Early_20th_Century",
+        "supports": "only synagogue in the Mission; small congregation; late-1930s 8 percent survey"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-turn-hall-dovre-hall",
+    "title": "Gymnasts, then Norwegians, on 18th Street",
+    "theme": "communities",
+    "year": 1910,
+    "yearEnd": 1935,
+    "place": {
+      "label": "Mission Turn Hall (now the Women's Building), 3543 18th Street",
+      "lat": 37.76142,
+      "lon": -122.42262,
+      "precision": "building"
+    },
+    "hook": "Long before its famous murals, the Women's Building was a German gymnastics hall, and after that a Norwegian lodge called Dovre Hall.",
+    "story": "Around 1900 the Irish and Germans were the Mission's biggest immigrant groups, and the Mission Turn Verein, a German gymnastics club, already had a hall on 18th Street near Valencia [1]. In 1910 architect August Reinhold Denke designed the Turners a new four-storey home at 3543 18th Street in the Mission Revival style [2][3].\n\nFor 25 years Mission Turn Hall was open to the whole mixed district. It ran after-school classes for children and put on a monthly exhibition followed by a social and a dance. It hosted weddings, receptions and parties [2]. The Native Sons and Daughters of the Golden West were tenants for fifty years [2]. In 1935 the Sons of Norway and the Daughters of Norway bought the building and renamed it Dovre Hall, after a mountain range in Norway [2][3]. It kept that name until 1978, when the San Francisco Women's Center bought it. It has been the Women's Building ever since [2][3].",
+    "people": [
+      {
+        "name": "August Reinhold Denke",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mission Life in Early 20th Century (William Issel and Robert Cherny)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Life_in_Early_20th_Century",
+        "supports": "Irish and German majority; Turn Verein hall on 18th near Valencia"
+      },
+      {
+        "title": "San Francisco Landmark #178: Women's Building, aka Mission Turnverein, aka Dovre Hall",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf178.asp",
+        "supports": "1910, Denke, uses, Native Sons tenancy, 1935 Dovre Hall, 1978 purchase"
+      },
+      {
+        "title": "The Women's Building (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/The_Women%27s_Building_(San_Francisco)",
+        "supports": "four storeys, architect, Turn Hall to 1935, Sons and Daughters of Norway"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-armory",
+    "title": "A Moorish fortress over a buried creek",
+    "theme": "war-military",
+    "year": 1914,
+    "place": {
+      "label": "San Francisco Armory, 1800 Mission Street",
+      "lat": 37.76786,
+      "lon": -122.42019,
+      "precision": "building"
+    },
+    "hook": "After 1906 the state built a castle for the National Guard on the site of an old amusement park. For decades its drill floor was the city's boxing capital.",
+    "story": "The 1906 disaster wrecked the old armory, and the National Guard ended up in a temporary wooden shed on Van Ness [1][2]. In 1909 Captain Herman G. Stundt lobbied Governor James Gillett for a new armory. On April 20 the governor signed a $420,000 appropriation, as long as San Franciscans raised $100,000 for the land [1]. By the end of the year they had managed only $60,000. The money finally came in after the Real Estate Board pointed out how many construction contracts the project would bring [1].\n\nWoollett & Woollett designed a brick 'Spanish or Moorish fortress'. It went up between September 1912 and June 1914 on part of the old Woodward's Gardens, with Mission Creek still running through the basement [1][2]. Its drill court is said to be the largest unsupported enclosed space in the city [1]. A balcony was added in 1925 for boxing bleachers. From the 1920s to the 1940s, at least two prizefights a week earned the building the nickname 'the Madison Square Garden of the West' [1][2]. It also served as a base for the Guard during the 1934 General Strike [2].",
+    "people": [
+      {
+        "name": "Herman G. Stundt",
+        "role": "National Guard captain"
+      },
+      {
+        "name": "James N. Gillett",
+        "role": "Governor of California"
+      },
+      {
+        "name": "John F. Woollett",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Armory (historical essay)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Armory",
+        "supports": "funding story, dates, design, creek, drill court, 1925 balcony, prizefights, nickname"
+      },
+      {
+        "title": "San Francisco Armory",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Armory",
+        "supports": "1912-14 construction; Woodward's Gardens site; replaced quake-destroyed armory; prizefights; 1934 General Strike role"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-labor-temple",
+    "title": "The one building the boss couldn't enter",
+    "theme": "labor-industry",
+    "year": 1914,
+    "yearEnd": 1968,
+    "place": {
+      "label": "San Francisco Labor Temple (Redstone Building), 2940 16th Street",
+      "lat": 37.76529,
+      "lon": -122.41826,
+      "precision": "building"
+    },
+    "hook": "Bakers, cigar makers, bindery women and horseshoers all met in this plain red-brick temple on 16th Street, the headquarters of union San Francisco for half a century.",
+    "story": "The San Francisco Labor Council dedicated its Labor Temple at 16th and Capp on September 7, 1914. The dedication was led by P.H. McCarthy, former mayor and head of the Building Trades Council [1]. The red-brick building was plain on purpose, with none of the Gothic or Greek airs of the bosses' office towers. It was meant as a refuge: the one building in the city the boss could not enter [2]. Inside were pool tables, reading rooms, a ladies' parlour and medical care at prices workers could afford [2].\n\nBy May 1916, 54 unions held their meetings here. Among them were the bakers and bakery wagon drivers, bindery women, blacksmiths, butchers, cigar makers, coopers, horseshoers, milk wagon drivers, janitors, sail makers and tailors [1]. The Temple played a part in the 1917 streetcar strike and in the maritime strike that grew into the 1934 General Strike [1][2]. It was expanded in 1939 [2]. As unions grew richer they built their own halls, and in 1968 the building was sold and renamed the Redstone [2]. Today its lobby murals tell that history [1].",
+    "people": [
+      {
+        "name": "P.H. McCarthy",
+        "role": "former mayor, Building Trades Council head"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Labor Temple: Redstone Building Murals",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Labor_Temple:_Redstone_Building_Murals",
+        "supports": "dedication date and McCarthy; 1916 union list; 1917 and 1934 strikes; murals"
+      },
+      {
+        "title": "San Francisco Landmark #238: San Francisco Labor Temple (from Planning Commission Resolution 16638)",
+        "publisher": "NoeHill",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf238.asp",
+        "supports": "design intent, 'boss could not enter', amenities, 1934, 1939 addition, 1968 sale"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-carnegie-branch-library",
+    "title": "Carnegie's gift at 24th and Bartlett",
+    "theme": "architecture-landmarks",
+    "year": 1915,
+    "place": {
+      "label": "Mission Branch Library, 300 Bartlett Street",
+      "lat": 37.752,
+      "lon": -122.4197,
+      "precision": "building"
+    },
+    "hook": "San Francisco's first branch library began in a Mission storefront in 1888. Andrew Carnegie's money later gave it an Italian Renaissance palace for about $51,000.",
+    "story": "The Mission Branch was the first branch of the San Francisco Public Library, opened in 1888 in a storefront two blocks from where it stands now [1]. The 1906 fire stopped four blocks to its north [1]. Nine years later the neighbourhood got a real building at 24th and Bartlett, paid for by the philanthropist Andrew Carnegie and designed by G. Albert Lansburgh [1][2]. The building and furnishings cost $50,877 [1].\n\nThe library says the branch opened in December 1915. The city's landmark listing dates the building to 1916 [1][2]. It was the second of seven Carnegie branches in San Francisco, and all seven still work as libraries. It was also Lansburgh's first Carnegie commission; he later designed the Chinatown, Presidio and Sunset branches [2]. Lansburgh also designed the grand El Capitan movie palace a few blocks away on Mission Street [3]. One boy who grew up in the postwar Mission remembered the high-arched branch as imposing, a place for 'serious readers only' [4].",
+    "people": [
+      {
+        "name": "G. Albert Lansburgh",
+        "role": "architect"
+      },
+      {
+        "name": "Andrew Carnegie",
+        "role": "funder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mission Library History",
+        "publisher": "San Francisco Public Library",
+        "year": null,
+        "url": "https://sfpl.org/locations/mission/mission-library-history",
+        "supports": "first branch 1888; fire four blocks north; Carnegie, Lansburgh; $50,877; opened December 1915"
+      },
+      {
+        "title": "San Francisco Landmark #234: Carnegie Library Mission",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf234.asp",
+        "supports": "built 1916; second of seven Carnegie branches; Lansburgh's first of four"
+      },
+      {
+        "title": "San Francisco Landmark #214: El Capitan Theatre and Hotel",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf214.asp",
+        "supports": "Lansburgh designed El Capitan"
+      },
+      {
+        "title": "Mission Miracle Mile (Robert Andersen)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Miracle_Mile",
+        "supports": "memory of the imposing branch library"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-schoenstein-organ-factory",
+    "title": "Where the West's pipe organs were made",
+    "theme": "labor-industry",
+    "year": 1928,
+    "place": {
+      "label": "Schoenstein Organ Factory, 3101 20th Street",
+      "lat": 37.75884,
+      "lon": -122.4117,
+      "precision": "building"
+    },
+    "hook": "In a Mission Revival factory on 20th Street, a Black Forest family built nearly every piece of the pipe organs that filled the West's churches, temples and civic halls.",
+    "story": "In 1868 two sons of the German organ builder Leo Schoenstein came to San Francisco to install an instrument in a beer garden near Portsmouth Square. One of them, Felix, stayed [1][2]. By 1877 he had his own business, installing mechanical orchestrions at the Cliff House and Woodward's Gardens and looking after organs in the Nob Hill mansions of Stanford and Hopkins [1]. Three of his ten children joined him, and in about 1909 the firm became Felix F. Schoenstein & Sons [1][2].\n\nIn 1928 the family built this factory on 20th Street, one of the few buildings anywhere designed just for organ-building [2]. Unlike many small builders, who assembled parts ordered from catalogues, Schoenstein made every component except the metal pipes in its own shops [1]. For most of its first century it was the largest organ builder in the West. It looked after instruments at Temple Emanu-El, Sherith Israel, the Legion of Honor and Civic Auditorium [1]. The family sold in 1977, and organs were built here until 2004, when the firm moved to Benicia [1][2].",
+    "people": [
+      {
+        "name": "Felix F. Schoenstein",
+        "role": "founder"
+      },
+      {
+        "name": "Louis, Otto and Erwin Schoenstein",
+        "role": "sons in the business"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #99: Schoenstein Organ Factory (from 1977 Landmarks Board case report)",
+        "publisher": "NoeHill",
+        "year": 1977,
+        "url": "https://noehill.com/sf/landmarks/sf099.asp",
+        "supports": "family history, clients, in-house manufacture, largest in West, 1977 sale, production to 2004"
+      },
+      {
+        "title": "Schoenstein & Co.",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Schoenstein_%26_Co.",
+        "supports": "1928 factory purpose-built for organs; 1868 arrival; 1909 reorganisation; move to Benicia 2004"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-el-capitan-theatre",
+    "title": "Mission Street's 3,000-seat movie palace",
+    "theme": "arts-counterculture",
+    "year": 1928,
+    "yearEnd": 1961,
+    "place": {
+      "label": "El Capitan Theatre and Hotel, 2353 Mission Street",
+      "lat": 37.75924,
+      "lon": -122.41854,
+      "precision": "building"
+    },
+    "hook": "The Cap had a doorman in a top hat, a curtain behind the curtain, and 3,000 seats. Today you can drive through its old lobby into a parking lot.",
+    "story": "Mission Street belonged to blue-collar San Francisco [4]. At its peak the district had about 15,000 theatre seats, more than anywhere in the city except mid-Market [1]. The grandest was the El Capitan, which opened in 1928 between 19th and 20th Streets. G. Albert Lansburgh designed it, with a Mexican Baroque façade and a Spanish Colonial Revival interior. With 3,000 seats it was once the second-biggest movie theatre in town [2]. A few blocks south, Timothy Pflueger gave the 1916 New Mission Theater its Art Deco look in 1932 [3].\n\nRegulars called it 'the Cap'. One remembered a manager in a tuxedo and top hat with a huge handlebar moustache, and two stage curtains, the second rising straight up as the first parted. The previews promised films 'Coming Soon.....To YOUR El Capitan' [2]. A boy in the 1950s paid a quarter to see CinemaScope there [4]. The auditorium was torn down in 1961. The façade, marquee and hotel still stand, and cars now drive through the old lobby into a parking lot [2].",
+    "people": [
+      {
+        "name": "G. Albert Lansburgh",
+        "role": "architect"
+      },
+      {
+        "name": "Timothy Pflueger",
+        "role": "architect of the New Mission remodel"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #245: New Mission Theater (quoting SF Chronicle, 2006)",
+        "publisher": "NoeHill",
+        "year": 2006,
+        "url": "https://noehill.com/sf/landmarks/sf245.asp",
+        "supports": "15,000 Mission theatre seats"
+      },
+      {
+        "title": "San Francisco Landmark #214: El Capitan Theatre and Hotel",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf214.asp",
+        "supports": "1928, Lansburgh, styles, 3,000 seats, 1961 demolition, parking lot, Cinema Treasures memory"
+      },
+      {
+        "title": "New Mission Theater",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/New_Mission_Theater",
+        "supports": "1916 Reid Brothers; 1932 Pflueger Art Deco remodel"
+      },
+      {
+        "title": "Mission Miracle Mile (Robert Andersen)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Miracle_Mile",
+        "supports": "a quarter for CinemaScope at the El Capitan"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-roosevelt-theatre-bank-night",
+    "title": "Bank Night at the Roozie",
+    "theme": "arts-counterculture",
+    "year": 1926,
+    "yearEnd": 1962,
+    "place": {
+      "label": "Roosevelt Theatre (now Brava Theater), 2781 24th Street at York",
+      "lat": 37.75265,
+      "lon": -122.40775,
+      "precision": "building"
+    },
+    "hook": "In the Depression the whole neighbourhood crowded the sidewalk at 24th and York to hear whose name came out of a glass drum. The jackpot once reached $610.",
+    "story": "The Roosevelt Theatre opened on September 22, 1926 with Norma Talmadge in 'Kiki'. It had 1,006 seats and was designed by the Reid Brothers [1]. Everyone called it 'the Roozie'. The novelist Dorothy Bryant grew up nearby and remembered it as the real centre of her 1930s neighbourhood. For less than a dollar a family of four got a double feature, cartoons and newsreels. On Saturdays children were handed a dime and left there from eleven until nearly five [2].\n\nWednesday was Dish Night, when every woman got a piece of pottery, so that 'you could walk into any home in the neighborhood and find us all eating from the same plates'. Monday was Bingo. Saturday was Bank Night: a child drew a card from a glass drum and the manager read the name aloud three times. The cash prize started at $10 and grew by $10 every week nobody claimed it. Once it reached $610 and the crowd filled the sidewalk and spilled round the corner [2]. Bryant never knew anyone who won [2]. The theatre was renamed York 24 in 1962 and is now the Brava Theater [1].",
+    "people": [
+      {
+        "name": "Dorothy Bryant",
+        "role": "novelist, childhood patron"
+      },
+      {
+        "name": "Ben Levin",
+        "role": "operator in 1946"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Brava Women's Theater Arts (Roosevelt Theatre)",
+        "publisher": "Cinema Treasures",
+        "year": null,
+        "url": "https://cinematreasures.org/theaters/2112",
+        "supports": "opening date, film, 1,006 seats, Reid Brothers, 1962 rename, Brava"
+      },
+      {
+        "title": "Mission Life 1930s-40s (Dorothy Bryant)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Life_1930s-40s",
+        "supports": "the Roozie nickname, prices, matinees, Dish Night, Bingo, Bank Night, $610 crowd"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-sunshine-school",
+    "title": "A school with no barriers",
+    "theme": "civil-rights",
+    "year": 1937,
+    "place": {
+      "label": "Sunshine School, 2728 Bryant Street",
+      "lat": 37.75066,
+      "lon": -122.40916,
+      "precision": "building"
+    },
+    "hook": "Decades before the ADA, the Mission got the West's first public school built for disabled children, with a barrier-free ground floor and a therapeutic pool.",
+    "story": "The San Francisco Rotary Club helped start the California Society for Crippled Children in 1926. A year later the state passed the California Crippled Children Act, which provided services for disabled children [1]. Rotary founded the Sunshine School, and the city's School Department later took it over [1]. Between 1935 and 1937 the Public Works Administration gave it a building of its own on Bryant Street, in the Spanish Colonial Revival style with Moorish and Art Deco touches [1][2].\n\nIt was the first purpose-built public 'orthopedic' school west of the Rockies [2]. The ground floor had no barriers, anticipating the federal accessibility laws of 1968 and 1990 by decades [2]. Children with physical disabilities studied downstairs, where they had a therapeutic pool and a specially designed gym. Children with chronic or acute illnesses recovered upstairs in open-air rooms and ate meals cooked at nearby San Francisco General Hospital [2]. The school ran this way until the 1970s, when disability-rights groups won the right for these children to attend mainstream schools [2]. The city made it a landmark in 2019 [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Sunshine School (San Francisco, California)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Sunshine_School_(San_Francisco,_California)",
+        "supports": "Rotary origins, 1926 society, 1927 Act, School Department takeover, PWA 1935-37, landmark 2019"
+      },
+      {
+        "title": "San Francisco Landmark #286: Sunshine School (from 2019 designation report)",
+        "publisher": "NoeHill",
+        "year": 2019,
+        "url": "https://noehill.com/sf/landmarks/sf286.asp",
+        "supports": "first orthopedic school west of Rockies; barrier-free; floors, pool, SF General meals; 1970s end"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-latino-barrio-24th-street",
+    "title": "Tortillas by hand at 21st and Harrison",
+    "theme": "communities",
+    "year": 1950,
+    "yearEnd": 1970,
+    "place": {
+      "label": "21st and Harrison Streets",
+      "lat": 37.75752,
+      "lon": -122.41258,
+      "precision": "block"
+    },
+    "hook": "'You hardly ever heard anybody speaking English.' After the war, Latino families pushed out of other barrios made the Mission their home.",
+    "story": "Sam Rios grew up near 21st and Harrison. His family had moved to the Mission before the war, when they got the chance to own a home. His grandmother started a small tortilla factory on that corner: 'her and her comadres they used to sit around this comal and make tortillas by hand', then sold them door to door [1]. Even in the late 1930s, Rios recalled, 'I used to run up and down 24th Street. And you hardly ever heard anybody speaking English' [1].\n\nMore followed. The Bay Bridge was built through the South of Market barrio around Rincon Hill, and the Broadway Tunnel split the North Beach barrio around Guadalupe Church. Families moved south along the grid into the working-class Mission, much as Germans, Irish and Scandinavians had before them [1]. They worked in shipyards, canneries on 18th Street and factories such as the Levi Strauss plant [1]. The neighbourhood changed to match: by the 1950s the old Victoria Theatre on 16th Street was showing films in Spanish as El Teatro Victoria [2]. Between 1950 and 1970 the Spanish-surnamed share of the district's population grew from 11 percent to more than 45 percent [1].",
+    "people": [
+      {
+        "name": "Sam Rios",
+        "role": "Mission resident, oral history"
+      },
+      {
+        "name": "Rios's grandmother",
+        "role": "tortilla maker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Midcentury Migrations (excerpt from Tomás F. Summers Sandoval Jr., Latinos at the Golden Gate, UNC Press 2013)",
+        "publisher": "FoundSF",
+        "year": 2013,
+        "url": "https://www.foundsf.org/index.php?title=Midcentury_Migrations",
+        "supports": "Rios family, quotes, tortilla factory, displacement from other barrios, jobs, 11-to-45 percent figure"
+      },
+      {
+        "title": "San Francisco Landmark #215: Victoria Theater",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf215.asp",
+        "supports": "El Teatro Victoria showing Spanish-language films in the 1950s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-hamms-brewery-glass",
+    "title": "The glass of beer that never emptied",
+    "theme": "labor-industry",
+    "year": 1954,
+    "yearEnd": 1972,
+    "place": {
+      "label": "Former Rainier and Hamm's Brewery, 1550 Bryant Street",
+      "lat": 37.76756,
+      "lon": -122.41114,
+      "precision": "building"
+    },
+    "hook": "Above 15th and Bryant, a giant beer glass made of light bulbs filled up, grew a head and emptied, over and over, night after night.",
+    "story": "The brewery at 15th and Bryant has its roots in a flight from Prohibition [4]. Washington state went dry in 1916, four years before the rest of the country, so Seattle's Rainier Brewing opened a brewery in San Francisco and made Rainier beer there until 1920 [1]. A city transit photo from January 1920 was taken from the roof of the Rainier Brewing Company plant near Bryant and Alameda [2].\n\nIn 1953 Hamm's of St. Paul, Minnesota bought the brewery from Rainier and opened it in 1954 at 1550 Bryant Street [3]. On top went a 20-by-80-foot sign crowned by a 13-foot beer glass made of lights. It filled with 'beer', formed a head and emptied again, all day, every day [3][4]. Fans inside Seals Stadium, just across 16th Street, could see it from their seats [5], and it later appeared in the first Dirty Harry film [3]. The Mission's northeast corner was then full of blue-collar work: breweries, a mayonnaise factory, a cement plant and steel mills [4]. Hamm's closed in 1972. In the early 1980s punk bands took over the empty vats, and the building became famous as 'The Vats' [3][4].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Rainier Brewing Company",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Rainier_Brewing_Company",
+        "supports": "Washington prohibition 1916; SF brewery until 1920"
+      },
+      {
+        "title": "Mission Life in Early 20th Century (photo captions)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Life_in_Early_20th_Century",
+        "supports": "1920 view from roof of Rainier Brewing Company, Bryant and Alameda"
+      },
+      {
+        "title": "Hamm's Brewery",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hamm%27s_Brewery",
+        "supports": "1953 purchase, 1954 opening at 1550 Bryant, sign dimensions, Dirty Harry, 1972 closure, The Vats"
+      },
+      {
+        "title": "Seals Stadium and Hamm's Brewery",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Seals_Stadium_and_Hamm%27s_Brewery",
+        "supports": "beer glass filling and emptying; industrial corner; The Vats"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-seals-stadium",
+    "title": "Where the Giants first played in the West",
+    "theme": "architecture-landmarks",
+    "year": 1931,
+    "yearEnd": 1959,
+    "place": {
+      "label": "Seals Stadium site, 16th and Bryant (now Potrero Center)",
+      "lat": 37.76574,
+      "lon": -122.41034,
+      "precision": "block"
+    },
+    "hook": "Men begged for $3-a-day jobs building it. Joe DiMaggio hit in 61 straight games here. Then, in April 1958, major-league baseball arrived on the West Coast at 16th and Bryant.",
+    "story": "Seals Stadium opened on April 7, 1931, at the height of the Depression. Seals president 'Doc' Strub said workers jumped onto the running boards of his car to beg for a job at $3 a day [1]. The stadium had no roof, since fans liked the Mission sun, and some years a live seal lived in a tank under the grandstand [1]. Dorothy Bryant remembered it as one of the few entertainments her neighbourhood could afford, where 'local boys like Joe Dimaggio played' [2]. In 1933, playing for the Seals, DiMaggio hit safely in 61 straight games [1]. In 1950 the fans staged a 'Peanut Revolt' after peanut sales were stopped [1].\n\nOn April 15, 1958 the relocated Giants played the first major-league game on the West Coast here, beating the Los Angeles Dodgers 8–0 [1]. Pitcher Johnny Antonelli was less charmed by the wind: 'Worst ballpark in America' [1]. After the last game on September 20, 1959, the stadium was knocked down that November. Its light towers and many of its seats went to Tacoma. A shopping centre now covers the site [1][3].",
+    "people": [
+      {
+        "name": "Charles 'Doc' Strub",
+        "role": "Seals president"
+      },
+      {
+        "name": "Joe DiMaggio",
+        "role": "Seals outfielder"
+      },
+      {
+        "name": "Johnny Antonelli",
+        "role": "Giants pitcher"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Seals Stadium",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Seals_Stadium",
+        "supports": "opening, Strub quote, design, seal tank, DiMaggio streak, Peanut Revolt, 1958 opener, Antonelli quote, 1959 demolition"
+      },
+      {
+        "title": "Mission Life 1930s-40s (Dorothy Bryant)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Life_1930s-40s",
+        "supports": "Seals Stadium as affordable local entertainment; DiMaggio quote"
+      },
+      {
+        "title": "Seals Stadium and Hamm's Brewery",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Seals_Stadium_and_Hamm%27s_Brewery",
+        "supports": "block location; Giants 1958-59; later White Front and Potrero Center"
+      }
+    ],
+    "photo": null
+  }
+]

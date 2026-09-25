@@ -1,0 +1,762 @@
+[
+  {
+    "id": "bernal-heights-rancho-bernal",
+    "title": "The rancho that shrank to twenty-five acres",
+    "theme": "indigenous-early",
+    "year": 1839,
+    "yearEnd": 1917,
+    "place": {
+      "label": "Bernal Hill (heart of the old Rancho Rincon de las Salinas y Potrero Viejo)",
+      "lat": 37.7425,
+      "lon": -122.4165,
+      "precision": "area"
+    },
+    "hook": "A Mexican land grant once gave one family about a fifth of today's San Francisco. The last scrap was lost in 1917.",
+    "story": "On 10 October 1839 the Mexican government granted José Cornelio Bernal a square league of land, the Rancho Rincon de las Salinas y Potrero Viejo [1]. Bernal's father had come north with the Anza expedition in 1776, and the family ran cattle on the grant [2]. The \"old pasture\" of Potrero Viejo took in the hill that still carries their name, and its northern edge ran along Precita Creek [3]. According to the Chronicle's 1926 account, riding right round the boundary took a whole day [1].\n\nIt all slipped away. The paper said the first big piece went in 1859, when a mortgage held by William T. Sherman, the banker who later became a Union general, was foreclosed. The sheriff sold a huge tract for $1,500 [1]. More land went piece by piece, until a grandson, also named José Cornelio Bernal, was left with about 25 acres of vegetable gardens near today's Onondaga Avenue. That land was foreclosed in 1917, and with it the last San Francisco land held under an original grant passed out of the grantees' families [1][2]. He died in Oakland in November 1926, and his funeral mass was said at Mission Dolores, where the Bernals had worshipped for three generations [1].",
+    "people": [
+      {
+        "name": "José Cornelio Bernal",
+        "role": "Californio grantee of the rancho, 1839"
+      },
+      {
+        "name": "William Tecumseh Sherman",
+        "role": "banker whose 1859 foreclosure began the breakup"
+      },
+      {
+        "name": "José Cornelio Bernal (grandson)",
+        "role": "last holder of land under the grant, died 1926"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bernal Death Severs Last Link in Old S.F. Regime (San Francisco Chronicle, 8 Nov 1926, transcribed)",
+        "publisher": "Bernal Heights History Project",
+        "year": 1926,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/bernalobit.php",
+        "supports": "1839 grant date, one-day boundary ride, 1859 Sherman foreclosure for $1,500, 25 acres lost in 1917, grandson's death and funeral"
+      },
+      {
+        "title": "From Civil War Spy to Lesbian Collective: The Strange History of 386 Richland Avenue",
+        "publisher": "FoundSF (Molly Martin)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=From_Civil_War_Spy_to_Lesbian_Collective:_The_Strange_History_of_386_Richland_Avenue",
+        "supports": "Bernal's father came with the Anza expedition, cattle ranching, last 25 acres lost in 1917"
+      },
+      {
+        "title": "Precita Valley's Park",
+        "publisher": "FoundSF (Woody LaBounty, San Francisco Story)",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=Precita_Valley%27s_Park",
+        "supports": "Potrero Viejo meant 'old pasture', the Precita Creek boundary, 1839 grant"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-generals-streets",
+    "title": "A hill of paper streets and generals",
+    "theme": "architecture-landmarks",
+    "year": 1870,
+    "place": {
+      "label": "Banks Street, east of Cortland (one of Bernal's 'general' streets)",
+      "lat": 37.73762,
+      "lon": -122.41262,
+      "precision": "street"
+    },
+    "hook": "Bernal's street grid was drawn over a bare cattle hill, and more than a dozen of its streets are named after generals.",
+    "story": "Long before anyone lived here, the hill was a real-estate product. In 1859 surveyor Milo Hoadley cut the slopes into hundreds of narrow lots for the \"Precita Valley Lands\" auction. On his map a neat grid ran straight over the top of Bernal Hill. More than 400 parcels sold, at an average of $84, mostly to speculators who never meant to build [1].\n\nThe names came next. Journalist Lynn Ludlow counts more than a dozen generals from the nation's first century on Bernal's street signs, including Gates, Moultrie, Appleton, Wool, Anderson, Putnam, Banks and Prentiss. He suggests they were picked around 1868 or 1869, when Civil War commanders were fresh in people's minds, because they appear on the city's official map of 1870 [2]. Two battles got streets too: Bennington (renamed from Scott Street in 1882) and Lundys Lane [2]. The Thanksgiving story gave the east slope Mayflower, Brewster, Bradford, Massasoit and Samoset. Old Hickory Avenue, named for Andrew Jackson, soon became Ogden [2]. Ludlow admits most of the reasons were never written down, and the 1906 fire burned many city records [2]. So even the streets' origins are partly guesswork.",
+    "people": [
+      {
+        "name": "Milo Hoadley",
+        "role": "surveyor of the 1859 Precita Valley Lands map"
+      },
+      {
+        "name": "Lynn Ludlow",
+        "role": "Bernal historian of the street names"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Precita Valley's Park",
+        "publisher": "FoundSF (Woody LaBounty, San Francisco Story)",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=Precita_Valley%27s_Park",
+        "supports": "Hoadley's 1859 survey, grid drawn over the hill, 400+ parcels at an average $84, speculators"
+      },
+      {
+        "title": "The Generals of Bernal Hill",
+        "publisher": "Bernal Heights History Project (Lynn Ludlow)",
+        "year": null,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/ludlow.php",
+        "supports": "general and battle street names, 1868-70 naming, Bennington renamed in 1882, Pilgrim names, Old Hickory to Ogden, lost records"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-st-marys-college",
+    "title": "A college built on gold dust",
+    "theme": "communities",
+    "year": 1863,
+    "yearEnd": 1889,
+    "place": {
+      "label": "Site of St. Mary's College, College Avenue at Mission Street",
+      "lat": 37.73482,
+      "lon": -122.42754,
+      "precision": "block"
+    },
+    "hook": "The college now in Moraga began on a windswept Bernal slope, paid for partly with gold dust from Sierra miners.",
+    "story": "Archbishop Joseph Alemany wanted an affordable college for the children of miners, mechanics and farmers. The cornerstone was laid on 3 August 1862 [1]. He bought 60 acres of the old Bernal rancho from Jesus Bernal for $1,600 [2]. To pay for the building he sent the Irish priest James Croke on a two-year fundraising trip to farmers, merchants and Sierra gold miners. Croke came back with cash and gold dust worth $37,166.50 [3]. According to a lecture published by the college, one early donor was the celebrated Mary Ellen Pleasant [4].\n\nSt. Mary's College opened in 1863 as a college for boys. It struggled, and in 1868 nine mostly Irish Christian Brothers sailed from New York to take it over. It awarded its first bachelor's degrees in 1872 [3]. An 1875 photograph shows the walled campus facing Mission Road, with two baseball diamonds beside it [3]. In 1889 the college left its \"cold, windswept campus\" for Oakland, and later moved to Moraga [2][3]. The Bernal site became a parish and then a truck farm [2]. The south-west corner of Bernal is still called College Hill, and a 1962 marker stands at the west end of College Avenue [2].",
+    "people": [
+      {
+        "name": "Joseph Sadoc Alemany",
+        "role": "first Archbishop of San Francisco, founder"
+      },
+      {
+        "name": "James Croke",
+        "role": "Irish priest and fundraiser"
+      },
+      {
+        "name": "Mary Ellen Pleasant",
+        "role": "early donor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mission & History",
+        "publisher": "Saint Mary's College of California",
+        "year": null,
+        "url": "https://www.stmarys-ca.edu/about-smc/history-heritage",
+        "supports": "Alemany's aim and the cornerstone laid 3 August 1862"
+      },
+      {
+        "title": "St Mary's Development",
+        "publisher": "FoundSF (Nikki Collister)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=St_Mary%27s_Development",
+        "supports": "60 acres bought from Jesus Bernal for $1,600, 1863-1889, move to Oakland, St. John's Parish, truck farm, 1962 marker"
+      },
+      {
+        "title": "Explore the Rolling Meadows of Southwest Bernal Heights in 1875",
+        "publisher": "Bernalwood",
+        "year": 2017,
+        "url": "https://bernalwood.com/2017/05/15/explore-the-rolling-meadows-of-southwest-bernal-heights-in-1875/",
+        "supports": "Croke's $37,166.50, nine Brothers in 1868, first degrees in 1872, 1875 photo with ball diamonds, College Hill name"
+      },
+      {
+        "title": "Black Catholic Voices: Church in the Black Catholic Tradition",
+        "publisher": "Saint Mary's College of California (Edward Branch)",
+        "year": null,
+        "url": "https://www.stmarys-ca.edu/black-catholic-voices-church-in-the-black-catholic-tradition",
+        "supports": "Mary Ellen Pleasant's early gift"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-gold-hoax",
+    "title": "Gold fever on Bernal Hill",
+    "theme": "gold-rush-victorian",
+    "year": 1873,
+    "yearEnd": 1876,
+    "place": {
+      "label": "Bernal Hill summit",
+      "lat": 37.7432,
+      "lon": -122.4142,
+      "precision": "area"
+    },
+    "hook": "\"Gold! Gold! Gold!\" shouted a German well-digger in 1873. Within a day hundreds were climbing Bernal Hill to see.",
+    "story": "In late summer 1873, Henry Housler was digging a well on Bernal Heights. At about fifteen feet down, he believed, he saw the colour of gold. According to the report the Chronicle printed on 2 September, he swore his wife and daughter to secrecy for two weeks. When the news got out, a reporter hurried out and found neighbours already planning to stake claims across the entire Heights. Hundreds of people came that day to look at the samples [1].\n\nThe rock told a different story. Claims were marked out and ledges cut open, but the samples turned out to be copper and iron sulphides, with \"no gold in the rock.\" SFGATE's review of the archives says people rushed to stake claims on land that was already occupied, which was illegal. A geological study found the ore was the same stone that makes up much of the peninsula. Scientists suspected someone had planted a little gold to cheat buyers, and land prices rose for a while [1].\n\nThe fever came back. In May 1876 Victor Ressayre filed notice of a gold-quartz ledge, which he called the \"Eureka Lode and Paris Milling and Mining Company\" [1]. Local lore still tells of an 1876 mini gold rush set off by con artists salting the hilltop [2].",
+    "people": [
+      {
+        "name": "Henry Housler",
+        "role": "well-digger who reported gold, 1873"
+      },
+      {
+        "name": "Victor Ressayre",
+        "role": "filed the 'Eureka Lode' claim, 1876"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bernal Heights was once a lawless upstart prone to bogus gold claims",
+        "publisher": "SFGATE (Bob Bragman)",
+        "year": 2016,
+        "url": "https://www.sfgate.com/bayarea/article/Bernal-Heights-a-San-Francisco-1906-survivor-9452382.php",
+        "supports": "Housler's 1873 find, hundreds of visitors, copper and iron sulphides, illegal claims, geological verdict, suspected planting, Ressayre's 1876 Eureka Lode"
+      },
+      {
+        "title": "A Brief History of Bernal Heights Rogues, Hoodlums, and Characters of Ill Repute",
+        "publisher": "Bernalwood",
+        "year": 2016,
+        "url": "https://bernalwood.com/2016/10/05/a-brief-history-of-bernal-heights-rogues-hoodlums-and-characters-of-ill-repute/",
+        "supports": "legend of the 1876 salted-hilltop gold rush and the Eureka Lode claims"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-king-of-hoodlums",
+    "title": "The King of the Bernal Heights Hoodlums",
+    "theme": "gold-rush-victorian",
+    "year": 1876,
+    "yearEnd": 1877,
+    "place": {
+      "label": "Bernal Heights east slope, 1870s gang territory",
+      "lat": 37.7415,
+      "lon": -122.41,
+      "precision": "area"
+    },
+    "hook": "In the 1870s there were no police beyond 26th Street, and a teenage gang with a self-styled king ruled the hill.",
+    "story": "In August 1876 a man named Richard Brown came before the Police Court on eight misdemeanour charges. He was known as \"The Chicken No. 2\" and \"The King of the Bernal Heights Hoodlums.\" The Chronicle said he cross-examined the witnesses \"in a manner that would do credit to the most notorious Police Court shyster\" and got one charge thrown out [1]. That October police rounded up 27 members of the Bernal Heights and Mission gang, aged 16 to 22. Among other things, they had been harassing the women teachers at the Fairmount School [1].\n\nJail did not hold them for long. In February 1877 Brown and two friends raided the Five-mile House, a roadside bar run by an invalid named John Bracken, and made off with a demijohn of whisky [1]. That December, masked men pretending to be police broke into the home of Patrick Haight and beat him and his wife. After two of them were identified, gang members came back and cut the throat of the Haights' cow [1][2]. The paper noted there were \"no policemen beyond Twenty-sixth Street.\" One resident cut gun ports in his walls and slept with a shotgun at the head of his bed [1].",
+    "people": [
+      {
+        "name": "Richard 'Dick' Brown",
+        "role": "'King of the Bernal Heights Hoodlums'"
+      },
+      {
+        "name": "Patrick Haight",
+        "role": "resident attacked by the gang, 1877"
+      },
+      {
+        "name": "John Bracken",
+        "role": "keeper of the Five-mile House"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bernal Heights was once a lawless upstart prone to bogus gold claims",
+        "publisher": "SFGATE (Bob Bragman)",
+        "year": 2016,
+        "url": "https://www.sfgate.com/bayarea/article/Bernal-Heights-a-San-Francisco-1906-survivor-9452382.php",
+        "supports": "Brown's 1876 court appearance, 27 arrests, Fairmount School, Five-mile House raid, Haight attacks, no police beyond 26th St, fortified house"
+      },
+      {
+        "title": "A Brief History of Bernal Heights Rogues, Hoodlums, and Characters of Ill Repute",
+        "publisher": "Bernalwood",
+        "year": 2016,
+        "url": "https://bernalwood.com/2016/10/05/a-brief-history-of-bernal-heights-rogues-hoodlums-and-characters-of-ill-repute/",
+        "supports": "reprints the December 1877 Chronicle report on the Haight attacks"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-holly-park-origins",
+    "title": "The park with too many birthdays",
+    "theme": "parks-nature",
+    "year": 1873,
+    "place": {
+      "label": "Holly Park, Holly Park Circle",
+      "lat": 37.73715,
+      "lon": -122.4208,
+      "precision": "area"
+    },
+    "hook": "Was Holly Park a millionaire's gift, a court decision or a Victorian improvement project? Its histories don't agree.",
+    "story": "Holly Park is a round hilltop park on the Bernal slope, and one of the oldest parks in the city. Its early history is a tangle. A San Francisco Parks Alliance history says silver king James Fair bought the 7.5-acre parcel from the Bernal rancho in 1862 and gave it to the city [1]. Molly Martin's essay repeats the 1862 Fair story [4]. Yet the same Parks Alliance account also has the circle road opening in 1874 and the district not being developed until 1887 [1].\n\nThe newspapers tell another version. Searching the Chronicle archive, SFGATE found the moment in 1873 when a court ruled that Holly Park was public ground [2]. An 1875 photograph shows only a fenced circle on open grassland, with the new College Hill Reservoir, built in 1870, nearby on the slope [3][4]. Bernalwood dates the park \"we know and love\" to the 1890s [3]. The Parks Alliance says the area had about 200 houses by 1889, and that in April 1929 the Playground Commission asked for the shrubs to be cleared for basketball and tennis courts [1]. The name may come from the hollyleaf (Islais) cherry that once grew along nearby Islais Creek [4].",
+    "people": [
+      {
+        "name": "James G. Fair",
+        "role": "silver magnate named in one origin story"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Holly Park (archived)",
+        "publisher": "San Francisco Parks Alliance",
+        "year": 2017,
+        "url": "https://web.archive.org/web/20171013065930/http://www.sfparksalliance.org/our-parks/parks/holly-park",
+        "supports": "1862 Fair story, 1874 circle, 1887 development, 200 houses by 1889, 1929 Playground Commission request"
+      },
+      {
+        "title": "Bernal Heights was once a lawless upstart prone to bogus gold claims",
+        "publisher": "SFGATE (Bob Bragman)",
+        "year": 2016,
+        "url": "https://www.sfgate.com/bayarea/article/Bernal-Heights-a-San-Francisco-1906-survivor-9452382.php",
+        "supports": "1873 court ruling that Holly Park was public ground"
+      },
+      {
+        "title": "Explore the Rolling Meadows of Southwest Bernal Heights in 1875",
+        "publisher": "Bernalwood",
+        "year": 2017,
+        "url": "https://bernalwood.com/2017/05/15/explore-the-rolling-meadows-of-southwest-bernal-heights-in-1875/",
+        "supports": "1875 photo, College Hill Reservoir built in 1870, park built out in the 1890s"
+      },
+      {
+        "title": "From Civil War Spy to Lesbian Collective: The Strange History of 386 Richland Avenue",
+        "publisher": "FoundSF (Molly Martin)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=From_Civil_War_Spy_to_Lesbian_Collective:_The_Strange_History_of_386_Richland_Avenue",
+        "supports": "repeats the 1862 Fair donation, fenced circle in the 1875 Watkins photo, Islais cherry"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-shadburne-richland",
+    "title": "The Confederate scout's rental on Richland",
+    "theme": "gold-rush-victorian",
+    "year": 1893,
+    "place": {
+      "label": "386 Richland Avenue",
+      "lat": 37.73541,
+      "lon": -122.41736,
+      "precision": "block"
+    },
+    "hook": "The man who built this odd little rental had once stolen thousands of Union cattle and escaped a spy's gallows.",
+    "story": "In the 1890s George David Shadburne signed for water service to a new 825-square-foot house at 386 Richland Avenue. According to the water company's record, service began on 1 August 1893 and he paid $10 in gold coin. A clerk first charged for two cows, then rubbed them out [1]. Shadburne never lived there. He was a combative downtown lawyer from Texas who had come to San Francisco in 1868, and he rented the house to poorer tenants [1].\n\nHis earlier life was darker. As one of Wade Hampton's Confederate \"Iron Scouts\" he had spied behind Union lines in Virginia [1]. In September 1864 he reported a lightly guarded herd of about 3,000 cattle near Grant's headquarters, which led to the famous Beefsteak Raid [2]. Martin calls him a captain, while the Wikipedia account calls him a sergeant [1][2]. Captured in 1865 and charged as a spy, he escaped [1]. An 1858 appraisal of his Louisiana property lists 20 enslaved people [1].\n\nMuch later, electrician Molly Martin and her lesbian collective bought the building in 1980. When she opened the walls she found an 1893 racing form used as insulation, and signs that several separate buildings had been joined together [1].",
+    "people": [
+      {
+        "name": "George David Shadburne",
+        "role": "Confederate scout, lawyer, landlord"
+      },
+      {
+        "name": "Molly Martin",
+        "role": "electrician and later owner who researched the house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "From Civil War Spy to Lesbian Collective: The Strange History of 386 Richland Avenue",
+        "publisher": "FoundSF (Molly Martin)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=From_Civil_War_Spy_to_Lesbian_Collective:_The_Strange_History_of_386_Richland_Avenue",
+        "supports": "1893 water permit, $10 in gold, erased cows, Shadburne's career, Iron Scouts, capture and escape, 1858 slave appraisal, 1893 newspaper insulation"
+      },
+      {
+        "title": "Beefsteak Raid",
+        "publisher": "Wikipedia (citing Bakeless, Spies of the Confederacy)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Beefsteak_Raid",
+        "supports": "Sgt. George D. Shadburne's 5 September 1864 report of 3,000 cattle near Grant's headquarters"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-precita-cesspool-park",
+    "title": "From 'slimy ooze' to Precita Park",
+    "theme": "parks-nature",
+    "year": 1894,
+    "yearEnd": 1901,
+    "place": {
+      "label": "Precita Park (then Bernal Park), Folsom Street and Precita Avenue",
+      "lat": 37.74705,
+      "lon": -122.4125,
+      "precision": "area"
+    },
+    "hook": "Neighbours were so fed up with their swampy 'park' that they told the city to hand it over as a fish hatchery.",
+    "story": "On Milo Hoadley's 1859 auction map, the hollow at the foot of Bernal's north slope was marked as a public square, \"Precita Place.\" In reality it was where Precita Creek overflowed. In dry months it was a garbage pit. In wet months it was a swamp full of frogs and sewage [1]. Waste from tanneries, run-off from slaughterhouses and sewage from the county hospital all ended up there. When the streets around it were graded, parts of the pit sat 30 feet below the sidewalk [1].\n\nIn 1894 the supervisors named it \"Bernal Park,\" but that did not turn it into one. Grocer John T. Graham of Precita and Alabama called it \"one of the worst cesspools I ever saw.\" His Precita Valley Improvement Club petitioned the city to fill it in, or else give it to the Fish Commissioners because the winter rains would make it a fine hatchery [1]. The pit was filled in 1899. In 1901 park superintendent John McLaren put in pipes, grass and trees. When neighbours asked for benches, logs were dumped on the site instead [1]. By the 1920s Bernal Park had a formal border of Blackwood acacias [2]. It was later renamed Precita Park.",
+    "people": [
+      {
+        "name": "John T. Graham",
+        "role": "grocer and Precita Valley Improvement Club organiser"
+      },
+      {
+        "name": "John McLaren",
+        "role": "park superintendent"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Precita Valley's Park",
+        "publisher": "FoundSF (Woody LaBounty, San Francisco Story)",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=Precita_Valley%27s_Park",
+        "supports": "Precita Place on the 1859 map, garbage-pit swamp, sources of waste, 30-foot drop, 1894 designation, Graham's quote and fish-hatchery petition, 1899 fill, 1901 McLaren planting, log benches"
+      },
+      {
+        "title": "A 1920s Aerial View of Bernal Heights",
+        "publisher": "FoundSF (Terry Milne)",
+        "year": 2009,
+        "url": "https://www.foundsf.org/index.php?title=A_1920s_Aerial_View_of_Bernal_Heights",
+        "supports": "Bernal Park (now Precita Park) with its formal outline of Blackwood acacia trees"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-goat-wars",
+    "title": "Bernal's war on the poundmen",
+    "theme": "communities",
+    "year": 1898,
+    "place": {
+      "label": "Cortland Avenue, home of the 1890s goat-owning grocers",
+      "lat": 37.73879,
+      "lon": -122.41448,
+      "precision": "street"
+    },
+    "hook": "When the city pound came for Bernal's goats and cows, the whole hill came out throwing stones.",
+    "story": "In 1894 the Chronicle called Bernal Heights \"this paradise of the agile goat and the speckled hen\" [1]. Irish settlers grazed livestock on the open slopes, and the city poundmen made their money by seizing loose animals and charging fees to sell or return them [2]. According to local lore, one day the poundmen took the cow of the Widow O'Brien, a hard-working woman who had raised two daughters on her own and was much respected on the hill. As the book Hills of San Francisco tells it, \"every man, boy, and dog on the hill\" turned out, roughed up the poundmen and chased them off. The book says they never came back [2].\n\nThe newspapers record a real fight in September 1898. Frank Tyrrell, chief deputy keeper of the city pound, was rounding up wild goats when he took the pet goat of Cortland Avenue grocer Gottlieb Katz. When Katz protested, Tyrrell hit him with a pistol. Tyrrell later complained that \"the whole neighborhood rose up against him and battered his party with stones\" [1]. Around 1906 a Katz family grocery, run by Ernestine and Annie Katz, is listed at 806 Cortland. The sources do not say whether they were related to Gottlieb [3].",
+    "people": [
+      {
+        "name": "Gottlieb Katz",
+        "role": "Cortland Avenue grocer"
+      },
+      {
+        "name": "Frank Tyrrell",
+        "role": "chief deputy poundkeeper"
+      },
+      {
+        "name": "Widow O'Brien",
+        "role": "cow owner of Bernal legend"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Century of Crime in Bernal",
+        "publisher": "FoundSF (Vicky Walker, Bernal Heights History Project)",
+        "year": 2009,
+        "url": "https://www.foundsf.org/index.php?title=A_Century_of_Crime_in_Bernal",
+        "supports": "1894 'paradise of the agile goat' quote, September 1898 Tyrrell-Katz fight and stoning"
+      },
+      {
+        "title": "Widow O' Brien's Cow",
+        "publisher": "FoundSF (Dr. Weirde, quoting Hills of San Francisco)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Widow_O%27_Brien%27s_Cow",
+        "supports": "Irish grazing, poundmen's fees, the Widow O'Brien episode"
+      },
+      {
+        "title": "Cortland Avenue History Walk: 2006 Earthquake Centennial",
+        "publisher": "Bernal Heights History Project (Gail Sansbury, Terry Milne)",
+        "year": 2006,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/cortland.php",
+        "supports": "Ernestine and Annie Katz's grocery at 806 Cortland in the earthquake era"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-bernal-park-camp",
+    "title": "A tent city in Bernal Park",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": 1907,
+    "place": {
+      "label": "Bernal Park refugee camp (today's Precita Park), east end",
+      "lat": 37.7469,
+      "lon": -122.4112,
+      "precision": "area"
+    },
+    "hook": "After the 1906 fire, the park at the foot of Bernal Hill filled with refugees. When it closed, many took their homes with them.",
+    "story": "After the earthquake and fire of April 1906, refugee camps went up in parks all over the city. In this neighbourhood they included Precita Park, then called Bernal Park, and Dolores Park [1]. A month after the disaster, the Chronicle reported that thousands of people were still camped at the Bernal Park relief station [2]. As winter came on, union carpenters built about 5,600 wooden cottages to Army designs. Residents paid a small rent and lived under camp rules [1][3].\n\nThe camp changed the neighbourhood. Factory hands, carpenters and teamsters who had been burned out of South of Market and the Mission found cheap lots on Bernal. A relief cottage hauled out of the camp made \"a good instant starter home\" [4]. By summer 1907 tenants had to buy their cottages and move them onto private lots, or be evicted [3]. A 1907 photograph shows the shacks leaving Bernal Park, and some were dragged straight up the hill [1][4].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Earthquake Shacks in Bernal Heights",
+        "publisher": "Bernal Heights History Project",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/shacks.php",
+        "supports": "camps in Precita and Dolores Parks, about 5,600 shacks by union carpenters, rules, shacks hauled up the hill"
+      },
+      {
+        "title": "Bernal Heights Historical News Stories",
+        "publisher": "Bernal Heights History Project",
+        "year": null,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/inthenews.php",
+        "supports": "May 1906 Chronicle story: thousands still camped at the Bernal Park relief station a month after the quake"
+      },
+      {
+        "title": "1906 Earthquake Shack Survivors (quoting John Baranski, Housing the City by the Bay)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=1906_Earthquake_Shack_Survivors",
+        "supports": "5,610 cottages; by summer 1907 tenants had to buy and move them or be removed"
+      },
+      {
+        "title": "Precita Valley's Park",
+        "publisher": "FoundSF (Woody LaBounty, San Francisco Story)",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=Precita_Valley%27s_Park",
+        "supports": "blue-collar newcomers from South of Market and the Mission, relief cottages as starter homes, 1907 exodus photo"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-ferenz-shacks",
+    "title": "Two refugee shacks become a home",
+    "theme": "quake1906",
+    "year": 1907,
+    "place": {
+      "label": "43 Carver Street",
+      "lat": 37.74257,
+      "lon": -122.40981,
+      "precision": "building"
+    },
+    "hook": "A Polish couple burned out in 1906 joined two relief cottages together on Carver Street. Their daughter lived to see the centennial.",
+    "story": "Theodore and Domicella Ferenz were Polish immigrants who lived on 11th Street until the 1906 earthquake and fire destroyed the area. They became the first occupants of what is now 43 Carver Street, on Bernal's east slope. The house is made of two \"Type B\" relief cottages, each 14 by 18 feet, joined together [1]. Theodore built the hall that links the two shacks and later put in plumbing at the back. At first the family used an outhouse in the yard. That outhouse and the chicken coops were still standing when the house was sold in 1973 [1].\n\nTheir daughter, Helene Critler, remembered going down to the cellar to fill the oil lamps, and catching rainwater in buckets in the leaky hall between the shacks. She died in April 2006, just after the quake's centennial [1]. The earthquake-cottage expert Jane Cryan confirmed 43 Carver as a genuine shack. It is one of more than a dozen on the hill, which the Bernal Heights History Project calls the largest surviving group in the city [2]. That spring about 150 people began a centennial walking tour at the house [1].",
+    "people": [
+      {
+        "name": "Theodore Ferenz",
+        "role": "Polish immigrant who joined the shacks"
+      },
+      {
+        "name": "Domicella Ferenz",
+        "role": "first occupant"
+      },
+      {
+        "name": "Helene Critler",
+        "role": "their daughter"
+      },
+      {
+        "name": "Jane Cryan",
+        "role": "earthquake-shack historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bernal Heights 1906 Quake Shack survivors",
+        "publisher": "FoundSF (Bernal Heights History Project)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Bernal_Heights_1906_Quake_Shack_survivors",
+        "supports": "Ferenz family, Type B dimensions, hall, outhouse, 1973 sale, Helene Critler's memories, 150-person centennial tour"
+      },
+      {
+        "title": "Earthquake Shacks in Bernal Heights",
+        "publisher": "Bernal Heights History Project",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/shacks.php",
+        "supports": "43 Carver confirmed by Jane Cryan, largest surviving collection in the city"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-richardson-meats",
+    "title": "Widow Richardson's house on Cortland",
+    "theme": "labor-industry",
+    "year": 1902,
+    "yearEnd": 1925,
+    "place": {
+      "label": "440-448 Cortland Avenue (Bernal Meats)",
+      "lat": 37.73889,
+      "lon": -122.41672,
+      "precision": "building"
+    },
+    "hook": "A dockworker's widow with nine children ran a coal yard and a boarding house. Her son opened the butcher shop that anchored Cortland Avenue.",
+    "story": "In 1887 Clement Richardson, a roustabout on the docks, and his wife Bridget moved their six children into a house at 440 Cortland Avenue. Three more children were born there. Clement was killed in an accident in 1897. Bridget, then 44 with eight children still at home, kept the family going by running a coal yard at 3501 Mission Street and taking in boarders [1]. In 1902 her son George opened Bernal Meats at 448 Cortland. His younger brother Walter later joined him, and the shop did well for about 25 years [1][2].\n\nIt was a busy spot. After the 1906 earthquake new families poured onto the hill, with more than 600 houses built in the year after the disaster [3]. Cortland's grocers, bakers, barbers and butchers grew with them [2]. In the 1920s Dora Munsil kept a hardware and notions shop next door at 450, and her father John ran Post Office Station No. 31 from a nook at the back [2]. A 1909 photograph shows bunting on the house for the Portola Festival, the celebration of the city's recovery [1]. In 1925 a new building replaced both older ones. Good Life Grocery now stands on the site [1][2].",
+    "people": [
+      {
+        "name": "Bridget Richardson",
+        "role": "widow, boarding-house keeper and coal dealer"
+      },
+      {
+        "name": "George Richardson",
+        "role": "founder of Bernal Meats"
+      },
+      {
+        "name": "Dora Munsil",
+        "role": "hardware shopkeeper"
+      }
+    ],
+    "sources": [
+      {
+        "title": "440 Cortland: History of a Meat Market and a Family",
+        "publisher": "Bernal Heights History Project (Gloria Wiegner Lane)",
+        "year": null,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/448cortland.php",
+        "supports": "Richardson family, 1887 move, Clement's 1897 death, coal yard and boarders, 1902 Bernal Meats, 1909 Portola Festival bunting"
+      },
+      {
+        "title": "Cortland Avenue History Walk: 2006 Earthquake Centennial",
+        "publisher": "Bernal Heights History Project (Gail Sansbury, Terry Milne)",
+        "year": 2006,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/cortland.php",
+        "supports": "post-1906 growth of Cortland, Munsil hardware and Post Office Station #31, 1925 replacement building"
+      },
+      {
+        "title": "About Bernal Heights and the Bernal History Project",
+        "publisher": "Bernal Heights History Project",
+        "year": null,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/about.php",
+        "supports": "more than 600 houses built in Bernal in the year after the 1906 disaster"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-1920-gang-war",
+    "title": "Kites, feuds and a fatal shot",
+    "theme": "communities",
+    "year": 1920,
+    "place": {
+      "label": "Bernal Hill, between the Cortland and Precita sides",
+      "lat": 37.742,
+      "lon": -122.415,
+      "precision": "area"
+    },
+    "hook": "In 1920 a feud between boys from the north and south sides of the hill grew into gang fights of 300. Then someone was shot.",
+    "story": "Bernal lore tells of a rivalry between the north and south sides of the hill. In February 1920 it turned deadly. Police said gang fights between the Cortland Avenue and Precita Avenue crowds, involving as many as 300 men and boys, went on for several days [1]. In one brawl, 20-year-old Louis Coppo of Andover Street was shot dead by 15-year-old James Byne of Rutledge Street [1]. The Chronicle's headline called him a \"Boy Bystander\" [2].\n\nFifteen-year-old Philip Ragone of Bessie Street explained it to the Chronicle: \"These boys always come on our side of the hill and break our kites and spoil our games. The feud among us has been going on three years\" [1]. The city sent a special squad of uniformed officers \"instructed to use their clubs freely.\" Some residents asked for something else: a clubhouse and outdoor sports for the hill's young people [1]. That June, residents met to found the Bernal Community Council. By July it had won the neighbourhood a health centre [2].",
+    "people": [
+      {
+        "name": "Louis Coppo",
+        "role": "20-year-old killed in the fighting"
+      },
+      {
+        "name": "James Byne",
+        "role": "15-year-old shooter"
+      },
+      {
+        "name": "Philip Ragone",
+        "role": "15-year-old who explained the feud"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Century of Crime in Bernal",
+        "publisher": "FoundSF (Vicky Walker, Bernal Heights History Project)",
+        "year": 2009,
+        "url": "https://www.foundsf.org/index.php?title=A_Century_of_Crime_in_Bernal",
+        "supports": "February 1920 gang fights, 300 involved, Coppo killed by Byne, Ragone quote, police clubs, calls for a clubhouse"
+      },
+      {
+        "title": "Bernal Heights Historical News Stories",
+        "publisher": "Bernal Heights History Project",
+        "year": null,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/inthenews.php",
+        "supports": "Chronicle headline 'Boy Bystander Killed in Fight of Two S.F. Gangs'; June 1920 Bernal Community Council founding; July 1920 health centre"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-maxwell-sign",
+    "title": "A car ad on the mountaintop",
+    "theme": "labor-industry",
+    "year": 1923,
+    "place": {
+      "label": "North-west face of Bernal Hill",
+      "lat": 37.744,
+      "lon": -122.4168,
+      "precision": "area"
+    },
+    "hook": "Before the Hollywood sign, Bernal Hill wore giant letters spelling MAXWELL, with real cars parked on the summit.",
+    "story": "In July 1923 aerial photographs caught a marketing stunt on Bernal Hill. Huge letters spelling MAXWELL were laid across the north-west face, and cars were parked on the summit to show off the car's climbing ability [1][3]. Terry Milne of the Bernal Heights History Project points out that this was the same year the \"Hollywoodland\" sign went up above Los Angeles [1]. Bernalwood noticed two \"insane tilt-up automobile silhouettes\" at the top as well [2].\n\nThe photos also show a hill still half wild. Grassland and dirt roads cover the slopes, many streets are not yet graded, and there is no road around the top yet. The north and south sides were still cut off from each other [1]. Below lay Bernal Park with its acacias, the old LeConte school of 1912 at Alabama and Norwich, and cleared ground for the new school built in 1924-25 [1]. The brand soon vanished: Maxwell was absorbed by Chrysler and dropped in 1925, which Bernalwood uses to date one aerial view to about 1924 [2]. The hill's two quarry scars on the south side are visible too [2].",
+    "people": [
+      {
+        "name": "Terry Milne",
+        "role": "Bernal Heights History Project historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A 1920s Aerial View of Bernal Heights",
+        "publisher": "FoundSF (Terry Milne)",
+        "year": 2009,
+        "url": "https://www.foundsf.org/index.php?title=A_1920s_Aerial_View_of_Bernal_Heights",
+        "supports": "July 1923 Maxwell stunt, Hollywoodland comparison, ungraded streets, no boulevard, schools and park"
+      },
+      {
+        "title": "In Which We Explore an Aerial View of Bernal Hill, Circa 1924",
+        "publisher": "Bernalwood",
+        "year": 2013,
+        "url": "https://bernalwood.com/2013/11/06/in-which-we-explore-an-aerial-view-of-bernal-hill-circa-1924/",
+        "supports": "car silhouettes at the summit, Maxwell discontinued by Chrysler in 1925, quarry scars"
+      },
+      {
+        "title": "Bernal Heights was once a lawless upstart prone to bogus gold claims",
+        "publisher": "SFGATE (Bob Bragman)",
+        "year": 2016,
+        "url": "https://www.sfgate.com/bayarea/article/Bernal-Heights-a-San-Francisco-1906-survivor-9452382.php",
+        "supports": "photo caption: the hilltop Maxwell ad was a publicity stunt to highlight the car's climbing ability"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-st-marys-park-bell",
+    "title": "A neighbourhood shaped like a bell",
+    "theme": "architecture-landmarks",
+    "year": 1924,
+    "place": {
+      "label": "St. Mary's Park, Agnon Avenue and Justin Drive",
+      "lat": 37.73495,
+      "lon": -122.42233,
+      "precision": "area"
+    },
+    "hook": "From above, the streets of St. Mary's Park trace a giant bell, a tribute to the college that once stood there.",
+    "story": "After St. Mary's College left for Oakland in 1889, its Bernal campus became a parish and then a truck farm growing fruit and vegetables for the city [1]. In 1924 the land was surveyed and opened for building. The developers hired Mark Daniels, the architect behind the residential parks of Sea Cliff and Forest Hill [1]. As a nod to the college, Daniels laid the curving streets out in the shape of a bell. Justin, Agnon and Genebern were named after teaching brothers at the college, and the new tract was called St. Mary's Park [1]. The residents' club today describes the bell as a nod to the college's belfry. It says the neighbourhood's eight landscaped islands, including the College Medians and Benton Island, are what put the \"park\" in its name [2].\n\nThe bell shows up clearly from the air. It appears on the huge wooden scale model of San Francisco built in 1940 from 1938 aerial photographs [1]. Soon after the first families moved in, the city set aside 13 acres to the east for a recreation ground. It paid $87,500 for ten of them, and the Archdiocese donated the rest [1].",
+    "people": [
+      {
+        "name": "Mark Daniels",
+        "role": "architect and planner of St. Mary's Park"
+      }
+    ],
+    "sources": [
+      {
+        "title": "St Mary's Development",
+        "publisher": "FoundSF (Nikki Collister)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=St_Mary%27s_Development",
+        "supports": "truck farm, 1924 subdivision, Mark Daniels, bell layout, street names from teaching brothers, 1940 model, 13-acre recreation land"
+      },
+      {
+        "title": "About St. Mary's Park",
+        "publisher": "St. Mary's Park Improvement Club",
+        "year": 2026,
+        "url": "https://www.stmaryspark.org/about-us/",
+        "supports": "established 1924 on college grounds, bell as nod to the belfry, eight landscaped islands"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-behrenst-diary",
+    "title": "The diary in the attic",
+    "theme": "communities",
+    "year": 1926,
+    "yearEnd": 1931,
+    "place": {
+      "label": "Santa Marina and Elsie Streets",
+      "lat": 37.73952,
+      "lon": -122.42004,
+      "precision": "block"
+    },
+    "hook": "A boy's misspelled diary, found in a Bernal attic, records broken bones, a fall from the quarry and first love.",
+    "story": "Around 1995, a diary was found in the attic of a house at the corner of Santa Marina and Elsie streets. It belonged to Henry Behrenst, a boy whose family moved from Salt Lake City to \"Frisco\" in 1923. When he first saw a ferry boat he \"thought it was a house\" [1]. His entries, all in his own spelling, are a list of disasters. He almost drowned riding rafts at the foot of Army Street, and got burned by firecrackers. In February 1926 his father died. Then, on 3 November 1926, he \"Fell off of the quarry on top of Bernal Heights.\" He thought he had sprained his collarbone, \"but it was broken\" [1][2]. Bernal's summit quarries were real enough: their scars on the south side of the hill show up in 1920s aerial photos [3].\n\nIn August 1930 Henry moved to Elsie Street and met \"a very nice girl her name is Elizebeth Hird she is a blonde... in fact I love her.\" On New Year's Day 1931: \"I got drunk and sit in Elizebeth steps 1 hr. in the rain\" [1]. Decades later Elizabeth's daughters passed a copy of the diary to the History Project. Elizabeth had never known about Henry's heartbreak [1].",
+    "people": [
+      {
+        "name": "Henry Behrenst",
+        "role": "teenage diarist"
+      },
+      {
+        "name": "Elizabeth Hird",
+        "role": "his neighbour and crush"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Henry Behrenst's diary",
+        "publisher": "FoundSF (transcribed by Vicky Walker, Bernal Heights History Project)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Henry_Behrenst%27s_diary",
+        "supports": "diary's discovery, move from Salt Lake City, ferry, Army St rafts, father's death, 1926 quarry fall, Elsie St move, Elizabeth Hird entries"
+      },
+      {
+        "title": "Henry Behrenst's Diary, 1921-1931",
+        "publisher": "Bernal Heights History Project",
+        "year": null,
+        "url": "https://web.archive.org/web/2017/http://www.bernalhistoryproject.org/behrenst.php",
+        "supports": "same transcription: 3 November 1926 quarry fall and broken collarbone"
+      },
+      {
+        "title": "In Which We Explore an Aerial View of Bernal Hill, Circa 1924",
+        "publisher": "Bernalwood",
+        "year": 2013,
+        "url": "https://bernalwood.com/2013/11/06/in-which-we-explore-an-aerial-view-of-bernal-hill-circa-1924/",
+        "supports": "two small quarries on the south side of the hill"
+      }
+    ],
+    "photo": null
+  }
+]

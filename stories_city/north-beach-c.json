@@ -1,0 +1,780 @@
+[
+  {
+    "id": "north-beach-lenny-bruce-jazz-workshop",
+    "title": "Lenny Bruce Busted at the Jazz Workshop",
+    "theme": "arts-counterculture",
+    "year": 1961,
+    "yearEnd": null,
+    "place": {
+      "label": "Jazz Workshop (site), 473 Broadway",
+      "lat": 37.797875,
+      "lon": -122.404946,
+      "precision": "building"
+    },
+    "hook": "Police sat in the audience waiting for one dirty word. Lenny Bruce gave them plenty, and a North Beach jury ended up defending his right to say it.",
+    "story": "In early October 1961 the comedian Lenny Bruce played a two-night run at the Jazz Workshop, a North Beach club at 473 Broadway [1][3]. He arrived trailing trouble: a week earlier he had been arrested in Philadelphia on a narcotics charge, and on his first night he ridiculed the Philadelphia police. A newspaper wrote up the show, and on the second night San Francisco officers sat in the audience listening for anything they could call obscene [1][2]. Bruce obliged. He mocked the city's policing of gay bars, repeated a word no newspaper would print, and played on the double meaning of \"to come.\" Police booked him at the end of the set [1][2]. His lawyer, the First Amendment attorney Albert Bendich, told the jury that Bruce belonged to the tradition of Aristophanes and Jonathan Swift. Jazz critics and literature professors testified, jurors listened to a tape of the whole performance, and they acquitted him [2]. The verdict widened the room for free speech on stage, but it also marked the start of Bruce's decline. Arrests followed in Los Angeles, Chicago and New York, and he died in 1966 [1][2].",
+    "people": [
+      {
+        "name": "Lenny Bruce",
+        "role": "comedian"
+      },
+      {
+        "name": "Albert Bendich",
+        "role": "defense lawyer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lenny Bruce at FBI",
+        "publisher": "FoundSF",
+        "year": 2014,
+        "url": "https://www.foundsf.org/index.php?title=Lenny_Bruce_at_FBI",
+        "supports": "Oct 3-4, 1961 run at the Jazz Workshop; police attended second night after press report; routine content; booking; acquittal; death 1966"
+      },
+      {
+        "title": "The Trials of Lenny Bruce",
+        "publisher": "Famous Trials (Douglas O. Linder)",
+        "year": null,
+        "url": "https://famous-trials.com/lennybruce/556-home",
+        "supports": "Philadelphia narcotics arrest a week earlier; Albert Bendich's Aristophanes/Swift defense; expert witnesses; tape; acquittal; later arrests"
+      },
+      {
+        "title": "Jazz Workshop",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Jazz_Workshop",
+        "supports": "Club address at 473 Broadway, North Beach"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-carol-doda-condor",
+    "title": "The Night the Condor Went Topless",
+    "theme": "arts-counterculture",
+    "year": 1964,
+    "yearEnd": 1987,
+    "place": {
+      "label": "Condor Club, 300 Columbus Ave at Broadway",
+      "lat": 37.79814,
+      "lon": -122.40683,
+      "precision": "building"
+    },
+    "hook": "A cocktail waitress, a white piano lowered from the ceiling, and a daring swimsuit. One June night on Broadway set off a nationwide craze.",
+    "story": "On June 19, 1964, Carol Doda, a 26-year-old former cocktail waitress who sang and go-go danced at the Condor Club, went on stage in a \"monokini\", the designer Rudi Gernreich's topless swimsuit. The club's publicist, Davey Rosenberg, had handed it to her with the words \"Try this in the act\" [1]. Her entrance was already pure theatre: she danced on top of a white grand piano as it was lowered from the ceiling [1][3]. Less than a month later, delegates to the Republican convention that nominated Barry Goldwater were slipping away from the Cow Palace to see her [1]. Police arrested her some months later, but she was acquitted on community standards, and the ruling let bare-breasted dancing spread [1][3]. At the peak, as many as 28 North Beach clubs had topless acts [2]. The Condor's topless era ended with a grand finale on New Year's Eve 1987. In 1991 a new owner announced that the club's 40-foot sign of Doda, complete with blinking nipples, would come down [2]. In 2022 the city added the Condor to its Legacy Business Registry [3].",
+    "people": [
+      {
+        "name": "Carol Doda",
+        "role": "dancer"
+      },
+      {
+        "name": "Davey Rosenberg",
+        "role": "Condor Club publicist"
+      },
+      {
+        "name": "Walter Pastore",
+        "role": "owner from 1990"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Carol Doda, Pioneer of Topless Entertainment, Dies at 78",
+        "publisher": "The New York Times",
+        "year": 2015,
+        "url": "https://www.nytimes.com/2015/11/12/arts/dance/carol-doda-pioneer-of-topless-entertainment-dies-at-78.html",
+        "supports": "June 19, 1964 debut, age 26, monokini from Rosenberg, piano entrance, GOP convention delegates, acquittal"
+      },
+      {
+        "title": "Topless Era Sign to Be Stripped Away",
+        "publisher": "Los Angeles Times",
+        "year": 1991,
+        "url": "https://www.latimes.com/archives/la-xpm-1991-08-23-mn-984-story.html",
+        "supports": "40-foot sign removed, 28 topless clubs at peak, New Year's Eve 1987 finale, 'killer piano'"
+      },
+      {
+        "title": "Condor Club, 'world's first topless bar,' will get boost from the city",
+        "publisher": "The San Francisco Standard",
+        "year": 2022,
+        "url": "https://sfstandard.com/business/first-strip-club-san-francisco-america-legacy/",
+        "supports": "Opened 1958 as music venue, arrest and acquittal, piano, Legacy Business listing 2022"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-mabuhay-gardens",
+    "title": "The Fab Mab and the Pope of Punk",
+    "theme": "arts-counterculture",
+    "year": 1977,
+    "yearEnd": 1987,
+    "place": {
+      "label": "Mabuhay Gardens, 443 Broadway",
+      "lat": 37.797892,
+      "lon": -122.404499,
+      "precision": "building"
+    },
+    "hook": "A Filipino supper club became the loudest room in San Francisco, run by an emcee who insulted everyone and got his nose broken seven times.",
+    "story": "Mabuhay Gardens at 443 Broadway was a Filipino restaurant before it became ground zero for San Francisco punk in the late 1970s and '80s [1]. Local bands like the Avengers, Dead Kennedys and the Nuns played its basement stage, and touring acts from Devo to the Cramps came through until it closed in 1987 [1]. Running the show was Dirk Dirksen, the self-styled \"pope of punk,\" who baited crowds and bands alike, often with his little dog, Dummy, tucked under his arm [2]. He once told an audience to \"show some intelligence and sophistication and not just accept any slop that's thrown in your trough\" [2]. He reckoned his nose had been broken seven times. Every year he staged a mock torture of himself for his birthday, and one year he had himself burned at the stake [2]. Robin Williams described comedy hell as \"opening for the Ramones at the Mabuhay Gardens\" [2]. After the club closed, the building became a dinner theatre and events hall. In 2025, after the death of owner Francesca Valdez, neighbours and investors began raising money to buy it and bring back the Mab [1].",
+    "people": [
+      {
+        "name": "Dirk Dirksen",
+        "role": "promoter and emcee"
+      },
+      {
+        "name": "Francesca Valdez",
+        "role": "building owner from 1989"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Legendary SF Punk Club Mabuhay Gardens Is on the Verge of Reopening",
+        "publisher": "KQED",
+        "year": 2025,
+        "url": "https://www.kqed.org/arts/13980619/mabuhay-gardens-reopening-sf-punk-club-north-beach",
+        "supports": "Filipino restaurant, punk bands, 1987 closure, Valdez's death, revival campaign"
+      },
+      {
+        "title": "Dirk Dirksen -- 'pope of punk' amused, insulted S.F. crowds",
+        "publisher": "San Francisco Chronicle",
+        "year": 2006,
+        "url": "https://web.archive.org/web/20110203214628/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/11/22/BAGCJMHQ8B1.DTL",
+        "supports": "'Pope of punk', insults quote, dog Dummy, nose broken seven times, birthday mock tortures, Robin Williams quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-caffe-trieste-50",
+    "title": "Cappuccino, Opera and The Godfather",
+    "theme": "communities",
+    "year": 2006,
+    "yearEnd": null,
+    "place": {
+      "label": "Caffe Trieste, 601 Vallejo St at Grant Ave",
+      "lat": 37.798651,
+      "lon": -122.407365,
+      "precision": "building"
+    },
+    "hook": "A window washer who dreamed of opera taught North Beach to drink cappuccino, and Francis Ford Coppola wrote a masterpiece at a back table.",
+    "story": "On April 1, 2006, Caffe Trieste at Grant and Vallejo turned 50. To celebrate, it sold cappuccinos for 30 cents and espressos for 25, its 1956 prices [1]. The founder, Giovanni \"Papa Gianni\" Giotta, then 85, had been a poor fisherman who studied opera in Trieste. He emigrated, washed windows, and opened the cafe, which his family says was the first espresso bar on the West Coast [1][2]. \"It was all Italian people,\" he remembered. \"But I got the American people to like cappuccino\" [1]. Before long the Beat writers outnumbered the Italians, with Ferlinghetti, Ginsberg and Kerouac among the regulars [1][2]. Along the back wall is the table where a young Francis Ford Coppola spent months working on the screenplay for The Godfather, and a photo above the jukebox shows him typing there [1][2]. On Saturday afternoons the family sang: Papa Gianni with his sons Fabio and Gianfranco [2]. Off stage, the harmony faded. After Papa Gianni died in January 2016 at 96, a long-running family feud ended up in court in 2017, when Fabio sued to dissolve the company that ran the cafe [2].",
+    "people": [
+      {
+        "name": "Giovanni 'Papa Gianni' Giotta",
+        "role": "founder"
+      },
+      {
+        "name": "Francis Ford Coppola",
+        "role": "filmmaker and regular"
+      },
+      {
+        "name": "Fabio Giotta",
+        "role": "son, singer, plaintiff"
+      }
+    ],
+    "sources": [
+      {
+        "title": "50 Years of Art and Coffee: An espresso pioneer, North Beach's famed Caffe Trieste",
+        "publisher": "San Francisco Chronicle",
+        "year": 2006,
+        "url": "https://www.sfgate.com/news/article/50-years-of-art-and-coffee-an-espresso-pioneer-2520900.php",
+        "supports": "50th anniversary, 1956 prices, Giotta biography and quote, Coppola's table, Beat regulars"
+      },
+      {
+        "title": "Caffe Trieste, popular North Beach landmark, roiled by family feud, lawsuit",
+        "publisher": "San Francisco Chronicle",
+        "year": 2017,
+        "url": "https://www.sfgate.com/bayarea/article/Caffe-Trieste-popular-North-Beach-landmark-11824883.php",
+        "supports": "First West Coast espresso bar (family claim), Coppola photo, Saturday concerts, Giotta's death in 2016 at 96, 2017 lawsuit"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-pier39-sea-lions",
+    "title": "The Sea Lions Who Took K Dock",
+    "theme": "parks-nature",
+    "year": 1990,
+    "yearEnd": null,
+    "place": {
+      "label": "K Dock, Pier 39 marina",
+      "lat": 37.8093,
+      "lon": -122.4103,
+      "precision": "area"
+    },
+    "hook": "A few sea lions flopped onto an empty marina dock in 1989. Within months there were hundreds, and the boat owners were the ones who had to leave.",
+    "story": "In September 1989 a handful of California sea lions, six to ten of them, began hauling out on K dock at Pier 39's marina. The dock had just been refurbished and was briefly empty of boats [1]. The Loma Prieta earthquake hit on October 17, and many people still credit it for the move, but the animals were already there [1]. By mid-January 1990 there were about 150, and by March more than 400 [1]. Owners of the 11 boats on K dock had to step around animals weighing 100 to 1,000 pounds, and at least one Telegraph Hill resident phoned to complain about the noise [1]. Pier 39 issued a press release about the \"invasion\" on January 19, 1990, and the press dubbed the newcomers the \"Boys of Blubber\" [1]. On the Marine Mammal Center's advice, the boats were moved and the dock was given to the sea lions [1]. They became one of the city's great free shows. In May 2024, drawn by a feast of anchovies, some 1,100 to 1,200 crowded the docks, the most in 15 years [2]. In 2023 they narrowly lost a public vote for official city animal to the wild parrots [3].",
+    "people": [
+      {
+        "name": "Sheila Chandor",
+        "role": "Pier 39 harbormaster (2024)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A History of the Sea Lions at PIER 39",
+        "publisher": "The Marine Mammal Center",
+        "year": 2002,
+        "url": "https://web.archive.org/web/20020218192911/http://www.marinemammalcenter.org/learning/education/pier39/history.asp",
+        "supports": "Sept 1989 arrival at K dock, earthquake timing, 1990 counts, press release, nicknames, boats relocated"
+      },
+      {
+        "title": "'Essentially a gas station,' fishy feast draws sea lions to Pier 39 in numbers not seen in 15 years",
+        "publisher": "Los Angeles Times",
+        "year": 2024,
+        "url": "https://www.latimes.com/california/story/2024-05-08/fishy-feast-draws-sea-lions-to-pier-39-in-numbers-not-seen-in-15-years",
+        "supports": "1,100-1,200 sea lions in May 2024, highest in 15 years"
+      },
+      {
+        "title": "S.F. has a new official animal. Long may the wild parrots fly!",
+        "publisher": "San Francisco Chronicle",
+        "year": 2023,
+        "url": "https://www.sfchronicle.com/bayarea/article/official-animal-wild-parrot-17869732.php",
+        "supports": "Sea lions lost the official-animal vote to the parrots"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-lusty-lady-union",
+    "title": "The Peep Show That Joined a Union",
+    "theme": "labor-industry",
+    "year": 1997,
+    "yearEnd": 2013,
+    "place": {
+      "label": "Lusty Lady, 1033 Kearny St",
+      "lat": 37.79758,
+      "lon": -122.405734,
+      "precision": "building"
+    },
+    "hook": "Tired of hidden cameras and random firings, the dancers behind the glass on Kearny Street organized, won a contract, and later bought the business.",
+    "story": "At the Lusty Lady, 1033 Kearny Street, dancers performed behind glass for customers who paid by the minute [1]. In 1996 they started organising, angry about arbitrary firings, pay cuts, and one-way windows that let customers secretly photograph and film them [1][2]. Management fought back with lawyers, propaganda and a two-day lockout, but the workers voted 57 to 15 to join Service Employees International Union Local 790, forming the Exotic Dancers Union [1][2]. In April 1997 about 100 strippers, bouncers, cashiers and janitors ratified a first contract: pay of $12 to $25 an hour, grievance procedures, a sick day, and the removal of the one-way mirrors [2]. \"They're tough, and they don't like injustice,\" said union representative Stephanie Batey, as calls poured in from dancers in Texas, Kansas and Massachusetts [2]. When the owners announced in 2003 that they would close, the workers bought the business and ran it as a cooperative [1]. It lasted another decade. After the co-op missed a rent payment, the landlord would not negotiate, and the country's only unionised, dancer-run peep show closed on September 2, 2013, which was Labor Day [3].",
+    "people": [
+      {
+        "name": "Stephanie Batey",
+        "role": "SEIU Local 790 field representative"
+      },
+      {
+        "name": "Lily Burana",
+        "role": "former dancer and writer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Brief History of the Lusty Lady Theater",
+        "publisher": "Lusty Lady (lustyladysf.com)",
+        "year": 2009,
+        "url": "https://web.archive.org/web/20090916051409/http://www.lustyladysf.com/history.html",
+        "supports": "Address, 1996 drive, grievances, SEIU 790, 57-15 vote, Exotic Dancers Union, 2003 co-op buyout"
+      },
+      {
+        "title": "S.F. Strip Club Ratifies Union -- First in U.S.",
+        "publisher": "San Francisco Chronicle",
+        "year": 1997,
+        "url": "https://web.archive.org/web/20090531173752/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1997/04/11/MN54362.DTL",
+        "supports": "Contract terms, wage scale, lockout, one-way mirrors removed, Batey quotes"
+      },
+      {
+        "title": "What It Was Like to Work at the Lusty Lady, a Unionized Strip Club",
+        "publisher": "The Atlantic",
+        "year": 2013,
+        "url": "https://www.theatlantic.com/national/archive/2013/08/what-it-was-like-to-work-at-the-lusty-lady-a-unionized-strip-club/279236/",
+        "supports": "Closure on September 2, 2013; landlord refused to negotiate after missed rent; only unionized dancer-run peep show"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-finocchios-closes",
+    "title": "What a Drag: Finocchio's Final Bow",
+    "theme": "lgbtq",
+    "year": 1999,
+    "yearEnd": null,
+    "place": {
+      "label": "Finocchio's, 506 Broadway",
+      "lat": 37.798118,
+      "lon": -122.405679,
+      "precision": "building"
+    },
+    "hook": "For 63 years tourists climbed the stairs above Broadway to see men in spangled gowns. Then the rent went up.",
+    "story": "For 63 years, tourists and locals climbed to Finocchio's at 506 Broadway, above what became Enrico's cafe, to watch men in spangled gowns sing, dance and crack bawdy jokes [1][2]. Joe Finocchio, who had worked in his father's Prohibition speakeasy, got the idea at his own Stockton Street speakeasy when a tipsy customer did a dead-on Sophie Tucker. He moved the show to Broadway in 1936 and was promptly raided [1][2]. The emcee Carroll Wallace opened each show with: \"In New York, Mr. Ziegfeld glorified the American girl ... Here at Finocchio's, we glorify the American boy\" [2]. Headliners included Lucien Phelps, a Sophie Tucker specialist for 27 years, and the 6-foot-5 Don McLean, known on stage as Lori Shannon, who played Archie Bunker's drag queen friend on All in the Family [1]. Bob Hope and Tallulah Bankhead came, and Gray Line buses unloaded crowds night after night [1]. By 1999 the buses had stopped. When the landlord raised the rent from $4,000 to $6,000 a month, Eve Finocchio, who had run the club since Joe's death in 1986, announced it would close on November 27 [1]. Lawrence Ferlinghetti's three-word eulogy: \"What a drag\" [1].",
+    "people": [
+      {
+        "name": "Joe Finocchio",
+        "role": "founder"
+      },
+      {
+        "name": "Eve Finocchio",
+        "role": "owner 1986-1999"
+      },
+      {
+        "name": "Carroll Wallace",
+        "role": "emcee"
+      },
+      {
+        "name": "Don McLean (Lori Shannon)",
+        "role": "performer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "What a Drag: Finocchio's to Close",
+        "publisher": "San Francisco Chronicle",
+        "year": 1999,
+        "url": "https://www.sfgate.com/news/article/What-a-Drag-Finocchio-s-to-Close-2899225.php",
+        "supports": "Closing date, rent rise, Eve Finocchio, origins, 1936 raid, performers, celebrities, Ferlinghetti quote"
+      },
+      {
+        "title": "Remembering Finocchio's, the North Beach club that arguably gave birth to American drag",
+        "publisher": "Hoodline",
+        "year": 2022,
+        "url": "https://hoodline.com/2022/10/remembering-finocchio-s-the-north-beach-club-that-arguably-gave-birth-to-american-drag/",
+        "supports": "408 Stockton origins, 506 Broadway above Enrico's, Carroll Wallace's opening line"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-city-lights-landmark",
+    "title": "A Bookstore Declared a Landmark",
+    "theme": "modern-city",
+    "year": 2000,
+    "yearEnd": 2001,
+    "place": {
+      "label": "City Lights Bookstore, 261 Columbus Ave",
+      "lat": 37.797601,
+      "lon": -122.406579,
+      "precision": "building"
+    },
+    "hook": "As dot-com money swept through San Francisco, the Beats' old bookstore got protection usually given to buildings, not businesses.",
+    "story": "By 2000 the dot-com boom was sending rents soaring, and City Lights, the bookstore Lawrence Ferlinghetti had opened in 1953, was feeling it. Ferlinghetti said a computer company had tried to push the store out by making the building's owners a huge offer [2]. San Franciscans rallied behind the shop. In June 2000 a city advisory board unanimously backed landmark status for its 1907 building, which would make it hard to demolish [1]. The Daily Telegraph reported that this was the first time landmark status had been offered to a business rather than just a building, in recognition of its \"cultural value\" [2]. \"Being recognized as a landmark is sort of a bulwark against the dumbing down of America,\" Ferlinghetti said [1]. His co-owner Nancy Peters warned, \"The old San Francisco is under attack to the point where it's disappearing\" [2]. It was a fitting fight for a store whose founder had been arrested in 1957 for selling Allen Ginsberg's \"Howl\" [1]. The city designated it Landmark No. 228 in 2001 [3]. The shop outlasted the boom, and Ferlinghetti marked his 100th birthday in March 2019 with a new novel [4].",
+    "people": [
+      {
+        "name": "Lawrence Ferlinghetti",
+        "role": "poet and co-founder"
+      },
+      {
+        "name": "Nancy Peters",
+        "role": "co-owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark status likely for beatnik-era bookstore",
+        "publisher": "CNN",
+        "year": 2000,
+        "url": "https://web.archive.org/web/20080321115758/http://archives.cnn.com/2000/books/news/06/27/beat.establishment/",
+        "supports": "Advisory board endorsement, 1907 building, Ferlinghetti quote, 1957 Howl arrest"
+      },
+      {
+        "title": "'Beat city' fights dotcom gold rush",
+        "publisher": "The Daily Telegraph",
+        "year": 2000,
+        "url": "https://web.archive.org/web/20080321055440/http://www.telegraph.co.uk/news/main.jhtml?xml=%2Fnews%2F2000%2F09%2F06%2Fwsan06.xml",
+        "supports": "Computer company eviction attempt, first landmark status for a business, Peters quote"
+      },
+      {
+        "title": "City Lights Bookstore",
+        "publisher": "Wikipedia (citing SF Planning landmark list)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/City_Lights_Bookstore",
+        "supports": "San Francisco Designated Landmark No. 228, 2001"
+      },
+      {
+        "title": "Literary Icon Lawrence Ferlinghetti Marks His 100th Birthday With New Work",
+        "publisher": "KQED",
+        "year": 2019,
+        "url": "https://www.kqed.org/news/11732637/literary-icon-lawrence-ferlinghetti-marks-his-100th-birthday-with-new-work",
+        "supports": "100th birthday on March 24, 2019 and new novel"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-musee-mecanique-pier45",
+    "title": "Laughing Sal Moves to the Wharf",
+    "theme": "modern-city",
+    "year": 2002,
+    "yearEnd": null,
+    "place": {
+      "label": "Musée Mécanique, Shed A, Pier 45",
+      "lat": 37.8086,
+      "lon": -122.4168,
+      "precision": "building"
+    },
+    "hook": "Evicted from the Cliff House, a century-old arcade of fortune tellers and cackling automatons found a new home among Fisherman's Wharf fish sheds.",
+    "story": "For nearly a century, coin-operated amusement machines had whirred and clicked at the Cliff House, on the city's far western edge [1]. In February 2002 came the news that the Musée Mécanique had to be out by September 10: the National Park Service was rebuilding the Cliff House, and its plans had no room for the museum [1]. \"All we have to offer here,\" said manager Dan Zelinsky, \"is a good time\" [1]. The machines found a new home on the other side of the city, in Shed A on Pier 45 at Fisherman's Wharf [2][3]. The collection had begun with Zelinsky's father, who started collecting at 11 and filled the family's basement near the Presidio [3]. Today visitors feed coins to Laughing Sal, the gap-toothed cackler from Playland at the Beach, to a Ferris wheel made of toothpicks by San Quentin inmates, and to a Wurlitzer organ first installed in a Tennessee merry-go-round in 1917, which Zelinsky, gliding between machines on roller skates, oils himself [2][3]. When the pandemic shut the doors in March 2020, the museum asked the public for $250,000, \"or one million quarters,\" to get through a year [3].",
+    "people": [
+      {
+        "name": "Dan Zelinsky",
+        "role": "owner and manager"
+      },
+      {
+        "name": "Edward Galland Zelinsky",
+        "role": "collector"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Old and in the way / The Musee Mecanique will soon be history",
+        "publisher": "San Francisco Chronicle",
+        "year": 2002,
+        "url": "https://www.sfgate.com/news/article/Old-and-in-the-way-The-Musee-Mecanique-will-2868971.php",
+        "supports": "Cliff House eviction, Sept. 10 deadline, Park Service rebuild, Zelinsky quote"
+      },
+      {
+        "title": "Pier 45 and the Musee Mecanique",
+        "publisher": "San Francisco Chronicle",
+        "year": 2009,
+        "url": "https://www.sfgate.com/outdoors/article/Pier-45-and-the-Musee-Mecanique-3295573.php",
+        "supports": "Shed A at Pier 45, Laughing Sal from Playland, toothpick Ferris wheel by San Quentin inmates"
+      },
+      {
+        "title": "Meet the second-generation owner behind San Francisco's Musée Mécanique",
+        "publisher": "SFGATE",
+        "year": 2019,
+        "url": "https://www.sfgate.com/entertainment/article/The-quirkiest-tourist-attraction-in-SF-started-in-14815427.php",
+        "supports": "Father's collection and basement, 1917 Wurlitzer, roller skates, 2020 closure and $250,000 appeal"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-parrot-feeding-ban",
+    "title": "Don't Feed the Parrots",
+    "theme": "parks-nature",
+    "year": 2007,
+    "yearEnd": 2023,
+    "place": {
+      "label": "Telegraph Hill east slope",
+      "lat": 37.8016,
+      "lon": -122.4045,
+      "precision": "area"
+    },
+    "hook": "A homeless man befriended a flock of escaped pet conures, a film made them famous, and then City Hall had to step in.",
+    "story": "The wild parrots linked with Telegraph Hill are cherry-headed conures, a species native to a small area of Ecuador and Peru. Their ancestors were most likely pets from the exotic-bird trade that escaped or were set free [2]. Their best-known friend was Mark Bittner, who had arrived in San Francisco homeless and began feeding the birds and naming them. \"The parrots got me off the street,\" he said [3]. Judy Irving's 2003 documentary The Wild Parrots of Telegraph Hill made the flock famous [3]. Fame brought fans with sunflower seeds. In June 2007 the Board of Supervisors voted 10 to 1 to ban feeding the birds in city parks, with fines of up to $100 [1]. Board President Aaron Peskin compared it to not feeding Yosemite's grizzlies. Bittner backed the ban, while neighbours of Ferry Park, where the birds fed in the evenings, planned one last feeding [1]. The flock grew from dozens in the 1990s to an estimated 250 to 300 birds [3]. In 2023 the parrots were voted San Francisco's official animal, beating the Pier 39 sea lions with 51.3 percent [4]. Bittner still says the name is wrong: \"Telegraph Hill is a misnomer\" [2].",
+    "people": [
+      {
+        "name": "Mark Bittner",
+        "role": "parrot chronicler"
+      },
+      {
+        "name": "Judy Irving",
+        "role": "filmmaker"
+      },
+      {
+        "name": "Aaron Peskin",
+        "role": "Board of Supervisors president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Supes OK ban on feeding parrots",
+        "publisher": "San Francisco Chronicle",
+        "year": 2007,
+        "url": "https://www.sfgate.com/bayarea/article/SAN-FRANCISCO-Supes-OK-ban-on-feeding-parrots-2588772.php",
+        "supports": "10-1 vote, $100 fine, Peskin quote, Bittner support, Ferry Park opposition"
+      },
+      {
+        "title": "Where Did the Wild Parrots of San Francisco Come From?",
+        "publisher": "KQED",
+        "year": 2016,
+        "url": "https://www.kqed.org/news/11185731/where-did-the-wild-parrots-of-san-francisco-come-from",
+        "supports": "Species and origin, pet trade, Bittner's 'misnomer' quote"
+      },
+      {
+        "title": "Wild Parrots of San Francisco Documentary Opens",
+        "publisher": "The San Francisco Standard",
+        "year": 2024,
+        "url": "https://sfstandard.com/2024/01/12/san-francisco-wild-parrots-telegraph-hill-documentary/",
+        "supports": "Bittner homeless, naming the birds, quote, flock size, support for 2007 law"
+      },
+      {
+        "title": "S.F. has a new official animal. Long may the wild parrots fly!",
+        "publisher": "San Francisco Chronicle",
+        "year": 2023,
+        "url": "https://www.sfchronicle.com/bayarea/article/official-animal-wild-parrot-17869732.php",
+        "supports": "Official animal vote, 51.3% over sea lions"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-coit-alcatraz-projection",
+    "title": "Coit Tower Becomes a Movie Screen",
+    "theme": "civil-rights",
+    "year": 2009,
+    "yearEnd": null,
+    "place": {
+      "label": "Coit Tower, 1 Telegraph Hill Blvd",
+      "lat": 37.802312,
+      "lon": -122.405884,
+      "precision": "building"
+    },
+    "hook": "On Thanksgiving eve, the white tower atop Telegraph Hill lit up with films of the Native American occupation of Alcatraz, visible for miles.",
+    "story": "On the eve of Thanksgiving 2009, Coit Tower became a movie screen. The artists Ben Wood and David Mark put three projectors on neighbourhood rooftops, each one covering 120 degrees of the 210-foot fluted tower, and used new software to correct for its grooved surface [1]. On two nights, from about 7 p.m. until dawn, the tower showed films about the Native American occupation of Alcatraz, which had begun 40 years earlier. The soundtrack went out on KPOO 89.5 FM, and organisers said the images could be seen from three miles away [1]. The occupation began on November 20, 1969, when a group calling itself Indians of All Tribes, many of them young urban college students, took the island. It lasted until June 11, 1971 [2]. The screenings also honoured the Ohlone, whose territory ran from San Francisco to Big Sur. Ann-Marie Sayers of Indian Canyon, a consortium of Ohlone tribes, worked on the project. \"This serves as an awareness,\" she said, \"that as a people we are still here\" [1]. Wood had once imagined the white tower as a totem pole. Rec and Park and the Telegraph Hill Dwellers approved the show [1].",
+    "people": [
+      {
+        "name": "Ben Wood",
+        "role": "artist"
+      },
+      {
+        "name": "David Mark",
+        "role": "artist"
+      },
+      {
+        "name": "Ann-Marie Sayers",
+        "role": "chair, Indian Canyon"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Coit a towering reminder of Alcatraz occupation",
+        "publisher": "San Francisco Chronicle",
+        "year": 2009,
+        "url": "https://www.sfgate.com/bayarea/article/Coit-a-towering-reminder-of-Alcatraz-occupation-3280453.php",
+        "supports": "Projection details, dates, KPOO broadcast, Ohlone honour, Sayers quote, approvals"
+      },
+      {
+        "title": "We Hold the Rock: The Alcatraz Indian Occupation",
+        "publisher": "National Park Service",
+        "year": null,
+        "url": "https://www.nps.gov/alca/learn/historyculture/we-hold-the-rock.htm",
+        "supports": "Occupation dates Nov 20, 1969 - June 11, 1971; Indians of All Tribes; student participants"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-las-posadas",
+    "title": "Mary on a Donkey, Seeking Room",
+    "theme": "communities",
+    "year": 2010,
+    "yearEnd": null,
+    "place": {
+      "label": "Saints Peter and Paul Church, 666 Filbert St",
+      "lat": 37.801368,
+      "lon": -122.410434,
+      "precision": "building"
+    },
+    "hook": "A parishioner and a homeless dog walker invented a North Beach Christmas procession about people with nowhere to stay.",
+    "story": "In 2006 Marc Bruno, a parishioner at Saints Peter and Paul, and Vincent Depasqua, then homeless, came up with a North Beach version of Las Posadas, the Mexican Christmas re-enactment of Mary and Joseph's search for room at the inn [1]. Depasqua, a well-loved neighbourhood figure and dog walker, built many of the props, including the huge lanterns, and brought other homeless people to walk in the procession [1]. On December 23 it set off from the National Shrine of St. Francis of Assisi on Vallejo Street, stopped at four street corners to pray for the less fortunate, and ended on the steps of Saints Peter and Paul on Washington Square. There \"Joseph\" asked for room, and the church doors opened [1]. American Conservatory Theater lent biblical-looking costumes, and a mariachi band played [1]. In 2010 Mary was played by Michelle Lambert, a Berklee music student and former parishioner, who rode a donkey in silence [1][2]. Depasqua was not there that year. He had died in March of an alcohol overdose [1]. \"We have a place and we think about those who don't,\" Bruno said [1]. The church, once the heart of Italian North Beach, now also holds Masses in Cantonese [2].",
+    "people": [
+      {
+        "name": "Marc Bruno",
+        "role": "parishioner and organizer"
+      },
+      {
+        "name": "Vincent Depasqua",
+        "role": "co-founder, prop builder"
+      },
+      {
+        "name": "Michelle Lambert",
+        "role": "played Mary"
+      }
+    ],
+    "sources": [
+      {
+        "title": "North Beach festival highlights parallels between homeless, Holy Family",
+        "publisher": "Catholic San Francisco",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20160424092534/http://www.catholic-sf.org/news_select.php?id=57956",
+        "supports": "Origins in 2006, Depasqua, route, costumes, mariachi, Lambert as Mary, Bruno quote"
+      },
+      {
+        "title": "Saints Peter and Paul Church, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Saints_Peter_and_Paul_Church,_San_Francisco",
+        "supports": "Italian, Cantonese and English Masses; Lambert's 2010 Las Posadas role"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-gary-kray-marchant-garden",
+    "title": "The Gardener Who Kept a Promise",
+    "theme": "parks-nature",
+    "year": 2012,
+    "yearEnd": null,
+    "place": {
+      "label": "Grace Marchant Garden, Filbert Steps at Napier Lane",
+      "lat": 37.802283,
+      "lon": -122.403753,
+      "precision": "block"
+    },
+    "hook": "As a boy he met the woman gardening a former dump on the Filbert Steps. He spent the next 33 years keeping her garden alive, unpaid.",
+    "story": "As a boy in the 1950s, exploring the city alone by streetcar and on foot, Gary Kray wandered up the Filbert Steps and met the woman tending a garden there [1]. She was Grace Marchant, who had moved to Napier Lane in 1949, when the steps ran through an informal garbage dump. The city let her burn the trash, and the story goes that the fire burned for three days [2]. In 1975, with her help, Kray moved into the 1855 cottage next door at 10 Napier Lane. From 1979 he did the pruning and weeding she could no longer manage [1]. Before she died in 1982 at 96, she asked him to carry on her work [1]. He did, without pay, for 33 years, as long as she had worked there, adding palms, Italian cypresses, tree ferns and dozens of roses [1]. He drove a night taxi to keep his days free. When development threatened the garden in the 1980s, neighbours formed Friends of the Garden and, with the Trust for Public Land, protected it for good [1][2]. His Halloween jack-o'-lanterns grew to more than 300 glowing faces, until the crowds forced him to stop [1]. Kray died at home on Napier Lane on September 7, 2012, aged 70 [1].",
+    "people": [
+      {
+        "name": "Gary Kray",
+        "role": "gardener"
+      },
+      {
+        "name": "Grace Marchant",
+        "role": "garden founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gary Kray, Tender of the Grace Marchant Garden (from The Semaphore #200)",
+        "publisher": "FoundSF / Telegraph Hill Dwellers",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Gary_Kray,_Tender_of_the_Grace_Marchant_Garden",
+        "supports": "Kray biography, 10 Napier Lane, 1979 start, Marchant's request, plantings, taxi, FOG, jack-o'-lanterns, death"
+      },
+      {
+        "title": "Filbert Steps and Grace Marchant Gardens",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Filbert_Steps_and_Grace_Marchant_Gardens",
+        "supports": "Marchant's 1949 arrival, garbage dump, three-day fire, Trust for Public Land preservation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-pier45-fire",
+    "title": "Fire at the Fishermen's Pier",
+    "theme": "labor-industry",
+    "year": 2020,
+    "yearEnd": null,
+    "place": {
+      "label": "Pier 45, Fisherman's Wharf",
+      "lat": 37.8104,
+      "lon": -122.4185,
+      "precision": "area"
+    },
+    "hook": "Before dawn in the pandemic spring, flames tore through a fish warehouse on Pier 45 and crept toward a ship that had sailed to D-Day.",
+    "story": "Shortly after 4 a.m. on May 23, 2020, fire broke out in a fish processing and storage warehouse the size of a football field near the end of Pier 45 [1]. Alejandro Arellano of La Rocca Seafood was cleaning out a fish locker when it began. \"I saw a lot of smoke. A few minutes later, fire everywhere,\" he said [1]. More than 130 firefighters fought the blaze. The warehouse walls collapsed, the first fire engine to arrive was singed, and a fireboat kept the flames off the SS Jeremiah O'Brien, a Liberty ship that took part in D-Day, which was docked alongside [1]. The fire stayed at the far end of the pier, away from the Musée Mécanique and Alioto's [1]. It came when the Wharf was already shut under the pandemic stay-at-home order. \"The seafood industry didn't need this now,\" said Kenny Belov of the wholesaler TwoXSea, who worried a power cut would spoil the fish in his freezers [1]. Pier 45, the city's longest pier, is where San Francisco's fishing industry hangs on, \"still alive, although smaller than in its glory days\" [2].",
+    "people": [
+      {
+        "name": "Alejandro Arellano",
+        "role": "La Rocca Seafood worker"
+      },
+      {
+        "name": "Kenny Belov",
+        "role": "owner, TwoXSea"
+      },
+      {
+        "name": "Jonathan Baxter",
+        "role": "SF Fire Department lieutenant"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fire destroys warehouse on San Francisco's Fisherman's Wharf",
+        "publisher": "Associated Press / ABC News",
+        "year": 2020,
+        "url": "https://web.archive.org/web/20210124134005/https://abcnews.go.com/US/wireStory/fire-destroys-warehouse-san-franciscos-fishermans-wharf-70850368",
+        "supports": "Date, time, warehouse, Arellano and Belov quotes, 130 firefighters, Jeremiah O'Brien, pandemic closure"
+      },
+      {
+        "title": "Pier 45 and the Musee Mecanique",
+        "publisher": "San Francisco Chronicle",
+        "year": 2009,
+        "url": "https://www.sfgate.com/outdoors/article/Pier-45-and-the-Musee-Mecanique-3295573.php",
+        "supports": "Longest pier; fishing industry still alive but smaller"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-coit-columbus-statue",
+    "title": "Columbus Comes Down Before Dawn",
+    "theme": "civil-rights",
+    "year": 2020,
+    "yearEnd": null,
+    "place": {
+      "label": "Coit Tower parking circle, Telegraph Hill",
+      "lat": 37.80245,
+      "lon": -122.40625,
+      "precision": "block"
+    },
+    "hook": "The 12-foot bronze explorer had watched over Telegraph Hill since 1957. One June night in 2020, the city quietly took him away.",
+    "story": "Early on June 18, 2020, city crews lifted a 4,000-pound bronze statue of Christopher Columbus off its pedestal outside Coit Tower [1]. The 12-foot statue had stood there since 1957. Its sculptor, Count Vittorio di Colbertaldo of Verona, had also been an official sculptor for Mussolini's corps of bodyguards [1]. For years protesters had splashed it with red paint to stand for Columbus's conquests, and the city had spent about $70,000 in a single year cleaning it [1]. As protests after the killing of George Floyd spread, it was vandalised three times in a week, and a flyer called on people to march up the hill, pull it down and throw it into the bay off Pier 31 [1]. The Arts Commission said it no longer matched the city's commitment to racial justice, and that a two-ton statue falling from its pedestal was a real danger [1]. The next morning, the Indigenous activist Mariposa Villaluna knelt on the empty pedestal with their four-year-old child. \"I felt lighter,\" she said [1]. North Beach reacted calmly. \"The Italian American community doesn't need a statue to tell us who we are,\" said Dave Barsi of the Italian-American Social Club [1][2].",
+    "people": [
+      {
+        "name": "Mariposa Villaluna",
+        "role": "Indigenous activist"
+      },
+      {
+        "name": "Dave Barsi",
+        "role": "Italian-American Social Club president"
+      },
+      {
+        "name": "Vittorio di Colbertaldo",
+        "role": "sculptor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco removes Christopher Columbus statue at Coit Tower ahead of planned protest",
+        "publisher": "San Francisco Chronicle",
+        "year": 2020,
+        "url": "https://www.sfchronicle.com/bayarea/article/Christopher-Columbus-statue-by-Coit-Tower-removed-15349812.php",
+        "supports": "All details: weight, size, 1957, sculptor, vandalism, flyer, Arts Commission reasons, Villaluna and Barsi quotes"
+      },
+      {
+        "title": "Coit Tower",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Coit_Tower",
+        "supports": "Statue stood outside the tower since 1957; removed June 18, 2020 by order of the Arts Commission"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "north-beach-julius-castle-revival",
+    "title": "Julius' Castle Fights Its Way Back",
+    "theme": "architecture-landmarks",
+    "year": 2017,
+    "yearEnd": 2026,
+    "place": {
+      "label": "Julius' Castle, 302 Greenwich St / 1541 Montgomery St",
+      "lat": 37.803029,
+      "lon": -122.405066,
+      "precision": "building"
+    },
+    "hook": "A turreted 1920s restaurant under Coit Tower went dark in 2008. Reviving it took lawsuits, a sliding hillside, a fire and 14 years.",
+    "story": "On the cliff below Coit Tower, Julius' Castle was built between 1923 and 1928 by the Italian restaurateur Julius Roz and the architect Luigi Mastropasqua. It paid tribute to Layman's Castle, a hilltop folly that fire destroyed in 1903 [1]. Inside, the panelling came from the 1915 Panama-Pacific Exposition [2]. For generations it was where San Franciscans got engaged and celebrated [2][3]. The whole cast of The Empire Strikes Back once came to dinner. Another night the guests were weathered mountaineers, some missing fingers, gathered to honour Sir Edmund Hillary [1]. It closed in January 2008 [3]. In 2012 the attorney Paul Scott bought it in a bankruptcy sale, outbidding someone who wanted to turn it into condos [3]. Neighbours warned of idling Ubers and drunken revellers, but in July 2017 the Planning Commission voted 7 to 0 to let it reopen. \"That is city life,\" said Commissioner Kathrin Moore. \"We are not living in the suburbs\" [2]. Then came a building found to sit over the property line, a sliding hillside, and a fire that destroyed a turret [3]. In July 2026 Scott said a chef had been hired and the castle would reopen that September [3].",
+    "people": [
+      {
+        "name": "Julius Roz",
+        "role": "founder"
+      },
+      {
+        "name": "Paul Scott",
+        "role": "owner from 2012"
+      },
+      {
+        "name": "Kathrin Moore",
+        "role": "Planning Commissioner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #121: Julius' Castle",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "http://noehill.com/sf/landmarks/sf121.asp",
+        "supports": "Roz, Mastropasqua, 1923-1928, Layman's Castle tribute, Empire Strikes Back cast and Hillary anecdotes"
+      },
+      {
+        "title": "Julius' Castle restaurant gets the OK to reopen on Telegraph Hill",
+        "publisher": "San Francisco Chronicle",
+        "year": 2017,
+        "url": "http://www.sfgate.com/bayarea/article/Julius-Castle-restaurant-gets-the-OK-to-reopen-11271419.php",
+        "supports": "7-0 vote, neighbour complaints, Moore quote, PPIE paneling, Scott's 2012 purchase"
+      },
+      {
+        "title": "Julius' Castle, a century-old SF restaurant, to finally reopen",
+        "publisher": "San Francisco Chronicle",
+        "year": 2026,
+        "url": "https://www.sfchronicle.com/food/restaurants/article/julius-castle-san-francisco-22334221.php",
+        "supports": "Closed January 2008, bankruptcy purchase vs condo bidder, property line, sliding hillside, turret fire, September 2026 reopening plan"
+      }
+    ],
+    "photo": null
+  }
+]

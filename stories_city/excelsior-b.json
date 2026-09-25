@@ -1,0 +1,687 @@
+[
+ {
+  "id": "excelsior-granada-theatre",
+  "title": "The Granada's tower and a final curtain",
+  "theme": "architecture-landmarks",
+  "year": 1931,
+  "yearEnd": 1982,
+  "place": {
+   "label": "Former Granada Theatre, 4631 Mission St",
+   "lat": 37.723923,
+   "lon": -122.434925,
+   "precision": "building"
+  },
+  "hook": "A plain 1922 movie house on Mission Street got a Spanish tower, a new name and 1,421 seats, then ended its run in tragedy.",
+  "story": "The Excelsior Theatre opened in 1922 at Mission Street and Ocean Avenue, designed by G. Albert Lansburgh. In 1931 it was remodelled with a tall tower and reopened as the Granada, seating 1,421 [1][2]. About ten years later the whole building was given a sleek Streamline Moderne makeover, and that is the tower you still see rising over Mission Street today [1]. A 1939 photo shows a Market Street Railway streetcar passing its marquee, bringing passengers home from the zoo [2]. By the late 1970s the neighbourhood had changed. The Granada, run by the Lim family, joined the Apollo on Geneva Avenue in screening Filipino films for the Excelsior's growing Filipino community [3]. On October 5, 1981, the manager, Myla Lim, was murdered in a botched robbery attempt [2]. The theatre closed soon afterwards; the exact date is unrecorded, but it was perhaps November 1982 [2]. Today a Goodwill store fills the old lobby and a Walgreens takes up much of the rest of the building [1][2].",
+  "people": [
+   {
+    "name": "G. Albert Lansburgh",
+    "role": "architect of the original 1922 theatre"
+   },
+   {
+    "name": "Myla Lim",
+    "role": "theatre manager, killed in 1981"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Top 5 Excelsior Commercial Buildings",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-excelsior-commercial-buildings/",
+    "supports": "1931 renaming, remodels, Moderne tower, Goodwill today"
+   },
+   {
+    "title": "Granada Theatre: 4631 Mission St.",
+    "publisher": "San Francisco Theatres (blog)",
+    "year": 2017,
+    "url": "https://sanfranciscotheatres.blogspot.com/2017/08/granada-mission.html",
+    "supports": "1922 opening, Lansburgh, 1931 tower, 1,421 seats, Myla Lim's murder, closing c.1982"
+   },
+   {
+    "title": "Filipino Life in the Excelsior",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/filipino-life-in-the-excelsior/",
+    "supports": "Lim family ran the Granada and showed Filipino films"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-royal-baking-company",
+  "title": "Bread ovens under a terra-cotta crown",
+  "theme": "labor-industry",
+  "year": 1935,
+  "yearEnd": 2022,
+  "place": {
+   "label": "Royal Baking Company building, 4769-4773 Mission St",
+   "lat": 37.721864,
+   "lon": -122.436546,
+   "precision": "building"
+  },
+  "hook": "In 1935 a macaroni feud and a North Beach bakery ended up sharing one odd building. Its Dutch ovens are still baking.",
+  "story": "In 1935 the real estate man Ambrose B. Frank, whom his neighbours called 'the mayor of the district', put up a 'new modern type' building at 4769-4773 Mission Street [1]. It has two fronts: a Storybook-style cottage and an Art Deco façade in green and yellow terra-cotta, topped by a three-pointed parapet [1]. The first tenant was Gaetano Ferrigno, who had just left the Golden Grain Macaroni Company after a bitter split with his relatives. He opened the rival Sorrento Macaroni Company here [1]. The Royal Baking Company came next, moving from Filbert Street in North Beach. In October 1935 two large double-brick Dutch ovens were installed, and they are still in use [1][2]. In 1982 Sara Monroy bought the bakery from its Italian owners. Her husband Isaac, a baker from Guanajuato, Mexico, took it over after her death in 1996 and renamed it New Royal Bakery [2]. The Storybook front is now a Salvadoran pupuseria, and a Last Supper mural sits above the bakery door [3]. In June 2020 the Board of Supervisors unanimously approved its path to City Landmark status [4].",
+  "people": [
+   {
+    "name": "Ambrose B. Frank",
+    "role": "real estate broker who built it"
+   },
+   {
+    "name": "Gaetano Ferrigno",
+    "role": "founder of Sorrento Macaroni"
+   },
+   {
+    "name": "Sara and Isaac Monroy",
+    "role": "owners from 1982"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A New City Landmark Rises in the Excelsior",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/a-new-city-landmark-rises-in-the-excelsior/",
+    "supports": "Frank, 1935 construction, facades, Sorrento Macaroni feud, Dutch ovens"
+   },
+   {
+    "title": "Excelsior Heritage: Royal Bakery Joins the Legacy Business Registry",
+    "publisher": "SF Heritage",
+    "year": 2022,
+    "url": "https://www.sfheritage.org/legacy-businesses/royal-bakery-legacy-business/",
+    "supports": "ovens in service since 1935, Monroy ownership 1982/1996"
+   },
+   {
+    "title": "Riding the 14R From One End to the Other",
+    "publisher": "FoundSF",
+    "year": 2023,
+    "url": "https://www.foundsf.org/index.php?title=Riding_the_14R_From_One_End_to_the_Other",
+    "supports": "Last Supper mural, Salvadoran pupuseria next door"
+   },
+   {
+    "title": "The Excelsior's Royal Baking Company Building is now a City Landmark!",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/news/the-excelsiors-royal-baking-company-building-is-now-a-city-landmark/",
+    "supports": "June 16, 2020 unanimous Board of Supervisors vote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-italian-american-social-club",
+  "title": "Two hundred men, then the women",
+  "theme": "communities",
+  "year": 1940,
+  "yearEnd": 2025,
+  "place": {
+   "label": "Italian American Social Club, 25 Russia Ave",
+   "lat": 37.721583,
+   "lon": -122.436528,
+   "precision": "building"
+  },
+  "hook": "Founded in a Naples Street basement, this Art Deco club stayed men-only for nearly a century, though women had been running it for decades.",
+  "story": "The club began in 1928 in the basement of a member's home on Naples Street. After a merger with the Alfieri Club in 1938, the members voted to build a hall of their own [1]. It was dedicated in 1940 just off Mission Street. Along its roofline runs Art Deco ornament in green, white and red, the colours of the Italian flag [1][2]. The members played cards, pool and bocce, and later the hall hosted wedding banquets and dinner dances [2]. Membership was a badge of honour. According to its current manager, the club once took only 200 members, all of whom had to be '100 percent Italian', and kept a waiting list [3]. That manager, Julie Clima, took over in 2005 as the first woman in the job. Her grandfather opened Joe's Fish Grotto up the street in 1946 [3]. As the old families moved to the Peninsula the waiting list disappeared, and in 2025 the club finally admitted women. About 30 joined in the first year [3]. It was added to the city's Legacy Business Registry in 2021 [2].",
+  "people": [
+   {
+    "name": "Julie Clima",
+    "role": "club manager since 2005"
+   },
+   {
+    "name": "Leila Moylett",
+    "role": "bartender and server"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Top 5 Institutional Buildings in the Excelsior",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-institutional-buildings-in-the-excelsior/",
+    "supports": "1928 Naples St basement, 1938 Alfieri merger, 1940 building and ornament"
+   },
+   {
+    "title": "Italian American Social Club Joins Legacy Business Registry",
+    "publisher": "SF Heritage",
+    "year": 2021,
+    "url": "https://www.sfheritage.org/news/italian-american-social-club-joins-legacy-business-registry/",
+    "supports": "June 2021 registry listing, games, banquets"
+   },
+   {
+    "title": "My Excelsior: Julie Clima and Leila Moylett ran a men's-only social club for decades",
+    "publisher": "Mission Local",
+    "year": 2026,
+    "url": "https://missionlocal.org/2026/05/my-excelsior-italian-american-social-club-julie-clima-leila-moylett/",
+    "supports": "Clima manager since 2005, 200-member cap, women admitted 2025, Joe's Fish Grotto 1946"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-jerry-garcia-first-home",
+  "title": "Where Jerry Garcia's story began",
+  "theme": "arts-counterculture",
+  "year": 1942,
+  "yearEnd": 2025,
+  "place": {
+   "label": "121 Amazon Ave",
+   "lat": 37.716982,
+   "lon": -122.439085,
+   "precision": "building"
+  },
+  "hook": "Before the Grateful Dead, before the missing fingertip, a baby named Jerome Garcia came home to a Mediterranean-style house on Amazon Avenue.",
+  "story": "Jerome John Garcia was born in the Excelsior District on August 1, 1942. He spent his earliest years at 121 Amazon Avenue, a Mediterranean Revival house built in 1930 between London and Paris Streets [1][2]. At four he lost two-thirds of his right middle finger when his brother Tiff, splitting wood, cut it off [2]. In 1947 his father drowned on a fishing trip, and the family moved less than a mile to his grandparents' house at 87 Harrington Street [1][2]. He lived there with his grandparents, Tillie and William Clifford, for about five years and went to Monroe Elementary School [2]. Harrington is a tiny one-block street between Alemany Boulevard and Mission Street, and the yellow house has become a pilgrimage site for Deadheads [4]. The neighbourhood has kept him close. The city put plaques on both childhood homes, unveiled in October 2016 during Sunday Streets in the Excelsior [3]. In April 2025 supervisors voted to add the name 'Jerry Garcia Street' to Harrington Street [4].",
+  "people": [
+   {
+    "name": "Jerry Garcia",
+    "role": "Grateful Dead guitarist and singer"
+   },
+   {
+    "name": "Tiff Garcia",
+    "role": "his older brother"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Top 5 Excelsior Residential Buildings",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-excelsior-residential-buildings/",
+    "supports": "121 Amazon Ave, built 1930, birth date, 1947 move to 87 Harrington"
+   },
+   {
+    "title": "Jerry Garcia",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Jerry_Garcia",
+    "supports": "born in Excelsior; finger accident; father's drowning; grandparents"
+   },
+   {
+    "title": "San Francisco designates Jerry Garcia's childhood homes",
+    "publisher": "JamBase",
+    "year": 2016,
+    "url": "https://www.jambase.com/article/san-francisco-designates-jerry-garcias-childhood-homes-historical-significance",
+    "supports": "plaques on both homes unveiled Oct 16, 2016"
+   },
+   {
+    "title": "'Jerry Garcia Street': Tiny San Francisco street renamed to honor Grateful Dead star",
+    "publisher": "SFGATE",
+    "year": 2025,
+    "url": "https://www.sfgate.com/sf-culture/article/san-francisco-street-renamed-grateful-dead-20292804.php",
+    "supports": "April 2025 resolution by Supervisor Chyanne Chen; yellow house; one-block street"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-amazon-apollo-theatre",
+  "title": "A Geneva Avenue snapshot for the troops",
+  "theme": "war-military",
+  "year": 1944,
+  "yearEnd": 1983,
+  "place": {
+   "label": "Former Amazon (Apollo) Theatre, 965 Geneva Ave",
+   "lat": 37.715997,
+   "lon": -122.439682,
+   "precision": "building"
+  },
+  "hook": "In December 1944 a dozen mothers asked a newspaper for one picture: their own street corner, to mail to sons overseas.",
+  "story": "The Amazon Theatre opened on Geneva Avenue on September 14, 1928, with 963 seats. It was built by the Reid Brothers a block and a half east of Mission Street [1]. In December 1944 a newspaper printed a view of Geneva Avenue running into Mission Street, with the Amazon showing 'Wing and a Prayer.' The caption spoke directly to 'you fellows' in uniform: at least a dozen mothers of servicemen had asked for the picture so they could send it to their sons [1]. After the war the theatre stayed a family place. In September 1953 it offered a $1-per-family night, and Mr. and Mrs. John Fabela of 1128 Geneva arrived with all 15 of their children [1]. The Amazon was renamed the Apollo in 1969 [1]. In the 1970s it began showing Filipino films, and one Crocker-Amazon kid remembered a marquee that stayed unchanged for months [2][3]. It closed in 1983, later served as a church, and was gutted for a Walgreens with housing above [1].",
+  "people": [
+   {
+    "name": "John Fabela and family",
+    "role": "Geneva Avenue family of 17 at the 1953 family night"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Amazon Theatre",
+    "publisher": "San Francisco Theatres (blog)",
+    "year": 2018,
+    "url": "https://sanfranciscotheatres.blogspot.com/2018/06/amazon-theatre.html",
+    "supports": "1928 opening, 1944 caption, 1953 Fabela family, 1969 rename, 1983 closing"
+   },
+   {
+    "title": "CROCKER-AMAZON CHANGES ITS SKIN",
+    "publisher": "FoundSF (Michael Arago)",
+    "year": 1997,
+    "url": "https://www.foundsf.org/index.php?title=CROCKER-AMAZON_CHANGES_ITS_SKIN",
+    "supports": "Apollo showing Filipino films, memories of marquee"
+   },
+   {
+    "title": "Filipino Life in the Excelsior",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/filipino-life-in-the-excelsior/",
+    "supports": "Amazon at 965 Geneva, as the Apollo, showed Filipino films in the 1970s"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-la-grande-tank",
+  "title": "The high-calorie Coit Tower",
+  "theme": "parks-nature",
+  "year": 1956,
+  "yearEnd": 2008,
+  "place": {
+   "label": "La Grande Tank, McLaren Park",
+   "lat": 37.7192,
+   "lon": -122.4262,
+   "precision": "area"
+  },
+  "hook": "Everyone on I-280 has seen the Tiffany-blue tower above the Excelsior. Hardly anyone knows its name, or that it once improved the neighbours' TV reception.",
+  "story": "In 1956 the city built a water tank on a hilltop at the northwestern edge of McLaren Park, just above La Grande Avenue. The 350,000-gallon steel tank stored pumped water to keep up the pressure for about 400 homes on the slopes below [1]. Neighbours found the design sleek and modern. It also happened to improve their TV reception [1]. The San Francisco Call-Bulletin said McLaren Park now had 'a monument that is as utilitarian as it is esthetic... a kind of high-calorie Coit Tower' [1]. The tower is painted a striking Tiffany blue, and Google Maps simply calls it 'The Blue Water Tower' [1][2]. When the Public Utilities Commission gave it a seismic overhaul in the 2000s, some locals pushed for something grander and 'not blue.' 'People either love it or hate it,' said park booster Linda Litehiser. The commission kept it plain and paid instead for upgrades to Philosopher's Way, a 2.7-mile trail with 14 'musing' stations [2]. SF Heritage puts the cost of the work, completed in 2008, at almost $7 million [1].",
+  "people": [
+   {
+    "name": "Linda Litehiser",
+    "role": "McLaren Park advocate"
+   }
+  ],
+  "sources": [
+   {
+    "title": "La Grande Water Tank, Pride of the Excelsior",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/la-grande-water-tank-pride-of-the-excelsior/",
+    "supports": "1956, 350,000 gallons, 400 homes, TV reception, Call-Bulletin quote, 2008 upgrade"
+   },
+   {
+    "title": "Discovering La Grande Tank in S.F.'s McLaren Park",
+    "publisher": "SFGATE / San Francisco Chronicle",
+    "year": 2015,
+    "url": "https://www.sfgate.com/outdoors/article/Discovering-La-Grande-Tank-in-S-F-s-McLaren-Park-6020475.php",
+    "supports": "Tiffany blue, redesign debate, Litehiser quote, Philosopher's Way"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-central-drug-store",
+  "title": "Love and prescriptions behind the counter",
+  "theme": "labor-industry",
+  "year": 1965,
+  "yearEnd": 2025,
+  "place": {
+   "label": "Central Drug Store, 4494 Mission St at Santa Rosa Ave",
+   "lat": 37.725981,
+   "lon": -122.434185,
+   "precision": "building"
+  },
+  "hook": "Three couples met behind the counter of this corner drugstore, and one young comic-book buyer grew up to be Jerry Garcia.",
+  "story": "For more than a century a drugstore stood at Mission Street and Santa Rosa Avenue. SF Heritage dates it to 1910, and Mission Local calls it 116 years old when it closed [1][2]. Around 1950 it got a sleek Vitrolite sign with 'Central Drug Store' in neon [1]. Young Jerry Garcia bought comic books here [1]. In the 1940s, when the store still had a soda fountain and sold roasted nuts by the half-pound, a clerk and a pharmacist-in-training fell in love behind the counter. They were Jerry Tonelli's parents, and they married in 1947 [2]. In 1965 his father, Dino, bought the store from the Divencenzis. Two more couples later met working there [2]. Jerry Tonelli started in the family shop in 1978, and his teenage photo still hung behind the counter captioned 'The delivery boy' [3]. Staff sometimes delivered medicine for free, and customers who missed closing time could collect it at the Round Table Pizza across the street [3]. Tonelli retired and closed the store on July 15, 2025 [3].",
+  "people": [
+   {
+    "name": "Dino Tonelli",
+    "role": "pharmacist-owner from 1965"
+   },
+   {
+    "name": "Jerry Tonelli",
+    "role": "pharmacist and last owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Top 5 Excelsior Commercial Buildings",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-excelsior-commercial-buildings/",
+    "supports": "opened 1910, c.1950 neon sign, Garcia comics"
+   },
+   {
+    "title": "As the 116-year-old Central Drug Store in the Excelsior closes, memories abound",
+    "publisher": "Mission Local",
+    "year": 2025,
+    "url": "https://missionlocal.org/2025/06/as-116-year-old-central-drug-store-in-sfs-excelsior-prepares-to-close-memories-abound/",
+    "supports": "Tonelli parents' romance, 1947 marriage, 1965 purchase, other couples"
+   },
+   {
+    "title": "Farewell, Central Drug Store: Excelsior independent pharmacy to close after nearly 60 years",
+    "publisher": "Mission Local",
+    "year": 2025,
+    "url": "https://missionlocal.org/2025/06/sf-excelsior-central-drug-store-close-owner-retire/",
+    "supports": "July 15, 2025 closing, Tonelli since 1978, deliveries, Round Table pickups"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-rock-garden",
+  "title": "One psychedelic month on outer Mission",
+  "theme": "arts-counterculture",
+  "year": 1967,
+  "place": {
+   "label": "Former Rock Garden club, 4742 Mission St",
+   "lat": 37.722309,
+   "lon": -122.437075,
+   "precision": "building"
+  },
+  "hook": "In spring 1967 the Grateful Dead played a week in Jerry Garcia's old neighbourhood, and his mother came to watch.",
+  "story": "In the 1950s 4742 Mission Street was an Italian bocce club [1]. In March 1967 the North Beach club owner Dave Rapkin turned it into the Rock Garden, a psychedelic venue meant to compete with the Fillmore and the Avalon [2]. It printed diamond-shaped posters, and the engineer Charlie Butten built bass speakers right into the stage [2]. The opening bill was Love with Big Brother and the Holding Company. From March 28 to April 2 the Grateful Dead played a week there, a few blocks from where Jerry Garcia grew up. His brother Tiff helped get the room ready, and their mother, who still lived nearby, saw her son perform for the first time in years [1][2]. Steve Miller and Buffalo Springfield followed. But the club served liquor, which kept out underage hippies, and it was a long ride from the Haight. Within about a month it went back to Latin dance music [2]. As 'The Ghetto' it later helped launch San Francisco Latin rock bands such as the Aliens and the Prophets, with Samoan bouncers on the door [1][2].",
+  "people": [
+   {
+    "name": "Dave Rapkin",
+    "role": "club owner"
+   },
+   {
+    "name": "Charlie Butten",
+    "role": "sound engineer"
+   },
+   {
+    "name": "Jerry Garcia",
+    "role": "Grateful Dead guitarist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Latinx Life in the Excelsior",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/news/latinx-life-in-the-excelsior/",
+    "supports": "bocce club, Rock Garden, The Ghetto, Latin rock bands, Samoan bouncers"
+   },
+   {
+    "title": "The Rock Garden, San Francisco: 4742 Mission Street",
+    "publisher": "Rock Prosopography 101 (blog)",
+    "year": 2010,
+    "url": "https://rockprosopography101.blogspot.com/2010/01/rock-garden-san-francisco-4742-mission.html",
+    "supports": "Rapkin, posters, sound system, bills and dates, Garcia's mother, decline"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-jewish-home-halprin-courtyard",
+  "title": "Lawrence Halprin's fountain for the elders",
+  "theme": "architecture-landmarks",
+  "year": 1970,
+  "place": {
+   "label": "Jewish Home (SF Campus for Jewish Living), 302 Silver Ave",
+   "lat": 37.72826,
+   "lon": -122.429952,
+   "precision": "building"
+  },
+  "hook": "Behind a fence on Silver Avenue, a master landscape architect built cascading concrete waterfalls for the residents of a home founded in 1891.",
+  "story": "The Pacific Hebrew Orphan Asylum and Home Society was incorporated in 1871 to care for orphans and 'aged and infirm Israelites.' In 1891 it opened a two-storey wooden Victorian home on Silver Avenue for twelve residents [1]. In 1923 that building was replaced by a brick Georgian Revival home designed by Samuel Lightner Hyman [1]. In 1969 the architect Howard A. Friedman added a Brutalist tower, Annex A, now the Goodman Building. A year later Lawrence Halprin designed the courtyard it encloses [1][2]. His fountain is a set of overlapping concrete planes. Water streams over them into a shallow sunken pool, and they form a kind of stage for a mother-and-child sculpture by the Israeli artist Ursula Malbin. Around it are lawn, a curving concrete seat wall, pines and pollarded sycamores [2]. The Cultural Landscape Foundation notes that Halprin was himself Jewish and was serving that same year on the Jerusalem Committee, which reviewed that city's master plan [2]. The almost 9-acre campus is still a senior home [1].",
+  "people": [
+   {
+    "name": "Lawrence Halprin",
+    "role": "landscape architect"
+   },
+   {
+    "name": "Howard A. Friedman",
+    "role": "architect of Annex A"
+   },
+   {
+    "name": "Ursula Malbin",
+    "role": "sculptor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Top 5 Institutional Buildings in the Excelsior",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-institutional-buildings-in-the-excelsior/",
+    "supports": "1871 incorporation, 1891 opening, 1923 Hyman building, 1969 annex, 1970 courtyard"
+   },
+   {
+    "title": "Jewish Home of San Francisco",
+    "publisher": "The Cultural Landscape Foundation",
+    "year": 2020,
+    "url": "https://www.tclf.org/jewish-home-san-francisco",
+    "supports": "Halprin courtyard design, Malbin sculpture, Jerusalem Committee"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-patty-hearst-morse-street",
+  "title": "Knock at 625 Morse Street",
+  "theme": "modern-city",
+  "year": 1975,
+  "place": {
+   "label": "625 Morse St",
+   "lat": 37.711314,
+   "lon": -122.444604,
+   "precision": "building"
+  },
+  "hook": "The most hunted fugitive in America was hiding in a quiet Crocker-Amazon flat. An FBI agent and a city inspector climbed the stairs.",
+  "story": "On September 18, 1975, the FBI was watching a postal box belonging to Kathleen Soliah. Messengers had been collecting its mail and taking it to two addresses: 288 Precita Avenue and 625 Morse Street, a concrete house with redwood facing [1]. Agents first arrested Bill and Emily Harris of the Symbionese Liberation Army on Precita. An hour and ten minutes later, FBI Special Agent Tom Padden and San Francisco Police Inspector Tim Casey climbed the stairs at Morse Street and pounded on the door [1][2]. Wendy Yoshimura opened it, and behind her stood Patty Hearst, the newspaper heiress kidnapped nineteen months earlier. 'Don't move or I'll blast your head off,' Padden said. Neither woman moved, though each had a .38 in her purse. Inside officers found a cat, dirty dishes, more guns and a two-foot marijuana plant [1]. At booking Hearst gave her occupation as 'urban guerrilla' [3]. A boy who grew up nearby later wrote that his neighbourhood was a good place to disappear [4].",
+  "people": [
+   {
+    "name": "Patty Hearst",
+    "role": "kidnapped heiress turned fugitive"
+   },
+   {
+    "name": "Wendy Yoshimura",
+    "role": "fugitive arrested with her"
+   },
+   {
+    "name": "Tom Padden",
+    "role": "FBI special agent"
+   },
+   {
+    "name": "Tim Casey",
+    "role": "SFPD inspector"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Radicals: Patti's Twisted Journey",
+    "publisher": "Time",
+    "year": 1975,
+    "url": "https://web.archive.org/web/20100720205202/http://www.time.com/time/magazine/article/0,9171,913456-6,00.html",
+    "supports": "surveillance, addresses, arrest sequence, quote, items found"
+   },
+   {
+    "title": "Wendy Yoshimura",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Wendy_Yoshimura",
+    "supports": "arrest at 625 Morse St by Padden and Casey"
+   },
+   {
+    "title": "Patty Hearst",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Patty_Hearst",
+    "supports": "September 18, 1975 arrest; 'urban guerrilla' at booking"
+   },
+   {
+    "title": "Crocker Amazon Tract Notables",
+    "publisher": "FoundSF (Michael Arago)",
+    "year": 1997,
+    "url": "https://www.foundsf.org/index.php?title=Crocker_Amazon_Tract_Notables",
+    "supports": "neighbourhood memory of Hearst hiding on Morse Street"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-little-joes-pizza",
+  "title": "Pizza, then chorizo on the pizza",
+  "theme": "communities",
+  "year": 1978,
+  "yearEnd": 2017,
+  "place": {
+   "label": "Little Joe's Pizza, 5006 Mission St",
+   "lat": 37.718487,
+   "lon": -122.439832,
+   "precision": "building"
+  },
+  "hook": "An Italian pizzeria changed hands in 1978, and the new owners' Mexican pizza tells the neighbourhood's whole story.",
+  "story": "In 1958 Joseph 'Little Joe' Russo, who had learned to make pizza at his father's North Beach pizzeria, opened Little Joe's at Mission Street and Persia Avenue. He served pizza, chicken parmesan and pasta [1]. Business was good enough that in 1972 he moved to a bigger space at 5006 Mission and took the neon sign with him [1]. By then the Excelsior was changing. Census figures for its main tract show Hispanic residents outnumbering Italians by 1960, and by 1970 the Hispanic population had nearly doubled [2]. In 1978 Alfredo and Gloria Rodriguez took over [1][2]. They kept the Italian dishes and added a Mexican pizza with refried beans, homemade chorizo and jalapeños. Later came a second menu of tacos, tamales and enchiladas from Gloria's recipes [1]. Alfredo, known as Fred, died in 1995. All three of his daughters met their husbands working there, and the family says the place, with its deep red wallpaper, has been home to four generations of Rodriguezes [1]. It joined the Legacy Business Registry in December 2017 [1].",
+  "people": [
+   {
+    "name": "Joseph 'Little Joe' Russo",
+    "role": "founder, 1958"
+   },
+   {
+    "name": "Alfredo and Gloria Rodriguez",
+    "role": "owners from 1978"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Legacy Business Spotlight: Little Joe's Pizza",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/legacy-business-spotlight-little-joes-pizza/",
+    "supports": "Russo 1958, 1972 move, Rodriguez 1978, menu, family, registry"
+   },
+   {
+    "title": "Latinx Life in the Excelsior",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/news/latinx-life-in-the-excelsior/",
+    "supports": "census tract figures 1950-1970; Little Joe's 1958 and 1978 takeover"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-engine-43-princess-diaries",
+  "title": "A princess in the old firehouse",
+  "theme": "arts-counterculture",
+  "year": 2001,
+  "place": {
+   "label": "Former Engine Company 43, 724 Brazil Ave",
+   "lat": 37.721611,
+   "lon": -122.428894,
+   "precision": "building"
+  },
+  "hook": "A 1911 Excelsior firehouse built for horse-drawn engines became home to a Disney teenager who found out she was royalty.",
+  "story": "Engine Company 43 on Brazil Avenue was built in 1911, when horses still pulled fire engines. It had a tall tower for hanging hoses to dry [1]. In 1976 the city auctioned the retired firehouse, and it has been a private home ever since [1]. In 2001 it had a starring role. Garry Marshall's Disney film The Princess Diaries used it as the home of Mia Thermopolis, a shy San Francisco teenager who learns she is heir to the throne of Genovia, and of her mother, Helen [1][2]. Only the outside is on screen. The interior was rebuilt on a soundstage at Walt Disney Studios in Burbank, the same stage where Mary Poppins was filmed [2]. Elsewhere in the city, a cable car mishap was staged at Broadway and Taylor Streets, while the 'Baker Beach' party was really filmed at Zuma Beach in Malibu [2]. The film premiered on July 29, 2001 [2].",
+  "people": [
+   {
+    "name": "Garry Marshall",
+    "role": "director of The Princess Diaries"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Top 5 Excelsior Residential Buildings",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/top-5-excelsior-residential-buildings/",
+    "supports": "built 1911, hose tower, 1976 auction, Princess Diaries"
+   },
+   {
+    "title": "The Princess Diaries (film)",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/The_Princess_Diaries_(film)",
+    "supports": "Engine Co. 43 on Brazil Ave as Mia's home; studio interiors; other locations; premiere"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-filipino-community-center",
+  "title": "When the Excelsior became a Filipino hub",
+  "theme": "communities",
+  "year": 2004,
+  "place": {
+   "label": "Filipino Community Center, 4681 Mission St",
+   "lat": 37.723348,
+   "lon": -122.435475,
+   "precision": "building"
+  },
+  "hook": "Families left a shrinking Manilatown for the Excelsior, and a local barber watched in amazement as they paid cash for their houses.",
+  "story": "In the 1970 census Filipinos made up just 6 percent of the Excelsior. Within a decade it was one of San Francisco's main Filipino neighbourhoods [1]. There were two reasons. The 1965 immigration reforms ended quotas that had held the Philippines to 100 immigrants a year. Meanwhile redevelopment was wiping out Manilatown, ending with the 1977 eviction of the International Hotel [1]. In 1977 the Excelsior barber Caspare La Rosa told a reporter he was amazed to see Filipino families 'pay cash for the houses they are buying' [1]. The Apollo and Granada theatres showed Filipino films, and Filipino grocers opened along Mission and Geneva [1][2]. In the 1990s, while the archdiocese was closing parishes, the Church of the Epiphany on Vienna Street drew nearly 4,000 people a week to Mass, the most in the city. 'We survived the demographic change because of the Filipino population,' said Father Bruce Dreier [1]. In 2004 the Filipino Community Center opened at 4681 Mission Street [1]. The Excelsior is still one of the city's Filipino hubs [3].",
+  "people": [
+   {
+    "name": "Caspare La Rosa",
+    "role": "Excelsior barber"
+   },
+   {
+    "name": "Father Bruce Dreier",
+    "role": "priest at Church of the Epiphany"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Filipino Life in the Excelsior",
+    "publisher": "SF Heritage",
+    "year": 2020,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/filipino-life-in-the-excelsior/",
+    "supports": "census figures, 1965 act, Manilatown, La Rosa quote, Epiphany, 2004 center"
+   },
+   {
+    "title": "CROCKER-AMAZON CHANGES ITS SKIN",
+    "publisher": "FoundSF (Michael Arago)",
+    "year": 1997,
+    "url": "https://www.foundsf.org/index.php?title=CROCKER-AMAZON_CHANGES_ITS_SKIN",
+    "supports": "Filipino films at the Apollo, Filipino grocers near Geneva & Mission in the 1980s"
+   },
+   {
+    "title": "End of a long wait: Filipinos celebrate their first San Francisco supervisor",
+    "publisher": "Mission Local",
+    "year": 2025,
+    "url": "https://missionlocal.org/2025/11/filipinos-isabella-beya-alcaraz/",
+    "supports": "Excelsior as a longtime Filipino hub"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "excelsior-crocker-amazon-turf-war",
+  "title": "Cricket whites and a turf war",
+  "theme": "parks-nature",
+  "year": 2026,
+  "place": {
+   "label": "Crocker Amazon Playground, Geneva Ave & Moscow St",
+   "lat": 37.714046,
+   "lon": -122.429239,
+   "precision": "area"
+  },
+  "hook": "Samoan cricketers once transformed this neglected ballpark. Now a $50 million, Giants-backed makeover has neighbours fighting over plastic grass.",
+  "story": "In the 1920s the land at the city's southern edge was still farmland; an aerial photo from about 1923 shows fields where Crocker Amazon Playground would later be built [1]. Michael Arago, who grew up nearby, remembered the park in the 1970s as an ill-kept ballpark more suited to getting drunk than playing ball. Then one Sunday it turned into 'an amazing field of white shirts': Samoan families playing cricket, with picnics that grew bigger every year [2]. Today the gopher holes and soggy fields often close the diamonds for more than a month each spring [3]. In 2025 the parks department proposed a rebuild. In April 2026 the Recreation and Park Commission unanimously recommended accepting $28 million from the San Francisco Giants, which with $22 million of city money makes a $50 million project [4]. A group called Keep Crocker Real opposes the plan to put synthetic turf on five of six ballfields and remove 128 mature trees. Supervisor Chyanne Chen urged keeping real grass on at least two fields [4]. The Board of Supervisors has the final say [3][4].",
+  "people": [
+   {
+    "name": "Chyanne Chen",
+    "role": "District 11 supervisor"
+   },
+   {
+    "name": "Bob Hall",
+    "role": "Keep Crocker Real leader"
+   },
+   {
+    "name": "Michael Arago",
+    "role": "memoirist who grew up nearby"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Excelsior District",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Excelsior_District",
+    "supports": "c.1923 aerial: farms on the future playground site"
+   },
+   {
+    "title": "CROCKER-AMAZON CHANGES ITS SKIN",
+    "publisher": "FoundSF (Michael Arago)",
+    "year": 1997,
+    "url": "https://www.foundsf.org/index.php?title=CROCKER-AMAZON_CHANGES_ITS_SKIN",
+    "supports": "Samoan cricket in the late 1970s"
+   },
+   {
+    "title": "It's a (plastic) turf war at Crocker Amazon, and Chyanne Chen is caught in the middle",
+    "publisher": "Mission Local",
+    "year": 2026,
+    "url": "https://missionlocal.org/2026/02/crocker-amazon-anti-turf-meeting-chyanne-chen/",
+    "supports": "field conditions, 2025 plan, Board has final approval"
+   },
+   {
+    "title": "Crocker Amazon turf war heads to San Francisco supervisors",
+    "publisher": "Mission Local",
+    "year": 2026,
+    "url": "https://missionlocal.org/2026/04/sf-crocker-amazon-giants-28-million-grant/",
+    "supports": "commission vote, $28M/$22M/$50M, turf and trees, Chen's requests"
+   }
+  ],
+  "photo": null
+ }
+]

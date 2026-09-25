@@ -1,0 +1,607 @@
+[
+ {
+  "id": "presidio-heights-broderick-grave",
+  "title": "A duelling senator comes to Lone Mountain",
+  "theme": "gold-rush-victorian",
+  "year": 1859,
+  "yearEnd": 1942,
+  "place": {
+   "label": "Former Laurel Hill (Lone Mountain) Cemetery, around Euclid Ave & Collins St",
+   "lat": 37.78436,
+   "lon": -122.44984,
+   "precision": "area"
+  },
+  "hook": "California's anti-slavery senator was shot at Lake Merced by the state's former chief justice, then buried under a state monument in the sand hills that are now Laurel Heights.",
+  "story": "In 1853 a group of investors bought 54 sandy acres bounded by today's Presidio Avenue, California Street, Geary Boulevard and Parker Avenue, and opened Lone Mountain Cemetery in 1854 [1][2]. Six years later it received its most famous body.\n\nOn 13 September 1859 Senator David C. Broderick, leader of California's Free Soil Democrats, met David S. Terry, a former chief justice of the state Supreme Court who favoured slavery, for a duel at Lake Merced. Broderick's hair-trigger pistol went off early, into the ground, and Terry shot him in the right lung. He died three days later [3]. A judge recalling the case in 1936 quoted his deathbed words: \"They killed me because I was opposed to the extension of slavery and the corruption of justice\" [4]. The California Police Gazette mourned \"a fallen hero\" [4].\n\nBroderick was buried under a monument put up by the state. He remains the only sitting U.S. senator killed in a duel [3]. In 1942, when the cemetery was cleared, his remains were moved to Cypress Lawn in Colma [3].",
+  "people": [
+   {
+    "name": "David C. Broderick",
+    "role": "U.S. senator killed in a duel, buried at Lone Mountain"
+   },
+   {
+    "name": "David S. Terry",
+    "role": "former chief justice of California who shot him"
+   }
+  ],
+  "sources": [
+   {
+    "title": "California Historical Landmark #760: Site of Laurel Hill Cemetery",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2015,
+    "url": "http://noehill.com/sf/landmarks/cal0760.asp",
+    "supports": "Broderick buried at Laurel Hill after duel with Terry; cemetery's 54 acres and boundaries; opening 1854"
+   },
+   {
+    "title": "Laurel Hill Cemetery",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org), incl. Greg Gaar, 'Necropolis North of the Panhandle'",
+    "year": 2020,
+    "url": "https://www.outsidelands.org/laurel_hill.php",
+    "supports": "Opening dates, 1853 purchase, Broderick among those buried"
+   },
+   {
+    "title": "David C. Broderick",
+    "publisher": "Wikipedia (pointer; cites period sources)",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/David_C._Broderick",
+    "supports": "Duel date and details, death three days later, state monument, only senator killed in a duel, 1942 reinterment at Cypress Lawn"
+   },
+   {
+    "title": "Broderick-Terry Duel, 1859",
+    "publisher": "Museum of the City of San Francisco (Gladys Hansen)",
+    "year": 1998,
+    "url": "http://www.sfmuseum.org/hist6/broderick.html",
+    "supports": "Deathbed quotation (via Judge Charles R. Boden, 1936) and California Police Gazette memorial of 17 Sept 1859"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-chinese-vault",
+  "title": "The Chinese vault pelted with stones",
+  "theme": "communities",
+  "year": 1876,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Lone Mountain/Laurel Hill Cemetery, near Wood St (exact site of the Chinese burial grounds not recorded)",
+   "lat": 37.78289,
+   "lon": -122.44939,
+   "precision": "area"
+  },
+  "hook": "In 1876 a guidebook writer found the Chinese burial ground the most fascinating corner of the city's grandest cemetery, and the one most often smeared with mud.",
+  "story": "Benjamin E. Lloyd's 1876 guide Lights and Shades in San Francisco walked readers through Lone Mountain Cemetery, the burial ground that became Laurel Hill. To a stranger, he wrote, the Chinese vault and burial grounds were \"perhaps more attractive than any other feature\" of the cemetery [1].\n\nHe described a wooden vault topped with an \"oriental steeple\" hung with wooden bells. In front stood a trough of earth full of burnt tapers and joss sticks. Each Chinese company's plot had its own board or picket fence, with a canopy over the entrance bearing the company's name. Inside were low graves, a rough brick furnace, a cheap table and plain wooden headboards [1].\n\nLloyd also recorded something uglier. The vaults and tombs were \"bespattered with mud and filth, battered with stones, and sometimes defaced in a most irreverent manner\". He added: \"The animosity that many persons bear to the living, seems to extend even beyond the grave\" [1]. Historian Greg Gaar ties the vandalism to the \"Chinese must go!\" movement of the 1870s [2]. Nothing of these plots survives. Between 1939 and 1941 the cemetery was emptied and built over [2].",
+  "people": [
+   {
+    "name": "Benjamin E. Lloyd",
+    "role": "author of Lights and Shades in San Francisco (1876)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Lights and Shades in San Francisco",
+    "publisher": "A. L. Bancroft & Co. (Benjamin E. Lloyd), via Internet Archive",
+    "year": 1876,
+    "url": "https://archive.org/details/lightsshadesins00lloy",
+    "supports": "Description of the Chinese vault, company plots, graves and their desecration; quotations"
+   },
+   {
+    "title": "Laurel Hill Cemetery",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org), incl. Greg Gaar, 'Necropolis North of the Panhandle'",
+    "year": 2020,
+    "url": "https://www.outsidelands.org/laurel_hill.php",
+    "supports": "Gaar links the vandalism to the 1870s anti-Chinese movement; bodies moved 1939-1941"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-laurel-hill-removal",
+  "title": "Thirty-five thousand pioneers evicted to Colma",
+  "theme": "communities",
+  "year": 1939,
+  "yearEnd": 1941,
+  "place": {
+   "label": "Iris Avenue, Laurel Heights (houses built on the former Laurel Hill Cemetery)",
+   "lat": 37.78528,
+   "lon": -122.45217,
+   "precision": "street"
+  },
+  "hook": "The city's 'silent city' of senators and founders held out for decades against Richmond District boosters. Then its tombstones ended up in park gutters and Marina breakwaters.",
+  "story": "By 1900, when the city stopped new burials, Laurel Hill held some of San Francisco's most famous dead, including the cable car pioneer Andrew Hallidie and several U.S. senators [1][2]. It had also become an obstacle. The Richmond Banner campaigned for almost twenty years to remove the cemeteries that blocked the way west. \"This district of ours, beyond the land of the dead, wants to be firmly united to the rest of San Francisco,\" one editorial said in 1924 [1].\n\nIn 1914 the Board of Supervisors ordered all bodies out of the city. The Calvary, Masonic and Odd Fellows cemeteries gave in, but Laurel Hill's association held out until 1937, when the supervisors demanded that it be emptied at once [3]. Campaigners for a Pioneer Memorial Park lost [2]. Between 1939 and 1941 about 35,000 bodies were reburied, most at Cypress Lawn in Colma. NoeHill puts the number buried at 38,000 [1][2].\n\nThe headstones were not wasted. Some became sculptors' blocks, gutters in Buena Vista Park and breakwaters along the Marina shore [2]. Houses, flats and small apartment buildings rose on the slopes in the 1940s and 1950s [4].",
+  "people": [
+   {
+    "name": "J. H. Bond",
+    "role": "Richmond Banner editor who began the removal campaign in 1894"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Laurel Hill Cemetery",
+    "publisher": "Western Neighborhoods Project (OutsideLands.org), incl. Greg Gaar, 'Necropolis North of the Panhandle'",
+    "year": 2020,
+    "url": "https://www.outsidelands.org/laurel_hill.php",
+    "supports": "1902 ban on burials, Richmond Banner campaign and 1924 quotation, 35,000 bodies moved 1939-1941 to Cypress Lawn, Hallidie and senators buried there"
+   },
+   {
+    "title": "California Historical Landmark #760: Site of Laurel Hill Cemetery",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2015,
+    "url": "http://noehill.com/sf/landmarks/cal0760.asp",
+    "supports": "38,000 buried by 1900, Pioneer Memorial Park fight, headstones reused for gutters and Marina breakwaters"
+   },
+   {
+    "title": "Cemeteries at foot of Lone Mountain",
+    "publisher": "FoundSF (Renee Renaud, The Richmond ReView, 1989)",
+    "year": 1989,
+    "url": "https://www.foundsf.org/index.php?title=Cemeteries_at_foot_of_Lone_Mountain",
+    "supports": "1914 order to remove bodies; Laurel Hill association held out until 1937; Bond's 1894 campaign"
+   },
+   {
+    "title": "Laurel Heights (excerpt of Deanna L. Kastler, 'Lone Mountain & Laurel Hill', The Argonaut, 1993)",
+    "publisher": "FoundSF",
+    "year": 1993,
+    "url": "https://www.foundsf.org/index.php?title=Laurel_Heights",
+    "supports": "Housing built on the slopes in the 1940s and 1950s"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-franciscan-manzanita",
+  "title": "The shrub that died with a cemetery",
+  "theme": "parks-nature",
+  "year": 1947,
+  "yearEnd": 2009,
+  "place": {
+   "label": "Former Laurel Hill Cemetery, western edge near Parker Ave (exact site of the last wild patch not recorded)",
+   "lat": 37.78333,
+   "lon": -122.45484,
+   "precision": "area"
+  },
+  "hook": "When bulldozers cleared Laurel Hill in 1947, a plant found only in San Francisco seemed to vanish with it. Sixty-two years later a biologist spotted one from his car.",
+  "story": "The Franciscan manzanita is a low, ground-hugging shrub that grew nowhere but San Francisco. It was adapted to the city's serpentine outcrops, sand, wind and fog [1][2]. As the city grew over those outcrops, the plant disappeared. Its last known wild patch was in the old Laurel Hill Cemetery, which was bulldozed in 1947 to make way for homes and businesses [2][3].\n\nJust before the bulldozers arrived, the botanist James Roof saved two plants, which were kept alive at Tilden Botanic Garden in Berkeley [2]. In the wild, the species was counted as gone.\n\nOn 16 October 2009, the biologist Daniel Gluesenkamp was driving across the Golden Gate Bridge. He spotted a flowering shrub on a freshly cleared patch beside Doyle Drive in the Presidio. \"It's like the unicorn of San Francisco,\" he said [2]. Presidio Trust biologists confirmed it was a Franciscan manzanita [2]. Because the bush stood in the way of the Doyle Drive rebuild, it was moved elsewhere in the Presidio in January 2010. In 2012, after a lawsuit by environmental groups, it was listed as endangered [3].",
+  "people": [
+   {
+    "name": "James Roof",
+    "role": "botanist who rescued plants before the 1947 bulldozing"
+   },
+   {
+    "name": "Daniel Gluesenkamp",
+    "role": "biologist who rediscovered the species in 2009"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Serpentine Grasslands and Maritime Chaparral",
+    "publisher": "FoundSF (Pete Holloran)",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Serpentine_Grasslands_and_Maritime_Chaparral",
+    "supports": "San Francisco endemic of serpentine soils; last seen wild in the early 1940s at Laurel Hill and Masonic cemeteries"
+   },
+   {
+    "title": "Manzanita bush's discovery excites scientists",
+    "publisher": "San Francisco Chronicle / SFGATE (Peter Fimrite)",
+    "year": 2009,
+    "url": "https://www.sfgate.com/bayarea/article/Manzanita-bush-s-discovery-excites-scientists-3204961.php",
+    "supports": "1947 bulldozing at Laurel Hill, James Roof's rescue, Gluesenkamp's Oct. 16 sighting, quotation, Presidio Trust confirmation"
+   },
+   {
+    "title": "Rare S.F. bush gets federal protection",
+    "publisher": "San Francisco Chronicle / SFGATE (Peter Fimrite)",
+    "year": 2012,
+    "url": "https://www.sfgate.com/science/article/Rare-S-F-bush-gets-federal-protection-3839785.php",
+    "supports": "Endangered listing after lawsuit, relocation from Doyle Drive in January 2010"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-firemans-fund",
+  "title": "An office park naps on the cemetery hill",
+  "theme": "architecture-landmarks",
+  "year": 1957,
+  "yearEnd": 1985,
+  "place": {
+   "label": "3333 California Street (former Fireman's Fund headquarters, later UCSF Laurel Heights)",
+   "lat": 37.786315,
+   "lon": -122.44836,
+   "precision": "building"
+  },
+  "hook": "The old cemetery hilltop was saved for a high school. Instead an insurer built a long, low headquarters, likened to a downtown tower taking a nap on the grass.",
+  "story": "When Laurel Hill Cemetery was cleared, the summit on Presidio Avenue between California and Bush streets was kept back for the future Lowell High School [1][2]. The plans changed. The land was rezoned for commercial use, and in 1953 the city sold it to the Fireman's Fund Insurance Company [1][2].\n\nFireman's Fund built a four-storey office complex and moved in in 1957 [1][2]. It was the new suburban-style corporate campus, spread flat across landscaped grounds rather than stacked downtown. NoeHill's Alvis Hendley called it \"sort of a Crown Zellerbach building taking a nap on the grass\" [2]. By the 1980s the site covered 10 acres, with a 354,000-square-foot main building and a 13,000-square-foot annex [3].\n\nIn 1985 the insurer left for the suburbs [2]. That February the University of California Regents bought the building, then called the Presidio Corporate Center, to ease crowding at UCSF's Parnassus campus [3]. The move started one of the city's longest neighbourhood fights. The spot is also California Historical Landmark #760, the site of Laurel Hill Cemetery, though by the time of Hendley's later visit the plaque had gone [2].",
+  "people": [
+   {
+    "name": "Alvis E. Hendley",
+    "role": "NoeHill author who described the building"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Laurel Heights (excerpt of Deanna L. Kastler, 'Lone Mountain & Laurel Hill', The Argonaut, 1993)",
+    "publisher": "FoundSF",
+    "year": 1993,
+    "url": "https://www.foundsf.org/index.php?title=Laurel_Heights",
+    "supports": "Hilltop reserved for Lowell High School, rezoned, 1953 purchase by Fireman's Fund, four-storey building"
+   },
+   {
+    "title": "California Historical Landmark #760: Site of Laurel Hill Cemetery",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2015,
+    "url": "http://noehill.com/sf/landmarks/cal0760.asp",
+    "supports": "1953 sale by the city, 1957 occupancy, 'taking a nap on the grass' description, 1985 departure, missing plaque"
+   },
+   {
+    "title": "Laurel Heights Improvement Assn. v. Regents of University of California, 47 Cal.3d 376",
+    "publisher": "Supreme Court of California (via Caselaw Access Project)",
+    "year": 1988,
+    "url": "https://static.case.law/cal-3d/47/cases/0376-01.json",
+    "supports": "February 1985 purchase by the Regents; 10-acre site, 354,000 sq ft building and 13,000 sq ft annex"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-laurel-heights-ceqa",
+  "title": "The neighbours who took UCSF to court",
+  "theme": "civil-rights",
+  "year": 1988,
+  "yearEnd": null,
+  "place": {
+   "label": "Former UCSF Laurel Heights campus, Presidio Avenue side of 3333 California Street",
+   "lat": 37.7855,
+   "lon": -122.4472,
+   "precision": "block"
+  },
+  "hook": "When UCSF planned labs using carcinogens and radioactive materials in the old Fireman's Fund building, Laurel Heights neighbours sued, and took the fight to the state Supreme Court.",
+  "story": "After the University of California bought the former Fireman's Fund building in 1985, UCSF planned to move its School of Pharmacy's basic science research units there [1]. The university's environmental impact report admitted that these labs handled possibly toxic chemicals, possible carcinogens and radioactive substances, and would vent some substances into the outside air [1].\n\nThe Laurel Heights Improvement Association went to court. The main question, the California Supreme Court said, was \"whether scientific research using toxic chemicals, carcinogens, and radioactive materials is too high-risk to be conducted in a residential neighborhood\" [1]. While the case went on, the court barred the Regents from bringing radioactive materials into the building [1].\n\nOn 1 December 1988 the court sided with the neighbours on the key points. UCSF could use only 100,000 square feet at first, because Caltrans leased half the building, and the report had not analysed the university's reasonably foreseeable use of the rest. An EIR, the court held, must study future expansion that is \"a reasonably foreseeable consequence\" of a project, and must discuss real alternatives [1]. Still, UCSF was allowed to keep its existing labs running while it prepared a new report [1]. Into the 1990s, neighbours were still bitterly contesting UC's plans for a biomedical research laboratory at the site [2].",
+  "people": [
+   {
+    "name": "Laurel Heights Improvement Association",
+    "role": "neighbourhood group that brought the suit"
+   },
+   {
+    "name": "Justice Eagleson",
+    "role": "wrote the court's opinion"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Laurel Heights Improvement Assn. v. Regents of University of California, 47 Cal.3d 376",
+    "publisher": "Supreme Court of California (via Caselaw Access Project)",
+    "year": 1988,
+    "url": "https://static.case.law/cal-3d/47/cases/0376-01.json",
+    "supports": "All case facts: project, hazardous materials, quoted dispute, radioactive-materials stay, decision date, holdings, 100,000 sq ft and Caltrans lease, UCSF allowed to continue"
+   },
+   {
+    "title": "Laurel Heights (excerpt of Deanna L. Kastler, 'Lone Mountain & Laurel Hill', The Argonaut, 1993)",
+    "publisher": "FoundSF",
+    "year": 1993,
+    "url": "https://www.foundsf.org/index.php?title=Laurel_Heights",
+    "supports": "Neighbours bitterly contested UC plans for biomedical research at the site"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-koshland-trianon",
+  "title": "A Petit Trianon for Menuhin and Stravinsky",
+  "theme": "arts-counterculture",
+  "year": 1904,
+  "yearEnd": null,
+  "place": {
+   "label": "Koshland House, 3800 Washington Street at Maple Street",
+   "lat": 37.788959,
+   "lon": -122.45594,
+   "precision": "building"
+  },
+  "hook": "A wool fortune built a copy of a Versailles chateau on Washington Street, opened it with a Marie Antoinette costume ball, then filled it with the world's great musicians.",
+  "story": "Marcus Koshland, whose family firm S. Koshland & Sons was one of America's leading wool companies, built 3800 Washington Street between 1902 and 1904 [1]. Architect Franklin S. Van Trees gave its front a nearly exact copy of the Petit Trianon at Versailles, in Colusa sandstone [1]. The house was opened with a Marie Antoinette costume ball [2]. Two years later the 1906 earthquake brought down much of the cornice and all four front columns, which were soon replaced [1].\n\nInside, a basement ballroom lined with mirrors had small stages at each end for concerts [1]. Marcus's wife, Corinne Schweitzer Koshland, loved music. She helped establish the San Francisco Symphony and Opera, and served on the Symphony's early board [1]. The National Register nomination lists musicians who played at the house or stayed there: Isaac Stern, Leonard Bernstein, Jascha Heifetz, Pierre Monteux, Igor Stravinsky and the child prodigy Yehudi Menuhin, whose education she helped to pay for [1]. The artist Bruce Porter designed its art-glass windows, one of them marked \"Salve\" (welcome) and dated 1904 [1]. The city made the house Landmark #95 in 1977 [1][2].",
+  "people": [
+   {
+    "name": "Marcus Koshland",
+    "role": "wool merchant who built the house"
+   },
+   {
+    "name": "Corinne Schweitzer Koshland",
+    "role": "music patron and hostess"
+   },
+   {
+    "name": "Yehudi Menuhin",
+    "role": "violin prodigy whose education she helped fund"
+   },
+   {
+    "name": "Franklin S. Van Trees",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Nomination: Koshland House (84001186)",
+    "publisher": "National Park Service (prepared by Patrick McGrew)",
+    "year": 1983,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/84001186_text",
+    "supports": "Builders, dates, architect, Petit Trianon design, 1906 damage, ballroom, Mrs. Koshland's music patronage and guest list, Menuhin, Bruce Porter windows, 1977 landmark"
+   },
+   {
+    "title": "National Register #84001186: Koshland House / San Francisco Landmark #95",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2015,
+    "url": "http://noehill.com/sf/landmarks/nat1984001186.asp",
+    "supports": "Modelled on Le Petit Trianon; completed 1904 and opened with a Marie Antoinette costume ball; 1906 facade damage"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-roos-house",
+  "title": "Maybeck's Tudor wedding gift, braced for quakes",
+  "theme": "quake1906",
+  "year": 1909,
+  "yearEnd": 1989,
+  "place": {
+   "label": "Roos House, 3500 Jackson Street at Locust Street",
+   "lat": 37.790427,
+   "lon": -122.45275,
+   "precision": "building"
+  },
+  "hook": "Three years after 1906, a theatre magnate gave his daughter a half-timbered dream house, secretly braced with piles and bolts. A later earthquake cost it its garden.",
+  "story": "In 1909, nineteen-year-old Elizabeth Meyerfeld married Leon Roos of the Roos Brothers clothing firm. Her father Morris Meyerfeld, a partner in the Orpheum theatre circuit, asked Bernard Maybeck to design a house for the couple as a wedding present [1][2]. Elizabeth had travelled Europe with her father looking for talent, and she wanted something theatrical. Maybeck mixed Tudor half-timbering with Gothic details. At about 9,000 square feet it is the largest house he designed for a San Francisco client [1][2].\n\nThe house was built just three years after the 1906 earthquake and fire. Maybeck and Leon Roos cared a great deal about seismic safety. It stands on wooden piles driven into the hillside, unusual for a house. Maybeck's engineer, Herman Kower, worked out the loads on the basement columns and showed exactly how they were to be bolted to the foundation and tied to the floor above. The decoration hides all of this [2].\n\nEarthquakes shaped the house again eight decades later. After the 1989 Loma Prieta earthquake, the back of the lot, once Maybeck's formal vegetable garden, was sold to pay for repairs [2]. When the house joined the National Register in 2009, its owner was Jane Roos LeRoux [2].",
+  "people": [
+   {
+    "name": "Bernard Maybeck",
+    "role": "architect"
+   },
+   {
+    "name": "Elizabeth Meyerfeld Roos",
+    "role": "bride and first owner"
+   },
+   {
+    "name": "Leon L. Roos",
+    "role": "Roos Brothers partner"
+   },
+   {
+    "name": "Morris Meyerfeld",
+    "role": "Orpheum Circuit partner who commissioned the house"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #56: Roos House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2015,
+    "url": "http://noehill.com/sf/landmarks/sf056.asp",
+    "supports": "1909 marriage, Meyerfeld commission, 9,000 sq ft, largest Maybeck house for an SF client"
+   },
+   {
+    "title": "National Register of Historic Places Nomination: Roos House (09000805)",
+    "publisher": "National Park Service",
+    "year": 2009,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/09000805_text",
+    "supports": "Theatrical brief, seismic pile foundation and engineer Herman Kower, garden sold after Loma Prieta, owner Jane Roos LeRoux"
+   },
+   {
+    "title": "Bernard Maybeck",
+    "publisher": "FoundSF",
+    "year": 2008,
+    "url": "https://www.foundsf.org/index.php?title=Bernard_Maybeck",
+    "supports": "Maybeck's 1909 Presidio Heights commissions including 3500 Jackson"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-waybur-house",
+  "title": "The music teacher's house over the Presidio wall",
+  "theme": "arts-counterculture",
+  "year": 1901,
+  "yearEnd": 1919,
+  "place": {
+   "label": "Julian Waybur House, 3232 Pacific Avenue (wedge block against the Presidio wall)",
+   "lat": 37.791779,
+   "lon": -122.44809,
+   "precision": "building"
+  },
+  "hook": "A music teacher famous for his kindness to children and the poor built an unpainted shingle box that hangs out over the Presidio's stone wall.",
+  "story": "Between the Presidio Avenue and Arguello gates, the Presidio's rough stone wall cuts across Pacific Avenue at an angle. It leaves a narrow wedge of a block, where shingled houses step down the hill, each narrower than the one above [1][2]. The Julian Waybur House, designed by Ernest Coxhead and finished around 1901, sits on the wall at one end and hangs out over it at the other [1].\n\nWaybur was born Julius Rehn Weber in Philadelphia in 1855 and left school at fourteen to work in a music store [1]. He taught for 23 years at Mills Seminary and created the music extension division of the University of California, and pushed for a music department at the San Francisco Public Library. He was best known for his work with young musicians, especially children and the poor. \"To bring beauty into the homes of rich and poor alike - these were his ambitions,\" his friend Redfern Mason wrote after his death in 1925 [1]. The house had a piano room behind pocket doors for his lessons [1].\n\nThe land came from his wife Margaret's family. Her brother, the artist Bruce Porter, built next door, and Coxhead designed both houses together in the plain, natural \"simple home\" style [1].",
+  "people": [
+   {
+    "name": "Julian R. Waybur",
+    "role": "music teacher and philanthropist"
+   },
+   {
+    "name": "Ernest Coxhead",
+    "role": "architect"
+   },
+   {
+    "name": "Bruce Porter",
+    "role": "artist, Margaret Waybur's brother and next-door neighbour"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Nomination: Julian Waybur House (11000143)",
+    "publisher": "National Park Service",
+    "year": 2011,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/11000143_text",
+    "supports": "Date, Coxhead design, cantilever over the Presidio wall, Waybur biography and Mason quotation, piano room, Porter family land and twin houses"
+   },
+   {
+    "title": "Presidio Wall (point of interest) and National Register #11000143",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2015,
+    "url": "http://noehill.com/sf/landmarks/poi_presidio_wall.asp",
+    "supports": "Shingle Style houses on the 3200 block of Pacific stepping down beside the wall and narrowing to a point at Walnut"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-julia-morgan-pacific",
+  "title": "Julia Morgan's quiet Presidio Heights houses",
+  "theme": "architecture-landmarks",
+  "year": 1908,
+  "yearEnd": 1917,
+  "place": {
+   "label": "3377 Pacific Avenue (Julia Morgan, 1908)",
+   "lat": 37.79107,
+   "lon": -122.45049,
+   "precision": "building"
+  },
+  "hook": "Better known for Hearst Castle, the first woman admitted to study architecture at the Ecole des Beaux-Arts also designed a string of houses along the Presidio's edge.",
+  "story": "Julia Morgan studied engineering at Berkeley, where Bernard Maybeck taught her architectural design and urged her to go to the Ecole des Beaux-Arts in Paris. With his help she became the first woman formally admitted to it [1]. After the 1906 earthquake her first major job was repairing the badly damaged Fairmont Hotel, which reopened on the quake's first anniversary [2].\n\nThe rebuilding city also needed houses, and Morgan designed many in Presidio Heights. FoundSF lists 306 Laurel Street (1906), 3377 Pacific Avenue and 3531 Clay Street (both 1908), 36 Presidio Terrace (1911) and 3630 Jackson Street (1917) [2]. Her 700-plus buildings included many Arts and Crafts houses, and she was especially popular with women clients [2].\n\nHer houses here sit among work by Maybeck, Willis Polk and Ernest Coxhead. NoeHill calls the 3200 and 3300 blocks of Pacific Avenue, along the Presidio wall, the city's finest collection of Shingle Style houses [3]. Maybeck built a townhouse for Samuel Goslinsky at 3233 Pacific in 1909. Polk had remodelled 3203 Pacific in 1892 [1][4]. Few streets in the city show so many of these architects' work within a few steps.",
+  "people": [
+   {
+    "name": "Julia Morgan",
+    "role": "architect"
+   },
+   {
+    "name": "Bernard Maybeck",
+    "role": "her teacher and a neighbouring architect"
+   },
+   {
+    "name": "Willis Polk",
+    "role": "architect of the 1892 remodel of 3203 Pacific"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Bernard Maybeck",
+    "publisher": "FoundSF",
+    "year": 2008,
+    "url": "https://www.foundsf.org/index.php?title=Bernard_Maybeck",
+    "supports": "Maybeck taught Morgan and helped her become the first woman admitted to the Ecole; Goslinsky townhouse, 3233 Pacific, 1909"
+   },
+   {
+    "title": "Julia Morgan",
+    "publisher": "FoundSF",
+    "year": 2009,
+    "url": "https://www.foundsf.org/index.php?title=Julia_Morgan",
+    "supports": "Fairmont repair, over 700 buildings, list of Presidio Heights houses and dates"
+   },
+   {
+    "title": "Presidio Wall (point of interest)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2015,
+    "url": "http://noehill.com/sf/landmarks/poi_presidio_wall.asp",
+    "supports": "3200-3300 blocks of Pacific as the city's finest Shingle Style group, architects represented"
+   },
+   {
+    "title": "Willis Polk",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Willis_Polk",
+    "supports": "Polk's 1892 remodel of 3203 Pacific"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-jcc-snow",
+  "title": "A cornerstone laid in the snow",
+  "theme": "communities",
+  "year": 1932,
+  "yearEnd": 1959,
+  "place": {
+   "label": "Jewish Community Center of San Francisco, 3200 California Street at Presidio Avenue",
+   "lat": 37.787323,
+   "lon": -122.44738,
+   "precision": "building"
+  },
+  "hook": "On the coldest day San Francisco had ever recorded, the governor laid the first stone of a Jewish centre that soon welcomed refugees from Hitler's Europe.",
+  "story": "On 11 December 1932 the city recorded its coldest temperature ever, 27 degrees, and snow was falling. That day Governor James Rolph Jr., Mayor Angelo Rossi and Lloyd W. Dinkelspiel laid the cornerstone of the Jewish Community Center at 3200 California Street [1]. Arthur Brown Jr. designed it with Hyman and Appleton in a Mediterranean style with Art Deco touches [1].\n\nThe centre traced its roots to the Young Men's Hebrew Association of the 1870s. Sources give the founding year as either 1874 or 1877 [1][2]. Louis Blumenthal ran it from the mid-1920s until his death in 1959, and Emma Loewy Blumenthal was associate director for 39 years [1][2]. By 1936, one in ten Jews in the San Francisco area was a member [1].\n\nIn 1938 refugees from Germany, Austria, Poland, Spain and Czechoslovakia began arriving. The centre gave them free membership and classes in English and citizenship [1][2]. In the war years it ran civil defence and Red Cross courses and childcare for mothers in war industries [1]. Radio host John Rothmann remembered that the city's first Holocaust commemorations were held here [1].",
+  "people": [
+   {
+    "name": "Louis H. Blumenthal",
+    "role": "executive director"
+   },
+   {
+    "name": "Emma Loewy Blumenthal",
+    "role": "associate director"
+   },
+   {
+    "name": "Arthur Brown Jr.",
+    "role": "architect"
+   },
+   {
+    "name": "James Rolph Jr.",
+    "role": "governor who laid the cornerstone"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Jewish Community Center",
+    "publisher": "FoundSF (David Kupfer)",
+    "year": 2023,
+    "url": "https://www.foundsf.org/index.php?title=Jewish_Community_Center",
+    "supports": "Cornerstone ceremony in snow, architects, Blumenthals, membership figures, refugee programmes, wartime work, Rothmann recollection"
+   },
+   {
+    "title": "History of the Jews in San Francisco",
+    "publisher": "Wikipedia (pointer; cites FoundSF and J. Weekly)",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_San_Francisco",
+    "supports": "YMHS origins given as 1877, 1930 incorporation, late-1930s refugees given free memberships and English classes, Blumenthals' tenure"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-heights-childrens-hospital",
+  "title": "A hospital run by and for women",
+  "theme": "civil-rights",
+  "year": 1885,
+  "yearEnd": 1991,
+  "place": {
+   "label": "3700 California Street (former Children's Hospital, later CPMC California Campus)",
+   "lat": 37.786573,
+   "lon": -122.45577,
+   "precision": "building"
+  },
+  "hook": "Refused by the city's medical society, three women doctors started their own dispensary. It grew into a hospital on California Street with its own nursing school.",
+  "story": "In 1875 Drs. Charlotte Blake Brown, Sara E. Brown and Martha E. Bucknell opened the Pacific Dispensary for Women and Children at 520 Taylor Street [1][2]. Women doctors treated women and children there, with care free and only medicine charged for [2]. Charlotte Blake Brown had been turned down by the San Francisco Medical Society because she was a woman [2]. In 1880 the dispensary opened the first training school for nurses west of the Rockies [1].\n\nIn 1885 it was reincorporated as the Hospital for Children and Training School for Nurses. Its stated purposes included \"the advancement of women in medicine\" [1]. It then moved to 3700 California Street. One account dates the move to 1885, another to 1887 [3][4]. The 1906 earthquake badly damaged the building, and a new one opened on the same site in 1911 [3]. The hospital became an important centre for polio treatment, with the first Drinker respirator, or \"iron lung\", in the western United States [3].\n\nBy its centennial in 1975, Children's Hospital had grown to 362 beds [1]. In 1991 Children's Hospital merged with Presbyterian Hospital, and the combined institution became California Pacific Medical Center [4].",
+  "people": [
+   {
+    "name": "Charlotte Blake Brown",
+    "role": "co-founding physician"
+   },
+   {
+    "name": "Sara E. Brown",
+    "role": "co-founding physician"
+   },
+   {
+    "name": "Martha E. Bucknell",
+    "role": "co-founding physician"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Children's Hospital of San Francisco Records, 1875-1988 (historical note)",
+    "publisher": "The Bancroft Library, UC Berkeley, via Online Archive of California",
+    "year": 1988,
+    "url": "https://oac.cdlib.org/findaid/ark:/13030/tf7b69n94k/",
+    "supports": "Founders, 520 Taylor St, 1880 nursing school first west of the Rockies, 1885 reincorporation and purposes, 362 beds in 1975"
+   },
+   {
+    "title": "Charlotte Blake Brown",
+    "publisher": "FoundSF (Regina Nguyen)",
+    "year": 2019,
+    "url": "https://www.foundsf.org/index.php?title=Charlotte_Blake_Brown",
+    "supports": "Rejection by SF Medical Society, all-female staff, free care"
+   },
+   {
+    "title": "Finding San Francisco's Female Medical Past",
+    "publisher": "American Academy of Ophthalmology, Museum of the Eye (Aubrey Minshew)",
+    "year": 2022,
+    "url": "https://www.aao.org/museum-blog/detail/finding-san-franciscos-female-medical-past",
+    "supports": "Move to 3700 California St (dated 1885), 1906 damage, 1911 building, polio care and first iron lung in the West"
+   },
+   {
+    "title": "Pacific Dispensary for Women and Children",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Pacific_Dispensary_for_Women_and_Children",
+    "supports": "Move to California Street dated 1887; 1991 merger into CPMC"
+   }
+  ],
+  "photo": null
+ }
+]

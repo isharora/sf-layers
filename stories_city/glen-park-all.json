@@ -1,0 +1,687 @@
+[
+ {
+  "id": "glen-park-old-san-jose-road",
+  "title": "The mission road hiding under Chenery Street",
+  "theme": "indigenous-early",
+  "year": 1776,
+  "yearEnd": 1856,
+  "place": {
+   "label": "Chenery Street's curve near Arlington Street (route of the old San Jose Road)",
+   "lat": 37.73613,
+   "lon": -122.42915,
+   "precision": "street"
+  },
+  "hook": "Chenery Street's odd bend may be a ghost of the road between the missions, possibly the route Anza's expedition took south in 1776.",
+  "story": "In 1776, after choosing the sites for the Presidio and Mission Dolores, Juan Bautista de Anza's party marched \"three leagues south, southwest and west, rounded the hills\" towards the arroyo Father Palou had named San Bruno. Local historians think that was the first recorded European passage through the Bernal Gap, the dip between Fairmount and Bernal hills [1].\n\nLong before that, Yelamu Ohlone people probably followed Islais Creek up into Glen Canyon to hunt and gather. The Glen Park Neighborhoods History Project suggests that today's Alms Road may be what is left of one of their trails [2].\n\nIn 1856 a survey of José de Jesús Noé's Rancho San Miguel marked a \"San Jose Road Used in 1850-52\" and a \"Large Rock\" near a branch of Islais Creek. Evelyn Rose and Amy O'Hair laid that map over a modern street grid. Their overlay suggests that the old road became the curve of Chenery and Arlington streets, while the other \"San Jose Road\" follows Wilder Street. Travellers tangled around Diamond and Chenery to get across the creeks [1]. The authors call this a preliminary finding, still being checked. If it holds, some of Glen Park's oldest streets once carried traffic between the missions [1].",
+  "people": [
+   {
+    "name": "Juan Bautista de Anza",
+    "role": "led the 1776 expedition"
+   },
+   {
+    "name": "José de Jesús Noé",
+    "role": "owner of Rancho San Miguel, surveyed 1856"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Old Mission Road & Chenery, Diamond, Arlington, and Wilder Streets",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose) & Amy O'Hair, Glen Park News",
+    "year": 2017,
+    "url": "https://www.glenparkhistory.org/the-old-mission-road-in-glen-park",
+    "supports": "Anza quotation, Bernal Gap, 1856 Noé survey labels, overlay onto Chenery/Arlington/Wilder, preliminary status"
+   },
+   {
+    "title": "Who Knew? The History of Glen Canyon",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2020,
+    "url": "https://www.glenparkhistory.org/glen-canyon-c1cvj",
+    "supports": "Yelamu Ohlone use of Islais Creek and Glen Canyon; Alms Road as a possible remnant trail"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-giant-powder-dynamite",
+  "title": "America's first dynamite factory, in a canyon",
+  "theme": "labor-industry",
+  "year": 1868,
+  "yearEnd": 1869,
+  "place": {
+   "label": "Glen Canyon Park ball fields (approximate site of the Giant Powder Company works)",
+   "lat": 37.7367,
+   "lon": -122.4414,
+   "precision": "area"
+  },
+  "hook": "Alfred Nobel personally licensed a factory in Glen Canyon, and it made dynamite before his US patent was even granted. Then it blew up.",
+  "story": "In 1867 Alfred Nobel licensed his new explosive to Julius Bandmann of San Francisco, and in August Bandmann incorporated the Giant Powder Company [1][2]. Nitroglycerin had to be stored far from people, so the company leased land in the empty \"outlands\" of a gorge people then called Rock Canyon or Rock Gulch. Today it is Glen Canyon [1]. The factory began turning out dynamite in March 1868, two months before Nobel's American patent was granted [1].\n\nIt ran smoothly for 15 months. Then at about 6:45 pm on 26 November 1869 an explosion tore through the one-acre works, killing the chemist and his teamster and injuring nine others [1][2]. Giant moved out to the sand dunes of the future Sunset District, where another blast in 1879 killed four people [1].\n\nNo one is sure exactly where the Glen Canyon factory stood. A 1927 history of the explosives industry put it west of Burnside Avenue between Chenery and Bosworth streets, which would put it roughly on today's ball field [1]. The site became California Historical Landmark No. 1002 in 1991, but its plaque was not put up until 2018 [3].",
+  "people": [
+   {
+    "name": "Alfred Nobel",
+    "role": "inventor who licensed the process"
+   },
+   {
+    "name": "Julius Bandmann",
+    "role": "founded the Giant Powder Company, 1867"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Giant Powder Company (Explosive Revelation: Glen Canyon Ties to the Nobel Prize)",
+    "publisher": "FoundSF (Evelyn Rose, Glen Park News)",
+    "year": 2008,
+    "url": "https://www.foundsf.org/index.php?title=Giant_Powder_Company",
+    "supports": "Bandmann licence, Rock Canyon names, March 1868 start, 26 Nov 1869 blast and casualties, move to dunes and 1879 blast, 1927 location description, landmark 1002 in 1991"
+   },
+   {
+    "title": "Giant Powder Company",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Giant_Powder_Company",
+    "supports": "August 1867 incorporation, first US dynamite under Nobel licence, 1869 explosion killing two and injuring nine"
+   },
+   {
+    "title": "Wonder Women! Glen Park's Gum Tree Girls ... and the San Francisco Freeway Revolt",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2018,
+    "url": "https://www.glenparkhistory.org/freeway-revolt-in-glen-park",
+    "supports": "plaque for Landmark No. 1002 dedicated in 2018"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-joost-electric-road",
+  "title": "San Francisco's first electric streetcar comes to Chenery",
+  "theme": "gold-rush-victorian",
+  "year": 1892,
+  "place": {
+   "label": "Chenery Street, Fairmount (route of the San Francisco-San Mateo electric railway)",
+   "lat": 37.73815,
+   "lon": -122.42601,
+   "precision": "street"
+  },
+  "hook": "Behrend Joost spent his Panama Canal money on the city's first electric railway. Suddenly downtown was fifteen minutes away, not a long walk to a horsecar.",
+  "story": "Behrend Joost had made a fortune investing in the French attempt to dig the Panama Canal. By April 1892 his San Francisco-San Mateo Railroad, the first electric road in the city, was running along Chenery Street, south on Diamond over Islais Creek, and on towards San Mateo County [1]. Before that, anyone going downtown had to walk to Cortland and Mission to catch a horse-drawn car. According to one neighbourhood history, an 8 am car could get you to the Ferry Building in 15 minutes for a five-cent fare [2].\n\nJoost built a trestle to carry Diamond Street over the creek. A little \"toonerville trolley\" also ran along Bosworth. On Sundays another car took picnickers west along Chenery [2]. He bought 200 acres he called Sunnyside and put 2,250 lots on sale, then the largest development the city had seen. Sales were slow, and Joost ended up in lawsuits accusing him of mismanaging both the railroad and his land company. He sold the line at a loss to James D. Spreckels, son of the sugar magnate [1]. His tracks set the pattern for the whole district, though. Streetcars would bring the crowds, and after 1906, the settlers [2].",
+  "people": [
+   {
+    "name": "Behrend Joost",
+    "role": "railway builder and Sunnyside developer"
+   },
+   {
+    "name": "James D. Spreckels",
+    "role": "bought the railway"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History of \"Glen Park Among the Pines\"",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2020,
+    "url": "https://www.glenparkhistory.org/glen-park-c1z92",
+    "supports": "Panama Canal money, April 1892 first electric road, route, 200 acres and 2,250 lots, litigation, sale to Spreckels"
+   },
+   {
+    "title": "Glen Park: SF's 'Little Switzerland'",
+    "publisher": "FoundSF (Mae Silver)",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Glen_Park:_SF%27s_%27Little_Switzerland%27",
+    "supports": "walk to Cortland and Mission, Diamond Street trestle, toonerville trolley on Bosworth, Sunday Chenery car, 5-cent fare, 15 minutes to the Ferry Building"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "glen-park-mission-zoo-morro-castle",
+  "title": "Elk, balloons and a fake Havana castle",
+  "theme": "gold-rush-victorian",
+  "year": 1898,
+  "yearEnd": 1901,
+  "place": {
+   "label": "Sussex Street near Swiss Avenue (approximate site of 'Morro Castle', Glen Park and the Mission Zoo)",
+   "lat": 37.73684,
+   "lon": -122.43792,
+   "precision": "block"
+  },
+  "hook": "A real-estate man built a zoo to sell house lots. Up to 10,000 people came each week, and the neighbourhood took its name from the park.",
+  "story": "Around 1897 the estate agent A. S. Baldwin had a problem. He wanted to sell house lots in a far-off valley of dairy ranches. His answer was to make people come and see it. He put in seal ponds and a bear pit, fenced a herd of elk behind an eight-foot fence, and built \"Morro Castle\" to hold an aviary, a tea house and a children's playground [1]. The castle was a miniature of the fortress at the mouth of Havana harbour, where the USS Maine had exploded in 1898, and it stood roughly where Swiss Avenue meets Sussex Street today [2][3].\n\nThe resort was called Glen Park, and the whole district later took the name. It drew 8,000 to 10,000 visitors a week, and Baldwin's advertisements claimed 41,287 people on \"Dewey day\" [1]. Crowds watched balloon ascensions and tightrope walkers crossing the canyon [3][4].\n\nThe lots hardly sold, though. Maybe buyers didn't like the idea of thousands of picnickers tramping past their front doors. Baldwin had sold out by 1903 [1]. He went on to build park-like developments such as Westwood Park and St. Francis Wood, where ownership was restricted to wealthier white buyers [2].",
+  "people": [
+   {
+    "name": "Archibald S. Baldwin",
+    "role": "real-estate developer behind the resort"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History of \"Glen Park Among the Pines\"",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2020,
+    "url": "https://www.glenparkhistory.org/glen-park-c1z92",
+    "supports": "Baldwin's plan, seal ponds, bear pit, elk fence, Morro Castle uses, 8,000-10,000 weekly visitors, 41,287 on Dewey day, slow sales, sold out 1900-1903, district named after resort"
+   },
+   {
+    "title": "The Mysterious Origins of Glen Park's Mizpah Street",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2018,
+    "url": "https://www.glenparkhistory.org/mystery-of-mizpah-street",
+    "supports": "Morro Castle location near Swiss and Sussex, USS Maine link, Baldwin's later racially restricted residence parks"
+   },
+   {
+    "title": "California Admissions Day Celebration, 1898, Glen Canyon",
+    "publisher": "FoundSF",
+    "year": 2024,
+    "url": "https://www.foundsf.org/index.php?title=California_Admissions_Day_Celebration,_1898,_Glen_Canyon",
+    "supports": "Morro Castle modelled on Havana's castle, near Mizpah and Sussex, 1899 balloon ascension photo"
+   },
+   {
+    "title": "Glen Park: SF's 'Little Switzerland'",
+    "publisher": "FoundSF (Mae Silver)",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Glen_Park:_SF%27s_%27Little_Switzerland%27",
+    "supports": "balloon ascensions and tightrope walks across the canyon, Morro Castle with tea house"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-dan-maloney-aeronaut",
+  "title": "The zoo groundskeeper who learned to fly",
+  "theme": "gold-rush-victorian",
+  "year": 1900,
+  "yearEnd": 1905,
+  "place": {
+   "label": "Whitney Street (then Palmer Street) near Randall, Fairmount Heights, Maloney's home in 1900",
+   "lat": 37.73934,
+   "lon": -122.42788,
+   "precision": "street"
+  },
+  "hook": "In the 1900 census a 21-year-old from Palmer Street gave his job as \"Aeronaut.\" Five years later he was gliding over Santa Clara from about 4,000 feet.",
+  "story": "In the 1900 census, 21-year-old Daniel John Maloney was living on Palmer Street, now Whitney Street, near Randall. He gave his occupation as \"Aeronaut\" [1]. He had been a groundskeeper at Glen Park and the Mission Zoo, where he watched balloonists go up and come down again on canvas parachutes. One day a booked performer didn't show, and Maloney volunteered to go instead. On his fourth flight at Glen Park he lost his grip 40 feet up and broke a rib. The week before, his balloon had caught fire [1].\n\nBy 1904 he was working as test pilot for Professor John J. Montgomery of Santa Clara College. Maloney suggested lifting Montgomery's glider under a balloon and cutting it loose high up [1]. On 29 April 1905 he let go at about 4,000 feet above Santa Clara College, while crowds watched from below [2]. It was among the first high-altitude glides by anyone [1].\n\nOn 18 July 1905 a balloon rope fouled the glider on the way up. After Maloney released, the craft broke apart and he was killed [1][2]. Montgomery himself died in a gliding crash in 1911 [1].",
+  "people": [
+   {
+    "name": "Daniel J. Maloney",
+    "role": "aeronaut and glider test pilot"
+   },
+   {
+    "name": "John J. Montgomery",
+    "role": "glider inventor, Santa Clara College"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Daniel J. Maloney, Aeronaut: Forgotten Aviation Pioneer of Fairmount Heights",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2017,
+    "url": "https://www.glenparkhistory.org/dan-maloney-aviation-pioneer",
+    "supports": "1900 census entry and address, zoo groundskeeper, first flights and injuries, Montgomery test pilot, balloon-launch idea, July 18 1905 death, Montgomery's 1911 death"
+   },
+   {
+    "title": "John J. Montgomery",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/John_J._Montgomery",
+    "supports": "29 April 1905 release at about 4,000 feet over Santa Clara College; 18 July 1905 fatal structural failure"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-1906-refugees",
+  "title": "Refugees who came for a week, then stayed",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1907,
+  "place": {
+   "label": "Chenery and Castro streets (site of the streetcar waiting house used as a shelter)",
+   "lat": 37.73475,
+   "lon": -122.43245,
+   "precision": "street"
+  },
+  "hook": "After the 1906 fire, homeless families slept in a streetcar shelter and lined up at a shoe factory for bread. Many of them liked Glen Park enough to stay.",
+  "story": "On 21 April 1906, three days after the earthquake, the San Francisco Call announced that \"the owner of Glen Park will care for the homeless on the grounds, where there are supplies and water\" [1]. Tents went up around today's playground. Another camp filled the empty block where Glen Park School now stands [1][2]. The canyon camp never appeared on the Army's official list [1].\n\nOne neighbourhood history remembers that people freely opened their homes to refugees. The passenger waiting house at Castro and Chenery was turned into a shelter. At the old shoe factory people lined up for relief rations, bread one day and meat another [2]. By July shops had reopened, and families could go home once the militia had inspected their houses [2].\n\nMany chose not to go back. They liked the village and noticed that its ground had held up well in the quake [2]. The real building boom in Glen Park came from these displaced families [1]. By October the Examiner was advertising Glen Park Terrace lots \"from $500 upwards\" at $10 a month [2]. Some families in Glen Park today are still descended from earthquake refugees [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Who Knew? The History of Glen Canyon (Earthquake Refugee Camp)",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2020,
+    "url": "https://www.glenparkhistory.org/glen-canyon-c1cvj",
+    "supports": "SF Call 21 April 1906 quote, camp on the grounds and on the Glen Park School block, not an official Army camp, post-quake boom"
+   },
+   {
+    "title": "Glen Park: SF's 'Little Switzerland'",
+    "publisher": "FoundSF (Mae Silver)",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Glen_Park:_SF%27s_%27Little_Switzerland%27",
+    "supports": "tent city on playground, Castro and Chenery waiting house shelter, shoe factory relief station, July reopening and militia inspection, October 1906 Examiner ad, descendants remain"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-johanna-pinther-suffrage",
+  "title": "The Bosworth Street banner that led America's marchers",
+  "theme": "civil-rights",
+  "year": 1908,
+  "place": {
+   "label": "Bosworth Street near Hamerton Avenue (site of Johanna Pinther's home at 1006 Bosworth, demolished)",
+   "lat": 37.7345,
+   "lon": -122.4379,
+   "precision": "street"
+  },
+  "hook": "A Glen Park woman embroidered the banner that went at the head of what local historians argue was the first suffrage march in the United States.",
+  "story": "On 27 August 1908, women of the California Equal Suffrage Association lined up behind a silk banner and marched through Oakland to the state Republican convention. The banner carried the state coat of arms, embroidered by Johanna Pinther of Glen Park [1]. The Call described nearly 200 women marching in pairs, the line almost a block long, \"with their yellow ribbons flying bravely\" [1]. Next day the Chronicle printed a photo of them on its front page: Pinther, her step-daughter-in-law Jeanette carrying the banner, and Lillian Harris Coffin [1].\n\nThe Republicans turned them down flat. Their only offer was the vote on school questions, and the women wanted all or nothing [1]. The Glen Park Neighborhoods History Project argues that this was the first suffrage march in the US. Maude Malone's attempt in New York that February had been stopped by the police. Some historians still count Malone's as the first [1].\n\nBack home, Pinther founded the Glen Park Outdoor Art League that same year, a women's club that pushed for city services while its members pressed for the vote [2][3]. Her house at 1006 Bosworth was torn down in the 1960s when the street was widened [3].",
+  "people": [
+   {
+    "name": "Johanna Pinther",
+    "role": "Glen Park suffragist and banner maker"
+   },
+   {
+    "name": "Jeanette Wall Pinther",
+    "role": "standard-bearer"
+   },
+   {
+    "name": "Lillian Harris Coffin",
+    "role": "Equal Suffrage League leader"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Glen Park Resident Johanna Pinther and the First March for Suffrage in the United States",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2020,
+    "url": "https://www.glenparkhistory.org/glen-park-and-the-first-suffrage-ma",
+    "supports": "27 Aug 1908 march, embroidered banner, Call and Chronicle quotes, front-page photo, platform rejection, first-march argument versus Malone"
+   },
+   {
+    "title": "Hollywood - The Glen Park Connection, Part 1: Caroline Evers and the Glen Park Glenodeon",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2021,
+    "url": "https://www.glenparkhistory.org/single-post/hollywood-the-glen-park-connection-part-1-caroline-evers-and-the-glen-park-glenodeon",
+    "supports": "Pinther founded the Glen Park Outdoor Art League in 1908"
+   },
+   {
+    "title": "Wonder Women! Glen Park's Gum Tree Girls ... and the San Francisco Freeway Revolt",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2018,
+    "url": "https://www.glenparkhistory.org/freeway-revolt-in-glen-park",
+    "supports": "Pinther home at 1006 Bosworth demolished for the Bosworth widening by 1965"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "glen-park-wandering-library",
+  "title": "The library that moved seven times",
+  "theme": "communities",
+  "year": 1908,
+  "yearEnd": 2007,
+  "place": {
+   "label": "653 Chenery Street (branch library 1970-2007, now Bird & Beckett Books and Records)",
+   "lat": 37.7343,
+   "lon": -122.43301,
+   "precision": "building"
+  },
+  "hook": "Glen Park's library started as a shelf in a dry-goods store. Over the next century it moved again and again, pushed out by freeway plans and a BART station.",
+  "story": "In 1908 forty Glen Park women founded the Glen Park Outdoor Art League. Its second president, Ada Parker Stillings, was herself a refugee of the 1906 disaster. She led the push for a library, and that September \"Delivery Station F\" opened inside Mary Bridget Mullally Hamilton's dry-goods store on Diamond Street [1].\n\nThen the moves began. It went to Bosworth and Diamond in 1914, next door in 1918, and in 1927 it became a full branch at 700 Bosworth [1]. In 1964 that building was knocked down to widen Bosworth, part of the freeway plans that threatened Glen Canyon. The library went back to Diamond Street, until BART bought the block in 1968 and it had to move once more [1].\n\nIn 1970 Glen Park native William \"Bill\" Tietz and his wife Val gave the city their land at 653 Chenery Street. They turned the family's old hardware store into a library, and it stayed there for 37 years. The building is now Bird & Beckett Books and Records [1]. On 13 October 2007 the branch moved into the first building the city had ever owned for it, at 2825 Diamond Street [1]. Gum Tree Girl Zoanne Nordstrom had backed the new building and the housing that came with it [2].",
+  "people": [
+   {
+    "name": "Ada Parker Stillings",
+    "role": "Outdoor Art League president who founded the library"
+   },
+   {
+    "name": "Mary Bridget Mullally Hamilton",
+    "role": "hosted the first delivery station in her store"
+   },
+   {
+    "name": "William and Val Tietz",
+    "role": "gave 653 Chenery to the library"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Meandering History of Glen Park's Branch Library",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2018,
+    "url": "https://www.glenparkhistory.org/glen-park-s-roving-branch-library",
+    "supports": "1908 Art League, Stillings, Delivery Station F in Hamilton's store, each move and date, 1964 demolition, BART 1968, Tietz gift 1970, Bird & Beckett, 13 Oct 2007 opening"
+   },
+   {
+    "title": "Zoanne Nordstrom: Gum Tree Girl and Neighborhood Activist",
+    "publisher": "FoundSF (Bonnee Waldstein, Glen Park News)",
+    "year": 2021,
+    "url": "https://www.foundsf.org/index.php?title=Zoanne_Nordstrom:_Gum_Tree_Girl_and_Neighborhood_Activist",
+    "supports": "Nordstrom supported the library, market and housing complex at Diamond and Wilder"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-glenodeon",
+  "title": "A suffragist's nickelodeon and the King of Bs",
+  "theme": "arts-counterculture",
+  "year": 1913,
+  "yearEnd": 1929,
+  "place": {
+   "label": "2780 Diamond Street (site of the Glenodeon / Diamond Theatre, demolished)",
+   "lat": 37.73491,
+   "lon": -122.43396,
+   "precision": "building"
+  },
+  "hook": "A woman ran Glen Park's first picture house in a trade run by men. Its last manager was a teenager who went on to make 'The Fly'.",
+  "story": "In 1913 Glen Park got its own nickelodeon, the Glenodeon, on Diamond Street just north of Chenery. Its proprietor was Caroline Evers, a Canadian-born suffragist and the first president of the Glen Park Outdoor Art League. Almost all theatre owners were men at the time [1]. Along with silent serials the little hall held political meetings. In 1915 Mayor \"Sunny Jim\" Rolph and City Engineer Michael O'Shaughnessy came to argue for the water bond tied to the Hetch Hetchy project [1]. Evers renamed the theatre the Diamond in 1917, and in 1920 she personally welcomed cowboy star Tom Mix to a convention of theatre owners [1].\n\nShe left the business around 1926. The theatre reopened in 1927 and closed for good in 1929, the year talking pictures arrived [2]. A teenage orphan named Bob Lippert later said he had run a movie house at Diamond and Chenery. Historians think he was probably running the Diamond in those last years [2]. Lippert went on to own a chain of more than a hundred theatres and to finance more than 300 films, among them I Shot Jesse James and The Fly. He became known as the \"King of the Bs\" [2][3].",
+  "people": [
+   {
+    "name": "Caroline Evers",
+    "role": "proprietor of the Glenodeon"
+   },
+   {
+    "name": "Robert L. Lippert",
+    "role": "B-movie producer and theatre-chain owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Hollywood - The Glen Park Connection, Part 1: Caroline Evers and the Glen Park Glenodeon",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2021,
+    "url": "https://www.glenparkhistory.org/single-post/hollywood-the-glen-park-connection-part-1-caroline-evers-and-the-glen-park-glenodeon",
+    "supports": "1913 opening, 2774/2780 Diamond location, Evers biography, 1915 Rolph/O'Shaughnessy meeting, 1917 rename, Tom Mix, last listing 1925"
+   },
+   {
+    "title": "Hollywood - The Glen Park Connection, Part 2: Bob Lippert, King of the B's",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2021,
+    "url": "https://www.glenparkhistory.org/single-post/hollywood-the-glen-park-connection-part-2-bob-lippert-king-of-the-b-s",
+    "supports": "Diamond Theatre 1927-1929, Lippert's claim and likely role, later career"
+   },
+   {
+    "title": "Robert L. Lippert",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Robert_L._Lippert",
+    "supports": "more than 300 films, I Shot Jesse James, The Fly, 'King of the Bs', 139-theatre chain"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-irene-ryan-arlington",
+  "title": "Granny Clampett grew up on 'Sullivan Alley'",
+  "theme": "arts-counterculture",
+  "year": 1907,
+  "yearEnd": 1917,
+  "place": {
+   "label": "Arlington Street between Charles and Miguel streets (site of the Noblitt home, demolished c.1930)",
+   "lat": 37.73789,
+   "lon": -122.42569,
+   "precision": "block"
+  },
+  "hook": "Before she was pipe-smoking Granny on 'The Beverly Hillbillies', Irene Noblitt was a Fairmount schoolgirl who won $3 for singing 'Pretty Baby' very loudly.",
+  "story": "In 1907 James Noblitt bought a lot on Arlington Street. He was a North Carolina army veteran who now worked as a watchman for the federal Chinese Bureau. He moved his wife Katie and their daughter Jessie Irene into a small one-bedroom house at 39 Arlington. Behind it the ground dropped steeply to the Bernal Cut, where Southern Pacific trains rumbled past day and night [1]. The street was full of the Sullivans' eleven children, and neighbours called it \"Sullivan Alley.\" Irene went to Fairmount Grammar School at Chenery and Randall [1].\n\nHer father died in 1913. At 11, Irene won $3 singing \"Pretty Baby\" in an amateur contest at the Valencia Theater [1][2]. She told the story later: \"The manager told me I wouldn't get hit with the garbage if I sang loud enough... I've been singing loud ever since\" [1]. At 15 she left with a touring stock company [1].\n\nShe went on to vaudeville with her husband Tim Ryan, then to radio with Bob Hope. From 1962 to 1971 she played Daisy May \"Granny\" Moses on The Beverly Hillbillies, a role that earned two Emmy nominations [2]. The house on Arlington was probably torn down around 1930, when the Bernal Cut was widened [1].",
+  "people": [
+   {
+    "name": "Irene Ryan (born Irene Noblitt)",
+    "role": "actress, Granny on The Beverly Hillbillies"
+   },
+   {
+    "name": "James Merritt Noblitt",
+    "role": "her father, army veteran and customs watchman"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Hollywood - The Glen Park Connection, Part 5: Irene Ryan of Arlington St., a 1960s TV Icon",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2021,
+    "url": "https://www.glenparkhistory.org/single-post/hollywood-the-glen-park-connection-part-5-irene-ryan-of-arlington-st-a-1960s-tv-icon",
+    "supports": "1907 lot purchase, 39 Arlington, Bernal Cut, Sullivan Alley, Fairmount Grammar, father's 1913 death, Valencia Theater quote, touring at 15, house demolished c.1930"
+   },
+   {
+    "title": "Irene Ryan",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Irene_Ryan",
+    "supports": "born Noblitt 1902, $3 'Pretty Baby' prize at the Valencia Theater, Tim Ryan, Bob Hope, Granny role 1962-1971, Emmy nominations 1963 and 1964"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-tyrrel-family-poole-bell",
+  "title": "The Tyrrels, Fairmount's first Black family",
+  "theme": "communities",
+  "year": 1918,
+  "yearEnd": 1946,
+  "place": {
+   "label": "Poole-Bell House, 196-198 Laidley Street at Fairmount Street",
+   "lat": 37.7387,
+   "lon": -122.42834,
+   "precision": "building"
+  },
+  "hook": "Myths about the Laidley Street mansion claim Mary Ellen Pleasant and a trapdoor. The true story is a Guyanese-born City Hall clerk and his family.",
+  "story": "For decades the gothic house at Laidley and Fairmount was said to belong to Mary Ellen Pleasant, with a trapdoor for disposing of unwanted guests. Researchers have shown that Pleasant never lived there [1][2]. The house was built for the attorney John P. Poole, dated to 1887 by one researcher. His widow Annie sold it in 1906 to Teresa Bell, who had once shared a mansion with Pleasant [1][2].\n\nIn 1918 Bell moved out and rented the house to Bertram and Frances Tyrrel. They were the first African American family in the Glen Park-Fairmount district, and in the 1930 and 1940 censuses they were the only one [3]. Bertram, born in 1867 in Demerara, British Guiana, had served in the US Navy. He was one of 28 workers fired in 1896 when white unions pushed the Palace Hotel to get rid of its Black staff. He later rose from messenger to clerk at the Board of Public Works, an unusual promotion for a Black man then [3]. Frances was the daughter of Black pioneers who had come to California in the 1850s. She was Grand Secretary of her Eastern Star chapter [3]. They rented the house until 1921 and stayed in the district for three decades, finally settling on Chenery Street [3]. Bertram died in 1946 [3].",
+  "people": [
+   {
+    "name": "Bertram Tyrrel",
+    "role": "Board of Public Works clerk and choir director"
+   },
+   {
+    "name": "Frances Cady Tyrrel",
+    "role": "fraternal leader, daughter of California pioneers"
+   },
+   {
+    "name": "Teresa Bell",
+    "role": "owner of the house 1906-1917"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Bodies in the Well, Trapdoors in the Foyer: How the Poole-Bell House Became Mired in Myths",
+    "publisher": "Sunnyside History Project (Amy O'Hair)",
+    "year": 2020,
+    "url": "https://web.archive.org/web/2024/https://sunnysidehistory.org/2020/03/04/bodies-in-the-well-trapdoors-in-the-foyer-how-the-poole-bell-house-became-mired-in-myths/",
+    "supports": "built 1887 for John Poole, 1906 sale to Teresa Bell, Pleasant never there, trapdoor myth's origins"
+   },
+   {
+    "title": "Mary Ellen Pleasant ... The Truth About Her Link to the Mansion on Fairmount's Laidley Street",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2019,
+    "url": "https://www.glenparkhistory.org/mary-ellen-pleasant-in-fairmount",
+    "supports": "Poole ownership, Annie Poole's 1906 sale to Teresa Bell, lore about Pleasant is fictional"
+   },
+   {
+    "title": "The First Black Family in Glen Park",
+    "publisher": "Sunnyside History Project (Amy O'Hair)",
+    "year": 2019,
+    "url": "https://web.archive.org/web/2024/https://sunnysidehistory.org/2019/12/24/the-first-black-family-in-glen-park/",
+    "supports": "1918 tenancy, first Black family and census details, Bertram's birth, Navy, 1896 Palace firing, Public Works career, Frances's pioneer family and Eastern Star role, move to Chenery, death 1946"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-george-dunn-pearl-harbor",
+  "title": "A Seals pitcher from Mizpah Street",
+  "theme": "war-military",
+  "year": 1941,
+  "place": {
+   "label": "Mizpah Street, home of the Dunn family from 1924",
+   "lat": 37.73684,
+   "lon": -122.43911,
+   "precision": "street"
+  },
+  "hook": "George Dunn grew up a block from Glen Canyon's ball field and pitched for the Seals. He died aboard the USS West Virginia on 7 December 1941.",
+  "story": "The Dunn family moved to Mizpah Street in 1924, one block from Glen Canyon. Their son George was born in 1917 [1]. He grew into a pitcher who could hit, and the Examiner wrote in 1936 that \"this boy wins most of his games and does what most chuckers are not expected to do, pummel that horsehide\" [1]. He trained with the San Francisco Seals. In 1938 he was at their Hanford camp when Joe DiMaggio turned up to get in shape. In 1939 he tried out in front of manager Lefty O'Doul [1]. In 1940 the Glen Park Athletic Club hired him to revive neighbourhood baseball on the canyon's field [1].\n\nThat November he joined the Navy. He trained as a radioman and was posted to the battleship USS West Virginia at Pearl Harbor. On 7 December 1941 torpedoes and bombs hit the ship, and Dunn was among more than 200 men killed on board. His body was found only months later, when the ship was raised [1]. In October 1947 his remains came home under the Golden Gate Bridge among 2,967 fallen service members, and he was buried at Golden Gate National Cemetery [1]. His signature survives in a Mizpah neighbour's school autograph book, dated May 1931 [1].",
+  "people": [
+   {
+    "name": "George S. Dunn Jr.",
+    "role": "semi-pro pitcher and Navy radioman"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Life Story of George S. Dunn: Aspiring Pitcher for the San Francisco Seals",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2019,
+    "url": "https://www.glenparkhistory.org/george-s-dunn-aspiring-sf-sealspitc",
+    "supports": "Mizpah from 1924, Examiner quote, Seals, DiMaggio and O'Doul, Glen Park Athletic Club 1940, enlistment, USS West Virginia, recovery, 1947 return and burial, autograph book"
+   },
+   {
+    "title": "The Mysterious Origins of Glen Park's Mizpah Street",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2018,
+    "url": "https://www.glenparkhistory.org/mystery-of-mizpah-street",
+    "supports": "Dunn as Mizpah Street resident killed aboard USS West Virginia"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "glen-park-playground-bought-back",
+  "title": "The women who won back Glen Canyon",
+  "theme": "parks-nature",
+  "year": 1922,
+  "place": {
+   "label": "Glen Canyon Park Recreation Center, 70 Elk Street",
+   "lat": 37.73619,
+   "lon": -122.44003,
+   "precision": "area"
+  },
+  "hook": "After the zoo closed, Glen Canyon became a private, bookings-only picnic ground. It took residents more than ten years of campaigning to get it back.",
+  "story": "When the zoo era ended, the Crocker Estate Company kept the south end of the canyon as a private picnic ground. People booked it by the week, and it had a baseball diamond and a dance hall locals called the Red Barn [1]. In the 1910s the National Guard even used the canyon for sham battles and set up a rifle range [1].\n\nThe Glen Park Improvement Association and, from 1908 to 1917, the women of the Glen Park Outdoor Art League campaigned for more than a decade to make it public again [2]. The city finally paid $10,000 a year from 1919 to 1921 and opened the Glen Park Playground in 1922 [2]. Carrie Bauer of Mizpah Street was the League's last president and fought hard for the deal. According to her descendants, when she died in 1932 her funeral procession drove once around the playground before heading to the cemetery [2].\n\nThe Red Barn burned down in 1932. WPA workers finished the present recreation center in 1938, designed by William G. Merchant, a protégé of Bernard Maybeck [1]. Up the canyon, Islais Creek still runs above ground through willow thickets, one of the last open creeks in the city [3].",
+  "people": [
+   {
+    "name": "Carrie Bauer",
+    "role": "last president of the Glen Park Outdoor Art League"
+   },
+   {
+    "name": "William G. Merchant",
+    "role": "architect of the 1938 recreation center"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Who Knew? The History of Glen Canyon",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2020,
+    "url": "https://www.glenparkhistory.org/glen-canyon-c1cvj",
+    "supports": "Crocker picnic grounds, Red Barn, National Guard sham battles and rifle range, 1922 purchase, 1932 fire, Merchant and WPA 1938"
+   },
+   {
+    "title": "The Life Story of George S. Dunn (Glen Park Playground purchase)",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2019,
+    "url": "https://www.glenparkhistory.org/george-s-dunn-aspiring-sf-sealspitc",
+    "supports": "$10,000 installments 1919-1921, 1922 opening, activism by Improvement Association and Outdoor Art League, Carrie Bauer's funeral cortege"
+   },
+   {
+    "title": "Glen Canyon Park",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Glen_Canyon_Park",
+    "supports": "free-flowing Islais Creek and willow thickets in the canyon"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "glen-park-gum-tree-girls",
+  "title": "Three mothers stop a freeway",
+  "theme": "civil-rights",
+  "year": 1965,
+  "yearEnd": 1970,
+  "place": {
+   "label": "Gum Tree Girls Trail (Alms Road), Glen Canyon Park",
+   "lat": 37.7405,
+   "lon": -122.4418,
+   "precision": "area"
+  },
+  "hook": "\"Like hell you'll build a freeway!\" A surveyor's stakes set off five years of fighting City Hall, and in the end the Gum Tree Girls won.",
+  "story": "The 1948 freeway plan included a \"Circumferential Expressway\" that would have crossed Glen Park on a viaduct, running beside Bosworth and O'Shaughnessy and hanging 60 feet above the canyon [1]. Local woman Minnie Straub Baxter helped beat the first version in 1958. She packed 500 residents into Glen Park School and took her case to Sacramento [1].\n\nIn 1965 Zoanne Nordstrom and Joan Seiwald saw a surveyor putting in stakes on Bosworth. When he explained what they were for, Nordstrom told him, \"Like hell you'll build a freeway!\" [2]. With Geri Arkush they started the Save Glen Park Committee on 19 October 1965 [1]. City Engineer Clifford Geertz dismissed them as the \"Gum Tree Girls,\" after the eucalyptus that would have been cut down [1]. \"It wasn't a compliment,\" Seiwald recalled. \"We were beating them, one of the world's greatest sins\" [2]. Their children kept pulling the surveyors' flags off the trees [1].\n\nThe supervisors voted to stop the work and repair the canyon, and in 1970 they killed the O'Shaughnessy widening for good [1]. In 2014 the Recreation and Park Department renamed the canyon's main path, Alms Road, the Gum Tree Girls Trail [1].",
+  "people": [
+   {
+    "name": "Zoanne Nordstrom",
+    "role": "Gum Tree Girl"
+   },
+   {
+    "name": "Joan Seiwald",
+    "role": "Gum Tree Girl"
+   },
+   {
+    "name": "Geri Arkush",
+    "role": "Gum Tree Girl"
+   },
+   {
+    "name": "Minnie Straub Baxter",
+    "role": "led the 1958 opposition"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Wonder Women! Glen Park's Gum Tree Girls, Minnie Straub Baxter, and the San Francisco Freeway Revolt",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2018,
+    "url": "https://www.glenparkhistory.org/freeway-revolt-in-glen-park",
+    "supports": "1948 plan and viaduct details, Baxter's 1958 meeting and Sacramento speech, committee founded 19 Oct 1965, Geertz nickname, children pulling flags, 1970 defeat, 2014 trail renaming"
+   },
+   {
+    "title": "Zoanne Nordstrom: Gum Tree Girl and Neighborhood Activist",
+    "publisher": "FoundSF (Bonnee Waldstein, Glen Park News)",
+    "year": 2021,
+    "url": "https://www.foundsf.org/index.php?title=Zoanne_Nordstrom:_Gum_Tree_Girl_and_Neighborhood_Activist",
+    "supports": "surveyor on Bosworth and 'Like hell' quote, 1965-1970 revolt, Seiwald's 'It wasn't a compliment' quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "glen-park-bart-station",
+  "title": "A brutalist station like a Romanesque church",
+  "theme": "architecture-landmarks",
+  "year": 1973,
+  "place": {
+   "label": "Glen Park BART Station, Diamond and Bosworth streets",
+   "lat": 37.73334,
+   "lon": -122.43406,
+   "precision": "building"
+  },
+  "hook": "Ernest Born designed BART's lettering and gave this station a marble mural with almost no right angles. Many people call it the most beautiful stop on the system.",
+  "story": "BART bought the block at Diamond and Bosworth in 1968, over residents' protests, and knocked down its buildings, the branch library among them [1]. Glen Park station opened on 5 November 1973 [2]. It was designed by architect Ernest Born with the firm Corlett & Spackman. Born was also an illustrator, and he designed the lettering for all of BART's original signs [2][3].\n\nThe station is built in the concrete brutalist style of BART's early stations, but it feels calmer than the rest. Architectural Record admired its 60-foot-high volume, with daylight from skylights pouring down to the lower platform, \"an extraordinary sight in a subway\" [2]. Born hung a \"utility beam\" over the platform edge to carry the lights and speakers. He also designed the marble mural in the concourse, about 100 pieces, few if any cut at right angles [2][3]. BART director Tom Radulovich wrote in 2009 that the dark walls and great arches make it feel \"like a Romanesque church\" [3]. The mural appears in the 2006 film The Pursuit of Happyness. In 2019 the Glen Park Association nominated the station for the National Register of Historic Places [2].",
+  "people": [
+   {
+    "name": "Ernest Born",
+    "role": "architect and designer of BART's original lettering"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Meandering History of Glen Park's Branch Library",
+    "publisher": "Glen Park Neighborhoods History Project (Evelyn Rose)",
+    "year": 2018,
+    "url": "https://www.glenparkhistory.org/glen-park-s-roving-branch-library",
+    "supports": "BART bought the block in 1968 despite protests; library displaced"
+   },
+   {
+    "title": "Glen Park station",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Glen_Park_station",
+    "supports": "Born with Corlett & Spackman, brutalist, 5 Nov 1973 opening, Architectural Record quote, 100-piece mural, Pursuit of Happyness, 2019 NRHP nomination"
+   },
+   {
+    "title": "Glen Park BART Station Design",
+    "publisher": "FoundSF (Tom Radulovich)",
+    "year": 2009,
+    "url": "https://www.foundsf.org/index.php?title=Glen_Park_BART_Station_Design",
+    "supports": "Born designed BART signage font, utility beam, mural with no right angles, Romanesque church comparison"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ }
+]

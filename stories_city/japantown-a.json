@@ -1,0 +1,557 @@
+[
+  {
+    "id": "japantown-geary-cable-powerhouse",
+    "title": "The powerhouse that pulled Geary Street",
+    "theme": "labor-industry",
+    "year": 1880,
+    "yearEnd": 1912,
+    "place": {
+      "label": "Geary Street cable powerhouse site, NW corner of Geary & Buchanan",
+      "lat": 37.78502,
+      "lon": -122.43056,
+      "precision": "block"
+    },
+    "hook": "A carpenter died building it. For 32 years it hauled cable under Geary. Then the city took the line over and started Muni.",
+    "story": "In August 1879 a carpenter named Michael Rochfort was killed by a falling derrick while building an engine house at Geary and Buchanan for the new Geary Street cable road [1]. The line opened on 16 February 1880. From a two-storey wooden powerhouse on the northwest corner, a cable ran under Geary out toward Central (now Presidio) Avenue, and steam dummies sometimes carried riders further west [1][2]. By the 1900s Progressive reformers wanted the city to own its utilities, and riders were fed up with the slow little cars, which the Western Neighborhoods Project puts at six miles an hour [3]. Voters approved a city-run line on Geary in 1909 [1]. When the private franchise was not renewed, the last cable car left the Market Street turntable at 12:32 a.m. on 6 May 1912. Gripman F. Brainerd and conductor F. Stanley were aboard, and workmen were already ripping out cable behind them [1]. On 28 December 1912 Mayor James Rolph opened the city's electric A and B Geary lines, the first pieces of what became Muni [2][3].",
+    "people": [
+      {
+        "name": "Michael Rochfort",
+        "role": "carpenter killed building the powerhouse, 1879"
+      },
+      {
+        "name": "F. Brainerd",
+        "role": "gripman on the last cable car"
+      },
+      {
+        "name": "James Rolph",
+        "role": "mayor who opened the Municipal Railway"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Geary Street, Park & Ocean Railway",
+        "publisher": "The Cable Car Home Page (Joe Thompson)",
+        "year": null,
+        "url": "http://www.cable-car-guy.com/html/ccsfgspo.html",
+        "supports": "1879 death of carpenter Rochfort at the Geary & Buchanan engine house; opening 16 Feb 1880; steam dummies west of Buchanan; 1909 vote; last car, crew and time (SF Call, 6 May 1912)"
+      },
+      {
+        "title": "Geary Street, Park and Ocean Railway",
+        "publisher": "Wikipedia (pointer; cites Callwell and LaBounty)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Geary_Street,_Park_and_Ocean_Railway",
+        "supports": "Two-storey wooden powerhouse on NW corner of Geary & Buchanan; route to Central Ave; B-Geary began 28 Dec 1912 as first element of Muni"
+      },
+      {
+        "title": "Streetwise: Run Out of Town",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/sw16.php",
+        "supports": "Progressive push for public ownership; six-mph cars; Mayor Rolph opened the A and B Geary lines on 28 Dec 1912"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-grauman-tent-theatre",
+    "title": "Vaudeville under canvas at Post and Steiner",
+    "theme": "arts-counterculture",
+    "year": 1906,
+    "yearEnd": 1907,
+    "place": {
+      "label": "National Theatre site, NW corner of Post & Steiner",
+      "lat": 37.78523,
+      "lon": -122.43562,
+      "precision": "block"
+    },
+    "hook": "Weeks after the city burned, the Graumans put a tent on a vacant lot and packed in thousands. Then they built the theatre around it without missing a show.",
+    "story": "When the 1906 fire wiped out downtown's theatres, show business moved west to the parts of the city that had survived. On 28 May 1906 the National Tent Show Theatre opened on a vacant lot at the northwest corner of Post and Steiner, showing films and vaudeville. It was soon rebranded as Grauman's National [1]. Variety reported 2,400 people in the house that June [1]. In October 1906 the Examiner described a steel and iron building going up over the tent while three shows a day carried on, with 1,800 opera chairs planned [1]. The National was not alone. The Dreamland Rink behind it staged boxing by August 1906, and the Belascos' New Alcazar opened at Sutter and Steiner on 18 March 1907 [2][3]. Theatre historian Bill Counter warns that many Grauman legends conflict, including a hand-painted sign supposedly telling patrons that in another quake only the canvas would fall on them [1]. Some accounts, including Wikipedia's, put the first tent downtown on the site of the Graumans' old Unique Theatre. Counter says that was not the case [1][4].",
+    "people": [
+      {
+        "name": "David J. Grauman",
+        "role": "showman, the National's operator"
+      },
+      {
+        "name": "Sid Grauman",
+        "role": "his son, later builder of Grauman's Chinese Theatre"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The National Theatre",
+        "publisher": "San Francisco Theatres (Bill Counter)",
+        "year": 2017,
+        "url": "http://sanfranciscotheatres.blogspot.com/2017/08/national-theatre.html",
+        "supports": "Opened 28 May 1906 at NW corner Post & Steiner as a tent show; Variety's 2,400; Examiner Oct 1906 on building over the tent, three shows a day, 1,800 chairs; conflicting Grauman legends"
+      },
+      {
+        "title": "Dreamland / Winterland",
+        "publisher": "San Francisco Theatres (Bill Counter)",
+        "year": 2020,
+        "url": "http://sanfranciscotheatres.blogspot.com/2020/01/winterland.html",
+        "supports": "Dreamland Rink hosting boxing by mid-August 1906"
+      },
+      {
+        "title": "The Alcazar / Republic / Sutter / Uptown Theatre",
+        "publisher": "San Francisco Theatres (Bill Counter)",
+        "year": 2017,
+        "url": "http://sanfranciscotheatres.blogspot.com/2017/08/uptown-theatre.html",
+        "supports": "New Alcazar at SW corner Sutter & Steiner opened 18 March 1907 under Belasco & Mayer"
+      },
+      {
+        "title": "Sid Grauman",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Sid_Grauman",
+        "supports": "Alternative account placing the tent on the Unique Theatre site (the conflict noted)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-new-dreamland-1928",
+    "title": "Dreamland's floor that tilted",
+    "theme": "architecture-landmarks",
+    "year": 1928,
+    "yearEnd": null,
+    "place": {
+      "label": "Dreamland Rink / New Dreamland Auditorium site, Steiner between Post & Sutter",
+      "lat": 37.7855,
+      "lon": -122.4354,
+      "precision": "block"
+    },
+    "hook": "The old boxing barn closed on a knockout. Its $1 million replacement had a floor on hydraulic jacks that could lie flat for dances or tilt for opera.",
+    "story": "For twenty years the Dreamland Rink, entered mid-block on the west side of Steiner, was the neighbourhood's big room. It held roller skating and boxing, and on the eve of the 1916 election Governor Hiram Johnson drew crowds so large that the theatre next door took the overflow [1]. By the 1920s, the city's Japantown report notes, Dreamland was also staging sumo wrestling [2]. The last event was a fight on 2 September 1927, when Ray Pelkey met Bert Colima. The Bulletin's Les Cohen quipped that the old rink and Pelkey \"went out simultaneously\" [1]. A new Dreamland Auditorium, designed by Ward & Blohme, went up across the rink and the old National Theatre lot. It opened in June 1928 [1][3]. The Examiner counted 8,500 seats for boxing and 4,500 for opera. The floor sat on hydraulic jacks so it could be level for dances or tilted for concerts [1]. The Examiner put the cost at $1.2 million. Wikipedia says $1 million, and opening dates vary between 26 and 29 June [1][3]. In 1939 the building was renamed Winterland [1].",
+    "people": [
+      {
+        "name": "Ray Pelkey",
+        "role": "boxer in the rink's final bout"
+      },
+      {
+        "name": "Hiram Johnson",
+        "role": "governor who rallied voters there in 1916"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dreamland / Winterland",
+        "publisher": "San Francisco Theatres (Bill Counter)",
+        "year": 2020,
+        "url": "http://sanfranciscotheatres.blogspot.com/2020/01/winterland.html",
+        "supports": "Rink location; 1916 Johnson rally; final bout 2 Sept 1927 and Cohen quote; 1928 opening, capacities, hydraulic floor, $1.2M, Ward & Blohme; 1939 renaming"
+      },
+      {
+        "title": "San Francisco Japantown Historic Context Statement (revised May 2011)",
+        "publisher": "San Francisco Planning Department / Donna Graves and Page & Turnbull",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://www.sf-planning.org/modules/showdocument.aspx?documentid=1696",
+        "supports": "Dreamland Auditorium at Post and Steiner hosted sumo wrestling by the 1920s"
+      },
+      {
+        "title": "Winterland Ballroom",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Winterland_Ballroom",
+        "supports": "Opened June 29, 1928 as New Dreamland Auditorium on the Dreamland Rink and National Theatre sites; $1 million cost"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-majestic-hall",
+    "title": "Before the Fillmore, the Majestic",
+    "theme": "arts-counterculture",
+    "year": 1910,
+    "yearEnd": null,
+    "place": {
+      "label": "Majestic Hall (later the Fillmore Auditorium), Geary & Fillmore",
+      "lat": 37.78409,
+      "lon": -122.43313,
+      "precision": "building"
+    },
+    "hook": "The hall where Hendrix and the Dead later played began as a mother-and-daughters venture, and it kept a colour line for more than forty years.",
+    "story": "Decades before the psychedelic posters, the corner of Geary and Fillmore held a dance hall built by women. According to the city's Japantown historic context statement, Emma Gates Butler and her daughters built the Majestic Hall at the southwest corner in 1910. It was designed by the well-known architects James W. and Merritt Reid, who in 1911 also designed a five-storey building across Fillmore Street [1]. Other accounts give 1912 and describe the first tenant as the Majestic Hall and Academy of Dancing [2]. It was part of the entertainment boom that followed the 1906 quake, when Fillmore Street briefly became the city's downtown [1]. For a neighbourhood that was fast becoming one of the most mixed in the West, the Majestic kept a colour line. The same report notes that it was segregated until the 1950s [1]. The building went on to become the Ambassador Dance Hall in 1936 and a roller rink from 1939 to 1952. In 1954 the Black promoter Charles Sullivan took the lease, renamed it the Fillmore Auditorium and opened its doors to everyone [2].",
+    "people": [
+      {
+        "name": "Emma Gates Butler",
+        "role": "builder of the Majestic Hall with her daughters"
+      },
+      {
+        "name": "James W. and Merritt Reid",
+        "role": "architects"
+      },
+      {
+        "name": "Charles Sullivan",
+        "role": "promoter who renamed it the Fillmore in 1954"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Japantown Historic Context Statement (revised May 2011)",
+        "publisher": "San Francisco Planning Department / Donna Graves and Page & Turnbull",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://www.sf-planning.org/modules/showdocument.aspx?documentid=1696",
+        "supports": "Majestic Hall built 1910 at SW corner of Geary & Fillmore by Emma Gates Butler and daughters; Reid Brothers architects; 1911 building across Fillmore; segregated until the 1950s; post-1906 Fillmore boom"
+      },
+      {
+        "title": "The Fillmore",
+        "publisher": "Wikipedia (pointer; cites Pepin & Watts, Harlem of the West, and the California Historical Society)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/The_Fillmore",
+        "supports": "Built 1912 as Majestic Hall and Academy of Dancing; Ambassador 1936; roller rink 1939-52; Charles Sullivan 1954"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-fillmore-arches",
+    "title": "When Fillmore Street was downtown",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": 1912,
+    "place": {
+      "label": "Fillmore Street at Post",
+      "lat": 37.78536,
+      "lon": -122.43284,
+      "precision": "street"
+    },
+    "hook": "With Market Street in ashes, City Hall, department stores and newspapers moved to Fillmore. Its boosters hung glowing iron arches over fourteen intersections.",
+    "story": "The fire of April 1906 stopped at Van Ness Avenue, which left the Western Addition standing [1]. Almost overnight Fillmore Street became San Francisco's busiest shopping street [2]. The first streetcar to run after the disaster ran along Fillmore. City Hall, several department stores and newspapers set up on the street and the blocks around it [3]. The city's historic context statement says that in 1907 local boosters, hoping to keep Fillmore's new status, put up illuminated iron arches over fourteen intersections [3]. The arches can still be seen in photographs from around 1911 [1]. Nickelodeons followed. The Lyregraph, advertising \"Moving and Talking Pictures\", appears at 1730 Fillmore in the 1909 and 1911 city directories [4]. There was even a 1912 plan to tunnel under Fillmore to the Marina [1]. But once downtown was rebuilt, the offices and big stores went back. Fillmore settled into being a neighbourhood high street, and the old houses around it were divided up for the many families the fire had made homeless [1][3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Western Addition Early 20th Century Life and Work",
+        "publisher": "FoundSF (excerpt from Issel & Cherny, San Francisco 1865-1932)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Western_Addition_Early_20th_Century_Life_and_Work",
+        "supports": "Destruction stopped at Van Ness; Fillmore briefly the city's commercial centre; arches in c.1911 photo; 1912 tunnel proposal; houses subdivided"
+      },
+      {
+        "title": "Fillmore Street 1906",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Fillmore_Street_1906",
+        "supports": "After the quake Fillmore became the city's busiest shopping district"
+      },
+      {
+        "title": "San Francisco Japantown Historic Context Statement (revised May 2011)",
+        "publisher": "San Francisco Planning Department / Donna Graves and Page & Turnbull",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://www.sf-planning.org/modules/showdocument.aspx?documentid=1696",
+        "supports": "First post-disaster streetcar on Fillmore; City Hall, department stores and newspapers on Fillmore; 1907 illuminated iron arches over fourteen intersections; commercial role faded"
+      },
+      {
+        "title": "San Francisco Theatres by address",
+        "publisher": "San Francisco Theatres (Bill Counter)",
+        "year": 2017,
+        "url": "http://sanfranciscotheatres.blogspot.com/2017/06/san-francisco-theatres-by-address.html",
+        "supports": "Lyregraph Moving and Talking Pictures at 1730 Fillmore in 1909 and 1911 directories"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-lesser-nagasaki",
+    "title": "\"A Greater San Francisco or Lesser Nagasaki?\"",
+    "theme": "quake1906",
+    "year": 1907,
+    "yearEnd": 1910,
+    "place": {
+      "label": "Post & Buchanan, heart of the new Nihonjin Machi",
+      "lat": 37.78574,
+      "lon": -122.42997,
+      "precision": "street"
+    },
+    "hook": "In 1900 not one Japanese household lived here. Seven years later the Chronicle was warning of an \"invasion.\" By 1910 this was the heart of Japanese San Francisco.",
+    "story": "The 1900 census found no Japanese households in these blocks, which were then home to German, Irish and Jewish families [1]. The 1906 earthquake and fire destroyed the city's two Japanese enclaves, in Chinatown and along Jessie and Stevenson streets south of Market [1][2]. Refugees moved west, where some property owners of European descent were willing to rent to them. The newspaper Shin Sekai (New World) urged readers to settle for good, predicting that rents would fall once the ruined districts were rebuilt [1]. Not everyone welcomed them. On 24 March 1907 the San Francisco Chronicle ran an alarmist piece titled \"A Greater San Francisco or Lesser Nagasaki – Which?\" about the Japanese \"invasion\" of the Western Addition [1]. The community stayed anyway. By the 1910 census the core bounded by Bush, Geary, Webster and Laguna had more than 50 Japanese-owned businesses and most of the city's 4,700 Japanese residents [1]. There were pool halls, hotels and employment agencies for single men, and a kindergarten and midwives for new families. Yet the 1910 block book lists no Japanese property owners at all [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco Japantown Historic Context Statement (revised May 2011)",
+        "publisher": "San Francisco Planning Department / Donna Graves and Page & Turnbull",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://www.sf-planning.org/modules/showdocument.aspx?documentid=1696",
+        "supports": "No Japanese households in 1900; Shin Sekai editorials; Chronicle 24 March 1907 'Lesser Nagasaki' article; 1910 census figures; businesses; no Japanese owners in 1910"
+      },
+      {
+        "title": "Nihonjin-Machi, San Francisco's Japanese People Town",
+        "publisher": "FoundSF (Alison Jordan)",
+        "year": 2017,
+        "url": "https://www.foundsf.org/index.php?title=Nihonjin-Machi,_San_Francisco%27s_Japanese_People_Town",
+        "supports": "Pre-1906 enclaves in Chinatown and on Stevenson/Jessie; destruction in 1906 and relocation to the Western Addition"
+      },
+      {
+        "title": "Shin Sekai (newspaper)",
+        "publisher": "Densho Encyclopedia (Brian Niiya)",
+        "year": null,
+        "url": "https://encyclopedia.densho.org/Shin_Sekai_(newspaper)/",
+        "supports": "Shin Sekai founded 1894 as the Japanese YMCA's organ; independent from 1897"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-sano-school-boycott",
+    "title": "The school Issei parents built in protest",
+    "theme": "civil-rights",
+    "year": 1906,
+    "yearEnd": 1907,
+    "place": {
+      "label": "Sano School site, 1761-65 Post Street",
+      "lat": 37.78517,
+      "lon": -122.43055,
+      "precision": "block"
+    },
+    "hook": "San Francisco ordered 93 Japanese children into a segregated school. Their parents refused, opened their own classes on Post Street and started a diplomatic crisis.",
+    "story": "On 11 October 1906 the Board of Education ordered the 93 Japanese students in its public schools to attend the segregated school it ran for Chinese children [1]. The Japanese community protested and alerted the press and officials in Japan, and Tokyo lodged a formal protest [1]. Here in the new Japantown, the city's historic context statement records, Issei parents set up the Sano School as a boycott measure, at 1761–65 Post Street [2]. The row became international. In his December 1906 message to Congress, Theodore Roosevelt called shutting Japanese children out of the public schools \"a wicked absurdity\" [1]. In January 1907 he invited the mayor and California officials to the White House. The city withdrew the order, and in return Roosevelt moved to cut Japanese immigration. That deal led to the 1907 Gentlemen's Agreement [1][2]. The Agreement still let wives and so-called picture brides come to join their husbands. Families grew, and with them this neighbourhood of Japanese schools, kindergartens and churches [2].",
+    "people": [
+      {
+        "name": "Theodore Roosevelt",
+        "role": "President who opposed the segregation order"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco school segregation",
+        "publisher": "Densho Encyclopedia (Cherstin M. Lyon)",
+        "year": null,
+        "url": "https://encyclopedia.densho.org/San_Francisco_school_segregation/",
+        "supports": "11 Oct 1906 order affecting 93 students; protests; Roosevelt's 'wicked absurdity' message; Jan 1907 White House meeting; rescission and Gentlemen's Agreement"
+      },
+      {
+        "title": "San Francisco Japantown Historic Context Statement (revised May 2011)",
+        "publisher": "San Francisco Planning Department / Donna Graves and Page & Turnbull",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://www.sf-planning.org/modules/showdocument.aspx?documentid=1696",
+        "supports": "Sano School established 1906 by Issei parents as a boycott measure at 1761-65 Post Street; Gentlemen's Agreement and picture brides; growth of schools"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-japanese-ywca",
+    "title": "Barred from the Y, they built their own",
+    "theme": "civil-rights",
+    "year": 1912,
+    "yearEnd": 1932,
+    "place": {
+      "label": "Japanese YWCA / Issei Women's Building, 1830 Sutter Street",
+      "lat": 37.78672,
+      "lon": -122.43056,
+      "precision": "building"
+    },
+    "hook": "Shut out of the city's YWCA, Issei women founded the nation's first independent Japanese YWCA, then raised money for a building the law barred them from owning.",
+    "story": "In 1912 Japanese women were kept out of the facilities at San Francisco's main YWCA by segregationist policies. Issei women answered by founding the first independent Japanese YWCA in the United States [1]. Many of the women it served were newly arrived \"picture brides\" who had married men they knew only from photographs and letters. Its leading founder, Yonako (Yona) Abiko, aimed it at community, stability and job training [2]. The Y taught flower arranging and tea ceremony and organised concerts and socials [2]. After a short stay on Gough Street it moved to 1826 Sutter in the 1920s [3]. In 1928 Abiko launched a fundraising campaign for a building of its own on the site [2]. California's Alien Land Laws, passed in 1913 and 1920, meant Issei women could not own the building their own money paid for. So the San Francisco YWCA agreed to hold title in trust for the Nikkei community [1][2]. The Julia Morgan-designed building opened in 1932. The city's landmark report says it appears to be the only building in the United States purpose-built by and for Issei women [1].",
+    "people": [
+      {
+        "name": "Yonako (Yona) Abiko",
+        "role": "leading founder of the Japanese YWCA"
+      },
+      {
+        "name": "Julia Morgan",
+        "role": "architect of the 1932 building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Article 10 Landmark Designation Fact Sheet: Japanese YWCA/Issei Women's Building, 1830 Sutter Street",
+        "publisher": "San Francisco Planning Department",
+        "year": 2020,
+        "url": "https://sfplanninggis.org/docs/landmarks_and_districts/LM291.pdf",
+        "supports": "Founded 1912, first independent Japanese YWCA; exclusion from main YWCA; title held in trust; 1932 Morgan building; only building purpose-built by and for Issei women"
+      },
+      {
+        "title": "Reclaiming a Space to Reclaim a Place: San Francisco's Japanese YWCA",
+        "publisher": "National Trust for Historic Preservation (Tamar Rabinowitz)",
+        "year": 2021,
+        "url": "https://savingplaces.org/stories/reclaiming-a-space-to-reclaim-a-place-san-franciscos-japanese-ywca",
+        "supports": "Picture brides; Yona Abiko's role and aims; classes and events; 1928 fundraising campaign for 1826 (now 1830) Sutter; Alien Land Laws of 1913 and 1920"
+      },
+      {
+        "title": "San Francisco Japantown Historic Context Statement (revised May 2011)",
+        "publisher": "San Francisco Planning Department / Donna Graves and Page & Turnbull",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://www.sf-planning.org/modules/showdocument.aspx?documentid=1696",
+        "supports": "Briefly on Gough Street, then 1826 Sutter in the 1920s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-post-street-shops",
+    "title": "Fish, pills and midwives on Post Street",
+    "theme": "labor-industry",
+    "year": 1925,
+    "yearEnd": 1929,
+    "place": {
+      "label": "Uoki K. Sakai Fish Market, 1684 Post Street",
+      "lat": 37.78574,
+      "lon": -122.42943,
+      "precision": "building"
+    },
+    "hook": "A fish market with nine children upstairs across the road, the city's first Japanese pharmacy and a maternity hospital: one block of 1920s Post Street held a whole community.",
+    "story": "By 1925 the Uoki K. Sakai Fish Market had moved from its first home on Geary, near Nikkei hotels, groceries and the Benkyo-do confectionery, to 1684 Post Street. The Sakai family took a big house across the street at 1628 Post, with room upstairs for their nine children [1]. By the late 1920s the north side of this block, between Buchanan and Laguna, also held the Nippon Drugstore, Namiye Murayama's Kinmon Maternity Hospital and the Gosha-do Books and Stationery store [1]. A few doors down at 1609 Post, a Mrs. Misawa ran what the city's history calls the first Japanese pharmacy registered in San Francisco [1]. Hatsuro Aizawa, whose father managed Gosha-do for owner Shoroku Ono, later remembered it as a place where people browsed and played cards even when they had no money to spend [1]. None of this was secure. The Alien Land Law kept most Issei from owning the buildings they traded in, so businesses often moved [1]. The Nippon Drug building later housed the jazz club Jimbo's Bop City and was eventually moved around the corner to Fillmore Street [2].",
+    "people": [
+      {
+        "name": "Uoki K. Sakai family",
+        "role": "fishmongers"
+      },
+      {
+        "name": "Namiye Murayama",
+        "role": "proprietor, Kinmon Maternity Hospital"
+      },
+      {
+        "name": "Mrs. Misawa",
+        "role": "pharmacist"
+      },
+      {
+        "name": "Shoroku Ono",
+        "role": "owner of Gosha-do Books"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Japantown Historic Context Statement (revised May 2011)",
+        "publisher": "San Francisco Planning Department / Donna Graves and Page & Turnbull",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://www.sf-planning.org/modules/showdocument.aspx?documentid=1696",
+        "supports": "Sakai market's move to 1684 Post by 1925 and family house at 1628 Post; block's drugstore, maternity hospital and Gosha-do; Mrs. Misawa's pharmacy at 1609 Post; Aizawa recollection; property restrictions"
+      },
+      {
+        "title": "Nihonjin-Machi, San Francisco's Japanese People Town",
+        "publisher": "FoundSF (Alison Jordan)",
+        "year": 2017,
+        "url": "https://www.foundsf.org/index.php?title=Nihonjin-Machi,_San_Francisco%27s_Japanese_People_Town",
+        "supports": "Nippon Drug on Post Street later became Jimbo's Bop City; building moved to Fillmore north of Post"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-mount-zion-hellman",
+    "title": "A widower's gift: Mount Zion on Post",
+    "theme": "communities",
+    "year": 1914,
+    "yearEnd": null,
+    "place": {
+      "label": "Mount Zion Hospital, Hellman Building, 2200 Post Street",
+      "lat": 37.78455,
+      "lon": -122.43888,
+      "precision": "building"
+    },
+    "hook": "When Esther Hellman died, her grieving husband gave $100,000 so San Francisco's Jewish hospital could rise again in the Western Addition. It is still treating patients.",
+    "story": "Mount Zion was incorporated as a Jewish hospital in 1887 and opened ten years later at Sutter and Hyde, according to J. The Jewish News Weekly [1]. Historians William Issel and Robert Cherny place its first building on Sutter near Scott and date it to 1898 [2]. The Mount Zion Ladies' Auxiliary Society was central to the hospital, especially under Esther Hellman, wife of the banker Isaias Hellman [1]. When she died in 1908 he gave $100,000 for a new hospital in the Western Addition to be named after her. A UCSF librarian later remarked that it was remarkable the money was raised at all while the city was \"in such a demolished state\" [1]. Ground was broken in December 1911 and the cornerstone laid in 1912. The Hellman Building at 2200 Post opened in 1914 with room for 160 patients, and private wards cost $3 a day [1]. Issel and Cherny date the new building to 1913 [2]. It was part of a Jewish Western Addition that included synagogues, a Hebrew school and Sinai Memorial Chapel [2]. The building still stands and is now part of UCSF [1].",
+    "people": [
+      {
+        "name": "Esther Hellman",
+        "role": "leader of the Mount Zion Ladies' Auxiliary"
+      },
+      {
+        "name": "Isaias W. Hellman",
+        "role": "banker and donor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "At 100, S.F.'s Mount Zion hospital still giving back",
+        "publisher": "J. The Jewish News of Northern California (Dan Pine)",
+        "year": 2011,
+        "url": "https://jweekly.com/2011/06/10/at-100-s-f-s-mount-zion-hospital-still-giving-back/",
+        "supports": "1887 incorporation, 1897 opening at Sutter & Hyde; Esther Hellman's role and 1908 death; $100,000 gift; 1911 groundbreaking, 1912 cornerstone, 1914 opening; 160 patients; $3 wards; librarian quote"
+      },
+      {
+        "title": "Western Addition Early 20th Century Life and Work",
+        "publisher": "FoundSF (excerpt from Issel & Cherny, San Francisco 1865-1932)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Western_Addition_Early_20th_Century_Life_and_Work",
+        "supports": "Alternative account: opened on Sutter near Scott in 1898, new building 1913 at Post and Scott; other Jewish institutions in the Western Addition"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-nichibei-abiko",
+    "title": "The newspaper that told Issei to stay",
+    "theme": "communities",
+    "year": 1910,
+    "yearEnd": 1929,
+    "place": {
+      "label": "Nichibei Shimbun (Japanese American News), Laguna Street",
+      "lat": 37.78615,
+      "lon": -122.42845,
+      "precision": "street"
+    },
+    "hook": "A former laundry owner made his Laguna Street paper the leading Japanese-language newspaper in America, and used it to urge immigrants to put down roots.",
+    "story": "Kyutaro Abiko arrived in San Francisco in 1885, worked menial jobs and put himself through school and into UC Berkeley. He briefly ran a restaurant and a laundry [1]. In 1897 he took over a small paper, and in 1899 a merger created the Nichibei Shimbun (Japanese American News) [1]. After the 1906 fire it was one of two Japanese newspapers anchoring the new Japantown. The Nichibei was on Laguna Street and its rival, Shin Sekai (New World), was on Geary [2][3]. By 1910 the Nichibei led the field, and by the 1920s it had around 25,000 readers across the West [1]. Abiko used its pages to urge laborers to commit to permanent settlement and stable family life. In 1906 he founded a land company whose Yamato Colony near Livingston sold 40-acre plots to Japanese farmers [1]. Shin Sekai was less assimilationist and closer to the Buddhist community, and the two papers feuded for years [3]. After the 1924 Immigration Act, Abiko added an English section aimed at the Nisei and sponsored their study tours of Japan [1].",
+    "people": [
+      {
+        "name": "Kyutaro Abiko",
+        "role": "publisher, Nichibei Shimbun"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kyutaro Abiko",
+        "publisher": "Densho Encyclopedia (Emily Anderson)",
+        "year": null,
+        "url": "https://encyclopedia.densho.org/Kyutaro_Abiko/",
+        "supports": "Biography; 1897/1899 founding; readership; settlement campaigns; Yamato Colony; post-1924 English section and Nisei tours"
+      },
+      {
+        "title": "San Francisco Japantown Historic Context Statement (revised May 2011)",
+        "publisher": "San Francisco Planning Department / Donna Graves and Page & Turnbull",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://www.sf-planning.org/modules/showdocument.aspx?documentid=1696",
+        "supports": "After 1906, the New World on Geary Street and the Japanese American News on Laguna Street"
+      },
+      {
+        "title": "Shin Sekai (newspaper)",
+        "publisher": "Densho Encyclopedia (Brian Niiya)",
+        "year": null,
+        "url": "https://encyclopedia.densho.org/Shin_Sekai_(newspaper)/",
+        "supports": "Rivalry with Nichibei; Shin Sekai less assimilationist and more Buddhist-aligned"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "japantown-hamilton-square",
+    "title": "A square saved in 1855",
+    "theme": "parks-nature",
+    "year": 1855,
+    "yearEnd": null,
+    "place": {
+      "label": "Hamilton Square, west of Steiner between Geary & Post",
+      "lat": 37.7844,
+      "lon": -122.4361,
+      "precision": "area"
+    },
+    "hook": "Before the Western Addition had houses it had a plan, and that plan set aside eleven public squares. One of them is still green here.",
+    "story": "In the early 1850s San Francisco ended at Larkin Street. The young city claimed the land beyond, as far as Divisadero and eventually the ocean, and the district between Larkin and Divisadero north of Market became the Western Addition [1][2]. The Van Ness Ordinance of 1855–56 extended the downtown street grid across the district and reserved land for public use, including eleven public squares [1]. Hamilton Square, just west of Steiner Street, is the one closest to Japantown [1]. Houses soon followed. The city's population grew by more than 160 percent in the 1860s, from 56,802 to 149,473, and by the turn of the century builders had covered the new blocks with Italianate, Stick and Queen Anne homes [1]. Nearby on Geary near Scott, Hamilton Junior High, built in 1875 and demolished in 1930, had a student body that Jerry Flamm described as a mix of white, Black and Japanese children [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco Japantown Historic Context Statement (revised May 2011)",
+        "publisher": "San Francisco Planning Department / Donna Graves and Page & Turnbull",
+        "year": 2011,
+        "url": "https://web.archive.org/web/2012/http://www.sf-planning.org/modules/showdocument.aspx?documentid=1696",
+        "supports": "Western Addition boundary extension; Van Ness Ordinance of 1855-56 reserving eleven squares; Hamilton Square just west across Steiner; 1860-70 population growth; Victorian building styles"
+      },
+      {
+        "title": "Western Addition Early 20th Century Life and Work",
+        "publisher": "FoundSF (excerpt from Issel & Cherny, San Francisco 1865-1932)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Western_Addition_Early_20th_Century_Life_and_Work",
+        "supports": "Western Addition opened for residential construction in 1855, Larkin to Divisadero north of Market"
+      },
+      {
+        "title": "The Fillmore: A Jewish Neighborhood in the 1920s",
+        "publisher": "FoundSF (from Jerry Flamm, Good Life in Hard Times)",
+        "year": 1977,
+        "url": "https://www.foundsf.org/index.php?title=The_Fillmore:_A_Jewish_Neighborhood_in_the_1920s",
+        "supports": "Hamilton Junior High on Geary near Scott, built 1875, torn down 1930; mixed white, Black and Japanese student body"
+      }
+    ],
+    "photo": null
+  }
+]

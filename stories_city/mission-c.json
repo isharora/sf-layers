@@ -1,0 +1,648 @@
+[
+ {
+  "id": "mission-deaf-club-punk",
+  "title": "Punk Night at the Club for the Deaf",
+  "theme": "arts-counterculture",
+  "year": 1978,
+  "yearEnd": 1979,
+  "place": {
+   "label": "The Deaf Club, 530 Valencia St",
+   "lat": 37.764333,
+   "lon": -122.422128,
+   "precision": "building"
+  },
+  "hook": "You wrote your beer order on a slip of paper. The bands were deafening. And half the regulars, signing and grinning at the back, could not hear a note.",
+  "story": "Daphne Hanrahan, manager of the band the Offs, went to La Cumbre for a burrito and spotted a \"Hall for Rent\" sign on a fire escape across Valencia Street [1]. Upstairs she found two men watching television with the sound off: this was the San Francisco Club for the Deaf. She wrote her request on paper and got a written reply; accounts of the price differ, from $50 a night to Hanrahan's remembered \"OK & $250\" [1]. The first show, on 9 December 1978, featured the Offs, the Mutants and On the Rag, for $2 [1]. There was barely a stage, no lights, and you scrawled your drink order for the bar; Penelope Houston recalled that nobody was carded [1]. Deaf members stayed on at their end of the hall, some resting their hands on tables to feel the music, and Winston Smith reckoned the sheer volume was what they could appreciate [1]. Police, noise complaints and neighbours' grievances forced repeated closures, and the club ended in autumn 1979 [1]. One night survives on record: the Dead Kennedys' set of March 1979, released in 2004 as Live at the Deaf Club [2].",
+  "people": [
+   {
+    "name": "Daphne Hanrahan",
+    "role": "Band manager who rented the hall"
+   },
+   {
+    "name": "Penelope Houston",
+    "role": "Singer, the Avengers"
+   },
+   {
+    "name": "Jello Biafra",
+    "role": "Dead Kennedys singer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Deaf Club",
+    "publisher": "FoundSF (incl. excerpts from Gimme Something Better, Boulware & Tudor)",
+    "year": null,
+    "url": "https://www.foundsf.org/Deaf_Club",
+    "supports": "Burrito/sign discovery, rent notes, first show date, bands, $2, written drink orders, deaf members feeling music, closures, end in 1979"
+   },
+   {
+    "title": "Dead Kennedys: Live at the Deaf Club (review)",
+    "publisher": "PopMatters (archived)",
+    "year": 2004,
+    "url": "https://web.archive.org/web/20110518035714/http://popmatters.com/music/reviews/d/deadkennedys-liveatdeaf.shtml",
+    "supports": "Recording of a March 1979 Deaf Club set, released 2004"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-old-wives-tales",
+  "title": "The Bookstore That Gave Lesbians Happy Endings",
+  "theme": "lgbtq",
+  "year": 1976,
+  "yearEnd": 1995,
+  "place": {
+   "label": "Old Wives Tales bookstore, 1009 Valencia St",
+   "lat": 37.756649,
+   "lon": -122.420955,
+   "precision": "building"
+  },
+  "hook": "In the novels Carol Seajay grew up on, lesbians ended in suicide or conversion. So she skipped the last chapters, rode a motorcycle west and opened a bookstore.",
+  "story": "Carol Seajay arrived from Michigan in December 1973, having read every lesbian novel she could find; none had a happy ending, so she simply never read the last chapter [1]. With $6,000 from a credit union and a $2,000 loan from her partner Paula Wallace's parents, the two opened Old Wives Tales on Halloween 1976 at 532 Valencia, directly below the Club for the Deaf, paying themselves $200 a month [1]. The shop later moved to larger premises at 1009 Valencia [1]. It sat in a remarkable corridor: Artemis Cafe, a women-only cafe; Osento, the city's only women's bathhouse; Amelia's dance bar, sister to Maud's in Cole Valley; and a feminist credit union lending to women-owned businesses [1][2]. Seajay also started the Feminist Bookstore News, whose first issue appeared in October 1976 [1]. \"I would walk home at night and feel that it was the golden age of the world,\" she said [1]. Strife, debt and collective turmoil took their toll, and Old Wives Tales closed in 1995 [1][2].",
+  "people": [
+   {
+    "name": "Carol Seajay",
+    "role": "Co-founder"
+   },
+   {
+    "name": "Paula Wallace",
+    "role": "Co-founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Carol Seajay, Old Wives Tales and the Feminist Bookstore Network",
+    "publisher": "FoundSF (Elizabeth Sullivan)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Carol_Seajay,_Old_Wives_Tales_and_the_Feminist_Bookstore_Network",
+    "supports": "Seajay biography, loans, Halloween 1976 opening at 532 Valencia below the Deaf Club, $200 pay, move to 1009, neighbours, FBN, quote, 1995 closure"
+   },
+   {
+    "title": "Valencia Corridor",
+    "publisher": "Pride is a Protest",
+    "year": null,
+    "url": "https://prideisaprotest.com/18",
+    "supports": "Lesbian Valencia corridor, Osento only women's bathhouse, Amelia's sister to Maud's, Feminist Credit Union, 1995 closure"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-esta-noche",
+  "title": "Esta Noche, Where Queer Latinos Came Home",
+  "theme": "lgbtq",
+  "year": 1979,
+  "yearEnd": 2014,
+  "place": {
+   "label": "Esta Noche, 3079 16th St",
+   "lat": 37.764681,
+   "lon": -122.421323,
+   "precision": "building"
+  },
+  "hook": "Turned away from Castro bars, two gay Latino activists opened their own on 16th Street. For 35 years it offered drag, cumbia, AIDS outreach and belonging.",
+  "story": "In 1979 Anthony Lopez and Manuel Quijano, members of the Gay Latino Alliance, opened a bar at 3079 16th Street [1]. Both had been refused entry to white gay bars in the Castro, and they met resistance from city officials when seeking permits [1]. Esta Noche became the city's first Latino gay bar: a place to speak Spanish, dance to cumbia and bachata, and watch drag [1]. Vivian Lopez, who came from Nicaragua at eleven, saw her first drag show there at about nineteen: \"I said, when I dress up, that's what I want to look like\" [1]. She met others who were transitioning and soon began hormone therapy herself [1]. During the AIDS epidemic the bar worked with the Stop AIDS Project to hand out more than 17,000 condoms, and performers such as Adela Vazquez raised money for people with HIV [1]. By 2014 the rent had risen from $360 in 1979 to nearly $7,000 a month [1]. A crowdfunding campaign fell short, and Esta Noche announced it would close, to be replaced by a cocktail lounge [2].",
+  "people": [
+   {
+    "name": "Anthony Lopez",
+    "role": "Co-founder"
+   },
+   {
+    "name": "Manuel Quijano",
+    "role": "Co-founder"
+   },
+   {
+    "name": "Vivian Lopez",
+    "role": "Patron, trans woman"
+   },
+   {
+    "name": "Adela Vazquez",
+    "role": "Performer and HIV activist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Esta Noche Was More Than a Bar",
+    "publisher": "FoundSF (Joshua Alvarez)",
+    "year": 2025,
+    "url": "https://www.foundsf.org/index.php?title=Esta_Noche_Was_More_Than_a_Bar",
+    "supports": "Founders, address, GALA, Castro exclusion, permits, Vivian Lopez quote, AIDS work, rent figures"
+   },
+   {
+    "title": "San Francisco Says Goodbye to Iconic Gay Latino Bar 'Esta Noche'",
+    "publisher": "Colorlines (Jamilah King)",
+    "year": 2014,
+    "url": "https://www.colorlines.com/articles/san-francisco-says-goodbye-iconic-gay-latino-bar-esta-noche",
+    "supports": "2014 closure after failed Indiegogo campaign, replacement by cocktail lounge"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-maestrapeace",
+  "title": "Seven Women Paint the Women's Building",
+  "theme": "communities",
+  "year": 1994,
+  "place": {
+   "label": "The Women's Building, 3543 18th St",
+   "lat": 37.76142,
+   "lon": -122.422619,
+   "precision": "building"
+  },
+  "hook": "A feminist collective too broke to pay rent bought a whole building. Fifteen years later, seven muralists wrapped it in goddesses, scientists and anonymous heroines.",
+  "story": "The San Francisco Women's Centers was formed by groups including NOW, the Daughters of Bilitis and San Francisco Women's Liberation, and it chose deliberately to support others rather than grow itself [1]. The need for a home became clear in 1975, when San Francisco State withdrew sponsorship of its conference on violence against women [2]. The drive to buy a building split the collective: an organiser named Roma led the campaign while her partner, founder Jean Crosby, opposed it [1]. The purchase on 18th Street went through at the end of the 1970s (the organisation dates it to 1978, historian Sushawn Robb to 1979), and Robb argues that owning it is what kept the group alive [1][2]. In 1994 seven artists, Juana Alicia, Miranda Bergman, Edythe Boone, Susan Kelk Cervantes, Meera Desai, Yvonne Littleton and Irene Perez, finished Maestrapeace, which covers the building after 18 months of work with dozens of volunteers [2]. It honours women activists, scientists, artists, anonymous heroines and deities [2]. The building has sponsored more than 170 organisations, including La Casa de las Madres, the city's first shelter for battered women [2].",
+  "people": [
+   {
+    "name": "Jean Crosby",
+    "role": "Founder, SF Women's Centers"
+   },
+   {
+    "name": "Juana Alicia",
+    "role": "Maestrapeace muralist"
+   },
+   {
+    "name": "Miranda Bergman",
+    "role": "Maestrapeace muralist"
+   },
+   {
+    "name": "Irene Perez",
+    "role": "Maestrapeace muralist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "How the Women's Building Came To Be",
+    "publisher": "FoundSF (Sushawn Robb, from Mothering the Movement)",
+    "year": 2012,
+    "url": "https://www.foundsf.org/index.php?title=How_the_Women%27s_Building_Came_To_Be",
+    "supports": "Founding groups and ethos, Roma/Crosby split, 1979 purchase, building as anchor"
+   },
+   {
+    "title": "Our History",
+    "publisher": "The Women's Building",
+    "year": null,
+    "url": "https://womensbuilding.org/about/history/",
+    "supports": "1975 conference and SFSU withdrawal, 1978 purchase, Maestrapeace artists, 18 months, themes, 170 organisations, La Casa de las Madres"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-burrito-origins",
+  "title": "Who Rolled the First Mission Burrito?",
+  "theme": "labor-industry",
+  "year": 1961,
+  "place": {
+   "label": "El Faro, 2399 Folsom St at 20th",
+   "lat": 37.759071,
+   "lon": -122.414399,
+   "precision": "building"
+  },
+  "hook": "Some firemen wanted sandwiches. The grocer had none. The next day he had something else, wrapped in three overlapping tortillas.",
+  "story": "Febronio Ontiveros and his wife opened a corner grocery, El Faro (\"the lighthouse\"), at 2399 Folsom Street on September 25, 1961 [1]. The next day, by Ontiveros's account, firemen from a station down the street came in wanting sandwiches. He had none, so he returned ready with burritos [1]. Large tortillas were not sold commercially then, so he overlapped three six-inch ones and charged a dollar [1]. The title is contested. At Mi Rancho market on 20th Street, a woman named Juanita Villalobos served burritos from around 1965; its manager conceded, \"He had 'em before we did\" [1]. On Valencia Street, Raul Duran of La Cumbre dates his first burrito to September 29, 1969, \"because it was my wife's birthday\" [2]. In 1972 he and his wife Micaela turned their meat market into a taqueria, and he says the new thing was the style of service: \"Taquerias were new. No one had anything like that\" [2]. By 1993, SF Weekly estimated the Mission was eating about 25,000 burritos a day [1].",
+  "people": [
+   {
+    "name": "Febronio Ontiveros",
+    "role": "Founder, El Faro"
+   },
+   {
+    "name": "Juanita Villalobos",
+    "role": "Burrito maker at Mi Rancho"
+   },
+   {
+    "name": "Raul Duran",
+    "role": "Founder, La Cumbre"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cylindrical God",
+    "publisher": "SF Weekly (John Roemer), reprinted at Burritophile (archived)",
+    "year": 1993,
+    "url": "https://web.archive.org/web/20061111063713/http://www.burritophile.com/articles/cylindrical_god.php",
+    "supports": "El Faro opening and firemen story, three tortillas, $1, Mi Rancho/Villalobos, 25,000 a day estimate"
+   },
+   {
+    "title": "The Silver Torpedo",
+    "publisher": "San Francisco Chronicle (Tara Duggan)",
+    "year": 2001,
+    "url": "https://web.archive.org/web/20090227141330/http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/04/29/CM162769.DTL",
+    "supports": "La Cumbre first burrito 29 Sept 1969, wife's birthday, 1972 taqueria, Duran quote"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-balmy-alley",
+  "title": "Balmy Alley: Garage Doors Become Galleries",
+  "theme": "arts-counterculture",
+  "year": 1972,
+  "yearEnd": 1985,
+  "place": {
+   "label": "Balmy Alley, between 24th and 25th Sts",
+   "lat": 37.751702,
+   "lon": -122.412426,
+   "precision": "street"
+  },
+  "hook": "Two young Chicanas borrowed house paint from the neighbours and painted a garage door. Men laughed. A decade later the whole alley was shouting about Central America.",
+  "story": "In 1972 Patricia Rodriguez and Graciela Carrillo, who shared a building at 54 Balmy Alley, asked a neighbour if they could paint the garage door across the way [1]. There were no proper mural paints, so they used outdoor house paint from neighbours and bartered for bright colours [1]. Men teased them, and some women began a rival mural to prove anyone could do it, but never finished it [1]. Ralph Maradiaga of the Galería de la Raza backed them and suggested the name that stuck: Mujeres Muralistas [1]. The group wanted to prove that women could paint big outdoor walls, something the Mexican mural movement had not shown [1]. In the 1980s Ray Patlán and Rodriguez co-founded PLACA, a volunteer effort that filled the alley with murals supporting Central American resistance and opposing US intervention; Patlán guided some 40 artists, and residents later called him the Mayor of Balmy Alley [2]. In 2014 Miranda Bergman and O'Brien Thiele were back on scaffolding restoring their 1984 panel, the last complete PLACA mural in the alley [3].",
+  "people": [
+   {
+    "name": "Patricia Rodriguez",
+    "role": "Mujeres Muralistas co-founder, PLACA co-founder"
+   },
+   {
+    "name": "Graciela Carrillo",
+    "role": "Mujeres Muralistas co-founder"
+   },
+   {
+    "name": "Ray Patlán",
+    "role": "PLACA co-founder"
+   },
+   {
+    "name": "Miranda Bergman",
+    "role": "PLACA muralist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mujeres Muralistas",
+    "publisher": "FoundSF (Patricia Rodriguez, from Ten Years That Shook the City)",
+    "year": 2011,
+    "url": "https://www.foundsf.org/index.php?title=Mujeres_Muralistas",
+    "supports": "54 Balmy, 1972 garage door, house paint, teasing, Maradiaga naming, motivations"
+   },
+   {
+    "title": "Raymond Michael Patlán, muralist",
+    "publisher": "El Tecolote",
+    "year": 2024,
+    "url": "https://eltecolote.org/content/en/raymond-michael-patlan-muralist/",
+    "supports": "PLACA 1982-84 with Rodriguez, Central America themes, ~40 artists, Mayor of Balmy Alley"
+   },
+   {
+    "title": "Historical Mission mural's message still vivid",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2014,
+    "url": "http://www.sfgate.com/art/article/Historical-Mission-mural-s-message-still-vivid-5742769.php",
+    "supports": "2014 restoration by Bergman and Thiele of last complete PLACA mural"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-galeria-de-la-raza",
+  "title": "The Galería That Brought Frida to the Bay",
+  "theme": "communities",
+  "year": 1970,
+  "yearEnd": 2018,
+  "place": {
+   "label": "Galería de la Raza, 24th St at Bryant",
+   "lat": 37.752668,
+   "lon": -122.409418,
+   "precision": "building"
+  },
+  "hook": "SFMOMA turned down a Frida Kahlo show. So a Chicano gallery on 24th Street put one on itself, years before the rest of the country caught Frida fever.",
+  "story": "René Yañez came to the Bay Area after army service in North Carolina, where a lieutenant spotted his sketches and had him use art as therapy with shell-shocked soldiers [1]. In 1970 he co-founded the Galería de la Raza, which later spent decades at 24th and Bryant [1][2]. The Galería invited the public in to critique the art, and it invented traditions: a simple altar it set up for Día de los Muertos in 1971 sparked the neighbourhood's procession and displays [1]. In 1977, after SFMOMA declined his pitch for a travelling Kahlo exhibition, Yañez curated a retrospective of her work at the Galería, the first in the Bay Area [1]. Friends called him the Padrino of the Mission [1]. In 2018 the Galería left its longtime building. In January 2019 the Historic Preservation Commission voted unanimously to begin landmarking it anyway, over the owner's objections; his attorney said \"The Galería is now gone, though\" [2].",
+  "people": [
+   {
+    "name": "René Yañez",
+    "role": "Co-founder and artistic director"
+   },
+   {
+    "name": "Ralph Maradiaga",
+    "role": "Co-founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "How Galería founder René Yañez helped give the Mission its artistic soul",
+    "publisher": "San Francisco Chronicle (Ryan Kost)",
+    "year": 2018,
+    "url": "https://www.sfchronicle.com/art/article/Gal-ria-founder-Ren-Ya-ez-still-watching-his-12531407.php",
+    "supports": "Yañez biography, co-founding, 1971 altar, 1977 Kahlo retrospective after SFMOMA declined, Padrino"
+   },
+   {
+    "title": "Galería de la Raza has moved, but its former home may be landmarked anyway",
+    "publisher": "Mission Local (Julian Mark)",
+    "year": 2019,
+    "url": "http://missionlocal.org/2019/01/former-galeria-de-la-raza-building-up-for-sf-landmark-status/",
+    "supports": "24th and Bryant building, departure, HPC unanimous vote, owner's attorney quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-bart-plazas",
+  "title": "BART's Dream of Towers Over Mission Street",
+  "theme": "modern-city",
+  "year": 1973,
+  "place": {
+   "label": "24th St Mission BART plaza, Mission St at 24th",
+   "lat": 37.751992,
+   "lon": -122.41872,
+   "precision": "block"
+  },
+  "hook": "The 1966 plan had 13-storey towers, sunken plazas, moving sidewalks and a \"miniature vehicle service\". What the Mission got was a plain plaza and a long escalator.",
+  "story": "In May 1966 Okamoto/Liskamm, architects and urban designers, sketched what the Mission's 16th and 24th Street BART stations could become: office and apartment towers of at least 13 floors, parking structures, elevated walkways, moving sidewalks and even a \"miniature vehicle service\" [1]. A nod to the neighbourhood came in drawings of stalls selling piñatas and tacos [1]. Historian Lindsey Passenger Wieck notes the plans mostly served commuters and newcomers, and says they were never built partly because Mission residents persuaded the Board of Supervisors to drop them [1]. The stations that opened for regular service in November 1973 had plazas of about 1,000 square feet, 700-foot-long underground platforms, cast-concrete sculptures by the British artist William Mitchell, and Mayan-style tile inlays [1]. The fear of displacement remained. In April 1970 the radical paper Basta Ya! warned that realtors were replacing family flats with apartments for single people and childless couples, and protesters demonstrated against BART at 20th and Mission [2].",
+  "people": [
+   {
+    "name": "William Mitchell",
+    "role": "British artist, station sculptures"
+   },
+   {
+    "name": "Lindsey Passenger Wieck",
+    "role": "Historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "BART's Plans for the Mission: Tacos, Towers, and Miniature Vehicles",
+    "publisher": "FoundSF (Lindsey Passenger Wieck)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=BART%27s_Plans_for_the_Mission:_Tacos,_Towers,_and_Miniature_Vehicles",
+    "supports": "1966 plan details, residents' opposition, final station design, Mitchell, tiles, Nov 1973 service (Chronicle citation)"
+   },
+   {
+    "title": "BART Changes the Mission, April 1970",
+    "publisher": "FoundSF (primary source from Basta Ya!)",
+    "year": 1970,
+    "url": "https://www.foundsf.org/index.php?title=BART_Changes_the_Mission_from_BASTA_YA!_April_1970",
+    "supports": "Basta Ya! displacement warnings, anti-BART demonstration at 20th and Mission"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-los-siete",
+  "title": "Los Siete and the Storefront on 24th",
+  "theme": "civil-rights",
+  "year": 1969,
+  "yearEnd": 1970,
+  "place": {
+   "label": "Los Siete Defense Committee, 24th St near South Van Ness Ave",
+   "lat": 37.752619,
+   "lon": -122.415546,
+   "precision": "block"
+  },
+  "hook": "After a police officer died on May 1, 1969, seven young Latinos from the Mission were charged with murder. Their defenders built a clinic, a breakfast programme and a newspaper.",
+  "story": "On May 1, 1969, two plainclothes officers stopped a group of young men carrying a television into a house on Alvarado Street [1]. In the struggle, Officer Joe Brodnik was killed by a shot from his partner Paul McGoran's gun [1]. Police flooded the house with tear gas while helicopters circled; Francisco FloresLanda, then seventeen, watched them from Dolores Park [1][2]. Seven young men, mostly Central American and some linked to the Mission Rebels youth group, were charged with murder and defended by the lawyer Charles Garry [1]. The defence argued McGoran drew his gun and shot Brodnik in the struggle [1]. The trial began in late June 1970 and ended in acquittals; FoundSF reports six were tried and a seventh had fled [1][3]. Near 24th and South Van Ness, the Los Siete Defense Committee ran a free breakfast programme, the Basta Ya! newspaper and Centro de Salud [1]. It also ran a Valencia Street restaurant selling a Coke, hamburger and fries for a dollar [2].",
+  "people": [
+   {
+    "name": "Joe Brodnik",
+    "role": "SFPD officer killed"
+   },
+   {
+    "name": "Charles Garry",
+    "role": "Defence lawyer"
+   },
+   {
+    "name": "Francisco FloresLanda",
+    "role": "Defense Committee member, memoirist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Los Siete",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Los_Siete",
+    "supports": "Incident, Alvarado St, tear gas, defendants, trial and acquittal, Defense Committee location and programmes"
+   },
+   {
+    "title": "Los Siete Defense Committee (Mission Memoir)",
+    "publisher": "FoundSF (Francisco FloresLanda)",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=Mission_Memoir_of_Los_Siete_de_la_Raza_and_More",
+    "supports": "Helicopters seen from Dolores Park, Basta Ya! restaurant and $1 meal, clinic origins"
+   },
+   {
+    "title": "Los Siete de la Raza",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=LOS_SIETE_DE_LA_RAZA",
+    "supports": "Six acquitted, seventh fled the country"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-cesar-chavez-street",
+  "title": "The Day Army Street Became Cesar Chavez",
+  "theme": "civil-rights",
+  "year": 1995,
+  "place": {
+   "label": "St. Anthony's Church, Cesar Chavez St at Folsom",
+   "lat": 37.7486,
+   "lon": -122.41405,
+   "precision": "block"
+  },
+  "hook": "A gust of wind unveiled the sign before the officials could. Neighbours waved petitions to change it back. Thirty-one years later, the name is in question again.",
+  "story": "On March 31, 1995, about 250 people gathered in the parking lot of St. Anthony's Church to unveil the first of 100 signs renaming Army Street after the farmworker leader Cesar Chavez [1]. \"Every day you look at that street sign, you should feel great,\" said Supervisor Susan Leal [1]. Supervisor Tom Ammiano called it \"a reclaiming, not a renaming\" [1]. A gust of wind blew the burlap off the sign before the official unveiling, while some residents circulated petitions to switch the name back [1]. Opponents, largely from Noe Valley, said they felt attached to the 140-year-old name, and they put a repeal on the November ballot. With Proposition 187's anti-immigrant politics in the air, it lost by a wide margin [2]. In March 2026, after allegations that Chavez had sexually abused young girls, politicians proposed stripping his name from streets and schools. Leal suggested any new name should honour the movement, \"probably Dolores Huerta\" [2].",
+  "people": [
+   {
+    "name": "Susan Leal",
+    "role": "Supervisor, led renaming"
+   },
+   {
+    "name": "Tom Ammiano",
+    "role": "Supervisor"
+   },
+   {
+    "name": "Federico Chavez",
+    "role": "Cesar Chavez's nephew"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cesar Chavez Signs Go Up On S.F.'s Former Army Street",
+    "publisher": "San Francisco Chronicle (Steve Rubenstein)",
+    "year": 1995,
+    "url": "https://www.sfgate.com/news/article/Cesar-Chavez-Signs-Go-Up-On-S-F-s-Former-Army-3039363.php",
+    "supports": "Ceremony, St. Anthony's lot, 250 people, 100 signs, quotes, wind, petitions"
+   },
+   {
+    "title": "San Francisco Fought to Name a Major Street After Cesar Chavez. Will It Be Renamed Again?",
+    "publisher": "KQED",
+    "year": 2026,
+    "url": "https://www.kqed.org/news/12077059/san-francisco-fought-to-name-a-major-street-after-cesar-chavez-will-it-be-renamed-again",
+    "supports": "Unanimous vote, repeal measure failed Nov 1995, Noe Valley opposition, Prop 187 context, 2026 allegations, Leal quote"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-google-bus-blockade",
+  "title": "The Morning Protesters Boarded the Google Bus",
+  "theme": "modern-city",
+  "year": 2013,
+  "place": {
+   "label": "Valencia St at 24th St",
+   "lat": 37.753827,
+   "lon": -122.420989,
+   "precision": "street"
+  },
+  "hook": "Protesters surrounded a double-decker shuttle bound for Mountain View and climbed aboard. A city's argument about tech had found its symbol.",
+  "story": "On the morning of December 9, 2013, activists from a group called Heart of the City boarded and blocked a double-decker Google shuttle at Valencia and 24th Streets [1][2]. For about half an hour the protesters chanted \"San Francisco, not for sale\" and \"Stop evictions now,\" while Google workers waited inside and tweeted [1]. \"My shuttle came under siege this morning,\" wrote one [1]. A man who screamed at organiser Erin McElroy, 31, turned out to be a union worker only pretending to be an angry Google employee [1]. The buses, McElroy said, had \"become very symbolic of what's happening to the city in terms of gentrification\" [1]. Reuters noted that evictions had risen 25 percent, to 1,716, in the year to February 2013 [1]. The group also handed out a mock ordinance setting out how the tech industry should pay for displacement [2]. The action drew coverage from over a hundred outlets, and Supervisor Eric Mar called for a hearing and an analysis of the shuttles' impact [2].",
+  "people": [
+   {
+    "name": "Erin McElroy",
+    "role": "Protest organiser, Heart of the City"
+   },
+   {
+    "name": "Eric Mar",
+    "role": "Supervisor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Google bus blocked in San Francisco protest vs gentrification",
+    "publisher": "Reuters (Sarah McBride), archived",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20131209235520/https://www.reuters.com/article/2013/12/09/us-google-protest-idUSBRE9B818J20131209",
+    "supports": "Half-hour blockade, slogans, tweets, McElroy quote and fake Google worker, eviction figures"
+   },
+   {
+    "title": "Google Bus Block - Dec. 9",
+    "publisher": "Heart of the City",
+    "year": 2013,
+    "url": "http://www.heart-of-the-city.org/google-bus-block---dec-9.html",
+    "supports": "Location Valencia and 24th, double-decker, imaginary ordinance, media coverage, Mar's call for hearing"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-clarion-alley",
+  "title": "Clarion Alley: Murals Between Cops and Crack",
+  "theme": "arts-counterculture",
+  "year": 1992,
+  "place": {
+   "label": "Clarion Alley, between Mission and Valencia near 17th St",
+   "lat": 37.762954,
+   "lon": -122.420463,
+   "precision": "street"
+  },
+  "hook": "Two painters lived in an alley with a drug market at one end and a police station at the other. In 1992 they decided to paint their way out.",
+  "story": "In 1992 the painters Rigo 23 and Aaron Noble shared a studio at 47 Clarion Alley, a space that had once been the main theatre for the Cockettes [1]. The 400-foot lane between Mission and Valencia near 17th Street was a drug-dealing strip littered with needles and trash [1]. \"Clarion Alley happened to be very close to a place where one could buy heroin that was I think heavily cut with baby laxative,\" Rigo recalled [1]. With blighted Mission Street at one end and the Valencia Street police station at the other, the pair set out to make a Balmy Alley-style gallery. Where Balmy spoke about US intervention in Central America, Clarion would address life in the Mission itself [1]. An initial six painters were soon joined by the alley's landlords, handymen and auto mechanics [1]. Rigo said the AIDS crisis made many people eager to reinvent urban life, \"knowing they only had a few years to live\" [1]. By its 25th anniversary in 2017, the Clarion Alley Mural Project counted more than 500 artists and 700 murals [1].",
+  "people": [
+   {
+    "name": "Rigo 23",
+    "role": "Co-founding muralist"
+   },
+   {
+    "name": "Aaron Noble",
+    "role": "Co-founding painter"
+   },
+   {
+    "name": "Christopher Statton",
+    "role": "Later co-director"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Clarion Alley Mural Project Turns 25: A Historical Primer",
+    "publisher": "SFist",
+    "year": 2017,
+    "url": "https://sfist.com/2017/10/20/clarion_alley_mural_project_turns_2/",
+    "supports": "1992 start, 47 Clarion and Cockettes, founders, drug market and police station, quotes, six painters, 500 artists/700 murals"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-826-pirate-store",
+  "title": "Why the Tutoring Centre Sells Peg Legs",
+  "theme": "modern-city",
+  "year": 2002,
+  "place": {
+   "label": "826 Valencia and the Pirate Supply Store, 826 Valencia St",
+   "lat": 37.75955,
+   "lon": -122.421689,
+   "precision": "building"
+  },
+  "hook": "The zoning said the storefront had to sell something. Dave Eggers decided it would sell glass eyes, beard trimmings and planks for pirates.",
+  "story": "In 2002 the author Dave Eggers and teacher Nínive Calegari leased a space on Valencia Street and hung a sign: \"Free Tutoring. Mops. A Pufferfish.\" [1] The idea was free one-on-one writing help for children, especially those whose parents worked several jobs or did not speak English [2]. The lease came with a catch: zoning required part of the space to be used for retail [2]. Eggers's answer was a pirate supply store selling drawers of glass eyes, peg legs and beard trimmings, \"because not all pirates can grow their own,\" as the store manager said with a straight face [2]. By 2007 the shop had taken $227,000 in a year, and chapters elsewhere copied the trick with superhero, space-travel and secret-agent stores [2]. Eggers told Forbes that writing is \"a craft, not thunderbolts and lightning\" [2]. The organisation named after its address opened more San Francisco centres and helped launch the national 826 network in 2008 [1].",
+  "people": [
+   {
+    "name": "Dave Eggers",
+    "role": "Co-founder, author"
+   },
+   {
+    "name": "Nínive Calegari",
+    "role": "Co-founder, former teacher"
+   }
+  ],
+  "sources": [
+   {
+    "title": "About 826 Valencia",
+    "publisher": "826 Valencia",
+    "year": null,
+    "url": "https://826valencia.org/about/",
+    "supports": "2002 lease and sign, 826 National 2008, later centres"
+   },
+   {
+    "title": "A Genius at Tutoring",
+    "publisher": "Forbes (Claire Cain Miller), archived",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20071225125351/http://www.forbes.com/forbes/2008/0107/110_print.html",
+    "supports": "Zoning retail requirement, pirate store items and quote, $227,000 sales, other themed stores, Eggers quote, mission"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-new-mission-theater",
+  "title": "The Movie Palace Saved From City College",
+  "theme": "architecture-landmarks",
+  "year": 2015,
+  "place": {
+   "label": "New Mission Theater, 2550 Mission St",
+   "lat": 37.756216,
+   "lon": -122.419,
+   "precision": "building"
+  },
+  "hook": "It went from movie palace to futon showroom, rave venue and pigeon roost. Then its 70-foot marquee lit up again for Star Wars.",
+  "story": "In the first half of the 20th century the Mission was San Francisco's second theatre district: at its peak it had 15,000 seats, second only to mid-Market's 25,000 [1]. The 1916 New Mission, with 2,021 seats, was among the last survivors [1]. In 2004 the community rallied when City College of San Francisco, which owned it, sought to gut the building for a campus [1]. Preservationists got it landmarked, and the college sold [2][1]. According to research by Alamo Drafthouse chief Tim League, the last show there was a Carlos Santana concert in the 1980s [2]. After that it was a furniture showroom with futons in the auditorium, then a rave venue, then a home for pigeons [2]. Alamo spent four years planning and rebuilding. It restored the big screen, added four small screens where the balconies had been, and relit the green neon on the 70-foot marquee [2]. The theatre reopened on December 17, 2015, with two premieres of the new Star Wars film [3].",
+  "people": [
+   {
+    "name": "Tim League",
+    "role": "Head of Alamo Drafthouse"
+   },
+   {
+    "name": "Alfonso Felder",
+    "role": "President, SF Neighborhood Theater Foundation"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #245: New Mission Theater",
+    "publisher": "NoeHill (quoting SF Chronicle, 2006)",
+    "year": 2006,
+    "url": "https://noehill.com/sf/landmarks/sf245.asp",
+    "supports": "1916, 2,021 seats, 2004 City College fight, Mission seat counts"
+   },
+   {
+    "title": "Old Mission Theater to rise again as gleaming multiplex",
+    "publisher": "San Francisco Chronicle (Sam Whiting)",
+    "year": 2015,
+    "url": "http://www.sfchronicle.com/movies/article/Old-Mission-District-movie-palace-to-rise-again-6285656.php",
+    "supports": "Landmarking and City College sale, Santana, futons, raves, pigeons, marquee, screens, four years"
+   },
+   {
+    "title": "Alamo Drafthouse's New Mission Theater, including bar Bear vs. Bull, opens today",
+    "publisher": "Inside Scoop SF / SF Chronicle (archived)",
+    "year": 2015,
+    "url": "https://web.archive.org/web/2016/http://insidescoopsf.sfgate.com/blog/2015/12/17/alamo-drafthouses-new-mission-theater-including-bar-bear-vs-bull-opens-today/",
+    "supports": "Opening 17 Dec 2015 with Star Wars premieres"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ }
+]

@@ -1,0 +1,779 @@
+[
+ {
+  "id": "potrero-hill-potrero-nuevo",
+  "title": "The twins who owned a pasture",
+  "theme": "indigenous-early",
+  "year": 1844,
+  "yearEnd": 1867,
+  "place": {
+   "label": "Potrero Hill (Rancho Potrero Nuevo)",
+   "lat": 37.7585,
+   "lon": -122.399,
+   "precision": "area"
+  },
+  "hook": "Before any streets, Potrero Hill was a cattle pasture granted to two teenage brothers. Neither lived to see what became of it.",
+  "story": "Long before it had a single street, Potrero Hill was a pasture. From the late 1700s Mission Dolores grazed its cattle here. The name stuck: potrero means pasture, and Potrero Nuevo means \"new pasture\" [1]. Mission Creek, the bay and Islais Creek hemmed the land in so well that it needed little fencing [2]. Under Mexican rule the rancho went to Francisco and Ramón de Haro, teenage twin sons of Francisco de Haro, first alcalde of Yerba Buena. Sources disagree on whether the grant was made in 1841 or 1844 [1][3]. In June 1846, during the American conquest, the twins and their relative José de los Reyes Berreyesa were shot dead near San Rafael by Kit Carson on the orders of John C. Frémont [3]. Their father took over the land, and early accounts say he died of grief in 1849 [4]. Then the family's claim fell apart. In 1867 the courts ruled that the de Haros had only ever held a licence to run cattle, not title [3]. Squatters, speculators and \"land sharks\" with forged Spanish grants fought over the hill [4]. The family's name survives on De Haro Street.",
+  "people": [
+   {
+    "name": "Francisco de Haro",
+    "role": "first alcalde of Yerba Buena"
+   },
+   {
+    "name": "Francisco and Ramón de Haro",
+    "role": "twin grantees of Potrero Nuevo"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Potrero Hill, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Potrero_Hill,_San_Francisco",
+    "supports": "Mission grazing; meaning of Potrero Nuevo; 1844 grant to the twin sons"
+   },
+   {
+    "title": "The Story of Dogpatch",
+    "publisher": "FoundSF (Christopher VerPlanck)",
+    "year": 2001,
+    "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+    "supports": "Natural boundaries that made fencing unnecessary"
+   },
+   {
+    "title": "Rancho Potrero de San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Rancho_Potrero_de_San_Francisco",
+    "supports": "1841 grant date, 1846 killings on Frémont's orders, 1867 ruling of licence only"
+   },
+   {
+    "title": "Spanish Land Grant Days",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=Spanish_Land_Grant_Days",
+    "supports": "De Haro said to have died of grief; 1865 'land sharks' with fraudulent grants"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-tubbs-rope-walk",
+  "title": "A factory you had to walk",
+  "theme": "labor-industry",
+  "year": 1856,
+  "yearEnd": 1962,
+  "place": {
+   "label": "Tubbs Cordage rope walk, 22nd and Iowa streets",
+   "lat": 37.7577,
+   "lon": -122.3918,
+   "precision": "block"
+  },
+  "hook": "For a century, men walked the length of a shed more than a thousand feet long, twisting rope for the ships and mines of the Pacific.",
+  "story": "In the 1850s rope was made on foot. Brothers Alfred and Hiram Tubbs set up the San Francisco Cordage Manufactory on the empty south shore of Potrero Point. Its heart was a rope walk: a shed 35 feet wide and 1,000 feet long, running southeast from what is now 22nd and Iowa streets down to a wharf on the bay [1]. Skilled workers walked the length of it, twisting hemp and abaca yarn into rope. A 1964 history remembers men walking four or five blocks to make one continuous rope [2]. The walk was later stretched to somewhere between 1,400 and 1,500 feet, depending on the source, and it passed under Kentucky (now Third) Street to reach piers in the bay [1][3]. Sources give the start date as 1856 or 1857 [1]. In 1893 the Morning Call marvelled at the fireproof brick buildings, the 500-horsepower engine and the fibre shipped in from the Philippines and Yucatán. It boasted that all 250 workers were \"white\", which says a lot about the era [1]. Tubbs rope went as far as Mexico, Peru, China and Japan. The plant closed in 1962 and a Muni bus yard took its place in 1978 [1]. A row of oddly angled buildings between Third and Tennessee streets still follows the rope walk's diagonal line [3].",
+  "people": [
+   {
+    "name": "Alfred Tubbs",
+    "role": "co-founder"
+   },
+   {
+    "name": "Hiram Tubbs",
+    "role": "co-founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Story of Dogpatch",
+    "publisher": "FoundSF (Christopher VerPlanck)",
+    "year": 2001,
+    "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+    "supports": "Rope walk size and site, 1893 Call description, 1962 closure, 1978 bus yard"
+   },
+   {
+    "title": "Union Iron Works at Potrero Hill",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=Union_Iron_Works_at_Potrero_Hill",
+    "supports": "Workers walking blocks to twist one continuous rope; Tubbs on 22nd Street"
+   },
+   {
+    "title": "Tubbs Rope Walk",
+    "publisher": "FoundSF (after Burrito Justice)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Tubbs_Rope_Walk",
+    "supports": "1,400-foot walk under Kentucky Street onto piers; surviving diagonal buildings; 1856 start"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-long-bridge",
+  "title": "A mile of timber over the bay",
+  "theme": "architecture-landmarks",
+  "year": 1865,
+  "yearEnd": 1867,
+  "place": {
+   "label": "Long Bridge landing, Third (Kentucky) and Mariposa streets",
+   "lat": 37.7641,
+   "lon": -122.389,
+   "precision": "street"
+  },
+  "hook": "To reach the Potrero you once needed a boat. Then the city built a bridge a mile long straight across Mission Bay's mudflats.",
+  "story": "Before 1865, getting to the Potrero meant a slow trip around the edge of Mission Bay or a boat from the foot of Third Street [1]. Then the city built a bridge straight across the water. The first pilings went in off Steamboat Point in February 1865, and by 1867 the timber trestle had reached land near today's Mariposa Street [2]. It was about a mile long, and people called it Long Bridge or the Mission Bay Bridge [1]. Taking the road on south along Kentucky Street (now Third) meant blasting through a ridge of serpentine rock that joined Potrero Point to the hill. More than 100,000 cubic yards of rock were removed, the first big reshaping of Potrero Hill [2]. Within months, horsecars of the Potrero and Bayview Railroad were running across, linking downtown with Potrero Point for the first time [2]. The bridge was also a place for fun. Hobbs Wharf, off the bridge, was a favourite spot for Sunday smelt fishing, where hundreds of rented bamboo poles stuck out a yard apart [2]. Land speculation came next, and factories and workers' cottages followed [3]. Once the railroads filled in Mission Bay in the early 1900s, the bridge was closed [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Staking Out Potrero Hill",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=Staking_Out_Potrero_Hill",
+    "supports": "Routes to the Potrero before the bridge; mile-long Long Bridge"
+   },
+   {
+    "title": "The Story of Dogpatch",
+    "publisher": "FoundSF (Christopher VerPlanck)",
+    "year": 2001,
+    "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+    "supports": "1865 pilings, 1867 Potrero connection, 100,000 cubic yards blasted, horsecars, smelt fishing"
+   },
+   {
+    "title": "Potrero Hill, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Potrero_Hill,_San_Francisco",
+    "supports": "Speculation after the bridge; closure after Mission Bay was filled"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-adams-house",
+  "title": "A whaling captain's ship-shaped house",
+  "theme": "gold-rush-victorian",
+  "year": 1867,
+  "yearEnd": null,
+  "place": {
+   "label": "Adams House, 300 Pennsylvania Avenue",
+   "lat": 37.762507,
+   "lon": -122.393918,
+   "precision": "building"
+  },
+  "hook": "A New Bedford whaling captain let his lumber age for two years, then built a house on the hill as carefully as he would build a ship.",
+  "story": "Captain Charles Adams sailed into San Francisco Bay in 1850 from New Bedford, Massachusetts. He was looking for a base for his whaling fleet, and he chose Potrero Hill for its springs and sunshine [1]. He bought about thirteen acres around Eighteenth Street and Pennsylvania, at a time when the bay came to within a block of the site [1]. Adams took his time. The lumber for his house lay on the ground for two years so it could season, and the house was built rather like a ship. Its attic was one huge room shaped like an upturned keel, and it held two water tanks. Water came from a spring and a well, and pipes running past the fireplaces warmed it for the bath [1]. The house dates from 1867 [2]. Across the street, on land Adams sold, pharmacist Clayton French Richards built an Italianate house around 1865. Part of his fortune came from \"Dr. Le Richau's Golden Pills\", a patent medicine sold for \"seminal weakness\" [3]. The two houses were among the first on the hill with bay windows [1][3]. In 1906 the Adams well supplied water to earthquake refugees. In 1907 the Richards family rented their house to Union Iron Works as a hospital for $125 a month [1][3].",
+  "people": [
+   {
+    "name": "Captain Charles Adams",
+    "role": "whaling captain and builder"
+   },
+   {
+    "name": "Clayton French Richards",
+    "role": "pharmacist, neighbour"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Adams House: 300 Pennsylvania",
+    "publisher": "FoundSF (Potrero Hill Archives Project)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Adams_House:_300_Pennsylvania",
+    "supports": "Adams's arrival, land, aged lumber, ship-like attic, hot-water system, bay windows, refugee water"
+   },
+   {
+    "title": "The Oldest Homes on the Hill",
+    "publisher": "The Potrero View",
+    "year": 2023,
+    "url": "https://www.potreroview.net/the-oldest-homes-on-the-hill/",
+    "supports": "Adams House built 1867, two years after the Richards House"
+   },
+   {
+    "title": "Historic Buildings and Their Stories",
+    "publisher": "The Potrero View",
+    "year": 2024,
+    "url": "https://www.potreroview.net/historic-buildings-and-their-stories/",
+    "supports": "Richards House c.1865, Golden Pills, 1907 lease to Union Iron Works as a hospital"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-scotch-hill",
+  "title": "When the hilltop spoke Scots",
+  "theme": "communities",
+  "year": 1869,
+  "yearEnd": 1893,
+  "place": {
+   "label": "Scotch Hill, 522 Connecticut Street",
+   "lat": 37.759057,
+   "lon": -122.397474,
+   "precision": "block"
+  },
+  "hook": "Ironworkers from the Clyde made the top of Potrero Hill their own. They built a church with their own hands and gave the hill its name.",
+  "story": "The top of Potrero Hill once had a Scottish accent. From 1865, workers from the Clyde valley in Scotland came to work in the shipyards and later at Union Iron Works. They settled along Mississippi, Texas and Connecticut streets, an area its residents called Scotch Hill [1]. Many were skilled iron moulders at the Pacific Rolling Mills on the waterfront below, which rolled its first iron in 1868 [3]. In 1869 a congregation of seventeen Scottish ironworkers from the mill built a small church on Tennessee Street. It burned in 1877, and they rebuilt on Mississippi Street, closer to the Scottish homes on Connecticut [2]. That was Olivet Presbyterian. A 1964 neighbourhood study dates the church to 1868 instead and says it burned more than once [1]. A Mr. Rintoul, who arrived in 1893, was still living in the same house at 522 Connecticut Street decades later. He remembered the hill as \"mostly pastureland\", with a few houses \"all of them belonged to Scottish families.\" To visit a relative on De Haro Street he crossed \"Chilit Pass\", the dip near Carolina Street that separated Scotch Hill from the higher hill to the west [1].",
+  "people": [
+   {
+    "name": "Mr. Rintoul",
+    "role": "Scotch Hill resident from 1893"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Immigrants",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=The_Immigrants",
+    "supports": "Scots from the Clyde, Scotch Hill streets, Olivet 1868, Rintoul's recollections"
+   },
+   {
+    "title": "Dogpatch Churches",
+    "publisher": "FoundSF (Christopher VerPlanck)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Dogpatch_Churches",
+    "supports": "Seventeen Scottish ironworkers' church, 1869; fire of 1877; rebuilt on Mississippi Street"
+   },
+   {
+    "title": "South Waterfront Industries of the 1860s (Vanished Waters)",
+    "publisher": "FoundSF (Nancy J. Olmsted)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=South_Waterfront_Industries_of_the_1860s",
+    "supports": "Pacific Rolling Mills' first iron in 1868; Scottish iron moulders"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-dairy-hill",
+  "title": "Cows, wells and a ranch on the hill",
+  "theme": "gold-rush-victorian",
+  "year": 1875,
+  "yearEnd": 1925,
+  "place": {
+   "label": "Charles Dow house, 1745 20th Street",
+   "lat": 37.759641,
+   "lon": -122.398936,
+   "precision": "building"
+  },
+  "hook": "Victorian Potrero Hill had dairy herds, a 300-foot well and a ranch whose hired hands looked after cattle from the hilltop down to Army Street.",
+  "story": "Well into the Victorian era, Potrero Hill was farmland. In 1875 a farmer named Charles Dow built a house at what is now 20th and Wisconsin streets. A photograph from that year looks from the spot out across the open water of Mission Bay toward Yerba Buena Island [1]. It is one of the oldest buildings on the hill and still stands at 1745 20th Street. Palms now hide it, and designer Larry Masnada remade it in the 1980s [1][2]. A few blocks west, an Englishman named Charlie Hawe ran a dairy from a farmhouse built in 1889 on the northwest corner of Connecticut and 20th. Next to it was a well 300 feet deep. A large cattle barn stood across 20th Street, and water troughs sat on the northeast corner [3]. Around 1900 a dapper man with a goatee, known only as Ramond, lived in a big white house at Wisconsin and 20th. Beside it was a row of identical cottages for the hired hands who looked after cattle grazing from the hilltop down toward Army Street. People called it Ramond's and Hawe's Ranch [3]. Ramond's daughter-in-law sold the house around 1925. The deep well had to be filled in before an apartment building could go up [3].",
+  "people": [
+   {
+    "name": "Charles Dow",
+    "role": "farmer"
+   },
+   {
+    "name": "Charlie Hawe",
+    "role": "dairyman"
+   },
+   {
+    "name": "Ramond",
+    "role": "rancher"
+   }
+  ],
+  "sources": [
+   {
+    "title": "20th and Wisconsin 1875",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=20th_and_Wisconsin_1875",
+    "supports": "1875 view; house built for farmer Charles Dow; Masnada remodel"
+   },
+   {
+    "title": "The Oldest Homes on the Hill",
+    "publisher": "The Potrero View",
+    "year": 2023,
+    "url": "https://www.potreroview.net/the-oldest-homes-on-the-hill/",
+    "supports": "1745 20th Street built 1875 by dairy farmer Charles Dow"
+   },
+   {
+    "title": "The Immigrants",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=The_Immigrants",
+    "supports": "Hawe dairy, 1889 farmhouse, 300-foot well, barn and troughs; Ramond house and ranch; c.1925 sale"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-blue-mud-wars",
+  "title": "The King of the Potrero",
+  "theme": "communities",
+  "year": 1885,
+  "yearEnd": 1892,
+  "place": {
+   "label": "Irish Hill, east of Illinois Street between 20th and 22nd",
+   "lat": 37.759,
+   "lon": -122.3862,
+   "precision": "area"
+  },
+  "hook": "A saloon-keeper who controlled jobs at the shipyard, two rival brothers, streets of blue mud and a pistol shot that missed.",
+  "story": "Irish Hill was a rough little neighbourhood of boarding houses and saloons on a rise 90 feet above the shipyards east of Illinois Street. You reached it by climbing 98 steps [1][2]. Its unofficial ruler was Frank McManus. He had fled the Irish famine, arrived in 1865 and, so the rumour went, won the Union Hotel in a card game. The papers called him the \"King of the Potrero\". Anyone who wanted a job at Union Iron Works had to go through McManus, board at his hotel and drink at his saloon [1]. In 1885 the brothers Thomas and John Welsh opened two rival hotel-saloons, one right behind the Union Hotel. They were Democrats; McManus was a Republican. The feud that followed was fought with fists, knives, clubs and arson, in streets that turned to blue mud when it rained. It became known as the Blue Mud Wars [1]. In the final battle, in 1892, McManus fired a gun at Thomas Welsh at point-blank range and missed [1]. In 1894 his brother Cornelius was stabbed to death in a bar fight at the Union Hotel, and Frank drank himself to death, dying at 57 [1]. Saturday nights also brought bare-knuckle fights, held outside Gately's San Quentin House or Mike Boyles' Steam Beer Dump, depending on the account [1][2].",
+  "people": [
+   {
+    "name": "Frank McManus",
+    "role": "hotelier and political boss"
+   },
+   {
+    "name": "Thomas and John Welsh",
+    "role": "rival hoteliers"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Irish Hill",
+    "publisher": "FoundSF (Steven Fidel Herraiz)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Irish_Hill",
+    "supports": "McManus, Union Hotel, Welsh brothers, Blue Mud Wars, 1892 shooting, deaths; boxing at Boyles'"
+   },
+   {
+    "title": "The Immigrants",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=The_Immigrants",
+    "supports": "Irish Hill hotels, San Quentin House parolees, hay-rope boxing ring, 98 steps"
+   },
+   {
+    "title": "Will Irish Hill Be Hidden?",
+    "publisher": "The Potrero View",
+    "year": 2017,
+    "url": "https://www.potreroview.net/will-irish-hill-be-hidden/",
+    "supports": "Irish Hill reached by a 98-step stairway; surviving outcrop"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-olympia-oregon",
+  "title": "Warships built at the foot of the hill",
+  "theme": "war-military",
+  "year": 1892,
+  "yearEnd": 1898,
+  "place": {
+   "label": "Union Iron Works Machine Shop, 20th Street, Pier 70",
+   "lat": 37.7609,
+   "lon": -122.3858,
+   "precision": "block"
+  },
+  "hook": "Dewey's flagship at Manila Bay and the battleship whose dash around South America helped get the Panama Canal built were both launched here.",
+  "story": "In 1883 Irving M. Scott moved Union Iron Works from First and Mission streets to 32 acres of deep-water frontage at Potrero Point. He spent about $2 million on brick shops, including the machine shop that still stands on 20th Street [1]. Scott then went after Navy contracts, competing head to head with the big East Coast yards. When the Navy asked for bids on Cruiser No. 6 in 1890, Union Iron Works was the only bidder. Her keel was laid in June 1891, and on November 5, 1892 she was launched as the Olympia [2]. On May 1, 1898, as Commodore George Dewey's flagship at Manila Bay, she received his order, \"You may fire when you are ready, Gridley\", and fired the first shell of the battle [2]. The yard also built the battleship Oregon, launched on October 26, 1893. In 1898 the Oregon steamed some 14,000 nautical miles around South America in 66 days to join the fleet off Cuba. The voyage got so much press coverage that it added to public pressure for a Panama Canal [3]. Between 1884 and 1902 the yard built 75 vessels [4]. Olympia survives as a museum ship in Philadelphia, the oldest steel American warship still afloat [2].",
+  "people": [
+   {
+    "name": "Irving M. Scott",
+    "role": "Union Iron Works manager"
+   },
+   {
+    "name": "George Dewey",
+    "role": "commodore"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Story of Dogpatch",
+    "publisher": "FoundSF (Christopher VerPlanck)",
+    "year": 2001,
+    "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+    "supports": "1883 move to Potrero Point, 32 acres, $2 million, machine shop, Navy ambitions"
+   },
+   {
+    "title": "USS Olympia (C-6)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/USS_Olympia_(C-6)",
+    "supports": "Sole bidder, keel 1891, launch Nov 5 1892, Manila Bay order, museum ship and oldest steel US warship afloat"
+   },
+   {
+    "title": "USS Oregon (BB-3)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/USS_Oregon_(BB-3)",
+    "supports": "Built at Union Iron Works, launched Oct 26 1893; 14,000-mile, 66-day voyage and Panama Canal pressure"
+   },
+   {
+    "title": "Union Iron Works",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Union_Iron_Works",
+    "supports": "Seventy-five vessels built 1884–1902"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-irving-scott-school",
+  "title": "The city's oldest schoolhouse",
+  "theme": "architecture-landmarks",
+  "year": 1895,
+  "yearEnd": null,
+  "place": {
+   "label": "Irving M. Scott School, 1060 Tennessee Street",
+   "lat": 37.758561,
+   "lon": -122.389589,
+   "precision": "building"
+  },
+  "hook": "Named for a shipyard boss, this 1895 schoolhouse is the oldest left in San Francisco. Its pupils once escorted a president to a battleship.",
+  "story": "The oldest surviving public schoolhouse in San Francisco stands at 1060 Tennessee Street, among the old workers' cottages of Dogpatch [1]. Classes on the Potrero started in 1865 in a building at 20th and Kentucky (now Third) streets. In 1877 an eight-room Potrero School was built on Minnesota Street between 21st and 22nd [2]. In 1895 an addition went up on Tennessee Street. A 1964 neighbourhood history says it held the first woodshop and homemaking lab in the city [2]. The school took the name of Irving M. Scott, the head of Union Iron Works, where many pupils' fathers worked [2][3]. That connection brought the school its big day. Scott was a close friend of President William McKinley, and when McKinley came to the shipyard for the battleship Ohio, a group of Scott School boys escorted him [2][3]. The accounts differ on the occasion. One says it was the keel-laying in 1899, another says it was the launch. Ohio's keel was laid on April 22, 1899, and she was launched on May 18, 1901 [3][2][4]. The schoolhouse was made a San Francisco landmark and is also on the National Register of Historic Places [1].",
+  "people": [
+   {
+    "name": "Irving M. Scott",
+    "role": "namesake, Union Iron Works"
+   },
+   {
+    "name": "William McKinley",
+    "role": "U.S. President"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #138: Irving Murray Scott Primary School",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2011,
+    "url": "https://noehill.com/sf/landmarks/sf138.asp",
+    "supports": "Built 1895; oldest surviving public schoolhouse in SF; National Register listing"
+   },
+   {
+    "title": "Union Iron Works at Potrero Hill",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=Union_Iron_Works_at_Potrero_Hill",
+    "supports": "1865 and 1877 schools, 1895 Tennessee Street addition, first woodshop and homemaking lab, McKinley escort at the Ohio launch"
+   },
+   {
+    "title": "The Story of Dogpatch",
+    "publisher": "FoundSF (Christopher VerPlanck)",
+    "year": 2001,
+    "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+    "supports": "McKinley, Scott's friend, at the Ohio keel-laying in 1899 escorted by Scott School children"
+   },
+   {
+    "title": "USS Ohio (BB-12)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/USS_Ohio_(BB-12)",
+    "supports": "Keel laid 22 April 1899 at Union Iron Works; launched 18 May 1901"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-columbia-drydock",
+  "title": "The earthquake that tipped over a liner",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1907,
+  "place": {
+   "label": "Union Iron Works drydock, Pier 70 waterfront",
+   "lat": 37.76,
+   "lon": -122.3835,
+   "precision": "area"
+  },
+  "hook": "The first ship ever lit by Edison bulbs was up on the shipyard's drydock when the 1906 earthquake hit. The shaking rolled her onto her side.",
+  "story": "When the 1906 earthquake hit, the steamship Columbia was sitting in the Union Iron Works hydraulic drydock at Potrero Point, part way through a refit [1][2]. She was a famous ship. Built in 1880, she was the first ship to carry a dynamo powering electric lights, and the first commercial use of Thomas Edison's light bulbs outside his Menlo Park laboratory [2]. The quake knocked the iron-hulled liner off her supports. She rolled onto her starboard side and slammed into the dock, and her hull partly filled with water [1][2]. The ship could be saved: two months of temporary repairs got her floating again. The drydock, one of the yard's most useful features, was damaged beyond economic repair [1][2]. Columbia's bad luck continued. On her way to Hunters Point for permanent repairs, a steam pipe exploded and the crew abandoned ship. She finally went back into service in January 1907, and soon after was stuck in an ice pack on the Columbia River for four days [2]. Back at the shipyard, a photograph taken about six weeks after the earthquake shows tents for people left homeless by the disaster, pitched among the shops [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Union Iron Works",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Union_Iron_Works",
+    "supports": "Columbia in the hydraulic drydock at the 1906 earthquake; drydock damaged beyond economic repair"
+   },
+   {
+    "title": "SS Columbia (1880)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/SS_Columbia_(1880)",
+    "supports": "First ship with electric lights; rolled off supports; repairs, steam-pipe explosion, return January 1907, ice pack"
+   },
+   {
+    "title": "Union Iron Works at Potrero Hill",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=Union_Iron_Works_at_Potrero_Hill",
+    "supports": "Photo caption: Union Iron Works six weeks after the quake with refugee tents"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-nursing-settlement",
+  "title": "Refugees on the green hill",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "'Nursing Settlement', Iowa and 19th streets",
+   "lat": 37.7612,
+   "lon": -122.3916,
+   "precision": "block"
+  },
+  "hook": "Potrero Hill escaped the fire, and South of Market's homeless poured up its slopes. Local children envied the refugee kids so much that one pretended to be one.",
+  "story": "Potrero Hill was spared by the 1906 earthquake and fire, and it filled up fast [3]. Residents long remembered the people of South of Market climbing the slopes with whatever they had managed to save: a bird on a woman's shoulder, a man carrying a single chair, another with a blanket. From the hill they watched the city burn [1]. Army surplus tents from the Spanish-American War went up between 19th and 22nd streets, from Indiana to Kentucky (now Third) [1]. Around Iowa and 19th streets grew what one resident remembered as the \"Nursing Settlement\", a refugee centre where nurses gave medical care. A Mrs. Sweitzer was in charge [1]. The refugee children there were the envy of the neighbourhood. One man remembered pretending to be a refugee so he could go and play [1]. Up at 18th and Pennsylvania, the Adams family's spring and well gave fresh water to the homeless [2]. The city later built small two-room refugee shacks all over the hill. Many survived for decades, easy to spot sitting at the back of their lots [1]. Plenty of refugees never left, among them Russian and Slovenian immigrants burned out of South of Market, and the hill's population changed for good [3].",
+  "people": [
+   {
+    "name": "Mrs. Sweitzer",
+    "role": "head of the Nursing Settlement"
+   }
+  ],
+  "sources": [
+   {
+    "title": "1906 Changes The Hill Forever",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=1906_Changes_The_Hill_Forever",
+    "supports": "Refugee arrivals, army tents, Nursing Settlement, Mrs. Sweitzer, children, refugee shacks"
+   },
+   {
+    "title": "The Adams House: 300 Pennsylvania",
+    "publisher": "FoundSF (Potrero Hill Archives Project)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Adams_House:_300_Pennsylvania",
+    "supports": "Adams well and springs supplied water to 1906 refugees"
+   },
+   {
+    "title": "Potrero Hill, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Potrero_Hill,_San_Francisco",
+    "supports": "Hill spared in 1906; Russian and Slovenian immigrants from South of Market settled"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-molokans",
+  "title": "The milk drinkers of Carolina Street",
+  "theme": "communities",
+  "year": 1906,
+  "yearEnd": 1929,
+  "place": {
+   "label": "First Russian Christian Molokan Church, 841 Carolina Street",
+   "lat": 37.757965,
+   "lon": -122.399664,
+   "precision": "building"
+  },
+  "hook": "Russian religious dissenters came by way of Hawaii's cane fields. They built steam baths into the hillside and a prayer hall on Carolina Street.",
+  "story": "In August 1906 a group of Russian Spiritual Christians, mostly Molokans with a few Pryguny (\"Jumpers\"), arrived in San Francisco from Hawaii. There they had refused to farm sugar cane. More came from Los Angeles, Russia and Manchuria [1]. Fewer than a thousand Molokans left Russia in the early 1900s, most between 1905 and 1912, fleeing persecution, and many ended up on and around Potrero Hill [2]. A 1964 study translated their name as \"milk drinkers\" [3]. Many men found jobs at Union Iron Works, and families built homes around Carolina, Rhode Island and De Haro streets and Southern Heights [3]. Even in the 1960s, Molokan women could be seen going to church in full-length skirts, heads covered with shawls. Bearded old men gathered at the top of De Haro Street cracking sunflower seeds [3]. Settlers used the hill's springs for private \"bani\" steam baths. The only sign of one from outside was a rusty stovepipe poking out of a hillside roof [3]. The community built its own two-storey prayer hall on Carolina Street, today the First Russian Christian Molokan Church at 841 Carolina. Sources date it to 1928, 1929 or \"about 1930\" [1][2][3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Potrero Hill, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Potrero_Hill,_San_Francisco",
+    "supports": "August 1906 arrival from Hawaii; later arrivals; 2-storey hall on Carolina Street by 1928"
+   },
+   {
+    "title": "Molokans",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Molokans",
+    "supports": "Fewer than 1,000 emigrants 1905–1912, Potrero Hill enclave, prayer hall 1929"
+   },
+   {
+    "title": "The Immigrants",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=The_Immigrants",
+    "supports": "'Milk drinkers', Union Iron Works jobs, streets, dress, sunflower seeds, bani baths, 841 Carolina church c.1930"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-jackson-playground",
+  "title": "A widow's gift, a pond and 6,000 guests",
+  "theme": "parks-nature",
+  "year": 1912,
+  "yearEnd": null,
+  "place": {
+   "label": "Jackson Playground, 17th and Arkansas streets",
+   "lat": 37.7643,
+   "lon": -122.3995,
+   "precision": "area"
+  },
+  "hook": "The land was given on one condition: it must always be a park. Neighbours filled in its pond, and in 1912 the mayor opened it to cheering crowds.",
+  "story": "When Potrero Nuevo was surveyed in 1856, three plots were set aside for public parks: the future Franklin Square, McKinley Square and Jackson Playground [1]. According to a 2017 Potrero View history, the Jackson site at 17th and Arkansas was deeded to the city around 1870 by Diana Chatham, widow of a miller named Roland Chatham, on condition that it always be used as a park [1]. A 1964 account credits \"a Mr. Chatham\" with the gift but agrees on the condition [2]. The land was not always dry. At times Mission Bay's water reached it, and neighbours filled in a large pond on the site, then raised money for a playground and clubhouse [1]. In a photograph from October 1909, taken from 17th and Carolina, the site is still empty beside the huge wooden Queen Lily Soap factory [4]. In 1912 Mayor James Rolph opened the playground in front of about 6,000 people. In its early days, pupils from two Excelsior District elementary schools used it as an \"amusement area\" [1]. Photographs from September 1912 and about 1920 show children and girls at play there [3].",
+  "people": [
+   {
+    "name": "Diana Chatham",
+    "role": "donor of the park land"
+   },
+   {
+    "name": "James Rolph",
+    "role": "mayor who opened the playground"
+   }
+  ],
+  "sources": [
+   {
+    "title": "What's in a Name: Potrero Hill's Parks and Schools",
+    "publisher": "The Potrero View",
+    "year": 2017,
+    "url": "https://www.potreroview.net/whats-in-a-name-potrero-hills-parks-and-schools/",
+    "supports": "1856 survey parks, Chatham deed c.1870, pond, 1912 opening by Rolph with 6,000"
+   },
+   {
+    "title": "Union Iron Works at Potrero Hill",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=Union_Iron_Works_at_Potrero_Hill",
+    "supports": "Jackson Playfield donated by 'a Mr. Chatham' on condition it remain a park"
+   },
+   {
+    "title": "\"New Grazing Ground,\" Potrero Nuevo",
+    "publisher": "FoundSF (Cheryl and Clark Kaplan)",
+    "year": 1964,
+    "url": "https://www.foundsf.org/index.php?title=%22New_Grazing_Ground,%22_Potrero_Nuevo",
+    "supports": "Photos of children at Jackson Square, 1912, and Jackson Playground, c.1920"
+   },
+   {
+    "title": "The History Issue",
+    "publisher": "The Potrero View",
+    "year": 2024,
+    "url": "https://www.potreroview.net/the-history-issue/",
+    "supports": "October 11, 1909 photo: Jackson Park site awaiting development beside Queen Lily Soap factory"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-eight-destroyers-1918",
+  "title": "Eight destroyers in one day",
+  "theme": "war-military",
+  "year": 1918,
+  "yearEnd": null,
+  "place": {
+   "label": "Bethlehem Steel Administration Building, 20th and Illinois streets",
+   "lat": 37.7605,
+   "lon": -122.3874,
+   "precision": "building"
+  },
+  "hook": "On July 4, 1918, the shipyard launched eight warships in one day. That same summer, the last of Irish Hill's saloons and cottages were torn down.",
+  "story": "In 1905 Charles M. Schwab stood on the steps of the Union Iron Works office on 20th Street as the only bidder at an auction, and bought the whole yard for Bethlehem Steel for $1 million [2]. By 1918, with America in the First World War, the yard was working flat out. According to the Dogpatch historic district study, it employed 10,000 people, and with Bethlehem's other Bay Area yards it made up the largest shipbuilding complex in the world [1]. In 1918 alone it built 18 submarines, ten of them for Britain, and 66 destroyers [1]. On July 4, 1918, eight destroyers went down the ways in a single day [1][2]. A new administration building had been finished in 1917 on the northeast corner of 20th and Illinois, and it still stands [1][3]. The boom finished off the neighbourhood next door. Bethlehem bought the Irish Hill lots on 20th Street for a new concrete foundry. Photographs from May 1918 show a saloon, a French laundry and another saloon facing Illinois Street, months away from demolition [3]. Accounts differ on the foundry's date and cost, and one says it was never built at all. What was left of Irish Hill became a parking lot next to a rocky stump [1][3].",
+  "people": [
+   {
+    "name": "Charles M. Schwab",
+    "role": "Bethlehem Steel chief"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Story of Dogpatch",
+    "publisher": "FoundSF (Christopher VerPlanck)",
+    "year": 2001,
+    "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+    "supports": "10,000 workers, largest complex, 18 submarines and 66 destroyers, July 4 1918 launches, 1917 administration building, 1916 $100,000 foundry"
+   },
+   {
+    "title": "Union Iron Works",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Union_Iron_Works",
+    "supports": "1905 auction with Schwab the only bidder for $1 million; eight destroyers launched 4 July 1918"
+   },
+   {
+    "title": "Irish Hill",
+    "publisher": "FoundSF (Steven Fidel Herraiz)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Irish_Hill",
+    "supports": "May 1918 photos of Irish Hill businesses; Bethlehem's $130,000 foundry plan never built; parking lot"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-neighborhood-house",
+  "title": "Julia Morgan's house for the Molokans",
+  "theme": "architecture-landmarks",
+  "year": 1922,
+  "yearEnd": null,
+  "place": {
+   "label": "Potrero Hill Neighborhood House, 953 De Haro Street",
+   "lat": 37.758267,
+   "lon": -122.400645,
+   "precision": "building"
+  },
+  "hook": "It started when a pastor helped an injured shipyard worker. The result was a Julia Morgan community house at the top of De Haro Street that even got moved.",
+  "story": "At first the Molokans of Potrero Hill kept to themselves. According to local historians Peter Linenthal and Abigail Johnston, things changed after a Molokan was hurt in an accident at Union Iron Works. Dr. William Parker, a lawyer and pastor of Olivet Presbyterian Church on Missouri Street, helped him get help from his employer [1]. After that the church ran Sunday school, a children's choir, and English and citizenship classes [1]. The small rented rooms soon filled up. In 1919 the Presbyterian Church, through a women's group called the California Synodical Society of Home Missions, hired architect Julia Morgan to design a permanent centre [2][3]. Her single-storey Arts and Crafts building at the top of De Haro Street opened on June 11, 1922. It had a lobby with a fireplace, an assembly hall, clubrooms, a kindergarten and a gym [3]. The Molokani learned English, machine sewing and other skills there [2]. Only two years later the building was moved to make way for the new diagonal Southern Heights Avenue. One account says it was shifted 90 feet, another that it was turned 90 degrees [3][4]. \"The Nabe\" became a city landmark in 1977 and still serves the hill [2][3].",
+  "people": [
+   {
+    "name": "Julia Morgan",
+    "role": "architect"
+   },
+   {
+    "name": "William E. Parker Jr.",
+    "role": "pastor, Olivet Presbyterian Church"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Neighborly Assistance: The American Settlement Movement in San Francisco",
+    "publisher": "The Potrero View",
+    "year": 2016,
+    "url": "https://www.potreroview.net/neighborly-assistance-the-american-settlement-movement-in-san-francisco/",
+    "supports": "Injured Union Iron Works worker, Dr. William Parker, classes, outgrown rented space"
+   },
+   {
+    "title": "San Francisco Landmark #86: Potrero Hill Neighborhood House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/sf086.asp",
+    "supports": "1919 Julia Morgan commission for the Molokani; English and machine sewing"
+   },
+   {
+    "title": "Potrero Hill Neighborhood House",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Potrero_Hill_Neighborhood_House",
+    "supports": "June 11, 1922 completion, rooms, 1924 move of 90 feet, 1977 landmark"
+   },
+   {
+    "title": "Historic Buildings and Their Stories",
+    "publisher": "The Potrero View",
+    "year": 2024,
+    "url": "https://www.potreroview.net/historic-buildings-and-their-stories/",
+    "supports": "1924 move described as 90 degrees for Southern Heights"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-st-teresa-sawn-in-two",
+  "title": "The church that was sawn in half",
+  "theme": "communities",
+  "year": 1924,
+  "yearEnd": null,
+  "place": {
+   "label": "St. Teresa of Avila Church, 19th and Connecticut streets",
+   "lat": 37.761386,
+   "lon": -122.396721,
+   "precision": "building"
+  },
+  "hook": "When its Irish neighbourhood disappeared, the parish sawed its church in two and hauled both halves up Potrero Hill.",
+  "story": "In the 1860s, Catholics at Potrero Point heard Mass in the dining room of the Breslin Hotel on Irish Hill, said by priests who came from St. Peter's [1]. In 1880 Archbishop Patrick Riordan created a new parish named for St. Teresa of Ávila. Its first pastor, Father John Kenny, turned a warehouse into a church with three altars and a confessional [1]. The parish today remembers its beginnings in a Third Street boarding house [2]. In 1892 Father Patrick O'Connell built a proper church on the northeast corner of Tennessee and 19th streets. After 1906 he decided the growing Catholic population needed a school, and in 1912 the Sisters of the Presentation opened one with more than 100 pupils [1]. Then the neighbourhood started to disappear. Irish Hill was levelled during the First World War, the Irish Catholic population of Potrero Point fell sharply, and industry kept closing in [1]. So in 1924 movers cut the church in two and moved each half separately up the hill to the northeast corner of 19th and Connecticut streets [1][2]. The rebuilt church still stands there, and the parish is still small and close-knit [2].",
+  "people": [
+   {
+    "name": "Father John Kenny",
+    "role": "first pastor"
+   },
+   {
+    "name": "Father Patrick O'Connell",
+    "role": "pastor who built the 1892 church"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Dogpatch Churches",
+    "publisher": "FoundSF (Christopher VerPlanck)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Dogpatch_Churches",
+    "supports": "Breslin Hotel Masses, 1880 parish, 1892 church, 1912 school, 1924 move in two pieces"
+   },
+   {
+    "title": "Church Congregations Grow Alongside Population",
+    "publisher": "The Potrero View",
+    "year": 2016,
+    "url": "https://www.potreroview.net/church-congregations-grow-alongside-population/",
+    "supports": "Origins in a Third Street boarding house; church disassembled and rebuilt at 19th and Connecticut"
+   }
+  ],
+  "photo": null
+ }
+]

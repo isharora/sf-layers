@@ -1,0 +1,586 @@
+[
+  {
+    "id": "mission-bay-cove-of-the-weepers",
+    "title": "The Cove of the Weepers empties",
+    "theme": "indigenous-early",
+    "year": 1776,
+    "place": {
+      "label": "Former open water of Mission Bay (today's UCSF campus)",
+      "lat": 37.7705,
+      "lon": -122.392,
+      "precision": "area"
+    },
+    "hook": "The Spanish named this bay for three people they saw weeping on its shore. Within a year, its Ohlone hunters had vanished from the water.",
+    "story": "In August 1775 a Spanish pilot, Juan Bautista Aguirre, paddled a redwood dugout into this shallow cove. Later accounts agree he saw three Native people on the shore, weeping, and called it Ensenada de los Llorones, the Cove of the Weepers [1][2]. The people who used it were Yelamu Ohlone. Historians writing for the city's Planning Department suggest families from Chutchui, a village on Mission Creek, came down seasonally to a bayside camp called Sitlintac to gather shellfish, though no one knows exactly where it stood [2][3]. In the summer of 1776 settlers arrived to found Mission Dolores at the head of the creek. Father Francisco Palou wrote that the local people brought mussels and wild seeds as gifts. Then on August 12 he recorded that Salsonas from a village near San Mateo had defeated them, burned their huts and forced them to flee on their rafts. For months afterward, he noted, no Indians came to hunt ducks on Mission Bay or to trade [1]. The first converts came only the following spring, and mission life proved deadly. A visitor in 1826 found only about 260 of a thousand converts left [1]. All of this was water then.",
+    "people": [
+      {
+        "name": "Juan Bautista Aguirre",
+        "role": "Spanish pilot who named the cove in 1775"
+      },
+      {
+        "name": "Francisco Palou",
+        "role": "Franciscan founder of Mission Dolores whose diary records the events"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Spanish Presence at Mission Bay, 1775-1833 (Vanished Waters, ch. 2)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=The_Spanish_Presence_at_Mission_Bay,_1775-1833",
+        "supports": "Aguirre's 1775 dugout and the name Ensenada de los Llorones; Palou's diary: gifts of mussels and seeds, Aug. 12, 1776 defeat by Salsonas, huts burned, flight on rafts, months without Indians hunting ducks on Mission Bay; Beechey 1826: 260 of 1,000 converts remained"
+      },
+      {
+        "title": "Showplace Square Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://www.sanfranciscohistory.com/ShowplaceSquare.pdf",
+        "supports": "Aguirre naming Mission Bay after weeping Ohlone; Yelamu territory; Chutchui and the seasonal Sitlintac shellfish camp, location undocumented"
+      },
+      {
+        "title": "Walking on Water - A History of Mission Bay",
+        "publisher": "UC San Francisco News Center (after Nancy Olmsted)",
+        "year": 2007,
+        "url": "https://web.archive.org/web/2015/http://www.ucsf.edu/news/2007/11/7374/walking-water-history-mission-bay2",
+        "supports": "Village of Sitlintac on the Mission Bay shoreline; tule balsas; mission converts dying of disease"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-smelt-turned-water-silver",
+    "title": "When the smelt turned the water silver",
+    "theme": "parks-nature",
+    "year": 1852,
+    "place": {
+      "label": "Old mouth of Mission Creek, near Division and Henry Adams streets",
+      "lat": 37.7695,
+      "lon": -122.403,
+      "precision": "area"
+    },
+    "hook": "Before landfill, hunters here could shoot more ducks in an hour than a horse could carry home.",
+    "story": "The 1852 U.S. Coast Survey map shows what this place was before the city swallowed it: a tidal lagoon of more than 500 acres, including salt marshes that reached inland toward Folsom and Mission streets. Mission Creek wound in from the Mission and met the bay close to today's Division Street [1][2]. The water was so shallow that much of it was less than a foot deep, and it sheltered an astounding array of wildlife [2]. In one old-timer's phrase, \"the smelt turned the water silver,\" and the fish drew egrets, herons, ospreys and gulls. Hawks and owls hunted mice and rabbits in the upper marsh [3]. In Gold Rush days the marshes were the favourite ground of duck hunters, who could count on bagging more birds in an hour than they could carry home on horseback [4]. Within fifty years steam shovels, garbage and earthquake rubble had filled nearly all of it. Only the narrow Mission Creek channel survives, a thin sliver of the vanished bay [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Mission Bay Gazeteer of Historic Places",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Bay_Gazeteer_of_Historic_Places",
+        "supports": "1852 Coast Survey; lagoon of over 500 acres with marshes to Folsom and Mission; Division and King as 1852 tidal entrance; channel as surviving sliver"
+      },
+      {
+        "title": "Showplace Square Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://www.sanfranciscohistory.com/ShowplaceSquare.pdf",
+        "supports": "Shallow bay, much of it under a foot deep, with an astounding array of wildlife; Mission Creek met the bay near 8th and Division"
+      },
+      {
+        "title": "Water on the Land: The Coast People (Vanished Waters, ch. 1)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Water_on_the_Land%E2%80%94The_Coast_People",
+        "supports": "'The smelt turned the water silver'; egrets, herons, osprey, gulls, hawks and owls"
+      },
+      {
+        "title": "Early Development Around Mission Bay, 1850-1857 (Vanished Waters, ch. 6)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Early_Development_Around_Mission_Bay,_1850-1857",
+        "supports": "Duck hunters bagging more birds in an hour than they could carry on horseback"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-long-bridge",
+    "title": "Long Bridge: a causeway across the bay",
+    "theme": "gold-rush-victorian",
+    "year": 1865,
+    "yearEnd": 1867,
+    "place": {
+      "label": "Third Street, along the route of the vanished Long Bridge",
+      "lat": 37.77163,
+      "lon": -122.3893,
+      "precision": "street"
+    },
+    "hook": "Third Street was once a wooden bridge over open water, crowded on Sundays with smelt fishermen, rowers and thirsty day-trippers.",
+    "story": "In February 1865 pile drivers began hammering a causeway into Mission Bay. Long Bridge ran out along the line of Fourth Street, turned south near today's Third Street, and by 1867 reached the Potrero, later carrying horsecars all the way to the Bay View racetrack near Hunters Point [1][2]. It was sold as rapid transit for workers, but on Sundays it became the South of Market crowd's playground. Smelt fishing from the rails was so popular that elbow room was scarce. At Hobbs Wharf, off the bridge, hundreds of long bamboo poles, many rented from booths on the wharf, jutted out a yard apart [1]. Rowing clubs built boathouses on pilings, boats could be hired to row out to Mission Rock, and saltwater bathhouses stood right over the bay. James Gallandett and G.W. Purdy opened a Half-Way House beside the San Francisco Yacht Club's clubhouse [1][3]. The bridge also had a lasting effect. It sealed off most of the western bay, with only a narrow drawbridge for shallow scows at high tide, and the stagnant lagoon behind it was steadily filled in [1][2]. No trace survives, but Fourth and Third streets still follow its route [2].",
+    "people": [
+      {
+        "name": "James Gallandett",
+        "role": "Co-proprietor of the Half-Way House on Long Bridge"
+      },
+      {
+        "name": "G.W. Purdy",
+        "role": "Co-proprietor of the Half-Way House on Long Bridge"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Long Bridge and the Attack on Rincon Hill (Vanished Waters, ch. 8)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Long_Bridge_and_the_Attack_on_Rincon_Hill",
+        "supports": "Piles driven Feb 1865, Potrero span 1867; route; drawbridge for scows at high tide; smelt fishing, Hobbs Wharf, rowing clubs, boats to Mission Rock, bathhouses, Yacht Club, Gallandett and Purdy's Half-Way House"
+      },
+      {
+        "title": "Mission Bay Gazeteer of Historic Places",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Bay_Gazeteer_of_Historic_Places",
+        "supports": "Causeway built 1865-1867 from Fourth Street, turning south along Third to the Bay View racetrack; sealed off western Mission Bay; route preserved by Fourth and Third streets"
+      },
+      {
+        "title": "Walking on Water - A History of Mission Bay",
+        "publisher": "UC San Francisco News Center (after Nancy Olmsted)",
+        "year": 2007,
+        "url": "https://web.archive.org/web/2015/http://www.ucsf.edu/news/2007/11/7374/walking-water-history-mission-bay2",
+        "supports": "Long Bridge enclosed two-thirds of Mission Bay by 1867; Half-Way House on pilings"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-mission-creek-gunboat",
+    "title": "The Mission Creek gunboat war",
+    "theme": "gold-rush-victorian",
+    "year": 1868,
+    "place": {
+      "label": "Block 40, near Seventh and Berry streets",
+      "lat": 37.7703,
+      "lon": -122.4003,
+      "precision": "block"
+    },
+    "hook": "Sixty men fought with pistols, knives and a cannon-armed scow over a patch of mud that was half underwater.",
+    "story": "California's Tidelands Act of 1868 let a settler buy a water lot if he was in \"bona fide actual possession\" of it on January 1, 1868. Around Mission Creek that phrase was read as a licence to grab. Rival claimants, some with titles going back to 1846 or to the notorious water-lot sales of the 1850s, moved in with pile drivers and a scow schooner armed with a cannon, promptly nicknamed the \"Mission Creek Gunboat\" [1]. On November 19, 1868, the Alta California reported a 3 a.m. raid in which men demanded possession of the ground and a man named Baxter was seriously wounded. A week later police were guarding the pile driver and the gunboat and letting no one aboard, for fear of a riot [1]. Some sixty men fought over Block 40, which was then partly salt marsh and partly open water. Several were badly hurt, and nobody was killed [1][2]. The two accounts place the block slightly differently, but both put it between Seventh and Eighth streets near Berry. The battles over title dragged on in the courts into the late 1870s [1].",
+    "people": [
+      {
+        "name": "Baxter",
+        "role": "Man seriously wounded in the November 1868 skirmish"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mission Bay Tidelands Controversy, 1868-1879 (Vanished Waters, ch. 11)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Bay_Tidelands_Controversy,_1868-1879",
+        "supports": "Tidelands Act 'bona fide actual possession' clause; pile drivers and cannon-armed scow 'Mission Creek Gunboat'; Alta Nov. 19, 1868 report, Baxter wounded, police guarding; sixty men on Block 40 between Berry, Channel, Seventh and Eighth; Ellis case 1877-78"
+      },
+      {
+        "title": "Showplace Square Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://www.sanfranciscohistory.com/ShowplaceSquare.pdf",
+        "supports": "Squatters' riots; battle of some 60 men with a gunboat and pile driver, no one killed; Block 40 bounded by 7th, Berry, 8th and King (citing Alta, Nov. 19, 1868)"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-mission-rock",
+    "title": "The island that became a pier",
+    "theme": "labor-industry",
+    "year": 1870,
+    "yearEnd": 1946,
+    "place": {
+      "label": "Pier 50, site of the former Mission Rock",
+      "lat": 37.7735,
+      "lon": -122.3862,
+      "precision": "area"
+    },
+    "hook": "A 25-foot rock in the bay became a drydock, then a grain terminal, and was finally burned and buried under Pier 50.",
+    "story": "Early charts show Mission Rock standing alone in the water off the mouth of Mission Bay. It was the largest of three small peaks on a submerged ridge, rising about twenty-five feet, and ships used it as a landmark [1][2]. In 1870 H.B. Tichenor, whose marine railway near Steamboat Point had served the city's shipbuilders since the 1850s, sold his ways to the railroad interests and turned his attention to the rock. He secured a tidelands grant around it and built a drydock, expanding a fraction of an acre into about four acres [1]. By 1884 the rock carried warehouses and served as an extended wharf. It became a grain terminal, and an 1897 photograph shows men working cargo there with Yerba Buena Island faint in the distance [1][2]. Holiday rowers on Long Bridge could rent boats to row out to it [3]. The island kept growing until January 1946, when the obsolete grain terminal was deliberately set on fire so the Port could extend Pier 50 over it. Pier 50 swallowed it, the farthest reach of Mission Bay's landfill [4].",
+    "people": [
+      {
+        "name": "H.B. Tichenor",
+        "role": "Shipbuilder who built a drydock on Mission Rock"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mission Bay Tidelands Controversy, 1868-1879 (Vanished Waters, ch. 11)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Bay_Tidelands_Controversy,_1868-1879",
+        "supports": "Rock 25 feet high on a submerged ridge; Tichenor sold his marine railway in 1870, got a tidelands grant and built a drydock growing it to four acres; warehouses by 1884"
+      },
+      {
+        "title": "Mission Rock",
+        "publisher": "FoundSF (Chris Carlsson, from Vanished Waters ch. 15)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Rock",
+        "supports": "Rocky outcrop off the mouth of Mission Bay; grain terminal; 1897 photo of men working cargo; set on fire January 1946 to expand Pier 50"
+      },
+      {
+        "title": "Long Bridge and the Attack on Rincon Hill (Vanished Waters, ch. 8)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Long_Bridge_and_the_Attack_on_Rincon_Hill",
+        "supports": "Boats for rent on Long Bridge to row out to Mission Rock"
+      },
+      {
+        "title": "Mission Bay Gazeteer of Historic Places",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Bay_Gazeteer_of_Historic_Places",
+        "supports": "Tichenor among Steamboat Point shipbuilders from the 1850s; Pier 50 engulfed Mission Rock as the furthest point of landfill"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-south-end-boat-club",
+    "title": "Rowers at the foot of Third Street",
+    "theme": "communities",
+    "year": 1873,
+    "yearEnd": 1908,
+    "place": {
+      "label": "Third and Berry streets, site of the 1884 South End clubhouse",
+      "lat": 37.7768,
+      "lon": -122.3912,
+      "precision": "block"
+    },
+    "hook": "San Francisco's famous Aquatic Park swimmers began here, as a working men's rowing club on Mission Bay.",
+    "story": "The South End Boat Club was founded in 1873 at the end of Third Street. It was only the third rowing club in San Francisco, and it existed to beat the others [1]. In the 1880s, at the height of the rowing craze, thousands of spectators lined the shore to watch races, betting large sums, and the best oarsmen became celebrities. The clubs were mostly made up of working men. Rowing was second only to horse racing in popularity and even outdrew baseball [1]. In 1884 the club put up a clubhouse at Third and Berry streets, designed by Adolph C. Lutgens for $2,000. Boats were stored downstairs, and the ground floor doubled as a dance hall. A panorama of Channel Street from about 1885 shows its peaked roof among the lumber wharves [1][2]. Renamed the South End Rowing Club in 1891, it added handball, boxing and Ladies' Days. Industry kept pushing it out. A new boathouse at the foot of Sixteenth Street followed in 1903, and in 1908 it was floated by barge to Black Point Cove. Its descendant still swims at Aquatic Park [1][3].",
+    "people": [
+      {
+        "name": "Adolph C. Lutgens",
+        "role": "Architect of the 1884 clubhouse"
+      }
+    ],
+    "sources": [
+      {
+        "title": "South End Rowing Club Historic Resource Evaluation",
+        "publisher": "Carey & Co. for the National Park Service",
+        "year": 2012,
+        "url": "https://web.archive.org/web/20140224005817/http://www.oparch.net/ftp/serc/pdfs/hre/South%20End%20Rowing%20Club%20HRE%209-10-12.pdf",
+        "supports": "Founded 1873 at end of Third Street as city's third rowing club; 1880s crowds and betting; working-class members; 1884 clubhouse at Third and Berry by Lutgens for $2,000; 1891 rename; 1903 boathouse at foot of 16th Street; barged to Black Point Cove 1908"
+      },
+      {
+        "title": "Work on Land & Water, 1880-1920 (Vanished Waters, ch. 12)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Work_on_Land_%26_Water,_1880-1920",
+        "supports": "Peaked roof of the South End Boat Club in c.1885 Channel Street panorama, 'the focus of rowing on Mission Bay in the 1880s'"
+      },
+      {
+        "title": "South End Rowing Club (pointer only)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/South_End_Rowing_Club",
+        "supports": "Original boathouse near Mission Bay; club now at Aquatic Park"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-turner-tahiti",
+    "title": "The brigantine Tahiti's grim last voyage",
+    "theme": "labor-industry",
+    "year": 1881,
+    "place": {
+      "label": "Mission Creek channel near Seventh Street, head of the old shipyards",
+      "lat": 37.7716,
+      "lon": -122.3985,
+      "precision": "area"
+    },
+    "hook": "America's most prolific wooden shipbuilder launched a handsome South Seas trader here. Ten years later it was found floating upside down.",
+    "story": "Before he moved to Benicia, Matthew Turner built ships on Mission Creek. Turner, an Ohio-born sea captain, built more sailing vessels than any other American shipbuilder, over 270 in all [1]. A modern tally of his hulls lists dozens launched at \"Mission Creek, Channel Street\" between the mid-1870s and early 1880s. They included a San Francisco bar pilots' schooner, Alaska Commercial Company traders and fast brigantines for the Hawaiian sugar trade of Claus and John D. Spreckels [2][3]. On August 18, 1881, he launched the 290-ton half-brigantine Tahiti for Turner & Rundle, his trading partnership with Captain Richard Rundle [1][2]. The yard was cramped and the creek was busy, yet big, graceful ships slid off the ways at its head [3]. In 1891 the Tahiti fell into what Vanished Waters calls \"evil hands\": Captain W.H. Ferguson used her for \"blackbirding\", recruiting coffee-plantation labour by legal and illegal means. She was later found bottom-up near Manzanillo, \"with no sign of life, nor were any bodies seen floating around.\" Turner blamed the captain for failing to keep her water casks filled [3].",
+    "people": [
+      {
+        "name": "Matthew Turner",
+        "role": "Shipbuilder and sea captain"
+      },
+      {
+        "name": "W.H. Ferguson",
+        "role": "Captain who used the Tahiti for blackbirding"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Matthew Turner (shipbuilder) (pointer only)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Matthew_Turner_(shipbuilder)",
+        "supports": "Turner's background and total of over 270 vessels, citing Gibbs and the SF Call obituary"
+      },
+      {
+        "title": "List of vessels built by Matthew Turner",
+        "publisher": "Wikipedia (compiled from Gibbs and Karl Kortum shipbuilding records)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/List_of_vessels_built_by_Matthew_Turner",
+        "supports": "Tahiti, half-brigantine of 290 tons, launched Aug 18, 1881 for Turner & Rundle at Mission Creek, Channel Street; many other Mission Bay-built hulls including Spreckels brigantines"
+      },
+      {
+        "title": "Work on Land & Water, 1880-1920 (Vanished Waters, ch. 12)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Work_on_Land_%26_Water,_1880-1920",
+        "supports": "Turner built at the head of Mission Creek; John D. Spreckels brigantine 1880; Tahiti 1881 used for blackbirding by Capt. W.H. Ferguson in 1891, found bottom up near Manzanillo; Turner blamed the captain's water casks"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-arctic-oil-works",
+    "title": "Whale oil and corset stays at 16th Street",
+    "theme": "labor-industry",
+    "year": 1883,
+    "place": {
+      "label": "Arctic Oil Works, Illinois Street between 16th and 17th streets",
+      "lat": 37.7668,
+      "lon": -122.3876,
+      "precision": "block"
+    },
+    "hook": "Before petroleum, San Francisco's streets and machines ran on whales, and they were boiled down right here at the bay's edge.",
+    "story": "In 1883 the Arctic Oil Works opened on Illinois Street between 16th and 17th streets, at the edge of the bay. It refined oil from whales, seals and elephant seals. Before electricity, and before the petroleum industry took off in the 1890s, that oil lit streetlamps and lubricated factory machinery [1]. Steam schooners tied up at the works' T-shaped pier, with Mission Rock visible just offshore [1][2]. Nothing was wasted. An 1890 drawing shows baleen, the bristly plates from whales' jaws, drying in the yard along 16th Street. It would be cut into stays for corsets, collars and umbrellas, and into buggy whips [1][2]. The works also has an unexpected place in architectural history. Ernest L. Ransome, the pioneer of reinforced concrete, is credited with a building here in 1884, which an architecture guide called the first reinforced-concrete building of its kind in the United States [3].",
+    "people": [
+      {
+        "name": "Ernest L. Ransome",
+        "role": "Reinforced-concrete pioneer credited with an 1884 Arctic Oil Works building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Largest Whaling Port on the West Coast, 1880s",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=The_Largest_Whaling_Port_on_the_West_Coast,_1880s",
+        "supports": "Established 1883 on Illinois between 17th and 16th; oils from seals, whales, elephant seals; pre-electricity uses; T-shaped pier with Mission Rock; 1890 baleen drying for corset stays, collars, umbrellas, buggy whips"
+      },
+      {
+        "title": "16th Street at the Bay",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=16th_Street_at_the_Bay",
+        "supports": "Baleen drying in the Arctic Oil Works yard along 16th Street at the bay, 1890"
+      },
+      {
+        "title": "Ernest L. Ransome (pointer only)",
+        "publisher": "Wikipedia, citing Gebhard and Winter, A Guide to Architecture in San Francisco and Northern California (1985)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Ernest_L._Ransome",
+        "supports": "Arctic Oil Works, 1884, 'first reinforced concrete building (of its kind) in the United States'"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-steam-schooner-yards",
+    "title": "The steam schooners of Berry Street",
+    "theme": "labor-industry",
+    "year": 1888,
+    "place": {
+      "label": "Alexander Hay's shipyard, Fifth and Berry streets",
+      "lat": 37.7743,
+      "lon": -122.3949,
+      "precision": "block"
+    },
+    "hook": "Fifty-six caulkers and shipwrights paused on the hull of the Ajax for a rare photograph of shipbuilding on Mission Creek.",
+    "story": "In the late 1880s, amid the lumber schooners and hay scows crowding Channel Street, shipwrights built a new kind of vessel. Alexander Hay ran two yards on the creek, one at Fifth and Berry with its launching ways into the water and another between Sixth and Seventh streets, beside the yard of Boole and Beaton [1]. In 1887 and 1888 alone Hay turned out steam schooners with names like Alcazar, Navarro, Point Arena, Pasadena and Mendocino. A clipping from 1887 describes the Pasadena: 150 feet long, built of Oregon pine with eastern oak posts, able to carry 400,000 feet of lumber, cost $45,000 [1]. These steam-powered lumber carriers could keep to a contract schedule winter and summer. The twenty-three launched by Hay and Boole in those two years carried as much lumber as an armada of sailing ships [1]. In 1888, fifty-six men at Boole and Beaton's yard stopped work on the wooden collier Ajax to pose for one of the few photographs known of shipbuilding on the creek [1]. After 1900 the builders moved closer to the forests, and the yards vanished [1][2].",
+    "people": [
+      {
+        "name": "Alexander Hay",
+        "role": "Shipbuilder on Mission Creek"
+      },
+      {
+        "name": "Boole and Beaton",
+        "role": "Steam schooner builders on Channel Street"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Work on Land & Water, 1880-1920 (Vanished Waters, ch. 12)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Work_on_Land_%26_Water,_1880-1920",
+        "supports": "Hay's yards at Fifth and Berry and between Sixth and Seventh next to Boole and Beaton; 1887-88 steam schooners; Pasadena details from 1887 clipping; 23 vessels equal to an armada; 1888 Ajax photo of 56 men; builders moved away after 1900"
+      },
+      {
+        "title": "Walking on Water - A History of Mission Bay",
+        "publisher": "UC San Francisco News Center (after Nancy Olmsted)",
+        "year": 2007,
+        "url": "https://web.archive.org/web/2015/http://www.ucsf.edu/news/2007/11/7374/walking-water-history-mission-bay2",
+        "supports": "Channel Street boatbuilders Alexander Hay and Matthew Turner built steam schooners, square-riggers and yachts in the 1880s-90s"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-dumpville",
+    "title": "Dumpville, the village built on garbage",
+    "theme": "communities",
+    "year": 1889,
+    "yearEnd": 1895,
+    "place": {
+      "label": "South side of Channel Street between Sixth and Seventh streets",
+      "lat": 37.7708,
+      "lon": -122.3968,
+      "precision": "area"
+    },
+    "hook": "Three hundred garbage wagons a day rolled down Sixth Street, and a shantytown of scavengers lived off what they dumped.",
+    "story": "From around 1878 until 1895, San Francisco's city dump was the edge of Mission Bay itself. The Chronicle estimated in 1889 that at least 300 teams a day passed down Sixth Street to a dumping ground covering some twenty acres on the south side of Channel Street, between Sixth and Seventh. As fast as garbage filled the water, the new land was graded with clay and sand and leased or sold for building [1][2]. Around its edges grew \"Dumpville,\" a settlement of shanties made of wood and tin. Its residents sifted every load with pitchforks, shovels and sticks. The Chronicle wrote that rags, old bottles, scraps of iron, old sacks, bricks, oyster shells and even half-decayed fruit \"all were prized\" [1][3]. The police raided it from time to time. In 1895, after a bottle collector was murdered, reportedly for straying outside his assigned dump, officers burned the shanties and drove the scavengers out. The Call's headline read \"Dumpville Is No More\" [2][4]. The Army of Heaven Mission, which had been helping Dumpville's people, later opened a soup kitchen and free sleeping barn nearby on Mission Creek [1][2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Showplace Square Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://www.sanfranciscohistory.com/ShowplaceSquare.pdf",
+        "supports": "Dump c.1878-1895 covering 20 acres south of the channel; 1889 Chronicle: 300 teams a day down Sixth Street, reclaimed land graded and leased; shanties of wood and tin; Nov. 22, 1889 Chronicle description; 1895 eviction; Army of Heaven Mission soup kitchen and barn"
+      },
+      {
+        "title": "Walking on Water - A History of Mission Bay",
+        "publisher": "UC San Francisco News Center (after Nancy Olmsted)",
+        "year": 2007,
+        "url": "https://web.archive.org/web/2015/http://www.ucsf.edu/news/2007/11/7374/walking-water-history-mission-bay2",
+        "supports": "1895 police raid after a bottle collector was murdered for straying outside his assigned dump; shanties burned; Army of Heaven Mission soup kitchen and free sleeping space on Mission Creek by 1899"
+      },
+      {
+        "title": "Mission Bay Tidelands Controversy, 1868-1879 (Vanished Waters, ch. 11)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Bay_Tidelands_Controversy,_1868-1879",
+        "supports": "Dump between Sixth and Seventh south of Berry, 1878-1895, 300 wagons a day; the 'dump trust' sorting salvage; police raids burning shacks"
+      },
+      {
+        "title": "'Dumpville Is No More', San Francisco Call, 11 November 1895",
+        "publisher": "California Digital Newspaper Collection (archived page)",
+        "year": 1895,
+        "url": "http://web.archive.org/web/20251011184011/https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC18951111.2.106",
+        "supports": "Headline 'Dumpville Is No More', page 7, Nov. 11, 1895"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-channel-street-stench",
+    "title": "The busiest, smelliest creek on the waterfront",
+    "theme": "labor-industry",
+    "year": 1909,
+    "place": {
+      "label": "Mission Creek channel between Third and Fourth streets",
+      "lat": 37.7754,
+      "lon": -122.3936,
+      "precision": "area"
+    },
+    "hook": "Sailors said two gulps of Mission Creek would kill you. It turned white lead paint black overnight, and ships still came in droves.",
+    "story": "Fred Klebingat arrived on the south waterfront in 1909, a 20-year-old German seaman working as a donkeyman, running the steam winch on the schooner Annie E. Smale. He never forgot Mission Creek. \"It was an open sewer, a cesspool,\" he recalled. Great gas bubbles broke the surface, men said you would not last two minutes if you fell in, and the water \"would turn white lead paint black in one night\" [1][2]. It was also, in his words, \"the busiest place on the San Francisco waterfront.\" Steam schooners, sailing vessels and hay scows lined both banks, from Pope & Talbot's lumber yard to the hay wharf opposite, leaving barely room to tow a ship down the middle. Sailors had their own blunt name for it [1]. Scow schooners brought hay from as far as Sacramento and Milpitas to feed the city's horses. They were tied three abreast and tacked out through the crush. Once a runaway scow's bowsprit came straight through Klebingat's porthole and backed out again [1]. Idle seamen haunted the wharves hoping for a berth. As Klebingat put it, it was \"not what you knew, but WHO you knew\" [1].",
+    "people": [
+      {
+        "name": "Fred Klebingat",
+        "role": "German-born seaman and later captain whose memoirs describe Channel Street"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Work on Land & Water, 1880-1920 (Vanished Waters, ch. 12)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Work_on_Land_%26_Water,_1880-1920",
+        "supports": "Klebingat's recollections of 1909: open sewer, gas bubbles, two minutes, white lead paint, busiest place on waterfront, Pope & Talbot and hay wharf, the creek's nickname, hay from Sacramento and Milpitas, bowsprit through porthole on the Annie E. Smale, 'WHO you knew'; born Kiel 1889"
+      },
+      {
+        "title": "Walking on Water - A History of Mission Bay",
+        "publisher": "UC San Francisco News Center (after Nancy Olmsted)",
+        "year": 2007,
+        "url": "https://web.archive.org/web/2015/http://www.ucsf.edu/news/2007/11/7374/walking-water-history-mission-bay2",
+        "supports": "Klebingat arrived 1909 aged 20 and stayed; quotes on the open sewer and busiest place on the waterfront"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-1906-lumber-rush",
+    "title": "Three billion feet of lumber",
+    "theme": "quake1906",
+    "year": 1906,
+    "place": {
+      "label": "E.K. Wood lumber yard, south bank of Mission Creek near Third Street",
+      "lat": 37.7747,
+      "lon": -122.3901,
+      "precision": "area"
+    },
+    "hook": "After the fire, teamsters waited for hours on Channel Street for lumber, and a young clerk sat on a lumber pile writing home about it.",
+    "story": "The fire of April 1906 stopped a few blocks short of the south waterfront, and the lumber yards on Mission Creek suddenly became the most important places in town [1]. William Kortum, a young man from Calistoga, was clerking at the E.K. Wood lumber yard on Channel Street. In a letter he described sitting on a high lumber pile in the midday sun, looking down on \"the busiest place south of the channel, except for the Union Iron Works.\" Dozens of teamsters waited impatiently for one o'clock to load up. Some horse teams had already stood there for hours [1]. \"On one morning we sell more lumber than in a week before the fire,\" he wrote. Payment was \"a matter of lottery,\" but dealers reckoned three billion feet would be needed to rebuild the city [1]. Kortum planned to ask for a raise. The disaster also finished off the bay itself. Temporary rail lines brought rubble down to the last waters of Mission Bay, and the Southern Pacific loaded debris at its Mission Bay yard. By 1910 the bay was gone except for the channel [2][3].",
+    "people": [
+      {
+        "name": "William Kortum",
+        "role": "Lumber-yard clerk whose 1906 letter describes the rebuilding rush"
+      }
+    ],
+    "sources": [
+      {
+        "title": "1906 Earthquake Hits Mission Creek and Butchertown (Vanished Waters, ch. 14)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=1906_Earthquake_Hits_Mission_Creek_and_Butchertown",
+        "supports": "South Beach escaped the fire; Kortum from Calistoga at E.K. Wood yard on Channel Street; quotes on busiest place, teamsters, sales, lottery, three billion feet; plan to demand more pay"
+      },
+      {
+        "title": "Filling The Bay Along San Francisco's Southern Waterfront",
+        "publisher": "FoundSF (David D. Schmidt)",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Filling_The_Bay_Along_San_Francisco%E2%80%99s_Southern_Waterfront",
+        "supports": "Temporary rail lines brought 1906 rubble to the remaining waters of Mission Bay; by 1910 Mission Bay was gone except the channel"
+      },
+      {
+        "title": "San Francisco's Garbage: From Mission Bay to Altamont",
+        "publisher": "FoundSF (David D. Schmidt, from San Francisco Bay Area: An Environmental History)",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco's_Garbage:_From_Mission_Bay_to_Altamont",
+        "supports": "Southern Pacific loaded 1906 demolition waste onto rail cars at its Mission Bay yard; Mission Bay filled completely by 1910"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-wholesale-colony-1906",
+    "title": "Warehouses for a burned-out city",
+    "theme": "quake1906",
+    "year": 1906,
+    "place": {
+      "label": "101 Henry Adams Street (formerly Kansas Street)",
+      "lat": 37.76811,
+      "lon": -122.40352,
+      "precision": "building"
+    },
+    "hook": "Two weeks after the fire, the railroads offered cheap land and instant steel sheds here to merchants who had lost everything downtown.",
+    "story": "The 1906 fire destroyed San Francisco's wholesale district, and the railroads, the biggest landowners in this half-empty former marshland, moved quickly. On May 3, 1906, the Board of Trade's secretary, Martin Triest, announced that the Southern Pacific, Santa Fe and Western Pacific had all set aside land for displaced businesses [1]. The Western Pacific offered a tract bounded by Division, Kansas and 16th streets and San Bruno Avenue. For an extra five cents a square foot, the railroads would even put up temporary corrugated-steel buildings for tenants [1]. Speculators built too. On the block bounded by Alameda, Rhode Island, 15th and Kansas streets, the San Francisco Development Company raised three near-identical brick warehouses in 1906, designed by Meyers & Ward. They are known by the names of their occupants: the Bernhard Mattress Company/John Hoey, Pacific Implement and General Electric warehouses. All three, including this one at 101 Henry Adams, were still standing in 2009 [1]. The area was already being called the \"New Wholesale District,\" and after 1906 much of the old waterfront warehouse trade moved south to be near Mission Bay's rail network [1][2]. Decades later, design showrooms gave the area its modern name, Showplace Square [1].",
+    "people": [
+      {
+        "name": "Martin Triest",
+        "role": "San Francisco Board of Trade secretary who announced the railroads' offer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Showplace Square Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://www.sanfranciscohistory.com/ShowplaceSquare.pdf",
+        "supports": "May 3, 1906 Triest announcement; Western Pacific tract; 5 cents per square foot for temporary steel buildings; San Francisco Development Co. warehouses by Meyers & Ward, 1906, at 101 and 131 Henry Adams and 398 15th; tenants; 'New Wholesale District'; origin of the name Showplace Square"
+      },
+      {
+        "title": "The Railroads Are Coming 1860-1873 (Vanished Waters, ch. 10)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=The_Railroads_Are_Coming_1860-1873",
+        "supports": "North waterfront warehouse district largely relocated after 1906 to the south near Mission Bay's rail network"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  }
+]

@@ -1,0 +1,601 @@
+[
+ {
+  "id": "twin-peaks-rancho-san-miguel",
+  "title": "The breasts of the maiden, and a rancho",
+  "theme": "indigenous-early",
+  "year": 1845,
+  "yearEnd": 1852,
+  "place": {
+   "label": "South Twin Peak (Noe Peak), Twin Peaks summit",
+   "lat": 37.75159,
+   "lon": -122.44772,
+   "precision": "area"
+  },
+  "hook": "Before they were 'Twin Peaks', Spanish maps gave these hills a blunter name, and a Mexican alcalde claimed them as the tip of a 4,400-acre ranch.",
+  "story": "Twin Peaks served for centuries as an Ohlone lookout, local historian Devin Smith writes [3]. The Spanish who fortified the Presidio in 1776 were less poetic. Their maps named the hills \"Los Pechos de la Choca\", the breasts of the Indian maiden. Other writers spell it \"Chola\" [2]. Much later, writers retold a supposed Native legend in which a quarrelling husband and wife were split apart by a bolt of lightning. The Chronicle's gardening columnist passed it on in 2004 as something told by \"chroniclers of Indian legend\", and nobody can confirm it [2].\n\nThe paper trail starts with José de Jesús Noé, a Mexican official who served as alcalde of Yerba Buena. He petitioned Governor Pío Pico for Rancho San Miguel in 1845. Historian Mae Silver says the grant came through in 1846, while other accounts date it to 1845 [1][4]. The ranch covered one Spanish league, about 4,444 acres or a sixth of today's San Francisco. Its northern boundary cut across Mount Sutro, and the grassy peaks sat near its top [1]. Noé sold the land in 1852 but still had to prove his claim to the Americans. His United States patent finally came in 1857, five years after he had sold the ranch [1].",
+  "people": [
+   {
+    "name": "José de Jesús Noé",
+    "role": "alcalde and grantee of Rancho San Miguel"
+   },
+   {
+    "name": "Pío Pico",
+    "role": "Mexican governor who received the petition"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Rancho Era",
+    "publisher": "FoundSF (Mae Silver)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Rancho_Era",
+    "supports": "1845 petition, 1846 grant, size and boundaries, 1852 sale, 1857 patent"
+   },
+   {
+    "title": "Treasures in the curves and swells of Twin Peaks",
+    "publisher": "San Francisco Chronicle (Geoffrey Coffey)",
+    "year": 2004,
+    "url": "https://web.archive.org/web/20081229183212/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/03/27/HOGVN5R3OF1.DTL",
+    "supports": "'Los Pechos de la Choca' name; lightning legend attributed to chroniclers"
+   },
+   {
+    "title": "Twin Peaks Falls: Battle of Vista Francisco",
+    "publisher": "FoundSF (Devin Smith)",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Twin_Peaks_Falls:_Battle_of_Vista_Francisco",
+    "supports": "Ohlone lookout; Twin Peaks at the northern tip of Rancho San Miguel"
+   },
+   {
+    "title": "Rancho San Miguel (Noe)",
+    "publisher": "Wikipedia (pointer to sources)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Rancho_San_Miguel_(Noe)",
+    "supports": "grant dated 1845 by Pío Pico; 1852 claim, 1857 patent"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-corbett-toll-road",
+  "title": "Pay the toll, then on to the races",
+  "theme": "gold-rush-victorian",
+  "year": 1872,
+  "yearEnd": 1914,
+  "place": {
+   "label": "Near where Market Street, Corbett Avenue and Portola Drive meet",
+   "lat": 37.7505,
+   "lon": -122.4441,
+   "precision": "area"
+  },
+  "hook": "Portola Drive began life as a private macadam toll road carrying gamblers over the shoulder of Twin Peaks to the Ocean Avenue racetracks.",
+  "story": "Long before Portola Drive became a busy boulevard, the route around the southern flank of Twin Peaks was a private business. On an 1872 map it is the \"Mission and Ocean Beach Macadamized Road\", owned by an attorney named William Fitch. Fitch made it a toll road [1]. His toll gate stood near the junction of what are now Market Street, Grandview Avenue and Corbett Avenue. From there the road ran on to the Ingleside and Ocean House racetracks on Ocean Avenue, which gave it what Mae Silver calls a \"racy past\" [1].\n\nThe land around it passed to Adolph Sutro, who bought up much of old Rancho San Miguel. Around the turn of the century the road took the name Corbett Road [1]. Farmers hauled milk and vegetables along it, and lumber came down from Sutro's forest [1]. A city photograph from May 10, 1910, labels it \"Corbett Road (now Portola Drive)\" near Twin Peaks Boulevard [2]. In 1912 the Residential Development Company, which had taken over Sutro's land, deeded the road to the city. A 1914 ordinance created Portola Drive [1]. In 1929 the road was widened east from Twin Peaks Boulevard, making it easy to drive to the new homes going up west of the Peaks [3].",
+  "people": [
+   {
+    "name": "William Fitch",
+    "role": "attorney who owned and tolled the road"
+   },
+   {
+    "name": "Adolph Sutro",
+    "role": "later owner of the surrounding rancho land"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Corbett Road",
+    "publisher": "FoundSF (Mae Silver)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Corbett_Road",
+    "supports": "1872 macadamized road, Fitch, toll gate location, racetracks, renaming, 1912 deed, 1914 ordinance, farm and lumber traffic"
+   },
+   {
+    "title": "Portola Drive Mid-20th Century",
+    "publisher": "FoundSF (SFPL photo captions)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Portola_Drive_Mid-20th_Century",
+    "supports": "May 10, 1910 photo of 'Corbett Road (now Portola Drive)'"
+   },
+   {
+    "title": "Women's Suffrage, Temperance Movement, and Prohibition – Daring to Dream",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Women%E2%80%99s_Suffrage,_Temperance_Movement,_and_Prohibition_%E2%80%93_Daring_to_Dream",
+    "supports": "1929 improvement of Portola Drive east from Twin Peaks Boulevard"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-almshouse-road",
+  "title": "A country road hidden inside the city",
+  "theme": "gold-rush-victorian",
+  "year": 1896,
+  "place": {
+   "label": "Clarendon Avenue, the old Almshouse Road, between Mount Sutro and the Sutro Tower hill",
+   "lat": 37.75821,
+   "lon": -122.45191,
+   "precision": "street"
+  },
+  "hook": "In 1896 a newspaper writer walked today's Clarendon Avenue and swore he might as well be in the Sierra.",
+  "story": "On Sunday, November 8, 1896, the San Francisco Call printed an unsigned piece that dared readers to name another big city with \"a country road within its limits\" [1]. The writer set off where Stanyan Street turned to dirt and followed the Almshouse Road. It was named for the city's poorhouse, where Laguna Honda Hospital stands today [1][2]. Past a cut in the hill the pavement gave out. He wrote that he dropped \"into a canyon\" where \"all sight of the big City is lost ... one might as well be in the depths of the Sierras.\" He heard a brook tumbling over rocks, the woodsman's axe, roosters and cows. Near the almshouse, elderly inmates sat on logs in the sun, dressed in clothes \"out of fashion over half a century\" [1].\n\nIn July 2011, Western Neighborhoods Project writer Rex Bell retraced the walk with the article in hand. He worked out that the canyon road is now Clarendon Avenue, running between Mount Sutro and the hill where Sutro Tower stands [1]. The creek still runs, just underground [1]. The almshouse opened in the 1860s. It housed the poor, sick and disabled on 87 acres, and its residents grew their own food and kept dairy cows [2].",
+  "people": [
+   {
+    "name": "Rex Bell",
+    "role": "historian who retraced the walk in 2011"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Almshouse Road (A Walk Along the Almshouse Road)",
+    "publisher": "FoundSF / Western Neighborhoods Project (Rex Bell), quoting San Francisco Call, Nov 8, 1896",
+    "year": 2011,
+    "url": "https://www.foundsf.org/index.php?title=Almshouse_Road",
+    "supports": "Call article date and quotations, route identification, 2011 retracing, underground creek"
+   },
+   {
+    "title": "Laguna Honda Hospital",
+    "publisher": "Wikipedia (pointer, citing SFist and SF.gov)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Laguna_Honda_Hospital",
+    "supports": "almshouse founded 1866–67, 87 acres, self-sufficient with dairy cows"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-burnham-bungalow",
+  "title": "Burnham's hilltop drawing office",
+  "theme": "gold-rush-victorian",
+  "year": 1904,
+  "yearEnd": 1905,
+  "place": {
+   "label": "A spur of Twin Peaks (exact site unknown)",
+   "lat": 37.7545,
+   "lon": -122.4478,
+   "precision": "area"
+  },
+  "hook": "To redesign San Francisco, America's star planner asked for one thing: a cabin on Twin Peaks with the whole city at his feet.",
+  "story": "In 1904 the Association for the Improvement and Adornment of San Francisco, a group of civic boosters, invited Daniel Burnham to plan the city's future. Burnham had already planned Washington, Cleveland, Chicago and Manila. He agreed to work unpaid, and the association covered expenses and his staff's salaries [1]. He made one request, a bungalow \"on a spur of Twin Peaks\", and Willis Polk designed it. There, at a spot \"selected to command the panorama of the city and to permit uninterrupted study,\" work began on September 20, 1904 [1][2]. His assistant was Edward H. Bennett [1].\n\nThe plan that came out of the cabin in September 1905 was huge. Historian Robert Cherny notes that it assumed two million future residents and set aside a third of the city as parks. New diagonal avenues and circles were borrowed from L'Enfant's Washington and from Paris. Burnham devoted less than two pages to the economy and said little about housing [3]. It even included a grand staircase from the Castro to the summit [3]. Seven months after the report came out, the 1906 earthquake and fire struck. Most of the plan was buried as the city rushed to rebuild [4].",
+  "people": [
+   {
+    "name": "Daniel H. Burnham",
+    "role": "planner"
+   },
+   {
+    "name": "Willis Polk",
+    "role": "architect of the bungalow"
+   },
+   {
+    "name": "Edward H. Bennett",
+    "role": "Burnham's assistant"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Report on a Plan for San Francisco",
+    "publisher": "Daniel H. Burnham, assisted by Edward H. Bennett (City of San Francisco), via Internet Archive",
+    "year": 1905,
+    "url": "https://archive.org/details/reportonaplanfo00frangoog",
+    "supports": "unpaid commission, bungalow on a spur of Twin Peaks by Willis Polk, work begun Sept 20, 1904"
+   },
+   {
+    "title": "Corbett Road",
+    "publisher": "FoundSF (Mae Silver)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Corbett_Road",
+    "supports": "Polk designed Burnham's bungalow on a spur of the Peaks"
+   },
+   {
+    "title": "Burnham Plan 1905",
+    "publisher": "FoundSF (Robert Cherny, California History, 1994)",
+    "year": 1994,
+    "url": "https://www.foundsf.org/index.php?title=Burnham_Plan_1905",
+    "supports": "two million residents, one-third parks, borrowed patterns, little on housing/economy, staircase to Twin Peaks"
+   },
+   {
+    "title": "Twin Peaks",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Twin_Peaks",
+    "supports": "Burnham Plan buried by the 1906 earthquake"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-burnham-athenaeum",
+  "title": "A Parthenon planned between the peaks",
+  "theme": "architecture-landmarks",
+  "year": 1905,
+  "place": {
+   "label": "Western slope below the peaks, near Marview Way (proposed Athenaeum site)",
+   "lat": 37.75426,
+   "lon": -122.44976,
+   "precision": "area"
+  },
+  "hook": "Burnham wanted a marble Athenaeum, an artists' colony, a stadium like Delphi's and a colossal statue of 'San Francisco' on these slopes.",
+  "story": "Burnham's 1905 report gave Twin Peaks a starring role. It proposed that the city buy the peaks, and the land out to Lake Merced, for a park [1]. High on the western side he placed an \"Athenaeum\" of courts, terraces and colonnades, modelled on the sun-trapping walls of Hadrian's Villa and meant to hold \"some few of the greatest works of art\" [1]. Burnham called the spot \"the moral and geographical center of the city.\" At its centre would stand \"a colossal figure symbolical of San Francisco\", looking down a glade towards the Laguna de la Merced [1]. Local historian Devin Smith describes the statue in the report's rendering as a 300-foot woman raising a torch towards the Pacific [2].\n\nThe report asked for more. It sketched an academy on the southeast slope where writers, scientists and artists could live and work, with a little Greek open-air theatre [1]. It proposed a maternity home in \"surroundings of the most ideal character\", and an enormous stadium in the hollow to the north, compared to the one at Delphi [1]. By night, lights would trace the forest glades from hill to hill [1]. None of it was built. The slopes filled instead with 1950s houses and 1960s apartments [2].",
+  "people": [
+   {
+    "name": "Daniel H. Burnham",
+    "role": "planner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Report on a Plan for San Francisco",
+    "publisher": "Daniel H. Burnham (City of San Francisco), via Internet Archive",
+    "year": 1905,
+    "url": "https://archive.org/details/reportonaplanfo00frangoog",
+    "supports": "Twin Peaks park, Athenaeum description and quotes, colossal figure, academy, maternity, amphitheatre, illuminations"
+   },
+   {
+    "title": "Twin Peaks Falls: Battle of Vista Francisco",
+    "publisher": "FoundSF (Devin Smith)",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Twin_Peaks_Falls:_Battle_of_Vista_Francisco",
+    "supports": "300-foot statue 'San Francisco' in the rendering; later development of the slopes"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-reservoir-awss",
+  "title": "The reservoir built because the city burned",
+  "theme": "quake1906",
+  "year": 1909,
+  "yearEnd": 1913,
+  "place": {
+   "label": "Twin Peaks Reservoir ('Summit Reservoir'), off Twin Peaks Boulevard",
+   "lat": 37.75625,
+   "lon": -122.44854,
+   "precision": "building"
+  },
+  "hook": "Near the top of Twin Peaks, 10.5 million gallons of water are kept only for fighting fires. It was the city's answer to 1906.",
+  "story": "The 1906 earthquake broke the city's water mains, and San Franciscans blamed the failed water system for the destruction. Insurance rates soared, and in some areas coverage could not be had at any price [1]. Fire Department chief engineer Dennis T. Sullivan had proposed a separate firefighting water system back in 1903. In 1908 City Engineer Marsden Manson studied 250 cities around the world to design one [1]. Construction ran from 1909 to 1913 [1].\n\nThe Twin Peaks Reservoir is the backbone of what is now called the Emergency Firefighting Water System. It holds 10.5 million gallons in a tank built of six-inch reinforced-concrete slabs, set at 758 feet [1]. The tank is split in two, so a broken pipe can drain only half of it. The white fire hydrants with black tops, west of Twin Peaks, draw on it [1]. In a big fire downtown, commanders can bring the reservoir online by radio, which raises the pressure in the mains to 328 pounds per square inch [1]. A city photograph captioned \"Twin Peaks Reservoir. General view of work\" records its construction [1].",
+  "people": [
+   {
+    "name": "Dennis T. Sullivan",
+    "role": "fire chief who proposed the system in 1903"
+   },
+   {
+    "name": "Marsden Manson",
+    "role": "city engineer who led the 1908 study"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A Look Back at History: Twin Peaks Reservoir and the City's Emergency Water System",
+    "publisher": "San Francisco Public Utilities Commission (Leslie Fisher), archived",
+    "year": 2019,
+    "url": "https://web.archive.org/web/2022/https://sfpucnewsroom.com/water/a-look-back-at-history-twin-peaks-reservoir-and-the-citys-emergency-water-system/",
+    "supports": "all reservoir figures, 1903 proposal, 1908 study, 1909–1913 construction, hydrant colours, pressures"
+   },
+   {
+    "title": "Twin Peaks (San Francisco)",
+    "publisher": "Wikipedia (pointer, citing SFPUC)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco)",
+    "supports": "reservoir north of the peaks feeds the post-1906 fire system"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-kgo-sutro-mansion",
+  "title": "Television's first home was a mansion",
+  "theme": "modern-city",
+  "year": 1949,
+  "place": {
+   "label": "Site of the Sutro mansion (La Avanzada), now the Sutro Tower grounds",
+   "lat": 37.75523,
+   "lon": -122.45284,
+   "precision": "area"
+  },
+  "hook": "Before the tripod, a Sutro grandson's hilltop mansion was where ABC first broadcast television to the Bay Area.",
+  "story": "In the 1930s, Adolph G. Sutro, a grandson of the former mayor, built a mansion on the family's hilltop land. It was known as La Avanzada [1][2]. In 1948 he sold it to the American Broadcasting Company, which wanted the height for a transmitter [1]. KGO-TV went on the air on May 5, 1949. It made its programmes inside the mansion and broadcast them from a 508-foot tower beside it [1][3].\n\nKGO was the Bay Area's second television station. KPIX had signed on five months earlier and helped its new rival by airing programmes explaining how to tune in channel 7 [3]. Soon KPIX and another station were sending their signals from the same hill. The stations later moved to real studios but kept their transmitters here [1]. In the mid-1960s viewers complained about poor reception, and the broadcasters planned a much taller tower. As part of the final deal with the city, the old tower and the Sutro mansion were torn down [1].",
+  "people": [
+   {
+    "name": "Adolph G. Sutro",
+    "role": "grandson of Mayor Adolph Sutro; built the mansion"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Tower History",
+    "publisher": "Sutro Tower, Inc. (archived)",
+    "year": 2024,
+    "url": "https://web.archive.org/web/20240721232321/https://www.sutrotower.com/tower-history",
+    "supports": "1930s mansion, 1948 sale to ABC, May 5, 1949 premiere, 508-foot tower, other stations, mansion removed"
+   },
+   {
+    "title": "Sutro Tower",
+    "publisher": "Wikipedia (pointer)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Sutro_Tower",
+    "supports": "name La Avanzada"
+   },
+   {
+    "title": "KGO-TV",
+    "publisher": "Wikipedia (pointer)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/KGO-TV",
+    "supports": "second Bay Area station; KPIX five months earlier aired how-to-receive programming; studios in Sutro Mansion"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-midtown-terrace",
+  "title": "Suburbia poured onto a mountainside",
+  "theme": "communities",
+  "year": 1953,
+  "yearEnd": 1960,
+  "place": {
+   "label": "Midcrest Way, the first street of Midtown Terrace",
+   "lat": 37.74852,
+   "lon": -122.44878,
+   "precision": "street"
+  },
+  "hook": "Bulldozers moved 600,000 cubic yards of Twin Peaks to fit in 800 postwar homes. Every one was built to face the view.",
+  "story": "In December 1932 dairy cows still grazed in the snow on what is now Panorama Drive [1]. Twenty years later this land, about 150 acres on the western slopes of Twin Peaks, was the biggest privately owned tract left in San Francisco. In 1953 Carl and Fred Gellert's Standard Building Company began building Midtown Terrace there [1]. Midcrest Drive, the first street, was taking shape on April 13, 1953 [1]. By March 1954 graders had moved some 600,000 cubic yards of earth to carve the hillside into seven terraces. Houses went mostly on the downhill side of each street, \"to cash in on the view\" [1]. Carl Gellert promised prices of $13,000 to $16,000 [1].\n\nBy February 1959, 900 of 1,000 planned homes were finished, selling for up to $29,500. Mrs. Theodore Jewell's homeowners' association had persuaded the city to lend it planner Ruth Jaffe to design greenbelts between the terraces [1]. The neighbourhood still has no shops, just houses, a school, a fire station and a church [1]. Children and teenagers make up more than twice the city's average share of residents [2].",
+  "people": [
+   {
+    "name": "Carl Gellert",
+    "role": "president, Standard Building Company"
+   },
+   {
+    "name": "Fred Gellert",
+    "role": "co-owner, Standard Building Company"
+   },
+   {
+    "name": "Ruth Jaffe",
+    "role": "city planner and landscape architect"
+   },
+   {
+    "name": "Mrs. Theodore Jewell",
+    "role": "homeowners' association president, 1959"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Brief History of Midtown Terrace",
+    "publisher": "FoundSF / Western Neighborhoods Project (Rex Bell), quoting San Francisco News, 1954 and 1959",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Midtown_Terrace",
+    "supports": "acreage, 1953 start, Midcrest photo date, grading, terraces, prices, 1959 status, Jewell and Jaffe, 1932 cows photo, no shops"
+   },
+   {
+    "title": "Twin Peaks Falls: Battle of Vista Francisco",
+    "publisher": "FoundSF (Devin Smith)",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Twin_Peaks_Falls:_Battle_of_Vista_Francisco",
+    "supports": "built 1953–1960; share of children more than double city average"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-vista-francisco",
+  "title": "The fight over Twin Peaks' eastern slope",
+  "theme": "civil-rights",
+  "year": 1959,
+  "yearEnd": 1962,
+  "place": {
+   "label": "Vista Francisco apartments, Gardenside Drive",
+   "lat": 37.7525,
+   "lon": -122.44512,
+   "precision": "block"
+  },
+  "hook": "A late-night rezoning, campaign cash and a builder who boasted he'd never sold to a Black buyer. How the Peaks' east face became apartments.",
+  "story": "On October 19, 1959, San Francisco's supervisors were approving a new zoning map for the whole city. They added last-minute amendments, and one of them rezoned about 21 acres of the Gellert brothers' land on the east face of Twin Peaks for apartments. It passed 6-4 [1]. Two days later the News-Call Bulletin reported that the Gellerts' Standard Building Company had given campaign money to five of the six \"yes\" voters [1]. Supervisor Charles Ertola admitted taking \"maybe $200\" and insisted it hadn't swayed him [1].\n\nJack Morrison, soon a supervisor himself, called the project \"the rape of Twin Peaks.\" He proposed that the city buy the land back for a park [1]. The parks department balked at the $6 million price. At the hearing, Carl Gellert said \"Some day, these people will thank me\" over a chorus of boos [1]. The Catholic Interracial Council sent the Board a letter quoting Gellert: \"I have never sold a house to a Negro ... I don't think there will be any change in this policy\" [1]. On December 17, 1962, the Board approved the subdivision 8-3 [1]. Today about 4,000 people live in the Vista Francisco apartments [1]. The same company had built Midtown Terrace on the other side of the hill [2].",
+  "people": [
+   {
+    "name": "Carl Gellert",
+    "role": "Standard Building Company"
+   },
+   {
+    "name": "Jack Morrison",
+    "role": "supervisor and preservationist"
+   },
+   {
+    "name": "Charles A. Ertola",
+    "role": "supervisor"
+   },
+   {
+    "name": "James Carey",
+    "role": "president, Catholic Interracial Council"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Twin Peaks Falls: Battle of Vista Francisco",
+    "publisher": "FoundSF (Devin Smith), citing Board of Supervisors file 428-62, SF News-Call Bulletin and SF Chronicle",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Twin_Peaks_Falls:_Battle_of_Vista_Francisco",
+    "supports": "all dates, votes, quotations, price, letter, 4,000 residents"
+   },
+   {
+    "title": "Brief History of Midtown Terrace",
+    "publisher": "FoundSF / Western Neighborhoods Project (Rex Bell)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Brief_History_of_Midtown_Terrace",
+    "supports": "Standard Building Company (Gellerts) built Midtown Terrace"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-sutro-tower",
+  "title": "The tripod the city loved to hate",
+  "theme": "architecture-landmarks",
+  "year": 1973,
+  "place": {
+   "label": "Sutro Tower, Clarendon Heights",
+   "lat": 37.75523,
+   "lon": -122.45284,
+   "precision": "building"
+  },
+  "hook": "Herb Caen feared it would 'stalk down the hill and attack the Golden Gate Bridge.' Instead it became the city's unofficial mascot.",
+  "story": "San Francisco's hills scattered TV signals and left reception patchy. In the 1960s the big stations wanted one tall tower for the whole Bay Area [1][2]. They considered San Bruno Mountain but judged it too close to the airport. They picked the old Sutro mansion site instead [1]. The project was approved in 1967, and few people noticed until it began to rise [2]. After years of hearings and lawsuits, construction of the $4 million tower started in 1971. It was designed by Albert C. Martin & Associates and put up by Kline Towers of South Carolina [1]. It stands 977 feet tall. Its three legs sit in 15 million pounds of cement and hold up 3.5 million pounds of steel [1]. The first stations went on the air on July 4, 1973 [1].\n\nThe reviews were brutal. Planning Director Allan Jacobs called it \"pretty terrible, aesthetically, environmentally and from about every standpoint.\" Supervisor Dianne Feinstein called it \"undoubtedly one of the worst structures, visually\" she had seen. Herb Caen feared it would \"stalk down the hill and attack the Golden Gate Bridge\" [2][3]. Decades later the tower is widely accepted as a Bay Area icon and appears in local logos [3].",
+  "people": [
+   {
+    "name": "Herb Caen",
+    "role": "Chronicle columnist"
+   },
+   {
+    "name": "Allan Jacobs",
+    "role": "city planning director"
+   },
+   {
+    "name": "Dianne Feinstein",
+    "role": "supervisor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Tower History",
+    "publisher": "Sutro Tower, Inc. (archived)",
+    "year": 2024,
+    "url": "https://web.archive.org/web/20240721232321/https://www.sutrotower.com/tower-history",
+    "supports": "San Bruno alternative, 1971 start, $4 million, designer, builder, 977 ft, materials, July 4, 1973"
+   },
+   {
+    "title": "Sutro Tower",
+    "publisher": "FoundSF (Art Peterson, from 'Why Is That Bridge Orange?', 2013)",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=Sutro_Tower",
+    "supports": "1967 approval, Jacobs, Feinstein and Caen quotes"
+   },
+   {
+    "title": "Sutro Tower",
+    "publisher": "Wikipedia (pointer)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Sutro_Tower",
+    "supports": "Caen quote; later icon status and logos"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-mission-blue",
+  "title": "A butterfly clinging to the summit",
+  "theme": "parks-nature",
+  "year": 1976,
+  "place": {
+   "label": "Grassy slope inside the hairpin south of South Twin Peak",
+   "lat": 37.75,
+   "lon": -122.4482,
+   "precision": "area"
+  },
+  "hook": "On the slope below the south peak, a thumbnail-sized blue butterfly survives in one of only a handful of places on Earth.",
+  "story": "The Mission blue butterfly was listed as federally endangered in 1976. It survives in only a few places around the Bay, and Twin Peaks is one of them [1]. Its caterpillars eat nothing but lupine. They feed, sleep through winter in the roots, and emerge as adults in April and May to sip nectar from coast buckwheat [2]. Sources disagree about where the first specimens came from. The Chronicle's 2004 garden column calls Twin Peaks the \"type locality\", the place where the species was first collected. Wikipedia says it was first collected in the Mission District in 1937 [1][2]. The strongest patch of its food plants grows on the grassy hill inside the road's hairpin turn south of the south peak [2].\n\nThe summit nearly lost them. By around 1980 cars, hikers and off-road motorbikes had torn up the hill, and weeds were moving in [2]. In the late 1980s the city hired the San Francisco Conservation Corps. The crews built footpaths with railroad-tie steps and set massive timber barriers at the trailheads to keep motorbikes out [2]. Volunteers filled in the ruts, pulled out broom and ice plant, and replanted lupine and bunchgrass [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Mission blue butterfly",
+    "publisher": "Wikipedia (pointer, citing US Fish & Wildlife Service)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_blue_butterfly",
+    "supports": "1976 listing, Twin Peaks habitat, first collected Mission District 1937"
+   },
+   {
+    "title": "Treasures in the curves and swells of Twin Peaks",
+    "publisher": "San Francisco Chronicle (Geoffrey Coffey)",
+    "year": 2004,
+    "url": "https://web.archive.org/web/20081229183212/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/03/27/HOGVN5R3OF1.DTL",
+    "supports": "type locality claim, lupine life cycle, hairpin habitat, damage and late-1980s Conservation Corps restoration"
+   },
+   {
+    "title": "Twin Peaks Figure 8 Redesign Project",
+    "publisher": "SFMTA",
+    "year": 2020,
+    "url": "https://www.sfmta.com/projects/twin-peaks-figure-8-redesign-project",
+    "supports": "Twin Peaks home to the endangered Mission blue; Mission Blue Butterfly Trail"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-pink-triangle",
+  "title": "An acre of pink, raised in the dark",
+  "theme": "lgbtq",
+  "year": 1995,
+  "place": {
+   "label": "East face of Twin Peaks below Christmas Tree Point, facing the Castro",
+   "lat": 37.754833,
+   "lon": -122.446167,
+   "precision": "area"
+  },
+  "hook": "In 1995 a few friends crept up Twin Peaks at night to pin a Nazi-era symbol to the hillside, and turned it into a Pride tradition.",
+  "story": "In 1995 architect Patrick Carney and some friends wanted to add colour to Pride weekend. \"There's a big blank canvas on Twin Peaks,\" he remembered thinking [1]. A friend suggested a rainbow flag, but the city already had plenty. Carney chose the pink triangle instead, because many people did not know where it came from [1][2]. In Nazi concentration camps, prisoners labelled homosexual had to wear a pink triangle badge [1][3]. \"We put it up in the dark of night, just to have it appear, sort of anonymously,\" Carney said. \"We didn't expect it to continue\" [1]. That first installation went up without city permission [2].\n\nIt continued. The triangle grew several times over the years and now covers about an acre, facing the Castro and downtown [2]. For the 30th display in 2025, volunteers staked out borders of pink sailcloth 240 feet long. The next morning around 800 people filled the outline with 175 pink tarps [1]. In 2020, during the pandemic, it was built from pink LED lights instead [3]. Carney calls the pink triangle and the rainbow flag \"the Yin and Yang of the gay rights movement\" [1].",
+  "people": [
+   {
+    "name": "Patrick Carney",
+    "role": "co-founder of the Twin Peaks Pink Triangle"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pink Triangle Pride display at San Francisco's Twin Peaks celebrates 30th year",
+    "publisher": "NBC Bay Area (Alyssa Goard)",
+    "year": 2025,
+    "url": "https://www.nbcbayarea.com/news/local/pink-triangle-display-san-franciscos-30th-year/3886901/",
+    "supports": "Carney quotes, origin, rainbow-flag choice, 2025 dimensions and volunteers"
+   },
+   {
+    "title": "Twin Peaks Pink Triangle",
+    "publisher": "Wikipedia (pointer, citing SF Chronicle, NBC, CBS)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Twin_Peaks_Pink_Triangle",
+    "supports": "first installed 1995 without permission; expanded to over an acre"
+   },
+   {
+    "title": "Pink Triangle Reclaimed",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Pink_Triangle_Reclaimed",
+    "supports": "Nazi camp use of the pink triangle; 2020 LED version"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "twin-peaks-figure-8",
+  "title": "Half the figure eight goes car-free",
+  "theme": "modern-city",
+  "year": 2016,
+  "yearEnd": 2020,
+  "place": {
+   "label": "Eastern half of the Twin Peaks Boulevard 'figure 8'",
+   "lat": 37.7525,
+   "lon": -122.4468,
+   "precision": "street"
+  },
+  "hook": "For decades cars circled the summit on a looping figure eight. In 2016 the city handed half of it to walkers.",
+  "story": "Twin Peaks Boulevard wraps around both summits in a loop shaped like a figure eight. For decades both halves carried cars [1][2]. In July 2016 the SFMTA and the Recreation and Park Department tried an experiment. The western half became a two-way road, and the eastern half was closed to cars and opened to people walking and cycling, marked off with paint and concrete barriers [1][2]. The results were striking. The number of drivers going over the 30 mph limit fell by 77 per cent. More than 58 per cent of people in a year-long survey wanted the change made permanent [1]. It was, in June 2020 [1].\n\nThe summit is 64 acres of open space with three trails, including one named for the Mission blue butterfly [1]. The Chronicle reported that construction was due to start in 2025 on rebuilding the car-free side as a wide promenade, after improvements to the Noe Peak trail and the path down to Crestline Drive [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Twin Peaks Figure 8 Redesign Project",
+    "publisher": "SFMTA",
+    "year": 2020,
+    "url": "https://www.sfmta.com/projects/twin-peaks-figure-8-redesign-project",
+    "supports": "July 2016 pilot, configuration, speeding and survey results, June 2020 permanence, 64 acres, trails"
+   },
+   {
+    "title": "Twin Peaks (San Francisco)",
+    "publisher": "Wikipedia (pointer, citing SFMTA and SF Chronicle, Dec 28, 2024)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco)",
+    "supports": "figure-8 layout; 2025 promenade construction plans"
+   }
+  ],
+  "photo": null
+ }
+]

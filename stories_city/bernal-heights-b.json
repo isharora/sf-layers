@@ -1,0 +1,708 @@
+[
+  {
+    "id": "bernal-heights-holly-courts",
+    "title": "The city's first public housing",
+    "theme": "architecture-landmarks",
+    "year": 1940,
+    "yearEnd": null,
+    "place": {
+      "label": "Holly Courts, 100 Appleton Ave",
+      "lat": 37.73797,
+      "lon": -122.42205,
+      "precision": "block"
+    },
+    "hook": "The architect of City Hall and Coit Tower also drew San Francisco's very first public housing, on a quiet slope beside Holly Park.",
+    "story": "San Francisco set up its housing authority in 1938, using money from the new federal Housing Act of 1937. Of the first projects it started, the most prominent was Holly Courts, on the southern slope of Bernal Heights between Holly Park and Mission Street [1]. The architect was Arthur Brown Jr., the man behind City Hall and Coit Tower. His plan put 118 homes facing the street, wrapped around inner courtyards and play spaces [1][2]. A photo from March 1940 shows it still under construction [1].\n\nLike other early projects, it was meant for the 'deserving poor' of the Depression, who were mostly white. The city's housing projects stayed officially segregated until the NAACP won Banks v. San Francisco Housing Authority, which led to desegregation in 1954 [1]. Decades later the residents were running things themselves. Karen Huggins, president of the Holly Courts Resident Council, helped write the city's 2011 community-policing ordinance and pushed for broken lights and gates to be fixed. She told reluctant neighbours to get involved: 'You'll learn' [3]. In 2015 Mayor Ed Lee toured units in need of repair with Resident Board president Deborah Gibson [2].",
+    "people": [
+      {
+        "name": "Arthur Brown Jr.",
+        "role": "architect"
+      },
+      {
+        "name": "Karen Huggins",
+        "role": "president, Holly Courts Resident Council"
+      },
+      {
+        "name": "Deborah Gibson",
+        "role": "Holly Courts Resident Board president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Public Housing (historical essay by Josh Alperin)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=PUBLIC_HOUSING",
+        "supports": "1938 housing authority; Brown design; 118 units around courts; 1940 construction photo; segregation and 1954 Banks case"
+      },
+      {
+        "title": "Why Mayor Lee's Pre-Election Tour of Holly Courts Still Matters",
+        "publisher": "Bernalwood",
+        "year": 2015,
+        "url": "https://bernalwood.com/2015/11/13/why-mayor-lees-pre-election-tour-of-holly-courts-still-matters/",
+        "supports": "first public housing project in SF; Arthur Brown Jr.; 2015 Lee tour with Deborah Gibson"
+      },
+      {
+        "title": "Remembering Karen Huggins, Holly Courts Advocate",
+        "publisher": "Bernalwood",
+        "year": 2015,
+        "url": "https://bernalwood.com/2015/07/20/remembering-karen-huggins-holly-courts-advocate-and-activist/",
+        "supports": "Huggins' role, 2011 ordinance, quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-alemany-farmers-market",
+    "title": "California's first farmers market",
+    "theme": "labor-industry",
+    "year": 1943,
+    "yearEnd": null,
+    "place": {
+      "label": "Alemany Farmers Market, 100 Alemany Blvd",
+      "lat": 37.73593,
+      "lon": -122.4096,
+      "precision": "building"
+    },
+    "hook": "Opened in the middle of the Second World War, the 'People's Market' on Alemany Boulevard was once the only farmers market in California.",
+    "story": "On Saturdays the lot at 100 Alemany Boulevard, on Bernal Heights' southeastern edge, fills with farm stands. The city says that when the market opened in 1943 it was the first and only farmers market in California, and that it helped start the state's whole farmers market movement [1]. Locals call it 'the People's Market'. Today up to 90 small family farms and food businesses sell there, many of them part of the market for generations [2]. It is run in partnership with the city's Real Estate Division, and in February 2026 the nonprofit Foodwise took over as operator [1][2].\n\nThe market has had its own characters. For more than 15 years Jackie Jones, a Bernal neighbour, played 1920s jazz tunes on a washboard guitar at Alemany, with a wooden tap-dancing cat keeping time. In 2014, aged 88, she was stuck at home after a bad fall. Neighbours raised money for her care so she could get back to her Saturday spot [3].",
+    "people": [
+      {
+        "name": "Jackie Jones",
+        "role": "market musician"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alemany Farmers Market",
+        "publisher": "SF.gov",
+        "year": 2026,
+        "url": "https://www.sf.gov/location--alemany-farmers-market",
+        "supports": "opened 1943; first and only farmers market in California; 'People's Market'; Foodwise operator since Feb 2026"
+      },
+      {
+        "title": "Alemany Farmers Market",
+        "publisher": "Foodwise",
+        "year": 2026,
+        "url": "https://www.foodwise.org/alemany",
+        "supports": "oldest continuously operated farmers market in California; up to 90 farms and businesses"
+      },
+      {
+        "title": "Jackie Jones (and Her Dancing Cat) Need Our Help",
+        "publisher": "Bernalwood",
+        "year": 2014,
+        "url": "https://bernalwood.com/2014/03/11/jackie-jones-and-her-dancing-cat-need-our-help/",
+        "supports": "Jackie Jones, washboard guitar, tap-dancing cat, age 88, fall and fundraiser"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-phiz-mezey",
+    "title": "The professor who wouldn't sign",
+    "theme": "civil-rights",
+    "year": 1950,
+    "yearEnd": null,
+    "place": {
+      "label": "Winfield Street",
+      "lat": 37.74338,
+      "lon": -122.41813,
+      "precision": "street"
+    },
+    "hook": "At 23 she was SF State's youngest journalism professor. Then she refused a loyalty oath, and the FBI followed her for fifteen years.",
+    "story": "Phiz Mezey came west from New York by way of Reed College. By 23 she was the youngest journalism professor at San Francisco State, and her writing had already appeared in the New Republic, the New York Times and The Nation [1]. In 1950 a student editor of the Golden Gater, whom she had failed, told administrators she had 'Communist leanings' [1]. That year California passed the Levering Act, which required every state employee to swear an oath disavowing radical beliefs [1][2]. Mezey refused to sign. 'I will not sign the loyalty oath now because I know that hereafter no teacher can adequately be protected under the law,' she wrote to the college president. She was fired along with eight others [1].\n\nThe FBI watched her for fifteen years and cost her at least one factory job [1]. She became a freelance photographer and shot portraits of Martin Luther King Jr. and James Baldwin, and later the 1968 SF State strike [1]. The California Supreme Court struck the Levering Act down in 1967 [1][2]. SF State hired her again in 1978 and made her a full professor in 1981. She lived for years on Winfield Street, surrounded by succulents and her own photographs [1].",
+    "people": [
+      {
+        "name": "Phiz Mezey",
+        "role": "journalist, professor, photographer (1925-2020)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Phiz Mezey (Bernal History Project profile)",
+        "publisher": "FoundSF",
+        "year": 2008,
+        "url": "https://www.foundsf.org/index.php?title=Phiz_Mezey",
+        "supports": "career, firing, quote, FBI surveillance, photography, rehiring, Winfield Street home"
+      },
+      {
+        "title": "Levering Act",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Levering_Act",
+        "supports": "1950 loyalty-oath law; SF State dismissals; 1967 state Supreme Court ruling"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-high-bridge-arms",
+    "title": "An Olympian's gun shop on Mission",
+    "theme": "modern-city",
+    "year": 2015,
+    "yearEnd": null,
+    "place": {
+      "label": "High Bridge Arms, 3185 Mission St",
+      "lat": 37.74588,
+      "lon": -122.41937,
+      "precision": "building"
+    },
+    "hook": "San Francisco's last gun store was opened by a Chinese American pistol shooter who went to the 1948 London Olympics.",
+    "story": "For decades a faded 'GUNS' sign hung over 3185 Mission Street. High Bridge Arms dates back to the 1950s, when Bob Chow opened it [1]. Chow was born in 1911 to Chinese immigrant parents. He was a ham radio pioneer and a Navy Reserve non-commissioned officer, which was rare for an Asian American at the time. According to a biography quoted by Bernalwood, he was the first Chinese American to compete in Olympic pistol shooting [1]. At the 1948 London Games he finished 13th in the rapid-fire pistol, with all 60 shots on target [2]. He also worked as a movie extra and is said to have taught John Wayne and Roy Rogers to shoot straighter [1].\n\nChow died in 2003, but the shop kept going under new owners. By 2015 it was the last gun shop in San Francisco. That September its managers announced it would close at the end of October. They blamed a proposed city rule that would have required video of every sale and weekly reports of customer data to police [1]. Many neighbours were glad to see it go. Others missed the old sign as a link to a lost Bernal [1].",
+    "people": [
+      {
+        "name": "Bob Chow",
+        "role": "Olympic pistol shooter, founder of High Bridge Arms"
+      },
+      {
+        "name": "Steven Alcairo",
+        "role": "general manager in 2015"
+      }
+    ],
+    "sources": [
+      {
+        "title": "High Bridge Arms in Bernal Heights, San Francisco's Last Gun Shop, Set to Close",
+        "publisher": "Bernalwood",
+        "year": 2015,
+        "url": "https://bernalwood.com/2015/09/29/high-bridge-arms-in-bernal-heights-san-franciscos-last-gun-shop-set-to-close/",
+        "supports": "address, founding by Bob Chow in the 1950s, his biography, 2015 closure and reasons"
+      },
+      {
+        "title": "Shooting at the 1948 Summer Olympics – Men's 25 metre rapid fire pistol",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Shooting_at_the_1948_Summer_Olympics_%E2%80%93_Men%27s_25_metre_rapid_fire_pistol",
+        "supports": "Bob Chow, United States, 13th place, 60 hits"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-microwave-tower",
+    "title": "The tower that promised beauty",
+    "theme": "architecture-landmarks",
+    "year": 1962,
+    "yearEnd": null,
+    "place": {
+      "label": "Microwave tower, Bernal Heights summit",
+      "lat": 37.74299,
+      "lon": -122.4158,
+      "precision": "building"
+    },
+    "hook": "In 1962 a newspaper called Bernal Hill ugly and promised that a phone company relay tower would make it beautiful.",
+    "story": "On May 31, 1962, the News-Call Bulletin ran the headline 'Ugly Hill to Be Beautified'. Pacific Telephone had paid $90,000 for just over an acre on the 430-foot summit of Bernal Heights. It planned a $2 million, 400-circuit microwave relay station there, one link in a nationwide chain [1]. City planner Ruth Joffe worked with the company to curve the access road and the building's roof to follow the hill. Her idea of making the antenna a free-form sculpture was 'reluctantly abandoned as not feasible'. The company promised trees, wild lilac and manzanita. It also promised to use its excavated rock to cover a scar left by 30 years of city quarrying, and it promised no fences [1].\n\nA neighbour's history dates the finished tower to 1962, inside a minimal chain-link fence [2]. Greta Van Praag of Prospect Avenue led a campaign to plant pines that would soften its outline [2]. The neighbourhood blog Bernalwood nicknames it 'Sutrito Tower', though Sutro Tower did not exist for its first decade [1]. Some residents still wish it gone. A few, one neighbour wrote, call it Bernal's Eiffel Tower [2].",
+    "people": [
+      {
+        "name": "Ruth Joffe",
+        "role": "city planner"
+      },
+      {
+        "name": "Henry Morris",
+        "role": "Pacific Telephone district manager"
+      },
+      {
+        "name": "Greta Van Praag",
+        "role": "neighbour who pushed for tree planting"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fifty Years Ago: 'Ugly Hill to Be Beautified' with Construction of New Microwave Relay Tower",
+        "publisher": "Bernalwood (transcribing News-Call Bulletin, May 31, 1962)",
+        "year": 2012,
+        "url": "https://bernalwood.com/2012/05/16/fifty-years-ago-ugly-hill-to-be-beautified-with-construction-of-new-microwave-relay-tower/",
+        "supports": "price, acreage, circuits, cost, Joffe sculpture idea, landscaping and quarry-scar promises"
+      },
+      {
+        "title": "Bernal Heights Boulevard (essay by Jerry Schimmel)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Bernal_Heights_Boulevard",
+        "supports": "AT&T tower built 1962 with chain-link fence; Greta Van Praag's pines; Eiffel Tower comparison"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-santana-mullen",
+    "title": "Santana's jam sessions above Precita Park",
+    "theme": "arts-counterculture",
+    "year": 1968,
+    "yearEnd": 1972,
+    "place": {
+      "label": "205 Mullen Ave",
+      "lat": 37.74667,
+      "lon": -122.40804,
+      "precision": "building"
+    },
+    "hook": "Carlos Santana lived in a cottage on Mullen Avenue and played free Sunday concerts in the park below.",
+    "story": "The Mission District usually gets the credit for Carlos Santana, but Bernal Heights neighbours say he commuted to the Mission from their hill [1]. Longtime resident Peter Wiley pointed Bernalwood to the house: a cottage on the north side of Mullen Avenue, just east of the Franconia steps [1]. That is 205 Mullen, where Santana lived in the late 1960s and early 1970s. Later some members of Journey lived there too, a band founded by musicians who had started out with Santana [2].\n\nSantana has called Precita Park 'where it all started' [3]. Orlando Galvez was six years old and living on Folsom Street at the time. He remembers weekend jam sessions that turned the park into an amphitheatre. 'Oye Como Va' always got the party started. Hippies, Black Panthers and neighbourhood Chicanos with their sparkling lowriders gathered around the playground. Buckets of Kentucky Fried Chicken sat among clouds of marijuana smoke [3]. In 2016 the two-bedroom house was listed at $975,000. A blog lamented that a San Francisco 'starter home' now cost nearly a million dollars [2].",
+    "people": [
+      {
+        "name": "Carlos Santana",
+        "role": "musician"
+      },
+      {
+        "name": "Orlando Galvez",
+        "role": "neighbour who remembered the park jams"
+      },
+      {
+        "name": "Peter Wiley",
+        "role": "longtime resident"
+      }
+    ],
+    "sources": [
+      {
+        "title": "House Portrait: Carlos Santana House on Mullen",
+        "publisher": "Bernalwood",
+        "year": 2012,
+        "url": "https://bernalwood.com/2012/01/24/house-portrait-carlos-santana-house-on-mullen/",
+        "supports": "Santana lived on Mullen; Peter Wiley's identification"
+      },
+      {
+        "title": "Carlos Santana's Former House on Mullen Avenue Is for Sale",
+        "publisher": "Bernalwood",
+        "year": 2016,
+        "url": "https://bernalwood.com/2016/09/22/carlos-santanas-former-house-on-mullen-avenue-is-for-sale/",
+        "supports": "205 Mullen; late 1960s to early 1970s; Journey members; $975K listing"
+      },
+      {
+        "title": "Bernal Neighbor Remembers Boyhood Sundays With Carlos Santana in Precita Park",
+        "publisher": "Bernalwood",
+        "year": 2015,
+        "url": "https://bernalwood.com/2015/03/06/bernal-neighbor-remembers-boyhood-sundays-with-carlos-santana-in-precita-park/",
+        "supports": "'where it all started'; Galvez memories of park jams"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-hilltop-becomes-park",
+    "title": "From quarry and dump to park",
+    "theme": "parks-nature",
+    "year": 1973,
+    "yearEnd": null,
+    "place": {
+      "label": "Bernal Heights Park, top of Folsom Street",
+      "lat": 37.7444,
+      "lon": -122.4138,
+      "precision": "area"
+    },
+    "hook": "For decades the hilltop was quarried, used as a dump and torn up by motorbikes. In June 1973 neighbours celebrated its new life as a park with kites and bagpipes.",
+    "story": "Bernal Heights Boulevard was cut around the hill in 1935 as a Depression make-work project [1]. After that, the summit was city wasteland under the Department of Public Works. From the late 1940s, by one account, two quarries bit into the hilltop and supplied fill for the 101 freeway and Candlestick Park [1]. People dumped mattresses and car parts in the pits. Motorcycles carved tracks into the slopes, and at night the boulevard turned into a lovers' lane [1]. Jerry Schimmel, who moved to Prentiss Street in 1966, remembered calling Public Works so often about the dumping that staff asked whether he was one of the dumpers [1].\n\nNeighbours pushed for a change. In 1972 the Recreation and Park Commission voted to take over the 26 acres and protect them from development. Residents agreed not to ask for improvements for several years because the department had no money for upkeep [2]. A handbill dated June 10, 1973 invited everyone to celebrate the transfer. The party had kites, balloons, clowns and bagpipes near the top of Folsom Street. Even Bernalwood admitted it could not be completely sure of the year [1][2].",
+    "people": [
+      {
+        "name": "Jerry Schimmel",
+        "role": "neighbourhood activist and writer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bernal Heights Boulevard (essay by Jerry Schimmel)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Bernal_Heights_Boulevard",
+        "supports": "1935 WPA boulevard; quarries and fill; dumping; DPW anecdote; June 10, 1973 flyer"
+      },
+      {
+        "title": "What Year Was the Party to Celebrate Bernal Hill Becoming a Park?",
+        "publisher": "Bernalwood",
+        "year": 2013,
+        "url": "https://bernalwood.com/2013/05/28/what-year-was-the-party-to-celebrate-bernal-hill-becoming-a-park/",
+        "supports": "1972 commission vote; 26 acres; no-improvements deal; June 1973 dedication; kites, balloons, bagpipes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-beatles-house",
+    "title": "The Beatles House on Precita",
+    "theme": "arts-counterculture",
+    "year": 1974,
+    "yearEnd": null,
+    "place": {
+      "label": "191 Precita Ave",
+      "lat": 37.74766,
+      "lon": -122.41639,
+      "precision": "building"
+    },
+    "hook": "A junior-high girl ran out of wall space in her bedroom, so she painted the Fab Four across the front of her family's house.",
+    "story": "In 1974 Jane Weems was in junior high and had already covered her bedroom walls with Yellow Submarine and a giant Elton John album cover. So she asked her parents whether she could paint the outside of the house at 191 Precita Avenue. They said yes [1]. She sketched the Beatles freehand in pencil on the parts she could reach. Then her mother rented a scaffold so she could finish the whole front, working slowly around school [1].\n\nOne neighbour who used to stop and 'watch me paint' and talk about the Beatles was Emily Harris of the Symbionese Liberation Army. She was then living secretly in a safe house down the street [1][2]. Later Weems played drums in the teenage punk band The Maggots, and she repainted the mural in 1982 [1]. For almost two decades the 'Beatles House' was a local landmark. Strangers rang the bell, the San Francisco Bay Guardian gave it an award, and the film Living on Tokyo Time used it as a rehearsal studio [1]. Today the mural is gone without a trace [1].",
+    "people": [
+      {
+        "name": "Jane Weems",
+        "role": "muralist and drummer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Lost History of The Beatles House on Precita",
+        "publisher": "Bernalwood",
+        "year": 2011,
+        "url": "https://bernalwood.com/2011/05/03/the-lost-history-of-the-beatles-house-on-precita/",
+        "supports": "191 Precita; 1974 painting; Weems quotes; Emily Harris visits; Maggots; 1982 repaint; film and award"
+      },
+      {
+        "title": "SLA safe house",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=SLA_safe_house",
+        "supports": "SLA safe house on Precita used by Bill and Emily Harris"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-sla-arrest",
+    "title": "Joggers arrested on Precita Avenue",
+    "theme": "modern-city",
+    "year": 1975,
+    "yearEnd": null,
+    "place": {
+      "label": "288 Precita Ave",
+      "lat": 37.74707,
+      "lon": -122.41407,
+      "precision": "building"
+    },
+    "hook": "FBI agents in sandals and beads waited in a camper on Precita Avenue. When the couple from No. 288 came back from their run, they pounced.",
+    "story": "In 1975, during the hunt for the kidnapped heiress Patty Hearst, 288 Precita Avenue was one of two San Francisco safe houses used by the Symbionese Liberation Army [1][2]. The FBI's Charles Bates had both houses watched. Time magazine reported that four agents sat in a light green Ford LTD at the curb and three more waited in a yellow-and-white camper down the block. They wore sandals, beards and beads to blend in. Neighbours spotted the stakeout anyway, but nobody suspected the 'athletic and pleasant young couple' who had just moved in [1].\n\nAt 1:15 p.m. on a clear day in September, the couple jogged off towards Bernal Park. When they came back, agents burst out with pistols, a sawed-off shotgun and submachine guns. The woman ran and was caught within 20 feet. The man put his hands up 'like a little kid who had been caught doing something wrong' [1]. They were William and Emily Harris. Inside their flat agents found 40 pounds of black powder and a small arsenal. Less than two hours later Hearst was found at the other house, on Morse Street [1][2]. At her trial, Hearst testified that she had visited 288 Precita once [2].",
+    "people": [
+      {
+        "name": "William Harris",
+        "role": "SLA member"
+      },
+      {
+        "name": "Emily Harris",
+        "role": "SLA member"
+      },
+      {
+        "name": "Charles Bates",
+        "role": "head of FBI San Francisco office"
+      },
+      {
+        "name": "Patty Hearst",
+        "role": "kidnapped heiress"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SLA safe house (quoting Time magazine, Sept. 29, 1975)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=SLA_safe_house",
+        "supports": "stakeout details, arrest, weapons found, Hearst found at Morse Street"
+      },
+      {
+        "title": "House Portrait: Did Patty Hearst Sleep Here?",
+        "publisher": "Bernalwood",
+        "year": 2011,
+        "url": "https://bernalwood.com/2011/01/19/did-patty-hearst-sleep-here/",
+        "supports": "288 Precita safe house; Hearst testified she visited once; Time account"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-wild-side-west",
+    "title": "Toilets in the garden, dykes at the bar",
+    "theme": "lgbtq",
+    "year": 1977,
+    "yearEnd": null,
+    "place": {
+      "label": "Wild Side West, 424 Cortland Ave",
+      "lat": 37.73889,
+      "lon": -122.41717,
+      "precision": "building"
+    },
+    "hook": "Neighbours greeted the lesbian bar with a rock and broken toilets through the windows. The owners planted flowers in the toilets.",
+    "story": "Pat Ramseyer and Nancy White opened their bar in Oakland in 1962. They named it after Walk on the Wild Side, a Barbara Stanwyck film about a lesbian madam, and at the time it was still illegal in California for a woman to tend bar [1][2]. In 1968 they moved to North Beach, near Broadway, where off-duty dancers from the strip clubs found a refuge behind a heavy leather curtain [1]. Then they moved one last time, carrying the actual bar and mirror, to an 1890s Italianate building at 424 Cortland Avenue. They lived there as well as ran the bar. Most accounts give 1977 for the move, though some say 1976 [1][2].\n\nThe welcome was rough. Less than two days after opening, someone threw a rock through the front window. Broken toilets came through another window. Pat and Nancy turned the toilets into planters in the back garden [1]. Pat also began leaving Halloween candy outside for trick-or-treaters, which grew into a Cortland Avenue tradition [1]. Tom Ammiano once joked that everyone who walked in became an 'honorary dyke' [1]. By 2021 it was called San Francisco's last remaining lesbian bar [2].",
+    "people": [
+      {
+        "name": "Pat Ramseyer",
+        "role": "co-founder"
+      },
+      {
+        "name": "Nancy White",
+        "role": "co-founder"
+      },
+      {
+        "name": "Tom Ammiano",
+        "role": "politician and patron"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The History and the Mystery of San Francisco's Wild Side West",
+        "publisher": "San Francisco Bay Times",
+        "year": 2017,
+        "url": "http://sfbaytimes.com/history-mystery-san-franciscos-wild-side-west/",
+        "supports": "founding, film name, bartender law, North Beach, 1977 move, rock and toilets, candy, Ammiano quote"
+      },
+      {
+        "title": "Wild Side West",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Wild_Side_West",
+        "supports": "1962 founding; 1968-1976 North Beach; 1977 move; last remaining lesbian bar as of 2021"
+      },
+      {
+        "title": "Bernal Heights, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Bernal_Heights,_San_Francisco",
+        "supports": "gives c. 1976 for the Cortland Avenue move"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-precita-eyes",
+    "title": "Precita Eyes paints the neighbourhood",
+    "theme": "arts-counterculture",
+    "year": 1977,
+    "yearEnd": null,
+    "place": {
+      "label": "Precita Eyes studio, 348 Precita Ave",
+      "lat": 37.74673,
+      "lon": -122.41267,
+      "precision": "building"
+    },
+    "hook": "A mural workshop for the local library turned into one of the few community mural centres in the United States.",
+    "story": "Susan Cervantes came to San Francisco from Dallas in 1961 on a scholarship to the San Francisco Art Institute. She married the muralist Luis Cervantes, and they raised their family near Precita Park [2]. She wanted to brighten her neighbourhood. That led her to Las Mujeres Muralistas, the pioneering all-women mural collective, and to its idea of collaborative, accessible art [1][2].\n\nFounded in 1977, the organisation grew out of a community workshop that designed and painted a mural called 'Masks of God, Soul of Man' for the Bernal Heights Library. Because it was a group effort, they signed it 'Precita Eyes Muralists', and that became the name of the organisation [1]. 'Precita' refers to Precita Valley and its old creek. The 'Eyes' are the ones we see with [1]. By its 30th anniversary in 2007, Precita Eyes had helped create more than 450 murals and was one of just five community mural groups in the nation [2]. It still runs youth and toddler classes from its studio at 348 Precita Avenue [3]. 'We pretty much stick with pencil and paper and paint,' Cervantes said [2].",
+    "people": [
+      {
+        "name": "Susan Cervantes",
+        "role": "co-founder"
+      },
+      {
+        "name": "Luis Cervantes",
+        "role": "co-founder, muralist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Precita Eyes",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Precita_Eyes",
+        "supports": "1977 founding; Mujeres Muralistas inspiration; library mural origin and name"
+      },
+      {
+        "title": "Precita Eyes celebrates three decades of making walls, and community, bloom",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2007,
+        "url": "https://www.sfgate.com/entertainment/article/Precita-Eyes-celebrates-three-decades-of-making-2496623.php",
+        "supports": "Cervantes biography; 450+ murals; one of five groups; quote"
+      },
+      {
+        "title": "About Precita Eyes",
+        "publisher": "Precita Eyes Muralists",
+        "year": null,
+        "url": "https://www.precitaeyes.org/about",
+        "supports": "348 Precita Ave studio for youth and toddler classes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-el-rio",
+    "title": "El Rio: 'Your Dive' since 1978",
+    "theme": "lgbtq",
+    "year": 1978,
+    "yearEnd": null,
+    "place": {
+      "label": "El Rio, 3158 Mission St",
+      "lat": 37.74682,
+      "lon": -122.41947,
+      "precision": "building"
+    },
+    "hook": "Two gay men who loved leather, motorcycles, salsa and Brazil built a patio bar where everyone was welcome, as long as they were welcoming back.",
+    "story": "In 1978 Malcolm Thornley and Robert Nett, a couple, opened a bar at 3158 Mission Street near Precita Avenue. The bar says it was built on 'neighborhood, community and dance' [1]. The two men loved leather, motorcycles, salsa, Brazil and tropical plants. They were gay, but they wanted the club open to everyone, 'as long as they were welcoming back' [1]. They were big music fans too, and they built a lush back patio with a stage for salsa, rock, country and pop [1].\n\nThe patio became the bar's heart. Bernalwood called El Rio 'a true Bernal Heights treasure' when the bar threw a free 35th birthday party in October 2013. The lineup had burlesque, a BBQ, cake, and a band that included the rock writer Ben Fong-Torres [2]. The bar is still queer-owned. It centres its queer and BIPOC family as well as neighbourhood nonprofits, teachers and trades workers, and it hosts more than 150 benefits a year [1]. Its own description: 'a patio for dancing, a community space for organizing, a friendly dive for canoodling' [1].",
+    "people": [
+      {
+        "name": "Malcolm Thornley",
+        "role": "co-founder"
+      },
+      {
+        "name": "Robert Nett",
+        "role": "co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "About",
+        "publisher": "El Rio",
+        "year": null,
+        "url": "https://www.elriosf.com/about",
+        "supports": "1978 founding by Thornley and Nett; their interests; patio stage; benefits; self-description"
+      },
+      {
+        "title": "Saturday: Celebrate El Rio's 35th Birthday Party",
+        "publisher": "Bernalwood",
+        "year": 2013,
+        "url": "https://bernalwood.com/2013/10/18/saturday-celebrate-el-rios-35th-birthday-party/",
+        "supports": "35th anniversary in 2013; address; party lineup including Ben Fong-Torres"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-lesbian-collective-richland",
+    "title": "Four lesbians buy a house",
+    "theme": "civil-rights",
+    "year": 1980,
+    "yearEnd": null,
+    "place": {
+      "label": "Richland Avenue near Andover Street",
+      "lat": 37.7356,
+      "lon": -122.4179,
+      "precision": "street"
+    },
+    "hook": "Evicted from the Castro, four women pooled their money for a $135,000 building on Bernal's south slope and set off a quiet lesbian migration.",
+    "story": "In 1978 Molly Martin, an electrician, and the three other women in her lesbian collective were evicted from a Castro Victorian. They had no recourse, because rent control was still a few years away [1]. After a cramped spell near 29th and Mission, they decided to buy. Their list of needs was a garden for Ruth, a garage for Molly's electrical tools, and good transit [1]. They found a three-unit building on Richland Avenue, on the south side of Bernal Hill. The listing price was $135,000, which seemed impossible. They scraped together a down payment, wrote their own contracts, and took possession in 1980 [1].\n\nThen they had to evict the tenants. 'We had been powerless tenants... and then we became agents of displacement,' Martin wrote [1]. Some neighbours left nasty notes on windshields and sprayed DYKES graffiti on the building. Years later one of them admitted, 'We were watching you' [1]. With each refinancing, the house helped other women buy homes, and the real estate industry later adopted tenancy-in-common as a way for unrelated people to buy [1]. Martin, who founded the group Tradeswomen, lived there for 37 years [1][2].",
+    "people": [
+      {
+        "name": "Molly Martin",
+        "role": "electrician, writer, founder of Tradeswomen"
+      },
+      {
+        "name": "Ruth Mahaney",
+        "role": "collective member, teacher"
+      },
+      {
+        "name": "Pat Norman",
+        "role": "political activist and neighbour"
+      }
+    ],
+    "sources": [
+      {
+        "title": "How the Lesbians Invaded (by Molly Martin)",
+        "publisher": "FoundSF (originally tradeswomn musings blog, 2017)",
+        "year": 2017,
+        "url": "https://www.foundsf.org/index.php?title=How_the_Lesbians_Invaded",
+        "supports": "eviction, search, Richland building, price, 1980 possession, displacement, harassment, TIC, 37 years"
+      },
+      {
+        "title": "Oral History: Molly Martin",
+        "publisher": "FoundSF / Shaping San Francisco",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Oral_History:_Molly_Martin",
+        "supports": "Martin as electrician and founder of Tradeswomen"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-library-murals",
+    "title": "The battle over the library's walls",
+    "theme": "architecture-landmarks",
+    "year": 2012,
+    "yearEnd": null,
+    "place": {
+      "label": "Bernal Heights Branch Library, 500 Cortland Ave",
+      "lat": 37.73891,
+      "lon": -122.41616,
+      "precision": "building"
+    },
+    "hook": "The WPA library was reborn in 2010. Then the neighbourhood spent years arguing about the faded mural wrapped around it.",
+    "story": "The Bernal Heights branch library at 500 Cortland Avenue was designed by Frederick H. Meyer, built with WPA funds, and dedicated in 1940 [1]. It closed for nearly two years for renovation and reopened in January 2010 [1]. What to do about the mural covering its outside walls turned into a long, heated fight. Some people wanted the old mural restored, some wanted new art, and some wanted bare walls. The Arts and Library commissions were unsure how to proceed. Supervisor David Campos and neighbours brought in a Bernal mediator, Beth Roy, and a community group met week after week until it reached a consensus [2].\n\nOpponents caused more delays. Finally, on October 4, 2012, the old mural was painted over [3]. The comments poured in, ranging from 'Today is the BEST DAY EVER!' to grief over losing 'a piece of Bernal Heights culture' [3]. Artist Ruben Rude painted the Moultrie Street side, and Precita Eyes made the Cortland facade in hand-painted tile [3]. In January 2015 the branch celebrated the finished murals with salsa music from longtime resident Michael Govea [4].",
+    "people": [
+      {
+        "name": "Frederick H. Meyer",
+        "role": "architect"
+      },
+      {
+        "name": "Beth Roy",
+        "role": "mediator"
+      },
+      {
+        "name": "Ruben Rude",
+        "role": "muralist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bernal Heights, San Francisco",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Bernal_Heights,_San_Francisco",
+        "supports": "Meyer design, WPA funding, 1940 dedication, January 2010 reopening, mural contention"
+      },
+      {
+        "title": "Meanwhile, a Discussion About the Mural on the Bernal Heights Library",
+        "publisher": "Bernalwood",
+        "year": 2011,
+        "url": "https://bernalwood.com/2011/02/25/meanwhile-a-discussion-about-that-mural-on-the-bernal-heights-library/",
+        "supports": "competing views; commissions; Campos; mediator Beth Roy; consensus process"
+      },
+      {
+        "title": "It Is Gone: Old Bernal Heights Library Mural Painted Over",
+        "publisher": "Bernalwood",
+        "year": 2012,
+        "url": "https://bernalwood.com/2012/10/04/it-is-gone-old-bernal-heights-library-mural-painted-over/",
+        "supports": "painting over after mediation and delays; Ruben Rude; Precita Eyes tile; reader comments"
+      },
+      {
+        "title": "Saturday: An Anniversary Celebration for Bernal's Beautiful Public Library",
+        "publisher": "Bernalwood",
+        "year": 2015,
+        "url": "https://bernalwood.com/2015/01/23/saturday-an-anniversary-celebration-for-bernals-beautiful-public-library/",
+        "supports": "January 2015 celebration; Michael Govea"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bernal-heights-alex-nieto",
+    "title": "A burrito on the hill, then 59 shots",
+    "theme": "civil-rights",
+    "year": 2014,
+    "yearEnd": null,
+    "place": {
+      "label": "Bernal Heights Park",
+      "lat": 37.744,
+      "lon": -122.416,
+      "precision": "area"
+    },
+    "hook": "Alex Nieto grew up on Bernal Hill. One March evening, eating dinner in the park before work, he became the target of a 911 call.",
+    "story": "Alejandro 'Alex' Nieto was born in Bernal Heights in 1986 to Mexican immigrants, Refugio and Elvira Nieto [1][2]. As a teenager he worked as a youth counsellor at the Bernal Heights Neighborhood Center. He studied criminal justice and hoped to become a probation officer [2]. He worked as a nightclub bouncer and carried a Taser for the job [1][2].\n\nJust after 7pm on March 21, 2014, he was eating a burrito and chips in Bernal Heights Park, wearing a red 49ers jacket. A newcomer's off-leash dog went after his food. Soon afterwards another passer-by called 911 about a man with a gun [1][2]. Four officers arrived and fired 59 shots. They said Nieto had pointed the Taser at them and that they mistook it for a pistol [1][3]. The district attorney declined to file charges in 2015 [3]. In March 2016 a federal jury cleared the officers in the family's civil suit. Protests followed, and so did debate about policing and the gentrification of the Mission and Bernal [1][2]. In 2016 his father was still visiting a memorial on the hillside road at least once a day [2].",
+    "people": [
+      {
+        "name": "Alex Nieto",
+        "role": "Bernal Heights native, security guard"
+      },
+      {
+        "name": "Refugio Nieto",
+        "role": "father"
+      },
+      {
+        "name": "Elvira Nieto",
+        "role": "mother"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Killing of Alex Nieto",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Alex_Nieto",
+        "supports": "birth, time and date, 59 shots, 2016 jury verdict, protests"
+      },
+      {
+        "title": "Death by gentrification: the killing that shamed San Francisco (Rebecca Solnit)",
+        "publisher": "The Guardian",
+        "year": 2016,
+        "url": "https://www.theguardian.com/us-news/2016/mar/21/death-by-gentrification-the-killing-that-shamed-san-francisco",
+        "supports": "burrito and chips; 49ers jacket; dog; youth counsellor at BHNC; ambitions; memorial and father's visits"
+      },
+      {
+        "title": "4 San Francisco cops cleared in Alex Nieto killing",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2015,
+        "url": "http://www.sfgate.com/bayarea/article/4-San-Francisco-cops-cleared-in-Alex-Nieto-killing-6079794.php",
+        "supports": "DA declined charges; 59 shots; Taser mistaken for pistol"
+      }
+    ],
+    "photo": null
+  }
+]

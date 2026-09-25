@@ -1,0 +1,604 @@
+[
+ {
+  "id": "western-addition-starr-king-tomb",
+  "title": "The Union's preacher, buried at Geary",
+  "theme": "war-military",
+  "year": 1864,
+  "yearEnd": 1889,
+  "place": {
+   "label": "Sarcophagus of Thomas Starr King, First Unitarian Church, 1187 Franklin Street at Geary",
+   "lat": 37.78505,
+   "lon": -122.42341,
+   "precision": "building"
+  },
+  "hook": "One of the few graves San Francisco never moved belongs to the preacher who campaigned for the Union and raised a fortune for wounded soldiers.",
+  "story": "Thomas Starr King came west in 1860 to lead First Unitarian, then a congregation deep in debt on Stockton Street. He cleared the debt and raised money for a larger church at 133 Geary Street near Union Square, finished by January 1864 [1]. When the Civil War began he toured California speaking for the Union and campaigned with his friend Leland Stanford. Lincoln allegedly credited him with keeping California in the Union [1]. He also raised more than $1.5 million for the U.S. Sanitary Commission. His plaque calls it the forerunner of the American Red Cross [1][2]. Worn out by constant travel, he died of diphtheria and pneumonia on 4 March 1864, aged 39. Around 20,000 people attended his funeral, and Bret Harte gave a eulogy [1]. He was entombed in a sarcophagus beside the church. In 1889 the congregation moved to Percy & Hamilton's rough granite Romanesque church at Franklin and Geary, and the tomb moved with it [1][3]. Most of the city's burials were later removed, but his sarcophagus still sits in the corner of the lot near O'Farrell Street [1].",
+  "people": [
+   {
+    "name": "Thomas Starr King",
+    "role": "Unitarian minister and Union orator"
+   },
+   {
+    "name": "Bret Harte",
+    "role": "author who delivered his eulogy"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Thomas Starr King (Arnold Wood, reprinted from OpenSFHistory)",
+    "publisher": "FoundSF / Western Neighborhoods Project",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Thomas_Starr_King",
+    "supports": "Career, Union campaigning, $1.5m for Sanitary Commission, death 4 March 1864, 20,000 at funeral, tomb moved in 1889, location near O'Farrell"
+   },
+   {
+    "title": "California Historical Landmark #691: Sarcophagus of Thomas Starr King",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2008,
+    "url": "https://noehill.com/sf/landmarks/cal0691.asp",
+    "supports": "Plaque text: Sanitary Commission as predecessor of the Red Cross; location on church grounds"
+   },
+   {
+    "title": "San Francisco Landmark #40: First Unitarian Church",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2012,
+    "url": "https://noehill.com/sf/landmarks/sf040.asp",
+    "supports": "1889 church by Percy & Hamilton, Richardson Romanesque granite; earlier Geary Street church"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-st-marks-lutheran",
+  "title": "A German church a block from dynamite",
+  "theme": "communities",
+  "year": 1895,
+  "yearEnd": null,
+  "place": {
+   "label": "St. Mark's Lutheran Church, 1135 O'Farrell Street at Franklin",
+   "lat": 37.78418,
+   "lon": -122.42349,
+   "precision": "building"
+  },
+  "hook": "In 1906 soldiers blew up buildings a block away and its cross melted in the heat. St. Mark's survived, and it took in the homeless.",
+  "story": "St. Mark's dates its founding to 1849, when German immigrants were arriving in Gold Rush San Francisco [1]. The congregation dedicated this church on Cathedral Hill on 10 March 1895. It was designed by the German-American architect Henry Geilfuss in a mix of Romanesque and Gothic styles [1][2]. The city's landmark listing calls it the oldest Lutheran church in the West [2].\n\nThe 1906 earthquake weakened the east tower. Then the fire came west. Dynamite was set off a block away, at O'Farrell and Van Ness, to make a firebreak. The heat of the fire was fierce enough to melt the church's cross [1]. The landmark record credits the Van Ness dynamiting with saving the building [2]. The fire stopped just short of the church, and St. Mark's immediately became a refuge for families left homeless by the disaster [1].\n\nThe church's Victorian neighbours did not last. Decades later redevelopment cleared hundreds of Western Addition homes, and the round Carillon Tower apartments rose behind it [2]. The 1895 church is still there.",
+  "people": [
+   {
+    "name": "Henry Geilfuss",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "St. Mark's Lutheran Church (Pastor Dan Buringrud)",
+    "publisher": "FoundSF",
+    "year": 2025,
+    "url": "https://www.foundsf.org/index.php?title=St._Mark%E2%80%99s_Lutheran_Church",
+    "supports": "1849 founding, 10 March 1895 dedication, Geilfuss, 1906 tower damage, melted cross, dynamite at O'Farrell and Van Ness, refuge"
+   },
+   {
+    "title": "San Francisco Landmark #41: St Mark's Lutheran Church",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2008,
+    "url": "https://noehill.com/sf/landmarks/sf041.asp",
+    "supports": "Oldest Lutheran church in the West; saved from fire by Van Ness dynamiting; Carillon Tower and redevelopment"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-st-marys-flu-mass",
+  "title": "Praying in masks on Van Ness",
+  "theme": "communities",
+  "year": 1918,
+  "yearEnd": 1919,
+  "place": {
+   "label": "Site of the second St. Mary's Cathedral, Van Ness Avenue at O'Farrell Street (NW corner)",
+   "lat": 37.7848,
+   "lon": -122.4215,
+   "precision": "block"
+  },
+  "hook": "In the autumn of 1918 San Francisco made masks the law, and worshippers gathered outdoors at the cathedral on Van Ness.",
+  "story": "Archbishop Patrick Riordan bought the corner of Van Ness Avenue and O'Farrell Street in 1883. He broke ground in 1885 and dedicated the new St. Mary's Cathedral in January 1891 [1]. Twenty-seven years later it faced a different kind of emergency.\n\nThe city's first case of Spanish flu was diagnosed on 23 September 1918 [2]. From 18 October the Board of Health closed theatres, schools and lodge meetings. According to the University of Michigan's influenza archive, it did not close churches but advised that services stop or be held in the open air [3]. A local account says churches were ordered shut, so the sources disagree [2]. From 25 October a city ordinance required everyone in public to wear a mask. On 27 October alone, police arrested 110 people for not wearing one [3].\n\nA photograph from 1918 shows an outdoor service at the cathedral, with some worshippers in influenza masks [2]. By the time the epidemic ended in early 1919, the city had recorded almost 45,000 cases and more than 3,000 deaths [2]. The cathedral burned in 1962 and was replaced by the present cathedral on Cathedral Hill, completed in 1970 [1].",
+  "people": [
+   {
+    "name": "Patrick W. Riordan",
+    "role": "Archbishop who built the cathedral"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cathedral of Saint Mary of the Assumption (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_(San_Francisco)",
+    "supports": "1883 purchase at Van Ness and O'Farrell, 1885 groundbreaking, January 1891 dedication, 1962 fire"
+   },
+   {
+    "title": "1918 Flu in SF: A Closer Look (Arnold Woods, reprinted from OpenSFHistory)",
+    "publisher": "FoundSF / Western Neighborhoods Project",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=1918_Flu_in_SF:_A_Closer_Look",
+    "supports": "First case 23 Sept 1918; photo of outdoor service at St. Mary's with masks; ~45,000 cases, 3,000+ deaths"
+   },
+   {
+    "title": "San Francisco, California (American Influenza Epidemic of 1918-1919)",
+    "publisher": "University of Michigan Center for the History of Medicine",
+    "year": 2016,
+    "url": "https://www.influenzaarchive.org/cities/city-sanfrancisco.html",
+    "supports": "18 Oct closures; churches advised to meet in open air; 25 Oct mask ordinance; 110 arrests on 27 Oct"
+   },
+   {
+    "title": "Jack Tar to Mega-Hospital",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Jack_Tar_to_Mega-Hospital",
+    "supports": "Cathedral stood on the block beside the Van Ness and Geary hotel site (west side of Van Ness)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-payne-house",
+  "title": "The heiress, the silver king and the brother",
+  "theme": "gold-rush-victorian",
+  "year": 1881,
+  "yearEnd": null,
+  "place": {
+   "label": "Theodore F. Payne House, 1409 Sutter Street between Franklin and Gough",
+   "lat": 37.78719,
+   "lon": -122.42372,
+   "precision": "building"
+  },
+  "hook": "A Comstock millionaire died, a supposedly dead brother turned up to claim his share, and the niece's windfall helped build this turreted house.",
+  "story": "Theodore Payne reached San Francisco in 1849 with nothing. He had lost everything when his steamship sank before it arrived [1]. His son Theodore F. Payne married Mary Pauline O'Brien, whose unmarried uncle, William S. O'Brien, was one of the Comstock 'Silver Kings'. In 1877 O'Brien heard that his brother Patrick had died and left a wife and daughter destitute. He brought them west from Brooklyn [1]. O'Brien himself died on 2 May 1878, and news of his death was published all over the country. Then Patrick, very much alive, appeared to claim a share. To prevent a lawsuit over the will, the other heirs paid father and daughter over $600,000. With the $800,000 O'Brien had left her, Mary Pauline received more than twice as much as any other heir [1].\n\nWilliam Curlett designed the house, finished around 1881. It has an octagonal turret and about 16,000 square feet across four floors. The bathrooms were built into the house rather than added onto a porch, and the tubs and basins had hot and cold running water [1][2]. It is the last of the large houses that once lined this block of Sutter [2].",
+  "people": [
+   {
+    "name": "Theodore F. Payne",
+    "role": "owner, 'capitalist'"
+   },
+   {
+    "name": "Mary Pauline O'Brien Payne",
+    "role": "heiress"
+   },
+   {
+    "name": "William S. O'Brien",
+    "role": "Comstock Silver King"
+   },
+   {
+    "name": "William Curlett",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Nomination: Theodore F. Payne Residence",
+    "publisher": "National Park Service",
+    "year": 1980,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/80000847_text",
+    "supports": "Payne family history, O'Brien inheritance story and sums, Curlett, dimensions, plumbing, date c.1881"
+   },
+   {
+    "title": "National Register #80000847: Theodore F. Payne Residence",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2019,
+    "url": "https://noehill.com/sf/landmarks/nat1980000847.asp",
+    "supports": "Last of the large homes on Sutter between Franklin and Gough; integrated toilet rooms"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-goodman-building",
+  "title": "A house jacked up twelve feet",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1907,
+  "place": {
+   "label": "Goodman Building (St. Beryl Hotel), 1117 Geary Street between Van Ness and Franklin",
+   "lat": 37.78538,
+   "lon": -122.42219,
+   "precision": "building"
+  },
+  "hook": "Seven weeks after the fire, a ladies' tailor filed plans to lift his 1869 house into the air and slide five shops underneath.",
+  "story": "In 1869 Joseph Emeric, a French immigrant who had become a Contra Costa landowner and a wine importer, built a residence on the south side of Geary between Van Ness and Franklin. The arched window heads still carry the letter 'E' [1]. His son Henry, a state assemblyman, served as State Fish Commissioner in the 1890s [1]. After Henry's death his daughter sold the building to Abraham and Sarah Goodman, New Yorkers who ran a ladies' tailoring business. The Register nomination dates the sale to 28 December 1900; the city landmark summary says 1899 [1][2].\n\nThe fire of 1906 destroyed everything east of the building, from Van Ness to the waterfront [1]. On 6 June 1906 Goodman applied for a permit to raise the two-storey frame building 12 feet and put five stores underneath. His architect, Conrad Meussdorffer, turned the upper floors into a hotel and added a mansard fourth floor as a photographer's studio for H. Pierre Smith [1]. The St. Beryl Hotel was named after Beryl Goodfriend, its first proprietress. The couple's son Mervin put the cost at about $50,000. It was one small answer to the housing shortage after the fire [1].",
+  "people": [
+   {
+    "name": "Joseph Emeric",
+    "role": "builder, wine importer"
+   },
+   {
+    "name": "Abraham Goodman",
+    "role": "ladies' tailor and owner"
+   },
+   {
+    "name": "Sarah Goodman",
+    "role": "owner"
+   },
+   {
+    "name": "Conrad A. Meussdorffer",
+    "role": "architect of 1906 remodel"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Nomination: Goodman Building (Emeric Building, St. Beryl Hotel)",
+    "publisher": "National Park Service",
+    "year": 1975,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/75000473_text",
+    "supports": "Emeric history, 'E' window heads, 1900 sale, 6 June 1906 permit, raising 12 ft, five stores, hotel, photo studio, $50,000"
+   },
+   {
+    "title": "San Francisco Landmark #71: Goodman Building",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2008,
+    "url": "https://noehill.com/sf/landmarks/sf071.asp",
+    "supports": "Built 1869 by Joseph Emeric; Goodmans' tailoring business; 1899 sale date"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-stadtmuller-house",
+  "title": "He sold to miners instead of digging",
+  "theme": "gold-rush-victorian",
+  "year": 1880,
+  "yearEnd": null,
+  "place": {
+   "label": "Stadtmuller House, 819 Eddy Street between Van Ness and Franklin",
+   "lat": 37.78252,
+   "lon": -122.42167,
+   "precision": "building"
+  },
+  "hook": "A Nevada storekeeper made his money selling to silver miners, then built one of Eddy Street's showpiece Italianates.",
+  "story": "Frederick D. Stadtmuller made his money in Silver City, Nevada. He owned a chain of stores there, Stadtmuller & Co., and a timber business [1]. As NoeHill puts it, he sold things to the miners 'rather than grubbing around in the dirt' [2]. He moved to San Francisco in 1879 and went into California wines and brandies with the firm of Walter, Schilling & Co. One of his partners was Claus Schilling, brother of the spice maker A. Schilling [1].\n\nIn 1880 the architect P. R. Schmidt designed him this Italianate house on Eddy Street. It has two-storey bay windows, carved and panelled entrance doors, and a portico on fluted Corinthian columns under a carved balustrade [1]. The street was then a prosperous one [2]. The family kept the house until 1951. It then became a rooming house, as many large old homes did [1][2]. In 1963 Mr. and Mrs. Peter R. Loebs bought it and restored it as a single-family home. They kept its original woodwork and onyx and marble fireplaces [1].",
+  "people": [
+   {
+    "name": "Frederick D. Stadtmuller",
+    "role": "merchant and wine dealer"
+   },
+   {
+    "name": "P. R. Schmidt",
+    "role": "architect"
+   },
+   {
+    "name": "Claus Schilling",
+    "role": "business partner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Nomination: Stadtmuller House",
+    "publisher": "National Park Service",
+    "year": 1976,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/76000523_text",
+    "supports": "Silver City stores and timber, 1879 move, Walter Schilling Co., architect Schmidt, 1880, features, 1951 sale, 1963 restoration"
+   },
+   {
+    "title": "San Francisco Landmark #35: Stadtmuller House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2009,
+    "url": "https://noehill.com/sf/landmarks/sf035.asp",
+    "supports": "Sold to miners rather than digging; prosperous neighbourhood; rooming house"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-scottish-rite-temple",
+  "title": "Great is Ross the architect",
+  "theme": "architecture-landmarks",
+  "year": 1905,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of the Albert Pike Memorial Scottish Rite Temple, 1859 Geary Boulevard",
+   "lat": 37.78383,
+   "lon": -122.43372,
+   "precision": "building"
+  },
+  "hook": "The Freemasons' temple on Geary was the work of a Scottish architect who once carved his own praise over a doorway.",
+  "story": "In May 1904 the Chronicle printed a sketch of a proposed Masonic temple for the south side of Geary between Fillmore and Steiner. It was to be three storeys of yellow brick and terra cotta in a Romanesque Revival style, valued at $80,000. The building appears on the 1905 Sanborn fire-insurance map [1]. It was named the Albert Pike Memorial Scottish Rite Temple, after the lawyer, writer, soldier and famous Freemason Albert Pike [1].\n\nIts architect was Thomas Ross, a Scot who came to the United States in 1883. He also designed the Sing Fat and Sing Chong buildings at California and Grant, which are credited with inspiring Chinatown's pagoda-style rebuilding after 1906 [1]. For the Shriners on Geary near Jones he built a Moorish temple, now the Alcazar Theater. According to Bridget Maley, writing in The New Fillmore, he placed an Arabic inscription over its entry: 'Great is Allah and Great is Ross the Architect' [1][2].\n\nThe 1906 earthquake left the Geary temple structurally damaged, and it was repaired. The Masons used it until the mid-1960s. In the 1970s it became the San Francisco home of Jim Jones's Peoples Temple [1].",
+  "people": [
+   {
+    "name": "Thomas P. Ross",
+    "role": "architect (spelled Peterson or Patterson in different sources)"
+   },
+   {
+    "name": "Albert Pike",
+    "role": "Freemason honoured in the name"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Three temples on Geary (Bridget Maley)",
+    "publisher": "The New Fillmore",
+    "year": 2018,
+    "url": "https://newfillmore.com/2018/12/01/three-temples-on-geary/",
+    "supports": "1904 Chronicle sketch, $80,000, 1905 Sanborn, Pike, Ross biography and inscription, 1906 damage, Masonic use to mid-1960s, Peoples Temple"
+   },
+   {
+    "title": "San Francisco Landmark #195: Alcazar Theater",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2003,
+    "url": "https://noehill.com/sf/landmarks/sf195.asp",
+    "supports": "Ross designed the Shriners' Islam Temple at 650 Geary"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-beth-israel-geary",
+  "title": "A temple finished twice",
+  "theme": "communities",
+  "year": 1908,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of Congregation Beth Israel's Geary Street Temple, 1839 Geary Boulevard",
+   "lat": 37.78387,
+   "lon": -122.43343,
+   "precision": "building"
+  },
+  "hook": "The new synagogue was meant to open for the Jewish New Year of 1906. The earthquake came first.",
+  "story": "Congregation Beth Israel was founded in 1860. It worshipped on Sutter and Mission streets, then built synagogues on Turk Street in 1879 and on Geary near Octavia in 1891 [1][2]. In December 1905 it laid the cornerstone of a third temple at 1839 Geary. William Curlett designed it in a 'Byzantine style' to seat 1,600 at a cost of about $120,000, and it was due to open for the New Year beginning 19 September 1906 [2]. The earthquake of 18 April struck while it was still unfinished and badly damaged it [2][3]. The congregation rebuilt and dedicated the temple in 1908 [1][3]. Rabbi Meyer Solomon Levy led it until 1916, and Cantor Joseph Rabinowitz sang there from 1891 to 1943 [1].\n\nThe fire also sent Jewish families from South of Market into the Fillmore [4]. Jerry Flamm, writing about the 1920s Fillmore, described crowds outside the neighbourhood's three synagogues all day on the High Holidays. Some people could not afford membership. Others were non-believers who still wanted to 'be counted' [4]. Around the corner at 1740 O'Farrell, the Labor Lyceum's basement rooms were home to the Workmen's Circle and the Socialist Party [4]. A post office now stands on the temple's site [3].",
+  "people": [
+   {
+    "name": "Meyer Solomon Levy",
+    "role": "rabbi, 1890-1916"
+   },
+   {
+    "name": "Joseph Rabinowitz",
+    "role": "cantor, 1891-1943"
+   },
+   {
+    "name": "William Curlett",
+    "role": "architect"
+   },
+   {
+    "name": "Jerry Flamm",
+    "role": "author of Good Life in Hard Times"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Congregation Beth Israel-Judea",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Congregation_Beth_Israel-Judea",
+    "supports": "1860 founding, earlier sites, 1839 Geary construction 1905, 1908 dedication, rabbi and cantor dates"
+   },
+   {
+    "title": "Three temples on Geary (Bridget Maley)",
+    "publisher": "The New Fillmore",
+    "year": 2018,
+    "url": "https://newfillmore.com/2018/12/01/three-temples-on-geary/",
+    "supports": "Dec 1905 cornerstone, Curlett, Byzantine, 1,600 seats, $120,000, planned Sept 1906 opening, quake damage"
+   },
+   {
+    "title": "Jewish Fillmore",
+    "publisher": "The New Fillmore",
+    "year": null,
+    "url": "https://newfillmore.com/fillmore-classics/jewish-fillmore/",
+    "supports": "1906 damage, 1908 dedication, post office now on site"
+   },
+   {
+    "title": "The Fillmore: A Jewish Neighborhood in the 1920s (Jerry Flamm, Good Life in Hard Times)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Fillmore:_A_Jewish_Neighborhood_in_the_1920s",
+    "supports": "Post-1906 migration, High Holiday crowds, Labor Lyceum at 1740 O'Farrell"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-geary-muni-1912",
+  "title": "The people's railroad rolls down Geary",
+  "theme": "labor-industry",
+  "year": 1912,
+  "yearEnd": null,
+  "place": {
+   "label": "Geary Street between Laguna and Webster, on the original Municipal Railway line",
+   "lat": 37.78463,
+   "lon": -122.42844,
+   "precision": "street"
+  },
+  "hook": "After a bribery scandal and a bloody strike, voters bought a streetcar line of their own. Mayor Rolph took the controls on its first run.",
+  "story": "By 1902 one company, United Railroads, controlled nearly all of San Francisco's streetcar lines. In 1907 the graft prosecution revealed that the company had paid to secure the supervisors' consent. The same year it violently broke the carmen's strike, which earned it the lasting hostility of organized labour [1]. In December 1909, after three failed attempts, voters approved bonds by a three-to-one margin to buy the independent Geary Street cable line, electrify it and extend it down Market Street [1][2]. The Geary cable ran for the last time on 5 May 1912 [2].\n\nConstruction had crawled under Mayor P. H. McCarthy. His successor, James Rolph, brought in the traction expert Bion J. Arnold and moved to contract building. The remaining 3.5 miles of track were finished in less than six months [1]. The builder W. L. Holman had delivered only 10 of the 43 cars ordered [3]. Rolph drove the first car himself and told the crowd: 'It is in reality the people's road, built by the people and with the people's money' [2]. The sources give the opening date as 28 December or 30 December 1912 [2][3]. Supporters called it the nation's first municipally owned streetcar line [1].",
+  "people": [
+   {
+    "name": "James Rolph Jr.",
+    "role": "mayor who drove the first car"
+   },
+   {
+    "name": "Bion J. Arnold",
+    "role": "traction engineer"
+   },
+   {
+    "name": "P. H. McCarthy",
+    "role": "previous mayor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mayor Rolph and the Municipal Railway (William Issel and Robert Cherny)",
+    "publisher": "FoundSF",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Mayor_Rolph_and_the_Municipal_Railway",
+    "supports": "United Railroads, graft and 1907 strike, 1909 bonds, McCarthy delays, Arnold, 3.5 miles in under six months, first municipal line"
+   },
+   {
+    "title": "MUNI History II: The Progressive Era and Public Development",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=MUNI_History_II:_The_Progressive_Era_and_Public_Development",
+    "supports": "Last cable run 5 May 1912, opening 30 Dec 1912, Rolph's 'people's road' speech"
+   },
+   {
+    "title": "Muni Car No. 1 (Sam Wright)",
+    "publisher": "FoundSF",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=Muni_Car_No._1",
+    "supports": "Opening 28 Dec 1912; Holman had completed 10 of 43 cars"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-packard-showroom",
+  "title": "A cathedral for selling Packards",
+  "theme": "architecture-landmarks",
+  "year": 1927,
+  "yearEnd": null,
+  "place": {
+   "label": "Earle C. Anthony Packard Showroom, 901 Van Ness Avenue at Ellis",
+   "lat": 37.784,
+   "lon": -122.42169,
+   "precision": "building"
+  },
+  "hook": "On Auto Row, Bernard Maybeck built a car showroom from Numidian marble and Persian lanterns and told his workmen to imagine a medieval cathedral.",
+  "story": "By the mid-1920s the new-car trade had settled along Van Ness Avenue [1]. Earle C. Anthony was, according to Wikipedia, the world's most prominent Packard dealer, selling one of every seven Packards between 1915 and 1957. He also founded the Los Angeles radio station KFI [2]. For his San Francisco showroom at Van Ness and Ellis he hired Bernard Maybeck, the architect of the Palace of Fine Arts [4]. Sources date the building to 1926 or 1927 [3][4].\n\nThe opening night drew Hollywood starlets and was broadcast on one of Anthony's radio stations [3]. His booklet 'A Saga of Transportation' described rose marble from Numidia and black marble from Belgium, travertine, scagliola, 'lanterns from a Persian Hareem', and Spanish and Gothic doorways, which together made 'an Aladdin's palace' [3]. The booklet also printed Maybeck's instructions to the builders: 'Imagine that no cars roar by on Van Ness Avenue and that no telephone will call you from your work. Believe yourselves, instead, working in the gloom of a cathedral of the Middle Ages' [3].",
+  "people": [
+   {
+    "name": "Earle C. Anthony",
+    "role": "Packard dealer and broadcaster"
+   },
+   {
+    "name": "Bernard Maybeck",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Auto Row on Van Ness",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Auto_Row_on_Van_Ness",
+    "supports": "New car business ensconced along Van Ness by the mid-1920s"
+   },
+   {
+    "title": "Earle C. Anthony",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Earle_C._Anthony",
+    "supports": "Most prominent Packard dealer, one in seven Packards 1915-1957, KFI"
+   },
+   {
+    "title": "San Francisco Landmark #153: Earle C. Anthony Packard Showroom",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2012,
+    "url": "https://noehill.com/sf/landmarks/sf153.asp",
+    "supports": "Built 1927, Maybeck, opening night, booklet quotations, Maybeck's instructions to workers"
+   },
+   {
+    "title": "Bernard Maybeck",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Bernard_Maybeck",
+    "supports": "Showroom at 901 Van Ness dated 1926; Maybeck's Palace of Fine Arts"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-century-club",
+  "title": "Julia Morgan's clubhouse hosts the Supreme Court",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "Century Club of California, 1355 Franklin Street",
+   "lat": 37.78703,
+   "lon": -122.42353,
+   "precision": "building"
+  },
+  "hook": "A women's club hired one of its own members, a young architect named Julia Morgan. After the fire, the state's highest court moved into the clubhouse.",
+  "story": "The Century Club of California was founded in 1888 as a private women's club [1]. Its early officers included Sarah B. Cooper, who founded the Golden Gate Kindergarten Association, a network of 50 kindergartens, served on the board of the Associated Charities and later turned to women's suffrage. She was the club's vice-president [2].\n\nFor its Franklin Street clubhouse, completed in 1905, the club chose one of its members, Julia Morgan [1]. She had recently returned from the École des Beaux-Arts in Paris. In 1904 she became the first woman licensed as an architect in California and opened her San Francisco practice, so the clubhouse was one of her first commissions [1][3].\n\nThe clubhouse survived the earthquake and fire of April 1906. Afterwards it temporarily housed the California State Supreme Court [1]. Morgan's own office had burned [3]. She was then chosen to redesign the fire-gutted Fairmont Hotel because she had a rare knowledge of earthquake-resistant reinforced concrete [3].",
+  "people": [
+   {
+    "name": "Julia Morgan",
+    "role": "architect and club member"
+   },
+   {
+    "name": "Sarah B. Cooper",
+    "role": "kindergarten pioneer, club vice-president"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Point of Historic Interest: Century Club of California",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2023,
+    "url": "https://noehill.com/sf/landmarks/poi_century_club.asp",
+    "supports": "Founded 1888 as a women's club; 1905 clubhouse by member Julia Morgan; survived 1906; temporarily housed the State Supreme Court"
+   },
+   {
+    "title": "Sarah B. Cooper (1836-1896)",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Sarah_B._Cooper",
+    "supports": "Cooper's kindergartens, vice-president of the Century Club, Associated Charities board"
+   },
+   {
+    "title": "Julia Morgan",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Julia_Morgan",
+    "supports": "First woman licensed architect in California (1904); office lost in 1906; Fairmont rebuilding and reinforced concrete"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-associated-charities",
+  "title": "Maybeck builds for the city's charity",
+  "theme": "architecture-landmarks",
+  "year": 1928,
+  "yearEnd": null,
+  "place": {
+   "label": "Family Service Agency (Associated Charities) building, 1010 Gough Street at Eddy",
+   "lat": 37.78272,
+   "lon": -122.42385,
+   "precision": "building"
+  },
+  "hook": "Bernard Maybeck designed a Mediterranean home for the Associated Charities. Across the street stood a mansion that would later appear in Vertigo.",
+  "story": "The Associated Charities of San Francisco dates to 1889 [1]. The kindergarten pioneer Sarah B. Cooper was one of its directors [2]. In 1928 Bernard Maybeck designed a Mediterranean-style headquarters for the organisation at Gough and Eddy. In 1938 it renamed itself the Family Service Agency, partly to escape the stigma attached to the word 'charity' [1].\n\nWhen the building was new, most of its neighbours were fine Italianate row houses. Next door was the 1880 Hugo Rothschild House, which became a rooming house early in its life [1][3]. The corner was shared with St. Paulus Lutheran Church and the twenty-room mansion Henry F. Fortmann built in 1888 at 1007 Gough [1]. The Call reported that on 26 February 1901 Emma Fortmann married Dr. W. E. Stevens at the house [1]. The mansion was demolished in 1959, a year after it played the McKittrick Hotel in Alfred Hitchcock's Vertigo. Many websites wrongly call it the 'Portman' mansion [1]. The Rothschild house has since been restored as a single-family home [3].",
+  "people": [
+   {
+    "name": "Bernard Maybeck",
+    "role": "architect"
+   },
+   {
+    "name": "Henry F. Fortmann",
+    "role": "owner of the neighbouring mansion"
+   },
+   {
+    "name": "Hugo Rothschild",
+    "role": "owner of 964 Eddy"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #111: Family Service Agency",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2009,
+    "url": "https://noehill.com/sf/landmarks/sf111.asp",
+    "supports": "Associated Charities from 1889, Maybeck 1928, 1938 rename, neighbours, Fortmann mansion, 1901 wedding notice, Vertigo, razed 1959"
+   },
+   {
+    "title": "Sarah B. Cooper (1836-1896)",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Sarah_B._Cooper",
+    "supports": "Cooper was a director of the S.F. Associated Charities board"
+   },
+   {
+    "title": "San Francisco Landmark #112: Hugo Rothschild House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2009,
+    "url": "https://noehill.com/sf/landmarks/sf112.asp",
+    "supports": "1880 Italianate for Hugo Rothschild; early rooming-house use; restoration"
+   }
+  ],
+  "photo": null
+ }
+]

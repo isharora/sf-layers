@@ -1,0 +1,778 @@
+[
+  {
+    "id": "golden-gate-park-panhandle-freeway-revolt",
+    "title": "The Freeway That Never Ate the Panhandle",
+    "theme": "civil-rights",
+    "year": 1964,
+    "yearEnd": 1966,
+    "place": {
+      "label": "Western end of the Panhandle, near Shrader St",
+      "lat": 37.77175,
+      "lon": -122.4515,
+      "precision": "area"
+    },
+    "hook": "State engineers wanted to pave 60 percent of the Panhandle and tunnel under Golden Gate Park. A folk singer, a poet and one deciding vote stopped them.",
+    "story": "In the early 1960s the state's plan was blunt: extend the Central Freeway up the Oak and Fell corridor, slice away about 60 percent of the Panhandle, tunnel under the north edge of Golden Gate Park and emerge on Park Presidio toward the Golden Gate Bridge [1]. On May 17, 1964, protesters rallied at the park's Polo Grounds, where Malvina Reynolds sang her anti-freeway ballad \"Cement Octopus\" (\"Old John McLaren won't take this lying down\") and poet Kenneth Rexroth spoke [1]. Supervisors received a 15,000-signature petition, 20,000 letters and telegrams and opposition from 77 community groups. On October 13, 1964, they rejected the park freeway 6-5; Terry Francois cast the deciding vote with a six-page, point-by-point rebuttal [1]. Mayor Jack Shelley, a former union man, wanted the freeway, and in 1966 the plan came back [2]. It died for good on March 21, 1966, again 6-5 [1]. Henry Heller, a key Panhandle defender, was photographed in 1966 watching a youth plant a tree there [3]. The Haight-Ashbury Neighborhood Council traces its origins to it. A small memorial near Shrader honours activist Sue Bierman [1].",
+    "people": [
+      {
+        "name": "Malvina Reynolds",
+        "role": "folk singer"
+      },
+      {
+        "name": "Terry Francois",
+        "role": "supervisor who cast the deciding vote"
+      },
+      {
+        "name": "Sue Bierman",
+        "role": "freeway revolt activist"
+      },
+      {
+        "name": "Henry Heller",
+        "role": "Panhandle defender"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Freeway Revolt",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Freeway_Revolt",
+        "supports": "Route, 1964 rally, petition figures, 6-5 votes of 1964 and 1966, Francois, HANC, Bierman memorial"
+      },
+      {
+        "title": "Mayor Jack Shelley",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mayor_Jack_Shelley",
+        "supports": "Shelley backed freeways but could not prevent the Panhandle freeway's defeat"
+      },
+      {
+        "title": "The Panhandle",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Panhandle",
+        "supports": "Henry Heller, tree planting, Malvina Reynolds in the Panhandle in 1966"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-diggers-free-food",
+    "title": "Free Stew Through the Frame",
+    "theme": "arts-counterculture",
+    "year": 1966,
+    "yearEnd": 1967,
+    "place": {
+      "label": "The Panhandle, near Masonic Ave",
+      "lat": 37.7725,
+      "lon": -122.4462,
+      "precision": "area"
+    },
+    "hook": "Every afternoon in the Panhandle, anarchist actors served free stew to anyone willing to step through a giant yellow picture frame.",
+    "story": "The San Francisco Diggers took their name from 17th-century English radicals and grew out of the San Francisco Mime Troupe [2]. Their idea of 'free' was meant literally: free stores, free housing, and above all free food, served every day in the Panhandle [1]. Digger women cooked soups and stews in big steel milk cans, using donated grains, meat 'liberated' from packing houses and unsightly rejects from the wholesale produce markets. They baked small loaves of whole-wheat bread in empty coffee cans in a borrowed church kitchen [2]. According to accounts gathered on Wikipedia, the meal came at four o'clock, fed around a hundred people, and was handed out behind a huge yellow frame, the 'Free Frame of Reference,' that you had to step through first [3]. Journalist Naomi Wolf, taken there as a child, remembered prostitutes standing in line with schoolchildren and professors [2]. The Diggers were wary of the hype that followed. Digger Peter Coyote later called the Summer of Love \"horseshit\" [2]. Judy Goldhaft and Peter Berg were among the originals [1].",
+    "people": [
+      {
+        "name": "Peter Coyote",
+        "role": "Digger, actor"
+      },
+      {
+        "name": "Judy Goldhaft",
+        "role": "original Digger, dancer"
+      },
+      {
+        "name": "Peter Berg",
+        "role": "original Digger"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Diggers",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco_Diggers",
+        "supports": "Free Food every day in the Panhandle; Goldhaft and Berg"
+      },
+      {
+        "title": "The Hippies Who Hated the Summer of Love",
+        "publisher": "Longreads (Kate Daloz)",
+        "year": 2017,
+        "url": "https://longreads.com/2017/08/07/the-hippies-who-hated-the-summer-of-love-2/",
+        "supports": "Milk-can stews, liberated meat, coffee-can bread, Naomi Wolf memory, Coyote quote, Mime Troupe origins"
+      },
+      {
+        "title": "San Francisco Diggers",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Diggers",
+        "supports": "Four o'clock serving, about 100 people, Free Frame of Reference (cites Longreads)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-human-be-in",
+    "title": "A Gathering of the Tribes",
+    "theme": "arts-counterculture",
+    "year": 1967,
+    "yearEnd": null,
+    "place": {
+      "label": "Polo Field, Golden Gate Park",
+      "lat": 37.7685,
+      "lon": -122.4925,
+      "precision": "area"
+    },
+    "hook": "On a January Saturday, 20,000 to 30,000 people packed the Polo Field and Timothy Leary told them to turn on, tune in, drop out.",
+    "story": "The Human Be-In of January 14, 1967, was billed on the cover of the San Francisco Oracle as \"A Gathering of the Tribes\" [1]. Its organizers, artist Michael Bowen and poet Allen Cohen, wanted to bring together two feuding camps: Berkeley's anti-war activists and the Haight's psychedelic dropouts [2]. The trigger was California's ban on LSD, which took effect on October 6, 1966. That same day, Bowen and Cohen had held a smaller Love Pageant Rally in the Panhandle [2]. At the Polo Field, Timothy Leary made his first San Francisco appearance and set the tone with \"Turn on, tune in, drop out.\" Allen Ginsberg chanted mantras. Gary Snyder, Michael McClure, Lenore Kandel, Lawrence Ferlinghetti, Dick Gregory and Jerry Rubin also took the stage [1]. Jefferson Airplane, the Grateful Dead, Big Brother and Quicksilver played. The Hells Angels looked after lost children, and 'underground chemist' Owsley Stanley supplied his White Lightning LSD plus 75 twenty-pound turkeys for the Diggers to hand out [1]. Estimates of the crowd ranged from 20,000 to 30,000. The national coverage helped draw thousands more young people to the Haight that summer [1][3].",
+    "people": [
+      {
+        "name": "Michael Bowen",
+        "role": "main organizer"
+      },
+      {
+        "name": "Allen Cohen",
+        "role": "poet, Oracle co-founder"
+      },
+      {
+        "name": "Timothy Leary",
+        "role": "speaker"
+      },
+      {
+        "name": "Allen Ginsberg",
+        "role": "poet"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Human Be-In",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Human_Be-In",
+        "supports": "Date, Oracle cover, speakers, bands, Hells Angels, Owsley and turkeys, 20,000-30,000 crowd"
+      },
+      {
+        "title": "Human Be-In, 1967",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Human_Be-In,_1967",
+        "supports": "Bowen and Cohen, Love Pageant Rally of Oct 6 1966, aim of uniting activists and psychedelic hippies"
+      },
+      {
+        "title": "Human Be-In",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Human_Be-In",
+        "supports": "Cross-check of speakers and crowd estimates; points to PBS American Experience"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-george-harrison-hippie-hill",
+    "title": "A Beatle Borrows a Guitar",
+    "theme": "arts-counterculture",
+    "year": 1967,
+    "yearEnd": null,
+    "place": {
+      "label": "Hippie Hill, near Sharon Meadow",
+      "lat": 37.77065,
+      "lon": -122.45782,
+      "precision": "area"
+    },
+    "hook": "In August 1967 a Beatle walked up Haight Street unrecognised, borrowed a busker's guitar on Hippie Hill, and set off a stampede.",
+    "story": "On August 8, 1967, George Harrison, then 24, walked along Haight Street with his wife Pattie Boyd and Beatles press officer Derek Taylor. At first nobody noticed him [1]. At Hippie Hill, the slope where congas and drum circles had gathered since the mid-1960s [2], they found a young man playing to about 20 long-haired listeners. Harrison asked to borrow the guitar and began to play. Then a young woman shouted, \"That's George Harrison!\" Chronicle reporter David Swanston wrote that \"hippies clambered down hills, dropped from trees and sprang from behind bushes.\" After about ten more minutes Harrison called out, \"Let's go for a walk,\" and led a growing crowd back down Haight, strumming as he went. Asked what he thought of the neighbourhood, he answered, \"Wow, if it's all like this, it's too much\" [1]. In private he was less charmed. A biographer quotes him calling the scene's young people \"hideous, spotty little teenagers,\" and gives a harsher account of the day that differs from the Chronicle's [1]. Hippie Hill still hosts weekend drum circles [3].",
+    "people": [
+      {
+        "name": "George Harrison",
+        "role": "Beatle"
+      },
+      {
+        "name": "Pattie Boyd",
+        "role": "his wife"
+      },
+      {
+        "name": "Derek Taylor",
+        "role": "Beatles press officer"
+      },
+      {
+        "name": "David Swanston",
+        "role": "Chronicle reporter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Harrison had love-Haight relationship with S.F.",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2001,
+        "url": "https://www.sfgate.com/entertainment/radiowaves/article/Harrison-had-love-Haight-relationship-with-S-F-2847011.php",
+        "supports": "Date, companions, borrowed guitar, Swanston quotes, walk down Haight, biographer's contrary account"
+      },
+      {
+        "title": "Hippie Hill",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Hippie_Hill",
+        "supports": "Mid-1960s conga and drumming scene on Hippie Hill"
+      },
+      {
+        "title": "Hippie Hill",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hippie_Hill",
+        "supports": "Location and continuing drum circles; lists Harrison among performers"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-jfk-drive-car-free",
+    "title": "Sixty Years to Close One Road",
+    "theme": "modern-city",
+    "year": 1967,
+    "yearEnd": 2022,
+    "place": {
+      "label": "JFK Promenade near the Conservatory of Flowers",
+      "lat": 37.7718,
+      "lon": -122.4598,
+      "precision": "street"
+    },
+    "hook": "The park's main road got its Kennedy name and its first car-free Sunday on the same day in 1967. Making it car-free for good took 55 more years.",
+    "story": "On April 2, 1967, the Recreation and Park Commission shut the park's Main Drive to cars for its first 'People's Day in the Park,' and renamed it John F. Kennedy Drive that same day [1]. Chronicle columnist Ron Fimrite, cycling through the tunnels, wondered what downtown would be like without cars [1]. Sundays became a roller-skating party. In 1979 skaters formed the Golden Gate Park Skate Patrol to fight a proposed skating ban, and in 1989 the city smoothed a patch at Sixth Avenue, the 'Skatin' Place,' largely thanks to its leader David Miles Jr. [1]. For decades the de Young and the Academy of Sciences fought longer closures, saying they cost them visitors [1]. Then the pandemic arrived. In April 2020 Mayor London Breed closed the 1.5-mile stretch every day. In April 2022 supervisors voted 7-4 to keep it closed after a 12-hour meeting [1]. That November voters rejected Proposition I, which would have reopened the road, by 61 percent, and passed Proposition J to keep it car-free [2]. Renamed JFK Promenade, it has logged millions of visits since 2020 [1].",
+    "people": [
+      {
+        "name": "David Miles Jr.",
+        "role": "head of the Golden Gate Park Skate Patrol"
+      },
+      {
+        "name": "London Breed",
+        "role": "mayor"
+      },
+      {
+        "name": "Ron Fimrite",
+        "role": "Chronicle columnist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Car-Free JFK Drive",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Car-Free_JFK_Drive",
+        "supports": "1967 closure and renaming, Fimrite, Skate Patrol 1979, Skatin' Place 1989, museum opposition, 2020 closure, 7-4 vote, Promenade"
+      },
+      {
+        "title": "JFK Drive will remain car-free after S.F. voters reject Prop. I, pass Prop. J",
+        "publisher": "San Francisco Chronicle",
+        "year": 2022,
+        "url": "https://www.sfchronicle.com/election/article/JFK-Drive-will-remain-car-free-after-S-F-voters-17570182.php",
+        "supports": "2022 election results: 61% against Prop I, 59% for Prop J"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-snack-kezar-1975",
+    "title": "Dylan, Brando and the School Budget",
+    "theme": "arts-counterculture",
+    "year": 1975,
+    "yearEnd": null,
+    "place": {
+      "label": "Kezar Stadium",
+      "lat": 37.7668,
+      "lon": -122.4557,
+      "precision": "building"
+    },
+    "hook": "To save after-school sports, Bill Graham packed Kezar Stadium with Dylan, Neil Young, the Dead and a surprise Marlon Brando. Then the school board found the money anyway.",
+    "story": "In early 1975 San Francisco's school district, short of money, planned to cut after-school sports and activities. Promoter Bill Graham read about it in a February 4 newspaper story. By February 19 he had signed up Jefferson Starship, Jerry Garcia, Carlos Santana, Joan Baez and others to play for free [1]. Herb Caen supplied the name: SNACK, Students Need Athletics, Culture and Kicks [2]. The day before the show, the school board announced it had 'found' $2.1 million through an accounting change, wiping out most of the shortfall. An angry Graham went ahead anyway [1]. On March 23 the gates of Kezar, the stadium the 49ers had left in 1971 [3], opened at 6 a.m. Seven to ten thousand fans had camped overnight on the lawn or in the park [1]. Across nine hours the crowd, put at more than 60,000, heard the Doobie Brothers, Tower of Power and the Dead, who, Graham joked, were given 30 minutes \"and held themselves down to 40\" [1]. Willie Mays spoke. Marlon Brando appeared unannounced. Neil Young closed the day with Bob Dylan and members of the Band [2].",
+    "people": [
+      {
+        "name": "Bill Graham",
+        "role": "promoter"
+      },
+      {
+        "name": "Bob Dylan",
+        "role": "surprise performer"
+      },
+      {
+        "name": "Neil Young",
+        "role": "performer"
+      },
+      {
+        "name": "Marlon Brando",
+        "role": "surprise guest"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nine Hours of Peace, Love and Sports: Dylan, Brando and Co. Work for Snack",
+        "publisher": "Rolling Stone",
+        "year": 1975,
+        "url": "https://www.rollingstone.com/music/music-live-reviews/nine-hours-of-peace-love-and-sports-dylan-brando-and-co-work-for-snack-114923/",
+        "supports": "Feb 4 story, signings, $2.1 million 'found', 6 a.m. gates, campers, Dead quip"
+      },
+      {
+        "title": "SNACK Benefit Concert",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/SNACK_Benefit_Concert",
+        "supports": "Acronym from Herb Caen, 60,000+ crowd, running order, Brando and Mays (cites Examiner and Rolling Stone)"
+      },
+      {
+        "title": "Stadium to Be Razed: The Last Faithful Fans Take a Seat at Kezar",
+        "publisher": "Los Angeles Times (AP)",
+        "year": 1989,
+        "url": "https://www.latimes.com/archives/la-xpm-1989-04-07-sp-1370-story.html",
+        "supports": "49ers abandoned Kezar in 1971"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-queen-elizabeth-de-young",
+    "title": "The Queen Dines Among the Tapestries",
+    "theme": "modern-city",
+    "year": 1983,
+    "yearEnd": null,
+    "place": {
+      "label": "De Young Museum (then the M. H. de Young Memorial Museum)",
+      "lat": 37.77155,
+      "lon": -122.4686,
+      "precision": "building"
+    },
+    "hook": "Steve Jobs, George Lucas and Joe DiMaggio dined on pheasant with Queen Elizabeth in the park, while 5,000 protesters gathered three blocks away.",
+    "story": "On March 3, 1983, President Ronald Reagan and Nancy Reagan hosted Queen Elizabeth II and Prince Philip at a dinner in the de Young and the Asian Art Museum, which then stood side by side in Golden Gate Park. It was a state dinner in all but name [2]. About 260 notable guests were invited. Weeks of preparation followed: the stone lions out front were washed, the tapestries vacuumed and ornamental trees brought in from city greenhouses to line the entrance [1][2]. Reagan thanked the Queen for lending the museum Leonardo da Vinci's horse drawings from the royal library at Windsor. She opened with a joke about exporting British weather to California [1]. The menu included pheasant, caviar and lobster terrine. Among the guests were Steve Jobs, George Lucas, Gordon Getty and Joe DiMaggio, who said, \"I wouldn't have missed it for the world\" [1]. Not everyone was charmed. About 5,000 people gathered in the park three blocks away to protest Britain's role in Northern Ireland [1]. The building they dined in was demolished and rebuilt in 2005 [1].",
+    "people": [
+      {
+        "name": "Queen Elizabeth II",
+        "role": "guest of honour"
+      },
+      {
+        "name": "Ronald Reagan",
+        "role": "host"
+      },
+      {
+        "name": "Joe DiMaggio",
+        "role": "guest"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen Elizabeth II's 'spectacular' 1983 San Francisco trip was marred by tragedy",
+        "publisher": "SFGATE (Andrew Chamings)",
+        "year": 2022,
+        "url": "https://www.sfgate.com/local/article/Queen-Elizabeth-II-1983-sf-trip-17428346.php",
+        "supports": "Banquet details, 260 guests, Leonardo loan, guests, DiMaggio quote, 5,000 protesters, building later rebuilt"
+      },
+      {
+        "title": "Reagans Host at Banquet for Queen at Glittering Museum in San Francisco",
+        "publisher": "The New York Times",
+        "year": 1983,
+        "url": "https://www.nytimes.com/1983/03/04/us/reagans-hosts-at-banquet-for-queen-at-glittering-museum-in-san-francisco.html",
+        "supports": "Date, de Young and Asian Art Museum side by side, de facto state dinner, 260 invited"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-aids-memorial-grove",
+    "title": "A Grove Planted Mid-Epidemic",
+    "theme": "lgbtq",
+    "year": 1991,
+    "yearEnd": 1996,
+    "place": {
+      "label": "National AIDS Memorial Grove, de Laveaga Dell",
+      "lat": 37.7703,
+      "lon": -122.4606,
+      "precision": "area"
+    },
+    "hook": "While AIDS was still killing thousands, grieving San Franciscans hacked a forgotten, overgrown dell back to life. Congress later made it the nation's AIDS memorial.",
+    "story": "In 1988 a small group of San Franciscans, living through a devastating epidemic with no place to grieve together, imagined a grove where people could remember \"among the rhododendrons and redwoods\" [1]. One of them was landscape designer Stephen Marcus, who died in 1989 and whose name was the first carved in the grove's Circle of Friends [2]. They chose the de Laveaga Dell. Park budget cuts had left it so overgrown that it was almost impossible to get into [1][2]. Volunteer architects and designers drew up a plan, and work began in September 1991 [1]. On monthly workdays hundreds of people came to plant, weed and dig, and by 1998 the project had raised $2.3 million, partly through $1,000 donations to carve a name in flagstone [2]. \"Most memorials are built after the struggle is over,\" the founders wrote. \"This battle rages on and we cannot wait\" [1]. In October 1996 legislation led by Representative Nancy Pelosi and signed by President Clinton designated it the National AIDS Memorial Grove [1]. By 2011, about 2,000 names ringed the circle [3].",
+    "people": [
+      {
+        "name": "Stephen Marcus",
+        "role": "landscape designer and early organizer"
+      },
+      {
+        "name": "Alice Russell-Shapiro",
+        "role": "co-founder"
+      },
+      {
+        "name": "Nancy Pelosi",
+        "role": "congresswoman who led the 1996 act"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Grove History",
+        "publisher": "National AIDS Memorial",
+        "year": null,
+        "url": "https://www.aidsmemorial.org/grove-history",
+        "supports": "1988 conception, dell's condition, September 1991 start, founders' quote, 1996 act"
+      },
+      {
+        "title": "A Blessed, Beautiful Sanctuary",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 1998,
+        "url": "http://m.sfgate.com/homeandgarden/article/A-Blessed-Beautiful-Sanctuary-Memorial-AIDS-2977517.php",
+        "supports": "Stephen Marcus, Circle of Friends, workdays, $1,000 names, $2.3 million raised"
+      },
+      {
+        "title": "National AIDS grove has 20th anniversary",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2011,
+        "url": "http://www.sfgate.com/news/article/National-AIDS-grove-has-20th-anniversary-2303221.php",
+        "supports": "About 2,000 names carved by 2011; only federally designated AIDS memorial"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-conservatory-storm-1995",
+    "title": "The Night the Glass House Shattered",
+    "theme": "architecture-landmarks",
+    "year": 1995,
+    "yearEnd": 2003,
+    "place": {
+      "label": "Conservatory of Flowers",
+      "lat": 37.77247,
+      "lon": -122.4602,
+      "precision": "building"
+    },
+    "hook": "Gusts of more than 100 mph tore through the park in December 1995, smashing the Victorian greenhouse's glass and shutting it for seven years.",
+    "story": "The Conservatory of Flowers had already survived two fires [2]. Its worst night came in the second week of December 1995. After torrential rains, gusts of more than 100 mph were reported on December 12 and brought down an estimated 1,000 trees across Golden Gate Park [2]. The Chronicle called the Conservatory the storm's worst casualty. Its glass was smashed and much of the interior lay open to the weather [2]. Accounts of the damage differ: SFist, citing the Chronicle, reports hundreds of broken panes, while Wikipedia says 30,000 were blown out and the dome shattered [1][2]. Wikipedia also says cold air and flying glass killed about 15 percent of the plants, and that a 112-year-old philodendron was one of the hardest to save [1]. The World Monuments Fund added the building to its 1996 watch list [1]. Repairs were first estimated at about $10 million, and the final bill came to $25 million, with support from the Richard & Rhoda Goldman Fund and a public fundraising campaign [1][2]. After seven years the Conservatory reopened in 2003 [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "In Its History, SF's Conservatory of Flowers Has Burned Down Twice, and Was Nearly Destroyed By a Windstorm In 1995",
+        "publisher": "SFist (Jay Barmann)",
+        "year": 2022,
+        "url": "https://sfist.com/2022/01/14/the-conservatory-of-flowers/",
+        "supports": "Dec 12 1995 gusts, 1,000 trees, Chronicle's account, $10m to $25m, Goldman Fund, 2003 reopening, earlier fires"
+      },
+      {
+        "title": "Conservatory of Flowers",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Conservatory_of_Flowers",
+        "supports": "Pane count, 15% plant loss, philodendron, World Monuments Watch 1996, Sept 2003 reopening"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-beach-chalet-revival",
+    "title": "From Biker Bar to Brewpub",
+    "theme": "architecture-landmarks",
+    "year": 1996,
+    "yearEnd": null,
+    "place": {
+      "label": "Beach Chalet, 1000 Great Highway",
+      "lat": 37.76982,
+      "lon": -122.51054,
+      "precision": "building"
+    },
+    "hook": "Fifty Harleys out front and chairs flying through windows under priceless WPA frescoes: the Beach Chalet had a rough middle age before a student's business plan saved it.",
+    "story": "Willis Polk's Spanish-style Beach Chalet opened on May 30, 1925 [2]. In 1936 and 1937 Lucien Labaudt covered its lobby with WPA frescoes of Depression-era San Francisco [2]. After the Army used the building in the Second World War, the city leased it to the Veterans of Foreign Wars for $50 a month [1]. For a time it was a rough bikers' bar, and hurled bottles damaged the frescoes and Moorish tiles. \"I remember driving past here and seeing maybe 50 Harleys parked out front and chairs flying out the window,\" recalled Donna Ernstson of the Friends of Recreation & Parks [1]. The VFW left in 1979 after the city raised the rent to $500. The padlocked building drew feral cats and squatters who nearly burned it down [1]. Then Gar Truppelli cycled past on his mountain bike. As a San Francisco State senior in 1993, he wrote the business plan for a brewpub there, and he and his wife Lara won the 20-year lease against four other bidders [1]. After a $6.7 million restoration, which also restored the murals, the Beach Chalet Brewery and Restaurant opened on New Year's Eve 1996 [1][2].",
+    "people": [
+      {
+        "name": "Gar Truppelli",
+        "role": "restaurateur"
+      },
+      {
+        "name": "Lara Truppelli",
+        "role": "restaurateur"
+      },
+      {
+        "name": "Lucien Labaudt",
+        "role": "WPA muralist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tide Turns for the Beach Chalet / Storied ruin to get new life",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 1996,
+        "url": "http://www.sfgate.com/restaurants/article/Tide-Turns-for-the-Beach-Chalet-Storied-ruin-to-2955378.php",
+        "supports": "VFW lease, biker bar, Ernstson quote, 1979 rent rise, Truppellis, $6.7 million project, New Year's Eve opening"
+      },
+      {
+        "title": "Beach Chalet: From 1925 draw to dangerous dive bar to SF classic",
+        "publisher": "San Francisco Chronicle",
+        "year": 2018,
+        "url": "https://www.sfchronicle.com/thetake/article/Beach-Chalet-From-1925-draw-to-dangerous-dive-13022673.php",
+        "supports": "1925 opening, Willis Polk, 1936 WPA murals by Labaudt"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-hardly-strictly-bluegrass",
+    "title": "A Banker's Free Banjo Festival",
+    "theme": "arts-counterculture",
+    "year": 2001,
+    "yearEnd": null,
+    "place": {
+      "label": "Hellman Hollow (formerly Speedway Meadow)",
+      "lat": 37.7698,
+      "lon": -122.4838,
+      "precision": "area"
+    },
+    "hook": "A former Lehman Brothers president who took up banjo in his seventies paid for one of America's biggest music festivals and refused to let anyone sponsor it.",
+    "story": "Warren Hellman had been president of Lehman Brothers at 39 and co-founded the private equity firm Hellman & Friedman [2]. On a ski trip in 2000 he told his friend Jonathan Nelson about his dream of a bluegrass festival in the park [1]. Booker Dawn Holliday warned him that if the bill featured only the music he loved, mainly Hazel Dickens and her songs about coal-mining strikes, \"there will be about 13 people there\" [1]. The first festival, in 2001, drew perhaps 13,000 people [1]. Hellman paid for it every year, turned down corporate sponsors and kept it free [2][3]. When Emmylou Harris played that first year with her non-bluegrass band, the name slowly shifted, and in 2004 it officially became Hardly Strictly Bluegrass [3]. Hellman got serious about the banjo after 70 and toured with his band, the Wronglers [1][2]. In 2011 more than 600,000 people came, to a meadow supervisors had just renamed for him [1]. He died that December at 77, having arranged for the festival to be funded for years after his death [1][2].",
+    "people": [
+      {
+        "name": "Warren Hellman",
+        "role": "founder and funder"
+      },
+      {
+        "name": "Dawn Holliday",
+        "role": "booker"
+      },
+      {
+        "name": "Hazel Dickens",
+        "role": "bluegrass singer"
+      },
+      {
+        "name": "Emmylou Harris",
+        "role": "performer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Big Twang Theory",
+        "publisher": "The Bay Citizen (via Internet Archive)",
+        "year": 2011,
+        "url": "https://web.archive.org/web/20121006022036/http://www.baycitizen.org/warren-hellman-2/story/big-twang-theory/",
+        "supports": "Ski trip, Holliday quote, 13,000 first crowd, banjo after 70, 600,000 in 2011, meadow renaming, endowment"
+      },
+      {
+        "title": "Warren Hellman, 77, Investor Who Loved Bluegrass, Dies",
+        "publisher": "The New York Times",
+        "year": 2011,
+        "url": "https://www.nytimes.com/2011/12/20/business/warren-hellman-dies-at-77-ex-lehman-president-and-music-festival-founder.html",
+        "supports": "Lehman president at 39, Hellman & Friedman, entirely self-financed festival, Wronglers, death at 77"
+      },
+      {
+        "title": "Hardly Strictly Bluegrass",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hardly_Strictly_Bluegrass",
+        "supports": "Emmylou Harris and Spyboy; 'Hardly' added in 2004; no sponsors"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-new-de-young",
+    "title": "A Copper Museum Paid For Privately",
+    "theme": "architecture-landmarks",
+    "year": 2005,
+    "yearEnd": null,
+    "place": {
+      "label": "De Young Museum, 50 Hagiwara Tea Garden Drive",
+      "lat": 37.77168,
+      "lon": -122.46828,
+      "precision": "building"
+    },
+    "hook": "After voters twice refused to pay for a new de Young, a fundraiser simply decided to raise $190 million herself, and a Swiss firm wrapped it in copper.",
+    "story": "The 1989 Loma Prieta earthquake badly damaged the old de Young [2]. Around midnight on June 2, 1998, a second bond measure to rebuild it fell short of the two-thirds it needed by 1.7 percent. There was talk of giving up, or of moving the museum out of the park [1][2]. The next morning Dede Wilsey, who chaired the capital campaign, decided, as she put it, \"I would simply raise the money myself\" [1]. In January 1999 the Swiss firm Herzog & de Meuron won the commission. Critics called its twisting tower a \"huge shed,\" an \"aircraft carrier\" and a \"Howard Johnson's of the future,\" and a group called People for a New de Young sued [1]. Supervisors approved the project in January 2002 [1]. Jacques Herzog's idea for the skin came from photographs of sunlight dappling through the park's trees. The result was 7,602 individually punched and embossed panels using 950,000 pounds of copper, some of it recycled drain pipes and wiring [1]. More than 7,000 donors gave $190 million, and the museum opened on October 15, 2005 [1].",
+    "people": [
+      {
+        "name": "Dede Wilsey",
+        "role": "capital campaign chair"
+      },
+      {
+        "name": "Jacques Herzog",
+        "role": "architect"
+      },
+      {
+        "name": "Pierre de Meuron",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "De Young's rebirth / It had to overcome design challenges, lawsuits and a lack of funds",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2005,
+        "url": "https://www.sfgate.com/news/article/De-Young-s-rebirth-It-had-to-overcome-design-2564985.php",
+        "supports": "1998 bond defeat, Wilsey quote, architect selection, criticism, lawsuit, 2002 approval, copper details, donors, opening"
+      },
+      {
+        "title": "De Young Museum",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/De_Young_Museum",
+        "supports": "1989 earthquake damage, two failed bonds, threatened relocation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-academy-living-roof",
+    "title": "A Museum Under a Hill of Wildflowers",
+    "theme": "parks-nature",
+    "year": 2008,
+    "yearEnd": null,
+    "place": {
+      "label": "California Academy of Sciences, 55 Music Concourse Drive",
+      "lat": 37.77005,
+      "lon": -122.4663,
+      "precision": "building"
+    },
+    "hook": "Renzo Piano lifted a piece of the park, slid a natural history museum underneath, and planted the roof with native wildflowers.",
+    "story": "By the 2000s the California Academy of Sciences was working out of 12 worn, earthquake-damaged buildings [2]. Renzo Piano replaced them with one. \"Renzo wanted to lift up the landscape and slide a museum underneath it,\" botany curator Frank Almeda explained [1]. The result was a 2.5-acre living roof planted with native wildflowers, including wild strawberries, which captures about 3.6 million gallons of rainwater a year and gives local wildlife somewhere to live [1]. The walls are insulated with old blue jeans. Skylight portholes open to let cool Pacific air flow through the central piazza instead of air conditioning [1]. Two exterior walls of the old African Hall were kept as the building's northeastern corner [2]. Moving back in meant packing up 20 million research specimens and 38,000 live animals [2]. The $488 million building opened to the public on September 27, 2008, and earned LEED Platinum ratings [1][2]. Because its footprint is smaller than the old buildings', it also gave an acre of open space back to Golden Gate Park [2].",
+    "people": [
+      {
+        "name": "Renzo Piano",
+        "role": "architect"
+      },
+      {
+        "name": "Frank Almeda",
+        "role": "senior botany curator"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Academy of Sciences reopens with green theme",
+        "publisher": "Associated Press via NBC News",
+        "year": 2008,
+        "url": "http://www.nbcnews.com/id/26868606/ns/technology_and_science-science/t/academy-sciences-reopens-green-theme/",
+        "supports": "Living roof size and plants, rainwater, denim insulation, natural ventilation, $488 million, Almeda quote, Sept 27 opening"
+      },
+      {
+        "title": "Our History",
+        "publisher": "California Academy of Sciences",
+        "year": null,
+        "url": "https://www.calacademy.org/our-history",
+        "supports": "Replaced 12 structures, African Hall walls, 20 million specimens and 38,000 animals moved, LEED Platinum, acre returned"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-murphy-windmill-restored",
+    "title": "The Windmill That Turned Again",
+    "theme": "architecture-landmarks",
+    "year": 2012,
+    "yearEnd": null,
+    "place": {
+      "label": "Murphy Windmill, southwest corner of the park",
+      "lat": 37.7645,
+      "lon": -122.5085,
+      "precision": "building"
+    },
+    "hook": "For decades the world's largest windmill of its kind stood sail-less at the edge of Ocean Beach. A Dutch millwright rebuilt it, labelling every piece of timber.",
+    "story": "Banker Samuel G. Murphy gave $20,000 for the park's second windmill, and it first turned its sails on April 11, 1908 [2]. It pumped well water for irrigation and was said to be the largest windmill in the world. But electric pumps soon made it obsolete [2]. In 1944 one spar was so rotten it threatened to bring the whole structure down, and it was removed [2]. The windmill may have spent more decades without its sails than with them [2]. A community group, the Campaign to Save the Golden Gate Park Windmills, helped raise money, and restoration finally began in 2002. Private donations, state grants and city funds added up to about $4 million [1]. Fourth-generation Dutch millwright Lucas Verbij took charge, and a new 68-ton cap went on in 2011 [1]. \"When we took the building apart, we labeled every piece of timber and wood,\" said Recreation and Park project manager Dan Mauer. Only the concrete base and about a third of the materials were original [1]. On April 28, 2012, its sails turned for the city's Queen's Day festival, alongside the Dutch Windmill to the north [1].",
+    "people": [
+      {
+        "name": "Samuel G. Murphy",
+        "role": "banker and donor"
+      },
+      {
+        "name": "Lucas Verbij",
+        "role": "Dutch millwright"
+      },
+      {
+        "name": "Dan Mauer",
+        "role": "Rec and Park project manager"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Golden Gate Park windmills both will turn",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2012,
+        "url": "http://www.sfgate.com/bayarea/article/Golden-Gate-Park-windmills-both-will-turn-3517172.php",
+        "supports": "2002 start, $4 million, Verbij, 68-ton cap, Mauer quote, one-third original, Queen's Day 2012"
+      },
+      {
+        "title": "Murphy Windmill",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "http://www.outsidelands.org/murphy_windmill.php",
+        "supports": "Murphy's $20,000 gift, April 11 1908 first turning, largest in world, 1944 spar removal, decades sail-less, 2012 restoration"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-statues-toppled-2020",
+    "title": "Juneteenth Night in the Music Concourse",
+    "theme": "civil-rights",
+    "year": 2020,
+    "yearEnd": null,
+    "place": {
+      "label": "Music Concourse, Golden Gate Park",
+      "lat": 37.7706,
+      "lon": -122.4676,
+      "precision": "area"
+    },
+    "hook": "On Juneteenth 2020, protesters roped and pulled down Junipero Serra, Francis Scott Key and even Ulysses S. Grant. A week later the archbishop returned to pray an exorcism.",
+    "story": "On the night of June 19, 2020, weeks into the protests after George Floyd's murder, a crowd gathered in the Music Concourse. The Chronicle reported that police found several hundred people there, while a Catholic news report put the number at about 100 [1][2]. Protesters coiled rope around the cross held by the statue of St. Junipero Serra, founder of nine California missions, and pulled it to the ground in seconds [1]. Next came Francis Scott Key, who wrote the words of \"The Star-Spangled Banner\" and owned slaves. His statue tipped forward and somersaulted onto its side. By morning the bronze bust of Ulysses S. Grant, the general who defeated the Confederacy, lay in a roadway splashed with red paint [1]. Cervantes's bust had paint on its eyes, and benches, fountains and a sphinx were damaged too, all beneath an empty Ferris wheel [1]. The Chronicle judged some of the damage to have little to do with politics [1]. On June 27 Archbishop Salvatore Cordileone led Catholics at the site in the rosary and the St. Michael prayer of exorcism. He called the toppling \"an act of the Evil One\" [2].",
+    "people": [
+      {
+        "name": "Salvatore Cordileone",
+        "role": "Archbishop of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historical statues toppled as rage spills into San Francisco's Golden Gate Park",
+        "publisher": "San Francisco Chronicle",
+        "year": 2020,
+        "url": "https://www.sfchronicle.com/bayarea/article/Historical-statues-toppled-as-rage-spills-into-15354412.php",
+        "supports": "Serra, Key, Grant, Cervantes damage, other damage, empty Ferris wheel, crowd of several hundred"
+      },
+      {
+        "title": "After St. Junípero Serra statue torn down, Archbishop Cordileone offers exorcism prayers",
+        "publisher": "EWTN News / Catholic News Agency",
+        "year": 2020,
+        "url": "https://www.ewtnnews.com/world/us/after-st-junipero-serra-statue-torn-down-archbishop-cordileone-offers-exorcism-prayers",
+        "supports": "June 19 crowd of about 100, June 27 prayer service, exorcism prayer, quotes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-blue-heron-lake",
+    "title": "Stow Lake Becomes Blue Heron Lake",
+    "theme": "modern-city",
+    "year": 2024,
+    "yearEnd": null,
+    "place": {
+      "label": "Blue Heron Lake Boathouse (formerly Stow Lake)",
+      "lat": 37.77071,
+      "lon": -122.47698,
+      "precision": "area"
+    },
+    "hook": "For 130 years the park's biggest lake honoured a politician who wanted Jews driven out of California. In 2024 the city gave it to the herons.",
+    "story": "The lake that circles Strawberry Hill was dug in 1893 and named for William Stow, a former Speaker of the California Assembly who later served on the park commission [1]. In an 1855 Assembly session Stow said, \"I have no sympathy for the Jews, and would, were it in my power, enforce a regulation that would eliminate not only from our county, but from the entire state\" [2]. He also tried to tax Jewish people to keep them from opening businesses [1]. In 2022 three supervisors urged a new name, and Supervisor Myrna Melgar led the effort [1][2]. The public suggested at least 14 names, including Mary Ellen Pleasant Lake, Ramaytush Ohlone Lake, Mikveh Lake, Harriet Beecher Stowe Lake and Patrick Quigley Lake [2]. On January 18, 2024, the Recreation and Park Commission voted 4-3 for the public's favourite, Blue Heron Lake [1]. Great blue herons nest on Strawberry Hill in April and May, and the department called them a symbol of resilience for the Indigenous community [1]. The boathouse and the lake drive were renamed the same day [1].",
+    "people": [
+      {
+        "name": "William Stow",
+        "role": "19th-century Assembly speaker"
+      },
+      {
+        "name": "Myrna Melgar",
+        "role": "District 7 supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stow Lake in Golden Gate Park renamed Blue Heron Lake",
+        "publisher": "CBS News Bay Area / Bay City News",
+        "year": 2024,
+        "url": "https://www.cbsnews.com/sanfrancisco/news/stow-lake-golden-gate-park-renamed-blue-heron-lake/",
+        "supports": "Jan 18 2024 4-3 vote, Stow's record, Melgar, herons nesting, renamed boathouse and drive, 1893 lake"
+      },
+      {
+        "title": "Stow Lake's new name revealed",
+        "publisher": "SFGATE (Andrew Chamings)",
+        "year": 2024,
+        "url": "https://www.sfgate.com/local/article/san-francisco-stow-lake-renamed-18615650.php",
+        "supports": "1855 quote, 2022 resolution, candidate names"
+      }
+    ],
+    "photo": null
+  }
+]

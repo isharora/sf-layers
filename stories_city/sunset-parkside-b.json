@@ -1,0 +1,651 @@
+[
+  {
+    "id": "sunset-parkside-stern-grove-festival",
+    "title": "A Widow's Gift of Free Music",
+    "theme": "arts-counterculture",
+    "year": 1938,
+    "yearEnd": null,
+    "place": {
+      "label": "Concert Meadow, Sigmund Stern Grove, 19th Ave & Sloat Blvd",
+      "lat": 37.7357,
+      "lon": -122.4822,
+      "precision": "area"
+    },
+    "hook": "Rosalie Stern bought a boozy old roadhouse gully for $50,000, gave it away, and insisted the music there always be free. Nearly ninety summers later, it still is.",
+    "story": "In 1931 Rosalie Meyer Stern, widow of civic leader Sigmund Stern, used a memorial fund she had set up in his name to buy the Trocadero Inn and twelve surrounding acres from the aging George W. Green for $50,000. She gave the land to the city on one condition: it was to be used only for recreation. The gully's steep, wooded sides made a natural amphitheater, which was a big reason she chose it, and she wanted music at its heart [2]. The grove was dedicated on June 4, 1932, and the San Francisco Symphony played the first concert there on June 19 [1]. In 1938 Stern founded the Stern Grove Festival Association. Its first summer concert, on July 10, 1938, was played by the Bay Region Symphony of the Federal Music Project, a New Deal orchestra, and was followed by eleven more Sunday programs through September 25 [1]. It never charged admission. The family kept it going: her daughter Elise Stern Haas took over in 1956, then granddaughter Rhoda Goldman, then great-grandson Douglas Goldman. Ansel Adams photographed the 25th-anniversary crowd in 1963, and the Preservation Hall Jazz Band played nearly every year from 1969 to 1999 [1].",
+    "people": [
+      {
+        "name": "Rosalie Meyer Stern",
+        "role": "Donor and festival founder"
+      },
+      {
+        "name": "Elise Stern Haas",
+        "role": "Festival chair from 1956"
+      },
+      {
+        "name": "George W. Green",
+        "role": "Seller of the Trocadero property"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History",
+        "publisher": "Stern Grove Festival",
+        "year": 2026,
+        "url": "https://www.sterngrove.org/history",
+        "supports": "1932 dedication and first concert; 1938 founding; first festival concert July 10, 1938 by the Federal Music Project orchestra; family chairs; Ansel Adams; Preservation Hall Jazz Band"
+      },
+      {
+        "title": "Article 10 Landmark Designation Fact Sheet: Trocadero Clubhouse",
+        "publisher": "San Francisco Planning Department / Board of Supervisors (Ordinance 57-22)",
+        "year": 2021,
+        "url": "https://web.archive.org/web/2025id_/https://sfplanninggis.org/docs/landmarks_and_districts/LM301.pdf",
+        "supports": "Stern's 1931 purchase of the Trocadero and twelve acres for $50,000; recreation-only condition; the natural amphitheater and her focus on music; festival began 1938"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-doelger-city",
+    "title": "Two Houses a Day in Doelger City",
+    "theme": "labor-industry",
+    "year": 1934,
+    "yearEnd": 1941,
+    "place": {
+      "label": "41st Avenue between Kirkham and Lawton streets, in the tract Henry Doelger advertised as \"Doelger City\"",
+      "lat": 37.75784,
+      "lon": -122.50004,
+      "precision": "street"
+    },
+    "hook": "For seven years the biggest homebuilder in America worked the Sunset's sand dunes, finishing two stucco houses a day. His famous origin story may have been a fib.",
+    "story": "Between 1934 and 1941 Henry Doelger was the largest homebuilder in the United States. His firm employed 500 people and finished an average of two houses a day, most of them one story of living space over a street-level garage [2]. Over his career he put up about 11,000 buildings in San Francisco, mostly in the Sunset. In 1946 the Chronicle called him \"the poor man's Frank Lloyd Wright\" [2]. In newspaper ads he gave the area roughly between 27th and 39th Avenues, from Kirkham to Quintara, a proud name: \"Doelger City\" [1]. Each house sat on a 25-by-120-foot lot. Historian Woody LaBounty describes standing on 41st Avenue between Kirkham and Lawton, looking at stucco fronts in razor-straight lines. The strips of lawn the first buyers got in the 1930s had nearly all been paved over [1]. Critics called the houses ticky-tacky, but Doelger framed them in redwood and they have lasted. Federal Housing Administration loans let middle-income families afford them [1]. Doelger liked to say he started out running a hot dog stand at 7th Avenue and Lincoln Way. A granddaughter of his brother John tells it differently: the brothers sold bathtub gin and homemade beer at a tamale stand in Golden Gate Park, and Henry put the earnings into land bought from artichoke farmers [1].",
+    "people": [
+      {
+        "name": "Henry Doelger",
+        "role": "Builder"
+      },
+      {
+        "name": "John Doelger",
+        "role": "Brother and partner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Doelger City",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 1999,
+        "url": "https://www.outsidelands.org/sw2.php",
+        "supports": "41st Avenue scene; 25x120 lots; 'Doelger City' boundaries in ads; FHA; redwood framing; hot dog stand story and the family's tamale-stand correction"
+      },
+      {
+        "title": "Doelger Building Landmark Designation Report",
+        "publisher": "San Francisco Planning Department",
+        "year": 2013,
+        "url": "https://default.sfplanning.org/Preservation/landmarks_designation/Approved_Doelger_Final_LM_Report.pdf",
+        "supports": "Largest US homebuilder 1934-1941; two houses a day; 500 employees; about 11,000 buildings; 'poor man's Frank Lloyd Wright' (1946)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-rousseau-block",
+    "title": "Turrets and Tudors on 34th Avenue",
+    "theme": "architecture-landmarks",
+    "year": 1932,
+    "yearEnd": null,
+    "place": {
+      "label": "Oliver Rousseau houses, 34th Avenue between Kirkham and Lawton streets",
+      "lat": 37.75851,
+      "lon": -122.49257,
+      "precision": "street"
+    },
+    "hook": "In the middle of the Depression, one builder gave a plain row of Sunset houses Spanish turrets, Parisian balconies and patios open to the sky.",
+    "story": "In the early 1930s Oliver M. Rousseau, a builder, developer and sometime architect, gave the plain Sunset some storybook streets. His biggest cluster is more than 100 mostly attached houses on 33rd to 36th Avenues between Kirkham and Lawton. Walking down 34th you pass a plum-colored Parisian facade, a Spanish castle with a tiled turret and solid half-timbered Tudors [1]. The houses are 27 feet wide instead of the usual 25. Inside, many have a patio open to the sky at the center of the plan, a living room set two steps down, and bathrooms tiled in combinations like green and peach [1]. Rousseau was a trained architect. He built mostly in the central Sunset, and added extras such as hand-painted designs on kitchen walls. With his brother he later formed the Rousseau Brothers and built well beyond the Sunset [2]. His houses were aimed at working and lower-middle-class buyers who loved the architect-designed homes of St. Francis Wood but couldn't afford them. \"The owners of Rousseau homes were always a little bit snotty because their homes were of better quality,\" local historian Lorri Ungaretti told the Chronicle [1]. Architectural sleuth Gary Goss warned that many \"Rousseau-style\" houses were really built by his imitators, Henry Doelger among them [1].",
+    "people": [
+      {
+        "name": "Oliver M. Rousseau",
+        "role": "Builder and architect"
+      },
+      {
+        "name": "Lorri Ungaretti",
+        "role": "Sunset historian"
+      },
+      {
+        "name": "Gary Goss",
+        "role": "Architectural historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Brightening the Sunset: Oliver Rousseau, a Depression-era builder, infused the city with rows of romantic homes",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2004,
+        "url": "http://www.sfgate.com/homeandgarden/article/Brightening-the-Sunset-Oliver-Rousseau-a-2703046.php",
+        "supports": "Cluster of 100+ homes on 33rd-36th Aves between Kirkham and Lawton; 27-foot width; patios, sunken living rooms, tile; quotes from Ungaretti and Goss"
+      },
+      {
+        "title": "Sunset District: The Late 1800s through the Mid-1900s",
+        "publisher": "Encyclopedia of San Francisco (SF Museum and Historical Society), Lorri Ungaretti",
+        "year": 2011,
+        "url": "https://web.archive.org/web/20111102181806/http://www.sfhistoryencyclopedia.com/articles/c/chanSunsetDistr.html",
+        "supports": "Rousseau as a trained architect building in the central Sunset; extras like hand-painted kitchen walls and turrets; Rousseau Brothers"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-lincoln-high",
+    "title": "Twelve Years of Lobbying for Lincoln High",
+    "theme": "communities",
+    "year": 1940,
+    "yearEnd": null,
+    "place": {
+      "label": "Abraham Lincoln High School, 2162 24th Avenue",
+      "lat": 37.74729,
+      "lon": -122.48109,
+      "precision": "building"
+    },
+    "hook": "Sunset teenagers once paid two streetcar fares to reach a high school across town. Their parents spent twelve years fighting for one of their own in the dunes.",
+    "story": "Before 1940, teenagers from the fast-growing Sunset and Parkside had to ride across town to Commerce High in the Civic Center or Poly High by Kezar Stadium. In 1927 the Parkside District Improvement Club began campaigning for a local high school named for Abraham Lincoln [1]. \"About 3000 children from our district right now have to pay two fares to get to the high schools they are compelled to attend,\" activist Ray Schiller told the Chronicle, \"and the cars are so crowded they can't get on them\" [1]. The city finally put an education bond on the ballot in 1938. Voters passed it after the club lobbied for it [1][2]. Lincoln was dedicated on September 22, 1940: a four-story concrete building by Fred H. Meyer, Martin Rist and Timothy Pflueger [1][2]. Tight budgets kept out the kind of elaborate frieze Pflueger had given Washington High [2]. It opened with 50 classrooms, and \"temporary\" bungalows stood in the upper yard for more than 50 years. The school song begins \"High on a hilltop, 'Mid sand and sea\" [1]. After Martin Luther King Jr. was assassinated in 1968, teachers Jackie Andersen and Yvonne Golden used the money raised for a memorial to buy his portrait for the library. It still hangs on the same wall [1].",
+    "people": [
+      {
+        "name": "Ray Schiller",
+        "role": "Parkside District Improvement Club activist"
+      },
+      {
+        "name": "Timothy Pflueger",
+        "role": "Co-architect"
+      },
+      {
+        "name": "Yvonne Golden",
+        "role": "Teacher"
+      },
+      {
+        "name": "Jackie Andersen",
+        "role": "Teacher"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Abraham Lincoln High School",
+        "publisher": "Western Neighborhoods Project (Lorri Ungaretti)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/lincoln.php",
+        "supports": "1927 campaign; Schiller quote; 1938 bond; dedication Sept 22, 1940; architects; bungalows; school song; MLK portrait"
+      },
+      {
+        "title": "San Francisco's Parkside District: 1905-1957, Historic Context Statement",
+        "publisher": "Western Neighborhoods Project for the Mayor's Office of Economic and Workforce Development (Brandi and LaBounty)",
+        "year": 2008,
+        "url": "http://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "Built 1940 after years of lobbying and a 1938 bond; architects; four-story concrete building; limited funds precluded Washington High-style frieze"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-van-dyke-dunes",
+    "title": "Hearing Lions from 34th Avenue",
+    "theme": "parks-nature",
+    "year": 1940,
+    "yearEnd": null,
+    "place": {
+      "label": "Van Dyke family home, 1727 34th Avenue",
+      "lat": 37.75483,
+      "lon": -122.49297,
+      "precision": "building"
+    },
+    "hook": "A dentist's son skied the dunes on barrel staves and fell asleep to lions roaring at the zoo. Later he rode some of the biggest waves on Earth.",
+    "story": "In 1940 Fred Van Dyke's parents paid $6,000 for a new Henry Doelger house at 1727 34th Avenue. Only five houses stood on the block, and nothing but sand dunes lay between them and the beach. From the windows they could see Marin, the ocean and Lake Merced [1]. Fred, born in 1929 to a downtown dentist, said the neighborhood was like a ghost town at certain times of day. At night he could hear the surf, and the lions and elephants at the Fleishhacker Zoo. By day he saw rabbits, raccoons, hawks, snakes and now and then a deer [1]. He and his friends skied the dunes between 22nd and 30th Avenues on redwood barrel staves tied to their feet, an idea they got from a movie. After big windstorms, families were \"sanded in\" and sometimes waited three or four days for bulldozers to dig out their street. Getting groceries meant a walk through the dunes to 43rd Avenue [1]. Van Dyke learned to bodysurf on San Francisco beaches and first stood up on a board in 1950. In the mid-1950s he became one of the first California surfers to move permanently to Hawaii's North Shore and ride its giant winter waves [2].",
+    "people": [
+      {
+        "name": "Fred Van Dyke",
+        "role": "Sunset childhood resident, later big-wave surfer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fred Van Dyke: A Surfing Legend from the Sunset",
+        "publisher": "Western Neighborhoods Project (Lorri Ungaretti)",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/vandyke.php",
+        "supports": "$6,000 Doelger house at 1727 34th Ave in 1940; dunes; zoo animals heard at night; wildlife; sand skiing; sandstorms; N streetcar"
+      },
+      {
+        "title": "Van Dyke, Fred",
+        "publisher": "Encyclopedia of Surfing (Matt Warshaw)",
+        "year": 2015,
+        "url": "https://eos.surf/entries/van-dyke-fred/",
+        "supports": "Born 1929 in San Francisco, son of a dentist; bodysurfed as a teen; stood up in 1950; moved to the North Shore in the mid-1950s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-soap-box-derby",
+    "title": "Soap Box Speedway on Sunset Boulevard",
+    "theme": "communities",
+    "year": 1946,
+    "yearEnd": null,
+    "place": {
+      "label": "Sunset Boulevard between Ulloa and Wawona streets, near Vicente",
+      "lat": 37.7395,
+      "lon": -122.4956,
+      "precision": "street"
+    },
+    "hook": "Every summer after the war, a sleepy Sunset parkway turned into a racetrack for boys in homemade coasters that could cost no more than $10 to build.",
+    "story": "The San Francisco Soap Box Derby moved to the Sunset in 1946. Before the war the races had run down Carolina Street on Potrero Hill, and in 1939 and 1940 down a steep ramp built on Treasure Island. There were no races from 1942 to 1945 [1]. The new course was Sunset Boulevard between Ulloa and Wawona. \"Sunset Boulevard, a lovely, peaceful parkway drive in the Sunset district that is seldom used even on Sunday, was turned into a speedway,\" the Chronicle reported [1]. The race was sponsored by the Chronicle and Chevrolet and open to boys aged nine to fifteen. Each boy had to build his own car, and materials could cost no more than $10 [1]. A photograph from July 23, 1949, shows the twelfth annual race near Vicente Street; the winner was fourteen-year-old Paul Hodgson [2]. Most San Francisco champions actually came from out of town. In 1956 the headline read \"Can It Be?—L.A. Boy San Francisco Soap Box Champ\" [1]. Girls were shut out from 1935 until 1971 [1]. The Bay Area semifinals left the Sunset for Dublin in the 1960s [1].",
+    "people": [
+      {
+        "name": "Paul Hodgson",
+        "role": "1949 San Francisco winner, age 14"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Soap Box Derby Races on Sunset",
+        "publisher": "Western Neighborhoods Project (Lorri Ungaretti)",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/soap-box-derby.php",
+        "supports": "Earlier venues; 1946 move to Sunset Blvd between Ulloa and Wawona; Chronicle quote; sponsors, ages, $10 rule; 1956 headline; girls barred until 1971; move to Dublin"
+      },
+      {
+        "title": "Sunset Blvd. & Vicente, Jul 23, 1949 (wnp4.1648)",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 1949,
+        "url": "https://opensfhistory.org/Display/wnp4.1648.jpg",
+        "supports": "Twelfth annual San Francisco Soap Box Derby near Vicente; winner Paul Hodgson, 14"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-larsen-park-planes",
+    "title": "A Navy Jet in the Playground",
+    "theme": "war-military",
+    "year": 1950,
+    "yearEnd": 1969,
+    "place": {
+      "label": "Carl G. Larsen Park, 19th to 20th Avenues between Ulloa and Wawona",
+      "lat": 37.74,
+      "lon": -122.4765,
+      "precision": "area"
+    },
+    "hook": "For years, Sunset kids clambered over real military airplanes parked in their neighborhood park, one after another. Nobody at the time found this remotely strange.",
+    "story": "In 1926 Carl Larsen, a Danish immigrant who ran the Tivoli Café downtown, gave the city two blocks between 19th and 20th Avenues, Ulloa and Wawona, \"for park pleasure purposes.\" The park even had outdoor card rooms, one for men and one for women [1]. Its best-remembered feature came later. Sunset children of the 1950s and 1960s remember the military airplanes that sat there, one at a time, for years. They were life-sized toys to climb over and sit in [1]. One photograph shows Richard Lim and his son in \"the first Navy jet\" in Larsen Park [1]. Historian Lorri Ungaretti says the park is best remembered for the airplane children could climb over endlessly, and for Larsen Pool [2]. That pool, a \"modern\" one when those same children swam in it, is now the Charlie Sava Pool. It was renamed for a beloved swimming instructor who coached the Olympic swimmer Ann Curtis [2]. A bronze bust of Larsen by Melvin Earl Cummings, who also sculpted Sather Gate in Berkeley, still stands on a boulder at 19th Avenue and Ulloa [1]. The planes are gone.",
+    "people": [
+      {
+        "name": "Carl G. Larsen",
+        "role": "Donor of the park"
+      },
+      {
+        "name": "Richard Lim",
+        "role": "Photographer of the Navy jet"
+      },
+      {
+        "name": "Charlie Sava",
+        "role": "Swimming coach, pool namesake"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Carl Larsen: The Gentle Dane",
+        "publisher": "Western Neighborhoods Project (Lorri Ungaretti)",
+        "year": 2009,
+        "url": "https://www.outsidelands.org/carl-larsen.php",
+        "supports": "1926 gift; card rooms; military airplanes one at a time for years; Richard Lim photo; Cummings memorial at 19th and Ulloa"
+      },
+      {
+        "title": "Sunset District: The Late 1800s through the Mid-1900s",
+        "publisher": "Encyclopedia of San Francisco (SF Museum and Historical Society), Lorri Ungaretti",
+        "year": 2011,
+        "url": "https://web.archive.org/web/20111102181806/http://www.sfhistoryencyclopedia.com/articles/c/chanSunsetDistr.html",
+        "supports": "Military airplane remembered by children; Larsen Pool renamed for Charlie Sava, coach of Ann Curtis"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-parkside-library",
+    "title": "They Stopped the Clock for a Library",
+    "theme": "architecture-landmarks",
+    "year": 1951,
+    "yearEnd": null,
+    "place": {
+      "label": "Parkside Branch Library, 1200 Taraval Street at McCoppin Square",
+      "lat": 37.74309,
+      "lon": -122.47939,
+      "precision": "building"
+    },
+    "hook": "When City Hall cut their library from the budget, Parkside residents stopped the clock at midnight and talked until the money came back.",
+    "story": "After a 1948 library bond failed, San Francisco's library had to win money for new branches one at a time through the city budget. On the day the supervisors were to approve the budget, according to a 1952 Chronicle account, \"Parkside people descended on City Hall in droves\" to protest the cutting of their branch. As the deadline neared, \"the people stopped the clock in City Hall at midnight and staged a filibuster till the money was put back in\" [1]. Until then the Parkside's library had been a rented storefront at 1541 Taraval [1]. The new branch opened on June 21, 1951, on the edge of McCoppin Square. It was designed by Appleton & Wolfard with landscaping by Lawrence Halprin and cost $162,171 [1]. The Chronicle called it the \"finest branch library in the country.\" Architect and Engineer compared its turquoise, yellow and natural-brick colors to \"a refined night club\" [2]. It had a copper-hooded fireplace, a cork floor and radiant heating, and twice as many people used it as the old storefront. City librarian Laurence Clarke said a library had to \"merchandise its services\" like a good bookshop [2]. It was the first of eight Appleton & Wolfard branches, and in 2023 it became a city landmark [1].",
+    "people": [
+      {
+        "name": "Abraham Appleton and Harold Wolfard",
+        "role": "Architects"
+      },
+      {
+        "name": "Lawrence Halprin",
+        "role": "Landscape architect"
+      },
+      {
+        "name": "Laurence Clarke",
+        "role": "City librarian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Fact Sheet and Ordinance: Parkside Branch Library (Ordinance 158-23)",
+        "publisher": "San Francisco Planning Department / Board of Supervisors",
+        "year": 2023,
+        "url": "https://web.archive.org/web/2025id_/https://sfplanninggis.org/docs/landmarks_and_districts/LM310.pdf",
+        "supports": "Failed 1948 bond; the City Hall clock-stopping filibuster (1952 Chronicle quote); 1541 Taraval storefront; opening June 21, 1951; architects, Halprin, cost; 2023 designation"
+      },
+      {
+        "title": "Parkside Branch Library",
+        "publisher": "Western Neighborhoods Project (Richard Brandi)",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/parkside-library.php",
+        "supports": "First of eight Appleton & Wolfard libraries; 'finest branch library' and 'refined night club' quotes; fireplace, cork floor, radiant heat; Clarke quote; attendance doubled"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-oneill-surf-shop",
+    "title": "A Surf Shop Where Wetsuits Began",
+    "theme": "labor-industry",
+    "year": 1952,
+    "yearEnd": 1959,
+    "place": {
+      "label": "Site of Jack O'Neill's first Surf Shop, Great Highway near Wawona Street",
+      "lat": 37.73746,
+      "lon": -122.50607,
+      "precision": "street"
+    },
+    "hook": "Freezing at Ocean Beach, a bodysurfer started tinkering with foam and neoprene in a Great Highway garage. A friend told him he'd sell to five guys and go broke.",
+    "story": "In the 1940s Jack O'Neill was one of a handful of people bodysurfing the icy water off Ocean Beach. Wetsuits didn't exist, and the only way to warm up afterwards was a bonfire [1]. O'Neill experimented with foam vests. He said the breakthrough came in 1952, when Harry Hind, a pharmacist and fellow bodysurfer, suggested neoprene [1]. His first customers bought the vests at the surf shop he had just opened on the Great Highway near Wawona Street [1], one of the first surf shops anywhere. He later trademarked the term \"surf shop\" but never enforced it [2]. \"O'Neill, you're going to sell to five guys on the beach and you're out,\" fellow surfer Charlie Grimm told him. With so few surfers in San Francisco, O'Neill later admitted Grimm had a point [1]. In 1959 he moved his family and business to Santa Cruz, where the waves were friendlier and there were more surfers. The O'Neill wetsuit went on to be the world's best seller [1][3]. The origin story is disputed. Accounts of the date vary, and UC Berkeley physicist Hugh Bradner had already tested neoprene diving suits in 1950. What O'Neill added was a nylon lining that made neoprene practical for surfing [3].",
+    "people": [
+      {
+        "name": "Jack O'Neill",
+        "role": "Surf shop founder and wetsuit pioneer"
+      },
+      {
+        "name": "Harry Hind",
+        "role": "Pharmacist who suggested neoprene"
+      },
+      {
+        "name": "Charlie Grimm",
+        "role": "Skeptical fellow surfer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "How wet suit pioneer Jack O'Neill shaped Santa Cruz",
+        "publisher": "SFGATE",
+        "year": 2015,
+        "url": "http://www.sfgate.com/travel/article/How-wet-suit-pioneer-Jack-O-Neill-shaped-6431340.php",
+        "supports": "Ocean Beach in the 1940s; bonfires; Harry Hind and neoprene in 1952; shop on the Great Highway near Wawona; Grimm quote; 1959 move"
+      },
+      {
+        "title": "Jack O'Neill, 89, a surfing legend who endures",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2012,
+        "url": "https://www.sfgate.com/sports/article/Jack-O-Neill-89-a-surfing-legend-who-endures-3589127.php",
+        "supports": "Shop on the Great Highway; trademarked 'surf shop' in 1962 but never enforced it"
+      },
+      {
+        "title": "Jack O'Neill obituary",
+        "publisher": "The Guardian",
+        "year": 2017,
+        "url": "https://www.theguardian.com/sport/2017/jun/07/jack-oneill-obituary",
+        "supports": "First Surf Shop at Ocean Beach, 1952; disputed invention; Hugh Bradner's 1950 suits; nylon lining; world's best-selling wetsuit"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-hibernia-bank-robbery",
+    "title": "\"I'm Tania\" at the Hibernia Bank",
+    "theme": "modern-city",
+    "year": 1974,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Hibernia Bank, Sunset branch, 1450 Noriega Street at 22nd Avenue",
+      "lat": 37.75426,
+      "lon": -122.47941,
+      "precision": "building"
+    },
+    "hook": "A security camera on Noriega Street turned a kidnapped newspaper heiress into America's most wanted revolutionary. It took just a few minutes on an April morning.",
+    "story": "At 9:40 on the morning of April 15, 1974, members of the Symbionese Liberation Army held up the Sunset branch of the Hibernia Bank at 1450 Noriega Street. Five went inside while four waited outside, and they got away in two cars with $10,960 [2][3]. One of the gunmen caught on the bank's surveillance cameras was Patricia Hearst, granddaughter of William Randolph Hearst. Ten weeks earlier the SLA had dragged her, then 19, from a Berkeley apartment. On April 3 a tape had announced she'd joined them and taken the name Tania [1]. When a reporter took the footage to the Berkeley School for the Deaf, students read her lips: \"I'm Tania. Up, up, up against the wall\" [2]. Two men were shot. The SLA's own communiqué explained that one had jumped out the front door and the other ran toward the bank [2]. The FBI launched one of the largest manhunts in its history and caught Hearst in San Francisco on September 18, 1975. Despite her brainwashing defense, a jury convicted her [1]. By the 1990s the robbery site was an ordinary Bank of America branch [3].",
+    "people": [
+      {
+        "name": "Patricia Hearst",
+        "role": "Kidnapped heiress turned SLA member"
+      },
+      {
+        "name": "Donald DeFreeze",
+        "role": "SLA leader"
+      },
+      {
+        "name": "Charles Bates",
+        "role": "FBI special agent in charge"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Patty Hearst Kidnapping (Famous Cases)",
+        "publisher": "Federal Bureau of Investigation (archived)",
+        "year": 2014,
+        "url": "https://web.archive.org/web/20140423001815/http://www.fbi.gov/about-us/history/famous-cases/patty-hearst-kidnapping",
+        "supports": "Kidnapping Feb 4, 1974; April 3 tape; April 15 robbery on camera; manhunt; capture Sept 18, 1975; conviction"
+      },
+      {
+        "title": "Guerrilla: The Taking of Patty Hearst, film transcript",
+        "publisher": "PBS American Experience (archived)",
+        "year": 2005,
+        "url": "https://web.archive.org/web/20051003235907/http://www.pbs.org/wgbh/amex/guerrilla/filmmore/pt.html",
+        "supports": "FBI's Charles Bates: Hibernia Sunset branch, 9:40 a.m., $10,960, five inside and four outside, two cars; lip-reading; SLA communiqué on two civilians shot"
+      },
+      {
+        "title": "Patty Hearst Bankrobber",
+        "publisher": "FoundSF",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Patty_Hearst_Bankrobber",
+        "supports": "Location at 1450 Noriega at 22nd Ave; later Bank of America branch"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-carville-last-remnant",
+    "title": "Two Cable Cars Hidden Upstairs",
+    "theme": "architecture-landmarks",
+    "year": 1994,
+    "yearEnd": 2002,
+    "place": {
+      "label": "Carville streetcar house, Great Highway near Moraga Street (exact address withheld at owner's request)",
+      "lat": 37.756,
+      "lon": -122.5086,
+      "precision": "street"
+    },
+    "hook": "A student hunting for the last house built from old streetcars asked a stranger with a bicycle. The answer was the house next door, which happened to be for sale.",
+    "story": "In the 1890s, San Francisco's transit companies sold off retired horsecars for $20, or $10 without seats. People hauled them to the dunes near the beach and turned them into homes, and the settlement became known as Carville [2]. By 1994 many locals had never heard of it. That year James L. Heisterkamp, a San Francisco State student, kept a diary of his search for Carville's \"last remnant.\" A house on 47th Avenue turned out to have no streetcars left inside. Then, on the Great Highway, a young man pushing a bicycle pointed him to the house next door, which was for sale [1]. Upstairs, two cable cars sat side by side with their inner walls removed to make one room. The old wooden passenger benches were still built into one wall, and a horsecar, sliding panel door and all, served as the bedroom and bath [1]. Permit records showed a Mrs. Collins had the cars set on a frame in 1908; they were probably raised to two stories around 1921. Filmmaker Scott Anderson, who lived nearby, bought the house [1]. In 1999 Preservation magazine said the Sunset might be the city's \"only neighborhood without a trace of apparent charm or history.\" Nothing on the house's plain front gives away what is inside [1].",
+    "people": [
+      {
+        "name": "James L. Heisterkamp",
+        "role": "San Francisco State student researcher"
+      },
+      {
+        "name": "Scott Anderson",
+        "role": "Filmmaker and owner"
+      },
+      {
+        "name": "Woody LaBounty",
+        "role": "Historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Carville's Last Remnant",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/sw19.php",
+        "supports": "Heisterkamp's 1994 search; bicycle encounter; interior; sale price; Mrs. Collins 1908/1921; Scott Anderson; Preservation quote; Great Highway near Moraga"
+      },
+      {
+        "title": "Streetwise: Carville",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/sw18.php",
+        "supports": "Horsecars sold for $20 ($10 without seats); origins of Carville near the beach"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-doggie-diner-head",
+    "title": "Let the Dog Out!",
+    "theme": "arts-counterculture",
+    "year": 2001,
+    "yearEnd": 2006,
+    "place": {
+      "label": "Doggie Diner head, Sloat Boulevard median at 45th Avenue",
+      "lat": 37.7357,
+      "lon": -122.5036,
+      "precision": "building"
+    },
+    "hook": "The last grinning fiberglass dachshund survived a developer, a two-year fight and an April Fool's Day nosedive onto Sloat Boulevard. Then it became an official city landmark.",
+    "story": "Doggie Diner ran from 1948 to 1986 and grew to about 30 hot dog stands. Each had a fiberglass dachshund head in a chef's hat and bow tie, sketched by billboard designer Harold Bachman in the early 1960s [1]. The last head in San Francisco stood on a pole above a former Doggie Diner on Sloat Boulevard that had become the Carousel restaurant. When the Sloat Garden Center, which owned the property, wanted to clear the site, fans gathered thousands of signatures and held eat-ins. Bill Griffith drew the fight into his Zippy the Pinhead strip. The city took ownership of the head after two years of campaigning [1]. Then, on April Fool's Day 2001, a windstorm blew it off its rusted pole and smashed its nose [1][2]. John Law remembers Ed Lee, then head of Public Works and later mayor, sweating at the scene in the cold ocean wind [1]. Public Works recast the snout from a head lent by Burning Man co-founder John Law. The Art Commission consulted Bachman to match the original candy-apple red [2]. On June 30, 2001, about 400 devotees chanted \"Let the dog out!\" as a crane lifted the hood [2]. It became a city landmark in 2006 and now stands on the Sloat median at 45th Avenue [1].",
+    "people": [
+      {
+        "name": "Harold Bachman",
+        "role": "Designer of the Doggie Diner head"
+      },
+      {
+        "name": "John Law",
+        "role": "Artist and head collector"
+      },
+      {
+        "name": "Ed Lee",
+        "role": "Public Works director, later mayor"
+      },
+      {
+        "name": "Bill Griffith",
+        "role": "Zippy the Pinhead cartoonist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The downfall of Doggie Diner and the rise of an unforgettable San Francisco landmark",
+        "publisher": "SFGATE",
+        "year": 2022,
+        "url": "https://www.sfgate.com/obscuresf/article/Disembodied-Doggie-Diner-landmark-16797892.php",
+        "supports": "Chain history; Bachman design; Carousel; Sloat Garden Center; petitions and Zippy; city ownership; April 1, 2001 fall; Ed Lee; 2006 landmark; 45th Ave median"
+      },
+      {
+        "title": "Puppy love reigns as Doggie Diner head returns",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2001,
+        "url": "http://www.sfgate.com/news/article/Puppy-love-reigns-as-Doggie-Diner-head-returns-2904742.php",
+        "supports": "About 400 devotees and 'Let the dog out!' on June 30, 2001; restored candy-apple red; Bachman consulted; nose molded with John Law's help"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-trocadero-tree",
+    "title": "The Roadhouse the City Nearly Wrote Off",
+    "theme": "modern-city",
+    "year": 2023,
+    "yearEnd": 2025,
+    "place": {
+      "label": "Trocadero Clubhouse, Sigmund Stern Grove, northwest of 19th Avenue and Sloat Boulevard",
+      "lat": 37.7355,
+      "lon": -122.479,
+      "precision": "block"
+    },
+    "hook": "Less than a year after San Francisco's oldest roadhouse finally became a landmark, an 85-foot eucalyptus crashed through its roof. The news called it \"destroyed.\"",
+    "story": "The Trocadero was built in 1892 as a Stick-Eastlake roadhouse in a wooded gully. It is the last intact survivor of the roadhouses that once dotted the city's western and southern edges. In 1907 the indicted political boss Abe Ruef was caught hiding there [1][2]. In the 1930s Bernard Maybeck restored it as a clubhouse for the new Stern Grove [2]. After lobbying by neighbors and local nonprofits, it finally became a city landmark in 2022 [1][2]. Then, during a storm on March 11, 2023, an 85-foot eucalyptus fell and ripped through the roof, and the sprinklers soaked the historic interior [1]. Historian Woody LaBounty, whose group had led the landmark campaign, remembers watching the head of Recreation and Parks on the morning news, waiting to hear that the city would save the building. Instead he heard something vague, like \"the Trocadero is gone.\" The Chronicle's headline used the word \"destroyed\" [1]. LaBounty thinks the new landmark status may have tipped the balance. Money was found, with reimbursement from a FEMA grant. After a restoration by Architectural Resources Group, the Trocadero began taking event bookings again from April 1, 2025 [1].",
+    "people": [
+      {
+        "name": "Woody LaBounty",
+        "role": "Historian and preservation advocate"
+      },
+      {
+        "name": "Phil Ginsburg",
+        "role": "General manager, SF Recreation and Parks"
+      },
+      {
+        "name": "Bernard Maybeck",
+        "role": "Architect of 1930s restoration"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Trocadero at Stern Grove",
+        "publisher": "FoundSF (Woody LaBounty, originally San Francisco Story)",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Trocadero_at_Stern_Grove",
+        "supports": "1892 Stick-Eastlake roadhouse; 2022 landmarking after lobbying; March 11, 2023 tree; sprinklers; 'destroyed' headline; FEMA reimbursement; ARG restoration; reopening April 1, 2025"
+      },
+      {
+        "title": "Article 10 Landmark Designation Fact Sheet: Trocadero Clubhouse",
+        "publisher": "San Francisco Planning Department / Board of Supervisors (Ordinance 57-22)",
+        "year": 2021,
+        "url": "https://web.archive.org/web/2025id_/https://sfplanninggis.org/docs/landmarks_and_districts/LM301.pdf",
+        "supports": "1892 construction; Abe Ruef's 1907 capture; Maybeck 1930s restoration; landmark ordinance"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-sunset-dunes",
+    "title": "A Highway Becomes a Park, Then a Recall",
+    "theme": "parks-nature",
+    "year": 2025,
+    "yearEnd": null,
+    "place": {
+      "label": "Sunset Dunes (former Upper Great Highway) at Noriega Street",
+      "lat": 37.7544,
+      "lon": -122.5093,
+      "precision": "street"
+    },
+    "hook": "San Francisco turned two miles of oceanfront highway into its newest park. The neighbors closest to it voted against it, and five months later they recalled their supervisor.",
+    "story": "On April 12, 2025, San Francisco opened Sunset Dunes on the old Upper Great Highway between Sloat Boulevard and Lincoln Way. The two-mile, 50-acre park was the largest pedestrianization project in California history. It has a skate space, hammocks, fitness classes and murals of surfing and sea life [1]. Voters citywide had approved Proposition K in 2024, but most residents living closest to the park voted against it, and many were angry about traffic [2]. The anger landed on Supervisor Joel Engardio, who had backed the measure. On September 16, 2025, more than 60 percent of District 4 voters removed him from office, the first recall of a supervisor in city history [3]. \"None of these decisions about us without us,\" said recall supporter Albert Chow, a local business owner [3][2]. Engardio conceded but insisted, \"We are on the right side of history\" [3]. A year after opening, city transit officials reported that traffic on the Sunset's main roads was below pre-pandemic levels. Opponents were still collecting signatures to bring cars back at least part of the time [2]. Park supporters point out that the ground under the highway is already washing away: the lower stretch south of Sloat is closed because of coastal erosion [2].",
+    "people": [
+      {
+        "name": "Joel Engardio",
+        "role": "District 4 supervisor, recalled in 2025"
+      },
+      {
+        "name": "Albert Chow",
+        "role": "Hardware store owner and recall leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sunset Dunes",
+        "publisher": "San Francisco Recreation and Parks Department",
+        "year": 2026,
+        "url": "https://sfrecpark.org/1555/Sunset-Dunes",
+        "supports": "Opening April 12, 2025; largest pedestrianization project in California; 2 miles, 50 acres, Sloat to Lincoln; amenities"
+      },
+      {
+        "title": "Sunset Dunes: 1 Year of San Francisco's Controversial Beachside Park",
+        "publisher": "KQED",
+        "year": 2026,
+        "url": "https://www.kqed.org/news/12079238/one-year-of-san-franciscos-controversial-beachside-park",
+        "supports": "Prop K; nearby residents voted against; recall; Chow as hardware store owner and recall leader; SFMTA traffic data; signature drive; lower road closed by erosion"
+      },
+      {
+        "title": "Engardio trounced in recall election",
+        "publisher": "The San Francisco Standard",
+        "year": 2025,
+        "url": "https://sfstandard.com/2025/09/16/san-francisco-joel-engardio-recall-election-results/",
+        "supports": "Sept 16, 2025 result (64.6% initial, 62.9% updated); first supervisor recall in city history; Chow and Engardio quotes"
+      }
+    ],
+    "photo": null
+  }
+]

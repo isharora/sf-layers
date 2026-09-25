@@ -1,0 +1,644 @@
+[
+  {
+    "id": "excelsior-corner-of-the-salt-marsh",
+    "title": "The Corner of the Salt Marsh",
+    "theme": "indigenous-early",
+    "year": 1839,
+    "place": {
+      "label": "Crocker-Amazon hills, once Rancho Rincón de las Salinas",
+      "lat": 37.71021,
+      "lon": -122.4347,
+      "precision": "area"
+    },
+    "hook": "Before any street had a name, the Excelsior was cattle range on a Mexican rancho whose owner was better known at the tavern than the courthouse.",
+    "story": "Every house in the Excelsior sits on land that was once part of Rancho Rincón de las Salinas y Potrero Viejo, 'the corner of the salt marsh and the old pasture.' The grant covered some 4,446 acres of today's Bernal Heights, Excelsior, Crocker-Amazon and Outer Mission, with a second piece around Hunters Point [1]. It went to José Cornelio Bernal, a presidio soldier from a family that had come north with the Anza expedition. Sources disagree on the details: one gives the grant as 1839, another says his first petition was refused because the land was common grazing ground and was only confirmed in 1840 [1][2]. Bernal kept cattle and sheep, and the local justice of the peace called him up several times in two years for drunken brawls and stabbings at John Vioget's tavern in Yerba Buena [2]. He died in 1842. His widow, Carmen Sibrian de Bernal, and their son won a U.S. patent in 1857, but the family gradually sold off the land. In 1859 William Tecumseh Sherman foreclosed on a mortgage, and by the 1860s the old pasture had been cut into small lots for immigrant farmers and dairymen [1][3].",
+    "people": [
+      {
+        "name": "José Cornelio Bernal",
+        "role": "grantee of the rancho"
+      },
+      {
+        "name": "Carmen Sibrian de Bernal",
+        "role": "widow and heir"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rancho Rincon de las Salinas y Potrero Viejo",
+        "publisher": "Wikipedia",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/Rancho_Rincon_de_las_Salinas_y_Potrero_Viejo",
+        "supports": "4,446 acres, neighbourhoods covered, 1839 grant, heirs, 1857 patent, 1859 Sherman foreclosure, 1860s subdivision"
+      },
+      {
+        "title": "Rancho Life, 1833-1846",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Rancho_Life,_1833-1846",
+        "supports": "Bernal as presidio soldier, Anza link, rejected first petition, 1840 confirmation, tavern brawls"
+      },
+      {
+        "title": "Precita Valley's Park",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Precita_Valley%27s_Park",
+        "supports": "1839 grant to José Cornelio Bernal; 1857 confirmation to his heirs"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "excelsior-400-india-avenue",
+    "title": "The Farmhouse That Lived on India Avenue",
+    "theme": "gold-rush-victorian",
+    "year": 1869,
+    "place": {
+      "label": "400 Peru Avenue (originally 400 India Avenue)",
+      "lat": 37.7268,
+      "lon": -122.42647,
+      "precision": "building"
+    },
+    "hook": "The Excelsior's streets were named for the world's nations. Then China, Japan and India quietly disappeared from the map.",
+    "story": "The Excelsior's map was drawn in 1869 by a homestead association. It laid out a grid of streets named for the world's countries and capitals, from Persia and Russia to Madrid and Naples, long before there were many houses to line them [1]. A walking-tour historian told the Excelsior branch library that the developers were men in international trade [2]. But not every nation kept its place. Under the anti-Asian pressure of the Chinese Exclusion era, China, Japan and India avenues were renamed, and today they are Excelsior, Avalon and Peru [2][3]. The house at 400 Peru Avenue, at Naples Street, began life as 400 India Avenue. It is a simple Italianate farmhouse with a centre gable and bracketed windows. SF Heritage suggests it may date to the 1870s, and the 1915 Sanborn fire map shows a rear wing that once led to a large barn [4]. In 2013 Supervisor John Avalos introduced a resolution to add the original names, 'China,' 'Japan' and 'India,' back onto the street signs above the current ones [3].",
+    "people": [
+      {
+        "name": "John Avalos",
+        "role": "supervisor who restored the old names to signs, 2013"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A New City Landmark Rises in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/a-new-city-landmark-rises-in-the-excelsior/",
+        "supports": "1869 homestead association created streets and names"
+      },
+      {
+        "title": "In the Neighborhood - Greg Pabst and the Excelsior Stroll",
+        "publisher": "San Francisco Public Library, Excelsior Branch",
+        "year": 2010,
+        "url": "http://excelsiorbranchsfpl.blogspot.com/2010/07/in-neighborhood-greg-pabst-and.html",
+        "supports": "international traders named streets; anti-Asian renaming of China, Japan, India"
+      },
+      {
+        "title": "Legislation Introduced at Roll Call, June 18, 2013 (Resolution 130655)",
+        "publisher": "San Francisco Board of Supervisors",
+        "year": 2013,
+        "url": "https://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/introduced/2013/LI061813.pdf",
+        "supports": "China=Excelsior, Japan=Avalon, India=Peru; resolution to add old names to signs"
+      },
+      {
+        "title": "A City Landmark's Little Excelsior Brother",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/a-city-landmarks-little-excelsior-brother/",
+        "supports": "400 Peru was 400 India Avenue; Italianate design, possible 1870s date, 1915 Sanborn barn"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "excelsior-farm-era-survivors",
+    "title": "Survivors From the Hillside Farm Days",
+    "theme": "architecture-landmarks",
+    "year": 1880,
+    "yearEnd": 1908,
+    "place": {
+      "label": "699 Paris Street at Italy Avenue",
+      "lat": 37.71774,
+      "lon": -122.43768,
+      "precision": "building"
+    },
+    "hook": "On a little hill below McLaren Park, a house from the 1880s still stands. Neighbours saved it in 1990.",
+    "story": "Before the building booms, the slope below McLaren Park was farm country, and a few houses from those years are still there. 699 Paris Street has stood at the corner of Italy Avenue since the 1880s. It sits on the top of a small hill in an open yard, 'recalling the agrarian character of early settlement,' as a 1990 preservation note put it [1]. That year the owner planned to knock it down and split the fifty-foot lot for two new homes. The Neighbors of the Excelsior asked for a review, the Landmarks Board recommended keeping the house, and the Planning Commission saved it. In the compromise, one new house went up at the back of the lot, at 225 Italy Avenue in 1991 [1]. Nearby, the Frank R. Smith house of about 1890, with its 'eyebrow' window hoods, spent almost a century at 503 Vienna Street beside the family's corner grocery before it was moved around the corner to 750 Persia Avenue in the 1980s. And 291 Munich Street, a brick cottage built in 1908, is what historian Hannah Simonson calls 'an exceedingly rare example of Richardsonian Romanesque residential architecture' [2].",
+    "people": [
+      {
+        "name": "Carol Taylor",
+        "role": "president, Neighbors of the Excelsior (1990)"
+      },
+      {
+        "name": "Frank R. Smith",
+        "role": "early resident and grocer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "699 Paris Street: An Excelsior Keeper",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/699-paris-street-an-excelsior-keeper/",
+        "supports": "1880s date, 1990 demolition fight and compromise, 225 Italy Ave"
+      },
+      {
+        "title": "Top 5 Excelsior Residential Buildings",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-excelsior-residential-buildings/",
+        "supports": "750 Persia / 503 Vienna Smith house c.1890; 291 Munich 1908 and Simonson quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-cows-versus-neighbours",
+    "title": "Thirty Cows on Mission Street",
+    "theme": "labor-industry",
+    "year": 1910,
+    "place": {
+      "label": "Mission Street near Silver Avenue",
+      "lat": 37.72702,
+      "lon": -122.43323,
+      "precision": "area"
+    },
+    "hook": "In 1910 a rancher was arrested for grazing thirty cattle near Mission and Silver. His accusers were his new suburban neighbours.",
+    "story": "For decades the Excelsior fed San Francisco. Italian truck farmers, the giardinieri from Liguria and Tuscany, grew lettuce, cabbage and artichokes there for the Colombo produce market downtown, next to hog farmers and dairy ranchers [1]. In the 1890s the Excelsior Homestead and Sunnyside had sprawling dairies, and the milk trade was filthy. In 1895 the city hired James P. Dockery as its first Milk Inspector, who accused crooked dairies of having 'murdered infants.' A dairy ordinance finally passed in 1896 [2]. The same year the city first restricted hog ranches [1]. As late as 1910, about 1,200 Italian truck farmers still worked some 8,000 acres along the city's southern edge. But houses were spreading, and in 1910 the law limited each owner to two cows. That February a rancher was arrested for running thirty head of cattle near Mission Street and Silver Avenue. He was arrested at the request of a neighbourhood group, the Excelsior Progressive Association [1]. The farm district was becoming a neighbourhood, and the neighbours wanted the cows gone.",
+    "people": [
+      {
+        "name": "James P. Dockery",
+        "role": "San Francisco's first Milk Inspector"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Italian-American Life in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/italian-american-life-in-the-excelsior/",
+        "supports": "giardinieri, crops, Colombo market, 1,200 farmers/8,000 acres, 1896 hog limit, 1910 two-cow law and arrest"
+      },
+      {
+        "title": "Cattle Raids of Creely",
+        "publisher": "FoundSF (Elizabeth Creely)",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Cattle_Raids_of_Creely",
+        "supports": "Excelsior Homestead dairies, Dockery hired 1895, 'murdered infants', 1896 ordinance"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "excelsior-jewish-home-silver-avenue",
+    "title": "Twelve Residents on Silver Avenue",
+    "theme": "communities",
+    "year": 1891,
+    "place": {
+      "label": "Jewish Home, 302 Silver Avenue",
+      "lat": 37.72826,
+      "lon": -122.42995,
+      "precision": "building"
+    },
+    "hook": "In farm country at Silver and Mission, San Francisco's Jewish community opened a home for its elders in 1891. It has been caring for them ever since.",
+    "story": "In 1871 the Pacific Hebrew Orphan Asylum and Home Society was incorporated 'to found and maintain an asylum for orphan children' and 'to establish and support a Home for aged and infirm Israelites' [1]. In 1872 the society bought land at Silver Avenue and Mission Street, then open country at the southern edge of the city. There it put up a rambling two-storey wooden Victorian building, which opened its doors in 1891 to twelve residents [1]. A San Francisco Public Library photograph of the building is labelled simply 'Old Silver Ave. home' [2]. In 1923 the wooden house gave way to a red-brick building with Roman columns, designed by the architect Samuel Lightner Hyman. It has a formal symmetrical plan: a central pavilion with a giant portico, linked to identical wings [1]. The site grew to almost nine acres and the institution kept its purpose. More than 125 years later it is still a senior home, now called the San Francisco Campus for Jewish Living, and it is one of the Excelsior's oldest institutions [1][2].",
+    "people": [
+      {
+        "name": "Samuel Lightner Hyman",
+        "role": "architect of the 1923 building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Who We Are: History",
+        "publisher": "San Francisco Campus for Jewish Living",
+        "year": null,
+        "url": "https://sfcjl.org/about-history.htm",
+        "supports": "1871 incorporation and quotes, 1872 site purchase, wooden Victorian, 1891 opening with 12 residents, 1923 Hyman building"
+      },
+      {
+        "title": "Top 5 Institutional Buildings in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-institutional-buildings-in-the-excelsior/",
+        "supports": "SFPL photo 'Old Silver Ave. home', 302 Silver Ave, ~9-acre site, 125+ years of use"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "excelsior-saloon-on-the-racetrack-road",
+    "title": "A Saloon on the Road to the Races",
+    "theme": "gold-rush-victorian",
+    "year": 1895,
+    "yearEnd": 1910,
+    "place": {
+      "label": "4447-4449 Mission Street",
+      "lat": 37.72693,
+      "lon": -122.43276,
+      "precision": "building"
+    },
+    "hook": "One of the Excelsior's oldest buildings served beer to farmhands and Sunday crowds heading for the Ingleside racetrack.",
+    "story": "Between Avalon and Excelsior avenues, 4447-4449 Mission Street is a little Victorian storefront from the 1890s, with its second-floor porch and panelled bulkheads still in place. It began as a saloon for the district's farm labourers and for the Sunday crowds heading out to the Ingleside Racetrack [1]. Two other survivors from about the turn of the century stand farther south at 4716 and 4722 Mission, with carved wooden cornices and bracketed arched windows. They appear in a city photograph of May 1915 [2]. Mission Street soon filled in. Guadalupe Hall at 4555 Mission, built in 1909, was the Excelsior's earliest social venue. For a time it was the only hall in the southern part of the city, hosting weddings, dinners and meetings of the Native Sons and Daughters of the Golden West [3]. In 1910 Central Drug Store opened on the corner of Santa Rosa Avenue at 4494 Mission. It is the oldest business in the Excelsior still operating [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Top 5 Excelsior Commercial Buildings",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-excelsior-commercial-buildings/",
+        "supports": "4447-4449 Mission 1890s saloon for farm labourers and Ingleside racetrack crowds; Central Drug 1910"
+      },
+      {
+        "title": "Excelsior Endangered",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/excelsior-endangered/",
+        "supports": "4716 and 4722 Mission turn-of-century buildings in 1915 photo"
+      },
+      {
+        "title": "Top 5 Institutional Buildings in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-institutional-buildings-in-the-excelsior/",
+        "supports": "Guadalupe Hall 1909, only venue, Native Sons and Daughters"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-big-subs",
+    "title": "The Streetcars That Crushed the Sewer",
+    "theme": "labor-industry",
+    "year": 1907,
+    "yearEnd": 1923,
+    "place": {
+      "label": "Mission Street, San Mateo interurban (40-line) route",
+      "lat": 37.71854,
+      "lon": -122.43978,
+      "precision": "street"
+    },
+    "hook": "The heaviest streetcars in San Francisco rolled down Mission Street, until the city found they were crushing the brick sewer underneath.",
+    "story": "In 1902 the United Railroads took over the city's first electric railway and sent its San Mateo interurban, the famous 40-line, straight down the busy Mission Street corridor [1][2]. After the 1906 earthquake, URR president Patrick Calhoun wanted fast, luxurious cars to compete with the Southern Pacific's new Bayshore line. He bought sixteen ornate interurbans that the Philadelphia & Western had rejected. They were the largest electric vehicles San Francisco had seen: 52 feet long and 75,640 pounds, which earned them the nickname 'Big Subs' [1]. Mission Street gave them trouble from the start. Soon after they arrived in January 1907 they were pulled from service because they kept derailing, since their wheel flanges were too high for the rails, and they needed new wheels [1]. The end came from below the road. In 1922 the city's Water Department found that the cars' weight was crushing the lightly built brick sewer beneath the ties and threatened to sue. The Big Subs were withdrawn in 1923, and the last one was dismantled and burned in 1935 [1]. The 40-line itself, by the 1920s the Market Street Railway's most profitable route, ran until 1949 [1].",
+    "people": [
+      {
+        "name": "Patrick Calhoun",
+        "role": "president, United Railroads"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's 40-line",
+        "publisher": "Museum of the City of San Francisco (Walter Rice & Emiliano Echeverria)",
+        "year": null,
+        "url": "http://www.sfmuseum.org/hist10/interurban.html",
+        "supports": "Mission Street routing, Big Subs purchase, size, 1907 derailments, 1922 sewer finding, 1923 withdrawal, 1935 scrapping, profitability, 1949 end"
+      },
+      {
+        "title": "San Francisco's Pioneer Electric Railway",
+        "publisher": "Museum of the City of San Francisco (Walter Rice & Emiliano Echeverria)",
+        "year": null,
+        "url": "http://www.sfmuseum.org/hist10/sf&sm.html",
+        "supports": "1902 URR control and rerouting via Mission Street corridor"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-after-the-fire-boom",
+    "title": "Refugees, Horses and a Self-Made 'Mayor'",
+    "theme": "quake1906",
+    "year": 1907,
+    "place": {
+      "label": "A. B. Frank real estate office, 4607 Mission Street",
+      "lat": 37.72441,
+      "lon": -122.43467,
+      "precision": "building"
+    },
+    "hook": "The 1906 fire burned out the old city. Fields at the southern edge became the new one, and one real-estate man set up shop to sell it.",
+    "story": "Decades after its streets were mapped, much of the Excelsior was still farm fields. The earthquake and fire of 1906 changed that, as burned-out San Franciscans moved to the outer districts [1]. The Cronin family was one of them. Jeremiah Cronin, an Irish immigrant with a team of horses, found plenty of rebuilding work. The fire had taken the family home, and his son Joe was born in October 1906 while they were living with Jeremiah's sister. Early in 1907 they moved into a new house in the Excelsior [2]. That same year real estate broker Ambrose B. Frank opened an office at 4607 Mission Street. He considered himself a pioneer and a key figure in the district's post-quake growth. By the 1930s, the Examiner reported, his neighbours hailed him as 'the mayor of the district' [1]. Promoters in the 1910s also tried out a softer name for the area, 'Green Valley.' It survived for a while in businesses like the Green Valley Macaroni Factory at 4736 Mission [1]. Joe Cronin grew up to be a Hall of Fame shortstop.",
+    "people": [
+      {
+        "name": "Ambrose B. Frank",
+        "role": "real estate broker"
+      },
+      {
+        "name": "Jeremiah Cronin",
+        "role": "teamster, father of Joe Cronin"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A New City Landmark Rises in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/a-new-city-landmark-rises-in-the-excelsior/",
+        "supports": "post-1906 growth, A. B. Frank office 1907 and 'mayor' quote, Green Valley name and macaroni factory"
+      },
+      {
+        "title": "Joe Cronin (SABR BioProject)",
+        "publisher": "Society for American Baseball Research (Mark Armour)",
+        "year": null,
+        "url": "https://sabr.org/bioproj/person/joe-cronin/",
+        "supports": "Cronin family lost home in fire, horses, birth Oct 1906, move to Excelsior early 1907"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "excelsior-eagle-brewing",
+    "title": "Steam Beer Beside a Vanished Lake",
+    "theme": "labor-industry",
+    "year": 1912,
+    "yearEnd": 1918,
+    "place": {
+      "label": "Eagle Brewing Company, 5050 Mission Street at Seneca Avenue",
+      "lat": 37.71767,
+      "lon": -122.4403,
+      "precision": "building"
+    },
+    "hook": "Painted signs read MALT, HOPS, STEAM BEER AND PORTER. The Excelsior once had its own brewery, with its name spelled out in hedges.",
+    "story": "A 1916 photograph looking down Mission Street near Seneca shows a big building covered in painted words: 'MALT,' 'HOPS,' 'STEAM BEER AND PORTER.' The front lawn had letters cut into topiary hedges [1]. This was the Eagle Brewing Company. It started in 1899 on Guerrero Street and moved to Harrison Street, where fire destroyed the brewery in 1911. From 1912 the company brewed at 5050 Mission Street [1]. Its building, designed by C. A. Meussdorffer, had a grand, vaguely Mission-style front. Behind it was a three-storey wooden plant with a 40-foot brick oil-fired oven and an iron smokestack 20 feet above the roof, plus a barn and its own electric plant, close to the railway on today's Alemany Boulevard [1]. SF Heritage says Prohibition shut it in 1918. The cross street was then called Mohawk, and an 1873 map shows a small 'Lake Geneva' nearby, one of the city's vanished waters [1]. Industry was coming to Mission Street. From about 1914 to 1923 the Green Valley Macaroni Factory made pasta at 4736 Mission [2].",
+    "people": [
+      {
+        "name": "C. A. Meussdorffer",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Excelsior Hidden History - 5050 Mission St.",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/excelsior-hidden-history-5050-mission-st/",
+        "supports": "1916 photo signs, brewery history and dates, Meussdorffer, Sanborn details, Mohawk, Lake Geneva"
+      },
+      {
+        "title": "A New City Landmark Rises in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/a-new-city-landmark-rises-in-the-excelsior/",
+        "supports": "Green Valley Macaroni Factory at 4736 Mission c.1914-1923"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-epiphany-church-sawn-in-half",
+    "title": "The Church Pushed Uphill in Halves",
+    "theme": "communities",
+    "year": 1922,
+    "yearEnd": null,
+    "place": {
+      "label": "Church of the Epiphany, Naples Street and Amazon Avenue",
+      "lat": 37.71529,
+      "lon": -122.43398,
+      "precision": "block"
+    },
+    "hook": "When their little wooden church got too small, Excelsior parishioners cut it in two and rolled it up the hill on logs and barrels.",
+    "story": "By 1911 there were enough German, Irish and Italian families in the Excelsior and Crocker-Amazon to need a church of their own; until then they had to walk to St. John's or St. Michael's for Mass. On January 21 that year Archbishop Patrick Riordan dedicated a wood-frame, shingle-roofed mission church, the Church of the Epiphany, at the southwest corner of Russia Avenue and Paris Street. It seated about 300 [1]. Accounts put the cost, lots included, at about $18,600 [1][2]. It became a parish in 1914. In 1922 the parish boundaries were redrawn, and the new pastor, Irish-born Father Patrick Ryan, faced a congregation too big for the building [1]. The archdiocese bought a whole block bounded by Naples, Vienna, Amazon and Italy for $24,011. Rather than build new, the parish sawed the old church in half. The two halves were set on logs and barrels, pushed up Russia Avenue and placed twenty-three feet apart on Naples Street, and new construction joined them. The enlarged church seated 480 [1][2]. The old building was moved once more, on rollers, when the present church was built (sources give 1950 or 1952), and ended its life as the parish gym [1].",
+    "people": [
+      {
+        "name": "Father Patrick Ryan",
+        "role": "pastor from 1922"
+      },
+      {
+        "name": "Archbishop Patrick Riordan",
+        "role": "dedicated the first church, 1911"
+      }
+    ],
+    "sources": [
+      {
+        "title": "1911-2011: A Look at the History of the Church of the Epiphany",
+        "publisher": "Church of the Epiphany (via Internet Archive)",
+        "year": 2011,
+        "url": "http://web.archive.org/web/20111006063746/http://epiphanysf.com/2011-cc/Epiphany's_History.pdf",
+        "supports": "1911 dedication, location, seating, $18,631.40 cost, 1914 parish, 1922 split and move, $24,011 lot, 480 seats, later reuse as gym"
+      },
+      {
+        "title": "Church of the Epiphany (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Epiphany_(San_Francisco)",
+        "supports": "1911 building, corner, cost ($18,613.40), halves on barrels and logs, 480 seats"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-playground-joe-cronin",
+    "title": "The Playground That Made a Hall of Famer",
+    "theme": "parks-nature",
+    "year": 1912,
+    "yearEnd": 1924,
+    "place": {
+      "label": "Excelsior Playground, Russia Avenue and Madrid Street",
+      "lat": 37.72035,
+      "lon": -122.43324,
+      "precision": "block"
+    },
+    "hook": "The Excelsior Playground opened in July 1912. One block away lived a boy who would become one of baseball's greatest shortstops.",
+    "story": "On July 30, 1912, a crowd gathered between Madrid and Edinburgh streets to dedicate the Excelsior Playground. The photographer labelled it 'No. 3 Excelsior Homestead Play Grounds,' with the houses of Russia Avenue behind [1][2]. San Francisco's playgrounds then had directors who organised teams and games against other playgrounds, and this one was a block from the house of a young Joe Cronin [3]. His Irish-born father had moved the family to the Excelsior after the 1906 fire. Joe played soccer, ran track and won the boys' city tennis championship in 1920, but baseball was his first love [3]. In 1922 he and Wally Berger helped Mission High win the city baseball championship. After Mission High burned he moved to Sacred Heart, which won the citywide prep title in his senior year, 1924 [3]. That autumn he turned down the hometown Seals for a better offer from a Pittsburgh Pirates scout. He went on to star as a shortstop and manager and was elected to the Baseball Hall of Fame in 1956 [3][4].",
+    "people": [
+      {
+        "name": "Joe Cronin",
+        "role": "Hall of Fame shortstop, grew up nearby"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Excelsior Playground, Jul 30, 1912 (wnp33.00559)",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": null,
+        "url": "https://opensfhistory.org/Display/wnp33.00559.jpg",
+        "supports": "dedication date, view, 'No. 3 Excelsior Homestead Play Grounds'"
+      },
+      {
+        "title": "Dedication of Excelsior Playground 1912",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Dedication_of_Excelsior_Playground_1912",
+        "supports": "dedication July 30, 1912, Russia/Edinburgh/Madrid"
+      },
+      {
+        "title": "Joe Cronin (SABR BioProject)",
+        "publisher": "Society for American Baseball Research (Mark Armour)",
+        "year": null,
+        "url": "https://sabr.org/bioproj/person/joe-cronin/",
+        "supports": "playground a block from Cronin home, playground system, 1920 tennis title, 1922 Mission High, Sacred Heart 1924, Pirates"
+      },
+      {
+        "title": "Joe Cronin",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Joe_Cronin",
+        "supports": "Hall of Fame election 1956, born in Excelsior District"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-engine-43-brazil-avenue",
+    "title": "The Firehouse That Went Dark in 1918",
+    "theme": "architecture-landmarks",
+    "year": 1912,
+    "yearEnd": 1925,
+    "place": {
+      "label": "Former Engine Company 43, 724 Brazil Avenue",
+      "lat": 37.72161,
+      "lon": -122.42889,
+      "precision": "building"
+    },
+    "hook": "The Excelsior got its own horse-drawn fire company in 1912. Six years later the company was disbanded, and it stayed shut for seven years.",
+    "story": "The firehouse at 724 Brazil Avenue went up in 1911, when horses still pulled the engines. Like other firehouses of the time it had a tall tower for hanging wet hoses to dry [1]. Engine Company 43 was organised in 1912 and moved in, giving the growing district a company of its own [2]. The fire department's historical records show the company disbanded on August 15, 1918, and not reorganised at the same Brazil Avenue quarters until 1925. For seven years the Excelsior's firehouse had no company [2]. The records do not say why. Once revived, Engine 43 stayed on Brazil Avenue until 1970, when it moved to new quarters at 720 Moscow Street [2]. The city auctioned the old firehouse in 1976 and it became a private home. It had a moment of fame when it was featured in the 2001 film 'The Princess Diaries' [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Top 5 Excelsior Residential Buildings",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-excelsior-residential-buildings/",
+        "supports": "built 1911, horses, hose tower, 1976 auction, Princess Diaries"
+      },
+      {
+        "title": "Engine Company No. 43",
+        "publisher": "Guardians of the City (SFFD history)",
+        "year": null,
+        "url": "https://www.guardiansofthecity.org/sffd/companies/engines/engine43.html",
+        "supports": "organised 1912 at 724 Brazil, disbanded Aug 15, 1918, reorganised 1925, moved 1970 to 720 Moscow"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "excelsior-randolph-telephone-exchange",
+    "title": "27,000 Lines Behind a Brick Front",
+    "theme": "architecture-landmarks",
+    "year": 1915,
+    "place": {
+      "label": "Former telephone exchange, 35 Russia Avenue at London Street",
+      "lat": 37.72154,
+      "lon": -122.43637,
+      "precision": "building"
+    },
+    "hook": "A handsome brick apartment block off Mission Street hides its past in its doorway: the bell of the old telephone company.",
+    "story": "In 1915 the Pacific Telephone and Telegraph Company built a telephone exchange on the northwest corner of Russia Avenue and London Street, just off Mission [1]. The brick building is in the Classical Revival style, solid and formal. Inside, some 27,000 phone lines were wired into switchboards [1]. The building is now apartments, known as the Randolph Apartments, and a 2014 photograph on FoundSF labels it the 'Randolph Exchange' [1][2]. The telephone company's bell logo, set in mosaic tile in the entry, still records what it used to be [1]. The corner also shows how the Excelsior grew. A few doors away is the Italian American Social Club at 25 Russia Avenue, whose members first met in a basement on Naples Street in 1928 [2][3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Top 5 Excelsior Residential Buildings",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-excelsior-residential-buildings/",
+        "supports": "built 1915 by PT&T, Classical Revival, 27,000 lines, bell mosaic, Randolph Apartments"
+      },
+      {
+        "title": "THE CROCKER-AMAZON",
+        "publisher": "FoundSF (photo by Chris Carlsson)",
+        "year": 2014,
+        "url": "https://www.foundsf.org/index.php?title=THE_CROCKER-AMAZON",
+        "supports": "photo caption: Italian-American Social Club and Randolph Exchange at 35 Russia St"
+      },
+      {
+        "title": "Top 5 Institutional Buildings in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-institutional-buildings-in-the-excelsior/",
+        "supports": "Italian American Social Club first met in a Naples St basement in 1928"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "excelsior-theatre-1922",
+    "title": "The Excelsior Gets a Picture Palace",
+    "theme": "arts-counterculture",
+    "year": 1922,
+    "place": {
+      "label": "Excelsior (later Granada) Theatre, 4631 Mission Street",
+      "lat": 37.72392,
+      "lon": -122.43492,
+      "precision": "building"
+    },
+    "hook": "In 1922 the Excelsior got its own movie house, named after the district. Nine years later it got a new name and a Spanish tower.",
+    "story": "By the early 1920s the Excelsior was big enough to want its own movie palace. The Excelsior Amusement Company hired the architect G. Albert Lansburgh, and his plans appeared in Building and Engineering News in 1921 [1]. The theatre opened in 1922 at 4631 Mission Street, near Ocean Avenue, as the Excelsior [1][2]. It was not the only screen on the street. The Bell Theatre stood near Mission and Leo, and that same year it was a temporary church. The congregation of the Ocean Avenue Presbyterian Church worshipped there for three months while its new building, designed by Julia Morgan, was being finished [3]. In 1931 the Excelsior was renamed the Granada and given a $150,000 remodel with a tall Spanish-style tower. About a decade later it was remodelled again in sleek Streamline Moderne [2]. It closed in 1982 and is now a Goodwill store. Neighbourhood advocates want to put up a new vertical sign that says 'Excelsior' again [1][2].",
+    "people": [
+      {
+        "name": "G. Albert Lansburgh",
+        "role": "architect"
+      },
+      {
+        "name": "Julia Morgan",
+        "role": "architect of Ocean Avenue Presbyterian Church"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Excelsior District, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Excelsior_District,_San_Francisco",
+        "supports": "Lansburgh, Excelsior Amusement Co., 1921 Building and Engineering News, 1922 opening as Excelsior, 1931 rename, 1982 closure"
+      },
+      {
+        "title": "Top 5 Excelsior Commercial Buildings",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-excelsior-commercial-buildings/",
+        "supports": "4631 Mission, built 1922, 1931 Granada rename and $150,000 remodel, later Streamline remodel, sign proposal"
+      },
+      {
+        "title": "Top 5 Institutional Buildings in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/top-5-institutional-buildings-in-the-excelsior/",
+        "supports": "Ocean Avenue Presbyterian (Julia Morgan, 1922) met three months at the Bell Theater, Mission and Leo"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "excelsior-ferrera-hardware-well",
+    "title": "The Hardware Man Who Dug His Own Well",
+    "theme": "communities",
+    "year": 1928,
+    "place": {
+      "label": "Ferrera Building, 4534-4540 Mission Street at Harrington",
+      "lat": 37.72545,
+      "lon": -122.43458,
+      "precision": "building"
+    },
+    "hook": "Alfonso Ferrera arrived in 1909 unable to speak English. By 1928 his name was on a new building on Mission Street, and the building had its own well.",
+    "story": "Alfonso Ferrera arrived in San Francisco in 1909, 'a poor Italian boy' who spoke no English. He worked in a restaurant for seven years and then started his own business in the Excelsior, where many Italian families were settling. He began with a 5-10-15 cent store at 4655 Mission Street, and in 1921 he took over McCall's hardware store on the corner of Harrington Street [1]. The 1920s building boom was good for business, with hundreds of new neighbours needing paint and building materials. Ferrera decided to build big. While his wife Irene ran the store in a temporary location down the block, he put up the steel-framed Ferrera Building. A special edition of the Excelsior News in August 1928 described its offices 'for professional men' and apartments with steam heat, Frigidaires and an elevator [1]. He also dug a well for the building's own water. His nephew, the historian Walter Jebe, wrote that 'until the city made him cap it, it was one of the last freshwater wells in San Francisco' [1]. An old-timer told another local historian that in droughts the store handed out its well water [2]. Ferrera Hardware served the Excelsior until 1992 [1][3].",
+    "people": [
+      {
+        "name": "Alfonso Ferrera",
+        "role": "hardware merchant"
+      },
+      {
+        "name": "Irene Ferrera",
+        "role": "ran the store during construction"
+      }
+    ],
+    "sources": [
+      {
+        "title": "One Family's Excelsior Legacy",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/one-familys-excelsior-legacy/",
+        "supports": "Ferrera biography, 1921 purchase, 1928 building, Excelsior News quotes, well and Jebe quote, 1992 closure"
+      },
+      {
+        "title": "In the Neighborhood - Greg Pabst and the Excelsior Stroll",
+        "publisher": "San Francisco Public Library, Excelsior Branch",
+        "year": 2010,
+        "url": "http://excelsiorbranchsfpl.blogspot.com/2010/07/in-neighborhood-greg-pabst-and.html",
+        "supports": "drought well water dispensed from Ferrera Hardware basement"
+      },
+      {
+        "title": "Italian-American Life in the Excelsior",
+        "publisher": "San Francisco Heritage",
+        "year": 2020,
+        "url": "https://www.sfheritage.org/features/italian-american-life-in-the-excelsior/",
+        "supports": "Ferrera Hardware founded 1914 by Alfonso and Antonio Ferrera, at 4540 Mission until 1992"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  }
+]

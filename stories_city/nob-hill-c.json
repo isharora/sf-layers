@@ -1,0 +1,650 @@
+[
+ {
+  "id": "nob-hill-tony-bennett-venetian-room",
+  "title": "The song first sung on Nob Hill",
+  "theme": "arts-counterculture",
+  "year": 1961,
+  "yearEnd": null,
+  "place": {
+   "label": "Fairmont Hotel (Venetian Room), 950 Mason St",
+   "lat": 37.79218,
+   "lon": -122.41067,
+   "precision": "building"
+  },
+  "hook": "A ballad two homesick New Yorkers wrote about San Francisco got its first public airing in a Fairmont supper club, and the city never let it go.",
+  "story": "In December 1961 Tony Bennett stepped onto the stage of the Venetian Room, the Fairmont Hotel's supper club, and sang \"I Left My Heart in San Francisco\" in public for the very first time [1][2]. Released on record the following year, the 1962 ballad became either the city's ultimate ode or its most overplayed cliché, depending on whom you ask [1].\n\nThe bond lasted six decades. When Mayor Dianne Feinstein passed the hat to save the crumbling cable cars in the early 1980s, Bennett was among the stars who lent their names [3]. In June 2018 the city renamed the block of Mason Street in front of the Fairmont \"Tony Bennett Way.\" A stuntman dressed as the singer rappelled down the hotel's facade to open the party, and then the real Bennett, aged 91, took the stage: \"It's so beautiful. The sun is out and it's San Francisco at its best right now,\" he said [2].\n\nOn 25 April 2020, with the city sheltering from COVID-19, residents were invited to sing the song together from windows and balconies at noon as a salute to health workers, and Bennett released a fresh rendition for them to sing along to [1].",
+  "people": [
+   {
+    "name": "Tony Bennett",
+    "role": "singer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Tony Bennett Wants You to Sing 'I Left My Heart in San Francisco' on Saturday",
+    "publisher": "KQED (Rae Alexandra)",
+    "year": 2020,
+    "url": "https://www.kqed.org/arts/13879106/tony-bennett-to-lead-virtual-san-francisco-sing-along-this-saturday",
+    "supports": "First performance December 1961 in the Fairmont's Venetian Room; April 25, 2020 citywide sing-along and new rendition"
+   },
+   {
+    "title": "San Francisco renames street in honor of singer Tony Bennett",
+    "publisher": "ABC7 / KGO-TV",
+    "year": 2018,
+    "url": "https://abc7news.com/san-francisco-tony-bennett-way-in-street/3554097/",
+    "supports": "Tony Bennett Way on Mason St in front of the Fairmont, stuntman rappelling, Bennett aged 91 and his quote; first performed song at the Fairmont in 1961"
+   },
+   {
+    "title": "When Mick Jagger joined Dianne Feinstein to save SF's cable cars",
+    "publisher": "San Francisco Chronicle (Peter Hartlaub)",
+    "year": 2018,
+    "url": "https://www.sfchronicle.com/oursf/article/All-Down-the-Line-When-Mick-Jagger-pitched-in-to-13180639.php",
+    "supports": "Tony Bennett among the stars in Feinstein's early-1980s cable car campaign"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-mlk-grace-cathedral",
+  "title": "Dr. King fills Grace Cathedral",
+  "theme": "civil-rights",
+  "year": 1965,
+  "yearEnd": null,
+  "place": {
+   "label": "Grace Cathedral, 1100 California St",
+   "lat": 37.79165,
+   "lon": -122.41331,
+   "precision": "building"
+  },
+  "hook": "Weeks after Selma, Martin Luther King Jr. preached on Nob Hill to a crowd so vast the fire marshal shut the doors and offering baskets went outside.",
+  "story": "Grace Cathedral was consecrated in November 1964 after decades of construction [1]. To celebrate, the controversial Bishop James Pike, who had marched at Selma, invited Martin Luther King Jr. to preach, and on 28 March 1965, the fourth Sunday of Lent, King came [2][4].\n\nCrowds surged around the cathedral from early morning. By 10 a.m. it was packed, and Grace had never seen so many people, most of them African American. About 5,000 filled the nave, steps, plaza and parking lot; not until the memorial service after 11 September 2001 would a crowd that size gather there again [2]. King was slipped in through a rear door among bodyguards.\n\nDean Julian Bartlett later recalled the fire marshal shutting the doors before 10:30, plainclothes police stationed in front of and behind the pulpit, and a moment of panic when he spotted a figure on the catwalk above the unfinished vaulting. It turned out to be a seminarian taking photographs. When the crowd outside heard over loudspeakers that the collection was being taken, they shouted for their own offering takers, and ushers waded out with baskets [2]. The same day King was also due at the KRON studios for an episode of Meet the Press [3].",
+  "people": [
+   {
+    "name": "Martin Luther King Jr.",
+    "role": "preacher"
+   },
+   {
+    "name": "James A. Pike",
+    "role": "Episcopal Bishop of California who invited him"
+   },
+   {
+    "name": "C. Julian Bartlett",
+    "role": "Dean of Grace Cathedral"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Years of Grace, Part II: Vision to Reality (Tales from the Crypt)",
+    "publisher": "Grace Cathedral (Michael Lampen, archivist)",
+    "year": 2001,
+    "url": "https://web.archive.org/web/2008/http://www.gracecathedral.org/enrichment/crypt/cry_20010516.shtml",
+    "supports": "Consecration November 20, 1964; King's 1965 visit drew the largest crowd ever at the cathedral"
+   },
+   {
+    "title": "Dr. Martin Luther King, Jr. Preaches at Grace Cathedral in 1965",
+    "publisher": "Grace Cathedral (Michael Lampen)",
+    "year": 2012,
+    "url": "https://web.archive.org/web/20121015173718/http://www.gracecathedral.org/visit/cathedral-history-art/mlk.php",
+    "supports": "Pike's invitation, March 28 date, ~5,000 crowd, rear-door entry, Bartlett's recollections of doors closed, police, catwalk and outdoor offering"
+   },
+   {
+    "title": "Worth the wait: Grace Cathedral's early days and biggest moments",
+    "publisher": "San Francisco Chronicle (Bill Van Niekerken)",
+    "year": 2020,
+    "url": "https://www.sfchronicle.com/chronicle_vault/article/Worth-the-wait-Archive-finds-of-Grace-15344573.php",
+    "supports": "King arrived March 28, 1965 to speak at Grace Cathedral and at KRON studios for Meet the Press"
+   },
+   {
+    "title": "Bishop James Pike: Visionary or Heretic? (Tales from the Crypt)",
+    "publisher": "Grace Cathedral (Michael Lampen)",
+    "year": 2001,
+    "url": "https://web.archive.org/web/2007/http://www.gracecathedral.org/enrichment/crypt/cry_20011114.shtml",
+    "supports": "Pike marched in Selma and consecrated the completed cathedral in 1964"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-ellington-sacred-concert",
+  "title": "Duke Ellington swings the cathedral",
+  "theme": "arts-counterculture",
+  "year": 1965,
+  "yearEnd": null,
+  "place": {
+   "label": "Grace Cathedral nave, California & Taylor Sts",
+   "lat": 37.79182,
+   "lon": -122.41305,
+   "precision": "building"
+  },
+  "hook": "Ellington called it the most important thing he ever did. Some in the pews thought a saxophone had no business in an Episcopal nave.",
+  "story": "As part of a year-long Festival of Grace marking the cathedral's completion, Dean C. Julian Bartlett, a jazz lover from New Orleans, met Duke Ellington in North Beach and commissioned an extended sacred work [1]. Ellington later wrote that he saw it as \"an exceptional opportunity\": now he could say openly \"what I have been saying to myself on my knees\" [1].\n\nThe Concert of Sacred Music premiered at Grace in September 1965 before an overflow crowd of about 2,500 and was filmed by the young public station KQED with Chronicle jazz critic Ralph Gleason [1]. The phrase \"In the Beginning God\" ran through the evening; Bunny Briggs tap-danced to \"David Danced Before the Lord With All His Might\"; and Esther Marrow, who had only ever sung in church, sang \"Come Sunday.\" Her nerves were matched by Ellington's: his white suit arrived without its trousers [1].\n\nIt was near-scandalous at the time. A Chronicle review said the band left many \"discomfited, nervous or edgy\" at a sax piercing the nave, and a cathedral staffer says priests organising a jazz mass by Vince Guaraldi that same festival year got death threats [1]. The cathedral's archivist pairs the concert with Dr. King's visit as the signature events of 1965 [2]. Ellington called it \"the most important thing I've ever done\" [1].",
+  "people": [
+   {
+    "name": "Duke Ellington",
+    "role": "composer and bandleader"
+   },
+   {
+    "name": "C. Julian Bartlett",
+    "role": "Dean who commissioned the work"
+   },
+   {
+    "name": "Esther Marrow",
+    "role": "singer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "From the Club to the Cathedral: Revisiting Duke Ellington's Controversial 'Sacred Concert'",
+    "publisher": "KQED (Gabe Meline)",
+    "year": 2015,
+    "url": "http://ww2.kqed.org/arts/2015/09/14/from-the-club-to-the-cathedral-revisiting-duke-ellingtons-controversial-sacred-concert/",
+    "supports": "Festival of Grace, Bartlett commission, Ellington quotes, 2,500 crowd, KQED/Gleason filming, programme details, Marrow, Chronicle review, Guaraldi threats"
+   },
+   {
+    "title": "Years of Grace, Part II: Vision to Reality (Tales from the Crypt)",
+    "publisher": "Grace Cathedral (Michael Lampen, archivist)",
+    "year": 2001,
+    "url": "https://web.archive.org/web/2008/http://www.gracecathedral.org/enrichment/crypt/cry_20010516.shtml",
+    "supports": "Ellington premiered his Sacred Concert at the cathedral in 1965, after King's visit"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-haring-aids-chapel",
+  "title": "Keith Haring's last work",
+  "theme": "lgbtq",
+  "year": 1995,
+  "yearEnd": 2000,
+  "place": {
+   "label": "AIDS Interfaith Chapel, Grace Cathedral north tower",
+   "lat": 37.7921,
+   "lon": -122.4127,
+   "precision": "building"
+  },
+  "hook": "Weeks before AIDS killed him, Keith Haring carved an altarpiece into wet clay without a single sketch. One casting now glows just inside Grace Cathedral's doors.",
+  "story": "Keith Haring finished The Life of Christ, a triptych drawn freehand into wet clay for casting in bronze and white gold, about two weeks before he died of AIDS in 1990. He never saw it cast [1]. In the centre panel a many-armed figure cradles the infant Jesus beneath a radiant heart; tears rain onto a jostling crowd, angels tumble at the sides [1][2].\n\nOn World AIDS Day, 1 December 1995, a casting was unveiled at Grace Cathedral as the heart of a new AIDS chapel [1]. The space, the ground floor of the north \"Singing Tower,\" had been a storeroom, a classroom and briefly the gift shop; it was set aside in 1995 and dedicated in 2000 [2]. It sits just inside the entrance, so that people wary of the vast cathedral could come in \"just a little way,\" as Vice Dean Frances Tornquist put it [2].\n\nThe chapel honours the 19,400 San Franciscans the archivist counted as lost to AIDS, alongside caregivers and volunteers, with symbols of many faiths on its piers and a section of the AIDS Memorial Quilt on the back wall. Quilt panels had hung here since 1992 [2]. The cathedral's own accounts credit both an anonymous donor and a group of major donors for the purchase [1][2].",
+  "people": [
+   {
+    "name": "Keith Haring",
+    "role": "artist"
+   },
+   {
+    "name": "Frances Tornquist",
+    "role": "Vice Dean"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Keith Haring Altarpiece",
+    "publisher": "Grace Cathedral (Gary M. Spahl)",
+    "year": 1996,
+    "url": "https://web.archive.org/web/2008/http://www.gracecathedral.org/enrichment/crypt/cry_19961101.shtml",
+    "supports": "Haring's last work completed two weeks before death; no sketches; unveiled December 1, 1995, World AIDS Day; anonymous donor"
+   },
+   {
+    "title": "The AIDS Interfaith Chapel (Tales from the Crypt)",
+    "publisher": "Grace Cathedral (Michael Lampen)",
+    "year": 2001,
+    "url": "https://web.archive.org/web/2008/http://www.gracecathedral.org/enrichment/crypt/cry_20010905.shtml",
+    "supports": "Chapel set aside 1995, dedicated 2000; prior uses; Tornquist quote; 19,400 San Franciscans; quilt since 1992; description of triptych; purchase via donors"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-grace-labyrinth",
+  "title": "A medieval maze on Nob Hill",
+  "theme": "modern-city",
+  "year": 1991,
+  "yearEnd": 1995,
+  "place": {
+   "label": "Grace Cathedral outdoor labyrinth, Taylor St side",
+   "lat": 37.79205,
+   "lon": -122.41296,
+   "precision": "building"
+  },
+  "hook": "A canon walked a labyrinth taped to a conference floor, and Grace Cathedral ended up helping to spark a worldwide revival of an 800-year-old spiritual practice.",
+  "story": "In 1991 the Rev. Dr. Lauren Artress, a canon at Grace Cathedral and the first woman on its chapter, walked a temporary eleven-circuit labyrinth taped on a floor at a workshop led by psychologist Jean Houston. The idea of bringing one to Grace, she later wrote, \"suddenly dominated her life\" [1].\n\nThat autumn members of the cathedral community made a canvas copy of the labyrinth set into the nave floor of Chartres Cathedral around 1200. It was first unrolled at Grace for a 24-hour \"Singing for Your Life\" event on 30–31 December 1991, and from March 1992 opened twice a month, once in silence and once with singers [1]. Demand outgrew the canvas, so Artress commissioned a hand-spun rug woven with a 36.5-foot labyrinth, dedicated in April 1994. On 3 September 1995 an outdoor terrazzo labyrinth, open 24 hours a day, was dedicated \"to all people from all traditions, or none at all\" [1].\n\nThe cathedral's archivist lists the labyrinth project among the defining developments of Dean Alan Jones's era, which began in 1985 [2]. The cathedral's own history still credits Artress with introducing the labyrinth to Grace in 1991 [3].",
+  "people": [
+   {
+    "name": "Lauren Artress",
+    "role": "canon and labyrinth pioneer"
+   },
+   {
+    "name": "Alan Jones",
+    "role": "Dean of Grace Cathedral 1985–2009"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Labyrinths of Grace",
+    "publisher": "Grace Cathedral (Rev. Dr. Lauren Artress)",
+    "year": 1997,
+    "url": "https://web.archive.org/web/2008/http://www.gracecathedral.org/enrichment/crypt/cry_19970701.shtml",
+    "supports": "1991 Jean Houston workshop, canvas labyrinth and first use Dec 30–31 1991, March 1992 schedule, 1994 rug, 1995 terrazzo labyrinth and dedication wording"
+   },
+   {
+    "title": "Years of Grace, Part II: Vision to Reality (Tales from the Crypt)",
+    "publisher": "Grace Cathedral (Michael Lampen, archivist)",
+    "year": 2001,
+    "url": "https://web.archive.org/web/2008/http://www.gracecathedral.org/enrichment/crypt/cry_20010516.shtml",
+    "supports": "Labyrinth project of Canon Artress as part of Dean Alan Jones's tenure from 1985"
+   },
+   {
+    "title": "History",
+    "publisher": "Grace Cathedral",
+    "year": 2024,
+    "url": "https://web.archive.org/web/20260812172431/https://gracecathedral.org/history/",
+    "supports": "Canon Artress introduced the labyrinth in 1991"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-cable-car-barn-rebuild",
+  "title": "The 21 months without cable cars",
+  "theme": "labor-industry",
+  "year": 1982,
+  "yearEnd": 1984,
+  "place": {
+   "label": "Cable Car Barn & Powerhouse, 1201 Mason St",
+   "lat": 37.79461,
+   "lon": -122.41151,
+   "precision": "building"
+  },
+  "hook": "The cable cars were worn out and accident-prone. Saving them took Mick Jagger, Pac-Man, Jefferson Starship and a gutted car barn on Nob Hill.",
+  "story": "By the late 1970s the cable car system was badly deteriorated, and an engineering study concluded it needed a complete rebuild [1]. The Chronicle put the bill at $60 million, and some San Franciscans argued the cars were relics that should go [2]. Mayor Dianne Feinstein passed the hat publicly. Two airlines gave $1 million each; Atari gave $1 million too, which meant Feinstein, then backing curbs on video arcades, posing beside a six-foot Pac-Man. Jefferson Starship raised $50,000 with a benefit concert, and in October 1981 Mick Jagger dropped by City Hall for a five-minute photo on a fake cable car on rubber wheels: \"Once they're gone,\" he said, \"you can't get them back\" [2].\n\nService stopped in September 1982 (sources give the 21st or 22nd) [1][2]. Crews replaced track and cable channels under 69 city blocks. Here at Washington and Mason, the old car barn and powerhouse was almost entirely rebuilt inside its retained brick walls and chimney, with new motors, gearboxes and alarms [1]. Muni craftspeople repaired 37 cars. The California line reopened on 3 June 1984, the barn was dedicated the next day, and on 21 June a parade of cable cars climbed Powell Street behind the Marine Corps Band [1].",
+  "people": [
+   {
+    "name": "Dianne Feinstein",
+    "role": "Mayor of San Francisco"
+   },
+   {
+    "name": "Mick Jagger",
+    "role": "musician and campaign booster"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Rebuilding the Cable Car System 1982–1984",
+    "publisher": "Cable Car Museum (Friends of the Cable Car Museum)",
+    "year": 2022,
+    "url": "https://www.cablecarmuseum.org/rebuild.html",
+    "supports": "Deterioration, Sept 21 1982 suspension, 69 blocks, barn rebuilt within walls and chimney, 37 cars, June 1984 reopening dates and parade"
+   },
+   {
+    "title": "When Mick Jagger joined Dianne Feinstein to save SF's cable cars",
+    "publisher": "San Francisco Chronicle (Peter Hartlaub)",
+    "year": 2018,
+    "url": "https://www.sfchronicle.com/oursf/article/All-Down-the-Line-When-Mick-Jagger-pitched-in-to-13180639.php",
+    "supports": "$60 million, donors (airlines, Atari, Jefferson Starship), Pac-Man, Jagger visit Oct 20 1981 and quote, closure Sept 22 1982 for 21 months"
+   },
+   {
+    "title": "About the San Francisco Cable Car Museum",
+    "publisher": "Cable Car Museum",
+    "year": 2022,
+    "url": "https://www.cablecarmuseum.org/museum.html",
+    "supports": "Museum inside the historic Washington/Mason car barn and powerhouse at 1201 Mason St"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-polk-street-gay-mecca",
+  "title": "Polk Street becomes the gay main street",
+  "theme": "lgbtq",
+  "year": 1961,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Town Squire, 1318 Polk St",
+   "lat": 37.78908,
+   "lon": -122.42023,
+   "precision": "building"
+  },
+  "hook": "Before the Castro, there was Polk. A mod clothing shop and a record store opened by gay couples turned a street of candy stores into San Francisco's first gay neighbourhood.",
+  "story": "In the 1950s Polk Street below Nob Hill was lined with \"mom and pop\" shops: news stands, shoe repairers, candy stores. \"It wasn't a magnet,\" recalled Randall Wallace, but it was \"the cruisiest street in the city\" [1]. Around 1960 a gay couple, August Territo and Terry Popek, opened the Town Squire, a trendy men's clothing store, at 1318 Polk [2]. (Sources differ on whether it opened in 1960 or 1961 [1][3].) In May 1961 Wallace and his partner opened Gramaphone Records nearby in a derelict old market, betting that society-page customers from Nob Hill and Pacific Heights would follow [1][2].\n\n\"Then the bars began,\" Wallace said. \"It just began to multiply, and it was the place to be on the weekends and the weeknights\" [1]. The city's historic context statement calls Polk San Francisco's first modern gay neighbourhood [3]. By 1966 there were at least 26 gay bars and businesses in Polk Gulch, and it was the first time the city's gay business owners formed an above-ground, upscale commercial bloc [1]. A bartender from the Suzy-Q on Polk became the first president of the Tavern Guild, the country's first gay business association, and in 1971 a gay magazine called Polk \"the gayest street in San Francisco\" [3].",
+  "people": [
+   {
+    "name": "Randall Wallace",
+    "role": "co-founder of Gramaphone Records"
+   },
+   {
+    "name": "August Territo",
+    "role": "co-founder of Town Squire"
+   },
+   {
+    "name": "Terry Popek",
+    "role": "co-founder of Town Squire"
+   }
+  ],
+  "sources": [
+   {
+    "title": "\"Mom and Pop\" to Gay Mecca (Polk Street History Project)",
+    "publisher": "OutHistory (Joey Plaster)",
+    "year": 2010,
+    "url": "https://outhistory.org/exhibits/show/polk-street/gay-economic-engine/mom-and-pop-to-gay-mecca",
+    "supports": "Wallace quotes, Town Squire 1960, Gramaphone May 1961, 26 gay businesses by 1966, first above-ground gay business bloc"
+   },
+   {
+    "title": "Polk Gulch LGBTQI History: A Walking Tour",
+    "publisher": "FoundSF (Nan Alamilla Boyd)",
+    "year": 2026,
+    "url": "https://www.foundsf.org/index.php?title=Polk_Gulch_LGBTQI_History",
+    "supports": "Town Squire at 1318 Polk, founders' names, Gramaphone May 1961"
+   },
+   {
+    "title": "San Francisco Citywide Historic Context Statement for LGBTQ History",
+    "publisher": "San Francisco Planning Department (Donna Graves & Shayne Watson)",
+    "year": 2015,
+    "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+    "supports": "Town Squire 1961 date, Polk as first modern gay neighbourhood, Tavern Guild, 1971 'gayest street' quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-motherlode-divas",
+  "title": "A home for trans women on Post Street",
+  "theme": "lgbtq",
+  "year": 1988,
+  "yearEnd": null,
+  "place": {
+   "label": "Diva's (formerly Motherlode), 1081 Post St",
+   "lat": 37.78662,
+   "lon": -122.41949,
+   "precision": "building"
+  },
+  "hook": "Polk Gulch's queens once owned the sidewalks in evening gowns and feather boas. One multi-storey club at Post and Larkin kept a stage for them for decades.",
+  "story": "As the Castro drew gay men away in the 1970s, and BART construction pushed sex work off Market Street, Polk Street became home to growing numbers of young male hustlers and transgender women [1]. Regina McQueen remembered the mid-1970s scene: one side of the street men \"posing,\" the other \"women dressed in evening gowns with feather boas and big hair and lots of make-up\" [1]. Historian Joey Plaster describes Polk in later decades as \"a home, refuge, and family\" for queer runaway youth, immigrants and, increasingly in the 1990s, lower-income trans women [1][2].\n\nAt 1081 Post Street, a block off Polk, a bar called the Motherlode opened in 1988. A decade later it became Diva's, and together the two have served as a gathering place and performance venue for trans women since the 1980s [3]. The building stacked a stage on the ground floor, a dance floor on the third and a lounge at the top [3]. As Polk's other queer bars closed during the 2000s gentrification, Plaster notes, the low-income establishments that had formed the backbone of the community were largely replaced [2], and this address outlasted many of them.",
+  "people": [
+   {
+    "name": "Regina McQueen",
+    "role": "trans woman who described 1970s Polk Street"
+   },
+   {
+    "name": "Joey Plaster",
+    "role": "historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Citywide Historic Context Statement for LGBTQ History",
+    "publisher": "San Francisco Planning Department (Donna Graves & Shayne Watson)",
+    "year": 2015,
+    "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+    "supports": "Polk Street shift in 1970s to hustlers and trans women; Regina McQueen quote; Plaster quote"
+   },
+   {
+    "title": "A Study of Transitions (Polk Street History Project)",
+    "publisher": "OutHistory (Joey Plaster)",
+    "year": 2010,
+    "url": "https://outhistory.org/exhibits/show/polk-street/essay/study-of-transitions",
+    "supports": "Polk as destination for queer youth, immigrants and lower-income trans women; replacement of low-income queer bars by mid-2000s"
+   },
+   {
+    "title": "Polk Gulch LGBTQI History: A Walking Tour",
+    "publisher": "FoundSF (Nan Alamilla Boyd)",
+    "year": 2026,
+    "url": "https://www.foundsf.org/index.php?title=Polk_Gulch_LGBTQI_History",
+    "supports": "Diva's at 1081 Post, 1998–present, predecessor Motherlode 1988–1998, floors and uses"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-polk-gentrification-2005",
+  "title": "Mojitos versus the hustlers",
+  "theme": "civil-rights",
+  "year": 2005,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Maye's Oyster House, 1233 Polk St",
+   "lat": 37.78829,
+   "lon": -122.42036,
+   "precision": "building"
+  },
+  "hook": "A $6.5 million restaurant with a Spanish chandelier and a headless Apollo opened on lower Polk, and a fight broke out over who the street was for.",
+  "story": "By 2005 lower Polk was changing fast. Restaurateur Myles O'Reilly had turned the old Maye's Oyster House building between Bush and Sutter into O'Reilly's Holy Grail, a $6.5 million restaurant with imported stained glass, a headless Apollo from Rome and a 250-year-old Spanish chandelier, and remade the rundown residential motel upstairs into 14 European-style suites. \"I put my life savings into making a statement on this street,\" he said [1].\n\nThe bars were turning over too. The Polk Gulch Saloon, known for drag queens and trans women, became the Lush Lounge; the Hemlock, full of hipsters and live bands, replaced the historic gay bar the Giraffe; Rendezvous, the last male hustler bar, had closed [1][3]. The Lower Polk Neighbors Association welcomed the \"cleaning up.\" The radical group Gay Shame called the association a \"brutal gentrification squad\" and warned the street would soon be known \"more for green-apple mojitos and stretch Hummers than trannies and tweakers\" [1].\n\nHistorian Joey Plaster argues the clash was one of three major economic shifts on Polk since the 1950s, driven by outside market forces rather than simply homophobia: the same economics that built a gay commercial corridor in the 1960s were now dismantling it [2].",
+  "people": [
+   {
+    "name": "Myles O'Reilly",
+    "role": "restaurateur"
+   },
+   {
+    "name": "Joey Plaster",
+    "role": "historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Polk Gulch cleanup angers some: Gentrification pushing out 'hookers, hustlers'",
+    "publisher": "San Francisco Chronicle (Leslie Fulbright)",
+    "year": 2005,
+    "url": "https://web.archive.org/web/20051223115706/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/12/BAG1OF6TFR1.DTL",
+    "supports": "O'Reilly's Holy Grail details and quote, bar replacements, Lower Polk Neighbors, Gay Shame quotes"
+   },
+   {
+    "title": "A Study of Transitions (Polk Street History Project)",
+    "publisher": "OutHistory (Joey Plaster)",
+    "year": 2010,
+    "url": "https://outhistory.org/exhibits/show/polk-street/essay/study-of-transitions",
+    "supports": "Three major economic shifts; same economics built and undid the gay corridor"
+   },
+   {
+    "title": "Polk Gulch LGBTQI History: A Walking Tour",
+    "publisher": "FoundSF (Nan Alamilla Boyd)",
+    "year": 2026,
+    "url": "https://www.foundsf.org/index.php?title=Polk_Gulch_LGBTQI_History",
+    "supports": "The Giraffe at 1131 Polk, a gay bar, before it became the Hemlock"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-nob-hill-cinema",
+  "title": "The 'Radio City' of gay cinemas",
+  "theme": "lgbtq",
+  "year": 1977,
+  "yearEnd": null,
+  "place": {
+   "label": "Nob Hill Cinema, 729 Bush St",
+   "lat": 37.78981,
+   "lon": -122.40927,
+   "precision": "building"
+  },
+  "hook": "Behind a plain stuccoed front on Bush Street, the old Club Hangover became a members-only gay film house with free coffee in the lobby.",
+  "story": "In the 1960s, when Nob Hill and Polk Street were centres of gay male life, the hilltop had its own after-dark geography. Police in the 1950s had already called Huntington Park \"a major meeting spot,\" and one resident recalled hedges \"taller than I am\" that made it ideal for cruising [1].\n\nDown the south slope at 729 Bush Street, the former Club Hangover became a members-only theatre and then, in the late 1960s, a gay porn cinema, the Nob Hill Cinema and Arcade [1]. In January 1977 Chronicle columnist John L. Wasserman went \"trucking\" there and reported a \"tidy little theater\" seating fewer than 100 that \"serves free java in the lobby\" and \"has been called 'The Radio City Music Hall of gay porno theaters'\" [1]. Behind it ran a dim 30-foot arcade of small rooms [1]. The city's LGBTQ context statement noted in 2015 that it was still in business [1].\n\nThe building itself hides in plain sight. It was designed by C. A. Meussdorffer to house a store, but its facade was later sheathed in stuccostone, leaving only the parapet original, so it counts as one of the few non-contributing buildings in the Lower Nob Hill Apartment Hotel District [2].",
+  "people": [
+   {
+    "name": "John L. Wasserman",
+    "role": "San Francisco Chronicle columnist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Citywide Historic Context Statement for LGBTQ History",
+    "publisher": "San Francisco Planning Department (Donna Graves & Shayne Watson)",
+    "year": 2015,
+    "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+    "supports": "Huntington Park cruising, Nob Hill Cinema at 729 Bush (former Club Hangover), members-only then gay porn theater late 1960s, 1977 Wasserman quotes, still in business 2015"
+   },
+   {
+    "title": "National Register #91000957: Lower Nob Hill Apartment Hotel District",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2023,
+    "url": "https://noehill.com/sf/landmarks/nat1991000957.aspx",
+    "supports": "729 Bush designed by C. A. Meussdorffer as a store; stuccostone facade, only parapet original; non-contributing"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-save-the-tonga-room",
+  "title": "Mai tais to the rescue",
+  "theme": "modern-city",
+  "year": 2009,
+  "yearEnd": 2010,
+  "place": {
+   "label": "Tonga Room, Fairmont Hotel (California & Powell side)",
+   "lat": 37.79214,
+   "lon": -122.41,
+   "precision": "building"
+  },
+  "hook": "When the Fairmont planned to rip out its tiki bar for condos and a ballroom, fans fought back the most San Francisco way possible: by drinking there.",
+  "story": "The Tonga Room occupies what was the Fairmont's 1929 indoor swimming pool, the Terrace Plunge. In 1945 MGM set director Mel Melvin turned the pool into a lagoon with a floating stage [2][1]. Today it has a dance floor of lumber-schooner planks and a fake thunderstorm every half-hour [2].\n\nIn 2009 the hotel's owners unveiled a renovation built around condominiums that would have removed it [2]. The plan also called for demolishing the hotel tower and moving the grand ballroom into the Tonga's space. The developers' adviser argued the bar was \"so inconsistent\" with a Beaux-Arts hotel going upscale [1]. But the city's draft environmental report, informed by architectural historian Christopher VerPlanck, declared the Tonga a \"historical resource,\" calling it \"one of the best examples of 'high-style' Tiki bar/restaurant in San Francisco\" [1].\n\nMeanwhile fans simply showed up. \"They had a line out of the door every single night of the week for months,\" said tiki enthusiast Otto von Stroheim [2]. A Save the Tonga Room Facebook group peaked at 4,000 members, and the spike in sales made management reconsider [2]. The Tonga survived, though the National Trust noted in 2014 that it was not protected in perpetuity [2].",
+  "people": [
+   {
+    "name": "Christopher VerPlanck",
+    "role": "architectural historian"
+   },
+   {
+    "name": "Otto von Stroheim",
+    "role": "tiki enthusiast"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Fairmont, preservationists at odds over Tonga Room",
+    "publisher": "San Francisco Chronicle / SFGATE (Robert Selna)",
+    "year": 2010,
+    "url": "https://www.sfgate.com/business/article/fairmont-preservationists-at-odds-over-tonga-room-3265405.php",
+    "supports": "Renovation plan (condos, tower demolition, ballroom), 'historical resource' finding and quotes, VerPlanck, Terrace Plunge 1929/1945, Sagy quote"
+   },
+   {
+    "title": "The Tonga Room in San Francisco",
+    "publisher": "National Trust for Historic Preservation (Katherine Flynn)",
+    "year": 2014,
+    "url": "https://savingplaces.org/stories/historic-bars-tonga-room-san-francisco",
+    "supports": "MGM set director Mel Melvin, decor, 2009 threat, von Stroheim quote, 4,000-member Facebook group, management reconsidered, not preserved in perpetuity"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-academy-of-art-settlement",
+  "title": "The art school that swallowed apartments",
+  "theme": "civil-rights",
+  "year": 2016,
+  "yearEnd": null,
+  "place": {
+   "label": "1055 Pine St",
+   "lat": 37.79028,
+   "lon": -122.41311,
+   "precision": "building"
+  },
+  "hook": "A for-profit art school quietly bought up some 40 buildings, many of them homes. The reckoning turned two Nob Hill properties into housing for low-income seniors.",
+  "story": "Over more than a decade, the for-profit Academy of Art University and a web of affiliated companies bought or leased some 40 San Francisco properties, including a cluster on Nob Hill's Bush, Sutter and Pine streets [1][2]. A March 2016 Planning Department memo found at least 33 violated zoning, permit or preservation rules. The city said about 160 affordable homes had been illegally converted into student housing and another 140 units removed from rent control [1].\n\nOn 6 May 2016 City Attorney Dennis Herrera sued, calling the academy \"one of San Francisco's most egregious land use scofflaws.\" His complaint targeted properties including 1055 Pine, 1080 and 1153 Bush, and 860 Sutter [2].\n\nThat December Herrera announced a settlement valued at over $60 million, then the largest in a city code-enforcement case: $20 million in cash, including $7 million to help low-income tenants stay housed, and at least 160 affordable units [1]. The housing would come from two Pine Street buildings. Students living at 1055 Pine would be moved out and the building renovated, while a new building would rise at 1069 Pine, both for low-income seniors for 66 years [1]. The deal was guaranteed personally by academy president Elisa Stephens, granddaughter of its founder [1].",
+  "people": [
+   {
+    "name": "Dennis Herrera",
+    "role": "San Francisco City Attorney"
+   },
+   {
+    "name": "Elisa Stephens",
+    "role": "president of Academy of Art University"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Herrera secures landmark settlement valued at $60 million from Academy of Art University",
+    "publisher": "Office of the San Francisco City Attorney",
+    "year": 2016,
+    "url": "https://web.archive.org/web/2020/https://sfcityattorney.org/herrera-secures-landmark-settlement-valued-60-million-academy-art-university/",
+    "supports": "Settlement terms, $60M/$20M/$7M, 160 units, 1055 and 1069 Pine for seniors for 66 years, 40 properties, 33 violations, 140 rent-controlled units, Stephens guaranty"
+   },
+   {
+    "title": "Herrera sues one of city's 'most egregious land use scofflaws' – Academy of Art University",
+    "publisher": "Office of the San Francisco City Attorney",
+    "year": 2016,
+    "url": "https://web.archive.org/web/2020/https://sfcityattorney.org/herrera-sues-one-citys-egregious-land-use-scofflaws-academy-art-university/",
+    "supports": "May 6, 2016 lawsuit, quote, list of targeted properties including 1055 Pine, 1080 and 1153 Bush, 860 Sutter"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-betty-ann-ong-rec-center",
+  "title": "The playground named for a 9/11 hero",
+  "theme": "communities",
+  "year": 2011,
+  "yearEnd": 2012,
+  "place": {
+   "label": "Betty Ann Ong Chinese Recreation Center, Mason & Washington Sts",
+   "lat": 37.79429,
+   "lon": -122.41145,
+   "precision": "building"
+  },
+  "hook": "A Chinatown girl played at the rec centre on Mason Street. Decades later, aboard a hijacked jet on 11 September 2001, she calmly told the ground what was happening.",
+  "story": "Betty Ann Ong grew up in Chinatown, went to San Francisco public schools, and often played at the Chinese Recreation Center at Mason and Washington with her brother and two sisters [2]. The three-storey concrete centre, built in 1951, served one of the densest neighbourhoods in the city [2].\n\nOn 11 September 2001 Ong, 45, was a flight attendant on American Airlines Flight 11. For 23 minutes she calmly relayed information to airline staff on the ground about the hijacking unfolding around her, before the plane was flown into the World Trade Center's north tower [1]. AsianWeek later called her the first person to report the hijacking [2].\n\nIn October 2011, after a petition signed by more than 3,700 people and a packed hearing, the Recreation and Park Commission voted unanimously to name the centre after her [1]. The old building, upgraded with more than $21 million from the 2008 parks bond, was partly replaced and fully renovated, and it reopened as the Betty Ann Ong Chinese Recreation Center on 14 July 2012 [2]. \"Space is a luxury here,\" said the Rev. Norman Fong of the Chinatown Community Development Center, whose families often live in single rooms. The rebuilt centre, he said, was \"an oasis\" [2].",
+  "people": [
+   {
+    "name": "Betty Ann Ong",
+    "role": "flight attendant and Chinatown native"
+   },
+   {
+    "name": "Harry Ong",
+    "role": "her brother"
+   },
+   {
+    "name": "Norman Fong",
+    "role": "Chinatown Community Development Center"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Betty Ann Ong: 9/11 hero gets lasting tribute (City Insider)",
+    "publisher": "SFGATE / San Francisco Chronicle (Rachel Gordon)",
+    "year": 2011,
+    "url": "https://web.archive.org/web/2012/http://blog.sfgate.com/cityinsider/2011/10/21/betty-ann-ong-911-hero-gets-lasting-tribute/",
+    "supports": "Naming vote, 23 minutes relaying information, age 45, played there as a girl, 3,700-signature petition, unanimous vote"
+   },
+   {
+    "title": "Betty Ann Ong Chinese Recreation Center Opens in Chinatown",
+    "publisher": "AsianWeek",
+    "year": 2012,
+    "url": "https://web.archive.org/web/20150722090139/http://www.asianweek.com/2012/07/16/betty-ann-ong-chinese-recreation-center-opens-in-chinatown/",
+    "supports": "July 14, 2012 opening at Mason & Washington, 1951 building, $21M 2008 bond, played there with siblings, first to report hijacking, Fong quotes"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "nob-hill-lower-nob-hill-apartment-district",
+  "title": "Three hundred buildings, one cornice line",
+  "theme": "architecture-landmarks",
+  "year": 1991,
+  "yearEnd": null,
+  "place": {
+   "label": "Hotel Commodore, 825 Sutter St (Lower Nob Hill Apartment Hotel District)",
+   "lat": 37.7883,
+   "lon": -122.41395,
+   "precision": "block"
+  },
+  "hook": "Block after block, the south slope of Nob Hill marches in matching bay windows and fire escapes. In 1991 the whole ensemble became a National Register district.",
+  "story": "Walk Bush, Sutter or Post between roughly Stockton and Polk and the buildings seem to agree with each other: three to seven storeys, flat roofs under heavy galvanized-iron cornices, bay windows and fire escapes above shopfronts [1][2]. In 1991 the National Park Service listed the area as the Lower Nob Hill Apartment Hotel District. It has 296 contributing buildings, most built between 1906 and 1925, and only 35 non-contributors [1][2].\n\nThe nomination argues the district captures a moment of competition between the residential hotel, with its central meal service, and the new apartment building, made possible by kitchenettes, built-ins and the wall bed. It notes that William Murphy, of the Murphy bed, lived here in 1911 [1]. Its building list is a directory of vanished urban life: bachelors' hotels on Post Street, a Turkish bath, and the Mary Elizabeth Inn on Bush, built in 1913 by Lizzie Glide as a lodging for young working women [1].\n\nNoeHill, adapting the nomination, calls the quantity and quality of these buildings \"unequaled... anywhere in California except possibly in the Tenderloin,\" and \"almost no new buildings\" interrupt them [2].",
+  "people": [
+   {
+    "name": "Lizzie H. Glide",
+    "role": "philanthropist behind the Mary Elizabeth Inn"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Lower Nob Hill Apartment Hotel District",
+    "publisher": "National Park Service",
+    "year": 1991,
+    "url": "https://npgallery.nps.gov/AssetDetail/NRIS/91000957",
+    "supports": "Boundaries, building form, 296 contributing/35 non-contributing, 1906–1925 construction, hotel vs apartment argument, Murphy bed, bachelors hotels, Turkish baths, Mary Elizabeth Inn"
+   },
+   {
+    "title": "National Register #91000957: Lower Nob Hill Apartment Hotel District",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2023,
+    "url": "https://noehill.com/sf/landmarks/nat1991000957.aspx",
+    "supports": "Description adapted from 1991 nomination, 'unequaled' quote, almost no new buildings, Hotel Commodore at 825 Sutter"
+   }
+  ],
+  "photo": null
+ }
+]

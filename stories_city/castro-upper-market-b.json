@@ -1,0 +1,685 @@
+[
+ {
+  "id": "castro-upper-market-golden-hydrant",
+  "title": "The little hydrant that saved the Mission",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "Golden Fire Hydrant, 20th & Church Streets",
+   "lat": 37.758009,
+   "lon": -122.427952,
+   "precision": "street"
+  },
+  "hook": "With the city's water mains broken and the fire racing south, one squat hydrant at the top of Dolores Park kept flowing.",
+  "story": "When the 1906 earthquake broke San Francisco's water mains, the fire that followed swept south toward the Mission with little to stop it. At the corner of 20th and Church Streets, beside what is now Dolores Park, one hydrant still had water. A plaque nearby records that although the mains were broken and dry on April 18, 1906, 'from this Greenberg hydrant on the following night there came a stream of water allowing the firemen to save the Mission District' [1]. Community accounts credit it with saving the houses between 20th and 22nd Streets, and one family history tells of neighbourhood men hauling a pump wagon up the hill again and again to fill its tanks from it [2]. Neither account can be checked hose by hose, but the hydrant has become the neighbourhood's emblem of that night. In the 1960s a dentist and historian, Doc Bulloch, started painting it gold every April 18 [1]. The ritual continues each anniversary, and in 2012 the organisers painted it silver by mistake in the pre-dawn dark, then repainted it gold the same morning [1]. After 1906 the city built an Auxiliary Water Supply System so that it would never again depend on one lucky pipe [1].",
+  "people": [
+   {
+    "name": "Doc Bulloch",
+    "role": "dentist and historian who began the annual gilding"
+   },
+   {
+    "name": "Ron Ross",
+    "role": "San Francisco History Association founder behind the 2012 silver slip"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The story behind San Francisco's golden fire hydrant that could",
+    "publisher": "The San Francisco Standard",
+    "year": 2022,
+    "url": "https://sfstandard.com/arts-culture/the-story-behind-san-franciscos-golden-fire-hydrant-that-could/",
+    "supports": "Plaque wording, Doc Bulloch's gilding, 2012 silver mistake, Auxiliary Water Supply System"
+   },
+   {
+    "title": "Golden Hydrant",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Golden_Hydrant",
+    "supports": "Houses from 20th to 22nd saved; family account of the pump wagon runs"
+   },
+   {
+    "title": "Golden Fire Hydrant",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Golden_Fire_Hydrant",
+    "supports": "Location, 1966 dedication, pointer to SFFD museum sources"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-mission-park-refugee-camp",
+  "title": "Tents and shacks on the old cemetery",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1907,
+  "place": {
+   "label": "Mission Park (now Mission Dolores Park)",
+   "lat": 37.7596,
+   "lon": -122.4269,
+   "precision": "area"
+  },
+  "hook": "The city had bought the old Jewish cemetery for a park just a year before. In 1906 it filled with people who had lost everything.",
+  "story": "In 1905 the city paid $291,350 for two blocks that had been the Jewish cemeteries of Congregations Sherith Israel and Emanu-El, planning a park called Mission Park [1]. Within a year, before it was finished, it became a refugee camp. One history puts the number of families who sheltered there in 1906 and 1907 at more than 1,600 [1]. First came tents. Later a camp of the city's standard wooden relief cottages opened on November 19, 1906, and stayed until October 22, 1907 [2]. Across 18th Street, the three-storey brick Mission High School survived the shaking and served as a neighbourhood shelter [3]. The camp's needs spilled into history in less obvious ways too. Refugees pulled trees, wooden grave markers and fences out of the old Mission Dolores cemetery nearby and burned them as firewood, and many of those markers were lost for good [4]. Camp life in the city ended in the summer of 1908. Some families kept their shacks as homes, and a few still stand in western San Francisco [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Mission Dolores Park",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_Dolores_Park",
+    "supports": "Cemetery origins, 1905 purchase price, 1,600+ families, camps ending 1908"
+   },
+   {
+    "title": "Dolores Park - 1906",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Dolores_Park_-_1906",
+    "supports": "Tent camp; cottage camp opened Nov 19, 1906 and closed Oct 22, 1907"
+   },
+   {
+    "title": "Mission High School (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_High_School_(San_Francisco)",
+    "supports": "Brick school survived 1906 and served as a shelter"
+   },
+   {
+    "title": "Streetwise: Mission Dolores - San Francisco Landmark #1",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2021,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2021/03/28/streetwise-mission-dolores-san-francisco-landmark-1/",
+    "supports": "Refugees burned cemetery trees, grave markers and fences"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-st-ansgar-red-cross",
+  "title": "A queen's kroner and a quake hospital",
+  "theme": "communities",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "St. Francis Lutheran Church (built as St. Ansgar), 152 Church Street",
+   "lat": 37.76857779966018,
+   "lon": -122.42941652087845,
+   "precision": "building"
+  },
+  "hook": "San Francisco's Danes wrote to their queen for help building a church. When the earthquake struck, its half-finished hall became a Red Cross hospital.",
+  "story": "Around 1900, San Francisco's Danish community decided it was big enough for a church of its own. For years, Lutheran pastors had been sent up from Fresno to lead services. So the congregation wrote to Queen Louise of Denmark, and she sent 500 kroner, which started the building fund [1]. The cornerstone of St. Ansgar Church on Church Street, between Market and Duboce, was laid on September 17, 1905 [2]. The building was brick over a wooden frame, in a Danish Gothic style. By spring 1906 the ground-floor hall was in use, with the sanctuary above still unfinished [1]. Then came April 18. The earthquake damaged the sanctuary, but the main floor held, and the Red Cross used it as a hospital and shelter for the injured and homeless [1]. The neighbourhood around it was then mostly Scandinavian and German. For years it supported five Lutheran churches, worshipping in Norwegian, Danish, Swedish, Finnish and German [1]. As English replaced the old languages, the congregations merged. In 1964 the Danish and Finnish churches united as St. Francis Lutheran, a name the city's landmark report says no other Lutheran church in the world uses [1].",
+  "people": [
+   {
+    "name": "Queen Louise of Denmark",
+    "role": "sent 500 kroner to start the building fund"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #39: Saint Francis Lutheran Church",
+    "publisher": "NoeHill in San Francisco (adapted from City Planning Commission Resolution 6666, 1970)",
+    "year": 1970,
+    "url": "https://noehill.com/sf/landmarks/sf039.asp",
+    "supports": "Queen Louise's gift, construction, Red Cross use in 1906, five Lutheran churches, 1964 merger"
+   },
+   {
+    "title": "Castro District, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Castro_District,_San_Francisco",
+    "supports": "Cornerstone date September 17, 1905; location between Market and Duboce"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-new-era-hall-saddles",
+  "title": "Lodge hall by night, saddle works by day",
+  "theme": "labor-industry",
+  "year": 1911,
+  "yearEnd": 1953,
+  "place": {
+   "label": "New Era Hall, 2117-2123 Market Street",
+   "lat": 37.76682532702827,
+   "lon": -122.42926817796129,
+   "precision": "building"
+  },
+  "hook": "Seven months after the quake, a Swedish architect's hall gave homeless lodges a place to meet. Then, for four decades, it turned out cowboy saddles.",
+  "story": "New Era Hall was finished seven months after the 1906 earthquake and fire. Its architect, August Nordin, used a Howe truss to span the big meeting rooms without columns, which also saved scarce building materials [1]. It arrived when San Francisco badly needed rooms. Lodges burned out of their halls, among them the Odd Fellows, the Knights of Pythias and the Woodmen of the World, met there [1]. The hall also helped shape the city. On April 18, 1910, the fourth anniversary of the quake, a convention of neighbourhood improvement clubs met at New Era Hall to push for a streetcar tunnel through Twin Peaks, the project that became the Twin Peaks Tunnel [2]. In 1911 the building took a surprising second career. From then until 1953 it housed the Visalia Stock Saddle Company, which the landmark application calls a pioneering Mexican-American business that made high-end saddles and contributed to the development of the western saddle [1]. None of Visalia's other factories survive. San Francisco had 72 social halls in 1907, and New Era Hall is one of only nine still standing [1].",
+  "people": [
+   {
+    "name": "August Nordin",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #277: New Era Hall",
+    "publisher": "NoeHill in San Francisco (adapted from the 2017 Landmark Designation Application)",
+    "year": 2017,
+    "url": "https://noehill.com/sf/landmarks/sf277.asp",
+    "supports": "Completion date, Howe truss, displaced lodges, Visalia Stock Saddle Co. 1911-1953, 72 halls / nine survive"
+   },
+   {
+    "title": "Twin Peaks Tunnel",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/twin-peaks-tunnel.php",
+    "supports": "April 18, 1910 tunnel convention held at New Era Hall"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-swedish-american-hall",
+  "title": "Freja Hall, the Swedes' home on Market",
+  "theme": "communities",
+  "year": 1907,
+  "yearEnd": null,
+  "place": {
+   "label": "Swedish-American Hall, 2168-2174 Market Street",
+   "lat": 37.766622277288675,
+   "lon": -122.43041770009083,
+   "precision": "building"
+  },
+  "hook": "When Upper Market was 'Little Scandinavia', the Swedes built a lodge so finely crafted that it still ranks among California's best Arts and Crafts interiors.",
+  "story": "By 1910 the blocks around Upper Market and Mission Dolores were home to so many Danes, Norwegians, Swedes and Finns that the area was nicknamed Little Scandinavia [2]. Lutheran services there were held in five languages [3]. In 1907, as the city rebuilt after the earthquake, the Swedish community put up its own meeting hall on Market Street. Its architect was August Nordin, who had also designed New Era Hall down the street [1]. He gave each lodge room its own character. The grandest, Freja Hall, has ornate finishes and soaring truss work that the city's landmark report ranks among the finest Arts and Crafts work in California [1]. The report calls the hall the most significant surviving building of the city's Swedish community [1]. It has been changed remarkably little: apart from the storefronts, the rooms are much as Nordin built them [1]. The basement bar, Cafe du Nord, traces its business at the address back to 1907 [1]. The building became a city landmark and in 2019 was listed on the National Register of Historic Places [1].",
+  "people": [
+   {
+    "name": "August Nordin",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #267: Swedish-American Hall",
+    "publisher": "NoeHill in San Francisco (adapted from the SF Planning Landmark Designation Report)",
+    "year": 2016,
+    "url": "https://noehill.com/sf/landmarks/sf267.asp",
+    "supports": "1907, Nordin, Freja Hall, significance to Swedish community, integrity, Cafe du Nord since 1907, 2019 National Register listing"
+   },
+   {
+    "title": "Castro District, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Castro_District,_San_Francisco",
+    "supports": "'Little Scandinavia' nickname from 1910"
+   },
+   {
+    "title": "San Francisco Landmark #39: Saint Francis Lutheran Church",
+    "publisher": "NoeHill in San Francisco",
+    "year": 1970,
+    "url": "https://noehill.com/sf/landmarks/sf039.asp",
+    "supports": "Five Lutheran churches in five languages nearby"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-mission-dolores-basilica",
+  "title": "A new church rises beside the adobe",
+  "theme": "architecture-landmarks",
+  "year": 1918,
+  "yearEnd": 1952,
+  "place": {
+   "label": "Mission Dolores Basilica, 16th & Dolores Streets",
+   "lat": 37.76435595924026,
+   "lon": -122.42749444409012,
+   "precision": "building"
+  },
+  "hook": "The 1791 adobe came through the earthquake, but the big brick church beside it did not. What replaced it became the West's first basilica.",
+  "story": "In 1876, for the mission's centennial, a large red-brick church was built next to the 1791 adobe at 16th and Dolores [1]. The 1906 earthquake wrecked it, and it was torn down. The adobe, also damaged, survived [1][2]. Firefighters kept the flames from both buildings by dynamiting the convent and School of Notre Dame across the street [2]. For years the parish worshipped in a hastily built wooden church behind the old mission [1]. The cornerstone of a new church was laid on September 7, 1913. America's entry into the First World War slowed the work, and the church was finished in 1918 and dedicated at Christmas [1][2]. In 1917, architect Willis Polk quietly strengthened the adobe with concrete-covered steel beams and roof trusses, an early earthquake retrofit [1]. In 1924 part of the old cemetery became a parking lot and schoolyard for parishioners who now came by car [1]. In 1926 the plain new church was redone with ornate Churrigueresque detail inspired by San Diego's 1915 exposition [1]. In 1952 Pope Pius XII made it a minor basilica, the first west of the Mississippi [1][2].",
+  "people": [
+   {
+    "name": "Willis Polk",
+    "role": "architect who retrofitted the adobe in 1917"
+   },
+   {
+    "name": "Pope Pius XII",
+    "role": "raised the church to a basilica in 1952"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Mission Dolores - San Francisco Landmark #1",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2021,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2021/03/28/streetwise-mission-dolores-san-francisco-landmark-1/",
+    "supports": "1876 church, wooden interim church, 1913 cornerstone, 1918 dedication, Polk retrofit, 1924 parking lot, 1926 remodel, 1952 basilica"
+   },
+   {
+    "title": "Mission San Francisco de Asís",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_San_Francisco_de_As%C3%ADs",
+    "supports": "Brick church destroyed in 1906, Notre Dame dynamited, WWI delay, first basilica west of the Mississippi"
+   },
+   {
+    "title": "San Francisco Landmark #137: Notre Dame School",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf137.asp",
+    "supports": "Earlier school dynamited in 1906 as a firebreak"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-j-church-park-right-of-way",
+  "title": "The streetcar that cuts through the park",
+  "theme": "architecture-landmarks",
+  "year": 1917,
+  "yearEnd": null,
+  "place": {
+   "label": "J-Church right-of-way, west edge of Mission Dolores Park",
+   "lat": 37.7593,
+   "lon": -122.4279,
+   "precision": "street"
+  },
+  "hook": "Church Street was too steep for a streetcar, so in 1917 Muni sent its trains off the road, through Dolores Park and behind people's backyards.",
+  "story": "Riders on the J-Church notice it at once: heading south, the train leaves Church Street at 18th, runs along the west edge of Dolores Park, then weaves through private land around Liberty and 21st before rejoining Church at 22nd [1]. The detour exists because of the hill. When Bion J. Arnold planned the young Municipal Railway in 1912, he faced the steep climb over Dolores Heights. One of his ideas was a tunnel for cars and streetcars under the line of Chattanooga Street. That was one of at least fifteen proposals. The supervisors chose the cheaper private right-of-way around the steepest part of the hill [1]. Track-laying in the park was under way by May 1916 [1]. On August 11, 1917, Mayor 'Sunny Jim' Rolph drove the first car himself, as he liked to do, after being handed a union motorman's cap, card and button [1]. The grade through the park is still 9 percent, the steepest in the Muni Metro system [1]. That hill also saved the line. After the Second World War, when the city turned streetcar routes into bus routes, Church Street proved too steep, and the J kept its rails [1][2].",
+  "people": [
+   {
+    "name": "Bion J. Arnold",
+    "role": "transit consultant who planned the route"
+   },
+   {
+    "name": "James Rolph Jr.",
+    "role": "mayor and ceremonial first motorman"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The J-Church Climb: A Closer Look",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2019,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2019/08/10/the-j-church-climb-a-closer-look/",
+    "supports": "Route, Arnold's plans, 15 proposals, 1916 construction, Aug 11 1917 opening, Rolph's union cap, 9% grade, survival after WWII"
+   },
+   {
+    "title": "Mission Dolores Park",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_Dolores_Park",
+    "supports": "J-Church service began 1917 in a private right-of-way on the park's west side"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-twin-peaks-tunnel",
+  "title": "Under the mountain in seven minutes",
+  "theme": "architecture-landmarks",
+  "year": 1918,
+  "yearEnd": null,
+  "place": {
+   "label": "Twin Peaks Tunnel east portal, Market & Castro Streets",
+   "lat": 37.76194,
+   "lon": -122.43694,
+   "precision": "street"
+  },
+  "hook": "From a hole at the top of Market Street, crews dug more than two miles under Twin Peaks, opening up the whole southwest of the city.",
+  "story": "By 1910, neighbourhood improvement clubs were holding conventions to push for a streetcar tunnel under Twin Peaks. They argued that thousands of acres of empty land on the far side would fill with homes [1]. The city hired Chicago consultant Bion J. Arnold. The property owners who stood to gain agreed to pay through assessment districts, with the undeveloped west side carrying most of the cost [1][2]. Digging began in December 1914, with the eastern end cut open from the top of Market Street near Castro [1][2]. The soft ground there meant the first blocks were built as concrete boxes in an open trench, one box for each track, with a small underground station at Eureka Street [2]. The work was deadly. An inspector was electrocuted in 1915, and several men died when a delayed dynamite charge went off in February 1917 [1]. On February 3, 1918, Mayor James Rolph took the controls of Muni car No. 117 for the first passenger run [2]. Contemporary reports called it the longest streetcar tunnel in the world, about 12,000 feet from end to end [3]. The trip took seven minutes, and new neighbourhoods such as West Portal, Forest Hill and St. Francis Wood grew up at the far end [2][4].",
+  "people": [
+   {
+    "name": "James Rolph Jr.",
+    "role": "mayor, drove the first car"
+   },
+   {
+    "name": "M. M. O'Shaughnessy",
+    "role": "city engineer"
+   },
+   {
+    "name": "Bion J. Arnold",
+    "role": "transit consultant"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Twin Peaks Tunnel",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/twin-peaks-tunnel.php",
+    "supports": "Improvement-club campaign, Arnold, Dec 1914 start at Market and Castro, 1915 and 1917 deaths"
+   },
+   {
+    "title": "Tunnel Vision",
+    "publisher": "Market Street Railway (streetcar.org)",
+    "year": null,
+    "url": "https://www.streetcar.org/tunnel-vision/",
+    "supports": "Assessment financing, cut-and-cover east end, Eureka station, car No. 117, neighbourhoods served"
+   },
+   {
+    "title": "Twin Peaks tunnel opens (Chronicle archives, Feb 4, 1918)",
+    "publisher": "SFGATE",
+    "year": 2009,
+    "url": "https://www.sfgate.com/bayarea/article/Twin-Peaks-tunnel-opens-3252492.php",
+    "supports": "Opening celebration, 12,000-foot length, longest of its kind, Rolph at the helm"
+   },
+   {
+    "title": "Twin Peaks Tunnel",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Twin_Peaks_Tunnel",
+    "supports": "Opening date, seven-minute trip, west side's 85% share of cost"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-mission-high-fire",
+  "title": "Night school, six alarms, a human guideline",
+  "theme": "architecture-landmarks",
+  "year": 1922,
+  "yearEnd": 1927,
+  "place": {
+   "label": "Mission High School, 3750 18th Street",
+   "lat": 37.761597386956254,
+   "lon": -122.42697833197862,
+   "precision": "building"
+  },
+  "hook": "More than a thousand night students were in class when embers from a faulty flue set Mission High's roof alight in January 1922.",
+  "story": "On the evening of Thursday, January 19, 1922, more than 1,000 students and teachers were at Mission High School for the Humboldt Evening High School night classes. Live embers from a faulty flue landed on the roof and set it alight [1]. When the lights failed, the principal and teachers formed a human 'guide line' to lead students out in the dark. Students left carrying typewriters, adding machines and lab specimens, and firemen had to stop some from going back in for more [1]. Two students trapped on the third floor were brought down by ladder [1]. The only serious injury was to Captain E. R. Doherty of Engine Company No. 11, who fell from a ladder and broke his leg. Boy Scouts linked arms to hold back the crowds and later received 'Fire Scout' badges from the fire chief [1]. Classes moved to Lowell High, to army tents and to temporary buildings in Mission Park across the street [1]. City Architect John Reid Jr. designed a new school in the ornate Spanish Baroque style known as Churrigueresque, with a 127-foot tower, and Mayor Rolph dedicated it on June 12, 1927 [1][2].",
+  "people": [
+   {
+    "name": "E. R. Doherty",
+    "role": "fire captain, Engine Co. 11"
+   },
+   {
+    "name": "John Reid Jr.",
+    "role": "City Architect"
+   },
+   {
+    "name": "Alfred Roncovieri",
+    "role": "Superintendent of Schools"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mission High Fire: A Closer Look",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2020,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2020/01/18/mission-high-fire-a-closer-look/",
+    "supports": "All fire details, temporary classes, Reid design, 1927 dedication (citing SF Chronicle, Jan 1922)"
+   },
+   {
+    "title": "San Francisco Landmark #255: Mission High School",
+    "publisher": "NoeHill in San Francisco (adapted from the 2006 Landmark Designation Report)",
+    "year": 2006,
+    "url": "https://noehill.com/sf/landmarks/sf255.asp",
+    "supports": "Founded 1890; Reid's Churrigueresque design; 127-foot tower"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-castro-theatre-1922",
+  "title": "The Nassers' movie palace on Castro Street",
+  "theme": "arts-counterculture",
+  "year": 1922,
+  "yearEnd": null,
+  "place": {
+   "label": "Castro Theatre, 429 Castro Street",
+   "lat": 37.762012941541364,
+   "lon": -122.43469620924361,
+   "precision": "building"
+  },
+  "hook": "In 1922 the Nasser family opened a Spanish Baroque movie palace by Timothy Pflueger, a few doors up from Castro Street's first little theatre.",
+  "story": "The first Castro Theatre opened in 1910 in a modest building at 479 Castro Street, a few doors down the hill [1][2]. The Nasser family, descended from Lebanese immigrants, would become San Francisco's oldest movie-business family [2][3]. In the early 1920s they built something far grander. The new Castro opened on June 22, 1922, with an invitation-only screening of Paramount's Across the Continent, starring Wallace Reid, with Mayor James Rolph in the audience. The public came in the next day [1]. Its architect was Timothy L. Pflueger, and the city's landmark report calls it one of his major works and the first and finest big theatre the Nassers built [3]. California theatre builders of the 1920s loved the Spanish Colonial style, and the Castro was among the most ornate neighbourhood houses in the city [3]. The Art Deco marquee was added in 1937 [1]. Remarkably, apart from moving the screen for CinemaScope, the theatre was left almost unaltered, which the report calls 'a very rare phenomenon in the movie business' [3]. The old 1910 theatre became a shop and, since 1971, Cliff's Variety [1].",
+  "people": [
+   {
+    "name": "Timothy L. Pflueger",
+    "role": "architect"
+   },
+   {
+    "name": "Nasser family",
+    "role": "builders and owners"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Castro Theatre",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Castro_Theatre",
+    "supports": "1910 original at 479 Castro, June 22 1922 opening, film and Rolph, 1937 marquee"
+   },
+   {
+    "title": "Longtime owners to take over Castro Theatre",
+    "publisher": "San Francisco Chronicle",
+    "year": 2001,
+    "url": "https://www.sfgate.com/entertainment/article/longtime-owners-to-take-over-castro-theatre-2917960.php",
+    "supports": "Nassers' Lebanese immigrant forebears built it; originally called the New Castro"
+   },
+   {
+    "title": "San Francisco Landmark #100: Castro Theater",
+    "publisher": "NoeHill in San Francisco (adapted from Planning Commission Resolution 7663, 1977)",
+    "year": 1977,
+    "url": "https://noehill.com/sf/landmarks/sf100.asp",
+    "supports": "Pflueger; Nassers' first and finest; most ornate neighbourhood theatre; essentially unaltered"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-norma-ball-rocky-hill",
+  "title": "The saloon dancer of Rocky Hill",
+  "theme": "communities",
+  "year": 1925,
+  "yearEnd": null,
+  "place": {
+   "label": "States Street near Levant Street, Corona Heights",
+   "lat": 37.7641,
+   "lon": -122.4418,
+   "precision": "street"
+  },
+  "hook": "Conceived in a refugee tent and named after a cow, Norma Ball grew up on Rocky Hill, and once set the whole hill on fire.",
+  "story": "Norma Ball's family lived on States Street near Levant, on the slopes of the old quarry hill locals called Rocky Hill, now Corona Heights [1]. By her own account she began in the 1906 disaster. Her parents' home burned, they sheltered in a Golden Gate Park tent, and she was 'the result of the earthquake' [1][2]. Her German-born mother, the family said, named her after a favourite cow [1]. Her father, Lester Ball, owned saloons around the city. Newspaper records confirm he was a 'San Francisco saloon man' in 1906, and by 1917 he was advertising saloons, delis and restaurants for sale through the Eureka Investment Company [1]. Norma said she danced for coins from sailors and longshoremen in his bars. She also said she once accidentally started a fire that burned all the grass off Rocky Hill [1]. Her photo album, now on OpenSFHistory, shows her in 1925 with the Native Daughters of the Golden West Castro drill team, in costume with swords [1]. She started work as a legal secretary at 14 and lived to 99. At the 2006 quake centennial she told Mayor Gavin Newsom she was 'Cold. But I've got Gavin Newsom to warm me up' [2]. Historians note that not every tale can be proven [1].",
+  "people": [
+   {
+    "name": "Norma Ball Norwood",
+    "role": "Corona Heights girl, legal secretary, 'earthquake baby'"
+   },
+   {
+    "name": "Lester Ball",
+    "role": "her father, saloon owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The San Franciscans: Norma Ball Norwood",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2018,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2018/07/30/the-san-franciscans-norma-ball-norwood/",
+    "supports": "States St home, Rocky Hill fire, saloon dancing, father's saloons and 1917 ad, 1925 drill-team photo, caveats"
+   },
+   {
+    "title": "S.F. rises early to mark 1906 quake",
+    "publisher": "Los Angeles Times",
+    "year": 2006,
+    "url": "https://www.latimes.com/archives/la-xpm-2006-apr-19-me-quake19-story.html",
+    "supports": "'Cold... Gavin Newsom to warm me up'; conceived in a Golden Gate Park tent"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-cliffs-variety-halloween",
+  "title": "A stool, some costumes, and Castro's first Halloween",
+  "theme": "communities",
+  "year": 1946,
+  "yearEnd": null,
+  "place": {
+   "label": "Cliff's Variety (second store), 515 Castro Street",
+   "lat": 37.76058,
+   "lon": -122.4347,
+   "precision": "block"
+  },
+  "hook": "Long before Castro Halloween drew huge crowds, it was a children's costume contest outside a variety store, with a stool for a stage.",
+  "story": "In 1936 Hilario DeBaca, a retired merchant and schoolteacher from New Mexico, opened a small variety store at 545 Castro Street in Eureka Valley. He named it after his youngest son, Clifford [1]. It sold magazines, cigars, sewing notions, cards, toys and candy. In 1942 it moved a few doors toward 18th Street, to 515 Castro [1]. His eldest son, Ernie, was a tinkerer who had once driven his family to the 1933 Chicago World's Fair in a converted Studebaker, fixing radios along the way [1]. After a motorcycle accident crushed his ankle in 1946, Ernie set up a repair bench at the back of Cliff's. That Halloween he staged a children's costume contest on Castro Street. A stool served as the stage, and the child with the loudest applause won [1]. Over the years it grew to include a flatbed-truck stage, clowns, jugglers, an ice-cream-eating contest and a parade [1]. Wikipedia, citing the Chronicle, dates the first contest to 1948 [2]. Ernie also built chain-driven machines that carried candy bars and ribbon spools up to the ceiling and back to save counter space. One still runs in the store [1].",
+  "people": [
+   {
+    "name": "Hilario DeBaca",
+    "role": "founder of Cliff's Variety"
+   },
+   {
+    "name": "Ernie DeBaca",
+    "role": "his son, inventor and Halloween organiser"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Our History",
+    "publisher": "Cliff's Variety",
+    "year": null,
+    "url": "https://www.cliffsvariety.com/our-history",
+    "supports": "1936 founding at 545 Castro, 1942 move to 515, Ernie's life, 1946 Halloween contest, ceiling machines"
+   },
+   {
+    "title": "Halloween in the Castro",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Halloween_in_the_Castro",
+    "supports": "Children's festival from Cliff's with costume and ice-cream contests (dated 1948, citing SF Chronicle 2006)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-mamas-bank-account",
+  "title": "The cottage on Castro Street that never was",
+  "theme": "arts-counterculture",
+  "year": 1943,
+  "yearEnd": null,
+  "place": {
+   "label": "Castro Street History Walk plaque near 564 Castro Street",
+   "lat": 37.759912174553705,
+   "lon": -122.4352721188244,
+   "precision": "street"
+  },
+  "hook": "'For as long as I could remember, the small cottage on Castro Street had been home.' The line made Castro Street famous. It wasn't quite true.",
+  "story": "In 1943 Kathryn Forbes published Mama's Bank Account, a book of warm stories about a Norwegian immigrant mother holding her family together in a 'small cottage on Castro Street' [1]. It became the Broadway play I Remember Mama in 1944, an RKO film with Irene Dunne in 1948, and the CBS series Mama, which ran from 1949 to 1957 [1][2]. Forbes was the pen name of Kathryn Anderson McLean, born in 1908. Her book drew mostly on the life of her Norwegian-born grandmother [1][2]. Did the cottage exist? A search of old city directories found that the Andersons never lived on Castro Street. They lived nearby at 132 and 134 Hancock Street, where Kathryn was born, and then at 22 Diamond Street by 1909, before moving to the Western Addition [1]. Even the 'Castro Creamery' where Papa washes bottles in the book does not show up in the directories [1]. None of the adaptations kept the Castro setting either. The TV family lived on Steiner Street [1]. Still, the book first put Castro Street on the national map, and a 2014 sidewalk plaque now honours it [1].",
+  "people": [
+   {
+    "name": "Kathryn Forbes (Kathryn Anderson McLean)",
+    "role": "author"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Looking for Mama: The search for Kathryn Forbes' childhood home",
+    "publisher": "SF Gay History (archived)",
+    "year": 2015,
+    "url": "https://web.archive.org/web/2020/https://www.sfgayhistory.com/looking-for-mama-the-search-for-kathryn-forbes-childhood-home/",
+    "supports": "Opening line, adaptations, directory research on Hancock and Diamond homes, Castro Creamery, 2014 plaque"
+   },
+   {
+    "title": "Kathryn Forbes",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Kathryn_Forbes",
+    "supports": "Birth 1908, pen name, grandmother as model, play, film and TV dates"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-randall-museum-corona-heights",
+  "title": "A museum for kids on quarry hill",
+  "theme": "parks-nature",
+  "year": 1951,
+  "yearEnd": null,
+  "place": {
+   "label": "Randall Museum, 199 Museum Way, Corona Heights",
+   "lat": 37.76442323682297,
+   "lon": -122.43814775897869,
+   "precision": "building"
+  },
+  "hook": "The city's recreation chief found a scarred quarry hill in 1928. Twenty-three years later it held a children's museum with live animals and sweeping views.",
+  "story": "Corona Heights looks jagged because it was quarried for decades. Kilns on its slopes exploded and collapsed in the 1906 earthquake, and the quarrying stopped [1]. In 1928 Josephine Randall, San Francisco's first superintendent of recreation, visited the scarred hill. She later proposed that the city buy 'Rocky Hill' as a recreation site [1][2]. She had already started a children's nature museum. The Junior Museum opened in 1937 in the city's old jail on Ocean Avenue, and it was only the second children's museum west of the Mississippi [2][3]. In 1947 she steered a $12 million recreation bond through, which paid for a permanent home [3]. The new museum opened on the hill on September 23, 1951, and was named the Josephine D. Randall Junior Museum in her honour [1][2]. She called it a place 'in the very heart of the city where our young people could be carried away from the traffic and noise and spend a happy day in the country' [2]. It still sits on a 16-acre park [3]. Its animal room cares for injured or human-imprinted wildlife that cannot return to the wild, and admission is still free [2][3].",
+  "people": [
+   {
+    "name": "Josephine D. Randall",
+    "role": "first superintendent of recreation, founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Randall Museum, Corona Heights: urban families",
+    "publisher": "San Francisco Chronicle (John King)",
+    "year": 2013,
+    "url": "https://www.sfgate.com/bayarea/place/article/Randall-Museum-Corona-Heights-urban-families-4747770.php",
+    "supports": "Quarry kilns collapsed 1906; Randall's 1928 visit; 1951 opening and name"
+   },
+   {
+    "title": "Natural high / Face-lift at Randall Museum shows off panoramic location",
+    "publisher": "San Francisco Chronicle (Patricia Yollin)",
+    "year": 2003,
+    "url": "https://www.sfgate.com/bayarea/article/Natural-high-Face-lift-at-Randall-Museum-shows-2646248.php",
+    "supports": "1937 jail site, second west of the Mississippi, 'Rocky Hill', Randall quote, animal room"
+   },
+   {
+    "title": "About Us",
+    "publisher": "Randall Museum",
+    "year": null,
+    "url": "https://randallmuseum.org/about/",
+    "supports": "Junior Museum 1937, $12 million bond, 1951 opening on 16-acre park, free admission"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-vertigo-mission-dolores",
+  "title": "Hitchcock's invented grave at Mission Dolores",
+  "theme": "arts-counterculture",
+  "year": 1958,
+  "yearEnd": null,
+  "place": {
+   "label": "Mission Dolores cemetery, 3321 16th Street",
+   "lat": 37.76415,
+   "lon": -122.42735,
+   "precision": "building"
+  },
+  "hook": "In Vertigo, Kim Novak stands at the grave of Carlotta Valdes. The grave was never real, and neither was the cemetery quite as you see it.",
+  "story": "In Alfred Hitchcock's 1958 film Vertigo, James Stewart's detective Scottie follows Madeleine, played by Kim Novak, to the small cemetery beside Mission Dolores. There she stands at the grave of Carlotta Valdes, a woman said to have died in 1857 [1]. Carlotta never existed. The headstone was a studio prop that the crew left at the mission, and the mission later removed it as disrespectful to the dead [1]. By then Mission Dolores was one of the few cemeteries left in San Francisco. Most burial grounds had been moved out of the city by 1912 [1]. The real graveyard holds Ohlone people, Spanish and Mexican families and Gold Rush-era Irish immigrants [2][3]. Visitors today often say it looks different from the film. The film-makers superimposed more elaborate grave markers during production [3]. The garden that looked so mysterious on screen had its own losses. In 1906, refugees camped nearby burned many of its wooden grave markers and fences as firewood [3]. The adobe church beside it, finished in 1791, is San Francisco's oldest intact building [3].",
+  "people": [
+   {
+    "name": "Alfred Hitchcock",
+    "role": "director"
+   },
+   {
+    "name": "Kim Novak",
+    "role": "actor, Madeleine"
+   },
+   {
+    "name": "James Stewart",
+    "role": "actor, Scottie"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Vertigo (film)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Vertigo_(film)",
+    "supports": "Plot scene at Carlotta's grave, prop headstone left and later removed, other cemeteries evicted"
+   },
+   {
+    "title": "Vertigo film locations",
+    "publisher": "The Worldwide Guide to Movie Locations",
+    "year": null,
+    "url": "https://www.movie-locations.com/movies/v/Vertigo.php",
+    "supports": "Mission Dolores as Carlotta's grave; who is buried there"
+   },
+   {
+    "title": "Streetwise: Mission Dolores - San Francisco Landmark #1",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2021,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2021/03/28/streetwise-mission-dolores-san-francisco-landmark-1/",
+    "supports": "Superimposed grave markers; 1906 firewood losses; burials"
+   }
+  ],
+  "photo": null
+ }
+]

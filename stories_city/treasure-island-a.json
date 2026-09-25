@@ -1,0 +1,765 @@
+[
+ {
+  "id": "treasure-island-east-cove-bones",
+  "title": "Bones Beneath the Navy's Barracks",
+  "theme": "indigenous-early",
+  "year": 1899,
+  "yearEnd": null,
+  "place": {
+   "label": "East Cove, Yerba Buena Island (now Coast Guard base)",
+   "lat": 37.8106,
+   "lon": -122.3622,
+   "precision": "area"
+  },
+  "hook": "When sailors dug the foundations for a new naval school in 1899, the island gave up its oldest residents, and a legend of giants was born.",
+  "story": "Long before goats or guns, the gentle beach at Yerba Buena Island's east cove was a place people came back to. The earliest descriptions of the island depict a fishing village there, with ceremonial huts and cremation pits; early newspapers called the people the Tuchayunes [1]. Costanoan (Ohlone) paddlers crossing the bay are said to have stopped to gather acorns on the island's oak-covered slopes [2]. William Bernard, later known as \"Barnacle Bill\", landed in 1849 and described the village, its temescal (sweathouse) and its burial pits [1].\n\nIn 1899, crews levelling ground for the Naval Training Station's barracks dug into graves northeast of the beach. Newspapers reported skeletons of men over 6 feet 6 and a woman over 6 feet, buried sitting with their knees drawn up. That was enough to start a local legend about a race of giants [1]. More remains turned up in the early 1900s under the summit signal tower, and in 1933 during Bay Bridge excavations, when UC Berkeley anthropologist E. W. Gifford was called in to remove them [1]. The Navy's own historians put it bluntly: the island's Native graveyards \"were destroyed by the military and by bridge construction\" [1].",
+  "people": [
+   {
+    "name": "William Bernard (\"Barnacle Bill\")",
+    "role": "1849 visitor who described the village"
+   },
+   {
+    "name": "E. W. Gifford",
+    "role": "UC Berkeley anthropologist, 1933"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=26",
+    "supports": "Fishing village, Tuchayunes, Costanoan context (flipbook p.26); 1899 excavations, reported skeleton heights, seated burials, summit and 1933 finds, Gifford, destruction of graveyards (flipbook p.68)"
+   },
+   {
+    "title": "NRHP nomination: Yerba Buena Island Light Station",
+    "publisher": "National Park Service",
+    "year": 1991,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001096_text",
+    "supports": "Costanoans stopping on the island to gather acorns"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-goats-and-governor",
+  "title": "A Governor's Coffin and a Herd of Goats",
+  "theme": "indigenous-early",
+  "year": 1836,
+  "yearEnd": null,
+  "place": {
+   "label": "Hillsides of Yerba Buena (\"Goat\") Island",
+   "lat": 37.8104,
+   "lon": -122.3685,
+   "precision": "area"
+  },
+  "hook": "Mexican California handed the island to a sea captain as payment for carrying a dead governor. Then came the goats, and a name that stuck for a century.",
+  "story": "In September 1835 the acting governor of Mexican California gave Captain Gorham H. Nye a certificate saying he owned \"Wood Island\", a league from the pueblo of Yerba Buena. According to the paper, it was his payment for carrying the body of Governor José Figueroa from Monterey to Santa Barbara [1]. The Navy's later history doubts that Nye ever used the island. It says he let the merchant Nathan Spear run it instead [2].\n\nNye had brought goats from the Sandwich Islands (Hawaii), and in late 1836 or early 1837 Spear turned a flock loose on the island. A Mr. Fuller trapped and butchered them for passing ships, and he also sold the island's oak for firewood until the hills were bare [2]. Locals called it Spear's Island or, more lastingly, Goat Island [2][3]. The last goat, a scrawny one-horned billy called \"Lonesome Billy\", died soon after 1900 aged 30-plus. His stuffed head hung in the training station's offices until it went missing around 1931 [2]. The U.S. Geographic Board made \"Goat Island\" official in 1895 (one lighthouse history says 1912 [4]) and restored Yerba Buena in 1931 [2][3].",
+  "people": [
+   {
+    "name": "Gorham H. Nye",
+    "role": "sea captain and claimant"
+   },
+   {
+    "name": "Nathan Spear",
+    "role": "San Francisco merchant who introduced the goats"
+   },
+   {
+    "name": "José Figueroa",
+    "role": "Mexican governor of Alta California"
+   }
+  ],
+  "sources": [
+   {
+    "title": "H. Rept. 41-50: Thomas H. Dowling, claim to Yerba Buena",
+    "publisher": "U.S. House of Representatives, Sub-Committee on Private Land Claims (GovInfo)",
+    "year": 1871,
+    "url": "https://www.govinfo.gov/app/details/SERIALSET-01464_00_00-051-0050-0000",
+    "supports": "1835 certificate to Nye as compensation for transporting Figueroa's body; 'Wood Island'"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=25",
+    "supports": "Nye's doubtful use (p.1-6), goats naming the island, Lonesome Billy, 1895/1931 names (p.1-2), Spear's goats from Hawaii via Nye, Fuller, Lonesome Billy, 1895/1931 names"
+   },
+   {
+    "title": "Goats on Goat Island in San Francisco (Susan Saperstein)",
+    "publisher": "San Francisco City Guides, GuideLines",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20111002174554/http://www.sfcityguides.org/public_guidelines.html?article=410&submitted=TRUE&srch_text=&submitted2=&topic=Early%20San%20Francisco",
+    "supports": "Goat Island name, 1850/1895/1931 naming decisions"
+   },
+   {
+    "title": "Yerba Buena Lighthouse, California",
+    "publisher": "Lighthousefriends.com (Kraig Anderson)",
+    "year": 2001,
+    "url": "https://www.lighthousefriends.com/light.asp?ID=71",
+    "supports": "Alternative 1912 date for the Goat Island name change"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-ewing-mutineers",
+  "title": "The Mutineers Buried on Goat Island",
+  "theme": "gold-rush-victorian",
+  "year": 1849,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Yerba Buena Island cemetery, near Treasure Island Rd",
+   "lat": 37.8131,
+   "lon": -122.3702,
+   "precision": "area"
+  },
+  "hook": "Gold fever drove two sailors to throw their officer into the bay. The Navy hanged them from the yardarm and rowed their coffins here.",
+  "story": "In 1849, merchant sailors in San Francisco earned $130 to $150 a month, and Navy crews were deserting to the goldfields [1]. On the night of 13 September, the gig of the survey schooner Ewing was rowing back from a wharf near today's Sansome Street. Oarsman John Black jumped on Passed Midshipman William Gibson, and one of the crew shouted, \"Damn him, throw overboard, that's the quickest way!\" The five-man crew left Gibson half-drowned in the tide and pulled for the mines [1]. In George Davidson's account, an English ship's master grabbed him by the hair as he swept past [1].\n\nThe deserters were caught near the mouth of the San Joaquin River, muddy and swollen with mosquito bites. A court-martial condemned all five. Three were spared, but the two Blacks, who confessed they had planned it alone, were hanged at 11 a.m. on 23 October 1849: John on the Ewing, Peter on the frigate Savannah [1]. The Ewing's log records both bodies being sent to Yerba Buena Island for burial. These were the island's first graves [1][2]. A chaplain later told a strange story: a lawyer came looking for two Scottish brothers using the name Black, heirs to £20,000. Gibson doubted the pair were even brothers [1][2].",
+  "people": [
+   {
+    "name": "John Black",
+    "role": "mutineer, hanged 1849"
+   },
+   {
+    "name": "Peter Black",
+    "role": "mutineer, hanged 1849"
+   },
+   {
+    "name": "William Gibson",
+    "role": "Passed Midshipman thrown overboard"
+   },
+   {
+    "name": "Thomas ap Catesby Jones",
+    "role": "Commodore of the Pacific Squadron"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mutiny on the Ewing (Stories and Tales of the Coast & Geodetic Survey)",
+    "publisher": "NOAA History (archived)",
+    "year": 2004,
+    "url": "https://web.archive.org/web/20041026231543/http://www.history.noaa.gov/stories_tales/ewingmutiny.html",
+    "supports": "Wages, mutiny details, capture, sentences, hanging date, log entry, Ver Mehr inheritance story and Gibson's doubt"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=68",
+    "supports": "Burial of both Blacks on Yerba Buena Island as its first graves; inheritance anecdote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-dowling-quarry",
+  "title": "The Quarryman the Army Evicted",
+  "theme": "labor-industry",
+  "year": 1849,
+  "yearEnd": 1867,
+  "place": {
+   "label": "Dowling's wharf site, west side of East Cove",
+   "lat": 37.8118,
+   "lon": -122.3633,
+   "precision": "area"
+  },
+  "hook": "Thomas Dowling spent 17 years quarrying stone, building boats and burying a son here. Then ten soldiers rowed over and threw him off.",
+  "story": "Thomas Dowling arrived on Yerba Buena Island in 1849 [1][2]. He opened a quarry that supplied building stone to San Francisco and ballast to ships, built a boatway and a small plank wharf, and even filled in about two acres of bay [1][2]. His neighbour Jennings put up a barn, a windmill, a forge and oyster beds [2]. The island held grief too. A Dowling son playing on a stone scow was swept overboard and drowned, and he was buried on the hilltop [2].\n\nOwnership was a tangle of Mexican paper, squatters' rights and city ordinances. By 1864 Dowling had bought Captain Nye's old certificate, and the Navy history says the retired captain was living with him at the time [1][2]. The dispute with a rival occupant, J. Pelter, got so bad it nearly came to pistols [2]. On 12 October 1866 the President ordered the Army to take the island, and a detachment of ten soldiers \"ejected therefrom by force the said Thomas H. Dowling\" [1]. The commanding officer later bought six of Dowling's hogs for $40 and turned his house into the post hospital [2]. Congress weighed Dowling's claim in 1871, but the Navy history says no claimant was ever compensated [1][2].",
+  "people": [
+   {
+    "name": "Thomas H. Dowling",
+    "role": "quarryman and claimant"
+   },
+   {
+    "name": "Jennings",
+    "role": "fellow settler"
+   },
+   {
+    "name": "Major Mansfield",
+    "role": "commander of the first garrison"
+   }
+  ],
+  "sources": [
+   {
+    "title": "H. Rept. 41-50: Thomas H. Dowling, claim to Yerba Buena",
+    "publisher": "U.S. House of Representatives, Sub-Committee on Private Land Claims (GovInfo)",
+    "year": 1871,
+    "url": "https://www.govinfo.gov/app/details/SERIALSET-01464_00_00-051-0050-0000",
+    "supports": "Dowling's occupation from 1849, improvements and fill, 1864 deed, 1866 order and forcible ejection by ten troops"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=30",
+    "supports": "Quarry, boatway, wharf, Jennings' buildings, drowned son, Nye living with Dowling (flipbook p.30); Pelter feud, Mansfield's hogs, Dowling's house as hospital (flipbook p.31)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-army-post",
+  "title": "The Artillery Post Soldiers Hated",
+  "theme": "war-military",
+  "year": 1868,
+  "yearEnd": 1879,
+  "place": {
+   "label": "Site of Army Post parade ground, East Cove",
+   "lat": 37.8124,
+   "lon": -122.3612,
+   "precision": "area"
+  },
+  "hook": "Fear of a Confederate raider in the fog put soldiers on the island. They got a parade ground, a bakery, a fire and a transfer out.",
+  "story": "During the Civil War, planners worried that a Confederate warship could slip past Fort Point and Alcatraz on a foggy night. The Navy first proposed garrisoning Yerba Buena Island in 1861 [1]. The guns were never built, but the soldiers came anyway. After a first small detachment in early 1867, 125 men arrived to set up an artillery post and depot on the island's only flat ground, at the east cove [1][2].\n\nThey built it the Army way, around a square parade ground: a two-wing barracks for 150 men, mess hall, laundresses' quarters, bakery, sutler's store, guard house and wharf. The hospital was Thomas Dowling's old house [2]. The Fourth Artillery held the post from 1871 to 1879 [1][2]. The barracks burned in 1875, and the Navy's historians report that most of the men hated island life [2]. In 1879 General McDowell ordered them back to the Presidio, which was a relief to the garrison [2]. Two of the post's buildings are known to survive. They were moved and rebuilt on Angel Island [1]. The Army kept title all the same, and around 1881 Barnacle Bill was living here as caretaker of the empty post [2].",
+  "people": [
+   {
+    "name": "General McDowell",
+    "role": "commanding general who withdrew the garrison"
+   },
+   {
+    "name": "William Bernard (\"Barnacle Bill\")",
+    "role": "caretaker c.1881"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NRHP nomination: Torpedo Storehouse / Torpedo (Mine) Assembly Building, Yerba Buena Island",
+    "publisher": "National Park Service",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08000086_text",
+    "supports": "1861 recommendation, 1867 post, 125 men, Fourth Artillery 1871, 1879 withdrawal, buildings moved to Angel Island"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=31",
+    "supports": "Layout, Dowling's house as hospital, 1875 fire, soldiers' dislike, McDowell's transfer (flipbook p.31); Barnacle Bill as caretaker c.1881 (flipbook p.29)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-railroad-terminus",
+  "title": "The Railroad That Wanted the Whole Island",
+  "theme": "labor-industry",
+  "year": 1869,
+  "yearEnd": null,
+  "place": {
+   "label": "Yerba Buena Shoals (today's Treasure Island)",
+   "lat": 37.8175,
+   "lon": -122.3695,
+   "precision": "area"
+  },
+  "hook": "Leland Stanford planned to flatten Goat Island, fill the shoals and run the transcontinental railroad out to the middle of the bay.",
+  "story": "Here's a San Francisco fear from the 1860s: the transcontinental railroad would end somewhere else. Around the end of the 1860s, Leland Stanford's Central Pacific tried to get Goat Island from the federal government. The plan was to level it, fill the surrounding shoals and run a causeway across to the Contra Costa shore, making the island the line's western terminus [1]. San Franciscans saw a trap in it: a railroad port in mid-bay could make the city itself unnecessary. Remarks by Stanford, the Navy's historians note, suggested they were right [1]. The railroad won in Sacramento. San Francisco won in Washington, and only intense opposition from the city blocked the transfer [1][2].\n\nIt was a hollow victory, because the Central Pacific simply built its terminus in Oakland [1]. The fight still had a long afterlife. It started the first serious debate about a bridge across the bay and about filling the Yerba Buena shoals [1]. The 1861 city directory had already imagined an artificial island here, built with earth dug from Yerba Buena itself [1]. In the mid-1930s, dredged fill made that idea real as Treasure Island, right where you're standing [3].",
+  "people": [
+   {
+    "name": "Leland Stanford",
+    "role": "Central Pacific Railroad president"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=36",
+    "supports": "Central Pacific plan to take, level and fill; SF opposition; Oakland terminus; bridge debates; 1861 directory artificial-island idea"
+   },
+   {
+    "title": "Politics of Business (from Issel & Cherny, San Francisco 1865-1932)",
+    "publisher": "FoundSF",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Politics_of_Business",
+    "supports": "Intense San Francisco opposition diverted proposal to give the railroad control of Goat Island"
+   },
+   {
+    "title": "NRHP nomination: Senior Officers' Quarters Historic District, Yerba Buena Island",
+    "publisher": "National Park Service",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08000085_text",
+    "supports": "Treasure Island built on the Yerba Buena Shoals, 1935-1937"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-emperor-norton-bridge",
+  "title": "The Emperor Orders a Bridge via Goat Island",
+  "theme": "gold-rush-victorian",
+  "year": 1872,
+  "yearEnd": null,
+  "place": {
+   "label": "Yerba Buena Tunnel, Bay Bridge crossing of the island",
+   "lat": 37.8104,
+   "lon": -122.3652,
+   "precision": "area"
+  },
+  "hook": "In 1872 a penniless self-proclaimed emperor decreed a bridge from Oakland to Goat Island. Sixty-four years later, the Bay Bridge took his route.",
+  "story": "Joshua Norton was a failed rice speculator who had declared himself Norton I, Emperor of the United States. On 23 March 1872 his proclamation in the Pacific Appeal ordered \"that a suspension bridge be built from Oakland Point to Goat Island, and thence to Telegraph Hill; provided such bridge can be built without injury to the navigable waters of the Bay\" [1]. That September, annoyed that nothing had happened, he ordered a survey to see whether a bridge or a tunnel would be better. According to the Museum of the City of San Francisco's chronology, he also ordered the arrest of the Board of Supervisors [1][2].\n\nCity Guides notes that the bridge was \"somewhat delayed\" [3]. When the San Francisco-Oakland Bay Bridge finally opened in 1936, it crossed the bay by way of Goat Island, as Norton had specified, boring straight through its rocky middle [3][4]. That tunnel has never been officially named. For its 90th anniversary in 2026, the Emperor Norton Trust and State Senator Scott Wiener proposed Senate Concurrent Resolution 193 to call it the Emperor Norton Tunnel [4].",
+  "people": [
+   {
+    "name": "Joshua A. Norton (Norton I)",
+    "role": "self-proclaimed Emperor of the United States"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Emperor Norton",
+    "publisher": "FoundSF",
+    "year": 2021,
+    "url": "https://www.foundsf.org/index.php?title=Emperor_Norton",
+    "supports": "Text of 23 March and 21 September 1872 decrees"
+   },
+   {
+    "title": "Emperor Norton chronology",
+    "publisher": "Museum of the City of San Francisco",
+    "year": null,
+    "url": "http://www.sfmuseum.org/hist1/norton.html",
+    "supports": "Dates of bridge decrees; order to arrest supervisors"
+   },
+   {
+    "title": "Goats on Goat Island in San Francisco (Susan Saperstein)",
+    "publisher": "San Francisco City Guides, GuideLines",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20111002174554/http://www.sfcityguides.org/public_guidelines.html?article=410&submitted=TRUE&srch_text=&submitted2=&topic=Early%20San%20Francisco",
+    "supports": "Bridge 'somewhat delayed', opened 1936"
+   },
+   {
+    "title": "Emperor Norton Tunnel proposal",
+    "publisher": "The Emperor Norton Trust",
+    "year": 2026,
+    "url": "https://emperornortontunnel.org",
+    "supports": "Three 1872 proclamations specified 'via Goat Island'; unnamed tunnel; SCR 193"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-yerba-buena-light",
+  "title": "The Little Wooden Light Midway Across",
+  "theme": "architecture-landmarks",
+  "year": 1875,
+  "yearEnd": null,
+  "place": {
+   "label": "Yerba Buena Lighthouse, southeast point",
+   "lat": 37.8073,
+   "lon": -122.3623,
+   "precision": "building"
+  },
+  "hook": "California's only freestanding wooden lighthouse tower got a second-hand lens from Oregon. The keeper's daughters sailed to school.",
+  "story": "No island in the bay had more traffic passing it than Yerba Buena. Ferries crossed between San Francisco and the railroad terminus at Oakland, carrying millions of passengers a year [1]. A fog bell borrowed from Point Conception came first, struck by clockwork [1][2]. Then, on 1 October 1875, a steam whistle and a light went into service in a short octagonal tower with 1875 over its door [2]. The dates are muddled: the National Register form says the tower was finished in 1873 but had to wait for its lens [1].\n\nThat lens was second-hand, a fifth-order Fresnel from the closed Yaquina Bay Lighthouse in Oregon [1][2]. The Navy's historians called it the weakest lighthouse the government ran, visible for 12 miles [3]. The station is also unusual: it is the only freestanding wooden lighthouse tower in California, in ornate Eastlake style, with the keepers' Gothic house 80 yards uphill [1]. The cliff below was painted white to help mark the island [2]. With no school on the island, the keeper's three daughters sailed their own sloop across the bay to classes in San Francisco every day [3].",
+  "people": [
+   {
+    "name": "H. D. Tuttle",
+    "role": "first head keeper, 1875-1877"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NRHP nomination: Yerba Buena Island Light Station",
+    "publisher": "National Park Service",
+    "year": 1991,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001096_text",
+    "supports": "Traffic, fog bell from Point Conception, 1873 tower date, Yaquina lens, only freestanding wooden tower, keeper's house 80 yards uphill"
+   },
+   {
+    "title": "Yerba Buena Lighthouse, California",
+    "publisher": "Lighthousefriends.com (Kraig Anderson)",
+    "year": 2001,
+    "url": "https://www.lighthousefriends.com/light.asp?ID=71",
+    "supports": "1 October 1875 start, steam whistle, 1875 over door, white-painted cliff, first keeper"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=34",
+    "supports": "Weakest lighthouse, 12-mile visibility, keeper's daughters sailing to school"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-lighthouse-depot",
+  "title": "The Shortest Tender Run on the Coast",
+  "theme": "labor-industry",
+  "year": 1873,
+  "yearEnd": null,
+  "place": {
+   "label": "12th District Lighthouse Depot (now Coast Guard Base), east of the light",
+   "lat": 37.8092,
+   "lon": -122.3617,
+   "precision": "area"
+  },
+  "hook": "From this little wharf, steamers carried paychecks, mail and a dreaded inspector to every lighthouse on the Pacific coast.",
+  "story": "In 1873 the Lighthouse Service moved its Pacific district depot from Mare Island to Yerba Buena's southeast shore [1][2]. It grew into storehouses, a paint shop, a machine shop, a dock and two houses for the men who worked there. Every one of the district's 28 lighthouses was supplied through here, and buoys were hauled in to be refurbished and stacked on the wharf [3]. Tenders such as the Shubrick, Manzanita and Madrono steamed out to remote stations with paychecks, mail and food. They also brought the notoriously strict inspector, which made the tender's arrival a mixed blessing for keepers [1].\n\nThe depot's own lighthouse got what keepers called \"the shortest tender run\": a trip of a couple of hundred yards around the point. A steam winch hoisted up the coal, and food was carried up the \"goat trail\" [1]. Island life had its gentler days too. On 21 August 1892, the San Francisco Call reported \"the first wedding in Goat Island's history\" [4]. Charles McCarthy, keeper of the Oakland mole light, married Mrs. Jennie Lewis at the home of Captain Linne, the Goat Island station-keeper [4]. The depot survives today as the Coast Guard base [2].",
+  "people": [
+   {
+    "name": "Charles McCarthy",
+    "role": "Oakland mole lighthouse keeper, groom in 1892"
+   },
+   {
+    "name": "Jennie Lewis",
+    "role": "bride in the island's first wedding"
+   },
+   {
+    "name": "Captain Linne",
+    "role": "Goat Island station-keeper"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Yerba Buena Lighthouse, California",
+    "publisher": "Lighthousefriends.com (Kraig Anderson)",
+    "year": 2001,
+    "url": "https://www.lighthousefriends.com/light.asp?ID=71",
+    "supports": "1873 move from Mare Island, tenders, inspector, shortest tender run, goat trail"
+   },
+   {
+    "title": "NRHP nomination: Yerba Buena Island Light Station",
+    "publisher": "National Park Service",
+    "year": 1991,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001096_text",
+    "supports": "12th District depot founded 1873; now Coast Guard base"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=34",
+    "supports": "Depot buildings, 28 lighthouses, buoys"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=37",
+    "supports": "1892 first wedding quoted from SF Call"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-keepers-house-fire",
+  "title": "Fire in the Keepers' Gothic House",
+  "theme": "architecture-landmarks",
+  "year": 1909,
+  "yearEnd": null,
+  "place": {
+   "label": "Light station keepers' quarters, Hillcrest Rd",
+   "lat": 37.8096,
+   "lon": -122.3635,
+   "precision": "block"
+  },
+  "hook": "A keeper heard timbers crackling above his kitchen. A passing Navy tug blew its whistle, and the island's sailor boys came running.",
+  "story": "Uphill from the lighthouse stands a Victorian Gothic house with steep cross-gables and a sweeping veranda. It was built as a duplex for the keeper's and assistant keeper's families, and it is one of only two such keepers' houses left in California [1]. On the afternoon of 17 July 1909, Assistant Keeper John Kofod was sitting in his kitchen when he heard burning timber and saw the roof and eaves above him on fire [2]. He alerted his wife and daughter and Keeper Herbert Luff's family downstairs. Aboard the approaching Navy tug Vigilant, Captain Lockyer saw the flames and sounded his whistle, which brought men running from the Naval Training Station. They dragged a hose from the tug's engines up the hill and fought the fire for an hour. The roof and several upper rooms were lost [2].\n\nThe house carried on. Kofod's daughter Anna married Walter Fanning, a radioman at the island's naval station, and their son was born in the dwelling [2]. On New Year's Eve, Kofod would take his grandchildren down to give three blasts on the fog whistle. The passing ferries answered [2]. Today a senior Coast Guard officer lives in the house [1].",
+  "people": [
+   {
+    "name": "John P. Kofod",
+    "role": "assistant keeper, later head keeper"
+   },
+   {
+    "name": "Herbert H. Luff",
+    "role": "head keeper 1904-1921"
+   },
+   {
+    "name": "Captain Lockyer",
+    "role": "master of Navy tug Vigilant"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NRHP nomination: Yerba Buena Island Light Station",
+    "publisher": "National Park Service",
+    "year": 1991,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001096_text",
+    "supports": "Keeper's quarters: Gothic style, duplex, rarity in California, current occupant"
+   },
+   {
+    "title": "Yerba Buena Lighthouse, California",
+    "publisher": "Lighthousefriends.com (Kraig Anderson)",
+    "year": 2001,
+    "url": "https://www.lighthousefriends.com/light.asp?ID=71",
+    "supports": "17 July 1909 fire (citing SF Call, 18 July 1909), Kofod family, Fanning, New Year's whistle"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-first-arbor-day",
+  "title": "California's First Arbor Day on a Bald Island",
+  "theme": "parks-nature",
+  "year": 1886,
+  "yearEnd": null,
+  "place": {
+   "label": "Summit of Yerba Buena Island, Signal Rd",
+   "lat": 37.8099,
+   "lon": -122.3662,
+   "precision": "area"
+  },
+  "hook": "Goats and woodcutters had stripped the island bare. A poet rallied the city to plant a forest here in the shape of a cross.",
+  "story": "Picture Yerba Buena Island with no eucalyptus. After decades of goat grazing and oak cutting it was almost bare. The National Register calls it \"a barren wasteland\" [1][2]. The poet Joaquin Miller campaigned to replant it, along with the Presidio and Black Point. The island was his main focus, and the planting was laid out as a Greek cross centred on the summit [2]. One newspaper said it was to remind people \"that we all have some cross to bear\" [2].\n\nThe planting became California's first Arbor Day. The National Register and City Guides date it to 27 November 1886 [1][3]. The Navy's study says 5 March 1887 [2]. Ex-Governor Perkins, General Howard and Adolph Sutro were there. The elderly General Mariano Vallejo was to give the main address but could not climb the hill in time, so someone else read his speech. He did reach the top in time to plant a tree [2]. The summit trees died from exposure and later a fire, but some of the lower plantings are thought to survive in today's forest [2].",
+  "people": [
+   {
+    "name": "Joaquin Miller",
+    "role": "poet who led the planting"
+   },
+   {
+    "name": "Mariano Guadalupe Vallejo",
+    "role": "Californio general, guest of honour"
+   },
+   {
+    "name": "Adolph Sutro",
+    "role": "attending dignitary"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NRHP nomination: Yerba Buena Island Light Station",
+    "publisher": "National Park Service",
+    "year": 1991,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001096_text",
+    "supports": "Barren island; Joaquin Miller's program for first Arbor Day, 27 November 1886"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=36",
+    "supports": "Greek cross, dignitaries, Vallejo's late climb, 5 March 1887 date, fate of trees"
+   },
+   {
+    "title": "Goats on Goat Island in San Francisco (Susan Saperstein)",
+    "publisher": "San Francisco City Guides, GuideLines",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20111002174554/http://www.sfcityguides.org/public_guidelines.html?article=410&submitted=TRUE&srch_text=&submitted2=&topic=Early%20San%20Francisco",
+    "supports": "Arbor Day 27 November 1886 replanting of Goat Island"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-torpedo-building",
+  "title": "The Mine Shed That Stopped a Bridge",
+  "theme": "architecture-landmarks",
+  "year": 1891,
+  "yearEnd": null,
+  "place": {
+   "label": "Torpedo Assembly Building (Building 262), East Point",
+   "lat": 37.8147,
+   "lon": -122.3593,
+   "precision": "building"
+  },
+  "hook": "The Army needed a rust-proof home for its underwater mines. It hired a concrete pioneer, and his shed still sits in the Bay Bridge's shadow.",
+  "story": "In 1884 the Army sent a shipment of buoyant \"torpedoes\" (underwater mines) to San Francisco and stored them on foggy Alcatraz. They rusted within months [1]. Lieutenant Colonel George Mendell wanted a storehouse on sheltered Yerba Buena Island, but by the time Congress paid for it in 1889, brick prices had jumped by more than 30 percent [1]. So he turned to Ernest L. Ransome, a Bay Area pioneer of reinforced concrete who had patented his twisted iron reinforcing bars in 1884 [1].\n\nThe shed was finished in 1891. It measured 158 by 72 feet, with 24-foot walls and room for more than 1,100 mines [1]. In 1893 it held 579 [1]. Its walls were cast in molds to look like masonry, then bush-hammered to resemble quarry-cut stone. They still carry the mark of Ransome's patent No. 405,800 [1]. In the 1930s the Navy wanted it razed for the Bay Bridge, but the Army refused to give it up without a replacement [2]. It survives under the bridge's eastern approach as the only Army building left on the island, a rare early reinforced-concrete building [1][2].",
+  "people": [
+   {
+    "name": "Ernest Leslie Ransome",
+    "role": "reinforced-concrete pioneer and builder"
+   },
+   {
+    "name": "George H. Mendell",
+    "role": "Army Corps of Engineers officer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NRHP nomination: Torpedo Storehouse / Torpedo (Mine) Assembly Building, Yerba Buena Island",
+    "publisher": "National Park Service",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08000086_text",
+    "supports": "Rusting mines on Alcatraz, Mendell, brick cost, Ransome, dimensions, capacity, 579 torpedoes, patent marks, only surviving Army building"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=32",
+    "supports": "1891 Torpedo Station; Army refused demolition for the Bay Bridge"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-apprentice-boys",
+  "title": "Boy Sailors of the Goat Island Station",
+  "theme": "war-military",
+  "year": 1899,
+  "yearEnd": 1923,
+  "place": {
+   "label": "Site of Naval Training Station barracks, North Gate Rd",
+   "lat": 37.8134,
+   "lon": -122.3621,
+   "precision": "area"
+  },
+  "hook": "Teenage apprentices climbed the masthead every afternoon. Some tried to escape to Oakland by paddling across the bay on a log.",
+  "story": "In March 1899 Captain Henry Glass sailed the Civil War veteran USS Pensacola to Yerba Buena Island and anchored her in the cove. The ship served as headquarters and dormitory for the Pacific coast's first Naval Training Station while its buildings went up [1][2]. The barracks, finished in January 1900, housed 500 and had the largest drill hall on the Pacific coast. Apprentices slung their hammocks in the gallery above it [2].\n\nRecruits were 15 to 17, had to avoid profanity, and earned $9 a month [2]. The day ran from 6 a.m. reveille to 9 p.m. taps, with knotting, splicing, signalling and gun drills, and every afternoon every boy went \"over the masthead\" [2]. Not all of them stayed. In July 1901 a paper reported a \"mania for deserting\" and described boys being hauled ashore from stolen launches. Six of them had decided \"bread and water was better than paddling across to Oakland on a log on a cold night\" [2]. The station was one of only four in the country [2][3]. It became so overcrowded during World War I that the Navy moved training to San Diego, and it closed in 1923 [2][3].",
+  "people": [
+   {
+    "name": "Henry Glass",
+    "role": "first commandant, later Rear Admiral"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NRHP nomination: Quarters 1, Yerba Buena Island Naval Training Station",
+    "publisher": "National Park Service (Sally B. Woodbridge)",
+    "year": 1991,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001380_text",
+    "supports": "Glass brought Pensacola on 3 March 1899; ship served as headquarters and dormitory"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=38",
+    "supports": "Barracks, drill hall, apprentice ages, pay, 1901 desertion report (pp.1-15/16) and daily schedule (p.1-17)"
+   },
+   {
+    "title": "NRHP nomination: Senior Officers' Quarters Historic District, Yerba Buena Island",
+    "publisher": "National Park Service",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08000085_text",
+    "supports": "One of four training stations; overcrowding; move to San Diego and 1923 closure"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-quarters-one",
+  "title": "A Commandant's Mansion, Later Nimitz's Last Home",
+  "theme": "architecture-landmarks",
+  "year": 1900,
+  "yearEnd": null,
+  "place": {
+   "label": "Quarters 1 (Nimitz House), 1 Whiting Way",
+   "lat": 37.8127,
+   "lon": -122.3637,
+   "precision": "building"
+  },
+  "hook": "The Navy built its commandant a Classical Revival house in the style of fashionable Bay Area mansions. Sixty-six years later, a famous admiral died in it.",
+  "story": "Navy base housing was usually plain. Quarters 1 is not. It was completed in January 1900 for the commandant of the new Naval Training Station [1][2]. The National Register describes it as an unusual Navy example of Classical Revival, the style fashionable in private Bay Area homes of the 1890s [1]. It has a symmetrical front, balconies on carved brackets, and Ionic columns framing the hall and staircase [1]. Uphill from the drill hall, a row of matching officers' houses followed along the curving road. The nominations disagree on dates: one says the six were built in 1900, the other says 1901-1905 [1][3].\n\nFrom its porch, a lawn sweeps down toward the bay. In 1916, according to its National Register nomination, the house became the residence of the commander of the Naval Base, San Francisco [1]. It is best known now for a later occupant. Fleet Admiral Chester Nimitz, who commanded the Pacific Fleet in World War II, lived here from 1963 and died in the house on 20 February 1966 [1][3]. That's why it is still called the Nimitz House.",
+  "people": [
+   {
+    "name": "Chester W. Nimitz",
+    "role": "Fleet Admiral, resident 1963-1966"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NRHP nomination: Quarters 1, Yerba Buena Island Naval Training Station",
+    "publisher": "National Park Service (Sally B. Woodbridge)",
+    "year": 1991,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91001380_text",
+    "supports": "Built 1899-1900 as commandant's residence, Classical Revival details, 1916 change of use, Nimitz death 1966"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=39",
+    "supports": "Commandant's house completed 23 January 1900"
+   },
+   {
+    "title": "NRHP nomination: Senior Officers' Quarters Historic District, Yerba Buena Island",
+    "publisher": "National Park Service",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08000085_text",
+    "supports": "Officers' quarters 1901-1905; Nimitz residence 1963-1966"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-quake-radio",
+  "title": "Wireless Lifeline in the 1906 Disaster",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "Naval station on Yerba Buena Island (radio station and hospital)",
+   "lat": 37.8138,
+   "lon": -122.3629,
+   "precision": "area"
+  },
+  "hook": "With San Francisco's telegraph wires down and the city burning, a small Navy radio station on Goat Island relayed its messages.",
+  "story": "In 1902 the Navy began setting up wireless stations at Mare Island and on Yerba Buena Island, among its first on the Pacific coast [1]. In January 1905 the Chronicle reported a \"battle-ship at sea\" talking with Goat Island, as the battleship Ohio's signals were picked up at a naval station on the island [2].\n\nThe real test came on 18 April 1906. The cruiser USS Chicago had left port the night before. Her operator picked up news of the earthquake at dawn, and by ten she was docked near the Ferry Building [3]. With Western Union and Postal Telegraph lines down, the Navy made the Chicago's weak set the city's outlet for priority messages. Stanley Hooper, a young officer who had worked a railroad telegraph key, ran the message office [3]. The Chicago's set could reach less than 100 miles, so the naval radio station on Yerba Buena Island worked full-time relaying traffic between the ship and Mare Island, where it went out by telegraph [3]. In about two weeks the Chicago handled over 1,000 messages [3]. The island itself was reported undamaged, and quake victims who needed emergency care were sent to its hospital [4].",
+  "people": [
+   {
+    "name": "Stanley C. Hooper",
+    "role": "Past Midshipman, later 'Father of Naval Radio'"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History of Communications-Electronics in the United States Navy, ch. 7",
+    "publisher": "Capt. L. S. Howeth, USN (1963), via earlyradiohistory.us",
+    "year": 1963,
+    "url": "https://earlyradiohistory.us/1963hw07.htm",
+    "supports": "Navy began stations at Mare Island and Yerba Buena Island in 1902"
+   },
+   {
+    "title": "Maiden Lane and the Pot-holes of History",
+    "publisher": "FoundSF",
+    "year": 2026,
+    "url": "https://www.foundsf.org/index.php?title=Maiden_Lane_and_the_Pot-holes_of_History",
+    "supports": "1905 Ohio transmissions to Goat Island (citing SF Chronicle, 17 Jan 1905)"
+   },
+   {
+    "title": "History of Communications-Electronics in the United States Navy, ch. 9",
+    "publisher": "Capt. L. S. Howeth, USN (1963), via earlyradiohistory.us",
+    "year": 1963,
+    "url": "https://earlyradiohistory.us/1963hw09.htm",
+    "supports": "Chicago's return, Hooper, wires down, Yerba Buena relay to Mare Island, 1,000 messages"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=40",
+    "supports": "Island spared; quake victims sent to Goat Island hospital"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "treasure-island-wwi-tent-camps",
+  "title": "Tent City and Influenza, 1918",
+  "theme": "war-military",
+  "year": 1918,
+  "yearEnd": 1923,
+  "place": {
+   "label": "Camp Paul Jones site, Lighthouse Reservation slopes",
+   "lat": 37.8082,
+   "lon": -122.3642,
+   "precision": "area"
+  },
+  "hook": "World War I crammed 13,000 men onto a hilly island built for 500. Then the flu came, and the caskets went out by launch.",
+  "story": "When America entered World War I, Yerba Buena Island's training station exploded. It reached a peak of 13,000 men on an island with maybe 150 usable acres [1][2]. Rows of canvas tents on wooden floors spread across the slopes [2]. The Lighthouse Service gave up 1.5 acres of its reservation, where the Navy carved Camp Paul Jones into the hillside. By 1919 it had 806 tents, and a separate detention camp had 384 more [2].\n\nIn 1918 influenza swept the Bay Area and the island was quarantined for weeks. A young boat orderly who ferried caskets to San Francisco remembered that \"funerals seemed an almost daily occurrence, sometimes with six to nine caskets\". The first coffin of the day rode on a field gun and the rest followed on a truck [2]. Every recruit spent three weeks isolated in a hilltop tent camp. A separate camp for meningitis patients stood on the northwest point, next to the cemetery [2]. The crowding convinced the Navy to move training to San Diego. On 31 July 1923 the Goat Island station was officially closed, and only a \"receiving ship\" stayed behind [1][2].",
+  "people": [
+   {
+    "name": "George Landenburger",
+    "role": "last commandant, then receiving ship commander"
+   }
+  ],
+  "sources": [
+   {
+    "title": "NRHP nomination: Senior Officers' Quarters Historic District, Yerba Buena Island",
+    "publisher": "National Park Service",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08000085_text",
+    "supports": "13,000 men assigned during WWI build-up; closure 1923; receiving ship role"
+   },
+   {
+    "title": "Historical Study of Yerba Buena Island, Treasure Island and Their Buildings (Rev. 1)",
+    "publisher": "Mare Island Naval Shipyard BRAC Environmental Division (E. Hice & D. Schierling), via Treasure Island Museum",
+    "year": 1996,
+    "url": "https://books.treasureislandmuseum.org/Historical_Study_of_TI_YBI/index.html#p=48",
+    "supports": "Camp Paul Jones, 806 tents (flipbook p.48); Detention camp, 384 tents (flipbook p.50); 1918 influenza quarantine, orderly's quote, isolation camps, meningitis camp, 13,000 peak, closure orders (flipbook p.60)"
+   }
+  ],
+  "photo": null
+ }
+]

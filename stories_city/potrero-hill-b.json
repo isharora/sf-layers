@@ -1,0 +1,745 @@
+[
+ {
+  "id": "potrero-hill-soap-box-derby-1936",
+  "title": "Baby-buggy racers on Carolina Street",
+  "theme": "communities",
+  "year": 1936,
+  "place": {
+   "label": "Carolina Street between 19th and Mariposa",
+   "lat": 37.7622,
+   "lon": -122.4002,
+   "precision": "street"
+  },
+  "hook": "In July 1936 thousands lined a steep Potrero Hill block to watch a hundred kids hurtle downhill in homemade racers, towards a rope net for anyone whose brakes failed.",
+  "story": "On July 31, 1936, San Francisco held its first All-American Soap Box Derby, billed as \"the greatest amateur racing event in the world\", on Carolina Street between 19th and Mariposa [1]. Thousands of spectators and a hundred young racers turned out. The 900-foot course ran past the Pioneer & Queen Lily Soap factory at 18th Street, today's Pioneer Square, and ended at a rope net that caught drivers whose brakes gave out [1][2].\n\nThe cars had no engines and were built at home. Kids scavenged baby-buggy wheels from a South of Market dump nicknamed The Crematory. Some racers were named for girlfriends, others \"The Tear Drop\" and \"Green Dragon\". Girls weren't welcomed as racers until 1971 [1].\n\nThe winner was 15-year-old Russel Scott of San Rafael. He covered the course in 25.1 seconds and won a trip to the national finals at Derby Downs in Akron, Ohio [1]. The photographer John Gutmann, who had fled Nazi Germany and went on to build San Francisco State's creative photography programme, recorded the day [1]. The Hill hasn't lost its taste for downhill mischief: every Easter, big-wheel riders race down the twisting block of Vermont Street [1].",
+  "people": [
+   {
+    "name": "Russel Scott",
+    "role": "15-year-old winner from San Rafael"
+   },
+   {
+    "name": "John Gutmann",
+    "role": "photographer who documented the race"
+   }
+  ],
+  "sources": [
+   {
+    "title": "1936 Soap Box Derby (by Peter Linenthal, Potrero Hill Archives Project)",
+    "publisher": "FoundSF",
+    "year": 2023,
+    "url": "https://www.foundsf.org/index.php?title=1936_Soap_Box_Derby",
+    "supports": "date, course, crowd, soap factory, net, wheels, car names, winner and time, Gutmann, girls from 1971, Vermont St races"
+   },
+   {
+    "title": "1936 Soap Box Derby",
+    "publisher": "The Potrero View",
+    "year": 2023,
+    "url": "https://www.potreroview.net/1936-soap-box-derby/",
+    "supports": "same account as originally published in the View, Dec 2023"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-terrace-1941",
+  "title": "Hillside homes for wartime shipbuilders",
+  "theme": "civil-rights",
+  "year": 1941,
+  "yearEnd": 2026,
+  "place": {
+   "label": "Potrero Terrace and Annex, south slope (around 25th and Connecticut)",
+   "lat": 37.7535,
+   "lon": -122.395,
+   "precision": "area"
+  },
+  "hook": "Potrero Terrace opened in 1941 on terraces cut into the south slope. Its first homes went to shipyard families, and at first not one went to a Black family.",
+  "story": "When the San Francisco Housing Authority opened Potrero Terrace in 1941, its 469 units made it one of the city's first public housing projects [1]. Builders cut \"benches\" into the steep south slope, and the new streets followed the land rather than the city grid, which set the project apart from its neighbours [2]. Most of the first residents worked in the shipyards [2]. Of the Authority's first five projects, only Westside Courts in the Western Addition housed African Americans. Potrero Terrace, like the other three, had no Black tenants [1].\n\nThat changed after the war. In 1955 the Authority added Potrero Annex: 137 more units in 23 buildings, on land it described as \"marginal land which perhaps otherwise would have laid undeveloped for many years\" [2]. Over the decades its residents, some 1,300 at a time, included O.J. Simpson and the actor Danny Glover [2][3]. But unemployment rose and the complex's reputation sank. In 2017 BRIDGE Housing put violent crime there at five times the city average [2]. Under the city's HOPE SF rebuild, the first new building, at 1101 Connecticut, was finished in 2019. Excavators began tearing down the Annex in 2026 [2].",
+  "people": [
+   {
+    "name": "O.J. Simpson",
+    "role": "former resident"
+   },
+   {
+    "name": "Danny Glover",
+    "role": "former resident"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Housing Authority 1937-1965: The Early Decades",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=San_Francisco_Housing_Authority_1937-1965:_The_Early_Decades",
+    "supports": "1941 opening, 469 units; only Westside Courts had Black tenants"
+   },
+   {
+    "title": "Annex Demolished",
+    "publisher": "The Potrero View",
+    "year": 2026,
+    "url": "https://www.potreroview.net/annex-demolished/",
+    "supports": "benches cut into hillside, shipbuilder tenants, 1955 Annex and SFHA quote, 1,300 residents incl. Simpson and Glover, 2017 crime figure, 1101 Connecticut 2019, demolition"
+   },
+   {
+    "title": "Potrero Hill Rec Center",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Potrero_Hill_Rec_Center",
+    "supports": "O.J. Simpson grew up in the neighbourhood's projects"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-bethlehem-wwii",
+  "title": "18,500 workers, round the clock",
+  "theme": "war-military",
+  "year": 1941,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Bethlehem Steel San Francisco Yard gate, 20th and Illinois Streets",
+   "lat": 37.76,
+   "lon": -122.3874,
+   "precision": "block"
+  },
+  "hook": "In May 1941 machinists picketed the shipyard gate at 20th and Illinois. Within months the same yard was running around the clock, building destroyers and patching up battleships.",
+  "story": "The old Union Iron Works at the foot of Potrero Hill had been Bethlehem Steel's shipyard since 1905 [1]. Through the 1930s its workers, many of whom lived in Dogpatch, went on strike for higher wages. A photograph from May 12, 1941 shows striking machinists outside the plant at 20th and Illinois Streets [1].\n\nOnce the US entered the war, the disputes were set aside. The yard employed 18,500 people on round-the-clock shifts [1]. Its slipways turned out Atlanta-class cruisers and dozens of destroyers, including Benson- and Fletcher-class ships [2]. Repair crews overhauled the aircraft carrier Essex and the battleships California, Maryland, Mississippi, Nevada and Pennsylvania [1].\n\nThe work remade the neighbourhood. Recruiters brought in Dust Bowl migrants from Oklahoma and Texas, African Americans from Louisiana, Texas and Arkansas, and Mexican workers. With no materials or land for new housing, families doubled and tripled up in Dogpatch's old flats and cottages [1]. By the 1950 census the Potrero Hill tract had 568 African American residents, almost all of them in Dogpatch or the Potrero View defense housing [1]. Shipbuilding ended with the war, and the yard fell back on repairs [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "The Story of Dogpatch",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+    "supports": "Bethlehem purchase 1905; 1930s-40s strikes and May 12, 1941 photo; 18,500 workers; ships repaired; wartime migrants and crowding; 1950 census figure"
+   },
+   {
+    "title": "Union Iron Works",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Union_Iron_Works",
+    "supports": "WWII ship classes built; shipbuilding ended after 1945, repairs continued"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-pier70-last-ships",
+  "title": "Last frigates, BART's tube, and alien pods",
+  "theme": "labor-industry",
+  "year": 1965,
+  "yearEnd": 1987,
+  "place": {
+   "label": "Pier 70 shipyard, east end of 20th Street",
+   "lat": 37.76,
+   "lon": -122.3835,
+   "precision": "area"
+  },
+  "hook": "The yard that built warships for three wars launched its last two in the 1960s, helped make BART's tube under the bay, then served as a set for alien pods.",
+  "story": "The last ships built at Pier 70 were two Navy frigates, the Bradley and the Garcia, between 1962 and 1965 [1]. The yard also won a huge job: 57 steel sections for BART's tunnel under the bay between Oakland and San Francisco [1]. After that it mostly repaired other people's ships [1][2].\n\nDecline followed. In 1978 Philip Kaufman filmed scenes for his remake of Invasion of the Body Snatchers in the yard's Building 6. There Donald Sutherland and Brooke Adams discover a warehouse being used to incubate pods [3]. The ownership story after that is tangled. Wikipedia says the city bought the Bethlehem site for one dollar in 1982 [2]. A 2005 report says Todd Industries bought the shipyards that year, broke its lease with the Port in 1987 as it faced bankruptcy, and that San Francisco Drydock later bought the dry-dock facilities from the Port for $1 [1].\n\nBy 2005 a few hundred workers were still repairing ships in one corner of the pier. One was the machinist Juan Ramirez, 77, who had worked on the waterfront for 35 years and said he had no plans to retire [1].",
+  "people": [
+   {
+    "name": "Juan Ramirez",
+    "role": "machinist, 35 years on the waterfront"
+   },
+   {
+    "name": "Philip Kaufman",
+    "role": "film director"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Shipyards in Decay (by Alexandra Berzon, 2005)",
+    "publisher": "FoundSF",
+    "year": 2005,
+    "url": "https://www.foundsf.org/index.php?title=Shipyards_in_Decay",
+    "supports": "last frigates 1962-65; 57 BART tube sections; Todd 1982-87; $1 dry-dock sale; Juan Ramirez"
+   },
+   {
+    "title": "Union Iron Works",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Union_Iron_Works",
+    "supports": "repairs after 1945; city purchase for $1 in 1982"
+   },
+   {
+    "title": "Starring Potrero Hill",
+    "publisher": "The Potrero View",
+    "year": 2024,
+    "url": "https://www.potreroview.net/starring-potrero-hill/",
+    "supports": "Invasion of the Body Snatchers (1978) filmed in Building 6 at Pier 70"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-western-pacific-tunnel",
+  "title": "Fire in the tunnel under the hill",
+  "theme": "architecture-landmarks",
+  "year": 1962,
+  "place": {
+   "label": "19th and Arkansas Streets, above the old Western Pacific tunnel",
+   "lat": 37.7609,
+   "lon": -122.3982,
+   "precision": "block"
+  },
+  "hook": "In summer 1962 a fire burned inside a railroad tunnel under Potrero Hill. As its timbers gave way, the ground sank beneath houses at 19th and Arkansas.",
+  "story": "Western Pacific trains ran through a tunnel under the north side of Potrero Hill, coming out near Mariposa and Carolina Streets [1]. At the end of June 1962 the tunnel caught fire. Photographs from June 30 and July 1 show the scene at Texas and Sierra, Missouri and Sierra, 23rd and Pennsylvania, and at the tunnel's north mouth [1]. The fire weakened the tunnel's wooden supports and it collapsed [2].\n\nThe Hill's own history records homes at Arkansas and 19th collapsing, and houses on Missouri between 20th and 22nd cracking and settling [3]. The dates don't agree. That timeline puts the Arkansas Street collapse in July 1962. Another dates it to July 1960, with a separate Missouri Street collapse in 1962 [4]. A photo caption also shows a hole at Arkansas and 19th in July 1960 [1].\n\nThe city plugged both ends of the tunnel with concrete and the railroad abandoned it. The city demanded $781,000 and settled with Western Pacific for $700,000 in 1964 [1]. The slope above stayed empty for thirty years. After a neighbourhood fight to keep it as open space, lofts were built where the tunnel had caved in [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Western Pacific Tunnel Collapse 1962",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Western_Pacific_Tunnel_Collapse_1962",
+    "supports": "tunnel location, June 30-July 1 1962 fire photos, 1960 hole caption, concrete plugs, $781,000 demand and $700,000 settlement in 1964"
+   },
+   {
+    "title": "Potrero Commons 18th-Wisconsin",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Potrero_Commons_18th-Wisconsin",
+    "supports": "fire weakened wooden supports; 1962 collapse; thirty years unbuilt; Potrero Commons fight and lofts"
+   },
+   {
+    "title": "Looking Back a Quarter-Century in 1976 (Potrero Hill Bicentennial Souvenir Booklet)",
+    "publisher": "FoundSF",
+    "year": 1976,
+    "url": "https://www.foundsf.org/index.php?title=Looking_Back_a_Quarter-Century_in_1976",
+    "supports": "July 1962 collapse at Arkansas and 19th; damage on Missouri"
+   },
+   {
+    "title": "Reshaping Potrero Hill (by Chris Carlsson)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Reshaping_Potrero_Hill",
+    "supports": "alternative dating: July 1960 collapse, July 1962 Missouri St collapse"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-powell-red-house",
+  "title": "The red house of the sedition trial",
+  "theme": "civil-rights",
+  "year": 1961,
+  "place": {
+   "label": "Near 24th and Kansas Streets, base of Potrero Hill",
+   "lat": 37.7536,
+   "lon": -122.4022,
+   "precision": "block"
+  },
+  "hook": "When the federal sedition case against a Potrero Hill couple finally fell apart in 1961, they painted their Victorian barn red and threw a party for 150.",
+  "story": "John W. \"Bill\" Powell and his wife Sylvia had published the China Monthly Review in Shanghai. In April 1956, back in San Francisco, a federal grand jury indicted them and associate editor Julian Schuman for sedition. The most damaging charge was that they had reported Chinese claims that the US used germ warfare in the Korean War [1]. Shut out of newspaper work, the Powells bought, rebuilt and resold old houses, starting with one on Potrero Hill [1].\n\nTheir son Tom remembers a three-room cottage on Carolina Street under the water tower, then the \"house with 47 steps\" on Rhode Island Street. By 1959 they were in a corner Victorian at the foot of the hill, kitty-corner from the Dutch Boy paint factory at 24th and Kansas [2]. At the old Starr King school, Sylvia had Tom sit out A-bomb drills in the principal's office. Nobody, she said, could survive a bomb in that basement [2].\n\nThe 1959 trial ended in a mistrial, and in 1961 Attorney General Robert F. Kennedy dropped the last charges [1]. Bill finished painting the house barn red. Every wooden house then was white, Tom recalls. Sylvia threw a party for about 150 professors, lawyers, union members, journalists and artists, with drums, torches and an oak cask of red wine [2].",
+  "people": [
+   {
+    "name": "John W. Powell",
+    "role": "editor charged with sedition"
+   },
+   {
+    "name": "Sylvia Powell",
+    "role": "co-defendant and activist"
+   },
+   {
+    "name": "Tom Powell",
+    "role": "son and memoirist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "John W. Powell",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/John_W._Powell",
+    "supports": "China Monthly Review; 1956 indictment and charges; Schuman; 1959 mistrial; RFK dropped charges 1961; house-flipping on Potrero Hill"
+   },
+   {
+    "title": "Growing Up 'Red' in 1950s San Francisco (by Tom Powell, excerpt from The Secret Ugly, 2023)",
+    "publisher": "FoundSF",
+    "year": 2023,
+    "url": "https://www.foundsf.org/index.php?title=Growing_Up_%E2%80%98Red%E2%80%99_in_1950s_San_Francisco",
+    "supports": "Carolina St cottage, Rhode Island St house, corner Victorian near Dutch Boy factory at 24th and Kansas, A-bomb drills, red paint, party details"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-smells-potrero-view",
+  "title": "The Potrero View follows its nose",
+  "theme": "labor-industry",
+  "year": 1971,
+  "place": {
+   "label": "Former Safeway Coffee Plant, 1501 Mariposa Street (at Arkansas)",
+   "lat": 37.76357,
+   "lon": -122.39879,
+   "precision": "building"
+  },
+  "hook": "In August 1971 a new neighbourhood paper went hunting for the source of Potrero Hill's \"smell spells\". The spice factory blamed the coffee plant across the street.",
+  "story": "The Potrero View began in 1970 as \"Hills and Dales\", a newsletter that five neighbours typed on stencils and ran off on St. Teresa's church mimeograph. It first appeared under its new name on August 1, 1970 [1]. A year later it took on one of the Hill's oldest complaints: the smell [1][2].\n\nThe View reported that the last great \"Smell Spell\", in spring 1970, had brought more than 400 calls to the air pollution district, from as far away as Telegraph Hill [2]. Then the reporters went to see the culprits. A worker at Pacific Rendering, where whale and animal parts were cooked down, said: \"They pay me $16,000 a year so I don't give a damn what it smells like.\" [2]\n\nOn the north slope, Pioneer Soap at 18th and Carolina gave off \"a very musky smell\". Mr. Markman of First Spice Mixing, at Arkansas and Mariposa, said: \"If you really want a strong odor, go across the street to the coffee factory.\" That was the Safeway coffee plant at 1501 Mariposa, blamed for the smell of burned coffee almost every day [2]. The View later reported the plant would cut the odour by 1972, after 29 residents petitioned [1].",
+  "people": [
+   {
+    "name": "Eileen Maloney",
+    "role": "first editor of the Potrero View"
+   },
+   {
+    "name": "Micky Ostler",
+    "role": "co-founder who named the paper"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Potrero View Celebrates 45 Years (by Lester Zeidman, 2015)",
+    "publisher": "FoundSF",
+    "year": 2015,
+    "url": "https://www.foundsf.org/index.php?title=Potrero_View_Celebrates_45_Years",
+    "supports": "Hills and Dales origins, first issue Aug 1, 1970, Maloney, Ostler; smells article summary; petition of 29 residents"
+   },
+   {
+    "title": "The Potrero View, August 1971 ('The smells of Potrero Hill', p. 7)",
+    "publisher": "Internet Archive",
+    "year": 1971,
+    "url": "https://archive.org/details/potreroview28unse",
+    "supports": "400 calls in spring 1970 Smell Spell; Pacific Rendering and feed-plant quotes; Pioneer Soap; First Spice's Markman quote; Safeway Coffee Plant at 1501 Mariposa"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-enola-maxwell",
+  "title": "Miz Maxwell at the top of De Haro",
+  "theme": "civil-rights",
+  "year": 1970,
+  "yearEnd": 2003,
+  "place": {
+   "label": "Potrero Hill Neighborhood House, 953 De Haro Street",
+   "lat": 37.75827,
+   "lon": -122.40065,
+   "precision": "building"
+  },
+  "hook": "No estate agent would sell her a house on Potrero Hill. Twenty years later Enola Maxwell was running its Julia Morgan community centre, and she ran it for three decades.",
+  "story": "Enola Maxwell left Baton Rouge in 1948 with her two children to join her mother, who had found work in a San Francisco laundry [1]. The two women lived in a housing project at 18th and Missouri, where Maxwell's daughter Sophie was born in 1950. Maxwell saved her wages as a housekeeper for a down payment, but no real estate agent would sell them a house on Potrero Hill. They bought on Harrison Street in the Mission instead [1].\n\nIn 1963 she travelled to Washington to hear Martin Luther King Jr. She became the first female lay minister in the Presbyterian Church while earning her living as a postal clerk [1][2]. Then the church put her in charge of the Neighborhood House on De Haro Street, a Julia Morgan building from 1922. It was then used almost entirely by white residents, in a fast-changing neighbourhood [1]. Accounts date her appointment to 1970, 1971 or early 1972, when the Potrero View reported the board had \"wrangled\" with her supporters [1][2][3].\n\nShe ran \"the Nabe\" until her death in 2003, known for her striking hats. By then it offered a Head Start programme, a theatre, job training for teenagers and drug-diversion counselling [1]. In 2001 Potrero Hill Middle School was renamed after her. Sophie Maxwell became a city supervisor [1][2].",
+  "people": [
+   {
+    "name": "Enola D. Maxwell",
+    "role": "executive director, Potrero Hill Neighborhood House"
+   },
+   {
+    "name": "Sophie Maxwell",
+    "role": "daughter; San Francisco supervisor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Enola Maxwell -- activist, advocate (by Patrick Hoge)",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2003,
+    "url": "https://www.sfgate.com/bayarea/article/Enola-Maxwell-activist-advocate-2606771.php",
+    "supports": "biography, housing discrimination, 1970 hiring, programmes, hats, school renaming"
+   },
+   {
+    "title": "Enola Maxwell",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Enola_Maxwell",
+    "supports": "lay minister; directorship dated 1971-2003; 2001 school renaming; Sophie elected 2000"
+   },
+   {
+    "title": "Potrero View Celebrates 45 Years",
+    "publisher": "FoundSF",
+    "year": 2015,
+    "url": "https://www.foundsf.org/index.php?title=Potrero_View_Celebrates_45_Years",
+    "supports": "early-1972 View report of her appointment and board wrangling"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-agnos-shooting",
+  "title": "A future mayor shot on Wisconsin Street",
+  "theme": "modern-city",
+  "year": 1973,
+  "place": {
+   "label": "900 block of Wisconsin Street",
+   "lat": 37.7556,
+   "lon": -122.39909,
+   "precision": "street"
+  },
+  "hook": "On December 13, 1973, Art Agnos left a meeting on a clinic for Potrero Hill's public housing and was shot twice in the chest. Fifteen years later he was mayor.",
+  "story": "On the evening of December 13, 1973, Art Agnos, then 35, attended a meeting at Potrero Hill's largely Black public housing project about building a publicly funded health clinic [1][3]. After he left, on the 900 block of Wisconsin Street, he was shot twice in the chest at point-blank range [1][2]. The bullets travelled downward, which saved his life. By his own account he lost a year to recovery [1]. Less than ninety minutes later, Marietta DiGirolamo was shot on Divisadero Street [3].\n\nAgnos had survived an attack by the \"Zebra\" killers, named after the police radio band assigned to the case. Between October 1973 and April 1974 they killed at least fifteen white people and wounded eight others [3]. During the manhunt, police stopped and searched young Black men, and the NAACP and ACLU sued over it [3]. Four men were convicted and sentenced to life after a trial that ran from March 1975 to March 1976 [2][3].\n\nAccounts differ on what Agnos was doing then: a social worker, an aide to Assemblyman Leo McCarthy, or a member of the state Commission on Aging [1][2][3]. He was mayor from 1988 to 1992 [2]. A stretch of Connecticut Street near his Potrero Hill home now carries his name [4].",
+  "people": [
+   {
+    "name": "Art Agnos",
+    "role": "shooting survivor; Mayor of San Francisco 1988-1992"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Art Agnos",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Art_Agnos",
+    "supports": "meeting on the clinic, shot twice in chest, downward trajectory, year of recovery, Commission on Aging"
+   },
+   {
+    "title": "Mayor Agnos Shot (from Dr. Weirde's Guide to Weirde San Francisco)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mayor_Agnos_Shot",
+    "supports": "900 block of Wisconsin; social worker; trial dates and convictions; mayoral term"
+   },
+   {
+    "title": "Zebra murders",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Zebra_murders",
+    "supports": "age 35, McCarthy aide, DiGirolamo shooting, name origin, victim counts, stop-and-search lawsuits, life sentences"
+   },
+   {
+    "title": "Art Agnos Way",
+    "publisher": "The Potrero View",
+    "year": null,
+    "url": "https://www.potreroview.net/art-agnos-way/",
+    "supports": "part of Connecticut Street renamed for Potrero Hill resident Agnos"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-pickle-family-circus",
+  "title": "A circus with no ringmaster, no elephants",
+  "theme": "arts-counterculture",
+  "year": 1974,
+  "yearEnd": 1992,
+  "place": {
+   "label": "400 Missouri Street, near 19th",
+   "lat": 37.76113,
+   "lon": -122.39654,
+   "precision": "building"
+  },
+  "hook": "In 1974 two Mime Troupe veterans started a one-ring circus on Potrero Hill. Everyone earned the same wage, clowns ran the show, and the animals were people in gorilla suits.",
+  "story": "Larry Pisoni and Peggy Snider, veterans of the San Francisco Mime Troupe, founded the Pickle Family Circus in 1974 [1][2]. The name was made up on the spot: after they passed a TV juggling audition, someone asked what they called themselves [2]. The company kept its offices and practice space at 400 Missouri Street, and many members lived nearby [1]. The family lived at Carolina and 22nd, and the troupe rehearsed at The Church, at Missouri and 19th [3].\n\nIt was a stripped-down circus: one ring, a five-piece jazz band, no ringmaster and no animals, except performers dancing the Charleston in gorilla suits. \"We're somewhat lacking in the sequins department,\" Pisoni said [2]. Everyone earned the same wage and shared the offstage work. Three clowns ran the show: Pisoni as Lorenzo Pickle, Bill Irwin as Willy and Geoff Hoyle as Mr. Sniff. Federal CETA jobs money paid several of them in the 1970s [1].\n\nThe couple's son Lorenzo walked into the ring at two with his own silent clown act and signed a contract at six [3]. The circus went bankrupt in 1992. In 1984 two members had founded what is now the Circus Center, and at least seven Pickle performers went on to Cirque du Soleil [1].",
+  "people": [
+   {
+    "name": "Larry Pisoni",
+    "role": "co-founder, clown Lorenzo Pickle"
+   },
+   {
+    "name": "Peggy Snider",
+    "role": "co-founder"
+   },
+   {
+    "name": "Bill Irwin",
+    "role": "clown Willy"
+   },
+   {
+    "name": "Geoff Hoyle",
+    "role": "clown Mr. Sniff"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pickle Family Circus: Origins and Influence (by Michael Pearce, 2013)",
+    "publisher": "FoundSF",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=Pickle_Family_Circus:_Origins_and_Influence",
+    "supports": "Mime Troupe roots, 400 Missouri St, equal wages, clowns, CETA, Circus Center, bankruptcy 1992, Cirque alumni"
+   },
+   {
+    "title": "Pickle Family Circus: Life Under a Not-So-Big Top",
+    "publisher": "Los Angeles Times",
+    "year": 1986,
+    "url": "https://www.latimes.com/archives/la-xpm-1986-10-25-ca-7203-story.html",
+    "supports": "1974 founding, origin of name, one ring, jazz band, no animals, gorilla suits, Pisoni quote"
+   },
+   {
+    "title": "Circus Kid",
+    "publisher": "The Potrero View",
+    "year": 2016,
+    "url": "https://www.potreroview.net/circus-kid/",
+    "supports": "family home at Carolina and 22nd; rehearsal at The Church, Missouri and 19th; Lorenzo's debut at two and contract at six"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-anchor-brewing",
+  "title": "Steam beer in an old coffee plant",
+  "theme": "labor-industry",
+  "year": 1979,
+  "yearEnd": 2023,
+  "place": {
+   "label": "Anchor Brewing, 1705 Mariposa Street",
+   "lat": 37.76352,
+   "lon": -122.4007,
+   "precision": "building"
+  },
+  "hook": "Fritz Maytag bet everything he owned on moving Anchor Brewing into a former coffee plant on Mariposa Street. It brewed there for 44 years, then closed with 60 days' notice.",
+  "story": "Fritz Maytag bought 51 percent of the failing Anchor Brewing in 1965 and the rest in 1969 [1]. To expand, he pledged all his personal assets. In August 1979 the brewery moved into the former Chase and Sanborn coffee plant on Mariposa Street, with bankruptcy looming. The new plant lost money in its first year before sales began to climb [2]. In 1993 Maytag opened a small distillery at the back, making Old Potrero rye [2].\n\nAnchor could be a complicated neighbour. In 1990 Maytag put out a special \"Potrero Commons Ale\" to support residents fighting to keep a nearby hillside as open space. One of the group's founders later wrote that the promised proceeds from 648 cases never arrived [3].\n\nMaytag sold the company in 2010, and Sapporo bought it in 2017. In 2019 the workers voted almost two to one to join the ILWU, which made Anchor the first unionised craft brewery in the US [1]. On July 12, 2023, Sapporo announced it would stop brewing and liquidate the business, giving employees 60 days' notice [1][4]. The workers tried to buy the brewery as a cooperative. In 2024 Chobani founder Hamdi Ulukaya bought it instead, promising to keep it in San Francisco [1].",
+  "people": [
+   {
+    "name": "Fritz Maytag",
+    "role": "owner 1965-2010"
+   },
+   {
+    "name": "Hamdi Ulukaya",
+    "role": "buyer, 2024"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Anchor Brewing Company",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Anchor_Brewing_Company",
+    "supports": "Maytag purchase 1965/1969, 2010 and 2017 sales, 2019 ILWU vote, 2023 closure, co-op bid, Ulukaya 2024"
+   },
+   {
+    "title": "Anchor Brewing Company - Company Profile, Information, Business Description, History",
+    "publisher": "FundingUniverse",
+    "year": null,
+    "url": "http://www.fundinguniverse.com/company-histories/Anchor-Brewing-Company-Company-History.html",
+    "supports": "assets pledged; Aug 1979 move into former Chase and Sanborn coffee plant; first-year loss; 1993 distillery"
+   },
+   {
+    "title": "How to Fight City Hall and Lose (by R.G. Davis)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=How_to_Fight_City_Hall_and_Lose",
+    "supports": "Potrero Commons Ale, 648 cases, proceeds never paid (author's account)"
+   },
+   {
+    "title": "San Francisco's Anchor Brewing Company says it's ceasing operations",
+    "publisher": "SFGATE",
+    "year": 2023,
+    "url": "https://www.sfgate.com/food/article/anchor-brewing-company-ceasing-operations-18196509.php",
+    "supports": "closure announcement and 60-day notice"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-power-plant-closure",
+  "title": "Switching off the city's last fossil-fuel plant",
+  "theme": "modern-city",
+  "year": 2011,
+  "place": {
+   "label": "Former Potrero Power Plant, 23rd and Illinois Streets",
+   "lat": 37.75674,
+   "lon": -122.38492,
+   "precision": "area"
+  },
+  "hook": "For decades a power plant at Potrero Point pumped heated water into the bay and pollution into the southeast. In 2011, after a generation of fighting, it went dark.",
+  "story": "The site at Potrero Point is where San Francisco Gas Light built a small generator around 1890, the first power plant of the company that became PG&E [1]. Its big boiler, Unit 3, went up in 1965, and three diesel generators for peak demand followed in 1976 [1]. At full power the plant drew about 226 million gallons of bay water a day through its condensers and sent it back about 10°C warmer [1].\n\nMany southeast residents suffer unusually high rates of cancer, asthma and other illness, and some fought for more than a decade to close the plant [2]. In 2006 the state Public Utilities Commission rejected owner Mirant's expansion plans [1]. City Hall split over whether to replace it with cleaner gas plants, a fight that contributed to the 2008 firing of the city utilities chief, Susan Leal [2]. In the late 1990s the Potrero Boosters had also faced a plan for a 570-megawatt plant at 23rd and Illinois [3].\n\nClosure finally came once new transmission lines, including a transbay cable in November 2010, could carry enough power into the city [2]. \"People have waited a generation for this,\" said Mayor Gavin Newsom [2]. The plant shut down in January 2011 [1]. \"It's closed down,\" said Supervisor Sophie Maxwell, whose district included it. \"That's the bottom line.\" [2]",
+  "people": [
+   {
+    "name": "Sophie Maxwell",
+    "role": "District 10 supervisor"
+   },
+   {
+    "name": "Gavin Newsom",
+    "role": "mayor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Potrero Generating Station",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Potrero_Generating_Station",
+    "supports": "c.1890 origins, Unit 3 1965, peakers 1976, cooling-water figures, 2006 CPUC rejection, January 2011 shutdown"
+   },
+   {
+    "title": "After a long battle, polluting Potrero Hill facility to close on Jan. 1 (by John Coté)",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2010,
+    "url": "http://www.sfgate.com/default/article/SF-shutting-down-power-plant-Jan-1-2452695.php",
+    "supports": "health burden and decade-long fight, peaker dispute and Leal firing, transbay cable, Newsom and Maxwell quotes"
+   },
+   {
+    "title": "Potrero Boosters: A History of Service",
+    "publisher": "The Potrero View",
+    "year": null,
+    "url": "https://www.potreroview.net/potrero-boosters-a-history-of-service/",
+    "supports": "late-1990s plans for a 570-megawatt plant at 23rd and Illinois"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-warm-water-cove",
+  "title": "Tire Beach, Toxic Beach, Warm Water Cove",
+  "theme": "parks-nature",
+  "year": 2013,
+  "place": {
+   "label": "Warm Water Cove, foot of 24th Street",
+   "lat": 37.7538,
+   "lon": -122.3835,
+   "precision": "area"
+  },
+  "hook": "At the foot of 24th Street, an old sewage outlet beside a power plant became a punk driving range, a graffiti gallery, then a scrappy park neighbours refused to abandon.",
+  "story": "Warm Water Cove sits at the foot of 24th Street, just south of the old Potrero power plant [1][2]. People have also called it Tire Beach and Toxic Beach [1]. Next door, the plant sent its cooling water back into the bay about 10°C warmer than it came out [3]. For a long time the cove was a sewage outlet [1][2].\n\nThen, as Chris Carlsson tells it, came a decade as the \"toxic golf course\". Punks and other \"underground culture vultures\" hit golf balls into the bay from the abandoned shore, while a remarkable graffiti gallery grew on the surrounding walls over about ten years [1]. Abandoned, graffiti-covered Muni streetcars sat on the neighbouring docks [1].\n\nThen came the clean-up. The city and local property owners held a painting party to cover the graffiti, the old streetcars were finally hauled away, and a native plant garden was started. In January 2013 Carlsson photographed pelicans and coots feeding on herring off the cove [1]. In 2016, as the Port and Planning Department drew up plans to nearly double the park, a city planner praised \"a dedicated community around Warm Water Cove of longtime residents\" who had hauled out trash and turned it into \"the asset it is today\" [2].",
+  "people": [
+   {
+    "name": "Chris Carlsson",
+    "role": "historian and photographer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Warm Water Cove",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Warm_Water_Cove",
+    "supports": "location, nicknames, sewage outlet, toxic golf course, graffiti and painting party, Muni streetcars, native garden, 2013 pelicans"
+   },
+   {
+    "title": "Improvements Planned for Warm Water Cove",
+    "publisher": "The Potrero View",
+    "year": 2016,
+    "url": "https://www.potreroview.net/improvements-planned-for-warm-water-cove/",
+    "supports": "location, former sewage outlet, expansion plans, planner's quote on volunteers"
+   },
+   {
+    "title": "Potrero Generating Station",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Potrero_Generating_Station",
+    "supports": "cooling water returned about 10°C warmer"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-in-the-movies",
+  "title": "\"We Potrero Hill boys got to stick together\"",
+  "theme": "arts-counterculture",
+  "year": 1971,
+  "place": {
+   "label": "18th and Missouri Streets (298 Missouri)",
+   "lat": 37.76269,
+   "lon": -122.39669,
+   "precision": "block"
+  },
+  "hook": "Dirty Harry grew up here, on screen at least. A cat burglar, Ant-Man and one of Charlize Theron's characters have all lived at the same photogenic corner: 18th and Missouri.",
+  "story": "Hollywood keeps casting Potrero Hill. In Don Siegel's Dirty Harry (1971), the Black doctor treating Clint Eastwood's Harry Callahan, who grew up on the Hill, tells him: \"It's okay. We Potrero Hill boys, we got to stick together.\" [1] Scorpio's second victim is found on a hillside lot at Texas and Sierra Streets, where the Sierra Heights condominiums stand now [1]. Three years earlier, parts of the car chase in Bullitt were shot on the Hill, at Kansas and 20th and at Rhode Island and 20th [1][2].\n\nThe corner of 18th and Missouri often gets the call. Whoopi Goldberg's cat burglar lived there in Burglar (1987). In Sweet November (2001), Charlize Theron's Sara Deever lived at 298 Missouri and ate with Keanu Reeves at Farley's coffee shop, while the now-vanished Daily Scoop ice cream parlour was dressed up as a produce stand [1]. In Ant-Man and the Wasp (2018), Paul Rudd's foot goes through the painted fence on 18th Street [1].\n\nThe television detective Lt. Mike Stone, played by Karl Malden, lived at 768 De Haro in The Streets of San Francisco (1972–77), which filmed all over the Hill [1][2]. Along the way, the View notes, the films have recorded the neighbourhood's many changes [1].",
+  "people": [
+   {
+    "name": "Don Siegel",
+    "role": "director, Dirty Harry"
+   },
+   {
+    "name": "Karl Malden",
+    "role": "actor, The Streets of San Francisco"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Starring Potrero Hill",
+    "publisher": "The Potrero View",
+    "year": 2024,
+    "url": "https://www.potreroview.net/starring-potrero-hill/",
+    "supports": "Dirty Harry quote and Texas/Sierra lot, Bullitt chase, 18th and Missouri films, 298 Missouri, Farley's, Daily Scoop, Ant-Man fence, 768 De Haro"
+   },
+   {
+    "title": "Potrero Hill",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Potrero_Hill",
+    "supports": "Bullitt chase at Kansas and 20th and Rhode Island and 20th; Streets of San Francisco on De Haro"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-dogpatch-muni-yard",
+  "title": "A bus barn plopped on Dogpatch",
+  "theme": "civil-rights",
+  "year": 1973,
+  "yearEnd": 1978,
+  "place": {
+   "label": "Muni yard, 22nd and Indiana Streets (former Tubbs Cordage site)",
+   "lat": 37.75668,
+   "lon": -122.39091,
+   "precision": "block"
+  },
+  "hook": "In 1973 the city planned a Muni yard in the middle of Dogpatch, a community of 500 then said to have 95 percent unemployment. One resident's objection still stings.",
+  "story": "For about a century, Tubbs Cordage made rope along 22nd Street between Minnesota and Indiana. Its rope walk was a shed more than 1,000 feet long, running toward a wharf on the bay [1][2]. Tubbs closed its San Francisco plant in 1962 [1]. In 1971 the city bought three blocks at 22nd and Indiana for bus storage and repair shops [3].\n\nThe Potrero View's coverage shows the neighbourhood's name taking hold. In January 1972 the paper called the area \"Dog Patch\". In February it apologised to people near the proposed car barn, saying they were \"a concerned and active part of the Potrero Hill\" and nothing like Li'l Abner's comic-strip town [4]. By 1973 the Dogpatch Community Development Association and Youth Council faced eviction, with the barn \"Plopped on Dogpatch\". The View described Dogpatch as a community of 500 with 95 percent unemployment [4]. At one meeting resident James Holley shouted: \"You're gonna put a cable car barn in the middle of Dogpatch when Muni doesn't have one black repairman.\" [4]\n\nThe yard went ahead. The View later noted that Muni's workforce changed colour too [4]. In 1978 the last Tubbs buildings came down to make way for the Muni bus yard [1].",
+  "people": [
+   {
+    "name": "James Holley",
+    "role": "Dogpatch resident"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Story of Dogpatch",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Story_of_Dogpatch",
+    "supports": "Tubbs rope walk dimensions; SF plant closed 1962; last buildings replaced by Muni bus yard in 1978"
+   },
+   {
+    "title": "Union Iron Works at Potrero Hill",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Union_Iron_Works_at_Potrero_Hill",
+    "supports": "Tubbs Cordage on 22nd between Minnesota and Indiana"
+   },
+   {
+    "title": "Looking Back a Quarter-Century in 1976",
+    "publisher": "FoundSF",
+    "year": 1976,
+    "url": "https://www.foundsf.org/index.php?title=Looking_Back_a_Quarter-Century_in_1976",
+    "supports": "1971 city purchase of three blocks at 22nd and Indiana for motor coach storage and shops"
+   },
+   {
+    "title": "Potrero View Celebrates 45 Years (by Lester Zeidman)",
+    "publisher": "FoundSF",
+    "year": 2015,
+    "url": "https://www.foundsf.org/index.php?title=Potrero_View_Celebrates_45_Years",
+    "supports": "1972 'Dog Patch' apology, 1973 'Plopped on Dogpatch', 500 residents and 95% unemployment, Holley quote, workforce note"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "potrero-hill-freeway-fight",
+  "title": "The Hill's ladies versus the freeway",
+  "theme": "modern-city",
+  "year": 1961,
+  "yearEnd": 1970,
+  "place": {
+   "label": "Pennsylvania Avenue above Interstate 280",
+   "lat": 37.75436,
+   "lon": -122.39381,
+   "precision": "street"
+  },
+  "hook": "In 1961 Potrero Hill women presented the mayor with their own freeway plan while others marched outside. The freeway came anyway, and then the hillside began to slip.",
+  "story": "In April 1961 San Francisco supervisors approved a $40 million freeway to link the Southern Freeway at Evans with the Embarcadero, \"nestled into the East slope of Potrero on Iowa Street\" [1]. Residents remembered what the James Lick Freeway, Highway 101, had done fourteen blocks away. They fought to save the 64 properties in its path, 34 of them homes [1]. While some women presented an alternative plan to the mayor, others marched outside with anti-freeway signs. The mayor said he was impressed but had to be guided by the experts [1]. The Hill's activist women were everywhere; the press nicknamed two of them the \"Gold Dust Twins\" [1].\n\nThe freeway, now Interstate 280, cut off the flats to the east, which more and more people began calling Dogpatch. Residents forced out were paid well below market prices [2]. The damage outlasted construction. When the state built a big retaining wall, the ground settled under houses about 40 feet above the freeway on Pennsylvania. In May 1970 the damaged homes were auctioned off as-is. Repairs and $100 a day to bus St. Teresa's pupils were set to double the cost of the job. \"This fiasco might have been avoided,\" the Hill's chroniclers wrote, \"if they had only listened.\" [1]",
+  "people": [],
+  "sources": [
+   {
+    "title": "Looking Back a Quarter-Century in 1976 (Potrero Hill Bicentennial Souvenir Booklet)",
+    "publisher": "FoundSF",
+    "year": 1976,
+    "url": "https://www.foundsf.org/index.php?title=Looking_Back_a_Quarter-Century_in_1976",
+    "supports": "1961 approval, $40m, 64 properties/34 homes, protest, mayor's reply, Gold Dust Twins (1962 entry), 1970 Pennsylvania St damage, auction, busing, quote"
+   },
+   {
+    "title": "Dogpatch, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Dogpatch,_San_Francisco",
+    "supports": "I-280 built in 1960s; below-market payments; area east of freeway became known as Dogpatch"
+   }
+  ],
+  "photo": null
+ }
+]

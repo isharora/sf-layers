@@ -1,0 +1,748 @@
+[
+ {
+  "id": "lincoln-park-a-yelamu-lands-end",
+  "title": "Sea Lions, Springs and a Spanish Cross",
+  "theme": "indigenous-early",
+  "year": 1776,
+  "yearEnd": null,
+  "place": {
+   "label": "Lands End bluffs above Mile Rock Beach",
+   "lat": 37.7868,
+   "lon": -122.5045,
+   "precision": "area"
+  },
+  "hook": "For centuries the Yelamu came to these cliffs to hunt sea lions and gather shellfish. Then, in the 1770s, strangers planted a cross on the precipice.",
+  "story": "Long before golf courses and museums, the Yelamu, the Ohlone people of the northern San Francisco peninsula, came to Lands End in seasonal camps. Hillside springs gave fresh water, brush gave shelter, and the shore gave otters, sea lions, sea birds, shellfish and birds' eggs. They played stick games here and told tribal stories [1]. The Yelamu lived in five known inland villages, Chutchui, Sitlintac, Amuctac, Tubsinte and Petlenuc, and spoke the language now called Ramaytush. Shell middens along today's trail still mark campsites perhaps a thousand years old [2]. On December 4, 1774, the Spanish officer Fernando Rivera y Moncada led a party up Point Lobos and stopped on the cliff edge, near today's Fort Miley or Legion of Honor, to gaze at the Golden Gate. Before heading back to Monterey he raised a cross as a beacon for later expeditions [3]. Those parties came: Spanish settlement began in 1776 and ended the Yelamu's traditional life at Lands End, and many were forced into the missions [1][2]. Ohlone people still live in their ancestral homelands, reviving languages, songs, basketry and plant knowledge [2].",
+  "people": [
+   {
+    "name": "Fernando Rivera y Moncada",
+    "role": "Spanish officer who led the 1774 expedition to Point Lobos"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Lands End History",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2023,
+    "url": "https://www.nps.gov/goga/learn/historyculture/lands-end.htm",
+    "supports": "Yelamu seasonal settlements at Lands End, resources, games; 1776 Spanish settlement ended traditional life"
+   },
+   {
+    "title": "Vestiges of Lands End Trail",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lands-end-trail.htm",
+    "supports": "Yelamu villages, Ramaytush language, shell middens, missions, Ohlone revival today"
+   },
+   {
+    "title": "Point Lobos, Site of the Legion of Honor (Gary Kamiya and Paul Madonna)",
+    "publisher": "Nob Hill Gazette",
+    "year": 2020,
+    "url": "https://www.nobhillgazette.com/places/spirits_of_the_bay/point-lobos-site-of-the-legion-of-honor/article_e46dd441-f1ea-59a6-b8a3-b202dec06247.html",
+    "supports": "Rivera's December 4, 1774 visit to Point Lobos and the cross he raised"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-potters-field",
+  "title": "A Potter's Field at the Continent's Edge",
+  "theme": "communities",
+  "year": 1870,
+  "yearEnd": 1909,
+  "place": {
+   "label": "Golden Gate Cemetery site, Lincoln Park Golf Course",
+   "lat": 37.7832,
+   "lon": -122.499,
+   "precision": "area"
+  },
+  "hook": "The golf fairways cover what was the city's cemetery for the poor, the unclaimed and the immigrant, laid out in dozens of separate sections.",
+  "story": "In 1868 the city set aside this windswept headland for a municipal burial ground, the Golden Gate or City Cemetery, and the first interment was recorded in July 1870 [1]. While the grand Lone Mountain cemeteries mostly served the well-off, this one served the working class, immigrants and the indigent [2]. It was carved into sections for the Chinese Six Companies, French, German, Italian, Russian, Jewish, Greek Orthodox, Japanese and Chinese Christian communities, for the Knights of Pythias, the Grand Army of the Republic, the Colored I.O.O.F. and the Ladies' Seamen's Friend Society, and a Potter's Field for those who died with nothing [1]. Bodies moved from the old Yerba Buena Cemetery were reburied here too [2]. By 1887 there were over 11,000 interments, more than 4,000 of them Chinese. By 1893 there were 18,000, and over 11,000 of those lay in Potter's Field [1]. Adolph Sutro and other prominent citizens called the place an eyesore. The city banned burials in 1901 and in 1909 ordered the cemetery moved to Colma [1]. Many of the dead never left. A Seamen's monument and a Chinese tomb or gateway still stand among the tees [1][2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Vestiges of Lincoln Park",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+    "supports": "1868 reservation, July 1870 first burial, list of sections, interment totals for 1887 and 1893, 1901 ban, 1909 removal order, surviving monuments"
+   },
+   {
+    "title": "Places in San Francisco you had no idea used to be cemeteries (Greg Keraghosian)",
+    "publisher": "SFGATE",
+    "year": 2016,
+    "url": "https://www.sfgate.com/bayarea/article/Places-in-San-Francisco-you-had-no-idea-used-to-10418610.php",
+    "supports": "Served working-class, immigrant and indigent dead; Yerba Buena Cemetery transfers; Seaman's Friends' monument near a tee"
+   },
+   {
+    "title": "Point Lobos, Site of the Legion of Honor (Gary Kamiya and Paul Madonna)",
+    "publisher": "Nob Hill Gazette",
+    "year": 2020,
+    "url": "https://www.nobhillgazette.com/places/spirits_of_the_bay/point-lobos-site-of-the-legion-of-honor/article_e46dd441-f1ea-59a6-b8a3-b202dec06247.html",
+    "supports": "Potter's field for indigent or unclaimed bodies"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-cliff-line",
+  "title": "Five Cents to Ride the Cliffs",
+  "theme": "gold-rush-victorian",
+  "year": 1888,
+  "yearEnd": 1925,
+  "place": {
+   "label": "Lands End Coastal Trail (old Cliff Line railbed)",
+   "lat": 37.7866,
+   "lon": -122.496,
+   "precision": "street"
+  },
+  "hook": "The city's most scenic railroad clung to the cliffs here, and a five-cent fare let anyone ride it. Then came a fare war, and the landslides.",
+  "story": "The trail that hikers follow around Lands End was once a railroad bed. In 1888, after two years of construction by Adolph Sutro, a steam line nicknamed 'the Cliff Line' began running along the curving bluffs above the Golden Gate. It was hailed as the city's most scenic railroad. Its inner end was near California Street and Presidio Avenue and its outer end at 48th and Point Lobos avenues. Its five-cent fare, with a free transfer to the cable cars, put the ocean within reach of people of every income [1]. After Southern Pacific took control, it scrapped the transfers in 1894, which doubled the fare downtown to ten cents. Sutro answered by building his own electric railroad. By late 1894 the fare was back to a nickel [1]. A shed-like waiting room went up beside the tracks for walkers heading down to the beach below Lands End [2]. In 1902 Thomas Edison's company filmed a panorama of the Golden Gate from a moving train on the line [3]. The line was electrified in 1905 as the #1 California streetcar. Landslides plagued the cliffs, and in 1925 one closed the Cliff Line [1].",
+  "people": [
+   {
+    "name": "Adolph Sutro",
+    "role": "Built the line and later its electric rival"
+   },
+   {
+    "name": "Thomas Edison",
+    "role": "His company filmed from the line in 1902"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Vestiges of Lands End Trail",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lands-end-trail.htm",
+    "supports": "Cliff Line history: 1888 opening, route, five-cent fare, Southern Pacific transfer cut and Sutro's rival line, 1905 electrification, 1925 landslide closure"
+   },
+   {
+    "title": "Hermits of Lands End (John Martini)",
+    "publisher": "Western Neighborhoods Project / OpenSFHistory",
+    "year": 2017,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2017/12/09/hermits-of-lands-end/",
+    "supports": "Waiting room built beside the tracks for hikers bound for the beach"
+   },
+   {
+    "title": "Vestiges of Sutro Baths",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-sutro-baths.htm",
+    "supports": "Edison's 1902 panoramic film of the Golden Gate shot from the Ferries & Cliff House Railway"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-coal-mine",
+  "title": "The Coal Rush Under Lands End",
+  "theme": "labor-industry",
+  "year": 1891,
+  "yearEnd": null,
+  "place": {
+   "label": "Lands End cliffs below the old railway, east of Lands End point (approximate)",
+   "lat": 37.7872,
+   "lon": -122.4978,
+   "precision": "area"
+  },
+  "hook": "In March 1891 an old miner swore there were thousands of tons of coal under the cliffs. Adolph Sutro sent men to tunnel into the bluff.",
+  "story": "On March 28, 1891, the Chronicle told San Franciscans that coal had been found in the city. A 'grizzly old miner' named Charles Jackson had found a vein of bituminous coal, six to eight feet wide, hugging the coast near Baker Beach. 'Do try to buy up that land,' he urged H.H. Lynch, superintendent of the Cliff House railway. 'There is a fortune in it.' But the land belonged to Adolph Sutro [1]. Within days Sutro had fifteen to twenty men at work about a quarter mile beyond the railway's Baker Beach station. They drove a tunnel into the bluff below the track [2]. Jackson was convinced the vein ran under the Golden Gate to Marin. He went prospecting on the Marin shore and came back claiming good bituminous coal thirty feet down [2][3]. Not everyone believed him. A State Mining Bureau official told the Morning Call he had little faith in the find. He guessed it was prehistoric driftwood and seaweed slowly carbonized where the sea once beat against a rocky ridge [4]. The mine was never developed. Its tunnel, half washed away and reached only through a sea cave, still shows veins of coal [1].",
+  "people": [
+   {
+    "name": "Charles Jackson",
+    "role": "Miner who reported the coal vein"
+   },
+   {
+    "name": "Adolph Sutro",
+    "role": "Landowner who had the tunnel dug"
+   },
+   {
+    "name": "H.H. Lynch",
+    "role": "Superintendent of the Cliff House railway"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Tour what's left of S.F.'s forgotten coal mine (Mike Moffitt)",
+    "publisher": "SFGATE",
+    "year": 2015,
+    "url": "https://www.sfgate.com/bayarea/article/Tour-what-s-left-of-SF-s-forgotten-coal-mine-6587426.php",
+    "supports": "Chronicle of March 28, 1891; Jackson's quotes to Lynch; vein size; Sutro's land and tunnel; mine never developed; tunnel remnants"
+   },
+   {
+    "title": "\"Coal at Sutro Heights\", Seattle Post-Intelligencer, March 29, 1891, p. 7 (reprinting the SF Chronicle)",
+    "publisher": "Library of Congress, Chronicling America",
+    "year": 1891,
+    "url": "https://www.loc.gov/resource/sn83045604/1891-03-29/ed-1/?sp=7",
+    "supports": "Chronicle report of 15 to 20 men at work a quarter mile beyond Baker Beach station; tunnel below the track; belief vein crossed to Marin"
+   },
+   {
+    "title": "The Morning Call (San Francisco), April 2, 1891, p. 3",
+    "publisher": "Library of Congress, Chronicling America",
+    "year": 1891,
+    "url": "https://www.loc.gov/resource/sn94052989/1891-04-02/ed-1/?sp=3",
+    "supports": "Jackson returned from prospecting the Marin shore claiming bituminous coal 30 feet down"
+   },
+   {
+    "title": "The Morning Call (San Francisco), April 6, 1891, p. 8",
+    "publisher": "Library of Congress, Chronicling America",
+    "year": 1891,
+    "url": "https://www.loc.gov/resource/sn94052989/1891-04-06/ed-1/?sp=8",
+    "supports": "State Mining Bureau skepticism; driftwood and seaweed carbonization theory"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-fort-miley-guns",
+  "title": "The Army Takes the Graveyard",
+  "theme": "war-military",
+  "year": 1891,
+  "yearEnd": 1904,
+  "place": {
+   "label": "Fort Miley (now the SF VA Medical Center grounds)",
+   "lat": 37.7828,
+   "lon": -122.505,
+   "precision": "area"
+  },
+  "hook": "To guard the Golden Gate, the federal government went to court to seize part of the city cemetery, then mounted 12-inch guns among the graves.",
+  "story": "In the early 1890s the Army wanted the cemetery headland for new guns to guard San Francisco Bay. On June 9, 1891, the U.S. district attorney, the city's district attorney and the city and county attorney met Mayor Sanderson to talk over condemning the City Cemetery for fortifications. The federal attorney was already drafting the papers [1]. Adolph Sutro and other prominent citizens backed condemnation. The city, though, asked too much for the whole 200 acres, so the government took only 54 [2]. The National Register nomination dates the condemnation to 1893 [3]. On top of the 350-foot headland the Army built Battery James Chester: two 12-inch rifles on 'disappearing' carriages, finished in 1901, with a third gun added in 1903. In the east a mortar battery of sixteen 12-inch mortars was finished in August 1901 [3]. The guns were designed for duels with enemy warships and covered all three channels into the bay. Wooden barracks and quarters stood on the parade ground between the batteries [3]. Those buildings were torn down in 1934 for the Veterans Administration hospital that stands there today. The concrete batteries still edge its grounds [3].",
+  "people": [
+   {
+    "name": "Mayor Sanderson",
+    "role": "Mayor of San Francisco in 1891"
+   }
+  ],
+  "sources": [
+   {
+    "title": "\"City Cemetery\", The Morning Call (San Francisco), June 10, 1891, p. 3",
+    "publisher": "Library of Congress, Chronicling America",
+    "year": 1891,
+    "url": "https://www.loc.gov/resource/sn94052989/1891-06-10/ed-1/?sp=3",
+    "supports": "June 1891 conference of federal, city and county attorneys with Mayor Sanderson on condemning the City Cemetery"
+   },
+   {
+    "title": "Vestiges of Lincoln Park",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+    "supports": "Sutro favored condemnation; city asked too much for 200 acres; government bought 54 acres"
+   },
+   {
+    "title": "National Register nomination: Fort Miley Military Reservation",
+    "publisher": "National Park Service",
+    "year": 1980,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/80000371_text",
+    "supports": "Condemnation dated 1893; 54 acres at ~350 ft; Battery Chester guns 1901/1903; mortar battery August 1901; garrison demolished 1934 for VA hospital"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-hermit-lynns-beach",
+  "title": "The Hermit of Lynn's Beach",
+  "theme": "gold-rush-victorian",
+  "year": 1896,
+  "yearEnd": 1905,
+  "place": {
+   "label": "Lands End Beach (Mile Rock Beach)",
+   "lat": 37.7872,
+   "lon": -122.506,
+   "precision": "area"
+  },
+  "hook": "A ruined machinist made a sea cave his home, cooking beef stew behind a driftwood breakwater and selling mussels to picnickers.",
+  "story": "In September 1896 the Call went to meet the man who lived in a cleft in the rocks below Lands End station, a spot the paper called the extreme western limit of the United States [1]. Edward Lynn had named the little cove 'Lynn's Beach' and cut a path down to it from the railway [1][2]. He had built a bulkhead of stray planks against the spring tides. Inside stood a stove with a tall pipe, where he was cooking beef and onions. A striped blanket hung across the cave mouth, hiding a barrel table and a bed of planks [1]. His only company was a cat and an old black hen [1]. Lynn said he had been a machinist for seventeen years before bad investments took his savings and his house, and then his wife died [1][2]. About a dozen years earlier, he said, he had come out to this wilderness, first renting a cabin from Adolph Sutro for $1 a month. 'I gather mussels and sell them,' he explained, and picnickers handed him their leftovers. 'I have soured on society' [2]. By late 1898 the Chronicle reported that he had vanished and no one knew what became of him. By 1903 a Chinese man, Ny Pum Chun, known as 'Old Tom', was living in the same cave [2].",
+  "people": [
+   {
+    "name": "Edward Lynn",
+    "role": "Former machinist and hermit of Lands End"
+   },
+   {
+    "name": "Ny Pum Chun ('Old Tom')",
+    "role": "Later occupant of the cave, 1903"
+   }
+  ],
+  "sources": [
+   {
+    "title": "\"Has Turned His Face Toward the Sad, Sad Sea\", San Francisco Call, September 13, 1896, p. 19",
+    "publisher": "Library of Congress, Chronicling America",
+    "year": 1896,
+    "url": "https://www.loc.gov/resource/sn85066387/1896-09-13/ed-1/?sp=19",
+    "supports": "Original 1896 interview: cave home, bulkhead, stove, blanket, animals, machinist past, wife's death"
+   },
+   {
+    "title": "Hermits of Lands End (John Martini)",
+    "publisher": "Western Neighborhoods Project / OpenSFHistory",
+    "year": 2017,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2017/12/09/hermits-of-lands-end/",
+    "supports": "Summary and quotes of the Call and Chronicle articles; Sutro cabin rent; mussels; later hermit Ny Pum Chun"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-chinese-fish-bones",
+  "title": "Bones Shipped Home as 'Fish'",
+  "theme": "communities",
+  "year": 1900,
+  "yearEnd": null,
+  "place": {
+   "label": "Chinese funerary structure, Lincoln Park Golf Course",
+   "lat": 37.78372,
+   "lon": -122.49733,
+   "precision": "building"
+  },
+  "hook": "A concrete shrine by the first fairway marks the cemetery's Chinese section. In 1900 a newspaper exposé claimed the dead were leaving it disguised as fish bones.",
+  "story": "Many Chinese immigrants believed their remains must finally rest in Chinese soil. So the Chinese dead were buried here only for a time. Once the flesh was gone, the bones were exhumed, cleaned and shipped across the Pacific. The city charged $10 for each set [1][2]. In April 1900 the Call reported that many cases of 'fish bones' were leaving on Pacific Mail steamers, while only about half a dozen permits to ship human remains had been bought. Health officials suspected the label was a way to dodge the fee [3]. Kamiya writes that white officials who took a cut helped the scheme along [2]. The Call noted that burial in the City Cemetery had been banned for more than two years. In March 1898 the Chinese companies had bought five acres near Colma for a new graveyard [3]. The old section left other marks. Mourners set out roast pig and sweets for the spirits, and the writer Charles Caldwell Dobie recalled 'ghoul-like hoboes' who feasted on them [2]. Near the first fairway stands a concrete structure with Chinese writing on top. It is described as a gateway, tomb or shrine, and it survives from the Chinese burial ground [1][4].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Vestiges of Lincoln Park",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+    "supports": "Chinese belief in burial in China; bones exhumed and shipped at $10 per set; 'fish bones' evasion; surviving Chinese gateway"
+   },
+   {
+    "title": "Point Lobos, Site of the Legion of Honor (Gary Kamiya and Paul Madonna)",
+    "publisher": "Nob Hill Gazette",
+    "year": 2020,
+    "url": "https://www.nobhillgazette.com/places/spirits_of_the_bay/point-lobos-site-of-the-legion-of-honor/article_e46dd441-f1ea-59a6-b8a3-b202dec06247.html",
+    "supports": "Temporary burial and barrel shipment; $10 fee; official connivance; April 1900 Call exposé; food offerings and Dobie's 'ghoul-like hoboes'"
+   },
+   {
+    "title": "San Francisco Call, April 29, 1900, p. 21 (fish-bones investigation)",
+    "publisher": "Library of Congress, Chronicling America",
+    "year": 1900,
+    "url": "https://www.loc.gov/resource/sn85066387/1900-04-29/ed-1/?sp=21",
+    "supports": "1900 investigation: fish-bone shipments on Pacific Mail steamers, few permits bought, burials prohibited, 1898 Colma purchase"
+   },
+   {
+    "title": "Places in San Francisco you had no idea used to be cemeteries (Greg Keraghosian)",
+    "publisher": "SFGATE",
+    "year": 2016,
+    "url": "https://www.sfgate.com/bayarea/article/Places-in-San-Francisco-you-had-no-idea-used-to-10418610.php",
+    "supports": "Concrete Chinese funerary structure near the first hole, with offerings"
+   }
+  ],
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Former_Chinese_grave%2C_Lincoln_Park%2C_San_Francisco.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Former_Chinese_grave,_Lincoln_Park,_San_Francisco.png",
+   "credit": "PigeonChickenFish / Wikimedia Commons",
+   "license": "CC BY-SA 4.0",
+   "year": 2022
+  }
+ },
+ {
+  "id": "lincoln-park-a-golf-on-graves",
+  "title": "Teeing Off Among the Tombstones",
+  "theme": "parks-nature",
+  "year": 1902,
+  "yearEnd": 1917,
+  "place": {
+   "label": "Lincoln Park Golf Course",
+   "lat": 37.7826,
+   "lon": -122.4955,
+   "precision": "area"
+  },
+  "hook": "While the dead still lay beneath the turf, golfers laid out three holes on the cemetery hill. By 1917 there were eighteen.",
+  "story": "Golf was new to the West Coast at the turn of the century. The Presidio got one of California's first courses in 1895. In 1902 golf enthusiasts laid out a three-hole course here, on part of the old city cemetery [1][2]. In 1909, once the city had ordered the cemetery moved, the Board of Supervisors gave about 150 acres to the Park Commission. The commission named the land Lincoln Park in honor of Abraham Lincoln [3]. The course kept growing and reached a full 18 holes in 1917 [2][4]. Graves were supposed to be moved to Colma, but many were not [3]. A photograph from 1914, in the course's early years, shows the Chinese funerary structure already standing among the golfers. Stone grave markers from the Chinese section still sit near the first and 13th fairways [4][5]. Today Lincoln Park is the city's oldest municipal golf course: a short par-68 layout on the cliffs, with the Golden Gate Bridge as a backdrop that private clubs would envy [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "The San Francisco Open: A Closer Look (Arnold Woods)",
+    "publisher": "Western Neighborhoods Project / OpenSFHistory",
+    "year": 2021,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2021/08/08/the-san-francisco-open-a-closer-look/",
+    "supports": "Presidio course 1895; three-hole Lincoln Park course 1902"
+   },
+   {
+    "title": "Lincoln Park Golf Course: About",
+    "publisher": "Lincoln Park Golf Course",
+    "year": null,
+    "url": "https://www.lincolnparkgolfcourse.com/",
+    "supports": "Oldest municipal course; three holes in 1902, 18 by 1917; dedicated to Lincoln 1909; par 68"
+   },
+   {
+    "title": "Vestiges of Lincoln Park",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+    "supports": "1909 transfer of about 150 acres to the Park Commission; park named for Lincoln; graves not all moved"
+   },
+   {
+    "title": "Places in San Francisco you had no idea used to be cemeteries (Greg Keraghosian)",
+    "publisher": "SFGATE",
+    "year": 2016,
+    "url": "https://www.sfgate.com/bayarea/article/Places-in-San-Francisco-you-had-no-idea-used-to-10418610.php",
+    "supports": "Course reached 18 holes in 1917; 1914 photo with the Chinese funerary structure"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-end-of-the-road",
+  "title": "Where America's First Coast Road Ends",
+  "theme": "architecture-landmarks",
+  "year": 1915,
+  "yearEnd": 1928,
+  "place": {
+   "label": "Legion of Honor plaza and fountain (Lincoln Highway western terminus)",
+   "lat": 37.7847,
+   "lon": -122.4996,
+   "precision": "block"
+  },
+  "hook": "A road that started in Times Square ran almost 3,400 miles to finish here, beside a new cliff-top boulevard that the landslides never stopped attacking.",
+  "story": "In 1912 Carl Fisher of Indianapolis gathered friends from the auto industry and called for a 'coast-to-coast rock highway' finished in time for San Francisco's 1915 exposition. 'Let's build it,' he said, 'before we're too old to enjoy it!' [1]. The Lincoln Highway Association laid out a route of nearly 3,400 miles from New York. Its western terminus was dedicated in 1915 in Lincoln Park, where the Legion of Honor's plaza and fountain are now [2]. The same year, work began on El Camino del Mar, the parks superintendent's scenic boulevard from the Harbor View district to Ocean Beach. By the end of 1915 it reached from the Presidio to Lincoln Park. It was carried through the park to Sutro Heights in 1924 [2]. In 1925 new numbered federal routes broke the named highway into pieces. On September 1, 1928, Boy Scouts set out concrete markers along its length, each with a bronze Lincoln medallion. The NPS counts about 2,440 markers and the Federal Highway Administration about 3,000 [1][2]. One original marker survives at 32nd Avenue and El Camino del Mar. The road's first landslide came in 1928, and only fragments survive as trail [2].",
+  "people": [
+   {
+    "name": "Carl G. Fisher",
+    "role": "Promoter of the Lincoln Highway"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Lincoln Highway (Richard F. Weingroff)",
+    "publisher": "Federal Highway Administration (archived)",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20160329221754/http://www.fhwa.dot.gov/infrastructure/lincoln.cfm",
+    "supports": "Fisher's 1912 dinner, 'Let's build it' quote, 1915 deadline, Lincoln Park goal, Sept 1, 1928 marker day (~3,000 markers)"
+   },
+   {
+    "title": "Vestiges of Lincoln Park",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+    "supports": "Terminus dedicated 1915 at today's plaza; ~3,400 miles; 1925 numbering; ~2,440 markers; El Camino del Mar 1915–1924 and 1928 landslide"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-palace-on-graves",
+  "title": "A Palace Poured Over the Paupers",
+  "theme": "architecture-landmarks",
+  "year": 1921,
+  "yearEnd": null,
+  "place": {
+   "label": "California Palace of the Legion of Honor, 100 34th Ave",
+   "lat": 37.78454,
+   "lon": -122.50074,
+   "precision": "building"
+  },
+  "hook": "When the cornerstone of the Legion went down in 1921, the cemetery beneath it turned out not to have gone anywhere.",
+  "story": "On February 19, 1921, with Mayor James Rolph as master of ceremonies, the cornerstone was laid for Alma and Adolph Spreckels' copy of the French pavilion from the 1915 exposition [1]. The site was spectacular, a bluff above the Golden Gate. It was also the old City Cemetery, which the city had ordered emptied into Colma in 1909 [2]. Hundreds of burials came up during construction [2]. 'The workers were uncovering a couple dozen coffins a day right where the museum was going to go,' said retired park ranger John Martini. He recalled an exposé at the time: the dead were bulldozed aside into a mass grave, and people picked through exposed graves for jewelry [3]. Architect George Applegarth built with the latest ideas: 21-inch hollow-tile walls to hold an even temperature, and 7,000 cubic yards of concrete [1][4]. The past came up again in the 1990s. Excavation for a new underground wing found hundreds more graves, about 780 by one count, and more are likely still buried beneath the museum [2][3].",
+  "people": [
+   {
+    "name": "James Rolph",
+    "role": "Mayor, master of ceremonies at the 1921 cornerstone laying"
+   },
+   {
+    "name": "George Applegarth",
+    "role": "Architect"
+   },
+   {
+    "name": "John Martini",
+    "role": "Retired NPS ranger and historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Building a Palace: A Closer Look (Arnold Woods)",
+    "publisher": "Western Neighborhoods Project / OpenSFHistory",
+    "year": 2021,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2021/11/14/building-a-palace-a-closer-look/",
+    "supports": "February 19, 1921 cornerstone ceremony with Mayor Rolph; wall and concrete details"
+   },
+   {
+    "title": "Vestiges of Lincoln Park",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lincoln-park.htm",
+    "supports": "Cemetery ordered moved 1909; hundreds of burials unearthed in 1921 and 1993; more likely remain"
+   },
+   {
+    "title": "Places in San Francisco you had no idea used to be cemeteries (Greg Keraghosian)",
+    "publisher": "SFGATE",
+    "year": 2016,
+    "url": "https://www.sfgate.com/bayarea/article/Places-in-San-Francisco-you-had-no-idea-used-to-10418610.php",
+    "supports": "Martini quotes on coffins and the exposé; about 780 bodies in 1993"
+   },
+   {
+    "title": "History of the Legion of Honor",
+    "publisher": "Fine Arts Museums of San Francisco (archived)",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20130912061301/http://legionofhonor.famsf.org/about/history-legion-honor",
+    "supports": "Hollow-tile walls, air filtration, 7,000 cubic yards of concrete"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-joffre-cypress",
+  "title": "The Marshal's Golden Shovel",
+  "theme": "war-military",
+  "year": 1922,
+  "yearEnd": null,
+  "place": {
+   "label": "Joffre and Foch cypresses, east side of the Legion of Honor",
+   "lat": 37.7846,
+   "lon": -122.4999,
+   "precision": "block"
+  },
+  "hook": "On a rainy April day in 1922 the hero of the Marne dug into a building site on a former graveyard and planted a tree that still stands.",
+  "story": "While the Legion of Honor was still a construction site, Alma Spreckels brought France's great generals to see it. First came Supreme Allied Commander Ferdinand Foch, and a few months later Marshal Joseph Joffre [1]. Joffre arrived on a state visit on April 7, 1922. In a rainy ceremony in Lincoln Park he was handed a gold shovel and planted a cypress by the construction site [2]. The city had never welcomed foreign figures so lavishly. Receptions and parades for the two marshals were the most elaborate it had ever staged for political visitors [3]. Each man planted a Monterey cypress. The trees and their plaques still stand on the east side of the palace [3]. The ties went further. Joffre later gave the museum the uniform he had worn at the Battle of the Marne, the turning point of 1914 [2]. Joffre and Foch, with Pétain, also signed Alma's Book of Gold of California's war dead when she took it to Paris [4]. Not everyone saw heroes. A FoundSF essayist argues that the war discredited 'the Fochs and Joffres who had the blood of millions on their hands' [1].",
+  "people": [
+   {
+    "name": "Joseph Joffre",
+    "role": "Marshal of France"
+   },
+   {
+    "name": "Ferdinand Foch",
+    "role": "Marshal of France, Supreme Allied Commander"
+   },
+   {
+    "name": "Alma de Bretteville Spreckels",
+    "role": "Museum founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Palace of the Legion of Honor (James Brook; Lubell and MacCannell)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Palace_of_the_Legion_of_Honor",
+    "supports": "Alma arranged visits by Foch and then Joffre to the construction site; critique of the marshals"
+   },
+   {
+    "title": "Building a Palace: A Closer Look (Arnold Woods)",
+    "publisher": "Western Neighborhoods Project / OpenSFHistory",
+    "year": 2021,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2021/11/14/building-a-palace-a-closer-look/",
+    "supports": "April 7, 1922 visit, gold shovel, rainy ceremony, cypress; Marne uniform donation"
+   },
+   {
+    "title": "Vestiges of Lands End Trail",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-lands-end-trail.htm",
+    "supports": "Two Monterey cypresses planted by Foch and Joffre; most elaborate welcomes; trees and plaques on east side"
+   },
+   {
+    "title": "The Book of Gold",
+    "publisher": "Fine Arts Museums of San Francisco (archived)",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20130912061301/http://legionofhonor.famsf.org/about/book-gold",
+    "supports": "Foch, Joffre and Pétain signed the Book of Gold in Paris"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-lyman-stewart",
+  "title": "The Tanker That Old Sailors Took Over",
+  "theme": "labor-industry",
+  "year": 1922,
+  "yearEnd": 1926,
+  "place": {
+   "label": "Lyman Stewart wreck site, beside Helmet Rock below Lands End",
+   "lat": 37.7874,
+   "lon": -122.5064,
+   "precision": "area"
+  },
+  "hook": "Rammed in the fog, an oil tanker was run onto the Lands End rocks. Then homeless old sailors moved aboard and sang shanties to passing streetcars.",
+  "story": "On October 7, 1922, the Union Oil tanker Lyman Stewart was heading out through the Golden Gate in thickening fog and a strong current. The freighter Walter A. Luckenbach was coming in. Muffled horns warned neither ship in time [1]. The Luckenbach cut deep into the tanker's port bow. Captain Cloyd ordered his crew into the boats and stayed aboard to steer the sinking ship ashore. She tore her hull on the rocks of Lands End and stuck fast despite every salvage effort [1]. The hulk sat a few feet offshore and became a magnet for sightseers. Adventurous visitors waded out at low tide [2]. Just before Christmas 1923 the Chronicle reported that aging merchant sailors had taken over the abandoned ship. Hikers and passengers on the #1 streetcar could hear sea shanties drifting from the rusting hull [2]. The waves slowly broke her in two [1]. In 1937 her sister ship Frank H. Buck, also built at Union Iron Works, was wrecked in another fog collision and came to rest beside her [3]. At low tide the Stewart's engine block still shows in the surf just west of Helmet Rock [2].",
+  "people": [
+   {
+    "name": "John G. Cloyd",
+    "role": "Captain of the Lyman Stewart"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Vestiges of Shipwrecks",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-shipwrecks.htm",
+    "supports": "Collision in fog with the Walter A. Luckenbach; Cloyd beached the ship; salvage failed; broke in two"
+   },
+   {
+    "title": "Mother's Cookies and the Klan at Lands End (John Martini)",
+    "publisher": "Western Neighborhoods Project / OpenSFHistory",
+    "year": 2023,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2023/10/11/mothers-cookies-and-the-klan-at-lands-end/",
+    "supports": "Crowds and waders; Chronicle December 1923 story of old sailors aboard, shanties heard from #1 streetcars; engine block near Helmet Rock"
+   },
+   {
+    "title": "The Buck Stops Here: A Closer Look (Arnold Woods)",
+    "publisher": "Western Neighborhoods Project / OpenSFHistory",
+    "year": 2022,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2022/03/06/the-buck-stops-here-a-closer-look/",
+    "supports": "Frank H. Buck, a Union Iron Works sister ship, wrecked beside the Stewart in 1937"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-book-of-gold-opening",
+  "title": "A Palace for 3,600 Lost Sons",
+  "theme": "war-military",
+  "year": 1924,
+  "yearEnd": null,
+  "place": {
+   "label": "Court of Honor, California Palace of the Legion of Honor",
+   "lat": 37.7843,
+   "lon": -122.5004,
+   "precision": "building"
+  },
+  "hook": "On Armistice Day 1924 the Spreckels' marble memorial opened. Its most moving treasure was a parchment book of names made for the Gold Star mothers.",
+  "story": "In January 1920 Adolph Spreckels told the park commissioners that he and his wife wanted to give their native city a memorial 'to our brave boys who gave their lives' in the Great War, which would also be a home for art [1]. Before the building was finished, the American Legion held a convention ceremony in its Court of Honor. The guests included Gold Star mothers who had lost sons in France, seated with amputee, blind and shell-shocked veterans [2]. That scene probably inspired Alma Spreckels' Book of Gold. Military records were searched for the names and hometowns of the roughly 3,600 Californians who had died. A calligrapher inscribed them on parchment under the title Our Sons 1914–1918, work that took eight years. Marshals Foch, Joffre and Pétain signed it in Paris, and General Pershing signed the title page beneath the single word 'Mothers!' [2]. Adolph died on June 28, 1924, before the opening. The city still had to vote on accepting the gift, and on November 4 it did, by a margin of 73,500 [3]. On the morning of November 11, Armistice Day, the palace was dedicated [3]. France's Albert Tirman announced that Alma had been awarded the Cross of the Legion of Honor [4].",
+  "people": [
+   {
+    "name": "Adolph B. Spreckels",
+    "role": "Sugar magnate and co-donor"
+   },
+   {
+    "name": "Alma de Bretteville Spreckels",
+    "role": "Founder"
+   },
+   {
+    "name": "John J. Pershing",
+    "role": "Signed the Book of Gold"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History of the Legion of Honor",
+    "publisher": "Fine Arts Museums of San Francisco (archived)",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20130912061301/http://legionofhonor.famsf.org/about/history-legion-honor",
+    "supports": "Adolph's January 1920 statement; memorial to 3,600 California dead; Armistice Day 1924 opening"
+   },
+   {
+    "title": "The Book of Gold",
+    "publisher": "Fine Arts Museums of San Francisco (archived)",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20130912061301/http://legionofhonor.famsf.org/about/book-gold",
+    "supports": "American Legion ceremony with Gold Star mothers and veterans; Book of Gold compilation, 3,600 names, eight years, Pershing's 'Mothers!'"
+   },
+   {
+    "title": "Building a Palace: A Closer Look (Arnold Woods)",
+    "publisher": "Western Neighborhoods Project / OpenSFHistory",
+    "year": 2021,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2021/11/14/building-a-palace-a-closer-look/",
+    "supports": "Adolph's death June 28, 1924; November 4, 1924 vote with 73,500 margin; November 11 dedication"
+   },
+   {
+    "title": "Alma Spreckels (Christopher Craig)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Alma_Spreckels",
+    "supports": "Albert Tirman's announcement at the November 11, 1924 dedication of Alma's Legion of Honor award"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-rodin-thunder-pedal",
+  "title": "A Dancer, a Thinker and a Thunder Pedal",
+  "theme": "arts-counterculture",
+  "year": 1924,
+  "yearEnd": null,
+  "place": {
+   "label": "Rodin gallery and courtyard, Legion of Honor",
+   "lat": 37.78445,
+   "lon": -122.50095,
+   "precision": "building"
+  },
+  "hook": "The laundry girl from the dunes met a Paris dance star, and through her Rodin. Then an organ with 4,500 pipes arrived.",
+  "story": "Alma de Bretteville grew up poor, the daughter of Danish immigrants on a sandy farm at the city's edge. She left school at 14 to deliver laundry to the mansions of the rich [1]. By 1914 she was Mrs. Adolph Spreckels and in Paris, where at a dinner at Ciro's she met Loie Fuller, the Illinois-born dancer whose 'Serpentine Dance' had made her famous [1]. Fuller introduced her to Auguste Rodin and bought bronzes for her. The first thirteen had their San Francisco debut at the 1915 exposition [1]. One of the earliest was The Thinker, a cast made around 1904 by Rodin's founder Alexis Rudier and bought through Fuller. It became one of the more than seventy Rodins Alma gave the Legion, and it still sits in the Court of Honor [2][4]. The palace got a voice too. In 1924 Adolph's brother, John D. Spreckels, gave a Skinner organ built in Boston. Its 4,500 pipes run from half an inch to 32 feet, hidden behind a cloth apse painted to look like marble. It even has a thunder pedal [3].",
+  "people": [
+   {
+    "name": "Alma de Bretteville Spreckels",
+    "role": "Collector and founder"
+   },
+   {
+    "name": "Loie Fuller",
+    "role": "Dancer and art agent"
+   },
+   {
+    "name": "Auguste Rodin",
+    "role": "Sculptor"
+   },
+   {
+    "name": "John D. Spreckels",
+    "role": "Donor of the organ"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Alma Spreckels (Christopher Craig)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Alma_Spreckels",
+    "supports": "Alma's childhood and laundry work; 1914 meeting with Loie Fuller at Ciro's; introduction to Rodin; 13 bronzes shown at the 1915 exposition"
+   },
+   {
+    "title": "The Thinker",
+    "publisher": "Fine Arts Museums of San Francisco (archived)",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20130912061301/http://legionofhonor.famsf.org/about/thinker",
+    "supports": "The Thinker cast c. 1904 by Rudier, bought through Fuller; more than 70 Rodins donated; gift 1924"
+   },
+   {
+    "title": "The Skinner Organ",
+    "publisher": "Fine Arts Museums of San Francisco (archived)",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20130912061301/http://legionofhonor.famsf.org/about/skinner-organ",
+    "supports": "Skinner organ given by John D. Spreckels in 1924; 4,500 pipes; painted cloth apse; thunder pedal"
+   },
+   {
+    "title": "The Palace of the Legion of Honor (James Brook; Lubell and MacCannell)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Palace_of_the_Legion_of_Honor",
+    "supports": "Copy of Rodin's Thinker in the Court of Honor"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "lincoln-park-a-klan-on-the-wreck",
+  "title": "Klansmen on a Shipwreck",
+  "theme": "civil-rights",
+  "year": 1926,
+  "yearEnd": null,
+  "place": {
+   "label": "Lyman Stewart wreck near Helmet Rock, Lands End",
+   "lat": 37.7872,
+   "lon": -122.5068,
+   "precision": "area"
+  },
+  "hook": "In 1926 five men hung from ropes to paint 'KKK' on a wrecked tanker, and they dared the police to come and get them.",
+  "story": "By the mid-1920s the wrecked tanker Lyman Stewart, stuck on the rocks below Lands End since 1922, had become a billboard. Someone painted 'Mother's Cakes & Cookies' across her hull. Just forward of it, in a photograph taken in April 1926, is a chillier message: 'KKK-S.F. #2' [1]. Historian John Martini found the story behind it. San Francisco police spotted five men dangling from ropes, painting 'KKK' in huge letters on the ship's side. Ordered down, they shouted back: 'Come out and get us, we're going to stay here until we finish this job.' Rather than climb the sheer steel hull, the officers waited, then arrested the men as they came down [1]. The five got 30-day sentences, not for hate but for breaking a city ordinance against 'advertising or signs of any description on private property' [1]. The Klan was then at its national peak. It claimed three million members, more than half of them in cities, and San Francisco was not immune [1]. Why 'S.F. #2'? No one knows whether the city had more than one Klan group [1]. The letters washed away with the ship [1][2].",
+  "people": [
+   {
+    "name": "John Martini",
+    "role": "Historian who documented the incident"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mother's Cookies and the Klan at Lands End (John Martini)",
+    "publisher": "Western Neighborhoods Project / OpenSFHistory",
+    "year": 2023,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2023/10/11/mothers-cookies-and-the-klan-at-lands-end/",
+    "supports": "April 1926 photo; the painting incident, the quote, arrests, 30-day sentences under the sign ordinance; Klan membership; 'S.F. #2' mystery"
+   },
+   {
+    "title": "Vestiges of Shipwrecks",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2022,
+    "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-shipwrecks.htm",
+    "supports": "Background on the 1922 wreck of the Lyman Stewart and its later breakup"
+   }
+  ],
+  "photo": null
+ }
+]

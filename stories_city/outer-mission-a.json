@@ -1,0 +1,534 @@
+[
+  {
+    "id": "outer-mission-rancho-san-miguel-edge",
+    "title": "The road that fenced Noe's rancho",
+    "theme": "indigenous-early",
+    "year": 1845,
+    "yearEnd": 1856,
+    "place": {
+      "label": "San Jose Avenue through Mission Terrace (old San Jose Road, edge of Rancho San Miguel)",
+      "lat": 37.73001,
+      "lon": -122.43761,
+      "precision": "street"
+    },
+    "hook": "Before there were lots or streetcars, San Jose Avenue was the property line of a Mexican cattle ranch that covered one-sixth of San Francisco.",
+    "story": "Traffic on San Jose Avenue follows a much older line. Part of the modern avenue traces the colonial El Camino Real, the road that tied Mission Dolores to the missions and farms further down the peninsula [1]. In 1845 José de Jesús Noe asked Governor Pío Pico for a square league of land next to the ranchos of Francisco de Haro and José Bernal. The historic context statement dates the grant to December 1845, while historian Mae Silver puts it in 1846 [1][2]. Rancho San Miguel ran across Mount Davidson and Merced Heights, and its eastern border was almost exactly this road [1][2]. One account credits Noe with up to 2,000 cattle and 200 horses [1]. He was acting alcalde, or mayor, of Yerba Buena when the Americans took over in 1846. American rule soon undid the rancho. Noe began selling land to speculators such as John Horner in 1852, and the United States did not confirm his title until late 1856 [1]. Houses on the east side of the avenue stand just outside the old grant, and the land to the west was once Noe's.",
+    "people": [
+      {
+        "name": "José de Jesús Noe",
+        "role": "Grantee of Rancho San Miguel, acting alcalde of Yerba Buena"
+      },
+      {
+        "name": "Pío Pico",
+        "role": "Mexican governor of California"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "El Camino Real/San Jose Road line, Noe's 1845 petition and December 1845 grant, San Jose Road as the rancho's southeastern boundary, cattle and horses, alcalde role, 1852 sale to Horner, 1856 validation"
+      },
+      {
+        "title": "Rancho Era (essay by Mae Silver)",
+        "publisher": "FoundSF",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=Rancho_Era",
+        "supports": "One square league, one-sixth of San Francisco, eastern border almost entirely San Jose Avenue, grant dated 1846"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-lake-geneva",
+    "title": "Lake Geneva, a spring that fed Islais Creek",
+    "theme": "parks-nature",
+    "year": 1863,
+    "yearEnd": null,
+    "place": {
+      "label": "Block bounded by Geneva, Niagara, Delano and Cayuga avenues (approximate site of 'Lake Geneva')",
+      "lat": 37.7182,
+      "lon": -122.445,
+      "precision": "area"
+    },
+    "hook": "An 1863 map shows a spring-fed 'Lake Geneva' near today's Cayuga Avenue. It was one source of a creek that ran all the way to the bay.",
+    "story": "Before the house lots, this corner of the city had its own lake. A spring-fed pond marked as 'Lake Geneva' on some maps sat roughly on the block now bounded by Geneva, Niagara, Delano and Cayuga avenues. The city's 1863 'West End Map #1' is one of those maps [1]. The pond was one of the sources of Islais Creek, which ran east through the valley and emptied into a wide tidal estuary at today's Islais Creek Channel [1]. According to stories passed down by local historians, travellers on the old road stopped at the spring to water their animals, although no written record from the colonial era confirms this [1]. The creek did not survive the city. Its valley was put into culverts and covered by San Jose Avenue and Alemany Boulevard, and later by Interstate 280 [2]. People still point to what is left. FoundSF notes that the headwaters of one branch of Islais Creek run somewhere deep beneath nearby Cayuga Park, under the BART tracks [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "'Lake Geneva' spring-fed pond near Geneva/Niagara/Delano/Cayuga, 1863 West End Map #1, source of Islais Creek, anecdotal watering-stop reports"
+      },
+      {
+        "title": "Before the I-280 Freeway",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Before_the_I-280_Freeway",
+        "supports": "The valley was Islais Creek before culverting under San Jose Avenue and Alemany Boulevard"
+      },
+      {
+        "title": "Cayuga Park",
+        "publisher": "FoundSF",
+        "year": 2009,
+        "url": "https://www.foundsf.org/index.php?title=Cayuga_Park",
+        "supports": "Headwaters of a branch of Islais Creek lie beneath Cayuga Park"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-elkton-station",
+    "title": "Steam trains and a lonely Elkton stop",
+    "theme": "gold-rush-victorian",
+    "year": 1864,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of Southern Pacific's Elkton station, just south of Ocean Avenue beside today's Balboa Park BART",
+      "lat": 37.7229,
+      "lon": -122.447,
+      "precision": "block"
+    },
+    "hook": "Long before BART, trains stopped here, at a quiet station called Elkton that served cabbage farmers and a reform school.",
+    "story": "The first railroad from San Francisco to San Jose came through here in the early 1860s. Wikipedia gives October 1863 for the start of service through the city, and the historic context statement says the San Jose line was complete in 1864 [1][2]. The single track ran out of the Mission, through the Bernal Cut, and south along what is now the I-280 corridor [1]. Farmers were already ploughing wild iris meadows in 1862 because they expected the railroad to arrive [1]. There was a stop called Elkton about 300 feet south of Ocean Avenue, close to where BART's Balboa Park station is now [2]. It handled mostly farm freight, but it also served the Industrial School on the hill [2]. The railroad did less for the area than people had hoped. In 1884 a one-way ticket from Fourth and Townsend to Ocean View cost 15 cents, three times a cable car fare, and farmers kept driving their wagons to market [1]. After Southern Pacific opened its Bayshore Cutoff in 1907, this line was left with a few local trains [2]. Its right-of-way later became the route of the freeway and BART.",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "1864 completion, route through Bernal Cut, 1862 'flowers-de-luce' ploughing, Elkton station near Ocean and San Jose, 1884 15-cent fare, farmers' wagons"
+      },
+      {
+        "title": "Balboa Park station (history section and its citations to Miller 1941 and Rice & Echeverria 2002)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Balboa_Park_station",
+        "supports": "October 16, 1863 opening through SF, Elkton 300 feet south of Ocean Avenue, freight for farms and the Industrial School, 1907 Bayshore Cutoff"
+      },
+      {
+        "title": "A Short History of OMI Neighborhoods",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/omi.php",
+        "supports": "The San Francisco-San Jose steam line and its stations in the OMI area"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-wolfes-hall",
+    "title": "Elias Wolfe's saloon, hall and village centre",
+    "theme": "communities",
+    "year": 1880,
+    "yearEnd": 1910,
+    "place": {
+      "label": "Plymouth Avenue and Sickles Avenue, the old Ocean View station plaza (site of Wolfe's Hall)",
+      "lat": 37.7109,
+      "lon": -122.4561,
+      "precision": "block"
+    },
+    "hook": "Ocean View ran its lectures, dances and political rallies from a roadhouse bar next to the railway tracks.",
+    "story": "Around 1880 Elias Wolfe moved to Ocean View, a village of homestead lots next to the railroad station, and opened a roadhouse and meeting hall on the corner of Plymouth Avenue and Sickles Street [1]. The streets met the station like the spokes of a wheel. Residents built a fountain in the plaza, useful for looking at and for watering tied-up horses [2]. The Diamond Saloon, the Tell House, Pellegrini's Bayview Bazaar, Pesce's Grocery and Canada's Barber Shop stood around it [2]. Wolfe's served drinks and food downstairs and had a hall upstairs [1]. It hosted lectures, dances, rallies and the meetings of the improvement clubs that lobbied City Hall for water, a fire station and a school [1]. Wolfe helped start the area's first school. When the new Sheridan School was dedicated in 1910, he was named one of the neighbourhood's 'honored settlers' [1]. His first building burned in 1891. The rebuilt hall and bar stayed open for years after he died in the 1910s, until freeway construction cleared Wolfe's, the Tell House and the Diamond Saloon [1].",
+    "people": [
+      {
+        "name": "Elias Wolfe",
+        "role": "Roadhouse keeper and Ocean View pioneer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Wolfe's arrival c.1880, hall at Plymouth and Sickles, uses of the hall, school, 1910 'honored settlers', 1891 fire, demolition for I-280"
+      },
+      {
+        "title": "History of Ocean View (Marsha Fontes, 'Railway Recollections', West Portal Monthly, 1993)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 1993,
+        "url": "https://www.outsidelands.org/oceanview.php",
+        "supports": "Spoke-like streets, plaza fountain for horses, the saloons and shops around it"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-funeral-streetcars",
+    "title": "Electric streetcars for mourners on San Jose Avenue",
+    "theme": "gold-rush-victorian",
+    "year": 1898,
+    "yearEnd": null,
+    "place": {
+      "label": "San Jose Avenue at the county line, route of the San Francisco & San Mateo line to the Colma cemeteries",
+      "lat": 37.7083,
+      "lon": -122.4594,
+      "precision": "street"
+    },
+    "hook": "San Francisco's first electric streetcar line soon had a sombre extra job. It carried coffins and mourners down San Jose Avenue to the cemeteries.",
+    "story": "The San Francisco & San Mateo Railway opened in 1892 as the city's first electric streetcar line. It ran from Steuart and Market streets, through the Mission and Glen Park, then down San Jose Avenue to the cemeteries in Colma [1]. Accounts disagree on the opening day. The SFMTA gives April 27, 1892, and Mae Silver's essay on the founder, Behrend Joost, describes a festive first run on August 27, 1892, with some 400 guests [1][2]. Joost's venture never made much money, and he sold out in 1896 to the Spreckels brothers, who added a branch to Holy Cross Cemetery [1][2]. At the county line the tracks left the city for the burial grounds, and a photograph published by FoundSF shows the line's first electric funeral train in 1898 [3]. The line's later owner, United Railroads, ran coffins and mourners straight to the cemeteries on spur tracks [4]. After 1906 the main San Mateo service was moved to Mission Street, and San Jose Avenue kept a local line [1].",
+    "people": [
+      {
+        "name": "Behrend Joost",
+        "role": "Founder of the San Francisco & San Mateo Railway"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SF's First Electric Streetcar Line Opened 125 Years Ago Today (Jeremy Menzies)",
+        "publisher": "SFMTA",
+        "year": 2017,
+        "url": "https://www.sfmta.com/blog/sfs-first-electric-streetcar-line-opened-125-years-ago-today",
+        "supports": "April 27, 1892 opening, route via San Jose Avenue to Colma cemeteries, 1896 sale, URR rerouting via Mission Street"
+      },
+      {
+        "title": "Father of Southwest San Francisco: Behrend Joost (1845-1917) (Mae Silver)",
+        "publisher": "FoundSF",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=Father_of_Southwest_San_Francisco_Behrend_Joost_(1845-1917)",
+        "supports": "August 27, 1892 opening run with 400 guests, sale to Spreckels, added Holy Cross Cemetery route"
+      },
+      {
+        "title": "Interurban Streetcars South",
+        "publisher": "FoundSF",
+        "year": 2015,
+        "url": "https://www.foundsf.org/index.php?title=Interurban_Streetcars_South",
+        "supports": "Photo caption: first electric funeral train on the SF & San Mateo line, 1898"
+      },
+      {
+        "title": "San Francisco Landmark #180: Geneva Car Barn",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2023,
+        "url": "https://noehill.com/sf/landmarks/sf180.asp",
+        "supports": "United Railroads carried coffins and mourners directly to the cemeteries via spurs off the San Mateo line"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-deaths-crossing",
+    "title": "Death's Crossing at Sickles and San Jose",
+    "theme": "gold-rush-victorian",
+    "year": 1900,
+    "yearEnd": 1903,
+    "place": {
+      "label": "San Jose Avenue at Sickles Avenue, Ocean View's railroad crossing",
+      "lat": 37.7105,
+      "lon": -122.4555,
+      "precision": "block"
+    },
+    "hook": "Steam trains and electric streetcars met at street level here, and the collisions were frequent enough that Ocean View named the crossing after death.",
+    "story": "At the Ocean View station, Southern Pacific's steam line crossed San Jose Avenue at street level, right where the electric streetcars ran [1]. Residents called the junction of Sickles Avenue and San Jose Avenue 'Death's Crossing' because the collisions there were frequent and often fatal [1]. On May 30, 1900, the Chronicle reported an 'Accident at Death's Crossing' in which a locomotive smashed an electric car. In 1903 the paper reported another Ocean View resident struck by a train [1]. Mission District residents, tired of smoke, soot and dangerous crossings, wanted the tracks removed altogether. Ocean View fought to keep its trains. In 1900 the village had only about 200 buildings, and the railroad was its main link to the rest of the city, even though fares were too high for many working families [1]. A 1926 photograph shows Southern Pacific tracks still running down San Jose Avenue at Sickles [2]. That right-of-way is now under Interstate 280 [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "'Death's Crossing' name, Chronicle reports of May 30, 1900 and June 10, 1903, Mission opposition, Ocean View's fight to keep the line, c.200 buildings in 1900"
+      },
+      {
+        "title": "Before the I-280 Freeway",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Before_the_I-280_Freeway",
+        "supports": "1926 photo of SP railroad running down San Jose Avenue at Sickles; I-280 now on that right-of-way"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-geneva-office-building",
+    "title": "A brick castle for the streetcars",
+    "theme": "architecture-landmarks",
+    "year": 1901,
+    "yearEnd": null,
+    "place": {
+      "label": "Geneva Office Building (Geneva Car Barn), 2301 San Jose Avenue at Geneva Avenue",
+      "lat": 37.72022,
+      "lon": -122.44682,
+      "precision": "building"
+    },
+    "hook": "In 1901 an electric railway built a red-brick office with a round turret among dirt roads and fields. It still shows cracks from 1906.",
+    "story": "In 1901 the San Francisco & San Mateo Electric Railway built its new headquarters on the southeast corner of Geneva and San Jose avenues [1][2]. It was a Romanesque red-brick office building with a round corner turret, beside the company's car barn and powerhouse. The architects were James and Merritt Reid, who also designed the Cliff House and the Fairmont Hotel [2]. Most of the land around it was still dirt roads and fields [2]. The top floor had a large social hall where the company held entertainments for its workers [1]. The railway was soon absorbed into United Railroads, and the Geneva barn went on to house more cars than any other barn in the city during the electric-streetcar era [3]. The load-bearing masonry came through the 1906 earthquake with only minor damage, and the marks can still be seen on the north wall [1][2]. The city made the building Landmark No. 180 in 1985 [1]. The 1989 Loma Prieta earthquake put it out of service, and neighbours later stopped a plan to demolish it for parking [3].",
+    "people": [
+      {
+        "name": "James and Merritt Reid",
+        "role": "Architects (Reid Brothers)"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #180: Geneva Car Barn",
+        "publisher": "NoeHill in San Francisco (adapting Landmarks Board Resolution 306, 1985)",
+        "year": 2023,
+        "url": "https://noehill.com/sf/landmarks/sf180.asp",
+        "supports": "1901 construction, Reid Brothers, social hall, minor 1906 damage, landmark designation"
+      },
+      {
+        "title": "The Geneva Car House: 115 Years of Transit History at Balboa Park (Jeremy Menzies)",
+        "publisher": "SFMTA",
+        "year": 2016,
+        "url": "https://www.sfmta.com/blog/geneva-car-house-115-years-transit-history-balboa-park",
+        "supports": "Romanesque red brick with turret, 1901, dirt roads and fields, Reids' other works, visible quake damage on north wall"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Largest car barn of the electric era, 1985 landmark, Loma Prieta damage and defeated parking-lot plan"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-balboa-park-origins",
+    "title": "A reform school's farm becomes Balboa Park",
+    "theme": "parks-nature",
+    "year": 1908,
+    "yearEnd": 1910,
+    "place": {
+      "label": "Balboa Park, San Jose and Ocean avenues (east half of the old House of Refuge lot)",
+      "lat": 37.7255,
+      "lon": -122.4455,
+      "precision": "area"
+    },
+    "hook": "Before it had ball fields, Balboa Park was farmland worked by boys held at San Francisco's troubled juvenile reformatory.",
+    "story": "In 1854 San Francisco bought 100 acres from John Horner where the San Jose Road met the Ocean House Road. The plan was a 'House of Refuge' for neglected and delinquent children. The context statement gives the price as $15,000 and the Western Neighborhoods Project gives $10,000 [1][2]. The Industrial School opened in 1859 on the higher western end, where City College's football field is now [1][2]. The eastern flats, today's Balboa Park, were described as 'fine arable land', and the inmates grew crops there for the school [1]. In 1872 officials refused to build a jail on this ground because 'the land there is the best' [1]. The school had scandals from the start, and in 1885 a grand jury declared that 'failure is written over it everywhere' [1]. It closed in the early 1890s [1][2]. On July 22, 1908, the city handed the lot to the Park Department, apart from the jail, the reservoirs and a firehouse. It became the city's second-largest park [1]. Hundreds of people came to its dedication on October 9, 1910, including 22 improvement clubs, and the day was marked with footraces and baseball [1].",
+    "people": [
+      {
+        "name": "John Horner",
+        "role": "Seller of the House of Refuge lot"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "1854 purchase ($15,000), 1859 opening, 'fine arable land', 1872 and 1885 quotes, July 22, 1908 transfer, October 9, 1910 dedication with 22 improvement clubs"
+      },
+      {
+        "title": "The House of Refuge Lot (Angus Macfarlane)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/house-of-refuge-lot.php",
+        "supports": "1854 purchase for $10,000, May 1859 opening, closure around 1890-91, 1908 park grant exclusions"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-door-to-nowhere",
+    "title": "Strikebreakers and the door to nowhere",
+    "theme": "labor-industry",
+    "year": 1917,
+    "yearEnd": null,
+    "place": {
+      "label": "Geneva Car Barn yard side, 2301 San Jose Avenue (the second-storey 'door to nowhere')",
+      "lat": 37.72,
+      "lon": -122.4464,
+      "precision": "building"
+    },
+    "hook": "High on the Geneva Car Barn's yard wall is a door that opens onto a sheer drop. It dates from a streetcar strike in 1917.",
+    "story": "On the night of August 11, 1917, a hundred platform men walked off their United Railroads streetcars near Market and Valencia. They were demanding union recognition, $3.50 a day and an eight-hour day [1]. More than 1,600 of the company's roughly 1,800 workers soon joined them, and the city saw daily marches, mob attacks on cars and armed company men [1]. United Railroads brought in hundreds of strikebreakers and housed them in its carbarns, including 75 at the Geneva barn [1]. At Geneva, the company turned a second-floor window into a doorway and built a temporary wooden stairway down to the rail yard. Strikebreakers could sleep in the office building, then go down and start the streetcars without being seen by the strikers outside [2][3]. The company waited the strikers out, and the walkout was defeated by late November [1]. The stairway is gone, but the doorway is still there on the eastern wall, opening onto a drop to the yard below. It is known as the 'door to nowhere' [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "United Railroads Streetcar Strike 1917 (Chris Carlsson)",
+        "publisher": "FoundSF",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=United_Railroads_Streetcar_Strike_1917",
+        "supports": "August 11, 1917 walkout, demands, 1,600 of 1,800 strikers, 75 strikebreakers at Geneva barn, defeat in late November"
+      },
+      {
+        "title": "The Geneva Car House: 115 Years of Transit History at Balboa Park (Jeremy Menzies)",
+        "publisher": "SFMTA",
+        "year": 2016,
+        "url": "https://www.sfmta.com/blog/geneva-car-house-115-years-transit-history-balboa-park",
+        "supports": "'Door to nowhere' and temporary stairway from the 1917 strike, strikebreakers sneaking down to start cars"
+      },
+      {
+        "title": "San Francisco Landmark #180: Geneva Car Barn",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2023,
+        "url": "https://noehill.com/sf/landmarks/sf180.asp",
+        "supports": "Social hall converted to strikebreaker dormitory; window turned into doorway to the yard"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-tell-house",
+    "title": "German spoken at the Tell House",
+    "theme": "communities",
+    "year": 1921,
+    "yearEnd": 1928,
+    "place": {
+      "label": "Sickles Avenue beside the old Ocean View station (site of the Tell House, demolished for I-280)",
+      "lat": 37.7101,
+      "lon": -122.4549,
+      "precision": "block"
+    },
+    "hook": "Beside the Ocean View tracks stood a boarding house and bar where German was spoken and some lodgers had served in the Kaiser's army.",
+    "story": "The Tell House stood on Sickles Avenue next to the Ocean View railroad station. It served both as a place to worship and as a place to drink [1][2]. According to Marsha Fontes's history of Ocean View, Catholics heard Mass upstairs over the Tell House bar every Sunday from 1872 until a small church, St. Michael's, was built on Broad Street in 1899 [2]. In the 1920s, Ray Muther told historians in 2008, it was a 'cupping house', meaning a place to drink, and a boarding house for Swiss and German immigrants [1]. German was the house language, and some of the lodgers had served in the Kaiser's army. The bar and dining room opened on weekends [1]. Muther's relative Theodore Houser bought the building in 1921, and Muther's father lived there in 1928 [1]. The house was believed to have been a stage-wagon stop. A back room with stained-glass windows may once have been the waiting room [1]. The Tell House was demolished along with Wolfe's and the Diamond Saloon when Interstate 280 came through [1].",
+    "people": [
+      {
+        "name": "Theodore Houser",
+        "role": "Owner from 1921"
+      },
+      {
+        "name": "Ray Muther",
+        "role": "Oral-history source; his father lodged there in 1928"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Tell House sidebar: cupping and boarding house for Swiss and German immigrants in the 1920s, Kaiser's army veterans, Houser purchase 1921, stage-stop tradition, demolition for I-280"
+      },
+      {
+        "title": "History of Ocean View (Marsha Fontes, 1993)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 1993,
+        "url": "https://www.outsidelands.org/oceanview.php",
+        "supports": "Sunday Mass over the Tell House bar from 1872 until St. Michael's opened on Broad Street in 1899"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-alemany-ocean-shore",
+    "title": "A seaside railroad becomes Alemany Boulevard",
+    "theme": "architecture-landmarks",
+    "year": 1926,
+    "yearEnd": null,
+    "place": {
+      "label": "Alemany Boulevard near Cayuga Park (route of the Ocean Shore Railroad and old Islais Creek)",
+      "lat": 37.7194,
+      "lon": -122.4407,
+      "precision": "street"
+    },
+    "hook": "Alemany Boulevard follows the roadbed of a doomed railroad to Santa Cruz, laid in a creek valley that the city later buried.",
+    "story": "The Ocean Shore Railway was incorporated in May 1905 to run south along the coast from a terminal at 12th and Mission streets toward Santa Cruz [1]. Inside the city, its tracks ran along the route of today's Alemany Boulevard, partly parallel to the Southern Pacific [2][3]. An old-timer later remembered a flag stop further west in Ocean View. You waved a flag, and if the engineer felt like it he stopped, or else he left you standing in his soot [3]. The 1906 earthquake threw parts of the coastal roadbed and construction equipment into the Pacific. Mainline service ended on July 31, 1920, after a labour walkout [1]. The empty right-of-way got a second life in 1926, when Alemany Boulevard was built on it for the growing car traffic [3]. The boulevard followed the valley of Islais Creek. A 1910 photo taken from the Mission Street viaduct already shows the 'proposed Alemany Boulevard' along the creek. By 1930 the creek was being culverted underneath it [4].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Ocean Shore Railroad",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Ocean_Shore_Railroad",
+        "supports": "May 18, 1905 incorporation, 12th and Mission terminal, 1906 earthquake damage, July 31, 1920 abandonment after walkout"
+      },
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "Ocean Shore Railroad (1905-1920) ran from 12th and Mission through present-day Alemany Boulevard"
+      },
+      {
+        "title": "History of Ocean View (Marsha Fontes, 1993)",
+        "publisher": "Western Neighborhoods Project",
+        "year": 1993,
+        "url": "https://www.outsidelands.org/oceanview.php",
+        "supports": "Roadbed on today's Alemany, flag-stop anecdote, 1926 construction of Alemany Boulevard on the right-of-way"
+      },
+      {
+        "title": "Islais Creek Covered",
+        "publisher": "FoundSF",
+        "year": 2015,
+        "url": "https://www.foundsf.org/index.php?title=Islais_Creek_Covered",
+        "supports": "1910 view of proposed Alemany Boulevard along Islais Creek from the Mission viaduct; 1930 culverting"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-balboa-high-founded",
+    "title": "A Spanish Revival high school named for Balboa",
+    "theme": "architecture-landmarks",
+    "year": 1928,
+    "yearEnd": null,
+    "place": {
+      "label": "Balboa High School, 1000 Cayuga Avenue",
+      "lat": 37.722,
+      "lon": -122.44041,
+      "precision": "building"
+    },
+    "hook": "Balboa High School was founded during San Francisco's biggest decade of school building and named for the Spanish explorer credited with discovering the Pacific.",
+    "story": "Balboa High School was founded in 1928, at the end of the busiest decade of school building San Francisco had seen. Between 1920 and 1930 the district added 49 new school buildings [1][2]. It was named for Vasco Núñez de Balboa, the Spanish explorer who reached the Pacific, and its motto is 'First on the Pacific' [1][2]. The campus is in the Spanish Colonial Revival style, which became fashionable after San Diego's Panama-California Exposition of 1915. Its three buildings were designed by John Reid Jr., Hyman and Appleton, and Bakewell and Weihe [1]. The landmark report praises the design for suiting the city's hills and climate, with indoor and outdoor spaces that let pupils have fresh air and sunshine in the middle of the city [1]. Sources disagree on when the campus was finished. Wikipedia says construction was completed in 1931, and NoeHill's landmark page lists 1934 [1][2]. Balboa is Landmark No. 205 and the only San Francisco public school operating in a designated landmark [2]. Jerry Garcia later attended tenth grade there, in 1958 [1].",
+    "people": [
+      {
+        "name": "John Reid Jr.",
+        "role": "Architect"
+      },
+      {
+        "name": "Vasco Núñez de Balboa",
+        "role": "Namesake"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #205: Balboa High School",
+        "publisher": "NoeHill in San Francisco (adapting Planning Commission Resolution 13763, 1994)",
+        "year": 2023,
+        "url": "https://noehill.com/sf/landmarks/sf205.asp",
+        "supports": "Namesake, Spanish Colonial Revival, architects, 49 schools 1920-1930, indoor-outdoor design, 'Built 1934', Garcia in tenth grade 1958"
+      },
+      {
+        "title": "Balboa High School (California)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Balboa_High_School_(California)",
+        "supports": "Founded 1928, construction completed 1931, motto, Landmark 205, only landmark school operating in the district"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-elkton-shops",
+    "title": "Where San Francisco built and burned streetcars",
+    "theme": "labor-industry",
+    "year": 1929,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Elkton Shops, between San Jose Avenue, Ocean Avenue, Geneva Avenue and the railroad (now Muni's Green Metro Center and Balboa Park BART)",
+      "lat": 37.7214,
+      "lon": -122.4466,
+      "precision": "area"
+    },
+    "hook": "In 1929 more than two hundred men worked at the Elkton Shops, building new streetcars and burning old ones in the lower yard.",
+    "story": "After the 1906 earthquake, United Railroads was expanding its streetcar network and quickly put up its main maintenance shops next to Southern Pacific's Elkton station [1][2]. The site ran between San Jose Avenue, the railroad, Ocean Avenue and Geneva Avenue, and the railroad itself brought in materials [2]. The complex had a main shop with sixteen tracks running inside, a separate paint shop, open storage and a first-aid hospital [1]. In 1929, a peak year, the Elkton Shops employed 226 men. They built 26 new car bodies and overhauled 316 cars, and they burned the bodies of scrapped cars in the lower yard [1]. The company rented about a dozen cottages and flats nearby to its own employees. In 1930, carmen, motormen, conductors and railroad workers still filled small boarding houses around San Jose and Navajo avenues [1]. The shops stayed open under Muni until May 30, 1977. They were cleared for the Curtis E. Green Metro Center, after part of the land had already been taken for Balboa Park BART [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods, 1862-1959: Historic Context Statement (Richard Brandi & Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project for the San Francisco Historic Preservation Fund Committee",
+        "year": 2010,
+        "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+        "supports": "1907 Elkton Yards, 1929 figures (226 men, 26 bodies, 316 overhauls), burning car bodies, shop features, company housing, carmen's boardinghouses, 1977 closure"
+      },
+      {
+        "title": "Balboa Park station (history section, citing McKane & Perles, Inside Muni, 1982)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Balboa_Park_station",
+        "supports": "URR hurriedly opened the Elkton shops in 1907; parcel boundaries; SP line delivered materials"
+      }
+    ],
+    "photo": null
+  }
+]

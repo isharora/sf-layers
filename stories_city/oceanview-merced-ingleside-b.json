@@ -1,0 +1,731 @@
+[
+ {
+  "id": "oceanview-merced-ingleside-helen-brooks-hilltop",
+  "title": "Helen Brooks's Garden on Poppy Hill",
+  "theme": "parks-nature",
+  "year": 1936,
+  "yearEnd": 1966,
+  "place": {
+   "label": "Brooks Park, Shields & Ramsell Streets",
+   "lat": 37.7176,
+   "lon": -122.4672,
+   "precision": "area"
+  },
+  "hook": "In 1936 a stationer and his wife bought a windswept hilltop \"because it was out in the country\", then spent thirty years turning it into a wild garden.",
+  "story": "In 1936 Jesse and Helen Brooks bought the peak of the westernmost hill of Merced Heights \"because it was out in the country.\" Helen's architect brother helped design a crafty, brick-trimmed house facing the views, and Jesse ran a stationery store on Irving Street [1]. Locals called the summit Kite Hill, Poppy Hill or Pansy Hill. The rest of the ridge was a place for wildflower-picking parties among the rocky outcrops [1][2]. Helen gardened \"from noon until night\", her daughter Winifred recalled. She kept the native plants and added vegetables, trees and a beehive. She composted, wove her children's clothes on a loom and taught local kids to garden, while chickens, ducks and even a fawn roamed the lot [1]. Winifred watched postwar houses swallow the slopes: \"It was sad seeing all these beautiful fields of wildflowers disappearing\" [1]. When the couple decided to retire in the mid-1960s, the city wanted the land as a park but bid below other offers. After threats of eminent domain it paid $70,000 in 1966 [1]. (Another account dates the city's purchase to 1978 [3].) Several dozen native plant species still grow on the hilltop's outcrops [3].",
+  "people": [
+   {
+    "name": "Helen Brooks",
+    "role": "gardener and homeowner"
+   },
+   {
+    "name": "Jesse Brooks",
+    "role": "stationery store owner"
+   },
+   {
+    "name": "Winifred Brooks (Desch)",
+    "role": "daughter"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Brooks Park",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/sw23.php",
+    "supports": "1936 purchase, the house, Helen's gardening, Winifred's quotes, the 1966 sale for $70,000"
+   },
+   {
+    "title": "Merced Heights",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2019,
+    "url": "https://www.outsidelands.org/merced_heights.php",
+    "supports": "Kite Hill/Poppy Hill names, the open ridgeline"
+   },
+   {
+    "title": "Brooks Park",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Brooks_Park",
+    "supports": "native plants on the outcrops; alternative 1978 purchase date"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-merced-heights-integration",
+  "title": "Merced Heights Bets on Integration",
+  "theme": "civil-rights",
+  "year": 1961,
+  "yearEnd": 1967,
+  "place": {
+   "label": "Ramsell Street, Merced Heights",
+   "lat": 37.7187,
+   "lon": -122.46652,
+   "precision": "street"
+  },
+  "hook": "Realtors told white owners to \"get out while you can.\" One Merced Heights neighbourhood group answered with street sweeps, coffee and a bet on living together.",
+  "story": "After World War II builders covered the empty Merced Heights ridge with stucco homes, and much of this new housing was sold to African-American families [1]. Unlike the residence parks nearby, the area had no racial covenants, and it became one of the few places in San Francisco where Black families could buy [2]. In 1950 African-Americans made up 5% of the Ingleside, Merced Heights and Ocean View census tracts. By 1970 they were 62% [2]. A 1961 Council for Civic Unity study called the OMI \"a higher class Negro district\" [1]. The change was not only natural. Genevieve Jefferson of Ramsell Street told the U.S. Commission on Civil Rights in 1967 that estate agents \"swooped down on white people with offers to relocate\" and urged her \"to get out while you can\" [1]. Jefferson belonged to the Merced Heights Neighborhood Association, formed in October 1961. Alongside cleanup days and lobbying for buses, it promoted integration. Realtor Julius T. Johnson hoped the races would \"sit down over a beer or a cup of coffee and talk things out\" [1]. In 1963 an assistant state labor commissioner called Merced Heights a model of integration [2]. Not every memory is so gentle. Longtime resident Ray Wilson recalled hearing that a Black newcomer was shot with buckshot [3].",
+  "people": [
+   {
+    "name": "Genevieve Jefferson",
+    "role": "Ramsell Street resident, witness before the U.S. Commission on Civil Rights"
+   },
+   {
+    "name": "Julius T. Johnson",
+    "role": "realtor, Merced Heights Neighborhood Association leader"
+   },
+   {
+    "name": "D. Donald Glover",
+    "role": "assistant state labor commissioner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Merced Heights",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2019,
+    "url": "https://www.outsidelands.org/merced_heights.php",
+    "supports": "postwar housing sold to Black buyers, 1961 'higher class' report, Jefferson testimony, MHNA founding and Johnson quote"
+   },
+   {
+    "title": "Ocean View, Merced Heights and Ingleside (OMI) Historic Context Statement",
+    "publisher": "Western Neighborhoods Project for the City of San Francisco",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "no racial covenants; 5% (1950) to 62% (1970); Glover's 1963 'model of racial integration' remark"
+   },
+   {
+    "title": "Ray Wilson (I am OMI oral history)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/wilson.php",
+    "supports": "Wilson's recollection of violence against a Black homebuyer"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-avenue-club",
+  "title": "The Avenue Club's Organist and All-American",
+  "theme": "labor-industry",
+  "year": 1939,
+  "yearEnd": 2017,
+  "place": {
+   "label": "The Ave Bar, 1607 Ocean Avenue",
+   "lat": 37.72432,
+   "lon": -122.45955,
+   "precision": "building"
+  },
+  "hook": "A 1922 Ocean Avenue storefront went from fix-it shop to shoe repair to bar, run for a while by a Fox Theatre organist and later by an All-American football star.",
+  "story": "The building at 1607 Ocean Avenue, near Capitol, dates from 1922. Its first known tenant was Crown Electrical and Plumbing, and from 1934 it housed Louis Nessier's Balboa Shoe Repair [1]. In 1938 it began selling alcohol as Horgan & Fex liquors. It first appears as the Avenue Club in 1939, ten years earlier than the date on its Legacy Business listing [1]. From 1944 Audrey and Mel Hertz ran it. Mel had been a popular theatre organist and in 1933 was house organist at the Fox Theatre on Market Street. He was declared bankrupt in 1932 [1]. In 1949 the bar passed to Johnny Schiechl, a Balboa High graduate named All-American center at Santa Clara for the 1939 season. He played for the Steelers, Lions and Bears, and for the 49ers in 1947. After a divorce and a nervous breakdown in 1950, he reportedly sold his share to his partner, Bob Wells [1]. In 1959 the owners, Jim and Hallie Emmett, made the papers when their Dalmatian Debbie, a \"bar stool regular\", went missing. She was found [1]. The bar entered the city's Legacy Business Registry in 2017 [1]. City records list The Ave Bar at the address under one owner from 2006 to 2024 [2].",
+  "people": [
+   {
+    "name": "Mel Hertz",
+    "role": "theatre organist and bar owner"
+   },
+   {
+    "name": "Johnny Schiechl",
+    "role": "All-American center, NFL player, bar owner"
+   },
+   {
+    "name": "Hallie and Jim Emmett",
+    "role": "owners of Jim's Avenue Club"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Podcast #507: The Ave Bar (1607 Ocean Avenue)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2023,
+    "url": "https://www.outsidelands.org/podcast/WNP507_The_Ave_Bar",
+    "supports": "building date, tenants, 1939 Avenue Club, Hertz and Schiechl biographies, Debbie the Dalmatian, 2017 Legacy status"
+   },
+   {
+    "title": "Registered Business Locations: The Ave Bar, 1607 Ocean Ave",
+    "publisher": "DataSF / Office of the Treasurer & Tax Collector",
+    "year": 2026,
+    "url": "https://data.sfgov.org/resource/g8m3-pdis.json?dba_name=The%20Ave%20Bar",
+    "supports": "business registration dates at 1607 Ocean Avenue"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-lili-knits",
+  "title": "Lili Knits: Prom Dresses on Ocean Avenue",
+  "theme": "labor-industry",
+  "year": 1968,
+  "yearEnd": null,
+  "place": {
+   "label": "Lili Knits, 1500 block of Ocean Avenue",
+   "lat": 37.72475,
+   "lon": -122.45905,
+   "precision": "block"
+  },
+  "hook": "An Italian dressmaker who, her daughter says, made Carol Doda's first topless swimsuit moved her business to Ocean Avenue. For decades it dressed the Bay Area's proms.",
+  "story": "Rita Rivera Doyle, born Pozzi, told an interviewer in 2003 that her mother had worked in the clothing trade since she was a little girl in Italy [1]. In San Francisco her mother first worked for a manufacturer, then ran her own business on Townsend Street, and her clothes sold at I. Magnin, Saks Fifth Avenue, City of Paris and Livingston's. In Rita's telling, her mother also \"made the first topless swimsuit for Carol Doda\" [1]. After buying a house in the Ingleside, her mother moved the business to Ocean Avenue. Rita thought that was in 1968, though she was not sure [1]. For more than 30 years Lili Knits made prom dresses, formal wear and pep squad uniforms for customers across the Bay Area [2]. Rita remembered people warning her mother away from the neighbourhood, and a warm welcome on opening day. \"As soon as African American families moved in, people moved out. What is that about?\" [2]. She missed Betty's Hamburger, where truck drivers came for Tuesday meatloaf and Friday fish, and was blunt about the street's future: \"It will never be West Portal\" [2]. A city business registration lists Lili Knit at 1556 Ocean Avenue from 2005 [3].",
+  "people": [
+   {
+    "name": "Rita Rivera Doyle",
+    "role": "proprietor of Lili Knits"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Rita Rivera Doyle interview (I am OMI)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/doyle-interview.php",
+    "supports": "mother's career, Carol Doda claim, move to Ocean Avenue c.1968"
+   },
+   {
+    "title": "Rita Rivera Doyle",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/doyle.php",
+    "supports": "30+ years of prom and formal wear, opening-day and Betty's Hamburger memories, quotes"
+   },
+   {
+    "title": "Registered Business Locations: Lili Knit, 1556 Ocean Ave",
+    "publisher": "DataSF / Office of the Treasurer & Tax Collector",
+    "year": 2026,
+    "url": "https://data.sfgov.org/resource/g8m3-pdis.json?dba_name=Lili%20Knit",
+    "supports": "street address in 2005"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-fellowship-hall",
+  "title": "Rev. Gordon's Gym Full of Faces",
+  "theme": "communities",
+  "year": 1978,
+  "yearEnd": null,
+  "place": {
+   "label": "Ingleside Presbyterian Church, 1345 Ocean Avenue",
+   "lat": 37.72391,
+   "lon": -122.45687,
+   "precision": "building"
+  },
+  "hook": "In 1978 a seminary student took over a four-member church that neighbours called the \"pink elephant\". His secret weapon was its old gymnasium.",
+  "story": "Joseph Leonard, the developer of Ingleside Terraces, designed and built this church at Ocean and Granada. When it was completed in 1923 it housed nine Protestant congregations. Short of money, the religious director chose gym equipment for the boys over a pipe organ [1]. By 1978 the congregation was down to four members and facing closure, and neighbours called the building the \"pink elephant\" [2][3]. That year Roland Gordon, a former high school and college ballplayer from Gary, Indiana, began preaching there while at seminary [2]. He opened the gym and \"the children came to me\": kids of all races, mostly Black, who played in his church leagues, prayed before games and all got trophies at the season's banquet [2]. Starting with a photo of Muhammad Ali, Gordon pinned up pictures of African-American achievers. The collage, now called the Great Cloud of Witnesses, has spread floor to ceiling and down the halls, under a 1992 mural of African-American leaders [2][4]. In September 1986 he founded the Ingleside Community Center [3]. Standing up for the neighbourhood had a cost. When he backed a senior housing plan across Ocean Avenue in the 1990s, racial slurs were painted on the church [2].",
+  "people": [
+   {
+    "name": "Rev. Roland Gordon",
+    "role": "pastor, Ingleside Presbyterian Church"
+   },
+   {
+    "name": "Joseph A. Leonard",
+    "role": "developer and church designer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ingleside Presbyterian Church",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2005,
+    "url": "https://www.outsidelands.org/ingle-presby.php",
+    "supports": "Leonard design, 1923 completion, nine congregations, gym-over-organ decision"
+   },
+   {
+    "title": "Rev. Roland Gordon",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/gordon.php",
+    "supports": "four members, 'pink elephant', basketball ministry, photo collage, 1992 mural, epithets"
+   },
+   {
+    "title": "Our History",
+    "publisher": "Ingleside Presbyterian Church",
+    "year": null,
+    "url": "https://www.inglesidepresbyterian.org/our-history",
+    "supports": "down to 4 members by 1978; Ingleside Community Center founded September 1986"
+   },
+   {
+    "title": "Great Cloud of Witnesses",
+    "publisher": "Ingleside Presbyterian Church",
+    "year": null,
+    "url": "https://www.inglesidepresbyterian.org/great-cloud-of-witnesses",
+    "supports": "name and extent of the collage"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-ocean-avenue-palms",
+  "title": "Palm Trees for a Tired Avenue",
+  "theme": "modern-city",
+  "year": 2003,
+  "yearEnd": 2005,
+  "place": {
+   "label": "Ocean Avenue at Jules Avenue",
+   "lat": 37.72499,
+   "lon": -122.46019,
+   "precision": "street"
+  },
+  "hook": "Within a month of Dan Weaver moving to the Ingleside in 1978, Ocean Avenue lost its only grocery and its movie palace. He spent years helping bring it back.",
+  "story": "When Dan Weaver moved to Jules Street in 1978, Ocean Avenue's only grocery store and the El Rey Theatre closed within a month. The street, he said, \"looked like a place that was coming undone\" [1]. It had been a busy local shopping street: the 1956 merchants' directory listed seven groceries and bakeries, four drug stores, six beauty parlours and barbers, twelve dry-goods shops and thirteen service businesses [2]. Weaver helped found the Ocean Avenue Renaissance Committee. It linked the \"front-lawn neighborhoods\" north of Ocean with the grid streets of the Ingleside. \"We [had] a dozen trees in a mile,\" he said. \"We needed at least a hundred more\" [1]. The roadway and streetcar tracks were being rebuilt, and in the late 1990s government money was available. The plan brought better pedestrian access, blue-tinted streetlights and palm trees, which were in the ground by May 2003 [1]. There were neighbourhood battles over details, but everyone agreed something was needed [1]. In April 2005 history panels went up in 29 Ocean Avenue storefronts, from a donut shop to a hobby store, for a month-long OMI History Walk [3].",
+  "people": [
+   {
+    "name": "Dan Weaver",
+    "role": "Ocean Avenue Renaissance Committee organiser"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Dan Weaver (I am OMI)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/weaver.php",
+    "supports": "1978 closures, Renaissance Committee, trees quote, late-1990s funding, palms and streetlights"
+   },
+   {
+    "title": "Ocean View, Merced Heights and Ingleside (OMI) Historic Context Statement",
+    "publisher": "Western Neighborhoods Project for the City of San Francisco",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "1956 Ocean Avenue Merchants Directory breakdown"
+   },
+   {
+    "title": "OMI History Walk",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2005,
+    "url": "https://www.outsidelands.org/omi-history-walk.php",
+    "supports": "29 storefront markers, April 2005"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-lakeview-mob-music",
+  "title": "Lakeview's Hardcore Rap Pioneers",
+  "theme": "arts-counterculture",
+  "year": 1989,
+  "yearEnd": 2001,
+  "place": {
+   "label": "Randolph Street, Ocean View (\"Lakeview\")",
+   "lat": 37.71442,
+   "lon": -122.46733,
+   "precision": "area"
+  },
+  "hook": "A young Lakeview rapper sold 1,000 tapes in a year and decided it beat \"selling any kind of crack, ever.\"",
+  "story": "In the late 1980s and 1990s Ocean View, known to many locals as \"Lakeview\", produced some of San Francisco's earliest hardcore rap. I.M.P., the Ill Mannered Posse, began in 1989 when DJ-producers Rob V and Stingy formed a group and brought in Rob V's cousin, the gravel-voiced rapper Cougnut [1]. Their 1989 track \"Scandlous\" is counted among the city's earliest rap hits. Their album Back in the Days came out in 1993 on Oakland's In-A-Minute Records, with cameos from local rappers including Cellski [1]. Cellski was visiting producer Al Eaton's studio in 1987 and 1988, when he was 13 [2]. In 1992 he sold 1,000 tapes and made $6,000: \"this is better than selling any kind of crack, ever\" [2]. He spoke frankly about how the drug trade cost families their homes, and how his once all-Black neighbourhood became mostly Asian [2]. Cougnut died in a car crash in 2001 [1]. Cellski kept going. In 2022 he launched Big Mafi Burger from his grandmother's recipe, with a sauce he learned at Beep's, \"in Lakeview, where I grew up\" [3].",
+  "people": [
+   {
+    "name": "Cougnut (Ronald Fields)",
+    "role": "rapper, I.M.P."
+   },
+   {
+    "name": "Cellski (Marcel Wade)",
+    "role": "rapper and producer"
+   },
+   {
+    "name": "Rob V",
+    "role": "DJ/producer, I.M.P. co-founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Saluting Old School San Francisco Rap Group I.M.P.'s Back in the Days",
+    "publisher": "Amoeba Music (Amoeblog)",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20100624233011/http://www.amoeba.com/blog/2010/06/jamoeblog/saluting-old-school-san-francisco-rap-group-i-m-p-s-back-in-the-days.html",
+    "supports": "Lakeview crew, 1989 founding, 'Scandlous', 1993 album, Cellski cameo, Cougnut's death"
+   },
+   {
+    "title": "Growing Up in the Bay: A Conversation with Cellski",
+    "publisher": "Thizzler",
+    "year": 2012,
+    "url": "https://web.archive.org/web/20150611094436/http://www.thizzler.com/blog/2012/6/1/growing-up-in-the-bay-a-conversation-with-cellski.html",
+    "supports": "Al Eaton's studio at 13, 1,000 tapes in 1992, neighbourhood change"
+   },
+   {
+    "title": "Cellski's Big Mafi Burgers Come With a Side of SF Rap History",
+    "publisher": "KQED",
+    "year": 2022,
+    "url": "https://www.kqed.org/arts/13922141/cellskis-big-mafi-burgers-come-with-a-side-of-sf-rap-history",
+    "supports": "2022 burger launch, grandmother's recipe, Beep's in Lakeview"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-minnie-lovie-ward",
+  "title": "Minnie and Lovie Ward Take Back the Park",
+  "theme": "civil-rights",
+  "year": 1990,
+  "yearEnd": 2005,
+  "place": {
+   "label": "Minnie & Lovie Ward Recreation Center, Ocean View Park",
+   "lat": 37.7159,
+   "lon": -122.458,
+   "precision": "area"
+  },
+  "hook": "Drug dealers riddled their house with bullets. The nurse and the linen-plant engineer living across from Sheridan School answered by holding meetings in the dealers' park.",
+  "story": "Minnie Ward was born in Louisiana in 1935 and came to San Francisco with her parents during World War II. She became a registered nurse at the University of California hospital, and married Lovie Ward, a stationary engineer at Galland Linen, when she was 17 [1][2]. They raised their family in a modest house across the street from Sheridan Elementary. In the 1980s and '90s there was gunfire around Broad and Randolph streets every night, and one year there were 12 homicides near a single Ocean View intersection [1]. The Wards co-founded OMI Neighbors in Action and led the effort to take back Ocean View Park from dealers [2][3]. In retaliation gunmen shot up their house, at least ten times by one count. Accounts disagree on the year, giving 1990 or 1991 [1][2]. Lovie said he was \"more determined than ever to fight on\" [2]. The couple fought for a rebuilt Sheridan School and a new library, and helped bring in a dedicated police patrol [2]. Lovie died in 2003, months before the park's recreation centre was renamed for the couple. Minnie died in December 2005. Ground had been broken for a new centre that September, but she was too frail to attend [1][2].",
+  "people": [
+   {
+    "name": "Minnie Ward",
+    "role": "registered nurse, community activist"
+   },
+   {
+    "name": "Lovie Lee Ward",
+    "role": "stationary engineer, community activist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Minnie Ward -- helped clean up Ocean View area",
+    "publisher": "San Francisco Chronicle (SFGATE)",
+    "year": 2005,
+    "url": "https://www.sfgate.com/bayarea/article/Minnie-Ward-helped-clean-up-Ocean-View-area-2589691.php",
+    "supports": "biography, 12 homicides, 1991 shooting, groundbreaking"
+   },
+   {
+    "title": "Celebrating the Life of Lovie Lee Ward",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2004,
+    "url": "https://www.outsidelands.org/ward-lovie.php",
+    "supports": "Galland Linen, Neighbors In Action, 1990 shooting, 'more determined' quote, Sheridan, library, TNT patrol, renaming"
+   },
+   {
+    "title": "Minnie Ward",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/ward-minnie.php",
+    "supports": "taking back Ocean View Rec Center, house shot up"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-brooks-park-crazy-viking",
+  "title": "The Crazy Viking of Brooks Park",
+  "theme": "modern-city",
+  "year": 1986,
+  "yearEnd": 1994,
+  "place": {
+   "label": "Brooks Park entrance, Shields & Ramsell Streets",
+   "lat": 37.718,
+   "lon": -122.4661,
+   "precision": "block"
+  },
+  "hook": "Pit bull fights, dumped bodies and bullets in his garage: in 1986 Peter Vaernet moved in next to Brooks Park anyway, and decided to fight for it.",
+  "story": "After the city bought the Brooks hilltop, the old house became a target. Vandals burned it, and after two more fires the city bulldozed what was left [1]. Mayor Moscone dedicated \"Brooks Park\" on May 20, 1978. Just a month earlier vandals had smashed the new picnic tables, so organiser Lonnie Lawson rebuilt them, helped by the three youths a judge had sentenced to the work [1]. The 1980s brought crack cocaine. At least two bodies were dumped on the hill, and by the early 1990s neighbours were finding the carcasses of dogs from night-time pit bull fights [1]. In 1986 Peter Vaernet moved to Shields Street, against estate agents' advice [2]. He watched drug deals from his window and had bullets fired into his garage. \"I'm crazy, I guess. I'm a Viking,\" he said. \"Vikings love battles\" [1]. With Minnie Ward he joined Neighbors in Action [1][2]. The Friends of Brooks Park, formed in 1987, cleared glass, needles and graffiti. They also recorded dog fighters' licence plates for Animal Care & Control [3]. A $1.3 million open-space grant, approved in 1994, enlarged the park to about six and a half acres [3].",
+  "people": [
+   {
+    "name": "Peter Vaernet",
+    "role": "Friends of Brooks Park founder"
+   },
+   {
+    "name": "Lonnie Lawson",
+    "role": "OMI Community Association organiser"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Brooks Park",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/sw23.php",
+    "supports": "fires, 1978 dedication, Lawson, crack era, pit bulls, Vaernet quotes"
+   },
+   {
+    "title": "Peter Vaernet (I am OMI)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/vaernet.php",
+    "supports": "1986 move against realtors' advice, Neighbors In Action"
+   },
+   {
+    "title": "Brooks Park",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Brooks_Park",
+    "supports": "Friends of Brooks Park 1987, clean-up tactics, $1.3m grant approved 1994, six and a half acres"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-ocean-view-library",
+  "title": "A Real Library for Ocean View",
+  "theme": "communities",
+  "year": 2000,
+  "yearEnd": null,
+  "place": {
+   "label": "Ocean View Branch Library, 345 Randolph Street",
+   "lat": 37.71413,
+   "lon": -122.46596,
+   "precision": "building"
+  },
+  "hook": "For years Ocean View's library was one room with a glass storefront and a toilet too small for a child. In 2000 the neighbourhood finally got a real one.",
+  "story": "Ocean View's was the 15th branch of the San Francisco Public Library. The first opened in 1903 on Broad Street near Capitol Avenue [1]. Dorothy Coakley remembered the later one-room branch at Broad and Plymouth. It had a glass storefront, a kitchen that doubled as reference room and community copy centre, and \"a bathroom so small that even a single child had trouble fitting into it\" [2]. Classes from Sheridan and Jose Ortega elementary schools, 30 children and a teacher at a time, packed in several times a week for stories, sharing the room with seniors, teenagers and merchants. Bassim Al-Abood of Fountains's Pizza was a favourite: he could fold paper animals and hand out pizza samples [2]. The branch held its last New Year's party just before 2000 [2]. Neighbourhood leaders including Lovie and Minnie Ward had fought for a new library [3]. The two-storey branch at 345 Randolph Street, designed by the city's Bureau of Architecture, opened on June 7, 2000. It cost $2.5 million, and private funds paid for its furniture and equipment. It was the first new branch building in San Francisco since 1969 [1].",
+  "people": [
+   {
+    "name": "Dorothy Coakley",
+    "role": "remembered the old branch"
+   },
+   {
+    "name": "Bassim Al-Abood",
+    "role": "Fountains's Pizza owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ocean View Library History",
+    "publisher": "San Francisco Public Library",
+    "year": null,
+    "url": "https://sfpl.org/locations/ocean-view/ocean-view-library-history",
+    "supports": "15th branch, 1903 first site, June 7, 2000 opening, $2.5m, first since 1969"
+   },
+   {
+    "title": "I am OMI: People",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/omi-people.php",
+    "supports": "Dorothy Coakley's memories of the one-room branch"
+   },
+   {
+    "title": "Celebrating the Life of Lovie Lee Ward",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2004,
+    "url": "https://www.outsidelands.org/ward-lovie.php",
+    "supports": "the Wards' role in the new library"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-oceanview-village",
+  "title": "Ocean View Park's Promise, Ninety Years Late",
+  "theme": "modern-city",
+  "year": 2002,
+  "yearEnd": 2021,
+  "place": {
+   "label": "OceanView Village, 3995 Alemany Boulevard",
+   "lat": 37.71043,
+   "lon": -122.46764,
+   "precision": "building"
+  },
+  "hook": "A 1910s brochure hailed \"The Gem of Subdivisions\" and promised business lots. The shops finally came in 2002, and a Korean supermarket in 2021.",
+  "story": "In the 1910s J.W. Wright & Co. sold lots in \"Ocean View Park\", which it called \"The Gem of Subdivisions in San Francisco.\" The brochure tied the venture, somewhat mysteriously, to the 1915 Panama-Pacific Exposition, and promised that \"Business streets will also develop here\" [1]. They didn't. The Ocean Shore Railway cut across the plat on two diagonals, and later Brotherhood Way split it with a gully. Apart from four or five homes from the brochure's era, including two cottages on Belle Avenue near the city line, the tract was built up in the 1930s, without so much as a corner grocery [1]. By early 2002, a new housing and shopping complex, OceanView Village, was rising in the niche between Highway 280, Highway 1, the Daly City BART station and Alemany Boulevard. It promised apartments, a Rite Aid and an Albertsons [1]. In April 2021 the Korean grocery chain H Mart opened its first San Francisco store there, at 3995 Alemany Boulevard. By 2022 it had leased a neighbouring former 24 Hour Fitness to expand its food court [2].",
+  "people": [
+   {
+    "name": "J.W. Wright & Co.",
+    "role": "selling agents for Ocean View Park"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Ocean View Redux",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/sw14.php",
+    "supports": "Ocean View Park brochure, quotes, Belle Avenue cottages, 1930s build-out, OceanView Village construction"
+   },
+   {
+    "title": "SF's First and Only H Mart Aims to Add More Dining Options With Food Court Expansion",
+    "publisher": "Eater SF",
+    "year": 2022,
+    "url": "https://sf.eater.com/2022/7/14/23217672/san-francisco-h-mart-aims-expansion-food-court",
+    "supports": "April 2021 opening at 3995 Alemany, expansion lease"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-niantic-shacks",
+  "title": "Two Refugee Shacks Hiding Upstairs",
+  "theme": "quake1906",
+  "year": 2003,
+  "yearEnd": null,
+  "place": {
+   "label": "30 Niantic Avenue",
+   "lat": 37.70947,
+   "lon": -122.46831,
+   "precision": "building"
+  },
+  "hook": "Looking for a garden shed, two historians looked up and gasped. The whole second storey of a Niantic Street house was made of 1906 earthquake shacks.",
+  "story": "Cottages from the 1906 earthquake refugee camps were later moved into the OMI and reused as homes. The neighbourhood's historic context statement lists joined refugee \"shacks\" as a local building type and notes one at 223 Broad Street, moved from a camp after 1907 [2]. On March 23, 2003, shack expert Jane Cryan and Woody LaBounty of the Western Neighborhoods Project followed a tip from San Francisco Heritage that a shack at 30 Niantic had been turned into a garden shed [1]. Niantic is a tiny dead-end street trapped between Alemany Boulevard and the 280 freeway. There was no shed. Instead a workman on a ladder was hammering at the house's second storey, which turned out to be two \"Type A\" shacks joined end to end. Original park-green paint still showed where they met. Cryan hugged the owners, Tom and Maureen Ginella [1]. Instead of demolishing the shacks, the Ginellas had set them on a new foundation as their upper floor and were adding a modern level underneath. Upstairs, early walls, floorboards and cove ceilings survived. Cryan amended the city's list of surviving shacks, bringing it to 21 [1].",
+  "people": [
+   {
+    "name": "Jane Cryan",
+    "role": "earthquake shack historian"
+   },
+   {
+    "name": "Tom and Maureen Ginella",
+    "role": "homeowners"
+   },
+   {
+    "name": "Woody LaBounty",
+    "role": "Western Neighborhoods Project"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Niantic Street Shacks",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/niantic-shacks.php",
+    "supports": "the March 2003 discovery, details of the shacks, list raised to 21"
+   },
+   {
+    "title": "Ocean View, Merced Heights and Ingleside (OMI) Historic Context Statement",
+    "publisher": "Western Neighborhoods Project for the City of San Francisco",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "refugee shacks as an OMI building type; shack at 223 Broad Street moved after 1907"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-i-am-omi",
+  "title": "I Am OMI: A Neighbourhood Tells Its Story",
+  "theme": "arts-counterculture",
+  "year": 2004,
+  "yearEnd": 2005,
+  "place": {
+   "label": "Ocean View Recreation Center, Lobos Street & Capitol Avenue",
+   "lat": 37.71505,
+   "lon": -122.45935,
+   "precision": "block"
+  },
+  "hook": "Teen filmmakers, a stage play, a radio drama and history panels in shop windows: between 2003 and 2005 the OMI collected its memories and gave them back.",
+  "story": "The name OMI is fairly new. In the 1960s residents of Ingleside Terraces made common cause with the neighbourhoods to the east and south to lobby for better services and parks, and \"OMI\", for Ocean View-Merced Heights-Ingleside, came into use [1]. From 2003 to 2005 the Western Neighborhoods Project ran \"I am OMI\", using history and shared stories to bridge ethnic, cultural and generational lines and help \"an often-divided neighborhood find a unified voice\" [2]. In summer 2003, twelve young people in a month-long digital video camp interviewed neighbours and filmed \"then and now\" shots of landmarks. About 50 people came to their screening on August 1, and each filmmaker was paid $50 [3]. The project set up tables of old photos and free history booklets at the OMI International Family Festival at the Ocean View Recreation Center, Lobos and Capitol [4]. On June 12, 2004, Arts Connection premiered an original play based on neighbourhood stories at City College's Diego Rivera Theatre [4]. In April 2005 history panels filled storefront windows along Ocean Avenue, and in June a radio drama built from the interviews aired on KPFA [2][4].",
+  "people": [
+   {
+    "name": "Amanda Herman",
+    "role": "video camp instructor"
+   },
+   {
+    "name": "Maria Picar",
+    "role": "Arts Connection director, producer of the play"
+   }
+  ],
+  "sources": [
+   {
+    "title": "OMI",
+    "publisher": "Western Neighborhoods Project",
+    "year": null,
+    "url": "https://www.outsidelands.org/omi.php",
+    "supports": "origin of the OMI name in the 1960s"
+   },
+   {
+    "title": "I am OMI project",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2005,
+    "url": "https://www.outsidelands.org/omi-project.php",
+    "supports": "project aims and dates, KPFA radio drama, History Walk"
+   },
+   {
+    "title": "I am OMI Digital Video Camp",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/omi-youth-summ-2003.php",
+    "supports": "12 kids, August 1, 2003 screening, $50 each"
+   },
+   {
+    "title": "I am OMI: Events",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2005,
+    "url": "https://www.outsidelands.org/omi-events.php",
+    "supports": "festival at Ocean View Rec Center, June 12, 2004 play, 2005 walk and radio drama"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-broad-street-turnaround",
+  "title": "Broad Street Becomes a Regular Neighbourhood",
+  "theme": "modern-city",
+  "year": 2005,
+  "yearEnd": null,
+  "place": {
+   "label": "OMI Community Service Center, 103 Broad Street",
+   "lat": 37.71301,
+   "lon": -122.45624,
+   "precision": "building"
+  },
+  "hook": "Streetcars once wouldn't stop at Broad and Randolph. By 2005 the biggest complaint was sidewalk parking, and an old fish market had become a one-stop city hall.",
+  "story": "The Broad-Randolph corridor, Ocean View's main street between San Jose Avenue and Junipero Serra Boulevard, was once so dominated by gangs and drug dealers that streetcars wouldn't stop there [1]. Police sergeant Michael Williams described \"cycle murders\": young men who had grown up together, some of whom had coached sports together, killing each other over drugs [1]. From 1996 the Taraval Neighborhood Team of eight officers and a sergeant patrolled the strip around the clock. They made more than 4,000 arrests by 2003, and also took local kids salmon fishing and camping at Camp Mather [1]. There were 12 shootings in 2004 and three in the first months of 2005 [1]. That spring the OMI Community Service Center reopened in a former fish market at 103 Broad Street, near the notorious Broad and Plymouth corner. It housed police, public works, parking, city attorney and probation staff [1]. Not everyone was comfortable: community centre director Nyree Monroe warned against harassing innocent people [1]. Old businesses had helped hold the street together, among them Furlough's Tonsorial Parlor (1955) and Reno's Barber Shop [2]. Bill Reno, the \"mayor of Broad Street\", found teenagers jobs and lent his back room as a community centre. The Chronicle dates his shop to 1967, a local history to 1960 [1][2].",
+  "people": [
+   {
+    "name": "Bill Reno",
+    "role": "barber, 'mayor of Broad Street'"
+   },
+   {
+    "name": "Sgt. Michael Williams",
+    "role": "organiser, Taraval Neighborhood Team"
+   },
+   {
+    "name": "Nyree Monroe",
+    "role": "director, I.T. Bookman Community Center"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ocean View: Neighborhood reclaims its mean streets",
+    "publisher": "San Francisco Chronicle (SFGATE)",
+    "year": 2005,
+    "url": "https://www.sfgate.com/crime/article/OCEAN-VIEW-Neighborhood-reclaims-its-mean-2633774.php",
+    "supports": "corridor history, TNT patrols and arrests, shooting counts, service center at 103 Broad, Monroe, Bill Reno"
+   },
+   {
+    "title": "Ocean View (I am OMI)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/ocean-view.php",
+    "supports": "Reno's Barber Shop (1960) and Furlough's Tonsorial Parlor (1955)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-ingleside-library",
+  "title": "The Ingleside Library Finally Gets a Home",
+  "theme": "architecture-landmarks",
+  "year": 2009,
+  "yearEnd": null,
+  "place": {
+   "label": "Ingleside Branch Library, 1298 Ocean Avenue",
+   "lat": 37.72405,
+   "lon": -122.45628,
+   "precision": "building"
+  },
+  "hook": "For 76 years the Ingleside branch made do in a rented storefront, for a long time the second-smallest in the city. In 2009 it got a building of its own.",
+  "story": "The Women's Club of Ingleside asked for a branch library building about eight years before it opened, but the money, Carnegie grant included, had run out [2]. So the Ingleside branch, the city's 11th, opened in 1925 in a storefront leased for $40 a month [1][2]. That storefront, on side-street Ashton Avenue, had just 1,237 square feet, and for many years it was the second-smallest branch in San Francisco. Its floor plan was designed for retail, which made children's storytimes almost impossible. Yet it was one of the busiest branches in the 26-branch system [2]. On May 30, 2001, the library moved into a leased former Bank of America building at 1649 Ocean Avenue, near Faxon. Almost four times larger, it had full disability access, computers and internet access, and a place on the main street [1][2]. Neighbours wanted more. In 2003, community leader Al Harris said he was \"really pleased that we're getting a brand-new library on Ocean Avenue\" [3]. The long-awaited new branch building opened in 2009 at 1298 Ocean Avenue, at Plymouth [1].",
+  "people": [
+   {
+    "name": "Al Harris",
+    "role": "OMI community leader"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ingleside Library History",
+    "publisher": "San Francisco Public Library",
+    "year": null,
+    "url": "https://sfpl.org/locations/ingleside/ingleside-library-history",
+    "supports": "11th branch, 1925 opening, May 30, 2001 move to 1649 Ocean, 2009 building at 1298 Ocean"
+   },
+   {
+    "title": "Ingleside Library",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2001,
+    "url": "https://www.outsidelands.org/ingleside_library.php",
+    "supports": "Women's Club request, $40 storefront, 387 Ashton, 1,237 sq ft, busiest branch, new site four times larger"
+   },
+   {
+    "title": "Al Harris (I am OMI)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/harris.php",
+    "supports": "Harris quote on the new library"
+   }
+  ],
+  "photo": null
+ }
+]

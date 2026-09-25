@@ -1,0 +1,760 @@
+[
+ {
+  "id": "mclaren-park-valley-of-the-visitation",
+  "title": "A valley named on a feast day",
+  "theme": "indigenous-early",
+  "year": 1777,
+  "yearEnd": 1840,
+  "place": {
+   "label": "South slope of McLaren Park, above Visitacion Valley (Philosopher's Way origins marker)",
+   "lat": 37.7148,
+   "lon": -122.4175,
+   "precision": "area"
+  },
+  "hook": "The valley below McLaren Park's southern slopes has an exact birthday, a sacred rock in a backyard, and a spelling locals will defend to the end.",
+  "story": "Look south from McLaren Park's southern slopes and you see a valley whose name has an exact birthday. Before the Spanish came, this sheltered valley by the bay was home to two Yelamu villages, Amuctac and Tubsinte [1]. On July 2, 1777, friars and soldiers heading for the new Presidio stopped here. It was the Catholic feast of the Visitation, so they named the valley for it, and it is still Visitacion with a 'c' [1]. Tradition says they held mass on a chert outcrop. That rock now sits fenced inside a backyard on Delta Street [1]. The Spanish used the valley to graze Mission Dolores cattle. Later the hills that became the park were part of the Mexican land grant Rancho Cañada de Guadalupe la Visitación y Rodeo Viejo. The sources disagree on when. The city's 1983 park master plan says Governor Alvarado made the grant in 1840, while SF Heritage says the valley went to American trader Jacob Leese in the 1830s [1][2]. Today a stone 'musing station' on Philosopher's Way, overlooking the old Brisbane Lagoon, tells walkers this origin story [3].",
+  "people": [
+   {
+    "name": "Jacob Leese",
+    "role": "American trader granted the rancho"
+   },
+   {
+    "name": "Juan Bautista Alvarado",
+    "role": "Mexican governor of California"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Visitacion Valley (Woody LaBounty)",
+    "publisher": "SF Heritage",
+    "year": 2021,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+    "supports": "Yelamu settlements Amuctac and Tubsinte; July 2, 1777 naming; chert rock on Delta Street; Mission Dolores grazing; Leese grant in 1830s"
+   },
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "Rancho granted by Governor Alvarado in 1840"
+   },
+   {
+    "title": "Philosopher's Way at McLaren Park",
+    "publisher": "FoundSF",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Philosopher%27s_Way_at_McLaren_Park",
+    "supports": "Philosopher's Way plaque on Visitacion Valley origins overlooking former Brisbane Lagoon"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-burnham-university-mound-park",
+  "title": "Burnham's park that came first on paper",
+  "theme": "architecture-landmarks",
+  "year": 1905,
+  "yearEnd": null,
+  "place": {
+   "label": "Northern ridge of McLaren Park (Burnham's proposed University Mound Park)",
+   "lat": 37.7215,
+   "lon": -122.423,
+   "precision": "area"
+  },
+  "hook": "Twenty years before anyone said 'McLaren Park', the architect of Chicago's World's Fair had already drawn a park on these hills.",
+  "story": "Twenty years before McLaren Park existed, the Chicago architect Daniel Burnham more or less drew it. His 1905 Report on a Plan for San Francisco looked at the 'low range of hills' between Islais Creek and Visitacion Valley. It called them 'comparatively unbuilt upon' and said the steep slopes should be planted and terraced. It also set aside the eastern half of 'the University Mound and Excelsior Homesteads Hill' for a park [1]. Burnham named it University Mound Park and listed it at 218 acres. He pictured 'luxuriant vegetation', with the nearby reservoir 'used in vista as a mirror for the park' [1]. After the 1906 fire, the plan's supporters thought nothing stood in the way. Instead, newspapers mocked it as 'the cobweb plan', property owners threatened to sue, and it fell apart in City Hall politics [2]. The idea survived anyway. The city's 1983 master plan for McLaren Park traces the park's story back to Burnham, noting that his proposed hilltop parks sat roughly where McLaren and Bayview parks are today [3].",
+  "people": [
+   {
+    "name": "Daniel H. Burnham",
+    "role": "architect and city planner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Report on a Plan for San Francisco (Daniel H. Burnham)",
+    "publisher": "Association for the Improvement and Adornment of San Francisco (via Internet Archive)",
+    "year": 1905,
+    "url": "https://archive.org/details/reportonaplanfo00frangoog",
+    "supports": "Hills south of Islais Creek; eastern half of University Mound and Excelsior Homesteads Hill reserved for park; University Mound Park, 218 acres, luxuriant vegetation, reservoir as mirror"
+   },
+   {
+    "title": "The Great Quake: 1906-2006 / Grand S.F. plans",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2006,
+    "url": "https://www.sfgate.com/bayarea/place/article/The-Great-Quake-1906-2006-Grand-S-F-plans-2537355.php",
+    "supports": "Post-1906 collapse of the Burnham plan: 'cobweb plan', litigation threats, politics"
+   },
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "1983 plan credits Burnham's 1905 proposal as origin of McLaren and Bayview parks"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-mission-park-horse-teams",
+  "title": "Horse teams plant a park called Mission",
+  "theme": "parks-nature",
+  "year": 1926,
+  "yearEnd": 1928,
+  "place": {
+   "label": "Near Mansell Street and Visitacion Avenue, site of a 1927 tree-planting photograph",
+   "lat": 37.7178,
+   "lon": -122.4118,
+   "precision": "area"
+  },
+  "hook": "It began as 'Mission Park', with dreams of a zoo and an 18-hole golf course. Then the voters said no.",
+  "story": "In October 1926 the city approved a resolution to take land by eminent domain for a park south of Silver Avenue and east of La Grande Avenue. It was to cover 550 acres and be called Mission Park [1]. Within weeks the supervisors renamed it after John McLaren, the Golden Gate Park superintendent [1]. Its supporters imagined an 18-hole golf course, bridle trails, playing fields and possibly the city zoo, moved here [2]. A photograph dated February 1, 1927 shows the bare ridge near today's Mansell Street and Visitacion Avenue, with workers and horse teams that seem to be planting trees [3]. McLaren dedicated the park in 1927 and Boy Scouts planted trees [4]. But in November 1928 voters turned down a $2 million bond to buy and develop the land [1]. According to one park group, the campaign slogan was 'Our People Need This Breathing Space' and the measure failed by a few hundred votes [4]. After that the city bought land one lot at a time. It took until 1958 to finish [2].",
+  "people": [
+   {
+    "name": "John McLaren",
+    "role": "Superintendent of Golden Gate Park, the park's namesake"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Master Plan of San Francisco: John McLaren Park, A Report to the Board of Supervisors",
+    "publisher": "San Francisco City Planning Commission (via Internet Archive)",
+    "year": 1944,
+    "url": "https://archive.org/details/johnmclarenparkr1719sanf",
+    "supports": "1926 Mission Park resolution, 550 acres, boundaries; renaming for McLaren; 1928 $2,000,000 bond defeated"
+   },
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "18-hole golf course, equestrian trails, zoo relocation considered; acquisition completed 1958"
+   },
+   {
+    "title": "McLaren Park, Feb 1, 1927 (wnp14.0069)",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2015,
+    "url": "https://opensfhistory.org/Display/wnp14.0069.jpg",
+    "supports": "Feb 1, 1927 photo near Mansell and Visitacion with horse teams, apparently planting trees"
+   },
+   {
+    "title": "History of McLaren Park",
+    "publisher": "Save McLaren Park (archived)",
+    "year": 2021,
+    "url": "http://web.archive.org/web/2021/http://savemclarenpark.org/SMP4_history.html",
+    "supports": "1927 dedication by McLaren; Boy Scouts planted trees; 'Our People Need This Breathing Space'; failed by a few hundred votes"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-wpa-view-drive",
+  "title": "Relief crews and ten thousand trees",
+  "theme": "labor-industry",
+  "year": 1939,
+  "yearEnd": null,
+  "place": {
+   "label": "Brazil Avenue entrance, start of the WPA view drive",
+   "lat": 37.7205,
+   "lon": -122.424,
+   "precision": "area"
+  },
+  "hook": "In the Depression, federal relief workers carved roads, bridle trails and a scenic drive into bare hills, and planted a forest.",
+  "story": "The Depression finally brought workers to McLaren Park's empty hills. Money and labour from the Works Progress Administration built a scenic 'view drive' in the 1930s. It started at Brazil Avenue and ended just east of the twin water tanks off today's Mansell Street. The WPA also built equestrian trails on the south slopes [1]. The McLaren Park Collaborative's timeline says that by 1939 WPA workers had finished a long network of footpaths, hiking, fire and bridle trails, plus culverts, roads and the view drive. They had also planted more than 10,000 eucalyptus, cypress and pine trees [2]. For a while the park had a stable and riders on its trails. That didn't last. By 1983 the city's planners noted that horseback riding was no longer allowed, because without separate trails nobody could keep horses out of areas the public used [1]. The park's plant life has changed since. In 2004 a park worker told the Chronicle that invasive plants like eucalyptus, pampas grass, fennel and French broom worried him far more than human intruders [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "WPA view drive from Brazil Avenue to near twin water tanks; equestrian trails on south slopes; stable phased out; riding banned for lack of separate trails"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2019,
+    "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "1939 WPA completion of trails, culverts, roadways, view drive; over 10,000 eucalyptus, cypress and pine planted"
+   },
+   {
+    "title": "MCLAREN PARK / Disrepute despite the view",
+    "publisher": "San Francisco Chronicle / SFGATE (Patricia Yollin)",
+    "year": 2004,
+    "url": "https://www.sfgate.com/bayarea/article/MCLAREN-PARK-Disrepute-despite-the-view-2757051.php",
+    "supports": "Park worker Jon Campo on eucalyptus, pampas grass, fennel, French broom"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-1944-boundary-battle",
+  "title": "Eighteen years of fighting over the map",
+  "theme": "parks-nature",
+  "year": 1944,
+  "yearEnd": 1946,
+  "place": {
+   "label": "Eastern hilltop of the main ridge, toward Bowdoin and Ervine streets",
+   "lat": 37.7196,
+   "lon": -122.4085,
+   "precision": "area"
+  },
+  "hook": "Convents, reservoirs and a housing project nibbled the park away. In 1944 city planners invoked Central Park to stop the shrinking.",
+  "story": "By November 1944 the city had spent about $720,000 to buy 222 acres. The argument over how big McLaren Park should be had been going on 'almost continuously for the past eighteen years' [1]. Land inside the original 550-acre outline had already gone to other uses: the Good Shepherd convent and school, the Lick Home, two city reservoirs, Crocker Amazon Playground and the Sunnydale public housing project [1]. That year the supervisors proposed shrinking the park to about 271 acres. The Planning Commission argued for 413. Builders avoided slopes this steep anyway, it said [1]. Its report made a grand comparison, claiming that in 1905 there had been a plan to split New York's Central Park into building lots until the public protested. It recommended native plants, with the East Bay's Tilden Park as a model, and said the sunny southeast could attract tourists [1]. It also asked for the eastern ridge to reach Bowdoin and Ervine streets, so houses would not block 'some of the best views of the city and the Bay' [1]. In 1946 the supervisors settled on 318 acres [2].",
+  "people": [
+   {
+    "name": "Gardner A. Dailey",
+    "role": "President, City Planning Commission"
+   },
+   {
+    "name": "L. Deming Tilton",
+    "role": "Director of Planning"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Master Plan of San Francisco: John McLaren Park, A Report to the Board of Supervisors",
+    "publisher": "San Francisco City Planning Commission (via Internet Archive)",
+    "year": 1944,
+    "url": "https://archive.org/details/johnmclarenparkr1719sanf",
+    "supports": "222 acres for $720,000; eighteen years of argument; land lost to convent, Lick Home, reservoirs, Sunnydale, Crocker Amazon; 271 vs 413 acres; Central Park comparison; Tilden Park; Bowdoin/Ervine viewpoint"
+   },
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "318-acre boundary set in 1946"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-mansell-freeway-to-nowhere",
+  "title": "The freeway that became a bike path",
+  "theme": "modern-city",
+  "year": 1963,
+  "yearEnd": 2017,
+  "place": {
+   "label": "Mansell Street through McLaren Park",
+   "lat": 37.7195,
+   "lon": -122.4215,
+   "precision": "street"
+  },
+  "hook": "Ever wondered why Mansell Street is so absurdly wide? It was meant to be a crosstown parkway that never came.",
+  "story": "Mansell Street is suspiciously wide. In 1951 a redevelopment study proposed a seven-and-a-half-mile 'John McLaren Parkway' from Lake Merced to Bayview Park, running along Mansell [1]. Only one section was built, a four-lane divided road through the park from Brazil Avenue east toward San Bruno Avenue. It was finished in 1963 [1][2]. Then Interstate 280 was built and the crosstown route was dropped. The 1983 master plan bluntly called the leftover road 'an unneeded anachronism' [1]. For decades it cut the park in half. The Chronicle noted in 2004 that most San Franciscans knew the park mainly as a shortcut to Candlestick Park, and a visiting class spotted fresh skid marks from drivers using Mansell as a speedway [3]. In 2013 the Recreation and Park Commission approved a plan to close one side of the median to cars and give it to people walking and cycling. The other side would carry one lane of traffic each way, including Muni's 29-Sunset [4]. The rebuilt road reopened in February 2017 [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "1951 John McLaren Parkway proposal; segment Brazil to San Bruno built; I-280 made it unnecessary; 'unneeded anachronism'"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2019,
+    "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "Mansell constructed 1963; corridor reopened as pedestrian/bike-friendly February 2017"
+   },
+   {
+    "title": "MCLAREN PARK / Disrepute despite the view",
+    "publisher": "San Francisco Chronicle / SFGATE (Patricia Yollin)",
+    "year": 2004,
+    "url": "https://www.sfgate.com/bayarea/article/MCLAREN-PARK-Disrepute-despite-the-view-2757051.php",
+    "supports": "Park known as a shortcut to Candlestick; Mansell used as a speedway, skid marks"
+   },
+   {
+    "title": "Separated Bike-Ped Path Coming to Mansell Street in McLaren Park by 2016",
+    "publisher": "Streetsblog San Francisco",
+    "year": 2013,
+    "url": "https://sf.streetsblog.org/2013/04/23/separated-bike-ped-path-coming-to-mansell-street-in-mclaren-park-by-2016/",
+    "supports": "2013 plan: car-free side of median, one lane each way incl. 29-Sunset"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-mcnab-lake-model-yachts",
+  "title": "A model-yacht pond that wanted to be marsh",
+  "theme": "parks-nature",
+  "year": 1964,
+  "yearEnd": null,
+  "place": {
+   "label": "McNab Lake, beside Louis Sutter Playground",
+   "lat": 37.72199,
+   "lon": -122.41428,
+   "precision": "block"
+  },
+  "hook": "The lake was built for toy sailboats with state money. Nature, and the state's accountants, have had opinions ever since.",
+  "story": "McNab Lake, in the park's northeast corner next to Louis Sutter Playground, was built in 1964 as a basin for model yachts. The State of California paid for it [1][2]. It was designed as part of the hillside's natural drainage. Water from the slope ran in through gaps in the concrete walkway around its edge, and when the lake filled, the overflow drained into pipes heading east [1]. By 1983 the city's planners admitted it went stagnant in the dry season and looked ugly whenever it was drained to clear out weeds and rushes. They suggested paving the bottom but ruled out filling it in. One reason: the state would want its construction money back [1]. In 2013 the Chronicle's John King reported that its water still regularly turned dark with algae and silt, because the reclaimed former marsh had been badly designed in the 1960s [3]. The wildlife doesn't seem to mind. That year Chronicle photographers caught a double-crested cormorant fishing and ducks swimming and foraging on the lake [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "Built 1964 as a model yacht basin; drainage design; stagnant, drained for cleaning; state funds would have to be repaid if removed"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2019,
+    "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "1964: McNab Lake designed as a model yacht basin using California state funds"
+   },
+   {
+    "title": "McLaren Park in S.F. sharpens focus",
+    "publisher": "San Francisco Chronicle / SFGATE (John King)",
+    "year": 2013,
+    "url": "https://www.sfgate.com/bayarea/place/article/McLaren-Park-in-S-F-sharpens-focus-4822730.php",
+    "supports": "Algae and silt; reclaimed former marsh designed poorly in the 1960s; cormorant and duck photos"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-gleneagles-nine-holes",
+  "title": "Nine holes on the park's rough edge",
+  "theme": "modern-city",
+  "year": 1961,
+  "yearEnd": 2013,
+  "place": {
+   "label": "Gleneagles Golf Course, 2100 Sunnydale Avenue",
+   "lat": 37.71508,
+   "lon": -122.42018,
+   "precision": "block"
+  },
+  "hook": "The 1926 dream was 18 holes. What San Francisco got was a nine-hole course, a money-loser that was once the scene of a robbery on the third green.",
+  "story": "The 1926 dream of an 18-hole course shrank to nine holes. Gleneagles was completed in 1961 on 60 acres along Sunnydale Avenue, on the park's south side [1]. By 1983 the city's master plan admitted that the course had lost money for years while its greens and fairways declined. New managers were fixing it up. If it ever became a liability, planners suggested, it could be turned into lawns for picnics and play [1]. The Chronicle later described the course as bordering the 'violence-prone' Sunnydale housing project. In 1995 three gunmen robbed three golfers on the third green [2]. In 2013 John King pointed out that Sunnydale's residents, on the park's southern slopes, could reach few of its facilities apart from the golf course, 'not the most logical fit' [3]. That same year, according to a park group's timeline, the course's operator signed a nine-year lease extension and started a pre-apprentice gardener program with Local 261 [4].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "Nine-hole course completed 1961 on 60 acres along Sunnydale; run at a loss; new management; picnic-lawn fallback"
+   },
+   {
+    "title": "MCLAREN PARK / Disrepute despite the view",
+    "publisher": "San Francisco Chronicle / SFGATE (Patricia Yollin)",
+    "year": 2004,
+    "url": "https://www.sfgate.com/bayarea/article/MCLAREN-PARK-Disrepute-despite-the-view-2757051.php",
+    "supports": "Borders Sunnydale; 1995 robbery of golfers on the third green"
+   },
+   {
+    "title": "McLaren Park in S.F. sharpens focus",
+    "publisher": "San Francisco Chronicle / SFGATE (John King)",
+    "year": 2013,
+    "url": "https://www.sfgate.com/bayarea/place/article/McLaren-Park-in-S-F-sharpens-focus-4822730.php",
+    "supports": "Sunnydale residents' limited access except the golf course, 'not the most logical fit'"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2019,
+    "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "2013 nine-year lease extension; pre-apprentice gardener program with Local 261"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-amphitheater-blues-festival",
+  "title": "When the blues came to the hills",
+  "theme": "arts-counterculture",
+  "year": 1975,
+  "yearEnd": 1977,
+  "place": {
+   "label": "McLaren Park amphitheatre (now Jerry Garcia Amphitheater), off John F. Shelley Drive",
+   "lat": 37.7204,
+   "lon": -122.4176,
+   "precision": "building"
+  },
+  "hook": "Before it was Jerry Garcia's, the hillside theatre hosted the country's pioneering San Francisco Blues Festival for three summers.",
+  "story": "McLaren Park's Greek-style amphitheatre sits in an eastern slope, out of the afternoon wind. It was the city's bet in the early 1970s that culture could bring people to its overlooked southeast [1]. Sources disagree on the date. A park group's chronology says construction finished in 1970, while the city's 1983 master plan says 1972 [2][3]. According to that chronology, the amphitheatre opened in 1971 with 700 seats and 'excellent acoustics', and the press said it added 'a new cultural dimension to San Francisco' [2]. From 1975 to 1977 it was home to the third, fourth and fifth San Francisco Blues Festivals [2]. Tom Mazzolini had started the festival in 1973 to celebrate the blues played in San Francisco, Richmond and Oakland in the 1940s and '50s. At the time the country had only a handful of blues festivals [4]. In 1978 the festival outgrew the hillside and moved to the Golden Gate Park band shell, and later to Kezar and Fort Mason [2]. The lighting and sound system built with the amphitheatre are long gone [1].",
+  "people": [
+   {
+    "name": "Tom Mazzolini",
+    "role": "founder and producer, San Francisco Blues Festival"
+   }
+  ],
+  "sources": [
+   {
+    "title": "McLaren Park in S.F. sharpens focus",
+    "publisher": "San Francisco Chronicle / SFGATE (John King)",
+    "year": 2013,
+    "url": "https://www.sfgate.com/bayarea/place/article/McLaren-Park-in-S-F-sharpens-focus-4822730.php",
+    "supports": "Amphitheater on eastern slope protected from afternoon winds; original lighting and sound gone"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2019,
+    "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "Built 1970, opened 1971, 700 seats, press quotes; SF Blues Festival 1975-77 in the amphitheater; moved 1978"
+   },
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "Amphitheatre constructed 1972 (date conflict)"
+   },
+   {
+    "title": "Producer's Bio: Tom Mazzolini",
+    "publisher": "San Francisco Blues Festival",
+    "year": 2008,
+    "url": "http://www.sfblues.com/producer/",
+    "supports": "Mazzolini founded the festival in 1973 to celebrate 1940s-50s Bay Area blues; few blues festivals existed then"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-jerry-garcia-amphitheater",
+  "title": "Jerry comes home to the Excelsior",
+  "theme": "arts-counterculture",
+  "year": 2005,
+  "yearEnd": null,
+  "place": {
+   "label": "Jerry Garcia Amphitheater, 40 John F. Shelley Drive",
+   "lat": 37.7207,
+   "lon": -122.4171,
+   "precision": "building"
+  },
+  "hook": "It started as a neighbourhood birthday party with 50 guests and Cherry Garcia ice cream. Two years later Wavy Gravy was emceeing the rededication.",
+  "story": "Jerry Garcia spent much of his childhood at 87 Harrington Street in the Excelsior, close to McLaren Park. When he died in 1995 he was working on a memoir called 'Harrington Street' [1]. In 2003 a neighbourhood booster group, Friends and Advocates of Crocker Amazon and the Excelsior, came up with a birthday party for its famous native son as a way to promote the area. The first 'Jerry Day', on August 3, 2003, drew 50 to 75 people for cake and Cherry Garcia ice cream [2]. In July 2005 the Recreation and Park Commission voted unanimously to name the park's amphitheatre after him [1][2]. The official dedication on October 29 brought Mayor Gavin Newsom with a proclamation, Wavy Gravy as master of ceremonies, and Jefferson Starship and tribute bands on stage. Garcia's artwork was auctioned to pay for improvements to the theatre [1][2]. The Chronicle called it a 2,000-seat theatre, but the park's own history says it held 700 when it opened in 1971 [1][2]. By 2018 more than 2,000 people were coming to Jerry Day [2].",
+  "people": [
+   {
+    "name": "Jerry Garcia",
+    "role": "Grateful Dead guitarist, Excelsior native"
+   },
+   {
+    "name": "Wavy Gravy",
+    "role": "master of ceremonies at the 2005 dedication"
+   },
+   {
+    "name": "Gavin Newsom",
+    "role": "Mayor of San Francisco"
+   }
+  ],
+  "sources": [
+   {
+    "title": "EXCELSIOR / Theater gets a musical salute / McLaren Park venue is named for Jerry Garcia",
+    "publisher": "San Francisco Chronicle / SFGATE (Carolyn Jones)",
+    "year": 2005,
+    "url": "https://www.sfgate.com/bayarea/article/EXCELSIOR-Theater-gets-a-musical-salute-2562918.php",
+    "supports": "87 Harrington St; 'Harrington Street' memoir; unanimous July vote; 2,000 seats; dedication line-up, Wavy Gravy, art auction, mayor"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2019,
+    "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "F.A.C.E. origins of Jerry Day; Aug 3, 2003, 50-75 people, Cherry Garcia; Resolution 0507-003; Oct 29, 2005 dedication; 700 seats in 1971; 2018 crowds over 2,000"
+   }
+  ],
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jerry_Garcia_Amphitheatre_%28April_2021%29_-3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jerry_Garcia_Amphitheatre_(April_2021)_-3.jpg",
+   "credit": "HaeB / Wikimedia Commons",
+   "license": "CC BY-SA 4.0",
+   "year": 2021
+  }
+ },
+ {
+  "id": "mclaren-park-wilde-overlook-tower",
+  "title": "From midnight dump to padlocked tower",
+  "theme": "architecture-landmarks",
+  "year": 1981,
+  "yearEnd": null,
+  "place": {
+   "label": "Wilde Reservoir Overlook, Mansell Street and Visitacion Avenue",
+   "lat": 37.71876,
+   "lon": -122.40994,
+   "precision": "building"
+  },
+  "hook": "An abandoned reservoir full of illegally dumped trash became a viewing tower with some of the best views in the city. Then someone locked the door.",
+  "story": "At the southeast corner of Mansell Street and Visitacion Avenue stood the heavy concrete walls of the old Wilde Reservoir. Once it had stored city water. After it was abandoned it became a spot for illegal late-night trash dumping [1]. City planners thought the site had perhaps the best view in the whole park. So in 1981 they kept the old walls as a viewing platform and built a reinforced-concrete tower in the middle. From the top you could see Twin Peaks, downtown, the East and South Bay and round to the Cow Palace [1]. The 1983 master plan says the tower is 35 feet high. The Chronicle's John King called it a 30-foot concrete tower built in the early 1980s with federal funds [1][2]. It didn't stay open. By 2013 neighbours said it had been padlocked for at least 15 years [2]. A tip if you ask for directions: locals pronounce Wilde Street 'Wild-E' [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "Wilde Reservoir walls; illegal nocturnal dumping; redesigned as viewing platform with 35-foot tower; views; built 1981"
+   },
+   {
+    "title": "McLaren Park in S.F. sharpens focus",
+    "publisher": "San Francisco Chronicle / SFGATE (John King)",
+    "year": 2013,
+    "url": "https://www.sfgate.com/bayarea/place/article/McLaren-Park-in-S-F-sharpens-focus-4822730.php",
+    "supports": "30-foot concrete tower, early 1980s, federal funds; padlocked at least 15 years"
+   },
+   {
+    "title": "Visitacion Valley (Woody LaBounty)",
+    "publisher": "SF Heritage",
+    "year": 2021,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+    "supports": "'Wilde Street is pronounced Wild-E'"
+   }
+  ],
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Infrastructures_Got_Problems_%282766095491%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Infrastructures_Got_Problems_(2766095491).jpg",
+   "credit": "Orin Zebest / Wikimedia Commons",
+   "license": "CC BY 2.0",
+   "year": 2008
+  }
+ },
+ {
+  "id": "mclaren-park-model-farm-never-built",
+  "title": "Peacocks, pigs and 120 horses, never built",
+  "theme": "modern-city",
+  "year": 1983,
+  "yearEnd": null,
+  "place": {
+   "label": "John F. Shelley Drive just east of the amphitheatre (proposed model farm site)",
+   "lat": 37.7203,
+   "lon": -122.416,
+   "precision": "area"
+  },
+  "hook": "In 1983 the city planned a petting farm with cows, goats and 'ornamental' peacocks here, plus stables for 120 horses. None of it happened.",
+  "story": "The 1983 master plan for McLaren Park set out to fix an old problem. The park was so short of attractions that it served mainly its own neighbourhood, and the plan called that 'a great loss to many citizens' [1]. The work had started in 1980 under landscape architects Theodore Osmundson and Associates [1]. They proposed a model farm on John F. Shelley Drive, just east of the amphitheatre and sheltered by big trees. There children could meet cows, horses, pigs, sheep, goats, chickens, ducks, geese, turkeys and, 'for ornamental purposes only', peacocks [1]. Public meetings had shown 'considerable enthusiasm' for the farm, so it was ranked as a fairly high priority [1]. The plan also sketched an equestrian centre next to Crocker Amazon Playground, with stables for 120 horses. It pointed out that people waited twenty to thirty years for a stall at the Golden Gate Park stables [1]. What most worried residents at those meetings was more basic: illegal trash dumping and a general lack of security [1]. A park group's detailed timeline of the decades that followed lists no farm and no stables [2].",
+  "people": [
+   {
+    "name": "Theodore Osmundson",
+    "role": "landscape architect, 1983 master plan"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Master Plan for the Development of McLaren Park",
+    "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+    "year": 1983,
+    "url": "https://archive.org/details/masterplanfordev1983sanf",
+    "supports": "Osmundson contract 1980; model farm site and animal list, peacocks; enthusiasm; equestrian centre for 120 horses; 20-30 year stall waits; dumping and security concerns"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2019,
+    "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "Park timeline 1983-2019 records no farm or equestrian centre"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-yosemite-marsh",
+  "title": "Where a buried creek begins",
+  "theme": "parks-nature",
+  "year": 1995,
+  "yearEnd": 2005,
+  "place": {
+   "label": "Yosemite Marsh, north end of McLaren Park",
+   "lat": 37.72323,
+   "lon": -122.4188,
+   "precision": "area"
+  },
+  "hook": "A tiny eggplant-shaped marsh shelters one of the city's rarest insects, and in 2005 it was quietly silting to death.",
+  "story": "In a quiet corner at the park's north end, a creek bubbles out of the hillside and tumbles into a small freshwater marsh shaped like an eggplant [1]. This is Yosemite Marsh, the start of a creek that once flowed to the bay and is now buried under homes and streets [2]. The city named it a 'significant natural resource area' in 1995 [1][2]. Rare species live here: the San Francisco forktail damselfly, with its iridescent blue-green body, and the flowering quillwort. Red-winged blackbirds nest in the cattails, and great blue herons hunt gophers in the meadow above [1]. Writing for FoundSF, Pete Holloran calls the marsh home to one of the damselfly's last populations [3]. By 2005, silt from the creek's collapsing banks was turning the marsh into a muddy pond. The city set aside $304,000 to save it. Engineers offered competing fixes, and so did Belles Yelda, a retired civil engineer in Friends of McLaren Park. The group's president, Franco Mancini, doubted any of them would work. 'Everyone is flying blind,' he said. 'It's like designing a building with blindfolds on' [1].",
+  "people": [
+   {
+    "name": "Franco Mancini",
+    "role": "President, Friends of McLaren Park"
+   },
+   {
+    "name": "Belles Yelda",
+    "role": "retired civil engineer"
+   },
+   {
+    "name": "Pete Holloran",
+    "role": "FoundSF essayist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "MCLAREN PARK / Competing proposals put forth to save marsh",
+    "publisher": "San Francisco Chronicle / SFGATE (Kathleen Sullivan)",
+    "year": 2005,
+    "url": "https://www.sfgate.com/green/article/MCLAREN-PARK-Competing-proposals-put-forth-to-2725884.php",
+    "supports": "Creek, eggplant-shaped marsh, 1995 designation, damselfly, quillwort, blackbirds, herons, silt, $304,000, rival proposals, Mancini quotes"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2019,
+    "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "1995 designation; marsh is start of a creek now covered by homes and streets running to the bay"
+   },
+   {
+    "title": "McLaren Park (Pete Holloran)",
+    "publisher": "FoundSF",
+    "year": 2021,
+    "url": "https://www.foundsf.org/index.php?title=McLaren_Park",
+    "supports": "One of the last populations of the San Francisco forktail damselfly"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-help-mclaren-park",
+  "title": "The firefighter who wouldn't give up",
+  "theme": "civil-rights",
+  "year": 2007,
+  "yearEnd": 2013,
+  "place": {
+   "label": "Louis Sutter Playground and Roundhouse, University Street side of the park",
+   "lat": 37.72248,
+   "lon": -122.41367,
+   "precision": "block"
+  },
+  "hook": "As a boy he found a body in the park. As a man he helped win it $12 million, after the city's parks bond left it out entirely.",
+  "story": "Chuck Farrugia grew up in the Portola, next to a park that felt like wilderness. 'You could climb a tree, ride bikes on the trails, capture snakes - it was like a forest,' he told the Chronicle [1]. He also remembered walking his dog as a boy and finding a dead body, and seeing burned-out cars [1]. A 1981 Examiner headline summed up those years: 'McLaren Park: great potential, much trash.' The previous year's crime figures included two murders, six rapes and 18 stolen cars [1]. Farrugia grew up to be a firefighter and bought a home near his parents. As friends left for the suburbs, he became an activist. When neighbours saw that the next city parks bond included nothing for San Francisco's second-largest park, they founded Help McLaren Park in 2007 [1]. The next parks bond, in 2012, included $12 million for McLaren [1]. The group raised money with yearly pancake breakfasts in the Louis Sutter Roundhouse [2]. 'For this corner of the city, it's our Golden Gate Park,' said neighbour Linda Litehiser [1].",
+  "people": [
+   {
+    "name": "Chuck Farrugia",
+    "role": "firefighter and founder-activist, Help McLaren Park"
+   },
+   {
+    "name": "Linda Litehiser",
+    "role": "park advocate"
+   }
+  ],
+  "sources": [
+   {
+    "title": "McLaren Park in S.F. sharpens focus",
+    "publisher": "San Francisco Chronicle / SFGATE (John King)",
+    "year": 2013,
+    "url": "https://www.sfgate.com/bayarea/place/article/McLaren-Park-in-S-F-sharpens-focus-4822730.php",
+    "supports": "Farrugia quotes and biography; 1981 Examiner headline and crime stats; Help McLaren Park founded 2007; $12 million in 2012 bond; Litehiser quote"
+   },
+   {
+    "title": "McLaren Park History (timeline)",
+    "publisher": "McLaren Park Collaborative (archived)",
+    "year": 2019,
+    "url": "http://web.archive.org/web/20210124214911/https://mclarenparksf.org/2016/08/30/mclaren-park-history/",
+    "supports": "Help McLaren Park pancake breakfast fundraisers in the Louis Sutter Roundhouse"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-quiet-time-visitacion-valley-middle",
+  "title": "The school that learned to be still",
+  "theme": "communities",
+  "year": 2007,
+  "yearEnd": null,
+  "place": {
+   "label": "Visitacion Valley Middle School, 450 Raymond Avenue",
+   "lat": 37.71529,
+   "lon": -122.41205,
+   "precision": "building"
+  },
+  "hook": "The principal of a school surrounded by gunfire tried something radical: twice a day, everyone stops and sits in silence.",
+  "story": "Visitacion Valley Middle School sits on the park's southeastern slope. In the mid-2000s, violence pressed in on it. In 2004 two students found the body of a 19-year-old stabbing victim. Later that year a gunman stormed into the school and robbed two employees [1]. 'Everybody in this school was either related to somebody who has been shot, who did the shooting, or who saw a shooting,' said the principal, Jim Dierke [1]. In spring 2007 he tried something unusual called Quiet Time. Twice a day the whole school meditated or simply sat still, for 12 or 15 minutes depending on the account. The program was paid for mostly by the David Lynch Foundation and run with the San Francisco-based Center for Wellness and Achievement in Education [1][2]. All but two teachers voted in favour, and nearly every family signed the permission slip [3]. Critics called it 'stealth religion.' The school superintendent, Carlos Garcia, called it 'thoroughly secular' [1][3]. The school said suspensions fell from 85 in 2005-06 to 10 in 2009-10 [1]. Dierke put daily attendance at more than 98 percent [2].",
+  "people": [
+   {
+    "name": "Jim Dierke",
+    "role": "Principal, Visitacion Valley Middle School"
+   },
+   {
+    "name": "Carlos Garcia",
+    "role": "SFUSD superintendent"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Meditation program mends troubled Visitacion Valley Middle School",
+    "publisher": "San Francisco Examiner (archived)",
+    "year": 2011,
+    "url": "http://web.archive.org/web/20210510025849/https://www.sfexaminer.com/local/2011/05/meditation-program-mends-troubled-visitacion-valley-middle-school/",
+    "supports": "2004 body and gunman; Dierke quote; spring 2007 start; 12-minute sessions; Lynch Foundation funding; 'stealth religion'; suspension figures"
+   },
+   {
+    "title": "Amidst Chaos, 15 Minutes of Quiet Time Helps Focus Students",
+    "publisher": "KQED MindShift (archived)",
+    "year": 2012,
+    "url": "http://web.archive.org/web/2012/http://blogs.kqed.org/mindshift/2012/02/amidst-chaos-15-minutes-of-quiet-time-helps-focus-students/",
+    "supports": "15-minute sessions; Lynch Foundation and CWAE; attendance over 98 percent"
+   },
+   {
+    "title": "Risking Peace at a Troubled School",
+    "publisher": "AlterNet (David Markus, archived)",
+    "year": 2012,
+    "url": "http://web.archive.org/web/2012/http://www.alternet.org/story/154362/risking_peace_at_a_troubled_school",
+    "supports": "All but two teachers voted yes; nearly all families signed; Garcia 'thoroughly secular'"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mclaren-park-philosophers-way",
+  "title": "A trail built for thinking",
+  "theme": "arts-counterculture",
+  "year": 2013,
+  "yearEnd": null,
+  "place": {
+   "label": "Philosopher's Way trailhead, parking lot southwest of Mansell Street and Visitacion Avenue",
+   "lat": 37.7182,
+   "lon": -122.4108,
+   "precision": "area"
+  },
+  "hook": "Money for a water-tank upgrade paid for 14 granite 'musing stations', including one of Martin Luther King Jr. looking toward the Cow Palace.",
+  "story": "The money came from a water tank. When the Public Utilities Commission gave La Grande Tank a seismic upgrade, the project's public-art funds paid $146,000 for a 2.7-mile loop trail around the park. The Arts Commission coordinated the work [1][2]. Artists Peter Richards and Susan Schwartzenberg designed it. Stonemason George Gonzalez, who had built the Wave Organ near the Exploratorium with Richards, made its 14 'musing stations' [1]. One black granite marker faces the Cow Palace and carries an etched image of Martin Luther King Jr., who spoke there in 1964 [1][3]. Others describe native grasses and the history of the neighbourhoods, and one shows a 1935 aerial photograph alongside a Visitacion Valley resident's memories [1][4]. At the dedication on January 5, 2013, neighbours and politicians talked about a part of the city they felt had been ignored. 'It's symbolic of the overall neglect of the southeast,' said Portola resident Barbara Gersh. 'It's about time we get our fair share,' said Supervisor Malia Cohen [1].",
+  "people": [
+   {
+    "name": "Peter Richards",
+    "role": "artist, co-designer"
+   },
+   {
+    "name": "Susan Schwartzenberg",
+    "role": "artist, co-designer"
+   },
+   {
+    "name": "George Gonzalez",
+    "role": "stonemason"
+   },
+   {
+    "name": "Malia Cohen",
+    "role": "District 10 supervisor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "S.F. park trail loop offers great views",
+    "publisher": "San Francisco Chronicle / SFGATE (Matthai Kuruvila)",
+    "year": 2013,
+    "url": "https://www.sfgate.com/bayarea/article/S-F-park-trail-loop-offers-great-views-4170143.php",
+    "supports": "$146,000 PUC public-art set-aside, Arts Commission; 2.7 miles; designers; Gonzalez and the Wave Organ; MLK marker facing Cow Palace; Jan 5, 2013 dedication; Gersh and Cohen quotes; trailhead"
+   },
+   {
+    "title": "Discovering La Grande Tank in S.F.'s McLaren Park",
+    "publisher": "San Francisco Chronicle / SFGATE (Caille Millner)",
+    "year": 2015,
+    "url": "https://www.sfgate.com/outdoors/article/Discovering-La-Grande-Tank-in-S-F-s-McLaren-Park-6020475.php",
+    "supports": "Trail funded as 'arts enrichment' of La Grande Tank seismic upgrade"
+   },
+   {
+    "title": "Philosopher's Way at McLaren Park",
+    "publisher": "FoundSF",
+    "year": 2018,
+    "url": "https://www.foundsf.org/index.php?title=Philosopher%27s_Way_at_McLaren_Park",
+    "supports": "MLK plaque with Cow Palace in view; Schwartzenberg spelling; plaques on history"
+   },
+   {
+    "title": "Welcome to Visitacion Valley Month / Getting to Know VV's Open Spaces",
+    "publisher": "SF Heritage",
+    "year": 2021,
+    "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/welcome-to-visitacion-valley-month-getting-to-know-vvs-open-spaces/",
+    "supports": "1935 aerial photo and musing from resident Frank Taylor"
+   }
+  ],
+  "photo": null
+ }
+]

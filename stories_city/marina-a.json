@@ -1,0 +1,670 @@
+[
+  {
+    "id": "marina-bateria-san-jose",
+    "title": "Five cannons on the dune point",
+    "theme": "indigenous-early",
+    "year": 1797,
+    "yearEnd": 1806,
+    "place": {
+      "label": "Black Point, Upper Fort Mason",
+      "lat": 37.8078,
+      "lon": -122.4275,
+      "precision": "area"
+    },
+    "hook": "Two decades after the Presidio was founded, Spanish soldiers hauled cannons onto a sandy bluff to guard the anchorage. Within ten years they had walked away.",
+    "story": "Long before it was Fort Mason, the headland at the north end of today's Van Ness Avenue was a sandy promontory the Spanish called Punta Medanos, 'dune point', and later Punta de San José [1]. In 1797 soldiers from the Presidio of San Francisco built an artillery battery here, armed with five eight-pounder cannons, to give extra protection to the Yerba Buena anchorage around the corner [2]. Even the Park Service can't settle on its name: one of its publications calls it the Bateria de Yerba Buena, another the Batteria San Jose [2][3]. Either way it did not last. The post was only briefly occupied and had been abandoned by 1806 [1]. After 1849 the Americans renamed the bluff Black Point, after the dark California bay laurels that grew on it [1]. The strategic logic outlived Spain: the promontory commanded both the cove and the passage toward Alcatraz, and Mexico and then the United States also saw it as a place for guns [2]. Walk out to the tip of Black Point today and you are on what is described as the last remaining stretch of original shoreline in San Francisco east of the Golden Gate Bridge [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Fort Mason",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Fort_Mason",
+        "supports": "Punta Medanos / Punta de San José names; battery only briefly occupied, abandoned by 1806; Black Point named for bay laurels; last original shoreline east of the bridge"
+      },
+      {
+        "title": "Fort Mason",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2019,
+        "url": "https://www.nps.gov/goga/learn/historyculture/fort-mason.htm",
+        "supports": "1797 Bateria de Yerba Buena with five eight-pounder cannons; promontory commanded cove and Alcatraz passage; fortified by Spain, Mexico and the US"
+      },
+      {
+        "title": "Fort Mason History Walk: A Reflection of San Francisco Through Time",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2013,
+        "url": "https://www.nps.gov/goga/planyourvisit/upload/sg-foma-web-2021.pdf",
+        "supports": "Calls the 1797 work the Batteria San Jose"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-washerwomans-lagoon",
+    "title": "Laundry day at Washerwoman's Lagoon",
+    "theme": "labor-industry",
+    "year": 1849,
+    "yearEnd": null,
+    "place": {
+      "label": "Approximate site of Washerwoman's Lagoon, near Octavia and Greenwich",
+      "lat": 37.8,
+      "lon": -122.429,
+      "precision": "area"
+    },
+    "hook": "Gold Rush miners shipped their dirty shirts to Hawaii and China. Then someone opened a laundry beside a freshwater pond out past Russian Hill.",
+    "story": "In Gold Rush San Francisco a clean shirt was a luxury. You couldn't get anyone to do your washing, and anyone who would charged several times what the clothes were worth, so some people sent their laundry to Hawaii, or even China [1]. The answer turned out to be a freshwater lagoon below the heights, where the Marina now stands, almost three miles from the old plaza [1]. Several Chinese entrepreneurs set up a laundry on its banks, and a man named Pratt started a bigger one that eventually became the Occidental Laundry [1]. Thrifty housewives made a Sunday outing of it. They brought the family, a picnic lunch and wheelbarrows or dump carts of washing, scrubbed and rinsed on the shore, hung everything on the chaparral to dry, and carried it home to iron that night [1]. The name stuck: Washerwoman's Lagoon. The pond had an older history too. Writers on FoundSF argue that the 'laguna de manantial' (spring-fed lagoon) Juan Bautista de Anza noted in 1776 was this same pond, then called Laguna Pequeña [2]. A handful of old buildings in Blackstone Court, off Franklin and Lombard, still sit on the trail that once curved around the lagoon between the Presidio and Yerba Buena [3].",
+    "people": [
+      {
+        "name": "Pratt",
+        "role": "founder of the laundry that became the Occidental Laundry"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Washerwoman's Lagoon (excerpted from This Is San Francisco)",
+        "publisher": "FoundSF",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=WASHERWOMAN%27S_LAGOON",
+        "supports": "Gold Rush laundry shortage, washing sent to Hawaii and China, Chinese laundry, Pratt/Occidental Laundry, Sunday washing outings, origin of the name"
+      },
+      {
+        "title": "San Francisco's Clean Little Secret",
+        "publisher": "FoundSF",
+        "year": 2022,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco%27s_Clean_Little_Secret",
+        "supports": "Anza's 'laguna de manantial' identified as Washerwoman's Lagoon, earlier called Laguna Pequeña"
+      },
+      {
+        "title": "Blackstone Court",
+        "publisher": "FoundSF",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=Blackstone_Court",
+        "supports": "Blackstone Court buildings sit on the former trail around the lagoon between the Presidio and Yerba Buena"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-broderick-dies-at-black-point",
+    "title": "A senator dies at Black Point",
+    "theme": "gold-rush-victorian",
+    "year": 1859,
+    "yearEnd": null,
+    "place": {
+      "label": "Haskell House (Quarters 3), Franklin Street, Upper Fort Mason",
+      "lat": 37.8062,
+      "lon": -122.4267,
+      "precision": "building"
+    },
+    "hook": "Shot in a duel at Lake Merced, California's anti-slavery senator was carried to a friend's house on this bluff. He lasted three days.",
+    "story": "In the 1850s, developers quietly built five handsome private houses on unused Army land at Black Point, and a colony of bankers, merchants and writers moved in. Its residents were openly hostile to slavery and secession [1][2]. Among them was a developer named Haskell (Park Service publications give his first name as both Leonidas and Leonard) [1][2]. Their political hero was David Broderick, a self-made man and U.S. senator who opposed the spread of slavery [1]. In 1859, after Broderick answered insults from California Supreme Court Justice David S. Terry, who championed slavery's expansion, Terry challenged him to a duel [1][3]. They met at Lake Merced on September 13. Broderick's hair-trigger pistol fired early, into the ground; Terry's shot hit him in the lung [3]. Friends rushed him to Haskell's house at Black Point, where he died three days later, reportedly saying: 'They killed me because I am opposed to the extension of slavery and a corrupt administration' [1]. At the funeral, Edward Baker called his death 'a political necessity, poorly veiled beneath the guise of a private quarrel' [3]. Haskell's house still stands as Quarters 3, one of the three oldest buildings at Fort Mason [1].",
+    "people": [
+      {
+        "name": "David C. Broderick",
+        "role": "U.S. senator from California"
+      },
+      {
+        "name": "David S. Terry",
+        "role": "California Supreme Court justice who shot him"
+      },
+      {
+        "name": "Haskell (Leonidas or Leonard)",
+        "role": "Black Point developer whose house Broderick died in"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fort Mason History Walk: A Reflection of San Francisco Through Time",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2013,
+        "url": "https://www.nps.gov/goga/planyourvisit/upload/sg-foma-web-2021.pdf",
+        "supports": "Five 1850s houses, anti-slavery community, 'Leonard' Haskell, duel at Lake Merced on 13 Sept 1859, death at Haskell's house (Quarters 3) three days later, last words"
+      },
+      {
+        "title": "Fort Mason",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2019,
+        "url": "https://www.nps.gov/goga/learn/historyculture/fort-mason.htm",
+        "supports": "Civilian Black Point community, abolitionist developer 'Leonides' Haskell, Broderick died at Haskell's home"
+      },
+      {
+        "title": "David C. Broderick",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/David_C._Broderick",
+        "supports": "Hair trigger discharged early, shot in the lung, death 16 Sept 1859, Edward Baker's eulogy quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-jessie-fremont-porters-lodge",
+    "title": "Jessie Frémont's salon on the bluff",
+    "theme": "war-military",
+    "year": 1860,
+    "yearEnd": 1863,
+    "place": {
+      "label": "Site of Porter's Lodge, north end of Franklin Street, Upper Fort Mason",
+      "lat": 37.8075,
+      "lon": -122.4272,
+      "precision": "area"
+    },
+    "hook": "For a brief moment before the Civil War, the city's liveliest conversation happened in a cottage at the cliff's edge. Then the Army took it and knocked it down.",
+    "story": "Jessie Benton Frémont was the daughter of Missouri senator Thomas Hart Benton and the wife of the explorer John C. Frémont. In the Park Service's words, she was bright, courageous and ambitious at a time when those qualities were discouraged in women [1]. In 1860 the Frémonts moved to Black Point and set their house and gardens on the bluff [1]. The cottage, nicknamed Porter's Lodge, became a centre of San Francisco's intellectual life. Jessie invited writers, spiritual leaders and artists for lively conversation, and both Frémonts were Free-Soilers who lobbied against slavery [1]. The idyll was short. When the Civil War began, John was called to serve the Union and the family moved east [1]. In 1863 the government seized the property without payment, by President Lincoln's executive order [2]. The Army evicted Black Point's civilians and tore down the Frémonts' home to make room for new gun batteries [1]. The family pursued compensation for more than a century. At least 24 congressional committees voted to pay Frémont, and his descendants were still in federal court in 1968. Their lawsuit said he had paid $42,000 for 13.5 acres in the mid-1850s [2].",
+    "people": [
+      {
+        "name": "Jessie Benton Frémont",
+        "role": "writer, political activist and salon host"
+      },
+      {
+        "name": "John C. Frémont",
+        "role": "explorer, Union general, 1856 presidential candidate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fort Mason History Walk: A Reflection of San Francisco Through Time",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2013,
+        "url": "https://www.nps.gov/goga/planyourvisit/upload/sg-foma-web-2021.pdf",
+        "supports": "Jessie Frémont's character, 1860 move to Black Point, Porter's Lodge salon, Free-Soil politics, family moved east, Army evicted civilians and tore down the house for batteries"
+      },
+      {
+        "title": "Fort Mason",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Fort_Mason",
+        "supports": "1863 seizure without payment by Lincoln's executive order, $42,000 for 13.5 acres per 1968 lawsuit, 24 congressional committees, heirs' 1968 suit"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-octagon-house-time-capsule",
+    "title": "A letter to future ages",
+    "theme": "architecture-landmarks",
+    "year": 1861,
+    "yearEnd": null,
+    "place": {
+      "label": "McElroy Octagon House, 2645 Gough Street at Union",
+      "lat": 37.7978,
+      "lon": -122.42743,
+      "precision": "building"
+    },
+    "hook": "In 1953 an electrician rewiring an eight-sided house found a tin can hidden by the stairs. Inside was a letter the builder had written in 1861.",
+    "story": "In 1848 the phrenologist Orson Squire Fowler published a book claiming that an eight-sided house enclosed more space with less material and was lighter, warmer in winter and cooler in summer than a square one. Several thousand octagon houses followed across North America [1]. William C. McElroy, a wood miller, and his wife Harriet Shober bought a lot on Gough Street in 1859 and built their octagon in 1860 and 1861 [2]. By the early 1950s it stood vacant and neglected, and the National Society of the Colonial Dames of America in California bought it, moved it across the street to the corner of Gough and Union, and restored it [2][3]. Nobody knew much about the house then, and one newspaper filled the gap with a ghost story: every November 24, something shrieked on the 20th stair [3]. Then, in March 1953, an electrician working on the renovation found a round tin canister hidden near the stairs to the cupola [3]. It held newspaper clippings, an ambrotype photograph of the family, and a letter McElroy wrote on July 14, 1861, confirming that the house was their 'privet Residence' [3]. The photo shows their daughter Emma at about nine. It is the only known record of what she looked like [4].",
+    "people": [
+      {
+        "name": "William C. McElroy",
+        "role": "wood miller, builder of the house"
+      },
+      {
+        "name": "Harriet Shober McElroy",
+        "role": "co-owner"
+      },
+      {
+        "name": "Emma Eliza McElroy",
+        "role": "their daughter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #17: McElroy Octagon House",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf017.asp",
+        "supports": "Fowler's 1848 book and theory, thousands of octagon houses, built 1861 at Gough and Union"
+      },
+      {
+        "title": "McElroy Octagon House",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/McElroy_Octagon_House",
+        "supports": "McElroy a wood miller, lot bought 1859, built 1860-61, Colonial Dames bought and moved it across the street"
+      },
+      {
+        "title": "History Uncovered (from Celebrating 150 Years of History at Octagon House, by Janis M. Horne)",
+        "publisher": "National Society of The Colonial Dames of America in California",
+        "year": 2011,
+        "url": "https://nscda-ca.org/octagon-house/octagon-house-article/history-uncovered/",
+        "supports": "Ghost story, March 1953 discovery of time capsule, contents, letter of July 14, 1861"
+      },
+      {
+        "title": "Emma Eliza McElroy & Her Scrapbook",
+        "publisher": "National Society of The Colonial Dames of America in California",
+        "year": 2020,
+        "url": "https://nscda-ca.org/octagon-house/emma-eliza-mcelroy-her-scrapbook/",
+        "supports": "1861 time-capsule photo of Emma at age 9 is the only known record of her appearance"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-cow-hollow-dairies",
+    "title": "How Cow Hollow got its name",
+    "theme": "labor-industry",
+    "year": 1861,
+    "yearEnd": null,
+    "place": {
+      "label": "Hatman dairy block, Union, Filbert, Franklin and Gough",
+      "lat": 37.7982,
+      "lon": -122.4267,
+      "precision": "block"
+    },
+    "hook": "A man once paid in octagonal gold coins bought this block for $500 in 1861 and filled it with cows. Thirty dairies later, the valley had a new name.",
+    "story": "George William Hatman and his wife came around the Horn and arrived in 1853 [1]. His first job was driving a white mule at a brickyard, and one week's wages came as an octagon-shaped $50 gold piece. Potatoes were so expensive that $2.50 worth fit in his coat pocket. That gave him an idea: he leased land near today's Gough and Green and planted a vegetable garden [1]. In 1861 he paid $500 for the block now bounded by Union, Filbert, Franklin and Gough and started a dairy with 60 cows [1]. By the early 1870s there were at least 30 dairies between Van Ness Avenue and the Presidio, some with 200 cows, and San Franciscans stopped calling the valley Spring Valley and started calling it Cow Hollow [1]. The cows' days were numbered. Touring the hollow with a reporter, city health officer Dr. Keeney pointed out sick cows, cows fattened on brewery waste and stagnant drinking pools, and said the Board of Health would recommend moving them outside city limits [2]. The date is fuzzy: Hatman's son Bill, born on the dairy in 1867, remembered the cows leaving in the 1880s, while FoundSF dates Keeney's tour to about 1900 [1][2].",
+    "people": [
+      {
+        "name": "George William Hatman",
+        "role": "Cow Hollow dairyman"
+      },
+      {
+        "name": "Bill Hatman",
+        "role": "his son, born 1867, interviewed 1947"
+      },
+      {
+        "name": "Dr. Keeney",
+        "role": "city health officer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "And They Called It 'Cow Hollow' (Robert O'Brien, San Francisco Chronicle, January 1947)",
+        "publisher": "FoundSF",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=AND_THEY_CALLED_IT_%22COW_HOLLOW%22",
+        "supports": "Hatman family story, gold piece, potatoes, 1861 $500 block, 60 cows, 30 dairies by the early 1870s, Spring Valley renamed Cow Hollow, dairies moved in the '80s"
+      },
+      {
+        "title": "Cow Hollow Sanitation Scandal c. 1900",
+        "publisher": "FoundSF",
+        "year": 2018,
+        "url": "https://www.foundsf.org/index.php?title=COW_HOLLOW_SANITATION_SCANDAL_c._1900",
+        "supports": "Dr. Keeney's tour, diseased cows, brewery refuse, stagnant pools, recommendation to remove cows from the city"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-sewage-vegetable-gardens",
+    "title": "Vegetables watered by Pacific Heights",
+    "theme": "communities",
+    "year": 1893,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Chinese vegetable gardens north of Chestnut, near Steiner Street",
+      "lat": 37.8025,
+      "lon": -122.4378,
+      "precision": "area"
+    },
+    "hook": "In 1893 the city engineer noted, quite matter-of-factly, that sewage from the mansions uphill was watering Chinese vegetable gardens on the flats.",
+    "story": "Late 19th-century San Francisco still had farms inside the city, and some of them were watered with sewage [1]. On the flats that later became the Marina, farmers used wastewater running downhill from the mansions of Pacific Heights [1]. An 1893 report by the city engineer put it plainly: 'The sewage of the Steiner Street sewer, and to some extent that of the Pierce Street, is being utilized during the spring and summer months for the irrigation of Chinese vegetable gardens . . . north of Chestnut Street' [1]. A photograph from the 1890s in the San Francisco History Center shows more Chinese vegetable gardens farther east, below Pacific Heights at about today's Union and Gough streets [2]. The same stretch was drawing the attention of health officials. On a tour with a reporter, health officer Dr. Keeney showed off the Franklin Street sewer, pouring out 'in a turbid, foul stream' and falling about thirty feet into a gully within a hundred yards of a public school [2]. Not long after, the gardens and marsh north of Chestnut were filled and levelled for the 1915 world's fair, and then covered by the houses of the Marina [3].",
+    "people": [
+      {
+        "name": "Dr. Keeney",
+        "role": "city health officer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Struggles With Sewage, 1860s-1990s",
+        "publisher": "FoundSF",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco%E2%80%99s_Struggles_With_Sewage,_1860s-1990s",
+        "supports": "Sewage-irrigated farms in the Marina, wastewater from Pacific Heights, 1893 city engineer's report quote"
+      },
+      {
+        "title": "Cow Hollow Sanitation Scandal c. 1900",
+        "publisher": "FoundSF",
+        "year": 2018,
+        "url": "https://www.foundsf.org/index.php?title=COW_HOLLOW_SANITATION_SCANDAL_c._1900",
+        "supports": "1890s photo of Chinese vegetable gardens at Union and Gough; Dr. Keeney and the Franklin Street sewer 'waterfall'"
+      },
+      {
+        "title": "Marina District, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Marina_District,_San_Francisco",
+        "supports": "Area was marsh and dunes before being filled for the 1915 exposition and then developed for housing"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-gas-house-cove",
+    "title": "The gasworks by the cove",
+    "theme": "labor-industry",
+    "year": 1893,
+    "yearEnd": null,
+    "place": {
+      "label": "San Francisco Gas Light Company building, 3640 Buchanan Street",
+      "lat": 37.80377,
+      "lon": -122.43333,
+      "precision": "building"
+    },
+    "hook": "Before the mansions and the Marina Safeway, this shore made the city's gas from coal shipped to its own wharf. One brick building survives.",
+    "story": "Before the world's fair, the shoreline where the Marina now stands was not all dunes and marsh. Most of the sand hills had been levelled, and a jumble of wharves and industrial plants stretched from about Laguna Street to Steiner Street [1]. Among them was the San Francisco Gas Light Company, which made gas for heating and lighting out of coal and petroleum delivered to its own wharf nearby [2]. In 1893 the company put up a Romanesque Revival brick building on Buchanan Street between Bay and North Point. According to Susan Cerny's architectural guidebook, it was designed by the company's own president, Joseph B. Crockett [2]. Pacific Gas & Electric closed the plant in the 1950s, and the building is now offices. It is the only industrial building left in the neighbourhood [2]. The industry also left its name on the water. The little basin west of Fort Mason still appears on the Park Service's map as Gas House Cove [3].",
+    "people": [
+      {
+        "name": "Joseph B. Crockett",
+        "role": "president of the San Francisco Gas Light Company, designer of the building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Marina District, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Marina_District,_San_Francisco",
+        "supports": "Dunes levelled; wharves and industrial plants from Laguna to Steiner in the 19th century"
+      },
+      {
+        "title": "San Francisco Landmark #58: San Francisco Gaslight Company",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/sf058.asp",
+        "supports": "1893 Romanesque Revival building, 3640 Buchanan, designed by president Joseph B. Crockett (per Cerny), gas from coal and petroleum via its wharf, PG&E closed it in the 1950s, only surviving industrial building"
+      },
+      {
+        "title": "Fort Mason History Walk: A Reflection of San Francisco Through Time",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2013,
+        "url": "https://www.nps.gov/goga/planyourvisit/upload/sg-foma-web-2021.pdf",
+        "supports": "Map labels the basin west of Fort Mason 'Gas House Cove'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-vedanta-old-temple",
+    "title": "A Hindu temple among the sand lots",
+    "theme": "communities",
+    "year": 1905,
+    "yearEnd": null,
+    "place": {
+      "label": "Old Vedanta Temple, Webster and Filbert Streets",
+      "lat": 37.7981,
+      "lon": -122.4343,
+      "precision": "building"
+    },
+    "hook": "In 1905 a monk from India bought a lot among Cow Hollow's sand lots and built what his society calls the first Hindu temple in the West.",
+    "story": "Swami Vivekananda arrived in San Francisco on February 22, 1900, and that April his students founded the Vedanta Society [1]. Vivekananda arranged for a fellow disciple, Swami Trigunatita, to take over the work, and Trigunatita was always in a hurry [1][2]. In 1904 he and a committee found a lot on Webster Street, near the bay 'among sand lots', for $8,000 [1]. The cornerstone was laid on August 21, 1905, and the building was dedicated on January 7, 1906, three months before the earthquake [1]. The architect Joseph A. Leonard worked from the swami's ideas, and the third floor and towers were added in 1908 [2][3]. The swami called it 'a combination of a Hindu temple, a Christian church, a Mohammedan mosque, a Hindu Math or monastery, and an American residence' [2]. One tower copies a small Shiva temple at Dakshineswar, where Ramakrishna lived. Another is modelled on a European castle tower [2]. Neighbourhood kids found it spooky. Walter de Vecchi remembered its 'weird signs and magic symbols' [3]. Then, on December 27, 1914, a former student threw a bomb onto the pulpit during a Sunday service. The student was killed, and Trigunatita died of his injuries on January 10, 1915 [4].",
+    "people": [
+      {
+        "name": "Swami Trigunatitananda",
+        "role": "minister of the Vedanta Society, designer of the temple"
+      },
+      {
+        "name": "Joseph A. Leonard",
+        "role": "architect"
+      },
+      {
+        "name": "Walter de Vecchi",
+        "role": "Cow Hollow memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History",
+        "publisher": "Vedanta Society of Northern California",
+        "year": 2026,
+        "url": "https://sfvedanta.org/the-society/history/",
+        "supports": "Vivekananda's arrival 22 Feb 1900, society founded April 1900, 1904 search, $8,000 Webster Street lot among sand lots, cornerstone 21 Aug 1905, dedication 7 Jan 1906; Trigunatita sent to succeed as minister"
+      },
+      {
+        "title": "The Story of the First Hindu Temple in the West",
+        "publisher": "Vedanta Society of Northern California",
+        "year": 2026,
+        "url": "https://sfvedanta.org/the-society/old-temple/the-story-of-the-first-hindu-temple-in-the-west/",
+        "supports": "Trigunatita 'always in a hurry', the combination quote, towers modelled on Dakshineswar Shiva temple and European castle, third floor and towers two years later, Leonard as architect"
+      },
+      {
+        "title": "Vedanta Temple",
+        "publisher": "FoundSF (Walter de Vecchi, Marina Memories)",
+        "year": 2014,
+        "url": "https://www.foundsf.org/index.php?title=VEDANTA_TEMPLE",
+        "supports": "De Vecchi's childhood memories of the temple, Joseph A. Leonard as architect, mixed styles"
+      },
+      {
+        "title": "Swami Trigunatitananda",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Swami_Trigunatitananda",
+        "supports": "Bomb thrown by a former student on 27 Dec 1914, student died, swami died 10 Jan 1915"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-funston-fort-mason-1906",
+    "title": "City Hall moves to Fort Mason",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Commanding Officer's residence (Quarters 1), Upper Fort Mason",
+      "lat": 37.8055,
+      "lon": -122.4262,
+      "precision": "building"
+    },
+    "hook": "With downtown burning and the phones dead, the Army and the city ended up running San Francisco from a general's house on this bluff.",
+    "story": "When the earthquake hit early on April 18, 1906, Brigadier General Frederick Funston, acting commander of the Army's Department of the Pacific, found the telephone system down [1][2]. He ran and walked more than a mile to the Army stable on Pine Street and sent a mounted messenger with orders to the Presidio and to Captain M. L. Walker, commanding the engineers at Fort Mason [1]. A few minutes before seven, Fort Mason's engineers became the first regular troops to reach Market Street. They carried fixed bayonets and had orders to shoot anyone caught looting [1]. That night the Grant and Phelan buildings, where the Army had its headquarters, burned. The officers set up again at Fort Mason, 'the small and ancient army post on the bay shore' [1]. Funston's command post was the commanding officer's residence, Quarters 1, and with downtown in flames the city and Army made it San Francisco's temporary City Hall [2][3]. From here the Army ran an emergency command centre and organised relief camps [2]. One of them sprawled across Fort Mason itself, where soldiers handed out food, water and shelter [2][3]. Funston later wrote that the posts' rations, tents and blankets were handed out 'with no account of the responsibility involved' [1].",
+    "people": [
+      {
+        "name": "Frederick Funston",
+        "role": "brigadier general, acting Army commander"
+      },
+      {
+        "name": "M. L. Walker",
+        "role": "captain, Corps of Engineers, commanding at Fort Mason"
+      }
+    ],
+    "sources": [
+      {
+        "title": "How the Army Worked to Save San Francisco (Frederick Funston, Cosmopolitan Magazine, July 1906)",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 1906,
+        "url": "http://www.sfmuseum.org/1906/cosmo.html",
+        "supports": "Phones down, run to the Pine Street stable, orders to Walker at Fort Mason, engineers first regulars on Market Street with orders to shoot looters, headquarters moved to Fort Mason, quote on rations and tents"
+      },
+      {
+        "title": "Fort Mason History Walk: A Reflection of San Francisco Through Time",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2013,
+        "url": "https://www.nps.gov/goga/planyourvisit/upload/sg-foma-web-2021.pdf",
+        "supports": "Funston's command post in Quarters 1, designated temporary City Hall, emergency command centre and relief camps, Fort Mason camp photo"
+      },
+      {
+        "title": "Fort Mason (page 2)",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2021,
+        "url": "https://www.nps.gov/goga/learn/historyculture/fort-mason-page-2.htm",
+        "supports": "Fort Mason as temporary City Hall, Funston's command post, refugee camp with food, water and shelter"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-fort-mason-army-piers",
+    "title": "Piers for an Army across the Pacific",
+    "theme": "war-military",
+    "year": 1912,
+    "yearEnd": 1915,
+    "place": {
+      "label": "Lower Fort Mason piers (today Fort Mason Center)",
+      "lat": 37.8062,
+      "lon": -122.4318,
+      "precision": "area"
+    },
+    "hook": "Starting in 1912 the Army built three piers and a tunnel under the bluff here, turning an old gun post into the supply door to its Pacific outposts.",
+    "story": "By the early 20th century the U.S. Army was building new posts in Hawaii, the Philippines and other Pacific islands, and most of the supplies for them went through San Francisco [1]. In 1912 the Army began building piers and sheds at the foot of Fort Mason to store supplies and to serve as the home base for the ships of the Army Transport Service [1]. By 1915 three piers and their warehouses were finished, and the Fort Mason Tunnel had been driven under the upper post to link the docks with the State Belt Railroad on the Embarcadero [1][2]. The old harbour-defence post had become a logistics and transport hub [1][2]. The Army ferry General Frank M. Coxe made as many as eight scheduled runs a day to the processing centre at Fort McDowell on Angel Island [1]. Photos from the 1920s show four big Army transports tied up beside the warehouses [2]. Its biggest years were still ahead. The Park Service describes the Port of Embarkation as built in 1915, though it was formally designated under that name on May 6, 1932 [1][2]. In the Second World War it shipped out two-thirds of all the troops sent to the Pacific [1]. The piers and sheds are now Fort Mason Center [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Fort Mason",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Fort_Mason",
+        "supports": "1912 start of piers and sheds for the Army Transport Service, Pacific posts supplied via SF, three piers and tunnel to the State Belt Railroad by 1915, ferry Coxe up to eight runs a day, 1932 designation, WWII share of troops"
+      },
+      {
+        "title": "Fort Mason (page 2)",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2021,
+        "url": "https://www.nps.gov/goga/learn/historyculture/fort-mason-page-2.htm",
+        "supports": "1915 construction of three piers, sheds, warehouses and tunnel; transformation into logistics hub; 1920s photo of four transports"
+      },
+      {
+        "title": "Fort Mason History Walk: A Reflection of San Francisco Through Time",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2013,
+        "url": "https://www.nps.gov/goga/planyourvisit/upload/sg-foma-web-2021.pdf",
+        "supports": "Fort Mason Center was originally the San Francisco Port of Embarkation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-jewel-city-on-the-marsh",
+    "title": "Jewel City rises from the marsh",
+    "theme": "parks-nature",
+    "year": 1915,
+    "yearEnd": 1916,
+    "place": {
+      "label": "Marina Green, once the exposition's North Gardens",
+      "lat": 37.8065,
+      "lon": -122.4365,
+      "precision": "area"
+    },
+    "hook": "San Francisco filled more than 600 acres of tidal marsh to throw itself a party. Nearly all of it came down within a year, except the lawn you picnic on.",
+    "story": "To prove it had recovered from 1906, San Francisco held the Panama-Pacific International Exposition on the shallows and marshes then called Harbor View [1][2]. The city filled more than 600 acres of tidal marsh to create three miles of exhibition grounds [2]. From February 20 to December 4, 1915, the fair drew 18,876,438 visitors [1]. At its centre stood the 435-foot Tower of Jewels, hung with more than 102,000 mirror-backed cut-glass prisms branded 'Novagems' and lit at night by 54 searchlights [1]. The young Edmund Wilson wrote to a friend that it was so good it raised the question of why American architects couldn't build permanent buildings like it [3]. They didn't. The buildings were made of 'staff', a mix of plaster and fibre, and nearly all were pulled down after the fair closed [1]. Arches and towers fell in clouds of coloured plaster, showing the lath underneath [4]. What the fair left behind was the shoreline. The North Gardens became the Marina Green, and the yacht harbour stayed too [4]. The Column of Progress at the foot of Scott Street lasted into the 1920s, until so many cars had hit it that it was taken down [4].",
+    "people": [
+      {
+        "name": "Edmund Wilson",
+        "role": "writer, 1915 visitor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Panama–Pacific International Exposition",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Panama%E2%80%93Pacific_International_Exposition",
+        "supports": "Harbor View site, dates, attendance, Tower of Jewels height, Novagems, searchlights, staff construction and demolition"
+      },
+      {
+        "title": "Fort Mason History Walk: A Reflection of San Francisco Through Time",
+        "publisher": "National Park Service, Golden Gate NRA",
+        "year": 2013,
+        "url": "https://www.nps.gov/goga/planyourvisit/upload/sg-foma-web-2021.pdf",
+        "supports": "City filled over 600 acres of tidal marsh for three miles of exhibition space; exposition used to prove the city had recovered from 1906"
+      },
+      {
+        "title": "Sailing to Byzantium: 1915 Panama Pacific International Exposition (Gray Brechin)",
+        "publisher": "FoundSF",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=SAILING_TO_BYZANTIUM:_1915_Panama_Pacific_International_Exposition",
+        "supports": "Edmund Wilson's 1915 letter"
+      },
+      {
+        "title": "Destruction of the Fair (Gray Brechin)",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Destruction_of_the_Fair",
+        "supports": "Towers brought down in clouds of coloured plaster, North Gardens (Marina Green) and Yacht Harbor remained, Column of Progress at the end of Scott Street pulled down in the 1920s after automobile collisions"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-palace-of-fine-arts-ruin",
+    "title": "A ruin built on purpose",
+    "theme": "arts-counterculture",
+    "year": 1915,
+    "yearEnd": null,
+    "place": {
+      "label": "Palace of Fine Arts, 3301 Lyon Street",
+      "lat": 37.80188,
+      "lon": -122.4483,
+      "precision": "building"
+    },
+    "hook": "Bernard Maybeck designed a palace that was meant to look like it was already falling apart. Asked later what to do with it, he suggested letting it die.",
+    "story": "Bernard Maybeck was fifty and known mostly for houses when he was chosen to design the Palace of Fine Arts for the 1915 exposition [1][2]. He built a melancholy fantasy. The exposition's historian Frank Morton Todd called it 'a cloister enclosing nothing, a colonnade without a roof, stairs that ended nowhere'. He said it was inspired by Arnold Böcklin's painting The Isle of the Dead, and its language of ruins echoes Piranesi's etchings [2]. Weeping maidens guarded caskets along the colonnade, deliberate overgrowth spilled from huge planter boxes, and everything was reflected in a dark, irregular lagoon [2]. Visitors loved it. Thomas Edison is quoted as saying, 'The architect of that building is a genius' [2]. It was the one building nobody had the heart to tear down [3]. But its plaster-like 'staff' was never meant to last, and by the 1940s chunks were falling off 'like leaves from autumn elms' [3]. Asked in old age what should be done, Maybeck suggested planting redwoods around the rotunda, so the columns would crumble as the trees grew and the palace would 'become its own cemetery' [2]. Instead, after financier Walter Johnson offered money that others matched, it was rebuilt in permanent materials in the 1960s [3].",
+    "people": [
+      {
+        "name": "Bernard Maybeck",
+        "role": "architect"
+      },
+      {
+        "name": "Frank Morton Todd",
+        "role": "official historian of the exposition"
+      },
+      {
+        "name": "Walter Johnson",
+        "role": "financier who funded reconstruction"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Destruction of the Fair (Gray Brechin)",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Destruction_of_the_Fair",
+        "supports": "Maybeck was fifty when chosen; previously restricted largely to residential work"
+      },
+      {
+        "title": "The Palace of Fine Arts (Gray Brechin)",
+        "publisher": "FoundSF",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=The_Palace_of_Fine_Arts",
+        "supports": "Todd quote, Böcklin and Piranesi inspirations, weeping maidens and overgrowth, dark lagoon, Edison quote, Maybeck's redwoods and 'its own cemetery' quote"
+      },
+      {
+        "title": "San Francisco Landmark #88: Palace of Fine Arts",
+        "publisher": "NoeHill in San Francisco (quoting Here Today, 1968)",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf088.asp",
+        "supports": "Nobody had the heart to destroy it, staff falling in chunks by the 1940s, Walter Johnson's matched gift for restoration"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "marina-lincoln-beachey-last-loop",
+    "title": "The man who owned the sky",
+    "theme": "architecture-landmarks",
+    "year": 1915,
+    "yearEnd": null,
+    "place": {
+      "label": "Bay off the exposition grounds, Marina shoreline",
+      "lat": 37.8068,
+      "lon": -122.441,
+      "precision": "area"
+    },
+    "hook": "Fifty thousand people at the fair watched the world's greatest stunt pilot flip his new plane upside down above the bay. Then the wings broke.",
+    "story": "Lincoln Beachey was born in San Francisco in 1887 [1]. As a boy, Radiolab reports, he hurtled down the steep Fillmore Street hill on a bicycle with no brakes [2]. He grew up to be America's most famous stunt pilot. He invented the figure eight and the vertical drop, and in one year 17 million people came out to watch him fly [2]. His 'dip of death' took him up to 5,000 feet, then down toward the ground in a full-speed dive with his hands outstretched [1]. For the Panama-Pacific International Exposition he flew a new monoplane, the Beachey-Eaton Taube, with an enclosed cockpit [1]. On March 14, 1915, with 50,000 people on the fairgrounds and perhaps 200,000 more on the hills, he looped and rolled the plane onto its back about 2,000 feet above the bay [1]. As he pulled out, the rear spars of the wings broke, and the plane fell into the water between two ships [1]. Navy men jumped in to help, but it took an hour and 45 minutes to bring up his body. The autopsy found he had survived the crash with only a broken leg. He drowned because he could not free himself from his harness. He was 28 [1].",
+    "people": [
+      {
+        "name": "Lincoln Beachey",
+        "role": "aviator and stunt pilot"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lincoln Beachey",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Lincoln_Beachey",
+        "supports": "Birth 1887 in SF, dip of death, Beachey-Eaton Taube, 14 March 1915 crowd figures, inverted flight at 2,000 ft, spar failure, recovery time, drowning in harness"
+      },
+      {
+        "title": "Loop the Loop",
+        "publisher": "Radiolab, WNYC Studios",
+        "year": 2011,
+        "url": "https://radiolab.org/podcast/159748-loop-loop",
+        "supports": "Fillmore hill bicycle, figure eights and vertical drop, 17 million spectators in one year, final flight at the 1915 fair"
+      }
+    ],
+    "photo": null
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "id": "hayes-valley-thomas-hayes",
+    "title": "The county clerk who named a valley",
+    "theme": "gold-rush-victorian",
+    "year": 1856,
+    "yearEnd": 1860,
+    "place": {
+      "label": "Hayes Street between Van Ness Avenue and Franklin Street",
+      "lat": 37.777257,
+      "lon": -122.421216,
+      "precision": "block"
+    },
+    "hook": "Hayes Valley is named for a Gold Rush county clerk whose brother helped name the streets and who also held the franchise for the West Coast's first railway.",
+    "story": "Before there was a Hayes Valley there was Colonel Thomas Hayes, San Francisco's county clerk from 1853 to 1856. He held a large tract of land out here in the Western Addition, then the city's western fringe. The Van Ness Ordinance confirmed his claim, and his own house stood on Hayes Street between Van Ness and Franklin [1]. In 1856 a three-man committee named the streets of the new district. One of its members was Hayes's brother Michael, who, according to the Museum of the City of San Francisco, 'probably was instrumental' in giving this street the family name [1]. Hayes also held the franchise, granted by the state Legislature, for the Market Street Railway. It was developed by François Pioche, a Paris-born importer and banker, and it became the first railway on the Pacific Coast [2]. The company was founded in 1857. Market Street was graded, and three years later the first car rolled out toward 16th and Valencia streets, pulled by steam 'dummies' and later by horses [2]. Hayes's house is long gone. Its block is now part of the Civic Center's performing-arts district, but his name runs west across the whole neighbourhood.",
+    "people": [
+      {
+        "name": "Thomas Hayes",
+        "role": "County clerk and landowner"
+      },
+      {
+        "name": "Michael Hayes",
+        "role": "Street-naming committee member, his brother"
+      },
+      {
+        "name": "François Pioche",
+        "role": "Developer of the Market Street Railway"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Streets Named for Pioneers",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "http://www.sfmuseum.org/street/stnames4.html",
+        "supports": "Hayes as county clerk 1853-56, landholding confirmed by Van Ness Ordinance, house on Hayes between Van Ness and Franklin, brother Michael on 1856 naming committee"
+      },
+      {
+        "title": "The Market Street Railway",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Market_Street_Railway",
+        "supports": "Franchise granted to Thomas Hayes, Pioche, first Pacific Coast railway, 1857 company, first car to 16th and Valencia three years later, steam dummies then horses"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "hayes-valley-orphan-asylum",
+    "title": "Orphans, refugees and a teachers' college",
+    "theme": "communities",
+    "year": 1854,
+    "yearEnd": 1919,
+    "place": {
+      "label": "Former San Francisco Orphan Asylum block (Haight, Buchanan, Hermann and Laguna streets)",
+      "lat": 37.7716,
+      "lon": -122.4265,
+      "precision": "block"
+    },
+    "hook": "For $100, a group of women bought two remote blocks for their orphans. The site went on to shelter 1906 refugees and a teachers' college.",
+    "story": "The San Francisco Orphan Asylum Society was founded in 1851 by women who met at the home of the Reverend Albert Williams, to care for siblings orphaned by cholera on the way to California. By 1852 it had outgrown its first home [1]. For $100 its managers bought two blocks bounded by Haight, Buchanan, Hermann and Laguna. The land was then thought remote, far beyond the city limits [1]. On March 22, 1854, the children moved into a two-storey stone dormitory, with stone hauled free by the Spring Valley Water Company [1]. It grew to about 300 children, and donors included Levi Strauss, Adolph Sutro and Lillie Coit. Local legend says Haight and Waller streets are named for two of its board members [1]. The 1906 earthquake damaged the building but did not destroy it, and refugees camped on the slopes nearby [1]. The Society had leased the southern half of its land to the state for the San Francisco State Normal School, which lost its Powell Street building and all its records in the fire. Within ten days, president Frederic Burk had found a new site 'on upper Market Street'. Classes resumed that June, making it the first public school in the city to reopen [2][1]. The orphans left in 1919, and the state bought the property [1].",
+    "people": [
+      {
+        "name": "Rev. Albert Williams",
+        "role": "Hosted the Society's founding meetings"
+      },
+      {
+        "name": "Frederic Burk",
+        "role": "First president of San Francisco State Normal School"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Orphan Asylum Society",
+        "publisher": "FoundSF (George Gomes)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco_Orphan_Asylum_Society",
+        "supports": "Founding 1851, $100 purchase, 1854 move, stone, donors, 300 children, street-name legend, 1906 damage and refugees, lease to State Normal School, 1919 sale"
+      },
+      {
+        "title": "SFSU Centennial History: Long Narrative (archived)",
+        "publisher": "San Francisco State University",
+        "year": 2009,
+        "url": "https://web.archive.org/web/2019/https://www.sfsu.edu/~100years/history/long.htm",
+        "supports": "Normal School building and records destroyed in 1906; Burk found upper Market site within ten days; first public school to reopen; later outgrew 4/5-acre campus"
+      },
+      {
+        "title": "San Francisco Landmark #256: Richardson Hall",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/sf256.asp",
+        "supports": "Richardson Hall (1925) and Woods halls are landmark buildings of the San Francisco State Teachers College National Register listing"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "hayes-valley-ham-and-egg-fire",
+    "title": "The breakfast that burned Hayes Valley",
+    "theme": "quake1906",
+    "year": 1906,
+    "place": {
+      "label": "South side of Hayes Street just east of Gough Street",
+      "lat": 37.776811,
+      "lon": -122.42267,
+      "precision": "block"
+    },
+    "hook": "A woman cooked breakfast on a stove with an earthquake-cracked chimney. The fire that started there burned a church, a college and most of Hayes Valley east of Octavia.",
+    "story": "At about 9 a.m. on April 18, 1906, in a house on the south side of Hayes Street about 75 feet east of Gough, a woman lit her stove to cook breakfast. The earthquake had damaged her chimney, and fire broke out [1]. With every fire company already busy, nobody could stop what became known as the 'ham and egg fire'. The historian Lawrence Kennedy judged that it 'burned over more territory than any other single fire' [1]. By about 1 p.m. it had reached the St. Nicholas Hotel at Market and Hayes. St. Ignatius Church and College at Van Ness and Hayes was burning, and flying embers set the roof of Mechanics' Pavilion alight [1]. The Jesuit church had been built in 1880 and could hold 4,000 worshippers. It was destroyed along with its college [2]. Through the night the fire spread west and north. Soldiers ordered the Lagan family out of their Haight Street home at 2 a.m. [3]. At about 5 a.m. on April 19, the fire was finally stopped along Octavia Street, 'assisted by neither wind, hills, or vacant lots', and Octavia became a permanent edge of the burned district [1]. At Market and Octavia, the 1894 Fallon Building is the only survivor of its row. The buildings to its east burned [4].",
+    "people": [
+      {
+        "name": "Lawrence J. Kennedy",
+        "role": "Historian of the fire's progress"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Progress of the Fire in San Francisco, April 18th-21st, 1906",
+        "publisher": "Museum of the City of San Francisco (Lawrence J. Kennedy)",
+        "year": 1908,
+        "url": "http://www.sfmuseum.org/1906/kennedy.html",
+        "supports": "Origin on Hayes near Gough, 'ham and egg fire', St. Nicholas Hotel, St. Ignatius, Mechanics Pavilion, stopped at Octavia on the 19th"
+      },
+      {
+        "title": "Saint Ignatius Church (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Saint_Ignatius_Church_(San_Francisco)",
+        "supports": "1880 church and college at Hayes and Van Ness, capacity 4,000, destroyed in 1906"
+      },
+      {
+        "title": "San Francisco Landmark #164: McMorry-Lagan Residence",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf164.asp",
+        "supports": "Lagan family evacuated at 2 a.m. April 19, 1906; fire stopped two blocks east"
+      },
+      {
+        "title": "San Francisco Landmark #223: Carmel Fallon Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf223.asp",
+        "supports": "Fallon Building is the sole survivor on that stretch; buildings to the east burned in 1906"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "hayes-valley-rube-goldberg-building",
+    "title": "Rube Goldberg's building for his father",
+    "theme": "arts-counterculture",
+    "year": 1911,
+    "place": {
+      "label": "R. L. Goldberg Building, 182-198 Gough Street",
+      "lat": 37.77487,
+      "lon": -122.422356,
+      "precision": "building"
+    },
+    "hook": "The cartoonist whose name means 'needlessly complicated' built something quite simple on Gough Street: shops downstairs and a flat for his widowed dad upstairs.",
+    "story": "Before his name became shorthand for absurdly complicated contraptions, Reuben Goldberg was a San Francisco boy, born here in 1883. His father, a city police and fire commissioner, steered him toward engineering. Rube graduated from UC Berkeley in 1904 and went to work as an engineer for the city's Water and Sewers Department [2]. He lasted six months, then quit to become a sports cartoonist at the San Francisco Chronicle [2]. In 1911 he commissioned a building at 182–198 Gough Street. Its ground-floor shops brought in rent, and upstairs were two apartments, one for himself and one for his widowed father, Max [1][2]. Goldberg spent most of his career in New York, where his drawings of machines that did simple jobs in hilariously roundabout ways made him famous. He won the Pulitzer Prize for political cartooning in 1948 [2]. He still made long visits to his San Francisco home and kept the building for the rest of his life [1]. The city later made it Landmark No. 268 for its close association with the man whose name now describes any device 'deliberately over-engineered to perform a simple task' [1].",
+    "people": [
+      {
+        "name": "Rube Goldberg",
+        "role": "Cartoonist, engineer, owner"
+      },
+      {
+        "name": "Max Goldberg",
+        "role": "His father, police and fire commissioner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark 268: R. L. Goldberg Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf268.asp",
+        "supports": "Built 1911, commissioned by Rube Goldberg for himself and widowed father Max, commercial ground floor, extended visits, landmark status"
+      },
+      {
+        "title": "Rube Goldberg",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Rube_Goldberg",
+        "supports": "Born 1883 in San Francisco, father's role, Berkeley 1904, Water and Sewers Department, Chronicle sports cartoonist, 1948 Pulitzer, 1911 Gough Street building"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "hayes-valley-war-memorial-opera-house",
+    "title": "A war memorial that sings",
+    "theme": "architecture-landmarks",
+    "year": 1932,
+    "place": {
+      "label": "War Memorial Opera House, 301 Van Ness Avenue",
+      "lat": 37.778468,
+      "lon": -122.420368,
+      "precision": "building"
+    },
+    "hook": "A court ruling blocked San Francisco's opera house until a returning major had an idea: build it as a memorial to the war dead.",
+    "story": "The 1906 fire destroyed San Francisco's theatres and opera houses. In 1911 and 1912 the Musical Association tried to build a new hall, but the state Supreme Court ruled that the city could not give land for what was essentially a private building [1]. The group met again in April 1918. That November Major Charles H. Kendrick came home from the First World War with an idea: combine the hall with a memorial to the war's veterans [1]. The Association bought land on Van Ness Avenue, where St. Ignatius Church and College had stood before 1906 [1]. Arthur Brown Jr. and G. Albert Lansburgh designed twin buildings, an Opera House and a Veterans Building, facing City Hall [1]. Foundation work began on January 28, 1931, and the cornerstones were laid on Armistice Day that year [1][2]. The Opera House opened on October 15, 1932, in the depths of the Depression, with Puccini's Tosca. Gaetano Merola conducted and Claudia Muzio sang the title role [1][2]. The nine performances sold out, and three more were added [2]. According to the city's landmark report, it was the first municipally owned opera house in the world [1].",
+    "people": [
+      {
+        "name": "Charles H. Kendrick",
+        "role": "Veteran who proposed the memorial"
+      },
+      {
+        "name": "Arthur Brown Jr.",
+        "role": "Architect"
+      },
+      {
+        "name": "G. Albert Lansburgh",
+        "role": "Architect"
+      },
+      {
+        "name": "Gaetano Merola",
+        "role": "Conductor, San Francisco Opera founder"
+      },
+      {
+        "name": "Claudia Muzio",
+        "role": "Soprano, opening-night Tosca"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #84: War Memorial Complex",
+        "publisher": "NoeHill in San Francisco (adapted from City Planning Commission Resolution 7273, 1974)",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf084.asp",
+        "supports": "1911-12 court setback, 1918 meeting, Kendrick's idea, St. Ignatius site, architects, 1931 dates, 1932 Tosca opening, first municipally owned opera house"
+      },
+      {
+        "title": "History",
+        "publisher": "San Francisco War Memorial & Performing Arts Center",
+        "year": null,
+        "url": "https://sfwarmemorial.org/about/history",
+        "supports": "Construction and cornerstone dates, October 15, 1932 opening with Tosca under Merola, sold-out run extended by three performances"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "hayes-valley-un-charter",
+    "title": "Fifty nations sign on Van Ness",
+    "theme": "war-military",
+    "year": 1945,
+    "yearEnd": 1951,
+    "place": {
+      "label": "Veterans Building and Herbst Theatre, 401 Van Ness Avenue",
+      "lat": 37.779462,
+      "lon": -122.420513,
+      "precision": "building"
+    },
+    "hook": "In the spring of 1945 the world came to Van Ness Avenue. Delegates of fifty nations spent two months there writing the United Nations Charter.",
+    "story": "From April 25 to June 26, 1945, while the Second World War was still being fought, delegates of fifty nations met in San Francisco to write the Charter of the United Nations. There were 850 delegates, 3,500 people once advisers and staff were counted, and more than 2,500 press, radio and newsreel reporters and observers [1]. The twin War Memorial buildings on Van Ness were the conference's home. According to the UN, the Charter was adopted unanimously in the Opera House on June 25. The next day it was signed in the auditorium of the Veterans Building, now the Herbst Theatre [1]. The War Memorial's own history agrees, with President Truman and other dignitaries signing on the Veterans Auditorium stage [2]. The city's 1974 landmark resolution, however, puts the signing 'on the great stage of the Opera House' [3]. Six years later the Opera House hosted another ending. On September 8, 1951, the peace treaty with Japan was signed on its stage. The War Memorial calls the broadcast America's first live coast-to-coast television broadcast [2].",
+    "people": [
+      {
+        "name": "Harry S. Truman",
+        "role": "U.S. President, signed the Charter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The San Francisco Conference",
+        "publisher": "United Nations",
+        "year": null,
+        "url": "https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference",
+        "supports": "Dates, fifty nations, 850 delegates, 3,500 total, 2,500 press; adopted June 25 at the Opera House, signed June 26 at the Herbst Theatre"
+      },
+      {
+        "title": "History",
+        "publisher": "San Francisco War Memorial & Performing Arts Center",
+        "year": null,
+        "url": "https://sfwarmemorial.org/about/history",
+        "supports": "Truman signing on Veterans Auditorium stage; 1951 treaty signed on Opera House stage; first live coast-to-coast TV broadcast"
+      },
+      {
+        "title": "San Francisco Landmark #84: War Memorial Complex",
+        "publisher": "NoeHill in San Francisco (adapted from City Planning Commission Resolution 7273, 1974)",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf084.asp",
+        "supports": "Conflicting account placing the Charter signing on the Opera House stage"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "hayes-valley-mint-hill",
+    "title": "The money fortress on Clinton Mound",
+    "theme": "labor-industry",
+    "year": 1937,
+    "place": {
+      "label": "United States Mint, 155 Hermann Street",
+      "lat": 37.770451,
+      "lon": -122.427568,
+      "precision": "building"
+    },
+    "hook": "After 1906, refugees camped on this rocky hill. Since 1937 it has held a working U.S. Mint that almost nobody is allowed to visit.",
+    "story": "The rocky rise above Market and Duboce was once known as Clinton Mound. After the 1906 earthquake and fire, refugees camped on its slopes [1]. In 1937 the federal government built the third home of the San Francisco Mint on the hill. The branch had opened in 1854 to serve the Gold Rush mines [2]. Designed by Gilbert Stanley Underwood in a stripped classical style, the building at 155 Hermann Street replaced the 1874 'Old Mint' on Fifth Street, which had saved the nation's gold reserves from the 1906 fire [2][3]. Since then its history has been oddly stop-start. From 1955, circulating coinage was suspended for 13 years, and from 1962 to 1988 the building was officially only an 'assay office' [2]. Since 1975 it has struck almost nothing but proof coins for collectors, apart from Susan B. Anthony dollars and some cents, many marked with a small 'S' [2]. Visitors are admitted only as a rare exception. For the Mint's 50th anniversary in May 1987, a limited number of people got a tour, advertised in the Chronicle with reservations required [2]. It was listed on the National Register of Historic Places in 1988 [2][3].",
+    "people": [
+      {
+        "name": "Gilbert Stanley Underwood",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Orphan Asylum Society (photo captions)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco_Orphan_Asylum_Society",
+        "supports": "1906 refugee camp on 'Clinton Mound,' today's Mint Hill"
+      },
+      {
+        "title": "San Francisco Mint",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Mint",
+        "supports": "1854 founding, 1937 building by Underwood, 1955 suspension, assay office 1962-88, proof coinage, 1987 anniversary tour, NRHP 1988"
+      },
+      {
+        "title": "National Register #88000026: United States Mint",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2005,
+        "url": "https://noehill.com/sf/landmarks/nat1988000026.asp",
+        "supports": "155 Hermann Street, built 1937, third San Francisco mint; Old Mint survived 1906"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "hayes-valley-central-freeway",
+    "title": "The freeway Hayes Valley finally beat",
+    "theme": "civil-rights",
+    "year": 1959,
+    "yearEnd": 2005,
+    "place": {
+      "label": "Octavia Boulevard at Market Street",
+      "lat": 37.7722,
+      "lon": -122.4232,
+      "precision": "street"
+    },
+    "hook": "Planners called the neighbourhood blighted and ran a double-decker freeway through it. After an earthquake and three ballot fights, a boulevard replaced it.",
+    "story": "In the mid-1950s, city planners called Hayes Valley blighted and in need of 'social surgery'. By 1959 the elevated Central Freeway had been built through it as far as Turk Street [1]. The wealthier neighbourhoods to the north, active in the freeway revolts, blocked its extension, so the freeway emptied its traffic onto Hayes Valley's streets. By the late 1960s more than 150,000 vehicles a day came through, and by the 1970s the freeway's shadow was notorious for drug dealing and prostitution [1]. The 1989 Loma Prieta earthquake shut the freeway. The damaged stretch north of Fell Street was torn down, which opened Hayes Street to the sky and helped its shops revive [1]. Then came three ballot measures, in 1997, 1998 and 1999. In 1997, Proposition H, backed by west-side and merchant groups, passed with 53 percent to rebuild the freeway, shocking residents and City Hall alike [2]. The fight went on. The final compromise ended the freeway just south of Market Street and replaced the rest with a tree-lined boulevard along Octavia. It opened after an 11 a.m. ribbon-cutting at Octavia and Market on September 9, 2005 [3]. 'Half the city wanted the freeway restored, and half wanted it torn down,' a Caltrans spokesman said [3].",
+    "people": [
+      {
+        "name": "Jeff Weiss",
+        "role": "Caltrans spokesman"
+      },
+      {
+        "name": "Robin Levitt",
+        "role": "Architect and neighbourhood advocate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Second Freeway Revolt",
+        "publisher": "FoundSF (Jason Henderson)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Second_Freeway_Revolt",
+        "supports": "'Social surgery', 1959 completion to Turk, northern extension blocked, 150,000 vehicles a day, 1970s decline, removal north of Fell after 1989"
+      },
+      {
+        "title": "Dueling Ballots: The Central Freeway's Fate",
+        "publisher": "FoundSF (Jason Henderson)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Dueling_Ballots:_The_Central_Freeway%E2%80%99s_Fate",
+        "supports": "Proposition H passed November 1997 with 53 percent, supporters, shock"
+      },
+      {
+        "title": "Boulevard of dreams, the premiere: Hayes Valley freed of freeway",
+        "publisher": "San Francisco Chronicle (Rachel Gordon)",
+        "year": 2005,
+        "url": "https://web.archive.org/web/20060316210954/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/08/BAGBFEJVE21.DTL",
+        "supports": "Three ballot measures 1997-99, boulevard design, ribbon-cutting at Octavia and Market, Caltrans quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "hayes-valley-zuni-cafe",
+    "title": "From cactus-shop café to Zuni",
+    "theme": "modern-city",
+    "year": 1979,
+    "yearEnd": 2013,
+    "place": {
+      "label": "Zuni Café, 1658 Market Street",
+      "lat": 37.773575,
+      "lon": -122.421577,
+      "precision": "building"
+    },
+    "hook": "Zuni began in a corner of a cactus shop, cooking on an espresso machine, a toaster oven and a Weber grill. Its roast chicken became famous.",
+    "story": "In 1979 Billy West opened a little café in one corner of a triangular building on Market Street. Most of the building belonged to a cactus shop called Red Desert, and the café borrowed its Southwestern style. West cooked Southwest food with an espresso machine, a toaster oven and a Weber grill [1]. Through the 1980s he expanded it, made it a queer hot spot, and won praise from the British food writer Elizabeth David [1]. In 1987 he brought in Chez Panisse alumna Judy Rodgers as chef and partner [1]. As a teenage exchange student in France, Rodgers had lived with the Troisgros family, whose restaurant had three Michelin stars [2]. She insisted on a massive wood-fired brick oven long before other chefs took up the idea. From it came a roast chicken with bread salad that became the signature dish, alongside a benchmark Caesar salad [2][1]. Zuni won the James Beard Foundation's top restaurant award in 2003, and Rodgers won its chef's award a year later [2]. West died in 1994 of complications related to AIDS, and Rodgers died in 2013 [1]. When a new chef later took over the kitchen, some dishes, the chicken among them, could not be changed [1].",
+    "people": [
+      {
+        "name": "Billy West",
+        "role": "Founder"
+      },
+      {
+        "name": "Judy Rodgers",
+        "role": "Chef and partner from 1987"
+      }
+    ],
+    "sources": [
+      {
+        "title": "It's a vibe: Zuni Cafe",
+        "publisher": "San Francisco Chronicle",
+        "year": 2023,
+        "url": "https://www.sfchronicle.com/projects/2023/zuni-cafe-vibe/",
+        "supports": "1979 opening by Billy West, Red Desert cactus shop, Weber grill, queer hot spot, Elizabeth David, Rodgers 1987, deaths of West (1994) and Rodgers (2013), unchangeable dishes"
+      },
+      {
+        "title": "Zuni Cafe's Judy Rodgers leaves remarkable legacy",
+        "publisher": "SFGate (Michael Bauer)",
+        "year": 2013,
+        "url": "https://www.sfgate.com/recipes/article/Zuni-Cafe-s-Judy-Rodgers-leaves-remarkable-legacy-5042427.php",
+        "supports": "Troisgros exchange, wood oven built soon after 1987, roast chicken and Caesar, James Beard awards 2003 and 2004"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "hayes-valley-fallon-building-lgbt-center",
+    "title": "A Castro's house joins the gay center",
+    "theme": "lgbtq",
+    "year": 1997,
+    "yearEnd": 2002,
+    "place": {
+      "label": "Fallon Building and SF LGBT Center, 1800 Market Street",
+      "lat": 37.771741,
+      "lon": -122.423908,
+      "precision": "building"
+    },
+    "hook": "The founders of San Francisco's gay community center planned to demolish an 1894 Victorian. Gay preservationists fought back. The house had been built by a member of the Castro family.",
+    "story": "The Victorian at Market and Octavia was built in 1894 by Carmel Fallon, born into the prominent Californio Castro family [1]. She had married Thomas Fallon, a Bear Flag Revolt veteran and later mayor of San Jose. According to the landmark account, she caught him with the maid, divorced him, and invested her settlement in San Francisco real estate [1]. Her building is the only survivor of its row on this stretch of Market. The 1906 fire took the buildings to its east, and development later took those to the west [1]. In December 1996, leaders of a proposed gay and lesbian community center bought the site. In 1997 their board voted 'not to use' the battered house after the architects estimated that renovating it would cost $1.6 to $2.6 million [2]. A coalition of gay activists and preservationists rallied to save it and collected more than 1,000 signatures [2]. The Chronicle pointed out the irony: a gay center was about to demolish a house built by a Castro, a name that had come to symbolize the gay movement around the world [2]. The house survived. It became city Landmark No. 223, and it is now part of the San Francisco LGBT Community Center, which opened in March 2002 [1][3].",
+    "people": [
+      {
+        "name": "Carmel Fallon",
+        "role": "Builder of the 1894 house"
+      },
+      {
+        "name": "Tom Mayer",
+        "role": "Organizer, Friends of 1800 Market"
+      },
+      {
+        "name": "Denise LaPointe",
+        "role": "Former Landmarks Board president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #223: Carmel Fallon Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf223.asp",
+        "supports": "Built 1894, Carmel Castro Lodge Fallon, Thomas Fallon, divorce and investment, sole survivor of the row"
+      },
+      {
+        "title": "Planned Razing of Victorian House Raises Battle Cry in Castro",
+        "publisher": "SFGate (Dan Levy)",
+        "year": 1997,
+        "url": "https://www.sfgate.com/news/article/Planned-Razing-of-Victorian-House-Raises-Battle-2822932.php",
+        "supports": "December 1996 purchase, board vote, renovation estimates, rally, petitions, Castro-name irony"
+      },
+      {
+        "title": "San Francisco LGBT Community Center",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_LGBT_Community_Center",
+        "supports": "Center opened March 2002 and incorporates the landmark Fallon Building"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "hayes-valley-sfjazz-center",
+    "title": "Jazz finally gets a home",
+    "theme": "arts-counterculture",
+    "year": 2013,
+    "place": {
+      "label": "SFJAZZ Center, 201 Franklin Street",
+      "lat": 37.776414,
+      "lon": -122.421341,
+      "precision": "building"
+    },
+    "hook": "After thirty years of trucking pianos to borrowed stages, SFJAZZ opened a hall of its own, billed as the first freestanding building in the West made for jazz.",
+    "story": "SFJAZZ has produced the San Francisco Jazz Festival since 1983 [2]. For three decades it rented trucks to deliver pianos and drums to gigs at other people's venues [1]. In January 2013 it opened a home of its own at Fell and Franklin, billed as the first freestanding building in the West built for jazz performance and education. More than $60 million had been raised over more than a decade to build it [1]. McCoy Tyner, Chick Corea and Esperanza Spalding played the opening gala on a rainy night, with Tom Waits and Amy Tan in the audience [1]. Architect Mark Cavagnero's $64 million building has a see-through glass ground floor. Above it, bands of clear and translucent glass deliberately fail to line up from one floor to the next, an 'off-center syncopation', in the words of Chronicle critic John King [3]. Inside, the 700-seat auditorium wraps seats all the way around the stage. 'I didn't want anything axial, where you feel like you should be in the middle,' Cavagnero said [3]. News coverage of the opening linked the hall to the Fillmore a few blocks north. The Fillmore was once nicknamed 'Harlem of the West', and many of its jazz clubs were destroyed by urban renewal [1].",
+    "people": [
+      {
+        "name": "Mark Cavagnero",
+        "role": "Architect"
+      },
+      {
+        "name": "Randall Kline",
+        "role": "SFJAZZ executive director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "New Jazz Center Opens In SF's Hayes Valley",
+        "publisher": "CBS San Francisco / AP",
+        "year": 2013,
+        "url": "https://sanfrancisco.cbslocal.com/2013/01/21/new-jazz-center-opens-in-sfs-hayes-valley/",
+        "supports": "Opening gala performers and guests, first freestanding claim, $60 million raised, renting trucks for three decades, Fillmore context"
+      },
+      {
+        "title": "SFJAZZ Center",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/SFJAZZ_Center",
+        "supports": "201 Franklin Street, January 2013, festival since 1983"
+      },
+      {
+        "title": "SFJazz Center - new Cavagnero landmark",
+        "publisher": "San Francisco Chronicle (John King)",
+        "year": 2013,
+        "url": "https://www.sfgate.com/bayarea/place/article/SFJazz-Center-new-Cavagnero-landmark-4214299.php",
+        "supports": "$64 million, glass bands, 'off-center syncopation', 700-seat wraparound auditorium, Cavagnero quote, Kline as executive director"
+      }
+    ],
+    "photo": null,
+    "yearEnd": null
+  },
+  {
+    "id": "hayes-valley-openhouse-55-laguna",
+    "title": "Coming home at 55 Laguna",
+    "theme": "lgbtq",
+    "year": 2016,
+    "yearEnd": 2019,
+    "place": {
+      "label": "Openhouse at 55 Laguna Street (former Richardson Hall)",
+      "lat": 37.771186,
+      "lon": -122.425405,
+      "precision": "building"
+    },
+    "hook": "An old teachers' college campus became the nation's largest LGBTQ+-welcoming affordable housing for seniors.",
+    "story": "Richardson Hall was built at 55 Laguna in 1925 as the Kindergarten Training Building of the San Francisco State Teachers College. It is one of three city landmarks on a campus listed on the National Register [1]. After the college left, the University of California Extension used the site until the mid-2000s [2]. More than 20 years before that, two women had begun worrying about where the city's LGBTQ+ elders would live. They were Dr. Marcy Adelman and Jeanette Gurevitch, the founders of Openhouse [3]. Working with Mercy Housing, Openhouse won a landmark decision from the Planning Commission in 2012 for what it describes as the nation's largest LGBTQ+-welcoming low-income housing project [3]. Residents began moving into the renovated 55 Laguna in December 2016. That same year Openhouse opened San Francisco's first LGBTQ+ senior center next door at 65 Laguna [3]. In 2019 residents moved into a new building at 95 Laguna, named for the two founders [3]. Of the 117 apartments, 14 are reserved for formerly homeless people through the federal Housing Opportunities for Persons with AIDS program. Historic murals are preserved throughout the buildings [3].",
+    "people": [
+      {
+        "name": "Marcy Adelman",
+        "role": "Openhouse co-founder"
+      },
+      {
+        "name": "Jeanette Gurevitch",
+        "role": "Openhouse co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #256: Richardson Hall",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/sf256.asp",
+        "supports": "Built 1925 as Kindergarten Training Building; one of three landmarks in the National Register listing"
+      },
+      {
+        "title": "San Francisco Orphan Asylum Society",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=San_Francisco_Orphan_Asylum_Society",
+        "supports": "UC Berkeley Extension operated on the site until the mid-2000s"
+      },
+      {
+        "title": "Our Campus",
+        "publisher": "Openhouse",
+        "year": null,
+        "url": "https://www.openhouse-sf.org/our-campus",
+        "supports": "Founders, Mercy Housing partnership, 2012 Planning Commission decision, 2016 and 2019 openings, 65 Laguna senior center, unit set-asides, murals"
+      }
+    ],
+    "photo": null
+  }
+]

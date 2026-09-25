@@ -1,0 +1,630 @@
+[
+ {
+  "id": "haight-ashbury-hill-park-1867",
+  "title": "The squatters' hill that became a park",
+  "theme": "parks-nature",
+  "year": 1867,
+  "yearEnd": 1894,
+  "place": {
+   "label": "Buena Vista Park, Haight St at Buena Vista Ave West",
+   "lat": 37.768,
+   "lon": -122.442,
+   "precision": "area"
+  },
+  "hook": "San Francisco's oldest official park began as a sandy, oak-studded hill the city had to buy back from squatters.",
+  "story": "Long before the Haight had houses, the city reserved the steep hill above it. In 1867 San Francisco's Committee on Outside Lands set aside the slope as \"Hill Park\", and Wikipedia calls it the oldest official park in the city [1][2]. (A walking-tour text dates the reservation to 1868 [3].) The hill wasn't empty. The city paid squatters $88,250 to give up their claims to the hilltop [1]. It was also one of the few places in town with native trees. The great dunes that once covered about a third of San Francisco had climbed right over this hill. Over centuries, plants steadied the sand until coast live oaks could grow, and the park's northern slopes still hold one of the city's largest remnant stands of oak woodland [4]. The park was dedicated as Buena Vista Park in 1894. Superintendent John McLaren then oversaw planting eucalyptus, cypress, pine, Australian tea trees and small redwoods alongside the old oaks and toyon. During Adolph Sutro's term as mayor (1894 to 1898), schoolchildren planted seedlings there on Arbor Day [1]. Sources even disagree on the hill's height: 569, 575 or 589 feet [1][2][3].",
+  "people": [
+   {
+    "name": "John McLaren",
+    "role": "park superintendent who oversaw the forestation"
+   },
+   {
+    "name": "Adolph Sutro",
+    "role": "mayor during the Arbor Day plantings"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Buena Vista History (Jeanne Alexander, SF Observer 1999)",
+    "publisher": "FoundSF",
+    "year": 1999,
+    "url": "https://www.foundsf.org/index.php?title=Buena_Vista_History",
+    "supports": "Hill Park 1867, Outside Lands committee, $88,250 to squatters, 1894 dedication, McLaren planting, Arbor Day under Sutro, 589 ft"
+   },
+   {
+    "title": "Buena Vista Park",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Buena_Vista_Park",
+    "supports": "Oldest official park, established 1867 as Hill Park, 575 ft"
+   },
+   {
+    "title": "Buena Vista Park (Haight-Ashbury Architectural Tour)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Buena_Vista_Park",
+    "supports": "1868 date, native trees, 569 ft"
+   },
+   {
+    "title": "Buena Vista Peak (Pete Holloran)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Buena_Vista_Peak",
+    "supports": "Dunes over the hilltop, remnant coast live oak woodland"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-naming-haight-street",
+  "title": "Who was Haight Street named for?",
+  "theme": "communities",
+  "year": 1856,
+  "place": {
+   "label": "Haight Street between Belvedere and Clayton",
+   "lat": 37.76996,
+   "lon": -122.44892,
+   "precision": "street"
+  },
+  "hook": "Guidebooks credit a banker, a governor or a judge. One researcher found a woman's 1900 pamphlet pointing somewhere else.",
+  "story": "The street that gave the Haight its name has a disputed namesake. The usual candidates are banker Henry W. Haight, his nephew Governor Henry H. Haight, and Fletcher Haight, a lawyer and later a judge. In 1916 the city's Municipal Record named Fletcher, without giving a reason [1]. Researcher Angus MacFarlane dug deeper. He found an 1851 map that already showed a \"Haight Street\", and argues that neither Henry had been in town long enough to be honoured. He thinks it more likely honoured an earlier arrival, Samuel W. Haight [2]. The street we know dates from the Western Addition survey that followed the 1855 Van Ness Ordinance [3]. Here MacFarlane's key witness is Weltha Haight, the banker's wife, who helped run the Protestant Orphan Asylum for decades. In a pamphlet dated May 1, 1900, she recalled that her husband, a city official, had the surrounding streets surveyed, \"and out of compliment to two of the Managers [of the Asylum], Waller Street and Haight Street were named.\" Waller honoured co-founder Elizabeth Waller. Weltha died on February 7, 1906 [3]. Wikipedia now follows MacFarlane, but his is one researcher's case, not settled fact [4].",
+  "people": [
+   {
+    "name": "Weltha Haight",
+    "role": "orphan asylum manager; possible namesake"
+   },
+   {
+    "name": "Henry W. Haight",
+    "role": "banker and assistant alderman"
+   },
+   {
+    "name": "Elizabeth Waller",
+    "role": "asylum founder; namesake of Waller Street"
+   },
+   {
+    "name": "Angus MacFarlane",
+    "role": "researcher"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Naming of Haight Street, Part I: The Men",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Naming_of_Haight_Street,_Part_I:_The_Men",
+    "supports": "Three usual candidates, family relationships, 1916 Municipal Record attribution to Fletcher Haight"
+   },
+   {
+    "title": "Naming of Haight Street, Part 2: The Maps",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Naming_of_Haight_Street,_Part_2:_The_Maps",
+    "supports": "Dexter's 1851 map with a Haight Street; argument for Samuel W. Haight"
+   },
+   {
+    "title": "Naming of Haight Street, Part 4: The Last Haight Standing",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Naming_of_Haight_Street,_Part_4:_The_Last_Haight_Standing",
+    "supports": "Van Ness Ordinance survey, Weltha Haight's 1900 pamphlet quote, Elizabeth Waller, Weltha's death 1906"
+   },
+   {
+    "title": "Haight Street",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Haight_Street",
+    "supports": "States the street is named for Weltha Haight, citing MacFarlane"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-lange-house-piedmont",
+  "title": "The farmhouse that moved twice",
+  "theme": "gold-rush-victorian",
+  "year": 1888,
+  "yearEnd": null,
+  "place": {
+   "label": "11 Piedmont Street",
+   "lat": 37.76553,
+   "lon": -122.44441,
+   "precision": "building"
+  },
+  "hook": "The Haight's oldest building is said to have been hauled across the city to a pig farm, then moved again up a hill away from the sand fleas.",
+  "story": "Tucked away on little Piedmont Street, 11 Piedmont is described as the oldest building in the Haight, and it wasn't built here [1]. According to the neighbourhood's architectural walking tour, Peter Schadt sold the Lange family land bounded by Cole, Carl, Stanyan and Grattan streets in 1870, and the Langes ran a pig farm there. When they moved from Divisadero and Sutter to the farm, they brought everything with them, including the family house. In 1888 the house moved again, to its present spot. It was lived in by a Lange daughter, who reportedly chose the site to escape the sand fleas of the flats below. Her parents built a new house that still stands at the southeast corner of Carl and Stanyan [1]. This was still farm country. Photographs of Cole Valley from around 1890 to 1892 show cows grazing below Mount Sutro and a pond at about Parnassus and Cole [2]. A 1956 student history of the district describes ranchers fencing off five to ten acre plots here to raise cattle, sheep, pigs and chickens for the city [3]. Treat the family details as local tradition: the tour text is the only source found for them.",
+  "people": [
+   {
+    "name": "The Lange family",
+    "role": "pig farmers who moved their house here"
+   },
+   {
+    "name": "Peter Schadt",
+    "role": "sold the farm land in 1870"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Oldest Building in Haight (Haight-Ashbury Architectural Tour)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Oldest_Building_in_Haight",
+    "supports": "1870 sale, Lange pig farm, house moved twice, 1888, sand fleas, Carl and Stanyan house"
+   },
+   {
+    "title": "Cole Valley at Turn of 20th Century",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Cole_Valley_at_Turn_of_20th_Century",
+    "supports": "c.1890 pond at Parnassus and Cole; cows in Cole Valley c.1892"
+   },
+   {
+    "title": "A History of the Haight Ashbury (Janet Mofatt, 1956)",
+    "publisher": "FoundSF",
+    "year": 1956,
+    "url": "https://www.foundsf.org/index.php?title=A_History_of_the_Haight_Ashbury",
+    "supports": "Ranchers' five-to-ten acre plots raising livestock"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-eastlake-delmar",
+  "title": "The designer who disowned his houses",
+  "theme": "architecture-landmarks",
+  "year": 1875,
+  "yearEnd": 1890,
+  "place": {
+   "label": "151 and 168 Delmar Street",
+   "lat": 37.76601,
+   "lon": -122.44505,
+   "precision": "block"
+  },
+  "hook": "Two Delmar Street houses wear a style named after an English tastemaker, who called what Americans did with his ideas \"extravagant and bizarre\".",
+  "story": "Walk down one block of Delmar Street and you pass fifty years of San Francisco house fashion, all in wood [1]. The oldest style here is Eastlake, seen at 151 and 168 Delmar. It was most popular from about 1875 to 1890. Builders took the tall lines, flat fronts and cornices of the earlier Italianates and the square bays and jigsaw trim of the Sticks, then added showier carved panels and mouldings made possible by new machinery [1]. The name came from English designer Charles Eastlake, whose book Hints on Household Taste inspired it. He was not pleased. \"I feel greatly flattered by the popularity which my books have attained in America,\" he wrote, \"but I regret that their author's name should be associated there with a taste in architecture and industrial arts with which I have no real sympathy and which by all accounts seems to be extravagant and bizarre\" [1]. American builders, especially in California, kept going anyway, trading flat-cut gingerbread for lathe-turned spindles. The style later blended with Italianate and Second Empire into what became known as the \"San Francisco Style\" [2]. The Queen Annes further down the block came next, from about 1890 [1].",
+  "people": [
+   {
+    "name": "Charles Eastlake",
+    "role": "English designer who disowned the style"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Delmar Street showcases different styles (Haight-Ashbury Architectural Tour)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Delmar_Street_showcases_different_styles",
+    "supports": "Eastlakes at 151 and 168 Delmar, 1875-1890, style features, Eastlake quotation, Queen Annes"
+   },
+   {
+    "title": "Eastlake movement",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Eastlake_movement",
+    "supports": "Eastlake called the American adaptation 'extravagant and bizarre'; lathe-turned spindlework in California; 'San Francisco Style'"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-cable-and-steam-1883",
+  "title": "A cable car to the dunes' edge",
+  "theme": "gold-rush-victorian",
+  "year": 1883,
+  "place": {
+   "label": "Haight and Stanyan streets, park entrance",
+   "lat": 37.7693,
+   "lon": -122.4531,
+   "precision": "street"
+  },
+  "hook": "In 1883 a railroad baron's cable line reached the sand at Stanyan, and steam trains carried the weekend crowds on to the ocean.",
+  "story": "Until 1883 the Haight was mostly isolated farms and acres of sand dunes. Then the Haight Street cable line was finished, linking the east end of Golden Gate Park with Market Street and downtown [1]. It belonged to Leland Stanford and his associates, who had bought the Market Street Railroad in 1882 and switched it to cable [2]. At Stanyan, riders could go further. Grading for the Park and Ocean Railroad began on October 5, 1883. This steam extension of the Haight cable line ran around the southern edge of the park to the beach, and needed a short tunnel under the park drive that was built in three weeks. Service began on December 1, and papers said thousands rode to the beach on its first Sunday [3]. The 1983 National Register nomination for a nearby hotel puts its terminal just inside the park between Haight and Waller, and calls it the first public service to the beach [4]. The line joined the Market Street Railway in 1894 and was electrified around 1899 or 1900 (sources differ) [2][3]. One of its steam locomotives, Southern Pacific No. 20, was preserved at Travel Town Museum in 1954 [3].",
+  "people": [
+   {
+    "name": "Leland Stanford",
+    "role": "owner of the Market Street Cable Railway"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Haight-Ashbury",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Haight-Ashbury",
+    "supports": "Farms and dunes before 1883; Haight cable line linking the park to Market Street"
+   },
+   {
+    "title": "Market Street Railway (transit operator)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Market_Street_Railway_(transit_operator)",
+    "supports": "Stanford purchase 1882, cable conversion, Haight branch; 7 Haight line electrified 1900"
+   },
+   {
+    "title": "Park and Ocean Railroad",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Park_and_Ocean_Railroad",
+    "supports": "Grading Oct 5 1883, tunnel in three weeks, service Dec 1 1883, crowds, 1894 merger, 1899 electrification, locomotive No. 20"
+   },
+   {
+    "title": "Park View Hotel, National Register nomination",
+    "publisher": "National Park Service",
+    "year": 1983,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/83001235_text",
+    "supports": "Terminal inside the park between Haight and Waller; first public service to the beach"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-haight-street-grounds",
+  "title": "Twenty thousand fans at Stanyan Street",
+  "theme": "gold-rush-victorian",
+  "year": 1887,
+  "yearEnd": 1895,
+  "place": {
+   "label": "Site of Haight Street Grounds, Stanyan, Waller, Shrader and Frederick",
+   "lat": 37.7672,
+   "lon": -122.4512,
+   "precision": "area"
+  },
+  "hook": "The blocks across Stanyan from Kezar were once one of San Francisco's earliest ballparks, where the California League drew crowds by the thousand.",
+  "story": "The ordinary blocks between Stanyan, Waller, Shrader and Frederick were once one of San Francisco's earliest baseball parks. The Haight Street Grounds were built for the California League, and 10,000 fans came to the opening game between the Haverlys and the Pioneers on April 3, 1887. An 1895 newspaper gives the opening as March 24 [1]. The grounds' record crowd is given as 22,000 on November 25, 1889 [1], but a National Register report on the block says crowds of up to 7,000 [2]. This was the league of the moment. In 1888 the Examiner published \"Casey at the Bat\", and its \"Mudville\" was a common jab at Stockton, one of the league's four teams [3]. Next door, Harry Heagerty's two-story saloon sat in the curve of the ballpark, right by the ticket office, on the 1892 Sanborn map [2]. The California League folded in 1893. In March 1895 the Call reported that the grounds would be sold for building lots, and the last game was played on March 10, 1895 [1]. The site was to be carved into house lots [1].",
+  "people": [
+   {
+    "name": "Harry P. Heagerty",
+    "role": "saloon keeper beside the ticket office"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Haight Street Grounds",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Haight_Street_Grounds",
+    "supports": "Boundaries, opening game April 3 1887 with 10,000 fans, alternate date, record 22,000, league folded 1893, 1895 sale and last game"
+   },
+   {
+    "title": "Park View Hotel, National Register nomination",
+    "publisher": "National Park Service",
+    "year": 1983,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/83001235_text",
+    "supports": "Up to 7,000 fans; Heagerty's saloon beside the ticket office on the 1892 Sanborn map"
+   },
+   {
+    "title": "Baseball 1886-1903",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Baseball_1886-1903",
+    "supports": "Casey at the Bat in the Examiner 1888; Mudville a jab at Stockton, a California League team"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-first-big-game-1892",
+  "title": "The first Big Game, minus a football",
+  "theme": "gold-rush-victorian",
+  "year": 1892,
+  "place": {
+   "label": "Haight Street Grounds, near Stanyan and Waller",
+   "lat": 37.7677,
+   "lon": -122.452,
+   "precision": "area"
+  },
+  "hook": "Stanford's student manager, the future President Herbert Hoover, printed too few tickets, and nobody remembered to bring the ball.",
+  "story": "The Stanford–Cal rivalry began on a Haight Street ballfield. On March 19, 1892, the two teams met at the Haight Street Grounds for the first Big Game [1][2]. Stanford had opened only the previous October. Its team, captained and coached in all but name by transfer student John Whittemore, was playing its first season against a Cal side that had played for ten years [1]. Stanford's student manager was the future president Herbert Hoover. Hoover had 10,000 tickets printed, and one account says 20,000 people came. The two managers ended up collecting cash in pots, bowls and anything else they could find [1][3]. Then, as kickoff neared, both teams realised that no one had brought a ball. A sporting-goods store owner in the crowd was sent off on horseback to fetch one, and the game started an hour late. Stanford used trick plays to score the first three touchdowns, then held on to win 14–10 [1]. The grounds hosted the first four Big Games, through November 1894. The December 1892 rematch ended in a 10–10 tie [2][4].",
+  "people": [
+   {
+    "name": "Herbert Hoover",
+    "role": "Stanford student manager, later US president"
+   },
+   {
+    "name": "Herbert Lang",
+    "role": "Cal manager"
+   },
+   {
+    "name": "John Whittemore",
+    "role": "Stanford captain"
+   }
+  ],
+  "sources": [
+   {
+    "title": "1891 Stanford football team",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/1891_Stanford_football_team",
+    "supports": "March 19 1892 game at Haight Street Grounds, Whittemore, Hoover's tickets, forgotten ball, horseback errand, hour delay, 14-10"
+   },
+   {
+    "title": "Haight Street Grounds",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Haight_Street_Grounds",
+    "supports": "Birthplace of the Big Game; first four Big Games and their dates"
+   },
+   {
+    "title": "Big Game (American football)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Big_Game_(American_football)",
+    "supports": "Hoover and Lang organised it; 10,000 tickets, 20,000 came; pots and bowls"
+   },
+   {
+    "title": "1892 Stanford football team",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/1892_Stanford_football_team",
+    "supports": "December 17 1892 10-10 tie with California at Haight Street Grounds"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-triumph-of-light-1887",
+  "title": "A goddess on the city's centre",
+  "theme": "architecture-landmarks",
+  "year": 1887,
+  "place": {
+   "label": "Mount Olympus, Upper Terrace",
+   "lat": 37.76299,
+   "lon": -122.44553,
+   "precision": "area"
+  },
+  "hook": "Adolph Sutro put a 12-foot Goddess of Liberty on Mount Olympus. A sci-fi novelist hid a time-travel sleeping chamber in her base.",
+  "story": "On Thanksgiving Day, November 24, 1887, a crowd climbed Mount Olympus, the hill then said to mark San Francisco's geographic centre [1][2]. The land belonged to Adolph Sutro. He had ordered a copy of a work by the Belgian artist Antoine Wiertz: a 12-foot Goddess of Liberty with a torch in one raised hand and a sword in the other, standing over a man said to represent evil. It was called the Triumph of Light [1]. The mayor and supervisors came, along with the Presidio band and the pupils of the Sanchez Street school. Judge Solomon Hedenfeldt declared that \"liberty is not license, is not anarchy.\" Poet Ella S. Cummins read verses ending \"let there be light and liberty.\" Sutro made the schoolchildren the statue's permanent custodians and deeded the hilltop plot to the city [1]. That same year, Presidio officer Alvarado M. Fuller published a science-fiction novel, A.D. 2000. Its hero sleeps from the 1880s into the 2000s in a chamber inside the new statue's base [1]. By 1954 the city's Art Commission called the battered statue \"beyond repair\". It was removed and never replaced, so only the empty pedestal remains [1][2].",
+  "people": [
+   {
+    "name": "Adolph Sutro",
+    "role": "donor of the statue"
+   },
+   {
+    "name": "Ella S. Cummins",
+    "role": "poet at the unveiling"
+   },
+   {
+    "name": "Alvarado M. Fuller",
+    "role": "army officer and novelist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Triumph of Light: A Closer Look (Arnold Woods)",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 2020,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2020/11/22/the-triumph-of-light-a-closer-look/",
+    "supports": "Dedication date, Wiertz, statue description, speakers and quotes, custodians, deed, Fuller's A.D. 2000, 1954 Art Commission, removal"
+   },
+   {
+    "title": "Mount Olympus (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mount_Olympus_(San_Francisco)",
+    "supports": "Once considered the geographic centre; Sutro's statue lost; pedestal remains"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-shoot-the-chutes-1895",
+  "title": "Ten cents to shoot the Chutes",
+  "theme": "gold-rush-victorian",
+  "year": 1895,
+  "place": {
+   "label": "Haight Street Chutes, Haight, Cole, Waller and Clayton",
+   "lat": 37.7693,
+   "lon": -122.4494,
+   "precision": "area"
+  },
+  "hook": "A boat on rails dropped off a tower into an artificial lake on Haight Street, and daredevils kept trying to top each other.",
+  "story": "On November 2, 1895, a tall wooden tower on Haight Street, on the block bounded by Cole, Waller and Clayton, opened as the city's newest thrill [1][2]. \"Shoot the Chutes\" was based on Paul Boyton's Chicago water chute. Cars hauled riders to the top, where a boat was launched about every fifteen seconds down a roughly 300-foot ramp into a man-made lake. The boat's nose often shot up, and sometimes it flipped. That was part of the fun [2]. Accounts put the tower at 60 or 70 feet [1][2]. One claimed the boat hit the water at 60 miles an hour, faster than almost anyone had ever travelled [1]. Admission was 10 cents. On November 19, 1896, 13,634 people paid it [1]. The showmen kept trying to top each other. Professor Markesburg parachuted while hanging by his teeth, and a rival did it by his toes. A \"Man Fish\" ate, drank and smoked underwater. Antonio Pirri rode a bicycle down the chute into the lake, and Albert Richards dove 60 feet into two feet of water [1]. The park sat on land leased from the estate of John Baird. It was run by Charles Ackerman, an attorney for the Southern Pacific, whose Market Street Railway held the lease [2].",
+  "people": [
+   {
+    "name": "Charles Ackerman",
+    "role": "owner-operator"
+   },
+   {
+    "name": "Paul Boyton",
+    "role": "inventor of the Chutes ride"
+   },
+   {
+    "name": "Albert Richards",
+    "role": "high diver"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Chutes (Bob Burnside, SF Observer 1998)",
+    "publisher": "FoundSF",
+    "year": 1998,
+    "url": "https://www.foundsf.org/index.php?title=The_Chutes",
+    "supports": "Opening Nov 2 1895, 60 ft tower, 60 mph claim, 10 cents, 13,634 patrons, stunts"
+   },
+   {
+    "title": "Haight Chutes (Arnold Woods, OpenSFHistory 2020)",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Haight_Chutes",
+    "supports": "Boyton origins, block boundaries, Baird estate lease, Market Street Railway, Ackerman, 70 ft tower, 300 ft ride, 15-second launches"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-chutes-zoo-theatre",
+  "title": "Lions roaring over Waller Street",
+  "theme": "arts-counterculture",
+  "year": 1897,
+  "yearEnd": 1902,
+  "place": {
+   "label": "Chutes Theatre and zoo, Haight Street between Cole and Clayton",
+   "lat": 37.769,
+   "lon": -122.4488,
+   "precision": "area"
+  },
+  "hook": "Vaudeville for 3,000, a zoo of lions and orangutans, a camera obscura and Little Egypt's dance, until a family trust ran out.",
+  "story": "The Chutes soon became much more than a water slide. In 1896 a Casino building went up beside the tower for vaudeville and roller skating. On June 27, 1897, it became the 3,000-seat Chutes Theatre [1]. By March 1898 the adverts promised a zoo, with lions, bears, jaguars, leopards, kangaroos, monkeys, orangutans, a tiger, an alligator and a hyena, and they listed the carnivores' feeding times. Animals that died were stuffed for the Chutes Museum [1]. Neighbours could hear the lions roaring at night [2]. That August a camera obscura opened in a Japanese-style structure on top of the tower. A \"Scenic Railway\" ran nearly a mile around the grounds and through an 800-foot tunnel of lighted dioramas [1]. The dancer Little Egypt caused the biggest stir in 1899 with her \"hootchy kootchy\" dance. At Christmas 1901, a giant tree held a present for every child in the audience [2]. It couldn't last. The land belonged to the estate of John Baird, which was held in trust. When the trust began distributing the estate in 1901, the lease ended. The Chutes announced it had outgrown Haight Street, closed on March 16, 1902, and reopened near Fulton Street and Tenth Avenue [1][2].",
+  "people": [
+   {
+    "name": "Charles Ackerman",
+    "role": "operator"
+   },
+   {
+    "name": "Little Egypt",
+    "role": "dancer, 1899"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Haight Chutes (Arnold Woods, OpenSFHistory 2020)",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Haight_Chutes",
+    "supports": "Casino 1896, theatre June 27 1897, zoo, museum, camera obscura, Scenic Railway, Baird estate, closing March 16 1902"
+   },
+   {
+    "title": "The Chutes (Bob Burnside, SF Observer 1998)",
+    "publisher": "FoundSF",
+    "year": 1998,
+    "url": "https://www.foundsf.org/index.php?title=The_Chutes",
+    "supports": "Lions heard at night, Little Egypt 1899, 1901 Christmas tree, move to Fulton and Tenth Avenue in 1902"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-baird-trust-1901",
+  "title": "The dynamite fortune that froze the Haight",
+  "theme": "labor-industry",
+  "year": 1901,
+  "place": {
+   "label": "Baird estate lands, Page to Waller between Masonic and Shrader",
+   "lat": 37.7712,
+   "lon": -122.4482,
+   "precision": "area"
+  },
+  "hook": "For two decades much of the heart of the Haight couldn't be sold, because a gunpowder magnate's will had locked it in trust.",
+  "story": "Why did an amusement park sit on prime land on Haight Street in the 1890s? Blame a will. John H. Baird, president of the California Powder Works, one of the dynamite makers out in the Sunset District, had acquired much of the land from Masonic to Shrader and from Page to Waller [1][2]. He died in 1880, and his will put property into a trust that could not be sold until a son came of age. One account says the youngest child, and the National Register nomination for a Haight and Ashbury house names the eldest son, Joseph [1][2]. An 1894 plot book shows the Baird holdings [2]. The Chutes were built on the trust's land under a lease [1]. Then, in 1901, the heir turned 21. The Chronicle reported the estate being distributed, the lease ended and the Chutes left [1]. Lots began to sell that same year, among them a corner lot at Haight and Ashbury bought by Richard Doolan [2]. As the NR nomination puts it, much of Haight-Ashbury was built in the first years of the twentieth century [2].",
+  "people": [
+   {
+    "name": "John H. Baird",
+    "role": "California Powder Works president and landowner"
+   },
+   {
+    "name": "Veronica Baird",
+    "role": "widow who held part of the land"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Haight Chutes (Arnold Woods, OpenSFHistory 2020)",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Haight_Chutes",
+    "supports": "Baird president of California Powder Works, died 1880, trust until youngest child turned 21, lease, 1901 distribution"
+   },
+   {
+    "title": "Richard P. Doolan Residence and Storefronts, National Register nomination",
+    "publisher": "National Park Service",
+    "year": 2009,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/09001201_text",
+    "supports": "Baird holdings Masonic-Shrader and Page-Waller, 1894 plot book, trust until eldest son Joseph turned 21, Veronica Baird, 1901 sales, early-1900s development"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-doolan-house-1903",
+  "title": "A house on the most famous corner",
+  "theme": "architecture-landmarks",
+  "year": 1903,
+  "yearEnd": 1907,
+  "place": {
+   "label": "557 Ashbury St / 1500 Haight St, northwest corner",
+   "lat": 37.77013,
+   "lon": -122.44711,
+   "precision": "building"
+  },
+  "hook": "Long before hippies made Haight and Ashbury world-famous, a bookkeeper-turned-lawyer built a family home on the corner, then jacked it up to fit shops underneath.",
+  "story": "The corner building whose façade reads \"Haight\" and \"Ashbury\" started life as a family home. By 1903 Richard P. Doolan had bought a 32.5-by-100-foot corner lot carved from the Baird estate, and that year he built a two-storey Colonial Revival house at 557 Ashbury Street [1]. Doolan had worked his way up as a clerk and bookkeeper, a Custom House assistant appraiser and a lawyer, and in 1903 he was a financial agent downtown. The house was designed by Frank T. Doolan, presumably his brother, an architectural draftsman whose own career the nomination calls undistinguished [1]. The contractor was Charles J. U. Koenig [1]. The original house sat about six feet above the ground, with a deep recessed entry. The nomination explains that after 1906 it became clear this stretch of Haight would go commercial. So in 1907 Doolan had the whole house raised and shopfronts built beneath it [1][2]. The corner has more storefronts than any other property on the strip. Its later fame as the hippie movement's \"ground zero\" belongs to another era [2].",
+  "people": [
+   {
+    "name": "Richard P. Doolan",
+    "role": "owner"
+   },
+   {
+    "name": "Frank T. Doolan",
+    "role": "designer, draftsman"
+   },
+   {
+    "name": "Charles J. U. Koenig",
+    "role": "builder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Richard P. Doolan Residence and Storefronts, National Register nomination",
+    "publisher": "National Park Service",
+    "year": 2009,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/09001201_text",
+    "supports": "Lot size and purchase, 1903 construction, Doolan's career, Frank Doolan designer, Koenig builder, raising in 1907"
+   },
+   {
+    "title": "San Francisco Landmark #253: Doolan-Larson Residence and Storefronts",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2012,
+    "url": "https://noehill.com/sf/landmarks/sf253.asp",
+    "supports": "Built 1903, lifted 1907 to insert storefronts, Colonial Revival, most storefronts on the strip, 'ground zero'"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "haight-ashbury-heagerty-hotel-1904",
+  "title": "From saloon to park-side hotel",
+  "theme": "labor-industry",
+  "year": 1904,
+  "yearEnd": 1905,
+  "place": {
+   "label": "Stanyan Park Hotel (built as Park View Hotel), 750 Stanyan St",
+   "lat": 37.76807,
+   "lon": -122.45318,
+   "precision": "building"
+  },
+  "hook": "The park banned business, so the saloons crowded onto Stanyan Street. One Irish saloon keeper's bet became the park's oldest surviving hotel.",
+  "story": "Golden Gate Park's first superintendent, William Hammond Hall, banned commercial business inside the park. The result, when street railways reached the park's edge, was a row of saloons along Stanyan Street [1]. Around 1883, when the steam train to the beach began running from just inside the park, Harry P. Heagerty, an Irish immigrant who had arrived in 1876, opened a liquor business on the southeast corner of Stanyan and Waller. His two-storey saloon and small boarding house sat right beside the Haight Street Grounds ticket office [1]. When the ballpark closed, Heagerty looked for new trade. In 1904 and 1905 he built a real hotel, one of a dozen serving the park and seven on Stanyan Street alone [1]. To compete, he hired the firm of Martens & Coffey, who gave him the costliest of their many buildings in the neighbourhood, at $28,000, with a round corner bay and a metal-covered dome [1]. It was the Park View Hotel on the 1905 Sanborn map, and later the Hotel Golden Gate, the Hotel Roamer and the Stadium Hotel. Today it is the Stanyan Park Hotel, the oldest surviving hotel on the park's border [1][2].",
+  "people": [
+   {
+    "name": "Harry (Henry) P. Heagerty",
+    "role": "saloon keeper and hotel builder"
+   },
+   {
+    "name": "Martens & Coffey",
+    "role": "architects"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Park View Hotel, National Register nomination (Anne Bloomfield)",
+    "publisher": "National Park Service",
+    "year": 1983,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/83001235_text",
+    "supports": "Hall's ban, saloons, Heagerty's saloon since 1883, ticket office, 1904-05 construction, $28,000, Martens & Coffey, dozen hotels, names, oldest extant hotel"
+   },
+   {
+    "title": "Haight-Ashbury Architectural Tour beginning",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Haight-Ashbury_Architectural_Tour_beginning",
+    "supports": "Taverns, coffee houses, billiard halls and hotels along Stanyan serving park crowds"
+   }
+  ],
+  "photo": null
+ }
+]

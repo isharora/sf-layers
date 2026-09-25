@@ -1,0 +1,679 @@
+[
+  {
+    "id": "visitacion-valley-mass-rock",
+    "title": "A feast day, a fog and a rock",
+    "theme": "indigenous-early",
+    "year": 1777,
+    "place": {
+      "label": "Delta Street near Visitacion Avenue (the 'Indian Rock' backyard)",
+      "lat": 37.71172,
+      "lon": -122.41015,
+      "precision": "block"
+    },
+    "hook": "Somewhere behind a fence on Delta Street sits a lump of chert that neighbours say served as an altar in 1777.",
+    "story": "Long before the Spanish came, this sheltered valley by the bay held two Yelamu Ohlone settlements, Amuctac and Tubsinte [1]. The valley's Spanish name has an exact date. On July 2, 1777, friars and soldiers on their way to the new Presidio stopped here. It was the feast of the Visitation of the Virgin Mary, so they named the valley after it [1]. The story the valley tells about itself goes further. According to tradition, the party got lost in thick fog on the road north, spent the night in the hills, and at dawn looked down on a valley with the bay at its feet [2]. Then they said a thanksgiving Mass, using a large rock as the altar [2]. Local historians call that rock 'Indian Rock'. It still sits fenced inside the backyard of an ordinary city lot on Delta Street near Visitacion Avenue [1][2]. Historian Woody LaBounty notes that the valley's naming story carries 'all associated subtexts of colonialism' [1]. Afterwards the Spanish turned the land into grazing for Mission Dolores and Presidio livestock [1][2]. The city's planning department also dates the name to 1777, when a Franciscan priest called the basin 'La Visitacion' [3].",
+    "people": [
+      {
+        "name": "Yelamu Ohlone of Amuctac and Tubsinte",
+        "role": "original inhabitants"
+      },
+      {
+        "name": "Betty Parshall",
+        "role": "Visitacion Valley History Project member photographed with the rock"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visitacion Valley (Heritage in the Neighborhoods)",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "Amuctac and Tubsinte; July 2, 1777 naming; chert altar rock in a Delta Street backyard"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Fog tradition, Mass on a rock called Indian Rock on Delta Street near Visitacion Avenue, pasture for Mission and Presidio"
+      },
+      {
+        "title": "Visitacion Valley (Profiles of Community Planning Areas, Eastern Neighborhoods)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2002,
+        "url": "https://archives.sfplanning.org/documents/3635-chapter_6-5.pdf",
+        "supports": "1777 naming of the basin by a Franciscan priest"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-schwerin-cows-tulips",
+    "title": "Cows, tulips and the Valley of Windmills",
+    "theme": "gold-rush-victorian",
+    "year": 1850,
+    "place": {
+      "label": "Schwerin Street near Geneva Avenue, heart of the old Schwerin dairy lands",
+      "lat": 37.70883,
+      "lon": -122.41236,
+      "precision": "area"
+    },
+    "hook": "A German baker bought hundreds of acres here, grazed dairy cows where the Cow Palace parking lot is now, and grew tulips.",
+    "story": "After the American takeover, the huge Mexican-era rancho was cut up, and the valley's rich soil went to nurseries, dairies and vegetable farms [1]. One of the earliest buyers was Henry Schwerin, a German baker. Neighbourhood historians say he arrived in 1850 and bought several hundred acres near today's Geneva Avenue [2]. Henry and his wife Ottilia held land on both sides of the county line from the 1850s to the early 1900s. They ran a dairy and a tulip nursery near where the Cow Palace now stands [1]. The Grapevine history puts his cows on today's Cow Palace parking lot and says his flowers went to the San Francisco Flower Mart [2]. Schwerin Street runs roughly where his buildings stood [2]. Smaller dairies filled most of the valley down to Candlestick Cove. Italian families such as the Rossis and Sechinis grew vegetables for downtown markets [1]. They pumped irrigation water with windmills, and the windmills gave the area its first nickname: the 'Valley of the Windmills' [1][2]. Greenhouses run by families such as the Gattis and Restanis filled whole blocks well into the 20th century [1].",
+    "people": [
+      {
+        "name": "Henry Schwerin",
+        "role": "German-born baker, dairyman and nurseryman"
+      },
+      {
+        "name": "Ottilia Schwerin",
+        "role": "co-owner of the dairy and tulip nursery"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Valley of Windmills…and Trains and Locks",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/valley-of-windmills-and-trains-and-locks/",
+        "supports": "Henry and Ottilia Schwerin's dairy and tulip nursery near the Cow Palace, 1850s–1900s; Italian truck farms; windmills; Gatti and Restani greenhouses"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Schwerin a German baker arriving 1850; cows on Cow Palace parking lot site; Flower Mart; Schwerin Street location; windmills"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-burnett-estate",
+    "title": "The governor's grove on Sunnydale",
+    "theme": "gold-rush-victorian",
+    "year": 1855,
+    "place": {
+      "label": "Church of the Visitacion and parish school, Sunnydale Avenue (former Burnett estate)",
+      "lat": 37.709412,
+      "lon": -122.408524,
+      "precision": "block"
+    },
+    "hook": "California's first governor built a country home here. Later its trees sheltered one of the city's first motels, until bulldozers took them in 1964.",
+    "story": "Peter H. Burnett was elected governor of California in 1849, before California was even a state, and he resigned abruptly in 1851 [3]. In Oregon, years earlier, he had proposed a law expelling free Black people and flogging those who stayed. The state library's own biography of him records that fact [3]. In the mid-1850s, according to the Visitacion Valley History Project's account, Burnett built a large home on Sunnydale Avenue near where the Church of the Visitacion stands today [2]. SF Heritage describes the property as a six-acre estate [1]. Local tradition says famous visitors planted trees there, including one by President McKinley and another by Admiral Dewey [2]. Later the grounds held the San Francisco Auto Camp. The Grapevine calls it the city's first motel, and Heritage more cautiously calls it 'one of the city's first' [1][2]. It had 40 cabins, room for tents, and space for up to 300 cars in a garden-like grove [2]. In 1964 the camp and the Burnett house were torn down to build the new church and parish school, and about 200 trees went with them [2]. Burnett himself died in San Francisco in 1895 [3].",
+    "people": [
+      {
+        "name": "Peter H. Burnett",
+        "role": "first elected governor of California"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visitacion Valley (Heritage in the Neighborhoods)",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "San Francisco Auto Camp on part of Burnett's former six-acre estate on Sunnydale Avenue"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Mid-1850s Burnett home on Sunnydale; Auto Camp's 40 cabins and 300 cars; 1964 demolition; 200 trees, McKinley and Dewey"
+      },
+      {
+        "title": "Governors of California: Peter Burnett",
+        "publisher": "California State Library",
+        "year": 2019,
+        "url": "https://governors.library.ca.gov/01-Burnett.html",
+        "supports": "Burnett elected 1849, resigned; Oregon proposal to expel and flog free Black residents; died in San Francisco 1895"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-five-mile-house",
+    "title": "Where the milkmen stopped for a drink",
+    "theme": "labor-industry",
+    "year": 1865,
+    "place": {
+      "label": "Former Five Mile House, 3556–3564 San Bruno Avenue",
+      "lat": 37.717044,
+      "lon": -122.400057,
+      "precision": "building"
+    },
+    "hook": "At the top of the climb out of the valley, dairy workers dragging milk wagons to the city stopped for a drink.",
+    "story": "By 1865 a Five Mile House was pouring drinks on the San Bruno Toll Road, today's San Bruno Avenue [1]. It stood at the top of the ridge out of Visitacion Valley, facing Bayview Hill. Its regulars were the dairy workers listed in directories as 'milk dealers'. They stopped for a drink after hauling their wagons up the hill in the morning, and again on the way back to the ranches with empty cans [1]. The toll road carried mostly these milkers from dairies in the valley, Brisbane and South San Francisco [2]. It was so narrow that one wagon had to pull into the deep grass to let another pass [2]. The original building burned in 1896. Its replacement still stands in the middle of the 3500 block, hidden behind later storefronts [1]. Despite the name, none of the valley's mile houses was really five, six or seven miles from Portsmouth Square [1]. Old-timers remembered the Five Mile House for another reason. Its corner at Wilde and San Bruno avenues was the start of the streetcar line to Market Street [2]. The business moved a block away just before World War II and may have lasted into the late 1980s [1].",
+    "people": [
+      {
+        "name": "Milk dealers of the valley dairies",
+        "role": "regular customers"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Mile Houses of Visitacion Valley",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/the-mile-houses-of-visitacion-valley/",
+        "supports": "Five Mile House from 1865 on San Bruno Toll Road; milk dealers; 1896 fire and surviving replacement at 3556–3564 San Bruno Ave; mileage names; later move"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Toll road traffic of milkers; narrow road; Five-Mile House at Wilde and San Bruno as streetcar starting point"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-silk-ribbon-factory",
+    "title": "Silk ribbons in a farm valley",
+    "theme": "labor-industry",
+    "year": 1876,
+    "place": {
+      "label": "San Bruno Road (Bayshore Boulevard) near Sunnydale Avenue, opposite the Six Mile House",
+      "lat": 37.709523,
+      "lon": -122.405181,
+      "precision": "area"
+    },
+    "hook": "Among the dairies and cabbage fields, a silk mill backed by a famous banker turned out thousands of dollars of ribbon every week.",
+    "story": "In the 1870s, when the valley was still mostly fields, the Union Pacific Silk Manufacturing Company opened a factory on the San Bruno Road, across from the Six Mile House roadhouse [1]. The valley's own history dates it to 1876. It names the banker and investor W. C. Ralston as the organiser and puts the company's capital at $250,000 [2]. Every week, that account says, the factory turned out about $6,000 worth of silk ribbons [2]. Within a few years the company moved to larger premises in South San Francisco [2]. Heritage lists a 'ribbon factory' among the valley's 19th-century industries, along with a fertilizer plant, breweries and quarries that shipped their goods by rail over the bay fill [3]. The Pacific Coal and Fertilizer Company, running by 1890 near the water's edge, got a blunter nickname from residents: 'the bone yard' [2][1]. Around the same time, a brewery on today's Bayshore Boulevard was selling pitchers of beer for five cents [2]. The exact site of the silk works has not been pinned down, so this marker shows only the stretch of road it faced.",
+    "people": [
+      {
+        "name": "William C. Ralston",
+        "role": "banker credited with organising the silk company"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Valley of Windmills…and Trains and Locks",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/valley-of-windmills-and-trains-and-locks/",
+        "supports": "Union Pacific Silk Manufacturing Company factory in the 1870s across from Six Mile House; Pacific Coal and Fertilizer Company 1890"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "1876 date, Ralston, $250,000 capital, $6,000 of ribbons weekly, move to South San Francisco; 'bone yard'; five-cent beer"
+      },
+      {
+        "title": "Visitacion Valley (Heritage in the Neighborhoods)",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "Ribbon factory, fertilizer factory, breweries and quarries shipping by rail"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-six-mile-house",
+    "title": "Pop Blanken's resort for boxers",
+    "theme": "gold-rush-victorian",
+    "year": 1876,
+    "place": {
+      "label": "Site of the Six Mile House, Bayshore Boulevard between Visitacion and Sunnydale avenues",
+      "lat": 37.709909,
+      "lon": -122.404988,
+      "precision": "block"
+    },
+    "hook": "Famous prizefighters trained at a country roadhouse on the San Bruno Road. The house served clam chowder, shooting and bowling.",
+    "story": "Henry 'Pop' Blanken's Six Mile House took up most of the block of today's Bayshore Boulevard between Visitacion and Sunnydale avenues [1]. It had shade trees, gardens, bowling alleys, trap shooting and training rooms for boxers [1]. A Six Mile House appears on maps as early as 1861, but Blanken's 1915 obituary says his version opened on the Fourth of July, 1876 [1]. Blanken started across the road at the Overland Mail House, where long-distance mail carriers changed horses. At the Six Mile House travellers could stay an hour or a weekend for drinks, lodging and clam chowder [1]. Valley historians say its real fame came from the fighters who trained there: Jim Jeffries, Jack Johnson, 'Gentleman Jim' Corbett and Sam Langford [2]. On October 25, 1909, the single-track Visitacion Valley streetcar line opened from Geneva and Mission to the Six Mile House [3]. Riders later called its cars the 'galloping goose' [3]. The old building came down in 1938 for a garage and gas station [1][2]. Blanken Avenue, across the boulevard, still carries Pop's name [1].",
+    "people": [
+      {
+        "name": "Henry 'Pop' Blanken",
+        "role": "roadhouse proprietor and 'sporting man'"
+      },
+      {
+        "name": "Jack Johnson",
+        "role": "boxer said to have trained here"
+      },
+      {
+        "name": "James J. Jeffries",
+        "role": "boxer said to have trained here"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Mile Houses of Visitacion Valley",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/the-mile-houses-of-visitacion-valley/",
+        "supports": "Blanken's Six Mile House: block location, amenities, 1861 maps vs 1876 opening per 1915 obituary, Overland Mail House, 1938 demolition, Blanken Avenue"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Training headquarters for Jeffries, Johnson, Corbett and Langford; torn down 1938"
+      },
+      {
+        "title": "Visitacion Valley Grapevine, Oct. 1991 ('A Streetcar Ride Through Wide-Open Spaces'; 'Before There Was a Grapevine' clippings)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1991,
+        "url": "https://archive.org/details/visitacionvalley63unse_0",
+        "supports": "Streetcar line opened Oct. 25, 1909 from Geneva and Mission to the Six Mile House; 'galloping goose'"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-bay-shore-hotel",
+    "title": "A dollar down, a dollar a week",
+    "theme": "communities",
+    "year": 1905,
+    "place": {
+      "label": "Former Bay Shore Hotel, southwest corner of Bayshore Boulevard and Leland Avenue",
+      "lat": 37.711074,
+      "lon": -122.40401,
+      "precision": "building"
+    },
+    "hook": "In 1905 you could buy a Visitacion Valley building lot for $125, paying a dollar down and a dollar a week. Leland Avenue grew up to serve the buyers.",
+    "story": "In 1905 Visitacion Valley's farmland began turning into lots for sale. Charles A. Louis was sales agent for the Reis Tract, then the largest housing development in the valley [2]. It advertised 'the finest building sites' for as little as $125, with $1 down and $1 a week [2][3]. That same year, on May 18, 1905, residents formed the Visitacion Valley Improvement Club, which pushed community projects for years [2]. On the corner of the San Bruno Road and Leland Avenue stood the Bay Shore Hotel, built in the early 20th century [1]. Guest rooms with rounded and angled bay windows filled the second floor. W. A. McGahey ran a corner bar downstairs [1]. Real estate offices, hardware stores and the Read family's grocery lined the Leland Avenue side. The building anchored Leland as the valley's shopping street [1]. Next door, the local water works had its pumping station and office [2]. For its first decades Leland was paved for only three blocks and had wooden sidewalks [1]. The old hotel, now covered in stucco, still houses apartments and small businesses [1].",
+    "people": [
+      {
+        "name": "Charles A. Louis",
+        "role": "Reis Tract sales agent"
+      },
+      {
+        "name": "W. A. McGahey",
+        "role": "ran the hotel's corner bar"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nine Great Commercial Buildings on Leland Avenue",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/nine-great-commercial-buildings-on-leland-avenue/",
+        "supports": "Bay Shore Hotel anchoring Leland Avenue; bay windows, McGahey bar, real estate offices, Read grocery; wooden sidewalks"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Reis Tract, Charles A. Louis, $125 lots, $1 down $1 a week; Improvement Club May 18, 1905; water works beside the hotel"
+      },
+      {
+        "title": "Visitacion Valley (Heritage in the Neighborhoods)",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "Reis-Paul Tract lots for $125 ($1 down, $1 a week) in 1905"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-1906-refugees",
+    "title": "Refugees fill the little valley",
+    "theme": "quake1906",
+    "year": 1906,
+    "place": {
+      "label": "207 Raymond Avenue at Rutland Street, a likely relocated earthquake shack",
+      "lat": 37.713115,
+      "lon": -122.407335,
+      "precision": "building"
+    },
+    "hook": "The 1906 quake barely touched the valley, but it filled up with homeless San Franciscans. A little house on Raymond Avenue may be one of their relief cottages.",
+    "story": "The April 18, 1906 earthquake did only minor damage in Visitacion Valley, but the fire downtown sent people south [1]. Refugees crowded into the small houses of relatives and friends, or lived in shacks until they could build new homes [1]. Residents later recalled that the local butcher shop served as the handout point for food and clothing [1]. Many of these newcomers went back to their old neighbourhoods within a few years. Others stayed, and building took off, which kept the local lumber yard busy [1]. Heritage notes that the rush out of the burned city helped start the valley's churches and small businesses, including the shops of Leland Avenue [2]. The Red Cross and relief committee built 5,610 temporary cottages citywide. By summer 1907 their tenants had to buy the cottages and haul them to their own lots or be evicted [3]. Chris Carlsson of FoundSF counts 207 Raymond Avenue at Rutland Street among the city's surviving 'quake shacks' [3]. FoundSF itself warns that some houses on its list still need more research, so treat this one as a strong candidate, not a proven case [3].",
+    "people": [
+      {
+        "name": "Chris Carlsson",
+        "role": "FoundSF historian who photographed the house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Minor damage; refugees in relatives' homes and shacks; butcher shop distribution; lumber yard"
+      },
+      {
+        "title": "Visitacion Valley (Heritage in the Neighborhoods)",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "1906 outward migration spurring valley institutions and businesses"
+      },
+      {
+        "title": "1906 Earthquake Shack Survivors",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=1906_Earthquake_Shack_Survivors",
+        "supports": "5,610 relief cottages and 1907 relocation rule; 207 Raymond Street at Rutland listed as a quake shack, with research caveat"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-teddy-market",
+    "title": "113 years behind the same counter",
+    "theme": "communities",
+    "year": 1908,
+    "place": {
+      "label": "Teddy's Market (originally Peterson's grocery), 296–298 Teddy Avenue",
+      "lat": 37.715291,
+      "lon": -122.408408,
+      "precision": "building"
+    },
+    "hook": "Charley and Petra Peterson opened a corner grocery in 1908. The building has held a store ever since.",
+    "story": "In 1908, as families who fled the 1906 fire settled in the valley, Charley A. and Petra C. Peterson built a wood-frame store at the corner of Teddy Avenue and Delta Street and opened a grocery [1]. The 1909 city directory lists Charles Peterson living above the shop at 296 Teddy [1]. It was one of dozens of corner markets in the valley then [1]. A 1920s photograph shows a family posed outside the 'C.A.P. Grocery' [1]. Streets were sandy in summer and muddy in winter, and the local grocery ran its own delivery service [2]. The Petersons owned the store until the mid-1930s. Joseph and Mary Cimino later ran it as Teddy Grocery [1]. Tina Ballestrasse grew up across the street and was sent there almost daily for fresh bread. She remembered the snow of 1962, when neighbourhood children begged cardboard boxes from the store to use as sleds [1]. Mrs. Torres ran it as Teddy's Market from 1982 to 2018 [1]. In 2021, 113 years after the Petersons opened, the building was still a store. SF Heritage has proposed it for the city's Legacy Business Registry [1].",
+    "people": [
+      {
+        "name": "Charley A. Peterson",
+        "role": "grocer"
+      },
+      {
+        "name": "Petra C. Peterson",
+        "role": "grocer"
+      },
+      {
+        "name": "Joseph and Mary Cimino",
+        "role": "later owners of Teddy Grocery"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Longtime Businesses in Visitacion Valley",
+        "publisher": "San Francisco Heritage (Kerri Young)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/longtime-businesses-in-visitacion-valley/",
+        "supports": "Peterson grocery 1908, directory listing, 1920s photo, Cimino and Torres ownership, Ballestrasse memory, 113 years"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Sandy and muddy roads; grocery delivery service in the early valley"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-nickelodeon",
+    "title": "Five-cent flickers on Raymond Avenue",
+    "theme": "arts-counterculture",
+    "year": 1908,
+    "place": {
+      "label": "Former nickelodeon, 135 Raymond Avenue",
+      "lat": 37.712695,
+      "lon": -122.406173,
+      "precision": "building"
+    },
+    "hook": "The valley's first movie house had tin walls, a player piano and a blue mercury lamp to pull people in. Today it is someone's home.",
+    "story": "The valley's first cinema was a nickelodeon on Raymond Avenue, where 'flickers' cost five cents [2]. Its walls were fireproof sheet metal embossed with designs. A player piano played inside, and a blue mercury lamp out front drew crowds on show nights. Amateur Night was a big attraction [1][2]. Local historians place it at 135 Raymond Avenue, a 1908 wood-frame building that is now a private house just east of Hans Schiller Plaza [1]. There was more to do in town. Clubs held whist parties, dances and minstrel shows at the Bay Shore Hall on Leland, the Fireman's Hall on Wilde and the Alpine Hall on Raymond [2]. Film crews came too. Alma Taylor, born in 1911, remembered watching the Swedish-born star Anna Q. Nilsson filming at the Bay Shore Hotel corner. Alma called the film 'Ten Nights in a Bar Room', but researchers think it was more likely 1924's 'Half-A-Dollar Bill' [1]. In 1926 the 350-seat Bayshore Theatre opened near Leland. Locals nicknamed it the 'Flea House', and it ran double bills and 'dish night' until October 1957 [1].",
+    "people": [
+      {
+        "name": "Alma Taylor",
+        "role": "resident who recalled a silent film shoot"
+      },
+      {
+        "name": "Anna Q. Nilsson",
+        "role": "silent film star"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visitacion Valley Goes the Movies – And Vice Versa",
+        "publisher": "San Francisco Heritage (Cynthia Cox, Visitacion Valley History Project)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley-goes-the-movies-and-vice-versa/",
+        "supports": "Nickelodeon at 135 Raymond Avenue (1908 building), metal walls, player piano, blue mercury light; Anna Q. Nilsson shoot and title uncertainty; Bayshore Theatre 1926–1957, 350 seats, dish night"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Five-cent flickers at the Nickelodeon on Raymond; Amateur Night; halls for dances and whist parties"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-station-44",
+    "title": "A firehouse that waited for engines",
+    "theme": "architecture-landmarks",
+    "year": 1913,
+    "place": {
+      "label": "Fire Station 44, 1298 Girard Street at Wilde Avenue",
+      "lat": 37.716681,
+      "lon": -122.40031,
+      "precision": "building"
+    },
+    "hook": "The city finished this brick firehouse in 1913, then left it empty for two years while the horses gave way to motor engines.",
+    "story": "Before the city firehouse opened, the valley relied on its own Volunteer Hose Company. Its Fireman's Hall on Wilde Avenue doubled as a place for dances and even housed a kindergarten for a while [2]. Then in 1913 the city put up Station 44 at Girard Street and Wilde Avenue, designed by architect John Reid Jr. [1]. Firefighters did not move in until 1915. The department was waiting for delivery of modern motor-driven equipment, because horses were finally on their way out [1]. The building has a brick front, careful cornice work and three recessed balconies that remind Heritage's Woody LaBounty of an Italian villa. Its historic integrity is very high [1]. A 1976 city survey was lukewarm about it. The Planning Department lists its status as 'unknown', although a similar Reid firehouse at 100 Hoffman Street in wealthier Noe Valley is recognised as a historic resource [1]. Heritage calls it the oldest firehouse still in active service. In 2021, still without landmark status, it was one of the group's three 'easy' landmark candidates for a neighbourhood that had no city landmarks at all [1].",
+    "people": [
+      {
+        "name": "John Reid Jr.",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Candidates in Visitacion Valley",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/landmark-candidates-in-visitacion-valley/",
+        "supports": "Station 44 built 1913 by John Reid Jr., occupied 1915 awaiting motor apparatus; design; 1976 survey; 'unknown' status vs 100 Hoffman; oldest active firehouse; no landmarks in the valley"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Volunteer Hose Company and Fireman's Hall on Wilde Avenue, which housed a kindergarten and hosted dances"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-community-center",
+    "title": "Miss Friedman's forty-one years",
+    "theme": "communities",
+    "year": 1918,
+    "place": {
+      "label": "Visitacion Valley Community Center, Raymond Avenue near Bayshore Boulevard",
+      "lat": 37.712343,
+      "lon": -122.403988,
+      "precision": "block"
+    },
+    "hook": "A schoolteacher took charge of a new community centre in 1918 and ran it for 41 years. Local men built its gym by hand.",
+    "story": "The valley's first school opened in September 1896. After a court session it was decided to keep the Spanish 'Visitacion' in its name, but the new sign arrived reading 'Visitation' [1][2]. One of its early teachers was Florence Friedman. In 1918 she left the classroom to become the first director of the new Visitacion Valley Community Center, and she led it for 41 years until she retired in 1959 [1][2]. Old newspaper clippings reprinted by the neighbourhood paper show how it grew [3]. A friend of the Center donated materials for a gymnasium and men's clubroom, on condition that the valley's men supply the labour. One clipping counted about 6,000 hours of work needed, a quota of eight hours for every man [3]. Architect Dorothy Wormser donated plans for a clubhouse on Raymond Avenue between Alpha Street and San Bruno Avenue, the road now called Bayshore Boulevard. It was to have a gym, an auditorium, a clinic and a domestic science room [3]. Women and girls who had never used a needle took dressmaking and millinery classes there [3]. Friedman lived in the valley until her death in 1984 [2].",
+    "people": [
+      {
+        "name": "Florence Friedman",
+        "role": "teacher and founding director of the community center"
+      },
+      {
+        "name": "Dorothy Wormser",
+        "role": "architect who donated clubhouse plans"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "School opened Sept. 1896, 'Visitation' sign error; Friedman teacher until 1918, director 41 years to 1959"
+      },
+      {
+        "title": "Visitacion Valley history feature (Visitacion Valley Grapevine, Aug. 1991)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1991,
+        "url": "https://archive.org/details/visitacionvalley61unse_0",
+        "supports": "Friedman's career and death in the valley in 1984; misspelled school sign"
+      },
+      {
+        "title": "Visitacion Valley Grapevine, Oct. 1991 ('A Streetcar Ride Through Wide-Open Spaces'; 'Before There Was a Grapevine' clippings)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 1991,
+        "url": "https://archive.org/details/visitacionvalley63unse_0",
+        "supports": "Reprinted early clippings: volunteer-built gym (6,000 hours), Wormser's donated plans, Raymond Avenue site between Alpha and San Bruno, classes"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-rossi-pharmacy",
+    "title": "The farm family's drugstore library",
+    "theme": "labor-industry",
+    "year": 1921,
+    "place": {
+      "label": "Visitacion Valley Pharmacy, 100 Leland Avenue",
+      "lat": 37.712176,
+      "lon": -122.405627,
+      "precision": "building"
+    },
+    "hook": "The Rossis went from vegetable farmers to druggists. For years their Leland Avenue pharmacy shelf was the valley's only library.",
+    "story": "Members of the Rossi family came to the valley just after the Civil War, and John Rossi joined them in 1880 [2]. By hand labour they turned their acres into large vegetable gardens, and later hired farmhands [2]. Their land was part of the first section of the valley divided into house lots in the early 1900s [1][2]. Then the family moved into shopkeeping. Building permits show the Rossi brothers owned the two-story drugstore-and-residence at 100 Leland Avenue by 1921. That year they had it jacked up to pour a new concrete foundation [1]. Sales records show Virginio and Theodore Rossi buying the property in November 1924 [1]. Virginio ran the Visitacion Valley Pharmacy until 1970, when his daughter took over [1][2]. The family owned and ran it for more than 70 years [1]. Long before the valley had a branch library, oral historians Mary Leotta Schwartz, Anna Stuart Johnson and Viola Cuccaro Rusca remembered a bookshelf in the pharmacy. People borrowed books and put them back when they were done, with no card and no fines [1]. The shop has changed owners, but it still sells medicine under the same name [1].",
+    "people": [
+      {
+        "name": "Virginio Rossi",
+        "role": "pharmacist and owner"
+      },
+      {
+        "name": "Theodore Rossi",
+        "role": "co-owner"
+      },
+      {
+        "name": "John Rossi",
+        "role": "farmer who arrived in 1880"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Longtime Businesses in Visitacion Valley",
+        "publisher": "San Francisco Heritage (Kerri Young)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/longtime-businesses-in-visitacion-valley/",
+        "supports": "Rossi ownership by 1921, 1921 foundation work, November 1924 purchase, Virginio to 1970, 70+ years, bookshelf library recalled by oral historians"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "Rossi family arrival after Civil War and John Rossi in 1880; hand-worked vegetable gardens; first subdivided section; pharmacy to 1970"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-st-james-julia-morgan",
+    "title": "Julia Morgan's church on Leland",
+    "theme": "architecture-landmarks",
+    "year": 1923,
+    "place": {
+      "label": "St. James Presbyterian Church, 240 Leland Avenue",
+      "lat": 37.713023,
+      "lon": -122.408244,
+      "precision": "building"
+    },
+    "hook": "A Sunday school started the year of the great fire. By 1923 its congregation worshipped in a church by Julia Morgan.",
+    "story": "St. James Presbyterian Church began as a Sunday school in 1906, the year of the earthquake and fire [1]. Displaced San Franciscans were then pouring into the valley [2]. By 1908 the congregation had formed with 69 original members [1]. Their first church on Leland Avenue dated from 1906 [2][3]. In 1923 it was replaced by a new building designed by the celebrated architect Julia Morgan [1][2]. She drew another Presbyterian church on Ocean Avenue around the same time [1]. Its most eye-catching feature was not Morgan's idea. A stained glass window, showing a figure sowing a field apparently among palm trees, is said to have come from a church in the Sierra foothills after the building went up. Heritage treats this as a story rather than proven fact [1]. The church also had a gymnasium where valley youngsters played basketball [3]. In 2021 the valley still had no designated city landmarks. SF Heritage listed St. James as one of three obvious candidates, noting that 'just about anything' by Morgan is landmark-worthy [1].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Candidates in Visitacion Valley",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/landmark-candidates-in-visitacion-valley/",
+        "supports": "Sunday school 1906, 69 members in 1908, 1923 dedication, Morgan design, Ocean Avenue church, relocated window story, landmark candidacy"
+      },
+      {
+        "title": "Visitacion Valley (Heritage in the Neighborhoods)",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/visitacion-valley/",
+        "supports": "Morgan designed St. James in 1923, replacing a 1906 building amid post-quake migration"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "1906 St. James Presbyterian on Leland Avenue; basketball in the church gymnasium"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "visitacion-valley-schlage-lock",
+    "title": "The push-button lock comes to Bayshore",
+    "theme": "labor-industry",
+    "year": 1926,
+    "place": {
+      "label": "Former Schlage Lock administration building, Bayshore Boulevard",
+      "lat": 37.711818,
+      "lon": -122.402378,
+      "precision": "block"
+    },
+    "hook": "In 1926 a lock company moved beside the railroad tracks. It became the city's biggest manufacturer, and its office building is still locked.",
+    "story": "In the mid-1920s the Schlage company bought its first 2.5 acres beside the Southern Pacific tracks from the Bodinson Manufacturing Company. It had finished a factory building by June 1925, and in 1926 took the name Schlage Lock Company [2]. That year it built an administration building designed by William P. Day, architect of the Mark Hopkins Hotel [1]. The complex grew to 12 acres of factory, distribution and office buildings [1]. Schlage perfected and popularised the push-button lock, with a spring button in the centre of the doorknob. Its locksets ended up on countless San Francisco doors [1]. During World War II the plant made shell casings, bomb tail fuses, aircraft parts and proximity fuses [1]. By the 1970s it was the largest manufacturer in San Francisco, with 1,600 workers, many living across Bayshore Boulevard in the valley [1]. The factory closed in 1999 [3]. Neighbours blocked a Home Depot on the site [1][3]. Day's office building survives as a welcome centre for the planned Baylands housing. When Woody LaBounty tried its door, it was, of course, locked [1].",
+    "people": [
+      {
+        "name": "William P. Day",
+        "role": "architect of the 1926 administration building"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Valley of Windmills…and Trains and Locks",
+        "publisher": "San Francisco Heritage (Woody LaBounty)",
+        "year": 2021,
+        "url": "https://www.sfheritage.org/news/valley-of-windmills-and-trains-and-locks/",
+        "supports": "1926 administration building by William P. Day; 12-acre complex; push-button lock; WWII production; 1,600 employees; Home Depot fight; locked door"
+      },
+      {
+        "title": "Valley Traces History Back to 18th Century (Visitacion Valley Grapevine, Aug. 2006, pp. 7, 16)",
+        "publisher": "Visitacion Valley Grapevine, via Internet Archive",
+        "year": 2006,
+        "url": "https://archive.org/details/visitacionvalley241unse",
+        "supports": "2.5 acres bought from Bodinson; factory completed June 1925; renamed Schlage Lock Company in 1926"
+      },
+      {
+        "title": "Visitacion Valley (Profiles of Community Planning Areas, Eastern Neighborhoods)",
+        "publisher": "San Francisco Planning Department",
+        "year": 2002,
+        "url": "https://archives.sfplanning.org/documents/3635-chapter_6-5.pdf",
+        "supports": "Factory east of Bayshore closed in 1999; Home Depot proposal turned away"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  }
+]

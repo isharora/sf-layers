@@ -1,0 +1,633 @@
+[
+  {
+    "id": "seacliff-china-beach-fishermen",
+    "title": "The Fishermen's Camp in the Cove",
+    "theme": "communities",
+    "year": 1850,
+    "yearEnd": 1900,
+    "place": {
+      "label": "China Beach cove, below the end of Sea Cliff Avenue",
+      "lat": 37.7881,
+      "lon": -122.4913,
+      "precision": "area"
+    },
+    "hook": "Long before the mansions, the little cove below Sea Cliff was a camp for Chinese fishermen who, tradition says, anchored their boats right here.",
+    "story": "The sheltered cove between Baker Beach and Lands End is named for the people remembered as its first users in the American era. Chinese immigrants began arriving in California in 1849. When the Foreign Miners Tax of 1850 forced many of them out of the goldfields, a number came back to the Bay and became fishermen [1]. Local memory holds that some of them anchored their junks in this cove and camped on the sand. The Parks Conservancy calls that a legend, and the National Park Service describes a monument to the Chinese fishermen \"who camped and anchored in the cove\" [2][3]. Their work was no sideline. By the 1880s, the Conservancy says, Chinese fishermen made up half of all fishing crews. Anti-Chinese laws then pushed their share down to about 20 percent by the end of the century [1]. A stone marker at the trailhead, given in 1981 by Henry and Diana Chung, thanks them for efforts that \"helped establish one of the area's most important industries and traditions\" [1].",
+    "people": [
+      {
+        "name": "Henry and Diana Chung",
+        "role": "Donors of the 1981 China Beach monument"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's China Beach: The Eras Tour",
+        "publisher": "Golden Gate National Parks Conservancy",
+        "year": 2023,
+        "url": "https://www.parksconservancy.org/parks/china-beach/history-san-francisco-name-updates-renovations",
+        "supports": "Arrival from 1849, Foreign Miners Tax, share of fishing crews in the 1880s and 1890s, 1981 Chung monument and its wording"
+      },
+      {
+        "title": "China Beach",
+        "publisher": "Golden Gate National Parks Conservancy",
+        "year": null,
+        "url": "https://www.parksconservancy.org/parks/china-beach",
+        "supports": "Legend that Chinese fishermen anchored junks in the cove and camped on the beach"
+      },
+      {
+        "title": "China Beach",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/planyourvisit/chinabeach.htm",
+        "supports": "Monument to the Chinese fishermen who camped and anchored in the cove"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Seacliff_District_SF.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Seacliff_District_SF.jpg",
+      "credit": "Wng (English Wikipedia), via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "year": 2005
+    }
+  },
+  {
+    "id": "seacliff-brown-house-1908",
+    "title": "A Painting Saved, a House on the Dunes",
+    "theme": "quake1906",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "1 25th Avenue, on the bluff above Baker Beach",
+      "lat": 37.7896,
+      "lon": -122.4842,
+      "precision": "block"
+    },
+    "hook": "In 1906 Helen Brown cut a William Keith landscape from its frame to save it. By 1908 it hung in a new house on an empty bluff.",
+    "story": "When the 1906 earthquake struck, the Brown family's house on Van Ness Avenue stayed standing, but its furniture, china and portraits lay smashed on the floor. As the fire came closer and houses along the avenue were dynamited, Helen Hillyer Brown loaded their belongings into a Victoria carriage [1]. Over the fireplace hung a landscape that the painter William Keith had given the couple as a wedding present. It was too heavy to carry, so she cut the canvas from its frame, rolled it up and took it with her [1]. Her husband, the physician Philip King Brown, lost his downtown office to the fire and took over an empty house to care for the injured [1]. In 1908 the family moved into a new home at One 25th Avenue, which Florence Holub called the first residence on the Sea Cliff bluff [1][2]. Their daughter Phoebe, who went on to become an architect, remembered \"nothing else there but sand dunes, lupine and rabbits\" [2]. She lived there until her death in 1990 [1]. The house later belonged to Sharon Stone and Phil Bronstein, and in 2022 it went on sale for $39 million [1][2].",
+    "people": [
+      {
+        "name": "Helen Hillyer Brown",
+        "role": "Saved the Keith painting; wrote an account of the 1906 fire"
+      },
+      {
+        "name": "Philip King Brown",
+        "role": "Physician"
+      },
+      {
+        "name": "Phoebe Hearst Brown",
+        "role": "Architect; lived in the house until 1990"
+      },
+      {
+        "name": "William Keith",
+        "role": "Painter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "First House of Sea Cliff (Florence Holub, from the Noe Valley Voice, April 2001)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2001,
+        "url": "https://www.outsidelands.org/holub.php",
+        "supports": "Van Ness house and quake damage, the carriage, the Keith painting cut from its frame, Dr Brown's makeshift clinic, the 1908 move to the first house on the bluff, Phoebe's career and death, later owners"
+      },
+      {
+        "title": "Former SF home of Sharon Stone hits the market for $39M",
+        "publisher": "SFGATE",
+        "year": 2022,
+        "url": "https://www.sfgate.com/realestate/article/San-Francisco-Seacliff-house-sharon-stone-for-sale-17179181.php",
+        "supports": "One 25th Avenue address, Phoebe's memory of dunes, lupine and rabbits, 2022 listing at $39 million"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-ansel-adams-boyhood",
+    "title": "Where Ansel Adams Learned to Look",
+    "theme": "arts-counterculture",
+    "year": 1907,
+    "yearEnd": null,
+    "place": {
+      "label": "129 24th Avenue (Adams family home)",
+      "lat": 37.78713,
+      "lon": -122.48451,
+      "precision": "building"
+    },
+    "hook": "The dunes, creek and cliffs outside this wooden house were the first wild landscape the photographer ever knew. The house itself nearly slid into a sinkhole.",
+    "story": "Ansel Adams grew up at 129 24th Avenue, in a house built among the sand dunes above the Golden Gate [1]. Accounts differ on when the family moved in. SFGATE says the house was finished in 1903 and that Adams broke his nose there in a 1906 aftershock. The Wikipedia biography, which draws on his biographer Mary Street Alinder, says the family moved there in 1907 [1][3]. Everyone agrees on the nose. The four-year-old was thrown against a garden wall, and it stayed crooked for the rest of his life [2][3]. He was a restless, often sickly boy with few friends. He spent his days in the dunes, following Lobos Creek down to Baker Beach and exploring the cliffs toward Lands End. The Sierra Club counts those rambles as the start of the love of nature that later drove his photography [2][3]. The house had one more close call. In the December 1995 storm, a sinkhole opened next door and left it on the edge of a new cliff, but it survived [4].",
+    "people": [
+      {
+        "name": "Ansel Adams",
+        "role": "Photographer and conservationist"
+      },
+      {
+        "name": "Charles Hitchcock Adams",
+        "role": "His father"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ansel Adams' boyhood San Francisco house",
+        "publisher": "SFGATE / San Francisco Chronicle",
+        "year": 2010,
+        "url": "https://www.sfgate.com/realestate/article/ansel-adams-boyhood-san-francisco-house-3201869.php",
+        "supports": "Address, 1903 completion in the dunes, nose broken in the 1906 aftershock while living there"
+      },
+      {
+        "title": "Ansel Adams and the Sierra Club: About Ansel Adams (archived)",
+        "publisher": "Sierra Club",
+        "year": 2008,
+        "url": "https://web.archive.org/web/20100201212325/http://www.sierraclub.org/history/anseladams/",
+        "supports": "Aftershock broke his nose; childhood in the dunes beyond the Golden Gate shaped his love of nature"
+      },
+      {
+        "title": "Ansel Adams (Early life), citing Alinder 1996 and Adams & Alinder 1985",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "supports": "1907 move date, the garden wall, his crooked nose, his temperament, exploring Lobos Creek, Baker Beach and Lands End"
+      },
+      {
+        "title": "An empty lot still sits where a sinkhole swallowed a San Francisco home",
+        "publisher": "SFGATE",
+        "year": 2024,
+        "url": "https://www.sfgate.com/local/article/sf-s-largest-sinkhole-swallowed-a-house-19989295.php",
+        "supports": "The Adams house hung on the brink in 1995 and survived"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-lupin-hillside",
+    "title": "The Cabin Boy's Blue Hillside",
+    "theme": "labor-industry",
+    "year": 1907,
+    "yearEnd": 1938,
+    "place": {
+      "label": "Sea Cliff hillside above Baker Beach",
+      "lat": 37.7885,
+      "lon": -122.487,
+      "precision": "area"
+    },
+    "hook": "In 1907 a teenage cabin boy saw a slope blue with lupins outside the Golden Gate. By 1938 he was a captain making his home there.",
+    "story": "In 1907 W. O. Kohlmeister, a 17-year-old cabin boy, sailed in through the Golden Gate aboard the clipper Glory of the Seas. On his right, just outside the Presidio, he saw a treeless, empty hillside that was blue with lupins [1]. The ship was an old Donald McKay clipper that by then was working the Pacific coast, and she sailed to Callao in 1907–08 [2]. In 1938 a newspaper series on the city's districts caught up with him. He was now Captain Kohlmeister of the Dollar liner President Lincoln, and he was making his home on that same slope, which had become Sea Cliff [1]. The article said old-timers remembered the place mostly for Sunday balloon ascensions and parachute jumps. A railway had staged them to sell tickets on its steam train out to Baker Beach. Houses, the paper said, only began going up in 1916 [1]. It also named a less romantic landmark. A Richmond District sewer emptied at the shore and had made Baker Beach unfit for recreation, and the paper promised it would soon be rerouted to a plant in Golden Gate Park [1].",
+    "people": [
+      {
+        "name": "W. O. Kohlmeister",
+        "role": "Cabin boy in 1907; Dollar Line captain by 1938"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sea Cliff district clipping file, including \"Sea Cliff District on Hillside\" (newspaper, January 29, 1938)",
+        "publisher": "San Francisco Public Library, via California Revealed / Internet Archive",
+        "year": 1938,
+        "url": "https://archive.org/details/casfpjd_000997",
+        "supports": "Kohlmeister's 1907 arrival and the lupin slope, his 1938 home, balloon ascensions, construction from 1916, the sewer outfall and its rerouting"
+      },
+      {
+        "title": "Glory of the Seas (clipper)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Glory_of_the_Seas_(clipper)",
+        "supports": "The ship was still sailing on the Pacific coast in 1907, including a 1907–08 voyage to Callao"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-residence-park",
+    "title": "A Suburb Laid Out by a Park Ranger",
+    "theme": "architecture-landmarks",
+    "year": 1913,
+    "yearEnd": 1924,
+    "place": {
+      "label": "El Camino del Mar at 25th Avenue, gateway to Sea Cliff",
+      "lat": 37.7879,
+      "lon": -122.4843,
+      "precision": "street"
+    },
+    "hook": "The man who curved Sea Cliff's streets was also running America's national parks at the time, and he believed the landscape architect's best skill was knowing what not to do.",
+    "story": "Sea Cliff was planned as a residence park, an exclusive enclave set among the Richmond District's working-class cottages and sand dunes. The John Brickell Company, working with several other firms, started it in 1913 [1]. The streets were laid out by the landscape architect Mark Daniels. In 1914 he was hired as landscape engineer at Yosemite, and within months he had been promoted to general superintendent of all the national parks [2]. In his spare time he was laying out Sea Cliff and Crocker-Amazon [3]. Daniels later shaped the 17-Mile Drive at Pebble Beach and helped plan Bel-Air [2][3]. His creed, published in 1915, was that the landscape architect's art \"consists more in knowing what not to do than what to do\" [2]. By June 1924 the magazine The Home Designer was running a whole feature on \"Homes in Sea Cliff\", with interiors of Harry B. Allen's house. It reported that a newly finished Sea Cliff house had been chosen and furnished as the city's show home for the national Better Homes campaign [4].",
+    "people": [
+      {
+        "name": "Mark Daniels",
+        "role": "Landscape architect who planned Sea Cliff"
+      },
+      {
+        "name": "Harry B. Allen",
+        "role": "Sea Cliff homeowner whose house The Home Designer featured in 1924"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Short History of the Richmond District",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/richmond.php",
+        "supports": "Brickell Company and other firms began Sea Cliff in 1913 among the working-class cottages"
+      },
+      {
+        "title": "Mark Daniels (1881-1952)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/daniels.php",
+        "supports": "His Yosemite appointment and promotion, the 17-Mile Drive and Bel-Air, the 1915 quote"
+      },
+      {
+        "title": "Mark Daniels excelled in developing and marketing scenic beauty (Daniella Thompson)",
+        "publisher": "Berkeley Architectural Heritage Association",
+        "year": 2007,
+        "url": "https://web.archive.org/web/2020/http://berkeleyheritage.com/eastbay_then-now/mark_daniels.html",
+        "supports": "Laid out Sea Cliff and Crocker-Amazon while he was national parks superintendent"
+      },
+      {
+        "title": "The Home Designer and Garden Beautiful, June 1924 (in the SFPL Sea Cliff clipping file)",
+        "publisher": "San Francisco Public Library, via California Revealed / Internet Archive",
+        "year": 1924,
+        "url": "https://archive.org/details/casfpjd_000997",
+        "supports": "\"Homes in Sea Cliff\" feature, interiors of Harry B. Allen's home, Better Homes demonstration house"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-dahlia-gardens",
+    "title": "Miss Hodgens' Prize Dahlias",
+    "theme": "labor-industry",
+    "year": 1921,
+    "yearEnd": 1926,
+    "place": {
+      "label": "26th Avenue at Lake Street (Sea Cliff Dahlia Gardens)",
+      "lat": 37.7859,
+      "lon": -122.4862,
+      "precision": "street"
+    },
+    "hook": "While Sea Cliff's lots were still waiting for houses, a woman on 26th Avenue was breeding dahlias as big as dinner plates and winning prizes across California.",
+    "story": "In the early 1920s Miss Aimee Hodgens ran the Sea Cliff Dahlia Gardens on Twenty-sixth Avenue, \"between Lake and California Sts.\", as her 1921 catalogue put it. Later catalogues simply said \"at Lake Street\" [1][3]. She sold tubers by mail and guaranteed every one \"true to name\". Her growing advice suited the neighbourhood's dune soil: lay the tuber nearly flat and cover it with six inches of sandy earth [1]. She also bred her own varieties. The 1921 catalogue opens with Priscilla, \"an immense white shading to pink\" that \"attracted great attention\" at every show, and it lists her Haida and Glorianna [1]. By 1923 she was also selling a canary-yellow dahlia named Suffragette and Elena Eyre, which had taken the top award at the Dahlia Society of California's trial gardens in Berkeley. She had also won a specially designed cup for six English cactus blooms [2]. Her 1925 catalogue listed a long run of prizes from shows in 1924, among them \"Best Dahlia in the Show\" and \"Largest Dahlia in the Show\" [3].",
+    "people": [
+      {
+        "name": "Aimee Hodgens",
+        "role": "Dahlia breeder and nursery owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sea Cliff Dahlia Gardens catalogue, 1921 (Henry G. Gilbert Nursery and Seed Trade Catalog Collection)",
+        "publisher": "Internet Archive",
+        "year": 1921,
+        "url": "https://archive.org/details/CAT31306522",
+        "supports": "Location between Lake and California, the guarantee, growing advice, Priscilla, Haida and Glorianna"
+      },
+      {
+        "title": "Sea Cliff Dahlia Gardens catalogue, 1923 (Henry G. Gilbert Nursery and Seed Trade Catalog Collection)",
+        "publisher": "Internet Archive",
+        "year": 1923,
+        "url": "https://archive.org/details/CAT31310951",
+        "supports": "Suffragette, Elena Eyre's top trial-garden award, the cup for six English cactus blooms"
+      },
+      {
+        "title": "Sea Cliff Dahlia Gardens catalogue, 1925 (Henry G. Gilbert Nursery and Seed Trade Catalog Collection)",
+        "publisher": "Internet Archive",
+        "year": 1925,
+        "url": "https://archive.org/details/CAT31317602",
+        "supports": "Address at Lake Street and the list of prizes from 1924 shows"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-phelan-beach",
+    "title": "A Beach Named for an Exclusionist",
+    "theme": "parks-nature",
+    "year": 1933,
+    "yearEnd": 1976,
+    "place": {
+      "label": "China Beach (formerly James D. Phelan State Beach)",
+      "lat": 37.788,
+      "lon": -122.4916,
+      "precision": "area"
+    },
+    "hook": "For more than forty years, a cove named for Chinese fishermen carried the name of one of California's loudest campaigners against Asian immigration.",
+    "story": "In 1933 the State of California bought the little cove below Sea Cliff and turned it into a public beach. According to the Parks Conservancy, former mayor James D. Phelan helped make the purchase happen, and the beach was named after him. For decades it was known as James D. Phelan State Beach [1][3]. The Conservancy does not explain how he helped, and Phelan had in fact died at his Saratoga estate, Villa Montalvo, in 1930 [2]. He had been a reforming mayor from 1897 and a U.S. senator from 1915 [2]. He was also, the Densho Encyclopedia notes, a leader of California's anti-Japanese movement. In 1920 he ran for re-election under the slogan \"Keep California White\" [2]. He had backed Chinese exclusion as well [1]. So a cove that locals had named for Chinese fishermen was renamed for one of exclusion's champions. The state held the beach until 1976, when it passed to the federal Golden Gate National Recreation Area [1].",
+    "people": [
+      {
+        "name": "James D. Phelan",
+        "role": "Former mayor and U.S. senator; the beach's namesake"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's China Beach: The Eras Tour",
+        "publisher": "Golden Gate National Parks Conservancy",
+        "year": 2023,
+        "url": "https://www.parksconservancy.org/parks/china-beach/history-san-francisco-name-updates-renovations",
+        "supports": "1933 state purchase, Phelan's role and the naming, his support for Chinese exclusion, the 1976 transfer"
+      },
+      {
+        "title": "James D. Phelan",
+        "publisher": "Densho Encyclopedia",
+        "year": null,
+        "url": "https://encyclopedia.densho.org/James_D._Phelan/",
+        "supports": "His dates, time as mayor and senator, anti-Japanese leadership, the \"Keep California White\" slogan, death at Villa Montalvo in 1930"
+      },
+      {
+        "title": "China Beach, San Francisco",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/China_Beach,_San_Francisco",
+        "supports": "Former name, James D. Phelan State Beach Park"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-china-beach-renamed",
+    "title": "The Cove Gets Its Name Back",
+    "theme": "civil-rights",
+    "year": 1976,
+    "yearEnd": 1981,
+    "place": {
+      "label": "China Beach trailhead monument, end of Sea Cliff Avenue",
+      "lat": 37.7873,
+      "lon": -122.4916,
+      "precision": "building"
+    },
+    "hook": "When the federal government took over Phelan Beach, it quickly gave the cove back its older name. Five years later a family added a stone to say why.",
+    "story": "In 1976 the state beach below Sea Cliff passed to the federal government and became part of the Golden Gate National Recreation Area. The Parks Conservancy says it was \"promptly renamed, once again, to China Beach\", dropping the name of James D. Phelan, a champion of exclusion [1]. In 1981 Henry and Diana Chung gave a monument for the trailhead near the parking area at the end of Sea Cliff Avenue [1][3]. It is a stone carved with Chinese characters. Its English text says that since gold rush times the cove was a campsite for Chinese fishermen who worked in and around the Bay, and that their efforts to supply a young city \"helped establish one of the area's most important industries and traditions\" [1][3]. The Conservancy points out that every visitor walking down to the sand has to pass it, and says: \"This is by design\" [1]. The National Park Service still directs visitors to the monument to the fishermen and early residents who camped in the cove [2].",
+    "people": [
+      {
+        "name": "Henry and Diana Chung",
+        "role": "Donated the 1981 monument"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's China Beach: The Eras Tour",
+        "publisher": "Golden Gate National Parks Conservancy",
+        "year": 2023,
+        "url": "https://www.parksconservancy.org/parks/china-beach/history-san-francisco-name-updates-renovations",
+        "supports": "1976 transfer and renaming, the 1981 Chung monument, its carved characters and wording, 'This is by design'"
+      },
+      {
+        "title": "China Beach",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/planyourvisit/chinabeach.htm",
+        "supports": "Monument to the Chinese fishermen and early residents"
+      },
+      {
+        "title": "China Beach, San Francisco (full marker text)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/China_Beach,_San_Francisco",
+        "supports": "Marker inscription and its position at the trailhead by Sea Cliff Avenue"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/China_Beach_with_Golden_Gate_Bridge.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:China_Beach_with_Golden_Gate_Bridge.jpg",
+      "credit": "Tcabrera, via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "year": 2017
+    }
+  },
+  {
+    "id": "seacliff-paul-kantner",
+    "title": "A Rock Revolutionary with an Ocean View",
+    "theme": "arts-counterculture",
+    "year": 1975,
+    "yearEnd": null,
+    "place": {
+      "label": "Sea Cliff (Kantner's clifftop house; exact address not published in sources)",
+      "lat": 37.788,
+      "lon": -122.4895,
+      "precision": "area"
+    },
+    "hook": "He wrote anthems about the young and poor rising up against the Empire. He wrote many of them from one of the priciest clifftops in San Francisco.",
+    "story": "Paul Kantner co-founded Jefferson Airplane. Like many of the San Francisco rock crowd, he left for Marin County as the 1960s ended and spent a short time in Bolinas in the early 1970s. When the Jefferson Starship era began, he moved back to the city and settled for many years in Sea Cliff [2]. The music writer Blair Jackson interviewed him six or seven times for the Bay Area magazine BAM in the mid-1970s, and he enjoyed the contradiction. Kantner, he wrote, \"lived very comfortably in a beautiful house perched over the blue Pacific in the ritzy Sea Cliff neighborhood\" while writing \"stirring anthems about the poor and the young rising up together in rebellion against the status quo\" [1]. Jackson did not call it hypocrisy. He noted that Kantner played hundreds of benefit shows, never put on rock-star airs, and turned up regularly at punk and new wave gigs, even though that crowd dismissed him as a dinosaur [1]. He later moved to North Beach and died in 2016 [1][2].",
+    "people": [
+      {
+        "name": "Paul Kantner",
+        "role": "Co-founder of Jefferson Airplane and Jefferson Starship"
+      },
+      {
+        "name": "Blair Jackson",
+        "role": "Music journalist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Space Odyssey: Jefferson Airplane's Paul Kantner, 1941-2016 (Blair Jackson, archived)",
+        "publisher": "Acoustic Guitar",
+        "year": 2016,
+        "url": "https://web.archive.org/web/20181005195033/http://acousticguitar.com/a-space-odyssey-jefferson-airplanes-paul-kantner-1941-2016/",
+        "supports": "The Sea Cliff house and the irony, BAM interviews in the mid-1970s, benefit shows, punk gigs"
+      },
+      {
+        "title": "Paul Kantner (Personal life)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Paul_Kantner",
+        "supports": "Marin and Bolinas, the return to San Francisco in the Starship era, the later move to North Beach"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-sinkhole-1995",
+    "title": "The Night the Hillside Swallowed a Mansion",
+    "theme": "modern-city",
+    "year": 1995,
+    "yearEnd": null,
+    "place": {
+      "label": "125 El Camino del Mar (still an empty lot)",
+      "lat": 37.78749,
+      "lon": -122.48469,
+      "precision": "building"
+    },
+    "hook": "On a December night in 1995, a century-old brick sewer burst under 24th Avenue. By morning, TV cameras were watching a three-storey house fall into a canyon.",
+    "story": "The storm of December 1995 dropped close to three inches of rain on San Francisco in less than a day. Under 24th Avenue, a six-foot brick sewer about a century old gave way in the early hours of December 11 [1][2]. The water ate the dune sand like \"a water hose hitting a sand pile\", said city engineer Todd Cockburn [1]. Soon after dawn, the empty 85-year-old house at 125 El Camino del Mar began to tilt. When it fell into the hole, a neighbour said, \"it sounded like an avalanche\" [1]. The pit grew to 40 feet deep and 250 feet wide. Around two dozen homes were evacuated, among them Ansel Adams's boyhood house, which was left teetering at the edge [2]. Neighbours and state Senator Quentin Kopp blamed the city's new Richmond Transport Tunnel project. Kopp said: \"I do not hesitate to say I told you so.\" Cockburn replied that \"the evidence has all washed away\" [1]. Crews filled the hole with rubble from the demolished Embarcadero Freeway [3]. In 2024 the lot was still empty [2].",
+    "people": [
+      {
+        "name": "Todd Cockburn",
+        "role": "City engineer"
+      },
+      {
+        "name": "Quentin Kopp",
+        "role": "State senator"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sea Cliff Mansion Tumbles Into Hole / Aged sewer line collapses under home (Carl Nolte)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 1995,
+        "url": "https://www.sfgate.com/news/article/sea-cliff-mansion-tumbles-into-hole-aged-sewer-3017549.php",
+        "supports": "The brick sewer, the address, the house's age, quotes from Cockburn, the neighbour and Kopp"
+      },
+      {
+        "title": "An empty lot still sits where a sinkhole swallowed a San Francisco home",
+        "publisher": "SFGATE",
+        "year": 2024,
+        "url": "https://www.sfgate.com/local/article/sf-s-largest-sinkhole-swallowed-a-house-19989295.php",
+        "supports": "Rainfall, size of the hole, evacuations, the Adams house, the empty lot today"
+      },
+      {
+        "title": "Sewer tunnel project blamed for giant sinkhole (Tom Prete), Richmond ReView, January 1996",
+        "publisher": "Richmond ReView, via Internet Archive",
+        "year": 1996,
+        "url": "https://archive.org/details/richmondreview84unse",
+        "supports": "Hole filled with Embarcadero Freeway rubble; the tunnel was blamed"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-give-us-a-brake",
+    "title": "Give Us a Brake, Said Sea Cliff",
+    "theme": "modern-city",
+    "year": 2000,
+    "yearEnd": null,
+    "place": {
+      "label": "Lake Street at 24th Avenue",
+      "lat": 37.786,
+      "lon": -122.4841,
+      "precision": "street"
+    },
+    "hook": "Sea Cliff neighbours fed up with speeding cars and tour buses put up their own traffic signs. City Hall cut them down within days.",
+    "story": "By the late 1990s Sea Cliff's biggest complaint was traffic. In 1998 the newly formed Sea Cliff Residents' Association already had committees on tour buses, parking and the neighbourhood's stone pillars. John Schiffeler of the Sea Cliff Gazette called on residents to stand together against \"this onslaught by the tour bus industry\" [1]. In 2000, neighbours on West Clay Street got tired of waiting for the city and put up five homemade signs on Lake Street at 22nd and 24th Avenues. They read: \"Give Us A Brake. Slow Down. Children at Play.\" [2] Days later, city traffic engineers came out and cut them down. The acting traffic director explained that such signs were illegal and that the state no longer allowed \"children at play\" warnings, because it believed they encouraged children to play in the street [2]. Supervisor Gavin Newsom had pushed for lower speed limits and speed humps. \"I've ended up doing exactly the opposite of what I set out to do,\" he said [2]. The Chronicle added that lost tourists wandered past the homes of Robin Williams and Sharon Stone [2].",
+    "people": [
+      {
+        "name": "John Schiffeler",
+        "role": "Co-editor of the Sea Cliff Gazette"
+      },
+      {
+        "name": "Gavin Newsom",
+        "role": "District supervisor"
+      },
+      {
+        "name": "Fred Hamdun",
+        "role": "Acting director of Parking and Traffic"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sea Cliff group wants to limit busses, Richmond ReView, January 1998",
+        "publisher": "Richmond ReView, via Internet Archive",
+        "year": 1998,
+        "url": "https://archive.org/details/richmondreview104unse",
+        "supports": "The residents' association and its committees, Schiffeler's quote"
+      },
+      {
+        "title": "S.F. Removal of Safety Signs Upsets Sea Cliff Residents (Edward Epstein)",
+        "publisher": "San Francisco Chronicle",
+        "year": 2000,
+        "url": "https://www.sfchronicle.com/politics/article/S-F-Removal-of-Safety-Signs-Upsets-Sea-Cliff-3304178.php",
+        "supports": "The signs and their wording, the removal, the city's reasoning, Newsom's quote, the celebrity homes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "seacliff-brugnara-art",
+    "title": "Crated Masterpieces in a Pink Mansion's Garage",
+    "theme": "modern-city",
+    "year": 2014,
+    "yearEnd": 2024,
+    "place": {
+      "label": "224 Sea Cliff Avenue",
+      "lat": 37.78894,
+      "lon": -122.48846,
+      "precision": "building"
+    },
+    "hook": "Sixteen de Koonings, Picasso etchings and a supposed Degas arrived by truck at a Sea Cliff mansion. The buyer had them left in the garage and never paid.",
+    "story": "The salmon-pink house at 224 Sea Cliff Avenue was built in 1925 and looks out over Baker Beach [1]. In April 2014 crates of art were delivered there. Its owner, the real estate investor Luke Brugnara, had agreed to pay $7.3 million for 16 Willem de Kooning paintings. He had also agreed to $3 million for a sculpture sold as a Degas, plus works by George Luks, Joan Miró and Picasso [2]. He told the dealer he was opening a museum, first in San Francisco and then in Las Vegas. He had the crates left in his garage. The dealer came into the house and found it empty except for two chairs [2]. Brugnara never paid. He told his lawyer the art had been a gift [2]. The FBI raided the house. Brugnara slipped away from the federal courthouse while awaiting trial and was caught a week later in Los Gatos. He was then sentenced to seven years [1][3]. The Degas has never been found [1]. In 2024 the house sold for $6.5 million, and the new owner planned to tear out its zigzag pink staircase down to the rocks [1].",
+    "people": [
+      {
+        "name": "Luke Brugnara",
+        "role": "Real estate investor convicted of mail fraud"
+      },
+      {
+        "name": "Ed Dudensing",
+        "role": "Lawyer who bought the house in 2024"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's notorious Sea Cliff mansion is losing its mazy staircase (Andrew Chamings)",
+        "publisher": "SFGATE",
+        "year": 2024,
+        "url": "https://www.sfgate.com/local/article/sf-notorious-pink-sea-cliff-mansion-stairs-removed-19826549.php",
+        "supports": "The 1925 house, the FBI raid, the seven-year sentence, the missing Degas, the 2024 sale price, plans for the staircase"
+      },
+      {
+        "title": "S.F. con accused of not paying for $11 million worth of art (Henry K. Lee)",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2014,
+        "url": "https://www.sfgate.com/crime/article/11-million-in-art-at-heart-of-S-F-man-s-fraud-5511797.php",
+        "supports": "The works and their prices, the museum story, the garage, the empty house, the 'gift' claim"
+      },
+      {
+        "title": "Luke Brugnara",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Luke_Brugnara",
+        "supports": "Escape from the courthouse and recapture in Los Gatos"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Art_work_stolen_by_Luke_Brugnara_on_display_in_court.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Art_work_stolen_by_Luke_Brugnara_on_display_in_court.png",
+      "credit": "U.S. District Court (Judge William Alsup), via Wikimedia Commons",
+      "license": "Public domain",
+      "year": 2015
+    }
+  },
+  {
+    "id": "seacliff-china-beach-rehab",
+    "title": "Twenty-Five Million Dollars for a Tiny Cove",
+    "theme": "parks-nature",
+    "year": 2023,
+    "yearEnd": null,
+    "place": {
+      "label": "China Beach bathhouse and picnic terrace",
+      "lat": 37.7878,
+      "lon": -122.4914,
+      "precision": "building"
+    },
+    "hook": "Beachgoers told the park service to leave their little cove just as it was. So the rebuild had to keep a palm tree and an old flagpole.",
+    "story": "China Beach is a small cove with a bathhouse, a picnic terrace and tide pools. At low tide you can walk around to Baker Beach [4]. It has no lifeguards, and swimming is discouraged because the surf is unpredictable [4]. By the late 2010s the retaining walls, road and bathhouse were worn out. The Parks Conservancy dates its feasibility study to 2016 on one page and 2017 on another [2][4]. Hundreds of beachgoers answered surveys, and most said they loved the cove \"as-is\" [1]. In May 2023 the National Park Service and the Conservancy began a $25 million rehabilitation. It covers the bathhouse, with new restrooms and rinse stations, plus the picnic terrace and the retaining walls. A new arrival plaza keeps a palm tree and the historic flagpole [2]. Beach access stayed open during the work, but the parking lot became a staging yard. As of 2026 the Park Service still warns of very limited parking [2][3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco's China Beach: The Eras Tour",
+        "publisher": "Golden Gate National Parks Conservancy",
+        "year": 2023,
+        "url": "https://www.parksconservancy.org/parks/china-beach/history-san-francisco-name-updates-renovations",
+        "supports": "Surveys of hundreds of beachgoers, 2023 start of the rehabilitation, bathhouse and retaining walls"
+      },
+      {
+        "title": "China Beach Rehabilitation Project",
+        "publisher": "Golden Gate National Parks Conservancy",
+        "year": 2023,
+        "url": "https://www.parksconservancy.org/projects/china-beach",
+        "supports": "Feasibility study, $25 million cost, May 2023 start, palm tree and flagpole, restrooms and rinse stations, parking staging (with the park page on tide pools and no lifeguards)"
+      },
+      {
+        "title": "China Beach",
+        "publisher": "National Park Service, Golden Gate National Recreation Area",
+        "year": null,
+        "url": "https://www.nps.gov/goga/planyourvisit/chinabeach.htm",
+        "supports": "Construction under way and very limited parking"
+      },
+      {
+        "title": "China Beach",
+        "publisher": "Golden Gate National Parks Conservancy",
+        "year": null,
+        "url": "https://www.parksconservancy.org/parks/china-beach",
+        "supports": "Low-tide walk to Baker Beach, tide pools, no lifeguards, unpredictable surf"
+      }
+    ],
+    "photo": null
+  }
+]

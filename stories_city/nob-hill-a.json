@@ -1,0 +1,550 @@
+[
+  {
+    "id": "nob-hill-crocker-spite-fence",
+    "title": "The Undertaker Who Wouldn't Sell",
+    "theme": "gold-rush-victorian",
+    "year": 1877,
+    "yearEnd": null,
+    "place": {
+      "label": "Sacramento & Taylor streets, NE corner of the Crocker block (now Grace Cathedral)",
+      "lat": 37.79245,
+      "lon": -122.41255,
+      "precision": "block"
+    },
+    "hook": "The richest men in California bought the whole block. One German undertaker refused, so Charles Crocker walled his house inside a forty-foot fence.",
+    "story": "Nicholas Yung, a German immigrant who had come to America in 1848, was an undertaker. In 1855 he and his wife bought a corner lot atop what was then the steep, lonely California Street Hill and built a modest house with views of the Golden Gate and the bay [1]. Two decades later railroad baron Charles Crocker bought up the rest of the block for a palace of his own. Yung would not sell. Crocker raised his offer, reportedly doubling it, and Yung still said no [1]. So Crocker's workmen built a three-sided wooden fence about forty feet high around the little house, cutting off its sun and view; the family said it felt like living at the bottom of a well [1]. Newspapers called it \"Crocker's Crime,\" and sightseers rode up the hill to stare at it [1]. In October 1877 the agitator Denis Kearney publicly gave Crocker a deadline to take down \"the fence around Jung's house\" [2]. It stayed. According to FoundSF, it came down only when the Yung property finally passed to Crocker [1]. Grace Cathedral stands on the block today.",
+    "people": [
+      {
+        "name": "Nicholas Yung",
+        "role": "undertaker and holdout homeowner"
+      },
+      {
+        "name": "Charles Crocker",
+        "role": "Central Pacific railroad magnate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Crocker's Spite Fence",
+        "publisher": "FoundSF (James Sederberg)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Crocker%27s_Spite_Fence",
+        "supports": "Yung's background, 1855 purchase, Crocker's offers, the forty-foot three-sided fence, 'Crocker's Crime', eventual sale"
+      },
+      {
+        "title": "The Workingmen's Party & The Denis Kearney Agitation",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": 1995,
+        "url": "https://www.foundsf.org/index.php?title=The_Workingmen%E2%80%99s_Party_%26_The_Denis_Kearney_Agitation",
+        "supports": "Kearney's October 1877 ultimatum about 'the fence around Jung's house', quoted from the Evening Bulletin"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-kearney-rally",
+    "title": "Burning Barrels Outside Crocker's Door",
+    "theme": "labor-industry",
+    "year": 1877,
+    "yearEnd": null,
+    "place": {
+      "label": "In front of the Crocker mansion, California & Taylor streets (now Grace Cathedral)",
+      "lat": 37.79165,
+      "lon": -122.41331,
+      "precision": "block"
+    },
+    "hook": "On an October night in 1877, thousands of unemployed men climbed Nob Hill by torchlight to threaten the railroad kings in their own front yards.",
+    "story": "By 1877 Denis Kearney, an Irish-born drayman who owned five wagons, had become the loudest voice of San Francisco's jobless [3]. His Workingmen's Party of California blamed two targets at once: the railroad millionaires and the Chinese workers they employed, under the slogan \"The Chinese Must Go\" [1]. On October 29, 1877, several thousand marchers surged up Nob Hill to the front of Charles Crocker's new mansion [1]. Burning lime barrels lit the scene; one account says armed men waited inside to guard Crocker's art collection [2]. Kearney roared that \"the Central Pacific Railroad men are thieves,\" gave the railroad three months to discharge its Chinese workers, and promised that if Crocker did not remove the spite fence around his neighbour's house by November 29, he would lead the workingmen up to tear it down and give Crocker \"the worst beating with the sticks that a man ever got\" [1]. Within days Kearney was arrested; he was released before Thanksgiving, and the march on the fence never came [1][2]. (FoundSF's spite-fence essay dates the rally to 1878, but the newspaper it is quoted from is from November 1877.)",
+    "people": [
+      {
+        "name": "Denis Kearney",
+        "role": "leader of the Workingmen's Party of California"
+      },
+      {
+        "name": "Charles Crocker",
+        "role": "railroad magnate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Workingmen's Party & The Denis Kearney Agitation",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": 1995,
+        "url": "https://www.foundsf.org/index.php?title=The_Workingmen%E2%80%99s_Party_%26_The_Denis_Kearney_Agitation",
+        "supports": "Date of 29 October 1877 march to the Crocker mansion; Kearney's speech quoted from the Evening Bulletin, 5 Nov 1877; release before Thanksgiving"
+      },
+      {
+        "title": "Crocker's Spite Fence",
+        "publisher": "FoundSF (James Sederberg)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Crocker%27s_Spite_Fence",
+        "supports": "Burning lime barrels, armed men in the mansion, arrest two days after the rally"
+      },
+      {
+        "title": "Denis Kearney",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Denis_Kearney",
+        "supports": "Kearney's drayage business with five wagons by 1877; repeated arrests"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-california-street-cable",
+    "title": "Stanford's Railroad Up His Own Hill",
+    "theme": "architecture-landmarks",
+    "year": 1878,
+    "yearEnd": null,
+    "place": {
+      "label": "California Street at Jones, crest of the California Street cable line",
+      "lat": 37.79167,
+      "lon": -122.41452,
+      "precision": "street"
+    },
+    "hook": "Leland Stanford built a cable line up California Street, past his own mansion, and had to pay his rival $30,000 for the privilege.",
+    "story": "Nob Hill was a brutal climb for horses. Leland Stanford, the Central Pacific's president, was building his mansion near California and Powell, and he joined Mark Hopkins and other businessmen to form the California Street Cable Railroad [1][3]. Stanford won a franchise in 1876 and handed the job to Henry Root, one of his railroad engineers. Despite his efforts to get around Andrew Hallidie's cable-car patents, Stanford was forced to pay Hallidie $30,000 in licensing fees, \"to his great chagrin\" [1]. Work began on July 5, 1877; within five months 1.7 miles of track ran from Kearny Street up over Nob Hill \"past Nabob palaces\" to Fillmore Street [1]. After delays the line opened on April 10, 1878, and carried more than 11,000 riders that day [1]. Stanford sold out in 1884 to banker Antoine Borel, and the company later moved its powerhouse to California and Hyde [1]. Unlike most rival lines, California Street stayed on cable: the grades were too steep for electric trolleys. The city bought it in January 1952, and it still runs [1][2].",
+    "people": [
+      {
+        "name": "Leland Stanford",
+        "role": "railroad magnate and line founder"
+      },
+      {
+        "name": "Henry Root",
+        "role": "engineer"
+      },
+      {
+        "name": "Andrew Hallidie",
+        "role": "cable-car patent holder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The California Street Cable Railroad - 1878",
+        "publisher": "Cable Car Museum (Friends of the Cable Car Museum)",
+        "year": null,
+        "url": "https://www.cablecarmuseum.org/co-california-st.html",
+        "supports": "Franchise, Root, $30,000 patent fee, construction dates, route, opening day ridership, Borel, powerhouse move"
+      },
+      {
+        "title": "The 8 Original Cable Car Companies",
+        "publisher": "Cable Car Museum",
+        "year": null,
+        "url": "https://www.cablecarmuseum.org/companies.html",
+        "supports": "Service from April 1878; city purchase in January 1952"
+      },
+      {
+        "title": "Cable Cars",
+        "publisher": "FoundSF (James Sederberg, Chris Carlsson)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Cable_Cars",
+        "supports": "Stanford's mansion at California and Powell; opening April 10, 1878"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-sutter-street-side-grip",
+    "title": "A Horsecar Man Reinvents the Grip",
+    "theme": "labor-industry",
+    "year": 1877,
+    "yearEnd": 1902,
+    "place": {
+      "label": "Sutter & Polk streets, site of the Sutter Street Railway powerhouse",
+      "lat": 37.7878,
+      "lon": -122.4199,
+      "precision": "block"
+    },
+    "hook": "The cable-car grip used on California Street today traces back to a horsecar operator who decided to grab the cable from the side.",
+    "story": "Henry Casebolt had run horsecar lines through the 1860s, and by 1876 they were losing money. His answer was cable [1]. On January 27, 1877, his Sutter Street Railroad opened, running cable cars along Sutter from Market Street west to Larkin [1]. Most of it copied Andrew Hallidie's Clay Street system, with one important exception: Casebolt's grip seized the moving cable from the side rather than from below, and the gripman worked a lever instead of Hallidie's hollow-screw device [1]. The side grip caught on; the California Street line would later use one too [2]. The route was nearly flat, and ridership rose by 962,000 in the first year [1]. In late 1878 the company opened a crosstown line running from its powerhouse at Larkin and Bush south to Hayes Street [1]. Casebolt sold out in 1883 to real estate broker Robert F. Morrow, who pulled all the lines into a single powerhouse at Sutter and Polk [1]. By 1891 the system ran about six miles of track. In 1902 it was merged into the United Railroads of San Francisco [1][2].",
+    "people": [
+      {
+        "name": "Henry Casebolt",
+        "role": "street railway pioneer"
+      },
+      {
+        "name": "Robert F. Morrow",
+        "role": "later owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Sutter Street Railroad - 1877",
+        "publisher": "Cable Car Museum",
+        "year": null,
+        "url": "https://www.cablecarmuseum.org/co-sutter-st.html",
+        "supports": "Casebolt, side grip and lever, opening date, route, ridership, powerhouses at Larkin & Bush and Sutter & Polk, Morrow, 1902 merger"
+      },
+      {
+        "title": "The 8 Original Cable Car Companies",
+        "publisher": "Cable Car Museum",
+        "year": null,
+        "url": "https://www.cablecarmuseum.org/companies.html",
+        "supports": "Side grip on Sutter and California Street lines; service January 1877 to March 1902"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-flood-mansion",
+    "title": "Brownstone, Bronze and a Full-Time Polisher",
+    "theme": "architecture-landmarks",
+    "year": 1886,
+    "yearEnd": null,
+    "place": {
+      "label": "James C. Flood Mansion (Pacific-Union Club), 1000 California Street",
+      "lat": 37.79226,
+      "lon": -122.4114,
+      "precision": "building"
+    },
+    "hook": "A silver king shipped his walls from Connecticut and hired a servant just to polish the fence. That stone later outlasted the 1906 fire.",
+    "story": "James C. Flood was one of the \"Silver Kings\" who struck it rich on the Comstock Lode, and in 1886 he finished a townhouse on Nob Hill that outshone its neighbours [1][3]. Historians William Issel and Robert Cherny call it the most ostentatious house on the hill: it cost $1.5 million, was built of brownstone brought from Connecticut, and was ringed by a $30,000 bronze fence that needed a full-time servant just to keep it polished [1]. The house filled a whole block bounded by California, Cushman, Mason and Sacramento streets, and has been called the first brownstone west of the Mississippi [3]. Its neighbours were Crockers, Hopkinses, Stanfords and Huntingtons; as a 1968 Junior League survey put it, the hill's householders \"may well have represented the majority interest\" in California [1]. In 1906 its stone walls made it the only great Nob Hill house to survive the fire, and the Pacific-Union Club bought the shell and had Willis Polk rebuild it [2]. It is still the club's home. NoeHill notes drily that it is \"decidedly not open to the public. Not ever.\" [2]",
+    "people": [
+      {
+        "name": "James C. Flood",
+        "role": "Comstock silver baron"
+      },
+      {
+        "name": "Augustus Laver",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nob Hill and Pacific Heights at Turn of 20th Century",
+        "publisher": "FoundSF (William Issel and Robert Cherny)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Nob_Hill_and_Pacific_Heights_at_Turn_of_20th_Century",
+        "supports": "Cost, Connecticut brownstone, $30,000 bronze fence with full-time polisher, Junior League quote"
+      },
+      {
+        "title": "San Francisco Landmark #64: Flood Mansion",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf064.asp",
+        "supports": "Built 1886; survived 1906 thanks to brownstone; Pacific Union Club and Willis Polk rebuild; not open to public"
+      },
+      {
+        "title": "James C. Flood Mansion",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/James_C._Flood_Mansion",
+        "supports": "Block boundaries, first brownstone west of the Mississippi, architect Augustus Laver"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-hopkins-art-institute",
+    "title": "A Widow's Castle Becomes an Art School",
+    "theme": "arts-counterculture",
+    "year": 1893,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Hopkins mansion and Mark Hopkins Institute of Art, California & Mason (now the Mark Hopkins hotel)",
+      "lat": 37.79176,
+      "lon": -122.41032,
+      "precision": "building"
+    },
+    "hook": "Mark Hopkins never lived to see his towering mansion. His widow's second husband gave it away to art students.",
+    "story": "Mark Hopkins, one of the railroad Big Four, was persuaded by his wife and first cousin, Mary Frances Sherwood Hopkins, to build a San Francisco estate to rival his partners' [3]. The house, furnished by the decorators Herter Brothers, was completed in 1880, two years after Hopkins died [3]. Novelist Gertrude Atherton said it \"looked as if several architects had been employed, and they had fought one another to a finish\" [4]. In 1887 the widow married Edward Francis Searles, and when she died in 1891 the bulk of her fortune passed to him [3]. In February 1893 Searles donated the mansion to the University of California, in trust for the San Francisco Art Association, for \"instruction in and illustration of the fine arts, music and literature\"; the state plaque calls it San Francisco's first cultural center [1]. As the Mark Hopkins Institute of Art it housed the California School of Design and the association's collection, turning a railroad fortune's showpiece into a school [2]. The 1906 fire destroyed it [3], and in 1926 the school, later called the San Francisco Art Institute, moved to Chestnut Street on Russian Hill [2].",
+    "people": [
+      {
+        "name": "Mary Frances Sherwood Hopkins Searles",
+        "role": "widow of Mark Hopkins"
+      },
+      {
+        "name": "Edward F. Searles",
+        "role": "her second husband and donor"
+      },
+      {
+        "name": "Mark Hopkins",
+        "role": "Central Pacific partner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "California Historical Landmark #754: Site of Mark Hopkins Institute of Art",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/cal0754.asp",
+        "supports": "February 1893 donation by Searles to UC for the Art Association; plaque wording"
+      },
+      {
+        "title": "San Francisco Art Institute",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Art_Institute",
+        "supports": "Named Mark Hopkins Institute of Art, housed California School of Design and SFAA collection"
+      },
+      {
+        "title": "Mary Hopkins Searles",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Mary_Hopkins_Searles",
+        "supports": "Cousin marriage, Herter Brothers, completion 1880, marriage to Searles 1887, estate, 1906 destruction"
+      },
+      {
+        "title": "Nob Hill and Pacific Heights at Turn of 20th Century",
+        "publisher": "FoundSF (William Issel and Robert Cherny)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Nob_Hill_and_Pacific_Heights_at_Turn_of_20th_Century",
+        "supports": "Gertrude Atherton's quip about the Hopkins house"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-jane-stanford-poison",
+    "title": "A Bitter Glass of Poland Water",
+    "theme": "gold-rush-victorian",
+    "year": 1905,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Stanford mansion, 905 California Street (now the Stanford Court hotel)",
+      "lat": 37.79186,
+      "lon": -122.40941,
+      "precision": "building"
+    },
+    "hook": "One January night the co-founder of Stanford University took a sip of mineral water in her Nob Hill bedroom, and it tasted of strychnine.",
+    "story": "Leland Stanford built one of Nob Hill's first great mansions in 1876 [3]. In 1905 his widow, Jane, still used it. On the evening of January 14, 1905, she drank from a bottle of Poland Spring water that a servant set in her room every night [1]. It tasted bitter, so she made herself vomit and called her secretary and maid, who agreed it tasted \"queer\" [1]. Weeks later a chemist reported enough strychnine in the bottle to kill [1]. Private detectives she hired called it an accident [2]. Unsettled, and doubting university president David Starr Jordan, the 76-year-old sailed for Hawaii on February 15 [1]. On February 28 at the Moana Hotel in Honolulu she took bicarbonate of soda prepared by her secretary, Bertha Berner, and woke crying, \"I think I have been poisoned again!\" [1]. She died that night. A coroner's jury found strychnine poisoning; Jordan hired another doctor and announced heart failure [1]. In 2003 Stanford neurologist Robert Cutler concluded she was murdered, but no culprit has ever been named [1][2].",
+    "people": [
+      {
+        "name": "Jane Lathrop Stanford",
+        "role": "co-founder of Stanford University"
+      },
+      {
+        "name": "Bertha Berner",
+        "role": "her secretary"
+      },
+      {
+        "name": "David Starr Jordan",
+        "role": "Stanford president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Who Killed Jane Stanford?",
+        "publisher": "Stanford Magazine (Susan Wolfe)",
+        "year": 2003,
+        "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+        "supports": "January 14, 1905 poisoning at the Nob Hill mansion; strychnine; Hawaii trip; Moana death; coroner's verdict; Jordan's heart-failure claim; Cutler's book"
+      },
+      {
+        "title": "Murder in the Moana: The Death of Jane Stanford",
+        "publisher": "FoundSF (Nathan Weiser)",
+        "year": 2015,
+        "url": "https://www.foundsf.org/index.php?title=Murder_in_the_Moana:_The_Death_of_Jane_Stanford",
+        "supports": "First poisoning at Nob Hill mansion; detectives deemed it an accident"
+      },
+      {
+        "title": "The Octopus and the Big Four",
+        "publisher": "FoundSF (Ben Ratliff)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=The_Octopus_and_the_Big_Four",
+        "supports": "Stanford mansion built on Nob Hill in 1876"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-lurline-baths",
+    "title": "Ocean Water Piped Four Miles Downtown",
+    "theme": "gold-rush-victorian",
+    "year": 1894,
+    "yearEnd": 1936,
+    "place": {
+      "label": "Site of the Lurline Baths, Bush & Larkin streets",
+      "lat": 37.7888,
+      "lon": -122.4182,
+      "precision": "block"
+    },
+    "hook": "San Franciscans once swam in real Pacific seawater at Bush and Larkin, and Thomas Edison's camera caught them flying down the slide.",
+    "story": "Bay water near downtown was fouled by sewage and factory waste, so in 1892 a group headed by John D. Spreckels formed the Olympic Salt Water Company to bring \"pure ocean water for bathing purposes\" into the city [1]. They laid an intake 600 feet offshore south of the Cliff House, a pump across the Great Highway, and nearly four miles of iron pipe along today's Geary Boulevard to a reservoir in Laurel Heights. From there, gravity carried the sea downhill [1]. The company's own Lurline Baths opened in 1894 at the corner of Bush and Larkin, with public baths and a swimming pool [1][3]. In August 1897 Edison cameraman Frederick Blechynden filmed there. His 20-second film shows the pool's toboggan slide, bathers going down \"some sitting, others lying down, head first or feet first\" [2]. The film survives at the Library of Congress. The company also tried selling salt water for firefighting and street washing, without success [1]. The baths and their seawater supply lasted until 1936 [1][3].",
+    "people": [
+      {
+        "name": "John D. Spreckels",
+        "role": "head of the Olympic Salt Water Company"
+      },
+      {
+        "name": "Frederick Blechynden",
+        "role": "Edison cameraman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Olympic Salt Water Company (WRCA Newsletter vol. 6 no. 3)",
+        "publisher": "Water Resources Center Archives, UC Berkeley (Tim Kelley)",
+        "year": 1999,
+        "url": "https://web.archive.org/web/20060905140543/http://www.lib.berkeley.edu/WRCA/pdfs/news63.pdf",
+        "supports": "Company founding, Spreckels, intake and pipeline, Laurel Heights reservoir, Lurline Baths at Bush & Larkin, failed firefighting proposals, closure in 1936"
+      },
+      {
+        "title": "Lurline Baths (film)",
+        "publisher": "Library of Congress",
+        "year": 1897,
+        "url": "https://www.loc.gov/item/00694240/",
+        "supports": "Filmed August 1897 by Frederick Blechynden; 20 seconds; toboggan slide description"
+      },
+      {
+        "title": "Lurline Baths",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Lurline_Baths",
+        "supports": "Built 1894 at Bush and Larkin; closed 1936"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-mcteague-polk-street",
+    "title": "A Giant Dentist on Polk Street",
+    "theme": "arts-counterculture",
+    "year": 1899,
+    "yearEnd": null,
+    "place": {
+      "label": "Polk Street near California, the 'accommodation street' of McTeague",
+      "lat": 37.78977,
+      "lon": -122.42029,
+      "precision": "street"
+    },
+    "hook": "Frank Norris set his great naturalist novel among Polk Street's butcher boys and car conductors, and he drew its murder from a real San Francisco case.",
+    "story": "In 1899 Frank Norris published McTeague, the tale of a slow-witted, enormous dentist whose marriage decays into greed and murder [2]. Norris began it at Harvard in 1895 and wrote most of it in 1897. Its central killing is believed to be based on the 1893 murder of Sarah Collins, killed by her husband after she refused him money [2]. He planted it firmly on Polk Street, which he called \"an 'accommodation street' of small shops in the residence quarter of the town\" [1]. McTeague's \"Dental Parlors\" serve \"butcher boys, shop girls, drug clerks, and car conductors\". On Sundays he eats at the \"car conductors' coffee-joint on Polk Street,\" carries steam beer home from Joe Frenna's saloon, and naps in his operating chair beneath a canary in a gilt cage [1]. From his bay window he watches the well-dressed ladies \"from the great avenue a block above Polk Street\" doing their morning marketing, and at night he hears how \"at one o'clock the cable stopped\" [1]. Erich von Stroheim filmed the book as Greed in 1924 [2].",
+    "people": [
+      {
+        "name": "Frank Norris",
+        "role": "novelist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "McTeague: A Story of San Francisco (full text)",
+        "publisher": "Project Gutenberg",
+        "year": 1899,
+        "url": "https://www.gutenberg.org/files/165/165-h/165-h.htm",
+        "supports": "All quoted descriptions of Polk Street, the dental parlors, coffee-joint, Joe Frenna's saloon, the cable"
+      },
+      {
+        "title": "McTeague",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/McTeague",
+        "supports": "1899 publication, writing at Harvard 1895 and 1897, Sarah Collins murder as basis, Greed (1924)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-stevenson-608-bush",
+    "title": "'Dere's de Author': Stevenson's Hungry Winter",
+    "theme": "arts-counterculture",
+    "year": 1879,
+    "yearEnd": 1880,
+    "place": {
+      "label": "608 Bush Street, Robert Louis Stevenson's lodging",
+      "lat": 37.79045,
+      "lon": -122.40734,
+      "precision": "building"
+    },
+    "hook": "Before Treasure Island, a sick, broke Robert Louis Stevenson split kindling on a Bush Street windowsill and cut his dinner budget to 25 cents.",
+    "story": "Robert Louis Stevenson had followed Fanny Osbourne, the married American he loved, from Europe to Monterey and then to San Francisco [2]. Through the winter of 1879–80 his letters home were headed \"608 Bush Street\" [1]. On December 26, 1879, he wrote that for four days he had spoken to no one but \"my landlady or landlord or to restaurant waiters\" [1]. In January he described his routine for his friend Sidney Colvin. Each morning a \"slender gentleman in an ulster\" left No. 608, walked down Powell for a ten-cent coffee and roll, then split kindling on the windowsill, since harder blows elsewhere might \"knock the entire shanty\" down. His landlady's youngest child would announce, \"Dere's de author\" [1]. By January 26 he was dropping \"from a 50 cent. to a 25 cent. dinner\" [1]. Fanny introduced her gaunt, chain-smoking fiancé, in his worn velvet jacket, to her friend Dora Norton Williams, who became a lifelong friend [2]. (That account gives the address as 680 Bush; the letters say 608.) Stevenson married Fanny in May 1880 [3].",
+    "people": [
+      {
+        "name": "Robert Louis Stevenson",
+        "role": "writer"
+      },
+      {
+        "name": "Fanny Van de Grift Osbourne",
+        "role": "his future wife"
+      },
+      {
+        "name": "Dora Norton Williams",
+        "role": "artist and friend"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Letters of Robert Louis Stevenson, Volume 1 (ed. Sidney Colvin)",
+        "publisher": "Project Gutenberg",
+        "year": 1899,
+        "url": "https://www.gutenberg.org/cache/epub/622/pg622.txt",
+        "supports": "Letters headed 608 Bush Street, Dec 1879 to Mar 1880; quotations on loneliness, daily routine, kindling, 'Dere's de author', 25-cent dinner"
+      },
+      {
+        "title": "Dora Norton Williams: Friend of Robert Louis Stevenson",
+        "publisher": "FoundSF (Nancy Everett, from The Argonaut, 2010)",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Dora_Norton_Williams:_Friend_of_Robert_Louis_Stevenson",
+        "supports": "Stevenson pursuing Fanny to Monterey and SF; Fanny introducing him to Dora; his appearance; gives address as 680 Bush"
+      },
+      {
+        "title": "Robert Louis Stevenson",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
+        "supports": "Marriage to Fanny in May 1880; Treasure Island among later works"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-colton-huntington-letters",
+    "title": "The Letters That Shamed a Railroad",
+    "theme": "labor-industry",
+    "year": 1883,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Colton (later Huntington) house, California & Taylor (now Huntington Park)",
+      "lat": 37.79218,
+      "lon": -122.41212,
+      "precision": "block"
+    },
+    "hook": "A railroad lawyer's Nob Hill house held a stack of private letters. After he died, a lawsuit made them public.",
+    "story": "David Colton, the Central Pacific's chief counsel, built a relatively restrained house across Taylor Street from Charles Crocker's mansion [1]. He was mocked as the \"Half\" in the railroad's \"Big Four and a Half\" [2]. Sources disagree on who was first to build on the hilltop: one credits Colton with the first railroad mansion [2], while FoundSF says Leland Stanford led the way in 1876. Colton died in October 1878 [2]. His files held a long run of private letters from Collis Huntington, the partner who spent most of his time in Washington looking after the railroad's interests. When litigation opened those files in 1883, the letters became a public embarrassment. They described lobbying, payoffs and bribes to officials in frank, profane detail [3]. They did not prove that money actually changed hands, but they showed how the Big Four did business [3]. Huntington later bought the Colton house and rarely used it [1]. After it burned in 1906, his widow Arabella gave the land to the city in 1915, and it is now Huntington Park [4].",
+    "people": [
+      {
+        "name": "David D. Colton",
+        "role": "Central Pacific chief counsel"
+      },
+      {
+        "name": "Collis P. Huntington",
+        "role": "railroad magnate and letter writer"
+      },
+      {
+        "name": "Arabella Huntington",
+        "role": "donor of the park site"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nob Hill and Pacific Heights at Turn of 20th Century",
+        "publisher": "FoundSF (William Issel and Robert Cherny)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Nob_Hill_and_Pacific_Heights_at_Turn_of_20th_Century",
+        "supports": "Colton house across Taylor from Crocker; Colton as chief counsel; later purchased but seldom used by Huntington"
+      },
+      {
+        "title": "David D. Colton",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/David_D._Colton",
+        "supports": "Death Oct 9, 1878; 'Half' of the 'Big Four and a Half'; claim he built the first railroad mansion"
+      },
+      {
+        "title": "Collis Potter Huntington",
+        "publisher": "Wikipedia (citing Walton Bean, California: An Interpretive History)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Collis_Potter_Huntington",
+        "supports": "Letters to Colton opened by litigation in 1883; content and limits"
+      },
+      {
+        "title": "Huntington Park (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Huntington_Park_(San_Francisco)",
+        "supports": "Arabella Huntington donated the site in 1915 after the 1906 fire"
+      }
+    ],
+    "photo": null
+  }
+]

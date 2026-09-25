@@ -1,0 +1,555 @@
+[
+  {
+    "id": "outer-mission-lamantia-balboa-dropout",
+    "title": "The surrealist who walked out of Balboa",
+    "theme": "arts-counterculture",
+    "year": 1943,
+    "yearEnd": null,
+    "place": {
+      "label": "Balboa High School, 1000 Cayuga Avenue",
+      "lat": 37.722,
+      "lon": -122.44041,
+      "precision": "building"
+    },
+    "hook": "At 15, an Excelsior kid had poems in a New York surrealist magazine and André Breton's blessing. So he quit Balboa High.",
+    "story": "Philip Lamantia was born in San Francisco in 1927, the only child of Sicilian immigrants, and grew up in the Excelsior. As a boy he worked in the old Embarcadero produce market, where his father was a produce broker [1][2]. He was writing poems by middle school. Then he saw paintings by Miró and Dalí at the San Francisco Museum of Art and started reading André Breton, the leader of the Surrealists [1][2]. In 1943, aged 15, he had poems published in View, a New York magazine that leaned towards Surrealism. Breton called him \"a voice that rises once in a hundred years\" [1]. Soon afterwards Lamantia dropped out of Balboa High School on Cayuga Avenue and moved to New York. There he worked as an assistant editor at View and met Marcel Duchamp, Max Ernst and Yves Tanguy [1][2]. He came home and joined Kenneth Rexroth's circle [2]. In October 1955 he was one of the five poets on the bill at the Six Gallery reading where Allen Ginsberg first read 'Howl' [1]. Lawrence Ferlinghetti later said it was Lamantia who turned Ginsberg on to Surrealist writing [1].",
+    "people": [
+      {
+        "name": "Philip Lamantia",
+        "role": "poet, former Balboa High student"
+      },
+      {
+        "name": "André Breton",
+        "role": "Surrealist leader who praised him"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Philip Lamantia -- S.F. surrealist poet",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2005,
+        "url": "https://www.sfgate.com/bayarea/article/philip-lamantia-s-f-surrealist-poet-2724066.php",
+        "supports": "Excelsior birth, produce market, Miró and Dalí, View at 15, Breton quote, dropping out of Balboa, New York, Six Gallery, Ferlinghetti on Ginsberg"
+      },
+      {
+        "title": "Philip Lamantia",
+        "publisher": "Academy of American Poets (Poets.org)",
+        "year": null,
+        "url": "https://poets.org/poet/philip-lamantia",
+        "supports": "Born 1927 to Sicilian immigrants, View 1943, dropped out of Balboa High, assistant editor at View, met Duchamp, Ernst and Tanguy, Rexroth"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-bunny-hop",
+    "title": "Balboa High invents the Bunny Hop",
+    "theme": "arts-counterculture",
+    "year": 1952,
+    "yearEnd": 1953,
+    "place": {
+      "label": "Balboa High School, Cayuga Avenue at Onondaga Avenue",
+      "lat": 37.7218,
+      "lon": -122.4409,
+      "precision": "building"
+    },
+    "hook": "Before it was a wedding-reception staple, the Bunny Hop was a conga-line joke dreamed up by Balboa High teenagers in 1952.",
+    "story": "In spring 1952, word reached the bandleader Ray Anthony that teenagers at San Francisco's Balboa High School had made up a new dance. Time magazine called them the school's \"Coke set\" [1]. It was a version of the conga line. Dancers hold the hips of the person in front, tap each foot twice, hop forward and back, then take three hops forward, over and over, while the leader snakes the line around the room [2]. Anthony saw a hit. Time wrote that he \"contrived a tuneless tune\", recorded it for Capitol, ordered a batch of fuzzy bunny ears as costume, and promoted the song and dance across the country [1]. By January 1953 the magazine said dance halls shook \"under the thud of teen-age feet\" and every verse ended \"Hop! Hop! Hop!\" [1]. Parents approved of it as relatively sedate, if energetic, and disc jockeys and Capitol's publicists helped turn it into \"a minor teen-age mania\" [1]. The craze faded, but the dance lived on long after it. It began with teenagers in the pink Spanish Colonial Revival school on Cayuga Avenue, which opened in 1928 [2][3].",
+    "people": [
+      {
+        "name": "Ray Anthony",
+        "role": "bandleader who recorded 'The Bunny Hop'"
+      },
+      {
+        "name": "Balboa High students",
+        "role": "inventors of the dance"
+      }
+    ],
+    "sources": [
+      {
+        "title": "New Pop Records",
+        "publisher": "TIME (archived)",
+        "year": 1953,
+        "url": "https://web.archive.org/web/20080324004434/http://www.time.com/time/magazine/article/0,9171,817795,00.html",
+        "supports": "Balboa High students worked up the dance in spring 1952; Anthony's recording for Capitol, bunny ears, quotes"
+      },
+      {
+        "title": "Bunny hop (dance)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Bunny_hop_(dance)",
+        "supports": "Created at Balboa High in 1952; description of the steps"
+      },
+      {
+        "title": "Golden Oldies / When form equaled function: high school architecture from its prime",
+        "publisher": "San Francisco Chronicle (SFGATE), Sam Whiting",
+        "year": 2004,
+        "url": "https://www.sfgate.com/magazine/article/Golden-Oldies-When-form-equaled-function-high-2733504.php",
+        "supports": "Balboa's pink Spanish Colonial Revival buildings on Cayuga Avenue, first unit opened August 1928"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-del-mar-theater",
+    "title": "The picture house that opened twice",
+    "theme": "architecture-landmarks",
+    "year": 1947,
+    "yearEnd": 1950,
+    "place": {
+      "label": "Former State / Del Mar Theater, 5825 Mission Street",
+      "lat": 37.70922,
+      "lon": -122.45095,
+      "precision": "building"
+    },
+    "hook": "Outer Mission Street had more cinemas than customers. The State went dark in 1931, came back as the Del Mar in 1947, then found religion.",
+    "story": "In the late 1920s, three movie houses opened within a few blocks of outer Mission Street while the area was still thinly settled. The State Theater at 5825 Mission opened around 1925. It was a medium-sized stadium-style house by architect Mark T. Jorgensen, with a sign on its roof. In September 1928 the Amazon opened a few blocks north on Geneva Avenue, and in December 1928 the Daly City Theatre opened a few blocks south. One Cinema Treasures contributor calls this \"an outrageous example of over-building\" [1]. Caught in the middle, the State closed in 1931 [1]. After the war it got a second chance. On December 5, 1947 it reopened as the Del Mar, with Douglas Fairbanks Jr. in 'The Corsican Brothers' [1]. The revival lasted less than three years of late-run and reissued films, and it closed for good on October 23, 1950 [1]. A religious group soon took it over as the San Francisco Revival Center. The facade and much of the interior survive, and one writer says the front is better preserved than Jorgensen's near-twin, the Parkway in Oakland [1][2]. A man who grew up nearby remembered that his sister worked as an usherette there, but he still had to pay full price [2].",
+    "people": [
+      {
+        "name": "Mark T. Jorgensen",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Del Mar Theater, 5825 Mission Street",
+        "publisher": "Cinema Treasures",
+        "year": null,
+        "url": "https://cinematreasures.org/theaters/5390",
+        "supports": "Opened c.1925 as the State, overbuilding, closure 1931, reopening 5 Dec 1947, closure 23 Oct 1950, Revival Center, Jorgensen"
+      },
+      {
+        "title": "Comments about Del Mar Theater",
+        "publisher": "Cinema Treasures",
+        "year": null,
+        "url": "https://cinematreasures.org/theaters/5390/comments",
+        "supports": "Facade compared with the Parkway; usherette memory; 2004 church addition"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-southern-freeway-cut",
+    "title": "Railroad, freeway, then BART in one valley",
+    "theme": "architecture-landmarks",
+    "year": 1964,
+    "yearEnd": 1973,
+    "place": {
+      "label": "I-280 cut beside Balboa Park station, Ocean to Geneva avenues",
+      "lat": 37.723,
+      "lon": -122.4479,
+      "precision": "area"
+    },
+    "hook": "The trench where BART now runs past Balboa Park began as an 1860s railroad. In 1964 engineers squeezed a freeway into it, then left room for trains.",
+    "story": "The valley that runs southwest across the Outer Mission has always carried traffic. In 1964, the state's engineering magazine explained that the new Route 82 'Southern' Freeway, now I-280, followed the natural corridor of Alemany Boulevard and San Jose Avenue. For almost two-thirds of its length it used the old Southern Pacific 'Main Line' of the 1860s [1]. Sources disagree on when passenger trains stopped running: the state gave 1907, while a later account says about 1922 [1][2]. The state adopted the route in 1956. Its four miles cost $24 million to build and another $18 million to buy land [1]. The key section ran through Balboa Park and across a corner of City College. It included pedestrian ramps down from the Ocean Avenue overpass so express-bus riders on the freeway could change to local buses, and a crib wall 35 feet high and 450 feet long to keep the Cayuga Playground from eroding [1]. The engineers also worked with the new Bay Area Rapid Transit District, whose tracks would 'enter the freeway right-of-way' [1]. BART's Balboa Park station opened in November 1973 [2][3].",
+    "people": [
+      {
+        "name": "Haig Ayanian",
+        "role": "deputy district engineer who wrote the 1964 account"
+      },
+      {
+        "name": "K. G. Nakagawa",
+        "role": "resident engineer on the Balboa Park section"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Four Miles of Route 82 Built on New Alignment",
+        "publisher": "California Highways and Public Works, July-August 1964",
+        "year": 1964,
+        "url": "http://libraryarchives.metro.net/DPGTL/Californiahighways/chpw_1964_julaug.pdf",
+        "supports": "SP right-of-way, 1907 date, 1956 adoption, costs, Balboa Park section, Ocean Ave ramps, Cayuga crib wall, BART coordination"
+      },
+      {
+        "title": "Balboa Park station",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Balboa_Park_station",
+        "supports": "Passenger service until about 1922; BART used the Ocean View Branch right-of-way; station opened November 5, 1973"
+      },
+      {
+        "title": "BART chronology (history timeline)",
+        "publisher": "Bay Area Rapid Transit District (archived)",
+        "year": null,
+        "url": "https://web.archive.org/web/20131013054420/http://www.bart.gov/docs/BARThistory.pdf",
+        "supports": "San Francisco line and Daly City service opened November 1973"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-ingleside-station-1971",
+    "title": "A shotgun through the station window",
+    "theme": "modern-city",
+    "year": 1971,
+    "yearEnd": 2009,
+    "place": {
+      "label": "Ingleside Police Station, 1 Sgt. John V. Young Lane, Balboa Park",
+      "lat": 37.72463,
+      "lon": -122.4463,
+      "precision": "building"
+    },
+    "hook": "On August 29, 1971, gunmen burst into the Ingleside police station and killed a desk sergeant. The case stayed open for almost forty years.",
+    "story": "The Ingleside Police Station, a Spanish-style stucco building with big arched doorways and a terracotta tile roof, first opened in 1910 [3]. On August 29, 1971, at least three men burst in, and one of them fired a shotgun through an opening in the bulletproof glass window [1]. Sergeant John V. Young, 51, was killed, and a civilian clerk was wounded [1]. The case stayed open for decades. In 1975 three men arrested in New Orleans were charged, but a judge dismissed the charges after finding that police there had tortured them [1]. In January 2007, eight men described by prosecutors as former members of the Black Liberation Army, a violent offshoot of the Black Panther Party, were arrested. All of them denied involvement and called the evidence coerced and fabricated [1]. In 2009 the case ended in pleas and dismissals. Herman Bell pleaded guilty to voluntary manslaughter and Anthony Bottom pleaded no contest to conspiracy. Charges against four others were dropped [2]. The station was renovated in 1991, and its address now carries the sergeant's name [3].",
+    "people": [
+      {
+        "name": "Sgt. John V. Young",
+        "role": "SFPD sergeant killed in the attack"
+      },
+      {
+        "name": "Herman Bell",
+        "role": "pleaded guilty to voluntary manslaughter, 2009"
+      },
+      {
+        "name": "Anthony Bottom",
+        "role": "pleaded no contest to conspiracy, 2009"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Charges narrow in 1971 slaying of S.F. cop",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2008,
+        "url": "https://www.sfgate.com/bayarea/article/charges-narrow-in-1971-slaying-of-s-f-cop-3298719.php",
+        "supports": "Details of the attack, Young's age, clerk injured, 1975 New Orleans case, 2007 arrests, denials"
+      },
+      {
+        "title": "Charges dismissed against four in Ingleside cop murder case",
+        "publisher": "San Francisco Chronicle (SFGATE)",
+        "year": 2009,
+        "url": "https://www.sfgate.com/bayarea/article/charges-dismissed-against-four-in-ingleside-cop-3226105.php",
+        "supports": "Date Aug 29 1971; 2009 pleas by Bell and Bottom; dismissal of charges against four"
+      },
+      {
+        "title": "Ingleside Station",
+        "publisher": "San Francisco Police Department",
+        "year": null,
+        "url": "https://www.sanfranciscopolice.org/stations/ingleside-station",
+        "supports": "Station address, 1910 opening, 1991 renovation, building description"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-billiard-palacade",
+    "title": "Pool tables where the Rialto's seats were",
+    "theme": "communities",
+    "year": 1972,
+    "yearEnd": null,
+    "place": {
+      "label": "Billiard Palacade (former Rialto Theatre), 5179 Mission Street at Rolph Street",
+      "lat": 37.71583,
+      "lon": -122.44129,
+      "precision": "building"
+    },
+    "hook": "Just south of Geneva, a 1910s movie house has been a pool hall for more than half a century. Its bar still looks like the old ticket counter.",
+    "story": "The Rialto Theatre opened at Mission and Rolph Street in the 1910s, designed by Marc T. Jorgensen in a Spanish Moorish style. One researcher dates the opening to about May 1, 1916, while others say 1918 [1]. It did not last long as a cinema. After the bigger Amazon Theatre opened around the corner on Geneva Avenue in 1928, the Rialto soon closed [1]. The building found its long-term use in 1972, when it became the Billiard Palacade, a large pool hall and diner [2]. By 2011, one visitor noted that it had been a pool hall far longer than it had ever been a theatre, and that its interior details were better preserved than most in the city. The bar still looked like an old ticket counter. An older Salvadoran woman told the building's history while she wrapped beers in napkin 'koozies' for the regulars under the soft pool lights [3]. In 2023, a writer riding the 14R Mission bus noticed the old movie palace, freshly painted blue and orange. He saw it as part of a Mission Street where evangelical churches sing in Spanish and shops wire money to Latin America and the Philippines. It was a neighbourhood once mostly Italian and Irish and now largely Asian and Latino [2].",
+    "people": [
+      {
+        "name": "Marc T. Jorgensen",
+        "role": "architect of the Rialto"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rialto Theatre, 5179 Mission Street",
+        "publisher": "Cinema Treasures",
+        "year": null,
+        "url": "https://cinematreasures.org/theaters/28250",
+        "supports": "Location, architect, style, opening-date dispute, closure after the Amazon opened, pool hall use"
+      },
+      {
+        "title": "Riding the 14R From One End to the Other",
+        "publisher": "FoundSF (Howard Isaac Williams)",
+        "year": 2023,
+        "url": "https://www.foundsf.org/index.php?title=Riding_the_14R_From_One_End_to_the_Other",
+        "supports": "Former movie palace housing the Billiard Palacade since 1972; blue and orange paint; changing demographics"
+      },
+      {
+        "title": "The Standing Dead",
+        "publisher": "The Bold Italic (archived)",
+        "year": 2011,
+        "url": "http://web.archive.org/web/20110521035434/http://thebolditalic.com:80/Actavier42/stories/745-the-standing-dead",
+        "supports": "Pool hall longer than a theatre, preserved details, ticket-counter bar, Salvadoran bartender"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-cayuga-braceros",
+    "title": "The gardener who carved a jungle",
+    "theme": "parks-nature",
+    "year": 1986,
+    "yearEnd": null,
+    "place": {
+      "label": "Cayuga Playground, Cayuga Avenue at Naglee Avenue",
+      "lat": 37.71405,
+      "lon": -122.4501,
+      "precision": "area"
+    },
+    "hook": "Sent to fix a bleak park under the BART tracks, a city gardener filled it with totem poles of Barry Bonds, Herb Caen, Moses and a wooden snake.",
+    "story": "Cayuga Playground is a narrow park squeezed between I-280, Alemany Boulevard and the elevated BART tracks. One branch of Islais Creek begins somewhere beneath it [1]. In 1986 the Recreation and Park Department sent gardener Demetrios Braceros to change the feel of the place, which then had a big playing field, a playground and some paths [1]. He turned it into a thick garden of trails and themed beds, filled with hundreds of carved figures and totem poles made mostly from wood he found on site, including fallen cypress trees [1]. His subjects included Barry Bonds and the columnist Herb Caen. A 'Garden of Eden' path had Moses at the burning bush and Adam and Eve under an apple tree with a big wooden snake [1]. For an elevated patio he brought a huge trunk all the way from the Presidio [1]. In 2002 a Chronicle writer found him working in a metal shipping container converted into a wood shop. He had carved handrails and steps into the slippery mud, and he had toned down some of the religious messages after his supervisors asked him to [2]. \"He's turned this derelict park into a little paradise,\" said the artist Ann Chamberlain [2].",
+    "people": [
+      {
+        "name": "Demetrios Braceros",
+        "role": "Recreation and Park gardener and carver"
+      },
+      {
+        "name": "Ann Chamberlain",
+        "role": "public artist who donated plants"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cayuga Park",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Cayuga_Park",
+        "supports": "1986 assignment, carvings and subjects, Garden of Eden, Presidio trunk, reclaimed wood, Islais Creek"
+      },
+      {
+        "title": "Cayuga Avenue: a hidden neighborhood (Sam Whiting)",
+        "publisher": "San Francisco Chronicle (archived SFGATE)",
+        "year": 2002,
+        "url": "https://web.archive.org/web/2008/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/07/07/CM1076792.DTL",
+        "supports": "Shipping-container wood shop, toned-down religious messages, carved steps, Chamberlain quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-curtis-green-yard",
+    "title": "From 90-cent driver to Muni's chief",
+    "theme": "civil-rights",
+    "year": 1987,
+    "yearEnd": null,
+    "place": {
+      "label": "Curtis E. Green Light Rail Center, Geneva and San Jose avenues",
+      "lat": 37.72177,
+      "lon": -122.44664,
+      "precision": "block"
+    },
+    "hook": "Muni's main rail yard is named for a Louisiana-born Marine who started as a bus driver and became the first Black head of a major US transit system.",
+    "story": "Curtis E. Green was born in Louisiana in 1923 and served as a Marine sergeant in the Second World War. In 1945 he joined Muni as a bus driver earning 90 cents an hour [1][2]. He spent nearly 20 years behind the wheel, won 11 safe-driving awards and once saved a passenger from a would-be rapist [1]. He then rose through the ranks. In 1973 he became deputy general manager, and in 1974 he got the top job after a bitter fight inside the Public Utilities Commission [1]. He was the first African American to head a major US transit system [1][2]. He took over a Muni that was short of money and neglected. In 1975 he had drivers hand out buttons reading \"Muni Loves You\" [1]. In 1978 he sold Supervisor Harvey Milk, a friend, a Fast Pass [2]. Under Green, the Muni Metro subway opened and the budget grew from $40 million to $154 million [2]. He retired in 1982, and five years later Muni named its main rail base, beside Balboa Park station, the Curtis E. Green Light Rail Center [1][2]. His granddaughter Denise later drove trains out of the yard that bears his name [2].",
+    "people": [
+      {
+        "name": "Curtis E. Green",
+        "role": "Muni general manager, 1974-1982"
+      },
+      {
+        "name": "Denise Green",
+        "role": "granddaughter, Muni operator and supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Curtis E. Green -- rose from bus driver to head of S.F. Muni",
+        "publisher": "San Francisco Chronicle (SFGATE), Carl Nolte",
+        "year": 2002,
+        "url": "https://www.sfgate.com/bayarea/article/Curtis-E-Green-rose-from-bus-driver-to-head-2816575.php",
+        "supports": "Career, 90-cent wage, safety awards, PUC fight, first Black head of a major system, 'Muni Loves You', 1987 naming"
+      },
+      {
+        "title": "Curtis Green, a Transportation Industry Trailblazer",
+        "publisher": "SFMTA",
+        "year": 2017,
+        "url": "https://www.sfmta.com/blog/curtis-green-transportation-industry-trailblazer",
+        "supports": "Birth 1923, Harvey Milk Fast Pass, budget growth, naming of the rail center, granddaughter Denise Green"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-geneva-car-barn-rescue",
+    "title": "The car barn Muni wanted to demolish",
+    "theme": "architecture-landmarks",
+    "year": 1989,
+    "yearEnd": 2018,
+    "place": {
+      "label": "Geneva Car Barn and Powerhouse, 2301 San Jose Avenue at Geneva Avenue",
+      "lat": 37.72022,
+      "lon": -122.44682,
+      "precision": "building"
+    },
+    "hook": "Cracked by two earthquakes and red-tagged in 1989, a 1901 streetcar office with a turret and a 'door to nowhere' was nearly torn down for parking.",
+    "story": "The red-brick building with a round corner turret at Geneva and San Jose avenues went up in 1901 as offices for the San Francisco and San Mateo Electric Railway, one of the city's first electric streetcar lines. It was designed by James and Merritt Reid, the architects of the Fairmont Hotel [1]. A second-floor 'door to nowhere' opens onto a sheer drop. It survives from the 1917 streetcar strike, when strikebreakers used a temporary stairway to sneak down to the cars [1]. Muni took over the complex in the 1944 merger. From 1957 until the late 1970s its yard was Muni's only streetcar facility [2]. The yard has kept streetcars since 1900, and in 2011 it was renamed for transit advocate Cameron Beach [4]. The 1989 Loma Prieta earthquake damaged the office and its powerhouse, and Muni abandoned them. It wanted to tear them down for parking, but neighbours worked with Mayor Willie Brown to save them [2][3]. The Recreation and Park Department bought the buildings in 2004 [2]. In March 2018 officials broke ground on a $14 million powerhouse renovation. \"We were the forgotten community,\" said longtime advocate Linda D'Avirro [3].",
+    "people": [
+      {
+        "name": "James and Merritt Reid",
+        "role": "architects"
+      },
+      {
+        "name": "Dan Weaver",
+        "role": "leader of Friends of Geneva Car Barn and Powerhouse"
+      },
+      {
+        "name": "Linda D'Avirro",
+        "role": "District 11 resident and advocate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Geneva Car House: 115 Years of Transit History at Balboa Park",
+        "publisher": "SFMTA",
+        "year": 2016,
+        "url": "https://www.sfmta.com/blog/geneva-car-house-115-years-transit-history-balboa-park",
+        "supports": "1901 construction, Reid brothers, door to nowhere and 1917 strike"
+      },
+      {
+        "title": "Geneva Car Barn & Powerhouse Gets Funding",
+        "publisher": "Market Street Railway",
+        "year": 2017,
+        "url": "https://www.streetcar.org/geneva-car-barn-powerhouse-gets-funding/",
+        "supports": "1944 takeover, only streetcar facility 1957-late 1970s, 1989 damage, Willie Brown, 2004 purchase, Dan Weaver"
+      },
+      {
+        "title": "Renovation project at historic Geneva Car Barn breaks ground",
+        "publisher": "San Francisco Examiner (archived)",
+        "year": 2018,
+        "url": "https://web.archive.org/web/20180405090256/http://www.sfexaminer.com/renovation-project-historic-geneva-car-barn-breaks-ground/",
+        "supports": "March 19 2018 groundbreaking, $14 million, parking threat, red-tagging, D'Avirro quote"
+      },
+      {
+        "title": "SFMTA Renames Historic Streetcar Yard for Cameron Beach",
+        "publisher": "SFMTA (archived press release)",
+        "year": 2011,
+        "url": "https://archives.sfmta.com/cms/apress/SFMTARenamesHistoricStreetcarYardforCameronBeach.htm",
+        "supports": "Yard housing streetcars since 1900; renamed for Cameron Beach in 2011"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-cayuga-creek-lot",
+    "title": "A buried creek and a hubcap garden",
+    "theme": "parks-nature",
+    "year": 2002,
+    "yearEnd": null,
+    "place": {
+      "label": "Cotter Street near San Jose Avenue (neighbourhood garden lot described in 2002)",
+      "lat": 37.7297,
+      "lon": -122.4371,
+      "precision": "area"
+    },
+    "hook": "Under Cayuga Avenue runs the south fork of Islais Creek. In 2002 an artist tracked it to a flooded lot full of geese, hubcaps and vegetables.",
+    "story": "While researching the Balboa Park area for a city planning project, public artist and historian Ann Chamberlain found a 1926 photograph of a railroad bed with a creek running beside it. \"What happened to the water?\" she wondered [1]. The railroad bed turned out to be today's Alemany Boulevard. The creek was the south fork of Islais Creek, sometimes called the Cayuga River, which runs in a culvert under Cayuga Avenue [1]. Neighbours could hear it through the storm drains, and in the rainy season it squelched underfoot [1]. Its headwaters lie beneath Cayuga Park at the far end of the avenue [2]. Near Cotter Street, behind a plank fence, Chamberlain showed a Chronicle reporter a block-long vacant lot that neighbours had made into a park. It was private land but had no 'keep out' signs. There was hubcap art on the fence, a horseshoe pit, geese in a pen, and vegetable gardens around a circular path [1]. A yellow traffic sign on the fence read \"FLOODED\". \"That's why there is this strange piece of land,\" she said. \"It probably flooded and they couldn't build on it\" [1].",
+    "people": [
+      {
+        "name": "Ann Chamberlain",
+        "role": "public artist and historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cayuga Avenue: a hidden neighborhood (Sam Whiting)",
+        "publisher": "San Francisco Chronicle (archived SFGATE)",
+        "year": 2002,
+        "url": "https://web.archive.org/web/2008/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/07/07/CM1076792.DTL",
+        "supports": "Chamberlain's research, 1926 photo, Alemany railroad bed, Islais Creek under Cayuga, the Cotter Street lot, quotes"
+      },
+      {
+        "title": "Cayuga Park",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Cayuga_Park",
+        "supports": "Headwaters of a branch of Islais Creek beneath Cayuga Park"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-balboa-walc",
+    "title": "The bear that made a classroom",
+    "theme": "communities",
+    "year": 2003,
+    "yearEnd": null,
+    "place": {
+      "label": "Balboa High School, 1 Balhi Court (Cayuga Avenue side)",
+      "lat": 37.7211,
+      "lon": -122.43954,
+      "precision": "building"
+    },
+    "hook": "Balboa High's rivals were thrown together on camping trips. One night in Yosemite a bear raided their food, and a loner finally found her crew.",
+    "story": "By the mid-1990s Balboa High drew students from some of San Francisco's poorest neighbourhoods, and ethnic rivalries ran high [1]. In 1995 two young teachers started an after-school 'Unity Club' that took students into the wilderness at weekends. They were history teacher Conrad Benedicto, who came from the Philippines at 13 and grew up near Balboa, and literature teacher Ken Gonzalez [1]. Science teacher Diana Theriault joined them. By 2000 the club had become the Wilderness Arts and Literacy Collaborative (WALC), a two-year program linking US history, literature and environmental science to trips to Mount Lassen, Joshua Tree and Lake Tahoe [1][2]. WALC students ran the school's paper recycling and spent two days a month planting and repairing McLaren Park [1]. Sierra magazine followed the class of 2003. One student, Ashley, had been moved into WALC against her will and kept to herself. On a spring trip to Yosemite she woke to heavy breathing outside her tent, but nobody believed her. The next night a mother bear and her cub raided the camp's bear box. Classmates sympathised, teachers apologised, and for the first time she felt part of the group [1].",
+    "people": [
+      {
+        "name": "Conrad Benedicto",
+        "role": "WALC co-founder, history teacher"
+      },
+      {
+        "name": "Ken Gonzalez",
+        "role": "WALC co-founder, literature teacher"
+      },
+      {
+        "name": "Diana Theriault",
+        "role": "WALC science teacher"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Life Study: How nature nurtures students at an inner-city high school",
+        "publisher": "Sierra magazine (archived)",
+        "year": 2003,
+        "url": "https://web.archive.org/web/2008/http://www.sierraclub.org/sierra/200311/balboa.asp",
+        "supports": "Unity Club 1995, teachers, WALC in 2000, trips, McLaren work, recycling, Ashley and the bear"
+      },
+      {
+        "title": "WALC: Wilderness Arts and Literacy Collaborative",
+        "publisher": "Balboa High School / SFUSD (archived)",
+        "year": 2000,
+        "url": "https://web.archive.org/web/20070528100655/http://www.sfusd.k12.ca.us/schwww/sch439/student/walc/walc.html",
+        "supports": "Program integrating environmental education with science, history, literature, art"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "outer-mission-kapuso-upper-yard",
+    "title": "From parking lot to 131 homes",
+    "theme": "modern-city",
+    "year": 2023,
+    "yearEnd": null,
+    "place": {
+      "label": "Kapuso at the Upper Yard, 2340 San Jose Avenue",
+      "lat": 37.7203,
+      "lon": -122.44723,
+      "precision": "building"
+    },
+    "hook": "Old Muni storage tracks became a parking lot, then a safe place to sleep in your car. Now 131 affordable homes sit beside Balboa Park BART.",
+    "story": "Beside Balboa Park station, on the west side of San Jose Avenue, a strip of land once held Muni storage tracks known as the Upper Yard [3]. It later became a Muni surface parking lot. In 2012 the SFMTA board agreed to sell it for affordable housing under the Balboa Park Station Area Plan, and in 2018 it passed to the city's housing office [2]. While plans moved ahead, the site served as San Francisco's first Vehicular Triage Center, a pilot giving people who lived in their vehicles a secure place to park and access to services [2]. Mission Housing Development Corporation and Related California were chosen to build it. It was the first affordable housing project in the city approved under SB 35, a state law that fast-tracks such projects [2]. Thirty-nine apartments were set aside for public-housing families choosing to move from Sunnydale-Velasco [1][2]. Kapuso at the Upper Yard opened on September 28, 2023. It has 131 apartments, a YMCA early-childhood centre, a family resource centre and a bicycle shop run by the environmental-justice group PODER. It cost $119 million [1]. Senator Scott Wiener called it \"proof that San Francisco can turn the tide\" on housing [1].",
+    "people": [
+      {
+        "name": "Sam Moss",
+        "role": "executive director, Mission Housing Development Corporation"
+      },
+      {
+        "name": "Ahsha Safaí",
+        "role": "District 11 supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "City Celebrates the Grand Opening of New 100% Affordable Housing Project Adjacent to Balboa Park BART Station",
+        "publisher": "SF.gov",
+        "year": 2023,
+        "url": "https://sf.gov/news/city-celebrates-grand-opening-new-100-affordable-housing-project-adjacent-balboa-park-bart",
+        "supports": "Name, address, 131 units, 39 public-housing units, opening date, cost, amenities, Wiener quote"
+      },
+      {
+        "title": "Mayor London Breed celebrates ceremonial groundbreaking of 100% affordable housing at Balboa Park",
+        "publisher": "Office of the Mayor (archived)",
+        "year": 2020,
+        "url": "http://web.archive.org/web/20250124222623/https://sfmayor.org/article/mayor-london-breed-celebrates-ceremonial-groundbreaking-100-affordable-housing-balboa-park",
+        "supports": "Former SFMTA lot, 2012 sale approval, 2018 transfer, Vehicular Triage Center, SB 35 first, Sunnydale residents"
+      },
+      {
+        "title": "Balboa Park station",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Balboa_Park_station",
+        "supports": "Parcel formerly storage tracks called the Upper Yard"
+      }
+    ],
+    "photo": null
+  }
+]

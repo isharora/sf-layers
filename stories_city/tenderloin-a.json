@@ -1,0 +1,680 @@
+[
+  {
+    "id": "tenderloin-yerba-buena-cemetery",
+    "title": "The Graveyard Beneath Civic Center",
+    "theme": "gold-rush-victorian",
+    "year": 1850,
+    "yearEnd": 1870,
+    "place": {
+      "label": "Site of Yerba Buena Cemetery (UN Plaza / Main Library area)",
+      "lat": 37.78025,
+      "lon": -122.41385,
+      "precision": "area"
+    },
+    "hook": "Before City Hall, before the library, this sandy triangle was where Gold Rush San Francisco buried its dead. Not all of them left.",
+    "story": "When Gold Rush San Francisco needed somewhere to bury its dead, it chose sand hills on the far edge of town. Yerba Buena Cemetery opened in 1850 near today's Eighth and Market streets [1]. Among those laid in its sandy ground was Edward W. McGaughey, an Indiana congressman who caught 'Panama fever' aboard the steamer Winifred Scott on his way west and died in the city on August 6, 1852. Back in Washington his career had run curiously parallel to Abraham Lincoln's: both were lone Whigs in their state delegations, and both were offered territorial governorships by President Taylor [2]. By the late 1850s the graveyard had been abandoned [1]. Around 1870, as the city cleared the ground for a grand new City Hall, remains were moved west to the new Golden Gate Cemetery in the Richmond dunes, by some estimates about 3,000 of them, McGaughey included [2][3]. Not everyone left. When crews dug foundations for the new Main Library in the 1990s, an anthropologist on site found no whole skeletons, but a steady trickle of rib and fibula fragments, finger bones and teeth. Each night the wind shifted the sand, and 'you'd return and see new exposed bones' [4].",
+    "people": [
+      {
+        "name": "Edward W. McGaughey",
+        "role": "Indiana congressman buried here in 1852"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Old Cemeteries in the City",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Old_Cemeteries_in_the_City",
+        "supports": "1850 opening at 8th & Market; abandoned late 1850s"
+      },
+      {
+        "title": "Edward W. McGaughey",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Edward_W._McGaughey",
+        "supports": "Death from Panama fever 6 Aug 1852, Winifred Scott, Lincoln parallels, burial and c.1870 move"
+      },
+      {
+        "title": "Golden Gate Cemetery (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Golden_Gate_Cemetery_(San_Francisco)",
+        "supports": "About 3,000 remains transferred from Yerba Buena Cemetery around 1870"
+      },
+      {
+        "title": "Old City Hall of SF (from 'Going Public', Reclaiming San Francisco, 1998)",
+        "publisher": "FoundSF",
+        "year": 1998,
+        "url": "https://www.foundsf.org/index.php?title=Old_City_Hall_of_SF",
+        "supports": "Bone fragments and teeth found during Main Library excavation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-old-city-hall",
+    "title": "The City Hall That Took a Quarter-Century",
+    "theme": "architecture-landmarks",
+    "year": 1872,
+    "yearEnd": 1897,
+    "place": {
+      "label": "Site of the 1870s-1906 City Hall (today's Main Library, 100 Larkin St)",
+      "lat": 37.77905,
+      "lon": -122.41633,
+      "precision": "area"
+    },
+    "hook": "Promised in five or six years for $1.5 million, San Francisco's City Hall took decades, cost millions and still smelled.",
+    "story": "In 1870 the city graded the old Yerba Buena Cemetery square, bounded by Market, Larkin and McAllister streets, for what its promoters meant to be the handsomest municipal building in the United States [1][2]. The plans came from Augustus Laver, known for his work on the New York capitol at Albany. The estimate was about a million and a half dollars and five or six years [2]. On February 22, 1872, Masonic Grand Master Leonidas E. Pratt dedicated the cornerstone with a ceremonial trowel [3]. Then things went wrong. To save money, the commission sold the lots fronting Market Street, leaving the hall on a back street. It swapped Laver's clock tower for a dome and cut his mansard roof, leaving what historian John P. Young called 'a squatty appearance' [2]. Voters dreaded debt, so the hall was paid for piecemeal out of taxes; Young wrote that the city 'chose to have their money wasted rather than stolen' [2]. It went through seven chief architects and cost about six million dollars. Sources give its completion as 1895 or 1897 [1][3]. Occupants complained of floors that did not line up, smoky rooms and a constant stink [3]. The 1906 earthquake wrecked it [3].",
+    "people": [
+      {
+        "name": "Augustus Laver",
+        "role": "Architect"
+      },
+      {
+        "name": "Leonidas E. Pratt",
+        "role": "Masonic Grand Master who laid the cornerstone"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco County Superior Court (history section)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_County_Superior_Court",
+        "supports": "Cemetery bounds; graded 1870; Laver plans; completed 1895"
+      },
+      {
+        "title": "San Francisco, a History of the Pacific Coast Metropolis, vol. 2 (John P. Young)",
+        "publisher": "S. J. Clarke / Internet Archive",
+        "year": 1912,
+        "url": "https://archive.org/details/sanfranciscohist02youn",
+        "supports": "Laver, estimates, sale of Market frontage, dome and roof changes, piecemeal funding"
+      },
+      {
+        "title": "Old City Hall of SF",
+        "publisher": "FoundSF (Susan Schwartzenberg, Reclaiming San Francisco)",
+        "year": 1998,
+        "url": "https://www.foundsf.org/index.php?title=Old_City_Hall_of_SF",
+        "supports": "Cornerstone 22 Feb 1872; seven architects; $6m; 1897 completion; stink and smoke; 1906 destruction"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-sandlot-1877",
+    "title": "Speeches on the Sand Lot",
+    "theme": "labor-industry",
+    "year": 1877,
+    "yearEnd": 1880,
+    "place": {
+      "label": "The 'sand lot' beside City Hall (today's UN Plaza, Market St)",
+      "lat": 37.77936,
+      "lon": -122.41357,
+      "precision": "area"
+    },
+    "hook": "On an empty lot beside a half-built City Hall, jobless crowds gathered in 1877 and a new political party took shape, built on anti-Chinese hate.",
+    "story": "The Market Street lots sold off by the City Hall commission sat empty for years, and in hard times they filled with people. In the summer of 1877, as a depression dragged on, jobless crowds gathered on the 'sand lot' beside the half-built hall [1][2]. On September 7, Denis Kearney, an Irish-born organiser from County Cork, announced at Dashaway Hall on Post Street that he would speak on the sand lot that Sunday. The papers printed the notice, and a large crowd came [2][3]. Kearney soon drew crowds of up to 2,000, sometimes speaking for two hours. He attacked the press, capitalists and politicians, and above all Chinese immigrants, with the slogan 'The Chinese must go!' [3]. His Workingmen's Party of California won 51 of 152 delegate seats at the 1878 state constitutional convention, and it helped write a constitution that took voting rights away from Chinese Californians [4]. Not every sandlot voice was Kearney's. Anna Smith, a New York-born widow and former Civil War nurse who had cooked, scrubbed and ironed her way west, was a regular speaker. She liked to end by saying she wanted 'something to keep her jaws going and give her tongue a rest' [1].",
+    "people": [
+      {
+        "name": "Denis Kearney",
+        "role": "Sandlot orator, Workingmen's Party leader"
+      },
+      {
+        "name": "Anna Smith",
+        "role": "Unemployed worker and sandlot speaker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "1877 unemployed in the sandlots (Chris Carlsson)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=1877_unemployed_in_the_sandlots",
+        "supports": "1877 rallies facing City Hall; Anna Smith biography and quote"
+      },
+      {
+        "title": "San Francisco, a History of the Pacific Coast Metropolis, vol. 2 (John P. Young)",
+        "publisher": "S. J. Clarke / Internet Archive",
+        "year": 1912,
+        "url": "https://archive.org/details/sanfranciscohist02youn",
+        "supports": "Sand lot adjoining the hall; Kearney's Dashaway Hall announcement of 7 Sept 1877"
+      },
+      {
+        "title": "Denis Kearney",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Denis_Kearney",
+        "supports": "Cork birth; crowds of 2,000; two-hour speeches; 'The Chinese must go'"
+      },
+      {
+        "title": "Workingmen's Party of California",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Workingmen%27s_Party_of_California",
+        "supports": "Sand Lot origins; 51 of 152 convention delegates; anti-Chinese constitution"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-pioneer-monument-1894",
+    "title": "James Lick's $100,000 Bronze History Lesson",
+    "theme": "architecture-landmarks",
+    "year": 1894,
+    "yearEnd": null,
+    "place": {
+      "label": "Original site of the Pioneer Monument, Marshall Square (Hyde, Grove and Market)",
+      "lat": 37.77862,
+      "lon": -122.41505,
+      "precision": "block"
+    },
+    "hook": "A Gold Rush millionaire's will ordered a bronze history of California for City Hall. Its heroic version of the past has caused trouble ever since.",
+    "story": "James Lick, a Pennsylvania-born former piano builder who got rich on Gold Rush real estate, left a trust with an unusual clause: erect 'at the City Hall' a group of bronze statuary 'well worth one hundred thousand dollars' showing the history of California [1]. In September 1890 the Lick trustees picked sculptor Frank Happersberger's model from four artists and 28 design entries [1]. Ground was broken in May 1894 at Marshall Square, near Hyde and Grove, right in front of the unfinished City Hall. The cornerstone was laid on September 10, 1894, with the Society of California Pioneers and the Native Sons of the Golden West [1]. Some accounts give November 29 as the dedication date [1]. Minerva and a grizzly bear stand on top, above medallions of Drake, Sutter, Frémont, Serra and Lick. Around the base are Commerce, Plenty, the miners of 'In '49' and 'Early Days', which shows a fallen Native American at the feet of a missionary and a vaquero [1][2]. The monument's placement was pointed: a planner later remarked that it was 'plopped' onto the sand lots where workers had held their rallies [3]. It was moved one block in 1991 and 'Early Days' was removed in 2018 [1][2].",
+    "people": [
+      {
+        "name": "James Lick",
+        "role": "Benefactor"
+      },
+      {
+        "name": "Frank Happersberger",
+        "role": "Sculptor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pioneer Monument (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Pioneer_Monument_(San_Francisco)",
+        "supports": "Lick trust clause, 1890 selection, 1894 dates and site, figures, 1991 move"
+      },
+      {
+        "title": "Controversial S.F. 'Early Days' statue taken down",
+        "publisher": "San Francisco Chronicle",
+        "year": 2018,
+        "url": "https://www.sfchronicle.com/politics/article/Controversial-S-F-Early-Days-statue-taken-13229418.php",
+        "supports": "Description of Early Days; 1894 erection; 2018 removal"
+      },
+      {
+        "title": "Old City Hall of SF",
+        "publisher": "FoundSF",
+        "year": 1998,
+        "url": "https://www.foundsf.org/index.php?title=Old_City_Hall_of_SF",
+        "supports": "Sand lots as demonstration space 'until they plopped the Pioneer monument in the middle'; original site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-earp-referees-1896",
+    "title": "Wyatt Earp's Worst Night in the Ring",
+    "theme": "gold-rush-victorian",
+    "year": 1896,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Mechanics' Pavilion (today's Bill Graham Civic Auditorium, 99 Grove St)",
+      "lat": 37.77808,
+      "lon": -122.41732,
+      "precision": "block"
+    },
+    "hook": "The hero of the O.K. Corral stepped into a San Francisco boxing ring as referee, with a revolver in his pocket, and never lived down what happened next.",
+    "story": "The Mechanics' Pavilion, built beside City Hall in 1882, was San Francisco's first major indoor arena and seated nearly 11,000 [1]. On December 2, 1896, it hosted the most anticipated prizefight in America, Bob Fitzsimmons against Tom Sharkey [2]. The two camps could not agree on a referee, so on the day of the fight they settled on Wyatt Earp, then 48 and working in horse racing [2][3]. Before the bell, Police Captain George Wittman noticed a bulge in Earp's coat and took a revolver off him. As the Examiner put it, 'For the first time in the history of the prize ring in California, it was necessary to disarm the referee' [3]. Fitzsimmons controlled the fight until the eighth round, when Sharkey went down clutching his groin. Earp called a foul and awarded the fight and its $10,000 purse to Sharkey [2][3]. The hall erupted in boos. Accounts of the crowd range from 10,000 to 15,000 [2][3]. For weeks the Call mocked Earp as a gunslinger, and he paid a $50 fine for carrying a concealed weapon [2]. In 1905 a doctor who had treated Sharkey said the fight had been fixed. Whether Earp knew is still unclear [2].",
+    "people": [
+      {
+        "name": "Wyatt Earp",
+        "role": "Referee"
+      },
+      {
+        "name": "Bob Fitzsimmons",
+        "role": "Boxer"
+      },
+      {
+        "name": "Tom Sharkey",
+        "role": "Boxer awarded the fight"
+      },
+      {
+        "name": "George Wittman",
+        "role": "Police captain"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mechanics Pavilion",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mechanics_Pavilion",
+        "supports": "1882 pavilion next to City Hall; first major indoor arena; nearly 11,000 seats"
+      },
+      {
+        "title": "Bob Fitzsimmons vs. Tom Sharkey",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Bob_Fitzsimmons_vs._Tom_Sharkey",
+        "supports": "Date, referee choice, foul ruling, 15,000 crowd, press attacks, $50 fine, 1905 confession"
+      },
+      {
+        "title": "Wyatt Earp's Most Controversial Decision (Leo W. Banks)",
+        "publisher": "HistoryNet",
+        "year": 2018,
+        "url": "https://historynet.com/wyatt-earps-controversial-decision/",
+        "supports": "Mechanics Pavilion venue; Earp aged 48; Wittman disarming; Examiner quote; 10,000 fans; $10,000 purse"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-baldwin-hotel",
+    "title": "Lucky Baldwin's Palace of Bay Windows",
+    "theme": "gold-rush-victorian",
+    "year": 1877,
+    "yearEnd": 1898,
+    "place": {
+      "label": "Site of the Baldwin Hotel and Theatre (today's Flood Building, 870 Market St)",
+      "lat": 37.78493,
+      "lon": -122.4072,
+      "precision": "building"
+    },
+    "hook": "A lucky Comstock gambler built a hotel-theatre of crimson satin and gold at Powell and Market. It was shaken by gunfire and scandal, and it burned in 1898.",
+    "story": "Elias 'Lucky' Baldwin made a fortune on the Comstock and in property, then built a hotel and theatre that filled the block at Powell and Market, running up Powell to Ellis [1][2]. Sumner Bugbee designed it in the Second Empire style, with countless bay windows and a dome over the corner [1][2]. Historian John P. Young says the theatre opened in March 1876 and the hotel the following February. Other accounts put both a year earlier [1][2]. In 1877 the visiting writer Mrs. Frank Leslie called the theatre 'a perfect little gem, fitted up like a bonbonniere in crimson satin and gold' [1]. Its stock company, run by the veteran manager Maguire with much help from a young David Belasco, put on a new play every week, and James O'Neill was one of its actors [2]. The hotel had its own drama. In 1883 Verona Baldwin, who said Baldwin had raped her, shot and wounded him inside it [3]. Young warned that so much wood made the building very vulnerable to fire [2]. In 1898 a fire that started in the theatre's scene lofts destroyed it. Two people died, and Baldwin was rescued from his rooms [1][2][3]. The Flood Building went up on the site and opened in 1904 as the city's largest building [4].",
+    "people": [
+      {
+        "name": "Elias J. 'Lucky' Baldwin",
+        "role": "Owner"
+      },
+      {
+        "name": "David Belasco",
+        "role": "Stock company stage manager"
+      },
+      {
+        "name": "Verona Baldwin",
+        "role": "Shot Baldwin in 1883"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Baldwin Hotel (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Baldwin_Hotel_(San_Francisco)",
+        "supports": "Bugbee design; Leslie quote; 1898 fire with two deaths; Flood Building on site"
+      },
+      {
+        "title": "San Francisco, a History of the Pacific Coast Metropolis, vol. 2 (John P. Young)",
+        "publisher": "S. J. Clarke / Internet Archive",
+        "year": 1912,
+        "url": "https://archive.org/details/sanfranciscohist02youn",
+        "supports": "Site and extent; bay windows and dome; opening dates; stock company, Belasco, O'Neill; fire in scene lofts"
+      },
+      {
+        "title": "Elias J. Baldwin",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Elias_J._Baldwin",
+        "supports": "1883 shooting by Verona Baldwin in the hotel; rescue from 1898 fire"
+      },
+      {
+        "title": "San Francisco Landmark #154: Flood Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf154.asp",
+        "supports": "Pissis design for James Flood Jr.; largest building in city on completion in 1904"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-hibernia-bank-1892",
+    "title": "The Bank San Franciscans Called 'The Paragon'",
+    "theme": "architecture-landmarks",
+    "year": 1892,
+    "yearEnd": null,
+    "place": {
+      "label": "Hibernia Bank, 1 Jones Street at McAllister and Market",
+      "lat": 37.78137,
+      "lon": -122.41243,
+      "precision": "building"
+    },
+    "hook": "Irish miners' savings paid for a domed temple on Market Street, and in 1892 a poll of artists named it the most beautiful building in town.",
+    "story": "The Hibernia Savings and Loan Society opened in April 1859 in a small office at Jackson and Montgomery. Many of its first depositors were Irish miners who brought in unminted gold from the diggings, and it came to be called 'the people's bank' [1]. When it needed a bigger headquarters, its directors took a chance on a little-known architect, Albert Pissis, to design a building on the corner of McAllister, Jones and Market [1][2]. Finished in 1892, the domed Beaux-Arts bank was an instant hit, and San Franciscans called it 'The Paragon' [1][2]. That September the San Francisco Call asked twenty local artists which building in the city was the most artistic. Fourteen named the Hibernia, the Mills Building got four votes, and the paper declared it 'The Most Artistic Building in Town' [1][2]. The landmark writer NoeHill calls it the oldest 'temple' bank in San Francisco and one of the best [3]. Architect and Engineer later wrote that the bank 'marked an epoch in San Francisco architecture' and put Pissis at the front of his profession [1]. It survived the 1906 fire with damage, and it reopened on May 25, 1906 to lines of depositors five blocks long [1][2].",
+    "people": [
+      {
+        "name": "Albert Pissis",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fallen from Grace: The Hibernia Bank Building (Mark Ellinger)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Fallen_from_Grace:_The_Hibernia_Bank_Building",
+        "supports": "1859 founding, Irish miners, 'people's bank', Pissis, Paragon, Call poll, Architect and Engineer quote, 1906 reopening"
+      },
+      {
+        "title": "Hibernia Bank Building (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hibernia_Bank_Building_(San_Francisco)",
+        "supports": "1892 completion, Paragon nickname, 14 of 20 artists vote, reopening 25 May 1906"
+      },
+      {
+        "title": "San Francisco Landmark #130: Hibernia Bank",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/sf130.asp",
+        "supports": "Oldest temple bank in San Francisco; Pissis design; built 1892"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-olympic-club-post-street",
+    "title": "Salt Water Piped to Post Street",
+    "theme": "gold-rush-victorian",
+    "year": 1893,
+    "yearEnd": 1906,
+    "place": {
+      "label": "First permanent Olympic Club clubhouse, Post Street near Mason",
+      "lat": 37.78825,
+      "lon": -122.41099,
+      "precision": "block"
+    },
+    "hook": "America's oldest athletic club started in a backyard gym. By 1893 it had a downtown palace with a pool of real seawater, and a world boxing champion on staff.",
+    "story": "The Olympic Club began in the Broadway backyard of Charles and Arthur Nahl, German-born artist brothers who were keen gymnasts. In 1860, 23 charter members met at a nearby firehouse and formed what became America's oldest athletic club [1]. Mark Twain went to the club often and wrote to his mother that he felt 'like a new man. I sleep better, I have a healthier appetite and my intellect is leaner' [1]. As membership grew, the club bought land at Post and Mason and hired architect Henry A. Schultz [1]. The first permanent clubhouse opened on Post Street on January 2, 1893 [2]. Its natatorium was filled with salt water piped all the way from Ocean Beach [1]. Its most famous member was James J. Corbett, who joined in 1884, won the world heavyweight title in 1892 and later coached boxing at the club for many years [2]. It is said that Baron Pierre de Coubertin, founder of the modern Olympic Games, came to inspect the facilities in 1893 [1]. The club sent its first athletes to the Olympic Games in 1904 [1]. The clubhouse burned in the 1906 fire, and members paid for a new one that opened in 1912 [1][2].",
+    "people": [
+      {
+        "name": "Charles and Arthur Nahl",
+        "role": "Founders"
+      },
+      {
+        "name": "James J. 'Gentleman Jim' Corbett",
+        "role": "Member and boxing coach"
+      },
+      {
+        "name": "Henry A. Schultz",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Olympic Club (Isabelle Lemon, Panorama, 2010)",
+        "publisher": "FoundSF / SF Museum and Historical Society",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=The_Olympic_Club",
+        "supports": "Nahl brothers, 1860 founding, Twain quote, Post and Mason site, Schultz, salt-water pipeline, Coubertin, 1904 Olympians, 1906 loss"
+      },
+      {
+        "title": "Olympic Club",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Olympic_Club",
+        "supports": "Clubhouse opened 2 Jan 1893 on Post St; Corbett joined 1884 and coached; 1912 rebuild"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-sherith-israel-post-taylor",
+    "title": "The Synagogue That Let Families Sit Together",
+    "theme": "communities",
+    "year": 1870,
+    "yearEnd": 1905,
+    "place": {
+      "label": "Congregation Sherith Israel's synagogue, Post and Taylor streets",
+      "lat": 37.78798,
+      "lon": -122.41196,
+      "precision": "block"
+    },
+    "hook": "On Post Street, a Gold Rush congregation of Polish Jews built a Gothic synagogue and slowly began to change how it worshipped.",
+    "story": "San Francisco's Jewish pioneers split along lines of origin. Jews from Germany and Central Europe founded Congregation Emanu-El, and Jews from Prussian Poland and Eastern Europe founded Congregation Sherith Israel, the 'loyal remnant of Israel', in 1851 [1][2]. By the end of the 1850s Jews were perhaps six percent of the city's population, briefly a higher share than in New York [1]. In 1870 Sherith Israel moved into a Gothic-style synagogue at Post and Taylor streets, its home for more than three decades [1]. The congregation had been Orthodox in the Polish style, and here it began to move toward Reform. The Post Street sanctuary was built for mixed seating. Over years of discussion and struggle, head coverings became optional, Friday evening services began, a choir was introduced and a new prayerbook was chosen [1]. A Prussian-Polish tailor worked near the synagogue, and his son Toby Rosenthal became the most important visual artist to come out of pioneer San Francisco [2]. By the 1890s the congregation had outgrown Post Street. It bought land at California and Webster in 1902 and hired Albert Pissis to design a domed temple there. The new temple was finished in 1905 and was the congregation's fifth home in less than fifty years [1][2].",
+    "people": [
+      {
+        "name": "Toby Rosenthal",
+        "role": "Painter, son of a local tailor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Congregation Sherith Israel (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Congregation_Sherith_Israel_(San_Francisco)",
+        "supports": "1851 founding; 6% Jewish population; 1870 Gothic synagogue at Post and Taylor; mixed seating and Reform steps; 1902 land, Pissis"
+      },
+      {
+        "title": "Jews (San Francisco History Encyclopedia, archived)",
+        "publisher": "San Francisco History Encyclopedia",
+        "year": null,
+        "url": "https://web.archive.org/web/20161006174425/http://www.sfhistoryencyclopedia.com/articles/j/jews.html",
+        "supports": "Emanu-El/Sherith Israel origins; Toby Rosenthal; 1905 temple as fifth building"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-tivoli-tetrazzini-1905",
+    "title": "Opera Every Night, and a Diva Discovered",
+    "theme": "arts-counterculture",
+    "year": 1905,
+    "yearEnd": null,
+    "place": {
+      "label": "Tivoli Opera House, Eddy and Mason streets",
+      "lat": 37.7842,
+      "lon": -122.4097,
+      "precision": "block"
+    },
+    "hook": "A beer garden turned opera house staged opera every night of the year. In 1905 it gave an unknown Italian soprano her American debut.",
+    "story": "The Tivoli started out in 1879 as a beer garden in a frame building among shrubs at Sutter and Stockton. It served beer and Gilbert and Sullivan, and that July it ran 'Pinafore' and 'Trial by Jury' for 81 nights in a row [1]. It later moved to an opera house on Eddy Street near Market and Powell. Historian John P. Young thought it was probably the first house in the United States to give opera every night of the year [1]. Patrons sat at tables with refreshments while they watched the show [2]. By the 1900s the Tivoli stood at the corner of Eddy and Mason [1]. In December 1904 its impresario, William H. 'Doc' Leahy, was in Mexico when he heard Luisa Tetrazzini sing Lucia, and he invited her to San Francisco [3]. On January 11, 1905, she made her American debut at the Tivoli as Gilda in 'Rigoletto' [3]. Young wrote that the audience at once 'voted her a star of the first magnitude' [1]. A 1912 survey of opera singers quoted a New York critic who wrote that 'San Franciscans acclaimed her a second Patti' before the East had heard of her [4]. She stayed loyal to the city that discovered her [1][3].",
+    "people": [
+      {
+        "name": "Luisa Tetrazzini",
+        "role": "Soprano"
+      },
+      {
+        "name": "William H. 'Doc' Leahy",
+        "role": "Tivoli impresario"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco, a History of the Pacific Coast Metropolis, vol. 2 (John P. Young)",
+        "publisher": "S. J. Clarke / Internet Archive",
+        "year": 1912,
+        "url": "https://archive.org/details/sanfranciscohist02youn",
+        "supports": "Tivoli garden origins, 81 nights of Pinafore, Eddy St opera house, year-round opera, Eddy and Mason location, Tetrazzini's reception"
+      },
+      {
+        "title": "Tenderloin Before Prohibition (WPA, 1930s)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Tenderloin_Before_Prohibition",
+        "supports": "Tivoli on Eddy St where patrons ate and drank during performances"
+      },
+      {
+        "title": "Luisa Tetrazzini",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Luisa_Tetrazzini",
+        "supports": "Leahy hearing her in Mexico Dec 1904; debut as Gilda 11 Jan 1905"
+      },
+      {
+        "title": "The Grand Opera Singers of To-day (Henry C. Lahee)",
+        "publisher": "Internet Archive",
+        "year": 1912,
+        "url": "https://archive.org/details/grandoperasinge00lahegoog",
+        "supports": "Quoted critic: San Franciscans acclaimed her a second Patti before the earthquake"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-poodle-dog-mason",
+    "title": "Upstairs at the Poodle Dog",
+    "theme": "gold-rush-victorian",
+    "year": 1898,
+    "yearEnd": 1906,
+    "place": {
+      "label": "The Poodle Dog restaurant, 151 Mason Street at Eddy",
+      "lat": 37.7849,
+      "lon": -122.4096,
+      "precision": "block"
+    },
+    "hook": "Twenty-three courses downstairs, private 'love nooks' upstairs: the Poodle Dog was the Tenderloin's most famous and most discreet restaurant.",
+    "story": "San Francisco's Poodle Dog restaurants went back to the Gold Rush. Historians still argue about the name: a proprietor's pet, a begging stray adopted for luck, or 'Poulet d'Or', which customers couldn't pronounce [1]. By the 1890s the Poodle Dog stood for luxury, with a 17-page menu, dinners of up to 23 courses, a huge wine cellar and a reputation as a 'five-storied dome of pleasure' [1]. Around 1898 (some say 1895) it moved to 151 Mason Street at Eddy [1]. At noon, bankers, judges, politicians, poets and journalists met over lunch, and it was said that the fate of many big business deals was settled at those tables [1]. In the evening the private upstairs dining rooms and 'love nooks' gave the city's nightlife a Parisian air. They also gave it a reputation as a discreet meeting place for powerful men and their mistresses, with scandals that reached as high as the mayor [1]. WPA writers in the 1930s remembered Mason Street as the district's 'White Way', lit up by cabarets, saloons and 'the later Poodle Dog' [2]. The 1906 fire ended the Mason Street years. Prohibition closed the restaurant in 1922, because its owners felt a French restaurant without wine wasn't worth running [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Poodle Dog Restaurants",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Poodle_Dog_Restaurants",
+        "supports": "Name theories; 1890s opulence; 151 Mason St location and date dispute; private rooms; 1922 closure"
+      },
+      {
+        "title": "Tenderloin Before Prohibition (WPA, 1930s)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Tenderloin_Before_Prohibition",
+        "supports": "Mason Street as the 'White Way' with the later Poodle Dog"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-tessie-wall-1898",
+    "title": "Tessie Wall Opens a 'Boarding-House'",
+    "theme": "gold-rush-victorian",
+    "year": 1898,
+    "yearEnd": 1906,
+    "place": {
+      "label": "211 O'Farrell Street, Tessie Wall's first house",
+      "lat": 37.78627,
+      "lon": -122.40835,
+      "precision": "building"
+    },
+    "hook": "The woman who would be crowned 'Queen of the Tenderloin' opened her first brothel here in 1898 and swore she'd never leave Powell Street.",
+    "story": "Teresa Susan Donohue, better known as Tessie Wall, was born in 1869. She worked as a dance-hall girl and had a reputation as a hard drinker; the story goes that she once outdrank the boxer John L. Sullivan [1]. In 1898 she opened her first brothel at 211 O'Farrell Street, calling it a 'boarding-house'. It shows up that way in the 1900 census [1]. She became the most successful madam in early 20th-century San Francisco [1]. WPA writers who covered the district in the 1930s remembered her 'red plush and gilt bagnio' near Powell and O'Farrell and called her the 'Queen of the Tenderloin' [2]. Her husband, the gambler and political boss Frank Daroux, once suggested they move to a house in San Mateo. Her reported answer: 'San Mateo! Why I'd rather be an electric light pole on Powell Street than own all of the county' [2]. The 1906 fire destroyed her first house. She reopened farther along the same street at 337 O'Farrell and married Daroux that year [1]. When he tried to divorce her in 1917, she tried to kill him [1]. In the 1920s she was the unofficial queen of the annual policemen's balls at the Civic Auditorium [1].",
+    "people": [
+      {
+        "name": "Tessie Wall (Teresa Susan Donohue)",
+        "role": "Madam"
+      },
+      {
+        "name": "Frank Daroux",
+        "role": "Gambler, political boss, her husband"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tessie Wall",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Tessie_Wall",
+        "supports": "Biography; 211 O'Farrell brothel from 1898 per 1900 census; 337 O'Farrell after 1906; marriage; 1917 shooting; policemen's balls"
+      },
+      {
+        "title": "Tenderloin Before Prohibition (WPA, 1930s)",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Tenderloin_Before_Prohibition",
+        "supports": "'Queen of the Tenderloin'; bagnio near Powell and O'Farrell; San Mateo quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-isadora-duncan-birthplace",
+    "title": "Where Modern Dance Was Born",
+    "theme": "arts-counterculture",
+    "year": 1877,
+    "yearEnd": null,
+    "place": {
+      "label": "Isadora Duncan's birthplace, 501 Taylor Street at Geary",
+      "lat": 37.78713,
+      "lon": -122.41172,
+      "precision": "building"
+    },
+    "hook": "A plaque at Taylor and Geary marks where Isadora Duncan was born, the barefoot rebel who 'liberated the dance'.",
+    "story": "Angela Isadora Duncan was born in San Francisco, the youngest of four children. Her birth date is usually given as May 26, 1877, though some sources say May 27, 1878 [1]. The plaque at 501 Taylor Street, put up by the Daughters of California Pioneers, gives 1878 and says 'America's Genius of the Dance was born on this site' [2]. Her father, Joseph Charles Duncan, was a banker, mining engineer and art lover. Soon after she was born, the family's bank collapsed and he was charged [1]. Her parents divorced, and her mother took the children to Oakland, where she earned a living as a seamstress and piano teacher [1]. The family moved from one poor apartment to another. In the evenings her mother played Beethoven, Schumann and Chopin or read Shakespeare, Shelley and Keats aloud. Duncan later called that her 'real education' [3]. She left school at about ten, and she and her siblings taught dance to local children for money [1]. She took her freeform, corset-free dancing to London in 1898 and then across Europe, and became one of the founders of modern dance [1][3]. A later admirer, Mignon Garland, got the city to rename the block's Adelaide Place as Isadora Duncan Lane [1].",
+    "people": [
+      {
+        "name": "Isadora Duncan",
+        "role": "Dancer, pioneer of modern dance"
+      },
+      {
+        "name": "Joseph Charles Duncan",
+        "role": "Her father, a banker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Isadora Duncan",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Isadora_Duncan",
+        "supports": "Birth dates; father and bank collapse; Oakland; school; London 1898; Garland and Isadora Duncan Lane"
+      },
+      {
+        "title": "Isadora Duncan's Birthplace, San Francisco, CA",
+        "publisher": "Waymarking.com",
+        "year": 2013,
+        "url": "http://www.waymarking.com/waymarks/WMGW84_Isadora_Duncans_Birthplace_San_Francisco_CA",
+        "supports": "Plaque text and location at 501 Taylor Street; Daughters of California Pioneers"
+      },
+      {
+        "title": "Isadora Duncan (Jodi Lomask)",
+        "publisher": "FoundSF",
+        "year": 1997,
+        "url": "https://www.foundsf.org/index.php?title=Isadora_Duncan",
+        "supports": "Born 1877 in SF; childhood of poor apartments; mother's music and readings; influence on modern dance"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "tenderloin-toklas-ofarrell",
+    "title": "Alice Toklas Keeps House on O'Farrell",
+    "theme": "lgbtq",
+    "year": 1894,
+    "yearEnd": 1907,
+    "place": {
+      "label": "Levinsky family home, 922 O'Farrell Street (between Polk and Van Ness)",
+      "lat": 37.78455,
+      "lon": -122.41995,
+      "precision": "block"
+    },
+    "hook": "Before Paris and Gertrude Stein, Alice B. Toklas was a San Francisco girl keeping house for a family of men and quietly planning her escape.",
+    "story": "Alice Babette Toklas was born in San Francisco on April 30, 1877, to Ferdinand and Emma Levinsky Toklas. Both sides of the family came from Polish Jewish immigrants [1]. Her grandfather Louis Levinsky arrived as a forty-niner. He found dry goods more profitable than gold, first in Jackson and then in San Francisco [1]. An 1894 city block book lists his home at 922 O'Farrell Street, where his teenage granddaughter lived [2]. The Toklases had moved to Seattle in 1890 but came back when Alice's mother fell ill [2]. Emma died in March 1897, weeks before Alice turned twenty. For the next decade Alice kept house for her father, her brother and assorted male relatives [1]. She was good enough at the piano to think about a concert career [1]. Her friend Harriet Lane Levy later wrote a memoir of their shared San Francisco girlhood called '920 O'Farrell Street' (1947) [1]. Toklas knew she was attracted to women friends and did not expect to marry, and she wanted to get away [1]. After the 1906 earthquake Michael and Sarah Stein told her about their life in Paris. She sailed in 1907 and met Gertrude Stein the day after she arrived [1][2]. The block of Myrtle Street nearby is now Alice B. Toklas Place [2].",
+    "people": [
+      {
+        "name": "Alice B. Toklas",
+        "role": "Writer, partner of Gertrude Stein"
+      },
+      {
+        "name": "Louis Levinsky",
+        "role": "Grandfather, pioneer merchant"
+      },
+      {
+        "name": "Harriet Lane Levy",
+        "role": "Friend and memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alice B. Toklas (Jewish Women: A Comprehensive Historical Encyclopedia)",
+        "publisher": "Jewish Women's Archive",
+        "year": null,
+        "url": "https://jwa.org/encyclopedia/article/toklas-alice-babette",
+        "supports": "Birth, family, Levinsky forty-niner, mother's death 1897, housekeeping, piano, Harriet Lane Levy memoir, attraction to women, move to Paris"
+      },
+      {
+        "title": "Alice B. Toklas",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Alice_B._Toklas",
+        "supports": "1894 block book: Levinsky residence at 922 O'Farrell; Seattle 1890; met Stein 8 Sept 1907; Alice B. Toklas Place"
+      }
+    ],
+    "photo": null
+  }
+]

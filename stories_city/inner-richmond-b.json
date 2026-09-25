@@ -1,0 +1,597 @@
+[
+ {
+  "id": "inner-richmond-presidio-terrace-street-sale",
+  "title": "The Street That Sold for $90,000",
+  "theme": "civil-rights",
+  "year": 2017,
+  "yearEnd": null,
+  "place": {
+   "label": "Presidio Terrace, off Arguello Boulevard",
+   "lat": 37.788,
+   "lon": -122.45974,
+   "precision": "street"
+  },
+  "hook": "A gated oval once advertised as the one spot in San Francisco reserved for Caucasians was bought, sidewalks and all, by a San Jose couple. For $90,000.",
+  "story": "Presidio Terrace began rising in 1905, a private oval of mansions beside the Presidio [3]. A 1906 Baldwin & Howell advertisement boasted that it was 'the only spot in San Francisco where only Caucasians are permitted to buy or lease real estate' [2]. The Supreme Court voided such covenants in 1948, yet a racial clause lingered in the homeowners' bylaws until 1998, when HUD announced an agreement to strike it [2]. Residents over the years included Nancy Pelosi and Dianne Feinstein [1][3]. Then came a twist. The association had not paid the tax on its private street, $14 a year, for two decades; the bills went to an outdated address [1]. In 2015 investor Tina Lam and her husband Michael Cheng bought the street, sidewalks and common areas at auction for $90,000 [1][2]. Lam said it fulfilled her 'simple dream of owning a piece of San Francisco' [2]. When talk turned to charging residents for parking, the neighbours fought back [2]. On 28 November 2017 the Board of Supervisors voted 7-4 to rescind the sale; Supervisor Hillary Ronen, voting no, noted that most people do not have a private street in front of their house [1].",
+  "people": [
+   {
+    "name": "Tina Lam",
+    "role": "investor who bought the street at auction"
+   },
+   {
+    "name": "Michael Cheng",
+    "role": "co-buyer"
+   },
+   {
+    "name": "Mark Farrell",
+    "role": "district supervisor who backed reversal"
+   },
+   {
+    "name": "Hillary Ronen",
+    "role": "supervisor who voted against reversal"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Rich homeowners urge San Francisco to return sold-off street",
+    "publisher": "Associated Press / Washington Post",
+    "year": 2017,
+    "url": "https://web.archive.org/web/20171129044007/https://www.washingtonpost.com/national/rich-homeowners-urge-san-francisco-to-return-sold-off-street/2017/11/28/715d7b94-d4a4-11e7-9ad9-ca0619edfa05_story.html",
+    "supports": "$14 tax bills, outdated address, 2015 auction for $90,000, 7-4 vote, Ronen and Farrell positions, Pelosi and Feinstein as past residents"
+   },
+   {
+    "title": "The racist history of one of SF's most exclusive streets",
+    "publisher": "SFGATE (Andrew Chamings)",
+    "year": 2020,
+    "url": "https://www.sfgate.com/sf-neighborhoods/article/racist-history-of-SF-Presidio-Terrace-15102998.php",
+    "supports": "1906 Baldwin & Howell 'only Caucasians' ad, Shelley v. Kraemer, 1998 HUD agreement removing covenant, Lam and Cheng purchase, parking dispute, Lam quote"
+   },
+   {
+    "title": "Presidio Terrace history",
+    "publisher": "Curbed SF",
+    "year": 2017,
+    "url": "https://web.archive.org/web/20170808225329/https://sf.curbed.com/2017/8/8/16114040/presidio-terrace-history-sf-street-private",
+    "supports": "Building began 1905; residents incl. Alioto, Pelosi, Feinstein"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-internet-archive-church",
+  "title": "A Library of Alexandria in a Church",
+  "theme": "modern-city",
+  "year": 2009,
+  "place": {
+   "label": "300 Funston Avenue at Clement Street (Internet Archive)",
+   "lat": 37.7823,
+   "lon": -122.47175,
+   "precision": "building"
+  },
+  "hook": "Inside a 1923 Christian Science church, where the pews still face the altar, servers blink every time someone somewhere opens an old webpage.",
+  "story": "Carl Werner designed the Fourth Church of Christ, Scientist at Funston and Clement, and it was finished in 1923 with Corinthian columns across its front [3]. By 2009 its congregation had dwindled, and the 23,000-square-foot building went to a buyer nobody in 1923 could have imagined: the Internet Archive, the nonprofit founded in 1996 to keep the web from vanishing, then based in the Presidio [1]. Market sources put the price at about $4.5 million [1]. Founder Brewster Kahle said plainly why they chose it: 'We bought this building because it matched our logo,' a Greek temple [2]. His idea, he told visitors, was 'to build the library of Alexandria, version two' [2]. Rather than flattening the sloped sanctuary floor into a library, the Archive decided to 'take it slow' and let the building adapt [2]. The pews stayed. In a niche where you might expect a saint stand towers of servers whose blue lights blink with each upload or download [2]. From that old church the Wayback Machine keeps crawling the web, preserving pages that have otherwise disappeared [2].",
+  "people": [
+   {
+    "name": "Brewster Kahle",
+    "role": "founder of the Internet Archive"
+   },
+   {
+    "name": "Carl Werner",
+    "role": "architect of the 1923 church"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Internet Archive buys former church",
+    "publisher": "San Francisco Business Times (J.K. Dineen, Blanca Torres)",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20150630224814/http://www.bizjournals.com/sanfrancisco/stories/2009/10/05/newscolumn1.html",
+    "supports": "Purchase of 1923 Fourth Church of Christ Scientist at 300 Funston, 23,000 sq ft, about $4.5 million, founded 1996, then in the Presidio"
+   },
+   {
+    "title": "In an old church, the Internet Archive stores our digital history",
+    "publisher": "KALW Crosscurrents",
+    "year": 2019,
+    "url": "https://www.kalw.org/show/crosscurrents/2019-09-11/in-an-old-church-the-internet-archive-stores-our-digital-history",
+    "supports": "Kahle quotes on logo and Library of Alexandria, pews, sloped floor, servers in niche, Wayback Machine"
+   },
+   {
+    "title": "Internet Archive building (pointer to Ivey, PCAD and Chronicle citations)",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Internet_Archive_building",
+    "supports": "Architect Carl Werner, completion 1923, Corinthian columns"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-green-apple-books",
+  "title": "Philosophy Shelves in Grandma's Bedroom",
+  "theme": "arts-counterculture",
+  "year": 1967,
+  "place": {
+   "label": "Green Apple Books, 506 Clement Street at 6th Avenue",
+   "lat": 37.7832,
+   "lon": -122.46471,
+   "precision": "building"
+  },
+  "hook": "A visitor walked into Green Apple Books and found the bedroom she slept in as a girl in the 1930s. It is now, probably, the philosophy section.",
+  "story": "Before it held books, the building at Sixth and Clement was a family home: Hippolyte Cuneo, a foreman at the Joshua Hendy Machine Works, moved here with his wife and six children around 1895 [2]. A storefront was later pushed out in front of the house, and in the late 1940s the shopfront was shared by Ed's Togs menswear and Coliseum Furs [2]. In 1967 Richard Savoy opened Green Apple Books in a 750-square-foot space [1][3]. The store kept growing while other bookshops folded, adding a mezzanine, a second floor and its neighbour, Revolver Records [1][4]. Savoy, who ran it for almost 40 years, eventually offered the business to three employees, including Pete Mulvihill, a former temp earning $8 an hour; an owner-financed plan let them buy it over ten years, completing in 2008 [1]. In 2017, as the store turned fifty, Cuneo's granddaughter Jean Portello came back and found the bedroom she had slept in during the 1930s, upstairs in what historian Woody LaBounty believes is now the Philosophy section [2].",
+  "people": [
+   {
+    "name": "Richard Savoy",
+    "role": "founder, 1967"
+   },
+   {
+    "name": "Pete Mulvihill",
+    "role": "employee turned co-owner"
+   },
+   {
+    "name": "Kevin Ryan",
+    "role": "co-owner"
+   },
+   {
+    "name": "Jean Portello",
+    "role": "granddaughter of the building's first family"
+   },
+   {
+    "name": "Hippolyte Cuneo",
+    "role": "machine-works foreman who lived on the corner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Why Green Apple Books in the Richmond has survived nearly 60 years",
+    "publisher": "Mission Local",
+    "year": 2025,
+    "url": "https://missionlocal.org/2025/06/why-sfs-green-apple-books-in-the-richmond-has-survived-nearly-60-years/",
+    "supports": "Founded 1967 by Savoy, 750 sq ft at 506 Clement, ran it almost 40 years, $8 wage, owner-financed buyout completed 2008, mezzanine and second floor"
+   },
+   {
+    "title": "Green Apple Books: A Closer Look",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project (Woody LaBounty)",
+    "year": 2017,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2017/09/09/green-apple-books-a-closer-look/",
+    "supports": "Cuneo family home c.1895, storefront addition, Ed's Togs and Coliseum Furs in late 1940s, Jean Portello's 1930s bedroom and Philosophy section, fiftieth birthday"
+   },
+   {
+    "title": "Green Apple Books to Downsize at Flagship Location",
+    "publisher": "Publishers Weekly",
+    "year": 2021,
+    "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/85781-green-apple-books-to-downsize-at-flagship-location.html",
+    "supports": "Opened 1967 in a 750 sq ft space"
+   },
+   {
+    "title": "An indie bookstore survival guide",
+    "publisher": "KALW",
+    "year": 2014,
+    "url": "https://www.kalw.org/show/crosscurrents/2014-10-08/an-indie-bookstore-survival-guide",
+    "supports": "Expansion with mezzanine, second floor and acquisition of Revolver Records"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-8th-balboa-grocers",
+  "title": "The Corner Where Chinatown Spilled West",
+  "theme": "communities",
+  "year": 1976,
+  "place": {
+   "label": "8th Avenue and Balboa Street",
+   "lat": 37.7772,
+   "lon": -122.4663,
+   "precision": "block"
+  },
+  "hook": "During the 1976 city strike, Chinese Muni drivers living at one Richmond corner quietly organised rides so elderly neighbours could still reach their doctors.",
+  "story": "Steve Hong grew up at Eighth Avenue and Balboa in the 1970s, when it seemed every corner had a grocery, and three near his home were run by Chinese families [1]. Before 1965, he writes, most Chinese San Franciscans were confined to Chinatown; after immigration law changed, families moved out to the Richmond, and Clement Street became known as a 'New Chinatown' [1]. His corner held more than groceries. About 20 Chinese Muni operators worked in the whole city, and a handful lived on the south corners of Eighth and Balboa [1]. In spring 1976, city craft workers walked out and Muni drivers stopped running buses in solidarity [2]. Hong recalls that the Chinese drivers across the street organised and dispatched rides so seniors could reach their medical appointments; he believes those efforts were seeds of today's paratransit [1]. An apartment on the corner was a hangout for young Chinese activists who fought for housing and for the International Hotel, among them Fred Lau [1]. Lau had been admitted to the police academy in 1970 after Chinatown protested a height rule he missed by three-quarters of an inch; in 1996 he became the city's first Chinese American police chief [3].",
+  "people": [
+   {
+    "name": "Steve Hong",
+    "role": "writer who grew up at the corner"
+   },
+   {
+    "name": "Fred Lau",
+    "role": "activist-era regular, later SFPD chief"
+   },
+   {
+    "name": "Gordon Chin",
+    "role": "young activist who lived at the corner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Chinese Grocery Stores of my Childhood",
+    "publisher": "FoundSF (Steve Hong, Kingdom of Rice blog, 2017)",
+    "year": 2017,
+    "url": "https://www.foundsf.org/index.php?title=Chinese_Grocery_Stores_of_my_Childhood",
+    "supports": "Corner grocers, post-1965 move west, New Chinatown, ~20 Chinese Muni operators, 1976 strike ride dispatching, activists, Fred Lau and Gordon Chin"
+   },
+   {
+    "title": "City Workers Strike of 1976",
+    "publisher": "FoundSF",
+    "year": 2024,
+    "url": "https://www.foundsf.org/index.php?title=City_Workers_Strike_of_1976",
+    "supports": "Craft workers' walkout and Muni workers stopping buses in support"
+   },
+   {
+    "title": "The Art of Leadership: Police Chief Fred Lau Makes the Mark",
+    "publisher": "AsianWeek",
+    "year": 2002,
+    "url": "https://web.archive.org/web/20060103112724/http://www.asianweek.com/2002_01_11/feature.html",
+    "supports": "Lau admitted in 1970 despite being 3/4 inch short, Chinatown protest, first Chinese American police chief"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-rabbi-joseph-asher",
+  "title": "The Refugee Rabbi Who Talked to Germany",
+  "theme": "communities",
+  "year": 1967,
+  "yearEnd": 1986,
+  "place": {
+   "label": "Temple Emanu-El, 2 Lake Street at Arguello",
+   "lat": 37.78703,
+   "lon": -122.45978,
+   "precision": "building"
+  },
+  "hook": "He fled the Nazis as a teenager. Decades later, from Emanu-El's great domed pulpit, he asked American Jews whether it was time to speak to Germany again.",
+  "story": "In 1967 Temple Emanu-El, San Francisco's largest synagogue, installed a senior rabbi with an unusual biography [1]. Joseph Asher was born in Germany into a long line of rabbis; the New York Times counted seven generations [1]. Accounts differ on when he got out: the Times said his family fled in 1936, while his son Raphael remembered his father as 'a refugee from Germany in 1938' [1][2]. His son described 'a very exciting but episodic life' in England, Australia, Cincinnati, upstate New York, Florida, Alabama and North Carolina before San Francisco [2]. In the South he became known for civil rights work [2]. On a 1964 return trip to Germany he concluded that schools were trying to instil 'a sense of atonement' but offered 'a negative and incomplete approach' [1]. At his urging, in 1966 the Union of American Hebrew Congregations sent rabbis to West Germany to teach Germans about Jews [1]. He led Emanu-El under its dome at Lake and Arguello until 1986 [1]. In 1989 West Germany awarded him the Grand Cross of Merit; he died of cancer the following year, aged 69 [1].",
+  "people": [
+   {
+    "name": "Joseph Asher",
+    "role": "senior rabbi of Temple Emanu-El, 1967-1986"
+   },
+   {
+    "name": "Raphael Asher",
+    "role": "his son, also a rabbi"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Rabbi Joseph Asher, Synagogue Leader, 69",
+    "publisher": "The New York Times",
+    "year": 1990,
+    "url": "https://www.nytimes.com/1990/06/03/obituaries/rabbi-joseph-asher-synagogue-leader-69.html",
+    "supports": "Senior rabbi 1967-1986, largest synagogue, seven generations, family fled 1936, 1964 visit and quotes, 1966 UAHC project, 1989 Grand Cross of Merit, died aged 69 of cancer"
+   },
+   {
+    "title": "After 33 years at B'nai Tikvah, 7th-generation rabbi retires",
+    "publisher": "J. The Jewish News of Northern California",
+    "year": 2014,
+    "url": "https://jweekly.com/2014/05/23/after-33-years-at-bnai-tikvah-7th-generation-rabbi-retires/",
+    "supports": "Raphael Asher quote on 1938 refugee and places lived; national profile in civil rights and Jewish-German relations"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-last-b-geary-streetcar",
+  "title": "The Night the B-Geary Stopped",
+  "theme": "modern-city",
+  "year": 1956,
+  "place": {
+   "label": "Geary Boulevard at 10th Avenue",
+   "lat": 37.7806,
+   "lon": -122.4684,
+   "precision": "street"
+  },
+  "hook": "America's first big-city public transit began on Geary. In 1956 a new mayor broke a promise, and the Richmond was told light rail would come back soon.",
+  "story": "On 28 December 1912 Mayor James Rolph opened the Municipal Railway's first lines, both on Geary: the A turned left at Tenth Avenue for Golden Gate Park, while the B ran on to the ocean [1]. It was the first big-city publicly owned transit system in America [2]. The Geary lines became Muni's busiest; the B alone needed more than 50 streetcars at rush hour [2]. After the war Muni tore out streetcars across the city, and almost every Richmond route became a bus in 1948 and 1949, but the B and C still rattled along Geary [1]. Plans for a BART subway through the Richmond gave some officials a reason to pull the tracks [1]. George Christopher, running for mayor in 1955, promised the B would stay until rapid transit plans were final; within his first year he reversed himself [1]. On 29 December 1956 the last passenger streetcar ran on Geary [2]. The 38 bus that replaced it has been Muni's busiest line ever since [2]. BART never came. As historian Jack Tillmany put it decades later, the promised light rail was 'still in the future' [1].",
+  "people": [
+   {
+    "name": "George Christopher",
+    "role": "mayor who ended the B-line"
+   },
+   {
+    "name": "James Rolph",
+    "role": "mayor who opened Muni in 1912"
+   },
+   {
+    "name": "Jack Tillmany",
+    "role": "transit and film historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Run Out of Town",
+    "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/sw16.php",
+    "supports": "1912 opening, A line turning at Tenth Avenue, 1948-49 conversions, BART plan, Christopher promise and reversal, 29 Dec 1956, Tillmany quote"
+   },
+   {
+    "title": "End of the B-Geary, 60 Years Ago",
+    "publisher": "Market Street Railway",
+    "year": 2016,
+    "url": "https://www.streetcar.org/end-of-the-b-geary-60-years-ago/",
+    "supports": "Last passenger car 29 Dec 1956, first big-city public system, 50+ cars at peak, 38 bus busiest line"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-birth-of-a-garage",
+  "title": "Where Five LaBountys Ate Thanksgiving",
+  "theme": "modern-city",
+  "year": 2000,
+  "place": {
+   "label": "139-141 11th Avenue near California Street",
+   "lat": 37.78559,
+   "lon": -122.47031,
+   "precision": "building"
+  },
+  "hook": "A historian drove his brother past their childhood flat and found it stripped to the frame. Soon their old address no longer existed.",
+  "story": "In the early 1970s Woody LaBounty's grandmother would walk him and his brother to catch the 21 Hayes at its terminus at Eighth and California, bound for the Emporium downtown [2]. Home was a basement flat at 139 11th Avenue, in a two-unit house that held nine people in 1975 [1]. In 1999 he saw the house listed for $689,000 [1]. A year or so later his brother visited from Seattle, and they drove by. The building had been stripped to its frame; they could see straight through where their apartment had been into a weedy backyard [1]. A woman got out of a car and said she owned it. 'It was a nice place to live,' LaBounty offered. 'Too small,' she replied [1]. When he returned months later, a double garage had replaced the ground-floor flat 'where five LaBountys had eaten Thanksgiving dinners' [1]. The address 139 no longer existed [1]. He guessed the rebuilt house held two or three people, with room for two cars [1]. His essay became a plea to value the ordinary Richmond and Sunset houses that no preservation society fights for [1].",
+  "people": [
+   {
+    "name": "Woody LaBounty",
+    "role": "historian who grew up in the flat"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Birth of a Garage",
+    "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+    "year": 2001,
+    "url": "https://www.outsidelands.org/sw7.php",
+    "supports": "139 11th Avenue, nine residents in 1975, 1999 listing at $689,000, gutted house, owner exchange, garage replacing flat, address gone"
+   },
+   {
+    "title": "Streetwise: Run Out of Town",
+    "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/sw16.php",
+    "supports": "Early 1970s trips on the 21 Hayes from its terminus at Eighth and California"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-roosevelt-middle-school",
+  "title": "San Francisco's Only Expressionist Schoolhouse",
+  "theme": "architecture-landmarks",
+  "year": 1930,
+  "place": {
+   "label": "Roosevelt Middle School, 460 Arguello Boulevard",
+   "lat": 37.78199,
+   "lon": -122.45866,
+   "precision": "building"
+  },
+  "hook": "Timothy Pflueger gave the Richmond a brick school in a style found nowhere else in San Francisco, and possibly nowhere else in America.",
+  "story": "Between 1920 and 1930 San Francisco issued bonds to build fifty public schools, and one of the last was the most unusual [1]. Theodore Roosevelt Middle School, built in 1929 and 1930 at 460 Arguello, was designed by Timothy Pflueger in what the city's landmark report calls an idiosyncratic Dutch-German Expressionist style [1]. The report calls it the only example of that avant-garde style in San Francisco, and possibly the United States [1]. NoeHill calls it probably the most impressive example of the bricklayer's art in San Francisco [1]. Inside, the Depression left its mark in art. With money from the WPA Federal Art Project, Nelson Poole painted two 5-by-20-foot murals, 'Land' and 'Harvest', for the lobby [2]. George Wilson Walker's 5-by-25-foot oil 'Education' hangs above the entrance to the auditorium balcony [3]. The murals survive, well preserved, and helped earn the school designation as San Francisco Landmark No. 285, approved by the Board of Supervisors in March 2019 [1].",
+  "people": [
+   {
+    "name": "Timothy Pflueger",
+    "role": "architect"
+   },
+   {
+    "name": "Nelson Poole",
+    "role": "WPA muralist ('Land' and 'Harvest')"
+   },
+   {
+    "name": "George Wilson Walker",
+    "role": "WPA muralist ('Education')"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #285: Theodore Roosevelt Middle School",
+    "publisher": "NoeHill (adapted from the city's Landmark Designation Report)",
+    "year": 2023,
+    "url": "https://noehill.com/sf/landmarks/sf285.asp",
+    "supports": "Built 1929-1930, fifty-school bond era, Pflueger, Dutch-German Expressionist style unique in SF, New Deal murals, brickwork, designation approved March 5, 2019"
+   },
+   {
+    "title": "Roosevelt Middle School: Pool Murals",
+    "publisher": "The Living New Deal",
+    "year": 2020,
+    "url": "https://livingnewdeal.org/sites/roosevelt-middle-school-pool-murals-san-francisco-ca/",
+    "supports": "Two 5x20 murals 'Land' and 'Harvest' by Nelson Pool(e), WPA Federal Art Project, lobby"
+   },
+   {
+    "title": "Roosevelt Middle School: Walker Mural",
+    "publisher": "The Living New Deal",
+    "year": 2020,
+    "url": "https://livingnewdeal.org/sites/roosevelt-middle-school-walker-mural-san-francisco-ca/",
+    "supports": "5x25 'Education' by George Wilson Walker over auditorium balcony entrance, WPA FAP"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-st-johns-lake-street-labyrinth",
+  "title": "A Labyrinth on the Slow Street",
+  "theme": "lgbtq",
+  "year": 2020,
+  "place": {
+   "label": "St. John's Presbyterian Church, 25 Lake Street at Arguello",
+   "lat": 37.78679,
+   "lon": -122.45967,
+   "precision": "building"
+  },
+  "hook": "A 1905 landmark church on Lake Street ordains openly LGBTQ ministers, opens Pride with a 'Dolly Church' service, and built a labyrinth from neighbours' succulents.",
+  "story": "St. John's Presbyterian has worshipped in its 1905 building at Lake and Arguello for well over a century; it is city Landmark No. 83 and on the National Register [4]. Its welcome today is explicit [1]. Since 2010, it says, it has ordained openly LGBTQ ministers, and since 2014 it has married same-sex couples [1]. In 2018 the congregation affirmed the full inclusion of transgender and non-binary people and went further, lamenting how church policies had driven LGBTQ Christians away [1]. Each June it opens Pride season with a 'Dolly Church' service [1]. It became a sanctuary church for refugees and asylum seekers, and its Harvest Food Pantry feeds about 300 households a week [2]. In 2020, as pandemic walkers filled the neighbourhood and Lake Street became a Slow Street, the church began the Lake Street Labyrinth off the sidewalk, a winding path through garden and pavement [3]. The succulents were donated by neighbours, and painted stones of encouragement dot the way [3].",
+  "people": [
+   {
+    "name": "Theresa Cho",
+    "role": "pastor and head of staff"
+   }
+  ],
+  "sources": [
+   {
+    "title": "LGBTQ+ Inclusion",
+    "publisher": "St. John's Presbyterian Church",
+    "year": 2025,
+    "url": "https://www.stjohnssf.org/lgbtq-gay-lesbian-queer-trans-inclusion",
+    "supports": "Ordaining LGBTQ ministers since 2010, same-sex marriages since 2014, 2018 affirmation and lament, annual Dolly Church Pride service"
+   },
+   {
+    "title": "About St. John's",
+    "publisher": "St. John's Presbyterian Church",
+    "year": 2025,
+    "url": "https://www.stjohnssf.org/about",
+    "supports": "Sanctuary church, Harvest Food Pantry serving about 300 households weekly, Inner Richmond location"
+   },
+   {
+    "title": "The Lake Street Labyrinth",
+    "publisher": "St. John's Presbyterian Church",
+    "year": 2025,
+    "url": "https://www.stjohnssf.org/labyrinth",
+    "supports": "Idea began 2020 with pandemic walkers, Lake Street Slow Street, path design, donated succulents, painted stones"
+   },
+   {
+    "title": "San Francisco Landmarks list",
+    "publisher": "NoeHill",
+    "year": 2026,
+    "url": "https://noehill.com/sf/landmarks/default.aspx",
+    "supports": "Saint John's Presbyterian Church, 25 Lake Street, 1905, Local Landmark 083 and National Register"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-mountain-lake-alligator",
+  "title": "The Golden Gator of Mountain Lake",
+  "theme": "parks-nature",
+  "year": 1996,
+  "place": {
+   "label": "Mountain Lake, south shore by Mountain Lake Park",
+   "lat": 37.7871,
+   "lon": -122.469,
+   "precision": "area"
+  },
+  "hook": "In 1996 an alligator turned up among the ducks of Mountain Lake, and two newspapers turned the hunt into a circus. A zoo curator ended it with $1.47 of fish.",
+  "story": "In early August 1996 someone spotted an alligator in Mountain Lake, the small natural lake beside Mountain Lake Park at the Presidio's edge [1]. Crowds gathered [1]. The Chronicle flew in Florida trapper Jimmie Long, who, the rival Examiner reported, made his living killing alligators and selling the meat [2]. The Examiner answered with an 'expeditionary force': executive editor Phil Bronstein and reporter Dennis Opatrny, in scuba gear, set out to rescue the reptile humanely [2]. Police stopped them inches from the water, and Park Police noted that swimming was banned [2]. The Park Service said only San Francisco Zoo staff could capture the animal [2]. The Examiner's naming contest picked 'Golden Gator' over 'Van Nessie' and 'Presidio Domingo', and a Texas radio station played a rewritten 'Crocodile Rock' [1]. After ten weeks, associate curator John Aikin landed it in October with a fishing pole, a three-pronged hook and $1.47 worth of raw fish [1]. Early reports called it 28 inches long; at the zoo it measured 3 feet 2 inches, a healthy male [1][2]. It was probably an abandoned pet [1].",
+  "people": [
+   {
+    "name": "John Aikin",
+    "role": "SF Zoo associate curator who caught the alligator"
+   },
+   {
+    "name": "Jimmie Long",
+    "role": "Florida trapper hired by the Chronicle"
+   },
+   {
+    "name": "Phil Bronstein",
+    "role": "Examiner executive editor"
+   },
+   {
+    "name": "Dennis Opatrny",
+    "role": "Examiner reporter"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Hunt for SF gator ends",
+    "publisher": "Las Vegas Sun (Associated Press)",
+    "year": 1996,
+    "url": "https://lasvegassun.com/news/1996/oct/10/hunt-for-sf-gator-ends/",
+    "supports": "Aikin capture, $1.47 of fish, 10-week hunt, male, 3 ft 2 in, spotted early August, crowds, Examiner force, naming contest, KBAE Crocodile Rock, abandoned pet speculation"
+   },
+   {
+    "title": "Hired alligator gun is a reptile hit man",
+    "publisher": "San Francisco Examiner (via SFGATE)",
+    "year": 1996,
+    "url": "https://www.sfgate.com/news/article/Hired-alligator-gun-is-a-reptile-hit-man-3310153.php",
+    "supports": "Jimmie Long hired by rival paper, Bronstein and Opatrny scuba attempt halted by police, Park Service rules, 28-inch estimate"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-richmond-library-renovation",
+  "title": "The Carnegie Branch Made Quake-Safe",
+  "theme": "architecture-landmarks",
+  "year": 2009,
+  "place": {
+   "label": "Richmond/Senator Milton Marks Branch Library, 351 9th Avenue",
+   "lat": 37.78186,
+   "lon": -122.46804,
+   "precision": "building"
+  },
+  "hook": "San Francisco's first Carnegie library kept its shelves nearly unchanged for forty years. Then the Richmond's readers doubled them, and a bond rebuilt the whole thing.",
+  "story": "The Richmond Branch on Ninth Avenue was the first San Francisco library built with Andrew Carnegie's money, dedicated in 1914 in an Italianate design by Bliss and Faville [1][2]. Its later history is quieter but telling. Sometime in the early 1930s the growing children's collection moved downstairs, into a room whose 'Lecture Hall' lettering still marks the 10th Avenue entrance [2]. From the 1930s to the 1970s the book collection barely grew, filling only the original wall shelves; after that, the librarians wrote, the reading, listening and viewing demands of Richmond residents doubled the shelving and brought books, tapes, videos and CDs in several languages [2]. In December 2000 the Landmarks Board nominated the building as a city landmark [1]; it became Landmark No. 247 [3]. With a city bond and $6 million in state Proposition 14 funds, the library was renovated to be seismically safe, accessible and wired, and reopened on 16 May 2009 [1]. Today it carries the name of the Richmond/Senator Milton Marks Branch [1].",
+  "people": [
+   {
+    "name": "Milton Marks",
+    "role": "state senator for whom the branch is named"
+   },
+   {
+    "name": "Tim Williams and Ruth Vose",
+    "role": "branch librarians who wrote its history"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Richmond Library History",
+    "publisher": "San Francisco Public Library",
+    "year": 2026,
+    "url": "https://sfpl.org/locations/richmond/library-history",
+    "supports": "First Carnegie branch 1914, December 2000 landmark nomination, bond and $6M Prop 14 funds, renovation completed May 16, 2009, name"
+   },
+   {
+    "title": "Richmond Branch Library",
+    "publisher": "Western Neighborhoods Project (Tim Williams and Ruth Vose, from SFPL newsletter 2001)",
+    "year": 2001,
+    "url": "https://www.outsidelands.org/richmond_library.php",
+    "supports": "1914 dedication, Bliss and Faville, children's room moved early 1930s, Lecture Hall lettering, collection static 1930s-70s then doubled, multilingual media"
+   },
+   {
+    "title": "San Francisco Landmarks list",
+    "publisher": "NoeHill",
+    "year": 2026,
+    "url": "https://noehill.com/sf/landmarks/default.aspx",
+    "supports": "Carnegie Library Richmond, 351 9th Avenue, Landmark 247"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "inner-richmond-cinderella-russian-bakery",
+  "title": "Piroshki on Balboa Since 1953",
+  "theme": "communities",
+  "year": 1988,
+  "place": {
+   "label": "Cinderella Bakery & Cafe, 436 Balboa Street",
+   "lat": 37.77746,
+   "lon": -122.46374,
+   "precision": "building"
+  },
+  "hook": "Two Russian women were running a Balboa Street bakery. Then a newcomer from the Soviet Union arrived, and they handed him the recipes.",
+  "story": "Cinderella Russian Bakery, between Fifth and Sixth avenues on Balboa, has been making piroshki since 1953 [1]. It belongs to a long Russian story in the Richmond. FoundSF notes that an older Russian community once lived around Clement Street and then faded as families moved to the suburbs or assimilated [2]. A new wave followed the economic collapse of the Soviet Union, including many Russian Jews escaping state-sponsored anti-Semitism, and Russian shops, restaurants and companies spread along Geary [2]. Nearby, the Russian Orthodox Christ the Saviour Church at 12th Avenue and Anza saw enrolment in its Russian-language classes jump [2]. Mike Fishman arrived from the Soviet Union in 1988 and soon had the chance to take over Cinderella from the two Russian women who had run it [1]. They trained him and passed on their recipes [1]. In 2008 Fishman and his wife became sole owners, turned the 'dated diner' into a cosier cafe, expanded the kitchen and added outdoor tables and a parklet [1]. The menu still leans on recipes handed down through generations: piroshki, Siberian pelmeni and dark, chewy rye [1].",
+  "people": [
+   {
+    "name": "Mike Fishman",
+    "role": "Soviet emigre owner since the late 1980s"
+   }
+  ],
+  "sources": [
+   {
+    "title": "About Us / Our Story",
+    "publisher": "Cinderella Bakery & Cafe",
+    "year": 2017,
+    "url": "https://www.cinderellabakery.com/about",
+    "supports": "Since 1953, Fishman arrived 1988 from USSR, took over from two Russian women who trained him, 2008 sole owners, remodel, parklet, menu"
+   },
+   {
+    "title": "Russians in the Richmond",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Russians_in_the_Richmond",
+    "supports": "Older Russian community on Clement, post-Soviet wave, Russian Jews, businesses on Geary, Christ the Saviour Church at 12th and Anza and its language classes"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ }
+]

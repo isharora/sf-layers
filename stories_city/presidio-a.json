@@ -1,0 +1,698 @@
+[
+ {
+  "id": "presidio-anza-mountain-lake",
+  "title": "Lilies in the tent at Mountain Lake",
+  "theme": "indigenous-early",
+  "year": 1776,
+  "yearEnd": null,
+  "place": {
+   "label": "Mountain Lake, south edge of the Presidio",
+   "lat": 37.7882,
+   "lon": -122.469,
+   "precision": "area"
+  },
+  "hook": "Before there was a San Francisco, a Spanish captain pitched camp beside a small lake, and two local men walked in carrying firewood.",
+  "story": "In late March 1776 Juan Bautista de Anza, who had led colonists hundreds of miles north from today's Mexico, camped beside a lake he described as 'of very fine water near the mouth of the port of San Francisco' [1]. He liked the running water, firewood and pasture, but grumbled that there was no timber 'even for barracks' [1]. From here Anza and his chaplain, Father Pedro Font, rode out to scout sites for the future presidio and mission [1][2]. The land they saw was not empty wilderness. Two Yelamu men, members of the small Ohlone-speaking people who lived on the peninsula, visited the camp and brought firewood, the first recorded exchange of gifts between the newcomers and the locals [3]. Their burning of the land kept the mesa open and full of flowers. Font wrote that there were so many lilies by the lake 'that I had them almost inside my tent' [3]. The lake was later drawn down: in 1897 its water irrigated the Presidio's new golf course [2]. A 1957 plaque on the park side of the shore marks the camp, dated March 27, 1776 [1].",
+  "people": [
+   {
+    "name": "Juan Bautista de Anza",
+    "role": "Spanish expedition leader"
+   },
+   {
+    "name": "Pedro Font",
+    "role": "Franciscan chaplain and diarist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: Mountain Lake",
+    "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+    "year": 2001,
+    "url": "https://www.outsidelands.org/sw9.php",
+    "supports": "Anza quotes on the lake and lack of timber; scouting with Font; 1957 plaque dated March 27, 1776"
+   },
+   {
+    "title": "Mountain Lake (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Mountain_Lake_(San_Francisco)",
+    "supports": "Anza stopped at the lake in 1776 and located the presidio site; 1897 irrigation of the golf course lowered the lake"
+   },
+   {
+    "title": "Cultural Contact at the Presidio (Pete Holloran, from Reclaiming San Francisco)",
+    "publisher": "FoundSF",
+    "year": 1998,
+    "url": "https://www.foundsf.org/index.php?title=Cultural_Contact_at_the_Presidio",
+    "supports": "Two Yelamu men brought firewood to the Mountain Lake camp; Yelamu burning kept the mesa open; Font's lilies quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-founding-1776",
+  "title": "A mud-walled square on a windy slope",
+  "theme": "indigenous-early",
+  "year": 1776,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of the original Spanish Presidio, east of Pershing Square",
+   "lat": 37.7983,
+   "lon": -122.4582,
+   "precision": "area"
+  },
+  "hook": "San Francisco's first European settlement was a small square of mud walls, and within two years a single rainstorm had nearly washed it away.",
+  "story": "In June 1776 about 193 colonists and soldiers, most of them of mixed Spanish and Indigenous descent, reached the bay with Lieutenant José Joaquín Moraga after a long march from Sonora, driving a herd of around 1,000 animals [1]. The site Anza had marked, on the cliff where Fort Point now stands, was too exposed, so the fort was built about a mile southeast, where there was more shelter and fresh water [2]. It was a square of oak and mud, and it was dedicated on September 17, 1776 [2]. Two years later a violent rainstorm almost destroyed it, and the settlers had to rebuild with a commandant's house, barracks and a chapel [2]. The Presidio was the northernmost outpost of Spain's empire on the coast. It usually got at most one supply ship a year, and women and children often outnumbered the soldiers, who were regularly sent off on guard duty elsewhere [1]. Nothing of the square survives above ground. A boulder by the sidewalk just east of Pershing Square roughly marks its northwest corner, and the whole square measured about 300 feet on each side [3].",
+  "people": [
+   {
+    "name": "José Joaquín Moraga",
+    "role": "Lieutenant who built the Presidio"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Spanish Period: 1776 to 1822",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/spanish-period.htm",
+    "supports": "193 colonists and soldiers, 1,000 livestock, mestizo settlers; one supply ship a year; women and children often outnumbered men"
+   },
+   {
+    "title": "Settlement of San Francisco (1776)",
+    "publisher": "FoundSF (K. Maldetto)",
+    "year": 2008,
+    "url": "https://www.foundsf.org/index.php?title=SETTLEMENT_OF_SAN_FRANCISCO_(1776)",
+    "supports": "Anza's cross at Fort Point; fort built a mile southeast; oak-and-mud square dedicated September 17, 1776; nearly destroyed by rainstorm two years later"
+   },
+   {
+    "title": "Pershing Square",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/pershing-square.htm",
+    "supports": "Original Presidio lay just east of Pershing Square; boulder marks northwest corner; roughly 300 feet per side"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-castillo-san-joaquin",
+  "title": "A British captain's report, and a castle",
+  "theme": "war-military",
+  "year": 1794,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of the Castillo de San Joaquín (now Fort Point)",
+   "lat": 37.8105,
+   "lon": -122.4771,
+   "precision": "area"
+  },
+  "hook": "After a British captain reported how weak San Francisco's defences were, Spain rushed to build an adobe fort on the white cliffs of the Golden Gate.",
+  "story": "In 1792 Captain George Vancouver of HMS Discovery visited the Presidio and reported that it was poorly supplied and poorly fortified. When Spanish officials learned what he had written, they ordered new forts built [1]. On La Punta de Cantil Blanco, the point where white bluffs overlook the two-mile-wide strait, soldiers built a brick-faced adobe fort with 15 gun openings. It was finished in December 1794 and named the Castillo de San Joaquín [2]. Fear of a British attack brought six bronze guns up the coast on the royal frigate Aranzazu [2]. The castle never lived up to its name. It was staffed only now and then, usually by soldiers from the Presidio, and rain and shifting sand kept wearing down its adobe [2]. When the Americans began Fort Point in the 1850s, they levelled the cliff it stood on, and nothing of it remains [2]. Its guns survived, though. Cast in Lima, Peru, in the 1600s, they are among the oldest cannon in North America, and two of them stand today in Pershing Square [3].",
+  "people": [
+   {
+    "name": "George Vancouver",
+    "role": "British naval captain"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Spanish Period: 1776 to 1822",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/spanish-period.htm",
+    "supports": "Vancouver's 1792 visit and report; forts ordered; bronze cannons cast in Lima"
+   },
+   {
+    "title": "Castillo de San Joaquin, 1793",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2020,
+    "url": "https://www.nps.gov/goga/learn/historyculture/castillo-de-san-joaquin.htm",
+    "supports": "Punta de Cantil Blanco; 15 embrasures; completed December 1794; six bronze guns via frigate Aranzazu; staffed only now and then; eroded; cliffs levelled for Fort Point"
+   },
+   {
+    "title": "Pershing Square",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/pershing-square.htm",
+    "supports": "Two bronze cannon from the Castillo, cast in Peru in the 1600s, displayed at Pershing Square"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-rezanov-concepcion",
+  "title": "The Russian count and the commandant's daughter",
+  "theme": "indigenous-early",
+  "year": 1806,
+  "yearEnd": null,
+  "place": {
+   "label": "Presidio Officers' Club (surviving Spanish-era adobe walls)",
+   "lat": 37.79745,
+   "lon": -122.4591,
+   "precision": "building"
+  },
+  "hook": "A starving Russian crew sailed into the Golden Gate for food. Their leader left engaged to a 15-year-old Californio, and the story became a legend.",
+  "story": "In the winter of 1805–06 the Russian colony at Sitka, Alaska, was starving and sick with scurvy. Nikolai Rezanov sailed south on the Juno to buy food from the Spanish, whose crown forbade giving aid to Russians [1][3]. The ship reached the Golden Gate in late March 1806 [1][2]. The ship's doctor, Georg von Langsdorff, could talk to the Mission priest only in Latin, their one shared language [2]. At the Presidio, which Langsdorff thought had 'the look of a German farmstead', the commandant's family served the Russians dinner on silver plates [2]. There Rezanov met Concepción Argüello, the commandant's daughter, then 15 [1][3]. They became engaged, though his interest was at first driven by practical considerations: he needed Spanish help [3]. Rezanov died in Siberia in 1807 on his way home [3]. By one account she did not learn of his death until 1808. She never married and later became a Dominican nun [3]. Bret Harte made the story a ballad [3]. Adobe walls from the 1790s Presidio survive inside today's Officers' Club [4].",
+  "people": [
+   {
+    "name": "Nikolai Rezanov",
+    "role": "Russian-American Company envoy"
+   },
+   {
+    "name": "Concepción Argüello",
+    "role": "Daughter of commandant José Darío Argüello"
+   },
+   {
+    "name": "Georg Heinrich von Langsdorff",
+    "role": "Ship's physician"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Nikolai Rezanov",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Nikolai_Rezanov",
+    "supports": "Sitka starvation; voyage on the Juno; arrival under Spanish guns; romance with the commandant's 15-year-old daughter"
+   },
+   {
+    "title": "San Francisco Bay: The Visit of the Juno (John I. Alioto)",
+    "publisher": "FoundSF",
+    "year": 2017,
+    "url": "https://www.foundsf.org/index.php?title=San_Francisco_Bay:_The_Visit_of_the_%27%27Juno%27%27",
+    "supports": "Arrival date given as March 28, 1806; Langsdorff and the padre spoke Latin; 'German farmstead'; dinner on silver tableware"
+   },
+   {
+    "title": "Concepción Argüello",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Concepci%C3%B3n_Arg%C3%BCello",
+    "supports": "Born at the Presidio 1791; engaged at 15; Rezanov died 1807; learned of it 1808 by one account; became a Dominican nun; Bret Harte ballad"
+   },
+   {
+    "title": "Officers' Club",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/officers-club.htm",
+    "supports": "Adobe walls from the 1790s incorporated in the Officers' Club"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-juana-briones-el-polin",
+  "title": "Juana Briones, healer of Tennessee Hollow",
+  "theme": "indigenous-early",
+  "year": 1812,
+  "yearEnd": 1835,
+  "place": {
+   "label": "El Polín Spring, Tennessee Hollow",
+   "lat": 37.7929,
+   "lon": -122.45534,
+   "precision": "area"
+  },
+  "hook": "In a spring-fed valley below the fort, a soldier's daughter learned herbal medicine, nursed sailors and quietly hid deserters in her attic.",
+  "story": "By the 1820s the Presidio community had spread out beyond its walls. Families including Marcos Briones and the Miramontes built farmsteads in the small creek valley around El Polín Spring, beside the trail to the Mission [1]. Juana Briones came here as a girl after her mother died in 1812. Her mother and grandparents had come north with Anza in 1776, and from Native neighbours she had learned a deep knowledge of healing herbs [2]. In 1820 she married Apolinario Miranda, a Presidio cavalryman, and the couple had eleven children [2]. She nursed sick sailors and turned her attic into a hiding place for sailors who had deserted their ships, then arranged their passage to her brother's ranch across the bay [2]. It is said that Russian sailors built a timber house nearby for her [1]. When the Presidio was temporarily abandoned in 1835, and her husband had become abusive, she moved to the foot of today's Telegraph Hill. There she became one of the first settlers of Yerba Buena, holding land in her own name [1][3]. Stanford archaeologists have since dug at the Briones house site here [2].",
+  "people": [
+   {
+    "name": "Juana Briones de Miranda",
+    "role": "Healer, rancher and businesswoman"
+   },
+   {
+    "name": "Apolinario Miranda",
+    "role": "Presidio cavalryman, her husband"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mexican Period: 1822-1846",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/mexican-period.htm",
+    "supports": "Farmsteads by El Polín Spring built by Marcos Briones and the Miramontes; it is said Russian sailors built a timber house for Juana; 1835 abandonment"
+   },
+   {
+    "title": "Juana Briones (pages 1 and 2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/juana-briones.htm",
+    "supports": "Moved to Tennessee Hollow after mother's death in 1812; herbal knowledge; 1820 marriage; eleven children; sheltered deserting sailors; Stanford excavation; move to Telegraph Hill"
+   },
+   {
+    "title": "Juana Briones de Miranda",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Juana_Briones_de_Miranda",
+    "supports": "Farm at El Polín Spring; later house at Yerba Buena (North Beach)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-gold-rush-desertion",
+  "title": "The garrison that ran off to the mines",
+  "theme": "gold-rush-victorian",
+  "year": 1849,
+  "yearEnd": null,
+  "place": {
+   "label": "Main Post parade ground",
+   "lat": 37.7998,
+   "lon": -122.458,
+   "precision": "area"
+  },
+  "hook": "In the summer of 1849 one company of U.S. soldiers shrank from 57 men to 15. Even the men sent after the deserters joined them.",
+  "story": "When the New York Volunteers took over the Presidio in 1847, they moved into the old Spanish adobes. One visiting officer called them 'not much more than unsightly mud enclosures' [1]. Then gold was found. Company M of the 3rd Artillery arrived in May 1849 with 57 men [1]. Every one of them knew he could earn more in a single day at the diggings than in months in the Army. By the end of August, only 15 were left at the post [1]. Captain Keyes, who commanded from 1849 to 1858, spent much of his time on desertions and on squatters. Once he sent an officer and a squad after some runaways, and when the squad caught up with them it deserted too [1]. The Gold Rush also made the Presidio matter more. As San Francisco suddenly grew, President Millard Fillmore set the land aside for military use in November 1850 [2]. The Army kept it for the next 144 years [2].",
+  "people": [
+   {
+    "name": "Captain Keyes",
+    "role": "Presidio commander 1849-1858"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Presidio, 1846 - 1876",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2020,
+    "url": "https://www.nps.gov/goga/learn/historyculture/presidio.htm",
+    "supports": "New York Volunteers occupied adobes in 1847; 'unsightly mud enclosures'; Company M 57 men in May 1849 down to 15 by August; pursuit detail deserted; Keyes commanded 1849-1858"
+   },
+   {
+    "title": "U.S. Military Period: 1846-1994",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/us-military-period.htm",
+    "supports": "Fillmore reserved the Presidio for military use in November 1850; transferred to NPS in 1994"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-fort-point-built",
+  "title": "The fort that never fired a shot",
+  "theme": "architecture-landmarks",
+  "year": 1853,
+  "yearEnd": 1861,
+  "place": {
+   "label": "Fort Point, 999 Marine Drive",
+   "lat": 37.81059,
+   "lon": -122.47696,
+   "precision": "building"
+  },
+  "hook": "Engineers blasted a 90-foot cliff down to 15 feet to build it. It was the Pacific's only fort of its kind, and it never fired in anger.",
+  "story": "In 1853 the Army Corps of Engineers began the fort that would be the cornerstone of San Francisco Bay's defences [1]. The guns of the day had short range, so the lowest tier of cannon had to sit almost at the waterline, where cannonballs could skip across the water into enemy ships. To get the fort that low, the engineers blasted the 90-foot cliff where the Spanish castillo had stood down to just 15 feet above the sea [1]. The result had three tiers of vaulted gun rooms, walls seven feet thick and more guns on the roof. There were more than 30 forts like it on the East Coast and just this one in the West [1]. Its first 55 guns were mounted in 1861, when the Civil War began. As many as 500 men lived there, the enlisted men 24 to a casemate, and they gathered driftwood to eke out their coal [1]. It never fired in defence [1]. The Civil War had already shown that rifled artillery could smash brick forts like Fort Sumter [1]. The fort was even renamed Fort Winfield Scott in 1882, then went back to Fort Point in 1886 [2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Fort Point",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/fort-point.htm",
+    "supports": "Construction from 1853; cliff reduced from 90 to 15 feet; three casemate tiers, seven-foot walls; only such fort on the Pacific; first 55 guns in 1861; up to 500 men, 24 per casemate; driftwood; never fired in defence; brick forts breached by rifled artillery"
+   },
+   {
+    "title": "Fort Point National Historic Site",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Fort_Point,_San_Francisco",
+    "supports": "Named Fort Winfield Scott in 1882, reverted to Fort Point in 1886"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-funston-avenue-porches",
+  "title": "The houses that turned their backs",
+  "theme": "architecture-landmarks",
+  "year": 1862,
+  "yearEnd": 1878,
+  "place": {
+   "label": "Funston Avenue officers' houses at the old Alameda entrance",
+   "lat": 37.79756,
+   "lon": -122.45744,
+   "precision": "block"
+  },
+  "hook": "Civil War officers' homes on Funston Avenue once faced the parade ground. In 1878 the Army moved their front porches to the back to impress visitors from the city.",
+  "story": "The Civil War set off the Presidio's first big building boom since the United States took it over. The post grew from a scatter of adobes and temporary wooden buildings into an Army post that could hold more than 1,500 officers and men [1]. Among the new buildings was a row of houses on what is now Funston Avenue. They were built for officers and their families and faced west, toward the new parade ground [2]. Then appearances started to count. From the 1860s until 1895 the official way in from San Francisco was the Alameda, halfway down Funston, where cannonballs lined the road as decorative curbs and sentries stood guard [3]. In 1878 the Army moved each house's front porch to the back, turning the whole row around so it would look better to visitors arriving along the Alameda [2]. White picket fences, street lamps and gardens followed in the mid-1880s, and later bay windows, gables and dormers [2]. Four large Victorian houses still mark the old entrance where Presidio Boulevard meets Funston Avenue [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Presidio, 1846 - 1876",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2020,
+    "url": "https://www.nps.gov/goga/learn/historyculture/presidio.htm",
+    "supports": "Civil War growth to a post housing more than 1,500 officers and men"
+   },
+   {
+    "title": "Funston Avenue Officers' Houses",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/funston-avenue-officers-houses.htm",
+    "supports": "Civil War officers' homes originally facing the parade ground; porches moved to the back in 1878; fences, lamps, gardens by mid-1880s"
+   },
+   {
+    "title": "The Alameda",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/alameda.htm",
+    "supports": "Official entrance 1860s-1895; cannonball curbing; four Victorian houses at Presidio Blvd and Funston Ave"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-battery-east-rodmans",
+  "title": "The city wanted a park; it got guns",
+  "theme": "war-military",
+  "year": 1873,
+  "yearEnd": null,
+  "place": {
+   "label": "Battery East, bluff above Fort Point",
+   "lat": 37.8055,
+   "lon": -122.4755,
+   "precision": "area"
+  },
+  "hook": "In 1870 San Franciscans lobbied Congress to hand the Presidio over for parks and homes. The Army answered by digging giant earthen gun pits on the bluffs.",
+  "story": "The Civil War showed that brick forts like Fort Point could be battered to pieces by modern guns, so after the war the Army switched to low batteries built of packed earth [1]. In 1870 San Franciscans started a campaign to have the Presidio given to the city for parks, homes and businesses, and California's senators introduced bills to do it [2]. A board of Army engineers replied that large earthen batteries were already planned for the ocean and bay sides of the reservation, and that these would need land behind them for defence against an attack overland. The transfer idea died [2]. Work began on the bluffs behind Fort Point in 1872. By 1873 West Battery was finished and armed with twelve 15-inch Rodman cannon. Battery East was started the same year, joined to its twin by a covered path [1]. In 1898, during the Spanish-American War, 8-inch rifled guns were mounted at Battery East [1]. West Battery was mostly destroyed when newer concrete batteries went up in the 1890s. Battery East's earthworks and brick-lined powder magazines survive, looking out on one of the best views in the city [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Batteries East and West",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/batteries-east-and-west.htm",
+    "supports": "Post-war shift to earthworks; work began 1872; West Battery done 1873 with twelve 15-inch Rodmans; covered path; 8-inch rifles in 1898; West Battery destroyed by Endicott construction; East survives"
+   },
+   {
+    "title": "Presidio, 1846 - 1876",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2020,
+    "url": "https://www.nps.gov/goga/learn/historyculture/presidio.htm",
+    "supports": "1870 campaign to transfer the Presidio to the city; senators' bills; engineers' reply about planned batteries; transfer dismissed"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-marine-hospital-sailors-cemetery",
+  "title": "Where sailors never sailed away again",
+  "theme": "labor-industry",
+  "year": 1881,
+  "yearEnd": 1912,
+  "place": {
+   "label": "Marine Hospital cemetery, behind the former hospital near 15th Avenue and Lake Street",
+   "lat": 37.7888,
+   "lon": -122.476,
+   "precision": "area"
+  },
+  "hook": "Behind an old hospital lie hundreds of merchant seamen, most of them young and foreign, in graves later buried under 16 feet of fill.",
+  "story": "In 1875 a new Marine Hospital opened on land the Treasury Department leased at the Presidio. It cared for merchant seamen, and later for Coast Guardsmen and others [1][2]. In 1881 the records of the Marine Hospital Service first mention a cemetery in a little valley beside it, and burials went on until at least 1912 [1]. These were San Francisco's great years as a port. Sailors of the day, as one account puts it, were outcasts with no families who worked long hours in brutal conditions [1]. Most of the dead were young, many in their 20s, and most died of respiratory diseases like tuberculosis [1]. About 80 percent were foreign-born [1]. In 1896 the San Francisco Call described the graveyard as 'a valley dreary with stunted growths and hummocks of half-tamed sand dunes', resting place of men 'who sailed into the port of San Francisco and never sailed away again' [1]. Estimates of the number of graves run from 200 to 800 [1]. In the 1950s the wooden headstones vanished under about 16 feet of debris, with a parking lot and a tennis court on top, and the cemetery was forgotten [1][3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "San Francisco: Merchant seamen forgotten in death (Carl Nolte)",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2006,
+    "url": "https://www.sfgate.com/bayarea/article/SAN-FRANCISCO-Merchant-seamen-forgotten-in-2483297.php",
+    "supports": "Hospital opened 1875 on leased land; cemetery recorded 1881-1912; young dead, TB; 80% foreign; 1896 Call quotes; 200-800 graves; buried under 16 feet of debris in the 1950s"
+   },
+   {
+    "title": "Public Health Service Hospital (archived NPS page)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2006,
+    "url": "https://web.archive.org/web/20071225124942/http://www.nps.gov/prsf/planyourvisit/public-health-service-hospital.htm",
+    "supports": "Built 1875 as the U.S. Marine Hospital for merchant seamen, later Coast Guard and others"
+   },
+   {
+    "title": "Public Health Service Hospital (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Public_Health_Service_Hospital_(San_Francisco)",
+    "supports": "Presidio building opened 1875; cemetery used about 1881-1912; partly visible as of 2006"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-forest-arbor-day",
+  "title": "Planting a forest on the dunes",
+  "theme": "parks-nature",
+  "year": 1883,
+  "yearEnd": 1892,
+  "place": {
+   "label": "Presidio forest, southern ridges",
+   "lat": 37.7925,
+   "lon": -122.4625,
+   "precision": "area"
+  },
+  "hook": "The Presidio's famous forest is not natural. An Army major designed it in 1883 to make the base look larger and the government mightier.",
+  "story": "The Presidio of the 1870s was bare dune and grassland [1]. In March 1883 Major W. A. Jones proposed planting trees across it, with Golden Gate Park as his model [1]. His aims were frankly theatrical. He wanted to 'crown the ridges' and cover the sand and marsh with a forest that would 'appear immensely larger than it really is'. He also ringed the entrances with dense woods to 'accentuate the idea of the power of the Government' [1]. The first mass planting came on California's first Arbor Day in 1886, after Jones had been transferred, and Adolph Sutro donated 3,000 trees [1]. By 1892 the Army claimed 329,975 trees planted [1]. Not everyone was pleased. That year the post commander, Colonel William Graham, complained that the trees used up training ground and that the thickets hid 'tramps' [1]. In 1895 a real-estate journal called the eucalyptus along the southern boundary an eyesore that blocked 'the finest view in the country' [1]. By 1902 Jones himself was urging heavy thinning, and suggested the Army 'leave the sand dune just as it is' [1]. The planting was part of an 1880s drive to beautify the post [2].",
+  "people": [
+   {
+    "name": "W. A. Jones",
+    "role": "Army major who drew up the forest plan"
+   },
+   {
+    "name": "Adolph Sutro",
+    "role": "Donor of 3,000 trees"
+   },
+   {
+    "name": "William Montrose Graham",
+    "role": "Post commander and critic"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Presidio Forest (Pete Holloran)",
+    "publisher": "FoundSF",
+    "year": 1998,
+    "url": "https://www.foundsf.org/index.php?title=The_Presidio_Forest",
+    "supports": "Jones's 1883 plan and quotes; Arbor Day 1886 and Sutro's 3,000 trees; 329,975 by 1892; Graham's objections; 1895 Real Estate Circular; Jones's 1902 comments"
+   },
+   {
+    "title": "U.S. Military Period: 1846-1994",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/us-military-period.htm",
+    "supports": "Large-scale tree planting and post beautification programme in the 1880s"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-cemetery-cushman-bowman",
+  "title": "The spy and the Great Western",
+  "theme": "war-military",
+  "year": 1893,
+  "yearEnd": null,
+  "place": {
+   "label": "San Francisco National Cemetery",
+   "lat": 37.79972,
+   "lon": -122.46444,
+   "precision": "area"
+  },
+  "hook": "Among thousands of soldiers lie two remarkable women: a Union spy once sentenced to hang, and a six-foot camp follower called 'the Great Western'.",
+  "story": "In 1884 the old post cemetery became the San Francisco National Cemetery, the first national cemetery on the West Coast [1]. It also took in the dead of army posts closing elsewhere in the West [2]. One was Sarah Bowman, a six-foot innkeeper and camp follower famous as 'the Great Western' and the 'Heroine of Fort Brown' in the Mexican War. A Texas Ranger said she could 'whip any man, fair fight or foul' [2]. She died at Fort Yuma in 1866, was buried with military honours, and was moved here in 1890 when that fort closed [2]. Three years later came Pauline Cushman, an actress who had spied for the Union. The Confederates caught her with papers hidden in her shoes and sentenced her to hang, but Union troops arrived first [3]. Lincoln made her an honorary major [3]. Her last years were spent in a San Francisco boarding house, working as a seamstress and charwoman and in pain from arthritis. On December 2, 1893, she died of a morphine overdose [3]. Union veterans of the Grand Army of the Republic arranged her funeral with full military honours, and she lies in the Officers' Circle [3].",
+  "people": [
+   {
+    "name": "Pauline Cushman",
+    "role": "Actress and Union spy"
+   },
+   {
+    "name": "Sarah A. Bowman",
+    "role": "'The Great Western', innkeeper and camp follower"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco National Cemetery",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/san-francisco-national-cemetery.htm",
+    "supports": "1884 designation as first national cemetery on the West Coast; burials include a Union spy"
+   },
+   {
+    "title": "Sarah A. Bowman",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Sarah_A._Bowman",
+    "supports": "Great Western and Heroine of Fort Brown; size; Ford quote; died Fort Yuma 1866; reburied at SF National Cemetery 1890"
+   },
+   {
+    "title": "Pauline Cushman",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Pauline_Cushman",
+    "supports": "Spy career, death sentence and rescue; honorary major; last years as seamstress; death December 2, 1893; GAR funeral; Officers' Circle"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-1898-tennessee-hollow-camps",
+  "title": "Tent cities for a war across the Pacific",
+  "theme": "war-military",
+  "year": 1898,
+  "yearEnd": 1900,
+  "place": {
+   "label": "Tennessee Hollow, east of Funston Avenue",
+   "lat": 37.7975,
+   "lon": -122.453,
+   "precision": "area"
+  },
+  "hook": "In 1898 volunteers from Tennessee, Utah, Iowa and beyond pitched tents in a Presidio ravine, waiting for ships to take them to the Philippines.",
+  "story": "Eleven days after the United States declared war on Spain in April 1898, Commodore Dewey defeated the Spanish fleet in Manila Bay. President McKinley then ordered an army sent to take Manila, and the Presidio, beside the West Coast's finest harbour, became its staging ground [1]. The first overseas units, the 1st California and 2nd Oregon infantry, left in May 1898 [1]. Volunteers from Washington, Montana, Iowa, Wyoming, Kansas, Tennessee and Utah followed [1]. The 1st Tennessee and 1st Utah pitched their tents in this valley, then an open ravine with few trees and no houses, which is how it came to be called Tennessee Hollow [1]. Nearby Camp Merriam, by the Lombard Gate, housed the first volunteers shipped out [1]. The camps were crowded, and disease spread in the damp tents [1][2]. One historian notes that some soldiers were killed by careless gunfire before they ever reached the Philippines [2]. Between 1898 and 1900 about 80,000 men passed through the post [1]. Filipino nationalists expected independence. Instead the United States kept the islands, and a far longer war began in 1899 [1][2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Spanish American War - 'A Splendid Little War'",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/spanish-american-war-a-splendid-little-war.htm",
+    "supports": "Dewey; Presidio as staging base; first units in May 1898; state volunteer units; Tennessee Hollow camps of 1st Tennessee and 1st Utah; Camp Merriam; 80,000 men to 1900; sickness; US kept the Philippines"
+   },
+   {
+    "title": "San Francisco's Role in the War in the Philippines (James Sobredo)",
+    "publisher": "FoundSF",
+    "year": 1996,
+    "url": "https://www.foundsf.org/index.php?title=SAN_FRANCISCO%27S_ROLE_IN_THE_WAR_IN_THE_PHILIPPINES",
+    "supports": "Camp Merriam; unsanitary, muddy camps; deaths from careless firearm discharges; Philippine-American War"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-army-general-hospital-nurses",
+  "title": "The hospital born from a sick camp",
+  "theme": "war-military",
+  "year": 1899,
+  "yearEnd": 1902,
+  "place": {
+   "label": "Former U.S. Army General Hospital (later Letterman), near the Lombard Gate",
+   "lat": 37.79808,
+   "lon": -122.4497,
+   "precision": "area"
+  },
+  "hook": "Volunteers fell ill in muddy tent camps faster than the small post hospital could cope. The Army's answer became the first general hospital to employ the new Army Nurse Corps.",
+  "story": "In 1898 the soldiers waiting to sail for the Philippines got sick in their tent camps faster than the small Presidio hospital could treat them [1]. The Army set up a tent hospital at Camp Merritt, just south of the Presidio, and then a general field hospital in the brand-new brick barracks on Montgomery Street [1][2]. Colonel Johnson V. D. Middleton, the department's chief surgeon, pushed for a proper general hospital [1]. San Francisco architect W. H. Wilcox designed a 300-bed hospital of ten wards arranged around a central green and joined by covered corridors. It was built between 1899 and 1902, close to the troop camps near the Lombard Gate and to the docks where patients came off the ships [1][2]. It had up-to-date equipment, including an intercom telephone system and early X-ray machines [1]. In 1901 it became the first Army general hospital to employ women of the newly created Army Nurse Corps [1]. Even before it was finished, it was treating soldiers back from the Philippines [1]. In 1911 it was renamed for Jonathan Letterman, the Union Army's medical director [1].",
+  "people": [
+   {
+    "name": "Johnson V. D. Middleton",
+    "role": "Chief surgeon, Department of California"
+   },
+   {
+    "name": "W. H. Wilcox",
+    "role": "Architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Letterman Hospital Complex",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/letterman-complex.htm",
+    "supports": "Sick camps overwhelmed post hospital; Camp Merritt tent hospital; Middleton; Wilcox's 300-bed pavilion hospital 1899-1902; intercom and X-ray; first to employ Army Nurse Corps in 1901; renamed 1911"
+   },
+   {
+    "title": "Spanish American War - 'A Splendid Little War'",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/spanish-american-war-a-splendid-little-war.htm",
+    "supports": "General field hospital in Montgomery Street barracks; hospital sited near Lombard Gate camps and the docks; first stage finished June 1899"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-buffalo-soldiers-roosevelt-1903",
+  "title": "Captain Young escorts the President",
+  "theme": "war-military",
+  "year": 1903,
+  "yearEnd": null,
+  "place": {
+   "label": "Presidio Golf Course (the 1903 'Presidio Golf Links')",
+   "lat": 37.79058,
+   "lon": -122.45986,
+   "precision": "area"
+  },
+  "hook": "In May 1903 Black cavalrymen from the Presidio escorted Theodore Roosevelt through San Francisco, led by the only Black troop commander in the regular Army.",
+  "story": "In October 1902 the 3rd Squadron of the 9th Cavalry, one of the Black regiments known as the Buffalo Soldiers, arrived at the Presidio [1]. Commanding Troop I was Captain Charles Young. The son of formerly enslaved parents, he was the third African American to graduate from West Point and the only Black troop commander in the regular Army [1][2]. Off duty the men played baseball and mixed with San Francisco's small, close-knit Black community [1]. When President Theodore Roosevelt visited on May 12–14, 1903, Troops I and M rode alongside his carriages as escort and guard of honour. The San Francisco Call praised them as 'crack military organizations' [1]. Many had last seen Roosevelt at San Juan Hill in 1898, and he had since angered them by belittling Black soldiers in Scribner's magazine [1]. A photograph shows the honour guard at the Presidio Golf Links [1]. Six days later Young led the two troops on a 16-day, 323-mile ride to Sequoia National Park. There he became acting superintendent, the first Black officer to hold the post, and his men built more road in one season than in the three before [3].",
+  "people": [
+   {
+    "name": "Charles Young",
+    "role": "Captain, Troop I, 9th Cavalry"
+   },
+   {
+    "name": "Theodore Roosevelt",
+    "role": "President of the United States"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Presidio Garrison",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/presidio-garrison.htm",
+    "supports": "3rd Squadron arrived October 1902; Young only Black troop commander; baseball and Black community; Roosevelt escort May 12-14, 1903; Call quote; San Juan Hill and Scribner's; honour guard photo at Presidio Golf Links"
+   },
+   {
+    "title": "Charles Young - Buffalo Soldier",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/charles-young-buffalo-soldier.htm",
+    "supports": "Born to formerly enslaved parents in 1864; third African American West Point graduate (1889)"
+   },
+   {
+    "title": "Patrolling Sequoia National Park",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/patrolling-sequoia-national-park.htm",
+    "supports": "323-mile, 16-day march six days after the escort; acting superintendent; more road built than in previous three seasons combined"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-battery-chamberlin-disappearing-gun",
+  "title": "The gun that ducks after every shot",
+  "theme": "architecture-landmarks",
+  "year": 1904,
+  "yearEnd": null,
+  "place": {
+   "label": "Battery Chamberlin, north end of Baker Beach",
+   "lat": 37.79401,
+   "lon": -122.48269,
+   "precision": "building"
+  },
+  "hook": "At Baker Beach, a 1904 battery hid its six-inch guns behind concrete. After each shot the recoil swung them down out of sight to be reloaded.",
+  "story": "By 1905 the Army had built twelve reinforced-concrete gun batteries along the San Francisco headlands to strengthen the bay's defences [1]. They were part of the Endicott programme, which put seventeen batteries on the western Presidio between 1891 and 1946 [2]. Battery Chamberlin was finished in 1904 above the north end of Baker Beach. It was named for Captain Lowell A. Chamberlin, who had served with distinction in the Civil War [3]. Its four six-inch rifles sat on 'disappearing' carriages. For firing, a gun rose above the parapet. Its recoil swung it back down, out of sight from the sea, where the crew could reload it in cover [3]. The job was to guard the underwater minefields laid outside the Golden Gate in wartime. The guns could reach 7.5 miles, and trained crews fired two rounds a minute [3]. The original guns were taken away in 1917 for the First World War [3]. Today a matching 1905 gun on a working disappearing carriage sits in one of the emplacements. It is one of only a score or so of such guns left in the world that still operate, and it is demonstrated to visitors [3].",
+  "people": [
+   {
+    "name": "Lowell A. Chamberlin",
+    "role": "Civil War captain the battery was named for"
+   }
+  ],
+  "sources": [
+   {
+    "title": "U.S. Military Period: 1846-1994",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/us-military-period.htm",
+    "supports": "By 1905 twelve reinforced-concrete batteries built along the headlands"
+   },
+   {
+    "title": "Fort Winfield Scott",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/fort-scott.htm",
+    "supports": "Seventeen Endicott-era batteries built, armed and manned 1891-1946 in the western Presidio"
+   },
+   {
+    "title": "Battery Chamberlin",
+    "publisher": "Wikipedia (citing the National Register of Historic Places)",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Battery_Chamberlin",
+    "supports": "Built 1904; namesake; four 6-inch guns on disappearing carriages; minefield role; 7.5-mile range; two rounds per minute; removed 1917; working M1905 gun today"
+   }
+  ],
+  "photo": null
+ }
+]

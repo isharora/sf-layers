@@ -1,0 +1,615 @@
+[
+  {
+    "id": "lone-mountain-usf-columbarium-palace-of-ashes",
+    "title": "The palace of ashes that outlived its cemetery",
+    "theme": "architecture-landmarks",
+    "year": 1898,
+    "yearEnd": null,
+    "place": {
+      "label": "San Francisco Columbarium, 1 Loraine Court",
+      "lat": 37.780615,
+      "lon": -122.457077,
+      "precision": "building"
+    },
+    "hook": "Built as the jewel of the Odd Fellows Cemetery, the copper-domed Columbarium was left stranded when the graves went to Colma, then rescued by a painter.",
+    "story": "When it opened in 1898, the copper-domed Columbarium was the showpiece of the Odd Fellows Cemetery, approached by a grand flight of steps up from Geary Boulevard [1]. An 1899 Odd Fellows publication called it \"without exception the most beautiful and elaborate building in the world, used exclusively as a repository for the ashes of the dead.\" Its ground-floor rooms are named for the mythological winds [1]. Then the city turned against its dead. The cemetery was cleared, the crematorium beside the Columbarium was demolished along with the mausoleums, and once cremation was outlawed in the city the building had no way to earn its keep [2]. In 1972 the Examiner found a lone part-time caretaker, Claude Fuller, waiting for the phone to ring among tin cans of ashes and old pigeon feathers [2]. The Neptune Society of Northern California bought and restored it in 1980, and it became a city landmark in 1996 [2]. Emmitt Watson came to paint the outside and stayed on as the whole crew: gardener, caretaker and tour guide. He called the small niches \"apartments\" and the big ones \"condos\", and his neighbours called him the Mayor of Loraine Court [3].",
+    "people": [
+      {
+        "name": "Claude Fuller",
+        "role": "caretaker in 1972"
+      },
+      {
+        "name": "Emmitt Watson",
+        "role": "painter turned caretaker and guide"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Only Place You Can Leave Your Heart Forever in San Francisco: The Inner Richmond's Palace of Ashes",
+        "publisher": "KQED (Julie Zigoris)",
+        "year": 2022,
+        "url": "https://www.kqed.org/news/11914175/the-only-place-you-can-leave-your-heart-forever-in-san-francisco-the-inner-richmonds-palace-of-ashes",
+        "supports": "1898 construction as Odd Fellows centrepiece, Geary entrance, 1899 quote, rooms named for winds"
+      },
+      {
+        "title": "The secrets of the San Francisco Columbarium",
+        "publisher": "SFGATE (Andrew Chamings)",
+        "year": 2021,
+        "url": "https://www.sfgate.com/local/article/san-francisco-history-columbarium-cemetery-secret-16090031.php",
+        "supports": "crematorium demolished, decline after cremation ban, 1972 Examiner and Claude Fuller, 1980 Neptune Society restoration, 1996 landmark"
+      },
+      {
+        "title": "S.F. Columbarium in good hands with Emmitt Watson",
+        "publisher": "San Francisco Chronicle / SFGATE (Sam Whiting)",
+        "year": 2011,
+        "url": "https://www.sfgate.com/entertainment/article/S-F-Columbarium-in-good-hands-with-Emmitt-Watson-2372258.php",
+        "supports": "Watson hired to paint, became caretaker and guide; 'apartments' and 'condos'; Mayor of Loraine Court"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-edith-howard-cook",
+    "title": "The girl beneath the garage floor",
+    "theme": "modern-city",
+    "year": 2016,
+    "yearEnd": 2017,
+    "place": {
+      "label": "Former Odd Fellows Cemetery grounds, near Rossi Avenue (exact house not published)",
+      "lat": 37.7797,
+      "lon": -122.4556,
+      "precision": "area"
+    },
+    "hook": "In 2016 a remodelling crew's shovels hit a tiny bronze coffin with glass windows. Inside was a little girl, a rose still in her hand.",
+    "story": "On May 9, 2016, workers remodelling a house in the Lone Mountain neighbourhood struck something beneath the concrete garage floor: a small lead-and-bronze coffin with two glass viewing windows [1]. Inside lay a girl of about three in a long white dress, a rose in her right hand and lavender woven into her curly blond hair [1]. She had been left behind when the Odd Fellows Cemetery, which once covered these blocks, was emptied to Colma [1][2]. The medical examiner's office said that because the coffin was on private property, it was the homeowner's problem. Ericka Karner, whose family had lived there since 1976, was quoted $7,000 by one undertaker [1]. The Garden of Innocence charity stepped in, the Odd Fellows paid, and the girl, provisionally named Miranda, was reburied at Greenlawn Memorial Park in Colma on June 4, 2016, with about 140 people attending [2]. In 2017 researchers matched old plot records and obituaries, confirmed by DNA from a descendant of her brother, and gave her back her name: Edith Howard Cook, who died on October 13, 1876, six weeks short of her third birthday [2]. Her father, Horatio Nelson Cook, ran a leather-belting business [3].",
+    "people": [
+      {
+        "name": "Edith Howard Cook",
+        "role": "child buried 1876"
+      },
+      {
+        "name": "Ericka Karner",
+        "role": "homeowner"
+      },
+      {
+        "name": "Elissa Davey",
+        "role": "founder, Garden of Innocence"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Little girl, rose still in hand, found in coffin beneath SF home",
+        "publisher": "San Francisco Chronicle / SFGATE (Steve Rubenstein)",
+        "year": 2016,
+        "url": "https://www.sfgate.com/bayarea/article/Little-girl-rose-still-in-hand-found-in-coffin-7943552.php",
+        "supports": "May 9 discovery, coffin, rose and lavender, medical examiner, Karner, $7,000 quote"
+      },
+      {
+        "title": "Mystery girl found in coffin beneath SF home is identified",
+        "publisher": "San Francisco Chronicle / SFGATE (Kurtis Alexander)",
+        "year": 2017,
+        "url": "https://www.sfgate.com/bayarea/article/Mystery-girl-found-in-coffin-beneath-SF-home-is-11134115.php",
+        "supports": "identification, DNA, death date, reburial June 4 at Greenlawn, 140 attendees"
+      },
+      {
+        "title": "Mystery girl found in coffin came from a fascinating and influential San Francisco family",
+        "publisher": "SFGATE (Katie Dowd)",
+        "year": 2017,
+        "url": "https://www.sfgate.com/bayarea/article/Mystery-girl-SF-coffin-Edith-Howard-Cook-11136549.php",
+        "supports": "Cook family, H.N. Cook Belting Company"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-ewing-field",
+    "title": "Icicle Field: the Seals' season in the fog",
+    "theme": "architecture-landmarks",
+    "year": 1914,
+    "yearEnd": 1938,
+    "place": {
+      "label": "Site of Ewing Field, now Ewing Terrace (Masonic Ave & Anza St)",
+      "lat": 37.780712,
+      "lon": -122.44836,
+      "precision": "area"
+    },
+    "hook": "The San Francisco Seals moved to a new ballpark at the foot of Lone Mountain in 1914. They lasted one season. The fog stayed.",
+    "story": "On May 16, 1914, 18,000 people filled Ewing Field, the Seals' new ballpark at Masonic Avenue and Anza Street. Owner J. Cal Ewing had lost his lease in the Mission, and the foot of Lone Mountain was the only big enough site left [1]. Two boys from Grove Street without the 25-cent admission crawled under the centre-field fence: Scotty Sullivan, the future sportswriter, and Pat Brown, the future governor [1]. Once the sun dropped behind Lone Mountain the wind came up, and someone suggested \"Icicle Field\" as a better name. Writers in the unheated press box warmed their hands on cans of hot tamales, and on one wet June day Oakland's Elmer Zacher played centre field holding an umbrella [1]. After a single season the Seals went back to the Mission, though the park found a second life as the city's \"pigskin palace\" in the 1920s [2]. A 21-alarm fire on June 5, 1926 destroyed the grandstand and dozens of nearby homes [2]. In 1932 Boris Karloff played cricket here. The land was sold in 1938, demolition began on Halloween, and the first Ewing Terrace houses were advertised in July 1939 [2].",
+    "people": [
+      {
+        "name": "J. Cal Ewing",
+        "role": "Seals owner"
+      },
+      {
+        "name": "Edmund G. \"Pat\" Brown",
+        "role": "boy spectator, later governor"
+      },
+      {
+        "name": "Prescott \"Scotty\" Sullivan",
+        "role": "boy spectator, later sportswriter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ewing Field: Better than Make-Believe, Part 1",
+        "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+        "year": 2014,
+        "url": "http://www.outsidelands.org/ewing_field_1.php",
+        "supports": "opening day, crowd, lease loss, Sullivan and Brown, Icicle Field, tamales, Zacher umbrella"
+      },
+      {
+        "title": "Ewing Field: Better than Make-Believe, Part 2",
+        "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+        "year": 2014,
+        "url": "http://www.outsidelands.org/ewing_field_2.php",
+        "supports": "football years, 1926 fire, Karloff cricket 1932, 1938 sale and demolition, Ewing Terrace 1939"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-masonic-garden-cemetery",
+    "title": "Sunday picnics among the Masonic tombs",
+    "theme": "gold-rush-victorian",
+    "year": 1864,
+    "yearEnd": 1931,
+    "place": {
+      "label": "Former Masonic Cemetery, now USF's lower campus",
+      "lat": 37.7768,
+      "lon": -122.4508,
+      "precision": "area"
+    },
+    "hook": "Before Golden Gate Park, San Franciscans went for their Sunday air among the tombs. USF's campus still turns up the occasional casket.",
+    "story": "The cemeteries around Lone Mountain were meant for the living as much as the dead. Lone Mountain Cemetery, opened in 1854, was modelled on the grand garden cemeteries of the East, a sign that the raw young city could match the country's great metropolises [1]. The Masons laid out their own lavishly landscaped cemetery for members here, opened in 1864 [1][2]. Sources disagree on its size: 38 acres in one account, 30 in another [1][3]. Families made Sunday outings of it, because surveying for Golden Gate Park did not begin until August 1870 [2]. Once the park opened, it took over the cemeteries' role as a place to stroll, and the neighbours began asking for the graves to go [1]. The Masonic Cemetery closed in 1931, and about 19,900 bodies were moved to Woodlawn Cemetery in Colma [3]. Its land became the lower campus of the University of San Francisco. Not every trace left. In 2011 construction workers digging for USF's new science centre uncovered 25 mostly empty caskets, and a skull tumbled out of a shovel [3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Unmaking Historic Spaces: Urban Progress and the San Francisco Cemetery Debate, 1895-1937",
+        "publisher": "California History (Tamara Venit Shelton)",
+        "year": 2008,
+        "url": "https://web.archive.org/web/20160416113732/https://web.stanford.edu/group/west/docs/unmaking_historic_spaces/pp_26_47_shelton.pdf",
+        "supports": "Lone Mountain Cemetery 1854 as garden cemetery, Masonic dates and 38 acres, parks taking over recreation role"
+      },
+      {
+        "title": "Cemeteries at foot of Lone Mountain",
+        "publisher": "FoundSF (Renee Renaud, The Richmond ReView, 1989)",
+        "year": 1989,
+        "url": "https://www.foundsf.org/index.php?title=Cemeteries_at_foot_of_Lone_Mountain",
+        "supports": "Masonic opened 1864, Sunday family outings before Golden Gate Park survey of 1870"
+      },
+      {
+        "title": "Places in San Francisco you had no idea used to be cemeteries",
+        "publisher": "SFGATE (Greg Keraghosian)",
+        "year": 2016,
+        "url": "https://www.sfgate.com/bayarea/article/Places-in-San-Francisco-you-had-no-idea-used-to-10418610.php",
+        "supports": "Masonic opened 1864, 30 acres, closed 1931, 19,900 bodies to Woodlawn, 2011 caskets at USF"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-cemetery-wars",
+    "title": "The forty-year fight over the dead",
+    "theme": "communities",
+    "year": 1914,
+    "yearEnd": 1937,
+    "place": {
+      "label": "Former Odd Fellows Cemetery, now Angelo J. Rossi Playground (Arguello Blvd & Anza St)",
+      "lat": 37.779081,
+      "lon": -122.458262,
+      "precision": "area"
+    },
+    "hook": "Twice San Franciscans voted to keep the Lone Mountain cemeteries. The living won anyway, and the headstones ended up in the Bay.",
+    "story": "In 1895 Richmond District property owners began demanding that the Lone Mountain cemeteries go, calling them \"blurs on our fair city's face\" [1]. In 1900 Mayor James Phelan signed an ordinance banning burials in the city after August 1, 1901 [1]. Removal was harder. In November 1914 voters rejected it, 68,918 to 43,433 [1]. Defenders argued the graveyards were harmless: in a brief to the state Supreme Court, a lawyer for pioneer families pointed out that after the 1906 earthquake tens of thousands of people had lived in these cemeteries for months, drinking from their artesian wells [1]. Voters said no again in 1924, by a narrower 69,677 to 62,338. But a 1930 court ruling let the city remove the cemeteries one at a time [1]. The Odd Fellows cleared their ground, which is where this playground came from (a 1933 photograph shows the clearing), and sold the rest for houses [1][2]. When the Masons tried to reach families, nearly 15,000 of 20,000 bodies went unclaimed [1]. The city used many of the abandoned headstones in sea walls at Aquatic Park and the yacht harbour [1][3].",
+    "people": [
+      {
+        "name": "James D. Phelan",
+        "role": "mayor who signed the 1900 burial ban"
+      },
+      {
+        "name": "Francis J. Sullivan",
+        "role": "lawyer for pioneer families"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Unmaking Historic Spaces: Urban Progress and the San Francisco Cemetery Debate, 1895-1937",
+        "publisher": "California History (Tamara Venit Shelton)",
+        "year": 2008,
+        "url": "https://web.archive.org/web/20160416113732/https://web.stanford.edu/group/west/docs/unmaking_historic_spaces/pp_26_47_shelton.pdf",
+        "supports": "1895 campaign, 1900 ordinance, 1914 and 1924 vote totals, Sullivan brief on 1906 refugees, 1930 ruling, Masonic unclaimed bodies, sea walls"
+      },
+      {
+        "title": "Cemeteries at foot of Lone Mountain",
+        "publisher": "FoundSF (Renee Renaud, The Richmond ReView, 1989)",
+        "year": 1989,
+        "url": "https://www.foundsf.org/index.php?title=Cemeteries_at_foot_of_Lone_Mountain",
+        "supports": "Odd Fellows cemetery vacated; 1933 photo of clearing for Rossi Playground"
+      },
+      {
+        "title": "The secrets of the San Francisco Columbarium",
+        "publisher": "SFGATE (Andrew Chamings)",
+        "year": 2021,
+        "url": "https://www.sfgate.com/local/article/san-francisco-history-columbarium-cemetery-secret-16090031.php",
+        "supports": "headstones used for Aquatic Park seawall"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-calvary-to-sears",
+    "title": "Where the Catholic dead gave way to shoppers",
+    "theme": "labor-industry",
+    "year": 1940,
+    "yearEnd": null,
+    "place": {
+      "label": "Geary Blvd & Masonic Ave (2675 Geary, former Calvary Cemetery corner)",
+      "lat": 37.78208,
+      "lon": -122.446576,
+      "precision": "building"
+    },
+    "hook": "The big-box store at Geary and Masonic sits on the city's old Catholic burial ground, which held out longer than almost any other.",
+    "story": "Calvary, the Catholic cemetery, was the giant of the Lone Mountain group. The archdiocese received 49 acres for it in 1860 [1], and by the time it left it held about 55,000 bodies [1][2]. The Church resisted removal, believing that the dead deserved a permanent home [2]. Its lawyer argued that selling the land would not even cover the cost of moving the graves. As a compromise, the archbishop offered to let the city cut roads through the cemetery so traffic could flow between the western neighbourhoods and downtown [1]. Once the city set its 1937 deadline, Calvary quickly gave in [1]. By 1940 its dead had been sent to Holy Cross Cemetery in Colma [2]. A photograph from June 26, 1946 shows the corner of Geary and Masonic scraped bare [3]. Housing, Kaiser's hospital and a big Sears store went up on the old burial ground [3]. Today the retail building at 2675 Geary is a Target, one of two in the city that stand on former cemeteries [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Unmaking Historic Spaces: Urban Progress and the San Francisco Cemetery Debate, 1895-1937",
+        "publisher": "California History (Tamara Venit Shelton)",
+        "year": 2008,
+        "url": "https://web.archive.org/web/20160416113732/https://web.stanford.edu/group/west/docs/unmaking_historic_spaces/pp_26_47_shelton.pdf",
+        "supports": "49 acres deeded 1860, body counts, archdiocese's cost argument and road compromise, surrender after 1937"
+      },
+      {
+        "title": "Places in San Francisco you had no idea used to be cemeteries",
+        "publisher": "SFGATE (Greg Keraghosian)",
+        "year": 2016,
+        "url": "https://www.sfgate.com/bayarea/article/Places-in-San-Francisco-you-had-no-idea-used-to-10418610.php",
+        "supports": "Church reluctance, 55,000 bodies to Holy Cross by 1940, Target at 2675 Geary"
+      },
+      {
+        "title": "Cemeteries at foot of Lone Mountain",
+        "publisher": "FoundSF (Renee Renaud, The Richmond ReView, 1989)",
+        "year": 1989,
+        "url": "https://www.foundsf.org/index.php?title=Cemeteries_at_foot_of_Lone_Mountain",
+        "supports": "Sears, Kaiser and housing built on Calvary land; 1946 photo at Geary and Masonic"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-st-ignatius-church",
+    "title": "Twin towers that ships could see",
+    "theme": "architecture-landmarks",
+    "year": 1914,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Ignatius Church, Fulton St & Parker Ave",
+      "lat": 37.776099,
+      "lon": -122.452842,
+      "precision": "building"
+    },
+    "hook": "After the 1906 fire destroyed their grand church, the Jesuits built again on a hilltop by the cemeteries. Its bell had survived the flames.",
+    "story": "The 1906 fire destroyed the Jesuits' third St. Ignatius Church at Hayes and Van Ness, a building that had held 4,000 worshippers [1][2]. The Jesuits then acquired a small strip of land at Fulton Street and Parker Avenue [3]. It was former Masonic Cemetery land [1], and the new church was begun \"as a Jesuit act of faith\" [1]. Built between 1910 and 1914, the neo-Baroque church had a steel frame, fluted terra-cotta columns, walls of more than 250,000 pressed bricks and 128 clerestory windows [1]. Its twin towers could be seen by ships at sea. The 5,824-pound bell in its campanile had been saved from the ruined church on Hayes Street [1]. Finished in 1914 [3], it was the fifth St. Ignatius Church in the city [2]. In 1927 the college built next door and moved in, and three years later it was renamed the University of San Francisco [3]. The church came through the 1989 Loma Prieta earthquake undamaged [2]. Today it is illuminated in the evenings, glowing on its hill [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Lone Mountain",
+        "publisher": "FoundSF (Deanna L. Kastler, The Argonaut, 1992)",
+        "year": 1992,
+        "url": "https://www.foundsf.org/index.php?title=LONE_MOUNTAIN",
+        "supports": "former Masonic land, 'Jesuit act of faith', 1910-1914 construction details, towers seen from sea, 5,824-pound bell"
+      },
+      {
+        "title": "Saint Ignatius Church (San Francisco)",
+        "publisher": "Wikipedia (pointer)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Saint_Ignatius_Church_(San_Francisco)",
+        "supports": "fifth church, 4,000-seat predecessor, Loma Prieta"
+      },
+      {
+        "title": "Our History",
+        "publisher": "University of San Francisco",
+        "year": 2026,
+        "url": "https://www.usfca.edu/who-we-are/san-franciscos-university/our-history",
+        "supports": "Fulton and Parker strip, church completed 1914, college moved 1927, renamed 1930"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-shirt-factory",
+    "title": "Two decades in the 'Shirt Factory'",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": 1929,
+    "place": {
+      "label": "Hayes St & Shrader St, site of the post-1906 St. Ignatius College",
+      "lat": 37.7731,
+      "lon": -122.4522,
+      "precision": "street"
+    },
+    "hook": "The 1906 fire burned the Jesuits out of Van Ness Avenue. Their 'temporary' wooden school near the park lasted more than twenty years.",
+    "story": "In 1880 St. Ignatius College had moved into a grand new home at Hayes Street and Van Ness Avenue, where Davies Symphony Hall stands now [1]. It came through the shaking of April 18, 1906 with moderate damage, and then the fire that followed destroyed it [2]. The Jesuits moved west, to the corner of Hayes and Shrader streets near Golden Gate Park [1]. They put up a rambling wooden building in a hurry. It was meant to be temporary, and it came to be known as \"the Shirt Factory\" [2][3]. It served as the school for more than twenty years. The college moved up the hill to Fulton Street in 1927 [1]. The high school, which had just become a separate St. Ignatius High School, stayed in the Shirt Factory until 1929 and then moved to Stanyan Street [3]. There it stayed for forty years before moving to the Sunset District in 1969 as St. Ignatius College Preparatory [3]. Not bad for a school that began in 1855 as a one-room schoolhouse on Market Street [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Our History",
+        "publisher": "University of San Francisco",
+        "year": 2026,
+        "url": "https://www.usfca.edu/who-we-are/san-franciscos-university/our-history",
+        "supports": "1880 Van Ness site, post-1906 move to Hayes and Shrader, 1927 move to Fulton, 1855 founding"
+      },
+      {
+        "title": "University of San Francisco",
+        "publisher": "Wikipedia (pointer)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/University_of_San_Francisco",
+        "supports": "moderate quake damage then fire; hastily built Shirt Factory"
+      },
+      {
+        "title": "St. Ignatius College Preparatory",
+        "publisher": "Wikipedia (pointer)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/St._Ignatius_College_Preparatory",
+        "supports": "Shirt Factory housed high school 1906-1929; Stanyan Street 1929-1969"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-st-marys-hospital",
+    "title": "The nuns' hospital that fled the fire",
+    "theme": "quake1906",
+    "year": 1909,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Mary's Hospital (now UCSF Health), 450 Stanyan St / 2200 Hayes St",
+      "lat": 37.774059,
+      "lon": -122.454188,
+      "precision": "building"
+    },
+    "hook": "Eight Irish nuns started it in 1857. After the 1906 fire burned it out, St. Mary's rebuilt at the edge of Golden Gate Park.",
+    "story": "The Sisters of Mercy reached San Francisco on December 8, 1854. There were eight of them, led by 25-year-old Mother Mary Baptist Russell, who had nursed cholera victims in Ireland [1]. They had been booked on the steamer Arctic, which was lost with everyone aboard, but it was overbooked, so they sailed on another ship [1]. Within a year they were nursing the city through a cholera outbreak. When the county would not repay what they had spent running the county hospital, the sisters opened their own St. Mary's Hospital in 1857 [1]. Sources differ on its first site: one says a Stockton Street building, another Rincon Hill at First and Bryant [1][2]. After the 1906 fire the hospital worked from temporary quarters at 2344 Sutter Street. By 1909 it had settled at 2200 Hayes Street, between Shrader and Stanyan [2]. From 1951 its nursing graduates earned bachelor's degrees from USF next door. A new building replaced the old one in 1972 at 450 Stanyan Street [2]. It is the oldest continuously operating hospital in San Francisco, and it joined UCSF in 2024, when it stopped being a Catholic hospital [1][2].",
+    "people": [
+      {
+        "name": "Mary Baptist Russell",
+        "role": "leader of the Sisters of Mercy"
+      }
+    ],
+    "sources": [
+      {
+        "title": "UCSF Health Stanyan Hospital (St. Mary's Medical Center)",
+        "publisher": "Wikipedia (pointer to hospital history pages)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Medical_Center_(San_Francisco)",
+        "supports": "Sisters of Mercy arrival, Russell, Arctic, cholera, 1857 opening on Stockton Street, UCSF 2024"
+      },
+      {
+        "title": "Streetwise: Hospitals in the Western Neighborhoods",
+        "publisher": "Western Neighborhoods Project (Frank Dunnigan)",
+        "year": 2025,
+        "url": "https://www.outsidelands.org/streetwise-hospitals-in-san-franciscos-western-neighborhoods.php",
+        "supports": "Rincon Hill origin, 2344 Sutter after 1906, 2200 Hayes by 1909, 1972 building at 450 Stanyan, USF nursing degrees from 1951, UCSF merger Aug 1, 2024"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-college-for-women",
+    "title": "A Spanish Gothic college crowns Lone Mountain",
+    "theme": "communities",
+    "year": 1932,
+    "yearEnd": 1978,
+    "place": {
+      "label": "Lone Mountain campus (former San Francisco College for Women), 2800 Turk Blvd",
+      "lat": 37.779229,
+      "lon": -122.452062,
+      "precision": "building"
+    },
+    "hook": "In 1930 the last cross came down from Lone Mountain's summit. Two years later the Religious of the Sacred Heart began building a women's college there.",
+    "story": "The last of the wooden crosses that had topped Lone Mountain was torn down in 1930 [1]. In 1932 construction began at the top of the hill on a Spanish Gothic building for the San Francisco College for Women [1]. It was run by the Religious of the Sacred Heart, and it had begun as Sacred Heart Academy in Menlo Park in 1898 [2][3]. From Turk Street, three flights of garden stairs modelled on Rome's Spanish Steps climb to the main building [1][2]. In 1958 the Chronicle wrote that the hill gave \"the impression ... of a place remote and apart from the city around it,\" and ran a photo of a nun in full habit on the roof, looking out at the Golden Gate Bridge [2]. The 1960s undermined all of that. In 1969 the school admitted men and renamed itself Lone Mountain College, but by then enrolment and alumnae giving were falling [2]. In 1978 the University of San Francisco, the Jesuit school down the hill, bought the 23-acre campus for $5.8 million [2]. The college's former chapel now houses USF's admissions office [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Lone Mountain",
+        "publisher": "FoundSF (Deanna L. Kastler, The Argonaut, 1992)",
+        "year": 1992,
+        "url": "https://www.foundsf.org/index.php?title=LONE_MOUNTAIN",
+        "supports": "last cross removed 1930, 1932 construction, Spanish Gothic, Spanish Steps, USF acquisition 1978"
+      },
+      {
+        "title": "USF's Lone Mountain no longer a place apart",
+        "publisher": "San Francisco Chronicle / SFGATE (John King)",
+        "year": 2013,
+        "url": "https://www.sfgate.com/bayarea/place/article/USF-s-Lone-Mountain-no-longer-a-place-apart-4978866.php",
+        "supports": "Sisters of the Sacred Heart, 1958 Chronicle quote and nun photo, 1969 coeducation, 1978 $5.8M purchase of 23 acres, chapel now admissions"
+      },
+      {
+        "title": "Lone Mountain College",
+        "publisher": "Wikipedia (pointer)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Lone_Mountain_College",
+        "supports": "1898 origins in Menlo Park as Sacred Heart Academy"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-1951-dons-toler-hall",
+    "title": "Undefeated, untied and uninvited",
+    "theme": "civil-rights",
+    "year": 1951,
+    "yearEnd": 2017,
+    "place": {
+      "label": "Burl A. Toler Hall (formerly Phelan Hall), USF",
+      "lat": 37.776446,
+      "lon": -122.450139,
+      "precision": "block"
+    },
+    "hook": "USF's 1951 team went 9-0 and was offered a bowl game if it left its Black stars at home. The players refused. In 2017 a hall got a new name.",
+    "story": "The 1951 USF Dons went 9-0 and were one of the great college football teams. Their two African American stars were running back Ollie Matson and linebacker Burl Toler [1][2]. The team was offered a place in the Orange Bowl on condition that it leave its Black players behind, and it said no [3]. No bowl invitation came, and USF, losing $70,000 a year on football, dropped the sport [2]. Toler, a Memphis native, was the Cleveland Browns' top draft pick, but he wrecked his knee in the College All-Star Game and never played in the NFL. He became the league's first Black on-field official and worked three Super Bowls [2]. In San Francisco he became the city's first African American secondary school principal [1], and Benjamin Franklin Middle School was renamed for him in 2006 [2]. That year the 1951 team received honorary degrees: \"They sacrificed glory for honor and character\" [1]. On May 9, 2017, students led by Student Senate President Shaya Kara got Phelan Hall renamed. The dorm had honoured former mayor James Phelan, whose 1920 campaign slogan was \"Keep California White.\" It is now Burl A. Toler Hall [1].",
+    "people": [
+      {
+        "name": "Burl Toler",
+        "role": "linebacker, NFL official, SF educator"
+      },
+      {
+        "name": "Ollie Matson",
+        "role": "running back"
+      },
+      {
+        "name": "Shaya Kara",
+        "role": "student senate president, 2017"
+      }
+    ],
+    "sources": [
+      {
+        "title": "USF renames building for Toler after students raise concerns on racism",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2017,
+        "url": "https://www.sfchronicle.com/bayarea/article/USF-renames-building-for-Toler-after-students-11143046.php",
+        "supports": "renaming on May 9, 2017, Phelan's views and slogan, Kara, first Black secondary principal, 2006 degrees"
+      },
+      {
+        "title": "Burl Toler, NFL's first black official, dies",
+        "publisher": "San Francisco Chronicle / SFGATE (Tom FitzGerald)",
+        "year": 2009,
+        "url": "https://www.sfgate.com/sports/article/Burl-Toler-NFL-s-first-black-official-dies-3288983.php",
+        "supports": "9-0 season, no bowl, $70,000 loss, Browns draft and injury, NFL official, Super Bowls, Franklin school renamed 2006"
+      },
+      {
+        "title": "Our History",
+        "publisher": "University of San Francisco",
+        "year": 2026,
+        "url": "https://www.usfca.edu/who-we-are/san-franciscos-university/our-history",
+        "supports": "Orange Bowl invitation conditional on leaving Black players; team declined"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-negoesco",
+    "title": "Soccer got him out of a Nazi camp",
+    "theme": "war-military",
+    "year": 1940,
+    "yearEnd": 2000,
+    "place": {
+      "label": "Negoesco Stadium, USF (near Stanyan St & Golden Gate Ave)",
+      "lat": 37.776547,
+      "lon": -122.45386,
+      "precision": "building"
+    },
+    "hook": "At 15 he punched a German soldier and was sent to a labour camp. Soccer with the guards helped him escape, and he became USF's legendary coach.",
+    "story": "Steve Negoesco was born in New Jersey, the son of a sea captain, and was sent to Romania as a boy to live with an aunt and uncle [1][2]. At 15, after the Nazi occupation began, he beat up a German soldier who had hit him on his own street. The soldier said \"Come with me\" [1]. Negoesco packed two soccer balls first and his clothes second. He was sent to a camp at Immendorf in Germany, where prisoners rolled bomb casings between factory buildings on one meal a day, and his weight fell from 155 to 135 pounds [1]. The prisoners started playing soccer, and the young guards joined in. One guard told him that if he were going to run, he would go on a Friday, when the camp commander visited his girlfriend. Negoesco and three others left that Friday and made it by train to Vienna [1]. He played fullback for USF in the late 1940s and early 1950s, took over the soccer program in 1962 and coached it until 2000. His teams won national titles in 1966, 1975, 1976 and 1980 [2]. In 1982 the university named this field after him [2].",
+    "people": [
+      {
+        "name": "Steve Negoesco",
+        "role": "USF soccer player and coach"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Paying a Debt To Soccer / USF's Steve Negoesco says the sport saved his life",
+        "publisher": "San Francisco Chronicle / SFGATE (Tim Keown)",
+        "year": 1995,
+        "url": "https://www.sfgate.com/sports/article/Paying-a-Debt-To-Soccer-USF-s-Steve-Negoesco-3024083.php",
+        "supports": "childhood, fight with soldier, Immendorf camp, rations and weight, soccer with guards, Friday escape to Vienna"
+      },
+      {
+        "title": "Steve Negoesco, soccer coach who led USF to 4 national titles, dies at 93",
+        "publisher": "San Francisco Chronicle (Steve Kroner)",
+        "year": 2019,
+        "url": "https://www.sfchronicle.com/collegesports/article/Steve-Negoesco-soccer-coach-who-led-USF-to-4-13589312.php",
+        "supports": "birth, capture in 1940, coaching 1962-2000, titles, field named 1982"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-kusf",
+    "title": "The college station that broke Metallica",
+    "theme": "arts-counterculture",
+    "year": 1977,
+    "yearEnd": 2011,
+    "place": {
+      "label": "KUSF, University of San Francisco, 2130 Fulton St",
+      "lat": 37.775292,
+      "lon": -122.451727,
+      "precision": "building"
+    },
+    "hook": "For 34 years a student station on the hilltop played punk before almost anyone else. Then one January morning in 2011 it abruptly went silent.",
+    "story": "KUSF started in 1963 as a campus AM station and moved to FM at 90.3 in 1977 [1]. Run mostly by students and volunteers, it became known far beyond the campus. It was among the first stations to play punk rock, and it gave early airtime to the B-52's and Metallica [1]. Then, at 10 a.m. on a Tuesday in January 2011, the station went off the air without warning. USF had sold the frequency for $3.75 million in a deal that moved the classical station KDFC to 90.3, and many of KUSF's staff and volunteers learned about it that same morning [2]. The more powerful of KDFC's new signals would come from a transmitter on a USF campus building [2]. Fans pushed back hard. A Save KUSF campaign gathered 7,200 members on Facebook and support from Yo La Tengo and the Kronos Quartet. On February 8, 2011, the Board of Supervisors voted 8-3 to oppose the sale [3]. KUSF never returned to the FM dial. It kept its call letters and survives as an online-only station broadcasting from the campus at 2130 Fulton Street [1][2].",
+    "people": [
+      {
+        "name": "Irwin Swirnoff",
+        "role": "KUSF music director, Save KUSF organiser"
+      }
+    ],
+    "sources": [
+      {
+        "title": "About KUSF",
+        "publisher": "KUSF / University of San Francisco",
+        "year": 2026,
+        "url": "http://www.kusf.org/about",
+        "supports": "1963 start, 1977 FM, punk, B-52's and Metallica, online-only since 2011, 2130 Fulton St"
+      },
+      {
+        "title": "KDFC moves up the dial as a nonprofit, KUSF dies",
+        "publisher": "San Francisco Chronicle / SFGATE (Peter Hartlaub)",
+        "year": 2011,
+        "url": "https://www.sfgate.com/bayarea/article/KDFC-moves-up-the-dial-as-a-nonprofit-KUSF-dies-2478182.php",
+        "supports": "abrupt 10 a.m. shutdown, $3.75 million, staff blindsided, transmitter on campus"
+      },
+      {
+        "title": "San Francisco Board of Supervisors Protests the Sale of KUSF",
+        "publisher": "East Bay Express (Rachel Swan)",
+        "year": 2011,
+        "url": "http://www.eastbayexpress.com/EarBud/archives/2011/02/10/san-francisco-board-of-supervisors-protests-the-sale-of-kusf",
+        "supports": "8-3 supervisors vote, 7,200 Facebook members, Yo La Tengo and Kronos Quartet support, Swirnoff"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lone-mountain-usf-ed-aulerich-sugai-tomb",
+    "title": "An artist builds his own tomb of sky",
+    "theme": "lgbtq",
+    "year": 2013,
+    "yearEnd": null,
+    "place": {
+      "label": "San Francisco Columbarium, 1 Loraine Court",
+      "lat": 37.780615,
+      "lon": -122.457077,
+      "precision": "building"
+    },
+    "hook": "Facing death in the AIDS years, painter Ed Aulerich-Sugai designed his own niche at the Columbarium: marble, clouds and an empty blue sky.",
+    "story": "In the 1970s the writer Robert Glück and the Asian American artist Ed Aulerich-Sugai were lovers, both in their twenties [1]. Years later, facing death, Ed decided he wanted his ashes to go in the Columbarium. Glück drove him out \"on a bright blue and white day\" to look the place over, and when Ed looked up at the tiers of niches he nearly fainted [1]. Glück remembered the building as a \"magnificent ruin\" and called it a \"lovely wedding cake\" [1]. Ed and his partner Daniel bought a niche, and Ed made the tomb himself. It is a diorama with a ground of polished viridian marble under a robin's-egg sky of drifting white clouds, and his ashes are in a ceramic vase. He had been painting clouds for two decades [1]. He chose long-lasting pigment and a Plexiglas liner so the canvas would not touch damp cement. He also asked Glück to join him in the niche someday [1]. In 2013 SFMOMA published this chapter from Glück's AIDS memoir-novel About Ed, alongside an art project at the Columbarium and talks there on arts, AIDS and activism [1]. Staff speak of the Columbarium's longstanding embrace of the queer community [2].",
+    "people": [
+      {
+        "name": "Ed Aulerich-Sugai",
+        "role": "artist"
+      },
+      {
+        "name": "Robert Glück",
+        "role": "poet and novelist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SECA 2012: Robert Glück on the Neptune Society Columbarium",
+        "publisher": "SFMOMA Open Space (Robert Glück)",
+        "year": 2013,
+        "url": "https://openspace.sfmoma.org/2013/10/seca-2012-robert-gluck/",
+        "supports": "relationship, visit, tomb design and materials, invitation to share niche, About Ed as AIDS memoir, SECA talks on arts, AIDS and activism"
+      },
+      {
+        "title": "The Only Place You Can Leave Your Heart Forever in San Francisco: The Inner Richmond's Palace of Ashes",
+        "publisher": "KQED (Julie Zigoris)",
+        "year": 2022,
+        "url": "https://www.kqed.org/news/11914175/the-only-place-you-can-leave-your-heart-forever-in-san-francisco-the-inner-richmonds-palace-of-ashes",
+        "supports": "Columbarium's longstanding embrace of the queer community"
+      }
+    ],
+    "photo": null
+  }
+]

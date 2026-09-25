@@ -1,0 +1,679 @@
+[
+  {
+    "id": "bayview-hunters-point-sam-jordan-mayor-of-butchertown",
+    "title": "The Mayor of Butchertown Runs for Mayor",
+    "theme": "communities",
+    "year": 1963,
+    "yearEnd": 2019,
+    "place": {
+      "label": "Sam Jordan's Bar, 4004 Third Street",
+      "lat": 37.741061,
+      "lon": -122.388862,
+      "precision": "building"
+    },
+    "hook": "A Navy veteran and Golden Gloves boxer turned a Third Street tavern into Bayview's living room, then became the first African American to run for mayor of San Francisco.",
+    "story": "Sam Jordan came to San Francisco from Texas after serving in the Navy in World War II. He spent about ten years as a longshoreman and boxed in the Golden Gloves, where he won as a light-heavyweight [1][2]. In 1959 he bought the old tavern at 4004–4006 Third Street, fixed it up and reopened it as Sam Jordan's Tavern [1]. It quickly became the gathering place of Bayview's Black working class, with scholarship drives, nights for local musicians, businessmen's lunches and political strategy sessions [1]. In 1963 Jordan became the first African American to run for mayor of San Francisco. He ran on equality, civil rights and workers' rights and finished fourth of eight [1][2]. Neighbours called him the \"Mayor of Butchertown,\" after the district's old slaughterhouse trade. He wasn't sure he deserved it: \"What good is it to be called a leader if you can't get people to do for themselves?\" [3]. He lived at the bar until he retired in 1995 and died in 2003, and the building became City Landmark No. 263 [1]. His children kept it going through a TV makeover and heavy debt. In 2019 they announced it would close, with a last-call block party that November [2].",
+    "people": [
+      {
+        "name": "Sam Jordan",
+        "role": "boxer, longshoreman, bar owner and 1963 mayoral candidate"
+      },
+      {
+        "name": "Ruth and Allen Jordan",
+        "role": "his children and later co-owners"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #263: Sam Jordan's Bar",
+        "publisher": "NoeHill in San Francisco (adapted from SF Landmark Designation case 2011.0681L)",
+        "year": 2015,
+        "url": "https://noehill.com/sf/landmarks/sf263.asp",
+        "supports": "1959 purchase, community role, 1963 mayoral run, platform, lived there to 1995, died 2003, landmark number"
+      },
+      {
+        "title": "SF's Oldest African-American-Owned Bar, Sam Jordan's, Will Close",
+        "publisher": "Eater SF",
+        "year": 2019,
+        "url": "https://sf.eater.com/2019/10/18/20920866/sam-jordans-bar-sf-bayview-closing-black-owned-bar",
+        "supports": "Texas, Navy, longshoreman, Golden Gloves, finished fourth of eight, Bar Rescue, November 2019 last call"
+      },
+      {
+        "title": "Hunters Point Shipyard: A Community History",
+        "publisher": "San Francisco Redevelopment Agency (archived by SF OCII)",
+        "year": 1996,
+        "url": "https://web.archive.org/web/20180111003738/http://sfocii.org/sites/default/files/FileCenter/Documents/307-Hunters%20Point%20Shipyard%20A%20Community%20History%20%20February%201996.pdf",
+        "supports": "'Mayor of Butcher Town' nickname and Jordan's quote (spelled 'Jordon' in the report)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-1966-uprising",
+    "title": "Four Shots, Then Five Days of Fury",
+    "theme": "civil-rights",
+    "year": 1966,
+    "place": {
+      "label": "Third Street and Palou Avenue",
+      "lat": 37.73401,
+      "lon": -122.39112,
+      "precision": "street"
+    },
+    "hook": "On a sweltering September afternoon in 1966, a police officer shot a fleeing Black teenager. Within hours Third Street was in uproar, and the National Guard soon followed.",
+    "story": "The afternoon of 27 September 1966 was unusually hot. Patrolman Alvin Johnson pulled up to a car he suspected was stolen, and three Black teenagers ran. He chased two of them toward Navy Road. As 16-year-old Matthew \"Peanut\" Johnson ran down a hill near a housing project, the officer fired four shots. One hit the unarmed boy in the heart [1]. (One account gives Matthew's age as 17 [2].) By late afternoon an angry crowd had gathered at Third Street and Palou Avenue. At a War on Poverty job centre there, people demanded to know whether the officer would be charged with murder [1]. That night bottles and rocks flew and stores along Third Street were looted [1]. The next day police, saying they had been fired on, poured hundreds of rounds into the Bayview Community Center, which was then housed in the Opera House. More than 60 unarmed youths were huddled inside, and no weapons were found on anyone who came out [3][2]. Governor Pat Brown sent in the National Guard, and troops patrolled Bayview and the Fillmore until 1 October [2]. In the end 457 people were arrested and 161 injured [3]. Matthew Johnson was the only person killed that week. The officer was never arrested [3].",
+    "people": [
+      {
+        "name": "Matthew \"Peanut\" Johnson",
+        "role": "teenager killed by police"
+      },
+      {
+        "name": "Alvin Johnson",
+        "role": "SFPD patrolman (no relation)"
+      },
+      {
+        "name": "Osceola Washington",
+        "role": "organizer at the community center"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Officer's '66 killing of black teen sparked Hunters Point riot",
+        "publisher": "San Francisco Chronicle",
+        "year": 2016,
+        "url": "http://www.sfchronicle.com/bayarea/article/Officer-s-66-killing-of-black-teen-sparked-9228042.php",
+        "supports": "shooting details, age 16, Navy Road, four shots, Third and Palou meeting, looting"
+      },
+      {
+        "title": "Hunters Point Uprising",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Hunters_Point_Uprising",
+        "supports": "age given as 17, police firing on the community center, National Guard, martial law to Oct 1"
+      },
+      {
+        "title": "A social uprising, an earthquake and opera: SF's oldest theater has seen it all",
+        "publisher": "SFGATE",
+        "year": 2021,
+        "url": "https://www.sfgate.com/local/article/Bayview-Opera-House-Ruth-Williams-Memorial-Theater-16051000.php",
+        "supports": "60 youths inside the Opera House community center, no weapons found, 457 arrests, 161 injured, officer never arrested"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-opera-house-ruth-williams",
+    "title": "Bullet Holes, Opera and Ruth Williams",
+    "theme": "architecture-landmarks",
+    "year": 1968,
+    "yearEnd": 1995,
+    "place": {
+      "label": "Bayview Opera House, 4705 Third Street",
+      "lat": 37.735004,
+      "lon": -122.390172,
+      "precision": "building"
+    },
+    "hook": "Police shot up Bayview's 1888 opera house during the 1966 uprising. A playwright and activist, with a young Danny Glover on its stage, helped bring it back to life.",
+    "story": "The South San Francisco Opera House at Third Street and Newcomb Avenue was built in 1888 for a Masonic lodge, to a design by Henry Geilfuss [1]. By the 1960s it had been reduced to a warehouse. The Bayview Neighborhood Community Center moved in in 1965, and during the 1966 uprising police fired into the building [1]. Community leader Ruth Williams raised money to hire the Black architect Harry Overstreet to repair the damage [1]. In May 1968 Western Opera Theatre staged \"The Barber of Seville\" and \"La Bohème\" there, probably the first operas the building ever hosted [1]. That same year a young Danny Glover did improv on its stage, and longshoremen screened movies for neighbourhood kids [1]. In October 1968 it became City Landmark No. 8 [1]. Williams was a Southern University graduate who had come west with her husband and six sons. She founded the Bayview Repertory Theater Company, wrote and acted in 37 plays, and produced the first Miss Black San Francisco pageants in 1977–79 [2]. On 7 December 1995 the supervisors renamed the building the Bayview Opera House Ruth Williams Memorial Theater [3].",
+    "people": [
+      {
+        "name": "Ruth Williams",
+        "role": "community leader, playwright and producer"
+      },
+      {
+        "name": "Harry Overstreet",
+        "role": "architect"
+      },
+      {
+        "name": "Danny Glover",
+        "role": "actor, worked at the Opera House in 1968"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A social uprising, an earthquake and opera: SF's oldest theater has seen it all",
+        "publisher": "SFGATE",
+        "year": 2021,
+        "url": "https://www.sfgate.com/local/article/Bayview-Opera-House-Ruth-Williams-Memorial-Theater-16051000.php",
+        "supports": "1888 build, Geilfuss, 1965 community center, 1966 shooting, Overstreet repairs, 1968 operas, Glover, Landmark No. 8"
+      },
+      {
+        "title": "Community Leader Ruth Williams Passes (Huel Washington)",
+        "publisher": "Newspaper clipping, San Francisco Public Library, via Bayview Opera House",
+        "year": null,
+        "url": "https://web.archive.org/web/20211215231934/https://bvoh.org/wp-content/uploads/2018/07/Community-Leader-Ruth-Williams-Passes-newspaper-from-library-archive.pdf",
+        "supports": "biography, six sons, Bayview Repertory Theater, 37 plays, Miss Black San Francisco 1977–79"
+      },
+      {
+        "title": "Opera House",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Opera_House",
+        "supports": "renaming on December 7, 1995"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-stu-miller-wind",
+    "title": "The Pitcher the Wind Blew Off the Mound",
+    "theme": "modern-city",
+    "year": 1961,
+    "place": {
+      "label": "Candlestick Park (site), Candlestick Point",
+      "lat": 37.7136,
+      "lon": -122.3862,
+      "precision": "area"
+    },
+    "hook": "At the 1961 All-Star Game a gust at Candlestick made a slight Giants reliever sway. The legend that followed took on a life of its own.",
+    "story": "Candlestick Park opened on 12 April 1960, built on landfill at Candlestick Point [3]. The next summer it hosted the first of two 1961 All-Star Games. The day was unusually hot and several fans collapsed, until the park's notorious wind picked up in the eighth inning [2]. Giants reliever Stu Miller threw famously slow junk pitches. He was listed at 5-foot-11, though people who stood next to him put him closer to 5-foot-8 [2]. He came in during the ninth with the National League ahead 3–2 [2]. As he set to pitch, a gust hit him. \"My whole body waved,\" he recalled, and the umpire called a balk that moved the runners up and helped the American League tie the game [2][1]. The next day's headline read \"Miller Blown Off Mound,\" and the tale kept growing. Don Zimmer remembered him going backward \"and he just kept going\" [1]. But the game wasn't televised, and the radio call, later dug up by a researcher, never mentioned the wind [1]. Miller said he had only swayed \"2 or 3 inches\", and he was also the winning pitcher once Willie Mays scored [1]. \"I guess that's better than 'Stu Who?'\" he said in 2007. \"I'd rather be remembered for something.\" [1]",
+    "people": [
+      {
+        "name": "Stu Miller",
+        "role": "San Francisco Giants relief pitcher"
+      },
+      {
+        "name": "Don Zimmer",
+        "role": "All-Star teammate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Did Stu Miller Really Get Blown Off The Mound at Candlestick Park?",
+        "publisher": "KQED",
+        "year": 2015,
+        "url": "https://www.kqed.org/news/10400321/did-stu-miller-really-get-blown-off-the-mound-at-candlestick-park",
+        "supports": "quotes, headline, Zimmer recollection, radio call, Mays, 2007 quote"
+      },
+      {
+        "title": "Stu Miller (SABR Biography Project)",
+        "publisher": "Society for American Baseball Research",
+        "year": 2016,
+        "url": "https://sabr.org/bioproj/person/stu-miller/",
+        "supports": "hot day, fans collapsing, wind in eighth, ninth-inning 3–2 situation, height, winning pitcher"
+      },
+      {
+        "title": "Candlestick Before and After Stadium Built",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Candlestick_Before_and_After_Stadium_Built",
+        "supports": "opening day April 12, 1960; landfilling at Candlestick Point"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-beatles-last-concert",
+    "title": "Thirty-Three Minutes in a Cage",
+    "theme": "arts-counterculture",
+    "year": 1966,
+    "place": {
+      "label": "Candlestick Park (site), second base",
+      "lat": 37.7133,
+      "lon": -122.3856,
+      "precision": "area"
+    },
+    "hook": "On 29 August 1966 the Beatles played Candlestick Park privately knowing it was their last concert. Their press officer taped it, until the cassette ran out.",
+    "story": "Worn down by riots, death threats and screaming that drowned out their amplifiers, the Beatles came to Candlestick Park on 29 August 1966 for the last date of their U.S. tour [1]. Only about 25,000 of the stadium's 42,500 seats sold, at $4.50 to $6.50 each [1]. When their bus arrived, the gates were locked [1]. Just before showtime Paul McCartney quietly asked press officer Tony Barrow to tape the show on his cassette recorder, which had never happened before [1]. At 9:27 p.m. the four ran from the Giants' dugout to a stage built over second base. It was fenced in chain-link, with an armoured car idling behind it in case they needed a quick getaway [1]. They played 11 songs in 33 minutes. Between songs they set their cameras on timers and photographed themselves with their backs to the crowd. \"We knew: 'This is it,'\" George Harrison said [1]. They closed with Little Richard's \"Long Tall Sally,\" and Barrow's 30-minute tape ran out before the song ended [1]. The Beatles never toured again. Nearly 48 years later, Paul McCartney came back to play the last scheduled event at the stadium [2].",
+    "people": [
+      {
+        "name": "The Beatles",
+        "role": "band"
+      },
+      {
+        "name": "Tony Barrow",
+        "role": "Beatles press officer who taped the show"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Remembering Beatles' Final Concert",
+        "publisher": "Rolling Stone",
+        "year": 2016,
+        "url": "https://www.rollingstone.com/music/features/remembering-beatles-final-concert-w436179",
+        "supports": "all concert details, ticket sales, stage, set length, Barrow tape, quotes"
+      },
+      {
+        "title": "Paul McCartney to play at Candlestick",
+        "publisher": "SFGATE / San Francisco Chronicle (Matier & Ross)",
+        "year": 2014,
+        "url": "https://www.sfgate.com/bayarea/article/Paul-McCartney-to-play-at-Candlestick-5426723.php",
+        "supports": "McCartney to play final scheduled event at Candlestick; Beatles' last Candlestick show Aug. 29, 1966"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-shipyard-closes-1974",
+    "title": "The Day the Shipyard Went Quiet",
+    "theme": "war-military",
+    "year": 1974,
+    "place": {
+      "label": "Hunters Point Naval Shipyard (Crisp Road)",
+      "lat": 37.726563,
+      "lon": -122.373637,
+      "precision": "area"
+    },
+    "hook": "When the Navy closed Hunters Point Naval Shipyard in 1974, over 5,000 jobs went with it. Third Street shops held closing sales where a bedroom set sold for five dollars.",
+    "story": "For three decades the shipyard had driven the local economy. By the mid-1950s it employed about 8,500 civilians, many of them Black workers recruited from the South during World War II [2]. The Navy deactivated it in 1974 [2]. A 1996 community history counted 5,060 workers who lost their jobs. The Navy found other posts for most of them, often at bases in Southern California or Washington State. Many locals stayed, though, and either joined the unemployed or retired early without savings [1]. The blow hit Third Street. \"The community died when the shipyard left,\" activist Espanola Jackson recalled. \"There was nothing. Everything that was here disappeared.\" She remembered stores so desperate to clear their stock that she bought a bedroom set for five dollars [1]. A private firm leased the yard from 1975 to 1985, hired few locals and was fined for environmental violations [1]. Also in 1974, resident Oscar James joined the push to end naval operations and raised alarms about radioactive waste. As a boy he had heard his father's shipyard friends talk about it while he hid under a table during \"Friday Night Fights\". City officials dismissed him [3]. In 1989 the EPA made the yard a Superfund site [2].",
+    "people": [
+      {
+        "name": "Espanola Jackson",
+        "role": "community activist"
+      },
+      {
+        "name": "Oscar James",
+        "role": "resident and environmental activist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hunters Point Shipyard: A Community History",
+        "publisher": "San Francisco Redevelopment Agency (archived by SF OCII)",
+        "year": 1996,
+        "url": "https://web.archive.org/web/20180111003738/http://sfocii.org/sites/default/files/FileCenter/Documents/307-Hunters%20Point%20Shipyard%20A%20Community%20History%20%20February%201996.pdf",
+        "supports": "5,060 jobs lost, relocations, early retirements, Jackson quotes and $5 bedroom set, Triple A lease 1975–85"
+      },
+      {
+        "title": "Fight to Remediate Hunter's Point Toxicity (Dr. Ahimsa Sumchai)",
+        "publisher": "FoundSF (originally The Political Edge)",
+        "year": 2004,
+        "url": "https://www.foundsf.org/index.php?title=Fight_to_Remediate_Hunter%E2%80%99s_Point_Toxicity",
+        "supports": "8,500 civilian workers mid-1950s, Southern recruitment, 1974 deactivation, 1989 Superfund listing"
+      },
+      {
+        "title": "Decommissioned: Naval Radiological Defense Laboratory 1946-1969 (Stacey Carter)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Decommissioned:_Naval_Radiological_Defense_Laboratory_1946-1969",
+        "supports": "Oscar James story and 1974 activism"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-the-point-artists",
+    "title": "The Battleship Versus the Artists",
+    "theme": "arts-counterculture",
+    "year": 1987,
+    "yearEnd": null,
+    "place": {
+      "label": "Hunters Point Shipyard artist studios",
+      "lat": 37.7255,
+      "lon": -122.369,
+      "precision": "area"
+    },
+    "hook": "In 1987 the Navy wanted Hunters Point back for the battleship Missouri. In its way stood hundreds of artists, cabinetmakers and a mushroom farmer in old barracks.",
+    "story": "Jacques Terzian first worked at Hunters Point at age 20, repairing warships in World War II [2]. Decades later he was a sculptor and designer being pushed out of the warehouse district that became Levi's Plaza, and he spotted a sign advertising space at the decommissioned shipyard [2]. The Navy had begun leasing the base in 1976, and Terzian sublet a building, at first for storage [2]. From 1983, with his children's help, he began rebuilding gutted barracks. He spent the better part of a year on his back reinstalling pipes. He left out a pressure-relief valve, so the building shook every time a toilet flushed [2]. By 1984 he had made about 300 studios [1]. People kept asking him \"What is the point?\", so he called it The Point [2]. He also hosted one of the first recorded open-studio events [1]. Then Mayor Dianne Feinstein backed plans to base the battleship USS Missouri there [2]. In 1987 the Los Angeles Times described the \"ragtag army of artists, metal workers, cabinet makers\" and one mushroom farmer resisting eviction. Terzian could recall only one \"security breach\": two artists embracing under the stars on an off-limits dock [3]. The artists stayed. Terzian died in 2016 at 94 [1].",
+    "people": [
+      {
+        "name": "Jacques Terzian",
+        "role": "sculptor and founder of The Point artists' colony"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Remembering Jacques Terzian, Founder of Hunter's Point Artists' Colony",
+        "publisher": "KQED",
+        "year": 2016,
+        "url": "https://www.kqed.org/arts/11939860/remembering-jacques-terzian-founder-of-hunters-point-artists-colony",
+        "supports": "300 studios by 1984, early open studios, death at 94"
+      },
+      {
+        "title": "In Their Words: Remembering Jacques Jacob Terzian (John Markoff)",
+        "publisher": "Hoodline",
+        "year": 2016,
+        "url": "https://hoodline.com/2016/08/in-their-words-remembering-jacques-jacob-terzian-founder-of-artist-community-the-point/",
+        "supports": "wartime work, Levi's Plaza eviction, 1976 leasing, 1983 retrofits, plumbing anecdote, name origin, Missouri homeport plan"
+      },
+      {
+        "title": "Artists, Navy Square Off in 'Battle of Mighty Mo'",
+        "publisher": "Los Angeles Times",
+        "year": 1987,
+        "url": "https://www.latimes.com/archives/la-xpm-1987-07-12-mn-3709-story.html",
+        "supports": "1987 standoff, tenants including mushroom farmer, security-breach anecdote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-southeast-community-facility",
+    "title": "A Campus Won in Exchange for Sewage",
+    "theme": "civil-rights",
+    "year": 1979,
+    "yearEnd": 2022,
+    "place": {
+      "label": "Southeast Community Facility, 1800 Oakdale Avenue",
+      "lat": 37.736957,
+      "lon": -122.39421,
+      "precision": "building"
+    },
+    "hook": "When San Francisco sent most of its sewage to a Bayview plant, neighbourhood activists made the city pay with a community centre and a college campus next door.",
+    "story": "Most of San Francisco's sewage is treated at the Southeast plant in Bayview–Hunters Point. A 2010 report put the share at 80 percent [3]. Activist Espanola Jackson fought the plant's placement there and put it bluntly: \"Everybody's sh*t from all over San Francisco being dumped over here on us\" [2]. When that fight was lost, residents bargained. According to the city utility, in 1979 the southeast neighbourhoods won a community centre at 1800 Oakdale Avenue as part of an agreement to offset the plant's effects [1]. The SFPUC credits six founding activists, \"the Big 6\": Alex Pitcher, Harold Madison, Ethel Garlington, Espanola Jackson, Shirley Jones and Elouise Westbrook [1]. The people who eulogized Jackson in 2016 counted it among her biggest wins, forcing the city to build a place for her people to get an education, now a City College campus beside the plant [2]. By 2015 the old building needed extensive repairs. Residents favoured rebuilding, and a new centre built with local-hire goals opened in 2022 at 1550 Evans Avenue. More than 98 of the workers who built it came from the 94124 zip code [1].",
+    "people": [
+      {
+        "name": "Espanola Jackson",
+        "role": "activist"
+      },
+      {
+        "name": "Alex Pitcher",
+        "role": "activist"
+      },
+      {
+        "name": "Ethel Garlington",
+        "role": "activist"
+      },
+      {
+        "name": "Elouise Westbrook",
+        "role": "activist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Southeast Community Center",
+        "publisher": "San Francisco Public Utilities Commission",
+        "year": null,
+        "url": "https://www.sfpuc.gov/learning/come-visit/southeast-community-center",
+        "supports": "1979 agreement, 1800 Oakdale, Big 6 names, 2015 repairs, 2022 new center at 1550 Evans, local hire"
+      },
+      {
+        "title": "In celebration of the charismatic life of Sister Espanola Jackson (La Vaughn B. Moore)",
+        "publisher": "San Francisco Bay View",
+        "year": 2016,
+        "url": "https://sfbayview.com/2016/01/in-celebration-of-the-charismatic-life-of-sister-espanola-jackson-a-born-leader-and-chosen-woman/",
+        "supports": "Jackson's fight against sewage plant, quote, college as mitigation"
+      },
+      {
+        "title": "Environmental Education Off the Grid",
+        "publisher": "Bay Nature",
+        "year": 2010,
+        "url": "https://baynature.org/article/environmental-education-off-the-grid/",
+        "supports": "80 percent of city sewage treated in the neighbourhood"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-power-plant-closure",
+    "title": "Chained to the Gates of a Power Plant",
+    "theme": "civil-rights",
+    "year": 2006,
+    "yearEnd": 2009,
+    "place": {
+      "label": "Former PG&E Hunters Point power plant, India Basin shoreline",
+      "lat": 37.7376,
+      "lon": -122.3766,
+      "precision": "area"
+    },
+    "hook": "For decades one of San Francisco's biggest air polluters stood on India Basin. Mothers from Hunters View and a grandmother in chains finally shut it down in 2006.",
+    "story": "PG&E's Hunters Point power plant stood on the India Basin shoreline for decades. A 2004 essay called it the state's oldest and most polluting power plant. The same essay cited a 1995 city health department study that found four times as many toxins in Bayview–Hunters Point as in any other neighbourhood [2]. Residents blamed the plant for headaches, asthma and skin disease. In December 2004 Marie Harrison joined neighbours protesting outside it [3]. Harrison came from Kansas City, had sold clothing at Nordstrom and Macy's, and loved singing gospel. She worked for the group Greenaction for two decades [3]. In 2006 she chained herself to the front of the plant [3]. That year Greenaction and the Huntersview Mothers Committee won their fight and the plant was shut down. By 2009 it had been demolished [1]. Tests on the 38-acre site found PCBs, arsenic, lead, hexavalent chromium and asbestos in the soil and groundwater. The mothers then got PG&E to stop sending the PCB waste to Kettleman City, a farmworker town already suffering high rates of birth defects [1]. Harrison later chained herself to the shipyard fence too. She died at 71 of chronic lung disease while still organizing a walk for a cleaner southeast [3].",
+    "people": [
+      {
+        "name": "Marie Harrison",
+        "role": "environmental justice activist, Greenaction"
+      },
+      {
+        "name": "Huntersview Mothers Committee",
+        "role": "community group"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Power Plant Along India Basin—Before and After",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Power_Plant_Along_India_Basin%E2%80%94Before_and_After",
+        "supports": "Greenaction and Huntersview Mothers closed plant in 2006, demolition, 38-acre contamination, Kettleman City"
+      },
+      {
+        "title": "Fight to Remediate Hunter's Point Toxicity (Dr. Ahimsa Sumchai)",
+        "publisher": "FoundSF (originally The Political Edge)",
+        "year": 2004,
+        "url": "https://www.foundsf.org/index.php?title=Fight_to_Remediate_Hunter%E2%80%99s_Point_Toxicity",
+        "supports": "oldest and most polluting plant; 1995 health department study"
+      },
+      {
+        "title": "Hunters Point environmental activist Marie Harrison dies",
+        "publisher": "San Francisco Chronicle",
+        "year": 2019,
+        "url": "https://www.sfchronicle.com/green/article/Hunters-Point-environmental-activist-Marie-13826956.php",
+        "supports": "biography, 2004 protest, 2006 chaining, shipyard fence, death at 71"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-herons-head-park",
+    "title": "A Bridge Footing That Became a Marsh",
+    "theme": "parks-nature",
+    "year": 1999,
+    "yearEnd": 2010,
+    "place": {
+      "label": "Heron's Head Park (former Pier 98)",
+      "lat": 37.738,
+      "lon": -122.373,
+      "precision": "area"
+    },
+    "hook": "Pier 98 was built from rubble for a bay crossing that never came. Shorebirds moved in first, and eventually the city gave up and made it a park.",
+    "story": "In the 1970s trucks dumped fill on the Port's southern waterfront to build an industrial pier. Later it was planned as the footing for a new span across the bay [1]. Both plans fell through and years of arguing followed. Some people wanted all the fill taken out, but the port warned that removal would cost millions and leave a big hole in the shoreline [1]. Meanwhile birdwatchers noticed that as the loose fill settled, tidal pools were forming and migrating birds were arriving [1]. In 1998 crews cleared some 5,000 tons of debris and dug a winding channel to let the tides into a salt marsh. The 25-acre park, which looks like a heron's head from above, opened in 1999 [1]. Hunters Point schoolchildren planted native species, and by 2004 at least 68 native varieties grew there, next door to a working power plant and cargo pier [1]. In 2010 Literacy for Environmental Justice prepared to open its EcoCenter in the park. About 400 young people helped plan it. It was the first building in the city to run completely off the grid, and it treats its own wastewater on site [2].",
+    "people": [
+      {
+        "name": "Literacy for Environmental Justice",
+        "role": "youth environmental nonprofit"
+      },
+      {
+        "name": "Carol Bach",
+        "role": "Port of San Francisco environmental programs director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SAN FRANCISCO: Park flourishes in a tough locale",
+        "publisher": "San Francisco Chronicle / SFGATE",
+        "year": 2004,
+        "url": "https://www.sfgate.com/green/article/SAN-FRANCISCO-Park-flourishes-in-a-tough-locale-2708694.php",
+        "supports": "Pier 98 history, fill, bridge plan, debate, 1998 debris clearance, 25 acres, 68 native varieties, five-year anniversary"
+      },
+      {
+        "title": "Environmental Education Off the Grid",
+        "publisher": "Bay Nature",
+        "year": 2010,
+        "url": "https://baynature.org/article/environmental-education-off-the-grid/",
+        "supports": "EcoCenter, 400 youth, first off-grid building, wastewater system"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-quesada-gardens",
+    "title": "Collard Greens on a Dumping Ground",
+    "theme": "communities",
+    "year": 2002,
+    "yearEnd": 2006,
+    "place": {
+      "label": "Quesada Avenue median, 1700 block",
+      "lat": 37.7334,
+      "lon": -122.392,
+      "precision": "block"
+    },
+    "hook": "In 2002 two neighbours looked at a Quesada Avenue median full of rusting appliances, needles and bottles, and decided to plant collard greens.",
+    "story": "The palm-lined median down the 1700 block of Quesada Avenue, just off Third Street, had been neglected for years and was covered in rusting appliances and raw garbage [1]. One neighbour described \"dead grass, weeds... beer cans, liquor bottles, needles,\" with drug dealing and violence on the block [2]. In early 2002 Annette Smith and Karl Paige dug up the earth and planted collard greens and flowers [1][2]. Neighbours brought plants from their own backyards. Jeffrey Betcher joined them, and after a community meeting in 2003 the group became the Quesada Gardens Initiative [2]. By 2006 the whole length of the median was a vegetable and flower garden [1], and the project grew to six community gardens, two murals and a weekly newsletter [2]. \"People respond differently to everything when they're on a block where they have a sense that people know one another,\" Betcher said [2]. Paige died in 2007 and Smith moved off the block in 2009. The neighbours who took over still look after the garden the two of them started [1]. Photographs from August 2007 show the median in full growth [3].",
+    "people": [
+      {
+        "name": "Annette Smith",
+        "role": "co-founder"
+      },
+      {
+        "name": "Karl Paige",
+        "role": "co-founder"
+      },
+      {
+        "name": "Jeffrey Betcher",
+        "role": "neighbour and organizer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Welcome to Quesada Gardens: History",
+        "publisher": "Quesada Gardens Initiative",
+        "year": 2023,
+        "url": "https://www.quesadagardens.org/",
+        "supports": "2002 founding, condition of median, 2006 full median, Paige d. 2007, Smith left 2009"
+      },
+      {
+        "title": "Neighbors are doin' it for themselves at Quesada Gardens Initiative",
+        "publisher": "KALW Crosscurrents",
+        "year": 2017,
+        "url": "https://www.kalw.org/show/crosscurrents/2017-10-24/neighbors-are-doin-it-for-themselves-at-quesada-gardens-initiative",
+        "supports": "collards, 2003 organization, six gardens, murals, newsletter, Betcher quote, pre-garden description"
+      },
+      {
+        "title": "Quesada and 3rd",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Quesada_and_3rd",
+        "supports": "August 2007 photograph of the garden; Annette Smith as founder"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-tetra-tech-soil",
+    "title": "The Soil Samples That Weren't",
+    "theme": "modern-city",
+    "year": 2016,
+    "place": {
+      "label": "Hunters Point Shipyard, Parcel A homes (Innes Court)",
+      "lat": 37.72792,
+      "lon": -122.367913,
+      "precision": "area"
+    },
+    "hook": "The Navy's contractor was supposed to show the old shipyard was safe for thousands of new homes. Instead, regulators found, some of its soil samples had come from somewhere else.",
+    "story": "From 1946 to 1969 the Naval Radiological Defense Laboratory worked at Hunters Point, cleaning ships contaminated by the Bikini atomic tests and studying fallout. In 1956 alone, 980 tons of radioactive waste were dumped at sea [1]. Decades later, cleaning up the Superfund site was the precondition for turning the yard into a neighbourhood of more than 12,000 homes [2]. Tetra Tech, the contractor hired to measure radionuclides and other contaminants, had been testing soil there since at least the mid-1990s [2]. Whistleblowers inside the firm began speaking out around 2012. The Nuclear Regulatory Commission confirmed that the company had taken dirt from an area known to be clean and passed it off as coming from another area, where housing was planned [2]. In July 2016 the Navy admitted to Greenaction that it had found 386 \"anomalous\" samples out of more than 25,000. On 13 September the EPA wrote to the Navy, and land transfers to the developer FivePoint were put on hold [2]. Critics argued that the bigger problem was how much of the shipyard had never been tested at all [3]. By then the first 88 townhomes, built on land handed over years earlier, had already sold out [2].",
+    "people": [
+      {
+        "name": "Daniel Hirsch",
+        "role": "nuclear policy researcher, Committee to Bridge the Gap"
+      },
+      {
+        "name": "Greenaction",
+        "role": "environmental justice group"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Decommissioned: Naval Radiological Defense Laboratory 1946-1969 (Stacey Carter)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Decommissioned:_Naval_Radiological_Defense_Laboratory_1946-1969",
+        "supports": "NRDL history, 980 tons dumped in 1956, Tetra Tech fraud revealed 2016–17"
+      },
+      {
+        "title": "Faked Soil Samples Throw Hunters Point Shipyard Development Into Disarray (Chris Roberts)",
+        "publisher": "San Francisco Magazine",
+        "year": 2016,
+        "url": "https://web.archive.org/web/20190716004408/https://www.modernluxury.com/san-francisco/story/faked-soil-samples-throw-hunters-point-shipyard-development-disarray",
+        "supports": "12,000 homes, Tetra Tech since mid-1990s, NRC finding, 386 of 25,000 samples, Sept 13 EPA letter, transfer halted, 88 townhomes"
+      },
+      {
+        "title": "Navy's Own Complicity in the Historic Eco-Fraud Scandal at Hunters Point (Greg M. Schwartz)",
+        "publisher": "FoundSF (originally San Francisco Bay View)",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Navy%E2%80%99s_Own_Complicity_in_the_Historic_Eco-Fraud_Scandal_at_Hunters_Point",
+        "supports": "criticism that most of the shipyard was never tested"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-linda-brooks-burton-library",
+    "title": "Linda's House on Third Street",
+    "theme": "communities",
+    "year": 2013,
+    "yearEnd": 2015,
+    "place": {
+      "label": "Bayview Linda Brooks-Burton Branch Library, 5075 Third Street",
+      "lat": 37.732482,
+      "lon": -122.391314,
+      "precision": "building"
+    },
+    "hook": "For generations of Bayview kids, walking into the library felt like walking into \"Linda's House.\" When the new branch opened, it soon took her name.",
+    "story": "Bayview's library started as a storefront in 1927. In 1969 a red-brick branch went up at Third Street and Revere Avenue, paid for with a $185,700 bequest from Anna E. Waden, a city clerical worker [1]. Linda Brooks-Burton was born and raised in the neighbourhood. She ran the branch from 1995 until 2011, when she was promoted to oversee the southeast libraries [2]. Generations of residents said walking in felt like walking into \"Linda's House\" [2]. She co-founded the Bayview History Preservation Project in 2007 to record the migration of Black workers to shipyard jobs and the culture they built [2]. The SF Bay View remembered her excitement at finding decades-old community newspapers, one of which she lent them to reprint accounts of the 1966 uprising [3]. Library officials called her the quiet champion behind the push for a new branch [2], which opened on 23 February 2013 [1]. Seven months later, on 19 September 2013, she died suddenly of a heart attack. She was 49 [2][3]. Residents campaigned to honour her, and in March 2015 the library was renamed the Bayview Linda Brooks-Burton Branch [2].",
+    "people": [
+      {
+        "name": "Linda Brooks-Burton",
+        "role": "librarian and community historian"
+      },
+      {
+        "name": "Anna E. Waden",
+        "role": "benefactor of the 1969 branch"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bayview Library History",
+        "publisher": "San Francisco Public Library",
+        "year": null,
+        "url": "https://sfpl.org/locations/bayview/library-history",
+        "supports": "1927 storefront, 1969 building, Waden bequest, 2013 opening"
+      },
+      {
+        "title": "Bayview library relaunches as Linda Brooks-Burton branch",
+        "publisher": "Bay City News / SFBay",
+        "year": 2015,
+        "url": "https://sfbayca.com/2015/03/27/bayview-library-relaunches-as-linda-brooks-burton-branch/",
+        "supports": "tenure 1995–2011, 'Linda's House', History Preservation Project 2007, death date and cause, renaming"
+      },
+      {
+        "title": "Linda Brooks Burton, pride of Bayview Hunters Point, passes (Mary Ratcliff)",
+        "publisher": "San Francisco Bay View",
+        "year": 2013,
+        "url": "https://sfbayview.com/2013/09/linda-brooks-burton-pride-of-bayview-hunters-point-passes/",
+        "supports": "local roots, newspaper discovery and 1966 reprint, age 49"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-recology-artists-dump",
+    "title": "Artists in Residence at the City Dump",
+    "theme": "arts-counterculture",
+    "year": 1990,
+    "place": {
+      "label": "Recology Artist in Residence studios, 501 Tunnel Avenue",
+      "lat": 37.708457,
+      "lon": -122.400977,
+      "precision": "building"
+    },
+    "hook": "Since 1990 San Francisco has given artists a studio, a stipend and first pick of the dump. It was the first program of its kind in the United States.",
+    "story": "In 1989 California's AB 939 required every city to keep at least half its waste out of landfills by 2000, and San Francisco's plan called for public education [1]. The artist Jo Hanson had an idea. She had become known in the 1970s for sweeping the littered sidewalk outside her Buchanan Street Victorian. That habit grew into a public art practice and a citywide anti-litter campaign, including a bus tour of illegal dumping sites [1]. In the late 1980s she suggested an artist residency at the dump itself. The programme began in 1990 at the transfer station on Tunnel Avenue, run with the San Francisco Sanitary Fill Company, now called Recology. It was the first of its kind in the United States [1]. Artists gather materials from the public disposal area and paint from the household hazardous waste facility. They talk with visiting schoolchildren and finish with a public exhibition [1]. It is less leisurely than it sounds. One 2006 resident described competing with front-end loaders for the best finds and admitted to nerves: \"It is, after all, garbage\" [2]. Hanson served on the programme's board until her death in 2007. More than 190 professional artists have now completed residencies [1].",
+    "people": [
+      {
+        "name": "Jo Hanson",
+        "role": "environmental artist and program founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Artist in Residence Program",
+        "publisher": "Recology San Francisco",
+        "year": 2025,
+        "url": "https://www.recology.com/recology-san-francisco/artist-in-residence-program/",
+        "supports": "AB 939, Hanson biography, founding 1990, first in US, materials, board until 2007, 190+ artists"
+      },
+      {
+        "title": "VISUAL ARTS: Is it garbage or is it art?",
+        "publisher": "SFGATE",
+        "year": 2006,
+        "url": "https://www.sfgate.com/thingstodo/article/VISUAL-ARTS-IS-IT-GARBAGE-OR-IS-IT-ART-2536998.php",
+        "supports": "residents' experience scavenging, front-end loader, quote, program since 1990"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  }
+]

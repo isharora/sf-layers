@@ -1,0 +1,654 @@
+[
+  {
+    "id": "nob-hill-fairmont-julia-morgan",
+    "title": "A burned-out palace, rescued by Julia Morgan",
+    "theme": "quake1906",
+    "year": 1907,
+    "yearEnd": null,
+    "place": {
+      "label": "Fairmont Hotel, 950 Mason Street",
+      "lat": 37.79218,
+      "lon": -122.41067,
+      "precision": "building"
+    },
+    "hook": "The Fairmont's new owners had held the deed for twelve days when the fire came. A year later, a young woman architect opened its doors.",
+    "story": "Senator James Fair's daughters, Tessie and Virginia, built the Fairmont in his memory on the summit lot where he had planned his own mansion, hiring the architects James and Merritt Reid. Shortly before it was finished they sold it to the brothers Herbert and Hartland Law. The sale closed on April 6, 1906, twelve days before the earthquake [1]. The fire left the hotel little more than a shell: the interior burned badly, though the outer walls could be saved. Some experts doubted it could be rescued at all [2]. Every other residence on the summit burned except the Flood mansion across the street [1]. Herbert Law first hired the New York architect Stanford White, who was shot dead a few weeks later. The job then went to Julia Morgan, the first woman to graduate from the École des Beaux-Arts in Paris, who had been practising in the Bay Area for about two years [1][2]. Under her supervision the Fairmont opened on April 18, 1907, a year to the day after the disaster, though some sources give April 16 [1]. In 1908 Tessie Fair Oelrichs took the hotel back from the Laws [1].",
+    "people": [
+      {
+        "name": "Julia Morgan",
+        "role": "architect of the post-fire restoration"
+      },
+      {
+        "name": "Herbert Law",
+        "role": "owner who chose to rebuild"
+      },
+      {
+        "name": "Tessie Fair Oelrichs",
+        "role": "daughter of James Fair; builder and later owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places nomination: Fairmont Hotel",
+        "publisher": "National Park Service",
+        "year": 2002,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/02000373_text",
+        "supports": "Sale to the Laws on April 6, 1906; fire damage; White then Morgan; opening April 18, 1907 (or 16); only the Flood Mansion and the Fairmont survived; Oelrichs regained the hotel in 1908"
+      },
+      {
+        "title": "National Register #02000373: Fairmont Hotel",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/nat2002000373.asp",
+        "supports": "Experts doubted it could be salvaged; Herbert Law hired Stanford White, then Julia Morgan"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-fairmont-un-penthouse",
+    "title": "Big Five bargaining in a hotel penthouse",
+    "theme": "war-military",
+    "year": 1945,
+    "yearEnd": null,
+    "place": {
+      "label": "Fairmont Hotel penthouse, 950 Mason Street",
+      "lat": 37.79205,
+      "lon": -122.4103,
+      "precision": "building"
+    },
+    "hook": "In spring 1945 the shape of the United Nations was hammered out, night after night, in a Nob Hill penthouse whose resident was asked to move out.",
+    "story": "From April 25 to June 25, 1945, San Francisco hosted the United Nations Conference on International Organization. Seven hotels housed delegates, and the Fairmont became the base for the United States, Czechoslovakia, Yugoslavia, Belgium, South Africa, Saudi Arabia and Norway [1]. Secretary of State Edward Stettinius, who chaired the US delegation, took the penthouse, which had been added in 1927. Its resident, Maude Flood, agreed to move out temporarily at the State Department's request [1]. It became the room where the Big Five, the United States, Britain, France, the Soviet Union and China, met before and after consulting the other nations. \"Tonight,\" Stettinius wrote to President Truman on June 1, \"a big five meeting is scheduled at 9 in my apartment.\" The next day he reported progress on voting procedures, amendments and the nomination of a Secretary-General [1]. Popular accounts often say the Charter was signed at the Fairmont [2]. It wasn't. It was negotiated during the conference and signed the day after it closed by fifty nations in the Herbst Theater auditorium of the Veterans Building [1].",
+    "people": [
+      {
+        "name": "Edward Stettinius",
+        "role": "US Secretary of State, chairman of the US delegation"
+      },
+      {
+        "name": "Maude Flood",
+        "role": "penthouse resident who vacated it for the conference"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places nomination: Fairmont Hotel",
+        "publisher": "National Park Service",
+        "year": 2002,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/02000373_text",
+        "supports": "Conference dates; seven hotels; nations based at the Fairmont; Stettinius in penthouse; Maude Flood moved out; Big Five meetings; Stettinius letters to Truman; Charter signed in Herbst Theater"
+      },
+      {
+        "title": "National Register #02000373: Fairmont Hotel",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/nat2002000373.asp",
+        "supports": "Example of the common claim that the Charter was signed at the Fairmont"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-tonga-room",
+    "title": "A society swimming pool becomes a lagoon",
+    "theme": "arts-counterculture",
+    "year": 1945,
+    "yearEnd": null,
+    "place": {
+      "label": "Tonga Room, Fairmont Hotel (terrace level, Powell Street side)",
+      "lat": 37.79232,
+      "lon": -122.40985,
+      "precision": "building"
+    },
+    "hook": "The Fairmont's 1929 indoor swimming pool never really went away. In 1945 a Hollywood set designer turned it into a tropical lagoon, complete with indoor rainstorms.",
+    "story": "In 1929 the Fairmont's owner, George D. Smith, added an indoor pool, the Fairmont Terrace Plunge, designed by Lewis Hobart. Building it enclosed the terrace level along the hotel's east side [1]. The 75-foot pool became a magnet for well-heeled locals and celebrities [2]. In 1945, the year Benjamin Swig and J.D. Weiler bought control of the hotel, Mel Melvin, then MGM's leading set director, was hired to turn the Plunge into the Tonga Room. He made the pool the central lagoon of a new bar and restaurant [1][2]. Apart from a late-1960s update and a 2008 restoration, it has changed little, and it still feels like a film set [2]. Musicians play on a floating barge, fake thunderstorms send \"rain\" into the lagoon every half hour, and the dance floor is made from planks salvaged from a lumber schooner [2]. In 2009 the hotel's owners floated a redevelopment that put the bar at risk. Fans responded by packing it, with lines out the door for months, and the plans stalled for the time being [2]. Anthony Bourdain later joked that it was \"the greatest place in the history of the world\" [2].",
+    "people": [
+      {
+        "name": "Mel Melvin",
+        "role": "MGM set director who designed the Tonga Room"
+      },
+      {
+        "name": "George D. Smith",
+        "role": "owner who built the Terrace Plunge"
+      },
+      {
+        "name": "Lewis Hobart",
+        "role": "architect of the Plunge"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places nomination: Fairmont Hotel",
+        "publisher": "National Park Service",
+        "year": 2002,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/02000373_text",
+        "supports": "1929 Terrace Plunge by Lewis Hobart; enclosed the east terrace; Plunge is now the Tonga Room; Swig and Weiler bought control in 1945"
+      },
+      {
+        "title": "Historic Bars: The Tonga Room, San Francisco",
+        "publisher": "National Trust for Historic Preservation (Saving Places)",
+        "year": 2014,
+        "url": "https://savingplaces.org/stories/historic-bars-tonga-room-san-francisco",
+        "supports": "75-foot pool; Mel Melvin of MGM in 1945; barge, storms, schooner planks; later updates; 2009 threat and response; Bourdain quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-top-of-the-mark",
+    "title": "Last drinks at Weepers' Corner",
+    "theme": "war-military",
+    "year": 1939,
+    "yearEnd": 1945,
+    "place": {
+      "label": "Top of the Mark, Mark Hopkins Hotel, 999 California Street",
+      "lat": 37.79176,
+      "lon": -122.41032,
+      "precision": "building"
+    },
+    "hook": "Pacific-bound servicemen toasted their last night of liberty nineteen floors up. As their ships slipped out the Golden Gate, the women they left behind gathered at one window.",
+    "story": "The Mark Hopkins Hotel opened on December 4, 1926, on the site of the railroad magnate Mark Hopkins' mansion, which burned in 1906 [1][2]. In 1939 the owner, George D. Smith, turned the 11-room penthouse on the 19th floor into a glass-walled cocktail lounge with a 360-degree view. NoeHill credits the design to Timothy Pflueger and dates it to 1936 [2][3]. The hotel's own history says Smith doubted anyone would ride 19 floors just for a drink. But the Top of the Mark was an instant hit when it opened on May 11, 1939, the year the Golden Gate International Exposition lit up Treasure Island [3]. According to the Chronicle columnist Herb Caen, the name came from Smith's friends. When Smith said he didn't know what to call the top of The Mark, they told him he had just named it [3]. During the Second World War it was a favourite last stop for Pacific-bound servicemen. Squadrons left a bottle with the bartender, and returning men signed the label and drank for free. Whoever finished the bottle bought the next one [2][3]. As the ships left the Golden Gate, wives and sweethearts gathered in the northwest corner to watch, and it became known as \"Weepers' Corner\" [3].",
+    "people": [
+      {
+        "name": "George D. Smith",
+        "role": "hotel owner who created the lounge"
+      },
+      {
+        "name": "Timothy Pflueger",
+        "role": "architect credited with the lounge design"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco: Landmark Mark Hopkins hotel turns 85",
+        "publisher": "Los Angeles Times",
+        "year": 2011,
+        "url": "https://www.latimes.com/travel/la-xpm-2011-dec-01-la-trb-mark-hopkins-20111128-story.html",
+        "supports": "Opened December 4, 1926 on the site of the Hopkins mansion, burned after 1906"
+      },
+      {
+        "title": "San Francisco Landmark #184: Mark Hopkins Hotel",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf184.asp",
+        "supports": "Pflueger design dated 1936; squadron bottles; wives and sweethearts in the northwest corner"
+      },
+      {
+        "title": "History of the Mark Hopkins (archived hotel website)",
+        "publisher": "InterContinental Mark Hopkins San Francisco",
+        "year": 2010,
+        "url": "https://web.archive.org/web/2010/http://www.intercontinentalmarkhopkins.com/history.aspx",
+        "supports": "11-room penthouse converted in 1939; opened May 11, 1939; Smith's doubts; Caen naming anecdote; squadron bottles; Weepers' Corner"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-flood-mansion-pacific-union-club",
+    "title": "The brownstone that outlived the fire",
+    "theme": "architecture-landmarks",
+    "year": 1909,
+    "yearEnd": 1910,
+    "place": {
+      "label": "Pacific-Union Club (Flood Mansion), 1000 California Street",
+      "lat": 37.79226,
+      "lon": -122.4114,
+      "precision": "building"
+    },
+    "hook": "Every wooden palace on Nob Hill burned in 1906. The one real stone mansion survived as a scorched shell, and a gentlemen's club moved in.",
+    "story": "When the silver king James Clair Flood built his Nob Hill mansion in the 1880s, he had brownstone cut in Connecticut and shipped around Cape Horn. His neighbours' palaces were wood, painted to look like stone [1]. The difference showed on April 19, 1906, when the fire reached the house. It destroyed the interior, but the stone shell stood [1]. Flood's unmarried daughter Cora, who had lived there until that year, sold the scorched building to the Pacific-Union Club in 1909 [1]. The club held an architectural competition. Albert Pissis, a member, won with a grand white stone building that would have made Nob Hill \"a second Acropolis\". It began to look too expensive, and the commission went to Willis Polk, the only contender who wanted to keep what was left of the mansion [1]. NoeHill says William Bourn, who sat on the building committee, secured the job for Polk [2]. In 1910 Polk added semicircular wings and a third floor, using brownstone from the same Connecticut quarry, and fitted out five dining rooms, a swimming pool and a squash court [1]. By the time of the mansion's 1960s landmark nomination, women had been allowed inside only once, for the 1952 Centennial Ball [1].",
+    "people": [
+      {
+        "name": "James Clair Flood",
+        "role": "Comstock silver magnate who built the mansion"
+      },
+      {
+        "name": "Cora Flood",
+        "role": "daughter who sold the ruin to the club"
+      },
+      {
+        "name": "Willis Polk",
+        "role": "architect of the club conversion"
+      },
+      {
+        "name": "Albert Pissis",
+        "role": "architect whose winning design was dropped"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places nomination: James C. Flood Mansion",
+        "publisher": "National Park Service",
+        "year": 1966,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/66000230_text",
+        "supports": "Connecticut brownstone; wooden neighbours; fire of April 19, 1906; Cora's sale in 1909; Pissis competition and 'second Acropolis'; Polk's 1910 remodel; women admitted only in 1952"
+      },
+      {
+        "title": "San Francisco Landmark #64: Flood Mansion",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf064.asp",
+        "supports": "Only great Nob Hill house to survive, saved by its brownstone walls; William Bourn secured the commission for Polk"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-grace-cathedral-carillon",
+    "title": "A dentist's vow, rung in 44 bells",
+    "theme": "communities",
+    "year": 1940,
+    "yearEnd": 1943,
+    "place": {
+      "label": "Grace Cathedral, Singing (north) Tower, 1100 California Street",
+      "lat": 37.79165,
+      "lon": -122.41331,
+      "precision": "building"
+    },
+    "hook": "In 1875 a lonely young immigrant knelt in a church with no bell tower and promised it chimes. Sixty-five years later, his bells rang out over Nob Hill.",
+    "story": "When Nathaniel T. Coulson arrived in San Francisco in 1875, he found his way to Grace Church, which had no bell tower. As he knelt there, he later said, a thought came to him: \"If ever I will have the money, this church will have its chimes\" [1]. Coulson was a British-born dentist and realtor, and a Methodist. He spent his life savings on that promise, and in his last years he lived on a dollar a day [1]. His gift was a carillon of 44 bronze bells, cast by Gillett & Johnston in Croydon, England, in 1938, with a six-ton hour bell. He also paid for the \"Singing Tower\" to house them in Lewis Hobart's Gothic cathedral, which was then still being built [1][2]. One small bell is named Sympathy after Abigail Santo, a Sunday school organist in Cornwall. When other children refused to sit near the orphaned Coulson, he had seen her cry [1]. The tower wasn't finished in time, so the bells first rang at the Tower of the Sun during the 1939–40 exposition on Treasure Island. They rang from Nob Hill for the first time on Christmas Eve 1940 and were dedicated in 1943. At first they chimed every hour through the night, until neighbours who couldn't sleep complained [1].",
+    "people": [
+      {
+        "name": "Nathaniel T. Coulson",
+        "role": "dentist and realtor who gave the carillon"
+      },
+      {
+        "name": "Abigail Santo",
+        "role": "Cornish Sunday school organist honoured by the bell 'Sympathy'"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Bells Shall Ring (Tales from the Crypt)",
+        "publisher": "Grace Cathedral (Michael Lampen), archived",
+        "year": 1998,
+        "url": "https://web.archive.org/web/20080930082016/http://www.gracecathedral.org/content/arts/cry_19980701.shtml",
+        "supports": "Coulson's 1875 vow and quote; dentist, realtor, Methodist; dollar a day; 44 bells cast 1938 in Croydon; 6-ton bourdon; Sympathy bell; Treasure Island; Christmas Eve 1940; dedication 1943; night chiming complaints"
+      },
+      {
+        "title": "San Francisco Landmark #170: Grace Cathedral Close",
+        "publisher": "NoeHill in San Francisco (quoting SF Planning Commission Resolution 9917)",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf170.asp",
+        "supports": "Cathedral designed by Lewis P. Hobart in Gothic style"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-huntington-park-turtles",
+    "title": "A widow's gift, and the stolen turtles",
+    "theme": "parks-nature",
+    "year": 1915,
+    "yearEnd": 1955,
+    "place": {
+      "label": "Collis P. Huntington Park, California and Taylor streets",
+      "lat": 37.79218,
+      "lon": -122.41212,
+      "precision": "area"
+    },
+    "hook": "Collis Huntington's mansion burned in 1906, and his widow gave the empty block to the city. Decades later it gained a Roman fountain, and eventually lost its turtles to thieves.",
+    "story": "The railroad baron Collis P. Huntington's house stood on this Nob Hill block until the 1906 earthquake and fire. In 1915 his widow donated the land to the city, and it became a 1.3-acre neighbourhood park between California and Sacramento streets at Taylor [1]. Across California Street, the Crocker family's burned-out estate had been given to Grace Cathedral, whose front doors face the park [2]. The park's centrepiece arrived later. It is a copy of Rome's Fontana delle Tartarughe, the Fountain of the Turtles, designed by Giacomo della Porta and Taddeo Landini in 1583. The wife of the banker William H. Crocker found the copy at a villa outside Rome and bought it for her home in Hillsborough [2]. When that estate was sold, the Crocker heirs gave the fountain to San Francisco. The Board of Supervisors accepted it on October 4, 1954, and it was installed here in 1955 [2]. The turtles didn't stay put. Vandals stole them, and for the fountain's 1984 restoration new ones were cast from a similar fountain at the Ringling Bros. and Barnum & Bailey circus headquarters in Sarasota, Florida [2].",
+    "people": [
+      {
+        "name": "Collis P. Huntington",
+        "role": "railroad baron whose mansion stood here"
+      },
+      {
+        "name": "Arabella Huntington",
+        "role": "Collis Huntington's widow, who donated the site"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Collis P. Huntington Park (archived facility page)",
+        "publisher": "San Francisco Recreation and Park Department",
+        "year": 2022,
+        "url": "https://web.archive.org/web/20220125235650/http://sfrecpark.org/facilities/facility/details/collisphuntingtonpark-160",
+        "supports": "1.3-acre park; location; donated in 1915 by Huntington's widow"
+      },
+      {
+        "title": "Nob Hill – Fountain of the Turtles",
+        "publisher": "ArtandArchitecture-SF.com",
+        "year": 2012,
+        "url": "https://artandarchitecture-sf.com/nob-hill-san-francisco-march-30-2012.html",
+        "supports": "Fountain copy of the 1583 original; found by Mrs. William H. Crocker; gift accepted Oct. 4, 1954; installed 1955; turtles stolen and recast from Sarasota fountain in 1984; Crocker land given to Grace Cathedral"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-klussmann-cable-cars",
+    "title": "The woman who out-voted the mayor",
+    "theme": "architecture-landmarks",
+    "year": 1947,
+    "yearEnd": null,
+    "place": {
+      "label": "Washington-Mason Cable Car Barn, 1201 Mason Street",
+      "lat": 37.79461,
+      "lon": -122.41151,
+      "precision": "building"
+    },
+    "hook": "In 1947 the mayor said San Francisco should scrap its cable cars \"as soon as possible.\" A determined Telegraph Hill resident gathered signatures, and the voters sided with her.",
+    "story": "The Washington and Mason cable car barn and powerhouse, built in the 1880s, was largely destroyed in the 1906 fire and then rebuilt. After the disaster its engines were switched from steam to electric motors [1]. About fourteen barns and powerhouses once served the city's cable lines, and this is the only one left [1]. By 1947 buses were cheaper to run, and Mayor Roger Lapham declared that \"the city should get rid of all cable car lines as soon as possible\" [2]. When Friedel Klussmann learned that buses were being tested as replacements, she formed the Citizens' Committee to Save the Cable Cars. The committee quickly collected enough signatures to put a charter amendment, Measure 10, on the November ballot [2][3]. The fight made national news. Life magazine ran a photo spread on the gripmen, and the actress Katharine Cornell announced that she would never return to San Francisco if the cars were abandoned [2][3]. Measure 10 passed with 77 percent of the vote, requiring the city to keep the Powell Street lines running [2][3]. Klussmann couldn't stop later cuts to the system. But in 1964 the cars were declared a National Historic Landmark, and she was still defending them when she died in 1986, aged 90 [3].",
+    "people": [
+      {
+        "name": "Friedel Klussmann",
+        "role": "founder of the Citizens' Committee to Save the Cable Cars"
+      },
+      {
+        "name": "Roger Lapham",
+        "role": "mayor who proposed scrapping the cable cars"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #43: Cable Car Barn",
+        "publisher": "NoeHill in San Francisco (adapted from City Planning Commission Resolution 6725)",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf043.asp",
+        "supports": "Barn built 1885–87; only survivor of about fourteen; steam until 1906 then electric; largely destroyed by the fire and rebuilt"
+      },
+      {
+        "title": "Cable Car Heritage",
+        "publisher": "Cable Car Museum (Friends of the Cable Car Museum)",
+        "year": 2021,
+        "url": "http://www.cablecarmuseum.org/heritage.html",
+        "supports": "Lapham quote; Citizens' Committee; Measure 10; Life photo spread; landslide win for the Powell Street system"
+      },
+      {
+        "title": "Friedel Klussmann, 90; Champion of San Francisco Cable Cars' Preservation",
+        "publisher": "Los Angeles Times",
+        "year": 1986,
+        "url": "https://www.latimes.com/archives/la-xpm-1986-10-25-fi-7266-story.html",
+        "supports": "Buses tested in 1947; petition drive; Cornell's vow; 77% vote; later cuts; 1964 landmark; death at 90"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-chambord-apartments",
+    "title": "The 'Gaudí' that Gaudí never designed",
+    "theme": "architecture-landmarks",
+    "year": 1921,
+    "yearEnd": null,
+    "place": {
+      "label": "Chambord Apartments, 1298 Sacramento Street at Jones",
+      "lat": 37.79249,
+      "lon": -122.41408,
+      "precision": "building"
+    },
+    "hook": "People have long credited this billowing, wedding-cake apartment house to Barcelona's Antoni Gaudí. In fact it was designed by a San Francisco architect.",
+    "story": "Built in 1921 at Sacramento and Jones, the Chambord is a five-story apartment house of poured concrete. Its balconies bulge outward, following the oval living rooms inside [1]. The building's National Register nomination compares it to a wedding cake, and the city's landmarks board called it \"a first-rate architectural enigma which intrigues the casual passer-by and confounds the architectural historian\" [1][2]. It has often been attributed to Antoni Gaudí. The real designer was James Francis Dunn, a San Francisco architect with a taste for Art Nouveau [1][3]. The developer, James Witt Dougherty, was the grandson of an Alameda County pioneer landholder. He moved into the top-floor unit with his parents, and other family members took several of the apartments below [1]. That top floor was originally one apartment arranged around an open, octagonal garden room [1]. In 1926 the building was sold to Herbert E. Law, who also owned the Fairmont Hotel, and that year the garden room was walled in [1]. The city's landmark report suggests the Chambord may have set off the 1920s wave of luxury apartment houses nearby [2]. Its ornament was stripped in the 1960s and recreated in a 1982–83 restoration [1].",
+    "people": [
+      {
+        "name": "James Francis Dunn",
+        "role": "architect"
+      },
+      {
+        "name": "James Witt Dougherty",
+        "role": "developer and first top-floor resident"
+      },
+      {
+        "name": "Herbert E. Law",
+        "role": "owner from 1926"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register of Historic Places nomination: The Chambord",
+        "publisher": "National Park Service",
+        "year": 1984,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/84001184_text",
+        "supports": "1921; five stories; billowing balconies and oval rooms; wedding cake; Gaudí misattribution; Dunn; Dougherty family; garden room; 1926 sale to Law and alterations; 1960s stripping and 1982–83 restoration"
+      },
+      {
+        "title": "San Francisco Landmark #106: Chambord Apartments",
+        "publisher": "NoeHill in San Francisco (quoting Planning Commission Resolution 8039)",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/sf106.asp",
+        "supports": "'First-rate architectural enigma' quote; may have triggered the 1920s apartment wave"
+      },
+      {
+        "title": "National Register nomination: Lower Nob Hill Apartment Hotel District",
+        "publisher": "National Park Service",
+        "year": 1991,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91000957_text",
+        "supports": "Dunn described as an Art Nouveau specialist"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-hammett-891-post",
+    "title": "Sam Spade's apartment, and his creator's",
+    "theme": "arts-counterculture",
+    "year": 1928,
+    "yearEnd": 1929,
+    "place": {
+      "label": "891 Post Street at Hyde",
+      "lat": 37.78717,
+      "lon": -122.41638,
+      "precision": "building"
+    },
+    "hook": "Dashiell Hammett wrote The Maltese Falcon in a small apartment at Post and Hyde, then gave his detective Sam Spade the same address.",
+    "story": "Dashiell Hammett came to San Francisco in 1921, a former Pinkerton detective sick with tuberculosis he had caught in the Army [1]. From 1926, on a nurse's advice, he lived apart from his wife and daughters so they wouldn't catch it, taking the ferry to see them in Fairfax on Sundays [1]. He was living at 891 Post Street, on the corner of Hyde, while he wrote his first three novels, and he put Sam Spade in the same building in The Maltese Falcon [2]. The Chronicle says he wrote the book at the kitchen table of his Post Street apartment in 1928. It was published on Valentine's Day 1930 [1]. No record shows which unit he rented. But Hammett scholars, reading the Falcon closely and comparing the building's layouts, think #401 is the likeliest home for both Hammett and Spade. It's a front corner flat with windows on Post and Hyde [2]. It has the small bathroom where Spade sits on the tub while Brigid O'Shaughnessy is made to strip [2]. Hammett left San Francisco in 1929 [1]. When the building was dedicated as a literary landmark, his daughter Jo toured the flat and told visitors his first name was said more like \"Da-sheel\" than \"Dash-el\" [2].",
+    "people": [
+      {
+        "name": "Dashiell Hammett",
+        "role": "novelist, former Pinkerton operative"
+      },
+      {
+        "name": "Jo Hammett",
+        "role": "his younger daughter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dashiell Hammett's legacy lies not only in his writing, but in his living",
+        "publisher": "San Francisco Chronicle / SFGATE (Jesse Hamlin), archived",
+        "year": 2005,
+        "url": "https://web.archive.org/web/20160204021333/https://www.sfgate.com/entertainment/article/dashiell-hammett-s-legacy-lies-not-only-in-his-2700679.php",
+        "supports": "Arrival in 1921 with TB; Pinkerton past; living apart from 1926, Fairfax visits; writing at the Post Street kitchen table; published Valentine's Day 1930; left in 1929"
+      },
+      {
+        "title": "891 Post Street",
+        "publisher": "Mark Coggins",
+        "year": 2012,
+        "url": "http://www.markcoggins.com/891-post-street/",
+        "supports": "Hammett lived there while writing his first three novels; Spade in the same building; #401 reasoning; no records of his unit; bathroom scene; literary landmark dedication; Jo Hammett's pronunciation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-vertigo-empire-hotel",
+    "title": "Hitchcock's two Nob Hill addresses",
+    "theme": "arts-counterculture",
+    "year": 1958,
+    "yearEnd": null,
+    "place": {
+      "label": "Empire Hotel (later York Hotel), 940 Sutter Street",
+      "lat": 37.78858,
+      "lon": -122.41593,
+      "precision": "building"
+    },
+    "hook": "In Vertigo, Kim Novak lives on Nob Hill twice: as elegant Madeleine at the summit, and as shop girl Judy in a neon-signed hotel down the slope on Sutter Street.",
+    "story": "Alfred Hitchcock's Vertigo (1958) gives Kim Novak's character two addresses a few blocks apart. Madeleine Elster, the doubly fictional woman Scottie is hired to follow, lives in the Brocklebank Apartments on the summit, a building designed by Weeks & Day [2]. In real life the Brocklebank was home to the Chronicle columnist Herb Caen, who rode the Powell Street cable car to work [2]. Judy Barton, a sales clerk at Magnin's, is the woman Scottie spots on the street. She leads him along Sutter Street, past a beauty salon at 916 and a tailor and cleaners at 920, and into the Empire Hotel at 940 Sutter, between Leavenworth and Hyde [1]. He watches from across the street as she opens her window beside the letter P of the hotel's vertical sign. Reel SF's frame-by-frame reading puts the window at today's room 401 [1]. Her room scenes were shot on a studio set based on 401's layout, but Hitchcock flipped it so the door is on the left [1]. The Empire later became the York Hotel. By the time Reel SF wrote about it, the hotel had been renamed the Hotel Vertigo and played the film on a loop behind the check-in desk [1].",
+    "people": [
+      {
+        "name": "Alfred Hitchcock",
+        "role": "director"
+      },
+      {
+        "name": "Kim Novak",
+        "role": "actor playing Madeleine and Judy"
+      },
+      {
+        "name": "Herb Caen",
+        "role": "Chronicle columnist and Brocklebank resident"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vertigo – Empire Hotel (archived)",
+        "publisher": "Reel SF",
+        "year": 2016,
+        "url": "https://web.archive.org/web/20161023162953/http://reelsf.com/reelsf/vertigo-empire-hotel",
+        "supports": "Judy's route along Sutter (916, 920); Empire Hotel at 940 Sutter; letter P window and room 401; flipped studio set; York Hotel and Hotel Vertigo names"
+      },
+      {
+        "title": "Brocklebank Apartments",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/poi_brocklebank_apartments.asp",
+        "supports": "Weeks & Day design; Madeleine Elster lived here in Vertigo; Herb Caen resident and cable car commute"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-sullivan-fire-chiefs-home",
+    "title": "A home for the chief who never returned",
+    "theme": "quake1906",
+    "year": 1922,
+    "yearEnd": null,
+    "place": {
+      "label": "Dennis T. Sullivan Memorial Fire Chief's Home, 870 Bush Street",
+      "lat": 37.78993,
+      "lon": -122.41154,
+      "precision": "building"
+    },
+    "hook": "The 1906 earthquake sent a hotel's dome crashing through the fire chief's bedroom. As San Francisco burned for three days, its firefighters fought on without him.",
+    "story": "On the morning of April 18, 1906, Chief Engineer Dennis T. Sullivan of the San Francisco Fire Department was at his quarters at 410 Bush Street. When the earthquake struck, brick chimneys and the dome of the neighbouring California Hotel crashed down through the firehouse [1]. Battalion Chief Walter Cook reported that the roof and upper floors fell right through to the cellar. As rescuers dug, a broken radiator sprayed Sullivan with steam and scalding water. He managed to walk out of the rubble and was rushed to hospital with a fractured skull and broken ribs. His wife Margaret was pulled out and taken into the hotel, where a doctor treated her. Sullivan lingered for four days and died at the Presidio's Army hospital [1]. A marker outside notes that his firefighters, left leaderless, fought the flames for three days and nights [2]. In 1922 the city finished a new official residence for its fire chiefs at 870 Bush Street, designed by John Reid Jr. It has ground-floor doors for fire vehicles and was named for Sullivan [3]. It has gone on housing the city's chiefs, and it is San Francisco Landmark No. 42 [1][3].",
+    "people": [
+      {
+        "name": "Dennis T. Sullivan",
+        "role": "Fire Department chief engineer, mortally injured in 1906"
+      },
+      {
+        "name": "Margaret Sullivan",
+        "role": "his wife, who survived"
+      },
+      {
+        "name": "Walter A. Cook",
+        "role": "battalion chief who reported the collapse"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Fire Dept. Chief Engineer Dennis T. Sullivan – 1906",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "http://www.sfmuseum.org/hist10/dtsullivan.html",
+        "supports": "410 Bush quarters; California Hotel dome; Cook's report; injuries and steam; death at the Presidio after four days; new residence in the 1920s still used by chiefs"
+      },
+      {
+        "title": "San Francisco Landmark #42: Dennis T. Sullivan Memorial Fire Chief's Home",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf042.asp",
+        "supports": "Marker text: leaderless firemen fought three days and nights; landmark status; address"
+      },
+      {
+        "title": "National Register nomination: Lower Nob Hill Apartment Hotel District",
+        "publisher": "National Park Service",
+        "year": 1991,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/91000957_text",
+        "supports": "Built 1922, architect John Reid Jr.; fire truck doors; official chief's residence, function continuing; Landmark #42"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-masonic-memorial-temple",
+    "title": "Soil from 58 counties on Nob Hill",
+    "theme": "communities",
+    "year": 1958,
+    "yearEnd": null,
+    "place": {
+      "label": "California Masonic Memorial Temple, 1111 California Street",
+      "lat": 37.79118,
+      "lon": -122.41294,
+      "precision": "building"
+    },
+    "hook": "When California's Masons outgrew their Van Ness temple, they built a modernist hall on Nob Hill and filled a planter with earth from every county in the state.",
+    "story": "Fraternal orders boomed after the Second World War. Between 1946 and 1953 the number of Masons in California nearly doubled, to 225,000 [1]. Their 1913 temple at 25 Van Ness couldn't keep up. From 1952 the annual meeting moved to the Civic Auditorium, and an arson fire that January did more than $100,000 in damage [1]. In 1953 a search committee whose tongue-in-cheek motto was \"make haste slowly\" settled on the southwest corner of California and Taylor. At the time it held a gas station and a four-story apartment building, across from the unfinished Grace Cathedral [1]. Every member was asked to give \"one day's wages\", about $9, and each giver's name went into an open book [1]. At the groundbreaking on October 27, 1955, Grand Master Henry C. Clausen poured corn, oil and wine onto the ground. Strikes slowed the work, and on May 9, 1956, a cave-in buried two workers. One died; the other, Kenneth Archer, was rescued after three hours [1]. Albert Roller's modernist temple was finished in spring 1958, and the San Francisco Symphony gave the first concert on April 19 [1][2]. Beneath Emile Norman's memorial frieze, a planter holds soil from all 58 California counties and every Hawaiian island [1].",
+    "people": [
+      {
+        "name": "Albert Roller",
+        "role": "architect"
+      },
+      {
+        "name": "Emile Norman",
+        "role": "artist of the frieze and endomosaic window"
+      },
+      {
+        "name": "Henry C. Clausen",
+        "role": "Grand Master at the groundbreaking"
+      },
+      {
+        "name": "Kenneth Archer",
+        "role": "worker rescued from the 1956 cave-in"
+      }
+    ],
+    "sources": [
+      {
+        "title": "California Masonic Memorial Temple",
+        "publisher": "Masons of California (freemason.org)",
+        "year": 2022,
+        "url": "https://freemason.org/california-masonic-memorial-temple/",
+        "supports": "Membership growth; Van Ness temple; 1952 Civic Auditorium and arson; 1953 site; 'make haste slowly'; 'one day's wages'; groundbreaking rites; 1956 cave-in; Roller design; first concert April 19, 1958; soil from 58 counties and Hawaiian islands"
+      },
+      {
+        "title": "Old Masonic Temple (Point of Historical Interest)",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2010,
+        "url": "https://noehill.com/sf/landmarks/poi_masonic_temple.asp",
+        "supports": "Freemasons moved to their Nob Hill temple in 1958"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "nob-hill-swan-oyster-depot",
+    "title": "Eighteen stools and a lucky Danish swan",
+    "theme": "labor-industry",
+    "year": 1912,
+    "yearEnd": null,
+    "place": {
+      "label": "Swan Oyster Depot, 1517 Polk Street",
+      "lat": 37.79077,
+      "lon": -122.42087,
+      "precision": "building"
+    },
+    "hook": "Fire destroyed the Lausten brothers' oyster shop in 1906. Six years later they tried again on Polk Street, and named it after Denmark's bird of good fortune.",
+    "story": "Before 1906, a group of Danish brothers named Lausten ran a nearby seafood shop called the Cable Oyster Shop. Accounts differ on exactly when it opened, but it was around the turn of the century [1]. The fire that followed the earthquake destroyed it [1]. In 1912 the Laustens rebuilt and opened a new shop on Polk Street. This time they wanted some luck, so they named it after the swan, Denmark's national bird and a Danish symbol of good fortune [1]. The Chronicle reports that its vintage stools date from 1912 [1], and the counter still seats just 18 [2]. After the Second World War the Sancimino family bought the business. One Chronicle piece gives the year as 1946, another as 1947 [1][2]. Sal Sancimino's sons and grandsons have worked the counter ever since, cracking crab and steaming whole lobsters to order [2]. The Chronicle calls the place \"perfectly preserved in its timeless glory\" [1]. Swan later won a James Beard Award as an American Classic [2].",
+    "people": [
+      {
+        "name": "The Lausten brothers",
+        "role": "Danish founders"
+      },
+      {
+        "name": "Sal Sancimino",
+        "role": "owner from the 1940s whose family still runs it"
+      }
+    ],
+    "sources": [
+      {
+        "title": "How did Swan Oyster Depot get its avian name?",
+        "publisher": "San Francisco Chronicle Inside Scoop, archived",
+        "year": 2014,
+        "url": "https://web.archive.org/web/2016/http://insidescoopsf.sfgate.com/blog/2014/09/02/how-did-swan-oyster-depot-get-its-avian-name/",
+        "supports": "Lausten brothers; Cable Oyster Shop destroyed in 1906; reopened on Polk in 1912; swan as Denmark's national bird and luck symbol; 1912 stools; Sanciminos bought it in 1947"
+      },
+      {
+        "title": "Swan Oyster Depot (review)",
+        "publisher": "SFGATE / San Francisco Chronicle",
+        "year": 2013,
+        "url": "https://www.sfgate.com/restaurants/article/Swan-Oyster-Depot-4488057.php",
+        "supports": "18 stools; Sancimino family since 1946; sons and grandsons; crab and lobster; James Beard American Classic"
+      }
+    ],
+    "photo": null
+  }
+]

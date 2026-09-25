@@ -1,0 +1,652 @@
+[
+ {
+  "id": "mission-palou-first-mass-1776",
+  "title": "A brush shelter by the lake of sorrows",
+  "theme": "indigenous-early",
+  "year": 1776,
+  "place": {
+   "label": "Camp and Albion Streets (California Historical Landmark 327-1)",
+   "lat": 37.76413,
+   "lon": -122.4231,
+   "precision": "block"
+  },
+  "hook": "San Francisco's first Catholic mass was said not at the famous adobe, but under brushwood on the shore of a lake that may never have been a lake.",
+  "story": "Mission Dolores did not start where the white adobe stands. On June 29, 1776, Father Francisco Palóu, travelling with the Anza expedition, had a shelter of brushwood put up at the edge of a lagoon the Spanish called the Lago de los Dolores, and offered the first mass there [1]. The site had been scouted that March by the missionary Pedro Font, and the mission took its popular name from a nearby creek, the Arroyo de Nuestra Señora de los Dolores [2]. Wikipedia's infobox records the Ohlone place name as Chutchui [2]. A log-and-thatch mission was dedicated on October 9, 1776, once the needed church papers arrived; the adobe church a few blocks west came in 1791 [1][2]. Some sources place that first chapel near today's Camp and Albion streets, where a state plaque went up on June 29, 1995 [1][2]. The famous lagoon is slippery history. FoundSF argues it was probably only a seasonal, tidal pool, and that its reputation as a year-round lake comes largely from a map published in 1912 [3]. Either way, the water is long gone under the Mission's alleys.",
+  "people": [
+   {
+    "name": "Francisco Palóu",
+    "role": "Franciscan who said the first mass"
+   },
+   {
+    "name": "Pedro Font",
+    "role": "missionary who scouted the site"
+   }
+  ],
+  "sources": [
+   {
+    "title": "California Historical Landmark 327-1: Site of Original Mission Dolores Chapel and Dolores Lagoon",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/cal0327_1.asp",
+    "supports": "June 29, 1776 brushwood shelter and first mass, Lago de los Dolores, October 9 dedication, 1791 church, 1995 plaque"
+   },
+   {
+    "title": "Mission San Francisco de Asís",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_San_Francisco_de_As%C3%ADs",
+    "supports": "Font's March 1776 scouting, name from Dolores creek, Chutchui, chapel near Camp and Albion per some sources"
+   },
+   {
+    "title": "Lagoon and 1906 Mission",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Lagoon_and_1906_Mission",
+    "supports": "Lagoon probably seasonal/tidal; myth spread by 1912 map"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-valencia-moses-marriage-1850",
+  "title": "The Californio who married a Mormon outcast",
+  "theme": "communities",
+  "year": 1850,
+  "yearEnd": 1859,
+  "place": {
+   "label": "Site of the Valencia family adobe, near Notre Dame, 347 Dolores St at 16th",
+   "lat": 37.76386,
+   "lon": -122.42571,
+   "precision": "area"
+  },
+  "hook": "In 1850 a Californio farmer of the Valencia clan married a 16-year-old whose father had been cast out of his church. Perhaps the only match of its kind.",
+  "story": "When the ship Brooklyn sailed in on July 31, 1846, carrying about 230 Mormons, one family was already in disgrace. On the voyage, Sam Brannan had excommunicated Ambrose Todd Moses [1][2]. Shut out of the Mormon camp at Yerba Buena, the Moses family walked three miles to Dolores, a hamlet of about 100 Californios around the crumbling mission. There, according to historian Richard Bullock, the father built a lean-to against an old wall [1]. The neighbours were the Sanchez, de Haro, Bernal and Valencia clans. José Manuel Valencia had come with Anza in 1776. His grandson Candelario, a former Presidio sergeant, lived in an adobe near today's Notre Dame convent with his wife, Paula Sanchez, and their 13 children [1]. Valencia Street is named for the family [1][3]. On October 29, 1850, Candelario's son Eustaquio, 20, married Ann Frances Moses, 16. The wedding was reportedly held at the mission [1]. Gary Kamiya argues that a Californio man marrying an Anglo woman was almost unheard of at the time [1]. Ann died young. Her tombstone in the mission cemetery reads \"Ann F. Moses, wife of E. Valencia,\" born March 3, 1834, died February 5, 1859 [2].",
+  "people": [
+   {
+    "name": "Ann Frances Moses",
+    "role": "Brooklyn passenger who married into the Valencia family"
+   },
+   {
+    "name": "Eustaquio Valencia",
+    "role": "Californio farmer, her husband"
+   },
+   {
+    "name": "Candelario Valencia",
+    "role": "his father, former Presidio sergeant"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Unusual romance in early S.F. defied cultural taboos",
+    "publisher": "San Francisco Chronicle (Gary Kamiya)",
+    "year": 2021,
+    "url": "https://www.sfchronicle.com/chronicle_vault/article/Unusual-romance-in-early-S-F-defied-cultural-16240054.php",
+    "supports": "Excommunication, Dolores settlement, Valencia family history, adobe near Notre Dame, 1850 marriage, ages"
+   },
+   {
+    "title": "Tucked away in an S.F. cemetery, an intriguing tale of the early city",
+    "publisher": "San Francisco Chronicle (Gary Kamiya)",
+    "year": 2021,
+    "url": "https://www.sfchronicle.com/chronicle_vault/article/Tucked-away-in-an-S-F-cemetery-an-intriguing-16209027.php",
+    "supports": "Brooklyn arrival, Moses family, tombstone inscription and dates"
+   },
+   {
+    "title": "Valencia Street",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Valencia_Street",
+    "supports": "Street named after the Valencia family"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-pioneer-race-course-1852",
+  "title": "Racehorses where Treat Avenue runs",
+  "theme": "gold-rush-victorian",
+  "year": 1852,
+  "yearEnd": 1864,
+  "place": {
+   "label": "Pioneer Race Course site, 24th Street between Folsom and Bryant",
+   "lat": 37.75243,
+   "lon": -122.41135,
+   "precision": "area"
+  },
+  "hook": "Before the grid reached here, Gold Rush San Franciscans rode out the new plank road to bet on horses around a track spanning several of today's blocks.",
+  "story": "In the early 1850s the Mission was where San Francisco went to misbehave. By 1851 the buildings around the old mission held a brewery, saloons, a gambling den and a dance hall. The Mission Plank Road opened that year as a toll road along today's Mission Street, at 25 cents for a rider and a dollar for a four-horse team, and it made the trip from town easy [1]. In 1852 the Pioneer Race Track opened on land bounded by Mission, Bryant, 24th and Army (now Cesar Chavez) streets [1]. The blogger Burrito Justice, who has pored over the old maps, notes that the course belonged to George Treat, the name still on Treat Avenue. The ground lay just above the stone wall marking the northern boundary of the Bernal family's rancho [2]. An 1864 subdivision map of the race course still shows grandstands near 24th Street between Howard (now South Van Ness) and Folsom [2]. By then the track's days were numbered. In 1868 a baseball ground was built in the middle of it [2], and houses soon followed.",
+  "people": [
+   {
+    "name": "George Treat",
+    "role": "owner of the Pioneer Race Course"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Mission Becomes a Resort, 1850s (Charles Lockwood)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Mission_Becomes_a_Resort,_1850s",
+    "supports": "1851 entertainments, plank road tolls, 1852 Pioneer Race Track and its bounds"
+   },
+   {
+    "title": "The Mission Has Always Been The Home of Baseball",
+    "publisher": "Burrito Justice",
+    "year": 2010,
+    "url": "https://burritojustice.com/2010/02/17/the-mission-has-always-been-the-home-of-baseball/",
+    "supports": "Race course owned by George Treat, Bernal rancho wall, 1864 subdivision map and grandstands, 1868 ballground in its middle"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-the-willows-1860",
+  "title": "Summer girls at the Willows",
+  "theme": "gold-rush-victorian",
+  "year": 1860,
+  "yearEnd": 1862,
+  "place": {
+   "label": "The Willows resort site, 18th Street between Mission and Valencia",
+   "lat": 37.76209,
+   "lon": -122.41877,
+   "precision": "area"
+  },
+  "hook": "A creek, a stand of willows, bowling alleys and an emu: the Mission's first great pleasure garden drew Mark Twain, then drowned.",
+  "story": "San Francisco had no public parks in its early years, so people paid to visit private \"pleasure gardens\" [2]. One of the first was the Willows, set in a creek ravine between Mission and Valencia and 17th and 19th streets [1][2]. Willow trees fed by a stream from Twin Peaks gave it its name [2]. There was a dance platform, athletic fields, rides, rifle shooting, a winter skating pond and a small menagerie that included an emu [1][2]. The French banker François Pioche took it over around 1859 or 1860, and in 1860 opened a steam railway from Battery and Market out Valencia to the gates. The fare was 10 cents [2][3]. On a Sunday in August 1861, the silver man John Robinson found cars running every 15 minutes, \"crowded with happy faces\" [3]. Mark Twain went in 1863 or 1864 and later sighed over \"summer girls and summer dresses, and summer scenes at 'The Willows'\" [2]. The ravine was its undoing. Sources disagree on the details: one says a flood in 1861 closed it for good, another that the record rains of 1862 swamped it and it reopened but never recovered [2][3]. Pioche took his own life in 1872 [2].",
+  "people": [
+   {
+    "name": "François Pioche",
+    "role": "banker and owner"
+   },
+   {
+    "name": "Mark Twain",
+    "role": "visitor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Mission Becomes a Resort, 1850s (Charles Lockwood)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Mission_Becomes_a_Resort,_1850s",
+    "supports": "Location 17th to 19th through to Valencia, meadow, stream, dance platform, athletic fields"
+   },
+   {
+    "title": "S.F.'s old-time pleasure gardens: Parks for a city that had none",
+    "publisher": "San Francisco Chronicle (Gary Kamiya)",
+    "year": 2015,
+    "url": "https://www.sfchronicle.com/bayarea/article/S-F-s-old-time-pleasure-gardens-Parks-for-a-6692713.php",
+    "supports": "Pleasure gardens, willows and creek, Pioche's 1860 railway and fare, attractions, Twain quote, 1862 flood, Pioche's 1872 death"
+   },
+   {
+    "title": "Willows Resort 1860s",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Willows_Resort_1860s",
+    "supports": "Founded 1859 by Pioche; 1861 flood closure per Robichaud; Robinson's August 18, 1861 diary"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-san-jose-railroad-1863",
+  "title": "The first train left from 25th Street",
+  "theme": "labor-industry",
+  "year": 1863,
+  "yearEnd": 1903,
+  "place": {
+   "label": "Valencia Street station site, 25th and Valencia Streets",
+   "lat": 37.7503,
+   "lon": -122.42014,
+   "precision": "block"
+  },
+  "hook": "Four hundred passengers, two locomotives and a speech about angels: the Peninsula railroad began at a depot in the Mission, not downtown.",
+  "story": "The railroad that grew into today's Peninsula line began in the Mission. At about 10:30 on the morning of October 17, 1863, the first San Francisco and San Jose Railroad excursion left the Mission station, near 25th and Valencia. Two locomotives pulled six passenger cars, two baggage cars and a freight car, carrying about 400 people to the end of the line at Mayfield [1][2]. The company had been one of the first railroads to hire Chinese labourers [1]. Its hardest job was the cut through Bernal Hill, blasted in 1862 with \"heavy and continuous assaults of powder\" [1]. The line reached San Jose on January 16, 1864, and turned an eight-hour trip by steamboat and stagecoach into about three and a half hours [1]. The Valencia Street depot got a proper station building in 1866. It stayed a stop as the tracks were pushed closer to downtown, until most regular service ended in 1903 [2]. The tracks cut diagonally across the neighbourhood, crossing Mission Street between 24th and 25th. After the line was abandoned, the right of way became housing and, in one strip, the little park called Juri Commons [3].",
+  "people": [
+   {
+    "name": "Chinese railroad workers",
+    "role": "helped build the line"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco and San Jose Railroad",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/San_Francisco_and_San_Jose_Railroad",
+    "supports": "October 17, 1863 first train details, Chinese labour, Bernal cut, January 16, 1864 opening, travel time"
+   },
+   {
+    "title": "Valencia Street station",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Valencia_Street_station",
+    "supports": "Station at 25th and Valencia, inaugural 1863 terminal, 1866 building, service ended 1903"
+   },
+   {
+    "title": "Trains in the Mission",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Trains_in_the_Mission",
+    "supports": "Diagonal route, Mission Street crossing between 24th and 25th, Juri Commons on the old right of way"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-liberty-street-1863",
+  "title": "Two blocks of middle-class time travel",
+  "theme": "gold-rush-victorian",
+  "year": 1863,
+  "yearEnd": 1911,
+  "place": {
+   "label": "Liberty Street between Valencia and Guerrero (Liberty Street Historic District)",
+   "lat": 37.7574,
+   "lon": -122.42219,
+   "precision": "street"
+  },
+  "hook": "Gilders, Mint workers, box-makers and a judge built side by side on Liberty Street, leaving every Victorian style in one short walk.",
+  "story": "Liberty Street sits on the eastern edge of the old Rancho San Miguel, which José de Jesús Noé received in 1845. He sold it in 1854 to John M. Horner, who laid out \"Horner's Addition\" and sold it block by block. Horner's 1863 map shows just one building here [1]. The oldest house on the National Register's list is the Marshall Doane House at 45 Liberty, dated 1863. Beside it is the Siamese Twin House of 1879 at 20-26 Liberty [1]. Over the next half-century, 51 houses went up on the two blocks between Valencia and Guerrero, in every style of the day: early Italianate, Stick, Eastlake, Queen Anne and Classical Revival [1]. No famous architects worked here, and only thirteen of the houses have known designers [1]. The owners were solidly middle class: foremen, attorneys, two U.S. Mint employees, two gilders, carriage makers, sailors and the partners in a box factory [1]. Around the corner, coal-yard partner Marsden Kershaw built his house at 845 Guerrero in 1871, one of the district's earliest [2]. Liberty Street still keeps more of that 19th-century feeling than almost any street in the city [3].",
+  "people": [
+   {
+    "name": "John M. Horner",
+    "role": "subdivided the land"
+   },
+   {
+    "name": "Marsden Kershaw",
+    "role": "coal-yard partner, built 845 Guerrero"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register #83001230: Liberty Street Historic District",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/nat1983001230.aspx",
+    "supports": "Rancho and Horner history, 1863 map, 51 residences, styles, architects, owners' occupations, Doane and Siamese Twin houses"
+   },
+   {
+    "title": "San Francisco Landmark #136: Marsden Kershaw House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/sf136.asp",
+    "supports": "Kershaw House, 1871, coal yard partner, one of the district's earliest"
+   },
+   {
+    "title": "Liberty Hill",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Liberty_Hill",
+    "supports": "Liberty Street retains 19th-century feeling"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-woodwards-gardens-1866",
+  "title": "A zoo, museum and circus behind a hotel",
+  "theme": "gold-rush-victorian",
+  "year": 1866,
+  "yearEnd": 1891,
+  "place": {
+   "label": "Woodward's Gardens site, 1700 Mission St at Duboce (California Historical Landmark 454)",
+   "lat": 37.76983,
+   "lon": -122.42039,
+   "precision": "block"
+  },
+  "hook": "The strait-laced hotelier who banned women from his hotel built the city's favourite playground, with sea lions, an aquarium and a tunnel under 14th Street.",
+  "story": "Robert B. Woodward made his money at the What Cheer House, a hotel that served no liquor. According to an 1897 Chronicle piece, it did not allow women either: men made the beds [1]. With that fortune he bought John C. Frémont's former estate between 13th and 15th, Mission and Valencia. On May 1, 1866, he opened it to the public as Woodward's Gardens [1][2]. For a quarter (children a dime), visitors got a museum in his old house, with a 97-pound gold nugget among its specimens. There were also conservatories, an art gallery, ponds full of seals and sea lions, and a tunnel under 14th Street to the zoo [1][3]. In 1876 a guide called its aquarium the largest in the country. Its pavilion could seat 6,000 [3]. Woodward's granddaughter remembered the tightrope walker Blondin cooking an omelette high above the crowd [1]. On May 11, 1886, some 10,000 union men marched here for what FoundSF calls the city's first Labor Day celebration [4]. After Woodward died in 1879 the gardens faded. They closed in 1891, and much of the collection later went to Adolph Sutro [1][2].",
+  "people": [
+   {
+    "name": "Robert B. Woodward",
+    "role": "hotelier and founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "City's top 'pleasure garden' created by hotelier who banned women",
+    "publisher": "San Francisco Chronicle (Gary Kamiya)",
+    "year": 2015,
+    "url": "https://www.sfchronicle.com/bayarea/article/City-s-top-pleasure-garden-created-by-6708560.php",
+    "supports": "What Cheer House rules, Frémont land, May 1, 1866 opening, prices, museum and nugget, Blondin, decline, Sutro"
+   },
+   {
+    "title": "Woodward's Gardens",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Woodward%27s_Gardens",
+    "supports": "Opening date, 1891 closure, Sutro purchase, site at 1700 Mission"
+   },
+   {
+    "title": "Woodward's Gardens, from California Notes (Charles B. Turrill, 1876)",
+    "publisher": "Museum of the City of San Francisco",
+    "year": 1876,
+    "url": "http://www.sfmuseum.org/hist9/woodward.html",
+    "supports": "Seal ponds, conservatories, largest aquarium claim, tunnel under 14th, 6,000-seat pavilion"
+   },
+   {
+    "title": "Woodward's Gardens Labor Day Celebration (Libby Ingalls)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Woodward%27s_Gardens_Labor_Day_Celebration",
+    "supports": "May 11, 1886 first Labor Day celebration, 10,000 marchers"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-monarch-grizzly-1889",
+  "title": "Hearst's grizzly goes on show",
+  "theme": "parks-nature",
+  "year": 1889,
+  "place": {
+   "label": "Woodward's Gardens zoological section, Mission St south of 14th (today's Armory, 1800 Mission)",
+   "lat": 37.76786,
+   "lon": -122.42019,
+   "precision": "area"
+  },
+  "hook": "A newspaper stunt brought one of California's last wild grizzlies to the city, and 20,000 people lined up to stare at him.",
+  "story": "In 1889 William Randolph Hearst sent his San Francisco Examiner reporter Allen Kelly to bring back a live California grizzly. Kelly searched for about five months before a bear was trapped in the Ventura County backcountry [1][2]. \"He bit and tore at the logs,\" Kelly wrote of the captive [1]. The bear, named Monarch, arrived in San Francisco by train. The Examiner reported that 20,000 people came to see him on November 10, 1889, and afterwards called itself the \"Monarch of the Dailies\" [1]. Where exactly they saw him is disputed. The Monarch Bear Institute says Golden Gate Park turned the gift down, so Hearst put the bear on show at Woodward's Gardens [2], and Wikipedia agrees [3]. A 2011 Chronicle account places his cage near Eighth and Brannan instead [1]. Either way, the stunt did not last. Monarch spent the rest of his 22 years in captivity, most of them in a cage in Golden Gate Park, and died in May 1911 [1]. His stuffed body, now at the California Academy of Sciences, was used as the model for the bear on the state flag in 1955 [1].",
+  "people": [
+   {
+    "name": "William Randolph Hearst",
+    "role": "Examiner publisher"
+   },
+   {
+    "name": "Allen Kelly",
+    "role": "reporter who brought in the bear"
+   },
+   {
+    "name": "Monarch",
+    "role": "California grizzly"
+   }
+  ],
+  "sources": [
+   {
+    "title": "CA grizzly bear Monarch: a symbol of suffering",
+    "publisher": "SFGATE / San Francisco Chronicle (Peter Fimrite)",
+    "year": 2011,
+    "url": "https://www.sfgate.com/news/article/ca-grizzly-bear-monarch-a-symbol-of-suffering-2372855.php",
+    "supports": "Hearst and Kelly, five-month search, Kelly quote, 20,000 visitors November 10, 1889, 'Monarch of the Dailies', Eighth and Brannan cage, 1911 death, flag model"
+   },
+   {
+    "title": "The Monarch Bear",
+    "publisher": "The Monarch Bear Institute",
+    "year": null,
+    "url": "https://www.monarchbear.org/monarch/",
+    "supports": "Park refused the bear; exhibited at Woodward's Gardens; 20,000 on opening day"
+   },
+   {
+    "title": "Woodward's Gardens",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Woodward%27s_Gardens",
+    "supports": "Monarch housed at Woodward's Gardens in November 1889"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-red-stockings-recreation-grounds-1869",
+  "title": "Baseball's first pros crush the Eagles",
+  "theme": "gold-rush-victorian",
+  "year": 1869,
+  "yearEnd": null,
+  "place": {
+   "label": "Recreation Grounds site, Folsom Street near 25th",
+   "lat": 37.75066,
+   "lon": -122.41357,
+   "precision": "block"
+  },
+  "hook": "The Cincinnati Red Stockings rode the brand-new transcontinental railroad to the Mission and ran up scores like 76-5.",
+  "story": "San Francisco baseball began in the Mission. FoundSF dates California's first official game to February 22, 1860 [1]. Burrito Justice places it at 16th and Harrison, beside Mission Creek, where the Eagles won after the Red Rovers refused to finish [2]. In 1868 a proper ground went up at Folsom and 25th, in the middle of the old Pioneer Race Course (one FoundSF caption puts it at Folsom and Cesar Chavez instead). A researcher of early baseball dates its first game to November 26, 1868 [2]. FoundSF credits the Hatton brothers with building the \"Recreation Grounds\" [1]. In September 1869 the Cincinnati Red Stockings, the famous team of the day, arrived on one of the first transcontinental trains [1][2]. According to a 1924 Call Bulletin history, they beat the Eagles 35-4, then 58-4, then 66-4. They also beat the Pacifics 54-4 and the Atlantics 76-5 [1][2]. One family historian says some published scores contain typos [2]. The grandstand did not last long: one researcher reports that an arsonist burned it two weeks after Cincinnati left [2]. Seven houses that stood behind the stands, on the 2900 block of Folsom, are still there [2].",
+  "people": [
+   {
+    "name": "Cincinnati Red Stockings",
+    "role": "visiting team, 1869"
+   },
+   {
+    "name": "Eagles",
+    "role": "San Francisco club"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Early Baseball in San Francisco",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Early_Baseball_in_San_Francisco",
+    "supports": "February 22, 1860 first game, Recreation Grounds built 1868 by Hatton Bros., 1869 Red Stockings scores"
+   },
+   {
+    "title": "The Mission Has Always Been The Home of Baseball",
+    "publisher": "Burrito Justice",
+    "year": 2010,
+    "url": "https://burritojustice.com/2010/02/17/the-mission-has-always-been-the-home-of-baseball/",
+    "supports": "16th and Harrison first game, Folsom and 25th grounds, Red Stockings scores, commenters on 1868 opening, arson and score typos, surviving Folsom houses"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-mcmullen-house-1890",
+  "title": "The dredging king's tower on Guerrero",
+  "theme": "labor-industry",
+  "year": 1890,
+  "yearEnd": null,
+  "place": {
+   "label": "John McMullen House, 827 Guerrero St",
+   "lat": 37.75786,
+   "lon": -122.42313,
+   "precision": "building"
+  },
+  "hook": "The man who dredged harbours from Oakland to Manila dressed up his plain Mission house with a round tower and a horseshoe-arch door.",
+  "story": "John McMullen came to San Francisco from Connecticut in 1876 as a carpenter. By 1877 he had founded the San Francisco Bridge Company, the first of several contracting and dredging firms [1]. His companies dredged Oakland Harbor and Boston Harbor, and cut the tidal canal between Oakland and San Leandro Bay. They built forty-seven bridges for the Canadian Pacific Railway, the Hunters Point drydock, piers at Fort Mason, and harbour works in Manila Bay [1]. When he died, his obituary said \"McMullen's history is the history of contracting in the West\" [2]. His house at 827 Guerrero shows that rise. It started in 1881 as a Stick-style house on a standard 25-by-100-foot lot [1]. The noted architect Samuel Newsom then widened it and added a round tower, a horseshoe-arched entry and shingled walls in the latest Queen Anne fashion [1][2]. The National Register nomination dates that makeover to 1890. The city's landmark summary ties it to 1881 and to McMullen's growing wealth [1][2]. Later owners kept adding: a bigger kitchen in 1892 and a butler's pantry in 1904 [1].",
+  "people": [
+   {
+    "name": "John McMullen",
+    "role": "contractor and dredging magnate"
+   },
+   {
+    "name": "Samuel Newsom",
+    "role": "architect of the remodel"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register #83001231: John McMullen House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/nat1983001231.asp",
+    "supports": "McMullen biography and firms' projects, 1881 original house, 1890 Newsom alterations, later additions"
+   },
+   {
+    "title": "San Francisco Landmark #123: John McMullen House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/sf123.asp",
+    "supports": "Newsom conversion to tower house, obituary quote, 1881 date"
+   },
+   {
+    "title": "Liberty Hill",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Liberty_Hill",
+    "supports": "827 Guerrero, McMullen House, built 1881 by a contractor"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-edwards-wallpaper-house-1883",
+  "title": "The wallpaper man's house keeps its wallpaper",
+  "theme": "architecture-landmarks",
+  "year": 1883,
+  "place": {
+   "label": "Frank G. Edwards House, 1366 Guerrero St",
+   "lat": 37.74927,
+   "lon": -122.42298,
+   "precision": "building"
+  },
+  "hook": "A forty-niner turned paper-hanger built a house on Guerrero in 1883, and the paper he chose is still on the parlour walls.",
+  "story": "Frank G. Edwards had lived in New York, St. Louis and New Orleans before he arrived in San Francisco in 1852 on the clipper Eureka [1]. He spent two years looking for gold, then went to work as a paper-hanger. In 1859 he opened his own firm selling wallpaper and imported furniture [1]. He also joined the Mechanics' Institute, the Vigilance Committee of 1856, Pennsylvania Fire Company No. 12 and the Dashaway temperance society [1]. In 1883 Edwards had architect Joseph Gosling design a ten-room, flat-front Italianate house, built by the carpenter Florence Crowley. It was one of the first buildings on its block, set back behind a brick retaining wall on a lot that once ran nearly 170 feet along Guerrero [1][2]. Front yards were unusual in this crowded neighbourhood [1]. The inside is rarer still. The original wallpaper survives, along with the marble fireplaces, a gold-leaf moulding and the mahogany bookcases [1][2]. San Francisco Architectural Heritage holds a preservation easement on the house. At the time of writing it was the only one of its more than 50 easements that also protected interior features [2].",
+  "people": [
+   {
+    "name": "Frank G. Edwards",
+    "role": "wallpaper merchant"
+   },
+   {
+    "name": "Joseph Gosling",
+    "role": "architect"
+   },
+   {
+    "name": "Florence Crowley",
+    "role": "builder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #189: Frank G. Edwards House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2003,
+    "url": "https://noehill.com/sf/landmarks/sf189.asp",
+    "supports": "Edwards biography, 1883 construction, architect and builder, setback and wall, original wallpaper, civic memberships"
+   },
+   {
+    "title": "National Register #82000986: Frank G. Edwards House (quoting SF Heritage, Heritage News 2007)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2007,
+    "url": "https://noehill.com/sf/landmarks/nat1982000986.asp",
+    "supports": "Ten-room house, 170-foot frontage, retaining wall, interior features, Heritage easement"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "mission-howard-street-mansion-row-1886",
+  "title": "Crusader panels on Mansion Row",
+  "theme": "architecture-landmarks",
+  "year": 1886,
+  "yearEnd": null,
+  "place": {
+   "label": "Stone House, 1348 South Van Ness Ave (formerly 2818 Howard St)",
+   "lat": 37.75161,
+   "lon": -122.41653,
+   "precision": "building"
+  },
+  "hook": "Before it was South Van Ness, lower Howard Street was a row of mansions, with frescoed ceilings, a legendary Japanese bird and a lawyer's diamond.",
+  "story": "In the 1880s, well-off San Franciscans built grand houses along Howard Street in the Mission. The city's landmarks board called it \"Mansion Row\" [2]. City Architect Charles Havens designed his own French Second Empire house and carriage house at what is now 1381 South Van Ness in 1884 [2]. Two years later, attorney Frank M. Stone commissioned architect Seth Babson to design a Stick and Queen Anne house across the street, on a lot with rare front and side yards [1]. The 1887 book Artistic Homes of California described brass panels in the hall showing a Crusader's departure and return. It also described a drawing-room ceiling painted as a sunburst, with a \"peacock-plumaged\" bird flying into the rays [1]. Stone had sailed out of Boston as a supercargo before arriving in 1874 to study law [1]. After he won a conviction in a Chinatown hatchet-murder case, the victim's Fong family collected money across California and gave him a solitaire diamond [1]. When the house became a landmark in 1975, almost all of the described interior, including the frescoes, survived [1]. Howard Street's lower stretch was renamed South Van Ness in 1939 [1].",
+  "people": [
+   {
+    "name": "Frank M. Stone",
+    "role": "attorney and owner"
+   },
+   {
+    "name": "Seth Babson",
+    "role": "architect"
+   },
+   {
+    "name": "Charles Havens",
+    "role": "City Architect, neighbour"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #74: Stone House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/sf074.asp",
+    "supports": "1886 commission, Babson, styles, yards, Artistic Homes description, Stone biography and diamond, 1975 condition, 1939 renaming"
+   },
+   {
+    "title": "San Francisco Landmark #125: Havens Mansion and Carriage House",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/sf125.asp",
+    "supports": "Havens as City Architect, 1884 French Second Empire residence, 'Mansion Row of the 1880's'"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-demon-of-the-belfry-1895",
+  "title": "The Demon of the Belfry",
+  "theme": "gold-rush-victorian",
+  "year": 1895,
+  "yearEnd": 1898,
+  "place": {
+   "label": "Emmanuel Baptist Church site, Bartlett Street near 21st (exact address unconfirmed)",
+   "lat": 37.75645,
+   "lon": -122.4197,
+   "precision": "street"
+  },
+  "hook": "On the eve of Easter 1895, women decorating a Mission church found one murdered parishioner in a cupboard. Another was in the belfry.",
+  "story": "On April 3, 1895, witnesses saw Theodore Durrant, a 23-year-old medical student and assistant Sunday-school superintendent, ride a streetcar to the 21st Street stop with Blanche Lamont, a 20-year-old former schoolteacher from Montana [1][2]. They walked into Emmanuel Baptist Church on Bartlett Street. She was never seen alive again [2]. That afternoon the organist met a pale, shaken Durrant coming down from the belfry. Durrant said he had been checking a gas leak, but the organist later realised he had smelled no gas [2]. Nine days later, on Good Friday, Durrant was seen arguing outside the church with another parishioner, Minnie Williams [1][2]. The next morning, women preparing for Easter opened a cupboard and found her body. Police then searched the belfry and found Lamont [1][2]. Durrant was arrested with his Signal Corps unit [1]. He was tried for Lamont's murder in what newspapers called the \"crime of the century.\" More than a thousand people were called as possible jurors, and the jury took five minutes to convict [2]. He was hanged at San Quentin on January 7, 1898, still saying he was innocent [1][2].",
+  "people": [
+   {
+    "name": "Theodore Durrant",
+    "role": "convicted murderer"
+   },
+   {
+    "name": "Blanche Lamont",
+    "role": "victim"
+   },
+   {
+    "name": "Minnie Williams",
+    "role": "victim"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Theodore Durrant",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Theodore_Durrant",
+    "supports": "Durrant's age and roles, Lamont's background, April 3 and 12 events, discovery of bodies, arrest, execution date, claim of innocence"
+   },
+   {
+    "title": "The tale of the 'Demon of the Belfry,' San Francisco's forgotten Jack the Ripper",
+    "publisher": "SFGATE (Katie Dowd)",
+    "year": 2016,
+    "url": "https://www.sfgate.com/bayarea/article/Theodore-Durrant-Demon-of-the-Belfry-SF-murders-10418597.php",
+    "supports": "Church on Bartlett St., 21st St. stop, organist and gas story, discovery, 'crime of the century', juror pool, five-minute verdict, hanging"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "mission-howard-26th-craftsman-cottages-1905",
+  "title": "Craftsman cottages for working families",
+  "theme": "architecture-landmarks",
+  "year": 1905,
+  "place": {
+   "label": "Howard and 26th Street Cottages, 3274-3294 26th St at South Van Ness",
+   "lat": 37.74929,
+   "lon": -122.41562,
+   "precision": "building"
+  },
+  "hook": "The Arts and Crafts style was meant for suburban bungalows. On a Mission corner in 1905, someone used it for working-class row houses around a shared courtyard.",
+  "story": "In 1905, the year before the earthquake, an unknown architect put up two eight-unit wood-frame buildings at Howard (now South Van Ness) and 26th Street, arranged around a carefully scaled courtyard [1]. San Francisco's landmarks board calls them the city's only example of attached Craftsman row housing [1]. That is unusual. Late-19th-century row houses here were almost always Italianate, Stick or Queen Anne. Few Craftsman houses of any kind were built in San Francisco before 1910 [1]. The Craftsman style was popular in Berkeley, and it was usually sold as a detached, single-storey house for a middle-class family in a leafy suburb [1]. These units were built for working families who needed to live close to the docks and factories [1]. By then the Mission had been growing for forty years. A railroad station had opened at 25th and Valencia in 1863, and horse cars carried baseball crowds to 26th and Folsom around 1870 [1][2]. The Planning Commission backed landmark status in 1993, and the cottages became San Francisco Landmark No. 206 in January 1994 [1][2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #206: Howard and 26th Street Cottages",
+    "publisher": "NoeHill in San Francisco (quoting City Planning Commission Resolution 13559, 1993)",
+    "year": 2004,
+    "url": "https://noehill.com/sf/landmarks/sf206.asp",
+    "supports": "1905 date, two eight-unit buildings, courtyard, only attached Craftsman row housing, Craftsman context, working-class purpose, Mission growth"
+   },
+   {
+    "title": "List of San Francisco Designated Landmarks",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/List_of_San_Francisco_Designated_Landmarks",
+    "supports": "Landmark No. 206, addresses, designated January 22, 1994"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "id": "chinatown-stars-and-stripes-on-the-plaza",
+    "title": "Seventy Marines and a Borrowed Flagpole",
+    "theme": "indigenous-early",
+    "year": 1846,
+    "yearEnd": null,
+    "place": {
+      "label": "Portsmouth Square (the old Mexican plaza)",
+      "lat": 37.79484,
+      "lon": -122.40511,
+      "precision": "area"
+    },
+    "hook": "Before Chinatown, before the Gold Rush, this sloping square was the dusty plaza of Mexican Yerba Buena — until one July morning in 1846.",
+    "story": "In July 1846 the open ground now called Portsmouth Square was the plaza of Mexican Yerba Buena, beside an adobe custom house. On July 9, Captain John B. Montgomery of the sloop USS Portsmouth marched about 70 marines and sailors to the plaza, hauled down the Mexican flag and raised the Stars and Stripes near the custom house [1][2]. The museum's chronology records that he had already taken formal possession the day before and appointed Lt. Washington Allen Bartlett, a fluent Spanish speaker, as the first American alcalde [2]. Three days later Montgomery led the town's first public Protestant service [2]. The square still carries the name of his ship, and Montgomery Street carries his own [1]. Within two years this same patch of earth would host the town's first public schoolhouse, erected in 1847 at its southwest corner, and later the crowd that heard Sam Brannan announce gold [1]. The state plaque recording all this is, as one landmark chronicler grumbled, 'half hidden by a shrub' on a lower tier of the park [1].",
+    "people": [
+      {
+        "name": "John B. Montgomery",
+        "role": "Commander, USS Portsmouth"
+      },
+      {
+        "name": "Washington Allen Bartlett",
+        "role": "First American alcalde"
+      }
+    ],
+    "sources": [
+      {
+        "title": "California Historical Landmark #119: Portsmouth Plaza",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/cal0119.asp",
+        "supports": "Flag raised near adobe custom house July 9, 1846; naming; 1847 school; plaque location"
+      },
+      {
+        "title": "San Francisco History Chronology: 1846-1849",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "https://sfmuseum.org/hist/chron1.html",
+        "supports": "70 marines and sailors; possession July 8; Bartlett appointment; first Protestant service"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-california-star-743-washington",
+    "title": "The Newspaper That Ignored the Gold Rush",
+    "theme": "gold-rush-victorian",
+    "year": 1847,
+    "yearEnd": 1901,
+    "place": {
+      "label": "743 Washington Street (site of the California Star)",
+      "lat": 37.79505,
+      "lon": -122.40624,
+      "precision": "block"
+    },
+    "hook": "The first newspaper in San Francisco renamed the town — then buried the biggest story in its history.",
+    "story": "The building at 743 Washington Street stands, according to FoundSF, on the site of Sam Brannan's California Star, San Francisco's first newspaper [1]. Brannan had brought the press with him from New York, and the first issue appeared on January 9, 1847, with Dr. E.B. Jones as editor [2]. Weeks later, on January 30, the alcalde's order renaming Yerba Buena as the Town of San Francisco was published in its pages [2]. The Star's most famous moment was a miss. On March 25, 1848 it carried a news item about the discovery of gold, and the town barely stirred [2]. It took Brannan himself, waving gold dust in the plaza in May, to set off the fever — after which the Star reported whole towns emptying for the diggings [2]. The site kept its knack for communication: Chinatown began its own telephone service in 1887, and a new Chinese Telephone Exchange opened here in the fall of 1901, its operators memorising subscribers by name and address rather than by number [1].",
+    "people": [
+      {
+        "name": "Sam Brannan",
+        "role": "Publisher"
+      },
+      {
+        "name": "E.B. Jones",
+        "role": "Editor"
+      },
+      {
+        "name": "Loo Kum Shu",
+        "role": "Telephone exchange manager, 1901"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chinese Telephone Exchange",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Chinese_Telephone_Exchange",
+        "supports": "Site of California Star; telephone service 1887; exchange opened fall 1901; operators memorised names"
+      },
+      {
+        "title": "San Francisco History Chronology: 1846-1849",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "https://sfmuseum.org/hist/chron1.html",
+        "supports": "First issue Jan 9, 1847; renaming order Jan 30, 1847; gold item March 25, 1848; Brannan's May 1848 announcement"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-china-boys-welcome-1850",
+    "title": "When the Mayor Welcomed the 'China Boys'",
+    "theme": "communities",
+    "year": 1850,
+    "yearEnd": null,
+    "place": {
+      "label": "Portsmouth Square",
+      "lat": 37.795,
+      "lon": -122.4054,
+      "precision": "area"
+    },
+    "hook": "Before exclusion laws and plague ropes, San Francisco's first mayor held a public ceremony here to welcome Chinese newcomers.",
+    "story": "It is easy to forget that San Francisco's relationship with its Chinese residents began, officially at least, with a welcome. On August 28, 1850, Mayor John W. Geary welcomed new Chinese residents to the city in a ceremony in Portsmouth Square, the town's civic heart [1]. Histories drawn from Judy Yung and others say Geary welcomed about 300 'China Boys' [2]. The warmth did not last. That same year the state had imposed a $20-a-month Foreign Miners Tax [1], and by 1854 the Daily Alta California, which had earlier supported Chinese immigrants, was warning that the city was filling up 'with these people' [2]. The plaza where the ceremony took place became, over the next half-century, the front porch of Chinatown, the district growing up the slope of Dupont Street behind it. It remains Chinatown's main open space today.",
+    "people": [
+      {
+        "name": "John W. Geary",
+        "role": "Mayor of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco History Chronology: 1850-1851",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "https://sfmuseum.org/hist/chron2.html",
+        "supports": "Aug 28, 1850 ceremony in Portsmouth Square; Foreign Miners Tax"
+      },
+      {
+        "title": "Chinatown, San Francisco (History section)",
+        "publisher": "Wikipedia (pointer to Yung 2006 and Dobie)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Chinatown,_San_Francisco",
+        "supports": "300 'China Boys'; Alta California shift by 1854"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-jenny-lind-theatre-city-hall",
+    "title": "The Playhouse That Became City Hall",
+    "theme": "gold-rush-victorian",
+    "year": 1850,
+    "yearEnd": 1852,
+    "place": {
+      "label": "Kearny Street facing Portsmouth Square",
+      "lat": 37.79495,
+      "lon": -122.40465,
+      "precision": "street"
+    },
+    "hook": "Tom Maguire built his playhouse three times in one year. Then the city bought it — and the public was furious.",
+    "story": "Gold Rush San Francisco wanted entertainment, and Tom Maguire gave it to them. On October 30, 1850 his Jenny Lind Theatre opened above his Parker House on the plaza [1]. Fire was the city's other constant. The Parker House burned, and a rebuilt Jenny Lind reopened on the site in June 1851 [1]. Days later, on June 22, the sixth great fire tore through 14 blocks and destroyed City Hall and the Jenny Lind again [1]. Undeterred, Maguire opened a third Jenny Lind on the same Kearny Street site on October 4, 1851 [1]. Then the city came shopping. On June 1, 1852, citizens gathered in Portsmouth Square for an 'indignation meeting' protesting the City Council's plan to buy the theatre as a city hall [2]. The protest failed: on October 20, 1852 the Town Council purchased the Jenny Lind for that purpose [3]. San Francisco's government thus spent its early years governing from a converted gold-rush playhouse, looking out over the plaza where the town had begun.",
+    "people": [
+      {
+        "name": "Tom Maguire",
+        "role": "Theatre owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco History Chronology: 1850-1851",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "https://sfmuseum.org/hist/chron2.html",
+        "supports": "Opening Oct 30, 1850 above Parker House; reopening June 1851; June 22, 1851 fire; third theatre Oct 4, 1851"
+      },
+      {
+        "title": "California Historical Landmark #119: Portsmouth Plaza",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/cal0119.asp",
+        "supports": "Indignation meeting June 1, 1852 against purchase as City Hall"
+      },
+      {
+        "title": "San Francisco History Chronology: 1852-1854",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "https://sfmuseum.org/hist/chron3.html",
+        "supports": "Town Council purchased Jenny Lind as city hall, Oct 20, 1852"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-tin-how-temple-waverly",
+    "title": "The Sea Goddess on the Top Floor",
+    "theme": "communities",
+    "year": 1852,
+    "yearEnd": null,
+    "place": {
+      "label": "Tin How Temple, 125 Waverly Place",
+      "lat": 37.79454,
+      "lon": -122.40707,
+      "precision": "building"
+    },
+    "hook": "Gold Rush sailors and miners prayed to the goddess of the sea here — and her image survived the fire that levelled everything around it.",
+    "story": "Climb the narrow stairs at 125 Waverly Place and you reach one of the oldest Chinese temples still operating in the United States. The Tin How Temple is dedicated to Mazu, the sea goddess known in Cantonese as Tin How, 'Empress of Heaven', guardian of fishermen, seafarers and women in distress [1][2]. For immigrants who had just survived a Pacific crossing, the choice made sense. The temple was reportedly founded around 1852 or 1853 at this very location by Day Ju, described as one of the first Chinese people to arrive in San Francisco; the sources hedge on the details [1]. When the 1906 fire destroyed the building, the image of the goddess, the temple bell and part of the altar were saved, and the Sue Hing Benevolent Association reopened the temple in 1910 on the top floor of a new four-storey building [1]. Its presence shaped the map: the Chinese name for Waverly Place means 'Tin How Temple Street' [1]. FoundSF observes that Chinese worshippers have been communing with the deities here since the 1850s [2].",
+    "people": [
+      {
+        "name": "Day Ju",
+        "role": "Reputed founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tin How Temple",
+        "publisher": "Wikipedia (pointer to Lorentzen et al., Duke UP 2010)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Tin_How_Temple",
+        "supports": "Founding c.1852-53 by Day Ju; 1906 survival of image, bell, altar; 1910 reopening; street name"
+      },
+      {
+        "title": "Chinese Temples in San Francisco",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Chinese_Temples_in_San_Francisco",
+        "supports": "Address, T'ien Hou as guardian of seafarers and women, worship since the 1850s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-montgomery-block-hallecks-folly",
+    "title": "Halleck's Folly, Floating on Redwood Logs",
+    "theme": "architecture-landmarks",
+    "year": 1853,
+    "yearEnd": 1959,
+    "place": {
+      "label": "Site of the Montgomery Block, Montgomery & Washington (now Transamerica Pyramid)",
+      "lat": 37.79505,
+      "lon": -122.40312,
+      "precision": "block"
+    },
+    "hook": "People laughed at a four-storey building on a raft of logs in the mud. It outlived nearly everything around it.",
+    "story": "In 1853 Henry Wager Halleck, later general-in-chief of the Union Army, put up a four-storey office block on Montgomery Street between Washington and Clay [1][2]. Built on made ground, it rested on a raft of redwood logs, which is why sceptics called it 'Halleck's Folly' [2]. The state plaque calls it San Francisco's first fireproof building [1]. It became the address for lawyers, financiers, writers, actors and artists, and housed Adolph Sutro's library [1]. Its darkest moment came in May 1856, when Bulletin editor James King of William, shot by supervisor James Casey, died in the building [1][2]. Later bohemians including Jack London, George Sterling and Maynard Dixon lived or worked in the 'Monkey Block', and it was the only major downtown building to escape the 1906 fire [1][2]. None of that saved it from the wrecking ball in 1959. The Transamerica Pyramid now stands on the site [1].",
+    "people": [
+      {
+        "name": "Henry Wager Halleck",
+        "role": "Builder"
+      },
+      {
+        "name": "James King of William",
+        "role": "Newspaper editor"
+      },
+      {
+        "name": "James P. Casey",
+        "role": "City supervisor, gunman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "California Historical Landmark #80: Site of the Montgomery Block",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/cal0080.asp",
+        "supports": "1853 first fireproof building by Halleck; King of William; tenants; survived 1906; demolished 1959; Pyramid"
+      },
+      {
+        "title": "Montgomery Block",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Montgomery_Block",
+        "supports": "Redwood log raft, 'Halleck's Folly', 'Monkey Block', bohemian residents, King shooting"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-old-st-marys-fly-from-evil",
+    "title": "Son, Observe the Time and Fly From Evil",
+    "theme": "architecture-landmarks",
+    "year": 1854,
+    "yearEnd": null,
+    "place": {
+      "label": "Old St. Mary's Church, 660 California Street at Grant",
+      "lat": 37.7927,
+      "lon": -122.40551,
+      "precision": "building"
+    },
+    "hook": "California's first cathedral was built on stone cut in China — and its clock tower still scolds passers-by.",
+    "story": "Bishop Joseph Alemany laid the cornerstone of St. Mary's at California and Dupont (now Grant) on July 17, 1853, and the church was dedicated on Christmas Day, 1854 [1]. It was the first church built as a Roman Catholic cathedral in California [2]. It was a truly Pacific building: the landmark report notes that its stone foundations were cut to order in China, while the bricks came from New England [2]. A 200-foot spire was planned but never built, leaving a 90-foot tower [2]. When the clock was completed in 1857, a stern line from Ecclesiasticus was fixed beneath it: 'Son, observe the time and fly from evil' [3]. The church stood on the edge of Chinatown, facing the commercial city in one direction and Chinatown in the other, as the city's landmark report puts it [2]. The cathedral moved to Van Ness Avenue in 1891. The 1906 fire gutted Old St. Mary's, but it was rebuilt and reopened in 1909 [2].",
+    "people": [
+      {
+        "name": "Joseph Sadoc Alemany",
+        "role": "Bishop of Monterey, later Archbishop of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco History Chronology: 1852-1854",
+        "publisher": "Museum of the City of San Francisco",
+        "year": null,
+        "url": "https://sfmuseum.org/hist/chron3.html",
+        "supports": "Cornerstone July 17, 1853; dedication Dec 25, 1854"
+      },
+      {
+        "title": "San Francisco Landmark #2: Old Saint Mary's Church",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/sf002.asp",
+        "supports": "First Catholic cathedral; stone from China, bricks from New England; spire; 1891 move; 1906 burn and 1909 reopening"
+      },
+      {
+        "title": "Fly From Evil",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Fly_From_Evil",
+        "supports": "Clock completed 1857 with 'fly from evil' plaque"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-hotaling-whiskey-shoreline",
+    "title": "A Whiskey Palace on the Old Shoreline",
+    "theme": "labor-industry",
+    "year": 1866,
+    "yearEnd": null,
+    "place": {
+      "label": "Hotaling Building, 451 Jackson Street",
+      "lat": 37.79632,
+      "lon": -122.40275,
+      "precision": "building"
+    },
+    "hook": "Anson Hotaling's iron-shuttered warehouse once looked out on the Bay. Forty years later, God allegedly spared it.",
+    "story": "Around 1866, pioneer liquor merchant Anson Parsons Hotaling put up an Italianate building at Jackson Street and what is now Hotaling Place, then the northern edge of the Montgomery Street business district and on the Bay shoreline [2]. Hotaling had sailed from New York in 1852 and built a fortune in real estate, trade and mining [2]. Its cast-iron front and iron shutters were the fireproofing technology of the day [1]. Hotaling & Co. imported Kentucky whiskies and blended its own bourbons, notably Cutter and Old Kirk, and Hotaling bought neighbouring buildings to warehouse the stock [1][2]. When he died in 1900, the Call guessed his estate at seven to ten million dollars [2]. The building became famous in 1906. Employees reportedly rolled thousands of barrels to the empty customhouse construction site, and the warehouse survived [2]. When clergymen called the disaster divine punishment, Charles Field replied in verse: 'If, as they say, God spanked the town / For being over-frisky, / Why did He burn His churches down / And spare Hotaling's whiskey?' [1]",
+    "people": [
+      {
+        "name": "Anson Parsons Hotaling",
+        "role": "Liquor merchant"
+      },
+      {
+        "name": "Charles K. Field",
+        "role": "Poet"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #12: Hotaling Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf012.asp",
+        "supports": "Built 1866, cast-iron facade, annexes, survival, Field's verse"
+      },
+      {
+        "title": "Fun Friday: Hotaling's Whisky",
+        "publisher": "San Francisco Heritage",
+        "year": 2025,
+        "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/hotalings-whisky/",
+        "supports": "c.1866 construction on shoreline; Hotaling biography; brands; estate; barrel rolling in 1906"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-clay-street-first-cable-car",
+    "title": "Four A.M. on Clay Street",
+    "theme": "labor-industry",
+    "year": 1873,
+    "yearEnd": null,
+    "place": {
+      "label": "Clay & Kearny, eastern terminus of the Clay Street Hill Railroad",
+      "lat": 37.7944,
+      "lon": -122.4047,
+      "precision": "block"
+    },
+    "hook": "Horses slipping to their deaths on a wet hill gave Andrew Hallidie an idea that would travel from Edinburgh to Melbourne.",
+    "story": "Andrew Smith Hallidie, whose father held a British patent for wire rope, said his idea came in 1869 after watching horses struggle to haul a horsecar up wet cobblestones on Jackson Street; as the story goes, they slipped and were dragged to their deaths [1]. His Clay Street Hill Railroad began building in May 1873 and had to run by August 1 under its franchise [1]. Just when it first ran is disputed: the Cable Car Museum says Hallidie tested the car at 4 a.m. on August 2, a day late, while the city's landmark report gives August 1 [1][3]. Wikipedia repeats a tale that the hired gripman looked down from Jones Street and refused, so Hallidie took the grip himself [2]. Regular service began on September 1, 1873, climbing 348 feet in six blocks from Kearny Street [1][2]. Within a year it carried 3,000 passengers a day [2], and by the 1880s cable lines ran in cities from Edinburgh to Melbourne [3]. The marker for the line's eastern terminus stands in Portsmouth Square [2].",
+    "people": [
+      {
+        "name": "Andrew Smith Hallidie",
+        "role": "Promoter and inventor"
+      },
+      {
+        "name": "William Eppelsheimer",
+        "role": "Engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cable Car Heritage",
+        "publisher": "San Francisco Cable Car Museum",
+        "year": null,
+        "url": "https://www.cablecarmuseum.org/heritage.html",
+        "supports": "Jackson Street horses; wire rope patent; May 1873 construction; Aug 2 test at 4 a.m.; Sept 1 service"
+      },
+      {
+        "title": "Clay Street Hill Railroad",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Clay_Street_Hill_Railroad",
+        "supports": "348-ft rise; gripman anecdote; 3,000 daily riders; landmark marker in Portsmouth Square"
+      },
+      {
+        "title": "San Francisco Landmark #43: Cable Car Barn",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf043.asp",
+        "supports": "Inaugural run Aug 1, 1873 from Portsmouth Plaza; cable cars in cities from Edinburgh to Melbourne"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-wong-kim-ark-birthplace",
+    "title": "The Cook Who Won Birthright Citizenship",
+    "theme": "civil-rights",
+    "year": 1898,
+    "yearEnd": null,
+    "place": {
+      "label": "751 Sacramento Street (Wong Kim Ark's birthplace)",
+      "lat": 37.7932,
+      "lon": -122.40545,
+      "precision": "block"
+    },
+    "hook": "Born above a Chinatown shop, a restaurant cook was refused entry to his own country, and took his case to the Supreme Court.",
+    "story": "Wong Kim Ark was born in San Francisco at 751 Sacramento Street, the address of the Quong Sing store run by his merchant parents [2]. The Supreme Court record gives his birth year as 1873, though other documents suggest dates as early as 1868 [1][2]. His parents were subjects of the Chinese emperor who lived in San Francisco and, in 1890, went back to China [1]. Wong made his life in San Francisco as a cook [2]. In August 1895, returning from a visit to China on the steamship Coptic, he was refused permission to land by the collector of customs, who argued that under the Chinese Exclusion Act he was not a citizen [1][2]. Wong went to court. On March 28, 1898 the Supreme Court ruled 6–2 in United States v. Wong Kim Ark, in an opinion by Justice Horace Gray, that a child born on American soil to parents living here is a citizen under the Fourteenth Amendment [1][2]. The principle of birthright citizenship for children of immigrants still rests on the case of a cook from Sacramento Street.",
+    "people": [
+      {
+        "name": "Wong Kim Ark",
+        "role": "Plaintiff, cook"
+      },
+      {
+        "name": "Horace Gray",
+        "role": "Supreme Court justice"
+      }
+    ],
+    "sources": [
+      {
+        "title": "United States v. Wong Kim Ark, 169 U.S. 649 (1898)",
+        "publisher": "Legal Information Institute, Cornell Law School",
+        "year": 1898,
+        "url": "https://www.law.cornell.edu/supremecourt/text/169/649",
+        "supports": "Born SF 1873; parents' domicile and 1890 departure; 1895 return on Coptic and refusal"
+      },
+      {
+        "title": "United States v. Wong Kim Ark",
+        "publisher": "Wikipedia (pointer to Nackenoff & Novkov 2021)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark",
+        "supports": "751 Sacramento St (Quong Sing); disputed birth year; cook; 6-2 decision March 28, 1898"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-cable-car-barn-1887",
+    "title": "The Last Powerhouse Still Pulling",
+    "theme": "architecture-landmarks",
+    "year": 1887,
+    "yearEnd": null,
+    "place": {
+      "label": "Cable Car Barn & Powerhouse, 1201 Mason Street at Washington",
+      "lat": 37.79461,
+      "lon": -122.41151,
+      "precision": "building"
+    },
+    "hook": "San Francisco once had about fourteen cable car barns and powerhouses. This brick hulk on Mason Street is the only survivor.",
+    "story": "Stand on the museum deck at Washington and Mason and you can watch huge winding wheels pull the cables that still run beneath the city's streets [2]. The barn and powerhouse were built between 1885 and 1887, near the site of the original spring and reservoir of the Spring Valley Water Company, which helped supply the city in the 1850s [1]. It first held the cars and machinery of the Powell Street Railway, which merged into the Ferries and Cliff House Railway in 1887 [1]. Some fourteen cable car barns and powerhouses once served San Francisco's lines, and this is the only one left [1]. Until 1906 its engines were driven by steam boilers [1]. The great fire destroyed much of the original three-storey building. It was rebuilt with two storeys and a similar look, and its engines were converted to electric motors [1]. The round chimney on the Washington Street side is a leftover from the steam era [1]. Today the building houses the Cable Car Museum, including grip car No. 8 from Hallidie's Clay Street line [2][3].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #43: Cable Car Barn",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf043.asp",
+        "supports": "Built 1885-87 near Spring Valley reservoir; Powell Street Railway; 14 barns; steam until 1906; rebuilt two storeys; chimney"
+      },
+      {
+        "title": "About the Museum",
+        "publisher": "San Francisco Cable Car Museum",
+        "year": null,
+        "url": "https://www.cablecarmuseum.org/museum.html",
+        "supports": "Museum deck over winding wheels at 1201 Mason"
+      },
+      {
+        "title": "Clay Street Hill Railroad",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Clay_Street_Hill_Railroad",
+        "supports": "Grip car No. 8 preserved at the Cable Car Museum"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-mission-home-920-sacramento",
+    "title": "Lo Mo and the Mission Home Raids",
+    "theme": "civil-rights",
+    "year": 1895,
+    "yearEnd": 1906,
+    "place": {
+      "label": "Presbyterian Mission Home, 920 Sacramento Street",
+      "lat": 37.79335,
+      "lon": -122.40841,
+      "precision": "building"
+    },
+    "hook": "Brothel owners called her the White Devil. The girls she hid called her Lo Mo. On her first day, someone planted dynamite.",
+    "story": "The Presbyterian Church opened the Occidental Mission Home at 920 Sacramento Street in the 1870s (the landmark report says 1873, FoundSF 1874) as a refuge for Chinese girls and women trafficked into prostitution and forced labour [1][2]. Exclusion laws had left Chinatown with far more men than women, and many women arrived sold or indentured [1][2]. In April 1895 a 25-year-old Donaldina Cameron came to teach sewing [2]. Dynamite was reportedly found around the building on her first day [2]. When superintendent Margaret Culbertson died in 1897, Cameron took charge [2]. She led night raids on brothels with policemen carrying axes and sledgehammers, then fought in court for guardianship of the women she freed, relying on Chinese aides such as Tien Wu [1][2]. More than 800 women and girls are recorded as living at the home between 1874 and 1909 [2]. FoundSF also notes the paternalism: residents were expected to pray daily and adapt to Western ways, and Cameron never learned Chinese [2]. In 1906 firefighters dynamited the home in a failed attempt to make a firebreak. It was rebuilt in 1908 from its salvaged bricks and is now Cameron House [1].",
+    "people": [
+      {
+        "name": "Donaldina Cameron",
+        "role": "Superintendent"
+      },
+      {
+        "name": "Margaret Culbertson",
+        "role": "Superintendent until 1897"
+      },
+      {
+        "name": "Tien Wu",
+        "role": "Assistant and interpreter"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #44: Donaldina Cameron House",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf044.asp",
+        "supports": "Opened 1873 at 920 Sacramento; raids with police; nicknames; 1906 dynamiting; 1908 rebuild with salvaged bricks"
+      },
+      {
+        "title": "Donaldina Cameron: The Person Behind the Legend",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Donaldina_Cameron:_The_Person_Behind_the_Legend",
+        "supports": "April 1895 arrival aged 25; dynamite; Culbertson's death 1897; 800 residents 1874-1909; Tien Wu; critique"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-genthe-ross-alley-camera",
+    "title": "The Photographer Who Hid His Camera",
+    "theme": "arts-counterculture",
+    "year": 1895,
+    "yearEnd": 1906,
+    "place": {
+      "label": "Ross Alley, between Washington and Jackson",
+      "lat": 37.79541,
+      "lon": -122.40719,
+      "precision": "street"
+    },
+    "hook": "A German tutor with a hidden camera made the only known photographs of Chinatown before it burned.",
+    "story": "Arnold Genthe arrived in San Francisco from Germany in 1895 to work as a tutor and taught himself photography [1]. He became fascinated by Chinatown. As FoundSF describes it, he regularly came down Nob Hill to walk the length of Dupont Street and its alleys with his camera [2]. Many residents disliked being photographed, so Genthe sometimes hid his camera. He also cropped or erased signs of Western culture from his pictures [1]. Ross Alley, which he photographed from Jackson Street around 1898, was one of the lanes where elite 'parlor houses' flourished [3][4]. By the turn of the century he had around 200 glass negatives and lantern slides [2]. About 200 of his Chinatown pictures survive, and they are the only known photographs of the district before the 1906 fire destroyed it [1]. They are beautiful and complicated records, full of real faces in a streetscape the photographer made more exotic than it was.",
+    "people": [
+      {
+        "name": "Arnold Genthe",
+        "role": "Photographer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Arnold Genthe",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Arnold_Genthe",
+        "supports": "1895 arrival as tutor; self-taught; hidden camera; erased Western details; ~200 surviving pictures"
+      },
+      {
+        "title": "A Glittering Ghetto",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=A_Glittering_Ghetto",
+        "supports": "Genthe walking Dupont Street; ~200 glass negatives and lantern slides"
+      },
+      {
+        "title": "Chinatown Life at Turn of 20th Century",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Chinatown_Life_at_Turn_of_20th_Century",
+        "supports": "Genthe photo of Ross Alley from Jackson Street, c.1898"
+      },
+      {
+        "title": "Alleys of Ill-Repute",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Alleys_of_Ill-Repute",
+        "supports": "Ross Alley and Waverly Place as parlor-house lanes"
+      }
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_street_of_the_gamblers_%28by_day%29%2C_Chinatown%2C_San_Francisco_LOC_agc.7a55007.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:The_street_of_the_gamblers_(by_day),_Chinatown,_San_Francisco_LOC_agc.7a55007.jpg",
+      "credit": "Arnold Genthe, 'The street of the gamblers (by day)', Library of Congress",
+      "license": "Public domain",
+      "year": 1900
+    }
+  },
+  {
+    "id": "chinatown-plague-globe-hotel-1900",
+    "title": "A Death in the Globe Hotel Basement",
+    "theme": "civil-rights",
+    "year": 1900,
+    "yearEnd": 1904,
+    "place": {
+      "label": "Site of the Globe Hotel, Grant Avenue & Jackson Street",
+      "lat": 37.7962,
+      "lon": -122.40659,
+      "precision": "block"
+    },
+    "hook": "One man's death in a Chinatown basement led to Chinatown being sealed off within a day — and to years of official denial.",
+    "story": "Wong Chut King, a 41-year-old lumber-yard owner who had lived in San Francisco for 16 years, lived in the basement of the Globe Hotel at what is now Grant and Jackson [3]. When his body was examined on March 6, 1900, doctors found swollen lymph glands, and the city bacteriologist thought he saw plague bacilli under the microscope [3]. The next day the city quarantined Chinatown. White people were allowed to leave, while Chinese residents, estimated at 20,000 to 35,000, were trapped inside the cordon [1][2][3]. The quarantine was lifted on March 9, but residents then faced forced house-to-house inspections, fumigation and an experimental vaccine made from plague cells, which many feared was poison [1][2]. Business leaders, newspapers and Governor Henry Gage denied the outbreak to protect trade. The Call headlined 'Plague Fake Part of a Plot to Plunder' [1]. Federal quarantine officer Joseph Kinyoun, who insisted it was plague, was vilified and transferred out of the city [1][2]. The last case was recorded on February 19, 1904, after 121 documented cases [1].",
+    "people": [
+      {
+        "name": "Wong Chut King",
+        "role": "First recognised plague victim"
+      },
+      {
+        "name": "Joseph Kinyoun",
+        "role": "Federal quarantine officer"
+      },
+      {
+        "name": "Henry Gage",
+        "role": "Governor of California"
+      }
+    ],
+    "sources": [
+      {
+        "title": "To Contain or to Conceal: San Francisco's Plague Epidemic, 1900",
+        "publisher": "FoundSF (Eva Knowles)",
+        "year": 2021,
+        "url": "https://www.foundsf.org/index.php?title=To_Contain_or_to_Conceal:_San_Francisco%E2%80%99s_Plague_Epidemic,_1900",
+        "supports": "March 6 discovery; March 7-9 quarantine; inspections, vaccine; Call headline; Gage; Kinyoun; 121 cases, last Feb 19, 1904"
+      },
+      {
+        "title": "San Francisco's Plague Years",
+        "publisher": "Science History Institute",
+        "year": 2019,
+        "url": "https://www.sciencehistory.org/stories/magazine/san-franciscos-plague-years/",
+        "supports": "Wong Chut King; quarantine of about 20,000; vaccine fears; Kinyoun vilified and transferred"
+      },
+      {
+        "title": "San Francisco plague of 1900-1904",
+        "publisher": "Wikipedia (pointer to Risse 2012, Kellogg 1937)",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_plague_of_1900%E2%80%931904",
+        "supports": "Age, occupation, Globe Hotel basement at Grant & Jackson; autopsy details; whites allowed to leave"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "chinatown-bank-of-italy-saloon-1904",
+    "title": "A Saloon Bank for the 'Little Fellow'",
+    "theme": "labor-industry",
+    "year": 1904,
+    "yearEnd": null,
+    "place": {
+      "label": "Columbus Avenue & Washington Street (site of the first Bank of Italy)",
+      "lat": 37.79556,
+      "lon": -122.40384,
+      "precision": "block"
+    },
+    "hook": "The world's largest bank started in a converted saloon at the edge of Chinatown and North Beach, lending to immigrants others ignored.",
+    "story": "Amadeo Pietro Giannini, the son of Italian immigrants, made his money as a produce broker. He then became a director of Columbus Savings & Loan, but fell out with the other directors, who did not share his wish to serve the city's growing immigrant population [1]. So he quit and started his own bank. The Bank of Italy opened on October 17, 1904, in a converted saloon in the Jackson Square neighbourhood, as an institution for the 'little fellow' [1][2]. First-day deposits came to $8,780, and within a year they topped $700,000 [1]. The original building is gone. The Colombo Building of 1909 now stands on the site, at the gore corner where Columbus Avenue meets Washington and Montgomery (the city's landmark file dates the building to 1912) [2][3]. After the 1906 earthquake, Giannini reportedly hauled his bank's cash to San Mateo under a load of garbage and was soon making loans from a plank across two barrels [1]. His bank was renamed Bank of America in 1930 and by 1945 was the largest commercial bank in the world [2].",
+    "people": [
+      {
+        "name": "Amadeo Pietro Giannini",
+        "role": "Founder, Bank of Italy"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Amadeo Giannini",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Amadeo_Giannini",
+        "supports": "Columbus Savings & Loan dispute; Oct 17, 1904 founding in converted saloon; deposits; 1906 garbage wagon and plank"
+      },
+      {
+        "title": "Bank of America (1904-1998)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Bank_of_America_(1904%E2%80%931998)",
+        "supports": "First location in Jackson Square, now Colombo Building (1909); renaming; largest bank by 1945"
+      },
+      {
+        "title": "San Francisco Landmark #237: Colombo Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf237.asp",
+        "supports": "Colombo Building at 1-21 Columbus / 612-624 Washington, gore corner; built 1912 per landmark file"
+      }
+    ],
+    "photo": null
+  }
+]

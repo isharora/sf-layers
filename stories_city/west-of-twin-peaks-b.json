@@ -1,0 +1,594 @@
+[
+  {
+    "id": "west-of-twin-peaks-el-rey-tower",
+    "title": "A Movie King with an Aviation Beacon",
+    "theme": "architecture-landmarks",
+    "year": 1931,
+    "yearEnd": 1977,
+    "place": {
+      "label": "El Rey Theatre, 1970 Ocean Avenue at Victoria Street",
+      "lat": 37.72636,
+      "lon": -122.46397,
+      "precision": "building"
+    },
+    "hook": "Timothy Pflueger crowned an Ocean Avenue movie palace with a tower meant to guide planes through the fog. Then came a church, a sci-fi dream and bankruptcy.",
+    "story": "In 1931 neighbourhood theatre mogul Samuel H. Levin spent $500,000 on an 1,830-seat picture palace at Ocean Avenue and Victoria Street, and the opening film was Maurice Chevalier's \"The Smiling Lieutenant\" [1]. Timothy Pflueger, who also designed the Castro Theatre, mixed the Spanish Colonial Revival style then popular in Ingleside Terraces and Balboa Terrace with streamlined Moderne. He named it El Rey, \"The King\" [1]. He meant the 146-foot tower to be a beacon in the foggy district, with green and red neon and a directional light charted by aviation authorities [1].\n\nThe last movie played in 1977 [2]. For some thirty years the Voice of Pentecost church used the building and painted a cross on the tower. The church mortgaged it to pay for upgrades and a science-fiction film the pastor described as \"the Ten Commandments meets Star Wars.\" The film was never finished, the church went bankrupt, and the building was foreclosed on in 2015 [1]. The Board of Supervisors made it City Landmark No. 274 in 2017, and developers drew up plans for 42 condos [1]. Instead, in September 2025, an evangelical congregation, The Father's House SF, bought the long-empty theatre. That upset neighbours who had hoped for an arts or community centre [3].",
+    "people": [
+      {
+        "name": "Timothy L. Pflueger",
+        "role": "architect"
+      },
+      {
+        "name": "Samuel H. Levin",
+        "role": "theatre owner who built the El Rey"
+      }
+    ],
+    "sources": [
+      {
+        "title": "El Rey Theatre",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/el_rey.php",
+        "supports": "Levin, cost, seats, first film, Pflueger design and tower beacon, church, film venture, 2015 foreclosure, Landmark No. 274, condo plans"
+      },
+      {
+        "title": "Ocean Avenue is one of San Francisco's unsung streets. Here's why",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2022,
+        "url": "https://www.sfchronicle.com/bayarea/nativeson/article/Ocean-Avenue-is-one-of-San-Francisco-s-unsung-17280846.php",
+        "supports": "Last movie in 1977; became a church; city landmark"
+      },
+      {
+        "title": "Long-blighted theater, once destined for housing, taken over by church",
+        "publisher": "The San Francisco Standard",
+        "year": 2025,
+        "url": "https://sfstandard.com/2025/09/22/church-buys-el-rey-theatre-sf/",
+        "supports": "The Father's House SF bought the El Rey in 2025; residents' hopes for a community space"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-fdr-lights-the-cross",
+    "title": "The President Lights the Cross by Telegraph",
+    "theme": "architecture-landmarks",
+    "year": 1934,
+    "yearEnd": null,
+    "place": {
+      "label": "Mount Davidson Cross, summit of Mount Davidson Park",
+      "lat": 37.73826,
+      "lon": -122.45463,
+      "precision": "building"
+    },
+    "hook": "Three wooden crosses on the city's highest hill burned down. The fourth, made of concrete, was switched on from the White House.",
+    "story": "Easter sunrise services began on Mount Davidson in 1923 at a 40-foot wooden cross, and 5,000 people came despite the rain [1]. The crosses that followed kept burning down: one in 1925, another in 1928, and a third in 1931 [2]. For a permanent monument, architect George Kelham and engineer Henry Brunnier, who were helping shape the downtown skyline, designed a 103-foot shaft built from 750 cubic yards of concrete and 30 tons of steel, with its foundation sunk 16 feet into solid rock [1]. A time capsule containing a transcript of earlier ownership deeds went into the base [2].\n\nMadie Brown, the park's founder, then wrote to Franklin D. Roosevelt: \"I have dared to dream that you would press a button in Washington, D.C., which in turn would light for the first time this giant cross.\" [1] On March 24, 1934, the president pressed a telegraph key and the cross lit up at 7:30 p.m. in front of a crowd of 50,000 [1][2]. Brown's letter praised him for bringing light \"to many a darkened American home\" [1]. It came two days after Roosevelt had persuaded the longshoremen's union to postpone a strike, months before the great waterfront and general strikes of 1934 [1][2].",
+    "people": [
+      {
+        "name": "Madie Brown",
+        "role": "park founder who invited the President"
+      },
+      {
+        "name": "Franklin D. Roosevelt",
+        "role": "lit the cross by telegraph"
+      },
+      {
+        "name": "George W. Kelham",
+        "role": "architect"
+      },
+      {
+        "name": "Henry J. Brunnier",
+        "role": "engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mt Davidson",
+        "publisher": "FoundSF (Jacquie Proctor)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mt_Davidson",
+        "supports": "1923 first service, Kelham/Brunnier design and dimensions, Madie Brown's letter, FDR lighting before 50,000"
+      },
+      {
+        "title": "Mt. Davidson Timeline",
+        "publisher": "mtdavidson.org (Jacqueline Proctor)",
+        "year": 2014,
+        "url": "https://mtdavidson.org/timeline/",
+        "supports": "Dates of cross fires, time capsule, March 24, 1934 lighting at 7:30 PM, 1934 strike chronology"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-jail-becomes-college",
+    "title": "Tearing Down a Jail to Build a College",
+    "theme": "labor-industry",
+    "year": 1934,
+    "yearEnd": 1937,
+    "place": {
+      "label": "City College Ocean Campus athletic fields (site of the Ingleside Jail)",
+      "lat": 37.724,
+      "lon": -122.4495,
+      "precision": "area"
+    },
+    "hook": "Before City College, this hillside held the Ingleside Jail, where prisoners were packed two to a cell barely six feet long.",
+    "story": "From 1874 the County Sheriff's House of Correction Number Three stood on the slope above Ocean Avenue [1]. One account calls it \"a real hellhole\" and says prisoners were squeezed in pairs into cells 6 feet long, 4 feet 7 inches wide and 6 feet 6 inches high [1].\n\nOn July 8, 1934, the Ingleside Jail closed. A photograph from that day shows prison buses pulling away while a guard with a rifle watches, as inmates were moved under heavy guard to a new county jail at San Bruno [2]. Then the Depression's public-works crews moved in. Photographs from about 1934–35 show Works Progress Administration workers grading the land on which the jail had stood [1]. Groundbreaking for the new junior college near the old jail site followed in 1937 [3]. The jail grounds are now the college's athletic fields [1].\n\nWriting in 1994, a time of prison-building and campus budget cuts, the writer \"Dr. Weirde\" called it \"nice to remember a time when it worked the other way around\" [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "A Jail that Became a College",
+        "publisher": "FoundSF",
+        "year": 1994,
+        "url": "https://www.foundsf.org/index.php?title=A_Jail_that_Became_a_College",
+        "supports": "House of Correction No. 3 dates, cell dimensions, WPA grading photos, jail site now athletic fields, Dr. Weirde quote"
+      },
+      {
+        "title": "Prison buses leaving jail (wnp4.1206)",
+        "publisher": "OpenSFHistory / Western Neighborhoods Project",
+        "year": 1934,
+        "url": "https://opensfhistory.org/Display/wnp4.1206.jpg",
+        "supports": "Jail closed July 8, 1934; prisoners transferred under heavy guard to San Bruno"
+      },
+      {
+        "title": "Mt. Davidson Timeline",
+        "publisher": "mtdavidson.org",
+        "year": 2014,
+        "url": "https://mtdavidson.org/timeline/",
+        "supports": "1937 groundbreaking for City College near the site of the old county jail"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-homewood-terrace",
+    "title": "Cottages for Children Fleeing Europe",
+    "theme": "communities",
+    "year": 1940,
+    "yearEnd": 1965,
+    "place": {
+      "label": "Former Homewood Terrace campus, Ocean Avenue between Faxon and Keystone",
+      "lat": 37.7252,
+      "lon": -122.4598,
+      "precision": "block"
+    },
+    "hook": "On Ocean Avenue, a Jewish orphanage replaced dormitories with cottages. During the Second World War it took in children who had escaped the Holocaust.",
+    "story": "In 1921 the Pacific Hebrew Orphan Asylum, founded in 1872, left its building on Divisadero Street for a new campus on Ocean Avenue between Faxon and Keystone, and renamed itself Homewood Terrace [1][2]. Led by Dr. Samuel Langer, it housed children in a campus of cottages. Its own 1972 centennial history calls these \"the first cottage type child care facilities in the United States\" [1].\n\nThe same history says the agency grew most under director Benjamin Bonaparte, and that \"during World War II, Homewood Terrace provided for many children brought from the European Holocaust.\" [1] Many alumni went on to careers in the professions and business, it adds [1].\n\nIn 1965, as fewer children needed institutional care, director Ralph Ross moved the children into seven ordinary houses in the Richmond District, where they lived with house counsellors [1]. The Ocean Avenue cottages took years to be torn down, and homes and shops now cover the site [1]. The agency merged with Jewish Family Service in 1977 to form today's Jewish Family and Children's Services [2].",
+    "people": [
+      {
+        "name": "Dr. Samuel Langer",
+        "role": "director who led the move to Ocean Avenue"
+      },
+      {
+        "name": "Benjamin Bonaparte",
+        "role": "director during the agency's greatest growth"
+      },
+      {
+        "name": "Ralph Ross",
+        "role": "director who moved children to Richmond homes"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Homewood Terrace Orphanage",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": null,
+        "url": "https://www.outsidelands.org/homewood-terrace.php",
+        "supports": "Location, 1921 opening, 1972 centennial history quotes, WWII Holocaust children, 1965 move, demolition"
+      },
+      {
+        "title": "Our History",
+        "publisher": "Jewish Family and Children's Services",
+        "year": null,
+        "url": "https://jfcs.org/about/history",
+        "supports": "1921 move to Ocean Avenue and renaming; 1977 merger forming JFCS"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-foerster-mudslide",
+    "title": "A Sea of Ooze on Foerster Street",
+    "theme": "parks-nature",
+    "year": 1942,
+    "yearEnd": null,
+    "place": {
+      "label": "700 block of Foerster Street, between Teresita Blvd and Los Palmos Drive",
+      "lat": 37.73555,
+      "lon": -122.44922,
+      "precision": "block"
+    },
+    "hook": "After two weeks of storms, a builder's embankment gave way above Foerster Street. The mud flipped a house and buried a cook in her kitchen.",
+    "story": "Mount Davidson's slopes had already given trouble. In February 1936, carpenter John Mickelson's house at 625 Foerster Street slid onto the sidewalk on a pile of mud, and he moved it up the street to what is now 750 Foerster [1].\n\nSix years later it was much worse. Contractors had been moving earth to build new homes on the winding streets above. On February 6, 1942, after two weeks of storms, mud from a Bella Vista Way embankment broke loose and roared downhill \"in a lava-like sea of ooze\" [1]. It hit first at 375 Kenyon Avenue, a dirt lane roughly where Los Palmos Drive runs today. Dora Kammer, a 62-year-old cook, was in the kitchen when the house was almost flipped over. Her brother-in-law, steamfitter Thomas Hill, was pinned by timbers and pushed out a window [1]. Hill died two days later. Rescuers needed five days to recover Kammer's body [1].\n\nThe mud pushed 775 and 777 Foerster into the middle of the roadway, and a woman and her five-year-old walked out unhurt [1]. City photographers recorded Foerster Street buried between Teresita and Los Palmos that same day [2]. Number 785, swamped but still standing, remains today [1].",
+    "people": [
+      {
+        "name": "Dora Kammer",
+        "role": "cook killed in the slide"
+      },
+      {
+        "name": "Thomas Hill",
+        "role": "steamfitter, died of his injuries"
+      },
+      {
+        "name": "John Mickelson",
+        "role": "carpenter whose house slid in 1936"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Miraloma Park Mudslide 1942 (Woody LaBounty, San Francisco Story)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Miraloma_Park_Mudslide_1942",
+        "supports": "1936 Mickelson slide, cause, victims, addresses, rescue and aftermath"
+      },
+      {
+        "title": "Foerster St. Slide, Feb 6, 1942 (wnp26.176)",
+        "publisher": "OpenSFHistory / SF Department of Public Works",
+        "year": 1942,
+        "url": "https://opensfhistory.org/Display/wnp26.176.jpg",
+        "supports": "Date and location of the slide on Foerster between Teresita and Los Palmos"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-last-sight-of-home",
+    "title": "A Soldier's Last Sight of Home",
+    "theme": "war-military",
+    "year": 1955,
+    "yearEnd": 1976,
+    "place": {
+      "label": "Mount Davidson Cross, Mount Davidson Park",
+      "lat": 37.73815,
+      "lon": -122.4544,
+      "precision": "area"
+    },
+    "hook": "A soldier bound for Korea wrote that the glowing cross was the last thing he saw of San Francisco. A church then paid to keep it lit.",
+    "story": "Since 1934 the Mount Davidson cross had been lit only during the week before Easter [1]. During the Second World War, up to 75,000 people came to the sunrise services, and CBS Radio broadcast them across the country [2].\n\nThen came a letter. A soldier heading to the Korean War wrote that the lit cross on the hill was the last sight he had of home. The sources do not record his name. In response, in 1955, Lakeside Presbyterian Church raised money for the city to light the cross all year round [1][2]. Its twelve 1,000-watt lamps could be seen from 75 miles away [2].\n\nThe year-round lighting lasted about two decades. In 1976, during the energy crisis, the city cut it back to Easter and Christmas weeks only [1][2]. By then the park had grown to 38 acres, after its last parcel was bought in 1950 [1].",
+    "people": [
+      {
+        "name": "Unnamed soldier",
+        "role": "wrote that the lit cross was his last sight of home"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mt. Davidson Timeline",
+        "publisher": "mtdavidson.org (Jacqueline Proctor)",
+        "year": 2014,
+        "url": "https://mtdavidson.org/timeline/",
+        "supports": "1955 soldier's letter, Lakeside Presbyterian fundraising, year-round lighting, 1976 cutback, 1950 park purchase"
+      },
+      {
+        "title": "Mt Davidson",
+        "publisher": "FoundSF (Jacquie Proctor)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Mt_Davidson",
+        "supports": "WWII attendance and CBS broadcasts, Korea soldier, twelve 1000-watt lights visible 75 miles, 1976 energy crisis"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-portal-fights-planners",
+    "title": "The Village That Fought the Planners",
+    "theme": "modern-city",
+    "year": 1955,
+    "yearEnd": 1976,
+    "place": {
+      "label": "West Portal Station, West Portal Avenue at Ulloa Street",
+      "lat": 37.74059,
+      "lon": -122.46566,
+      "precision": "building"
+    },
+    "hook": "West Portal's homeowners stopped a freeway tunnel under Forest Hill and kept their shopping street from being dug up. They could not save the old tunnel gate.",
+    "story": "After the war, highway engineers drew a \"Western Freeway\" running north along Junipero Serra Boulevard from today's I-280. North of Sloat it would swing northeast and tunnel under Forest Hill to meet a Crosstown Freeway coming out of Glen Canyon, and many homes stood in its path [1]. On December 2, 1955, neighbourhood clubs including the West Portal Home Owners Association challenged the state Division of Highways at a meeting at Lincoln High School [1]. The fight fed the city's freeway revolt. In 1959 the Board of Supervisors cancelled most planned routes, and a 1961 vote went against the Western Freeway [1][2].\n\nThe next threat came from rail. BART's planners wanted to dig up West Portal Avenue and run the streetcars underground all the way to Sloat. Merchants who had watched Market Street torn up for BART construction defeated the idea [1].\n\nThe neighbourhood lost one fight. The original tunnel entrance, an imposing Beaux-Arts portal, was demolished in 1976 for the Muni Metro station. It had been found eligible for the National Register, but local merchants called it an eyesore. The new station cost $8.5 million, more than twice the cost of the entire 1918 tunnel [1].",
+    "people": [
+      {
+        "name": "West Portal Home Owners Association",
+        "role": "neighbourhood group that opposed the freeway"
+      }
+    ],
+    "sources": [
+      {
+        "title": "West Portal (Richard Brandi, The Argonaut, 2003)",
+        "publisher": "FoundSF",
+        "year": 2003,
+        "url": "https://www.foundsf.org/index.php?title=West_Portal",
+        "supports": "Western Freeway route, Dec. 2, 1955 meeting, BART subway proposal, 1976 demolition of portal, station cost"
+      },
+      {
+        "title": "Freeway Revolt",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Freeway_Revolt",
+        "supports": "1959 Supervisors cancelled most routes; 1961 vote against the Western Freeway"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-cross-on-cedro",
+    "title": "A Burnt Cross on Cedro Avenue",
+    "theme": "civil-rights",
+    "year": 1958,
+    "yearEnd": null,
+    "place": {
+      "label": "90 Cedro Avenue, Ingleside Terraces",
+      "lat": 37.72709,
+      "lon": -122.46893,
+      "precision": "building"
+    },
+    "hook": "The city's first Black deputy district attorney bought a showpiece house in a covenanted neighbourhood. One morning his small daughter ran straight into a burnt cross.",
+    "story": "Ingleside Terraces was laid out with racial covenants that limited sales to white buyers. The courts later struck them down [1]. Cecil Poole, who had become San Francisco's first Black deputy district attorney in 1949 [2], still struggled to buy a house there. With a VA loan in hand, he would phone about a listing and arrive to be told it had been sold. His daughter Patti said the family got 90 Cedro Avenue only because the owner, who was being transferred to Los Angeles, sold it to them himself [3]. The fourteen-room house had been built by the tract's developer, Joseph Leonard [3].\n\nIn 1958 someone burned a cross on the lawn [1]. Patti, then about five, found it while racing her father to the garage on the way to school: \"I did that one day and ran smack into a burnt cross.\" [3] Her mother had smelled burning the night before. The family stayed. \"They got over it, though,\" Patti said of the neighbours. \"They had to. We weren't going anywhere.\" [3]\n\nIn 1961 Poole became San Francisco's first Black U.S. Attorney, and in 1979 he was appointed to the Ninth Circuit Court of Appeals [2].",
+    "people": [
+      {
+        "name": "Cecil F. Poole",
+        "role": "deputy DA, later U.S. Attorney and federal judge"
+      },
+      {
+        "name": "Patti Poole",
+        "role": "his daughter, who found the cross"
+      },
+      {
+        "name": "Charlotte Poole",
+        "role": "his wife, community leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ocean Avenue is one of San Francisco's unsung streets. Here's why",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2022,
+        "url": "https://www.sfchronicle.com/bayarea/nativeson/article/Ocean-Avenue-is-one-of-San-Francisco-s-unsung-17280846.php",
+        "supports": "Racial covenants in Ingleside Terraces; 1958 cross burning at the Poole home, first Black residents"
+      },
+      {
+        "title": "Legal pioneer Cecil Poole dies at 83",
+        "publisher": "San Francisco Examiner (via SFGATE)",
+        "year": 1997,
+        "url": "https://www.sfgate.com/news/article/Legal-pioneer-Cecil-Poole-dies-at-83-3090659.php",
+        "supports": "First Black deputy DA in 1949; U.S. Attorney 1961; Ninth Circuit 1979; family members"
+      },
+      {
+        "title": "Patti Poole interview, I am OMI project",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2004,
+        "url": "http://www.outsidelands.org/poole-interview.php",
+        "supports": "90 Cedro, difficulty buying, private sale, finding the cross, quotes, Leonard house"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-rivera-out-of-the-crate",
+    "title": "Diego Rivera's Mural Waits Twenty Years",
+    "theme": "arts-counterculture",
+    "year": 1961,
+    "yearEnd": null,
+    "place": {
+      "label": "Diego Rivera Theatre lobby, City College Ocean Campus",
+      "lat": 37.7262,
+      "lon": -122.4513,
+      "precision": "building"
+    },
+    "hook": "Rivera painted his largest single mural for a college library that was never built. For two decades it sat in crates at the college.",
+    "story": "In 1940, during the second season of the Golden Gate International Exposition on Treasure Island, Diego Rivera painted a fresco 22 feet high and 74 feet long while fairgoers watched [1]. Its full title is \"The Marriage of the Artistic Expression of the North and of the South on this Continent\" [1]. It mixes Quetzalcoatl with an auto-plant stamping machine, and Chaplin's \"Great Dictator\" with Hitler, Stalin and Mussolini [2]. Rivera also painted three self-portraits and a portrait of Frida Kahlo into it [1].\n\nThe mural was meant for a new library at San Francisco Junior College designed by Timothy Pflueger, Rivera's patron [1]. The war stopped the library from being built, and its panels were crated and stored first on the fairgrounds and then at the college [1]. In the Red-baiting 1950s Rivera, a Communist, was shunned, and the fresco was still in storage when he died in 1957 [2]. Then Pflueger's younger brother Milton proposed putting it in the lobby of the campus theatre he was designing, and in 1961 it finally went on view [1][2]. On loan to SFMOMA until January 2024, it drew some 600,000 viewers. A dedicated Diego Rivera Performing Arts Center is now under construction on campus [3].",
+    "people": [
+      {
+        "name": "Diego Rivera",
+        "role": "muralist"
+      },
+      {
+        "name": "Timothy Pflueger",
+        "role": "architect and patron"
+      },
+      {
+        "name": "Milton Pflueger",
+        "role": "architect who installed the mural in 1961"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pan American Unity: Overview",
+        "publisher": "Diego Rivera Mural Project, City College of San Francisco",
+        "year": null,
+        "url": "https://riveramural.org/overview/",
+        "supports": "Dimensions, title, Frida Kahlo and self-portraits, library plan, storage, Milton Pflueger, 1961 installation"
+      },
+      {
+        "title": "Building a home for City College's Rivera mural",
+        "publisher": "SFGATE (Jesse Hamlin)",
+        "year": 2012,
+        "url": "http://www.sfgate.com/art/article/Building-a-home-for-City-College-s-Rivera-mural-3572583.php",
+        "supports": "Twenty years in crates, McCarthy-era shunning, mural imagery"
+      },
+      {
+        "title": "Diego Rivera Mural Project (home page)",
+        "publisher": "riveramural.org",
+        "year": null,
+        "url": "https://www.riveramural.org/",
+        "supports": "SFMOMA display ended January 2024 after 600,000 viewers; new performing arts center under construction"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-sunnyside-conservatory-saved",
+    "title": "Bulldozers at the Redwood Conservatory",
+    "theme": "architecture-landmarks",
+    "year": 1975,
+    "yearEnd": 1980,
+    "place": {
+      "label": "Sunnyside Conservatory, 236 Monterey Boulevard",
+      "lat": 37.73186,
+      "lon": -122.44082,
+      "precision": "building"
+    },
+    "hook": "Neighbours got an inventor's Victorian plant house declared a city landmark. Then a cyclist rode past and saw heavy equipment tearing it down.",
+    "story": "In 1902 William Augustus Merralls, a British-born inventor of gold-mining machinery, built an octagonal redwood conservatory for his exotic plants on what is now Monterey Boulevard [1]. After him came Ernest Van Beckh, a con man from the \"Big Five\" mining-stock swindle. He bought the estate in 1919 and lived there until he died in 1951 [1].\n\nIn 1974 a new owner, Robert Anderson, began dividing up the lots with an eye to development. The newly formed Sunnyside Neighborhood Association fought back, and in 1975 the city designated the conservatory a landmark [1][2]. Anderson still managed to get a demolition permit. Neighbour Greg Gaar was cycling to City College when he saw machines at work: \"I knew it was a registered historic landmark.\" [1] His calls to City Hall stopped the demolition, but part of the building had already been torn off and almost all the windows knocked out [1].\n\nIn 1980 the city bought the site with Open Space Fund money [1]. Neighbour Ted Kipping kept the trees alive. After Friends of Sunnyside Conservatory formed in 1999, another neighbour brought back the original rooftop spire, which he had kept in his garage for 30 years. It was too rotten to reuse, so builders copied it in copper [1].",
+    "people": [
+      {
+        "name": "William Augustus Merralls",
+        "role": "inventor who built the conservatory"
+      },
+      {
+        "name": "Greg Gaar",
+        "role": "neighbour who stopped the demolition"
+      },
+      {
+        "name": "Ted Kipping",
+        "role": "neighbour who tended the plants"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Eccentric Personalities Behind Sunnyside Conservatory",
+        "publisher": "KQED Bay Curious (Katrina Schwartz)",
+        "year": 2026,
+        "url": "https://www.kqed.org/news/12074947/the-eccentric-personalities-behind-sunnyside-conservatory-a-120-year-old-garden-in-san-francisco",
+        "supports": "Merralls, Van Beckh, Anderson, 1975 landmarking, partial demolition, Gaar quote, 1980 purchase, Kipping, spire"
+      },
+      {
+        "title": "Sunnyside Conservatory, SF Landmark #78",
+        "publisher": "NoeHill (adapted from City Planning Commission Resolution 7380, 1975)",
+        "year": 1975,
+        "url": "https://noehill.com/sf/landmarks/sf078.asp",
+        "supports": "Landmark designation in 1975 and history of the site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-cross-sold-at-auction",
+    "title": "The City Auctions Its Tallest Cross",
+    "theme": "communities",
+    "year": 1997,
+    "yearEnd": 2003,
+    "place": {
+      "label": "Mount Davidson Cross (0.38-acre private parcel)",
+      "lat": 37.73835,
+      "lon": -122.4548,
+      "precision": "area"
+    },
+    "hook": "Courts ruled that a city-owned cross broke the separation of church and state. The fix was an auction, and Armenian Americans won it for $26,000.",
+    "story": "In 1990 the American Civil Liberties Union, Americans United for Separation of Church and State and the American Jewish Congress sued the city over its ownership of the Mount Davidson cross, arguing that a religious symbol on public land was unconstitutional [1]. The federal courts agreed, and in 1997 the Supreme Court rejected the city's appeal [1].\n\nThe settlement put the cross itself up for auction. On July 21, 1997, a 0.38-acre parcel around the cross was sold to the highest bidder, the Council of Armenian American Organizations of Northern California, for $26,000 [1][2]. On November 4 voters approved the sale by a wide margin with Proposition F [2]. The council has kept the cross as a memorial to Armenians killed under Ottoman rule, and signs on the surrounding public parkland remind visitors of the separation of church and state [1].\n\nTwo members of American Atheists argued that the city had stacked the bidding to guarantee the cross would survive. The Supreme Court declined their appeal in April 2003, ending a 13-year legal fight [1]. The council's bronze genocide plaque was stolen in 2007 [2].",
+    "people": [
+      {
+        "name": "Council of Armenian American Organizations of Northern California",
+        "role": "winning bidder and owner of the cross"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Top court backs S.F.'s cross sale / Atheists lose appeal",
+        "publisher": "San Francisco Chronicle (Bob Egelko)",
+        "year": 2003,
+        "url": "https://www.sfgate.com/bayarea/article/Top-court-backs-S-F-s-cross-sale-Atheists-lose-2651820.php",
+        "supports": "1990 lawsuit, 1997 Supreme Court denial, auction, $26,000, memorial, signs, atheists' challenge ended 2003"
+      },
+      {
+        "title": "Mt. Davidson Timeline",
+        "publisher": "mtdavidson.org",
+        "year": 2014,
+        "url": "https://mtdavidson.org/timeline/",
+        "supports": "July 21, 1997 auction; Proposition F approved Nov. 4, 1997; 2007 plaque theft"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-city-college-survives",
+    "title": "The College Told to Prepare for Closure",
+    "theme": "modern-city",
+    "year": 2012,
+    "yearEnd": 2017,
+    "place": {
+      "label": "City College of San Francisco, Ocean Campus",
+      "lat": 37.7258,
+      "lon": -122.4505,
+      "precision": "area"
+    },
+    "hook": "In 2012 accreditors threatened to shut the city's biggest public school. Students, teachers and City Hall spent five years fighting to keep it open.",
+    "story": "The crisis hit in 2012 [1]. In July 2013 the Accrediting Commission for Community and Junior Colleges decided to revoke the accreditation of City College of San Francisco, the largest public school in California. The decision was put on hold after a legal challenge [2]. The commission, the Chronicle noted, had \"never found wrongdoing or substandard instruction.\" Its complaints were about governance, finances and reporting [2].\n\nThe crisis came to feel like a fight over the city's future. Students and teachers rallied downtown in July 2013. A state-appointed special trustee cancelled a voter-approved performing arts centre, and some campus land came under development pressure [1]. \"City College is a mirror for what is happening in the city,\" organiser Kevine Boggess said [1].\n\nIn January 2015 the commission granted a two-year reprieve, though it still found the college out of compliance in 32 areas [2]. In February 2017 Mayor Ed Lee and Supervisor Jane Kim announced Free City College: San Francisco would pay $5.4 million a year to cover the $46-a-credit fee for city residents [3].",
+    "people": [
+      {
+        "name": "Kevine Boggess",
+        "role": "organiser and former student body president"
+      },
+      {
+        "name": "Ed Lee",
+        "role": "mayor"
+      },
+      {
+        "name": "Jane Kim",
+        "role": "supervisor behind Free City College"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Development Pressure Engulfs City College (Marcy Rein)",
+        "publisher": "FoundSF / Race, Poverty & the Environment",
+        "year": 2016,
+        "url": "https://www.foundsf.org/index.php?title=Development_Pressure_Engulfs_City_College",
+        "supports": "2012 crisis, rallies, special trustee cancelling PAEC, Balboa Reservoir pressure, Boggess quote"
+      },
+      {
+        "title": "CCSF wins reprieve: Shutdown averted with 2-year extension",
+        "publisher": "San Francisco Chronicle (Nanette Asimov)",
+        "year": 2015,
+        "url": "http://www.sfgate.com/bayarea/article/SF-City-College-shutdown-averted-with-two-year-6015600.php",
+        "supports": "Largest public school in state; July 2013 revocation decision; 32 areas; 'never found wrongdoing' quote; extension"
+      },
+      {
+        "title": "SF reaches deal for free tuition at City College",
+        "publisher": "San Francisco Chronicle (Nanette Asimov)",
+        "year": 2017,
+        "url": "http://www.sfgate.com/bayarea/article/SF-reaches-deal-for-free-tuition-at-City-College-10912051.php",
+        "supports": "Free City College announced Feb. 2017; $5.4 million a year; $46-a-credit fee"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-clause-13-historic-register",
+    "title": "Clause 13 and the National Register",
+    "theme": "civil-rights",
+    "year": 2022,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Francis Wood, St. Francis Boulevard fountain",
+      "lat": 37.7353,
+      "lon": -122.4668,
+      "precision": "area"
+    },
+    "hook": "St. Francis Wood's founding rules barred some races from living there. In 2022 its listing on the National Register set off a fight over who gets to live here.",
+    "story": "When Mason-McDuffie opened St. Francis Wood in 1912, with Olmsted Brothers streets and John Galen Howard gateways, its founding rules included Clause 13, which kept certain ethnic groups from owning or renting homes [1]. The homes association now calls that clause \"discriminatory and inexcusable.\" The Supreme Court made such covenants unenforceable in 1948, and after the 1968 Fair Housing Act the neighbourhood recorded a declaration that the clause was invalid [1].\n\nOn June 30, 2022, after a years-long campaign by residents, St. Francis Wood was added to the National Register of Historic Places [2]. Housing advocates objected. \"If you are preserving structures with the requirement that they remain single-family homes forever, when the origin of that single-family home was so Black people and Japanese people and Chinese people could not live there, is that really what you want to preserve?\" asked policy expert Annie Fryman [2]. Homes association president Michael Fox answered: \"We don't have gates, and we're an inclusive community.\" [2] One land-use lawyer estimated that the new review would add about $10,000 and three to four months to projects [2]. As of 2016 the neighbourhood was 45 percent Asian and 0 percent Black [2].",
+    "people": [
+      {
+        "name": "Annie Fryman",
+        "role": "housing policy expert"
+      },
+      {
+        "name": "Michael Fox",
+        "role": "president, St. Francis Homes Association"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of St. Francis Wood",
+        "publisher": "St. Francis Homes Association",
+        "year": null,
+        "url": "https://www.stfranciswood.org/history",
+        "supports": "1912 founding, Olmsted and Howard, Clause 13, 1948 ruling, post-1968 declaration"
+      },
+      {
+        "title": "St. Francis Wood earns historic designation, sparks backlash",
+        "publisher": "San Francisco Examiner",
+        "year": 2022,
+        "url": "https://www.sfexaminer.com/news/housing/st-francis-wood-earns-historic-designation-sparks-backlash/article_bff67cf0-02e0-11ed-87c7-e3d2da717575.html",
+        "supports": "June 30, 2022 listing; Fryman and Fox quotes; CEQA cost; demographics"
+      }
+    ],
+    "photo": null
+  }
+]

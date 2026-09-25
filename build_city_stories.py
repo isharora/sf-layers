@@ -17,6 +17,9 @@ ALAMO = {'origins': 'gold-rush-victorian', 'victorian': 'gold-rush-victorian', '
          'harlem': 'communities', 'redevelopment': 'civil-rights', 'institutions': 'architecture-landmarks', 'modern': 'modern-city'}
 ALAMO_DROP = {'communities-emanu-el-residence', 'modern-zen-center-page-street', 'victorian-mish-house', 'victorian-mcmorry-lagan',
               'modern-rainbow-house', 'victorian-full-house-postcard-row', 'harlem-sacred-heart-panthers', 'harlem-ame-zion', 'victorian-nightingale-house'}
+# cross-neighbourhood duplicates found after the city research run (same event told twice)
+CITY_DROP = {'inner-richmond-anza-mountain-lake', 'oceanview-merced-ingleside-wolfes-hall', 'tenderloin-hammett-891-post', 'haight-ashbury-panhandle-freeway-revolt',
+             'golden-gate-park-diggers-free-food', 'inner-richmond-mountain-lake-alligator', 'tenderloin-twitter-tax-break', 'nob-hill-betty-ann-ong-rec-center'}
 regions = [json.load(open(f)) for f in glob.glob('regions/*.json')]
 rgeoms = [shape(r['geometry']).buffer(0) for r in regions]
 rtree = STRtree(rgeoms)
@@ -55,6 +58,7 @@ for f in sorted(glob.glob('stories_city/*.json')):
     try: items = json.load(open(f))
     except Exception as e: problems.append(f'{f}: {e}'); continue
     for s in items:
+        if s.get('id') in CITY_DROP: continue
         if all(k in s for k in ('id', 'title', 'year', 'place', 'hook', 'story')): add(s, s.get('theme', 'modern-city'))
 # de-duplicate: same normalised title, or same building with near-identical title
 seen, out = {}, []

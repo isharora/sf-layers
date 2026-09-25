@@ -1,0 +1,675 @@
+[
+ {
+  "id": "portola-university-mound-college",
+  "title": "A Presbyterian College on a Country Hill",
+  "theme": "gold-rush-victorian",
+  "year": 1863,
+  "yearEnd": 1871,
+  "place": {
+   "label": "University Mound, site of the 1863 college building (today 350 University Street)",
+   "lat": 37.72553,
+   "lon": -122.41421,
+   "precision": "building"
+  },
+  "hook": "Long before it was a neighbourhood, the Portola's hill was a would-be campus. The college failed, but the name 'University Mound' outlived it by 160 years.",
+  "story": "In 1863 the Presbyterians put up a big three-storey wooden building on a lonely rise far south of the city. It housed University Mound College, a boarding-school branch of the church's downtown City College, and it never really prospered [1]. From 1869 to 1871 the same building was the University Mound Institute and Boarding School for Boys, and then that closed too [1]. The ambition stuck even though the schools didn't. There had been plans for a city university on the hill, and the streets that grew up around it were named after colleges and universities: Harvard, Oxford, Cambridge, Yale, Amherst, Princeton and Dartmouth [1]. In 1884 trustees spending part of James Lick's fortune bought the old college with 25 acres and turned it into a home for elderly women [1][2]. The wooden building lasted until 1932, when architect Martin J. Rist replaced it with the red-brick building that still stands at 350 University Street [1][2]. By 1905 the name was so well established that Daniel Burnham's city plan proposed a 218-acre 'University Mound Park' on the heights next door [3].",
+  "people": [
+   {
+    "name": "Martin J. Rist",
+    "role": "architect of the 1932 replacement building"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Our History",
+    "publisher": "University Mound Ladies Home (archived by Internet Archive)",
+    "year": 2014,
+    "url": "https://web.archive.org/web/20141009152433/http://www.ladieshome.org/about-us/our-history",
+    "supports": "1863 Presbyterian University Mound College as branch of City College; failed; 1869-71 boys' institute; college-named streets; 1884 purchase; Rist 1932 building"
+   },
+   {
+    "title": "University Mound Ladies Home",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=University_Mound_Ladies_Home",
+    "supports": "25 acres; three-story wooden original redone by Martin J. Rist in 1932; 350 University St"
+   },
+   {
+    "title": "Report on a Plan for San Francisco (Daniel H. Burnham)",
+    "publisher": "Internet Archive (1905 report)",
+    "year": 1905,
+    "url": "https://archive.org/details/reportonaplanfo00frangoog",
+    "supports": "University Mound Park, 218 acres"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-college-streets",
+  "title": "Harvard, Yale and a Street Once Called Berlin",
+  "theme": "gold-rush-victorian",
+  "year": 1869,
+  "yearEnd": null,
+  "place": {
+   "label": "Brussels Street at Dwight Street",
+   "lat": 37.72622,
+   "lon": -122.40496,
+   "precision": "block"
+  },
+  "hook": "The Portola's street grid was drawn in 1869 for a city that hadn't arrived yet. It survives almost unchanged, apart from one street that stopped being called Berlin.",
+  "story": "In 1869 a Homestead Association filed a plan with the city's Department of Streets and Maps. It laid out the Portola's blocks and streets almost exactly as they are today [1]. There were only a few changes. Berlin Street became Brussels, and College Street was renamed Colby [1]. Many of the names honour colleges and universities, which suits a hill called University Mound: Harvard, Oxford, Cambridge, Yale, Amherst, Princeton and Dartmouth [2]. The map ran well ahead of the people, though. In the early 1900s the district was still mostly farmland and its few streets were unpaved. Cattle grazed on the hills, flower greenhouses stood west of Charter Oak Avenue, and truck gardens ran east toward the bay [1]. A photograph from about 1920 looks north between Brussels and Goettingen from roughly Dwight Street toward Bernal Heights [3]. Goettingen kept its old name. The valley picked up nicknames of its own, 'Little Jerusalem' and 'The Flat', which have long since been dropped [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "The Portola District",
+    "publisher": "FoundSF (Chris Ortiz)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Portola_District",
+    "supports": "1869 Homestead Association plan; Berlin changed to Brussels; College renamed Colby; agricultural early 1900s; nicknames"
+   },
+   {
+    "title": "Our History",
+    "publisher": "University Mound Ladies Home (archived by Internet Archive)",
+    "year": 2014,
+    "url": "https://web.archive.org/web/20141009152433/http://www.ladieshome.org/about-us/our-history",
+    "supports": "nearby streets named after colleges and universities"
+   },
+   {
+    "title": "Portola District, c. 1920: view north between Brussels and Goettingen from about Dwight",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1920,
+    "url": "https://opensfhistory.org/Display/wnp30.0243.jpg",
+    "supports": "c. 1920 view between Brussels and Goettingen"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-lick-old-ladies-home",
+  "title": "James Lick's Promise to Women",
+  "theme": "communities",
+  "year": 1884,
+  "yearEnd": null,
+  "place": {
+   "label": "Lick Old Ladies Home, later University Mound Ladies Home, 350 University Street",
+   "lat": 37.72563,
+   "lon": -122.41405,
+   "precision": "building"
+  },
+  "hook": "One of California's richest men left $100,000 for elderly women with no means. It was twice what he first planned, because a friend's wife asked him to double it.",
+  "story": "When James Lick died in 1876, his fortune was conservatively put at $3 million. His will paid $700,000 for the Lick Observatory, and $100,000 for a San Francisco home for 'aged and needy ladies' [1]. The idea came from Mary Staples. Her husband, David J. Staples, helped Lick draft the will. According to the historian (and later mayor) Edward Robeson Taylor, Lick asked her whether she had any request. She proposed a home for aged women, and Lick set aside $50,000, then doubled it when she asked [1][2]. Trustees bought the empty three-storey college on University Mound, with 25 acres, and incorporated in November 1884 [1]. A $300 payment bought care for life, but only women in reasonably good health were admitted [1]. The residents kept cows, pigs and chickens, grew hay and vegetables, and rode a horse and carriage to the nearest cable-car line [1]. By 1888 the May Day bazaar drew carriage after carriage of visitors. They bought the ladies' crocheted tidies and picked 'golden eschscholtzias', California poppies [1]. The home kept going for 130 years and closed in 2014 [2].",
+  "people": [
+   {
+    "name": "James Lick",
+    "role": "benefactor"
+   },
+   {
+    "name": "Mary Staples",
+    "role": "proposed the home"
+   },
+   {
+    "name": "David J. Staples",
+    "role": "helped draft Lick's will"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Our History",
+    "publisher": "University Mound Ladies Home (archived by Internet Archive)",
+    "year": 2014,
+    "url": "https://web.archive.org/web/20141009152433/http://www.ladieshome.org/about-us/our-history",
+    "supports": "Lick fortune, $700,000 observatory, $100,000 home, Staples story via Taylor, Nov 1884 incorporation, $300 admission, farm, carriage, 1888 May Day bazaar"
+   },
+   {
+    "title": "University Mound Ladies Home",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=University_Mound_Ladies_Home",
+    "supports": "Mary Staples's request and doubling; opened 1884; 130 years; closure 2014"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-university-mound-reservoir",
+  "title": "A Reservoir Burnham Wanted as a Mirror",
+  "theme": "architecture-landmarks",
+  "year": 1885,
+  "yearEnd": null,
+  "place": {
+   "label": "University Mound Reservoir, North Basin (University and Bacon streets)",
+   "lat": 37.72639,
+   "lon": -122.41284,
+   "precision": "area"
+  },
+  "hook": "Since 1885 a reservoir has sat on top of the Portola's hill. San Francisco's most famous planner wanted to turn it into the centrepiece of a park.",
+  "story": "In 1885 the Spring Valley Water Company finished a reservoir basin on top of University Mound. The federal dam inventory still lists the North Basin with that completion year [1]. A 44-inch pipe fed it with water from Crystal Springs Reservoir in San Mateo County [2]. In 1905 Daniel Burnham's plan for San Francisco saw beauty in the site. He proposed a 218-acre 'University Mound Park' with 'luxuriant vegetation' and wrote: 'Advantage should be taken of the reservoir, which could be used in vista as a mirror for the park'. Like his proposed Hunter's Point Park, it was to be laid out with level contour roadways and terraces [3]. In September 1913 city photographer Horace Chaffee recorded the reservoir's buildings and photographed cracks in its slope [4].",
+  "people": [
+   {
+    "name": "Daniel H. Burnham",
+    "role": "city planner"
+   },
+   {
+    "name": "Horace Chaffee",
+    "role": "Department of Public Works photographer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Inventory of Dams: University Mound North Basin (CA00131)",
+    "publisher": "U.S. Army Corps of Engineers",
+    "year": 2024,
+    "url": "https://nid.sec.usace.army.mil/api/dams/CA00131/inventory",
+    "supports": "North Basin year completed 1885"
+   },
+   {
+    "title": "Spring Valley Flume, Sep 17, 1913",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1913,
+    "url": "https://opensfhistory.org/Display/wnp27.0515.jpg",
+    "supports": "44-inch Spring Valley pipe from Crystal Springs via University Mound reservoir"
+   },
+   {
+    "title": "Report on a Plan for San Francisco (Daniel H. Burnham)",
+    "publisher": "Internet Archive (1905 report)",
+    "year": 1905,
+    "url": "https://archive.org/details/reportonaplanfo00frangoog",
+    "supports": "University Mound Park, 218 acres, reservoir 'as a mirror for the park' quote"
+   },
+   {
+    "title": "University Mound Reservoir, looking southwest at cracks in slope, Sep 17, 1913",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1913,
+    "url": "https://opensfhistory.org/Display/wnp36.00334.jpg",
+    "supports": "1913 DPW photo of cracks in reservoir slope"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-islais-creek-marsh",
+  "title": "Cows, Clams and Rock Fights at the Creek",
+  "theme": "parks-nature",
+  "year": 1901,
+  "yearEnd": null,
+  "place": {
+   "label": "Northern edge of the Portola, former Islais Creek marsh (near today's Alemany and Bayshore interchange)",
+   "lat": 37.7365,
+   "lon": -122.407,
+   "precision": "area"
+  },
+  "hook": "Where freeway ramps now tangle, Portola and Bernal Heights kids once lined up on opposite banks of a muddy creek and pelted each other with rocks.",
+  "story": "On June 28, 1901, a Spring Valley Water Company photographer pointed his camera south across Islais Creek toward what would become the Portola. His picture shows cows grazing in the marsh and the pipeline to University Mound being worked on. Interstate 280 and Alemany Boulevard now cross the scene [1]. Residents born around 1907 later described the creek for local historian Chris Ortiz. It was the boundary between Bernal Heights and the Portola, and youngsters from the two neighbourhoods settled their disputes by throwing rocks at each other across the mudhole, though their parents warned them to stay away [2]. The creek drained into bay marshland just past the old Clam House on Bayshore Boulevard, where one boy's mother sent him to buy freshly dug clams [2]. The San Bruno Avenue streetcar gave a rough ride over the wetland because its tracks kept sinking [2]. By July 1915 the city had built a fill to carry San Bruno across the creek [3].",
+  "people": [
+   {
+    "name": "Chris Ortiz",
+    "role": "Portola historian who gathered the oral histories"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Alemany near Crescent, Jun 28, 1901",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1901,
+    "url": "https://opensfhistory.org/Display/wnp36.10018.jpg",
+    "supports": "view south across Islais Creek toward Portola; cows; University Mound pipeline; I-280 and Alemany today"
+   },
+   {
+    "title": "The Portola District",
+    "publisher": "FoundSF (Chris Ortiz)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Portola_District",
+    "supports": "creek as boundary; rock-throwing across mudhole; Clam House on Bayshore; tracks sinking"
+   },
+   {
+    "title": "San Bruno from Crescent, Jul 30, 1915",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1915,
+    "url": "https://opensfhistory.org/Display/wnp36.00842.jpg",
+    "supports": "San Bruno fill across Islais Creek, 1915"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-quake-refugees-corral",
+  "title": "Quake Refugees in a Cattle Corral",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1907,
+  "place": {
+   "label": "Felton Street near University Street, site of a probable surviving quake shack (1080 Felton)",
+   "lat": 37.72745,
+   "lon": -122.41545,
+   "precision": "street"
+  },
+  "hook": "After the 1906 earthquake, one Portola family bedded down beside cattle headed for the slaughterhouses. A little shack on Felton Street may date from that time.",
+  "story": "Hazel Laine came to the Portola as a baby in the wake of the 1906 earthquake. Her family camped in a corral next to cattle bound for the Butchertown slaughterhouses in the nearby Bayview [1]. She told her neighbours, the artists Kate Connell and Oscar Melara, about a Portola full of greenhouses and corrals. She also said her older brother later ran the local gas station and charged rum-runners extra during Prohibition [1]. Across the city, relief officials built 5,610 temporary cottages. By summer 1907 the tenants had to buy their cottages and move them to lots of their own, or be forcibly removed by park authorities [2]. The cottages were hauled off by horse-drawn cart, usually to hillsides that were still empty [2]. FoundSF's survey of survivors includes a small house at 1080 Felton Street in the Portola. The site admits, though, that some of the houses it lists may not really be quake shacks [2].",
+  "people": [
+   {
+    "name": "Hazel Laine",
+    "role": "Portola resident who arrived as an infant after the quake"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Amplifying Working Class Culture in Southeast San Francisco",
+    "publisher": "FoundSF (Kate Connell and Oscar Melara)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Amplifying_Working_Class_Culture_in_Southeast_San_Francisco",
+    "supports": "Hazel Laine, corral next to cattle for Butchertown, greenhouses and corrals, brother's gas station and rum runners"
+   },
+   {
+    "title": "1906 Earthquake Shack Survivors",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=1906_Earthquake_Shack_Survivors",
+    "supports": "5,610 cottages; 1907 buy-and-move or removal; horse-drawn towing to hillsides; 1080 Felton listed; caveat on attribution"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-little-jerusalem",
+  "title": "When the Portola Was 'Little Jerusalem'",
+  "theme": "communities",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "San Bruno Avenue near Silver Avenue, the district's old main street",
+   "lat": 37.73216,
+   "lon": -122.40575,
+   "precision": "street"
+  },
+  "hook": "After 1906, Eastern European Jews burned out of South of Market rebuilt their lives along San Bruno Avenue, far enough out that the district picked up a nickname.",
+  "story": "The 1906 earthquake and fire wiped out the South of Market homes and institutions of San Francisco's Eastern European Jewish immigrants. Many of them moved west to the Fillmore-McAllister district, and many others moved south to the San Bruno Avenue district [1]. The valley was once nicknamed 'Little Jerusalem' [2]. Shopkeepers on San Bruno Avenue often lived with their families above their stores [2]. Artists researching the neighbourhood's past found records of a settlement house on San Bruno Avenue that welcomed new immigrants, and of two synagogues founded around the turn of the century [3]. Those who came were later interviewed. From 1976 to 1978 the Western Jewish History Center and the American Jewish Congress recorded the oral history project 'San Francisco Jews of Eastern European Origin, 1880-1940', with the San Bruno Avenue district as one of its focuses. The recordings are now held by the Magnes Collection at UC Berkeley [1]. Italian immigrants also settled here after the quake [4].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Thelma Rosenberg, Oral History (San Francisco Jews of Eastern European Origin, 1880-1940)",
+    "publisher": "Magnes Collection, UC Berkeley, via Internet Archive",
+    "year": 1976,
+    "url": "https://archive.org/details/cbm_000069",
+    "supports": "project description: post-1906 move to San Bruno Avenue district; 1976-78 project by WJHC and American Jewish Congress"
+   },
+   {
+    "title": "The Portola District",
+    "publisher": "FoundSF (Chris Ortiz)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Portola_District",
+    "supports": "nickname Little Jerusalem; owners living above San Bruno Avenue stores"
+   },
+   {
+    "title": "Amplifying Working Class Culture in Southeast San Francisco",
+    "publisher": "FoundSF (Kate Connell and Oscar Melara)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Amplifying_Working_Class_Culture_in_Southeast_San_Francisco",
+    "supports": "settlement house on San Bruno Avenue; two synagogues founded at turn of century"
+   },
+   {
+    "title": "Portola, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Portola,_San_Francisco",
+    "supports": "settled after 1906 by Jewish and Italian immigrants"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-san-bruno-streetcar",
+  "title": "The 25-Line and a Staged Accident",
+  "theme": "labor-industry",
+  "year": 1911,
+  "yearEnd": null,
+  "place": {
+   "label": "San Bruno Avenue at Woolsey Street",
+   "lat": 37.72381,
+   "lon": -122.40235,
+   "precision": "street"
+  },
+  "hook": "In 1911 a streetcar company employee posed on San Bruno Avenue to act out how an accident had happened, and the company photographer took his picture.",
+  "story": "San Bruno Avenue was still called San Bruno Road in March 1908. That month United Railroads photographer John Henry Mentz stood near Woolsey Street and photographed the road running south toward Bayview Hill [1]. The company's cameras came back to the Portola for less scenic reasons. On October 10, 1911, Mentz photographed 25-line car #961, a former Omnibus Railway car, on San Bruno near Felton. A company employee in the picture is shown acting out an accident, and the photograph is filed with accident report 4949 [2]. For Ruth Eshow Upton's family, who lived just beyond the Portola, the 25 was a lifeline. It started at Fifth and Market, ran along Bryant, swung over to Potrero and took San Bruno for the final stretch to the Five Mile House [3]. One rider remembered the trip into town as 'tedious and devoid of interest', which made it good for reading [3]. Old-timers told Chris Ortiz that the ride over the Islais Creek marsh was rough because the tracks kept sinking [4].",
+  "people": [
+   {
+    "name": "John Henry Mentz",
+    "role": "United Railroads photographer"
+   },
+   {
+    "name": "Ruth Eshow Upton",
+    "role": "rider and memoirist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Bruno near Woolsey, Mar 26, 1908",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1908,
+    "url": "https://opensfhistory.org/Display/wnp27.6490.jpg",
+    "supports": "San Bruno Road near Woolsey, Bayview Hill, Mentz/United Railroads"
+   },
+   {
+    "title": "San Bruno Ave & Felton, Oct 10, 1911",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1911,
+    "url": "https://opensfhistory.org/Display/wnp12.10004.jpg",
+    "supports": "25-line car #961, ex-Omnibus Railway; employee demonstrating accident; report 4949"
+   },
+   {
+    "title": "1920s Transport To and From Bayview",
+    "publisher": "FoundSF (Ruth Eshow Upton)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=1920s_Transport_To_and_From_Bayview",
+    "supports": "#25 route Fifth and Market, Bryant, Potrero, San Bruno to Five Mile House; 'tedious' ride"
+   },
+   {
+    "title": "The Portola District",
+    "publisher": "FoundSF (Chris Ortiz)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Portola_District",
+    "supports": "MUNI #25 ride rough over Islais Creek because tracks always sinking"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-gem-theatre",
+  "title": "'Julius Caesar' Today at the Gem",
+  "theme": "arts-counterculture",
+  "year": 1909,
+  "yearEnd": 1910,
+  "place": {
+   "label": "Former Gem Theatre, 2542 San Bruno Avenue",
+   "lat": 37.72958,
+   "lon": -122.40474,
+   "precision": "building"
+  },
+  "hook": "When the Portola was still mostly cattle and greenhouses, a storefront picture house on San Bruno Avenue hung out the bunting for 'Julius Caesar'.",
+  "story": "The Portola was still mostly farmland in the early 1900s. Cattle grazed on its hills and its few streets were unpaved. Along San Bruno Avenue, though, a line of businesses was growing, and their owners often lived upstairs [1]. One of them was the Gem Theatre at 2542 San Bruno Avenue, between Felton and Burrows. A photograph from about 1909 shows it decorated with flags and bunting, with a sign that reads 'Special To-Day Julius Caesar' and children waiting at the door [2]. The collection that holds the photograph dates the Gem to 1909-1910, and notes that the building was still standing in 2018 [2]. A generation later the district had grown enough to support a bigger house, the Avenue Theatre, a block south, where children paid a dime for Saturday matinees in the 1920s [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "The Portola District",
+    "publisher": "FoundSF (Chris Ortiz)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Portola_District",
+    "supports": "agricultural early 1900s; businesses along San Bruno with owners living above"
+   },
+   {
+    "title": "San Bruno near Felton, c. 1909: Gem Theatre",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1909,
+    "url": "https://opensfhistory.org/Display/wnp67.0035.jpg",
+    "supports": "Gem Theatre 2542 San Bruno, flags, bunting, 'Special To-Day Julius Caesar', children, 1909-1910, extant 2018"
+   },
+   {
+    "title": "Avenue Theatre",
+    "publisher": "FoundSF (Ruth Eshow Upton)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Avenue_Theatre",
+    "supports": "Avenue Theatre on San Bruno between Felton and Paul; dime matinees"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-biggins-hair-works",
+  "title": "Horsehair and Plaster on Islais Creek",
+  "theme": "labor-industry",
+  "year": 1916,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of P. Biggins & Co. Hair Works, 2165 San Bruno Avenue (vanished address near Islais Creek)",
+   "lat": 37.736,
+   "lon": -122.4072,
+   "precision": "block"
+  },
+  "hook": "Where San Bruno Avenue crossed the Islais Creek marsh, a wholesale firm dealt in hair for plasterers and saddle makers.",
+  "story": "San Bruno Avenue reached the Portola by crossing the Islais Creek marsh. In the 1910s city photographer Horace Chaffee kept coming back to record the work there. In July 1915 he photographed San Bruno running out across a new fill over the creek [1]. On September 29, 1916, he looked northwest toward Bernal Heights from Gaven Street. At the right of his picture is a sign for 'P. Biggins & Co, Hair Works' [2]. A few weeks later, on October 20, crews were laying streetcar tracks across the creek, and his photograph identifies the firm more fully. It was Patrick Biggins & Co., wholesale dealers in plastering and saddlers' hair, at 2165 San Bruno Avenue, right on the creek [3]. Old-timers remembered the streetcar ride over the creek as rough because the tracks were always sinking [4]. The address no longer appears on the city's address list.",
+  "people": [
+   {
+    "name": "Patrick Biggins",
+    "role": "wholesale hair dealer"
+   },
+   {
+    "name": "Horace Chaffee",
+    "role": "Department of Public Works photographer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Bruno from Crescent, Jul 30, 1915",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1915,
+    "url": "https://opensfhistory.org/Display/wnp36.00842.jpg",
+    "supports": "San Bruno fill across Islais Creek"
+   },
+   {
+    "title": "San Bruno from Gaven, Sep 29, 1916",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1916,
+    "url": "https://opensfhistory.org/Display/wnp36.01371.jpg",
+    "supports": "P. Biggins & Co, Hair Works"
+   },
+   {
+    "title": "Bayshore near Rickard, Oct 20, 1916",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1916,
+    "url": "https://opensfhistory.org/Display/wnp36.01398.jpg",
+    "supports": "laying tracks across Islais Creek; Patrick Biggins & Co., plastering and saddlers' hair, 2165 San Bruno"
+   },
+   {
+    "title": "The Portola District",
+    "publisher": "FoundSF (Chris Ortiz)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Portola_District",
+    "supports": "tracks always sinking over Islais Creek"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-er-taylor-school",
+  "title": "The School That Gave Away Its Name",
+  "theme": "communities",
+  "year": 1924,
+  "yearEnd": 1925,
+  "place": {
+   "label": "E. R. Taylor Elementary School (opened as Portola Elementary), 423 Burrows Street",
+   "lat": 37.72783,
+   "lon": -122.40733,
+   "precision": "building"
+  },
+  "hook": "The neighbourhood is said to be named after a Portola School. The one that opened on Burrows Street in 1924 kept that name for just a year.",
+  "story": "Portola Elementary School opened at 423 Burrows Street in September 1924. That December a city photographer recorded its entrance and its arched auditorium, which still stands, altered and stripped of much of its decoration [1]. A year later, in September 1925, the school was renamed Edward Robeson Taylor Elementary [1][2]. Taylor, who died in 1923, was a lawyer, a doctor and a poet, and he published sonnets about William Keith's paintings. In July 1907 he was appointed mayor after Eugene Schmitz was convicted in the graft scandal. At 68 he was the oldest mayor the city has ever had, and he reorganized a city government in which 16 of 18 supervisors had been implicated in the scandal [2]. He also had a link to the Portola's hill. As a historian he recorded how Mary Staples persuaded James Lick to fund the home for old women on University Mound [3]. The neighbourhood is said to take its name from the old Portola School, which honoured the Spanish explorer Gaspar de Portolà [4].",
+  "people": [
+   {
+    "name": "Edward Robeson Taylor",
+    "role": "mayor 1907-1910, school's namesake"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Somerset near Burrows, Dec 23, 1924: Portola Elementary School",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1924,
+    "url": "https://opensfhistory.org/Display/wnp36.03220.jpg",
+    "supports": "opened Sept 1924; renamed Sept 1925 for Taylor (d. 1923); auditorium extant but altered"
+   },
+   {
+    "title": "Edward Robeson Taylor",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Edward_Robeson_Taylor",
+    "supports": "lawyer, doctor, poet; Keith sonnets; appointed 1907 after Schmitz; oldest mayor; 16 of 18 supervisors; 1925 school renaming"
+   },
+   {
+    "title": "Our History",
+    "publisher": "University Mound Ladies Home (archived by Internet Archive)",
+    "year": 2014,
+    "url": "https://web.archive.org/web/20141009152433/http://www.ladieshome.org/about-us/our-history",
+    "supports": "Taylor as historian quoted on Mary Staples and Lick"
+   },
+   {
+    "title": "Portola, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Portola,_San_Francisco",
+    "supports": "Portola named after the old Portola School, named for Gaspar de Portolà"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-bayshore-boulevard",
+  "title": "Houses Moved for the Bayshore Boulevard",
+  "theme": "architecture-landmarks",
+  "year": 1924,
+  "yearEnd": 1929,
+  "place": {
+   "label": "Boutwell Street near Silver Avenue, a block later erased for the freeway",
+   "lat": 37.7346,
+   "lon": -122.4055,
+   "precision": "block"
+  },
+  "hook": "In 1924 a city photographer went house by house along the Portola's eastern edge, recording homes about to be moved or knocked down for a new highway.",
+  "story": "In January and February 1924 Department of Public Works photographer Horace Chaffee walked the planned route of the Bayshore Boulevard. On Boutwell Street between Silver and Augusta he photographed the houses at 235, 243, 247 and 253 Boutwell. They were demolished or moved for the boulevard, and that block of Boutwell later disappeared completely under the US 101 freeway [1]. South of there, at Paul Avenue, all of Ware Street was demolished [2]. Ruth Eshow Upton grew up just outside the Portola. She remembered the day her street, Le Conte Avenue, was torn up: the road split it in two and the eastern block disappeared, along with the ditch where children collected watercress and pollywogs [3]. On June 6, 1926, the doctor on his way to deliver her baby brother at home got his car stuck in the construction mud [3]. When the highway opened, the Eshow children ran across it four times a day to reach school instead of using a smelly underpass [4].",
+  "people": [
+   {
+    "name": "Horace Chaffee",
+    "role": "Department of Public Works photographer"
+   },
+   {
+    "name": "Ruth Eshow Upton",
+    "role": "memoirist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Boutwell near Augusta, Feb 4, 1924",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1924,
+    "url": "https://opensfhistory.org/Display/wnp36.03187.jpg",
+    "supports": "235, 243, 247 Boutwell demolished or moved for Bayshore Boulevard; block later removed for US101"
+   },
+   {
+    "title": "Paul & Bayshore, Jan 8, 1924",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1924,
+    "url": "https://opensfhistory.org/Display/wnp36.03168.jpg",
+    "supports": "Ware Street completely demolished for Bayshore Boulevard"
+   },
+   {
+    "title": "Old Bayshore Highway",
+    "publisher": "FoundSF (Ruth Eshow Upton)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Old_Bayshore_Highway",
+    "supports": "Le Conte torn up and split; watercress and pollywogs ditch; June 6, 1926 doctor stuck in mud"
+   },
+   {
+    "title": "Bret Harte School",
+    "publisher": "FoundSF (Ruth Eshow Upton)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Bret_Harte_School",
+    "supports": "crossing the highway surface four times a day rather than using the underpass"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-garden-district",
+  "title": "The Greenhouses of the Garden District",
+  "theme": "labor-industry",
+  "year": 1925,
+  "yearEnd": null,
+  "place": {
+   "label": "Woolsey Street below the University Mound reservoir, once lined with greenhouses",
+   "lat": 37.72313,
+   "lon": -122.4098,
+   "precision": "street"
+  },
+  "hook": "Before the Portola filled with bungalows, glass roofs glittered across its slopes. Much of San Francisco's cut-flower crop was grown here.",
+  "story": "For decades after 1900 the Portola stayed half rural, and it grew flowers. In the early 1900s greenhouses lined the west side of Charter Oak Avenue, a street now mostly buried under the 101 freeway, while truck gardens stretched east toward the bay [1]. The likely buyers of the cut flowers were the city's boarding houses, hotels, restaurants and well-off households [1]. The slopes around the reservoir held more than a dozen flower nurseries, University Mound Nursery among them [2]. A photograph taken from McLaren Park around 1925 shows houses and greenhouses side by side, with Woolsey Street in the foreground and the reservoir's south basin still unbuilt [3]. The Portola had more than 20 commercial farms and greenhouses at one time, and its nurserymen grew much of the city's flower crop. That earned it the nickname the Garden District [4].",
+  "people": [],
+  "sources": [
+   {
+    "title": "The Portola District",
+    "publisher": "FoundSF (Chris Ortiz)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=The_Portola_District",
+    "supports": "greenhouses west of Charter Oak, truck gardens, customers for cut flowers"
+   },
+   {
+    "title": "Our History",
+    "publisher": "University Mound Ladies Home (archived by Internet Archive)",
+    "year": 2014,
+    "url": "https://web.archive.org/web/20141009152433/http://www.ladieshome.org/about-us/our-history",
+    "supports": "more than a dozen flower nurseries including University Mound Nursery"
+   },
+   {
+    "title": "McLaren Park, c. 1925: homes and greenhouses, Woolsey Street in foreground",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project",
+    "year": 1925,
+    "url": "https://opensfhistory.org/Display/wnp14.0098.jpg",
+    "supports": "homes and greenhouses along Woolsey; south basin unbuilt"
+   },
+   {
+    "title": "Portola, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Portola,_San_Francisco",
+    "supports": "Garden District nickname; over 20 farms and greenhouses; nurserymen grew much of the flower crop"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "portola-avenue-theatre",
+  "title": "Ten-Cent Saturdays at the Avenue",
+  "theme": "arts-counterculture",
+  "year": 1927,
+  "yearEnd": null,
+  "place": {
+   "label": "Avenue Theatre, 2650 San Bruno Avenue",
+   "lat": 37.72809,
+   "lon": -122.40419,
+   "precision": "building"
+  },
+  "hook": "One dime bought a newsreel, a cartoon, a comedy, a western and a cliffhanger. Three small sisters worked out how to keep paying the child's price until they were 16.",
+  "story": "A photograph from July 15, 1927, shows the Avenue Theatre's marquee on San Bruno Avenue between Felton and Paul [1]. Ruth Eshow Upton, who grew up speaking Armenian [3], spent her Saturday afternoons there. You bought a ticket from a glass booth under the marquee. There was no lobby selling popcorn, and her mother called that sort of food 'junk' anyway [1]. A dime paid for a Pathé newsreel, a cartoon, a comedy, a western and one episode of a serial, and every so often a wheel was spun on stage for a prize, usually a Hershey bar [1]. At 12 the price went up to twenty cents. The Eshow girls were small for their age, so they lined up by height behind their little brother Haig, who handed the usher every ticket at once. They got in for a dime until they were 16 [1]. On Friday and Saturday nights there was vaudeville, and through the cigarette smoke Ruth watched a line of chorus girls high-kicking [1]. The Avenue later became a church [2].",
+  "people": [
+   {
+    "name": "Ruth Eshow Upton",
+    "role": "memoirist"
+   },
+   {
+    "name": "Haig Eshow",
+    "role": "her younger brother"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Avenue Theatre",
+    "publisher": "FoundSF (Ruth Eshow Upton)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Avenue_Theatre",
+    "supports": "1927 photo; location; ticket booth; programme; prices and sisters' trick; vaudeville"
+   },
+   {
+    "title": "Portola, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Portola,_San_Francisco",
+    "supports": "Avenue Theater on San Bruno Avenue, now a church"
+   },
+   {
+    "title": "Bret Harte School",
+    "publisher": "FoundSF (Ruth Eshow Upton)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Bret_Harte_School",
+    "supports": "author's first language was her mother's Armenian"
+   }
+  ],
+  "photo": null
+ }
+]

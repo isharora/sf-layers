@@ -1,0 +1,656 @@
+[
+ {
+  "id": "north-beach-juana-briones-dairy",
+  "title": "Juana Briones's dairy on Washington Square",
+  "theme": "indigenous-early",
+  "year": 1836,
+  "yearEnd": null,
+  "place": {
+   "label": "Northwest corner of Washington Square (Filbert & Powell)",
+   "lat": 37.80115,
+   "lon": -122.41095,
+   "precision": "block"
+  },
+  "hook": "Decades before Washington Square had a name, a mestiza healer who had fled her abusive husband ran cattle and sold milk to sailors on this ground.",
+  "story": "Juana Briones was born in 1802 at Villa de Branciforte, today's Santa Cruz, a mestiza of Spanish and Native heritage whose family came to California with the Anza expedition [1][2]. She married a Presidio soldier, Apolinario Miranda, who turned abusive. In the mid-1830s, with help from a bishop and the mayor, she moved her children to the western foot of Loma Alta, the hill we now call Telegraph Hill [1]. She could neither read nor write, yet she put up an adobe, held the title in her own name, and was one of the first three settlers of Yerba Buena. Her corral and dairy sat on what is now Washington Square [2][3]. She sold milk and vegetables to ships' crews, worked as a nurse and midwife, and was known to hide sailors who had deserted their ships [1][3]. The shore below was called La Playa de Juana Briones [1]. She later won a court fight over her land titles and died in Mayfield, near Palo Alto, in 1889 [2]. It took almost eight years of campaigning before a state plaque honouring her went up in the square in 1997 [3].",
+  "people": [
+   {
+    "name": "Juana Briones",
+    "role": "Rancher, healer and pioneer settler"
+   },
+   {
+    "name": "Apolinario Miranda",
+    "role": "Her husband, a Presidio soldier"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Juana Briones (pages 1-2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/juana-briones-page-2.htm",
+    "supports": "Birthplace, flight from abusive husband to Loma Alta, adobe in her name, nursing, 'La Playa de Juana Briones', 1997 plaque"
+   },
+   {
+    "title": "Juana Briones (Allecia Vermillion, SF Museum and Historical Society)",
+    "publisher": "FoundSF",
+    "year": 2009,
+    "url": "https://www.foundsf.org/index.php?title=Juana_Briones",
+    "supports": "Mestiza heritage, illiteracy, corral and dairy on Washington Square, land-title fight, death 1889"
+   },
+   {
+    "title": "Juana Briones at Washington Square",
+    "publisher": "FoundSF / Northern California Coalition for Immigrant Rights",
+    "year": 1997,
+    "url": "https://www.foundsf.org/index.php?title=Juana_Briones_at_Washington_Square",
+    "supports": "Adobe of 1836 at NW corner of Washington Square, one of first three settlers, deserting sailors, plaque struggle"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-side-wheel-steamer",
+  "title": "\"Side-wheel steamer!\": the hill that talked",
+  "theme": "gold-rush-victorian",
+  "year": 1849,
+  "yearEnd": 1870,
+  "place": {
+   "label": "Summit of Telegraph Hill (Coit Tower site)",
+   "lat": 37.80231,
+   "lon": -122.40588,
+   "precision": "building"
+  },
+  "hook": "The whole Gold Rush town watched one pole on this hilltop, and knew its signals so well that a single gesture could stop a play.",
+  "story": "In 1849 George Sweeny and Theodore Baugh put up a two-storey lookout on top of the hill then called Loma Alta, which commanded a view of the Golden Gate [1][2]. A tall pole with movable arms told the town below what kind of ship was coming in, whether a sailing vessel or one of the Pacific Mail side-wheelers [3]. The nomination form credits the semaphore to Lieutenant John K. Deur and dates it to 1850 [2]. Merchants and newspapers paid for the early warning. The side-wheel signal meant mail from home. Men came out of their shops to look up the line of Montgomery Street, then went off for a celebratory drink [4]. One night at the American Theatre, an actor playing Master Walter in \"The Hunchback\", dressed all in black, threw up his arms and cried \"What does this mean?\" A voice from the gallery roared \"Side-wheel steamer!\" and the play stopped for several minutes of laughter [4]. On 22 September 1853 an electric telegraph to Point Lobos opened here, the first in California, and it gave the hill its name [1][3]. A storm destroyed the station in 1870 [2].",
+  "people": [
+   {
+    "name": "George Sweeny",
+    "role": "Co-founder of the signal station"
+   },
+   {
+    "name": "Theodore Baugh",
+    "role": "Co-founder of the signal station"
+   },
+   {
+    "name": "C. Thorne Sr.",
+    "role": "Actor who got the famous heckle"
+   }
+  ],
+  "sources": [
+   {
+    "title": "California's First Telegraph (from Annals of San Francisco, 1855)",
+    "publisher": "FoundSF",
+    "year": 1855,
+    "url": "https://www.foundsf.org/index.php?title=California%27s_First_Telegraph",
+    "supports": "Sweeny & Baugh station of 1849, signals, electric telegraph to Point Lobos opened 22 Sept 1853"
+   },
+   {
+    "title": "National Register nomination: Coit Memorial Tower",
+    "publisher": "National Park Service",
+    "year": 2007,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/07001468_text",
+    "supports": "Two-storey observation deck, Deur semaphore dated 1850, station destroyed by storm 1870"
+   },
+   {
+    "title": "California Historical Landmark No. 91: Telegraph Hill",
+    "publisher": "California Office of Historic Preservation",
+    "year": 1933,
+    "url": "https://ohp.parks.ca.gov/ListedResources/Detail/91",
+    "supports": "Pole with movable arms signalling sailing ships vs Pacific Mail side-wheelers; 1853 telegraph gave hill its name"
+   },
+   {
+    "title": "Men and Memories of San Francisco in the Spring of '50 (Barry & Patten), pp. 126-128",
+    "publisher": "A. L. Bancroft & Co. (Internet Archive)",
+    "year": 1873,
+    "url": "https://archive.org/details/menmemoriesofsan00barr_0/page/126",
+    "supports": "Signal shape, crowds at store doors, 'The Hunchback' heckle at the American Theatre"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-meiggs-wharf",
+  "title": "Honest Harry's 2,000-foot gamble",
+  "theme": "labor-industry",
+  "year": 1853,
+  "yearEnd": 1854,
+  "place": {
+   "label": "Line of Meiggs' Wharf, Powell Street near North Point",
+   "lat": 37.8063,
+   "lon": -122.41191,
+   "precision": "street"
+  },
+  "hook": "A lumberman built the longest pier on the waterfront to pull the city north. When the debts caught up with him, he sailed away with his brother, the City Controller.",
+  "story": "Henry Meiggs reached San Francisco on 11 January 1849 with a shipload of lumber and sold it at a huge profit [1]. He bet on North Beach. Ships entering the bay passed right by its beach, so why not dock lumber schooners there instead of in crowded Yerba Buena Cove [2]? In late 1853 he finished an L-shaped wharf that ran from Francisco Street, between Mason and Powell, somewhere between 1,600 and 2,000 feet into the bay [1][2]. The ground you stand on here was water then. Historians disagree about how well it worked. One account says the wharf was packed with ships [3]. Another says wind, swell and tides made the north shore a hard place to tie up, and goods still had to be hauled over the hills to downtown [2]. Either way, Meiggs was deep in debt by 1854. He got hold of signed city warrants, and on 6 October 1854 he sailed off with his family and his brother, who was then City Controller [1][3]. He left behind his lots and a house on Telegraph Hill. He later built railroads in South America, paid back most of his debts and died rich in Lima in 1877, without ever coming back [1].",
+  "people": [
+   {
+    "name": "Henry Meiggs",
+    "role": "Lumberman, developer and fugitive"
+   },
+   {
+    "name": "John Meiggs",
+    "role": "His brother, City Controller"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Along the Wharves",
+    "publisher": "Maritime Heritage Project",
+    "year": null,
+    "url": "https://www.maritimeheritage.org/news/wharves.html",
+    "supports": "Arrival 11 Jan 1849, lumber business, wharf from Francisco between Mason and Powell, ~2,000 ft, flight 6 Oct 1854 with City Controller brother, abandoned property"
+   },
+   {
+    "title": "The Beach at North Beach (Woody LaBounty)",
+    "publisher": "FoundSF / San Francisco Story",
+    "year": 2025,
+    "url": "https://www.foundsf.org/index.php?title=Beach_at_North_Beach",
+    "supports": "Meiggs' reasoning, wharf finished late 1853, tides and exposure, fraud and flight"
+   },
+   {
+    "title": "The Fisherman's Wharf Precursor Built by a Victorian Hustler",
+    "publisher": "Curbed SF (via Internet Archive)",
+    "year": 2014,
+    "url": "https://web.archive.org/web/2016/http://sf.curbed.com/2014/10/21/10033242/the-fishermans-wharf-precursor-built-by-a-victorian-hustler",
+    "supports": "Wharf near Powell and Francisco, real-estate motive, ~2,000 ft length"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-cobweb-palace",
+  "title": "The saloon where nobody swept the cobwebs",
+  "theme": "gold-rush-victorian",
+  "year": 1856,
+  "yearEnd": 1897,
+  "place": {
+   "label": "Cobweb Palace site, 2200 Powell St (now a post office)",
+   "lat": 37.8051,
+   "lon": -122.41157,
+   "precision": "building"
+  },
+  "hook": "Parrots swore in four languages, bears ate the leftovers, and the spiders were strictly protected.",
+  "story": "In 1856 Abe Warner opened a saloon at the foot of Meiggs' Wharf, on the northeast corner of Francisco and Powell [1]. He loved spiders and would not let anyone clear their webs, so curtains of cobweb hung from the rafters and the place became known as the Cobweb Palace [1][2]. Sailors paid him in curios, and the dusty walls filled up with scrimshaw, Alaskan totem poles, Japanese Noh masks and South Seas war clubs [1]. Scrimshawed walrus tusks carved by N. S. Finney, which old photographs show behind Warner's bar, are now at Mystic Seaport in Connecticut [2]. Monkeys, parrots, a fox and the occasional bear or kangaroo lived on the premises [1][2]. A parrot called Warner Grandfather would squawk \"I'll have a rum and gum. What'll you have?\" [1]. On Sundays families came out for free chowder, cracked Dungeness crab and French bread, which makes this an early seed of Fisherman's Wharf dining [1]. Accounts disagree on how it ended. City Guides says Warner retired in 1897 at about 80, while other accounts say he sold the bar in 1893 and died in 1896 [1][3]. Landfill has since moved the shoreline well away, and the site is now a post office at 2200 Powell [1].",
+  "people": [
+   {
+    "name": "Abe Warner",
+    "role": "Proprietor"
+   },
+   {
+    "name": "N. S. Finney",
+    "role": "Scrimshaw carver"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Cobweb Palace of Abe Warner (James R. Smith)",
+    "publisher": "San Francisco City Guides",
+    "year": 2007,
+    "url": "https://sfcityguides.org/tour-tale/cobweb-palace-of-abe-warner/",
+    "supports": "1856 opening at Francisco and Powell, cobwebs, collection, animals, parrot quote, chowder and crab, 1897 retirement, 2200 Powell post office"
+   },
+   {
+    "title": "Artifact: Finney's Tusks, Abe Warner, & The Cobweb Palace",
+    "publisher": "Mystic Seaport Museum",
+    "year": null,
+    "url": "http://educators.mysticseaport.org/artifacts/finney_tusks/",
+    "supports": "Finney scrimshaw tusks photographed behind Warner's bar; menagerie incl. fox, raccoons; refusal to clean cobwebs"
+   },
+   {
+    "title": "The Cobweb Palace",
+    "publisher": "Wikipedia (pointer; citing SFGATE 'Abe Warner, the Cobweb King')",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/The_Cobweb_Palace",
+    "supports": "Alternative account that Warner sold the bar in 1893 and died in 1896"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-cooney-house",
+  "title": "A house that sailed from Australia",
+  "theme": "architecture-landmarks",
+  "year": 1853,
+  "yearEnd": 1906,
+  "place": {
+   "label": "Cooney House and store, 291 Union St",
+   "lat": 37.80083,
+   "lon": -122.404,
+   "precision": "building"
+  },
+  "hook": "An Irish family carried their timber across the Pacific and camped on the lot so nobody could steal it. Their house may be the oldest in San Francisco.",
+  "story": "In 1850 John Cooney, an Irishman, paid $140 for a lot high on Telegraph Hill [1]. His wife Hannah and their first two children had been born in England and the next two in Australia. The wood for the house came with them from Australia, and the family is said to have lived in a tent on the lot while they built it so the precious lumber would not be stolen [1]. The house was finished in 1853 and shows up on that year's U.S. Coast Survey map. Historians count it as the oldest surviving residential building in the city [1]. For years it held the only grocery on top of the hill. Besides food it sold 'Yankee notions' like ribbons, laces, widow's weeds and patent drugs in little glass cases, most of them imported from England [1]. It was the first of the hill's tall, balconied houses. Its Italianate false front was probably added in the 1880s to make it look up to date [1]. The store ran until 1906, and the house became part of the Telegraph Hill Historic District, which the city says holds its largest group of pre-1870 buildings [1][2].",
+  "people": [
+   {
+    "name": "John Cooney",
+    "role": "Builder and grocer"
+   },
+   {
+    "name": "Hannah Cooney",
+    "role": "His wife"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Telegraph Hill's Architectural Survivors (Nancy Shanahan, The Semaphore #215)",
+    "publisher": "FoundSF / Telegraph Hill Dwellers",
+    "year": 2016,
+    "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill%27s_Architectural_Survivors",
+    "supports": "Lot history, $140 price, Australian timber, tent, 1853 completion, grocery and Yankee notions, false front, store until 1906"
+   },
+   {
+    "title": "Telegraph Hill Historic District (Planning Code Article 10, Appendix G)",
+    "publisher": "FoundSF / City of San Francisco",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill_Historic_District",
+    "supports": "District as the city's largest concentration of pre-1870 structures, waterfront-worker settlement"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-filbert-steps-cottages",
+  "title": "Stevedores' cottages on the Filbert Steps",
+  "theme": "architecture-landmarks",
+  "year": 1869,
+  "yearEnd": null,
+  "place": {
+   "label": "228 Filbert St, Filbert Steps at Napier Lane",
+   "lat": 37.80221,
+   "lon": -122.40411,
+   "precision": "building"
+  },
+  "hook": "Along a wooden boardwalk cut into a cliff, the dock workers of the 1850s and 60s left the best-preserved Gold Rush-era street in the city.",
+  "story": "Telegraph Hill's steep east face overlooked the busiest docks in the city, so the men who worked them built shacks and small Gothic Revival houses here [1][2]. The best of them still line the Filbert Steps and Napier Lane, one of the last wooden boardwalks in San Francisco [1]. 224 Filbert went up in 1859 for James Callaghan, a waterfront labourer who later became a warehouse foreman [1]. In 1857 a teamster and a labourer from the Greenwich Dock warehouse, the Clark brothers, built the cottage at 10 Napier [1]. The standout is 228 Filbert, a 'Carpenter Gothic' house built in 1869 by Phillip Brown, a seaman who became a stevedore. The basement looks as if it was meant for a shop. But Brown had ruled that his wife would not be a shopkeeper, so the family ate dinner down there [1]. Neighbours called it 'the Captain's House' only because a Captain Laughton spent so much time on its porch [1]. There were no streets for carts, just steps, boardwalks and hidden footpaths, and the city later made these a protected historic district [2].",
+  "people": [
+   {
+    "name": "Phillip Brown",
+    "role": "Seaman turned stevedore, builder of 228 Filbert"
+   },
+   {
+    "name": "James Callaghan",
+    "role": "Waterfront labourer, builder of 224 Filbert"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Telegraph Hill's Architectural Survivors (Nancy Shanahan, The Semaphore #215)",
+    "publisher": "FoundSF / Telegraph Hill Dwellers",
+    "year": 2016,
+    "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill%27s_Architectural_Survivors",
+    "supports": "Dates and builders of 224 and 228 Filbert and 10 Napier; basement dining room; 'Captain's House' story; Napier boardwalk"
+   },
+   {
+    "title": "Telegraph Hill Historic District (Planning Code Article 10, Appendix G)",
+    "publisher": "FoundSF / City of San Francisco",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill_Historic_District",
+    "supports": "Waterfront workers' cottages, steps and footpaths, largest pre-1870 concentration"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-gray-brothers-quarry",
+  "title": "Dynamite versus the women of Telegraph Hill",
+  "theme": "civil-rights",
+  "year": 1903,
+  "yearEnd": null,
+  "place": {
+   "label": "Gray Brothers quarry site, Sansome & Green",
+   "lat": 37.79968,
+   "lon": -122.40212,
+   "precision": "block"
+  },
+  "hook": "Quarrymen blasted away a third of the hill while houses slid off the cliff. A group of determined women spent 13 years fighting back.",
+  "story": "In 1887 George and Harry Gray began blasting the east face of Telegraph Hill for their paving business. The National Register nomination says they removed about a third of the hill [1]. Their quarry at Sansome and Green ran for about 20 years [2][3]. Irish and Italian families living on the hill sometimes watched their small homes tumble down the cliff after a blast, and some threw rocks at the quarry crews [2]. On Calhoun Terrace there were seven houses on the east side in 1880. By 1899 all of them had been destroyed [4]. The fight back was led by women, most of them from other parts of the city. Alice Griffith, Elizabeth Ashe and eight others formed the Willing Circle in 1890 and opened a settlement house near the crest of Vallejo Street, with two nurses for the neighbourhood [2]. Griffith went after officials, found lawyers to take on the Grays and got the press involved. The Sailors' Union paper backed the cause as well [2]. In October 1903 a court revoked the blasting permits and stopped the rock crushers [2]. Even so, the Grays went on digging, bribing and ignoring orders for years afterwards [2][3].",
+  "people": [
+   {
+    "name": "Alice Griffith",
+    "role": "Reformer who led the campaign"
+   },
+   {
+    "name": "Elizabeth Ashe",
+    "role": "Co-founder of the settlement house"
+   },
+   {
+    "name": "George and Harry Gray",
+    "role": "Quarry owners"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register nomination: Coit Memorial Tower",
+    "publisher": "National Park Service",
+    "year": 2007,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/07001468_text",
+    "supports": "Gray Brothers blasting began 1887 and removed about a third of the hill"
+   },
+   {
+    "title": "Saving Telegraph Hill 1890-1918 (Chris Carlsson)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Saving_Telegraph_Hill_1890-1918",
+    "supports": "Houses tumbling, rock-throwing, Willing Circle 1890, settlement house and nurses, Griffith's campaign, union press, October 1903 court order"
+   },
+   {
+    "title": "Telegraph Hill Quarry",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill_Quarry",
+    "supports": "Quarry at Sansome and Green from the 1890s into the 20th century, ordinances ignored"
+   },
+   {
+    "title": "Telegraph Hill's Architectural Survivors (Nancy Shanahan)",
+    "publisher": "FoundSF / Telegraph Hill Dwellers",
+    "year": 2016,
+    "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill%27s_Architectural_Survivors",
+    "supports": "Calhoun Terrace east-side houses destroyed by quarrying by 1899"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-laymans-folly",
+  "title": "Layman's Folly: a castle on the summit",
+  "theme": "architecture-landmarks",
+  "year": 1883,
+  "yearEnd": 1903,
+  "place": {
+   "label": "Pioneer Park, summit of Telegraph Hill",
+   "lat": 37.8025,
+   "lon": -122.4064,
+   "precision": "area"
+  },
+  "hook": "For twenty years a wooden German castle crowned Telegraph Hill, reached by its own cable railway. Locals had a name for both.",
+  "story": "After the telegraph station blew down in 1870, twenty-two merchants and civic-minded San Franciscans bought the hilltop in 1876 to keep it open, and named it Pioneer Park [1]. Frederick O. Layman had a more commercial idea. In 1883 he built a wooden castle up here in the German style, meant to be an observatory and restaurant, along with a cable car line to carry customers up the slope [2][3]. The cable line stopped running in 1887. Residents called both the castle and the railway 'Layman's Folly' [2][3]. The castle survived another sixteen years and burned on 25 July 1903 [2]. The fire may have left a mark. Julius Roz and his architect Louis Mastropasqua both arrived from Italy in 1902, and records suggest Layman's castle helped inspire Julius' Castle, the turreted restaurant they built lower on the hill at Greenwich and Montgomery two decades later [2].",
+  "people": [
+   {
+    "name": "Frederick O. Layman",
+    "role": "Builder of the castle and cable railway"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register nomination: Coit Memorial Tower",
+    "publisher": "National Park Service",
+    "year": 2007,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/07001468_text",
+    "supports": "Storm of 1870, 1876 purchase by 22 citizens, naming of Pioneer Park"
+   },
+   {
+    "title": "Julius' Castle (Catherine Accardi, The Semaphore #196)",
+    "publisher": "FoundSF / Telegraph Hill Dwellers",
+    "year": 2011,
+    "url": "https://www.foundsf.org/index.php?title=Julius%27_Castle",
+    "supports": "Layman's castle 1883-1903 as observatory/restaurant with cable line, line ceased 1887, 'Layman's Folly', fire 25 July 1903, inspiration for Julius' Castle"
+   },
+   {
+    "title": "Telegraph Hill Historic District",
+    "publisher": "FoundSF",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Telegraph_Hill_Historic_District",
+    "supports": "Castle and cable car line both known as 'Layman's Folly' (1883-1903)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-cogswell-temperance-fountain",
+  "title": "A teetotal dentist's fountain gets banished",
+  "theme": "gold-rush-victorian",
+  "year": 1879,
+  "yearEnd": 1904,
+  "place": {
+   "label": "Benjamin Franklin statue, centre of Washington Square",
+   "lat": 37.80075,
+   "lon": -122.41015,
+   "precision": "building"
+  },
+  "hook": "The spigots were labelled Vichy and Cal. Seltzer, but only city water ever ran. San Francisco mocked the fountain, then sent it into exile here.",
+  "story": "Henry Cogswell was a millionaire dentist and '49er who made most of his money in real estate [1]. When the city cut Montgomery Avenue (now Columbus) diagonally through North Beach in the 1870s, it took a corner off Washington Square [1][2]. The new avenue also split one of Cogswell's lots and left him a triangle only 12 feet long on its longest side. He put a temperance drinking fountain on it, crowned with Benjamin Franklin and unveiled in May 1879. The taps were marked Vichy and Cal. Seltzer, but they only ever ran city water [1]. The Chronicle called it 'that grey granite tombstone'. Cogswell rented out booths and a podium around it and promised one fountain for every 100 saloons in the city [1]. Sources disagree about where Franklin first stood. The Semaphore puts him at Kearny and Columbus, while the city's landmark report says Market Street [1][3]. Both agree the statue was moved in 1904 to Washington Square, which the Chronicle dismissed as the place 'where mostly the children of San Francisco's Latin Quarter play' [1][3]. It still stands there today, and a time capsule lies beneath it [2].",
+  "people": [
+   {
+    "name": "Henry D. Cogswell",
+    "role": "Dentist, real-estate man and temperance donor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Henry Cogswell and His Monuments (Gloria Lenhart, The Semaphore #203)",
+    "publisher": "FoundSF / Telegraph Hill Dwellers",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=Henry_Cogswell_and_His_Monuments",
+    "supports": "Cogswell background, triangle lot, May 1879 unveiling, Vichy/Seltzer taps, Chronicle quotes, booths, 1904 move"
+   },
+   {
+    "title": "Washington Square (Mary Nelson, The Semaphore #151)",
+    "publisher": "FoundSF / Telegraph Hill Dwellers",
+    "year": 2000,
+    "url": "https://www.foundsf.org/index.php?title=Washington_Square",
+    "supports": "Montgomery Avenue cut through the square 1873-75; statue moved 1904; time capsule"
+   },
+   {
+    "title": "San Francisco Landmark #226: Washington Square Park",
+    "publisher": "NoeHill (quoting Planning Commission Resolution 14879)",
+    "year": 1999,
+    "url": "https://noehill.com/sf/landmarks/sf226.asp",
+    "supports": "Franklin statue moved to park 1904, originally erected on Market Street in 1879"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-st-francis-of-assisi",
+  "title": "The church whose walls outlasted the fire",
+  "theme": "communities",
+  "year": 1860,
+  "yearEnd": null,
+  "place": {
+   "label": "St. Francis of Assisi Church, 610 Vallejo St",
+   "lat": 37.79886,
+   "lon": -122.40742,
+   "precision": "building"
+  },
+  "hook": "In a Gold Rush town full of every nation, this parish preached in Latin, Spanish, Italian, French, Chinese and German.",
+  "story": "St. Francis of Assisi on Vallejo Street is one of California's earliest churches outside the Spanish missions [1]. Its Norman Gothic building, with twin towers, was dedicated as a parish church on 17 March 1860 [1][2]. That was a time when North Beach's 'Latin Quarter' at the foot of Telegraph Hill was full of French, Italian, Mexican, Spanish and Portuguese families [3]. The parish reflected the Gold Rush crowd around it. Early sermons were given in Latin, Spanish, Italian, French, Chinese and German [1]. As the Italians spread down from Telegraph Hill into North Beach, St. Francis became one of the anchors of what turned into Little Italy [3]. In 1906 the fire gutted the interior, but the towers and outer walls survived. The parish built a new church inside the old shell and rededicated it on 2 March 1919 [2]. It was the city's fifth designated landmark, and in 1999 it was named the National Shrine of Saint Francis of Assisi, honouring the saint San Francisco is named after [1][2].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Saint Francis of Assisi Church (San Francisco)",
+    "publisher": "Wikipedia (pointer; citing Chiat, America's Religious Architecture, 1997)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Saint_Francis_of_Assisi_Church_(San_Francisco)",
+    "supports": "Early non-mission church; multilingual sermons; landmark no. 5"
+   },
+   {
+    "title": "San Francisco Landmark #5: Saint Francis of Assisi Church",
+    "publisher": "NoeHill",
+    "year": 2010,
+    "url": "https://noehill.com/sf/landmarks/sf005.asp",
+    "supports": "Dedicated 17 March 1860; towers and walls survived 1906; rededicated 2 March 1919; National Shrine 1999"
+   },
+   {
+    "title": "Little Italy in Early 20th Century (Issel & Cherny, San Francisco 1865-1932)",
+    "publisher": "FoundSF / University of California Press",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Little_Italy_in_Early_20th_Century",
+    "supports": "Latin Quarter's mixed population; Italian spread from Telegraph Hill into North Beach"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-terrific-street",
+  "title": "Terrific Street, heart of the Barbary Coast",
+  "theme": "gold-rush-victorian",
+  "year": 1876,
+  "yearEnd": 1906,
+  "place": {
+   "label": "Pacific Ave between Kearny and Montgomery (557 Pacific)",
+   "lat": 37.797,
+   "lon": -122.4045,
+   "precision": "block"
+  },
+  "hook": "One block of Pacific Street was so notorious that the city nicknamed it Terrific Street, and a man made his living by letting strangers beat him.",
+  "story": "In the mid-1860s San Franciscans started calling the district of dives and dance halls along Pacific Street the Barbary Coast, after the pirate coast of North Africa [1]. Its worst block, Pacific between Kearny and Montgomery, got the name Terrific Street [1]. In 1876 Benjamin Lloyd described it as 'the haunt of the low and the vile of every kind', crowded with concert saloons, gambling dens and opium dens [1]. 'Pretty waiter girls' earned $15 to $25 a week, and crimps and runners prowled for sailors to shanghai [1]. Its most famous oddity was Leon Borchardt, known as Oofty Goofty. He first appeared in 1884 as a caged 'Wild Man of Borneo' covered in tar and horsehair, and later earned his living by letting paying customers hit him [2]. The later tale that he could feel no pain came from Herbert Asbury's 1933 book. Oofty himself told the Examiner he wore a leather pad in the seat of his trousers [2]. The 1906 earthquake and fire all but wiped out the old district, but dance halls like the Hippodrome at 557 Pacific carried the Barbary Coast name into the new century [1].",
+  "people": [
+   {
+    "name": "Leon Borchardt (\"Oofty Goofty\")",
+    "role": "Sideshow performer"
+   },
+   {
+    "name": "Benjamin E. Lloyd",
+    "role": "Author of Lights and Shades of San Francisco (1876)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Barbary Coast (Daniel Steven Crafts)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=BARBARY_COAST",
+    "supports": "Origin of name mid-1860s, Terrific Street, Lloyd 1876 quote, waiter-girl wages, shanghaiing, 1906 destruction, Hippodrome at 557 Pacific"
+   },
+   {
+    "title": "Oofty Goofty",
+    "publisher": "Wikipedia (pointer; citing Houston Daily Post 1897/1900 and Asbury 1933)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Oofty_Goofty",
+    "supports": "Leon Borchardt; 1884 Wild Man of Borneo act; leather-pad quote vs Asbury's painless legend"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-malt-house",
+  "title": "The smell of malt on Chestnut Street",
+  "theme": "labor-industry",
+  "year": 1884,
+  "yearEnd": 1906,
+  "place": {
+   "label": "Bauer & Schweitzer malt house, 530-550 Chestnut St",
+   "lat": 37.804,
+   "lon": -122.41245,
+   "precision": "building"
+  },
+  "hook": "German brewers made beer on this block from the 1860s on, and the malting went on long enough to supply Anchor Steam.",
+  "story": "In the 1860s nearly everyone in San Francisco's beer trade was German, and small breweries sprang up wherever Germans settled [1]. The 500 block of Chestnut was home to brewers and maltsters from at least 1867, when the Lyon Brewery set up there [2]. Sources give different dates for the next step. The city's landmark resolution says John Bauer and Joseph Schweitzer replaced the brewery with the Empire Malt House in 1884, while a Telegraph Hill Dwellers history says Bauer took over the premises in 1878 [1][2]. Freight cars came up a spur from Jefferson Street to be loaded [1]. In 1906 the plant was fitted with malting equipment based on French designs from the 1860s, and then the earthquake and fire almost destroyed it [2]. Bauer's son George, a Navy militia captain, called up 800 sailors to patrol the waterfront during the disaster [1]. The concrete plant rebuilt in 1908 kept malting until 1981. By then it was the last barrel-malting works west of the Mississippi, and one of its customers had been Anchor Brewing [1][2].",
+  "people": [
+   {
+    "name": "John C. Bauer",
+    "role": "Maltster"
+   },
+   {
+    "name": "Joseph Schweitzer",
+    "role": "Partner"
+   },
+   {
+    "name": "George W. Bauer",
+    "role": "Son, Naval Militia captain"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Bauer & Schweitzer Malt House (Dick Boyd, The Semaphore #190)",
+    "publisher": "FoundSF / Telegraph Hill Dwellers",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=Bauer_%26_Schweitzer_Malt_House",
+    "supports": "German brewers, 1878 takeover, rail spur, George Bauer and 800 sailors, Anchor supply, 1981 closure"
+   },
+   {
+    "title": "San Francisco Landmark #129: Bauer & Schweitzer Malting Company",
+    "publisher": "NoeHill (quoting Planning Commission Resolution 8865)",
+    "year": 1981,
+    "url": "https://noehill.com/sf/landmarks/sf129.asp",
+    "supports": "Lyon Brewery 1867, Empire Malt House 1884, 1906 renovation and destruction, 1908 rebuild, last barrel malting west of Mississippi"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-italy-harbor-moves",
+  "title": "The fishing fleet moves to Taylor Street",
+  "theme": "communities",
+  "year": 1900,
+  "yearEnd": null,
+  "place": {
+   "label": "Fisherman's Wharf, foot of Taylor St at Jefferson",
+   "lat": 37.80842,
+   "lon": -122.41597,
+   "precision": "block"
+  },
+  "hook": "Orange-brown lateen sails, Sicilian crews, and in 1900 an order that moved the fishermen from the foot of Telegraph Hill to a new wharf.",
+  "story": "By the 1880s San Franciscans had developed a taste for Dungeness crab. Fishermen landed nearly 2.9 million pounds in 1882, and the catch reached a record 3.7 million pounds in 1899 [1]. The bay was full of feluccas with orange-brown lateen sails, worked by Italian immigrants [2]. By 1900 the fishermen were mostly Sicilian, and about half of all fishermen and oystermen in the city were Italian [2]. The fish trade had centred on docks at the foot of Filbert, Vallejo and Union streets, the spot people called 'Italy harbor' [2][3]. As ocean shipping grew those berths were needed, so in 1900 the state set aside the shore from the foot of Taylor to Leavenworth for commercial fishing boats. Land was filled out to Jefferson Street [3][4]. Fishermen sold parts of their catch straight from their boats to housewives, some set up stalls, and over time those stalls turned into the restaurants of today's Fisherman's Wharf [3]. By 1903 there were already too few crabs in the bay, and the state brought in a minimum size and a closed season [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "When Crab Was King at Fisherman's Wharf (David D. Schmidt)",
+    "publisher": "FoundSF / Backcountry Press",
+    "year": 2025,
+    "url": "https://www.foundsf.org/index.php?title=When_Crab_Was_King_at_Fisherman%E2%80%99s_Wharf",
+    "supports": "1882 and 1899 catch figures; 1903 size limit and closed season"
+   },
+   {
+    "title": "Little Italy in Early 20th Century (Issel & Cherny)",
+    "publisher": "FoundSF / University of California Press",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Little_Italy_in_Early_20th_Century",
+    "supports": "Feluccas, Sicilian fishermen, 51% Italian share, 'Italy harbor' until 1900"
+   },
+   {
+    "title": "Fisherman's Wharf: The Passing of an Era",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Fisherman%27s_Wharf",
+    "supports": "1900 state reservation Taylor-Leavenworth; earlier docks at Vallejo and Union; direct sales and stalls"
+   },
+   {
+    "title": "The Beach at North Beach (Woody LaBounty)",
+    "publisher": "FoundSF / San Francisco Story",
+    "year": 2025,
+    "url": "https://www.foundsf.org/index.php?title=Beach_at_North_Beach",
+    "supports": "1900 reservation for fishing fleet and fill to Jefferson Street"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "north-beach-the-real-beach",
+  "title": "When North Beach actually had a beach",
+  "theme": "parks-nature",
+  "year": 1851,
+  "yearEnd": 1887,
+  "place": {
+   "label": "Water Street, between Mason and Taylor",
+   "lat": 37.80435,
+   "lon": -122.41421,
+   "precision": "street"
+  },
+  "hook": "A one-block alley called Water Street is the last clue to a sandy cove where waves once broke, four blocks from today's shore.",
+  "story": "Around 1851 Fritz Wikersheim, a Frenchman with gold fever, climbed Telegraph Hill and sketched what lay to the west. He drew a pretty, shed-lined cove on the bay between Point San Jose and North Point [1]. That was the real North Beach, a stretch of sand running from a bright dune bluff called White Point, near today's Hyde Street, east to Meiggs' Wharf [1]. The street names still carry clues: Bay, Beach, and the one-block Water Street just south of Francisco, where water once really did lap along the line [1]. In the early 1850s the shore was remote, a place for a city dump, a prison and asylum ship, a convent, a 'Home for Inebriates' and a cemetery. Hold-ups were so common that one paper asked, 'Do the police ever visit this quarter?' [1] Industry followed. A lead smelter went up on White Point in 1867, and Montgomery Avenue was cut through to reach the shore [1]. By 1887 fill had pushed the cove past Bay Street, and the 1900 fishing wharf filled the rest [1][2].",
+  "people": [
+   {
+    "name": "Fritz Wikersheim",
+    "role": "French gold-seeker and sketch artist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Beach at North Beach (Woody LaBounty)",
+    "publisher": "FoundSF / San Francisco Story",
+    "year": 2025,
+    "url": "https://www.foundsf.org/index.php?title=Beach_at_North_Beach",
+    "supports": "Wikersheim sketch, extent of the beach, Water Street, early uses, 1850 newspaper quote, Selby smelter 1867, 1887 fill"
+   },
+   {
+    "title": "Little Italy in Early 20th Century (Issel & Cherny)",
+    "publisher": "FoundSF / University of California Press",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Little_Italy_in_Early_20th_Century",
+    "supports": "North Beach named for a beach long vanished under landfill"
+   }
+  ],
+  "photo": null
+ }
+]

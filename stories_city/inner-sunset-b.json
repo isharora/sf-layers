@@ -1,0 +1,734 @@
+[
+  {
+    "id": "inner-sunset-doelger-building",
+    "title": "The Henry Ford of Housing's Front Door",
+    "theme": "architecture-landmarks",
+    "year": 1932,
+    "yearEnd": 1940,
+    "place": {
+      "label": "Doelger Building, 320 Judah St",
+      "lat": 37.76245,
+      "lon": -122.46562,
+      "precision": "building"
+    },
+    "hook": "A $4,000 Art Deco office on Judah Street was mission control for the man who covered the Sunset's dunes with houses, two a day.",
+    "story": "In January 1932 Henry Doelger, a builder who had quit school after eighth grade, hired architect Charles O. Clausen to design a headquarters at 320 Judah Street. It cost $4,000: a bold Art Deco front with miniature model houses displayed in cases beside the entrance [1]. It needed to be bold. From here Doelger ran the firm that the city's landmark report calls the largest home builder in the United States from 1934 to 1941, averaging two houses a day and employing 500 people. He borrowed Henry Ford's assembly-line methods, with specialised crews moving from house to house [1]. The office grew with the business: a raised roof and a neon 'Henry Doelger Homes' sign in 1936, and a Streamline Moderne wing in 1940 [1]. The same report doesn't flatter him. His childhood hotdog stand in Golden Gate Park reportedly fronted for homemade liquor, and by the late 1930s his Doelgerville deeds barred anyone but white buyers [1]. A longtime Inner Sunset pharmacist heard the rumour that Doelger kept his Prohibition liquor in a building at 9th and Irving [2]. His brother Frank ran a real estate office a few blocks away on Irving [3]. The building became a city landmark in 2013 [1].",
+    "people": [
+      {
+        "name": "Henry Doelger",
+        "role": "merchant builder"
+      },
+      {
+        "name": "Charles O. Clausen",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Doelger Building Landmark Designation Report",
+        "publisher": "San Francisco Planning Department",
+        "year": 2013,
+        "url": "https://default.sfplanning.org/Preservation/landmarks_designation/Approved_Doelger_Final_LM_Report.pdf",
+        "supports": "1932 commission, $4,000 cost, expansions, scale of firm, Fordist methods, liquor story, racial deed restrictions"
+      },
+      {
+        "title": "Leon Levy",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/levy.php",
+        "supports": "rumour Doelger stored liquor at 9th and Irving during Prohibition"
+      },
+      {
+        "title": "Irving and Ninth Avenue Memories",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/irving-9th-memories.php",
+        "supports": "Frank Doelger real estate office on Irving"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-st-anne-rebuilt",
+    "title": "The Rosy Dome Above Judah Street",
+    "theme": "communities",
+    "year": 1932,
+    "yearEnd": null,
+    "place": {
+      "label": "St. Anne of the Sunset Church, 850 Judah St",
+      "lat": 37.76215,
+      "lon": -122.47126,
+      "precision": "building"
+    },
+    "hook": "The 1906 quake flattened the Sunset's little wooden parish church. The domed church that replaced it in 1932 still anchors a parish that now prays in Cantonese too.",
+    "story": "St. Anne's parish was founded in 1904. Its first church, a small wooden building, fell in the 1906 earthquake. Work on a new church began in 1930 and ended in 1932, when Archbishop John J. Mitty dedicated a Romanesque Revival building with a huge dome, two uneven towers and seats for 750. The frieze over the entrance, carved by Sister Justina Niemierski, tells the whole story of salvation [1]. For decades it was the landmark of the Inner Sunset. Photos of the streetcar graveyard a block north, around 1940, show the church and school behind the rows of dead cars, and one view of the yard was probably taken from the church itself [2]. Frank Dunnigan remembers his family going to the parish festival and the July novena to St. Anne. When he was at St. Ignatius in the late 1960s, more than half the students came from four Sunset parishes, St. Anne's among them [3]. The novena has run every year since 1908 [1]. The parish has changed along with the neighbourhood: Sunday's noon Mass is now in Chinese, and the parish runs a Chinese School [4].",
+    "people": [
+      {
+        "name": "Sister Justina Niemierski",
+        "role": "sculptor of the facade frieze"
+      },
+      {
+        "name": "Archbishop John J. Mitty",
+        "role": "dedicated the church"
+      }
+    ],
+    "sources": [
+      {
+        "title": "St. Anne of the Sunset Church in San Francisco",
+        "publisher": "Wikipedia (pointer to parish and archdiocese sources)",
+        "year": 2024,
+        "url": "https://en.wikipedia.org/wiki/St._Anne_of_the_Sunset_Church_in_San_Francisco",
+        "supports": "founding, 1906 loss, 1930-32 rebuilding, capacity, frieze, novena since 1908"
+      },
+      {
+        "title": "Streetcars: The Boneyard",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/boneyard.php",
+        "supports": "c.1940 photos with St. Anne's church and school in background"
+      },
+      {
+        "title": "Streetwise - Irving Insights",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/streetwise-irving.php",
+        "supports": "parish festival, July novena, Sunset parishes feeding S.I."
+      },
+      {
+        "title": "St. Anne of the Sunset (parish website)",
+        "publisher": "St. Anne of the Sunset",
+        "year": 2026,
+        "url": "https://www.stanne-sf.org/",
+        "supports": "Chinese-language Sunday Mass and Chinese School"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-streetcar-boneyard",
+    "title": "Where San Francisco's Streetcars Went to Die",
+    "theme": "labor-industry",
+    "year": 1940,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Market Street Railway 'Boneyard', Lincoln Way to Irving, Funston to 14th Ave",
+      "lat": 37.7648,
+      "lon": -122.4712,
+      "precision": "block"
+    },
+    "hook": "For a few years a whole block beside Golden Gate Park was filled with dead streetcars, and one boy spent hours at their controls.",
+    "story": "Around 1940 the whole block between Lincoln Way and Irving Street, from Funston to 14th Avenue, held rows of dead streetcars. Rail fan Val Golding called it 'a streetcar graveyard.' The Market Street Railway parked retired cars there in the open, where they rotted fast. A small shed handled the few 6, 7 and 17 runs sent out from the yard, which also staged the extra cars for football crowds at nearby Kezar Stadium [1]. Some of the most exotic cars in the fleet ended up there: second-hand cars from Williamsport and East St. Louis, and the five all-steel St. Louis 'Sedan' cars, the company's most modern. They stayed until 1941, when they went to be scrapped. As the company switched to buses, the tracks filled with the old cars it no longer needed [1]. Golding, still under his teens, went in and 'played motorman'. Most of the controls, he recalled, 'could be operated with a wrench' [1]. He also remembered the 7-line cars racing empty down Lincoln Way late at night [2]. Two large apartment buildings and a grocery store later replaced the yard [1]. Frank Dunnigan remembers the Park & Shop at Funston and its 'modern' apartments facing the park [3].",
+    "people": [
+      {
+        "name": "Val J. Golding",
+        "role": "rail fan and memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetcars: The Boneyard",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/boneyard.php",
+        "supports": "location, cars stored, 1941 scrapping, Kezar trippers, later replacement"
+      },
+      {
+        "title": "Sunset Reflections",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/golding1.php",
+        "supports": "Golding's memories of the graveyard and late-night 7-line"
+      },
+      {
+        "title": "Streetwise - Irving Insights",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/streetwise-irving.php",
+        "supports": "Park & Shop and apartments at Funston"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-zakheim-murals",
+    "title": "A WPA Fresco History of Medicine",
+    "theme": "arts-counterculture",
+    "year": 1938,
+    "yearEnd": 2021,
+    "place": {
+      "label": "Toland Hall, UC Hall, UCSF Parnassus campus",
+      "lat": 37.76317,
+      "lon": -122.45818,
+      "precision": "block"
+    },
+    "hook": "A Warsaw-born upholsterer who studied with Diego Rivera painted California's medical history on a UCSF lecture hall, Black midwife and plague panic included.",
+    "story": "Bernard Zakheim came to San Francisco from Warsaw in 1920 and worked as an upholsterer and furniture maker. He visited Diego Rivera in Mexico in 1930 and went on to paint at Coit Tower [1]. In 1935 he started two fresco projects at the medical school on Parnassus. The larger one was ten panels called The History of Medicine in California, painted on the walls of Toland Hall with Works Progress Administration money and dated 1938 [1]. Many faces in the panels belonged to people on the medical school staff in 1936 [1]. It is not a tidy story of progress. The panels set superstition against science and show officials declaring bubonic plague around 1900. They also show Biddy Mason, a formerly enslaved woman who became a midwife and nurse, treating a malaria patient beside a white doctor [2]. UC Hall was seismically unsafe and slated for demolition. In 2021 UCSF hired conservators to remove the curved frescoes, scanned them in 3D and formed a task force, including Mason's descendants and Zakheim's family, to find them a new public home [3].",
+    "people": [
+      {
+        "name": "Bernard Zakheim",
+        "role": "muralist"
+      },
+      {
+        "name": "Biddy Mason",
+        "role": "midwife depicted in the murals"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bernard Zakheim, The History of Medicine in California, 1938 (UCSF Art Collection)",
+        "publisher": "UCSF Office of the Chancellor (archived)",
+        "year": 2012,
+        "url": "https://web.archive.org/web/2014id_/http://chancellor.ucsf.edu/UCSFArt/zakheim.php",
+        "supports": "WPA commission, ten panels, 1935 start, staff portraits of 1936, biography"
+      },
+      {
+        "title": "UCSF's Depression-Era Medical History Murals",
+        "publisher": "FoundSF",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=UCSF%27s_Depression-Era_Medical_History_Murals",
+        "supports": "panel subjects: Biddy Mason, plague declaration"
+      },
+      {
+        "title": "UCSF Task Force to Identify a New Location for Zakheim Murals",
+        "publisher": "UCSF News",
+        "year": 2021,
+        "url": "https://www.ucsf.edu/news/2021/07/421091/ucsf-task-force-identify-new-location-zakheim-murals",
+        "supports": "removal from seismically unsafe UC Hall, conservators, 3D scanning, task force"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-mohawk-station",
+    "title": "The Pontiac Dealer Who Lost to a Firehouse",
+    "theme": "labor-industry",
+    "year": 1940,
+    "yearEnd": 2012,
+    "place": {
+      "label": "Former Sunset Service / Mohawk station, SE corner 16th Ave & Irving St",
+      "lat": 37.76355,
+      "lon": -122.4736,
+      "precision": "building"
+    },
+    "hook": "A brick gas station at 16th and Irving pumped gas, sold Pontiacs, and then lost a showroom lot to City Hall by eminent domain.",
+    "story": "In 1926 Charles Kleinclaus opened a gas station on the southeast corner of 16th Avenue and Irving Street. The 1930 city directory lists him at the 'Sunset Service Station' [1]. To make room for it, the family moved its house around the corner onto 16th Avenue. His grandson Jack Goldsworthy grew up pumping gas and fixing flats there, and he remembered customers by their cars: a Hupmobile he kept going, a creamery owner's Buick convertible, the Furlong sisters' Roadmaster [1]. Pumps and tyres, Jack said, 'just wasn't enough'. So the family took on a small Pontiac agency. General Motors wanted a real showroom, so they bought the vacant lot across the street. Before the carpenters arrived, a man from City Hall said the city needed the corner for a firehouse. The city took the lot by eminent domain, and the car business ended [1]. The little brick office outlived all of them. Columnist Frank Dunnigan called it one of the city's last truly old gas stations and thought it dated from around World War I, earlier than the family's account [2]. Jack lived next door until he died in 2012, aged 86 [1].",
+    "people": [
+      {
+        "name": "Jack Goldsworthy",
+        "role": "station owner"
+      },
+      {
+        "name": "Charles Kleinclaus",
+        "role": "founder, 1926"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jack Goldsworthy and the Historic Sunset Gas Station",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2013,
+        "url": "https://www.outsidelands.org/goldsworthy-gas.php",
+        "supports": "1926 opening, 1930 directory, customers, Pontiac agency, eminent domain, Goldsworthy's death"
+      },
+      {
+        "title": "Streetwise - Irving Insights",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/streetwise-irving.php",
+        "supports": "Mohawk station described as one of the city's last old gas stations, dated 'around World War I'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-western-freeway",
+    "title": "The Freeway That Would Have Crossed 9th Avenue",
+    "theme": "civil-rights",
+    "year": 1955,
+    "yearEnd": 1959,
+    "place": {
+      "label": "9th Avenue at Lincoln Way, planned Western Freeway entry to Golden Gate Park",
+      "lat": 37.7652,
+      "lon": -122.4663,
+      "precision": "street"
+    },
+    "hook": "1950s planners drew an eight-lane freeway up through the Inner Sunset and into Golden Gate Park. Sunset families packed a school auditorium to stop it.",
+    "story": "San Francisco's 1955 Trafficways Plan included a Western Freeway, roughly a straight line from the airport to the Golden Gate Bridge. Columnist Frank Dunnigan traced its route: eight lanes up the west side, a tunnel beneath the streets of Golden Gate Heights, back to the surface near the Forest Hill Muni station, then through the Inner Sunset. It would have entered Golden Gate Park around 9th Avenue, wiping out the Hall of Flowers and cutting through the Rose Garden [1]. A mid-1950s photo in FoundSF's archive marks a proposed freeway running up 7th Avenue into the park, and the plans drew an interchange for the Inner Sunset [2]. For Sale signs went up. One cold December night in 1955, several hundred residents, rallied by St. Cecilia's pastor Monsignor Harold Collins, filled a public meeting at Lincoln High School [1]. Across the city, more than 30,000 people signed petitions at meetings in the Sunset and other threatened neighbourhoods. In 1959 the Board of Supervisors voted to cancel 75 percent of the planned freeway routes [3]. The 'Freeway Revolt' had won, and 7th and 9th Avenues kept their houses and shops.",
+    "people": [
+      {
+        "name": "Monsignor Harold E. Collins",
+        "role": "St. Cecilia's pastor who rallied opposition"
+      },
+      {
+        "name": "Frank Dunnigan",
+        "role": "columnist, son of a protester"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise - Dad & Bill's Night Out",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2009,
+        "url": "https://www.outsidelands.org/streetwise-freeways.php",
+        "supports": "1955 Trafficways Plan, route via 9th Ave into park, Lincoln High meeting, 1959 vote"
+      },
+      {
+        "title": "Inner Sunset 1950s",
+        "publisher": "FoundSF",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Inner_Sunset_1950s",
+        "supports": "photo of proposed 7th Ave freeway route and interchange plan"
+      },
+      {
+        "title": "The Freeway Revolt",
+        "publisher": "FoundSF",
+        "year": 2015,
+        "url": "https://www.foundsf.org/index.php?title=The_Freeway_Revolt",
+        "supports": "30,000 petition signatures, 1959 cancellation of 75% of routes"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-hunter-thompson-parnassus",
+    "title": "Gonzo's Birthplace Had a Parnassus Address",
+    "theme": "arts-counterculture",
+    "year": 1965,
+    "yearEnd": null,
+    "place": {
+      "label": "318 Parnassus Ave",
+      "lat": 37.76452,
+      "lon": -122.45495,
+      "precision": "building"
+    },
+    "hook": "Before he was famous, Hunter S. Thompson wrote letters from a flat on Parnassus Avenue while riding with the Hells Angels for his first book.",
+    "story": "In 1964 Hunter S. Thompson was a struggling journalist. He moved with his wife Sandy and their baby son Juan from Glen Ellen to 318 Parnassus Avenue, near Golden Gate Park [2]. By October 1964 his letters carried that address [1]. It was from this flat that he wrote to Carey McWilliams, editor of The Nation [1]. His essay on the motorcycle gangs for The Nation became the seed of a book [3]. Thompson spent more than a year riding with the San Francisco and Oakland Hells Angels, and a motorcycle history describes Angels coming and going from Hunter and Sandy's Parnassus apartment [4]. The project nearly cost him his teeth. On a Labor Day run near Mendocino, several Angels beat him after he objected to one of them beating his wife and his dog [3]. The result was his first book, Hell's Angels (1966). SF Weekly argues that this immersive, first-person style became what the world later called Gonzo [3]. The building's neighbourhood is described differently depending on who's writing: 'Haight-Ashbury' in his letters' editors' notes, 'near Golden Gate Park' in his son's memoir [1][2].",
+    "people": [
+      {
+        "name": "Hunter S. Thompson",
+        "role": "writer"
+      },
+      {
+        "name": "Sandy Thompson",
+        "role": "his wife"
+      },
+      {
+        "name": "Juan F. Thompson",
+        "role": "their son"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Proud Highway: Saga of a Desperate Southern Gentleman, 1955-1967",
+        "publisher": "Villard (Hunter S. Thompson, ed. Douglas Brinkley)",
+        "year": 1997,
+        "url": "https://archive.org/details/proudhighwaysaga0000thom",
+        "supports": "letters headed 318 Parnassus from October 1964; letter to McWilliams from the apartment"
+      },
+      {
+        "title": "Stories I Tell Myself: Growing Up with Hunter S. Thompson",
+        "publisher": "Knopf (Juan F. Thompson)",
+        "year": 2016,
+        "url": "https://archive.org/details/storiesitellmyse0000thom",
+        "supports": "family moved from Glen Ellen to 318 Parnassus after Juan's birth"
+      },
+      {
+        "title": "Yesterday's Crimes: Hunter S. Thompson Gets Beaten",
+        "publisher": "SF Weekly",
+        "year": 2016,
+        "url": "https://www.sfweekly.com/news/news-news/yesterdays-crimes-hunter-s-thompson-gets-beaten/",
+        "supports": "Nation article, year with the Angels, Labor Day beating, first book, Gonzo"
+      },
+      {
+        "title": "Spirit of Motorcycle",
+        "publisher": "Michael Dregni",
+        "year": 2006,
+        "url": "https://archive.org/details/spiritofmotorcyc0000dreg",
+        "supports": "Angels at Hunter and Sandy's apartment at 318 Parnassus"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-boyer-recombinant-dna",
+    "title": "Cut, Paste, and the Birth of Biotech",
+    "theme": "modern-city",
+    "year": 1973,
+    "yearEnd": 1976,
+    "place": {
+      "label": "Herbert Boyer's laboratory, UCSF Parnassus campus",
+      "lat": 37.763,
+      "lon": -122.459,
+      "precision": "area"
+    },
+    "hook": "A molecular scissor found in a UCSF lab, late-night sandwiches in Hawaii, and a ten-minute meeting that ran three hours helped launch the biotech industry.",
+    "story": "Herbert Boyer joined UCSF in 1966. His UCSF lab had found an enzyme called EcoRI, which cuts DNA leaving staggered, 'sticky' ends that can latch onto any other piece cut the same way [1]. In November 1972 Boyer and Stanley Cohen of Stanford were both at a plasmid conference in Hawaii. Over late-night sandwiches they agreed to work together [1]. For months plasmids travelled between the two labs. Stanford's went to San Francisco to be cut with EcoRI, and the pieces went back to be joined and put into E. coli. In spring 1973 it worked: bacteria carried and copied a plasmid spliced together in a test tube, passing it to their offspring. Paul Berg had first spliced DNA in 1971; this made it copy itself inside living cells [1]. In 1976 Robert Swanson, a 29-year-old venture capitalist, called Boyer and asked for a meeting. Boyer gave him ten minutes, and they talked for three hours. By the end, according to the company, Genentech was born [2]. In fall 1977, before Genentech had facilities of its own, Boyer's UCSF group and City of Hope chemists got bacteria to make a human hormone, somatostatin [1].",
+    "people": [
+      {
+        "name": "Herbert W. Boyer",
+        "role": "UCSF biochemist, Genentech co-founder"
+      },
+      {
+        "name": "Stanley N. Cohen",
+        "role": "Stanford collaborator"
+      },
+      {
+        "name": "Robert A. Swanson",
+        "role": "venture capitalist, Genentech co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Herbert W. Boyer and Stanley N. Cohen",
+        "publisher": "Science History Institute",
+        "year": 2017,
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/herbert-w-boyer-and-stanley-n-cohen/",
+        "supports": "EcoRI from Boyer's lab, Hawaii 1972, plasmid shuttling, spring 1973 success, 1977 somatostatin"
+      },
+      {
+        "title": "Our Founders",
+        "publisher": "Genentech",
+        "year": 2026,
+        "url": "https://www.gene.com/about-us/leadership/our-founders",
+        "supports": "Swanson's call, 10-minute meeting that ran 3 hours, 1976 founding"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-bishop-varmus-oncogene",
+    "title": "The Cancer Gene Was Ours All Along",
+    "theme": "modern-city",
+    "year": 1976,
+    "yearEnd": 1989,
+    "place": {
+      "label": "Bishop-Varmus laboratory, UCSF Parnassus campus",
+      "lat": 37.7627,
+      "lon": -122.4575,
+      "precision": "area"
+    },
+    "hook": "Two UCSF virologists chasing a chicken cancer virus discovered that the gene behind it came from normal cells, including ours. Stockholm called in 1989.",
+    "story": "J. Michael Bishop moved to UCSF in February 1968, turning down an East Coast offer because, he said, he would be 'genuinely needed in San Francisco' [2]. In 1970 a young physician named Harold Varmus arrived as his postdoc. The two soon worked as equals and shared lab space, staff and funding until 1984 [2][3]. Their target was src, the gene that lets Rous sarcoma virus turn chicken cells into tumour cells. Where did the virus get it? Experiments run mainly by Dominique Stehelin and Deborah Spector gave the answer [2]. In 1976 the team published a startling conclusion: src was not really a viral gene at all. It was a normal cellular gene, found across the animal kingdom, which the virus had picked up from a host and carried along [1]. Normal genes that control growth, it turned out, can become cancer genes when damaged. Researchers soon identified more than 40 of these oncogenes [1]. On 9 October 1989 Bishop and Varmus were awarded the Nobel Prize in Physiology or Medicine [1]. Varmus, meanwhile, had spent most of those years living in a Victorian house in the Haight [3].",
+    "people": [
+      {
+        "name": "J. Michael Bishop",
+        "role": "virologist, Nobel laureate"
+      },
+      {
+        "name": "Harold E. Varmus",
+        "role": "virologist, Nobel laureate"
+      },
+      {
+        "name": "Dominique Stehelin",
+        "role": "postdoctoral researcher"
+      },
+      {
+        "name": "Deborah Spector",
+        "role": "researcher"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 1989 - Press release",
+        "publisher": "Nobel Assembly at the Karolinska Institute",
+        "year": 1989,
+        "url": "https://www.nobelprize.org/prizes/medicine/1989/press-release/",
+        "supports": "1976 conclusion, cellular origin of src, 40+ oncogenes, 9 Oct 1989 award"
+      },
+      {
+        "title": "J. Michael Bishop - Biographical",
+        "publisher": "NobelPrize.org",
+        "year": 1989,
+        "url": "https://www.nobelprize.org/prizes/medicine/1989/bishop/biographical/",
+        "supports": "1968 move, 'genuinely needed' quote, Varmus's arrival, Stehelin and Spector experiments"
+      },
+      {
+        "title": "Harold E. Varmus - Biographical",
+        "publisher": "NobelPrize.org",
+        "year": 1989,
+        "url": "https://www.nobelprize.org/prizes/medicine/1989/varmus/biographical/",
+        "supports": "1970 postdoc, shared facilities to 1984, Haight-Ashbury Victorian home"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-food-coop",
+    "title": "Food for People, Not for Profit, on 9th",
+    "theme": "labor-industry",
+    "year": 1976,
+    "yearEnd": 2000,
+    "place": {
+      "label": "9th Avenue between Irving and Judah (Inner Sunset Community Food Store; Arizmendi Bakery, 1331 9th Ave)",
+      "lat": 37.763,
+      "lon": -122.4663,
+      "precision": "block"
+    },
+    "hook": "A volunteer-run grocery collective opened on 9th Avenue in 1976, got evicted, kept moving, and left a co-op tradition that still sells hot baguettes.",
+    "story": "In May 1976 the Inner Sunset Community Food Store opened in what one member called 'a funky store front on 9th Avenue near Golden Gate Park'. It grew out of the Bay Area's People's Food System under the slogan 'Food For People, Not For Profit' [1]. Volunteers organised and staffed it at first. Later a collective ran it, barely paid, as a steward for the neighbourhood. Around 1982 a landlord's eviction forced it several blocks west along Irving, where members turned a former plumbing shop into a store. Later it moved again, to 20th Avenue [1]. In 1994 a statewide survey found it stocked more kinds of organic produce than any store in California [1]. Rent hikes and bitter internal fights closed it in 1995, and a former member wrote a scathing post-mortem [1]. The cooperative idea came back to 9th Avenue anyway. In October 2000, with help from Berkeley's Cheese Board and the Arizmendi bakery in Oakland, worker-owners opened Arizmendi Bakery at 1331 9th Avenue [2]. It is named after a Basque labour organiser, and the only job it has is worker-owner [2].",
+    "people": [
+      {
+        "name": "Michael Steinberg",
+        "role": "collective member and chronicler"
+      },
+      {
+        "name": "Charlie Englestein",
+        "role": "coordinated the 1982 store build-out"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Why Inner Sunset Community Food Store Went Down",
+        "publisher": "FoundSF (Michael Steinberg)",
+        "year": 1995,
+        "url": "https://www.foundsf.org/index.php?title=WHY_INNER_SUNSET_COMMUNITY_FOOD_STORE_WENT_DOWN",
+        "supports": "1976 opening on 9th Ave, People's Food System, evictions and moves, 1994 survey, 1995 closure"
+      },
+      {
+        "title": "About Us",
+        "publisher": "Arizmendi Bakery San Francisco",
+        "year": 2025,
+        "url": "https://arizmendibakery.com/about",
+        "supports": "October 2000 opening, Cheese Board and Oakland help, Basque namesake; worker-owner as only position (home page)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-west-coast-pharmacy",
+    "title": "The Pharmacist Who Flyered the Whole Sunset",
+    "theme": "communities",
+    "year": 1977,
+    "yearEnd": 1997,
+    "place": {
+      "label": "Former West Coast Pharmacy, SW corner 7th Ave & Irving St",
+      "lat": 37.764,
+      "lon": -122.4645,
+      "precision": "building"
+    },
+    "hook": "Leon Levy mailed get-well cards with every prescription, walked flyers door to door from Masonic to 19th, and got UCSF to send him Sunday customers.",
+    "story": "Leon Levy came to the Inner Sunset in 1954 as a UCSF pharmacy student. He parked in Golden Gate Park and climbed the hill to class for exercise [1]. From 1959 to 1977 he filled prescriptions at the Reliable Rexall. It had taken over Furlong's dry goods store at 801 Irving, where the Furlong sisters (two or three, depending on who remembers) sold school uniforms and baby clothes and lived upstairs [1][2]. In 1977 the owner of West Coast Pharmacy, at 7th and Irving, offered Levy the business for the cost of its stock, and he took it [1]. He ran it his way. Every customer who filled a prescription got a mailed get-well card with a thank-you note inside. For six weeks he spent half an hour each morning walking flyers to doors from Masonic to 19th Avenue [1]. When the other pharmacies refused to take turns opening on Sundays, he went to UCSF's emergency room, and the hospital began sending patients down [1]. He also spent seven years petitioning for the parking lot on 7th Avenue [1]. Low HMO payments closed the shop in 1997. One customer followed him for over 30 years [1].",
+    "people": [
+      {
+        "name": "Leon Levy",
+        "role": "pharmacist"
+      },
+      {
+        "name": "Quentin Kopp",
+        "role": "supervisor who backed the parking lot"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Leon Levy",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) (Lorri Ungaretti)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/levy.php",
+        "supports": "career, Rexall years, 1977 purchase, flyers, Sunday UCSF arrangement, parking lot, 1997 closure"
+      },
+      {
+        "title": "Irving and Ninth Avenue Memories",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/irving-9th-memories.php",
+        "supports": "Furlong store at the corner, sisters living upstairs, school uniforms"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-ks-clinic",
+    "title": "The AIDS Clinic Before AIDS Had a Name",
+    "theme": "lgbtq",
+    "year": 1981,
+    "yearEnd": 1983,
+    "place": {
+      "label": "UCSF Kaposi's Sarcoma Clinic, Clinics Building, 400 Parnassus Ave",
+      "lat": 37.76386,
+      "lon": -122.45839,
+      "precision": "building"
+    },
+    "hook": "In late 1981 UCSF opened a clinic for young gay men with a rare cancer. Its patients were already there before anyone was hired to run it.",
+    "story": "In autumn 1981 doctors on Parnassus were seeing young gay men with Kaposi's sarcoma, a cancer until then associated mainly with elderly men [2]. Dermatologist Marcus Conant was looking for money for a clinic. Oncologist John Ziegler wrote to the American Cancer Society in September, and the grant arrived that December [1]. Helen Schietinger, a newly graduated nurse, heard about the job coordinating 'a new clinic that was being developed for gay men that had cancer'. When she started in January 1982, doctors were already seeing patients, and it was 'totally chaotic' [1]. Resource lists pointed patients to the 'KS Clinic at UCSF, Clinics Bldg, 400 Parnassus' [1]. One early patient was Bobbi Campbell, a UCSF nurse whom Conant diagnosed in October 1981 [1][2]. Campbell began turning up at the clinic, saying, 'I want to meet the patients.' Some doctors found him 'a little off the wall', Schietinger recalled, but he was 'very, very serious'. It mattered, she said, for newly diagnosed men to see 'somebody that was functioning even though he had AIDS' [1]. Campbell went on to call himself the 'KS Poster Boy' in print and to help found the People With AIDS movement [2].",
+    "people": [
+      {
+        "name": "Marcus Conant",
+        "role": "dermatologist"
+      },
+      {
+        "name": "Helen Schietinger",
+        "role": "nurse-coordinator"
+      },
+      {
+        "name": "Bobbi Campbell",
+        "role": "nurse, patient and activist"
+      },
+      {
+        "name": "John Ziegler",
+        "role": "oncologist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The AIDS Epidemic in San Francisco: The Response of the Nursing Profession, 1981-1984, Vol. I (Schietinger oral history)",
+        "publisher": "Regional Oral History Office, Bancroft Library, UC Berkeley",
+        "year": 1999,
+        "url": "https://archive.org/details/aidsepidemicsf01bancrich",
+        "supports": "ACS grant timing, Ziegler letter, Schietinger's hiring, clinic at 400 Parnassus, Campbell in the clinic"
+      },
+      {
+        "title": "Bobbi Campbell",
+        "publisher": "Wikipedia (pointer to GLBT Historical Society and oral-history sources)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Bobbi_Campbell",
+        "supports": "Conant's October 1981 diagnosis, 'KS Poster Boy' column, PWA movement"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-16th-ave-tiled-steps",
+    "title": "163 Steps From Sea to Stars",
+    "theme": "arts-counterculture",
+    "year": 2005,
+    "yearEnd": null,
+    "place": {
+      "label": "16th Avenue Tiled Steps, Moraga St between 15th & 16th Aves",
+      "lat": 37.7563,
+      "lon": -122.4731,
+      "precision": "building"
+    },
+    "hook": "Two Golden Gate Heights neighbours wanted a project to bring the street together. They ended up with what Fodor's calls possibly the world's largest mosaic staircase.",
+    "story": "In 2003 Jessie Audette and Alice Yee Xavier, neighbours in Golden Gate Heights, looked for a grassroots project that would connect the people around them [1]. Their inspiration, the steps' Wikipedia article says, was Rio's Escadaria Selarón [2]. The neighbours chose artists Aileen Barr and Colette Crutcher to design a 'sea to stars' mosaic running up all 163 steps of the Moraga Street stairway [1]. Most of the money came from residents who sponsored handmade named tiles shaped like fish, shells and animals. Three community workshops let anyone help make the panels [1]. On 27 August 2005 lion dancers and firecrackers led the opening. The mayor of Caltagirone in Sicily, home of the sister Scala steps, came too. Acting Mayor Sean Elsbernd declared 16th Avenue Tiled Steps Day [1]. The Xavier family donated the gardens on the south side. Later plantings of California natives support the endangered green hairstreak butterfly on the hillsides above [1]. The steps lead up to Grandview Park, a chert summit where the endangered Franciscan wallflower still grows [3].",
+    "people": [
+      {
+        "name": "Jessie Audette",
+        "role": "neighbourhood co-founder"
+      },
+      {
+        "name": "Alice Yee Xavier",
+        "role": "neighbourhood co-founder"
+      },
+      {
+        "name": "Aileen Barr",
+        "role": "artist"
+      },
+      {
+        "name": "Colette Crutcher",
+        "role": "artist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "16th Avenue Tiled Steps (official site)",
+        "publisher": "16th Avenue Tiled Steps project",
+        "year": 2026,
+        "url": "https://www.16thavenuetiledsteps.com/",
+        "supports": "2003 start, founders, artists, sponsorship, workshops, 27 Aug 2005 opening, gardens, hairstreak"
+      },
+      {
+        "title": "16th Avenue Tiled Steps",
+        "publisher": "Wikipedia (pointer)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/16th_Avenue_Tiled_Steps",
+        "supports": "Selarón inspiration, Fodor's 'largest mosaic staircase' description"
+      },
+      {
+        "title": "Grandview Park",
+        "publisher": "Wikipedia (pointer)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Grandview_Park",
+        "supports": "chert summit, Franciscan wallflower habitat"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-sutro-stewards",
+    "title": "Volunteers Find a Lost Trail on Mount Sutro",
+    "theme": "parks-nature",
+    "year": 2006,
+    "yearEnd": 2007,
+    "place": {
+      "label": "Rotary Meadow, Mount Sutro summit, UCSF Mount Sutro Open Space Reserve",
+      "lat": 37.7582,
+      "lon": -122.4585,
+      "precision": "area"
+    },
+    "hook": "Surveying Mount Sutro for a new trail in 2005, volunteers found an old one instead, and then spent 5,000 hours bringing it back.",
+    "story": "Mount Sutro's dense eucalyptus forest, planted by Adolph Sutro, fills 61 acres above UCSF's Parnassus campus. At the urging of neighbours, in 1998 UCSF began a management plan. Public meetings in 2000 produced a plan to protect native plants, improve the forest's health and open up access [1]. The Rotary Club of San Francisco gave $100,000 for Rotary Meadow, a native plant garden at the summit on the site of a former Nike installation. The Stewards date the gift to 2003; another account says 2004 [1][2]. In 2005, surveying for a proposed new trail, workers found a very old trail instead, which the Stewards believe was built in the 1880s [1]. In September 2006 local volunteers proposed a stewardship programme to UCSF, and the Mount Sutro Stewards were formed [1]. In the first twelve months volunteers put in more than 5,000 hours, restoring the Historic Trail and freeing rare native plants from ivy and blackberry. They won a San Francisco Beautiful award in 2007 [1]. Fog drip from the tall trees supplies 30 to 40 percent of the forest's moisture [2].",
+    "people": [
+      {
+        "name": "Adolph Sutro",
+        "role": "planted the forest"
+      },
+      {
+        "name": "Mount Sutro Stewards",
+        "role": "volunteer group"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mount Sutro History",
+        "publisher": "Sutro Stewards",
+        "year": 2026,
+        "url": "https://www.sutrostewards.org/history",
+        "supports": "1998 plan, 2000 meetings, Rotary gift and Nike site, 2005 trail discovery, 2006 founding, 5,000 hours, 2007 award"
+      },
+      {
+        "title": "Mount Sutro",
+        "publisher": "Wikipedia (pointer)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Mount_Sutro",
+        "supports": "61-acre reserve, Rotary Meadow date as 2004, fog drip share"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "inner-sunset-hidden-garden-steps",
+    "title": "148 Steps and 600 Donors on 16th Avenue",
+    "theme": "parks-nature",
+    "year": 2013,
+    "yearEnd": null,
+    "place": {
+      "label": "Hidden Garden Steps, 16th Ave between Kirkham & Lawton Sts",
+      "lat": 37.759,
+      "lon": -122.4736,
+      "precision": "block"
+    },
+    "hook": "Inspired by the famous tiled steps up the hill, neighbours spent four years turning a neglected concrete stairway into a garden sanctuary covered in mosaic.",
+    "story": "The 16th Avenue Tiled Steps drew visitors from all over the world, and neighbours a few blocks north wanted the same for their stairway. For four years volunteers worked, in one organiser's words, 'setting aside differences' and giving hundreds of hours to transform 'a small, neglected piece of San Francisco' on 16th Avenue between Kirkham and Lawton [1]. They brought back the same artists, Colette Crutcher and Aileen Barr, whose earlier staircase had inspired the project [1][2]. Their design covers 148 steps in ceramic tile, and KZ Tile installed it. More than 600 donors paid for it, and it was dedicated on 7 December 2013 [1]. The gardens came next. Until the COVID-19 shutdown in 2020, volunteers met on the second Saturday of every month to sweep the steps and plant succulents, California natives and clivias on the slopes on either side [1]. A neighbour writing a decade later described what they had made as 'an almost sacred space'. Scrub jays, mourning doves, hawks and ravens share it with visitors [1].",
+    "people": [
+      {
+        "name": "Colette Crutcher",
+        "role": "artist"
+      },
+      {
+        "name": "Aileen Barr",
+        "role": "artist"
+      },
+      {
+        "name": "Friends of the Hidden Garden Steps",
+        "role": "volunteer group"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Giving Thanks 2023: Hidden Garden Steps and SF Parks Alliance",
+        "publisher": "Friends of the Hidden Garden Steps",
+        "year": 2023,
+        "url": "https://hiddengardensteps.wordpress.com/",
+        "supports": "location, 148 steps, artists, KZ Tile, 7 Dec 2013 dedication, 600+ donors, four years, monthly clean-ups"
+      },
+      {
+        "title": "16th Avenue Tiled Steps",
+        "publisher": "Wikipedia (pointer)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/16th_Avenue_Tiled_Steps",
+        "supports": "Barr and Crutcher designed the nearby Hidden Garden Steps"
+      }
+    ],
+    "photo": null
+  }
+]

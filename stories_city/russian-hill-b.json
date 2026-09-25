@@ -1,0 +1,770 @@
+[
+ {
+  "id": "russian-hill-palace-for-the-people",
+  "title": "The Palace for the People, padlocked",
+  "theme": "architecture-landmarks",
+  "year": 1939,
+  "yearEnd": 1940,
+  "place": {
+   "label": "Aquatic Park Bathhouse (Maritime Museum), 900 Beach St",
+   "lat": 37.8064,
+   "lon": -122.42392,
+   "precision": "building"
+  },
+  "hook": "The WPA built San Francisco a shining ship-shaped bathhouse for everyone. Days after it opened, the public was shown the door.",
+  "story": "Between 1936 and 1939 the Works Progress Administration built a Streamline Moderne bathhouse on Black Point Cove, designed by William Mooser III to evoke a ship at port. It had lockers for 3,000 swimmers and showers switched on by photoelectric \"eyes\" [1]. Hilaire Hiler, just back from Paris, painted the lost continents of Atlantis and Mu across the lobby. Sargent Claude Johnson, the first Black artist on the West Coast to win national fame, carved the green slate frieze and designed the veranda mosaics [1][2]. At the dedication on January 22, 1939, the Chronicle called it \"A Palace for the People.\" But just before opening, the city had leased it to Gordon Brothers Concessions, and it became the Aquatic Park Casino, an exclusive nightclub. Up went signs reading \"Private – Keep Out,\" and schoolboys eating sack lunches on the veranda were ordered to leave [1]. Beniamino Bufano hauled his animal statues down to the beach: \"I would rather have kids playing over my statues than to have drunks stumbling over them.\" Johnson walked away, and his mosaic is still unfinished. By the end of 1940 the concessionaires had been ousted amid lawsuits and the doors were padlocked [1].",
+  "people": [
+   {
+    "name": "William Mooser III",
+    "role": "architect"
+   },
+   {
+    "name": "Hilaire Hiler",
+    "role": "art director and muralist"
+   },
+   {
+    "name": "Sargent Claude Johnson",
+    "role": "sculptor"
+   },
+   {
+    "name": "Beniamino Bufano",
+    "role": "sculptor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Aquatic Park Bathhouse",
+    "publisher": "National Park Service, San Francisco Maritime NHP",
+    "year": 2024,
+    "url": "https://www.nps.gov/safr/learn/historyculture/aquatic-park-bathhouse.htm",
+    "supports": "WPA construction, Mooser, Hiler murals, opening, casino lease, Bufano quote, unfinished mosaic, padlocking"
+   },
+   {
+    "title": "Sargent Johnson",
+    "publisher": "National Park Service, San Francisco Maritime NHP",
+    "year": 2024,
+    "url": "https://www.nps.gov/safr/learn/historyculture/sargent-johnson.htm",
+    "supports": "Johnson's frieze and veranda mosaics; first Black West Coast artist to earn national fame"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-bathhouse-goes-to-war",
+  "title": "Guarding the Pacific from a bathhouse",
+  "theme": "war-military",
+  "year": 1942,
+  "yearEnd": 1945,
+  "place": {
+   "label": "Aquatic Park and Hyde Street Pier",
+   "lat": 37.807,
+   "lon": -122.4225,
+   "precision": "area"
+  },
+  "hook": "The padlocked party palace got a new tenant in wartime: the Army command charged with defending the whole Pacific Coast from air attack.",
+  "story": "After its nightclub fiasco, the Aquatic Park Bathhouse sat padlocked, opening briefly in 1941 to show Alma Spreckels' historic ship models [1]. Then came the war. The city leased Aquatic Park to the U.S. Army, and soldiers of the 216th Coast Artillery moved into the building meant for swimmers. Later it became headquarters of the Fourth Anti-Aircraft Command, responsible for defending the Pacific Coast [1]. Next door, the Army also took over Hyde Street Pier. Its car ferries had stopped running in July 1938, killed off by the new Bay and Golden Gate bridges. Now the empty slips held military vessels, including leased ferryboats and riverboats that carried troops to the Army's Port of Embarkation piers at Fort Mason [2]. When the war ended in 1945 the military handed the bathhouse back to the city. Peacetime brought gentler tenants. In 1947 the San Francisco Senior Center leased the ground floor, and the park service calls it the oldest private non-profit senior center in the United States. In 1948 the Marine Reserve even staged a mock amphibious landing on the beach [1].",
+  "people": [
+   {
+    "name": "Alma Spreckels",
+    "role": "collector and museum patron"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Aquatic Park Bathhouse",
+    "publisher": "National Park Service, San Francisco Maritime NHP",
+    "year": 2024,
+    "url": "https://www.nps.gov/safr/learn/historyculture/aquatic-park-bathhouse.htm",
+    "supports": "1941 ship-model display, Army lease, 216th Coast Artillery, Fourth Anti-Aircraft Command, 1945 return, Senior Center 1947, 1948 mock assault"
+   },
+   {
+    "title": "Hyde Street Pier",
+    "publisher": "National Park Service, San Francisco Maritime NHP",
+    "year": 2026,
+    "url": "https://www.nps.gov/safr/learn/historyculture/hyde-street-pier.htm",
+    "supports": "last ferry July 25, 1938; wartime Army use of Hyde Street Pier for ferries and riverboats carrying troops to Fort Mason"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-hyde-street-pier-ships",
+  "title": "A ferry pier becomes a harbor of ghosts",
+  "theme": "labor-industry",
+  "year": 1963,
+  "yearEnd": null,
+  "place": {
+   "label": "Hyde Street Pier, foot of Hyde St",
+   "lat": 37.8077,
+   "lon": -122.42085,
+   "precision": "building"
+  },
+  "hook": "A movie 'pirate ship' rusting in Sausalito, a museum founder with a passion for sail, and a dead ferry pier: together they made a floating museum.",
+  "story": "Hyde Street Pier opened in 1922 as a car-ferry landing for Sausalito, and the last ferry left on July 25, 1938 [1]. It came back to life thanks to Karl Kortum, a maritime historian who loved the age of sail. In 1951 he founded the San Francisco Maritime Museum in the empty upper floors of the Aquatic Park Bathhouse [2]. In 1954 the museum, led by Kortum and Alma Spreckels, paid $25,000 for the Pacific Queen, a rusting square-rigger in Sausalito. She had been launched in Scotland in 1886 as Balclutha, sailed 17 times around Cape Horn, and later appeared in Mutiny on the Bounty and toured the coast as a \"pirate ship.\" Local people gave cash, materials and labor to restore her and her original name [3]. Their efforts led to a state historical monument in September 1957. The state leased the pier in 1961, rebuilt it in 1962 and 1963, and opened the Maritime State Historical Park on October 5, 1963. In 1988 it became part of San Francisco Maritime National Historical Park, and the park still docks its historic fleet at the pier [1].",
+  "people": [
+   {
+    "name": "Karl Kortum",
+    "role": "founder, San Francisco Maritime Museum"
+   },
+   {
+    "name": "Alma Spreckels",
+    "role": "museum patron"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Hyde Street Pier",
+    "publisher": "National Park Service, San Francisco Maritime NHP",
+    "year": 2026,
+    "url": "https://www.nps.gov/safr/learn/historyculture/hyde-street-pier.htm",
+    "supports": "ferry history, 1957 monument, 1961 lease, 1962-63 reconstruction, October 5, 1963 opening, 1988 national park"
+   },
+   {
+    "title": "Aquatic Park Bathhouse",
+    "publisher": "National Park Service, San Francisco Maritime NHP",
+    "year": 2024,
+    "url": "https://www.nps.gov/safr/learn/historyculture/aquatic-park-bathhouse.htm",
+    "supports": "Kortum founded the Maritime Museum in 1951"
+   },
+   {
+    "title": "Balclutha",
+    "publisher": "National Park Service, San Francisco Maritime NHP",
+    "year": 2024,
+    "url": "https://www.nps.gov/safr/learn/historyculture/balclutha.htm",
+    "supports": "1886 launch, Cape Horn passages, Pacific Queen film/pirate-ship years, 1954 purchase for $25,000 and community restoration"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-ghirardelli-square-saved",
+  "title": "Saving the chocolate factory from a tower",
+  "theme": "architecture-landmarks",
+  "year": 1964,
+  "yearEnd": null,
+  "place": {
+   "label": "Ghirardelli Square, 900 North Point St",
+   "lat": 37.80553,
+   "lon": -122.42318,
+   "precision": "building"
+  },
+  "hook": "A high-rise had just swallowed the pasta factory next door. The chocolate works looked like the next to go, until a shipping heir intervened.",
+  "story": "In the early 1960s, Ghirardelli's chocolate making moved out to San Leandro [2]. Just to the west, the Fontana Towers had gone up on the site of the old brick Fontana pasta factory, and there was talk of tearing down the chocolate works for another modernist high-rise [1]. In 1962 William M. Roth and his mother, Lurline Matson Roth, bought the property to stop it being demolished for apartments [3]. Roth hired landscape architect Lawrence Halprin and the firm Wurster, Bernardi & Emmons. They kept the old brick buildings, some dating from the 19th-century Pioneer Woolen Mill, and added new modernist elements, turning the complex into shops and restaurants [1][3]. The square opened on November 29, 1964 [2]. It is often called the first major adaptive reuse project in the United States [3]. Its owners say it became a model for places like Boston's Faneuil Hall Marketplace and Baltimore's Harborplace [2]. The idea spread quickly. A few blocks east, Leonard Martin turned the old Del Monte cannery, idle since 1937, into The Cannery [1]. In 1982 the complex was listed on the National Register of Historic Places [2].",
+  "people": [
+   {
+    "name": "William M. Roth",
+    "role": "developer, shipping heir"
+   },
+   {
+    "name": "Lurline Matson Roth",
+    "role": "co-purchaser"
+   },
+   {
+    "name": "Lawrence Halprin",
+    "role": "landscape architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ghirardelli Square",
+    "publisher": "FoundSF (Chris Carlsson)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Ghirardelli_Square",
+    "supports": "Fontana Towers context, Roth and Halprin, woolen-mill origins, The Cannery"
+   },
+   {
+    "title": "History",
+    "publisher": "Ghirardelli Square",
+    "year": null,
+    "url": "https://www.ghirardellisq.com/history",
+    "supports": "move to San Leandro, November 29, 1964 opening, 1982 National Register, model for Faneuil Hall and Harborplace"
+   },
+   {
+    "title": "Ghirardelli Square",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Ghirardelli_Square",
+    "supports": "1962 purchase by William and Lurline Roth; Wurster, Bernardi & Emmons; first major adaptive reuse claim"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-asawa-mermaid-fountain",
+  "title": "The mermaids that beat the modernist",
+  "theme": "arts-counterculture",
+  "year": 1968,
+  "yearEnd": null,
+  "place": {
+   "label": "Ruth Asawa fountain, Ghirardelli Square plaza",
+   "lat": 37.8057,
+   "lon": -122.4225,
+   "precision": "building"
+  },
+  "hook": "The square's famous landscape architect wanted a sleek metal shaft. Ruth Asawa gave him nursing mermaids and amphibians, and the city took her side.",
+  "story": "As Ghirardelli Square neared completion, sculptor Ruth Asawa was commissioned to make a fountain for its courtyard. She made a cast-bronze fountain of mermaids and sea creatures, installed in 1968 and titled Andrea [2]. FoundSF calls it the \"Mermaids\" fountain [1]. Lawrence Halprin, the square's landscape architect, hated it. He attacked it as too representational and out of keeping with the plaza, and he had wanted a 15-foot metal shaft instead. The fight spilled into the San Francisco Chronicle's editorial pages, and Halprin lost [1]. Local residents, especially women, rallied to keep the sculpture [2]. Historian Alison Isenberg argues the fountain was an early skirmish of second-wave feminism, disguised as a charming piece for families. \"In 1968 San Franciscans saw relatively unprecedented scenes in Ghirardelli Square,\" she writes: \"breast-feeding, a lesbian family, an amphibian orgy, possibly mermaid vaginas.\" [1] In her reading, a dispute about artistic style turned into a public argument about gender, sexuality and who shapes urban space.",
+  "people": [
+   {
+    "name": "Ruth Asawa",
+    "role": "sculptor"
+   },
+   {
+    "name": "Lawrence Halprin",
+    "role": "landscape architect"
+   },
+   {
+    "name": "Alison Isenberg",
+    "role": "historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ghirardelli Square",
+    "publisher": "FoundSF (Chris Carlsson)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Ghirardelli_Square",
+    "supports": "Halprin's opposition, metal-shaft preference, Chronicle editorial battle, Isenberg quotes"
+   },
+   {
+    "title": "Ghirardelli Square",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Ghirardelli_Square",
+    "supports": "1968 installation, title Andrea, mermaids and marine life, residents (particularly women) rallied"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-joan-anderson-letter",
+  "title": "The letter that rewired Kerouac",
+  "theme": "arts-counterculture",
+  "year": 1950,
+  "yearEnd": null,
+  "place": {
+   "label": "29 Russell St",
+   "lat": 37.79854,
+   "lon": -122.41942,
+   "precision": "building"
+  },
+  "hook": "From a little Russian Hill alley, a railroad brakeman mailed an 18-page, unpunctuated rush of memory that Kerouac called the greatest writing he'd ever seen.",
+  "story": "In December 1950, Neal Cassady was living at 29 Russell Street and working as a brakeman for the Southern Pacific railroad [1][2]. On December 17 he finished a long letter to Jack Kerouac about his wild youth in Denver and a young woman named Joan Anderson. It had few paragraph breaks and almost no punctuation. Kerouac described its style as \"spontaneous bop-pros-ody\" and wrote back that it was \"the greatest piece of writing I ever saw.\" Many scholars believe it pushed him away from writing like a traditional novelist and toward Cassady's free-form, stream-of-consciousness style [1]. Then the letter vanished. Kerouac passed it to Allen Ginsberg, and Ginsberg passed it to poet Gerd Stern, who lived on a barge in Sausalito. Ginsberg later accused Stern of dropping it overboard. Stern denied it, calling Ginsberg \"a mischievous son of a bitch.\" In May 2012 the letter turned up in the Oakland home office of the late record producer Jack Spinosa. After lawsuits from the Kerouac and Cassady estates, it was auctioned, and Emory University paid $206,250 [1][2].",
+  "people": [
+   {
+    "name": "Neal Cassady",
+    "role": "writer, railroad brakeman"
+   },
+   {
+    "name": "Jack Kerouac",
+    "role": "novelist"
+   },
+   {
+    "name": "Gerd Stern",
+    "role": "poet"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Legend of Neal Cassady's long-lost 'Joan Anderson Letter' finally comes to life",
+    "publisher": "San Francisco Chronicle (Sam Whiting)",
+    "year": 2021,
+    "url": "https://web.archive.org/web/20230208135023/https://datebook.sfchronicle.com/books/legend-of-neal-cassadys-long-lost-joan-anderson-letter-finally-comes-to-life",
+    "supports": "date, 29 Russell St address, brakeman job, Kerouac quotes, Stern/Ginsberg dispute, 2012 rediscovery, Emory purchase"
+   },
+   {
+    "title": "Neal Cassady",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Neal_Cassady",
+    "supports": "Cassady lived at 29 Russell Street while working for Southern Pacific; letter rediscovery and later auction"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-real-world-pedro-zamora",
+  "title": "Seven strangers below the crooked street",
+  "theme": "lgbtq",
+  "year": 1994,
+  "yearEnd": null,
+  "place": {
+   "label": "The Real World house, 949 Lombard St",
+   "lat": 37.80213,
+   "lon": -122.41706,
+   "precision": "building"
+  },
+  "hook": "MTV put seven twentysomethings in a house at the foot of Lombard Street. One of them, an AIDS educator, changed how America saw the disease.",
+  "story": "From February to June 1994, MTV filmed the cast of \"The Real World: San Francisco\" living at 949 Lombard Street, below the crooked block [1][2]. Among them was Pedro Zamora, 22, who had come from Cuba in the Mariel boatlift and grown up in Miami. He was an openly gay, HIV-positive AIDS educator [1][2]. On camera he fell for Sean Sasser, and the two exchanged vows in a commitment ceremony at the house. It is often described as the first same-sex commitment ceremony on television [1][3]. Viewers also watched his health decline, quickly and brutally, at a time when AIDS treatments were few [3]. Zamora died on November 11, 1994, only hours after the season's last episode aired. His roommate Judd Winick, a 24-year-old cartoonist who had joined for free rent and a shot at TV, was at his bedside [2][3]. Winick became an AIDS educator and fundraiser, and in 2000 he published a graphic memoir, \"Pedro and Me.\" He married fellow housemate Pam Ling, who became a doctor treating AIDS patients in the city's clinics [2].",
+  "people": [
+   {
+    "name": "Pedro Zamora",
+    "role": "AIDS educator, cast member"
+   },
+   {
+    "name": "Sean Sasser",
+    "role": "Zamora's partner"
+   },
+   {
+    "name": "Judd Winick",
+    "role": "cartoonist, cast member"
+   },
+   {
+    "name": "Pam Ling",
+    "role": "physician, cast member"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Real World: San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/The_Real_World:_San_Francisco",
+    "supports": "949 Lombard address, filming dates, commitment ceremony described as TV first"
+   },
+   {
+    "title": "Pedro's Lessons / 'Real World' roommate's death inspires cartoonist's book",
+    "publisher": "SFGATE (Sam Whiting)",
+    "year": 2000,
+    "url": "https://sfgate.com/health/article/pedro-s-lessons-real-world-roommate-s-death-3303192.php",
+    "supports": "Mariel boatlift, ages 22 and 24, Winick at deathbed, Pedro and Me, Ling as clinic doctor"
+   },
+   {
+    "title": "'Real World: San Francisco' star Pedro Zamora gets the spotlight in new film at DocFest",
+    "publisher": "San Francisco Chronicle (Pam Grady)",
+    "year": 2022,
+    "url": "https://datebook.sfchronicle.com/movies-tv/real-world-san-francisco-star-pedro-zamora-gets-the-spotlight-in-new-film-at-docfest",
+    "supports": "Sasser courtship and ceremony, rapid decline, death Nov 11, 1994 hours after finale"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-rivera-fresco",
+  "title": "Diego Rivera paints himself from behind",
+  "theme": "arts-counterculture",
+  "year": 1931,
+  "yearEnd": null,
+  "place": {
+   "label": "Diego Rivera Gallery, 800 Chestnut St",
+   "lat": 37.80374,
+   "lon": -122.41719,
+   "precision": "building"
+  },
+  "hook": "The great Mexican muralist put himself at the center of his San Francisco fresco, and the most visible part of him is his backside.",
+  "story": "In 1926 the California School of Fine Arts moved into a new Spanish Colonial Revival campus at 800 Chestnut Street, designed by Bakewell & Brown [1]. Mexican muralist Diego Rivera arrived in San Francisco in 1930 to paint a fresco there [1]. When the school's landmark case was prepared in 1977, the report noted that Rivera had asked for more wall space rather than a bigger fee [2]. Finished in 1931, \"The Making of a Fresco Showing the Building of a City\" is a painting about making a painting. It shows steel riveters and industrial workers building a city. Among the figures are school president William Gerstle and Coit Tower architect Arthur Brown Jr. Rivera also painted himself, seen from behind, so viewers get a good look at his broad backside [2]. It is one of only three Rivera murals in San Francisco [2]. The school was renamed the San Francisco Art Institute in 1961, and the campus became city landmark No. 85 [1]. Nine decades after Rivera painted it, the fresco would become the prize in a fight over the school's survival [2].",
+  "people": [
+   {
+    "name": "Diego Rivera",
+    "role": "muralist"
+   },
+   {
+    "name": "William Gerstle",
+    "role": "school president, depicted"
+   },
+   {
+    "name": "Arthur Brown Jr.",
+    "role": "architect, depicted"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #85: San Francisco Art Institute",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2010,
+    "url": "https://noehill.com/sf/landmarks/sf085.asp",
+    "supports": "1926 Bakewell & Brown campus, Rivera arrival 1930, renaming 1961, landmark number"
+   },
+   {
+    "title": "Diego Rivera Mural at SFAI to Receive Landmark Designation, Preventing Possible Sale",
+    "publisher": "KQED (Sarah Hotchkiss)",
+    "year": 2021,
+    "url": "https://www.kqed.org/arts/13891106/diego-rivera-mural-at-sfai-to-receive-landmark-designation-preventing-possible-sale",
+    "supports": "1931 date, subjects depicted including Rivera's backside, one of three SF Rivera murals, 1977 report detail on wall space"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-sfai-last-lesson",
+  "title": "An art school's last lesson",
+  "theme": "modern-city",
+  "year": 2022,
+  "yearEnd": 2024,
+  "place": {
+   "label": "San Francisco Art Institute campus, 800 Chestnut St",
+   "lat": 37.8036,
+   "lon": -122.4174,
+   "precision": "building"
+  },
+  "hook": "Deep in debt, one of America's oldest art schools thought about selling its $50 million Rivera mural. The city stepped in, and the school didn't survive.",
+  "story": "By late 2020 the San Francisco Art Institute owed $19.7 million to the University of California. Its trustees were considering selling the Diego Rivera fresco, appraised at $50 million, and the New York Times named George Lucas's museum as a possible buyer [1]. Alumni and faculty were outraged. On January 12, 2021, the Board of Supervisors voted unanimously to begin landmarking the mural, a move led by Supervisor Aaron Peskin. Board chair Pam Rorke Levy had asked for a delay. She warned that landmarking would stop the school from using the mural, \"SFAI's only significant asset,\" to secure a $7 million bridge loan. Peskin called the delay efforts \"heresy.\" [1] A planned takeover by the University of San Francisco followed, then collapsed on July 15, 2022, over finances, enrollment and deferred maintenance. The 151-year-old school held its final commencement on July 12 and stopped granting degrees [2]. It filed for Chapter 7 liquidation in April 2023 [3]. In February 2024, a nonprofit backed by Laurene Powell Jobs bought the Russian Hill campus, mural and all [4].",
+  "people": [
+   {
+    "name": "Aaron Peskin",
+    "role": "District 3 supervisor"
+   },
+   {
+    "name": "Pam Rorke Levy",
+    "role": "SFAI board chair"
+   },
+   {
+    "name": "Laurene Powell Jobs",
+    "role": "philanthropist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Diego Rivera Mural at SFAI to Receive Landmark Designation, Preventing Possible Sale",
+    "publisher": "KQED (Sarah Hotchkiss)",
+    "year": 2021,
+    "url": "https://www.kqed.org/arts/13891106/diego-rivera-mural-at-sfai-to-receive-landmark-designation-preventing-possible-sale",
+    "supports": "debt, $50M appraisal, Lucas museum, unanimous vote, Levy letter, Peskin quote"
+   },
+   {
+    "title": "San Francisco Art Institute will shutter after acquisition deal falls through",
+    "publisher": "The San Francisco Standard",
+    "year": 2022,
+    "url": "https://sfstandard.com/2022/07/15/san-francisco-art-institute-will-shutter-after-acquisition-deal-falls-through/",
+    "supports": "USF deal collapse, final commencement July 12, end of degrees"
+   },
+   {
+    "title": "San Francisco Landmark #85: San Francisco Art Institute",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2010,
+    "url": "https://noehill.com/sf/landmarks/sf085.asp",
+    "supports": "April 2023 Chapter 7 bankruptcy filing"
+   },
+   {
+    "title": "Exclusive: S.F. Art Institute bought by nonprofit backed by Laurene Powell Jobs",
+    "publisher": "San Francisco Chronicle (Laura Waxmann)",
+    "year": 2024,
+    "url": "https://www.sfchronicle.com/realestate/article/s-f-art-institute-bought-laurene-powell-jobs-18693505.php",
+    "supports": "February 2024 purchase of the campus"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-swensens-ice-cream",
+  "title": "The city assessor who quit for ice cream",
+  "theme": "labor-industry",
+  "year": 1948,
+  "yearEnd": null,
+  "place": {
+   "label": "Swensen's Ice Cream, 1999 Hyde St at Union",
+   "lat": 37.79903,
+   "lon": -122.41915,
+   "precision": "building"
+  },
+  "hook": "A Navy sailor learned to make ice cream in a hot ship's hold, left a safe city job, and built a franchise empire from one Hyde Street corner.",
+  "story": "During World War II, Earle Swensen served on a Navy ship in the Pacific. To escape the heat he would slip below deck to the ice cream freezer, and he ended up making scoops for the crew [1]. Back home he took a job as a deputy assessor for the city, but found it dull. In 1948 he opened an ice cream shop at Hyde and Union, even though everyone told him he was crazy to quit [1]. It opened as See Us Freeze Ice Cream, a name still glowing in red neon, and business was slow at first. His father-in-law ran the counter by day, and Swensen worked on recipes at night [1]. In 1964 he began franchising. New franchise owners came to the little Hyde Street shop to learn the recipes from Richard Campana, who had started there part-time at about 15 and became manager at 21 [1]. By 1973 the Chronicle described a $4 million ice cream empire, but Swensen said the original shop would never be for sale. It never joined the chain, even after Swensen sold the franchise rights in the 1970s. Campana's family runs it today and still makes every batch on site [1][2].",
+  "people": [
+   {
+    "name": "Earle Swensen",
+    "role": "founder"
+   },
+   {
+    "name": "Richard Campana",
+    "role": "longtime manager and owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "How 'corporate greed' nearly killed Bay Area institution Swensen's ice cream",
+    "publisher": "SFGATE (Susana Guerrero)",
+    "year": 2022,
+    "url": "https://www.sfgate.com/food/article/how-swensens-ice-cream-survived-17317342.php",
+    "supports": "Navy origin story, assessor job, 1948 opening, See Us Freeze, 1964 franchising, Campana, 1973 figures, family ownership"
+   },
+   {
+    "title": "Swensen's",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Swensen%27s",
+    "supports": "first shop at Union and Hyde in 1948; sale of franchise rights in the 1970s while retaining the original store"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-bimbos-365-club",
+  "title": "Bimbo and the girl in the fishbowl",
+  "theme": "communities",
+  "year": 1951,
+  "yearEnd": null,
+  "place": {
+   "label": "Bimbo's 365 Club, 1025 Columbus Ave",
+   "lat": 37.8037,
+   "lon": -122.41566,
+   "precision": "building"
+  },
+  "hook": "A Tuscan janitor renamed by a boss who couldn't say 'Agostino' built a supper club where a woman seems to swim nude behind the bar.",
+  "story": "Agostino Giuntoli left Tuscany in 1922 at 19 and spent five years working his way to San Francisco, where he found a job as a janitor at the Palace Hotel. He became a cook for Monk Young, who could not pronounce his name and called him \"Bimbo,\" Italian for boy [1]. In 1931 the two opened the 365 Club at 365 Market Street. Rita Cansino, later known as Rita Hayworth, kicked in its chorus line, and gin was served in coffee cups. The club's famous illusion was Dolfina, the Girl in the Fishbowl, who seemed to swim nude in a tank behind the bar [1]. In 1951 Bimbo's moved to Columbus Avenue at the edge of Russian Hill, fishbowl and all [1][2]. Chronicle columnist Herb Caen remembered \"jugglers, dance teams, stand-up comics, crooners, chantootsies\" and a band in proper uniforms [1]. The family still runs it. Bimbo's son-in-law Graziano Cerchiai and grandsons Michael and Gino Cerchiai have hosted acts from Robin Williams to Adele and Lizzo. The city has listed it on its Legacy Business Registry [1][2].",
+  "people": [
+   {
+    "name": "Agostino \"Bimbo\" Giuntoli",
+    "role": "founder"
+   },
+   {
+    "name": "Monk Young",
+    "role": "partner"
+   },
+   {
+    "name": "Herb Caen",
+    "role": "Chronicle columnist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History",
+    "publisher": "Bimbo's 365 Club",
+    "year": null,
+    "url": "https://www.bimbos365club.com/history",
+    "supports": "Giuntoli biography, nickname, 1931 Market St club, Rita Hayworth, Dolfina, 1951 move, Caen quote, family ownership, performers"
+   },
+   {
+    "title": "Bimbo's 365 Club",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Bimbo%27s_365_Club",
+    "supports": "fishbowl illusion, Legacy Business Registry listing, family operation"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-klussmann-cable-cars",
+  "title": "The woman who stopped the buses",
+  "theme": "architecture-landmarks",
+  "year": 1947,
+  "yearEnd": 1957,
+  "place": {
+   "label": "Friedel Klussmann Memorial Turnaround, Hyde St at Beach St",
+   "lat": 37.8067,
+   "lon": -122.4205,
+   "precision": "street"
+  },
+  "hook": "The mayor wanted every cable car gone. A committee of civic-minded women took him on, and the turntable at the bottom of Hyde Street bears their leader's name.",
+  "story": "In 1947, with buses cheaper to run, Mayor Roger Lapham declared that \"the city should get rid of all cable car lines as soon as possible\" [1]. Friedel Klussmann, a Telegraph Hill resident, pulled together a meeting of 27 women's civic groups and founded the Citizens' Committee to Save the Cable Cars [1][2]. They quickly gathered enough signatures for a charter amendment on the November ballot. Life magazine photographed gripmen, and actress Katharine Cornell vowed never to return to San Francisco if the cars disappeared [1][3]. The measure passed with 77 percent of the vote [3]. In the 1950s the city bought the California Street Cable Railroad's lines and planned to replace them with buses. Klussmann fought again, with less success. The compromise joined the Hyde Street section of one of those lines to a shortened Powell line, creating today's Powell-Hyde route down Russian Hill to the Bay [2]. \"The only ones who wanted the cable cars were the people,\" she said [3]. When she died in 1986 the cars were draped in black, and in 1997 the city named the Hyde Street turntable after her [2].",
+  "people": [
+   {
+    "name": "Friedel Klussmann",
+    "role": "founder, Citizens' Committee to Save the Cable Cars"
+   },
+   {
+    "name": "Roger Lapham",
+    "role": "mayor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Cable Car History",
+    "publisher": "SFMTA",
+    "year": null,
+    "url": "https://www.sfmta.com/getting-around/muni/cable-cars/cable-car-history",
+    "supports": "Lapham quote, committee, ballot measure, Life magazine"
+   },
+   {
+    "title": "Friedel Klussmann",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Friedel_Klussmann",
+    "supports": "27 women's groups, 1950s compromise creating Powell-Hyde line, black drapes 1986, 1997 turntable dedication"
+   },
+   {
+    "title": "Friedel Klussmann, 90; Champion of San Francisco Cable Cars' Preservation",
+    "publisher": "Los Angeles Times",
+    "year": 1986,
+    "url": "https://www.latimes.com/archives/la-xpm-1986-10-25-fi-7266-story.html",
+    "supports": "Telegraph Hill home, 77% vote, Katharine Cornell, her quotes"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-barbary-lane",
+  "title": "The real Barbary Lane",
+  "theme": "lgbtq",
+  "year": 1976,
+  "yearEnd": null,
+  "place": {
+   "label": "Macondray Lane, between Jones and Taylor",
+   "lat": 37.7992,
+   "lon": -122.4151,
+   "precision": "street"
+  },
+  "hook": "A hidden, tree-shaded footpath with wooden stairs became 28 Barbary Lane, home of Mrs. Madrigal and the most beloved tenants in San Francisco fiction.",
+  "story": "Macondray Lane is a pedestrian path on the southeastern side of Russian Hill, running between Leavenworth and Taylor streets. At the Taylor end, wooden steps drop down to the street, and the views reach to Alcatraz [1]. It is named for Frederick W. Macondray, a merchant who came to California in the 1850s, and it feels a world away from the city below [2]. In 1976 Armistead Maupin began \"Tales of the City\" as a daily serial in the San Francisco Chronicle [3]. Newcomer Mary Ann Singleton rents an apartment at 28 Barbary Lane from the eccentric, marijuana-growing landlady Anna Madrigal, who is later revealed to be a transgender woman [4]. Maupin followed a group of friends and lovers, gay and straight, through the 1970s and 80s. The series became one of the earliest works of fiction to confront the AIDS epidemic [3]. Readers long suspected Barbary Lane was Macondray Lane, and Maupin confirmed it in the 2017 documentary \"The Untold Tales of Armistead Maupin\" [1]. The lane was added to the National Register of Historic Places in 1988 [1].",
+  "people": [
+   {
+    "name": "Armistead Maupin",
+    "role": "novelist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Macondray Lane",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Macondray_Lane",
+    "supports": "location, steps, views, National Register 1988, Maupin confirmation in 2017 documentary"
+   },
+   {
+    "title": "Scenes of the City: Russian Hill's Idyllic Macondray Lane",
+    "publisher": "7x7 (Joseph Schell)",
+    "year": 2013,
+    "url": "https://www.7x7.com/scenes-of-the-city-russian-hills-idyllic-macondray-lane-1786297118.html",
+    "supports": "Frederick W. Macondray namesake; Barbary Lane inspiration"
+   },
+   {
+    "title": "The Real Barbary Lane",
+    "publisher": "The Queerest Places (Paula Martinac)",
+    "year": 2009,
+    "url": "https://queerestplaces.wordpress.com/2009/07/22/the-real-barbary-lane/",
+    "supports": "1976 Chronicle serial, 28 Barbary Lane, early fictional chronicle of AIDS"
+   },
+   {
+    "title": "Tales of the City",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Tales_of_the_City",
+    "supports": "Mary Ann Singleton and Anna Madrigal characters"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-alice-marble-courts",
+  "title": "The champion who shamed tennis",
+  "theme": "civil-rights",
+  "year": 1950,
+  "yearEnd": null,
+  "place": {
+   "label": "Alice Marble Tennis Courts, Greenwich St between Hyde and Larkin",
+   "lat": 37.8013,
+   "lon": -122.42,
+   "precision": "block"
+  },
+  "hook": "The courts on top of Russian Hill are named for a San Francisco girl who became a Wimbledon champion, then used her fame to open tennis to Althea Gibson.",
+  "story": "The tennis courts on the summit of Russian Hill carry the name of Alice Marble [1]. She grew up in San Francisco, played seven sports at Polytechnic High and, at 13, was the mascot of the San Francisco Seals baseball team [2]. In 1934 tuberculosis put her in the hospital, and she was told she would never play again. With her coach, Eleanor \"Teach\" Tennant, she fought back. She won U.S. singles titles in 1936, 1938, 1939 and 1940 and Wimbledon in 1939, and her serve-and-volley game drew sneers that she played \"like a man\" [2]. Her bravest shot came in 1950. In the July 1 issue of American Lawn Tennis magazine, she challenged the sport's exclusion of Althea Gibson: \"If tennis is a game for ladies and gentlemen, it's also time we acted a little more like gentle-people and less like sanctimonious hypocrites.\" [1] Gibson, who went on to win Wimbledon and the U.S. title in 1957 and 1958, said Marble's intervention helped break tennis's color barrier. \"She was my idol,\" Gibson said when Marble died in 1990 [2].",
+  "people": [
+   {
+    "name": "Alice Marble",
+    "role": "tennis champion"
+   },
+   {
+    "name": "Althea Gibson",
+    "role": "tennis champion"
+   },
+   {
+    "name": "Eleanor Tennant",
+    "role": "coach"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Alice Marble",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Alice_Marble",
+    "supports": "courts named for her; July 1, 1950 American Lawn Tennis editorial and quote"
+   },
+   {
+    "title": "Alice Marble obituary (Dec. 14, 1990)",
+    "publisher": "Los Angeles Times",
+    "year": 1990,
+    "url": "https://www.latimes.com/archives/la-xpm-1990-12-14-sp-6452-story.html",
+    "supports": "SF upbringing, Seals mascot, TB, titles, 'playing like a man', Gibson quotes and color-barrier letter"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-broadway-tunnel",
+  "title": "Eighty-nine years to dig a tunnel",
+  "theme": "architecture-landmarks",
+  "year": 1952,
+  "yearEnd": null,
+  "place": {
+   "label": "Broadway Tunnel west portal, Broadway near Hyde St",
+   "lat": 37.79641,
+   "lon": -122.41798,
+   "precision": "street"
+  },
+  "hook": "The right to bore through Russian Hill was granted in 1863, complete with tolls on animals. Cars finally drove through almost nine decades later.",
+  "story": "In 1863 the state granted Abner Doble and his partners the right to tunnel through Russian Hill along Broadway, from Mason to Hyde or Larkin, and to charge tolls on animals and vehicles [1]. Nothing happened. In 1913 a tunnel was proposed again, and one landowner called it \"absolutely as unnecessary as a bridge to the moon\" [1]. By 1949 the Chronicle counted \"eighty-five years of false starts\" before voters finally approved a $5 million bond in 1948 [2][1]. The 1948 Trafficways Plan saw the tunnel as a link between the planned Embarcadero and Central freeways [1]. Before work could start, an apartment building at 1453 Mason Street was moved to Vallejo Street. Morrison-Knudsen won the contract with a bid of $5,243,355 and began digging in May 1950 [1]. Loose rock required extra shoring, delaying the planned May 1952 finish. Mayor Elmer Robinson cut the ribbon on December 21, 1952, and the final cost was about $7.3 million [1]. The twin 1,616-foot bores still carry traffic under the hill. In 1986 the tunnel was named for city engineer Robert C. Levy [1].",
+  "people": [
+   {
+    "name": "Abner Doble",
+    "role": "1863 franchise holder"
+   },
+   {
+    "name": "Elmer Robinson",
+    "role": "mayor"
+   },
+   {
+    "name": "Robert C. Levy",
+    "role": "city engineer, namesake"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Broadway Tunnel (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Broadway_Tunnel_(San_Francisco)",
+    "supports": "1863 franchise, 1913 protest quote, bond, Trafficways Plan, contract, delays, opening date, cost, dimensions, naming"
+   },
+   {
+    "title": "The City's Tunnels: When S.F. Can't Go Over, It Goes Under Its Hills (Kevin Wallace, SF Chronicle, March 27, 1949)",
+    "publisher": "SFgenealogy (archived reprint)",
+    "year": 1949,
+    "url": "https://web.archive.org/web/20080615010617/http://www.sfgenealogy.com/sf/history/hgtun.htm",
+    "supports": "'Eighty-five years of false starts'; $5,000,000 bond; Doble plan"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "russian-hill-vertigo-scotties-apartment",
+  "title": "Scottie's door on Lombard Street",
+  "theme": "arts-counterculture",
+  "year": 1958,
+  "yearEnd": null,
+  "place": {
+   "label": "900 Lombard St at Jones",
+   "lat": 37.80253,
+   "lon": -122.4166,
+   "precision": "building"
+  },
+  "hook": "Hitchcock chose a brick-chimneyed corner house for James Stewart's hero and painted its door red. Half a century of fans later, the owner walled it off.",
+  "story": "In Alfred Hitchcock's \"Vertigo\" (1958), James Stewart's detective Scottie pulls Madeleine out of the Bay and brings her home to Russian Hill. The exterior of his home was filmed at 900 Lombard Street, at the corner of Jones, one steep block below the famous crooked street [1][2]. The interiors were shot on a studio sound stage [1]. Hitchcock wanted Coit Tower in the window view, saying in a later interview that it was \"because it's a phallic symbol.\" The front door was painted red for filming [1]. For more than 50 years the house looked much as it did on screen, and the Vertigo fans kept coming [1]. In 2012 the owner, apparently tired of film pilgrims knocking on his door, built a wall across the entrance, added a parapet along the roofline and plastered over the red brick chimney [1][2]. Film-location sleuth CitySleuth mourned the change: \"Unique to eunuch ... grand to bland.\" [1] From the corner you can still line up the view toward Coit Tower, though a newer apartment building now hides the spires of Saints Peter and Paul Church [1].",
+  "people": [
+   {
+    "name": "Alfred Hitchcock",
+    "role": "director"
+   },
+   {
+    "name": "James Stewart",
+    "role": "actor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Vertigo: Scottie's House",
+    "publisher": "Reel SF (CitySleuth)",
+    "year": 2011,
+    "url": "http://reelsf.com/reelsf/vertigo-scotties-house",
+    "supports": "900 Lombard exterior, sound-stage interiors, Hitchcock Coit Tower quote, red door, 2012 alterations"
+   },
+   {
+    "title": "Vertigo (film)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Vertigo_(film)",
+    "supports": "900 Lombard location and 2012 wall"
+   }
+  ],
+  "photo": null
+ }
+]

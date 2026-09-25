@@ -1,0 +1,677 @@
+[
+ {
+  "id": "pacific-heights-lafayette-park-wpa",
+  "title": "The hilltop mansion that blocked a park",
+  "theme": "parks-nature",
+  "year": 1936,
+  "yearEnd": 1938,
+  "place": {
+   "label": "Hilltop of Lafayette Park, site of the Holladay mansion",
+   "lat": 37.7916,
+   "lon": -122.4273,
+   "precision": "area"
+  },
+  "hook": "For seventy years a lawyer's private mansion sat at the top of a public park. The Depression finally cleared it away.",
+  "story": "Samuel Wirt Holladay was a lawyer who, as city attorney from 1860 to 1863, had defended San Francisco's claims to public land. Then he challenged the city's claim to this hill under the 1855 Van Ness Ordinance [1]. He fenced six parcels between Gough and Octavia, dug a well in 1869 and built an Italianate mansion with a water tower. By one account Bret Harte, Mark Twain and Leland Stanford visited [1]. The legal fight lasted seventy years, mostly in Holladay's favour. The empty house later grew eerie with neglect [1]. Developer Louis Lurie bought it in the 1920s and pushed to run Clay Street through the park to reach an apartment building he planned. Neighbours and Park Commissioners led by Herbert Fleishhacker fought him off, and in 1935 he sold the land to the city [1]. Between 1936 and 1938 WPA crews put in more than 100,000 hours of work. They demolished the mansion and water tower but kept the estate's old paths and stairs, and made the spot where the house stood into a play area for mothers and small children [1]. One private building survived: the St. Regis apartments on Gough Street, still the only privately owned building in a San Francisco public park [2].",
+  "people": [
+   {
+    "name": "Samuel Wirt Holladay",
+    "role": "Lawyer who claimed the hilltop"
+   },
+   {
+    "name": "Louis Lurie",
+    "role": "Developer who sold the land to the city in 1935"
+   },
+   {
+    "name": "Herbert Fleishhacker",
+    "role": "Park Commission leader who opposed Lurie"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Lafayette Park Historic Resource Evaluation",
+    "publisher": "Carey & Co. for SF Recreation and Park Department",
+    "year": 2011,
+    "url": "https://sfrecpark.org/DocumentCenter/View/1399/Historic-Resource-Evaluation-PDF",
+    "supports": "Holladay claim, estate, Lurie sale 1935, WPA work 1936-38, mansion demolition, play area"
+   },
+   {
+    "title": "Lafayette Park (completed park project)",
+    "publisher": "San Francisco Recreation and Park Department",
+    "year": null,
+    "url": "https://sfrecpark.org/512/Lafayette-Park",
+    "supports": "Succession of claimants; city secured park in 1936; St. Regis the only private building in an SF park"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-clay-international",
+  "title": "The city's first foreign-film cinema",
+  "theme": "arts-counterculture",
+  "year": 1935,
+  "yearEnd": 2025,
+  "place": {
+   "label": "Clay Theatre, 2261 Fillmore Street",
+   "lat": 37.79045556,
+   "lon": -122.43448023,
+   "precision": "building"
+  },
+  "hook": "A Fillmore nickelodeon became San Francisco's first foreign-film house, then a midnight-movie shrine. Several of the best stories about it turned out to be untrue.",
+  "story": "The little cinema at 2261 Fillmore opened in 1913 as the Regent, showing Mary Pickford films. In 1935 it reopened as the Clay-International. The city's historic review later confirmed that it was San Francisco's first theatre dedicated to foreign films, and a major art-house screen until the late 1980s [1]. Later it became a midnight-movie institution, known for The Rocky Horror Picture Show and The Room [2]. In 1985 it even hosted the world premiere of the western spoof Lust in the Dust, with Divine in attendance [2]. The landmark review also punctured some local legends. The Clay did not open in 1910, and it did not show San Francisco's first midnight movie with Pink Flamingos in 1972, a claim John Waters himself had repeated. Pink Flamingos reached the Clay in 1974 [1]. Landmark Theatres ran the cinema from 1991 [2]. It showed its last film on January 26, 2020: a midnight Rocky Horror [1]. In April 2022 the Board of Supervisors voted unanimously to make it a landmark [1]. In 2025 venture capitalist Neil Mehta, who had been buying up Fillmore Street properties, announced plans to reopen it as a 200-seat repertory cinema [3].",
+  "people": [
+   {
+    "name": "John Waters",
+    "role": "Filmmaker whose Pink Flamingos became part of Clay lore"
+   },
+   {
+    "name": "Divine",
+    "role": "Actor at the 1985 Lust in the Dust premiere"
+   },
+   {
+    "name": "Neil Mehta",
+    "role": "Owner planning the reopening"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Clay Theatre on Upper Fillmore has finally received historic landmark status",
+    "publisher": "Hoodline",
+    "year": 2022,
+    "url": "https://hoodline.com/2022/04/clay-theatre-has-finally-received-historic-landmark-status/",
+    "supports": "1913 Regent; 1935 Clay-International first foreign film theatre; myths debunked; last show Jan 26 2020; unanimous landmark vote"
+   },
+   {
+    "title": "Historic Clay Theatre to close after 110 years in Pacific Heights",
+    "publisher": "SFist",
+    "year": 2020,
+    "url": "https://sfist.com/2020/01/17/historic-clay-theatre-to-close-after-110-years-pacific-heights/",
+    "supports": "Midnight screenings, Landmark Theatres since 1991, Divine at 1985 Lust in the Dust premiere"
+   },
+   {
+    "title": "Clay Theater on Fillmore plans reopening with new creative director",
+    "publisher": "The San Francisco Standard",
+    "year": 2025,
+    "url": "https://sfstandard.com/2025/06/10/clay-theater-fillmore-plans-ted-gerike/",
+    "supports": "Neil Mehta ownership and 2025 plans for a 200-seat theatre"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-flood-mansion-sacred-heart",
+  "title": "A marble mansion given to the nuns",
+  "theme": "communities",
+  "year": 1939,
+  "yearEnd": 1956,
+  "place": {
+   "label": "Flood Mansion, Convent of the Sacred Heart, 2222 Broadway",
+   "lat": 37.79464615,
+   "lon": -122.43397561,
+   "precision": "building"
+  },
+  "hook": "In 1939 a widow gave away her marble mansion with its Golden Gate view. Within a year, 97 schoolgirls and 25 nuns had moved in.",
+  "story": "In June 1939 the Society of the Sacred Heart learned that Maud Lee Flood wanted to give them her family home: a marble mansion on the Broadway ridge that looked out over the Bay and the newly finished Golden Gate Bridge [1]. Her husband had died and her children had grown up and left, and she wanted the house to have a purpose. So she handed it over to Reverend Mother Eleanor Deming [1]. The family drawing room became a chapel. At the start of 1940 about 25 nuns, seven lay teachers and 97 students moved in [1]. Mrs. Flood wrote that she was pleased the house of \"happy and unforgettable memories\" had become \"a house of learning, refinement, and peace\" [1]. The war changed the school too: many families wanted their sons and daughters in one school, so boys joined the lower grades [1]. When the Grant mansion next door came up for sale, the nuns had already slipped religious medals onto its grounds through the latticework. The family sold it to them for $150,000. The school gives 1950 as the year, while NoeHill says 1948 [1][2]. In 1956 the Society bought Hammond House on the other side, and Stuart Hall for Boys opened there with 42 boys [1].",
+  "people": [
+   {
+    "name": "Maud Lee Flood",
+    "role": "Donor of the mansion"
+   },
+   {
+    "name": "Eleanor Deming, RSCJ",
+    "role": "Reverend Mother who received the gift"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History: Network of Sacred Heart Schools",
+    "publisher": "Convent & Stuart Hall",
+    "year": null,
+    "url": "https://www.sacredsf.org/about/history-network-of-sacred-heart-schools",
+    "supports": "1939 gift, 1940 move-in numbers, Flood letter, WWII boys, Grant and Hammond purchases, Stuart Hall 1956"
+   },
+   {
+    "title": "Convent of the Sacred Heart, 2222 Broadway",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/poi_convent_of_the_sacred_heart.asp",
+    "supports": "Flood and Grant mansions on the campus; Grant family sale (dated 1948)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-whittier-nazi-consulate",
+  "title": "Hitler's captain on Jackson Street",
+  "theme": "war-military",
+  "year": 1941,
+  "yearEnd": 1950,
+  "place": {
+   "label": "Whittier Mansion, 2090 Jackson Street",
+   "lat": 37.79341524,
+   "lon": -122.42942823,
+   "precision": "building"
+  },
+  "hook": "In the spring of 1941 a sandstone mansion on Jackson Street became Nazi Germany's San Francisco consulate. Its consul had been Hitler's commanding officer in the First World War.",
+  "story": "William Franklin Whittier's Arizona sandstone mansion was built between 1894 and 1896 [2]. In April 1941 it passed in quick steps from the family to a title company, then to Herman Loeper on April 28, then to \"Das Deutsches Reich\" the next day [1]. The Chronicle later reported that the price was $44,000 [3]. The consul general was Fritz Wiedemann, whom a 1937 Chronicle headline had called \"Hitler's War Captain\" [3]. According to the federal architectural survey, he entertained elegantly while carrying out secret Nazi business, including trying to pressure German-Americans into \"serving the party\" [1]. Staff piled filing cabinets in the old dining room, and his family lived on the third floor [3]. In July 1941 he was ordered to leave. A stove near the furnace is thought to have been used to burn documents [1]. After a false start via Japan, the consular party flew to New York and sailed home via Portugal [1][3]. The US government seized the house, which stood shut through the war. In March 1950 it was auctioned [1]. It later housed Mortimer Adler's Institute for Philosophical Research and, from 1956, the California Historical Society [2].",
+  "people": [
+   {
+    "name": "Fritz Wiedemann",
+    "role": "German consul general in San Francisco"
+   },
+   {
+    "name": "Herman Loeper",
+    "role": "Consulate official who took title in 1941"
+   },
+   {
+    "name": "William Franklin Whittier",
+    "role": "Original owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Whittier Mansion, HABS CA-1256 data pages",
+    "publisher": "Historic American Buildings Survey, Library of Congress",
+    "year": null,
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0700/ca0748/data/ca0748data.pdf",
+    "supports": "April 1941 chain of title, consulate activity, Wiedemann expulsion, document stove, 1950 auction"
+   },
+   {
+    "title": "San Francisco Landmark #75: Whittier Mansion",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf075.asp",
+    "supports": "Build dates, sandstone, later owners, Adler institute 1952-55, California Historical Society 1956"
+   },
+   {
+    "title": "Nazi Consulate once called the Whittier Mansion in San Francisco home",
+    "publisher": "SFGATE",
+    "year": 2017,
+    "url": "https://www.sfgate.com/bayarea/article/Nazi-Consulate-once-called-the-Whittier-Mansion-10869519.php",
+    "supports": "$44,000 price, 1937 'Hitler's War Captain' headline, household arrangement, July 1941 departure route"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-kaplan-linear-accelerator",
+  "title": "A car jack from Fillmore Street",
+  "theme": "labor-industry",
+  "year": 1956,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Stanford hospital campus, Clay Street near Webster",
+   "lat": 37.79091,
+   "lon": -122.43162,
+   "precision": "block"
+  },
+  "hook": "The first medical linear accelerator in the Western Hemisphere saved a small boy's sight in a Pacific Heights hospital, with help from a jack borrowed from a local garage.",
+  "story": "In the 1950s Stanford's medical school still stood on Clay Street, next to the old Lane Hospital [3]. Its radiology chief, Henry Kaplan, heard at cocktail parties about the atom smasher that physicists on the Palo Alto campus were building. He and physicist Edward Ginzton turned it into a cancer-treatment machine. It was the first medical linear accelerator in the Western Hemisphere, installed at Stanford-Lane Hospital in San Francisco [1]. In January 1956 it treated its first patient, a boy with a tumour, a retinoblastoma, in his one remaining eye. Stanford's 2007 account says he was two, while a faculty memorial of Kaplan says he was a seven-month-old baby [1][2]. The lead shielding needed a steady mount. Kaplan remembered \"the puzzled look on the face of the garage owner down on Fillmore Street\" when he asked to borrow a heavy-duty car jack. It held a block of lead with a pinhole, lined up day after day for six weeks with the tumour while missing the lens and cornea [1]. The boy kept his sight [1]. The machine treated patients for 16 years before going to the Smithsonian in 1972 [1]. Kaplan also pushed, over strong opposition, to move the medical school out of San Francisco to the Palo Alto campus [2].",
+  "people": [
+   {
+    "name": "Henry S. Kaplan",
+    "role": "Stanford radiology chair"
+   },
+   {
+    "name": "Edward Ginzton",
+    "role": "Physicist who co-developed the machine"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Medical linear accelerator celebrates 50 years of treating cancer",
+    "publisher": "Stanford Report",
+    "year": 2007,
+    "url": "https://web.archive.org/web/2010/http://news.stanford.edu/news/2007/april18/med-accelerator-041807.html",
+    "supports": "First Western Hemisphere medical linac at Stanford-Lane Hospital SF, January 1956 patient, Fillmore garage jack quote, Smithsonian 1972"
+   },
+   {
+    "title": "Memorial Resolution: Henry S. Kaplan (1918-1984)",
+    "publisher": "Stanford Historical Society",
+    "year": null,
+    "url": "https://web.archive.org/web/20100707032310/http://histsoc.stanford.edu/pdfmem/KaplanH.pdf",
+    "supports": "Machine at old Stanford Hospital in SF, patient described as 7-month-old, Kaplan's role in move to Palo Alto"
+   },
+   {
+    "title": "Stanford Medical School history (Wilson), chapter 34",
+    "publisher": "Lane Medical Library, Stanford",
+    "year": null,
+    "url": "https://web.archive.org/web/2015/http://lane.stanford.edu/med-history/wilson/chap34.html",
+    "supports": "Stanford University Hospital built on Clay Street adjacent to Lane Hospital"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-spreckels-chez-joey",
+  "title": "Sinatra's nightclub in a sugar palace",
+  "theme": "arts-counterculture",
+  "year": 1957,
+  "yearEnd": 1968,
+  "place": {
+   "label": "Spreckels Mansion, 2080 Washington Street",
+   "lat": 37.79292007,
+   "lon": -122.42747517,
+   "precision": "building"
+  },
+  "hook": "In Pal Joey the limestone palace of sugar heir Adolph Spreckels played Frank Sinatra's nightclub. The real owner was a former artist's model from the sand dunes.",
+  "story": "In the 1957 film Pal Joey, the French Baroque mansion at 2080 Washington Street played Chez Joey, Frank Sinatra's nightclub [1]. George Applegarth designed it in 1912 for sugar heir Adolph Spreckels and his wife Alma de Bretteville [1]. Alma was born in the Sunset District to poor Danish immigrants and modelled for local artists. Robert Aitken used her as the model for the figure on top of the Dewey Monument in Union Square [1]. She married Adolph in 1908. He died in 1924, and she stayed on in the house [1]. It became her base for charity work. During the Second World War its huge garage served as a recycling centre and air-raid shelter. A thrift shop that raised money for the Legion of Honor, the museum she founded, ran there until 1978 [2]. In old age Alma kept to herself at home and was rumoured to swim naked [2]. She died of pneumonia in 1968 and left the house to her two daughters [1]. It was split into four units until novelist Danielle Steel bought it and made it a single home again [2]. Today a towering hedge hides the facade, which Chronicle critic John King called \"comically off-putting\" [3].",
+  "people": [
+   {
+    "name": "Alma de Bretteville Spreckels",
+    "role": "Owner, patron of the Legion of Honor"
+   },
+   {
+    "name": "Frank Sinatra",
+    "role": "Star of Pal Joey"
+   },
+   {
+    "name": "Danielle Steel",
+    "role": "Later owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #197: Spreckels Mansion",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf197.asp",
+    "supports": "Pal Joey 1957 as Chez Joey, Applegarth 1912, Alma's background, marriage, deaths 1924/1968, bequest to daughters"
+   },
+   {
+    "title": "Behind the Hedges and Inside the History of Danielle Steel's Spreckels Mansion",
+    "publisher": "Curbed SF",
+    "year": 2014,
+    "url": "https://web.archive.org/web/20160227082313/http://sf.curbed.com/2014/11/25/10018636/behind-the-hedges-and-inside-the-history-of-danielle-steels-spreckels",
+    "supports": "WWII recycling centre and air-raid shelter, thrift shop until 1978, seclusion, four units, Steel restoration"
+   },
+   {
+    "title": "Spreckels Mansion's limestone is hidden by hedge",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2013,
+    "url": "https://www.sfgate.com/bayarea/article/Spreckels-Mansion-s-limestone-is-hidden-by-hedge-5044941.php",
+    "supports": "Hedge description, Pal Joey setting, Landmark No. 197"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-sokoji-zen",
+  "title": "Zen in a former synagogue",
+  "theme": "communities",
+  "year": 1959,
+  "yearEnd": 1969,
+  "place": {
+   "label": "Bush Street Temple (Sokoji), 1881 Bush Street",
+   "lat": 37.78742025,
+   "lon": -122.42805791,
+   "precision": "building"
+  },
+  "hook": "A Venetian-Gothic synagogue became a Japanese Zen temple, and then the place where Americans first sat zazen with Shunryu Suzuki.",
+  "story": "In 1895 Congregation Ohabai Shalome, meaning \"Lovers of Peace\", consecrated a redwood synagogue at 1881 Bush Street. Its facade had Venetian tracery modelled on the Ca' d'Oro or the Doge's Palace [1]. As membership shrank, the building was sold in 1934 to Teruro Kasuga, one of about twenty followers of the Zen priest Hosen Isobe [1]. The Soto Mission was incorporated in 1939. During the Second World War its Japanese American congregation was sent to internment camps, and a Christian group used the building [1]. By the 1950s the Mission had grown to 250 people [1]. In 1959 Shunryu Suzuki arrived from Japan as chief priest. He had no grand plan: he sat zazen every morning in the temple, alone, until American students began to join him [3]. The former synagogue became the place where Westerners first sat with Suzuki, and the first home of the San Francisco Zen Center, until the Center bought 300 Page Street in 1969 [2]. The Redevelopment Agency bought the building in 1973, and the Soto Mission moved to Laguna Street [1]. The old temple is now part of the Kokoro assisted-living centre [1].",
+  "people": [
+   {
+    "name": "Shunryu Suzuki",
+    "role": "Soto Zen priest, founder of San Francisco Zen Center"
+   },
+   {
+    "name": "Hosen Isobe",
+    "role": "Zen priest whose followers bought the building"
+   },
+   {
+    "name": "Teruro Kasuga",
+    "role": "Purchaser in 1934"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #81: Bush Street Temple",
+    "publisher": "NoeHill in San Francisco (adapting the Landmarks Board report, 1975)",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf081.asp",
+    "supports": "1895 synagogue, 1934 sale, 1939 incorporation, wartime internment, 250 members, 1973 Redevelopment purchase, Kokoro"
+   },
+   {
+    "title": "History of 300 Page Street",
+    "publisher": "San Francisco Zen Center blog",
+    "year": 2012,
+    "url": "http://blogs.sfzc.org/blog/2012/09/25/history-of-300-page-street/",
+    "supports": "Suzuki chief priest of Sokoji in former synagogue; first home of Zen Center until 1969"
+   },
+   {
+    "title": "Remembering Shunryu Suzuki",
+    "publisher": "Lion's Roar",
+    "year": null,
+    "url": "https://www.lionsroar.com/remembering-shunryu-suzuki/",
+    "supports": "Arrived 1959, sat zazen alone each morning until American students joined"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-alta-plaza-steps",
+  "title": "Four cars down the park steps",
+  "theme": "parks-nature",
+  "year": 1972,
+  "yearEnd": null,
+  "place": {
+   "label": "Alta Plaza Park stairs, Clay Street at Pierce",
+   "lat": 37.7905,
+   "lon": -122.4372,
+   "precision": "street"
+  },
+  "hook": "Alta Plaza's grand stairway, built in 1905, still has scars from a 1972 Barbra Streisand comedy that never had permission to drive cars down it.",
+  "story": "Alta Plaza was set aside as a public square under the 1855 Van Ness Ordinance, though the city didn't hold clear title until 1888 [2]. By July 1905 the Parks Department, under John McLaren, had built four flights of terrace steps up its steep southern side. A few months later, on the morning of April 18, 1906, residents stood on the hill and watched the city burn [2]. The stairway's best-known moment came in 1972. In Peter Bogdanovich's screwball comedy What's Up, Doc?, Barbra Streisand and Ryan O'Neal's characters flee through the city in a stolen Volkswagen Beetle, and the chase takes a shortcut straight down the Alta Plaza steps [1]. The stunt, with four cars crashing down the stairs, wasn't authorised, and it left permanent damage that can still be seen today [1]. Legend has it that it made the city change its film-permit rules, but SFGATE presents that only as legend [1]. The film was a huge hit, earning $66 million on a $4 million budget [1].",
+  "people": [
+   {
+    "name": "Peter Bogdanovich",
+    "role": "Director"
+   },
+   {
+    "name": "Barbra Streisand",
+    "role": "Star"
+   },
+   {
+    "name": "John McLaren",
+    "role": "Parks superintendent when the steps were built"
+   }
+  ],
+  "sources": [
+   {
+    "title": "This SF-set '70s comedy permanently damaged a city landmark",
+    "publisher": "SFGATE",
+    "year": 2022,
+    "url": "https://www.sfgate.com/streaming/article/whats-up-doc-sf-movie-comedy-16660161.php",
+    "supports": "Unauthorised stunt, four cars, permanent damage, permit legend, box office"
+   },
+   {
+    "title": "Alta Plaza, HALS CA-16 written data",
+    "publisher": "Historic American Landscapes Survey, Library of Congress",
+    "year": 2008,
+    "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca3600/ca3613/data/ca3613data.pdf",
+    "supports": "Van Ness Ordinance, 1888 title, 1905 terrace steps, 1906 residents watching the fire"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-haas-lilienthal-heritage",
+  "title": "The Victorian that joined the preservationists",
+  "theme": "architecture-landmarks",
+  "year": 1973,
+  "yearEnd": null,
+  "place": {
+   "label": "Haas-Lilienthal House, 2007 Franklin Street",
+   "lat": 37.79337739,
+   "lon": -122.42479202,
+   "precision": "building"
+  },
+  "hook": "When the last Haas daughter died, her children gave away the family's Queen Anne house to a group formed to fight the bulldozers.",
+  "story": "William Haas, a Bavarian-born wholesale grocer, built this Queen Anne house on Franklin Street in 1886, to designs by Peter R. Schmidt [1]. It came through the 1906 earthquake and fire [2]. His youngest daughter Alice married Samuel Lilienthal, who led the family business and the Federation of Jewish Charities. They moved in in 1917 [1]. Samuel died in 1957. Alice stayed on in the house until her death in 1972 [1]. San Francisco had only recently seen whole neighbourhoods of the Western Addition flattened for \"urban renewal\". A new group, the Foundation for San Francisco's Architectural Heritage, had formed in 1971 to fight back, and it had rescued twelve threatened buildings in the largest house-moving project in the city's history [3]. In May 1973 Alice's three children gave the house to that group [1][2]. It became the group's headquarters and a house museum with docent-led tours, and in 2012 the National Trust named it a National Treasure [2].",
+  "people": [
+   {
+    "name": "Alice Haas Lilienthal",
+    "role": "Last family resident"
+   },
+   {
+    "name": "William Haas",
+    "role": "Builder of the house"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #69: Haas-Lilienthal House",
+    "publisher": "NoeHill in San Francisco (from the Landmarks Board case report, 1974)",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf069.asp",
+    "supports": "1886, Schmidt, Haas family, Lilienthals from 1917, deaths 1957/1972, May 1973 donation"
+   },
+   {
+    "title": "Welcome to the Haas-Lilienthal House",
+    "publisher": "SF Heritage",
+    "year": null,
+    "url": "https://www.haas-lilienthalhouse.org/",
+    "supports": "Survived 1906, 1973 gift by Alice's three children, headquarters and museum, National Treasure 2012"
+   },
+   {
+    "title": "History of Heritage",
+    "publisher": "SF Heritage",
+    "year": null,
+    "url": "https://www.sfheritage.org/about/history/",
+    "supports": "Founded 1971 amid redevelopment; rescued twelve structures in largest building move"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-mary-ellen-pleasant-trees",
+  "title": "Mammy Pleasant's eucalyptus trees",
+  "theme": "civil-rights",
+  "year": 1974,
+  "yearEnd": null,
+  "place": {
+   "label": "Mary Ellen Pleasant Memorial Park, SW corner of Bush and Octavia",
+   "lat": 37.7874,
+   "lon": -122.4266,
+   "precision": "block"
+  },
+  "hook": "Her 30-room mansion is long gone. What remains of one of Gold Rush San Francisco's most powerful Black women is a row of old eucalyptus trees.",
+  "story": "On March 21, 1974, San Francisco named a row of trees a Structure of Merit, a category the city had used only a handful of times [1]. They stand at the southwest corner of Octavia and Bush. The eucalyptus trees were planted when this was the site of Mary Ellen Pleasant's home, and a plaque in her memory stands among them [2]. Pleasant reached San Francisco around 1852, fleeing prosecution under the Fugitive Slave Law. She cooked for rich families and invested her wages, eventually owning laundries and boardinghouses and building a 30-room mansion at 1661 Octavia [3]. She is credited with giving $30,000 to John Brown before his 1859 raid on Harpers Ferry [3]. FoundSF calls her an important western terminus of the Underground Railroad in the 1850s, and says she gained quiet power by placing servants in rich households [2]. Rumours followed her: newspapers and gossip painted her as a brothel keeper and claimed there was a voodoo altar in her basement [3]. Historian Lynn Hudson told the Chronicle she was a woman who \"led the Underground Railroad like Harriet Tubman, and amassed a huge fortune, but is largely unknown\" [3]. The city proclaimed Mary Ellen Pleasant Day in 2005 [3].",
+  "people": [
+   {
+    "name": "Mary Ellen Pleasant",
+    "role": "Entrepreneur and abolitionist"
+   },
+   {
+    "name": "Lynn M. Hudson",
+    "role": "Historian, author of The Making of Mammy Pleasant"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Preservation Bulletin No. 13: Structures of Merit",
+    "publisher": "San Francisco Planning Department",
+    "year": 2003,
+    "url": "https://web.archive.org/web/20160303223254/http://www.sf-planning.org/Modules/ShowDocument.aspx?documentid=5089",
+    "supports": "Structure of Merit No. 7, Mary Ellen 'Mammy' Pleasant Trees, SW corner Octavia and Bush, 3/21/74"
+   },
+   {
+    "title": "Mary Ellen Pleasant",
+    "publisher": "FoundSF (Chris Carlsson)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mary_Ellen_Pleasant",
+    "supports": "Eucalyptus planted at her home site, plaque, Underground Railroad role"
+   },
+   {
+    "title": "A day for 'mother of civil rights'",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2005,
+    "url": "http://www.sfgate.com/bayarea/article/SAN-FRANCISCO-A-day-for-mother-of-civil-2700412.php",
+    "supports": "Arrival c.1852, businesses, 1661 Octavia mansion, John Brown gift, rumours, Hudson quote, 2005 proclamation"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-mansions-hotel",
+  "title": "A haunted hotel with a magic show",
+  "theme": "arts-counterculture",
+  "year": 1977,
+  "yearEnd": 2000,
+  "place": {
+   "label": "Chambers Mansion (the Mansions Hotel), 2220 Sacramento Street",
+   "lat": 37.79060704,
+   "lon": -122.4300879,
+   "precision": "building"
+  },
+  "hook": "An adman bought a rundown Victorian with a gruesome legend, turned it into a haunted hotel with a magic show, and spent years fighting his neighbours.",
+  "story": "The Chambers Mansion, a Queen Anne built in 1887, came with a gory legend. Chambers's two feuding nieces supposedly inherited it, and one was later found \"cut almost in half\". NoeHill notes that the story is an urban legend and that even basic facts about Chambers are hard to confirm [2]. In 1977 advertising man Bob Pritikin bought what was by then a rundown boardinghouse. He turned it into an eccentric 16-room hotel and made the most of its haunted reputation [1]. He put on a magic act, the \"Pritikin Squished Eyeball Theater\", and the Examiner reported that Barbra Streisand and Robin Williams stayed there for a time [3]. Chronicle photographers recorded Beniamino Bufano's grown children setting up his sculpture in 1978, and the demonologists Ed and Lorraine Warren in the billiard room in 1982 [1]. For years the hotel was also a neighbourhood polling place [1]. Not everyone was charmed. From 1979 to 1991 the Chronicle kept reporting on Pritikin's feud with the Pacific Heights Neighborhood Association [1]. The hotel was sold in 2000 and converted to housing [1].",
+  "people": [
+   {
+    "name": "Bob Pritikin",
+    "role": "Adman and hotel owner"
+   },
+   {
+    "name": "Ed and Lorraine Warren",
+    "role": "Paranormal investigators who visited in 1982"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A colorful, possibly haunted hotel drew celebrity guests - and angry neighbors",
+    "publisher": "San Francisco Chronicle (Chronicle Vault)",
+    "year": 2020,
+    "url": "https://www.sfchronicle.com/chronicle_vault/article/A-colorful-possibly-haunted-hotel-drew-celebrity-15800976.php",
+    "supports": "1977 purchase, 16 rooms, haunted reputation, Bufano 1978, Warrens 1982, polling place, neighbourhood feud, 2000 sale"
+   },
+   {
+    "title": "San Francisco Landmark #119: Chambers Mansion",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf119.asp",
+    "supports": "1887 Queen Anne, nieces legend flagged as urban legend"
+   },
+   {
+    "title": "Bob Pritikin",
+    "publisher": "San Francisco Examiner",
+    "year": null,
+    "url": "https://www.sfexaminer.com/news/bob-pritikin/article_c88dcebe-c2e0-51c4-80d5-d15d857a0c11.html",
+    "supports": "Magic show, Streisand and Robin Williams as guests"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-st-dominics-buttresses",
+  "title": "Flying buttresses for an earthquake city",
+  "theme": "architecture-landmarks",
+  "year": 1989,
+  "yearEnd": 1992,
+  "place": {
+   "label": "St. Dominic's Church, 2390 Bush Street",
+   "lat": 37.78738535,
+   "lon": -122.43578017,
+   "precision": "building"
+  },
+  "hook": "Loma Prieta knocked the lantern off St. Dominic's tower. The fix came straight out of the Middle Ages.",
+  "story": "After 1906 it took St. Dominic's parish more than twenty years to build a permanent home: a huge Gothic church by Beezer Brothers, dedicated on February 19, 1928, before a crowd of more than 2,500 [1]. Its tower was topped by a forty-foot octagonal \"lantern\" [1]. Sixty-one years later, on October 17, 1989, the Loma Prieta earthquake sent chunks of the upper tower crashing into the street [1]. Much of the painted decoration on the ceiling beams fell and was lost [2]. It wasn't certain the church would be saved. The damaged St. Rose High School building next door was demolished in what Woody LaBounty describes as an apparent compromise between the archdiocese and the city [1]. Pieces of the tower rubble were even auctioned to raise money [1]. The solution was medieval: nine flying buttresses to brace the walls, plus a rebuilt tower. The $6.6 million needed was raised by June 1991, and construction finished in July 1992 [2]. On August 1, 1992, the archbishop rededicated the church, with its new buttresses and shorter tower [1].",
+  "people": [
+   {
+    "name": "Beezer Brothers",
+    "role": "Architects of the 1928 church"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Tower Trouble",
+    "publisher": "San Francisco Story (Woody LaBounty)",
+    "year": 2023,
+    "url": "https://www.sanfranciscostory.com/tower-trouble/",
+    "supports": "1928 dedication, lantern, 1989 damage, St. Rose demolition, rubble auction, 1992 rededication with nine buttresses"
+   },
+   {
+    "title": "Saint Dominic's Church #4, San Francisco",
+    "publisher": "Pacific Coast Architecture Database, University of Washington",
+    "year": null,
+    "url": "https://pcad.lib.washington.edu/building/7001/",
+    "supports": "Loss of lantern and beam decoration, nine flying buttresses, $6.6 million raised by 6/1991, completed 7/1992"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-doubtfire-memorial",
+  "title": "Flowers for Mrs. Doubtfire",
+  "theme": "modern-city",
+  "year": 2014,
+  "yearEnd": null,
+  "place": {
+   "label": "The 'Mrs. Doubtfire' house, Steiner Street at Broadway",
+   "lat": 37.79389917,
+   "lon": -122.43634002,
+   "precision": "building"
+  },
+  "hook": "When Robin Williams died, hundreds of San Franciscans didn't go to his home or a theatre. They went to a Pacific Heights doorstep from a 1993 comedy.",
+  "story": "In Mrs. Doubtfire (1993), Robin Williams plays a father who disguises himself as an elderly nanny to stay close to his children [1]. The family's home in the film is a Victorian house at Steiner Street and Broadway, and both credited screenwriters had Bay Area ties [2]. On August 11, 2014, Williams was found dead at his home in Tiburon. In the days that followed, hundreds of fans came to the Doubtfire house and left flowers, photographs and letters on its steps [1][2]. \"There was really no other place for me to pay my respects,\" 31-year-old Mike Orlick told the Chronicle. \"This was the first thing I knew to be comedy\" [2]. The house's real owner, plastic surgeon Douglas Ousterhout, told reporters he didn't mind the growing tribute. The Los Angeles Times noted the coincidence that his own work involved surgery for transgender patients, in a house made famous by a man in disguise as a woman [1]. The next night the Giants held a moment of silence for Williams, a regular at their games [1]. For a few days a private front stoop became the city's shrine to him.",
+  "people": [
+   {
+    "name": "Robin Williams",
+    "role": "Star of Mrs. Doubtfire"
+   },
+   {
+    "name": "Douglas Ousterhout",
+    "role": "Owner of the house"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Robin Williams memorial grows outside 'Mrs. Doubtfire' house",
+    "publisher": "Los Angeles Times",
+    "year": 2014,
+    "url": "https://www.latimes.com/local/lanow/la-me-ln-memorial-robin-williams-mrs-doubtfire-house-20140813-story.html",
+    "supports": "Memorial of flowers, photos and letters; Ousterhout; Giants tribute"
+   },
+   {
+    "title": "'Mrs. Doubtfire' at 25: Is it the best Robin Williams movie?",
+    "publisher": "San Francisco Chronicle",
+    "year": 2018,
+    "url": "https://www.sfchronicle.com/movies/article/Mrs-Doubtfire-at-25-Is-it-the-best-Robin-12525580.php",
+    "supports": "House at Steiner and Broadway, hundreds of fans in 2014, Orlick quote, screenwriters' Bay Area ties"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "pacific-heights-pelosi-attack",
+  "title": "\"Where is Nancy?\"",
+  "theme": "modern-city",
+  "year": 2022,
+  "yearEnd": 2024,
+  "place": {
+   "label": "Pelosi home, 2600 block of Broadway",
+   "lat": 37.79375,
+   "lon": -122.44046,
+   "precision": "block"
+  },
+  "hook": "At 2:27 a.m. an 82-year-old man calmly told a police dispatcher that a stranger was waiting for his wife. She understood what he couldn't say.",
+  "story": "Early on October 28, 2022, David DePape broke through glass-paneled doors at the back of House Speaker Nancy Pelosi's Pacific Heights home. He was looking for the Speaker and shouting \"Where is Nancy?\" [1]. The Speaker was in Washington. Instead her 82-year-old husband Paul woke to find DePape in his bedroom [1][3]. Paul Pelosi said he needed the bathroom, where his phone was charging, and called 911 [1]. On the 2:27 a.m. call he spoke carefully: \"there's a gentleman here just waiting for my wife to come back.\" He gave the address and the intruder's name, and said the man wanted him to put the phone down [2]. Dispatcher Heather Grives sensed that something more was going on and sent a priority call. Police Chief Bill Scott later called her judgement \"lifesaving\" [1][2]. Officers arrived to find the two men struggling over a hammer. DePape wrenched it away and struck Pelosi before officers tackled him [1]. Pelosi needed surgery for a fractured skull [1][3]. DePape had planned to kidnap and interrogate the Speaker. In May 2024, after his federal conviction for attempted kidnapping and assault, he was sentenced to 30 years in prison [3].",
+  "people": [
+   {
+    "name": "Paul Pelosi",
+    "role": "Victim"
+   },
+   {
+    "name": "Heather Grives",
+    "role": "SFPD dispatcher"
+   },
+   {
+    "name": "David DePape",
+    "role": "Attacker"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Intruder attacks Pelosi's husband, calling, 'Where is Nancy'",
+    "publisher": "Associated Press",
+    "year": 2022,
+    "url": "https://apnews.com/article/paul-pelosi-assaulted-156ece77186eb11b97260af3c5122f67",
+    "supports": "Break-in via rear glass doors, shouts, bathroom phone call, dispatcher, hammer struggle"
+   },
+   {
+    "title": "Paul Pelosi 911 call transcript",
+    "publisher": "San Francisco Examiner",
+    "year": 2023,
+    "url": "https://www.sfexaminer.com/news/crime/paul-pelosi-911-call-transcript-read-what-he-told-sfpd/article_f4871a50-9e7c-11ed-8e36-abd9e15d159b.html",
+    "supports": "2:27 a.m. call, quotes, address on Broadway, dispatcher Heather Grives"
+   },
+   {
+    "title": "David DePape, who bludgeoned Nancy Pelosi's husband, sentenced to 30 years",
+    "publisher": "The Guardian",
+    "year": 2024,
+    "url": "https://www.theguardian.com/us-news/article/2024/may/17/nancy-paul-pelosi-attacker-sentenced-david-depape",
+    "supports": "Kidnap plan, Paul awoken in bedroom, federal conviction and 30-year sentence"
+   }
+  ],
+  "photo": null
+ }
+]

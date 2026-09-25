@@ -1,0 +1,712 @@
+[
+ {
+  "id": "golden-gate-park-b-refugee-city-speedway-meadow",
+  "title": "A Mushroom City on the Park Lawns",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "Speedway Meadow, Golden Gate Park",
+   "lat": 37.7697,
+   "lon": -122.4875,
+   "precision": "area"
+  },
+  "hook": "In April 1906 the city's grandest playground became its biggest bedroom, where a banker might sleep on the grass beside a laborer.",
+  "story": "By noon on April 18, 1906, the wounded from Mechanics' Pavilion were being carried to Golden Gate Park as the 'Ham and Egg' fire spread [1]. The next morning, wrote editor Charles Sedgwick, 'the far-sighted ones' headed for the park: mothers with babies, old maids with dogs and parrots, children with toys and bags of popcorn, men with bedding and grub [2]. A 1906 account called the park 'the mecca of the destitute', a 'vast mushroom city' where disaster 'wiped out all social, financial and racial distinctions'. The grass was the only bed for many, the bread lines at the parks were longer even than the four-block queue at Fillmore and Turk, and one guest who fled the Palace Hotel paid $25 for a wagon to 'the Casino near Golden Gate Park' [3]. The long, straight Speedway Meadow, once a .9-mile road for racing horses, was used as a camp for a while [4]. The quake also twisted the Sweeney Observatory on Strawberry Hill beyond repair. By the new year the park camps had closed [4].",
+  "people": [
+   {
+    "name": "Charles B. Sedgwick",
+    "role": "Editor, The British-Californian, eyewitness"
+   }
+  ],
+  "sources": [
+   {
+    "title": "April 18-23 Earthquake Timeline",
+    "publisher": "Museum of the City of San Francisco",
+    "year": null,
+    "url": "https://sfmuseum.org/hist10/06timeline.html",
+    "supports": "Wounded evacuated from Mechanics' Pavilion to Golden Gate Park at noon"
+   },
+   {
+    "title": "The Fall of San Francisco: Some Personal Observations (Charles B. Sedgwick, 1906)",
+    "publisher": "Museum of the City of San Francisco",
+    "year": 1906,
+    "url": "http://www.sfmuseum.net/1906/ew18.html",
+    "supports": "Exodus to Golden Gate Park and what refugees carried"
+   },
+   {
+    "title": "Refugee Camps 1906: The First Month (Hubert D. Russell, 1906)",
+    "publisher": "FoundSF",
+    "year": 1906,
+    "url": "https://www.foundsf.org/index.php?title=Refugee_Camps_1906:_The_First_Month",
+    "supports": "'Mecca of the destitute', 'mushroom city', bread lines, $25 wagon to the Casino"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Speedway Meadow road and 1906 camp; Sweeney Observatory destroyed; camps closed by new year"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-portals-of-the-past",
+  "title": "A Nob Hill Doorway Beside a Lake",
+  "theme": "quake1906",
+  "year": 1909,
+  "yearEnd": null,
+  "place": {
+   "label": "Portals of the Past, Lloyd Lake",
+   "lat": 37.77028,
+   "lon": -122.48222,
+   "precision": "building"
+  },
+  "hook": "Six marble columns on the edge of Lloyd Lake are all that survived of a railroad boss's Nob Hill mansion.",
+  "story": "Alban N. Towne, longtime president and general manager of the Southern Pacific, built his mansion at 1101 California Street in 1891 to designs by Arthur Page Brown. He enjoyed it only briefly, dying of a heart attack in 1895; his widow Caroline stayed on until the fire of 1906 consumed everything but the marble portico [1][2]. Arnold Genthe photographed the empty doorway by moonlight, later writing that the picture 'brought out its classic beauty', and Willard Worden's images of it framing the ruined City Hall helped make it an icon [1][3]. In 1909 Caroline Towne donated the portico in her husband's memory. Park historian Christopher Pollock credits Senator James D. Phelan with leading the move and architect Edgar A. Mathews with choosing the site [1]. The nickname came from a line found by poet Charles Kellogg Field: 'This is the portal of the past — from now on, once more forward' [1]. Set at the water's edge, it works like the follies of English landscape gardens: a ruin placed to be reflected in a lake [2].",
+  "people": [
+   {
+    "name": "Alban N. Towne",
+    "role": "Southern Pacific executive, mansion owner"
+   },
+   {
+    "name": "Caroline Towne",
+    "role": "Donor of the portico"
+   },
+   {
+    "name": "Arnold Genthe",
+    "role": "Photographer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "How the Portals of the Past ended up in Golden Gate Park",
+    "publisher": "SFGATE",
+    "year": 2021,
+    "url": "https://www.sfgate.com/obscuresf/article/Portals-of-the-Past-Golden-gate-park-history-16429510.php",
+    "supports": "Towne biography, Genthe quote, 1909 donation, Phelan and Mathews, Field quotation"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Towne mansion by A. Page Brown, portico erected 1909, English-garden folly comparison"
+   },
+   {
+    "title": "Portals of the Past",
+    "publisher": "Wikipedia (pointer to Ganz, Portals of the Past: The Photographs of Willard Worden, 2015)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Portals_of_the_Past",
+    "supports": "Willard Worden photographs framing City Hall"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-murphy-windmill",
+  "title": "The Banker's Windmill Against the Water Monopoly",
+  "theme": "architecture-landmarks",
+  "year": 1908,
+  "yearEnd": null,
+  "place": {
+   "label": "Murphy Windmill, near Lincoln Way and 47th Avenue",
+   "lat": 37.7646,
+   "lon": -122.5093,
+   "precision": "building"
+  },
+  "hook": "When it first turned its sails in 1908, the park's south windmill was billed as the largest in the world, built to beat a private water company.",
+  "story": "The Dutch Windmill of 1902 proved so popular that the Park Commission wanted a second one. Banker Samuel G. Murphy offered $20,000, and on June 7, 1907, commissioners voted to name it after him [1]. The goal was practical: pumping well water for irrigation so the park did not have to pay the Spring Valley Water Company's steep rates [1][2]. Donations poured in with strings attached: the Pacific Lumber Company gave two 114-foot spars, each cut from a single log; Louis Sloss gave the copper dome; and former commissioner W.J. Dingee gave concrete, while the mill was clad in slate from quarries he largely controlled [1]. On April 11, 1908, Mayor Taylor, John McLaren and the commissioners watched its sails turn for the first time, feeding a new reservoir named for commission president William Metson [1]. It even starred in Charlie Chaplin's 1915 film The Jitney Elopement [1]. Electric pumps soon made it redundant, and in 1944 a spar rotted so badly it had to be removed [1]. (One WNP article dates Murphy's gift to 1905 [3].)",
+  "people": [
+   {
+    "name": "Samuel G. Murphy",
+    "role": "Banker and donor"
+   },
+   {
+    "name": "John McLaren",
+    "role": "Park superintendent"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Murphy Windmill (quoting Raymond H. Clary, The Making of Golden Gate Park: The Growing Years 1906-1950)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2013,
+    "url": "https://www.outsidelands.org/murphy_windmill.php",
+    "supports": "Dates, donors, spars, dedication, Metson Lake, Chaplin film, 1944 spar removal"
+   },
+   {
+    "title": "Dutch Windmill",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/dutch_windmill.php",
+    "supports": "Windmills built to avoid Spring Valley Water Company costs; electric pumps replaced them"
+   },
+   {
+    "title": "Streetwise: Windmill Walk",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2001,
+    "url": "https://www.outsidelands.org/sw11.php",
+    "supports": "Alternative 1905 date for Murphy's gift"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-gjoa-on-ocean-beach",
+  "title": "The Arctic Sloop Parked on the Sand",
+  "theme": "communities",
+  "year": 1909,
+  "yearEnd": 1972,
+  "place": {
+   "label": "Site of the Gjøa and Amundsen monument, north of the Beach Chalet",
+   "lat": 37.7712,
+   "lon": -122.5104,
+   "precision": "area"
+  },
+  "hook": "The first ship ever to sail the Northwest Passage spent 63 years in Golden Gate Park, guarded by a live-in caretaker and a barking seal.",
+  "story": "Roald Amundsen's 69-foot sloop Gjøa finished the first voyage through the Northwest Passage in San Francisco in October 1906. Amundsen, to the dismay of the Norwegian community planning a grand welcome, slipped into the Bay Area by train ahead of his boat [1]. The Gjøa then languished at Mare Island until the Norwegian consul asked the Park Commission to take her [1]. On July 6, 1909, some 5,000 people watched her dragged by cables up onto Ocean Beach; some hung wet stockings on the cables. The Call predicted she would stand 'until her mighty timbers rot. That will be 200 years or more' [1]. Souvenir hunters carved initials into her hull, so the city fenced her, hired a caretaker who lived aboard (he appears in the 1910 census), and installed a fur seal in a tank that, the Call promised, would 'bark its bullet shaped head off' at pirates [1]. In 1929 a Norwegian granite shaft honouring Amundsen was added [2]. The sloop went home to Norway in 1972 [3].",
+  "people": [
+   {
+    "name": "Roald Amundsen",
+    "role": "Polar explorer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Gjøa, through the Northwest Passage to Golden Gate Park (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2011,
+    "url": "https://www.outsidelands.org/gjoa1.php",
+    "supports": "Arrival, Mare Island, July 6, 1909 hauling, crowd, caretaker, seal, Call quotes"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Roald Amundsen monument, 1929, Norwegian granite"
+   },
+   {
+    "title": "The Gjoa and the Roald Amundsen monument (Hamilton Barrett)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/gjoa.php",
+    "supports": "69-foot ship, displayed from 1909, returned to Norway in 1972"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-quigleys-little-house",
+  "title": "Forty Years in a House in the Park",
+  "theme": "labor-industry",
+  "year": 1912,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Quigley home, triangle west of Kezar Stadium (Kezar Dr, Lincoln Way, Arguello)",
+   "lat": 37.7667,
+   "lon": -122.459,
+   "precision": "area"
+  },
+  "hook": "Everyone knows McLaren. Almost no one remembers Patrick Quigley, the laborer who helped build the park and raised a family inside it.",
+  "story": "Patrick Quigley joined the park workforce in 1872 at $80 a month and collected nearly five hundred paychecks over a forty-year career, bridging the eras of William Hammond Hall and John McLaren [1]. The commission gave his family a house on a two-acre triangle west of today's Kezar Stadium, bounded by Kezar Drive, Lincoln Way and the line of Arguello Boulevard, and the Quigleys lived there for four decades [1]. Several Quigley men worked in the park; another son, George, became a pharmacist nearby, which historian Angus Macfarlane jokes made him the Haight-Ashbury's first 'drug dealer' [1]. The park also took its toll: in June 1907 son Charles was killed by a hit-and-run driver near the park police station [1]. Then came 1912. Joseph, a park employee, died in April; his mother Mary soon after; son James in early November. On November 14, 1912, Patrick died at home aged 83, still on the payroll, and the commission granted his heirs an unprecedented full month's pay [1]. The empty house burned in a 1914 arson fire [1]. Nearby, the park nursery site later became Kezar Stadium [2].",
+  "people": [
+   {
+    "name": "Patrick Quigley",
+    "role": "Park laborer, 1872-1912"
+   },
+   {
+    "name": "Mary Quigley",
+    "role": "His wife"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Quigleys of Golden Gate Park (Angus Macfarlane, The Argonaut, Summer 2024)",
+    "publisher": "FoundSF / San Francisco Historical Society",
+    "year": 2024,
+    "url": "https://www.foundsf.org/index.php?title=Quigleys_of_Golden_Gate_Park",
+    "supports": "All Quigley family details, home location, 1907 and 1912 deaths, commission tribute, 1914 fire"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Kezar Stadium built on the former park nursery site in the southeast corner"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-kezar-stadium",
+  "title": "Kezar: Where the 49ers Were Born",
+  "theme": "architecture-landmarks",
+  "year": 1925,
+  "yearEnd": 1971,
+  "place": {
+   "label": "Kezar Stadium, Frederick and Stanyan",
+   "lat": 37.7668,
+   "lon": -122.4557,
+   "precision": "building"
+  },
+  "hook": "A bequest honouring one woman's mother became the concrete bowl where San Francisco's first major-league team kicked off.",
+  "story": "In 1922 the Park Commission accepted $100,000 from the estate of Mary A. Kezar for a memorial to her mother and relatives, added $200,000 of its own, and built a stadium on the old park nursery at the southeast corner [1][2]. Most of McLaren's first rhododendron dell was lost to it [2]. Kezar was dedicated on May 2, 1925, with a two-mile race [1], and the National Register says it was enlarged in 1928 to seat 65,000 [2]. Before the war, college football packed it: Cal's Wonder Teams, Stanford's Wow Boys, St. Mary's, Santa Clara and USF [3]. That convinced Tony Morabito the Bay Area was ready for pro football. After much lobbying he won a franchise, and his San Francisco 49ers played their first home game at Kezar, an exhibition, on September 1, 1946, beating the Chicago Rockets 34-14 before 45,000 fans [3]. The National Register says the 49ers stayed until 1969; another history dates their last Kezar game to January 3, 1971 [1][2]. The concrete stands came down in 1989 [2].",
+  "people": [
+   {
+    "name": "Mary A. Kezar",
+    "role": "Benefactor"
+   },
+   {
+    "name": "Tony Morabito",
+    "role": "Founder of the San Francisco 49ers"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Kezar Stadium",
+    "publisher": "Stadiums of Pro Football",
+    "year": null,
+    "url": "http://www.stadiumsofprofootball.com/past/KezarStadium.htm",
+    "supports": "Kezar bequest, $200,000 appropriation, May 2, 1925 dedication race, last game January 3, 1971"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Built on nursery site; expanded 1928 to 65,000; rhododendron dell lost; 49ers until 1969; demolished 1989"
+   },
+   {
+    "title": "Those 'Plucky' Forty-Niners: The Roots of Pro Football in San Francisco (Evelyn Rose)",
+    "publisher": "FoundSF",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=Those_%E2%80%9CPlucky%E2%80%9D_Forty-Niners:_The_Roots_of_Pro_Football_in_San_Francisco",
+    "supports": "College football at Kezar, Morabito, September 1, 1946 exhibition vs Chicago Rockets"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-mclaren-hidden-statue",
+  "title": "The Statue He Hid Under Blankets",
+  "theme": "parks-nature",
+  "year": 1943,
+  "yearEnd": 1944,
+  "place": {
+   "label": "John McLaren statue, John McLaren Memorial Rhododendron Dell",
+   "lat": 37.7712,
+   "lon": -122.4625,
+   "precision": "area"
+  },
+  "hook": "The man who built Golden Gate Park hated statues so much that he hid the one made of him.",
+  "story": "John McLaren spent 53 years as keeper of Golden Gate Park and loathed statues, which he called 'stookies' [1]. He couldn't stop donors installing bronze generals and poets, so he planted shrubbery around them until they vanished; some of the park's lushest groves exist to hide monuments he disliked [1]. When a friend insisted on having a statue of McLaren himself made, he hid it under blankets at the park stables, and it was only found after he died [1]. He was loved anyway. When he reached the mandatory retirement age of 70, the city changed the charter so he could stay in the job for life, and he died in 1943 aged 96 [1]. By then he had begun a new 25-acre rhododendron dell east of the Music Concourse, planted with rhododendrons, which grow in abundance in his native Scotland, to replace the first dell lost to Kezar Stadium. After his death it became the John McLaren Memorial Rhododendron Dell, and the National Register dates his statue there to 1944 [2]. He stands at ground level, holding a pine cone [1].",
+  "people": [
+   {
+    "name": "John McLaren",
+    "role": "Golden Gate Park superintendent"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Statue of a Heroic Crusader who Spent his Life Fighting to Keep Statues out of Golden Gate Park (Art Peterson)",
+    "publisher": "FoundSF",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=The_Statue_of_a_Heroic_Crusader_who_Spent_his_Life_Fighting_to_Keep_Statues_out_of_Golden_Gate_Park.",
+    "supports": "'Stookies', hiding statue under blankets, planting around monuments, charter change, age 96"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Rhododendron Dell begun 1942, named for McLaren after his 1943 death; McLaren statue 1944"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-hagiwara-eviction",
+  "title": "The Family Who Lost Their Garden",
+  "theme": "civil-rights",
+  "year": 1942,
+  "yearEnd": null,
+  "place": {
+   "label": "Japanese Tea Garden, Hagiwara Tea Garden Drive",
+   "lat": 37.77023,
+   "lon": -122.46952,
+   "precision": "building"
+  },
+  "hook": "For almost half a century the Hagiwaras lived inside the Japanese Tea Garden. In 1942 they were sent to a racetrack and never allowed back.",
+  "story": "Makoto Hagiwara turned the 1894 Midwinter Fair's Japanese village into a permanent garden, expanding it to about five acres and building a family home there in 1909. He kept improving the garden until he died in 1925 [1][2][4]. His daughter Takano and her children carried on [3]. In 1942 the family was among roughly 120,000 Japanese Americans forced from their homes [2]. Tanako Hagiwara was four when they left their 17-room house in the garden, first for Tanforan racetrack in San Bruno and then for the Topaz camp. She later remembered 'barbed-wire fences and sage brush' [1]. Months after they left, the house was torn down and replaced with a European-style sunken garden [1]. The garden was renamed the 'Oriental Tea Garden' and lost several buildings [1][3]. After the war the family was not allowed to return, and many of their treasures were removed [2]. Reconciliation came slowly: in 1945 the Gump family gave a bronze Buddha cast in 1790, after vandals destroyed the garden's wooden one [4].",
+  "people": [
+   {
+    "name": "Makoto Hagiwara",
+    "role": "Garden designer and caretaker"
+   },
+   {
+    "name": "Takano Hagiwara",
+    "role": "Makoto's daughter, garden proprietor"
+   },
+   {
+    "name": "Tanako Hagiwara",
+    "role": "Hagiwara family member, interned as a child"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Japanese American family at heart of beloved Golden Gate Park garden (Meyer Gorelick)",
+    "publisher": "San Francisco Examiner",
+    "year": 2020,
+    "url": "https://www.sfexaminer.com/news/japanese-american-family-at-heart-of-beloved-golden-gate-park-garden/",
+    "supports": "1909 home, 1925 death, 17-room home, Tanforan and Topaz, quote, demolition, 'Oriental Garden'"
+   },
+   {
+    "title": "About the Japanese Tea Garden",
+    "publisher": "San Francisco Recreation and Parks (japaneseteagardensf.com)",
+    "year": null,
+    "url": "https://www.japaneseteagardensf.com/about",
+    "supports": "Five-acre expansion, 1942 removal with 120,000 Japanese Americans, not allowed to return"
+   },
+   {
+    "title": "Japanese Tea Garden (San Francisco)",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Japanese_Tea_Garden_(San_Francisco)",
+    "supports": "Takano Hagiwara as successor; renaming"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Hagiwara family lived and worked in garden until 1942; Gump Buddha, 1790, placed 1945"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-methuselah-lungfish",
+  "title": "Methuselah Arrives by Steamship",
+  "theme": "parks-nature",
+  "year": 1938,
+  "yearEnd": null,
+  "place": {
+   "label": "Steinhart Aquarium, California Academy of Sciences, Music Concourse",
+   "lat": 37.77005,
+   "lon": -122.4663,
+   "precision": "building"
+  },
+  "hook": "In 1938 an Australian lungfish moved into the Steinhart Aquarium. She is still there, and possibly the oldest aquarium fish on Earth.",
+  "story": "After the 1906 fire destroyed its Market Street museum, the California Academy of Sciences moved to Golden Gate Park, dedicating a new museum on the Music Concourse in 1916 [1][2]. Steinhart Aquarium opened beside it on September 29, 1923 [2][3]. In 1938 an Australian lungfish arrived by sea. She was named Methuselah [3][4]. Lungfish breathe with both lungs and gills and are thought to be an evolutionary link between fish and amphibians [4]. In 1947 the Chronicle described them as creatures 'with green scales looking like fresh artichoke leaves' and a possible 'missing link' [4]. When the previous record-holder, a lungfish named Granddad at Chicago's Shedd Aquarium, died in 2017 aged 95, Methuselah was left as the oldest known aquarium fish. By 2022 she was thought to be about 90 [4]. Her keepers describe a mellow 'underwater puppy' who enjoys belly rubs and will only eat figs when they are fresh and in season [4].",
+  "people": [
+   {
+    "name": "Methuselah",
+    "role": "Australian lungfish"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Academy moved to park 1916; Steinhart Aquarium 1923"
+   },
+   {
+    "title": "Our History",
+    "publisher": "California Academy of Sciences",
+    "year": null,
+    "url": "https://www.calacademy.org/our-history",
+    "supports": "1906 loss, 1916 park museum, 1923 aquarium opening"
+   },
+   {
+    "title": "A Century of Steinhart Aquarium",
+    "publisher": "California Academy of Sciences",
+    "year": 2023,
+    "url": "https://www.calacademy.org/a-century-of-steinhart-aquarium",
+    "supports": "Opened September 29, 1923; Methuselah arrived by sea in 1938"
+   },
+   {
+    "title": "Methuselah: oldest aquarium fish lives in San Francisco and likes belly rubs",
+    "publisher": "The Guardian / Associated Press",
+    "year": 2022,
+    "url": "https://www.theguardian.com/us-news/2022/jan/26/methuselah-oldest-aquarium-fish-lives-san-francisco",
+    "supports": "1938 arrival, 1947 Chronicle quote, Granddad, age about 90, figs and belly rubs"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-park-bums-big-rec",
+  "title": "The Proudly Named Park Bums",
+  "theme": "communities",
+  "year": 1937,
+  "yearEnd": null,
+  "place": {
+   "label": "Big Rec ball grounds, opposite Seventh Avenue",
+   "lat": 37.7675,
+   "lon": -122.464,
+   "precision": "area"
+  },
+  "hook": "Wear a proper baseball uniform to Big Rec and the Park Bums would send you off the field as a dandy.",
+  "story": "Pickup baseball at the Big Rec grounds began in the 1890s [1][2], and by 1937 its regulars had a name they refused to give up: the Park Bums. That July Chronicle writer Will Connolly profiled them, drawing on veteran player Anson Orr, a window trimmer who had joined in 1910 [1]. The first Bums, Orr said, were 'perpetually unemployed citizens' who took a break from avoiding work by choosing sides [1]. Later, men with jobs could play on Sundays. There was no roster and no officers. A newcomer turned up with glove and spikes every Sunday and waited on the sidelines, sometimes for weeks, until someone was missing [1]. Old trousers were compulsory. Anyone in a full uniform was banished as a 'fop and dandy', and 'Old Jeff' played third base for 25 years in corduroys, a vest and a derby hat [1]. One attempt to organize the club drew just four members to a Sunset real estate office [1]. Alumni included big-leaguers such as Joe Cronin and Mark Koenig [1].",
+  "people": [
+   {
+    "name": "Anson Orr",
+    "role": "Veteran Park Bum"
+   },
+   {
+    "name": "Will Connolly",
+    "role": "San Francisco Chronicle writer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Golden Gate Park Bums (Will Connolly, San Francisco Chronicle, July 22, 1937)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/parkbums.php",
+    "supports": "All Park Bums details and quotes"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Big Rec Baseball Grounds dated 1893"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-monastery-stones",
+  "title": "A Spanish Monastery in Crates",
+  "theme": "architecture-landmarks",
+  "year": 1941,
+  "yearEnd": null,
+  "place": {
+   "label": "Monastery stones, San Francisco Botanical Garden (Strybing Arboretum)",
+   "lat": 37.7677,
+   "lon": -122.4689,
+   "precision": "area"
+  },
+  "hook": "William Randolph Hearst bought a 12th-century Spanish monastery, shipped it to San Francisco, then sold it to the city for a token sum.",
+  "story": "In 1930 William Randolph Hearst paid $97,000 for Santa María de Óvila, a Cistercian monastery near the Tagus River in Spain, planning to rebuild it as part of a vast new castle at Wyntoon [1]. Julia Morgan oversaw a year of dismantling. The numbered stones crossed the Atlantic on eleven freighters and then sat in the Haslett Warehouse for ten years at $1,000 a month [1]. As his money ran out, Hearst gave up. In August 1941 his friend Herbert Fleishhacker persuaded him to sell the stones to the city for $25,000, meant to be reassembled in Golden Gate Park as a museum of medieval art [1][2]. Soon after the crates arrived in the park, a fire burned them, damaging stones and their markings. A second fire in 1958 did more damage, and the museum was never built [1]. Gardeners reused the stones in walls around the botanical garden and the Tea Garden [1]. In 1994 museum trustees released many of the stones on indefinite loan to a Cistercian abbey at Vina, where the chapter house has been rebuilt [1].",
+  "people": [
+   {
+    "name": "William Randolph Hearst",
+    "role": "Publisher and buyer of the monastery"
+   },
+   {
+    "name": "Julia Morgan",
+    "role": "Architect"
+   },
+   {
+    "name": "Herbert Fleishhacker",
+    "role": "de Young Museum board chairman"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Monastery Stones - Final Chapter (Jack Leibman)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/monastery-stones.php",
+    "supports": "Purchase, shipping, storage, 1941 sale, fires, reuse, Vina loan"
+   },
+   {
+    "title": "Streetwise: Abbey Patio (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2001,
+    "url": "https://www.outsidelands.org/sw12.php",
+    "supports": "1941 transfer, $25,000, stones in arboretum library patio"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-anglers-lodge",
+  "title": "Give 'Em the Pools!",
+  "theme": "parks-nature",
+  "year": 1939,
+  "yearEnd": null,
+  "place": {
+   "label": "Anglers' Lodge and Fly Casting Pools, west of the Polo Field",
+   "lat": 37.7697,
+   "lon": -122.4975,
+   "precision": "area"
+  },
+  "hook": "Some members of this fishing club have never set foot in San Francisco. They join for the WPA casting pools, some of the finest anywhere.",
+  "story": "The fly casters began with a small lodge and dock at Stow Lake. When they outgrew it, John McLaren himself picked a new site west of the Polo Field [1]. During the Depression, Works Progress Administration crews built a rustic lodge with fish-carved shutters overlooking concrete casting pools 450 feet by 185 feet [1][2]. Getting them wasn't easy. Club member Ralph Keating recalled 'real bumps in the road' until Herbert Fleishhacker settled a civic meeting by declaring: 'They are performing a public service. Give 'em the pools!' [1]. Keating also remembered meeting McLaren at Stow Lake as a ten-year-old [1]. The WPA handed the finished facility to the Park Commission on a Sunday afternoon in March 1939, and it has barely changed since [1]. Members still honour an old agreement to coach any novice who asks [1]. The records disagree on some dates: the National Register gives the lodge as 1936 and the club's founding as 1890, while the WPA history says 1894 [1][2].",
+  "people": [
+   {
+    "name": "Ralph Keating",
+    "role": "Club member and chronicler"
+   },
+   {
+    "name": "Herbert Fleishhacker",
+    "role": "Civic leader"
+   }
+  ],
+  "sources": [
+   {
+    "title": "W.P.A. Construction in San Francisco (1935-1942) (Timothy Keegan, The Argonaut)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=W.P.A._Construction_in_San_Francisco_(1935-1942)",
+    "supports": "Stow Lake origins, McLaren site choice, Keating and Fleishhacker quotes, March 1939 handover, 1894 founding"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Lodge 1936 with WPA funds, carved fish shutters, pool dimensions, club founded 1890"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-beach-chalet-frescoes",
+  "title": "Labaudt's San Francisco on the Chalet Walls",
+  "theme": "arts-counterculture",
+  "year": 1936,
+  "yearEnd": 1937,
+  "place": {
+   "label": "Beach Chalet, 1000 Great Highway",
+   "lat": 37.76982,
+   "lon": -122.51054,
+   "precision": "building"
+  },
+  "hook": "For two years a fashion designer painted San Francisco onto wet plaster by the sea, about two square feet a day.",
+  "story": "Willis Polk's Beach Chalet, his last design, opened in June 1925 with a changing room for bathers downstairs and a restaurant seating 200 upstairs [1][2]. In 1936 and 1937, funded by the WPA's Federal Art Project, fashion designer and muralist Lucien Labaudt covered about 1,500 square feet of the ground floor in frescoes, working on wet plaster roughly two square feet a day [1]. He said he painted them so 'people without an understanding of art may recognize and enjoy the subject' [1]. The walls show 1930s San Francisco: the Embarcadero, Fisherman's Wharf, Chinatown, the park [3]. There are real faces too: John McLaren on a bench, and sculptor Benny Bufano on horseback [4]. Primo Caredio's mosaics include an Indian aiming an arrow toward the men's room, and Michael von Meyer carved an octopus newel post for the stairs [1]. In World War II the Army made the chalet a coastal defense headquarters. From 1947 the Veterans of Foreign Wars ran a bar there, and in the 1950s beach gangs were among its regulars [1].",
+  "people": [
+   {
+    "name": "Lucien Labaudt",
+    "role": "Muralist"
+   },
+   {
+    "name": "Willis Polk",
+    "role": "Architect"
+   },
+   {
+    "name": "Primo Caredio",
+    "role": "Mosaicist"
+   },
+   {
+    "name": "Michael von Meyer",
+    "role": "Sculptor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register Nomination: Beach Chalet",
+    "publisher": "National Park Service",
+    "year": 1981,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/81000172_text",
+    "supports": "1925 opening, frescoes' size and technique, Labaudt quote, mosaics, carvings, Army and VFW use"
+   },
+   {
+    "title": "San Francisco Landmark #179: Beach Chalet",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2023,
+    "url": "https://noehill.com/sf/landmarks/sf179.asp",
+    "supports": "Polk design, 1925, WPA-funded art"
+   },
+   {
+    "title": "National Register #81000172: Beach Chalet",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2007,
+    "url": "https://noehill.com/sf/landmarks/nat1981000172.asp",
+    "supports": "Scenes depicted in frescoes"
+   },
+   {
+    "title": "Labaudt's Inspirational Beach Chalet Murals",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Labaudt%27s_Inspirational_Beach_Chalet_Murals",
+    "supports": "McLaren and Bufano depicted"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-horseshoe-horse",
+  "title": "A Concrete Horse for the Horseshoe Pitchers",
+  "theme": "labor-industry",
+  "year": 1937,
+  "yearEnd": null,
+  "place": {
+   "label": "Horseshoe Courts, Mount Lick, northeast corner of the park",
+   "lat": 37.7722,
+   "lon": -122.4568,
+   "precision": "area"
+  },
+  "hook": "Up a slope in the park's northeast corner, a giant concrete horse keeps watch over sixteen horseshoe pits built with Depression relief labour.",
+  "story": "Horseshoe pitchers were reportedly playing on the side of Mount Lick, in the park's northeast corner, by 1922 [1]. In the Depression the site was rebuilt, and according to a history of the WPA in San Francisco, the courts there were 'entirely the result' of the Works Progress Administration [2]. The mortared rock walls probably date from those 1930s projects [1]. There are sixteen courts [1]. At the end of them, on the hillside, is a large concrete horse in bas-relief, made in 1937 by Jesse 'Vet' Anderson of the Horseshoe Club [1]. The courts were part of a wider building boom. The WPA regraded and resurfaced thirteen miles of park roads, cleared ground for the arboretum and built the Police Stables from scratch, one of seventy parks and recreation projects on a December 1939 citywide list [2]. The National Register counts the courts and the horse among the park's historic features [1].",
+  "people": [
+   {
+    "name": "Jesse 'Vet' Anderson",
+    "role": "Horseshoe Club member and sculptor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Courts first developed 1922, 16 courts, 1930s WPA rock work, 1937 bas-relief horse by Jesse 'Vet' Anderson"
+   },
+   {
+    "title": "W.P.A. Construction in San Francisco (1935-1942) (Timothy Keegan, The Argonaut)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=W.P.A._Construction_in_San_Francisco_(1935-1942)",
+    "supports": "Horseshoe courts entirely WPA; 13 miles of roads; Police Stables; 70 projects in 1939 report"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "golden-gate-park-b-carousel-arrives",
+  "title": "A Merry-Go-Round Retired From the Fair",
+  "theme": "communities",
+  "year": 1941,
+  "yearEnd": null,
+  "place": {
+   "label": "Carousel, Koret Children's Quarter",
+   "lat": 37.7684,
+   "lon": -122.4578,
+   "precision": "building"
+  },
+  "hook": "The park's carousel spent decades in Los Angeles and a season at a world's fair before it came to Golden Gate Park in 1941.",
+  "story": "The carousel in the Children's Quarter was built in 1914 (some records say 1912) by the Herschell-Spillman Company of North Tonawanda, New York. It first ran in Lincoln Park in Los Angeles, then at the 1939 Golden Gate International Exposition on Treasure Island. The city bought it and installed it in Golden Gate Park in 1941 [1]. It joined a playground that had been there since about 1888, next to the sandstone Sharon Building, a Richardsonian Romanesque canteen for mothers and children that was badly damaged in 1906 and rebuilt to its original plans [1]. Pat French Swendsen remembered the scramble at the end of each ride, with children rushing for their favourite animals and 'barely three seconds' to climb off, the tall giraffes that didn't move, and the chariots that were 'a choice of last resort' for mothers with toddlers [2]. She also recalled elephant rides at two for a nickel and grizzly bears kept in pits near the playground [2]. The carousel was fully restored in 1984 [1].",
+  "people": [
+   {
+    "name": "Pat French Swendsen",
+    "role": "Writer recalling a childhood at the playground"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Golden Gate Park",
+    "publisher": "National Park Service",
+    "year": 2004,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001137_text",
+    "supports": "Carousel built 1914/1912 by Herschell-Spillman, Lincoln Park LA, 1939 GGIE, installed 1941, restored 1984; Sharon Building; playground ca. 1888"
+   },
+   {
+    "title": "Golden Gate Park Children's Playground (Pat French Swendsen)",
+    "publisher": "Western Neighborhoods Project",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/swendsen3.php",
+    "supports": "Memories of carousel, elephant rides, bears"
+   }
+  ],
+  "photo": null
+ }
+]

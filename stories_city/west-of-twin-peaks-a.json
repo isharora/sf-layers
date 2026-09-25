@@ -1,0 +1,765 @@
+[
+  {
+    "id": "west-of-twin-peaks-rancho-san-miguel",
+    "title": "Noé's square league of cattle country",
+    "theme": "indigenous-early",
+    "year": 1845,
+    "yearEnd": 1895,
+    "place": {
+      "label": "Western edge of old Rancho San Miguel near Junipero Serra Blvd and St. Francis Circle",
+      "lat": 37.7355,
+      "lon": -122.4713,
+      "precision": "area"
+    },
+    "hook": "Nearly every garden suburb west of Twin Peaks sits on one Mexican land grant, handed to a Yerba Buena official in 1845 and fought over for fifty years.",
+    "story": "In 1845 Governor Pío Pico granted Rancho San Miguel to José de Jesús Noé, a Puebla-born official who had come to California in 1834 and served as alcalde of the little bay-side settlement [1][2]. The grant covered 4,443 acres, running roughly from today's Junipero Serra Boulevard east to San Jose Avenue and taking in the city's highest hill, now Mount Davidson [2]. After Noé's wife died in 1848, he began selling. John Horner, 'California's First Farmer', paid $200,000 for much of it (sources date the sale to 1852 or 1854) and then lost everything in the financial panic of the 1850s [1][2][3]. The land passed through the hands of bankers such as François Pioche until Adolph Sutro bought about 1,200 acres in 1880 [2][3]. In 1895 Noé's sons sued, claiming their mother's half had been sold illegally. They lost [1]. Decades later the park activist Madie Brown tracked down the original title, and a copy went into the time capsule under the Mount Davidson cross [3].",
+    "people": [
+      {
+        "name": "José de Jesús Noé",
+        "role": "grantee, former alcalde"
+      },
+      {
+        "name": "Pío Pico",
+        "role": "Mexican governor"
+      },
+      {
+        "name": "John M. Horner",
+        "role": "buyer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rancho San Miguel (Noe)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Rancho_San_Miguel_(Noe)",
+        "supports": "Grant to Noé in 1845, his background, the sale to the Horners in 1854, Pioche, the Sutro purchase and the 1895 lawsuit by his sons"
+      },
+      {
+        "title": "Mt. Davidson Timeline",
+        "publisher": "Jacqueline Proctor, mtdavidson.org",
+        "year": 2026,
+        "url": "https://mtdavidson.org/history/timeline/",
+        "supports": "4,443 acres, the boundaries, Horner's purchase for $200,000 in 1854, Sutro buying 1,200 acres in 1880, ownership deeds placed in the cross's base in 1934"
+      },
+      {
+        "title": "Madie Brown: Mt. Davidson Dream",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/madie_brown.php",
+        "supports": "Madie Brown finding the original title and putting a copy in the time capsule; gives 1852 for Horner's purchase"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-sutros-forest",
+    "title": "The millionaire who planted a mountain",
+    "theme": "parks-nature",
+    "year": 1880,
+    "yearEnd": 1898,
+    "place": {
+      "label": "Western slope of Mount Davidson (then 'Blue Mountain'), Mount Davidson Park",
+      "lat": 37.7385,
+      "lon": -122.4565,
+      "precision": "area"
+    },
+    "hook": "The dark eucalyptus woods on Mount Davidson are no wilderness. They are what survives of a forest one man planted on treeless, windswept hills.",
+    "story": "When Adolph Sutro bought about 1,200 acres of the old Rancho San Miguel in 1880, using money from his famous Comstock tunnel, the hills were mostly bunchgrass and scrub [2]. Over the next two decades he covered them with pine, cypress and, above all, blue gum eucalyptus. The planting spread across the hill then called Blue Mountain (now Mount Davidson), the future Forest Hill and St. Francis Wood, and all the way south to Ocean Avenue [1]. At California's first Arbor Day in 1886, held on Yerba Buena Island, he called trees 'the children of my old age, that will live long after I am laid to rest' [2]. He was right. In 1910, twelve years after Sutro's death, the appraiser A. S. Baldwin walked the estate and reported a forest 'in many places almost impenetrable' [3]. Developers soon cut most of it down for residence parks, but on Mount Davidson the trees Sutro planted are still standing [3][4].",
+    "people": [
+      {
+        "name": "Adolph Sutro",
+        "role": "landowner and tree planter, later mayor"
+      },
+      {
+        "name": "A. S. Baldwin",
+        "role": "estate appraiser"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sutro Forest",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2004,
+        "url": "https://www.outsidelands.org/sut_forest.php",
+        "supports": "Extent of Sutro's plantings on Blue Mountain, Forest Hill, St. Francis Wood and as far as Westwood Park and Ocean Avenue; species planted"
+      },
+      {
+        "title": "Adolph Sutro's Urban Forests: Influences and Lasting Benefits",
+        "publisher": "mtdavidson.org",
+        "year": 2020,
+        "url": "https://mtdavidson.org/the-father-of-tree-planting-in-california/",
+        "supports": "Purchase of 1,200 acres in 1880, planting over twenty years, the 1886 Arbor Day on Yerba Buena Island and Sutro's 'children of my old age' speech"
+      },
+      {
+        "title": "Forest Hill",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/forest-hill.php",
+        "supports": "Baldwin's 1910 appraisal quote about the forest, and that Newell-Murdoch cut down most of Sutro's trees"
+      },
+      {
+        "title": "Madie Brown: Mt. Davidson Dream",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/madie_brown.php",
+        "supports": "Sutro's trees on Mt. Davidson still there today"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-sunnyside-powerhouse",
+    "title": "The powerhouse behind SF's first electric streetcar",
+    "theme": "labor-industry",
+    "year": 1892,
+    "yearEnd": 1900,
+    "place": {
+      "label": "Site of the Sunnyside Powerhouse, 117-159 Monterey Blvd (block of Monterey, Circular and Baden)",
+      "lat": 37.73132,
+      "lon": -122.43838,
+      "precision": "block"
+    },
+    "hook": "Years before most San Francisco homes had electricity, a coal-fired plant on Sunnyside Avenue was burning 25 tons a day to push streetcars along overhead wires.",
+    "story": "In April 1892 the first car of the San Francisco and San Mateo Electric Railway ran down its tracks. It was the city's first electric streetcar line, running from Steuart Street out to Holy Cross Cemetery in San Mateo County for a nickel [1][2]. Its power came from a big powerhouse on a flatiron-shaped block of Sunnyside Avenue (now Monterey Boulevard), which burned about 25 tons of coal a day and also housed the car barn [1]. The backer was Behrend Joost, a millionaire land speculator selling lots in his new Sunnyside tract. His engineer, J. W. Hartzell, had crews work all night to string overhead wires before the Supervisors could ban them [1]. Workers liked Hartzell so much that they gave him a diamond ring at Christmas 1891. Joost was another matter. He ignored his engineer's advice, which led to injuries and deaths on the line, and held back wages for months [1]. Hartzell quit ten weeks after opening day. The powerhouse went offline in December 1900, was pulled down in the 1910s, and houses went up on the block around 1940 [1].",
+    "people": [
+      {
+        "name": "Behrend Joost",
+        "role": "financier, Sunnyside developer"
+      },
+      {
+        "name": "John Wesley Hartzell",
+        "role": "chief engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Sunnyside Powerhouse and San Francisco's First Electric Streetcar",
+        "publisher": "Sunnyside History Project",
+        "year": 2018,
+        "url": "https://sunnysidehistory.org/2018/05/02/the-sunnyside-powerhouse/",
+        "supports": "Powerhouse location and frontage, 25 tons of coal a day, car barn, route and fare, Hartzell's all-night wiring, diamond ring, Joost's conduct, resignation, closure in 1900, demolition, later houses"
+      },
+      {
+        "title": "San Francisco and San Mateo Electric Railway",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_and_San_Mateo_Electric_Railway",
+        "supports": "First electric streetcar company in San Francisco, 1892-1902; powerhouse and car barn on Sunnyside Avenue; cemetery traffic"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-ingleside-racetrack",
+    "title": "The mayor who stopped the races",
+    "theme": "gold-rush-victorian",
+    "year": 1895,
+    "yearEnd": 1905,
+    "place": {
+      "label": "Urbano Drive, laid out on the oval of the Ingleside Racetrack",
+      "lat": 37.72541,
+      "lon": -122.46463,
+      "precision": "street"
+    },
+    "hook": "Urbano Drive curves for a reason. It follows the oval of San Francisco's last horse track, where a mayor once shut down a race day just before the final race.",
+    "story": "On Thanksgiving Day 1895 the Pacific Coast Jockey Club opened the Ingleside Racetrack off the dusty Ocean Road. It had a grand clubhouse, a special Southern Pacific spur to the gates and six inches of groomed loam laid over the sand [2]. About 12,000 people came in the rain, though a Cal-Stanford football game the same day drew even more [1]. Fog was a problem, and in 1898 it hid most of the races from the crowd [2]. Betting was the bigger fight. In March 1899 the Supervisors banned wagering and Mayor James Phelan signed the ban, which ended racing [1]. In February 1901 the board voted 11-7 to allow 36 racing days, and 8,000 fans turned up on March 16. But Phelan had quietly vetoed the ordinance. As the races began he telephoned the police chief, and officers arrived just before the last race [1]. Racing came back under Tom Williams in 1902, and the last race was run on December 30, 1905 [1][2]. When the land was built over, Urbano Drive was laid along the old oval [2][3].",
+    "people": [
+      {
+        "name": "James D. Phelan",
+        "role": "mayor"
+      },
+      {
+        "name": "Edward Corrigan",
+        "role": "racing promoter"
+      },
+      {
+        "name": "Thomas Williams",
+        "role": "rival track owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Race Tracks of the West Side: Ingleside Racetrack, 1895-1905",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/ingleside-race-track.php",
+        "supports": "Opening-day crowd and the football game, the 1899 ban, the 1901 vote, Phelan's secret veto and police shutdown, Williams' return in 1902, last race on 30 December 1905"
+      },
+      {
+        "title": "Ingleside Racetrack",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/ingleside-racetrack.php",
+        "supports": "Opening on 28 November 1895, Southern Pacific line, loam track, the 1898 fog quote, Urbano Drive following the loop"
+      },
+      {
+        "title": "Streetwise: Urbano's Racetrack",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 1999,
+        "url": "https://www.outsidelands.org/sw1.php",
+        "supports": "Urbano Drive as an oval laid along the old racetrack"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-secret-miner",
+    "title": "Gold mining in Sutro's forest",
+    "theme": "gold-rush-victorian",
+    "year": 1898,
+    "yearEnd": null,
+    "place": {
+      "label": "800 block of Darien Way, Mount Davidson Manor (mine shafts marked on a 1910 Sutro estate map)",
+      "lat": 37.7292,
+      "lon": -122.46262,
+      "precision": "block"
+    },
+    "hook": "For seventeen years two hermits dug gold-mine shafts inside San Francisco's city limits, and chased off anyone who came near with clubs.",
+    "story": "In May 1898 a dying 73-year-old named Nelson Hundley Shoots told a San Francisco Call reporter something surprising. For about seventeen years he had been mining for gold in the rocky hills of Adolph Sutro's eucalyptus forest [1]. He had built a cabin there around 1880 and later taken on a partner, James Demott. The pair were known to 'snarl like wild beasts at any curious trespassers' and drive them off with clubs [1]. Visiting the camp, the reporter counted at least 300 feet of shafts, one of them about 125 feet deep, and some 1,400 feet of tunnels [1]. Nobody ever saw any gold. Still, the two paid their way, lost big at the Ingleside track, and once paid $8,000 in damages after Shoots sued the Spring Valley water company over a broken pipe flooding his mine, and lost [1]. Shoots admitted he may not have 'made a cent' and said he mined 'to have something to do and have a home of his own' [1]. He died on June 1, 1898. A 1910 estate map puts the shafts under today's Darien Way, in what was then Sutro's forest [1][2].",
+    "people": [
+      {
+        "name": "Nelson Hundley Shoots",
+        "role": "miner"
+      },
+      {
+        "name": "James Demott",
+        "role": "his partner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Secret Miner in Sutro's Forest",
+        "publisher": "Sunnyside History Project",
+        "year": 2019,
+        "url": "https://sunnysidehistory.org/2019/03/22/the-secret-miner-in-sutros-forest/",
+        "supports": "All details of Shoots and Demott, quoting the SF Call of 24 and 29 May 1898 and 13 June 1893, and the 1910 map placing shafts in the 800 block of Darien Way"
+      },
+      {
+        "title": "Sutro Forest",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2004,
+        "url": "https://www.outsidelands.org/sut_forest.php",
+        "supports": "Sutro's forest covering the land as far south as Ocean Avenue"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-sunnyside-conservatory",
+    "title": "An inventor's glass octagon on Sunnyside Avenue",
+    "theme": "parks-nature",
+    "year": 1902,
+    "yearEnd": null,
+    "place": {
+      "label": "Sunnyside Conservatory, 236 Monterey Blvd",
+      "lat": 37.73186,
+      "lon": -122.44082,
+      "precision": "building"
+    },
+    "hook": "This octagonal redwood greenhouse was built by an English inventor of gold-mining machines, whose house next door had an observatory with a rotating roof window.",
+    "story": "William Augustus Merralls came to America from Chatham, Kent, in 1869 at seventeen. He won his first patent, a gold separator, in 1888 and went on to register more than twenty, for everything from ore mills to refrigerators to car starters [1]. His Merralls Mill Company on First Street sold rock-crushing machinery to mines across the West [1]. In 1897 he and his wife Lizzie bought a house at 258 Sunnyside Avenue (now Monterey Boulevard) and then bought up the lots beside it [1][2]. On that land rose an octagonal redwood-and-glass conservatory for his exotic plants. The 1905 Sanborn map also shows a chicken coop and an observatory whose roof window turned a full 360 degrees [1]. The build date is disputed. NoeHill's summary of the 1975 landmark resolution gives 1897, though the resolution itself says only 'around the turn of the century' and admits that 'very little is known' of the owners. A plaque on the fence says 1898. Local historian Amy O'Hair argues for mid-1902, after the Merralls owned all the land [1][2]. Merralls died in 1914 when a Southern Pacific train struck him in Alameda [1].",
+    "people": [
+      {
+        "name": "William Augustus Merralls",
+        "role": "inventor, builder"
+      },
+      {
+        "name": "Lizzie A. Merralls",
+        "role": "first wife, co-owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "W.A. Merralls: Inventor and Entrepreneur of Sunnyside",
+        "publisher": "Sunnyside History Project",
+        "year": 2023,
+        "url": "https://sunnysidehistory.org/2016/06/25/w-a-merralls-inventor-and-entrepreneur-of-sunnyside/",
+        "supports": "Merralls' biography, patents, Mill Company, the 1897 purchase, the 1902 dating argument, the 1905 Sanborn features, death in Alameda in 1914"
+      },
+      {
+        "title": "San Francisco Landmark #78: Sunnyside Conservatory",
+        "publisher": "NoeHill (quoting City Planning Commission Resolution 7380, 1975)",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf078.asp",
+        "supports": "Landmark status, 'Built 1897', seven 25-foot lots, the Taylor and Merralls ownerships and how little was known about them"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-murray-airship",
+    "title": "A secret airship in the racetrack gully",
+    "theme": "labor-industry",
+    "year": 1910,
+    "yearEnd": 1912,
+    "place": {
+      "label": "Former Ingleside Racetrack grounds, Ingleside Terraces (Urbano Drive area)",
+      "lat": 37.72565,
+      "lon": -122.46671,
+      "precision": "area"
+    },
+    "hook": "Guards chased gawkers away while an inventor built an 8,000-pound flying machine on the abandoned Ingleside Racetrack, planning to fly it to Paris.",
+    "story": "After the horses left, the empty Ingleside Racetrack had an odd tenant. In a gully out of sight of Ocean Avenue, Willis Grant Murray was building a $100,000 airship paid for by wealthy investors [1]. In December 1910 he gave a San Francisco Call reporter a long interview. The paper found the machine 'hardly nameable': part biplane, part dirigible, part helicopter, with three car engines driving 14-foot propellers, a deck for five crew and ten passengers, and aluminium boats for skids [1]. Murray planned to fly six days and nights without landing, cross the continent and perhaps go on to Paris. He called ordinary aeroplanes 'a plaything beside it' [1]. Then he hired watchmen to chase off the curious. By February 1912 Joseph Leonard's crews were grading the old track for Ingleside Terraces around him [1][2]. Murray was still trying to get the 176-foot machine off the ground, but high winds kept ripping its hydrogen bags and damaging the frame. The airship never flew, and Murray died in 1919 [1].",
+    "people": [
+      {
+        "name": "Willis Grant Murray",
+        "role": "airship inventor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Aviation in the Ingleside",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2015,
+        "url": "https://www.outsidelands.org/ingleside-aviation.php",
+        "supports": "Murray's airship project at the racetrack, the December 1910 Call interview and quotes, the specifications, security, the 1912 failure and his death in 1919"
+      },
+      {
+        "title": "Ingleside Racetrack",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/ingleside-racetrack.php",
+        "supports": "Track closed after 1905; Leonard's company bought it in 1910 to build Ingleside Terraces"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-90-cedro-covenants",
+    "title": "The showpiece house that sold segregation",
+    "theme": "civil-rights",
+    "year": 1911,
+    "yearEnd": 1957,
+    "place": {
+      "label": "Leonard-Poole House, 90 Cedro Avenue, Ingleside Terraces (SF Landmark #213)",
+      "lat": 37.72709,
+      "lon": -122.46893,
+      "precision": "building"
+    },
+    "hook": "The developer who built this Craftsman house wrote racial bans into every deed. Nearly half a century later, a Black civil-rights lawyer bought it.",
+    "story": "Joseph A. Leonard bought the old Ingleside Racetrack for $2,500 an acre and in 1911 built himself a large Craftsman showpiece at 90 Cedro Avenue, where he lived until 1920 [1][2]. His Ingleside Terraces offered curving streets, pillars and landscaping, and also restrictions on who could live there [3]. A 1913 sales brochure promised 'ample protection against building abuses or objectionable occupation', and 'objectionable occupation' mainly meant minorities [1]. Tim Kelley's landmark report calls Leonard 'one of the first to use restrictive racial covenants as a real estate marketing tool' in San Francisco [2]. In 1957 Cecil F. Poole, a Harvard-trained lawyer, president of the San Francisco Urban League and assistant district attorney, became the first non-white owner in the Terraces. The house he bought was Leonard's own [1]. Someone burned a cross on his lawn. The Pooles stayed until the early 1980s, and Poole later became a federal judge [1][2]. In 2000 the city made the house Landmark #213, honouring both men. The report calls it 'particularly ironic' [2].",
+    "people": [
+      {
+        "name": "Joseph A. Leonard",
+        "role": "developer"
+      },
+      {
+        "name": "Cecil F. Poole",
+        "role": "lawyer, later federal judge"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ingleside Terraces",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/ingleterr.php",
+        "supports": "Price per acre, the house built in 1911 and Leonard living there until 1920, the 1913 brochure quote, Poole buying in 1957, the cross burning, the family staying until the early 1980s"
+      },
+      {
+        "title": "90 Cedro Avenue",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/90-Cedro.php",
+        "supports": "Quotes from Tim Kelley's Landmark Designation Report; designation as Landmark #213 on 22 May 2000"
+      },
+      {
+        "title": "Joseph A. Leonard (1849-1929)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/leonard.php",
+        "supports": "Leonard's restrictions on cost, use and 'who could buy them (no minorities allowed)'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-st-francis-wood-founding",
+    "title": "Climbing Sutro's fence to find St. Francis Wood",
+    "theme": "architecture-landmarks",
+    "year": 1912,
+    "yearEnd": 1919,
+    "place": {
+      "label": "St. Francis Boulevard, spine of St. Francis Wood",
+      "lat": 37.73456,
+      "lon": -122.4694,
+      "precision": "street"
+    },
+    "hook": "Five Berkeley developers climbed a wooden fence one March morning in 1912, saw poppies and the Farallones, and decided to build a model suburb.",
+    "story": "On a sunny March morning in 1912, Duncan McDuffie and four partners from Berkeley climbed the wooden fence along Junipero Serra Boulevard that marked the edge of the Sutro estate. They walked up a wood road towards Mount Davidson [1]. He later remembered ground 'carpeted with California poppies, cowslips, buttercups, wild pansies, babyblue eyes and iris', and a view past Sloat Boulevard to the jagged Farallones [1]. They bought 175 acres [2]. The Olmsted Brothers laid out curving streets, and John Galen Howard designed the main gate, the first fountain, the lampposts and the brick-diamond sidewalks. Sales opened on October 12, 1912, with the then-novel promise of underground utilities [2]. Then the First World War stopped sales almost entirely from 1914 to 1919. In 1915, McDuffie said, total sales came to $5,000, and only the banks kept the company afloat [1]. The founding covenants also barred certain ethnic groups, a clause the homes association now calls 'discriminatory and inexcusable' [2]. The German planner Werner Hegemann later called it America's most distinguished residential suburb [1].",
+    "people": [
+      {
+        "name": "Duncan McDuffie",
+        "role": "developer, Mason-McDuffie Co."
+      },
+      {
+        "name": "John Galen Howard",
+        "role": "supervising architect"
+      },
+      {
+        "name": "Olmsted Brothers",
+        "role": "landscape architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Duncan McDuffie (1932 anniversary speech)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/mcduffie.php",
+        "supports": "The March 1912 walk and the names of the partners, the wildflowers and view, the wartime slump and $5,000 in 1915 sales, the Hegemann quote"
+      },
+      {
+        "title": "History of St. Francis Wood",
+        "publisher": "St. Francis Homes Association",
+        "year": 2024,
+        "url": "https://www.stfranciswood.org/history",
+        "supports": "175 acres, Olmsted Brothers plan, Howard's gate, fountain and lampposts, sales opening on 12 October 1912, underground utilities, Clause 13 racial covenant"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-ingleside-sundial",
+    "title": "A giant sundial unveiled at night",
+    "theme": "architecture-landmarks",
+    "year": 1913,
+    "yearEnd": null,
+    "place": {
+      "label": "Ingleside Terraces Sundial, Entrada Court",
+      "lat": 37.72493,
+      "lon": -122.46755,
+      "precision": "building"
+    },
+    "hook": "Billed as the world's biggest sundial, this 28-foot gnomon was unveiled after dark, by children dressed as sylphs, to sell houses.",
+    "story": "On October 10, 1913, some 1,500 people gathered on a new cul-de-sac in Ingleside Terraces to unveil a sundial. It was promoted as the biggest in the world, and they did it at night [1]. The date was chosen to mark the day the Atlantic and Pacific first met in the Panama Canal and to celebrate the coming Twin Peaks Tunnel [1]. The developer Joseph Leonard narrated. City Engineer Michael O'Shaughnessy was there and the Coast Artillery Band played [1]. Schoolchildren dressed as sylphs unveiled each part: a 28-foot gnomon, a 34-foot clock face in Roman numerals, a lit reflecting pool with fountain, and four columns and urns for 'the four ages of man and nature's four seasons'. A baby rode in a pram 'drawn by a stork'. Then fifty couples danced into the night [1]. It was a sales gimmick, a Beaux-Arts ornament meant to draw buyers to the new residence park [2][3]. A popular story later claimed the sundial was left over from the racetrack. It wasn't [1].",
+    "people": [
+      {
+        "name": "Joseph A. Leonard",
+        "role": "developer, master of ceremonies"
+      },
+      {
+        "name": "Michael M. O'Shaughnessy",
+        "role": "city engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ingleside Terraces Sundial",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), by Hamilton Barrett",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/sundial.php",
+        "supports": "Date, crowd, night ceremony, dimensions, the Panama Canal timing, dignitaries, the children's pageant, dancing, and the racetrack myth"
+      },
+      {
+        "title": "Entrada Court Sundial (HALS CA-99)",
+        "publisher": "Library of Congress, Historic American Landscapes Survey",
+        "year": 2010,
+        "url": "https://www.loc.gov/item/ca4152/",
+        "supports": "Built around 1913 as a marketing device for Ingleside Terraces, in the Beaux-Arts style"
+      },
+      {
+        "title": "Ingleside Terraces",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/ingleterr.php",
+        "supports": "Promoted as the world's largest sundial; erected by Leonard as a publicity stunt in 1913"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-westwood-park",
+    "title": "Bungalows for the family of average means",
+    "theme": "communities",
+    "year": 1916,
+    "yearEnd": 1925,
+    "place": {
+      "label": "Miramar Avenue, the landscaped spine of Westwood Park",
+      "lat": 37.72907,
+      "lon": -122.45791,
+      "precision": "street"
+    },
+    "hook": "'When the tunnel is complete, to Westwood Park we will retreat,' promised a promotional coin. The bungalows were drawn up by one of the West's few women architects.",
+    "story": "A. S. Baldwin had sold Sutro land to the builders of Forest Hill and St. Francis Wood. He then tried something new on 93 forested acres of Sutro land north of Ocean Avenue. His firm Baldwin & Howell broke ground in 1916 on 'a model home community for the family of average means' [1][2]. The residence-park touches stayed: Louis Christian Mullgardt's gateways, a median on Miramar Avenue, and oval loops laid out by engineer John M. Punnett. The houses, though, were modest bungalows picked from a catalogue, on lots starting at $3,000 [1]. A promotional coin carried a rhyme: 'When the tunnel is complete, To Westwood Park we will retreat' [1][2]. Charles Strothoff designed nearly 500 of the 650 houses [1]. Another hundred or so came from Ida F. McCain, whom the company once called head of its architecture department. In a 1920 ad she wrote, 'I am in good company' [1][2]. The 1920 census found about 450 residents, most commonly managers, salespeople and accountants. The deeds banned minority occupation [2]. The tract sold out by 1925 [2].",
+    "people": [
+      {
+        "name": "A. S. Baldwin",
+        "role": "developer, Baldwin & Howell"
+      },
+      {
+        "name": "Ida F. McCain",
+        "role": "architect"
+      },
+      {
+        "name": "Charles F. Strothoff",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Westwood Park: A Short History",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) / Westwood Park Association",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/westwoodpark.php",
+        "supports": "Founding in 1916 and mission quote, Punnett's street plan, Strothoff's houses, the coin, lot prices, catalogue, Mullgardt gates, McCain's 1920 ad quote"
+      },
+      {
+        "title": "The Birth of Westwood Park, Part II",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2016,
+        "url": "https://www.outsidelands.org/westwood-park-birth2.php",
+        "supports": "93 acres, McCain's role and output, the 1920 census, racist deed restrictions, sold out by 1925"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-twin-peaks-tunnel",
+    "title": "Holed through, off by an eighth",
+    "theme": "architecture-landmarks",
+    "year": 1918,
+    "yearEnd": null,
+    "place": {
+      "label": "West portal of the Twin Peaks Tunnel, West Portal Avenue at Ulloa Street",
+      "lat": 37.74059,
+      "lon": -122.46566,
+      "precision": "block"
+    },
+    "hook": "Drillers boring from opposite sides of Twin Peaks met almost perfectly. Ten months later Mayor Rolph drove the first streetcar out of the hill here.",
+    "story": "Digging on the Twin Peaks Tunnel began on December 11, 1914, at three sites, including this western portal near Ulloa Street [1]. It cost lives. In July 1915 inspector Ernest Dunden slipped onto live wires at the west portal and was killed, and in February 1917 a delayed dynamite cap killed several more [1]. In August 1916, 90 feet down, workers found a petrified redwood trunk [1]. On April 5, 1917 came the drillers' shout of 'Holed through!' The two bores met out of line by just an eighth of an inch [1]. Four supervisors raced to be first through the gap, and Joseph Lahaney won with his suit covered in mud. On February 3, 1918, Mayor James Rolph drove the first official streetcar through the 2.27-mile bore himself. It stopped at Laguna Honda (now Forest Hill) station, some 70 feet below ground, and came out here to a huge crowd [1][2][3]. The next Sunday more than 21,000 people rode out just to look. The tunnel opened the west side to settlement [1].",
+    "people": [
+      {
+        "name": "James Rolph",
+        "role": "mayor, motorman on opening day"
+      },
+      {
+        "name": "Michael M. O'Shaughnessy",
+        "role": "city engineer"
+      },
+      {
+        "name": "Ernest Dunden",
+        "role": "inspector killed in 1915"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Westward the Course of Empire Takes its Way: 100 Years of the Twin Peaks Tunnel",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), by Arnold Woods",
+        "year": 2018,
+        "url": "https://www.outsidelands.org/twin-peaks-tunnel.php",
+        "supports": "Construction dates, deaths, the petrified redwood, holing through and the eighth-of-an-inch alignment, the supervisors' race, opening day and ridership"
+      },
+      {
+        "title": "Twin Peaks Tunnel",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Twin_Peaks_Tunnel",
+        "supports": "Length of 2.27 miles, western entrance at West Portal Avenue and Ulloa, Laguna Honda station about 70 feet below grade"
+      },
+      {
+        "title": "Forest Hill Station",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/forest-hill-station.php",
+        "supports": "Station originally called Laguna Honda; Newell-Murdoch donated the lots for it"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-forest-hill-clubhouse",
+    "title": "Forest Hill's residents take over their suburb",
+    "theme": "communities",
+    "year": 1919,
+    "yearEnd": null,
+    "place": {
+      "label": "Forest Hill Clubhouse (Bernard Maybeck), 381 Magellan Avenue",
+      "lat": 37.74458,
+      "lon": -122.46358,
+      "precision": "building"
+    },
+    "hook": "Fed up with their developer's shoddy streets, Forest Hill's homeowners took over the whole tract in 1918. Then came a clubhouse by Bernard Maybeck.",
+    "story": "Newell-Murdoch sold Forest Hill as 'sylvan solitude' carved from Sutro's forest. They hired landscape architect Mark Daniels, who gave it a grand staircase on Dewey Boulevard, and advertised every Saturday in the city papers [1]. They also cut down most of the trees they were selling, and they wrote strict rules about the design of homes and the race of the people who could live in them [1]. The first house was finished in February 1914. In October 1912 the company had given the city 21 lots for the Laguna Honda tunnel station, betting on a quick commute [1][2]. When the tunnel opened in 1918, war had stalled sales, and homeowners were fed up with streets and utilities that did not meet city standards. They formed the Forest Hill Association and took over the entire tract from the developer [1]. In 1919 the neighbourhood got a community clubhouse at 381 Magellan, designed by the renowned Bernard Maybeck [1][3]. A 1968 Junior League guide called its high, heavily beamed interior 'Maybeck at his best' [3].",
+    "people": [
+      {
+        "name": "Bernard Maybeck",
+        "role": "architect"
+      },
+      {
+        "name": "Mark R. Daniels",
+        "role": "landscape architect"
+      },
+      {
+        "name": "Newell-Murdoch Company",
+        "role": "developer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Forest Hill",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/forest-hill.php",
+        "supports": "Newell-Murdoch, Daniels' staircase, promotion, restrictions, tree cutting, the 21 lots, the first house in 1914, the 1918 residents' association takeover, Maybeck designing the clubhouse"
+      },
+      {
+        "title": "Forest Hill Station",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/forest-hill-station.php",
+        "supports": "Newell-Murdoch's gift of 21 lots for the station"
+      },
+      {
+        "title": "Forest Hill Club House",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/forest-hill-clubhouse.php",
+        "supports": "Architect Maybeck, built 1919, 381 Magellan, and the 1968 Junior League 'Here Today' quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-homewood-terrace",
+    "title": "An orphanage of cottages on Ocean Avenue",
+    "theme": "communities",
+    "year": 1921,
+    "yearEnd": 1965,
+    "place": {
+      "label": "Site of Homewood Terrace, north side of Ocean Avenue between Faxon and Keystone",
+      "lat": 37.7254,
+      "lon": -122.4592,
+      "precision": "block"
+    },
+    "hook": "San Francisco's Jewish orphanage left its big Divisadero Street asylum for a village of cottages at the edge of Sutro's forest.",
+    "story": "The Pacific Hebrew Orphan Asylum and Home Society was founded in 1872, when, in its own words, the city's Jewish community took up 'its historic obligation to provide shelter and care for children who knew the tragedy of parent loss'. From 1876 it ran a large home at 600 Divisadero Street [1]. Under Dr. Samuel Langer it tried a different approach. On October 3, 1920, the asylum's Anspacher Band played at the dedication of a new campus on Ocean Avenue between Faxon and Keystone, and on June 13, 1921 the children moved in [1]. Renamed Homewood Terrace, it housed children in small cottages rather than a single institution. The organisation later claimed these were the first cottage-style child-care facilities in the United States [1]. An aerial photograph shows the campus beside Sutro's forest [1]. During the Second World War it took in children brought from the Holocaust in Europe. In 1965 it moved the children to family-style homes in the Richmond District, and houses and shops now cover the Ocean Avenue site [1][2].",
+    "people": [
+      {
+        "name": "Dr. Samuel Langer",
+        "role": "director"
+      },
+      {
+        "name": "Benjamin Bonaparte",
+        "role": "later director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Homewood Terrace Orphanage",
+        "publisher": "Western Neighborhoods Project (outsidelands.org) (quoting the 1972 centennial program)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/homewood-terrace.php",
+        "supports": "Founding in 1872, 600 Divisadero, the dedication on 3 October 1920, the move on 13 June 1921, Langer, the cottage-care claim, Holocaust children, the 1965 move, today's site"
+      },
+      {
+        "title": "Forest Hill (related articles list)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2003,
+        "url": "https://www.outsidelands.org/forest-hill.php",
+        "supports": "Describes Homewood Terrace as the Jewish orphanage that faced Ocean Avenue from 1921 to the 1960s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-mount-davidson-crosses",
+    "title": "The Easter crosses that kept burning down",
+    "theme": "communities",
+    "year": 1923,
+    "yearEnd": 1929,
+    "place": {
+      "label": "Summit of Mount Davidson, site of the Easter sunrise crosses",
+      "lat": 37.7383,
+      "lon": -122.4546,
+      "precision": "area"
+    },
+    "hook": "Five thousand people climbed the city's highest hill for an Easter dawn in 1923. Over the next six years, two of the crosses they raised burned down.",
+    "story": "In 1918 the land developer A. S. Baldwin cut footpaths to the top of Mount Davidson 'for the pleasure of the public' [1]. One hiker, James Decatur, was so moved by the wooded climb and the view from the Pacific to Mount Diablo that he asked Baldwin's permission to hold an Easter sunrise service up there [2]. On April 1, 1923, about 5,000 people gathered at a 40-foot wooden cross built by Adolph Anderson, and Dean J. Wilmer Gresham of Grace Cathedral led the service [1][3]. The crowds kept coming, and so did the fires. An 87-foot cross built in 1924 burned in December 1925. Its replacement, nearly 100 feet tall and lit every night of Easter week, burned in December 1928 [1][3]. In 1929 an 80-foot cross of wood and stucco outlined in electric lights went up [1]. Historian Jacquie Proctor notes that the cross also helped Baldwin bring buyers out to his new homes on the slopes [2]. A permanent 103-foot concrete cross followed in 1934 [3].",
+    "people": [
+      {
+        "name": "James Decatur",
+        "role": "founder of the sunrise services"
+      },
+      {
+        "name": "A. S. Baldwin",
+        "role": "developer and landowner"
+      },
+      {
+        "name": "J. Wilmer Gresham",
+        "role": "Dean of Grace Cathedral"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mt. Davidson Timeline",
+        "publisher": "Jacqueline Proctor, mtdavidson.org",
+        "year": 2026,
+        "url": "https://mtdavidson.org/history/timeline/",
+        "supports": "Baldwin's footpaths in 1918, the 1923 service with its organisers, builder and crowd, the fires of 1925 and 1928, the 1926 and 1929 crosses"
+      },
+      {
+        "title": "Madie Brown: Mt. Davidson Dream",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/madie_brown.php",
+        "supports": "Decatur's description of the hike, his permission from Baldwin, Proctor's point about attracting buyers"
+      },
+      {
+        "title": "Mount Davidson (California)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Mount_Davidson_(California)",
+        "supports": "Cross heights and dates from 1923 to 1929 and the 103-foot cross of 1934"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "west-of-twin-peaks-madie-brown-saves-summit",
+    "title": "The housewife who stopped the steam shovels",
+    "theme": "parks-nature",
+    "year": 1929,
+    "yearEnd": null,
+    "place": {
+      "label": "Mount Davidson Park, Dalewood Way entrance",
+      "lat": 37.73675,
+      "lon": -122.45414,
+      "precision": "block"
+    },
+    "hook": "When subdividers started clearing Mount Davidson in 1926, a housewife got PTA children to mail wildflowers to the city's powerful, and saved the summit.",
+    "story": "By 1926 houses were climbing Mount Davidson's slopes, and Mrs. Edmund N. 'Madie' Brown was, in her words, 'alarmed by the destruction' [1]. She took her case to the Commodore Sloat School PTA: 'The subdividers' axe and steam shovel are destroying in ruthless fashion the beauties of nature on our beloved Mt. Davidson' [1]. As chair of a new conservation committee, she gathered maps, histories and an appraisal. PTA mothers and children mailed wildflowers from the mountain to people of influence, and the city's women's clubs, with 15,000 members, voted their support [1]. Mayor 'Sunny Jim' Rolph and Supervisor Margaret Mary Morgan, the first woman on the board, joined in [1][2]. In 1927 the city set aside $15,000, but the deal dragged for two years. The developer August Lang had first offered 78 acres at $4,000 an acre, bundled with a reservoir he wanted built for his houses [2]. On December 20, 1929, John McLaren's 84th birthday, Mayor Rolph dedicated Mount Davidson Park [1][2]. Sources disagree on how much land was bought and when the summit was donated.",
+    "people": [
+      {
+        "name": "Madie D. Brown",
+        "role": "conservation campaigner"
+      },
+      {
+        "name": "James Rolph",
+        "role": "mayor"
+      },
+      {
+        "name": "Margaret Mary Morgan",
+        "role": "supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Madie Brown: Mt. Davidson Dream",
+        "publisher": "Western Neighborhoods Project (outsidelands.org), by Jacquie Proctor",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/madie_brown.php",
+        "supports": "Brown's campaign, the PTA plea quote, the wildflower mailing, women's clubs, Rolph and Morgan, dedication on 20 December 1929; says 25 acres were bought plus a 6-acre summit donated by Mrs. Baldwin"
+      },
+      {
+        "title": "Mt. Davidson Timeline",
+        "publisher": "Jacqueline Proctor, mtdavidson.org",
+        "year": 2026,
+        "url": "https://mtdavidson.org/history/timeline/",
+        "supports": "$15,000 in 1927, Lang's 78-acre offer and reservoir demand, 20 acres bought in 1929, the summit donated in December 1932, dedication on McLaren's birthday"
+      }
+    ],
+    "photo": null
+  }
+]

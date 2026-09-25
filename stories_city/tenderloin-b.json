@@ -1,0 +1,723 @@
+[
+ {
+  "id": "tenderloin-mechanics-pavilion-burns",
+  "title": "The arena that became a hospital, then burned",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "Mechanics' Pavilion site (now Bill Graham Civic Auditorium), Grove and Larkin streets",
+   "lat": 37.778083,
+   "lon": -122.417316,
+   "precision": "block"
+  },
+  "hook": "On the morning of the earthquake, San Francisco's biggest arena filled with the injured and the dead. Within hours the fire came for it too.",
+  "story": "Before 1906, the block at Grove and Larkin held the Mechanics' Pavilion, built in 1882 as the city's first major indoor arena, seating nearly 11,000 people [1]. When the earthquake of April 18, 1906 wrecked the Central Emergency Hospital in the basement of City Hall next door, the pavilion became a makeshift hospital and morgue [1]. Then a new danger appeared. A fire that broke out at Hayes and Gough streets, remembered as the \"Ham and Eggs\" fire, spread east through the Western Addition toward City Hall [2]. The Museum of the City of San Francisco's timeline says the injured were taken out from noon, some to Golden Gate Park, Children's Hospital and the Presidio, and that the pavilion caught fire at 1 p.m. [2]. FoundSF says the building was emptied the next morning and burned around 1 p.m. on April 19, so the sources disagree about the day [1]. Six years later the Mechanics' Institute sold the burned block to the city for $700,000 [1]. The Civic Auditorium went up on the site and opened in January 1915, the first Civic Center building to be finished [3].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Mechanics Pavilion",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mechanics_Pavilion",
+    "supports": "1882 pavilion seating ~11,000; use as hospital and morgue; evacuation and burning on April 19; 1912 sale for $700,000"
+   },
+   {
+    "title": "Chronology of the Great Earthquake and the 1906-1907 Graft Investigations",
+    "publisher": "Museum of the City of San Francisco",
+    "year": null,
+    "url": "http://www.sfmuseum.org/hist10/06timeline.html",
+    "supports": "Ham and Egg fire origin at Hayes and Gough; evacuation from noon to Golden Gate Park, Children's Hospital, Presidio; pavilion on fire at 1 p.m."
+   },
+   {
+    "title": "Mayor Rolph and the New Civic Center (from San Francisco 1865-1932)",
+    "publisher": "FoundSF / William Issel and Robert Cherny",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Mayor_Rolph_and_the_New_Civic_Center",
+    "supports": "Auditorium was the first Civic Center building, completed January 1915"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-cadillac-hotel",
+  "title": "The hotel that announced the comeback",
+  "theme": "quake1906",
+  "year": 1907,
+  "yearEnd": null,
+  "place": {
+   "label": "Cadillac Hotel, 366-394 Eddy Street at Leavenworth",
+   "lat": 37.784054,
+   "lon": -122.413943,
+   "precision": "building"
+  },
+  "hook": "A poultry-and-whiskey man rebuilt on the lot where his wooden house had burned. Its dining room later became a boxing gym.",
+  "story": "The earthquake and fire left almost nothing standing in the Uptown Tenderloin, and most rebuilding there was slow [1]. The Cadillac Hotel at Eddy and Leavenworth was one of the few big early exceptions. It was finished in 1907 by Andrew A. Louderback, who had made his money in poultry, game and distilling, on the same lot where his wooden house had stood until 1906 [1]. Randy Shaw writes that it was built to show the city was coming back, with a front desk where guests checked their furs [2]. The National Register counts 170 rooms and Shaw says 180 [1][2]. In 1924 the dining room became a boxing ring [1]. From 1924 to 1935 it was Taussig & Ryan's Gym, and later it was Newman's [2]. By local legend, Billy Newman helped a young Cassius Clay, the future Muhammad Ali, with gym time and a loan after the 1960 Olympics [2]. Longtime San Francisco political leader John Burton remembered the Cadillac of the early 1950s as part of an all-night Tenderloin where you could place a bet in nearly any restaurant [2].",
+  "people": [
+   {
+    "name": "Andrew A. Louderback",
+    "role": "builder and original owner"
+   },
+   {
+    "name": "Billy Newman",
+    "role": "boxing gym operator"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "Cadillac built 1907 by A.A. Louderback on his pre-1906 house site; 170 rooms; dining room converted to boxing ring 1924; neighbourhood destroyed 1906"
+   },
+   {
+    "title": "The Cadillac Hotel Shaped History of San Francisco",
+    "publisher": "FoundSF (Randy Shaw)",
+    "year": 2007,
+    "url": "https://www.foundsf.org/index.php?title=The_Cadillac_Hotel_Shaped_History_of_San_Francisco",
+    "supports": "built to signal recovery; furs at the desk; 180 rooms; Taussig & Ryan's Gym 1924-35 then Newman's; Ali anecdote; John Burton recollections"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-blancos-music-box",
+  "title": "A boss's cafe, then Sally Rand's Music Box",
+  "theme": "arts-counterculture",
+  "year": 1907,
+  "yearEnd": 1946,
+  "place": {
+   "label": "Blanco's / The Music Box, now Great American Music Hall, 859 O'Farrell Street",
+   "lat": 37.784796,
+   "lon": -122.418819,
+   "precision": "building"
+  },
+  "hook": "The ornate hall on O'Farrell was built for a man called \"the Blind Boss.\" In the Depression, a famous fan dancer made it her nightclub.",
+  "story": "Soon after the fire, a restaurant with a lavish interior rose at 859 O'Farrell Street. The National Register dates the building to 1906 and names its first owner as Christopher A. Buckley, \"the Blind Boss.\" It operated as Blanco's Cafe until 1923 [1]. It was a local example of the French restaurant with rooms upstairs, the kind that gave the Uptown Tenderloin its racy reputation [1]. Other accounts say it opened in 1907 and took its name from a notorious Barbary Coast brothel [3]. Its best-known tenant came in the Depression. Sally Rand, who became famous for her fan dance at Chicago's 1933-34 world's fair, turned the hall into her nightclub, the Music Box. She had come to San Francisco ahead of the 1939 Treasure Island fair, where she ran the \"Nude Ranch\" [2]. The National Register dates the Music Box to 1939-1946, and other accounts say she took over in 1936 [1][3]. The Museum of the City notes that the interior still looks much as it did when she danced there [2].",
+  "people": [
+   {
+    "name": "Christopher A. Buckley",
+    "role": "'Blind Boss', original owner"
+   },
+   {
+    "name": "Sally Rand",
+    "role": "fan dancer, ran the Music Box"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "859 O'Farrell: built 1906, owner Christopher A. Buckley 'the Blind boss', architect A.W. Edelman; Blanco's Cafe 1906-1923; Music Box 1939-1946; French restaurant-with-rooms type"
+   },
+   {
+    "title": "Sally Rand (1904-1979): The Music Box and Sally Rand Nude Ranch",
+    "publisher": "Museum of the City of San Francisco",
+    "year": null,
+    "url": "http://www.sfmuseum.org/bio/rand.html",
+    "supports": "Music Box at 859 O'Farrell; Chicago fair fame; arrival before 1939 fair; Nude Ranch; interior largely unchanged"
+   },
+   {
+    "title": "Great American Music Hall",
+    "publisher": "Wikipedia (pointer)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Great_American_Music_Hall",
+    "supports": "1907 opening date and Barbary Coast name origin; Rand acquisition dated 1936"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-macbeth-studio-apartment",
+  "title": "Where the studio apartment may have been born",
+  "theme": "architecture-landmarks",
+  "year": 1911,
+  "yearEnd": null,
+  "place": {
+   "label": "MacBeth (now Rossmoor) Apartments, 765 Geary Street",
+   "lat": 37.786114,
+   "lon": -122.415755,
+   "precision": "building"
+  },
+  "hook": "One room, a bed that folds into the wall, a tiny kitchen. A 1911 Geary Street building may have been among America's first studio apartments.",
+  "story": "After 1906, fire laws required brick or concrete buildings in the burned district. Building cost more, so owners built bigger, and the Uptown Tenderloin slowly filled with hotels and then apartment houses [1]. Many middle-class people still associated apartments with slum tenements. In 1907, architect Charles Peter Weeks predicted that \"all of the down town hillside district will be covered with apartment houses\" [1]. In 1911 he designed the MacBeth at 765 Geary Street: four stories of patterned brick with terra-cotta trim, an angel-head cornice and 48 small units [1]. Historian Eric Sandweiss, quoted in the National Register nomination, calls it \"one of the first studio apartment buildings in San Francisco\" and says it \"may have been one of the first in the country as well\" [1]. A studio was a single room for living and sleeping, with a wall bed that folded away by day and a small kitchen, which suited the clerks, stenographers and single people who filled the district [1]. The building was renamed the Rossmoor in 1937 and still carries that name over the door [1]. It is one of 409 contributing buildings in the 33-block historic district [2].",
+  "people": [
+   {
+    "name": "Charles Peter Weeks",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "fire limits and rebuilding economics; Weeks 1907 quote; MacBeth 1911 details; Sandweiss quotes on first studio apartments; Rossmoor 1937"
+   },
+   {
+    "title": "Tenderloin's heritage wins national notice",
+    "publisher": "San Francisco Chronicle / SFGATE (John King)",
+    "year": 2009,
+    "url": "https://www.sfgate.com/entertainment/article/Tenderloin-s-heritage-wins-national-notice-3168010.php",
+    "supports": "33 blocks and 409 contributing buildings; masonry apartments built in decades after 1906"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-larkin-theatre-foreign-films",
+  "title": "The neighbourhood flea pit that went international",
+  "theme": "arts-counterculture",
+  "year": 1938,
+  "yearEnd": null,
+  "place": {
+   "label": "Larkin Theatre (later the Century), 816 Larkin Street",
+   "lat": 37.785484,
+   "lon": -122.417683,
+   "precision": "building"
+  },
+  "hook": "Ten-cent features changed every night. Then a new operator filled the little Larkin with films from abroad, and San Franciscans came across town to see them.",
+  "story": "The Larkin opened in June 1914, the work of an entrepreneur named Joy B. Rothschild, and closed within weeks [1]. In early 1916 Charles and William Goodwin reopened it with new ventilation and a Wurlitzer organ. They changed the feature every night and charged 10 cents, so for $3 a month a regular could see thirty studio pictures [1]. Film historian Jack Tillmany calls it a \"little known neighborhood flea pit\" until 1938 [1]. That year Herbert Rosener, who had filled the Clay on Fillmore Street with imported, subtitled films, took over the Larkin and brought the same policy [1]. In January 1942 the Australian war film \"40,000 Horsemen\" premiered at the Larkin and the Clay on the same day [1]. After the war, audiences tired of films censored by Hollywood's Production Code came for foreign ones, and \"Diabolique\" ran 24 weeks [1]. The building is listed as a contributor to the Uptown Tenderloin Historic District. It is the Tenderloin's only surviving early movie theatre, though it later turned to adult films [1][2].",
+  "people": [
+   {
+    "name": "Joy B. Rothschild",
+    "role": "founder, 1914"
+   },
+   {
+    "name": "Herbert Rosener",
+    "role": "operator from 1938"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Tenderloin's Oldest Theater",
+    "publisher": "FoundSF (Jack Tillmany)",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Tenderloin%27s_Oldest_Theater",
+    "supports": "1914 opening by Joy B. Rothschild; Goodwins 1916; 10-cent admission; Rosener 1938 foreign-film policy; 1942 premiere; Diabolique run"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "Larkin Theater at 816 Larkin, built 1914, listed as contributor; live and film theatre in the district"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-city-hall-dome",
+  "title": "A dome higher than the Capitol's",
+  "theme": "architecture-landmarks",
+  "year": 1915,
+  "yearEnd": null,
+  "place": {
+   "label": "San Francisco City Hall, 1 Dr. Carlton B. Goodlett Place",
+   "lat": 37.779332,
+   "lon": -122.418728,
+   "precision": "building"
+  },
+  "hook": "Six years after the old City Hall burned, San Francisco still had no plan to replace it. Then a new mayor won an 11-to-1 vote.",
+  "story": "The 1906 earthquake and fire ruined the old City Hall, and a 1909 bond to replace it failed [1]. When James \"Sunny Jim\" Rolph became mayor in 1912, the city had no permanent City Hall, no plans for one, and no money to build one [1]. Rolph tied a March 1912 bond measure to the coming Panama-Pacific Exposition, promised jobs for local workers, and won by eleven to one [1]. John Bakewell and Arthur Brown Jr. won the design competition. Rolph broke ground in spring 1913 and dedicated the building in late December 1915 [1]. The building covers two full city blocks, and its dome rises 306 feet [2]. Rolph liked to tell visiting dignitaries that it was taller than the dome of the U.S. Capitol [1]. San Franciscans boasted that it was \"built within the appropriation and, what is more, it was built without any scandal and without any graft.\" [1]. Around it, a library, an auditorium and later a state building completed a monumental \"City Beautiful\" civic centre [1].",
+  "people": [
+   {
+    "name": "James Rolph Jr.",
+    "role": "mayor"
+   },
+   {
+    "name": "Arthur Brown Jr.",
+    "role": "architect"
+   },
+   {
+    "name": "John Bakewell",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mayor Rolph and the New Civic Center (from San Francisco 1865-1932)",
+    "publisher": "FoundSF / William Issel and Robert Cherny",
+    "year": 1986,
+    "url": "https://www.foundsf.org/index.php?title=Mayor_Rolph_and_the_New_Civic_Center",
+    "supports": "1909 bond failure; 1912 bond 11-to-1; Bakewell & Brown; groundbreaking 1913, dedication Dec 1915; dome boast; 'without any graft' quote"
+   },
+   {
+    "title": "City Hall Restoration Project",
+    "publisher": "City and County of San Francisco (sfgov.org, archived)",
+    "year": null,
+    "url": "https://web.archive.org/web/20090820125630/http://www.sfgov.org/site/cityhall_page.asp?id=5790",
+    "supports": "opened 1915; Arthur Brown Jr.; two city blocks; dome 306 feet"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-barbary-coast-moves-uptown",
+  "title": "When the Barbary Coast moved uptown",
+  "theme": "labor-industry",
+  "year": 1917,
+  "yearEnd": null,
+  "place": {
+   "label": "Mason Street near Eddy (Poodle Dog Restaurant and Hotel, 111 Mason, c. 1910)",
+   "lat": 37.784485,
+   "lon": -122.409481,
+   "precision": "block"
+  },
+  "hook": "A French restaurant with a discreet back driveway. Each time police closed the Barbary Coast, its trade moved a few blocks west.",
+  "story": "Prostitution was one of the first businesses to return to the Uptown Tenderloin after the fire. By autumn 1906 the District Attorney was already trying to shut it down [1]. By 1910 the Poodle Dog Restaurant and Hotel stood at 111 Mason Street, with dining downstairs, rooms upstairs, and a discreet driveway to a \"female boarding house\" at the back [1]. A WPA writer in the 1930s remembered Mason Street as the \"White Way,\" lit by cabarets, the Poodle Dog and Billy Lyons' saloon, \"the Bucket of Blood\" [2]. The same account quotes madam Tessie Wall, who refused to move to San Mateo: \"Why I'd rather be an electric light pole on Powell Street than own all of the county\" [2]. Reformers kept pushing vice out of the Barbary Coast, and it kept landing here. Police ordered the Coast's dance halls closed in 1913. When the Red Light Abatement Act was finally enforced on February 14, 1917, prostitutes scattered, \"especially\" to the Uptown Tenderloin [1]. After another crackdown in 1921, \"many of the clubs followed the parlors into the Tenderloin\" [1].",
+  "people": [
+   {
+    "name": "Tessie Wall",
+    "role": "Tenderloin madam"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "1906 DA crackdown; Poodle Dog at 111 Mason by 1910 with rear 'female boarding house'; 1913 Barbary Coast order; Feb 14 1917 closure; 1921 clubs follow parlors"
+   },
+   {
+    "title": "Tenderloin Before Prohibition (WPA, 1930s)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Tenderloin_Before_Prohibition",
+    "supports": "Mason Street 'White Way', Poodle Dog, Bucket of Blood; Tessie Wall quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-nichi-bei-shimbun",
+  "title": "Japanese America's newspaper on Ellis Street",
+  "theme": "communities",
+  "year": 1923,
+  "yearEnd": 1937,
+  "place": {
+   "label": "650 Ellis Street (Nichi Bei Shimbun offices, 1923-1937)",
+   "lat": 37.784618,
+   "lon": -122.417004,
+   "precision": "building"
+  },
+  "hook": "From a plain apartment block on Ellis Street, an immigrant publisher reached 25,000 readers across the West and urged a generation to put down roots.",
+  "story": "From 1923 to 1937, an influential Japanese-language newspaper was published from 650 Ellis Street, a 1916 apartment building with a stucco front [1]. It was the Nichi Bei Shimbun, run by Kyutaro Abiko [1][2]. Abiko was born in Niigata in 1865, arrived in San Francisco in 1885, and worked menial jobs while he studied, eventually attending UC Berkeley [2]. In 1899 he merged two small papers into the Nichi Bei. By 1910 it was the leading Japanese American paper, and by the 1920s it had San Francisco and Los Angeles editions and about 25,000 readers across the West [2]. Abiko used its pages to urge Issei laborers to settle permanently and raise families in America. He even bought land in Livingston, California, and founded the Yamato Colony for Japanese farmers [2]. After the 1924 Immigration Act shut out new Japanese immigrants, he turned toward the American-born Nisei. He added an English-language section and sponsored study tours to Japan [2]. Abiko died in 1936, and his widow Yona ran the paper until the forced removal of Japanese Americans closed it in 1942 [2].",
+  "people": [
+   {
+    "name": "Kyutaro Abiko",
+    "role": "publisher"
+   },
+   {
+    "name": "Yona Abiko",
+    "role": "publisher after 1936"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "650 Ellis: 1916 apartment building; Japanese-American newspaper published here 1923-1937 under Abiko"
+   },
+   {
+    "title": "Kyutaro Abiko",
+    "publisher": "Densho Encyclopedia (Emily Anderson)",
+    "year": null,
+    "url": "https://encyclopedia.densho.org/Kyutaro_Abiko/",
+    "supports": "biography; 1899 founding; ~25,000 readers; Yamato Colony; English section after 1924; death 1936; Yona; closure 1942"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-hammett-891-post",
+  "title": "Sam Spade's apartment was Hammett's own",
+  "theme": "arts-counterculture",
+  "year": 1928,
+  "yearEnd": 1930,
+  "place": {
+   "label": "891 Post Street at Hyde",
+   "lat": 37.787169,
+   "lon": -122.416383,
+   "precision": "building"
+  },
+  "hook": "A former detective writing ad copy for a jeweller wrote The Maltese Falcon in a studio with a wall bed and then gave the building to Sam Spade.",
+  "story": "Dashiell Hammett began writing while living at 620 Eddy Street, a 1910 apartment house in the Tenderloin [3]. By the late 1920s he had moved to 891 Post Street, at Hyde. There he wrote Red Harvest, The Dain Curse and The Maltese Falcon [1]. City directories list him there in 1928, 1929 and 1930 [1]. In 1928 he wrote from Post Street to publisher Blanche Knopf: \"Some day somebody's going to make 'literature' out of\" the detective story, \"and I'm selfish enough to have my hopes\" [1]. When he finished the Falcon in 1929, he asked his editor to get him the best advance possible [1]. Hammett put Sam Spade in the same building [2]. No record shows which unit Hammett rented. Enthusiasts matched the text of the novel against the building's floor plans and settled on #401, a fourth-floor corner studio with a wall bed and windows on both Post and Hyde [1][2]. The building was later dedicated as a literary landmark, with Hammett's daughter Jo on hand [2].",
+  "people": [
+   {
+    "name": "Dashiell Hammett",
+    "role": "writer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Ghosts in 401",
+    "publisher": "SF Weekly (Mark Athitakis)",
+    "year": 2001,
+    "url": "https://web.archive.org/web/2012/http://www.sfweekly.com/sanfrancisco/the-ghosts-in-401/Content?oid=2141390",
+    "supports": "Hammett at 891 Post in late 1920s; three novels; 1928 Knopf letter; 1929 advance letter; directory listings 1928-30; no apartment number"
+   },
+   {
+    "title": "891 Post Street",
+    "publisher": "Mark Coggins",
+    "year": null,
+    "url": "http://www.markcoggins.com/891-post-street/",
+    "supports": "Spade placed in same building; #401 most likely, no records; corner views of Post and Hyde; literary landmark dedication with Jo Hammett"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "620 Eddy Street: Hammett's residence when he began writing"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-william-taylor-hotel",
+  "title": "A church hidden inside a skyscraper hotel",
+  "theme": "architecture-landmarks",
+  "year": 1930,
+  "yearEnd": null,
+  "place": {
+   "label": "William Taylor Hotel and Temple Methodist Church (now McAllister Tower), 100 McAllister Street",
+   "lat": 37.781185,
+   "lon": -122.413873,
+   "precision": "building"
+  },
+  "hook": "Four Methodist congregations pooled their money and put a 1,500-seat Gothic church inside a dry skyscraper hotel in the middle of the Tenderloin.",
+  "story": "In 1930 San Franciscans got what TIME called a \"brand new 30-story pyramidal skyscraper-church-hotel\" at McAllister and Leavenworth [1]. The National Register counts 28 stories [2]. Four Methodist congregations had merged into Temple Methodist, led by Dr. Walter John Sherman, who spent ten years on the scheme [1]. The building cost $2,800,000. It had 500 guest rooms, 32 tower apartments and seven elevators that reached the roof in 30 seconds. Inside was a Gothic church seating 1,500 [1]. The hotel was named for William \"California\" Taylor, a Forty-Niner preacher. TIME says he set his Bible on an overturned whiskey barrel in Portsmouth Square and sang until the saloons emptied [1]. Timothy Pflueger's firm drew the Gothic-trimmed tower, and Lewis P. Hobart finished it [2][3]. The idea did not last. The hotel never turned a profit, and the church eventually left, losing its investment [3]. The building went on to be the Empire Hotel, federal offices and, from 1981, law-school housing [3].",
+  "people": [
+   {
+    "name": "Walter John Sherman",
+    "role": "pastor and promoter"
+   },
+   {
+    "name": "William Taylor",
+    "role": "Gold Rush street preacher, namesake"
+   },
+   {
+    "name": "Timothy Pflueger",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Religion: Skyscraper Church (William Taylor Hotel)",
+    "publisher": "TIME",
+    "year": 1930,
+    "url": "https://web.archive.org/web/20100715233427/http://www.time.com/time/magazine/article/0,9171,738830,00.html",
+    "supports": "30-story description; cost; 500 rooms, 32 apartments, elevators; 1,500-seat church; four churches combined; Sherman ten years; William Taylor anecdotes"
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "100-120 McAllister: church and hotel, 28 stories, Miller & Pflueger and Lewis P. Hobart, Gothic ornamentation"
+   },
+   {
+    "title": "McAllister Tower Apartments",
+    "publisher": "Wikipedia (pointer)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/McAllister_Tower_Apartments",
+    "supports": "opened 1930; no profit, church left; Empire Hotel, government offices, 1981 law-school housing"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-glide-memorial-1930",
+  "title": "A cattle baron's widow builds a church",
+  "theme": "communities",
+  "year": 1930,
+  "yearEnd": null,
+  "place": {
+   "label": "Glide Memorial Church, 330 Ellis Street at Taylor",
+   "lat": 37.785291,
+   "lon": -122.411697,
+   "precision": "building"
+  },
+  "hook": "Long before the famous choir and the Sunday crowds, Glide began as a quiet memorial from a Sacramento widow, whose foundation also ran a temperance hotel nearby.",
+  "story": "In 1929 Lizzie Glide, a Methodist philanthropist, bought land at Ellis and Taylor and founded the Glide Foundation in memory of her husband, H. L. Glide, a Sacramento cattleman [2]. The church was designed by James W. Plachek and finished in 1930 in an Italian Renaissance style. It has an arcaded base, a corner tower with a cupola, a neon cross that revolves on top, and a cornerstone reading \"Glide Memorial Evangelistic Center 1930\" [1]. Two blocks away, the Glide Foundation owned the 16-story Hotel Californian on Taylor Street from 1935 [1]. It was run for decades as a temperance hotel [3]. Glide stayed conservative until the 1960s, and by then it had a large endowment but no programs [2]. That changed in 1962, when the foundation hired the Rev. Lewis Durham, who soon brought in Cecil Williams. The quiet memorial became one of the most famous liberal churches in the country [2].",
+  "people": [
+   {
+    "name": "Lizzie Glide",
+    "role": "founder"
+   },
+   {
+    "name": "James W. Plachek",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "301 Taylor: 1930, architect James W. Plachek, Italian Renaissance, revolving neon cross, cornerstone text; Hotel Californian owned by Glide Foundation from 1935"
+   },
+   {
+    "title": "Glide Memorial Methodist Church",
+    "publisher": "FoundSF (Chris Carlsson)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Glide_Memorial_Methodist_Church",
+    "supports": "1929 founding by Lizzie Glide as memorial to H.L. Glide; conservative until 1960s; 1962 Durham hiring; Cecil Williams"
+   },
+   {
+    "title": "Glide Memorial Church",
+    "publisher": "Wikipedia (pointer)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Glide_Memorial_Church",
+    "supports": "Hotel Californian operated as a temperance hotel for decades"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-film-row-hyde-street",
+  "title": "Hollywood's lions on Hyde Street",
+  "theme": "labor-industry",
+  "year": 1930,
+  "yearEnd": null,
+  "place": {
+   "label": "Film exchanges, 245-259 Hyde Street ('Film Row')",
+   "lat": 37.78321,
+   "lon": -122.415994,
+   "precision": "building"
+  },
+  "hook": "Carved lions and theatre masks on a Tenderloin block mark where MGM, Fox and United Artists once kept the reels for Market Street's movie palaces.",
+  "story": "The Tenderloin once had its own small Hollywood. Just north of Market Street's movie palaces, studios and distributors ran \"film exchanges,\" offices that stored and handled the films bound for the city's cinemas [1][2]. The earliest were in ordinary brick shops after 1906. From 1920 to 1922, investor Louis R. Lurie built a group of purpose-built exchanges on Golden Gate Avenue, Turk and Leavenworth, designed by Albert Schroepfer. One on Turk Street housed the Pathé Exchange in 1923 [1]. Around 1930 the Bell Brothers added two-story Moderne concrete exchanges on Hyde Street [1]. By 1937, 255-259 Hyde held 20th Century Fox, Metro-Goldwyn-Mayer, Loew's and United Artists, and its facade still carries cast lion heads for MGM and comedy and tragedy masks [1]. Next door, 245-251 Hyde housed Fox and RKO in 1932 [1]. Columbia Pictures was across the street at 230 Hyde from 1932 to 1937 [1]. Decades later 245 Hyde became Wally Heider's recording studio, used by the Grateful Dead and Jefferson Airplane [3].",
+  "people": [
+   {
+    "name": "Louis R. Lurie",
+    "role": "developer of film exchanges"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "film exchange building types; Lurie/Schroepfer exchanges 1920-22; Pathe Exchange 1923; Bell Brothers; tenants of 245-259 Hyde and 230 Hyde; lion heads and masks"
+   },
+   {
+    "title": "Tenderloin's heritage wins national notice",
+    "publisher": "San Francisco Chronicle / SFGATE (John King)",
+    "year": 2009,
+    "url": "https://www.sfgate.com/entertainment/article/Tenderloin-s-heritage-wins-national-notice-3168010.php",
+    "supports": "1930s film-studio buildings on Hyde storing movies for Market Street cinemas; MGM lions and masks at 255 Hyde"
+   },
+   {
+    "title": "Marking Tenderloin's historical side",
+    "publisher": "San Francisco Examiner",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20111111195313/http://www.sfexaminer.com/local/2011/09/marking-tenderloin-s-historical-side",
+    "supports": "245 Hyde later Wally Heider Recordings, used by Grateful Dead, Jefferson Airplane and others"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-original-joes-1937",
+  "title": "Fourteen stools and a sawdust floor",
+  "theme": "labor-industry",
+  "year": 1937,
+  "yearEnd": null,
+  "place": {
+   "label": "Original Joe's, 144 Taylor Street",
+   "lat": 37.783922,
+   "lon": -122.410775,
+   "precision": "building"
+  },
+  "hook": "A Croatian immigrant opened a Depression-era counter on Taylor Street. It grew into the place where, its owner said, politicians and prostitutes ate side by side.",
+  "story": "In 1937 Ante \"Tony\" Rodin, a Croatian immigrant, and a couple of partners opened a lunch counter on the ground floor of a 1910 Taylor Street hotel [2][3]. At first Original Joe's had 14 bar stools and a floor covered in sawdust [2]. Diners watched the cooks work in the open kitchen. As business grew, the owners took over the space next door for a dining room and then added a full bar. The restaurant eventually seated 140 [2][3]. Its best-known dish was Joe's Special, a hash of scrambled eggs and ground beef, served with portions big enough for a family [2]. The waiters wore tuxedos, but the clientele was mixed. In 2007 owner Duggan, one of the Rodin grandchildren who ran it, put it this way: \"We have everyone from the head politician to the head prostitute in here, and we love them all\" [2]. The neon blade sign reading \"Original Joes. Fine Italian Food\" is listed in the historic district survey [1]. A fire in the flue closed the Taylor Street restaurant in 2007, and the family reopened in North Beach [2][3].",
+  "people": [
+   {
+    "name": "Ante 'Tony' Rodin",
+    "role": "founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "144-164 Taylor: 1910 Beverly Hotel building; neon blade sign 'Original Joes. Fine Italian Food'"
+   },
+   {
+    "title": "Fire forces S.F.'s Original Joe's to close",
+    "publisher": "San Francisco Chronicle / SFGATE (Kevin Fagan and Stacy Finz)",
+    "year": 2007,
+    "url": "https://www.sfgate.com/restaurants/article/fire-forces-s-f-s-original-joe-s-to-close-2497220.php",
+    "supports": "founded 1937 by Rodin and partners; 14 stools, sawdust; 140 seats; Joe's Special; tuxedoed waiters; 'head politician to the head prostitute' quote; 2007 fire"
+   },
+   {
+    "title": "Original Joe's",
+    "publisher": "Wikipedia (pointer)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Original_Joe%27s",
+    "supports": "Croatian origin; expansion into adjoining spaces; open kitchen; North Beach reopening"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-california-labor-school",
+  "title": "The school the red scare shut down",
+  "theme": "civil-rights",
+  "year": 1947,
+  "yearEnd": 1951,
+  "place": {
+   "label": "California Labor School, 240 Golden Gate Avenue",
+   "lat": 37.78181,
+   "lon": -122.414629,
+   "precision": "building"
+  },
+  "hook": "Paul Robeson and W.E.B. Du Bois lectured here, and 5,000 students took classes in a year. Then Washington branded it subversive.",
+  "story": "The California Labor School started in 1942 as the Tom Mooney Labor School at Turk and Van Ness [1]. By 1944 more than 100 trade unions supported it, and 5,000 students attended that year [1]. It was accredited, so returning GIs could study there on the GI Bill [1]. In 1947 the school bought 240 Golden Gate Avenue, a 1906 labor and fraternal hall, and moved in [1][3]. It already faced charges of being \"communist dominated.\" Within a month a witness before the House Un-American Activities Committee complained that physicist Frank Oppenheimer taught \"atomic energy\" there [1]. In 1948 the IRS revoked its tax exemption and California's attorney general listed it as subversive [1]. Its teachers and speakers included muralist Anton Refregier, Paul Robeson, W.E.B. Du Bois, Pete Seeger and Frank Lloyd Wright, and the basement held a mural room [1]. Enrollment and money ran out, and in 1951 the school moved to smaller quarters on Divisadero. In 1957, after the IRS seized its desks and papers, it held a last May Day party and closed [1]. A sidewalk plaque now marks 240 Golden Gate [2].",
+  "people": [
+   {
+    "name": "Dave Jenkins",
+    "role": "director 1942-1949"
+   },
+   {
+    "name": "Anton Refregier",
+    "role": "muralist and teacher"
+   }
+  ],
+  "sources": [
+   {
+    "title": "California Labor School",
+    "publisher": "FoundSF (Chris Carlsson)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=California_Labor_School",
+    "supports": "founding 1942; 1944 figures; GI Bill; 1947 move to 240 Golden Gate; HUAC/Oppenheimer; 1948 IRS and AG; speakers; mural room; 1951 move; 1957 closure"
+   },
+   {
+    "title": "Marking Tenderloin's historical side",
+    "publisher": "San Francisco Examiner",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20111111195313/http://www.sfexaminer.com/local/2011/09/marking-tenderloin-s-historical-side",
+    "supports": "commemorative plaque for California Labor School at 240 Golden Gate Ave."
+   },
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "240 Golden Gate Avenue: Red Men's Hall, 1906 labor and fraternal hall"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-black-hawk-jazz",
+  "title": "The Taj Mahal of West Coast jazz",
+  "theme": "arts-counterculture",
+  "year": 1949,
+  "yearEnd": 1963,
+  "place": {
+   "label": "Black Hawk nightclub site, Turk and Hyde streets (200-216 Hyde)",
+   "lat": 37.782837,
+   "lon": -122.415461,
+   "precision": "building"
+  },
+  "hook": "Teenagers listened from a wire cage, Billie Holiday played her last West Coast club dates, and a 19-year-old Johnny Mathis got his big break.",
+  "story": "From 1949 to 1963 a small club at Turk and Hyde drew the biggest names in jazz. It was run by Guido Cacianti with Johnny and Helen Noga [1]. In 1957 TIME called the Black Hawk \"the Taj Mahal of West Coast jazz, where Dave Brubeck blew himself to fame\" [2]. Under a deal with Mayor George Christopher, patrons under 21 could sit in a wire-fenced \"cage\" where they could hear the music without drinking [1]. Billie Holiday and Lester Young played their last West Coast club dates there [1]. The Modern Jazz Quartet played its first West Coast club date there [3]. In 1955 a young sextet brought 19-year-old Johnny Mathis to a Sunday jam session. Helen Noga decided to manage him and persuaded Columbia's George Avakian to come and hear him. Avakian wired his label: \"Have found phenomenal 19 year old boy who could go all the way\" [3]. Miles Davis recorded a live album there in April 1961 [3]. The building is gone, and the corner is a parking lot [3].",
+  "people": [
+   {
+    "name": "Helen Noga",
+    "role": "co-owner, Johnny Mathis's manager"
+   },
+   {
+    "name": "Guido Cacianti",
+    "role": "owner"
+   },
+   {
+    "name": "Dave Brubeck",
+    "role": "pianist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Black Hawk (nightclub)",
+    "publisher": "Wikipedia (pointer)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Black_Hawk_(nightclub)",
+    "supports": "1949-1963 dates; owners; under-21 cage via Mayor Christopher; Holiday and Young's last West Coast club dates"
+   },
+   {
+    "title": "Jazz & poetry in San Francisco clubs",
+    "publisher": "TIME",
+    "year": 1957,
+    "url": "https://web.archive.org/web/20071121080539/http://www.time.com/time/magazine/article/0,9171,825358,00.html",
+    "supports": "'Taj Mahal of West Coast jazz, where Dave Brubeck blew himself to fame'"
+   },
+   {
+    "title": "Epitaph: the Black Hawk",
+    "publisher": "Up From The Deep (Mark Ellinger)",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20110717171443/http://upfromthedeep.com/2010/10/19/epitaph-the-black-hawk/",
+    "supports": "site now parking lot at 200-216 Hyde; MJQ first West Coast club date; Mathis 1955 discovery and Avakian telegram; Miles Davis recording April 1961"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "tenderloin-st-anthonys-dining-room",
+  "title": "Sandwiches at the rectory's back door",
+  "theme": "communities",
+  "year": 1950,
+  "yearEnd": null,
+  "place": {
+   "label": "St. Anthony's Dining Room (former film exchange), 121 Golden Gate Avenue, beside St. Boniface Church",
+   "lat": 37.781787,
+   "lon": -122.412543,
+   "precision": "building"
+  },
+  "hook": "Next to a German church rebuilt from a fire-gutted shell, a Franciscan was tired of watching hungry people eat on street corners.",
+  "story": "When the 1906 fire swept the Tenderloin, almost the only thing left inside today's historic district was the burned shell of St. Boniface Church on Golden Gate Avenue [1]. The Franciscans rebuilt it in 1906 as a Romanesque church for San Francisco's German Catholics [1]. As the neighbourhood changed, the parish turned more and more to the poor and homeless [1]. In 1950 its pastor, Father Alfred Boeddeker, began handing out sandwiches from the rectory's back door [2]. The St. Anthony Foundation says he was \"frustrated to see hungry men and women forced to eat on the street corners\" and wanted a place where everyone could sit down to a hot meal together [2]. That year the foundation took over a 1912 film-exchange building at 101-127 Golden Gate and turned it into a dining room [1]. The kitchen kept growing. In 1962 President John F. Kennedy sent a telegram congratulating it on six million meals [2]. Today a small park at Jones and Eddy carries the Boeddeker name [3].",
+  "people": [
+   {
+    "name": "Father Alfred Boeddeker",
+    "role": "Franciscan pastor, founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register of Historic Places Registration Form: Uptown Tenderloin Historic District",
+    "publisher": "National Park Service (prepared by Michael Corbett)",
+    "year": 2008,
+    "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/08001407_text",
+    "supports": "only shell of St. Boniface survived 1906; church rebuilt 1906, served German population, later poor and homeless; 101-127 Golden Gate converted to St. Anthony Foundation dining room 1950"
+   },
+   {
+    "title": "Our History",
+    "publisher": "St. Anthony Foundation",
+    "year": null,
+    "url": "https://www.stanthonysf.org/history/",
+    "supports": "1950 founding by Father Alfred, pastor of St. Boniface; sandwiches from rectory back door; quote; 1962 JFK telegram for 6 millionth meal"
+   },
+   {
+    "title": "Marking Tenderloin's historical side",
+    "publisher": "San Francisco Examiner",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20111111195313/http://www.sfexaminer.com/local/2011/09/marking-tenderloin-s-historical-side",
+    "supports": "Boedekker [sic] Park at Jones and Eddy"
+   }
+  ],
+  "photo": null
+ }
+]

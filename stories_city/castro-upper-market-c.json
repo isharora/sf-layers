@@ -1,0 +1,669 @@
+[
+  {
+    "id": "castro-upper-market-missouri-mule",
+    "title": "The Castro's first gay bar",
+    "theme": "lgbtq",
+    "year": 1963,
+    "yearEnd": 1973,
+    "place": {
+      "label": "Missouri Mule, 2348 Market St",
+      "lat": 37.76362908701366,
+      "lon": -122.43429440663886,
+      "precision": "building"
+    },
+    "hook": "Before rainbow flags, the Castro was an Irish-Catholic parish emptying out for the suburbs. Then a tavern on Market Street got a new owner and a piano singer.",
+    "story": "In the 1950s and 1960s, Eureka Valley was a working-class, largely Irish-Catholic district whose families were leaving their Victorians for new houses in the Sunset, the Peninsula, Marin and the East Bay [1]. The empty flats and cheap rents left space for something new. In 1963 John Burgoa took over the Missouri Mule at 2348 Market Street, a tavern that had run as a straight bar under the same name for more than a decade, and it became what historians count as the Castro's first gay bar [1][2]. Burgoa ran it until 1973. Its star was a 'campy' singer called Vivacious Vivian, who played honky-tonk piano while, in one recollection, 'all order of gay men gathered round' [1]. Others soon followed: the Honey Bucket at 4146 18th Street, The Mistake at 3988 18th, and restaurants like Burke's Corner House [1]. Public historian Gerard Koskovich describes the whole area as a 'declining working-class neighborhood' that was already turning into a gay enclave. By the early 1970s, he says, it 'was becoming very clearly marked as a gay neighborhood' [2].",
+    "people": [
+      {
+        "name": "John Burgoa",
+        "role": "Proprietor of the Missouri Mule, 1963-1973"
+      },
+      {
+        "name": "Vivacious Vivian",
+        "role": "Piano entertainer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Missouri Mule as first Castro gay bar in 1963, Burgoa, Vivacious Vivian, other early bars, postwar exodus"
+      },
+      {
+        "title": "San Francisco's Castro Theatre: A Cultural 'Temple' Facing a Fight for Its Future",
+        "publisher": "KQED (Bay Curious)",
+        "year": 2023,
+        "url": "https://www.kqed.org/news/11942942/san-franciscos-castro-theatre-a-cultural-temple-facing-a-fight-for-its-future",
+        "supports": "Missouri Mule opened as Castro's first gay bar in 1963; Koskovich quotes on the neighbourhood"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-twin-peaks-tavern-windows",
+    "title": "The bar that took down its curtains",
+    "theme": "lgbtq",
+    "year": 1972,
+    "yearEnd": 2003,
+    "place": {
+      "label": "Twin Peaks Tavern, 401 Castro St",
+      "lat": 37.762271703690324,
+      "lon": -122.43496692807867,
+      "precision": "building"
+    },
+    "hook": "Gay bars hid behind painted windows. Two women bought a dive on Castro and Market and did the unthinkable: they let the street look in.",
+    "story": "Until 1971 the Twin Peaks Tavern was, in MaryEllen Cunha's words, 'a dive Irish bar' that served neighbourhood men and visiting seamen. Its windows were papered over from inside and painted on the outside. One old patron remembered that this way 'wives couldn't see their husbands drinking in here' [1]. Cunha had worked in Peggy Forster's liquor store at Valencia and 16th. State records show her licence at Twin Peaks was issued on October 11, 1972 [1]. The two women, known to regulars as 'The Girls', tore out the suspended ceiling, redid the room as a fern bar and put in full-length plate glass. 'People were used to being in windowless bars, but I didn't like it! … We wanted to look out!' Cunha recalled [1]. It is thought to be the first gay bar in America with open plate-glass windows. That kind of visibility still had limits: the house rule was no touching or kissing [2]. Cunha and Forster ran the bar until 2003, when they sold it to two of their bartenders. The city made it Landmark No. 264 in 2013 [1][3].",
+    "people": [
+      {
+        "name": "MaryEllen Cunha",
+        "role": "Co-owner, 1972-2003"
+      },
+      {
+        "name": "Peggy Forster",
+        "role": "Co-owner, 1972-2003"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Twin Peaks Tavern, 401 Castro Street: Landmark Designation Report",
+        "publisher": "San Francisco Planning Department",
+        "year": 2012,
+        "url": "https://default.sfplanning.org/Preservation/landmarks_designation/Adopted_TwinPeaksLM_Report.pdf",
+        "supports": "Pre-1972 blacked-out windows, licence date, Cunha quotes, fern bar remodel, first open-window gay bar, period to 2003"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Plate-glass windows as symbol of visibility; house rule against touching or kissing"
+      },
+      {
+        "title": "Twin Peaks Tavern (Wikipedia, citing SFGate and SF Weekly)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Twin_Peaks_Tavern",
+        "supports": "2003 sale to bartenders; landmark designation 2013"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-castro-camera",
+    "title": "A camera shop becomes a headquarters",
+    "theme": "civil-rights",
+    "year": 1973,
+    "yearEnd": 1978,
+    "place": {
+      "label": "Castro Camera, 573-575 Castro St",
+      "lat": 37.75977530515031,
+      "lon": -122.43453520747435,
+      "precision": "building"
+    },
+    "hook": "Angry that a developer had ruined his film, Harvey Milk opened his own camera store. It became the front office of a political revolution.",
+    "story": "Harvey Milk was a keen amateur photographer. After a lab ruined a roll of his film, he and his partner Scott Smith spent their last $1,000 opening a camera shop in an 1894 Victorian storefront on Castro Street [1]. The city's landmark report dates the shop to 1973. Some accounts say 1972 [1][2]. The building had once held hardware stores, a plumber and a tinsmith. Now it filled up with new arrivals looking for friends, work and a place to belong. Milk even made the shop an official polling station [1]. Castro Camera was the headquarters for all four of his campaigns, and from 1975 to 1978 he lived in the flat upstairs [2]. It was here that photographer Daniel Nicoletta, future campaign manager Anne Kronenberg and activist Cleve Jones first met him [1]. His fourth campaign put him on the Board of Supervisors in 1977. It changed San Francisco politics: for the first time, openly gay candidates were widely accepted in an American city [2]. Since Milk's assassination in 1978, his memorial march has often set off from this doorway every year [1].",
+    "people": [
+      {
+        "name": "Harvey Milk",
+        "role": "Shop owner and Supervisor"
+      },
+      {
+        "name": "Scott Smith",
+        "role": "Milk's partner and co-founder of the shop"
+      },
+      {
+        "name": "Daniel Nicoletta",
+        "role": "Photographer and shop assistant"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Castro Camera (Wikipedia, citing Shilts, The Mayor of Castro Street)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Castro_Camera",
+        "supports": "Founding story, $1,000, polling station, inner circle met at the shop, memorial march, 1972 date"
+      },
+      {
+        "title": "San Francisco Landmark #227: Castro Camera and Harvey Milk Residence",
+        "publisher": "NoeHill (quoting Planning Commission Resolution 14992)",
+        "year": 2000,
+        "url": "https://noehill.com/sf/landmarks/sf227.asp",
+        "supports": "1973-1978 dates, campaign HQ, residence 1975-78, 1894 building by Fernando Nelson, earlier tenants"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-castro-street-fair",
+    "title": "The merchants who wouldn't let them in",
+    "theme": "labor-industry",
+    "year": 1974,
+    "place": {
+      "label": "Castro Street between 18th and 19th",
+      "lat": 37.75940678530243,
+      "lon": -122.4350212189015,
+      "precision": "block"
+    },
+    "hook": "The old merchants' group tried to block a licence for two gay antiques dealers. Harvey Milk answered by starting his own association and throwing a party.",
+    "story": "In the early 1970s even gay men who had started their own Castro businesses were not welcome in the local Eureka Valley Merchants Association. In 1973 the association tried to block a business licence for two gay men who wanted to open an antiques store. Harvey Milk's response was to organise gay shop owners into a rival group, the Castro Village Association [1]. Milk was its first president. Working from his shop at 575 Castro, he used it to launch the first Castro Street Fair [2]. That fair drew about 5,000 people and brought a flood of dollars into local cash registers. Even the old-time merchants came round [1]. The planning department's own history gives two dates for the first fair, 1974 and 1975. The festival itself counts from October 1974 [1][3]. In 1977 fairgoers could pay to dunk Milk in a water tank outside Castro Camera, to raise money against the anti-gay Briggs Initiative [1]. The fair has become a fixture on the first Sunday in October [1].",
+    "people": [
+      {
+        "name": "Harvey Milk",
+        "role": "First president of the Castro Village Association"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Merchants association blocking licence, founding of CVA, 5,000 attendees, 1977 dunk tank; gives both 1974 and 1975 for first fair"
+      },
+      {
+        "title": "San Francisco Landmark #227: Castro Camera and Harvey Milk Residence",
+        "publisher": "NoeHill (quoting Planning Commission Resolution 14992)",
+        "year": 2000,
+        "url": "https://noehill.com/sf/landmarks/sf227.asp",
+        "supports": "Milk revived the Castro Village Association, was first president, launched first fair"
+      },
+      {
+        "title": "Castro Street Fair",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Castro_Street_Fair",
+        "supports": "First fair October 1974; first Sunday in October"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-most-holy-redeemer",
+    "title": "The parish that learned to care",
+    "theme": "lgbtq",
+    "year": 1977,
+    "yearEnd": 1987,
+    "place": {
+      "label": "Most Holy Redeemer Church, 100 Diamond St",
+      "lat": 37.760553549305804,
+      "lon": -122.43736889778987,
+      "precision": "building"
+    },
+    "hook": "In 1977 protesters chanted outside its doors. Ten years later its empty convent was taking in the dying.",
+    "story": "Most Holy Redeemer was the parish church of old Irish-Catholic Eureka Valley, and at first it resisted the gay newcomers [1]. On June 7, 1977, 'Orange Tuesday', Florida voters had just repealed a gay-rights ordinance. Marchers left the Castro and stopped outside the church to chant 'Two, four, six, eight, separate the church and state' [1]. Things began to change in 1983. Archbishop John Quinn sent a new pastor, Fr. Tony McGuire, who brought the parish's mostly older women together with a handful of gay parishioners [2]. That same year gay members set up an outreach committee and ran a booth at the Castro Street Fair [1]. When AIDS came, parishioners drove sick neighbours to doctors and helped around their houses. The older women were central to this work, and Sister Cleta Harold helped lead the ministry [1][2]. In 1985 the Examiner described the congregation as 'mostly older people and younger gay men who—because of AIDS—were facing the same fears of disease and death' [1]. From 1986 the parish kept a scroll of members who had died of AIDS [2]. In 1987 its disused convent across the street opened as Coming Home Hospice, reportedly the nation's first AIDS hospice [1].",
+    "people": [
+      {
+        "name": "Fr. Tony McGuire",
+        "role": "Pastor from 1983"
+      },
+      {
+        "name": "Sister Cleta Harold",
+        "role": "Led the parish AIDS ministry"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Initial resistance, Orange Tuesday chant, 1983 outreach committee, Examiner quote, Sister Cleta Harold, Coming Home Hospice 1987 at 115 Diamond"
+      },
+      {
+        "title": "Most Holy Redeemer Church, San Francisco (Wikipedia, citing America magazine's 'Plague' podcast)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Most_Holy_Redeemer_Church,_San_Francisco",
+        "supports": "McGuire appointed 1983, older women and gay men, AIDS care, 1986 scroll"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-elephant-walk-white-night",
+    "title": "The night police stormed the Elephant Walk",
+    "theme": "civil-rights",
+    "year": 1979,
+    "place": {
+      "label": "Elephant Walk bar, 500 Castro St (18th & Castro)",
+      "lat": 37.76068858183188,
+      "lon": -122.43514048323591,
+      "precision": "building"
+    },
+    "hook": "After City Hall burned, a squad of officers drove to 18th and Castro, smashed a bar's plate glass and started swinging clubs.",
+    "story": "On May 21, 1979, Dan White was convicted only of manslaughter for killing Harvey Milk and Mayor George Moscone. Thousands marched from the Castro to City Hall, smashing windows and setting police cars on fire [1]. Hours later police cars carrying dozens of officers came to the Castro. Against orders, they went into the Elephant Walk at 18th and Castro, shattered its big plate-glass windows and beat the customers. Then they turned on people in the street [2]. Cleve Jones ran back to his apartment and started a phone tree: 50 neighbours, each of whom rang 10 more. Soon a crowd was shouting 'Go home' at the police [1]. The trouble lasted nearly two hours, until Police Chief Charles Gain arrived and ordered his officers out [2]. The next day would have been Milk's 49th birthday. The community went ahead with its planned party anyway. Volunteers trained as monitors at nearby Douglass Elementary, and first-aid posts were hidden in apartments and behind the Castro Theatre [1]. Between 10,000 and 20,000 people filled Castro and Market to dance. Gay leaders refused to apologise for the night before [1][2].",
+    "people": [
+      {
+        "name": "Cleve Jones",
+        "role": "Activist who organised the phone tree"
+      },
+      {
+        "name": "Charles Gain",
+        "role": "Police chief"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Police attack on Elephant Walk, Jones's phone tree, Gain's order, Douglass Elementary training, hidden infirmaries"
+      },
+      {
+        "title": "White Night riots (Wikipedia, citing Shilts, The Mayor of Castro Street)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/White_Night_riots",
+        "supports": "Officers entered against orders, smashed windows, two-hour incident, 10,000-20,000 at birthday rally"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-castro-station-milk-plaza",
+    "title": "A subway stop named for Harvey",
+    "theme": "modern-city",
+    "year": 1980,
+    "yearEnd": 1997,
+    "place": {
+      "label": "Castro Station and Harvey Milk Plaza, Market & Castro",
+      "lat": 37.76245,
+      "lon": -122.4353,
+      "precision": "block"
+    },
+    "hook": "The streetcars had come out of the Twin Peaks Tunnel at this corner since 1918. In 1980 the city went underground, and Sylvester sang to launch it.",
+    "story": "Streetcars had come out of the Twin Peaks Tunnel at Market and Castro since 1918. The Castro Station, dug as part of the BART-era Market Street subway, finally opened to Muni Metro riders on June 11, 1980 [1][2]. Architect Howard Grant wanted each of his stations to reflect its neighbourhood. Here he designed a diagonal stair, a sunken garden with a clerestory window, cedar benches and red-brick paving [1]. About two weeks before service began, a 'Metro Madness' party was held on the Van Ness platform as a benefit for the Harvey Milk Fund, with a shuttle from the Castro. The disco star Sylvester was the special guest [1]. The Board of Supervisors had named the plaza for Milk in 1979. It was only formally dedicated on September 15, 1985, during the Castro Street Fair [1]. On November 7, 1997, the 20th anniversary of Milk's election, a giant rainbow flag designed by Gilbert Baker was raised on a pole above the plaza. It has become a worldwide symbol of LGBTQ+ pride [1].",
+    "people": [
+      {
+        "name": "Howard Grant",
+        "role": "Station architect, Reid & Tarics Associates"
+      },
+      {
+        "name": "Gilbert Baker",
+        "role": "Rainbow flag designer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A history of Castro Station and Harvey Milk Plaza, turning 40 this year",
+        "publisher": "Hoodline (Steven Bracco)",
+        "year": 2020,
+        "url": "https://hoodline.com/2020/01/a-history-of-castro-station-and-harvey-milk-plaza-turning-40-this-year/",
+        "supports": "Opening date, design features, Metro Madness with Sylvester, 1979 naming, 1985 dedication, 1997 flag"
+      },
+      {
+        "title": "Castro station",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Castro_station",
+        "supports": "Opened June 11, 1980; designed by Howard Grant; Twin Peaks Tunnel link"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Muni opened station at Market and Castro in 1980"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-names-project",
+    "title": "Where the AIDS Quilt was sewn",
+    "theme": "lgbtq",
+    "year": 1987,
+    "yearEnd": 2001,
+    "place": {
+      "label": "NAMES Project workshop, 2362 Market St",
+      "lat": 37.76342830599002,
+      "lon": -122.43463765807844,
+      "precision": "building"
+    },
+    "hook": "A mother took a bus from West Virginia rather than mail her son's quilt panel. She had to see the place where his memory would live.",
+    "story": "In November 1985 Cleve Jones was planning the yearly march for Harvey Milk and George Moscone when he learned that more than 1,000 San Franciscans had died of AIDS. He asked marchers to write the names of the dead on placards. Taped to the wall of a federal building, the placards looked to him like a patchwork quilt [1]. In 1986 he made the first panel, for his friend Marvin Feldman. In June 1987 a small group gathered in a storefront at 2362 Market Street, a former silent-movie house, to start the NAMES Project [2]. Volunteers worked at donated sewing machines on three-by-six-foot panels [1]. There were 40 panels at that June's Freedom Day parade. On October 11, 1987, there were 1,920 on the National Mall, and half a million people came to see them [2]. The storefront became an unofficial community centre where people grieved and sometimes learned that a friend had died. One often-told story is of a mother who came by bus from West Virginia with a panel she had made in secret for her son. She said she 'couldn't just put her son in an envelope' [2]. The Quilt left for Atlanta in 2001 [1][2].",
+    "people": [
+      {
+        "name": "Cleve Jones",
+        "role": "Conceived the Quilt"
+      },
+      {
+        "name": "Mike Smith",
+        "role": "NAMES Project co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #241: Jose Theater / NAMES Project",
+        "publisher": "NoeHill (quoting Planning Commission Resolution 16710)",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/sf241.asp",
+        "supports": "First panel, June 1987 founding, 40 and 1,920 panels, community centre, West Virginia mother, move in 2001"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "1985 origin at the Milk-Moscone march, panel size, donated sewing machines, half a million visitors, Atlanta move"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-pope-mission-dolores",
+    "title": "The Pope and Brendan, age four",
+    "theme": "communities",
+    "year": 1987,
+    "place": {
+      "label": "Mission Dolores Basilica, 3321 16th St",
+      "lat": 37.76435595924026,
+      "lon": -122.42749444409012,
+      "precision": "building"
+    },
+    "hook": "A block away, 2,000 protesters chanted 'Shame!' Inside, the Pope bent down to hug a four-year-old in a tiny blue suit.",
+    "story": "On September 17, 1987, Pope John Paul II came to Mission Dolores Basilica. Among the congregation were people with AIDS and AIDS-related complex. The Chronicle counted 100 and the Los Angeles Times 62, along with their loved ones, some of them gay partners [1][2]. A block away, behind police barricades, about 2,000 demonstrators shouted 'Shame, shame, shame' and 'Pope go home!' The Chronicle called it the largest protest of his American tour [2]. Inside, the Pope walked slowly up the aisle and stopped to hold Brendan O'Rourke. The four-year-old had caught the virus from a blood transfusion after being born three months early. His father held him, and he wore a tiny blue suit [1]. 'God loves you all, without distinction, without limit,' the Pope said [1][2]. Afterwards Brendan's mother, Elaine, said she hoped the embrace would ease public hysteria about contact with people with AIDS [1]. Dignity, the gay Catholic group, called the visit a 'meaningless pat on the head.' Fred Powell, a 52-year-old gay man with AIDS, said: 'I will see God soon enough. But right now, the Pope will do' [1].",
+    "people": [
+      {
+        "name": "Pope John Paul II",
+        "role": "Visitor"
+      },
+      {
+        "name": "Brendan O'Rourke",
+        "role": "Four-year-old AIDS patient"
+      },
+      {
+        "name": "Archbishop John R. Quinn",
+        "role": "Host"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pope Assures AIDS Patients of God's Love",
+        "publisher": "Los Angeles Times (Mark A. Stein and Dan Morain)",
+        "year": 1987,
+        "url": "https://www.latimes.com/archives/la-xpm-1987-09-18-mn-5754-story.html",
+        "supports": "62 patients, Brendan O'Rourke details, quotes from Pope, Powell, Elaine O'Rourke, Dignity reaction"
+      },
+      {
+        "title": "Pope in S.F.: When John Paul II blessed AIDS sufferers",
+        "publisher": "San Francisco Chronicle (Carl Nolte)",
+        "year": 2015,
+        "url": "https://www.sfchronicle.com/bayarea/article/Pope-in-S-F-When-John-Paul-II-blessed-AIDS-6520215.php",
+        "supports": "Date, 100 people with AIDS/ARC, 2,000 protesters, largest protest of tour"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-maitri-hospice",
+    "title": "The drag queen who became an abbot",
+    "theme": "communities",
+    "year": 1987,
+    "yearEnd": 1990,
+    "place": {
+      "label": "Hartford Street Zen Center, 57 Hartford St",
+      "lat": 37.76158951596357,
+      "lon": -122.43363816485588,
+      "precision": "building"
+    },
+    "hook": "Tommy Dee was billed as 'the boy who looks like the girl next door.' Decades later, as Issan Dorsey, he opened a Zen hospice for men dying of AIDS.",
+    "story": "Tommy Dorsey Jr. was thrown out of the Navy for a relationship with another sailor. He became a drag star on the road, billed as 'Tommy Dee, the boy who looks like the girl next door' [1]. By the mid-1960s years of hard drugs had put his life in danger. The temple's own history says that after watching Allen Ginsberg calm a street fight with a Zen chant, he went to Shunryu Suzuki's temple in Japantown [2]. By 1980 he was a Zen priest and helped found a Gay Buddhist Club. It soon moved to a house on Hartford Street, and a zendo opened in its basement on December 8, 1981 [2]. In 1987 the group opened the Maitri Hospice for people dying of AIDS. It is described as the first Buddhist hospice of its kind in the United States [2]. It later leased the building next door and offered nine beds [2][3]. Dorsey became abbot in 1989 under the name Issan, 'One Mountain' [1]. He died of AIDS on September 6, 1990. Some of his ashes lie under a granite boulder from Tassajara in the temple garden [2].",
+    "people": [
+      {
+        "name": "Issan Dorsey (Tommy Dorsey Jr.)",
+        "role": "Founder of Maitri Hospice, abbot"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Issan Dorsey (Wikipedia, citing Shambhala Sun and Comstock, Que(e)rying Religion)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Issan_Dorsey",
+        "supports": "Navy expulsion, drag billing, abbot 1989, dharma name meaning, death date"
+      },
+      {
+        "title": "Our History",
+        "publisher": "Hartford Street Zen Center (Issan-ji)",
+        "year": 2024,
+        "url": "https://hszc.org/about/history-of-hszc/",
+        "supports": "Ginsberg anecdote, Gay Buddhist Club, 1981 zendo, 1987 Maitri Hospice, nine beds, ashes"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Maitri Hospice started by Hartford Street Zen Center in building next door"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-sylvester-collingwood",
+    "title": "Seventy thousand voices under Sylvester's window",
+    "theme": "arts-counterculture",
+    "year": 1988,
+    "place": {
+      "label": "Collingwood Street, near 18th",
+      "lat": 37.760480075753414,
+      "lon": -122.43624305965253,
+      "precision": "street"
+    },
+    "hook": "Too sick to leave his Castro flat, the 'Mighty Real' disco star heard the whole street fair chanting his name through his bedroom window.",
+    "story": "Sylvester sang in a soaring falsetto and wore glitter and platform shoes. That set him apart from the Castro's crowd of look-alike moustached 'clones', and he said so [1][2]. His biographer Joshua Gamson called him the neighbourhood's 'undisputed First Lady.' He was a regular at the Elephant Walk bar and a friend of Harvey Milk [1]. On the night after the White Night riot in 1979, he sang 'You Make Me Feel (Mighty Real)' at Milk's birthday party in the street [2]. His partner Rick Cranmer died of AIDS in 1987. Sylvester, by then ill himself, moved into an apartment on Collingwood Street [1]. In June 1988 he rode in the Freedom Day parade in a wheelchair in front of the People with AIDS banner. That October's Castro Street Fair was named 'A Tribute to Sylvester' [1]. The city's LGBTQ history puts the crowd at 70,000 and dates the tribute to late 1989. That can't be right, because Sylvester died on December 16, 1988 [1][2]. He was too weak to come down, but the chants of 'We love you, Sylvester!' reached his bedroom [1][2]. He left his future royalties to AIDS charities [1].",
+    "people": [
+      {
+        "name": "Sylvester (Sylvester James Jr.)",
+        "role": "Singer"
+      },
+      {
+        "name": "Rick Cranmer",
+        "role": "Sylvester's partner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sylvester (singer) (Wikipedia, citing Gamson, The Fabulous Sylvester, 2005)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Sylvester_(singer)",
+        "supports": "Collingwood apartment, Cranmer, 1988 parade and fair tribute, chants heard from bedroom, death date, royalties, 'First Lady'"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Elephant Walk, anti-clone persona, 1979 birthday party performance, 70,000 at fair tribute (dated late 1989)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-dyke-march",
+    "title": "Dykes take Dolores Park",
+    "theme": "lgbtq",
+    "year": 1993,
+    "place": {
+      "label": "Mission Dolores Park",
+      "lat": 37.7596,
+      "lon": -122.427,
+      "precision": "area"
+    },
+    "hook": "Pride was getting big, glossy and corporate. So on a June evening in 1993, ten thousand women gathered on the hillside and simply walked to the Castro.",
+    "story": "By the early 1990s San Francisco's Pride parade had grown elaborate and commercial. Many lesbians wanted a day of their own [1]. In June 1993, on the Saturday evening before the parade, the first San Francisco Dyke March set off from Dolores Park and walked to Castro and Market. The history calls it militant, participatory and informal. It drew 10,000 people. The next year more than twice as many came: 25,000 [1]. The march still begins with a rally and cultural programme on the park's slopes, and still asks men to cheer from the sidelines [2]. Organisers describe it as a day when 'dykes can proclaim space, rights, visibility and respect,' and they say it includes trans, genderqueer and gender-fluid dykes [2]. From 2004 Dolores Park also became the starting point for the Trans March on the Friday of Pride weekend. That march heads to Turk and Taylor Streets in the Tenderloin, where the 1966 Compton's Cafeteria riot took place [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Donna J. Graves & Shayne E. Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "First Dyke March June 1993 from Dolores Park to Castro and Market, 10,000 then 25,000; Trans March from 2004"
+      },
+      {
+        "title": "Herstory",
+        "publisher": "San Francisco Dyke March",
+        "year": 2026,
+        "url": "https://www.thedykemarch.org/herstory",
+        "supports": "Held since 1993, Dolores Park rally, dyke-only march, mission statement"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-pink-triangle-park",
+    "title": "Fifteen pylons for the pink triangle",
+    "theme": "war-military",
+    "year": 2001,
+    "place": {
+      "label": "Pink Triangle Park, Market & 17th St",
+      "lat": 37.7627,
+      "lon": -122.43585,
+      "precision": "block"
+    },
+    "hook": "A weedy scrap of city land above the Muni tunnel became America's first memorial to the gay victims of Nazi persecution.",
+    "story": "Where Castro, Market and 17th Streets meet, there was once a city-owned scrap of land choked with weeds, vines and trash. In June 2001 neighbours from the Eureka Valley Promotion Association held a 'Big Dig' with a city public works crew. In October more than 20 volunteers came back to plant 40 rose bushes and 30 rosemary plants [1]. Artists Robert Bruce and Susan Martin designed the memorial. Bruce had been a founding member of STOP AIDS in 1982 [2]. It is a set of 15 granite pylons, each inlaid with a pink quartz triangle, arranged together into one larger triangle that points toward Harvey Milk Plaza [2]. The stone was cut in Minnesota. The memorial was dedicated on December 10, 2001, the anniversary of the Universal Declaration of Human Rights [1][3]. Some later accounts give its opening as 2003 [4]. It is called the first permanent, free-standing memorial in America to the gay men and lesbians persecuted by Nazi Germany [3][4]. The artists wanted visitors to remember the colours the camps assigned: pink triangles for gay men, black triangles for lesbians, yellow stars for Jews [2]. Visitors may take one quartz stone home [3].",
+    "people": [
+      {
+        "name": "Robert Bruce",
+        "role": "Artist"
+      },
+      {
+        "name": "Susan Martin",
+        "role": "Artist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chronology 2001 – 2008",
+        "publisher": "Pink Triangle Memorial / Eureka Valley Foundation",
+        "year": 2026,
+        "url": "https://pinktrianglememorial.org/chronology/",
+        "supports": "Big Dig June 2001, October planting, pylons cut in Minnesota, December 10 timing"
+      },
+      {
+        "title": "The Vision of the Artists",
+        "publisher": "Pink Triangle Memorial",
+        "year": 2026,
+        "url": "https://pinktrianglememorial.org/vision/",
+        "supports": "15 granite pylons with quartz triangles, orientation to Milk Plaza, artists' biographies, triangle colours"
+      },
+      {
+        "title": "Pink Triangle Memorial (home page)",
+        "publisher": "Pink Triangle Memorial",
+        "year": 2026,
+        "url": "https://pinktrianglememorial.org/",
+        "supports": "Dedicated December 10, 2001; first LGBTQ Holocaust memorial in US; take a stone"
+      },
+      {
+        "title": "Pink Triangle Park",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Pink_Triangle_Park",
+        "supports": "First permanent free-standing US memorial to gay Holocaust victims; lists 2003 opening"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-santana-mission-high",
+    "title": "Santana comes home to Mission High",
+    "theme": "arts-counterculture",
+    "year": 2011,
+    "place": {
+      "label": "Mission High School, 3750 18th St",
+      "lat": 37.761597386956254,
+      "lon": -122.42697833197862,
+      "precision": "building"
+    },
+    "hook": "Some 45 years after he sat through algebra here, a guitar legend walked back in, dressed all in white, and played 'Oye Como Va' with the school guitar club.",
+    "story": "Carlos Santana grew up playing in Tijuana bar bands. He became a US citizen in 1965 [2], and as a teenager in the mid-1960s he studied at Mission High School on 18th Street, across from Dolores Park [1]. On October 24, 2011, he came back for the first time since his school days. He wore white from head to toe [1]. Standing before the school's 700 students with his wife, drummer Cindy Blackman Santana, actor Edward James Olmos and film producer Peter Bratt, he told them: 'If you can remember only one thing today, remember this: You are significant. You are meaningful and you matter' [1]. The visit was organised by his Milagro Foundation. It celebrated a school that had long struggled but was sending more students to college and had just brought its music programme back after years of silence [1]. His junior-year yearbook photo was on display in the school's alumni museum. Then Santana played 'Oye Como Va' with members of the guitar club, which recent graduate Gilberto Mejia had founded in 2007. 'It's probably the best moment in my life, well, so far,' Mejia said [1].",
+    "people": [
+      {
+        "name": "Carlos Santana",
+        "role": "Guitarist and Mission High alumnus"
+      },
+      {
+        "name": "Gilberto Mejia",
+        "role": "Founder of the school guitar club"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Santana returns to alma mater, guitar blazing",
+        "publisher": "San Francisco Chronicle / SFGATE (Jill Tucker)",
+        "year": 2011,
+        "url": "https://www.sfgate.com/bayarea/article/Santana-returns-to-alma-mater-guitar-blazing-2394020.php",
+        "supports": "All details of 2011 visit, mid-1960s attendance, quotes"
+      },
+      {
+        "title": "Carlos Santana",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Carlos_Santana",
+        "supports": "Tijuana upbringing; naturalised 1965"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "castro-upper-market-castro-theatre-seats",
+    "title": "The fight over the Castro's seats",
+    "theme": "architecture-landmarks",
+    "year": 2026,
+    "yearEnd": null,
+    "place": {
+      "label": "Castro Theatre, 429 Castro St",
+      "lat": 37.762012941541364,
+      "lon": -122.43469620924361,
+      "precision": "building"
+    },
+    "hook": "The rows of red seats were almost sacred. When a concert promoter moved to rip them out, the neighbourhood fought it for two years.",
+    "story": "Timothy Pflueger's 1922 movie palace became Landmark No. 100 in 1976 [3]. In the 1970s programmer Mel Novikoff brought back old films, art-house and foreign pictures, to draw in the neighbourhood's fast-growing gay audience [2]. In January 2022, Berkeley promoter Another Planet Entertainment leased it. Its plan was to flatten the raked floor and remove the permanent seats so the hall could host concerts [1][3]. A 'Save the Seats' campaign argued that the movie-palace seating was part of the building's historic character [3]. After nearly two years of argument, City Hall approved the plan. The theatre closed after a February 4, 2024 screening of 'Victor/Victoria' [1]. It reopened exactly two years and a day later, after a $41 million renovation. More than 1,000 people lined up around the block [1]. Organist David Hegarty rose out of the stage floor as he had for much of the past half century. The Sisters of Perpetual Indulgence celebrated him, and the night ended with 'The Adventures of Priscilla, Queen of the Desert' on 35mm [1]. About 650 motorised, removable seats now give 1,150 places for films. The balcony was left unchanged [1].",
+    "people": [
+      {
+        "name": "Timothy Pflueger",
+        "role": "Architect"
+      },
+      {
+        "name": "David Hegarty",
+        "role": "Theatre organist"
+      },
+      {
+        "name": "Rafael Mandelman",
+        "role": "Supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "S.F.'s Castro Theatre reopens after $41M renovation, putting controversial seating to the test",
+        "publisher": "San Francisco Chronicle (G. Allen Johnson)",
+        "year": 2026,
+        "url": "https://www.sfchronicle.com/entertainment/theater/article/castro-theatre-reopens-renovation-21332679.php",
+        "supports": "Closure Feb 4 2024, reopening Feb 6 2026, $41M, seating numbers, reopening programme"
+      },
+      {
+        "title": "San Francisco's Castro Theatre: A Cultural 'Temple' Facing a Fight for Its Future",
+        "publisher": "KQED (Bay Curious)",
+        "year": 2023,
+        "url": "https://www.kqed.org/news/11942942/san-franciscos-castro-theatre-a-cultural-temple-facing-a-fight-for-its-future",
+        "supports": "Nasser brothers, Pflueger, Novikoff programming, renovation dispute"
+      },
+      {
+        "title": "Castro Theatre",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Castro_Theatre",
+        "supports": "Landmark #100 in 1976; APE lease January 2022; Save the Seats campaign"
+      }
+    ],
+    "photo": null
+  }
+]

@@ -1,0 +1,748 @@
+[
+ {
+  "id": "presidio-refugee-tent-city",
+  "title": "Sixteen Thousand Refugees in Army Tents",
+  "theme": "quake1906",
+  "year": 1906,
+  "yearEnd": 1908,
+  "place": {
+   "label": "Earthquake cottages behind the old Post Hospital, Lincoln Blvd & Funston Ave",
+   "lat": 37.80035,
+   "lon": -122.45545,
+   "precision": "block"
+  },
+  "hook": "As the city burned, refugees streamed west to the Presidio, where the Army laid out a numbered grid of 3,000 tents with street corners and directories.",
+  "story": "Within hours of the 5:12 a.m. shock on April 18, 1906, Presidio troops were in the city fighting fires and keeping order [2]. As the flames spread across the east side, homeless San Franciscans walked west toward Golden Gate Park and the Presidio. The Army eventually sheltered 20,000 people in military-style tent camps, 16,000 of them on the Presidio [1]. There were four camps on the post. The largest sat just east of the Army's General Hospital, and a separate, isolated camp held refugees from Chinatown [1]. Some 3,000 tents stood in a street grid, with numbers and corner directories. Children formed playgroups, and dining halls became the place to gather [1]. The Presidio camps were the first to close, in June 1906. Around the city, union carpenters built 5,300 small wooden cottages for people still without homes. Tenants paid $2 a month toward the $50 price, and once a cottage was paid off it had to be hauled away to a lot of its own. The last camp closed in June 1908 [1]. Two of those 'earthquake shacks' survive here, behind the old post hospital at Lincoln Boulevard and Funston Avenue [1].",
+  "people": [
+   {
+    "name": "Frederick Funston",
+    "role": "acting Army commander in San Francisco, April 1906"
+   }
+  ],
+  "sources": [
+   {
+    "title": "1906 Earthquake: Refugee Camps",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/historyculture/1906-earthquake-relief-efforts-living-accommodations.htm",
+    "supports": "20,000 in Army camps, 16,000 at Presidio, four camps incl. Chinatown camp, 3,000 tents, June 1906 closure, cottages, $2/$50, June 1908, two surviving cottages at Lincoln & Funston"
+   },
+   {
+    "title": "1906 Earthquake and the Army",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/1906-earthquake.htm",
+    "supports": "5:12 a.m. quake; Presidio troops responded within hours; tent camp at Letterman site"
+   },
+   {
+    "title": "Frederick Funston (page 2/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/historyculture/frederick-funston-page-2.htm",
+    "supports": "Funston in command of the Presidio on April 18, 1906 and directing relief"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-fort-point-quake",
+  "title": "The Night the Fort Split Open",
+  "theme": "quake1906",
+  "year": 1906,
+  "place": {
+   "label": "Fort Point, gorge barracks",
+   "lat": 37.81059,
+   "lon": -122.47697,
+   "precision": "building"
+  },
+  "hook": "The quake left one half-asleep artilleryman trapped outside a barred window, and Fort Point's back wall pulled eight inches away from the rest of the fort.",
+  "story": "On April 18, 1906, several dozen men of the Coast Artillery's 66th Company were asleep in Fort Point's gorge barracks when the ground began to shake [1]. They got out fast, then found one man missing. Going back, they heard him outside a window. Half awake, he had climbed out, found bars on the outside, and turned round to see the window had slammed shut behind him. He was only shaken and dirty [1]. The fort came off worse. A rock slide closed the road to the city. The footbridge from the lighthouse keepers' houses had collapsed. Worst of all, the whole gorge face had pulled away from the rest of the fort, leaving an eight-inch gap between the inner and outer walls [1]. Afraid of another shock, the soldiers formed a human chain to pass their belongings out. Then they climbed over the slide into the city and spent days fighting fires and helping with relief [1]. Engineers judged the south wall too costly to repair. The garrison moved to new barracks south of the point, and the fort was left to the weather and to vandals [1][2].",
+  "people": [
+   {
+    "name": "66th Company, Coast Artillery Corps",
+    "role": "Fort Point garrison in 1906"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Abbreviated Fort Point Historic Structure Report (Developmental History, adapted from John Martini, Fort Point: Sentry at the Golden Gate)",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2006,
+    "url": "https://www.nps.gov/goga/learn/historyculture/upload/2006-fopo-hsr.pdf",
+    "supports": "66th Company asleep, trapped soldier, rock slide, footbridge collapse, eight-inch gap, human chain, firefighting, abandonment of fort"
+   },
+   {
+    "title": "Fort Point, San Francisco",
+    "publisher": "Wikipedia (pointer to NPS sources)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Fort_Point,_San_Francisco",
+    "supports": "Fort moderately damaged in 1906 and later used for barracks, training and storage"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "presidio-fort-winfield-scott",
+  "title": "A Fort Built for Guns Soon Obsolete",
+  "theme": "war-military",
+  "year": 1912,
+  "yearEnd": 1950,
+  "place": {
+   "label": "Fort Winfield Scott parade ground, Ralston Ave",
+   "lat": 37.80139,
+   "lon": -122.47366,
+   "precision": "area"
+  },
+  "hook": "In 1912 the Army carved a whole new fort out of the Presidio's windy west side to command the big guns guarding the Golden Gate.",
+  "story": "On June 19, 1912, the Army created Fort Winfield Scott in the western part of the Presidio. It was a coast artillery post and the headquarters of the Artillery District of San Francisco [1][2]. The fort looked after seventeen concrete gun batteries of the Endicott era, built, armed and manned between 1891 and 1946 [1]. In 1922 Fort Scott became headquarters of the Coast Defenses of San Francisco, renamed Harbor Defenses of San Francisco in 1925. From here the Army commanded Forts Baker, Barry, Cronkhite, Miley and Funston. Only the Presidio itself and Fort Mason stayed outside its control [1]. The fort's families lived nearby. Enlisted family housing on Ruckman Road went up in 1921 [3]. After World War II, Fort Scott became a sub-post of the Presidio. Then, on June 1, 1946, the Army moved its Coast Artillery School here from Fort Monroe, Virginia. The move came too late: air power, amphibious warfare and nuclear weapons had made fixed coastal guns obsolete. The Army ended its Coast Artillery in 1950, and the school's stay was brief [1].",
+  "people": [],
+  "sources": [
+   {
+    "title": "Fort Winfield Scott",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/fort-scott.htm",
+    "supports": "June 19, 1912 founding, 17 batteries 1891-1946, 1922/1925 HQ, forts commanded, 1946 Coast Artillery School, 1950 end"
+   },
+   {
+    "title": "Presidio of San Francisco",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Presidio_of_San_Francisco",
+    "supports": "1912 establishment of Fort Winfield Scott as coast artillery post"
+   },
+   {
+    "title": "Presidio Architecture",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/presidio-architecture.htm",
+    "supports": "Enlisted family housing on Ruckman Road, Fort Scott, built 1921"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-pershing-fire",
+  "title": "The Fire That Took Pershing's Family",
+  "theme": "war-military",
+  "year": 1915,
+  "yearEnd": 1917,
+  "place": {
+   "label": "Pershing Square flagpole, Main Post (site of the Pershing house)",
+   "lat": 37.7979,
+   "lon": -122.4598,
+   "precision": "block"
+  },
+  "hook": "While General Pershing was on the Mexican border, fire swept his Presidio home. A flagpole now marks where the house stood.",
+  "story": "General John J. Pershing was commander of the Presidio, but in 1915 he was away on the Mexican border. On August 27, 1915, fire broke out in the family's house on the Main Post [1][2]. His wife, Frances Warren Pershing, and their daughters Helen, 8, Anne, 7, and Mary Margaret, 3, died of smoke inhalation. Only his six-year-old son, Warren, survived [2]. Accounts differ on how it started. The Park Service says coal fell from an unattended dining-room fireplace [3]. Other accounts say a lacquered floor caught fire [2]. The post had no trained firefighters. Frances's father, Senator Francis Warren of Wyoming, pushed Congress for better fire protection, and San Francisco Fire Chief Thomas Murphy recommended a permanent company [3]. The Army built the Presidio Fire Station in 1917, the first on any U.S. Army post to house a permanent company of trained firefighters [3]. The house was never rebuilt. The flagpole at the centre of Pershing Square marks the spot. Beside it stand two bronze Spanish cannon, one cast in Lima in 1693 [1].",
+  "people": [
+   {
+    "name": "John J. Pershing",
+    "role": "Presidio commander"
+   },
+   {
+    "name": "Frances Warren Pershing",
+    "role": "his wife, killed in the fire"
+   },
+   {
+    "name": "Warren Pershing",
+    "role": "son, sole survivor"
+   },
+   {
+    "name": "Francis E. Warren",
+    "role": "U.S. senator, Frances's father"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pershing Square",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/pershing-square.htm",
+    "supports": "Flagpole marks house site; 1915 fire; Spanish cannon cast 1693 in Lima"
+   },
+   {
+    "title": "John J. Pershing",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/John_J._Pershing",
+    "supports": "Date August 27, 1915; names and ages of daughters; son Warren survived; lacquered-floor account"
+   },
+   {
+    "title": "Presidio Fire Station",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/historyculture/fire-station.htm",
+    "supports": "Fireplace-coal cause, Senator Warren's campaign, Chief Thomas Murphy, 1917 first permanent Army-post fire company"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-ppie-raceway",
+  "title": "Racing Cars on Pumped-Up Bay Mud",
+  "theme": "parks-nature",
+  "year": 1915,
+  "place": {
+   "label": "Crissy Field (site of the 1915 exposition raceway)",
+   "lat": 37.8036,
+   "lon": -122.4605,
+   "precision": "area"
+  },
+  "hook": "Before it was an airfield, today's Crissy Field was a brand-new motor raceway on land that had been bay mud three years earlier.",
+  "story": "To make room for the 1915 Panama-Pacific International Exposition, dredges pumped more than a million cubic yards of the bay onto the mudflats along the Marina and the Presidio shore. The job took 147 days [1]. The fair's planners won the Army's permission to use Presidio land, and a new raceway ran around what is now Crissy Field [1][2]. The weather did not cooperate. The Vanderbilt Cup, planned for February 22, the fair's second day, was rained out. The Grand Prix went ahead in the rain on February 27, more than 100 laps of a 3.9-mile course. Italian-born English driver Dario Resta won it in a Peugeot and took $3,000. When the Vanderbilt Cup finally ran on March 6, 77 laps and 300 miles, Resta won that too [2]. After the fair, Army aviators picked the site partly because the racetrack infield was already being used for flying. When the airfield opened in the early 1920s, the old track's outline could still be seen in the grass [3].",
+  "people": [
+   {
+    "name": "Dario Resta",
+    "role": "winner of the 1915 Grand Prix and Vanderbilt Cup"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Military Role (Panama-Pacific International Exposition)",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2016,
+    "url": "https://www.nps.gov/goga/learn/historyculture/ppie-military.htm",
+    "supports": "Dredging over one million cubic yards in 147 days; Army permission to use Presidio"
+   },
+   {
+    "title": "Sports and Athletics (Panama-Pacific International Exposition)",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2016,
+    "url": "https://www.nps.gov/goga/learn/historyculture/ppie-sportsandathletics.htm",
+    "supports": "Raceway around Crissy Field, race dates, Resta wins, 3.9-mile course, $3,000"
+   },
+   {
+    "title": "Crissy Field (page 1/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2021,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/crissy-field.htm",
+    "supports": "Racetrack outline still visible on the airfield"
+   },
+   {
+    "title": "Crissy Field",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Crissy_Field",
+    "supports": "Racetrack infield already in use as an aviation field when site chosen"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "presidio-funston-burial",
+  "title": "Tallest Man in San Francisco, at 5'4\"",
+  "theme": "war-military",
+  "year": 1917,
+  "place": {
+   "label": "San Francisco National Cemetery, Officers' Section",
+   "lat": 37.8008,
+   "lon": -122.4628,
+   "precision": "area"
+  },
+  "hook": "The general who ran the city in the days after the 1906 fire came back to the Presidio in 1917, and the whole city stopped for two minutes.",
+  "story": "Frederick Funston stood less than five and a half feet tall, but he loomed large over San Francisco [1]. On April 18, 1906, his superior was at a daughter's wedding in Chicago, so Funston had command at the Presidio. He called out the troops, took charge of relief and had buildings dynamited for firebreaks [2]. Critics said he overstepped his authority. His shoot-looters orders led to innocent people being shot, and his dynamiting often started new fires [3]. He went on to Veracruz and the Mexican border and was in line to lead American troops to France. Then, on February 19, 1917, he died of a heart attack in a San Antonio hotel, aged 51 [2]. San Francisco brought him home. Funston lay in state at the Alamo and then under the City Hall rotunda, the first person given that honour there. Presidio cannon fired a thirteen-gun salute and the city stopped for two minutes [2]. He was buried in full dress uniform in the Officers' Section, Section 68, Grave 3 [2][4]. The command he was expected to take went to his former subordinate, John J. Pershing [3].",
+  "people": [
+   {
+    "name": "Frederick Funston",
+    "role": "Major General, commander at the Presidio in 1906"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Frederick Funston (page 1/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2019,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/frederick-funston.htm",
+    "supports": "Height, career"
+   },
+   {
+    "title": "Frederick Funston (page 2/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/historyculture/frederick-funston-page-2.htm",
+    "supports": "Greely in Chicago, 1906 actions, death Feb 19 1917 aged 51, lay in state at Alamo and City Hall, 13-gun salute, two-minute pause, burial and grave location"
+   },
+   {
+    "title": "Frederick Funston",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Frederick_Funston",
+    "supports": "Criticism of looter orders and firebreak dynamiting; AEF command went to Pershing"
+   },
+   {
+    "title": "San Francisco National Cemetery: Famous Interments",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2020,
+    "url": "https://www.nps.gov/prsf/historyculture/san-francisco-national-cemetery-famous-interments.htm",
+    "supports": "Funston grave Section 68, Grave 3"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "presidio-letterman-hospital-wars",
+  "title": "America's Busiest Hospital for the Pacific War",
+  "theme": "war-military",
+  "year": 1945,
+  "yearEnd": null,
+  "place": {
+   "label": "Letterman General Hospital (today's Letterman Digital Arts Center)",
+   "lat": 37.79808,
+   "lon": -122.4497,
+   "precision": "area"
+  },
+  "hook": "In 1945 alone, more than 73,000 patients came through Letterman, many of them straight off hospital trains from Okinawa and Iwo Jima.",
+  "story": "The Army built its pavilion-style General Hospital here between 1899 and 1902. In 1911 it was renamed for Jonathan Letterman, the Civil War medical director of the Army of the Potomac [1][4]. By 1918 it was the Army's largest general hospital. In 1918 and 1919 it cared for more than 18,000 soldiers home from World War I, including the badly wounded and psychiatric cases. Its doctors developed orthopedic devices such as the 'Letterman Leg' and helped pioneer physical therapy [1]. Dora Thompson, who had led the hospital's nurses through the 1906 earthquake, went on to head the Army Nurse Corps in World War I. She returned as Letterman's chief nurse in 1922 [3]. World War II made Letterman the most important hospital for sick and wounded soldiers from the Pacific. In 1945 alone it received more than 73,000 patients [2]. At times entire trains of wounded arrived from the battles of Okinawa and Iwo Jima [4]. Near the end of the war a small stockade held Italian and German prisoners, who worked at the hospital [2]. Today the Letterman Digital Arts Center stands on the site [2].",
+  "people": [
+   {
+    "name": "Dora E. Thompson",
+    "role": "chief nurse, later Army Nurse Corps superintendent"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Letterman Hospital Complex (page 1/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/letterman-complex.htm",
+    "supports": "1899-1902 construction, 1911 renaming, largest general hospital by 1918, 18,000 WWI patients, Letterman Leg, physical therapy"
+   },
+   {
+    "title": "Letterman Hospital Complex (page 2/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/historyculture/letterman-complex-page-2.htm",
+    "supports": "73,000 patients in 1945, POW stockade, Letterman Digital Arts Center"
+   },
+   {
+    "title": "Dora E. Thompson",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Dora_E._Thompson",
+    "supports": "Chief nurse through 1906, ANC superintendent WWI, Letterman chief nurse 1922"
+   },
+   {
+    "title": "Presidio of San Francisco",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Presidio_of_San_Francisco",
+    "supports": "Entire trains of wounded from Okinawa and Iwo Jima"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-dana-crissy",
+  "title": "The Pilot Who Never Came Back",
+  "theme": "war-military",
+  "year": 1919,
+  "yearEnd": 1921,
+  "place": {
+   "label": "Crissy Field historic airfield buildings, Mason St",
+   "lat": 37.80388,
+   "lon": -122.45545,
+   "precision": "block"
+  },
+  "hook": "Major Dana Crissy took off from the Presidio in a coast-to-coast race in 1919. He died the first day out, and the new airfield took his name.",
+  "story": "Dana Crissy started out as a Presidio coast artilleryman fascinated by flying. By 1917 he had transferred to the Signal Corps' Aviation Section, and he rose to major and commander of Mather Field in Sacramento [1]. In October 1919 a new airfield at the Presidio hosted the Army's first Transcontinental Reliability and Endurance Test. Sixty-one planes took part, 46 flying west from Long Island and 15 flying east from here [1]. Only nine finished. Crissy and his observer, Sgt. 1st Class V. Thomas, were killed on the first day, trying to land their de Havilland DH-4 near Salt Lake City [1]. Wikipedia gives the date of the crash as October 8 [3]. His friend Col. Henry 'Hap' Arnold asked that the new field be named for him [1]. The Army accepted Crissy Field on June 24, 1921. The 91st Observation Squadron arrived that August [3]. Its pilots watched artillery practice, took aerial photographs and supported the Air Mail, and they flew the first aerial forest-fire patrols in the West [2]. Crissy is buried in the Presidio's national cemetery, in grave 98-5 of the Officers' Section [1].",
+  "people": [
+   {
+    "name": "Dana H. Crissy",
+    "role": "Army aviator"
+   },
+   {
+    "name": "Henry H. 'Hap' Arnold",
+    "role": "Air Service officer who named the field"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Dana Crissy",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/historyculture/dana-crissy.htm",
+    "supports": "Crissy's career, 1919 race numbers, death with Sgt. Thomas near Salt Lake City, Arnold naming, grave 98-5"
+   },
+   {
+    "title": "Crissy Field (page 1/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2021,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/crissy-field.htm",
+    "supports": "Early missions, first Western aerial forest-fire patrols"
+   },
+   {
+    "title": "Crissy Field",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Crissy_Field",
+    "supports": "Crash date October 8, 1919; acceptance June 24, 1921; 91st Observation Squadron August 1921"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-dawn-to-dusk",
+  "title": "New York to San Francisco in Daylight",
+  "theme": "war-military",
+  "year": 1924,
+  "place": {
+   "label": "Crissy Field landing field",
+   "lat": 37.8043,
+   "lon": -122.4648,
+   "precision": "area"
+  },
+  "hook": "Lt. Russell Maughan left Long Island before 3 a.m. and landed on Crissy Field's grass before dark the same day: the first flight across America between dawn and dusk.",
+  "story": "Russell Maughan had flown with the 91st Observation Squadron at Crissy Field in 1921, when its pilots were patrolling for forest fires [2]. He became a test pilot and in 1923 set a speed record of 236.5 mph. Twice that July he tried to fly coast to coast in a single day in the new Curtiss PW-8 pursuit plane, and twice mechanical trouble stopped him [2]. On June 23, 1924, he tried a third time. He left Mitchel Field, Long Island, at 2:58 a.m. Eastern time and flew six legs across the country. At 9:47 p.m. Pacific time he touched down at Crissy Field, still on the same calendar day. He had covered more than 2,540 miles in 21 hours and 48½ minutes, the fastest anyone had yet travelled between New York and San Francisco [2]. It was the first successful dawn-to-dusk transcontinental flight, and it ended here [1]. Later that year the Army's round-the-world flyers also stopped at Crissy Field, led home by Crissy's own Lt. Lowell Smith [1].",
+  "people": [
+   {
+    "name": "Russell L. Maughan",
+    "role": "Army Air Service test pilot"
+   },
+   {
+    "name": "Lowell H. Smith",
+    "role": "leader of the 1924 round-the-world flight"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Crissy Field (page 2/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/historyculture/crissy-field-page-2.htm",
+    "supports": "First dawn-to-dusk flight ended at Crissy Field in 1924; round-the-world flyers and Lowell Smith"
+   },
+   {
+    "title": "Russell Maughan",
+    "publisher": "Wikipedia (quotes Distinguished Flying Cross citation)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Russell_Maughan",
+    "supports": "1921 at Crissy Field, 1923 attempts and record, June 23 1924 times, 2,540 miles, 21h 48.5m, six legs"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "presidio-bird-of-paradise",
+  "title": "Homing In on a Beacon to Hawaii",
+  "theme": "war-military",
+  "year": 1927,
+  "place": {
+   "label": "Crissy Field west hangars",
+   "lat": 37.80539,
+   "lon": -122.46913,
+   "precision": "block"
+  },
+  "hook": "In 1927 two Army lieutenants tested a radio beacon at Crissy Field before trying something no one had managed: flying from the mainland to Hawaii.",
+  "story": "In 1925 two Navy flying boats took off from Crissy Field on the first attempt to fly from the mainland to Hawaii. The trip was supposed to take 26 hours. It took twelve days, and the crew of the one plane that got partway had to be rescued at sea [1]. Two years later the Army tried again, this time with radio. Lieutenants Lester Maitland and Albert Hegenberger flew their three-engine Fokker C-2, the Bird of Paradise, west from Ohio in June 1927. From 125 miles south of Crissy Field they picked up the Signal Corps beacon installed there [2]. Crissy's runway, about 3,000 feet long, was too short for the plane at full load. On June 27 they hopped across the bay to Oakland's new airport [2]. They took off from Oakland the next morning and landed at Wheeler Field on Oahu at 6:29 a.m. on June 29, after 25 hours and 50 minutes in the air. It was the first flight from the mainland to Hawaii [1][2]. The officers insisted it was no race, though Lindbergh's Atlantic flight and a $25,000 Dole prize had set off a rush of civilian rivals [2].",
+  "people": [
+   {
+    "name": "Lester J. Maitland",
+    "role": "pilot"
+   },
+   {
+    "name": "Albert F. Hegenberger",
+    "role": "navigator"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Crissy Field (page 2/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/historyculture/crissy-field-page-2.htm",
+    "supports": "1925 Navy attempt from Crissy Field, twelve days, rescue; 1927 Bird of Paradise flight from Crissy via Oakland"
+   },
+   {
+    "title": "Bird of Paradise (aircraft)",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Bird_of_Paradise_(aircraft)",
+    "supports": "Beacon picked up 125 miles out, 3,000 ft runway too short, June 27 move to Oakland, Wheeler Field 6:29 a.m. June 29, 25h50m, Dole prize context"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "presidio-halfway-to-hell",
+  "title": "The Net That Made the Halfway-to-Hell Club",
+  "theme": "labor-industry",
+  "year": 1937,
+  "yearEnd": null,
+  "place": {
+   "label": "Golden Gate Bridge south tower and Fort Point wharf",
+   "lat": 37.8088,
+   "lon": -122.4745,
+   "precision": "area"
+  },
+  "hook": "Hard hats, sauerkraut juice for hangovers and a $130,000 rope net: the Golden Gate Bridge's chief engineer tried to break the rule of one death per million dollars.",
+  "story": "Bridge builders of the day expected about one death for every million dollars spent. Chief engineer Joseph Strauss set out to beat that, and fired any man caught stunting on the job [1]. Workers had to wear 'Bullard' hard hats, adapted from a local manufacturer's mining helmet. They also got glare-free goggles, wind cream, diets meant to prevent dizziness, and sauerkraut juice 'cures' for hangovers. Doctors staffed a field hospital near the wharf at Fort Point [1]. Beneath the roadway hung a $130,000 net of manila rope that stretched from pylon to pylon. It caught 19 men, who became known as the 'Halfway-to-Hell Club' [1]. It could not save everyone. Kermit Moore, the first to die, was killed on October 21, 1936 [1]; the Presidio Trust's account says he was struck by falling equipment [2]. On February 17, 1937, a section of scaffold tore through the net and ten men fell to their deaths: O.A. Anderson, Chris Andersen, William Bass, Orrill Desper, Fred Dümmatzen, Terence Hallinan, Eldridge Hillen, Charles Lindros, Jack Norman and Louis Russell [1]. A plaque at the south end of the west sidewalk honours them [1].",
+  "people": [
+   {
+    "name": "Joseph Strauss",
+    "role": "chief engineer"
+   },
+   {
+    "name": "Edward W. Bullard",
+    "role": "safety-equipment maker"
+   },
+   {
+    "name": "Kermit Moore",
+    "role": "first worker killed"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Construction (Bridge Construction history)",
+    "publisher": "Golden Gate Bridge, Highway and Transportation District",
+    "year": null,
+    "url": "https://www.goldengate.org/bridge/history-research/bridge-construction/construction/",
+    "supports": "Safety rules, Bullard hats, sauerkraut juice, Fort Point field hospital, $130,000 net, 19 saved, Moore Oct 21 1936, ten names Feb 17 1937, plaque"
+   },
+   {
+    "title": "History of the Golden Gate Bridge in the Presidio",
+    "publisher": "Presidio Trust",
+    "year": 2024,
+    "url": "https://presidio.gov/explore/blog/history-of-the-golden-gate-bridge-in-the-presidio/",
+    "supports": "Moore killed by falling equipment; ten men died Feb 17, 1937 when scaffold fell through the net"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-fort-point-arch",
+  "title": "The Arch That Saved Fort Point",
+  "theme": "architecture-landmarks",
+  "year": 1937,
+  "yearEnd": null,
+  "place": {
+   "label": "Fort Point arch, Golden Gate Bridge south anchorage",
+   "lat": 37.8102,
+   "lon": -122.477,
+   "precision": "building"
+  },
+  "hook": "The bridge plans called for demolishing the old brick fort. Then its chief engineer walked through the empty casemates and changed his mind.",
+  "story": "Fort Point stood exactly where the Golden Gate Bridge's southern anchorage was meant to go, so the fort, it seemed, would have to be demolished [1]. Before work began, chief engineer Joseph Strauss toured the empty fort and changed both his mind and his design. In a 1937 memo to the bridge board he wrote: 'While the old fort has no military value now, it remains nevertheless a fine example of the mason's art… it should be preserved and restored as a national monument' [1]. He designed a steel arch in the southern anchorage to span the fort. Construction of the arch and the San Francisco approach viaduct began on July 21, 1936 [2]. During construction the fort's casemates became workspace for hundreds of workers, and the second-tier gun rooms served as their cafeteria [1]. Not everything survived. A small counterscarp gallery and a separate ten-gun battery on the hill were demolished. The Fort Point lighthouse's beam was hidden by the rising steel, and in 1934 it was replaced by a light at the base of the south tower [1]. The brick fort still sits under the arch today [3].",
+  "people": [
+   {
+    "name": "Joseph Strauss",
+    "role": "chief engineer, Golden Gate Bridge"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Abbreviated Fort Point Historic Structure Report",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2006,
+    "url": "https://www.nps.gov/goga/learn/historyculture/upload/2006-fopo-hsr.pdf",
+    "supports": "Strauss tour and 1937 memo quote, arch design, casemates as workspace and cafeteria, demolished outworks, lighthouse replaced 1934"
+   },
+   {
+    "title": "Construction (Bridge Construction history)",
+    "publisher": "Golden Gate Bridge, Highway and Transportation District",
+    "year": null,
+    "url": "https://www.goldengate.org/bridge/history-research/bridge-construction/construction/",
+    "supports": "July 21, 1936 start of approach viaduct and Fort Point arch"
+   },
+   {
+    "title": "Fort Point, San Francisco",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Fort_Point,_San_Francisco",
+    "supports": "Fort sits beneath the arch supporting the roadway"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-pedestrian-day",
+  "title": "Stilts, Skates and 50,000 Hot Dogs",
+  "theme": "architecture-landmarks",
+  "year": 1937,
+  "place": {
+   "label": "Golden Gate Bridge toll plaza",
+   "lat": 37.8066,
+   "lon": -122.4757,
+   "precision": "area"
+  },
+  "hook": "Before any car crossed, the bridge belonged to walkers. By 6 a.m. on May 27, 1937, about 18,000 people were waiting at the turnstiles.",
+  "story": "The Golden Gate Bridge opened with a Pedestrian Day. On May 27, 1937, the roadway was open only to people on foot, from dawn to dusk. By 6 a.m. an estimated 18,000 were waiting to cross. About 15,000 an hour went through the turnstiles, each paying 25 cents, and hot-dog stands may have sold as many as 50,000 [1]. People raced to be first at everything. They ran, roller-skated, tap-danced, rode unicycles, played harmonicas and tubas, pushed baby carriages and walked on stilts. The Chronicle recorded some winners. Florentine Calegeri, a houseman from the Palace Hotel, was the first across and back on stilts. Sisters Carmen and Minnie Perez of Bush Street were the first on roller skates. And 11-year-old Anna Marie Anderson was the first girl lost on the bridge, and found again [1]. News reports put the day's crowd as high as 200,000 [1][2]. Down at Crissy Field, parade floats passed a 'Span of Gold' reviewing stand, and Strauss read his poem 'At last, the mighty task is done' [1]. The next day, President Roosevelt pressed a telegraph key in the White House and opened the bridge to cars [1][2].",
+  "people": [
+   {
+    "name": "Florentine Calegeri",
+    "role": "first across on stilts"
+   },
+   {
+    "name": "Joseph Strauss",
+    "role": "chief engineer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Opening Fiesta Week",
+    "publisher": "Golden Gate Bridge, Highway and Transportation District",
+    "year": null,
+    "url": "https://www.goldengate.org/bridge/history-research/bridge-construction/opening-fiesta-week/",
+    "supports": "18,000 at 6 a.m., 15,000/hour, 25 cents, 50,000 hot dogs, list of firsts from May 28, 1937 Chronicle, 200,000, Crissy Field reviewing stand and Strauss poem, FDR telegraph key May 28"
+   },
+   {
+    "title": "History of the Golden Gate Bridge in the Presidio",
+    "publisher": "Presidio Trust",
+    "year": 2024,
+    "url": "https://presidio.gov/explore/blog/history-of-the-golden-gate-bridge-in-the-presidio/",
+    "supports": "Pedestrian Day crowds of roughly 200,000; FDR telegraph key"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "presidio-mis-language-school",
+  "title": "A Secret School in a Hangar",
+  "theme": "communities",
+  "year": 1941,
+  "yearEnd": 1942,
+  "place": {
+   "label": "Building 640, Crissy Field (MIS Historic Learning Center)",
+   "lat": 37.804,
+   "lon": -122.4672,
+   "precision": "building"
+  },
+  "hook": "Five weeks before Pearl Harbor, sixty soldiers sat on orange crates in an old Crissy Field hangar and began to learn the Army's Japanese.",
+  "story": "In 1941, as relations with Japan fell apart, the Army found it had hardly anyone who could read military Japanese. Officials grudgingly budgeted $2,000 for a language school under Lt. Col. John Weckerling [1]. The school's own survey found that of 3,700 Nisei (American-born children of Japanese immigrants), only about three percent were accomplished linguists [1]. Classes began on November 1, 1941, in Building 640, a small, abandoned hangar on Crissy Field [1][2][3]. It served as office, classroom and barracks all at once. Orange crates stood in for desks and chairs, and students worked from mimeographed sheets. The first class had 60 students: 58 Nisei and two white soldiers [1]. Head instructor John Aiso drove them hard. Lessons ran ten hours a day, and some students kept studying after 'lights out' by flashlight under their blankets, or in the latrine, the only room lit at night [1]. Forty-five graduated in May 1942 [1]. By then the Army was forcing their families out of the West Coast, and the school soon moved to Minnesota [1][2]. Its graduates served as translators and interpreters across the Pacific [1][2]. The hangar is now the MIS Historic Learning Center [2].",
+  "people": [
+   {
+    "name": "John Aiso",
+    "role": "head instructor"
+   },
+   {
+    "name": "John Weckerling",
+    "role": "officer who founded the school"
+   },
+   {
+    "name": "John Alfred Burden",
+    "role": "one of two white students in the first class"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Military Intelligence Service Language School",
+    "publisher": "Densho Encyclopedia",
+    "year": null,
+    "url": "https://encyclopedia.densho.org/Military_Intelligence_Service_Language_School/",
+    "supports": "$2,000 budget, Weckerling, 3,700 Nisei survey, Nov 1 1941 start, orange crates, 58 Nisei + 2, Aiso, 10-hour days, flashlight and latrine study, 45 graduates May 1942"
+   },
+   {
+    "title": "Military Intelligence School at the Presidio",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2018,
+    "url": "https://www.nps.gov/goga/learn/historyculture/military-intelligence-school.htm",
+    "supports": "Hangar Building 640, Nisei trained as translators while families interned; MIS Historic Learning Center"
+   },
+   {
+    "title": "Crissy Field (page 2/2)",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2015,
+    "url": "https://www.nps.gov/prsf/historyculture/crissy-field-page-2.htm",
+    "supports": "Former air mail hangar used as barracks and classrooms for the top-secret MIS Language School"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "presidio-dewitt-exclusion",
+  "title": "Orders Signed Here Emptied the West Coast",
+  "theme": "civil-rights",
+  "year": 1942,
+  "place": {
+   "label": "Western Defense Command headquarters, Main Post",
+   "lat": 37.8005,
+   "lon": -122.458,
+   "precision": "area"
+  },
+  "hook": "From his Presidio headquarters, Gen. John DeWitt issued 108 orders that removed every Japanese American family from the West Coast, neighbourhood by neighbourhood.",
+  "story": "Lt. Gen. John L. DeWitt commanded the Fourth Army and the Western Defense Command from the Presidio [1][2]. After Pearl Harbor he swung back and forth. In late December 1941 he told a colleague that 'an American citizen, after all, is an American citizen' [2]. By January 1942 he was telling officials he had 'no confidence' in the loyalty even of American-born Japanese [2]. Pressed by Washington officials and by California politicians including Attorney General Earl Warren, he came to back mass removal. President Roosevelt signed Executive Order 9066 on February 19, 1942 [2]. From late March to August, DeWitt's command issued 108 Civilian Exclusion Orders. Each one was posted on telephone poles and buildings and gave Japanese Americans in a district a week to register, sell what they could, and report with only what they could carry [3]. The Census Bureau illegally gave the command confidential data to map where Japanese Americans lived [3]. By August 18, 1942, all Japanese Americans outside the camps had been forced from the West Coast [3]. At the same moment, Nisei soldiers were studying at the Army's secret language school on Crissy Field, a short walk away [1].",
+  "people": [
+   {
+    "name": "John L. DeWitt",
+    "role": "commander, Western Defense Command"
+   },
+   {
+    "name": "Karl Bendetsen",
+    "role": "head of the Wartime Civil Control Administration"
+   }
+  ],
+  "sources": [
+   {
+    "title": "U.S. Military Period: 1846-1994",
+    "publisher": "National Park Service, Presidio of San Francisco",
+    "year": 2023,
+    "url": "https://www.nps.gov/prsf/learn/historyculture/us-military-period.htm",
+    "supports": "DeWitt stationed at Presidio conducted removal while Nisei trained at Crissy Field; Presidio as WDC HQ"
+   },
+   {
+    "title": "John DeWitt",
+    "publisher": "Densho Encyclopedia",
+    "year": null,
+    "url": "https://encyclopedia.densho.org/John_DeWitt/",
+    "supports": "Shifting positions, quotes, pressure from Gullion, Bendetsen, Olson, Warren; EO 9066 Feb 19"
+   },
+   {
+    "title": "Civilian exclusion orders",
+    "publisher": "Densho Encyclopedia (Brian Niiya)",
+    "year": 2020,
+    "url": "https://encyclopedia.densho.org/Civilian_exclusion_orders/",
+    "supports": "108 orders March-August 1942, posting, one week, what they could carry, Census data, completion by August 18"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "presidio-fort-point-vertigo",
+  "title": "Hitchcock's Forgotten Fort",
+  "theme": "arts-counterculture",
+  "year": 1958,
+  "yearEnd": 1959,
+  "place": {
+   "label": "Fort Point seawall",
+   "lat": 37.81075,
+   "lon": -122.4772,
+   "precision": "building"
+  },
+  "hook": "Boarded up and stripped by fishermen, Fort Point made the perfect lonely backdrop for Kim Novak's plunge into the bay in Vertigo.",
+  "story": "In World War II, Fort Point's barbette tier briefly held four quick-firing guns, 'Battery Point', which guarded the minefields and the anti-submarine net strung across the Golden Gate in 1942 [1]. After the war the Army had little time or money for the old fort. Visitors found the sallyport doors locked and the lowest gun openings plugged with cinderblocks. The seawall railings had rusted away, and generations of fishermen had dug the lead sheathing out from between the granite blocks to use as sinkers [1]. Hollywood liked it that way. In Dark Passage (1947), Humphrey Bogart's opponent falls from the bluff above the fort. In Alfred Hitchcock's Vertigo (1958), Kim Novak's character throws herself into the bay here [2]. Real preservation came a year later. In 1959 a group of retired military officers and civilian engineers formed the Fort Point Museum Association to push for the fort to become a historic site. Their effort paid off on October 16, 1970, when Fort Point National Historic Site was created [1].",
+  "people": [
+   {
+    "name": "Alfred Hitchcock",
+    "role": "director, Vertigo"
+   },
+   {
+    "name": "Kim Novak",
+    "role": "actress"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Abbreviated Fort Point Historic Structure Report",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": 2006,
+    "url": "https://www.nps.gov/goga/learn/historyculture/upload/2006-fopo-hsr.pdf",
+    "supports": "Battery Point AMTB guns and 1942 net, postwar decay, fishermen taking lead, 1959 Fort Point Museum Association, Oct 16 1970 designation"
+   },
+   {
+    "title": "Fort Point, San Francisco",
+    "publisher": "Wikipedia (pointer)",
+    "year": 2025,
+    "url": "https://en.wikipedia.org/wiki/Fort_Point,_San_Francisco",
+    "supports": "Dark Passage (1947) and Vertigo (1958) scenes at Fort Point"
+   }
+  ],
+  "photo": null
+ }
+]

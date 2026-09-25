@@ -1,0 +1,654 @@
+[
+ {
+  "id": "japantown-jacks-tavern",
+  "title": "The tavern that welcomed everyone first",
+  "theme": "communities",
+  "year": 1933,
+  "yearEnd": null,
+  "place": {
+   "label": "Jack's Tavern, 1931 Sutter Street (later the Boom Boom Room, 1601 Fillmore)",
+   "lat": 37.786152,
+   "lon": -122.431874,
+   "precision": "building"
+  },
+  "hook": "Years before the Fillmore was called the Harlem of the West, a Sutter Street bar opened its doors to Black drinkers and never really closed them.",
+  "story": "According to Fillmore jazz historians Elizabeth Pepin and Lewis Watts, Jack's Tavern opened in 1933 at 1931 Sutter Street, one of the first nightclubs in the neighbourhood to cater to African Americans, and, by The New Fillmore's account, the first live-music club that welcomed Black patrons in what became the wartime Fillmore jazz district [1][2]. Over the decades it was also called Jack's of Sutter and the New Jack's Lounge. In 1988 it moved to 1601 Fillmore, beside the Geary bridge [2]. A young bartender there, Alexander Andreas, met John Lee Hooker in 1990 and ended up carrying the bluesman's guitar case to his Bay Area shows. When Andreas later took over the lease, he renamed the bar after Hooker's song \"Boom Boom\"; after Hooker's manager objected to the legal risk, Hooker lent his name and likeness but invested nothing [2]. His red leather booth was still kept empty for him years after his death in 2002 [1]. Brass plaques on the bar honour old regulars such as Trumpet, a Jack's bartender whose trumpet case, Andreas says, held loaded dice [1]. In 2020 the pandemic-shuttered club appealed for emergency funds to survive [3].",
+  "people": [
+   {
+    "name": "Alexander (Zander) Andreas",
+    "role": "Bartender turned owner"
+   },
+   {
+    "name": "John Lee Hooker",
+    "role": "Blues guitarist and namesake partner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Booty-shaking at the Boom Boom Room",
+    "publisher": "The New Fillmore",
+    "year": 2011,
+    "url": "https://newfillmore.com/2011/08/01/booty-shaking-at-the-boom-boom-room/",
+    "supports": "1933 opening at 1931 Sutter, first club welcoming Black patrons, Hooker's booth, plaques, Trumpet"
+   },
+   {
+    "title": "Was it really John Lee Hooker's joint?",
+    "publisher": "The New Fillmore",
+    "year": 2011,
+    "url": "https://newfillmore.com/2011/08/01/was-it-really-john-lee-hookers-joint/",
+    "supports": "Pepin and Watts history, other names, 1988 move, Andreas and Hooker, naming and ownership arrangement"
+   },
+   {
+    "title": "Boom Boom Room on the ropes",
+    "publisher": "The New Fillmore",
+    "year": 2020,
+    "url": "https://newfillmore.com/2020/05/01/boom-boom-room-on-the-ropes/",
+    "supports": "2020 closure and emergency fundraising"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-friends-center-ywca",
+  "title": "Rustin, Mattachine and the empty YWCA",
+  "theme": "lgbtq",
+  "year": 1943,
+  "yearEnd": 1959,
+  "place": {
+   "label": "Japanese YWCA / Issei Women's Building, 1830 Sutter Street",
+   "lat": 37.786717,
+   "lon": -122.43056,
+   "precision": "building"
+  },
+  "hook": "When Japantown's women were sent to camps, their building became a Quaker hub where Bayard Rustin taught nonviolence and America's first homophile group met in public.",
+  "story": "After Executive Order 9066 removed everyone of Japanese ancestry from the neighbourhood, the San Francisco YWCA leased the Issei women's building at 1830 Sutter Street to the American Friends Service Committee, the Quaker relief group, from 1942 to 1959. It became the Friends Center [1]. The Quakers helped Japanese immigrants facing travel and work restrictions and relocated Nisei college students to schools in the Midwest and East [1]. In 1943 a San Francisco chapter of the Committee on Racial Equality (CORE) formed here [1][2]. The same year Bayard Rustin, a gay Black pacifist who would later organise the 1963 March on Washington, led a seven-week course here and visited Manzanar [1][2]. In May 1954 the building hosted the first annual convention of the Mattachine Society, the pioneering homophile organisation founded in Los Angeles in 1950 by Harry Hay and others [1][2]. The National Park Service now lists the building for its ties to Issei women, the Black civil rights movement and LGB history alike [1].",
+  "people": [
+   {
+    "name": "Bayard Rustin",
+    "role": "Civil rights and nonviolence organiser"
+   },
+   {
+    "name": "Harry Hay",
+    "role": "Mattachine Society co-founder"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Japanese YWCA (National Register listing)",
+    "publisher": "U.S. National Park Service",
+    "year": 2025,
+    "url": "https://home.nps.gov/places/japanese-ywca.htm",
+    "supports": "AFSC lease 1942-1959, Friends Center activities, CORE 1943, Rustin, Mattachine convention May 1954"
+   },
+   {
+    "title": "San Francisco Landmark #291: Japanese YWCA/Issei Women's Building",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf291.asp",
+    "supports": "CORE, Rustin's seven-week course in 1943 and Manzanar visit, 1954 Mattachine convention"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-bop-city",
+  "title": "Two a.m. to six at Bop City",
+  "theme": "arts-counterculture",
+  "year": 1950,
+  "yearEnd": 1965,
+  "place": {
+   "label": "Jimbo's Bop City, 1690 Post Street (original site)",
+   "lat": 37.78572,
+   "lon": -122.42955,
+   "precision": "block"
+  },
+  "hook": "A dollar got you in, musicians came free, and if Jimbo didn't like your attitude, no amount of money would open the door.",
+  "story": "From 1950 to 1965, Jimbo Edwards ran an after-hours jazz club at 1690 Post Street, open roughly from 2 to 6 a.m. Musicians got in free; everyone else paid a dollar [1][2]. Edwards said he put up a neon sign, befriended Billy Eckstine, \"and after Billy Eckstine made it, then here come Miles. Here come Diz. And here come Charlie Parker\" [1]. The city's landmark listing adds John Coltrane, Ella Fitzgerald and Billie Holiday to the roster [2]. Edwards would not tolerate racial discrimination, and white and Black players and fans mixed at a time when that was rare; one regular called it \"3:00 AM\" in \"the early dawn of the civil rights movement\" [1]. The filmmaker Harry Smith painted abstract murals on the walls [3]. By 1965 the clubs that fed it had closed, and Edwards was left \"sitting with an empty club\" [1]. The Victorian itself survived: in 1978 it was moved to 1712 Fillmore as the Redevelopment Agency cleared the area [2].",
+  "people": [
+   {
+    "name": "John \"Jimbo\" Edwards",
+    "role": "Owner"
+   },
+   {
+    "name": "Harry Smith",
+    "role": "Artist who painted the murals"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Jimbo's Bop City (excerpt of 'The House That Bop Built' by Carol Chamberland)",
+    "publisher": "FoundSF / California History",
+    "year": 1997,
+    "url": "https://www.foundsf.org/index.php?title=Jimbo%27s_Bop_City",
+    "supports": "Hours, $1 admission, Edwards quotes, anti-discrimination rule, 1950-1965 run, closure"
+   },
+   {
+    "title": "San Francisco Landmark #266: Marcus Books and Jimbo's Bop City",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2016,
+    "url": "https://noehill.com/sf/landmarks/sf266.asp",
+    "supports": "1950-1965 dates, performers, 2-6 a.m. hours, 1978 move of building"
+   },
+   {
+    "title": "The murals at Jimbo's",
+    "publisher": "The New Fillmore",
+    "year": 2023,
+    "url": "https://newfillmore.com/2023/08/15/the-murals-at-jimbos/",
+    "supports": "Harry Smith murals"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-soko-hardware",
+  "title": "Soko means 'that place'",
+  "theme": "communities",
+  "year": 1949,
+  "yearEnd": null,
+  "place": {
+   "label": "Soko Hardware, 1698 Post Street",
+   "lat": 37.785703,
+   "lon": -122.429668,
+   "precision": "building"
+  },
+  "hook": "Closed for five years by internment, then bulldozed by redevelopment, a Post Street hardware store kept coming back and turned 100 in 2025.",
+  "story": "Masayasu Ashizawa opened a hardware store at 1683 Post Street in 1925 and named it Soko, which The New Fillmore translates as \"that place\" [1]. During World War II the family was incarcerated and the store stayed shut for five years [2]; Masao was held at the Topaz camp in Utah [1]. In 1949, after his father died, Masao Ashizawa, then a maths graduate student at UC Berkeley, took over [1]. A few years later redevelopment arrived. Rather than leave, Masao moved Soko across the street to the north side of Post and worked with the city on the Japan Center and Peace Plaza that rose on its old site. He became founding president of the Nihonmachi Community Development Corp., which tried to keep Japantown property in Japanese American hands, and chaired the Cherry Blossom Festival in 1971 [1]. His son Philip, a biophysics major, joined in 1979 [1]. Today the shelves mix nuts and bolts with ikebana scissors, flower frogs and Japanese seeds [1]. At its centennial in 2025, the family said a fourth generation, Philip's son Daniel, was carrying on [2].",
+  "people": [
+   {
+    "name": "Masayasu Ashizawa",
+    "role": "Founder"
+   },
+   {
+    "name": "Masao Ashizawa",
+    "role": "Second-generation owner and community leader"
+   },
+   {
+    "name": "Philip Ashizawa",
+    "role": "Third-generation owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "At Soko Hardware, it's the mix that works",
+    "publisher": "The New Fillmore",
+    "year": 2016,
+    "url": "https://newfillmore.com/2016/04/29/at-soko-hardware-its-the-mix-that-works/",
+    "supports": "1925 founding at 1683 Post, name meaning, Topaz, 1949 takeover, relocation, NCDC, Cherry Blossom 1971, Philip 1979, stock"
+   },
+   {
+    "title": "And just like that, Fillmore changes",
+    "publisher": "The New Fillmore",
+    "year": 2025,
+    "url": "https://newfillmore.com/2025/10/04/and-just-like-that-fillmore-changes/",
+    "supports": "100 years, five years closed during internment, fourth generation"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-charles-sullivan-fillmore",
+  "title": "The Mayor of the Fillmore's dance hall",
+  "theme": "arts-counterculture",
+  "year": 1954,
+  "yearEnd": 1966,
+  "place": {
+   "label": "Fillmore Auditorium, 1805 Geary Boulevard",
+   "lat": 37.784091,
+   "lon": -122.433133,
+   "precision": "building"
+  },
+  "hook": "Before Bill Graham's psychedelic posters, a Black promoter named Charles Sullivan filled this hall with James Brown and Ike and Tina Turner, and then died mysteriously.",
+  "story": "The brick hall at Geary and Fillmore opened in 1912 as the Majestic Hall and Academy of Dancing, became the Ambassador Dance Hall in 1936 and was a roller rink from 1939 to 1952 [1]. Then Charles Sullivan took the lease, named it the Fillmore Auditorium and began booking Black stars; sources mention James Brown, Ike and Tina Turner and Louis Armstrong [1][2]. Born in Alabama in 1909, Sullivan had worked his way west as a chauffeur and machinist, then built bars, a jukebox business and a promotion network, becoming known as the \"Mayor of Fillmore\" [2][3]. In December 1965 he let a young promoter named Bill Graham book a benefit for the San Francisco Mime Troupe here, and helped the newcomer get established [1][2]. In early August 1966, Sullivan was found shot dead south of Market with his own revolver beside him. Police leaned toward suicide; the coroner recorded \"unknown circumstances,\" and his family believed he was murdered [2][3]. Graham then took over the lease, and the hall became famous for psychedelic rock [2].",
+  "people": [
+   {
+    "name": "Charles Sullivan",
+    "role": "Promoter and leaseholder"
+   },
+   {
+    "name": "Bill Graham",
+    "role": "Rock promoter"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Three temples on Geary",
+    "publisher": "The New Fillmore (Bridget Maley)",
+    "year": 2018,
+    "url": "https://newfillmore.com/2018/12/01/three-temples-on-geary/",
+    "supports": "1912 Majestic Hall, 1936 and 1939-1952 names, Sullivan bookings, December 1965 Mime Troupe benefit"
+   },
+   {
+    "title": "The death at the heart of San Francisco's Fillmore Auditorium",
+    "publisher": "SFGATE (Christian Baba)",
+    "year": 2023,
+    "url": "https://www.sfgate.com/sf-culture/article/san-francisco-fillmore-auditorium-history-17830364.php",
+    "supports": "1954 lease, Sullivan biography, help for Graham, 1966 death and doubts, Graham takes lease"
+   },
+   {
+    "title": "Who shot the Mayor of Fillmore?",
+    "publisher": "The New Fillmore (Gary Carr)",
+    "year": 2014,
+    "url": "https://newfillmore.com/2014/09/04/who-shot-the-mayor-of-fillmore/",
+    "supports": "'Mayor of Fillmore' title, jukebox and booking business, coroner's 'unknown circumstances'"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-japan-center-yamasaki",
+  "title": "The World Trade Center architect's Japantown mall",
+  "theme": "architecture-landmarks",
+  "year": 1968,
+  "yearEnd": null,
+  "place": {
+   "label": "Japan Center malls, Post Street between Laguna and Fillmore",
+   "lat": 37.785166,
+   "lon": -122.430552,
+   "precision": "block"
+  },
+  "hook": "The man drawing the Twin Towers was also designing Japantown's mall at the same time, and he insisted he had no idea how to make it look Japanese.",
+  "story": "The Japanese Cultural and Trade Center, bounded by Laguna, Geary, Fillmore and Post, was built from 1965 and dedicated in March 1968 [1]. It was partly funded by Japanese corporations, and Kintetsu ran its shopping centres [1][2]. Its architect was Minoru Yamasaki, working with local firm Van Bourg-Nakamura, during the same years he was designing New York's World Trade Center [1]. Yamasaki was uneasy with the brief. When Redevelopment Agency chief Justin Herman urged him to make the hotel rooms as authentically Japanese as possible, he replied: \"I really do not know enough about Japanese detailing to feel adequate in this respect\" [1]. The boxy buildings use concrete panels and wood meant to suggest shoji screens, and Yamasaki felt the finished project was not what he had envisioned [1]. The complex had a human cost: according to preservation architect Bridget Maley, it displaced more than 50 businesses and about 1,500 residents in a neighbourhood already emptied once by the wartime removal of its Japanese American families [1].",
+  "people": [
+   {
+    "name": "Minoru Yamasaki",
+    "role": "Architect"
+   },
+   {
+    "name": "M. Justin Herman",
+    "role": "Redevelopment Agency director"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Japan Center turns 50",
+    "publisher": "The New Fillmore (Bridget Maley)",
+    "year": 2018,
+    "url": "https://newfillmore.com/2018/04/03/japan-center-turns-50/",
+    "supports": "Boundaries, dates, funding, Yamasaki and Van Bourg-Nakamura, Herman exchange and quote, design, displacement figures"
+   },
+   {
+    "title": "Japantown, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Japantown,_San_Francisco",
+    "supports": "1968 opening; shopping centres run by Kintetsu; Herman-era redevelopment"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-peace-pagoda-osaka",
+  "title": "A pagoda from a sister city",
+  "theme": "modern-city",
+  "year": 1968,
+  "yearEnd": 2018,
+  "place": {
+   "label": "Peace Pagoda, Japantown Peace Plaza, Post and Buchanan",
+   "lat": 37.78525,
+   "lon": -122.42975,
+   "precision": "area"
+  },
+  "hook": "Osaka paid for a concrete pagoda as a symbol of lasting friendship. Sixty years into the sister-city pact, Osaka walked away over a statue.",
+  "story": "San Francisco and Osaka became sister cities in 1957 [1]. When Japan Center opened in 1968, a five-tiered concrete stupa stood at the heart of its plaza. It was designed by Yoshiro Taniguchi, the Japanese architect who had designed the Crown Prince's palace [1][2]. Unlike the rest of the complex, the pagoda was paid for largely by donations from Osaka, and it was given to San Francisco as a symbol of friendship and peace between Japan and the United States [2]. On 8 September 2007, for the 50th anniversary of the pact, the block of Buchanan Street across Post was renamed Osaka Way [1][3]. The friendship did not last. In 2018 Osaka ended the 60-year relationship after Mayor Ed Lee accepted a memorial statue honouring the \"comfort women\" of World War II [1]. The pagoda still stands, and in 2025 the plaza around it was being rebuilt [3].",
+  "people": [
+   {
+    "name": "Yoshiro Taniguchi",
+    "role": "Architect of the pagoda"
+   },
+   {
+    "name": "Ed Lee",
+    "role": "Mayor of San Francisco"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Japantown, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Japantown,_San_Francisco",
+    "supports": "1957 sister city, five-tiered stupa by Taniguchi presented by Osaka, Osaka Way 8 Sept 2007, 2018 end of relationship over comfort-women statue"
+   },
+   {
+    "title": "Japan Center turns 50",
+    "publisher": "The New Fillmore (Bridget Maley)",
+    "year": 2018,
+    "url": "https://newfillmore.com/2018/04/03/japan-center-turns-50/",
+    "supports": "Taniguchi's palace work, funding by Osaka donations, symbol of friendship"
+   },
+   {
+    "title": "Will Ruth Asawa's fountains flow again?",
+    "publisher": "The New Fillmore",
+    "year": 2025,
+    "url": "https://newfillmore.com/2025/06/09/will-ruth-asawas-fountains-flow-again/",
+    "supports": "Osaka Way renaming in 2007 and Peace Plaza reconstruction"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-sweet-stop-coffee-crunch",
+  "title": "Blum's cake survives in a grocery corner",
+  "theme": "communities",
+  "year": 1974,
+  "yearEnd": null,
+  "place": {
+   "label": "Yasukochi's Sweet Stop, Super Mira Market, 1790 Sutter Street",
+   "lat": 37.786736,
+   "lon": -122.429783,
+   "precision": "building"
+  },
+  "hook": "San Francisco's most famous birthday cake was born at a vanished Union Square pastry shop. It lives on in the corner of a Japantown grocery.",
+  "story": "Moses and Hatsy Yasukochi both spent part of their childhoods in wartime internment camps. They married in 1964 and in 1974 opened the Sweet Stop, a small bakery inside what is now Super Mira Market at Sutter and Buchanan [1][2]. Earlier they had owned a bakery in San Leandro, where a baker named Tony, who had worked at Blum's on Union Square, shared the recipe for Blum's famous Coffee Crunch Cake. Moses mastered it, and the retired Blums gave him their blessing to use the name [1]. The cake became a fixture of San Francisco birthdays, holidays and weddings. Hatsy, called the \"smile of the bakery,\" died in 2020, early in the Covid pandemic, after an illness with cancer [2]. Their grandson Kenji Yick, trained at the French Culinary Institute, kept the shop going with longtime employee Debbie Ishida. In 2023 the tiny counter was named a James Beard Award semifinalist for Outstanding Bakery [2].",
+  "people": [
+   {
+    "name": "Moses Yasukochi",
+    "role": "Baker and co-founder"
+   },
+   {
+    "name": "Hatsuye (Hatsy) Yasukochi",
+    "role": "Co-founder"
+   },
+   {
+    "name": "Kenji Yick",
+    "role": "Grandson and chef-owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A classic cake lives on",
+    "publisher": "The New Fillmore",
+    "year": 2017,
+    "url": "https://newfillmore.com/2017/06/04/a-classic-cake-lives-on/",
+    "supports": "Internment childhoods, 1964 marriage, 1974 opening, Blum's recipe story, 1790 Sutter location"
+   },
+   {
+    "title": "Sweet recognition for a Japantown bakery",
+    "publisher": "The New Fillmore",
+    "year": 2023,
+    "url": "https://newfillmore.com/2023/02/09/sweet-recognition-for-a-japantown-bakery/",
+    "supports": "James Beard semifinalist, Hatsy's death in 2020, Kenji Yick and Debbie Ishida"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-asawa-origami-fountains",
+  "title": "Ruth Asawa's paper-flower fountains",
+  "theme": "arts-counterculture",
+  "year": 1976,
+  "yearEnd": null,
+  "place": {
+   "label": "Origami Fountains, Buchanan Mall (Osaka Way) between Post and Sutter",
+   "lat": 37.78605,
+   "lon": -122.43003,
+   "precision": "street"
+  },
+  "hook": "A sculptor who spent her teens behind barbed wire gave Japantown two fountains shaped like folded paper, then had merchants' children help shape the benches.",
+  "story": "Ruth Asawa was 16 in 1942 when FBI agents arrested her father and her family was forced off their farm in Norwalk and into camps [1]. She became one of the country's celebrated sculptors. When redevelopment turned a block of Buchanan Street into a pedestrian mall in 1975 and 1976, she designed its two Origami Fountains, meant to look like flowers of folded paper [1][2]. Planner Rai Okamoto designed the mall itself, with a torii-like gate at Sutter [3]. Asawa also designed the benches and got the children of the mall's merchants to help make relief panels of Japanese fairy tales and festivals, sculpted in dough and then cast in concrete [3]. The original steel fountains corroded and were removed, but after public outcry bronze replicas cast under Asawa's supervision returned in 1999 [2][3]. The water was switched off more than a decade before 2025. A 2016 estimate put repairs at $437,177, and the city planned renovation for 2026 to 2027 [2][3].",
+  "people": [
+   {
+    "name": "Ruth Asawa",
+    "role": "Sculptor"
+   },
+   {
+    "name": "Rai Okamoto",
+    "role": "Architect-planner of Buchanan Mall"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ruth Asawa",
+    "publisher": "Densho Encyclopedia",
+    "year": null,
+    "url": "https://encyclopedia.densho.org/Ruth_Asawa/",
+    "supports": "1942 arrest of father and removal; Origami Fountains 1975-76, refabricated 1999"
+   },
+   {
+    "title": "Will Ruth Asawa's fountains flow again?",
+    "publisher": "The New Fillmore",
+    "year": 2025,
+    "url": "https://newfillmore.com/2025/06/09/will-ruth-asawas-fountains-flow-again/",
+    "supports": "Fountain design and dates, bronze replicas 1999, water off for over a decade, 2026-27 timeline"
+   },
+   {
+    "title": "Japantown fountains in limbo",
+    "publisher": "The New Fillmore",
+    "year": 2016,
+    "url": "https://newfillmore.com/2016/09/30/japantown-fountains-in-limbo/",
+    "supports": "Okamoto's mall design, torii gate, children's bench panels, $437,177.34 repair estimate"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-winterland-last-waltz",
+  "title": "The ice rink that hosted rock's farewells",
+  "theme": "arts-counterculture",
+  "year": 1976,
+  "yearEnd": 1978,
+  "place": {
+   "label": "Winterland Ballroom site, 2000 Post Street at Steiner",
+   "lat": 37.785228,
+   "lon": -122.435624,
+   "precision": "block"
+  },
+  "hook": "An old skating rink at Post and Steiner saw The Band's Last Waltz, the Sex Pistols' last show and an all-night Grateful Dead goodbye.",
+  "story": "Winterland began in 1928 as the New Dreamland Auditorium, an ice rink that could be turned into an event hall [1]. Bill Graham started renting it in 1966, and after closing the Fillmore West in 1971 he ran it as a full-time concert hall holding 5,400 people [1]. On 25 November 1976 The Band played its farewell concert here, The Last Waltz, filmed by Martin Scorsese, with guests including Bob Dylan, Joni Mitchell, Neil Young and Eric Clapton [1]. Van Morrison sang \"Tura Lura Lural\" and \"Caravan\" [2]. On 14 January 1978 the Sex Pistols played their last show here [1]. Photographer Bob Minkin lost his wallet and tickets on arriving for the Grateful Dead's December 1977 run, then got new tickets from Winterland's office [3]. The Dead closed the building on New Year's Eve 1978 with a show of nearly six hours, broadcast on KSAN and KQED [1]. It was razed in 1985, and apartments now occupy the corner [1][3].",
+  "people": [
+   {
+    "name": "Bill Graham",
+    "role": "Promoter"
+   },
+   {
+    "name": "The Band",
+    "role": "Performers of The Last Waltz"
+   },
+   {
+    "name": "Bob Minkin",
+    "role": "Photographer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Winterland Ballroom",
+    "publisher": "Wikipedia",
+    "year": 2026,
+    "url": "https://en.wikipedia.org/wiki/Winterland_Ballroom",
+    "supports": "1928 origin, Graham era, capacity, Last Waltz, Sex Pistols, Dead closing show, 1985 demolition"
+   },
+   {
+    "title": "The St. Dominic's connection",
+    "publisher": "The New Fillmore",
+    "year": 2012,
+    "url": "https://newfillmore.com/2012/06/03/the-st-dominics-connection/",
+    "supports": "Van Morrison's two songs at Winterland on 25 November 1976"
+   },
+   {
+    "title": "The Grateful Dead at Winterland, 1977",
+    "publisher": "The New Fillmore (Bob Minkin)",
+    "year": 2015,
+    "url": "https://newfillmore.com/2015/01/01/the-grateful-dead-at-winterland-1977/",
+    "supports": "Minkin's lost tickets, year-end shows, condos on site"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-cane-evictions",
+  "title": "Japantown fights its second uprooting",
+  "theme": "civil-rights",
+  "year": 1977,
+  "yearEnd": null,
+  "place": {
+   "label": "Nihonmachi (Japantown) blocks around Post and Buchanan",
+   "lat": 37.7858,
+   "lon": -122.43,
+   "precision": "area"
+  },
+  "hook": "Thirty-five years after the camps, Japantown's residents faced eviction again, and this time they occupied the buildings.",
+  "story": "Before World War II, Nihonmachi covered about 20 blocks and was home to 95 percent of San Francisco's Japanese Americans [1]. By 1940 it had more than 200 Japanese American-owned businesses [2]. Many returned after the camps, only to find the neighbourhood targeted by the Redevelopment Agency's Western Addition projects, which leaders in both the Japanese American and African American communities opposed [2]. The first big change, the Japan Center, displaced more than 50 businesses and about 1,500 residents [2]. In 1977 residents formed Citizens Against Nihonmachi Eviction (C.A.N.E.) to fight the eviction of low-income tenants and small businesses [1]. The group brought thousands of people to protest at City Hall and against Kintetsu, and occupied several buildings slated for demolition, in the same spirit as the International Hotel tenants [1]. They lost. FoundSF's account says foreign-owned hotels and shops displaced hundreds of local Japanese American residents and businesses [1].",
+  "people": [
+   {
+    "name": "Citizens Against Nihonmachi Eviction (C.A.N.E.)",
+    "role": "Community anti-eviction group"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Destruction of Nihonmachi",
+    "publisher": "FoundSF (Jesse Drew)",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=THE_DESTRUCTION_OF_NIHONMACHI",
+    "supports": "20 blocks and 95% figure, C.A.N.E. formed 1977, protests, occupations, outcome"
+   },
+   {
+    "title": "Japan Center turns 50",
+    "publisher": "The New Fillmore (Bridget Maley)",
+    "year": 2018,
+    "url": "https://newfillmore.com/2018/04/03/japan-center-turns-50/",
+    "supports": "200+ businesses by 1940, community opposition to A-1/A-2, Japan Center displacement figures"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-marcus-books",
+  "title": "The bookstore in Bop City's house",
+  "theme": "civil-rights",
+  "year": 1980,
+  "yearEnd": 2014,
+  "place": {
+   "label": "Marcus Books, 1712 Fillmore Street",
+   "lat": 37.785467,
+   "lon": -122.432877,
+   "precision": "building"
+  },
+  "hook": "A drugstore, then a jazz club, then the nation's oldest Black bookstore: one lavender Victorian, rolled down the street to escape the bulldozers.",
+  "story": "The Stick-Eastlake house at 1712 Fillmore was built around 1893 at 1686-1690 Post Street. There it housed the Nippon Drug Co. before the wartime removal, then Jimbo's Bop City [1][2]. In 1978, as the Redevelopment Agency cleared the Western Addition, it was one of a group of Victorians moved to Fillmore Street [1]. Activist Mary Ann Jones later recalled that her mother, Helen Jones, \"laid down in front of this building the first time they tried to bulldoze it\" [2]. In 1980 it became the home of Marcus Books, which San Francisco State professors Julian and Raye Richardson had started out of their print shop and named Marcus Books in 1960 [1][2][3]. The landmark report calls it a haven for Black intellectualism [1]. Visitors over the years included Malcolm X, James Baldwin, Rosa Parks and Toni Morrison [3]. After the building was sold at a bankruptcy sale in 2013, community leaders fought to buy it back [2]. They failed, and in 2014 the store, then the oldest Black-owned and Black-themed bookshop in the nation, was evicted [1].",
+  "people": [
+   {
+    "name": "Julian and Raye Richardson",
+    "role": "Founders of Marcus Books"
+   },
+   {
+    "name": "Helen Jones",
+    "role": "Neighbourhood activist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #266: Marcus Books and Jimbo's Bop City",
+    "publisher": "NoeHill in San Francisco (quoting the landmark designation report)",
+    "year": 2016,
+    "url": "https://noehill.com/sf/landmarks/sf266.asp",
+    "supports": "c1893 build date, original address, 1978 move, 1980 arrival, 1947/1960 founding history, 2014 eviction"
+   },
+   {
+    "title": "'We are refusing to let Marcus Books close'",
+    "publisher": "The New Fillmore",
+    "year": 2013,
+    "url": "https://newfillmore.com/2013/07/06/lake-of-black-wisdom-endangered/",
+    "supports": "Nippon Drug Co., Helen Jones quote, 2013 bankruptcy sale and buy-back effort"
+   },
+   {
+    "title": "Marcus Books celebrates its 50th",
+    "publisher": "The New Fillmore",
+    "year": 2010,
+    "url": "https://newfillmore.com/2010/05/01/marcus-books-celebrates-its-50th/",
+    "supports": "1960 founding by the Richardsons, 1980 move to Fillmore, notable visitors"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-ywca-reclaimed",
+  "title": "The women's building taken back in court",
+  "theme": "civil-rights",
+  "year": 2002,
+  "yearEnd": null,
+  "place": {
+   "label": "Japanese YWCA / Issei Women's Building, 1830 Sutter Street",
+   "lat": 37.78668,
+   "lon": -122.43062,
+   "precision": "building"
+  },
+  "hook": "Issei women paid for this Julia Morgan building but weren't allowed to own it. Seventy years later, their community sued to get it back.",
+  "story": "In 1912, Issei women barred from key facilities of the main YWCA founded the first independent Japanese YWCA in the United States [1]. They raised money for a building at 1830 Sutter Street, designed by Julia Morgan, who donated her services and brought antiques from Hearst's San Simeon to decorate it. It opened in 1932 and even had a Noh theatre stage [2]. California's Alien Land Law barred Issei from owning property, so the women asked the San Francisco YWCA to hold the title in trust for the Japanese American community [1]. In 1996 the YWCA, short of money, put the building up for sale for $1.65 million and denied there had ever been a trust [2]. In 1997 Soko Bukai, a group of Japanese American churches, sued, inspired by the campaign for redress for the camps [1][2]. A settlement in February 2002 gave title to Nihonmachi Little Friends, a community child care centre [2]. The building was listed on the National Register in 2020 and is also a San Francisco landmark [1][3].",
+  "people": [
+   {
+    "name": "Julia Morgan",
+    "role": "Architect"
+   },
+   {
+    "name": "Don Tamaki",
+    "role": "Attorney for Soko Bukai"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Japanese YWCA (National Register listing)",
+    "publisher": "U.S. National Park Service",
+    "year": 2025,
+    "url": "https://home.nps.gov/places/japanese-ywca.htm",
+    "supports": "1912 founding, Alien Land Law trust, redress-inspired legal struggle, 2020 listing"
+   },
+   {
+    "title": "Fight over historic Japantown YWCA ends in settlement",
+    "publisher": "San Francisco Chronicle / SFGATE (Annie Nakao)",
+    "year": 2002,
+    "url": "https://www.sfgate.com/news/article/fight-over-historic-japantown-ywca-ends-in-2869762.php",
+    "supports": "Morgan's donated services and San Simeon antiques, Noh stage, 1996 sale at $1.65M, 1997 suit, 2002 settlement to Nihonmachi Little Friends"
+   },
+   {
+    "title": "San Francisco Landmark #291: Japanese YWCA/Issei Women's Building",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf291.asp",
+    "supports": "City landmark status and 1932 build date"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "japantown-benkyodo-closes",
+  "title": "The last manju at Sutter and Buchanan",
+  "theme": "modern-city",
+  "year": 2022,
+  "yearEnd": null,
+  "place": {
+   "label": "Benkyodo, 1747 Buchanan Street at Sutter",
+   "lat": 37.786342,
+   "lon": -122.43022,
+   "precision": "building"
+  },
+  "hook": "For over a century, three generations of Okamuras made mochi for Japantown. In 2022 the counter where old friends met for breakfast went dark.",
+  "story": "Suyeichi Okamura founded Benkyodo in 1906. It stood on Geary near Buchanan until World War II forced it to close [1]. The family was incarcerated at Camp Amache in Colorado, where Ricky and Bobby's parents met [1]. Redevelopment later pushed the shop to the corner of Sutter and Buchanan, and ownership passed to Hirofumi Okamura. His sons Ricky and Bobby took over in 1990 [1]. By 2017 they were making more than 800 mochi and manju a day. Ricky started at 5 a.m., and Bobby tasted the beans to check the flavour, his favourite being shiro an, white bean [1]. After two other Japanese confectioners closed in the 1990s, Benkyodo became one of the Bay Area's few remaining makers of mochi and manju [1]. Its counter was a gathering place: 96-year-old Warren Eijima recalled the men who met there for breakfast as \"a stick-together bunch\" [1]. No fourth generation stepped in. After more than 115 years, Benkyodo closed in 2022, and by 2025 its classic diner interior had been torn out for a new restaurant [2].",
+  "people": [
+   {
+    "name": "Suyeichi Okamura",
+    "role": "Founder"
+   },
+   {
+    "name": "Ricky and Bobby Okamura",
+    "role": "Third-generation owners"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A gathering place in Japantown",
+    "publisher": "The New Fillmore",
+    "year": 2017,
+    "url": "https://newfillmore.com/2017/10/06/a-gathering-place-in-japantown/",
+    "supports": "1906 founding, Geary location, Amache, relocation, 1990 takeover, 800 a day, regulars, quote"
+   },
+   {
+    "title": "In Japantown: in with the new, out with the old",
+    "publisher": "The New Fillmore",
+    "year": 2025,
+    "url": "https://newfillmore.com/2025/07/08/a-new-co-working-space-in-japantown/",
+    "supports": "Closure in 2022 after 115+ years; interior gone, construction for new restaurant"
+   }
+  ],
+  "photo": null
+ }
+]

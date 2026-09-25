@@ -1,0 +1,742 @@
+[
+ {
+  "id": "financial-district-south-beach-leidesdorff-warehouse",
+  "title": "The captain who built Yerba Buena's waterfront",
+  "theme": "indigenous-early",
+  "year": 1846,
+  "yearEnd": 1848,
+  "place": {
+   "label": "Leidesdorff's warehouse, California & Leidesdorff streets",
+   "lat": 37.7931,
+   "lon": -122.402,
+   "precision": "block"
+  },
+  "hook": "Before the Gold Rush, the shoreline here belonged to a mixed-race ship captain from St. Croix who became the town's treasurer, vice consul and richest man.",
+  "story": "When the schooner Julia Ann dropped anchor at Yerba Buena in 1841, its master was William Alexander Leidesdorff, born on St. Croix in the Danish West Indies to a Danish merchant father and a creole mother [1][2]. The village then held only about thirty families. Leidesdorff built a warehouse on what was then the waterfront, at today's California and Leidesdorff streets, and put up the City Hotel near Clay and Kearny [2]. He launched the first steamboat on the bay, became a Mexican citizen in 1844 and received a 35,000-acre grant on the American River [1]. In 1845 Consul Thomas Larkin made him U.S. vice consul, and in July 1846 he hosted what is described as the first reading of the Declaration of Independence in California, on his veranda [1]. Under American rule he sat on the town council and the first school board, and served as city treasurer [1][2]. He died in May 1848, aged 38, just as gold was reported on his ranch; his estate later sold for more than $1.4 million [1]. The alley beside his old warehouse still carries his name [2].",
+  "people": [
+   {
+    "name": "William Alexander Leidesdorff",
+    "role": "ship captain, merchant, U.S. vice consul"
+   }
+  ],
+  "sources": [
+   {
+    "title": "William Leidesdorff",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/William_Leidesdorff",
+    "supports": "Birth, 1841 arrival, steamboat, land grant, vice consul, Declaration reading, offices, death and estate value"
+   },
+   {
+    "title": "William Leidesdorff (from A Walking Tour of the Black Presence in San Francisco, Parker & Abajian, 1974)",
+    "publisher": "FoundSF",
+    "year": 1974,
+    "url": "https://www.foundsf.org/index.php?title=William_Leidesdorff",
+    "supports": "Warehouse at California and Leidesdorff streets, City Hotel, civic posts, alley named for him"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-happy-valley",
+  "title": "Happy Valley, the tent city that turned deadly",
+  "theme": "gold-rush-victorian",
+  "year": 1849,
+  "yearEnd": 1850,
+  "place": {
+   "label": "Happy Valley, Mission Street between First and Second",
+   "lat": 37.78884,
+   "lon": -122.39852,
+   "precision": "area"
+  },
+  "hook": "In 1849 about a thousand gold-seekers pitched tents along Mission Street and named the spot for its sunshine. By winter, the name had become a grim joke.",
+  "story": "South of Market's first known settlement was a canvas town strung along Mission Street from First to Third in 1849 [1]. Perhaps a thousand would-be miners lived there, and they called it Happy Valley for its sunshine, its shelter from the prevailing wind, its scrub oaks and spring water [1]. One lodging house, the Isthmus House, is said to have sheltered James and Peter Donahue, later founders of the Union Iron Works, along with the future Comstock silver kings Flood, Fair, Mackay and O'Brien [1]. By the winter of 1849–50 the cheerful name had turned ironic: dysentery and cholera swept the camp [1]. Getting there was hard work too; the road to Mission Dolores was so sandy that hauling hay cost a fortune, until a plank toll road opened along Mission Street in 1850 [1]. Real houses followed, some shipped in pieces around Cape Horn: merchant W.D.M. Howard put up several of the 25 houses he imported from Boston [1]. East of First Street, the Donahues opened a blacksmith shop and foundry in 1849–50 that grew into Union Iron Works, the start of the district's heavy industry [1][2].",
+  "people": [
+   {
+    "name": "James and Peter Donahue",
+    "role": "founders of Union Iron Works"
+   },
+   {
+    "name": "William D. M. Howard",
+    "role": "merchant"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Happy Valley (from Anne B. Bloomfield, California History, Winter 1995/96)",
+    "publisher": "FoundSF",
+    "year": 1996,
+    "url": "https://www.foundsf.org/index.php?title=HAPPY_VALLEY",
+    "supports": "Tent city, name, residents, cholera, plank road, imported houses, Donahue foundry"
+   },
+   {
+    "title": "Union Iron Works",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Union_Iron_Works",
+    "supports": "Founded south of Market in 1849 by Irish immigrant Peter Donahue"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-fort-gunnybags",
+  "title": "Fort Gunnybags and the vigilantes of 1856",
+  "theme": "gold-rush-victorian",
+  "year": 1856,
+  "place": {
+   "label": "Fort Gunnybags, Sacramento Street between Front and Davis",
+   "lat": 37.7943,
+   "lon": -122.3984,
+   "precision": "block"
+  },
+  "hook": "After an editor was shot on Montgomery Street, thousands of armed citizens fortified a warehouse with sandbags and cannon and ran the city from inside it.",
+  "story": "On May 14, 1856, James Casey, editor of the Sunday Times, shot his rival James King of William, editor of the Evening Bulletin, at Montgomery and Commercial streets [2]. Within two days 2,600 men had joined a revived Committee of Vigilance, organised into companies of 100 [2]. They made their headquarters on the south side of Sacramento Street between Front and Davis, walling it with sandbags; San Franciscans called it Fort Gunnybags, and guards and an alarm bell stood on its roof [1]. Inside were assembly halls, a kitchen, an armoury, an infirmary and prison cells [3]. The vigilantes seized Casey from the county jail, and on May 22, as bells tolled the end of King's funeral, they hanged him, together with Charles Cora, at the fort [1][2]. Four men were executed in 1856; the boxer James 'Yankee' Sullivan also died by his own hand in a vigilante cell [3]. One writer notes the committees gave detainees something like trials and released some [2]; others remember them as an armed, extralegal takeover of city government.",
+  "people": [
+   {
+    "name": "James King of William",
+    "role": "Evening Bulletin editor"
+   },
+   {
+    "name": "James Casey",
+    "role": "Sunday Times editor, hanged"
+   },
+   {
+    "name": "Charles Cora",
+    "role": "hanged by the committee"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Politics and the Vigilance Committees",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Politics_and_the_Vigilance_Committees",
+    "supports": "Location of Fort Gunnybags on Sacramento between Front and Davis; bell and guards; Casey and Cora hanged there"
+   },
+   {
+    "title": "The Shot Heard 'Round the City (Dr. Weirde)",
+    "publisher": "FoundSF",
+    "year": 2008,
+    "url": "https://www.foundsf.org/index.php?title=The_Shot_Heard_%E2%80%99Round_the_City",
+    "supports": "King of William shooting, 2,600 recruits, seizure and hanging of Casey"
+   },
+   {
+    "title": "San Francisco Committee of Vigilance",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/San_Francisco_Committee_of_Vigilance",
+    "supports": "Fortified headquarters contents; 1856 executions and Yankee Sullivan"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-south-park",
+  "title": "A London crescent in the sand",
+  "theme": "architecture-landmarks",
+  "year": 1854,
+  "yearEnd": 1869,
+  "place": {
+   "label": "South Park, between Second and Third streets",
+   "lat": 37.78156,
+   "lon": -122.39332,
+   "precision": "area"
+  },
+  "hook": "An Englishman tried to plant a slice of Georgian London in Gold Rush San Francisco, complete with a private oval garden and no saloons allowed.",
+  "story": "George Gordon, a British immigrant who made money in lumber, wharves, an iron foundry and California's first successful sugar refinery, began buying lots here in 1852 [1][2]. His plan was to recreate one of London's elegant squares or crescents a mile from the rowdy business district, free of saloons, gambling halls and warehouses [1]. Architect George H. Goddard laid it out and building began in 1854 [1]. The houses were brick dressed in stucco to look like stone, with parlours above and English-style basements for kitchens and servants [1]. At the centre lay a private oval garden, 550 feet long, fenced in iron; a windmill pumped water for the homes [1][2]. The depression of 1855–57 slowed sales, but through the 1850s and 1860s bankers, politicians and society families moved in, riding an omnibus downtown [1]. Then warehouses crept closer and the Second Street cut of 1869 sank land values. By the 1870s the rich had left for Nob Hill and working families took their place; by the 1890s South Park was home to Japanese hotels and shops, and a settlement house opened at No. 15 in 1895 [1][2].",
+  "people": [
+   {
+    "name": "George Gordon",
+    "role": "developer"
+   },
+   {
+    "name": "George H. Goddard",
+    "role": "architect"
+   }
+  ],
+  "sources": [
+   {
+    "title": "South Park",
+    "publisher": "FoundSF",
+    "year": 2015,
+    "url": "https://www.foundsf.org/index.php?title=SOUTH_PARK",
+    "supports": "Gordon's background and plan, Goddard, 1854 construction, house design, garden, decline, later residents"
+   },
+   {
+    "title": "South Park, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/South_Park,_San_Francisco",
+    "supports": "1852 assembly by Gordon, windmill, 1895 settlement, Japanese community"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-rincon-shrimpers",
+  "title": "The Chinese fishing village below Rincon Hill",
+  "theme": "communities",
+  "year": 1859,
+  "yearEnd": 1869,
+  "place": {
+   "label": "Old South Beach shoreline, southern foot of Rincon Hill",
+   "lat": 37.785,
+   "lon": -122.3905,
+   "precision": "area"
+  },
+  "hook": "Before landfill buried South Beach, Chinese fishermen kept a small village on the shore under the mansions of Rincon Hill.",
+  "story": "In the 1850s the bay still lapped the foot of Rincon Hill, whose name means 'inside corner' in Spanish, and the cove reached as far as today's First Street [1]. While the rich built houses on the crest for the views, a small Chinese fishing village sat on the shore below [1]. A painting by Matilda F. Mott, now at the California Historical Society, shows the village at the southern foot of the hill around 1859 [2]. Chinese fishermen worked the bay in redwood boats, staking long lines of triangular nets in the mudflats to catch shrimp on the tide, and they came to dominate the region's shrimp trade [2]. The Rincon village didn't last. It disappeared along with South Beach itself when the shoreline was filled in the late 1860s [1]. Chinese life here carried on in other forms: excavations for Rincon Center turned up evidence of 1880s Chinese laundries and small supply stores serving boarding-house residents and dockworkers, and some of the finds are on display in the building [1]. Chinese shrimp camps later flourished at Hunters Point and on other shores around the bay [2].",
+  "people": [
+   {
+    "name": "Matilda F. Mott",
+    "role": "painter of the village, c. 1859"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Rincon Hill (Northern California Coalition on Immigrant Rights)",
+    "publisher": "FoundSF",
+    "year": 2023,
+    "url": "https://www.foundsf.org/index.php?title=Rincon_Hill",
+    "supports": "Meaning of Rincon, cove extent, Chinese fishing village lost when South Beach was filled, 1880s Chinese businesses and Rincon Center artifacts"
+   },
+   {
+    "title": "Chinese shrimping village (Chris Carlsson)",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Chinese_shrimping_village",
+    "supports": "Mott painting of village at southern foot of Rincon Hill c. 1859; shrimping methods; Chinese dominance of the trade"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-selby-shot-tower",
+  "title": "Tar Flat and the 200-foot shot tower",
+  "theme": "labor-industry",
+  "year": 1864,
+  "yearEnd": 1906,
+  "place": {
+   "label": "First and Howard streets (gas works and Selby Shot Tower)",
+   "lat": 37.7883,
+   "lon": -122.3962,
+   "precision": "block"
+  },
+  "hook": "At First and Howard a gasworks dumped tar into the bay and a 200-foot tower rained molten lead. Mothers brought coughing children to breathe the fumes.",
+  "story": "East of First Street, the land being filled in from the bay became San Francisco's first industrial zone, with foundries, machine shops and boiler works [1]. Its landmark was a 200-foot tower raised in 1864 at First and Howard by the Selby Smelting and Lead Company for making bullets and shot; it worked until the 1906 earthquake [1]. Across the corner stood the Donahue brothers' gas works, which distilled coal and brought gas lighting to the city in early 1854 [2]. The early technology was crude, and the sludge was dumped into the open water at Fremont Street [2]. It killed the shellfish, and the smell gave the neighbourhood its name, Tar Flat [2]. Workers' families on nearby Mission Street lived in the thick of it, and some mothers carried sick children into the plant, believing the fumes would cure whooping cough [2]. The gas company absorbed its rivals and in 1905 re-incorporated as Pacific Gas and Electric [2]. Tar Flat came back in the 1980s: a layer of still-hazardous tar three to five feet thick stopped work on a new tower at Beale and Howard until it was removed [2].",
+  "people": [
+   {
+    "name": "Selby Smelting and Lead Company",
+    "role": "built the shot tower"
+   },
+   {
+    "name": "James and Peter Donahue",
+    "role": "gas works founders"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Happy Valley (Anne B. Bloomfield)",
+    "publisher": "FoundSF",
+    "year": 1996,
+    "url": "https://www.foundsf.org/index.php?title=HAPPY_VALLEY",
+    "supports": "Industrial zone east of First; 200-foot Selby shot tower of 1864 at Howard and First, operating until 1906"
+   },
+   {
+    "title": "Tar Flat (Anne B. Bloomfield)",
+    "publisher": "FoundSF",
+    "year": 1996,
+    "url": "https://www.foundsf.org/index.php?title=TAR_FLAT",
+    "supports": "Gas works at First and Howard, 1854 lighting, sludge dumping, name Tar Flat, whooping-cough belief, PG&E 1905, 1980s rediscovery"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-second-street-cut",
+  "title": "The day they sliced Rincon Hill in half",
+  "theme": "gold-rush-victorian",
+  "year": 1869,
+  "place": {
+   "label": "Second Street cut at Harrison Street, Rincon Hill",
+   "lat": 37.7849,
+   "lon": -122.3938,
+   "precision": "street"
+  },
+  "hook": "One landowner's scheme dug a canyon through San Francisco's most fashionable hill, and within a few years the rich had packed up for Nob Hill.",
+  "story": "In the 1850s and 1860s Rincon Hill was one of the city's most fashionable addresses [1][3]. Then John Middleton, who owned a lot at Second and Bryant, decided a level road to the Pacific Mail wharves would make him richer [1]. He got himself elected to the State Assembly and pushed through a bill letting the supervisors change street grades [1]. Residents protested that the hill was home to the city's finest houses; supporters answered that a few wealthy people should not stop progress [1]. The Board fell one vote short, but in February 1869 the California Supreme Court ordered the cut, with the rubble to fill South Beach [1]. The crest at Harrison came down 87 feet [1]. The job took 500 men and 250 horse teams over a year, ran at least $100,000 over budget, and left a $90,000 wooden bridge across the gap that the press called atrocious [1]. The sand kept slipping, wrecking houses along the edge [2]. Land values collapsed and the wealthy moved north; Robert Louis Stevenson later called the hill 'a new slum' of sandy cliffs and solitary old houses [3].",
+  "people": [
+   {
+    "name": "John Middleton",
+    "role": "landowner and assemblyman behind the cut"
+   }
+  ],
+  "sources": [
+   {
+    "title": "2nd St. Cut (James Sederberg)",
+    "publisher": "FoundSF",
+    "year": 1994,
+    "url": "https://www.foundsf.org/index.php?title=2nd_St._Cut",
+    "supports": "Middleton's motives and AB 444, hearing arguments, 1869 court ruling, 87-foot lowering, workforce, costs, bridge"
+   },
+   {
+    "title": "Commercial Development (Anne B. Bloomfield)",
+    "publisher": "FoundSF",
+    "year": 1996,
+    "url": "https://www.foundsf.org/index.php?title=COMMERCIAL_DEVELOPMENT",
+    "supports": "Slipping sand wrecking houses; wealthy flight"
+   },
+   {
+    "title": "Rincon Hill, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Rincon_Hill,_San_Francisco",
+    "supports": "Fashionable district, 100-foot canyon, Stevenson's 'new slum' quote"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-union-square-civil-war",
+  "title": "How Union Square got its name",
+  "theme": "war-military",
+  "year": 1861,
+  "yearEnd": 1865,
+  "place": {
+   "label": "Union Square",
+   "lat": 37.788,
+   "lon": -122.4075,
+   "precision": "area"
+  },
+  "hook": "A dune set aside for a park became a rallying ground for the Union, and in April 1865 fourteen thousand mourners marched here for Lincoln.",
+  "story": "The square began as a windswept sand hill with chaparral, set aside as public land on early surveys and deeded to the city in 1850 by John Geary, the first mayor under American rule [1][2]. Through the 1850s it was mostly a dump, a squatters' camp and a sandy ball field; one writer suggests the phrase 'sand-lot baseball' may have started here [1]. During the Civil War it took its name from the pro-Union rallies held on it, often led by the Unitarian minister Thomas Starr King, whose church faced the square [1][2]. The rallies ended with grief: on April 20, 1865, fourteen thousand people marched past buildings draped in black to hear a memorial address for President Lincoln, given by King's successor Horatio Stebbins [1]. During the war years the Mechanics' Institute also held its industrial fairs in a wooden pavilion on the square; a larger one built in 1868 was said to seat 8,000 [1]. The square's war memory returned in 1903, when President Theodore Roosevelt dedicated the Dewey Monument to the U.S. Navy's victory at Manila Bay [1][2].",
+  "people": [
+   {
+    "name": "Thomas Starr King",
+    "role": "Unitarian minister, Union orator"
+   },
+   {
+    "name": "John Geary",
+    "role": "mayor who deeded the square"
+   },
+   {
+    "name": "Horatio Stebbins",
+    "role": "gave the Lincoln memorial address"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A History of Union Square (Gregory J. Nuno, The Argonaut, 1993)",
+    "publisher": "FoundSF",
+    "year": 1993,
+    "url": "https://www.foundsf.org/index.php?title=A_HISTORY_OF_UNION_SQUARE",
+    "supports": "Geary deed, sandlot use, Civil War rallies, Lincoln memorial march, Mechanics' Pavilion, Dewey dedication"
+   },
+   {
+    "title": "Union Square, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Union_Square,_San_Francisco",
+    "supports": "Name from Starr King's pro-Union rallies; 1850 dedication; 1903 Dewey Monument"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-levi-rivets",
+  "title": "Copper rivets on Battery Street",
+  "theme": "labor-industry",
+  "year": 1873,
+  "place": {
+   "label": "Levi Strauss & Co., 14–16 Battery Street",
+   "lat": 37.79158,
+   "lon": -122.39936,
+   "precision": "block"
+  },
+  "hook": "A Reno tailor couldn't afford a patent, so he wrote to his cloth supplier on Battery Street. Their 1873 partnership gave the world blue jeans.",
+  "story": "Levi Strauss, born Loeb Strauss in Bavaria in 1829, reached San Francisco in 1853 to open a West Coast branch of his brothers' New York dry goods firm [1][2]. By 1866 his wholesale house filled 14–16 Battery Street [1]. One of his customers was Jacob Davis, a Latvian-Jewish tailor in Reno who bought denim by the bolt [2]. When a customer kept tearing his work pants, Davis reinforced the pocket corners and fly with copper rivets. He couldn't afford the patent, so in 1872 he wrote to Strauss proposing they share it [1][2]. On May 20, 1873, the two received U.S. patent 139,121 [2]. Demand for the riveted 'waist overalls' was enormous [1]. The patent expired in 1890, the year the company began numbering its lots and gave the famous overalls the number 501; nobody knows why, because the firm's records burned in 1906 [2]. Strauss insisted employees call him Levi. He was a charter member of the Board of Trade, a member of Temple Emanu-El, and in 1897 he funded 28 scholarships at UC Berkeley [1].",
+  "people": [
+   {
+    "name": "Levi Strauss",
+    "role": "dry goods merchant"
+   },
+   {
+    "name": "Jacob Davis",
+    "role": "Reno tailor, inventor of riveted pants"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Levi Strauss (Charles Fracchia)",
+    "publisher": "FoundSF",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=Levi_Strauss",
+    "supports": "Birth name, 1853 arrival, 14-16 Battery St by 1866, Davis letter 1872, civic life, 1897 scholarships"
+   },
+   {
+    "title": "Levi Strauss & Co.",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co.",
+    "supports": "Jacob Davis, patent 139,121 of May 20, 1873, 1890 lot number 501, records lost in 1906"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-bank-of-california-run",
+  "title": "The bank run that ended in the bay",
+  "theme": "labor-industry",
+  "year": 1875,
+  "place": {
+   "label": "Bank of California, California and Sansome streets",
+   "lat": 37.7933,
+   "lon": -122.40146,
+   "precision": "building"
+  },
+  "hook": "At 2:35 on an August afternoon in 1875 the West's grandest bank ran out of money. The next day its founder went for a swim.",
+  "story": "William Ralston opened the Bank of California on July 4, 1864, in a building of Angel Island stone at California and Sansome, with Darius Ogden Mills as president and himself as cashier [1]. Fed by Comstock silver, Ralston's 'Bank Crowd' became the richest capitalists in the West, and Montgomery Street became the Wall Street of the West [2]. Ralston poured money into mills, water rights, real estate and the vast Palace Hotel, and he blurred the line between the bank's money and his own [2]. On August 26, 1875, rumours set off a run. At 2:35 p.m., its vaults empty, the bank shut its doors [2]. The next day the directors found he owed the bank nearly five million dollars, close to its whole capital. They forced his resignation and had him sign his assets over to William Sharon [2]. Ralston left for his daily swim in the bay and drowned [1][2]. Fifty thousand people followed his funeral. Whether his death was an accident is still argued; the historian H.H. Bancroft scrawled in a margin that it was suicide [2]. The reorganised bank reopened on October 2, 1875 [2].",
+  "people": [
+   {
+    "name": "William Chapman Ralston",
+    "role": "founder and cashier"
+   },
+   {
+    "name": "William Sharon",
+    "role": "partner, took over his assets"
+   },
+   {
+    "name": "Darius Ogden Mills",
+    "role": "bank president"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Bank of California",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Bank_of_California",
+    "supports": "Opening date, founders, Angel Island stone building at California and Sansome, 1875 run and Ralston's drowning"
+   },
+   {
+    "title": "Bank of California and William Ralston (Gray Brechin, from Reclaiming San Francisco, 1998)",
+    "publisher": "FoundSF",
+    "year": 1998,
+    "url": "https://www.foundsf.org/index.php?title=BANK_OF_CALIFORNIA_and_WILLIAM_RALSTON",
+    "supports": "Bank Crowd, Wall Street of the West, 2:35 pm closure, $5 million debt, Sharon, funeral, Bancroft note, October 2 reopening"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-lottas-fountain",
+  "title": "A child star's gift to Market Street",
+  "theme": "arts-counterculture",
+  "year": 1875,
+  "place": {
+   "label": "Lotta's Fountain, Market, Geary and Kearny streets",
+   "lat": 37.788,
+   "lon": -122.4034,
+   "precision": "building"
+  },
+  "hook": "Lotta Crabtree started out dancing for miners at eight. In 1875 California's favourite entertainer gave the city a cast-iron drinking fountain.",
+  "story": "Lotta Crabtree arrived in San Francisco in 1853, aged six, when women and children were still rare in the city [2]. Coached as a child by the notorious dancer Lola Montez, she began dancing for miners at Rabbit Creek at eight, then toured saloons and gambling halls across Northern California with her mother [2]. Her song, dance and comedy made her California's favourite entertainer and eventually very rich; she never married and left a fortune of four million dollars [2]. In 1875 she gave the city a cast-iron drinking fountain, dedicated on September 9 at the meeting of Market, Kearny and Geary [1]. Not everyone loved it: in 1947 Samuel Dickson called it 'the ugliest monument in the city' [2]. After 1906 it became a meeting point for survivors, and on Christmas Eve 1910 the soprano Luisa Tetrazzini sang there to a vast crowd [1][2]. A bronze column was added in 1916, and the 1999 restoration shortened the fountain back to its 1875 look and painted it gold-brown [1].",
+  "people": [
+   {
+    "name": "Lotta Crabtree",
+    "role": "actress and donor"
+   },
+   {
+    "name": "Lola Montez",
+    "role": "her childhood mentor"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Lotta's Fountain",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Lotta%27s_Fountain",
+    "supports": "Commissioned 1875, dedicated September 9, 1875; 1906 and 1910 history; 1916 column; 1999 restoration"
+   },
+   {
+    "title": "Lotta's Fountain (Dr. Weirde)",
+    "publisher": "FoundSF",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=Lotta%27s_Fountain",
+    "supports": "Crabtree's biography, Lola Montez, Rabbit Creek, $4 million fortune, Dickson's 1947 criticism"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-pacific-mail-riot",
+  "title": "The pick-handle battle at the Pacific Mail docks",
+  "theme": "civil-rights",
+  "year": 1877,
+  "place": {
+   "label": "Pacific Mail Steamship docks, First and Brannan streets",
+   "lat": 37.78277,
+   "lon": -122.38969,
+   "precision": "area"
+  },
+  "hook": "In July 1877 an anti-Chinese mob set out to burn the docks where Chinese immigrants landed. A citizens' militia armed with pick handles stood in the way.",
+  "story": "From the late 1860s the Pacific Mail Steamship Company's docks off South Beach, between First and Second streets, were where most Chinese immigrants first set foot in California [1][2]. In 1867 the line had opened the world's first regular trans-Pacific steamship service, to Yokohama with links to Hong Kong and Shanghai [2]. In July 1877, amid unemployment, three days of anti-Chinese rioting swept the city, burning laundries [3]. Rumours spread that rioters would torch the Pacific Mail docks to stop further Chinese immigration [3]. A Committee of Safety chaired by William T. Coleman, the old vigilance leader, armed volunteers with clubs, and on July 25 police and this 'pick-handle brigade' guarded the wharves [3]. Rioters set fire to a nearby lumberyard instead; one account places it at the Beale Street wharf, another suggests Mission Creek [2][3]. Mobs tried to stop firemen, and in the fighting four men were killed [1][3]. One of the pick-handle men was a drayman named Denis Kearney, who was drawn into politics by those July days and went on to lead the anti-Chinese Workingmen's agitation [1][3]. The 1867 Oriental Warehouse near First and Brannan is the complex's only survivor [4].",
+  "people": [
+   {
+    "name": "William T. Coleman",
+    "role": "chair of the Committee of Safety"
+   },
+   {
+    "name": "Denis Kearney",
+    "role": "pick-handle brigade member, later anti-Chinese leader"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pacific Mail Docks",
+    "publisher": "FoundSF",
+    "year": 2008,
+    "url": "https://www.foundsf.org/index.php?title=Pacific_Mail_Docks",
+    "supports": "Docks at South Beach landed most Chinese; July 25, 1877 fire and four deaths"
+   },
+   {
+    "title": "Pacific Mail Steamship Company (Steve Potash)",
+    "publisher": "FoundSF",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=Pacific_Mail_Steamship_Company",
+    "supports": "1867 trans-Pacific service; 1877 pick-handle defence; lumberyard fire probably on Mission Creek"
+   },
+   {
+    "title": "San Francisco riot of 1877",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/San_Francisco_riot_of_1877",
+    "supports": "Committee of Safety, Coleman, July 25 defence, Beale Street wharf lumberyard, four killed, Kearney"
+   },
+   {
+    "title": "Commercial Development (Anne B. Bloomfield)",
+    "publisher": "FoundSF",
+    "year": 1996,
+    "url": "https://www.foundsf.org/index.php?title=COMMERCIAL_DEVELOPMENT",
+    "supports": "Pacific Mail docks between First and Second; 1867 Oriental Warehouse sole survivor"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-coast-seamens-union",
+  "title": "A sailors' declaration from a lumber pile",
+  "theme": "labor-industry",
+  "year": 1885,
+  "place": {
+   "label": "Folsom Street Wharf, foot of Folsom Street",
+   "lat": 37.79,
+   "lon": -122.3885,
+   "precision": "area"
+  },
+  "hook": "Sailors could be drugged, shanghaied and treated as virtual slaves at sea. In 1885 they climbed onto a lumber pile here and declared their independence.",
+  "story": "In the 1880s San Francisco was the busiest port on the West Coast, and supplying sailors was a racket run by boarding-house keepers called crimps [1]. A seaman who went on a binge could wake up at sea, signed aboard by a crimp who pocketed his wages [1]. At sea the captain's power was near absolute; as late as 1897 the U.S. Supreme Court ruled sailors outside the Thirteenth Amendment's ban on involuntary servitude [1]. The radical lawyer Burnette Haskell harangued sailors from a soapbox on the waterfront between Howard and Harrison, and on March 6, 1885, from a lumber pile on the Folsom Street Wharf, the Coast Seamen's Union was founded with a 'Sailors' Declaration of Independence' [1][2]. A dour Norwegian, Andrew Furuseth, joined that June and led the union from 1887 [2][3]. In 1891 it merged with the steamship sailors to form the Sailors' Union of the Pacific, which still exists [2][3]. Furuseth's long campaign produced the Seamen's Act of 1915 [3]. In 1901 he told striking sailors, 'There is no other way of having peace except by fighting for it' [4].",
+  "people": [
+   {
+    "name": "Andrew Furuseth",
+    "role": "union leader"
+   },
+   {
+    "name": "Burnette G. Haskell",
+    "role": "radical organiser"
+   },
+   {
+    "name": "George Thompson",
+    "role": "first president"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Sailor's Union of the Pacific (Chris Carlsson)",
+    "publisher": "FoundSF",
+    "year": 2015,
+    "url": "https://www.foundsf.org/index.php?title=Sailor%27s_Union_of_the_Pacific",
+    "supports": "Crimps and shanghaiing, Robertson v. Baldwin, Haskell's soapbox, March 6, 1885 founding on Folsom Street Wharf lumber pile"
+   },
+   {
+    "title": "Sailors' Union of the Pacific",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Sailors%27_Union_of_the_Pacific",
+    "supports": "Founding date, first president Thompson, Furuseth's leadership, 1891 merger"
+   },
+   {
+    "title": "Andrew Furuseth",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Andrew_Furuseth",
+    "supports": "Joined June 3, 1885; secretary from 1887; 1891 merger; Seamen's Act"
+   },
+   {
+    "title": "1901 General Strike on San Francisco's Waterfront (Laurence H. Shoup)",
+    "publisher": "FoundSF",
+    "year": 2010,
+    "url": "https://www.foundsf.org/index.php?title=1901_General_Strike_on_San_Francisco%27s_Waterfront",
+    "supports": "Furuseth's 1901 quotation; founding at Folsom Street Dock"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-kalakaua-palace-hotel",
+  "title": "Hawaii's last king dies at the Palace",
+  "theme": "gold-rush-victorian",
+  "year": 1891,
+  "place": {
+   "label": "Palace Hotel, Market and New Montgomery streets",
+   "lat": 37.78841,
+   "lon": -122.40195,
+   "precision": "building"
+  },
+  "hook": "Hawaii's 'Merrie Monarch' came to San Francisco for his health and checked into the grandest hotel in the West. He went home aboard a warship, in a coffin.",
+  "story": "When it opened in October 1875, William Ralston's Palace Hotel was the largest hotel in the western United States: 755 rooms, 120 feet high, with a skylit Grand Court where carriages drove in beneath seven storeys of white balconies [1]. Guests rode redwood-panelled hydraulic 'rising rooms' and could summon staff with an electric call button [1]. In December 1890 King Kalākaua of Hawaii arrived aboard the USS Charleston and took a suite there [1][2]. His health was already failing. After a stroke in Santa Barbara he was rushed back to the Palace and put in the care of the Pacific Fleet's surgeon, George Woods [2]. Against advice, on January 14 he went to his initiation into the Shriners, propped up with a tonic of Vin Mariani, and was back in his suite within the hour [2]. Two days before his death he fell into a coma. He died at 2:35 p.m. on January 20, 1891; Navy officials gave the cause as Bright's disease [2]. The Charleston carried his body home, and Honolulu learned of his death only when the ship arrived on January 29. His sister Liliʻuokalani became queen that day [2].",
+  "people": [
+   {
+    "name": "David Kalākaua",
+    "role": "King of Hawaii"
+   },
+   {
+    "name": "George W. Woods",
+    "role": "Pacific Fleet surgeon"
+   },
+   {
+    "name": "William Ralston",
+    "role": "built the hotel"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Palace Hotel, San Francisco",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Palace_Hotel,_San_Francisco",
+    "supports": "Original hotel's size, height, Grand Court, rising rooms, call buttons; Kalākaua's stay"
+   },
+   {
+    "title": "Kalākaua",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Kal%C4%81kaua",
+    "supports": "Charleston voyage, Palace suite, stroke, Dr. Woods, Shriners initiation, death time and cause, return to Honolulu"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-newspaper-row",
+  "title": "Newspaper Row's race for the sky",
+  "theme": "architecture-landmarks",
+  "year": 1898,
+  "yearEnd": null,
+  "place": {
+   "label": "Call Building (Central Tower), Third and Market streets",
+   "lat": 37.78718,
+   "lon": -122.40357,
+   "precision": "building"
+  },
+  "hook": "Two feuding newspaper barons fought over the corner of Third and Market by building ever-taller towers. The winner was visible from San Jose.",
+  "story": "The newspaper wars of the 1880s and 1890s were personal. The Chronicle's founders, Charles and M.H. de Young, traded insults and bullets with rivals: in 1880 the mayor's son shot Charles dead inside the Chronicle's offices, and in 1884 Adolph Spreckels, enraged by Chronicle attacks on his family's sugar company, shot M.H. de Young, who survived [3][4]. In 1889–90 M.H. de Young built a steel-framed tower with a clock at Market, Third and Kearny, often called San Francisco's first skyscraper [1][2]. The Spreckels family answered. After buying the Call in 1895, Claus Spreckels broke ground that September across Market on a 75-by-70-foot lot [1][5]. His Call Building rose 315 feet to the lantern atop its dome, the tallest building west of Chicago, and it was exempt from the height limit passed that very summer [1][5]. Papers crowed about how it would tower over the Chronicle [5]. Its opening light show could be seen from San Jose, and 'CS' monograms were stamped on its doorknobs [1]. It survived 1906 but lost its dome to a 1938 'modernisation', and today it's the plain Central Tower [5]. (Sources give the Chronicle Building as anywhere from 160 to 218 feet tall.)",
+  "people": [
+   {
+    "name": "Claus Spreckels",
+    "role": "sugar magnate, Call owner"
+   },
+   {
+    "name": "M. H. de Young",
+    "role": "Chronicle publisher"
+   },
+   {
+    "name": "Charles de Young",
+    "role": "Chronicle editor, killed 1880"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Central Tower (Call Building)",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Call_Building",
+    "supports": "Rivalry with the Chronicle Building, 315-foot height, opening light show, CS monograms"
+   },
+   {
+    "title": "San Francisco Chronicle",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/San_Francisco_Chronicle",
+    "supports": "Burnham and Root building at 690 Market as first skyscraper, completed 1889"
+   },
+   {
+    "title": "Michael De Young",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Michael_De_Young",
+    "supports": "Kalloch feud, 1880 killing, 1884 Spreckels shooting"
+   },
+   {
+    "title": "The Call Building: San Francisco's Forgotten Skyscraper (Ellen Klages, The Argonaut, 1993)",
+    "publisher": "FoundSF",
+    "year": 1993,
+    "url": "https://www.foundsf.org/index.php?title=THE_CALL_BUILDING:_SAN_FRANCISCO%27S_FORGOTTEN_SKYSCRAPER",
+    "supports": "1895 groundbreaking, lot size, height-limit ordinance, rivalry hype, 160-foot Chronicle, 1937-38 remodel"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "financial-district-south-beach-ferry-building",
+  "title": "A Seville tower at the foot of Market",
+  "theme": "architecture-landmarks",
+  "year": 1898,
+  "place": {
+   "label": "Ferry Building, foot of Market Street",
+   "lat": 37.7955,
+   "lon": -122.3934,
+   "precision": "building"
+  },
+  "hook": "Before the bridges, transcontinental rail passengers finished their journey by ferry and stepped off here, beneath a tower modelled on a Spanish cathedral's.",
+  "story": "The foot of Market Street had been a ferry landing long before the grand terminal: a wooden depot stood on the site from 1875 [1]. In 1892 the architect A. Page Brown drew up a Beaux-Arts replacement, and it opened on July 13, 1898 [1]. It was the biggest project the city had yet undertaken [1]. Its 245-foot clock tower, with four dials 22 feet across, may have been inspired by the Giralda bell tower of Seville's cathedral [1][2]. Behind the arcades ran a 660-foot Great Nave [1]. Because the transcontinental railroads ended in Oakland, travellers from the East finished their journey by ferry and landed here, while commuters from the East Bay and Marin poured through daily [1]. Until the bridges opened in the 1930s it was the second-busiest transit terminal in the world, after London's Charing Cross [1]. Its solid construction carried it through both the 1906 and 1989 earthquakes with little damage [1]. Market Street itself had a rough start: the surveyor Jasper O'Farrell, who laid it out unusually wide in 1847, reportedly had to flee a lynch mob on the Sausalito ferry [2].",
+  "people": [
+   {
+    "name": "A. Page Brown",
+    "role": "architect"
+   },
+   {
+    "name": "Jasper O'Farrell",
+    "role": "surveyor of Market Street"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ferry Building (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Ferry_Building_(San_Francisco)",
+    "supports": "1875 predecessor, Brown's 1892 design, July 13, 1898 opening, tower, nave, rail and ferry role, Charing Cross comparison, earthquake survival"
+   },
+   {
+    "title": "The Ferry Building",
+    "publisher": "FoundSF",
+    "year": 2009,
+    "url": "https://www.foundsf.org/index.php?title=The_Ferry_Building",
+    "supports": "Seville cathedral tower; O'Farrell's near-lynching over Market Street"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ }
+]

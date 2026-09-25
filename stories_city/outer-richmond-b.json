@@ -1,0 +1,715 @@
+[
+ {
+  "id": "outer-richmond-louis-greek-cafe",
+  "title": "The Last Greek Café on the Cliff",
+  "theme": "communities",
+  "year": 1937,
+  "yearEnd": 2020,
+  "place": {
+   "label": "Louis' Restaurant, 902 Point Lobos Avenue",
+   "lat": 37.77922,
+   "lon": -122.51275,
+   "precision": "building"
+  },
+  "hook": "A Greek boy who landed in San Francisco at eleven opened a diner above Sutro Baths in 1937. His family flipped burgers there for 83 years.",
+  "story": "In the early 1900s the road above the Cliff House was crammed with little cafés, and, as Tom Hontalas later put it, 'for some reason, the little cafes were all run by Greek immigrants' [1]. His grandfather Louis had arrived from Greece in 1906, aged 11, and worked at his older brother's Cliff Cafe before opening his own place, Louis', in 1937 [1]. The diner hung on the cliff edge overlooking the Sutro Baths; when the baths burned in 1966, eight-year-old Tom was brought up the hill by his aunt to watch the flames [1]. The land later became part of a national park, and the family's lease became the problem. When the Park Service talked of closing Louis' in 1992, Hontalas ran a postcard campaign and found that two-thirds of his customers were locals [1]. In 2010, on a year-to-year lease and facing a federally required bidding process, supporters gathered nearly 5,000 petition signatures and the Board of Supervisors passed a resolution backing the family; they won a new ten-year lease [2][3]. Louis' finally closed during the pandemic in 2020, months before its Greek-American neighbours at the Cliff House [1].",
+  "people": [
+   {
+    "name": "Louis Hontalas",
+    "role": "Greek immigrant founder, 1937"
+   },
+   {
+    "name": "Tom Hontalas",
+    "role": "grandson and last owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Closure of iconic Cliff House ends a remarkable era of San Francisco's history",
+    "publisher": "The Guardian (Vivian Ho)",
+    "year": 2020,
+    "url": "https://www.theguardian.com/us-news/2020/dec/19/closure-of-iconic-cliff-house-ends-a-remarkable-era-of-san-franciscos-history",
+    "supports": "Greek cafés on the hill, Louis' 1906 arrival aged 11, Cliff Cafe, 1937 opening, 1966 fire memory, 1992 postcard campaign, pandemic closure, Hontalas quote"
+   },
+   {
+    "title": "Iconic Louis' Diner fighting to stay open after 73 years",
+    "publisher": "Richmond District Blog",
+    "year": 2010,
+    "url": "https://richmondsfblog.com/2010/04/02/iconic-louis-diner-fighting-to-stay-open-after-73-years/",
+    "supports": "Year-to-year NPS lease, federal bidding requirement, 902 Point Lobos address"
+   },
+   {
+    "title": "Iconic Louis' Diner will survive to serve many more breakfasts",
+    "publisher": "Richmond District Blog",
+    "year": 2010,
+    "url": "https://richmondsfblog.com/2010/10/15/iconic-louis-diner-will-survive-to-serve-many-more-breakfasts/",
+    "supports": "Nearly 5,000 petition signatures, Supervisor Mar's resolution, new 10-year lease"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-sutro-heights-demolished",
+  "title": "The Mansion the WPA Tore Down",
+  "theme": "parks-nature",
+  "year": 1939,
+  "place": {
+   "label": "Sutro Heights Park, site of the Sutro residence and parapet",
+   "lat": 37.7782,
+   "lon": -122.5112,
+   "precision": "area"
+  },
+  "hook": "Adolph Sutro's daughter lived on in his crumbling clifftop estate until 1938. Within months of her death, New Deal crews knocked the house down.",
+  "story": "Sutro Heights passed to the city in 1920 on condition that it be 'forever held and maintained as a free public resort or park,' but Adolph Sutro's daughter, Dr. Emma Sutro Merritt, kept the right to live there [1]. Upkeep dwindled; in 1935 the San Francisco Garden Club found cypresses 'under the spell of some enchantment' and statues 'moss grown' [1]. Emma died in residence in 1938, while Works Progress Administration crews were already shoring up the western slope with artificial concrete cliffs [1]. The WPA then demolished the decaying house, the remains of the conservatory, the entrance gates and fences and the structures on the parapet, spending $90,994 on the 'improvements' [1]. Historian John Martini calls it an 'ill-advised WPA clean up'; Sutro's two Belgian lion statues, by Guillaume Geefs, survived at the vanished gate for another forty years [2]. During the Second World War the park was closed for security because it stood so close to Fort Miley, and concrete range-finding stations were built beside the parapet [1]. After 1977 the National Park Service retired the weather-worn lions to storage and installed cast copies [2].",
+  "people": [
+   {
+    "name": "Emma Sutro Merritt",
+    "role": "physician, Adolph Sutro's daughter, last resident"
+   },
+   {
+    "name": "John A. Martini",
+    "role": "historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The History and Significance of the Adolph Sutro Historic District",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": null,
+    "url": "https://www.nps.gov/goga/learn/historyculture/upload/sutro_history.pdf",
+    "supports": "1920 deed terms, 1935 Garden Club quote, Merritt's 1938 death, WPA demolitions and $90,994 cost, WWII closure and base end stations"
+   },
+   {
+    "title": "Sutro's Lions",
+    "publisher": "Western Neighborhoods Project (outsidelands.org) (John A. Martini)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/sutro-lions.php",
+    "supports": "Geefs lions, gates gone in late 1930s WPA clean-up, lions replaced by casts after 1977"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-camera-obscura",
+  "title": "A Giant Camera Left on the Patio",
+  "theme": "architecture-landmarks",
+  "year": 1946,
+  "place": {
+   "label": "Camera Obscura (Giant Camera), 1096 Point Lobos Avenue",
+   "lat": 37.77845,
+   "lon": -122.51436,
+   "precision": "building"
+  },
+  "hook": "Behind the Cliff House sits a building shaped like a Brownie camera. Step inside, and the Pacific slides across a table in the dark.",
+  "story": "Floyd Jennings approached the Whitney brothers, owners of the Cliff House and Playland, with an idea older than photography: a darkened room where a rotating mirror and lenses throw a live, moving image of the outside world onto a horizontal table [1][2]. The National Register nomination dates his camera obscura to 1946; a Western Neighborhoods Project history says construction was finished by 1949 [1][2]. Around 1957, at George Whitney's suggestion, Jennings and his assistant Gene Tuttle widened the building so it looked like a Brownie camera, a piece of 'duck' architecture that advertises itself by its shape, and it was rechristened the Giant Camera [2]. NoeHill, adapting the nomination, likens it to a camera 'carelessly left behind by a giant tourist' [1]. Public support saved it when Playland closed in 1972, and when the Park Service wanted it gone during the Cliff House remodel of the early 2000s, campaigners won it a place on the National Register instead [1][2]. The nomination calls it apparently the last free-standing camera obscura in the United States that is more than fifty years old and still on its original site [1].",
+  "people": [
+   {
+    "name": "Floyd Jennings",
+    "role": "builder"
+   },
+   {
+    "name": "Gene Tuttle",
+    "role": "assistant on 1957 remodel"
+   },
+   {
+    "name": "George Whitney",
+    "role": "owner of the Cliff House and Playland"
+   }
+  ],
+  "sources": [
+   {
+    "title": "National Register #01000522: Camera Obscura",
+    "publisher": "NoeHill in San Francisco (adapted from NRHP nomination)",
+    "year": 2012,
+    "url": "http://www.noehill.com/sf/landmarks/nat2001000522.asp",
+    "supports": "1946 build by Floyd Jennings, mechanism, 'giant tourist' remodel about ten years later, last example claim"
+   },
+   {
+    "title": "Camera Obscura: A Closer Look",
+    "publisher": "OpenSFHistory / Western Neighborhoods Project (Arnold Woods)",
+    "year": 2023,
+    "url": "https://www.opensfhistory.org/osfhcrucible/2023/01/08/camera-obscura-a-closer-look/",
+    "supports": "Opened by 1949, 1957 Brownie remodel with Gene Tuttle, 'Giant Camera' name, 1972 and early-2000s campaigns, National Register listing"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-whitney-disneyland-7",
+  "title": "Disneyland Employee No. 7 Came From Playland",
+  "theme": "labor-industry",
+  "year": 1954,
+  "yearEnd": 1958,
+  "place": {
+   "label": "Site of Playland-at-the-Beach midway, Great Highway at Balboa Street",
+   "lat": 37.7754,
+   "lon": -122.5097,
+   "precision": "area"
+  },
+  "hook": "When Walt Disney planned his park, he came to Ocean Beach to study Playland. He left with the owner's son on his payroll.",
+  "story": "George K. Whitney Jr. grew up as 'the boss' kid' at Ocean Beach, playing in front of the orange juice stand his mother and aunt ran at the old Chutes [2]. After wartime service in the Army Air Forces he went to work on the Playland midway, patrolling twelve-hour days that he summed up as 'walk back and forth and drink coffee' [1][2]. In the early 1950s Walt Disney, planning Disneyland, studied Playland and other amusement parks, visited, and met George Sr. [2]. The son impressed him. From 1954 to 1958 Whitney Jr. worked in Anaheim as Disneyland employee number 7, he told historian John Martini, the only person on Disney's development team with practical experience running an amusement park [1]. He organised queues for the most popular rides and reworked entrance and exit routes, adding separate exit doors to the Adventureland jungle boats [1]. He came home in 1958 when his father died, took over the family properties, and brought Disney ideas back to the beach, including the children's Fun-Tier Town [1][2]. This account rests on his own 2002 oral history, recorded shortly before his death [2].",
+  "people": [
+   {
+    "name": "George K. Whitney Jr.",
+    "role": "Playland manager and early Disneyland employee"
+   },
+   {
+    "name": "Walt Disney",
+    "role": "studied Playland while planning Disneyland"
+   },
+   {
+    "name": "John A. Martini",
+    "role": "oral historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Notes on the Oral History of George K. Whitney, Jr.",
+    "publisher": "Western Neighborhoods Project (outsidelands.org) (John A. Martini)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/whitney-jr.php",
+    "supports": "Army Air Forces service, midway work, 1954-58 at Disneyland as employee #7, queue and Jungle boat exits, return in 1958"
+   },
+   {
+    "title": "George K. Whitney, Jr. Interview timeline",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/whitney-interview-timeline.php",
+    "supports": "Orange Mill childhood, 'walk back and forth and drink coffee', Disney visiting Playland and meeting George Sr., Fun Tier Town idea, interview recorded months before his death"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-sky-tram",
+  "title": "Fifty Cents to Fly Over Sutro Baths",
+  "theme": "architecture-landmarks",
+  "year": 1955,
+  "yearEnd": 1966,
+  "place": {
+   "label": "Sky Tram route over the Sutro Baths basin, Cliff House to Point Lobos",
+   "lat": 37.7795,
+   "lon": -122.5134,
+   "precision": "area"
+  },
+  "hook": "For eleven years a little cable car dangled over the surf between the Cliff House and Point Lobos. Its own family called it a big mistake.",
+  "story": "George K. Whitney, the showman who a Chronicle columnist said owned 'all of San Francisco west of Sutro Park,' announced an aerial tram in 1954 [1]. It opened on 2 May 1955 and ran roughly 1,000 feet from the Cliff House across the Sutro Baths basin to Point Lobos, with the Chronicle's Joe Rosenthal, the Iwo Jima photographer, shooting opening day [1]. Fifty cents bought a seat in a car of 20, all facing west toward Seal Rock; unusually, the motor rode in the car itself rather than pulling it from a terminal [1]. An operator travelled along to calm passengers startled when spray hit the windows above the rusting wreck of the freighter Ohioan in the cove below [1]. Columnist Terence O'Flaherty called it 'a kind of funicular conspiracy to further invade the private lives of the sunbathers on Seal Rock' [1]. Whitney's son was blunter: built by the Roebling company rather than bought off the shelf, the tram was too small to carry enough riders and 'couldn't generate enough revenue to pay for itself' [2]. It stopped running in 1966, the year the baths beneath it burned [1][3].",
+  "people": [
+   {
+    "name": "George K. Whitney",
+    "role": "owner who built the tram"
+   },
+   {
+    "name": "Joe Rosenthal",
+    "role": "Chronicle photographer on opening day"
+   },
+   {
+    "name": "Terence O'Flaherty",
+    "role": "Chronicle columnist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Sky Tram, a tourist oddity lost to history",
+    "publisher": "San Francisco Chronicle (Bill Van Niekerken)",
+    "year": 2016,
+    "url": "https://www.sfchronicle.com/chronicle_vault/article/San-Francisco-s-Sky-Tram-a-tourist-oddity-lost-9970307.php",
+    "supports": "1954 announcement, 2 May 1955 opening, 1,000 feet, 20 seats, 50 cents, motor in car, operator, Ohioan wreck, Rosenthal, O'Flaherty quotes, ran to 1966"
+   },
+   {
+    "title": "George K. Whitney, Jr. Interview timeline",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/whitney-interview-timeline.php",
+    "supports": "Tram 'big mistake', too small, built by Roebling"
+   },
+   {
+    "title": "The History and Significance of the Adolph Sutro Historic District",
+    "publisher": "National Park Service",
+    "year": null,
+    "url": "https://www.nps.gov/goga/learn/historyculture/upload/sutro_history.pdf",
+    "supports": "Sutro Baths fire of June 1966"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-alexandria-roadshow",
+  "title": "Cleopatra Played Here for 56 Weeks",
+  "theme": "arts-counterculture",
+  "year": 1958,
+  "yearEnd": 2004,
+  "place": {
+   "label": "Alexandria Theatre, 5400 Geary Boulevard at 18th Avenue",
+   "lat": 37.78071,
+   "lon": -122.47753,
+   "precision": "building"
+  },
+  "hook": "In 1958 the Richmond's Egyptian-style movie palace went big-time with reserved-seat epics. The neighbourhood lost its local cinema, and gained a parking nightmare.",
+  "story": "The Levin brothers opened the Alexandria in 1923 with an Egyptian theme by the Reid Brothers; a 1941 remodel gave it a Moderne look [1][2]. On 1 July 1958, with South Pacific, it became a first-run, reserved-seat 'roadshow' house: numbered seats, tickets bought in advance, like a live theatre [1]. The runs were enormous. South Pacific played 48 weeks, Cleopatra 56 and Oliver! 43, film historian Jack Tillmany recorded [1]. He called the policy 'a mixed blessing.' Crowds poured in from all over the city, but locals who had counted on a weekly change of programme drifted to the Four Star and the Balboa, and hundreds of cars descended on Geary looking for parking [1]. The actor Richard Egan reportedly ushered here in the 1940s [1]. United Artists split it into three screens in 1976 [1][2]. It closed on 16 February 2004, a week after being sold to investors; about 100 people saw the final 4 pm showing of Miracle in the 600-plus-seat main house [1][2]. The building then stood empty for years, collecting graffiti and break-ins [2].",
+  "people": [
+   {
+    "name": "Jack Tillmany",
+    "role": "film historian"
+   },
+   {
+    "name": "Samuel Levin",
+    "role": "theatre operator"
+   },
+   {
+    "name": "Richard Egan",
+    "role": "actor, reportedly an usher"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Alexandria Theatre",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2018,
+    "url": "https://www.outsidelands.org/alexandria.php",
+    "supports": "1923 opening, 1941 remodel, 1958 roadshow policy and run lengths, Tillmany quotes, Egan, 1976 triplex, last show 16 Feb 2004"
+   },
+   {
+    "title": "10th anniversary of Alexandria Theater closing: when will the blight end?",
+    "publisher": "Richmond District Blog",
+    "year": 2014,
+    "url": "https://richmondsfblog.com/2014/02/18/10th-anniversary-of-alexandria-theater-closing-when-will-the-blight-end/",
+    "supports": "Levin brothers, Reid Brothers Egyptian design, 1976 United Artists triplex, closure a week after sale, later blight"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-holy-virgin-cathedral",
+  "title": "A Saint's Tomb Beneath Geary Boulevard",
+  "theme": "communities",
+  "year": 1961,
+  "yearEnd": 1994,
+  "place": {
+   "label": "Holy Virgin Cathedral (Joy of All Who Sorrow), 6210 Geary Boulevard",
+   "lat": 37.78033,
+   "lon": -122.48634,
+   "precision": "building"
+  },
+  "hook": "The archbishop who led 5,000 refugees out of Shanghai built these golden domes on Geary. He now lies in the crypt as a saint.",
+  "story": "When the communists took power in China in 1949, Archbishop John Maximovitch led the exodus of his Russian flock from Shanghai, helping some 5,000 refugees to a camp on the Philippine island of Tubabao while he lobbied in Washington for a change in the law to let them into the United States [1]. Assigned to the city in 1962, he found a community divided, but brought enough peace for its new cathedral, dedicated to the Joy of All Who Sorrow icon, to be finished [1]. Ground was broken on Geary Boulevard on 25 June 1961 [2]. The parish says the cathedral was completed in St. John's lifetime and consecrated in 1977; a 2010 Chronicle story gives 1974 for its completion [2][3]. He died on a visit to Seattle on 2 July 1966 and was laid to rest in a crypt chapel beneath the altar [1]. On 2 July 1994 the Russian Orthodox Church Outside Russia glorified him as a saint in this cathedral [1][2]. The domes still anchor what Carl Nolte called 'a neighborhood of Russian restaurants and shops' [3].",
+  "people": [
+   {
+    "name": "St. John (Maximovitch) of Shanghai and San Francisco",
+    "role": "archbishop and founder"
+   },
+   {
+    "name": "Archimandrite Kiprian",
+    "role": "iconographer who frescoed the cathedral"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Saint John [Maximovitch], Archbishop of Shanghai and San Francisco",
+    "publisher": "Orthodox Church in America",
+    "year": 2016,
+    "url": "https://www.oca.org/saints/lives/2016/07/02/206392-saint-john-maximovitch-archbishop-of-shanghai-and-san-francisco",
+    "supports": "1949 exodus, 5,000 refugees on Tubabao, Washington lobbying, 1962 assignment, cathedral completed, 1966 death and crypt burial, 2 July 1994 glorification"
+   },
+   {
+    "title": "History",
+    "publisher": "Holy Virgin Cathedral (sfsobor.com, archived)",
+    "year": 2016,
+    "url": "https://web.archive.org/web/2016/http://sfsobor.com/index.php?option=com_content&view=article&id=90&Itemid=54&lang=en",
+    "supports": "Groundbreaking 25 June 1961, consecration 31 Jan 1977, completed in St. John's lifetime, glorification held here, Kiprian frescoes"
+   },
+   {
+    "title": "Russian emigres find history, community in S.F.",
+    "publisher": "San Francisco Chronicle (Carl Nolte)",
+    "year": 2010,
+    "url": "https://web.archive.org/web/2012/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/06/20/MN011E1BHH.DTL",
+    "supports": "Cathedral 'completed in 1974', Geary neighbourhood of Russian restaurants and shops"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-tommys-margarita",
+  "title": "The Margarita Born at 23rd and Geary",
+  "theme": "labor-industry",
+  "year": 1965,
+  "yearEnd": 2008,
+  "place": {
+   "label": "Tommy's Mexican Restaurant, 5929 Geary Boulevard",
+   "lat": 37.77986,
+   "lon": -122.48311,
+   "precision": "building"
+  },
+  "hook": "A Yucatecan guest worker opened a family restaurant in the fog in 1965. His son's tweak to the margarita is now an international standard.",
+  "story": "Tomás 'Tommy' Bermejo came north from Oxkutzcab in the Yucatán on a guest worker programme, and in 1965 he and his wife Elmy opened a restaurant on Geary serving the food of their home region [1][2]. Behind him came a brother, six cousins, 20 nieces and nephews and many acquaintances; a 2002 profile said he gave dozens of newcomers occasional jobs and an informal safety net [1]. Tommy's did not get a liquor licence until 1972, their son Julio recalled, and at first its bar looked like any other [2]. In the late 1980s Julio began visiting tequila distilleries. Around 1989 or 1990 he started sweetening margaritas with agave nectar instead of orange liqueur, so that 'it tastes of the base spirit' [2]. It was so expensive then that he cut it with simple syrup [2]. Bartenders he met while travelling with President Vicente Fox's tequila delegation to Europe in 2001 spread the recipe, and in 2008 the International Bartenders Association adopted the Tommy's Margarita, its first drink named after a single bar [2][3]. Tomás died in 2011, leaving Julio to carry on what the blog called the Bay Area's tequila mecca [1].",
+  "people": [
+   {
+    "name": "Tomás 'Tommy' Bermejo",
+    "role": "co-founder"
+   },
+   {
+    "name": "Elmy Bermejo",
+    "role": "co-founder"
+   },
+   {
+    "name": "Julio Bermejo",
+    "role": "son, creator of the Tommy's Margarita"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Tomas Bermejo, founder of Tommy's Mexican Restaurant, passes away",
+    "publisher": "Richmond District Blog",
+    "year": 2011,
+    "url": "https://richmondsfblog.com/2011/03/04/tomas-bermejo-founder-of-tommys-mexican-restaurant-passes-away/",
+    "supports": "1965 founding, Yucatán cuisine, Oxkutzcab and guest worker programme, relatives who followed, 5929 Geary"
+   },
+   {
+    "title": "A Visit With Julio Bermejo, Creator of Tommy's Margarita",
+    "publisher": "Patrón Tequila",
+    "year": 2016,
+    "url": "https://www.patrontequila.com/social-club/2016-03/a-visit-with-julio-bermejo.html",
+    "supports": "Elmy and Tommy founders, 1972 liquor licence, c.1989-90 agave nectar recipe, 2001 Fox trip, 2008 IBA listing"
+   },
+   {
+    "title": "Tommy's Margarita",
+    "publisher": "International Bartenders Association",
+    "year": null,
+    "url": "https://iba-world.com/iba-cocktail/tommys-margarita/",
+    "supports": "Official IBA New Era recipe with agave nectar"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-sutro-baths-fire",
+  "title": "The Fire That Saved the Wrecking Crew",
+  "theme": "modern-city",
+  "year": 1966,
+  "place": {
+   "label": "Sutro Baths ruins, below Point Lobos Avenue",
+   "lat": 37.7804,
+   "lon": -122.5138,
+   "precision": "area"
+  },
+  "hook": "By 1966 Adolph Sutro's glass bathing palace had become an ice rink, then a demolition site. Then, one June night, it burned.",
+  "story": "Attendance at Sutro Baths slid through the 1920s and 1930s as the coastal railway closed, the Depression bit and new state health rules demanded costly repairs; in 1937 part of the building became an ice rink [1]. In 1952 George Whitney bought it, closed the pools and turned the complex into skating and a museum of his 'collection of collections' [1][2]. In 1964 Whitney's mother sold control to developer Robert Fraser, who planned a 200-unit apartment complex [1]. In June 1966, with demolition already under way, fire burned the structure to its foundations, and thousands came to watch [1]. Tom Hontalas, eight, watched from the diner above with his aunt and siblings [3]. George Whitney Jr. later called it 'a very fortuitous fire for the wrecking company' [2]. Public feeling after the blaze may have hindered the apartment plan, and the Park Service bought the site in 1973 [1]. The concrete shell is still there, a ruin Park Service planning meetings often chose to leave as it was [1][3].",
+  "people": [
+   {
+    "name": "George K. Whitney",
+    "role": "owner from 1952"
+   },
+   {
+    "name": "Robert D. Fraser",
+    "role": "developer"
+   },
+   {
+    "name": "George K. Whitney Jr.",
+    "role": "son, later recalled the fire"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The History and Significance of the Adolph Sutro Historic District",
+    "publisher": "National Park Service, Golden Gate NRA",
+    "year": null,
+    "url": "https://www.nps.gov/goga/learn/historyculture/upload/sutro_history.pdf",
+    "supports": "Decline causes, 1937 rink, 1952 Whitney purchase, 1964 Fraser, 200-unit plan, June 1966 fire and spectators, 1973 NPS purchase"
+   },
+   {
+    "title": "Notes on the Oral History of George K. Whitney, Jr.",
+    "publisher": "Western Neighborhoods Project (outsidelands.org) (John A. Martini)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/whitney-jr.php",
+    "supports": "Closing pools for rink and museum, 'collection of collections', 'very fortuitous fire' quote"
+   },
+   {
+    "title": "Closure of iconic Cliff House ends a remarkable era of San Francisco's history",
+    "publisher": "The Guardian",
+    "year": 2020,
+    "url": "https://www.theguardian.com/us-news/2020/dec/19/closure-of-iconic-cliff-house-ends-a-remarkable-era-of-san-franciscos-history",
+    "supports": "Hontalas watching the fire aged eight, public wish to leave ruins as they are"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-balboa-two-films",
+  "title": "A Whole Year of Just Two Movies",
+  "theme": "arts-counterculture",
+  "year": 1967,
+  "yearEnd": 2011,
+  "place": {
+   "label": "Balboa Theatre, 3630 Balboa Street at 38th Avenue",
+   "lat": 37.77604,
+   "lon": -122.49806,
+   "precision": "building"
+  },
+  "hook": "From Christmas 1966 to Christmas 1967, the Balboa showed only The Sound of Music and Doctor Zhivago. Nobody seemed to mind.",
+  "story": "Samuel Levin opened the New Balboa on 27 February 1926, promising entertainment 'worthy of family patronage' [1]. For decades it changed programmes two or three times a week, but by the 1960s films ran longer [1]. On 25 December 1966 the Balboa opened the first neighbourhood run of The Sound of Music at 'popular prices,' straight after its 92-week roadshow on Market Street [1]. On 24 May 1967 it swapped to Doctor Zhivago, fresh from 66 weeks at the Orpheum, and kept it for 30 weeks until 19 December [1]. 'For one entire year, they only played two separate films,' historian Jack Tillmany noted [1]. Like its Richmond rivals the Balboa split into two screens in 1978 [1]. In February 2001 the Levin family, facing megaplex competition, asked Landmark Theatres co-founder Gary Meyer to run it rather than close. 'I just can't let another old theater close,' he said [1]. In 2011 the San Francisco Neighborhood Theater Foundation took a lease through 2024, and the Balboa's marquee stayed lit [1][2].",
+  "people": [
+   {
+    "name": "Samuel H. Levin",
+    "role": "founder"
+   },
+   {
+    "name": "Gary Meyer",
+    "role": "operator from 2001"
+   },
+   {
+    "name": "Jack Tillmany",
+    "role": "film historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Balboa Theatre",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/balboa.php",
+    "supports": "1926 opening and Levin quote, Sound of Music and Zhivago run dates, Tillmany quote, 1978 twinning, 2001 Meyer takeover and quote, 2011 lease"
+   },
+   {
+    "title": "Balboa Theatre gets a new lease on life through partnership with SFNTF",
+    "publisher": "Richmond District Blog",
+    "year": 2011,
+    "url": "https://richmondsfblog.com/2011/10/28/balboa-theatre-gets-a-new-lease-on-life-through-partnership-with-sfntf/",
+    "supports": "SF Neighborhood Theater Foundation lease through 2024, Meyer's role, Levin family theatres"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-playland-closes",
+  "title": "Laughing Sal's Last Labor Day",
+  "theme": "modern-city",
+  "year": 1972,
+  "place": {
+   "label": "Site of Playland-at-the-Beach, 48th Avenue and Cabrillo Street",
+   "lat": 37.7738,
+   "lon": -122.5096,
+   "precision": "area"
+  },
+  "hook": "For three decades a cackling mechanical woman gave children nightmares at Ocean Beach. On 4 September 1972, the laughing stopped.",
+  "story": "Playland-at-the-Beach grew to more than three blocks along the Great Highway: the Big Dipper, the Diving Bell, Topsy's Roost, and a Fun House with long wooden slides and a spinning turntable [1]. Over its entrance, from the 1940s, swayed Laughing Sal, a papier-mâché giant with red curls, freckles, a gap-toothed grin and a recorded cackle heard all along the midway [1]. Playland was also the birthplace of the It's-It ice cream sandwich [1][2]. After George Whitney died in 1958 and the Big Dipper came down, the park grew faded and seedy as families headed for the suburbs [2]. Developers bought it, and it closed for good on Labor Day, 4 September 1972 [2]. Herb Caen wrote a farewell column, 'We'll Never Go There Anymore' [1]. An auction scattered the rides; the Looff carousel went to Long Beach and came back in 1998 to Yerba Buena Gardens [1][3]. The main Sal went to the Santa Cruz Boardwalk, and condominiums and a Safeway rose on the site [1][2]. In 1996 artist Ray Beldner put up five perforated steel silhouettes nearby, Sal among them [1].",
+  "people": [
+   {
+    "name": "Laughing Sal",
+    "role": "mechanical Fun House greeter"
+   },
+   {
+    "name": "George Whitney",
+    "role": "Playland owner"
+   },
+   {
+    "name": "Herb Caen",
+    "role": "Chronicle columnist"
+   },
+   {
+    "name": "Ray Beldner",
+    "role": "artist, Playland Revisited"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Playland",
+    "publisher": "FoundSF (Lubna Takruri, from SF Chronicle 2005)",
+    "year": 2005,
+    "url": "https://www.foundsf.org/index.php?title=Playland",
+    "supports": "Attractions, Laughing Sal description, It's-It, closing date, Caen column, Sal to Santa Cruz, carousel's return, Safeway, Beldner's 1996 sculptures"
+   },
+   {
+    "title": "Playland-at-the-Beach",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": null,
+    "url": "https://www.outsidelands.org/playland.php",
+    "supports": "It's-Its, 1958 death of Whitney, Big Dipper removal, decline, sale to developers, Labor Day 4 Sept 1972 closure, condominiums"
+   },
+   {
+    "title": "Playland Auction, September 1972",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2009,
+    "url": "https://www.outsidelands.org/playland-auction.php",
+    "supports": "Post-closure auction, carousel bought by Marianne Stevens and moved to Long Beach, later Yerba Buena Gardens"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-4-star-theater",
+  "title": "Jackie Chan's 100th Film, on Clement Street",
+  "theme": "arts-counterculture",
+  "year": 2011,
+  "place": {
+   "label": "4 Star Theater, 2200 Clement Street at 23rd Avenue",
+   "lat": 37.78236,
+   "lon": -122.48293,
+   "precision": "building"
+  },
+  "hook": "On a fog-bound corner of Clement Street, a family-run cinema premiered Jackie Chan's 100th movie on the same day as Hong Kong, China and Taiwan.",
+  "story": "There has been a movie house at Clement and 23rd Avenue since 1913; in 1919 it was called La Bonita [2]. Like the Alexandria and the Balboa, it later split its single screen to survive [3]. From 1990 it was run by the Lee family, who also operated the Presidio and Marina theatres [2]. In 2004 and 2005 a church group that had bought the property planned to raze the theatre for a three-storey church; locals rallied against it [2]. The 4 Star kept a niche no multiplex could match. In October 2011 it opened 1911, Jackie Chan's 100th film, a $30 million epic about the revolution that toppled the Qing dynasty, on the same day it premiered in Hong Kong, China and Taiwan, with five shows a day [1]. In 2015 the property went up for sale at $2.8 million, pitched to developers as a site for condos [2].",
+  "people": [
+   {
+    "name": "The Lee family",
+    "role": "operators from 1990"
+   },
+   {
+    "name": "Jackie Chan",
+    "role": "star and co-director of 1911"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Jackie Chan's 100th film '1911 Revolution' opening exclusively at the 4-Star",
+    "publisher": "Richmond District Blog",
+    "year": 2011,
+    "url": "https://richmondsfblog.com/2011/10/05/jackie-chans-100th-film-1911-revolution-opening-exclusively-at-the-4-star/",
+    "supports": "Simultaneous premiere with Hong Kong, China, Taiwan, $30 million, 100th film, showtimes, 2200 Clement"
+   },
+   {
+    "title": "4-Star Theater property for sale at $2.8 million, targeting developers",
+    "publisher": "Richmond District Blog",
+    "year": 2015,
+    "url": "https://richmondsfblog.com/2015/06/02/4-star-theater-property-for-sale-at-2-8-million-targeting-developers/",
+    "supports": "Theatre since 1913, La Bonita 1919, Lee family since 1990, 2004-05 church plan, 2015 listing"
+   },
+   {
+    "title": "Balboa Theatre",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/balboa.php",
+    "supports": "The 4-Star, like the Alexandria and Balboa, split into a mini-multiplex"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-washington-murals",
+  "title": "The Murals the Board Voted to Erase",
+  "theme": "civil-rights",
+  "year": 2019,
+  "yearEnd": 2022,
+  "place": {
+   "label": "George Washington High School lobby, 600 32nd Avenue",
+   "lat": 37.77784,
+   "lon": -122.49174,
+   "precision": "building"
+  },
+  "hook": "A communist painter covered a new school's lobby with George Washington, enslaved workers and a dead Native American. Eighty-three years later, San Francisco fought over them.",
+  "story": "When George Washington High School opened in August 1936, its lobby held 1,600 square feet of buon fresco by Victor Arnautoff, painted onto wet plaster behind the plasterers, about nine feet a day, over ten months [1]. It was the largest single-artist WPA mural suite on the Pacific Coast [1]. Outside, Sargent Johnson finished the stadium frieze Beniamino Bufano had begun [2]. Arnautoff, a communist and onetime Diego Rivera assistant, showed the first president as a slaveholder and the young nation's westward push over the body of a Native American [3]. Critics, including the American Indian Parent Advisory Council, said students should not be forced to see those images daily; defenders called destruction akin to book burning [3]. In 2019 the Board of Education voted to paint the murals over, then chose to hide them instead [3][4]. The alumni association sued, and in July 2021 Judge Anne-Christine Massullo ruled that no action could be taken without environmental review [3]. In 2022, after three board members were recalled, the Chronicle reported the district had spent $525,000 in bond money on legal fees in the fight [4].",
+  "people": [
+   {
+    "name": "Victor Arnautoff",
+    "role": "muralist"
+   },
+   {
+    "name": "Anne-Christine Massullo",
+    "role": "Superior Court judge"
+   },
+   {
+    "name": "Lope Yap Jr.",
+    "role": "alumni association vice president"
+   },
+   {
+    "name": "Faauuga Moliga",
+    "role": "school board vice president"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic WPA murals at George Washington High School are facing destruction",
+    "publisher": "Richmond District Blog",
+    "year": 2019,
+    "url": "https://richmondsfblog.com/2019/04/09/historic-wpa-murals-at-george-washington-high-school-are-facing-destruction-due-to-controversial-depictions-of-native-americans-and-african-americans/",
+    "supports": "August 1936 opening, 1,600 sq ft, buon fresco method, nine feet a day, ten months, largest WPA single-artist suite on Pacific Coast"
+   },
+   {
+    "title": "George Washington High School (from the 1947 Surveyor yearbook)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 1947,
+    "url": "http://www.outsidelands.org/washington.php",
+    "supports": "Arnautoff assistants, Bufano and Sargent Johnson stadium frieze"
+   },
+   {
+    "title": "Murals at San Francisco School Should Stay for Now, Judge Says",
+    "publisher": "The New York Times (Carol Pogash)",
+    "year": 2021,
+    "url": "https://www.nytimes.com/2021/07/29/arts/design/san-francisco-george-washington-murals.html",
+    "supports": "Arnautoff's politics and imagery, critics and defenders, board vote to paint over then hide, 2019 lawsuit, Massullo ruling"
+   },
+   {
+    "title": "S.F. school district used $525,000 aimed at facility improvements to pay for legal fight over controversial mural",
+    "publisher": "San Francisco Chronicle (Jill Tucker)",
+    "year": 2022,
+    "url": "https://www.sfchronicle.com/sf/article/S-F-school-used-525-000-aimed-at-facility-17288708.php",
+    "supports": "$525,000 legal fees, 2019 vote to paint over, recall of three members"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "outer-richmond-cliff-house-closes",
+  "title": "Last Call at the Edge of the Continent",
+  "theme": "modern-city",
+  "year": 2020,
+  "place": {
+   "label": "Cliff House, 1090 Point Lobos Avenue",
+   "lat": 37.77858,
+   "lon": -122.51397,
+   "precision": "building"
+  },
+  "hook": "The Whitneys turned the Cliff House into a roadhouse in 1937. A Greek-American couple ran it for 47 years, until the pandemic and a lapsed lease ended the story.",
+  "story": "The Cliff House stood vacant until 1937, when George and Leo Whitney, owners of Playland, bought it from the Sutro estate and reopened it; Leo wanted a 'top hat and tails' trade, but business was bad, so George Sr. brought it down to earth, got rid of the crystal and aimed at tourists [1][2]. A 1949 remodel wrapped the old 1909 building in a modern facade [1]. The Whitneys ran it, somewhat unprofitably, until 1973, and the Park Service acquired it in 1977 [1][3]. For more than 47 years Mary and Dan Hountalas ran the restaurant, the last of the Greek immigrant families who once filled the cliffside with cafés [4]. A 2003 renovation stripped away roadhouse details and added a wing over the Sutro Baths ruins [3]. In December 2020 the Hountalases announced they would close by year's end, blaming coronavirus restrictions and the federal government's stalling on a long-term lease [4]. 'There's something about the place that draws you,' historian John Martini said. 'This is as far as it goes. This is the edge' [4].",
+  "people": [
+   {
+    "name": "George and Leo Whitney",
+    "role": "owners from 1937"
+   },
+   {
+    "name": "Mary and Dan Hountalas",
+    "role": "operators for 47 years"
+   },
+   {
+    "name": "John Martini",
+    "role": "historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The History and Significance of the Adolph Sutro Historic District",
+    "publisher": "National Park Service",
+    "year": null,
+    "url": "https://www.nps.gov/goga/learn/historyculture/upload/sutro_history.pdf",
+    "supports": "Closed 1925-1937, Whitney purchase from Sutro estate, 1949 remodel and facade, operated until 1973"
+   },
+   {
+    "title": "George K. Whitney, Jr. Interview timeline",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2002,
+    "url": "https://www.outsidelands.org/whitney-interview-timeline.php",
+    "supports": "Leo's 'top hat and tails' plan, George Sr. 'got rid of crystal'"
+   },
+   {
+    "title": "Here's the fiery, doomed history of San Francisco's Cliff House",
+    "publisher": "SFGATE (Andrew Chamings)",
+    "year": 2020,
+    "url": "https://www.sfgate.com/sfhistory/article/The-Cliff-House-shut-its-doors-this-week-Here-s-15427223.php",
+    "supports": "1937 roadhouse, NPS acquisition 1977, 2003 renovation and new wing"
+   },
+   {
+    "title": "Closure of iconic Cliff House ends a remarkable era of San Francisco's history",
+    "publisher": "The Guardian",
+    "year": 2020,
+    "url": "https://www.theguardian.com/us-news/2020/dec/19/closure-of-iconic-cliff-house-ends-a-remarkable-era-of-san-franciscos-history",
+    "supports": "Hountalas 47 years, Greek immigrant families, December 2020 closure reasons, Martini quote"
+   }
+  ],
+  "yearEnd": null,
+  "photo": null
+ }
+]

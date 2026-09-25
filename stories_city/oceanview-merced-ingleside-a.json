@@ -1,0 +1,757 @@
+[
+ {
+  "id": "oceanview-merced-ingleside-rancho-corner",
+  "title": "Where Rancho San Miguel Ran Out",
+  "theme": "indigenous-early",
+  "year": 1845,
+  "yearEnd": 1856,
+  "place": {
+   "label": "Junipero Serra Blvd near Sargent St (old rancho line)",
+   "lat": 37.7165,
+   "lon": -122.4718,
+   "precision": "area"
+  },
+  "hook": "The odd diagonal kinks in Ocean View's western streets trace a line drawn in 1845, when a Mexican governor granted José de Jesús Noé a cattle ranch.",
+  "story": "Before any streets, the valley between Mount Davidson and Merced Heights may have been a Native route to Lake Merced, where early Spanish accounts mention tule reed boats; no permanent Ohlone settlement has been found here [1]. In 1845 José de Jesús Noé petitioned Governor Pío Pico for vacant land beside the ranchos of Francisco de Haro and José Bernal, and that December was granted part of it as Rancho San Miguel, whose southern third later became the OMI [1][2]. One account credits Noé with up to 2,000 cattle and 200 horses, though no evidence of grazing in this corner has been found; when the Americans seized Yerba Buena in July 1846, he was its acting alcalde [1]. The United States did not validate his claim until late 1856 [1]. The rancho's edge still shapes the map. When the City Land Association laid out western Ocean View around 1868-70, its boundary ran down today's Junipero Serra Boulevard from Holloway, due south to Sargent Street, then slanted southeast along the old rancho line toward Ralston and Ramsell [1]. That western line marked the grant's southwest corner [3], so the slanting lots here are a Mexican-era survey hiding in plain sight.",
+  "people": [
+   {
+    "name": "José de Jesús Noé",
+    "role": "Grantee of Rancho San Miguel, acting alcalde of Yerba Buena"
+   },
+   {
+    "name": "Pío Pico",
+    "role": "Governor of Mexican California"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Ohlone evidence, Noé grant 1845, cattle, alcalde, 1856 validation, City Land boundary along rancho line"
+   },
+   {
+    "title": "Farms, Fire and Forest: Adolph Sutro and Development West of Twin Peaks (Richard Brandi)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/forest-fires.php",
+    "supports": "Noé granted Rancho San Miguel by the Mexican government in 1845; 2,000 head of cattle"
+   },
+   {
+    "title": "A Short History of OMI Neighborhoods",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/omi.php",
+    "supports": "City Land Association western boundary marked the southwest corner of Rancho San Miguel"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-paper-streets",
+  "title": "Streets Drawn Before Anyone Climbed the Hill",
+  "theme": "gold-rush-victorian",
+  "year": 1862,
+  "yearEnd": 1923,
+  "place": {
+   "label": "Howth St, east slope of Merced Heights (San Miguel City tract)",
+   "lat": 37.7208,
+   "lon": -122.45122,
+   "precision": "street"
+  },
+  "hook": "In 1862 a surveyor drew 'San Miguel City' across a steep, empty ridge. Some of his lines took the better part of a century to become real streets.",
+  "story": "In June 1862 George Black surveyed and filed the map for 'San Miguel City,' the first subdivision in the future OMI, on the northeast slope of Merced Heights beside the coming San Francisco-San Jose railroad [1][2]. Hopes ran high: that April the Evening Bulletin reported farmers ploughing wildflower patches on the San Miguel and Merced ranches in anticipation of the line [2]. Buyers did not follow. The steam train cost about three times a city streetcar fare, and the ridge had no water, sewers or gas [1][2]. San Miguel City saw no building until the first decade of the 20th century, and photos from as late as 1907 show much of it still under cultivation [2]. Today's Howth and Tara Streets survive from Black's plan [1]. In 1893 Easton, Eldridge & Co. filed 'Columbia Heights' on the east-facing slope along Lakeview Avenue [1]. In the 1910s and 1920s both tracts filled with modest homes on Howth, Tara, Josiah, Margaret, Majestic and Caine, many housing motormen, conductors and maintenance workers from the transit yards near Balboa Park [2]. Even so, a city photographer recorded Caine Avenue as a dirt street in January 1923 [1].",
+  "people": [
+   {
+    "name": "George Black",
+    "role": "Surveyor of San Miguel City, 1862"
+   },
+   {
+    "name": "Easton, Eldridge & Co.",
+    "role": "Developers of Columbia Heights, 1893"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Merced Heights (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2019,
+    "url": "https://www.outsidelands.org/merced_heights.php",
+    "supports": "San Miguel City 1862 by George Black; Howth and Tara from original map; Columbia Heights 1893; fare three times streetcar; no utilities; Caine Ave dirt street 1923 photo"
+   },
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "June 1862 first subdivision; 1862 Bulletin on ploughing; no building until 1900s; 1907 cultivation; transit-worker residents; street list"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-railroad-homestead",
+  "title": "Ten Dollars a Month for a Homestead",
+  "theme": "gold-rush-victorian",
+  "year": 1867,
+  "yearEnd": null,
+  "place": {
+   "label": "Broad St near Capitol Ave (Railroad Homestead Association tract)",
+   "lat": 37.71338,
+   "lon": -122.45918,
+   "precision": "street"
+  },
+  "hook": "Ocean View began as a shareholder scheme: $10 a month bought a stake in 150 railside acres, and newspapers warned of lonely wives trudging through mud.",
+  "story": "An 1861 state law let homestead associations pool members' monthly dues to buy a large tract, then divide it into lots once it was paid off [1]. The Railroad Homestead Association incorporated on November 1, 1864, after buying 150 acres through attorney Levi Parsons for $60,000; investors paid $20 to join and $10 a month [1]. Its name advertised the San Francisco-San Jose railroad on the tract's eastern edge, an answer to the common complaint that homestead lands were remote [1]. Sceptics were unmoved. 'How will his wife enjoy the solitude of the charming residence, three, four, five or six miles from town?' the Daily Evening Bulletin asked in 1862. 'In stormy weather how will he like to foot it through the mire to work?' [1] When payments were complete, A.E. McGregor platted the east half of today's Ocean View, and on April 15, 1867, the map was filed and lots distributed the same day [1]. Broad Street was drawn wider than its neighbours, perhaps for commerce, and some original 200-foot-wide lots survive on Broad between Capitol and Plymouth [1]. Many members were speculators; by the mid-1870s lots resold for less than half the share price [1]. A 1993 local history instead dates the association's first real success to 1883 [2].",
+  "people": [
+   {
+    "name": "Levi Parsons",
+    "role": "Attorney and land agent"
+   },
+   {
+    "name": "A.E. McGregor",
+    "role": "Surveyor of the 1867 tract"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "1861 law; incorporation Nov 1 1864; 150 acres, $60,000; $20 + $10/month; Bulletin 1862 quote; map filed April 15 1867; Broad St width; surviving 200-ft lots; resale prices"
+   },
+   {
+    "title": "History of Ocean View (Marsha Fontes, orig. 'Railway Recollections', West Portal Monthly, 1993)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 1993,
+    "url": "https://www.outsidelands.org/oceanview.php",
+    "supports": "Alternative account: 1870 attempt failed, Railroad Homestead Association succeeded in 1883"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-grids-never-met",
+  "title": "The Street Grids That Never Met",
+  "theme": "architecture-landmarks",
+  "year": 1870,
+  "yearEnd": 1927,
+  "place": {
+   "label": "Orizaba Ave between Randolph St and Broad St",
+   "lat": 37.71154,
+   "lon": -122.46234,
+   "precision": "block"
+  },
+  "hook": "Ride the M line down Orizaba and you feel it: a jog where two nineteenth-century land schemes refused to line up.",
+  "story": "West of the Railroad Homestead tract, the City Land Association formed in 1868 and offered lots for just $90, payable at $4 a month without interest [1]. It promised streetcars, a few ready-built houses and side-by-side lots for relatives, and in April 1870 it allocated 2,400 lots to 1,130 subscribers [1]. City Surveyor William P. Humphries dropped a rectilinear grid straight over the slopes and peak of Merced Heights, creating steep streets, some impassable to traffic [1]. His east-west streets also failed to line up with the neighbouring tract at Orizaba Avenue, leaving dead-ends and a dip connecting Randolph and Broad Streets [1]. Why the two grids never met is unknown [2]. Several names from the 1870 map survive, including Shields, Vernon, Victoria and Bright, while others changed: Ford became Byxbee, Walnut became Ralston and State became Ramsell [3]. The mismatch outlived everyone who drew it. When the Municipal Railway opened the M-Ocean View in 1925, its tracks ran along Randolph, turned down Orizaba and onto Broad [1]. A 1927 photograph looking south down Orizaba past Farallones shows the same bend riders still take today [4].",
+  "people": [
+   {
+    "name": "William P. Humphries",
+    "role": "City Surveyor who platted the City Land tract"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "City Land Association 1868, $90 lots, $4 monthly, 1,130 subscribers and 2,400 lots in 1870, grid over ridge, misalignment at Orizaba, M line route"
+   },
+   {
+    "title": "A Short History of OMI Neighborhoods",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/omi.php",
+    "supports": "Why the grids did not meet is unknown"
+   },
+   {
+    "title": "Merced Heights (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2019,
+    "url": "https://www.outsidelands.org/merced_heights.php",
+    "supports": "Original and renamed street names from the 1870 map"
+   },
+   {
+    "title": "Ocean View Photos: Orizaba Avenue - 1927",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/oceanview-photos6.php",
+    "supports": "1927 photo of the M-line bend on Orizaba unchanged in 2003"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-wolfes-hall",
+  "title": "Wolfe's Hall and the Station Fountain",
+  "theme": "communities",
+  "year": 1880,
+  "yearEnd": 1926,
+  "place": {
+   "label": "Plymouth Ave at Sagamore St and Sickles Ave (old Ocean View station plaza)",
+   "lat": 37.71124,
+   "lon": -122.45603,
+   "precision": "area"
+  },
+  "hook": "Ocean View grew up around a steam-train depot, a horse fountain and a ring of saloons, where one roadhouse keeper helped found the first school.",
+  "story": "In the mid-1860s the San Francisco-San Jose steam railroad put a station at today's junction of San Jose Avenue, Sickles and Plymouth. At first called San Miguel, by the mid-1880s it was Ocean View, perhaps because southbound riders caught their first glimpse of the Pacific there [1][3]. Streets fanned out from the depot like spokes, and residents built a fountain in the plaza, where horses were tied and watered [2]. Around it stood the Diamond Saloon, Wolfe's, the Tell House and Pellegrini's Bayview Bazaar [2]. Elias Wolfe arrived about 1880 and opened a roadhouse and meeting hall on the corner of Plymouth and Sickles that hosted lectures, dances, rallies and improvement-club meetings; he helped start the area's first school [1]. His building burned in 1891 and was rebuilt [1]. The trains were a mixed blessing: in 1884 the fare to downtown was 15 cents, triple a cable-car ride, and the grade crossing at Sickles and San Jose was known as 'Death's Crossing' for its frequent, often fatal collisions [1]. When Alemany Boulevard was built in 1926, the fountain was torn down and the station and Diamond Saloon demolished [2].",
+  "people": [
+   {
+    "name": "Elias Wolfe",
+    "role": "Roadhouse and hall proprietor, Ocean View settler"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Station names San Miguel/Ocean View; Wolfe's Hall c.1880, burned 1891, first school; 1884 fare; Death's Crossing"
+   },
+   {
+    "title": "History of Ocean View (Marsha Fontes, orig. 'Railway Recollections', West Portal Monthly, 1993)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 1993,
+    "url": "https://www.outsidelands.org/oceanview.php",
+    "supports": "Spoke-like streets around the station, plaza fountain for horses, saloons and stores, 1926 Alemany Blvd demolitions"
+   },
+   {
+    "title": "A Short History of OMI Neighborhoods",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2006,
+    "url": "https://www.outsidelands.org/omi.php",
+    "supports": "Name Ocean View and first-glimpse-of-the-Pacific story"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-church-cow-pasture",
+  "title": "A Church in a Cow Pasture",
+  "theme": "communities",
+  "year": 1890,
+  "yearEnd": 1899,
+  "place": {
+   "label": "Broad St near Plymouth Ave",
+   "lat": 37.7134,
+   "lon": -122.45621,
+   "precision": "street"
+  },
+  "hook": "Ocean View's Catholics heard Mass upstairs from a bar for 27 years, while seventeen Protestants founded their church in a tent among the cows.",
+  "story": "Nineteenth-century Ocean View was a village of farm hands and railroad workers, split roughly half Catholic and half Protestant [1]. With no church of their own, Catholics gathered each Sunday from 1872 for Mass upstairs from the bar of the Tell House, a roadhouse beside the railroad station [1][2]. The Tell House was a true neighbourhood hub; decades later it was still a drinking spot and a boarding house where German was spoken, lodging Swiss and German immigrants [2]. The Protestants started smaller. In 1889 the Rev. Lincoln Wirt began a Sunday school in a store on Plymouth, and four people attended regularly [1]. In July 1890 seventeen residents declared themselves a church and met in a tent in someone's cow pasture until 1895, when they built the Ocean View Congregational Church on Broad Street [1]. The Catholics finally got a small church on Broad in 1899, christened St. Michael's [1]. It soon anchored local families such as the Gdovins of Plymouth Avenue, who worshipped there in the 1890s and 1900s [3]. The Congregational church survives as Pilgrim Community Congregational Church on Randolph Street [1].",
+  "people": [
+   {
+    "name": "Rev. Lincoln Wirt",
+    "role": "Founder of Ocean View's Protestant Sunday school, 1889"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History of Ocean View (Marsha Fontes, orig. 'Railway Recollections', West Portal Monthly, 1993)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 1993,
+    "url": "https://www.outsidelands.org/oceanview.php",
+    "supports": "Half Catholic/half Protestant; Mass over the Tell House bar 1872-1899; St. Michael's 1899; Wirt's Sunday school 1889; tent church 1890; Congregational church 1895; Pilgrim Community Congregational"
+   },
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Tell House beside the station: drinking and boarding house for Swiss and German immigrants, German spoken"
+   },
+   {
+    "title": "Streetwise: A Boxer's Death (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2004,
+    "url": "https://www.outsidelands.org/sw24.php",
+    "supports": "Gdovin family attended St. Michael's, the local Catholic church"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-jockey-house",
+  "title": "The House Built for a Jockey",
+  "theme": "architecture-landmarks",
+  "year": 1895,
+  "yearEnd": 1905,
+  "place": {
+   "label": "280 Byxbee St",
+   "lat": 37.7193,
+   "lon": -122.46958,
+   "precision": "building"
+  },
+  "hook": "On Byxbee Street stands a cottage whose front door is just 5 feet 9 inches tall, possibly the last home of the Ingleside Racetrack's jockeys.",
+  "story": "When the Ingleside Racetrack opened just to the north in 1895, it brought hostlers, trainers, jockeys and other track workers to cottages on the Merced Heights slope south of the track [1]. The 1900 census of the neighbouring Lakeview tract listed occupations such as hostlers, saddlers and jockeys alongside farmers and saloon keepers [2]. Some of those cottages can still be found on the blocks between Holloway Avenue and Garfield Street, from Beverly to Ramsell [1]. The best-known candidate is 280 Byxbee, on a street called Ford on the 1870 map [1]. In 2002-03 its owner, Jim Wessel, showed a 13-year-old history enthusiast, Sean Hall, the evidence: his research indicated the front of the house was a jockey house, with the back added later; the front door is only 5 feet 9 inches tall, the roof was later raised, and newspapers from 1921 turned up as insulation [3]. A story passed down with the house says the track's owner once knocked himself out on the low ceiling and, revived with a glass of water thrown by a jockey's wife, said he would like his next drink 'in a glass' [3]. That tale is folklore; the tiny door is real.",
+  "people": [
+   {
+    "name": "Jim Wessel",
+    "role": "Owner and researcher of 280 Byxbee"
+   },
+   {
+    "name": "Sean M. Hall",
+    "role": "Teen historian who documented the house"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Merced Heights (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2019,
+    "url": "https://www.outsidelands.org/merced_heights.php",
+    "supports": "Racetrack workers' cottages on the slope, surviving between Holloway and Garfield, Beverly to Ramsell; Ford renamed Byxbee"
+   },
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "1900 Lakeview occupations: hostlers, saddlers, jockeys"
+   },
+   {
+    "title": "Jockey House of the Ingleside (Sean M. Hall)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/280-Byxbee.php",
+    "supports": "280 Byxbee front part a jockey house per owner's research; 5'9\" door; 1921 newspapers; owner-bumped-head story"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-ten-saloons",
+  "title": "Ten Saloons on a Racetrack Road",
+  "theme": "labor-industry",
+  "year": 1899,
+  "yearEnd": 1906,
+  "place": {
+   "label": "Ocean Ave, south side between Ashton and Harold Aves",
+   "lat": 37.72444,
+   "lon": -122.45934,
+   "precision": "street"
+  },
+  "hook": "The fire-insurance maps of 1899 show fifteen buildings on this stretch of Ocean Avenue. Ten of them were saloons.",
+  "story": "Ocean Avenue began as the Ocean House Road, the route to Lake Merced's roadhouses, mentioned in newspapers as early as 1853 [1]. Its first buildings chased weekend traffic, and business boomed after the Pacific Jockey Club's Ingleside Racetrack opened on Thanksgiving Day, November 28, 1895; estimates of the rain-soaked opening crowd range from over 10,000 to 12,000 [1][2]. That December the Market Street Railway extended its Mission Street electric line out Ocean Avenue, a job that took six days [1]. The Sanborn fire-insurance maps of 1899-1900 show fifteen structures on Ocean between Ashton and Harold Avenues; ten were saloons [1]. In Adolph Sutro's struggling Lakeview subdivision south of the road, which had just 223 residents in 1900, about one in ten were bartenders, saloonkeepers and their families [1]. City Hall set the rhythm: supervisors banned betting on horse and dog races in March 1899, and racing at Ingleside stopped on March 15 [2]. Even after the track closed for good, a relief report on the refugees housed there after 1906 worried about their access to 'five saloons at the gate' [1]. Only later did the gambling dens give way to pharmacies, grocers and five-and-ten stores [3].",
+  "people": [
+   {
+    "name": "Edward Corrigan",
+    "role": "Head of the Pacific Jockey Club"
+   },
+   {
+    "name": "Adolph Sutro",
+    "role": "Owner and developer of the Lakeview tract"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Ocean House Road 1853; 1895 opening and crowd; six-day streetcar extension; Sanborn saloon count; Lakeview 1900 population and bartenders; relief report quote"
+   },
+   {
+    "title": "Race Tracks of the West Side: Ingleside Racetrack (Angus Macfarlane)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2008,
+    "url": "https://www.outsidelands.org/ingleside-race-track.php",
+    "supports": "12,000 at rainy opening day; March 1899 betting ban and March 15 1899 end of racing"
+   },
+   {
+    "title": "Ingleside/Lakeview",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/ingleside-lakeview.php",
+    "supports": "Gambling dens on Ocean Avenue made way for pharmacies, grocers, 5-and-10 stores"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-boxers-death",
+  "title": "The Cigarmaker's Son Who Died Boxing",
+  "theme": "communities",
+  "year": 1906,
+  "yearEnd": null,
+  "place": {
+   "label": "335 Plymouth Ave (Gdovin family home)",
+   "lat": 37.71375,
+   "lon": -122.45634,
+   "precision": "building"
+  },
+  "hook": "In February 1906 two young Ocean View cabinetmakers climbed into an unlicensed ring in Colma. Only one came home to Plymouth Avenue.",
+  "story": "Alexander Gdovin, a cigarmaker who came from Austria in the late 1800s (the name was often shortened to 'Dovin'), and his wife Anna raised five children at 315 Plymouth Avenue, today numbered 335 [1]. The Ingleside and Ocean View of their day were known for roadhouses, gambling tracks and boxing camps, but many fights were staged just over the county line, where San Mateo law enforcement looked away [1][2]. On February 5, 1906, the couple's eldest son, 20-year-old Alex, fought another Ocean View cabinetmaker, 'Chiefy' Johnson, in an unlicensed bout at the Colma Athletic Club. He fell at the end of the third round, killed by a punch to the chest, and the crowd of some two hundred, who had paid fifty cents each, 'scattered in every direction' [1]. Everyone involved played innocent: the club's manager said he knew of no fight; the man who opened the hall claimed he just unlocked the door; the Colma constable sat ringside while his deputy refereed [1]. Johnson insisted they were only fighting 'to let the boys have some fun,' and turned himself in days later [1]. Anna Gdovin was summoned to the White House saloon, where she knelt weeping beside her son [1].",
+  "people": [
+   {
+    "name": "Alex Gdovin",
+    "role": "20-year-old Ocean View boxer killed in 1906"
+   },
+   {
+    "name": "Anna Gdovin",
+    "role": "His mother"
+   },
+   {
+    "name": "'Chiefy' Johnson",
+    "role": "Opponent, Ocean View cabinetmaker"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Streetwise: A Boxer's Death (Woody LaBounty, citing SF Chronicle and Examiner, Feb. 1906)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2004,
+    "url": "https://www.outsidelands.org/sw24.php",
+    "supports": "Gdovin family, address, fight details, quotes, aftermath"
+   },
+   {
+    "title": "Ingleside/Lakeview",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/ingleside-lakeview.php",
+    "supports": "Boxing camps, bars and gambling along the Ocean Road"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-pesces-market",
+  "title": "Nine Children Above the Grocery",
+  "theme": "communities",
+  "year": 1909,
+  "yearEnd": 1985,
+  "place": {
+   "label": "118 Sagamore St (Pesce's Market)",
+   "lat": 37.71171,
+   "lon": -122.45683,
+   "precision": "building"
+  },
+  "hook": "Paul and Marie Pesce left Genoa in 1903, opened a grocery across from the train station in 1909, and raised nine children in the flat upstairs.",
+  "story": "Ocean View's early farmers were mostly Italian immigrants from Genoa, working vegetable plots in the valleys below Merced Heights [2]. Paul and Marie Pesce came to San Francisco from Genoa in 1903, and in 1909 opened a grocery at 118 Sagamore Street, just across from the Southern Pacific station, the centre of a small community still isolated from the rest of the city [1]. The family lived in the flat over the store, where they raised all nine of their children, and every one of them worked in the shop at some point [1]. It sat at the old village crossroads; a 1926 city photograph of Sagamore shows a meat market, a couple of barber shops and 'Blue Ribbon' ice cream signs nearby [3]. Pesce's outlasted the station, the plaza fountain and the steam trains. When the OMI News profiled it in 1977, son Elmer, 68, still made the deliveries, bought the produce and lived upstairs, and a third-generation Pesce studying at San Francisco State said she learned more in the store than at school: 'This is life' [1]. Known for large Italian sandwiches and gooey pastries at the checkout, Pesce's Market closed in the 1980s [1].",
+  "people": [
+   {
+    "name": "Paul Pesce",
+    "role": "Founder of Pesce's Market"
+   },
+   {
+    "name": "Marie Pesce",
+    "role": "Founder of Pesce's Market"
+   },
+   {
+    "name": "Elmer Pesce",
+    "role": "Son, deliveries and produce"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Pesce's Market: Serving the Community Since 1909 (Marsha Fontes, orig. OMI News, Nov. 1977)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2010,
+    "url": "https://www.outsidelands.org/pesces.php",
+    "supports": "Founding 1909 by Paul and Marie Pesce from Genoa (1903), location opposite the station, nine children over the store, 1977 details, closure in 1980s"
+   },
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Ocean View farmers mostly Italian immigrants from Genoa"
+   },
+   {
+    "title": "Ocean View Photos: Sagamore Street - March 8, 1926",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/oceanview-photos7.php",
+    "supports": "1926 view of Sagamore businesses at the old Ocean View intersection"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-artesian-water",
+  "title": "Genoese Gardens and the Artesian Water War",
+  "theme": "labor-industry",
+  "year": 1908,
+  "yearEnd": null,
+  "place": {
+   "label": "Alemany Blvd near Sagamore St (former truck farms)",
+   "lat": 37.7114,
+   "lon": -122.4583,
+   "precision": "area"
+  },
+  "hook": "Ocean View's Italian truck farmers hauled vegetables downtown by wagon before dawn, and in 1908 were fined for watering them from their own wells.",
+  "story": "From the early Gold Rush on, the sandy valleys of southern San Francisco were checkered with vegetable farms, and most farmers were Italian immigrants from Genoa [1]. Whole families and hired hands worked small plots watered by windmill-pumped wells and fertilised with horse manure, then loaded horse-drawn wagons in the early morning for a drive of several hours to the Colombo Market, a produce exchange founded in 1876 at Davis and Front Streets [1]. The 1880 census listed Ocean View farmers and dairymen such as Patrick Breen and John Bauer, with Frank Lagomarsino and others along the Ocean House Road; most were of Italian, Irish or German descent [1]. As the city grew, water became a battleground. In 1904 the Spring Valley Water Company ejected tenant gardeners, claiming their fertiliser runoff polluted the city's supply, and in October 1908 the San Francisco Call reported that an Ocean View improvement club had denounced a court for fining vegetable growers who used artesian water [1]. The farms hung on anyway: a 1910s photograph at the future site of Alemany Boulevard near Sagamore shows a cow grazing, and a 1920s view catches a buyer at a roadside vegetable stand on Junipero Serra Boulevard [2][3].",
+  "people": [
+   {
+    "name": "Frank Lagomarsino",
+    "role": "Farmer listed in the 1880 census"
+   },
+   {
+    "name": "Patrick Breen",
+    "role": "Ocean View dairyman, 1880"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Genoese farmers, methods, Colombo Market 1876, 1880 census names, 1904 Spring Valley evictions, 1908 artesian-water fines"
+   },
+   {
+    "title": "Ocean View Photos: Alemany and Sagamore - 1910s",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/oceanview-photos.php",
+    "supports": "Cow grazing at future Alemany Blvd near Sagamore; dairy and vegetable farms main industries"
+   },
+   {
+    "title": "Ocean View Photos: Junipero Serra Boulevard - 1920s",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/oceanview-photos5.php",
+    "supports": "Small family farms into the 1920s; roadside vegetable stand"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-niantic-shacks",
+  "title": "Refugee Shacks Hiding on Niantic",
+  "theme": "quake1906",
+  "year": 1907,
+  "yearEnd": 2003,
+  "place": {
+   "label": "30 Niantic Ave",
+   "lat": 37.70947,
+   "lon": -122.46831,
+   "precision": "building"
+  },
+  "hook": "After 1906, relief-camp cottages were hauled to Ocean View's empty lots. In 2003 historians found two of them serving as the second floor of a Niantic home.",
+  "story": "The 1906 earthquake and fire pushed thousands of working-class San Franciscans to the city's edges, and the OMI boomed: between 1900 and 1910 the Ingleside's population rose from 473 to 2,412 and Ocean View's from 1,039 to 1,853 [1]. Some newcomers brought their houses. An unknown number of refugee cottages from the relief camps were hauled here and joined together as starter homes on empty lots; examples survive at 74 Lobos, 233 Broad and 254 Montana Streets [1]. After the camps closed, entrepreneurial landowners rented out clusters of shacks along Niantic Avenue and in Daly City's Hillcrest, and when those settlements broke up the cottages were moved yet again [1]. On March 23, 2003, shack expert Jane Cryan and Woody LaBounty followed a tip to 30 Niantic, expecting a garden shed. Instead they looked up at the second storey of Tom and Maureen Ginella's house: two 'Type A' shacks joined end to end, with original park-green paint showing where they met [2]. Inside were early floorboards and cove ceilings. Rather than demolish them, the Ginellas were building a modern floor underneath, and the city's official count of surviving shacks rose to 21 [2].",
+  "people": [
+   {
+    "name": "Jane Cryan",
+    "role": "Earthquake shack historian"
+   },
+   {
+    "name": "Tom and Maureen Ginella",
+    "role": "Owners who preserved the shacks"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Population growth 1900-1910; refugee cottages moved to OMI lots at 74 Lobos, 233 Broad, 254 Montana; Niantic and Hillcrest shack settlements"
+   },
+   {
+    "title": "Niantic Street Shacks (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/niantic-shacks.php",
+    "supports": "March 23, 2003 discovery of two Type A shacks at 30 Niantic; park-green paint; count rises to 21"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-sheridan-school",
+  "title": "A Mayor's Fist at Sheridan School",
+  "theme": "communities",
+  "year": 1910,
+  "yearEnd": 1911,
+  "place": {
+   "label": "431 Capitol Ave (Sheridan School)",
+   "lat": 37.71431,
+   "lon": -122.45937,
+   "precision": "building"
+  },
+  "hook": "At the cornerstone ceremony for Ocean View's new school in 1910, a speaker swore he would rather his right hand palsy than stay silent.",
+  "story": "Ocean View's improvement clubs had long petitioned the city for services, a public school among them [1]. On February 20, 1910, a large crowd gathered at Capitol Avenue and Lobos Street for the cornerstone-laying of Sheridan Primary School [1][2]. Pupils sang 'America,' the Columbia Park boys' band played, and a speaker, likely Mayor P.H. McCarthy, raised his fist against the school board appointed by his predecessor: 'I would rather that my good right hand would palsy than fail to lift it against a subtle scheme to do redhot politics in the schools' [2]. The day also honoured the district's pioneers. Among the neighbourhood's 'honored settlers' at the dedication was Elias Wolfe, the roadhouse keeper who had helped start the area's first school decades earlier [1]. Sheridan opened to students in 1911 with special classrooms for 'manual training and domestic science' and one designated for 'delinquent pupils' [2]. A new building replaced it in 1975, yet the banner displayed onstage in 1910 is still shown at the school, and two buildings visible behind the 1910 crowd still stand [2].",
+  "people": [
+   {
+    "name": "P.H. McCarthy",
+    "role": "Mayor of San Francisco (likely speaker)"
+   },
+   {
+    "name": "Elias Wolfe",
+    "role": "Honored settler"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Improvement clubs petitioning for a school; 1910 dedication photo at Capitol and Lobos; Elias Wolfe as honored settler"
+   },
+   {
+    "title": "Sheridan Elementary School",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2009,
+    "url": "https://www.outsidelands.org/sheridan-school.php",
+    "supports": "Feb 20, 1910 cornerstone; McCarthy quote (SF Call, Feb 21, 1910); program; 1911 opening and classrooms; 1975 building; banner; surviving buildings"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-community-church",
+  "title": "One Church for Nine Congregations",
+  "theme": "architecture-landmarks",
+  "year": 1921,
+  "yearEnd": 1923,
+  "place": {
+   "label": "1345 Ocean Ave (Ingleside Presbyterian Church)",
+   "lat": 37.72391,
+   "lon": -122.45687,
+   "precision": "building"
+  },
+  "hook": "The builder of Ingleside Terraces designed a church for every Protestant faith on Ocean Avenue, and its director chose a boys' gym over a pipe organ.",
+  "story": "The congregation that became Ingleside Presbyterian was organised in 1907 [3], and it began as a Sunday school for earthquake refugees in the basement of the Robinson Apartments at Faxon and DeMontfort avenues [1]. After its wood-framed church burned in 1920, Joseph A. Leonard, developer of Ingleside Terraces across Ocean Avenue, donated land and designed and built the 'Ingleside Community Church' at 1345 Ocean, intended to house all the area's Protestant denominations [1][2]. Ground was broken on September 16, 1921. The Western Neighborhoods Project says it was completed in 1923 at a cost of $65,000; other accounts date the building to 1922 [2][3]. It hosted nine congregations, including Methodists, Baptists, Episcopalians and Presbyterians [2]. When funds ran short, a newspaper reported, religious director Rev. Albert E. Kelly had to choose between gymnasium equipment and a pipe organ, and 'yielded to the little fellows,' who got their parallel bars, Indian clubs, dumbbells and rings [2]. The gym mattered again decades later: Rev. Roland Gordon took the pastorate in 1978 partly because of it, and covered its walls with images of African American achievers [2][3]. The church became a city landmark in 2016 [3].",
+  "people": [
+   {
+    "name": "Joseph A. Leonard",
+    "role": "Developer, designer and builder"
+   },
+   {
+    "name": "Rev. Albert E. Kelly",
+    "role": "Religious director"
+   },
+   {
+    "name": "Rev. Roland Gordon",
+    "role": "Pastor from 1978"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Began as Sunday school for camp refugees; Leonard donated land and designed; 1921; predecessor burned 1920"
+   },
+   {
+    "title": "Ingleside Presbyterian Church",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2005,
+    "url": "https://www.outsidelands.org/ingle-presby.php",
+    "supports": "Groundbreaking Sept 16, 1921; completed 1923 for $65,000; nine congregations; gym-versus-organ quote; Gordon and the gym"
+   },
+   {
+    "title": "Ingleside church a portrait of SF's black heritage (Carl Nolte)",
+    "publisher": "San Francisco Chronicle",
+    "year": 2017,
+    "url": "https://www.sfchronicle.com/bayarea/nativeson/article/Church-a-portrait-of-SF-s-black-heritage-11193051.php",
+    "supports": "Organized 1907; Gordon's arrival 1978 with four members; murals; landmark designation late 2016"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-m-line",
+  "title": "A Streetcar Through Open Farmland",
+  "theme": "labor-industry",
+  "year": 1925,
+  "yearEnd": 1928,
+  "place": {
+   "label": "Randolph St near 19th Ave (M-Ocean View route)",
+   "lat": 37.71451,
+   "lon": -122.46913,
+   "precision": "street"
+  },
+  "hook": "In 1925 the city ran a streetcar through half-empty farmland to Ocean View, rezoned the route for shops, and waited for customers who didn't come.",
+  "story": "The Municipal Railway's M-Ocean View opened in 1925 as a shuttle from West Portal along 19th Avenue, Worcester (today's diagonal extension of 19th Avenue), Randolph, Orizaba and Broad Street to Plymouth Avenue [1]. When it opened, the tracks along the diagonal and Randolph ran through mostly open farmland; a March 1926 city photograph looking east on Randolph from Worcester shows a lone M car [2]. The city bet on growth. In 1925 and 1927 about 13.4 acres along Worcester and Randolph were rezoned from residential to commercial in anticipation of the line, but only a few scattered stores appeared because housing on Merced Heights grew slowly until after World War II [1]. Riders were scarce, too. Local historian Marsha Fontes wrote that the line lost $96,000 in its first six months and 'struggled along' before being discontinued until 1946 [3]. The context statement gives a slightly different timeline: partial service through the Twin Peaks Tunnel from 1927, buses replacing streetcars in 1939, and rails returning in 1944 [1]. Sporadic building did begin south of Ingleside Terraces in the late 1920s once the line arrived [1].",
+  "people": [
+   {
+    "name": "Marsha Fontes",
+    "role": "OMI historian"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "1925 opening and route; 13.4 acres rezoned 1925-27; few stores; tunnel service 1927-1939, buses 1939, streetcars 1944; late-1920s building"
+   },
+   {
+    "title": "Merced Heights (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2019,
+    "url": "https://www.outsidelands.org/merced_heights.php",
+    "supports": "Tracks ran through mostly open farmland along the diagonal 19th Ave and Randolph; 1926 DPW photo"
+   },
+   {
+    "title": "History of Ocean View (Marsha Fontes, orig. 'Railway Recollections', West Portal Monthly, 1993)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 1993,
+    "url": "https://www.outsidelands.org/oceanview.php",
+    "supports": "M line lost $96,000 in first six months; discontinued until 1946 (note: dates the line's construction to 1927)"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "oceanview-merced-ingleside-poppy-hill",
+  "title": "Pansy Hill, Poppy Hill, Kite Hill",
+  "theme": "parks-nature",
+  "year": 1900,
+  "yearEnd": null,
+  "place": {
+   "label": "Merced Heights ridge, rocky outcrop at Shields St and Orizaba Ave",
+   "lat": 37.7181,
+   "lon": -122.4629,
+   "precision": "area"
+  },
+  "hook": "Before houses climbed Merced Heights, San Franciscans came out to pick wildflowers on a bald, rocky ridge they named for its blooms.",
+  "story": "Merced Heights is a 500-foot ridge of Franciscan sandstone that rises and falls three times, with peaks near Thrift and Summit Streets, at Shields and Orizaba, and at Shields and Vernon, today's Brooks Park [1]. It held scrub and grassland: bunchgrass, blue-eyed grass, Douglas iris, pink currant and golden yarrow, plus blue-blossom ceanothus, now gone locally and likely the source of Mount Davidson's early name, 'Blue Mountain' [1]. A century ago the ridge looked almost bald, splashed each spring with poppies and pansies, and locals called its western knoll 'Pansy Hill', 'Poppy Hill' or 'Kite Hill' [1][2]. The area was known for seasonal wildflowers, and early-1900s postcards show picking parties at Ingleside [1]. Botanist Alice Eastwood, remembering the 1890s, wrote that 'on the hills back of Ingleside, then known as Sunset Heights,' a great many flowers could be found, and that near Lake Merced they grew so thick it was impossible to avoid stepping on them [3]. Until the 1930s only a handful of homes stood on the central ridge, left to wildflower gatherers and picnickers among the rocks [1]. Several dozen native plant species still survive on Brooks Park's outcrops [4].",
+  "people": [
+   {
+    "name": "Alice Eastwood",
+    "role": "Botanist"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco's Ocean View, Merced Heights, and Ingleside (OMI) Neighborhoods 1862-1959: A Historical Context Statement",
+    "publisher": "Western Neighborhoods Project (Richard Brandi & Woody LaBounty) for the SF Historic Preservation Fund Committee",
+    "year": 2010,
+    "url": "http://www.outsidelands.org/OMI-small-feb2010.pdf",
+    "supports": "Ridge geology and peaks; native plants; Blue Mountain; Pansy Hill; wildflower postcards; few homes until 1930s; picnics among outcrops"
+   },
+   {
+    "title": "Streetwise: Brooks Park Ode (Woody LaBounty)",
+    "publisher": "Western Neighborhoods Project (outsidelands.org)",
+    "year": 2003,
+    "url": "https://www.outsidelands.org/sw23.php",
+    "supports": "Ridge almost bald 100 years ago; poppies and pansies; Pansy/Poppy/Kite Hill names"
+   },
+   {
+    "title": "Wildflowers (Alice Eastwood, 1953)",
+    "publisher": "FoundSF",
+    "year": 1953,
+    "url": "https://www.foundsf.org/index.php?title=Wildflowers",
+    "supports": "Hills back of Ingleside, then known as Sunset Heights; Lake Merced flowers so thick one could not avoid stepping on them"
+   },
+   {
+    "title": "Brooks Park (Pete Holloran and Jeanne Alexander)",
+    "publisher": "FoundSF",
+    "year": 2008,
+    "url": "https://www.foundsf.org/index.php?title=Brooks_Park",
+    "supports": "Several dozen native plant species still found on the hilltop's rocky outcrops"
+   }
+  ],
+  "photo": null
+ }
+]

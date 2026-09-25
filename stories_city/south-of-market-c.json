@@ -1,0 +1,649 @@
+[
+  {
+    "id": "south-of-market-tool-box-life-magazine",
+    "title": "The Leather Bar That Made Life Magazine",
+    "theme": "lgbtq",
+    "year": 1964,
+    "yearEnd": 1971,
+    "place": {
+      "label": "Site of the Tool Box bar, 399 Fourth Street at Harrison",
+      "lat": 37.78108193326186,
+      "lon": -122.3997847578711,
+      "precision": "block"
+    },
+    "hook": "In 1964 a national magazine opened its story on gay America with a photo of a South of Market leather bar and its giant mural.",
+    "story": "When the Tool Box opened at Fourth and Harrison in 1962, South of Market was a district in limbo, its future tied up in redevelopment fights and its streets empty after dark. That emptiness gave gay men a kind of privacy, and the Tool Box became the neighbourhood's first leather bar and a magnet for leathermen from near and far [1][2]. Its walls carried an enormous mural by the gay artist Chuck Arnett. In June 1964 Life magazine ran \"Homosexuality in America\" and gave the bar and its mural a two-page spread. It was believed to be the first time a photograph of a gay bar with its patrons visible had appeared in the national mass media [1]. The Chronicle columnist Herb Caen joked that some of the \"young fellers\" there wore an \"S\" or \"M\" on their shirt pockets [1]. The publicity helped cast San Francisco as the nation's gay capital. It also helped draw a generation of new arrivals [2]. The bar did not survive redevelopment. It closed in 1971 and was demolished that same year. City planners now note that whatever lies under the site could still tell us more about it [1].",
+    "people": [
+      {
+        "name": "Chuck Arnett",
+        "role": "Artist who painted the bar's mural"
+      },
+      {
+        "name": "Herb Caen",
+        "role": "San Francisco Chronicle columnist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Graves & Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Tool Box at 399 Fourth St, opened 1962, Arnett mural, 1964 Life spread, first photo of a gay bar in national media, Caen quote, closed and demolished 1971, subsurface significance"
+      },
+      {
+        "title": "South of Market Area Historic Context Statement",
+        "publisher": "Page & Turnbull for San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://sfplanning.s3.amazonaws.com/archives/documents/372-SOMA_Historic_Context_Statement_06-30-2009.pdf",
+        "supports": "Tool Box at 399 Fourth (1962-1971); 1964 Life article on San Francisco as capital of the gay world; growth of gay migration"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-zodiac-340-chronicle",
+    "title": "A Killer's Cipher Mailed to Fifth and Mission",
+    "theme": "modern-city",
+    "year": 1969,
+    "yearEnd": 2020,
+    "place": {
+      "label": "San Francisco Chronicle Building, 901 Mission Street at Fifth",
+      "lat": 37.78215365297651,
+      "lon": -122.4066011095345,
+      "precision": "building"
+    },
+    "hook": "A letter in November 1969 brought 340 strange symbols to the Chronicle's newsroom. It took 51 years and three strangers on three continents to read them.",
+    "story": "Since the 1920s the San Francisco Chronicle had been made at 901 Mission Street, at the corner of Fifth and Mission [1]. In the autumn of 1969 that newsroom became the killer's chosen mailbox. A letter that reached the paper in November 1969 held a cryptogram of 340 characters, and the paper ran a story on it on November 12 [2]. An earlier cipher, sent in pieces to the Chronicle, the Examiner and the Vallejo Times-Herald, had been cracked by a Salinas schoolteacher and his wife. The \"340\" held out for five decades [2]. In December 2020 it finally gave way to Virginia web designer David Oranchak, Australian mathematician Sam Blake and Belgian warehouse operator Jarl Van Eycke. They had tested around 650,000 ways of reading the symbols over eight months [2]. The text runs diagonally down the page and gives no name. It begins: \"I hope you are having lots of fun in trying to catch me.\" It also says \"that wasnt me on the TV show\", an apparent reference to a caller on KGO's AM San Francisco in October 1969. The FBI confirmed that private citizens had solved the cipher. The case remains open [2].",
+    "people": [
+      {
+        "name": "David Oranchak",
+        "role": "Code-breaker, Virginia"
+      },
+      {
+        "name": "Sam Blake",
+        "role": "Mathematician, Australia"
+      },
+      {
+        "name": "Jarl Van Eycke",
+        "role": "Code-breaker, Belgium"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Chronicle Building's Latest Transformation",
+        "publisher": "SPUR",
+        "year": 2011,
+        "url": "https://www.spur.org/news/2011-06-20/chronicle-buildings-latest-transformation",
+        "supports": "Chronicle headquarters at 901 Mission Street, Fifth and Mission, commissioned 1924"
+      },
+      {
+        "title": "Zodiac '340 Cipher' cracked by code experts 51 years after it was sent to the S.F. Chronicle",
+        "publisher": "San Francisco Chronicle (Kevin Fagan)",
+        "year": 2020,
+        "url": "https://www.sfchronicle.com/crime/article/zodiac-340-cypher-cracked-by-code-expert-51-years-15794943.php",
+        "supports": "Postmark, Nov. 12 story, 408 cipher solvers, the three solvers, 650,000 readings, eight months, cipher text, TV show reference, FBI statement"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-old-mint-rescue",
+    "title": "Saving the Granite Lady From the Wrecking Ball",
+    "theme": "architecture-landmarks",
+    "year": 1972,
+    "yearEnd": 1976,
+    "place": {
+      "label": "Old U.S. Mint, 88 Fifth Street at Mission",
+      "lat": 37.78274306827716,
+      "lon": -122.40720318071902,
+      "precision": "building"
+    },
+    "hook": "In the 1960s people argued about tearing down the Old Mint for a high-rise. Instead, visitors were soon striking their own medals on its 1869 press.",
+    "story": "After coining stopped in 1937, the Old Mint at Fifth and Mission became a federal office building. By 1968 it was empty. Through the 1960s it sat at the centre of a fight between people who wanted it demolished for a high-rise and people who wanted the landmark restored [1]. The preservationists won. In spring 1972 the General Services Administration handed the building to the Bureau of the Mint, and restoration began. When it reopened in spring 1973, it was the first public building to open under a new federal law allowing surplus historic buildings to be adapted for new uses [1]. National Park Service specialists studied flakes of old paint under a microscope to recover the original colours. The basement vaults and front rooms became a free museum with a $1 million gold bar on display and an 1869 press where visitors could strike their own souvenir medals. Mint Director Mary Brooks announced the restoration complete in November 1976 [1]. Its later story is shakier. By 2015 an 11-year city effort to make it a history museum had collapsed. The unreinforced masonry needed about $60 million in repairs, and it was being reborn as an events space [2].",
+    "people": [
+      {
+        "name": "Mary Brooks",
+        "role": "Director of the U.S. Mint"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Restoration of the Old San Francisco Mint Has Been Completed (press release, Nov. 1, 1976)",
+        "publisher": "United States Mint",
+        "year": 1976,
+        "url": "https://web.archive.org/web/20210918190545/https://www.usmint.gov/learn/history/historical-documents/restoration-of-old-san-francisco-mint-completed",
+        "supports": "Vacancy 1968-72, 1960s demolition controversy, 1972 transfer and restoration, 1973 reopening under PL 92-362, paint analysis, museum, gold bar, 1869 press, Brooks announcement"
+      },
+      {
+        "title": "S.F. picks events company to put some new life into Old Mint",
+        "publisher": "San Francisco Chronicle / SFGate (Emily Green)",
+        "year": 2015,
+        "url": "https://web.archive.org/web/20160124003706/http://www.sfgate.com/bayarea/article/SF-picks-events-company-to-put-some-life-into-the-6708770.php",
+        "supports": "Failed 11-year museum effort, unreinforced masonry, $60 million repair estimate, events-space plan"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-endup-sunday-church",
+    "title": "Church Starts at Six A.M.",
+    "theme": "lgbtq",
+    "year": 1973,
+    "yearEnd": 2003,
+    "place": {
+      "label": "The EndUp, 401 Sixth Street at Harrison",
+      "lat": 37.777237060264824,
+      "lon": -122.4037968028101,
+      "precision": "building"
+    },
+    "hook": "A former 22-room hotel became the dance floor where San Francisco went after the other clubs closed. On Sundays, the doors opened at dawn.",
+    "story": "In November 1973 Al Hanken opened the EndUp in an old 22-room hotel at Sixth and Harrison. It was a companion to his nearby gay country-western bar, the Roundup. The new club had a transparent light-up dance floor and a quadraphonic sound system, and it was built for the disco craze [1]. Far from the Castro, the club needed gimmicks, so it ran a Sunday jockey-shorts contest with a $150 prize. The crowds were so big that the scuffed floor had to be replaced [1]. In 1979 the EndUp began opening at 6 a.m. on Sundays so dancers could carry on after the all-night Trocadero Transfer closed. DJ Steve Fabus played this \"Church\" party from dawn until 2 p.m. [1]. City planners count the EndUp, with the Trocadero, among the key gay discos South of Market [2]. The club's staying power was tested in 1999. Police Captain Dennis Martel of Southern Station put it at the top of his list of clubs to close and even shut it for a month [1][3]. Nightlife supporters formed the San Francisco Late Night Coalition, Martel was moved to airport duty, and in 2003 the city created an Entertainment Commission to oversee permits [3].",
+    "people": [
+      {
+        "name": "Al Hanken",
+        "role": "Founder of the EndUp"
+      },
+      {
+        "name": "Steve Fabus",
+        "role": "DJ of the Sunday-morning Church party"
+      },
+      {
+        "name": "Dennis Martel",
+        "role": "SFPD Southern Station captain"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nightclubbing: The EndUp",
+        "publisher": "Red Bull Music Academy Daily (Marke B.)",
+        "year": 2015,
+        "url": "http://daily.redbullmusicacademy.com/2015/05/nightclubbing-the-endup",
+        "supports": "1973 opening by Hanken in 22-room hotel, Roundup, dance floor and sound, jockey-shorts contest, 6 a.m. Church from 1979, Fabus quote, month-long 1999 shutdown"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Graves & Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "End-Up at 401 Sixth Street among mid-1970s gay discos"
+      },
+      {
+        "title": "History from The Endup's perspective",
+        "publisher": "SFGate (Bill Picture)",
+        "year": 2006,
+        "url": "https://www.sfgate.com/entertainment/article/History-from-The-Endup-s-perspective-2522419.php",
+        "supports": "1973 opening; 1999 Martel crusade; Late Night Coalition; Martel reassigned; 2003 Entertainment Commission"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-hotel-utah-saloon",
+    "title": "Lightboxes Behind the Bar at the Utah",
+    "theme": "arts-counterculture",
+    "year": 1977,
+    "yearEnd": null,
+    "place": {
+      "label": "Hotel Utah Saloon, 500 Fourth Street at Bryant",
+      "lat": 37.77929289393179,
+      "lon": -122.39813117995867,
+      "precision": "building"
+    },
+    "hook": "A 1908 workers' hotel beside the Bay Bridge ramps became a saloon stage for Robin Williams and Whoopi Goldberg, with lightboxes behind the bar for photographers checking their slides.",
+    "story": "The Hotel Utah went up in 1908 at Fourth and Bryant as a saloon and rooms for working men. In the 1930s its bar took the name Transbay Café, after the new Bay Bridge ramps nearby. After 1945 it was Al Opatz's \"Al's Trans-Bay\", a blue-collar bar whose regulars included a duck-hunting club [1]. On March 18, 1977, film producer and screenwriter Paul Gaer turned Al's into the Hotel Utah Saloon [2]. He spread the bar into the two neighbouring storefronts and built a stage. Comedians and musicians including Robin Williams, Whoopi Goldberg, PJ Harvey and Guns N' Roses played there. Upstairs, rooms long used by drug dealers became homes for artists and musicians [1]. Photographers from a photo lab across the street drank there so often that the bar installed lightboxes so they could edit their work over a drink [1]. The Utah outlasted the dot-com boom too. \"We saw them pull up in limos,\" owner Damian Samuel, who started as the doorman, said in 2007. \"And we watched them drive off in U-Hauls\" [2]. In 2018 the city's Historic Preservation Commission moved to make it an official landmark [1].",
+    "people": [
+      {
+        "name": "Paul Gaer",
+        "role": "Producer who created the Hotel Utah Saloon in 1977"
+      },
+      {
+        "name": "Al Opatz",
+        "role": "Owner of Al's Trans-Bay, 1945-1977"
+      },
+      {
+        "name": "Damian Samuel",
+        "role": "Doorman turned owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Landmark Designation Report: Hotel Utah, 500-504 Fourth Street",
+        "publisher": "San Francisco Planning Department",
+        "year": 2018,
+        "url": "https://default.sfplanning.org/Preservation/landmarks_designation/hp_landmark_report_hotel_utah.pdf",
+        "supports": "1908 construction, Transbay Cafe, Opatz, 1977 sale to Gaer, expansion and stage, performers, artist residences, photographers' lightboxes"
+      },
+      {
+        "title": "Hotel Utah Saloon: No U-Hauls for the Utah",
+        "publisher": "SFGate (Delfin Vigil)",
+        "year": 2007,
+        "url": "https://www.sfgate.com/thingstodo/article/Hotel-Utah-Saloon-No-U-Hauls-for-the-Utah-2578015.php",
+        "supports": "March 18, 1977 transformation by Gaer; Samuel from doorman to owner; limos and U-Hauls quote"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-trocadero-transfer",
+    "title": "Diana Ross Parts the Trocadero Crowd",
+    "theme": "arts-counterculture",
+    "year": 1977,
+    "yearEnd": 2000,
+    "place": {
+      "label": "Former Trocadero Transfer, 520 Fourth Street at Bryant",
+      "lat": 37.77909077059602,
+      "lon": -122.39787731039603,
+      "precision": "building"
+    },
+    "hook": "Every week the DJ put 'Diana Ross +1' on the guest list and people laughed. Then one night she really walked in.",
+    "story": "The Trocadero Transfer opened in 1977 in a 1930 warehouse at 520 Fourth Street. It was an after-hours gay disco that stayed open until 2000, when the building was remodelled into another club [1][2]. When the club won its all-night permit, DJ Steve Fabus remembers, it \"ushered in a New York-style all-night party\" held every weekend [3]. The room had good acoustics because television shows had once been produced there. Its lighting, run by Billy Langenheim, was taken as seriously as the music [3]. Bobby Viteritti, the main DJ in its peak years, won Billboard's national DJ of the Year award in 1979 and 1980. Dancers came from Los Angeles and Miami [3]. Viteritti used to put \"Diana Ross +1\" on the guest list every week as a joke. Then one night in 1978 she arrived. The crowd parted, and she climbed into the booth, kissed him and hit the turntable, silencing the sound system to huge cheers [3]. By 1982 AIDS had changed the dance floor. Local disco producer Patrick Cowley died that year aged 32, and the singer Sylvester died in 1988 [3].",
+    "people": [
+      {
+        "name": "Bobby Viteritti",
+        "role": "Main DJ at the Trocadero"
+      },
+      {
+        "name": "Steve Fabus",
+        "role": "DJ"
+      },
+      {
+        "name": "Patrick Cowley",
+        "role": "Disco producer"
+      },
+      {
+        "name": "Sylvester",
+        "role": "Singer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "South of Market Area Historic Context Statement",
+        "publisher": "Page & Turnbull for San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://sfplanning.s3.amazonaws.com/archives/documents/372-SOMA_Historic_Context_Statement_06-30-2009.pdf",
+        "supports": "Trocadero Transfer at 520 4th Street, established 1977 in a 1930 warehouse, open until 2000"
+      },
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Graves & Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "Trocadero Transfer (520 Fourth Street, extant) as a mid-1970s gay disco"
+      },
+      {
+        "title": "San Fran-disco: how Patrick Cowley and Sylvester changed dance music forever",
+        "publisher": "The Guardian (Geeta Dayal)",
+        "year": 2016,
+        "url": "https://www.theguardian.com/music/2016/oct/26/dance-music-san-francisco-patrick-cowley-sylvester",
+        "supports": "All-night permit quote, acoustics and TV history, Langenheim lighting, Viteritti awards, Diana Ross anecdote (1978), AIDS, deaths of Cowley (1982, age 32) and Sylvester (1988)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-st-josephs-santo-nino",
+    "title": "The Santo Niño Comes to Tenth Street",
+    "theme": "communities",
+    "year": 1979,
+    "yearEnd": 2018,
+    "place": {
+      "label": "St. Joseph's Church, 1401 Howard Street at Tenth",
+      "lat": 37.773562004480986,
+      "lon": -122.4142988232381,
+      "precision": "building"
+    },
+    "hook": "An Irish parish church became the largest Filipino parish in America. Then an earthquake emptied it for decades.",
+    "story": "St. Joseph's was founded in 1861 for the Irish families of South of Market. Its Romanesque Revival church at Tenth and Howard rose after its cornerstone was laid in 1913 [1]. By the 1960s and 70s the neighbourhood had changed. Filipinos who had first settled around South Park spread across the district, and old Irish parishes such as St. Joseph's and St. Patrick's became mostly Filipino [2]. By 1979 St. Joseph's was the largest Filipino parish in the United States. That April the parish enthroned an image of the Santo Niño de Cebu, the patron of the Philippines, in the church [1][2]. The Loma Prieta earthquake of October 17, 1989 damaged the church, parish hall and rectory. The Archdiocese closed the parish in the early 1990s, and the buildings stood empty for years. A photograph taken in 2003 still shows them vacant [1][2]. The church is a city landmark and is listed on the National Register [2]. In 2015 designer Ken Fulk bought a half interest in the deconsecrated building. After seismic work he reopened it in 2018 as an arts venue, Saint Joseph's Arts Society [1].",
+    "people": [
+      {
+        "name": "Ken Fulk",
+        "role": "Designer who reopened the church as an arts space"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #120: Saint Joseph's Church",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf120.asp",
+        "supports": "1861 founding, 1913 cornerstone, Irish to Filipino parish, largest Filipino parish in US by 1979, April 1979 Santo Nino enthronement, 1989 damage and vacancy, Fulk 2015/2018"
+      },
+      {
+        "title": "South of Market Area Historic Context Statement",
+        "publisher": "Page & Turnbull for San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://sfplanning.s3.amazonaws.com/archives/documents/372-SOMA_Historic_Context_Statement_06-30-2009.pdf",
+        "supports": "Filipino parish in 1960s-70s, Santo Nino de Cebu 1979, closed after Loma Prieta, Landmark #120 and National Register; Filipino spread from South Park"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-moscone-1984-convention",
+    "title": "A Convention Hall Named for a Murdered Mayor",
+    "theme": "modern-city",
+    "year": 1984,
+    "yearEnd": null,
+    "place": {
+      "label": "Moscone Center, 747 Howard Street",
+      "lat": 37.783920370448584,
+      "lon": -122.40125327448537,
+      "precision": "building"
+    },
+    "hook": "Built underground on land cleared by a bitter redevelopment fight, Moscone Center hosted the night America's first woman vice-presidential nominee took the stage.",
+    "story": "The convention centre at Howard and Fourth stands on land the Redevelopment Agency cleared of residential hotels. Tenants fought the clearance in court for years, and an estimated 4,000 people and 700 businesses were displaced [1]. After further lawsuits, the first hall opened in 1981 and carried the name of Mayor George Moscone, who had been assassinated in 1978 [1]. Three years later the Democratic Party brought its national convention here. On July 16, 1984, New York Governor Mario Cuomo gave the keynote. He answered President Reagan's \"shining city on a hill\" by saying the nation was more \"a Tale of Two Cities\" [2]. The floor was restless. Gary Hart had won more primaries and caucuses than Walter Mondale, and Jesse Jackson had taken 18 percent of the popular vote. Mondale won on the first ballot when New Jersey's delegates put him over the top [3]. On July 19 Congresswoman Geraldine Ferraro accepted the nomination for vice president: \"My name is Geraldine Ferraro\" [4]. Outside there were protests, and a Chronicle photo shows a protester arrested outside the Hall of Justice. In November, Mondale carried only his home state of Minnesota [3].",
+    "people": [
+      {
+        "name": "Geraldine Ferraro",
+        "role": "First woman nominated for vice president by a major party"
+      },
+      {
+        "name": "Mario Cuomo",
+        "role": "Keynote speaker"
+      },
+      {
+        "name": "Walter Mondale",
+        "role": "Presidential nominee"
+      }
+    ],
+    "sources": [
+      {
+        "title": "South of Market Area Historic Context Statement",
+        "publisher": "Page & Turnbull for San Francisco Planning Department",
+        "year": 2009,
+        "url": "https://sfplanning.s3.amazonaws.com/archives/documents/372-SOMA_Historic_Context_Statement_06-30-2009.pdf",
+        "supports": "Yerba Buena displacement (about 4,000 people and 700 businesses), lawsuits, Moscone Center opened 1981"
+      },
+      {
+        "title": "Mario Cuomo: 1984 Democratic National Convention Keynote Address (16 July 1984, San Francisco)",
+        "publisher": "American Rhetoric",
+        "year": 1984,
+        "url": "https://www.americanrhetoric.com/speeches/mariocuomo1984dnc.htm",
+        "supports": "Date and 'Tale of Two Cities' / 'shining city' lines"
+      },
+      {
+        "title": "SF's 1984 Democratic convention: Historic, but not smooth",
+        "publisher": "San Francisco Chronicle (Bill Van Niekerken)",
+        "year": 2016,
+        "url": "https://www.sfchronicle.com/thetake/article/SF-s-1984-Democratic-convention-Historic-but-8476660.php",
+        "supports": "Convention held at Moscone Center, Ferraro history, Hart and Jackson figures, first-ballot win via New Jersey, protests and arrest photo, Mondale won only Minnesota"
+      },
+      {
+        "title": "Geraldine Ferraro: Vice Presidential Nomination Acceptance Address (19 July 1984)",
+        "publisher": "American Rhetoric",
+        "year": 1984,
+        "url": "https://www.americanrhetoric.com/speeches/gferraroacceptanceaddress.html",
+        "supports": "Date and opening line of the acceptance speech"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-folsom-street-fair-megahood",
+    "title": "Megahood: A Street Fair Against the Bulldozers",
+    "theme": "lgbtq",
+    "year": 1984,
+    "yearEnd": null,
+    "place": {
+      "label": "Folsom Street between Seventh and Twelfth streets (near Ninth)",
+      "lat": 37.77451687389965,
+      "lon": -122.41108625096216,
+      "precision": "street"
+    },
+    "hook": "Today's giant leather festival began as a housing activists' plan to prove South of Market wasn't an empty shell waiting for developers.",
+    "story": "In the early 1980s Kathleen Connell, a lesbian organiser, and Michael Valerio, a gay Filipino American housing developer, worked for the South of Market tenant group TODCO. Together they fought Redevelopment Agency and downtown plans that treated the district as empty land [1][2]. They won $5 million for low-cost housing from Mayor Dianne Feinstein. They also watched AIDS begin to tear through the gay men who were part of the neighbourhood's mix [2]. Supervisor Harry Britt urged them to \"do what Harvey did\" and use a street fair, as Harvey Milk had in the Castro, to build political muscle [2]. In 1984 they held Megahood, the first Folsom Street Fair. It ran from Seventh to Twelfth streets between Howard and Harrison, with a dance stage run by the lesbian DJ Page Hodel [1]. About 30,000 people came and the fair raised almost $20,000 for charity. Attendance reportedly doubled each year for years. What began as a show of neighbourhood strength soon became a leather and kink festival that drew visitors from around the world [1]. It is still held on the last Sunday of September [1].",
+    "people": [
+      {
+        "name": "Kathleen Connell",
+        "role": "Co-founder of the Folsom Street Fair"
+      },
+      {
+        "name": "Michael Valerio",
+        "role": "Co-founder of the Folsom Street Fair"
+      },
+      {
+        "name": "Harry Britt",
+        "role": "Supervisor who urged a street fair"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Citywide Historic Context Statement for LGBTQ History in San Francisco",
+        "publisher": "San Francisco Planning Department (Graves & Watson)",
+        "year": 2015,
+        "url": "https://default.sfplanning.org/Preservation/lgbt_HCS/LGBTQ_HCS_October2015.pdf",
+        "supports": "1984 founding by Connell and Valerio, purpose, Megahood, boundaries, Page Hodel, 30,000 attendance, ~$20,000 raised, growth, last Sunday in September"
+      },
+      {
+        "title": "The Power of Broken Hearts: The Origin and Evolution of the Folsom Street Fair (Connell & Gabriel)",
+        "publisher": "Folsom Street Events",
+        "year": 2026,
+        "url": "https://www.folsomstreet.org/history",
+        "supports": "Connell and Valerio at TODCO, SOMA Alliance fights, $5 million from Feinstein, AIDS, Harry Britt's 'do what Harvey did'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-delta-hotel-bayanihan",
+    "title": "From a Burned Hotel to Bayanihan House",
+    "theme": "civil-rights",
+    "year": 1997,
+    "yearEnd": 2016,
+    "place": {
+      "label": "Bayanihan House and Community Center (former Delta Hotel), Sixth and Mission streets",
+      "lat": 37.780853561501,
+      "lon": -122.4090784175002,
+      "precision": "building"
+    },
+    "hook": "A deadly fire gutted Sixth Street's most prominent hotel, home to Filipino veterans. The community turned the ruin into its headquarters.",
+    "story": "In 1997 a fire killed one person and left the Delta Hotel in ruins. It was the most prominent building on the Sixth Street corridor [2], and many Filipino veterans of the Second World War had lived there [1]. Owner Dr. Mario Borja negotiated with the neighbourhood housing group TODCO to buy the site. Filipino American leaders already planned to open a centre for Central City immigrants there [1][2]. TODCO used Redevelopment Agency funds to buy the building. In 2003 it reopened as Bayanihan House, named for the Tagalog word for community spirit. It had 152 residential hotel rooms with kitchenettes [2]. In 2005 the Filipino-American Development Foundation opened the Bayanihan Community Center on the ground floor, serving immigrant families and seniors [1][2]. The building became the anchor of a wider fight. As the second tech boom pushed rents up, community groups said the neighbourhood's Filipino population had been cut in half in ten years. In 2016 the city recognised SOMA Pilipinas as its Filipino Cultural Heritage District, a move organisers described as a way to protect the community and its culture from displacement [1].",
+    "people": [
+      {
+        "name": "Mario Borja",
+        "role": "Delta Hotel owner who negotiated its sale"
+      }
+    ],
+    "sources": [
+      {
+        "title": "History & Living Legacy",
+        "publisher": "SOMA Pilipinas Filipino Cultural Heritage District",
+        "year": 2026,
+        "url": "https://www.somapilipinas.org/history",
+        "supports": "1997 Delta Hotel fire, Filipino WWII veterans, Borja and TODCO, FADF and Bayanihan Community Center (2005), 2016 cultural district, population halved"
+      },
+      {
+        "title": "The TODCO Group Story: History",
+        "publisher": "TODCO",
+        "year": 2026,
+        "url": "https://todco.org/history/",
+        "supports": "1997 fire killing one person, purchase with Redevelopment funds, 2003 Bayanihan House with 152 rooms, name meaning, 2005 community center"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-victoria-manalo-draves-park",
+    "title": "Two Acres for Two Gold Medals",
+    "theme": "parks-nature",
+    "year": 2006,
+    "yearEnd": null,
+    "place": {
+      "label": "Victoria Manalo Draves Park, Folsom and Sherman streets",
+      "lat": 37.777009478700684,
+      "lon": -122.40595531752793,
+      "precision": "block"
+    },
+    "hook": "A diving coach once told a South of Market girl she could join his club only if she dropped her Filipino surname. Her old schoolyard now carries her full name.",
+    "story": "Victoria Manalo was born in South of Market on December 31, 1924. Her father, Teofilo, was a Filipino musician and chef, and her mother, Gertrude Taylor, came from England [1]. She went to Franklin Elementary School, which was later renamed for its principal, Bessie Carmichael. When she wanted to join the Fairmont Hotel's diving club, the coach told her bluntly that as a Filipino she could not. He suggested she dive under her mother's name, and for a time she became \"Vicki Taylor\" [1]. Later, competing as Vicki Manalo, she was barred from a contest at the same club. Her coach, Lyle Draves, left for Los Angeles in disgust. She followed and married him there in 1946 [1]. At the 1948 London Olympics she won gold in both springboard and platform diving [1][2]. Decades later neighbours pushed the school district and Recreation and Park Department to turn the old Bessie Carmichael school site into open space named after her. Sources date the naming to 2005 or 2006. She visited the site and remembered her school days there [1][2]. Draves died in 2010 [1].",
+    "people": [
+      {
+        "name": "Victoria Manalo Draves",
+        "role": "Olympic diving champion, 1948"
+      },
+      {
+        "name": "Lyle Draves",
+        "role": "Her coach and husband"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Triumph of Victoria Manalo Draves",
+        "publisher": "AsianWeek (Rodel Rodis)",
+        "year": 2010,
+        "url": "http://web.archive.org/web/20160322213229/http://www.asianweek.com:80/2010/04/28/the-triumph-of-victoria-manalo-draves/",
+        "supports": "Birth date and parents, Franklin/Bessie Carmichael school, Fairmont name change and exclusion, marriage 1946, 1948 double gold, park on her school site (2005), her visit, 2010 death"
+      },
+      {
+        "title": "History & Living Legacy",
+        "publisher": "SOMA Pilipinas Filipino Cultural Heritage District",
+        "year": 2026,
+        "url": "https://www.somapilipinas.org/history",
+        "supports": "Community push for open space at old Bessie Carmichael site; park debuts 2006 with the namesake present; 1948 gold medals"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-bindlestiff-studio",
+    "title": "A Filipino Stage in a Sixth Street Basement",
+    "theme": "arts-counterculture",
+    "year": 2011,
+    "yearEnd": null,
+    "place": {
+      "label": "Bindlestiff Studio, 185 Sixth Street",
+      "lat": 37.779989509063235,
+      "lon": -122.40724776939236,
+      "precision": "building"
+    },
+    "hook": "When redevelopment took their theater, Filipino American artists refused to disappear. They came back to the same address, one floor down.",
+    "story": "Bindlestiff Studio was founded in 1989 by Chrystene Ells, Chris Brophy and a group of local theatre artists as an experimental space in the Plaza Hotel at Sixth and Howard [1][2]. In the late 1990s Filipino artists took it over. The studio's own history credits Allan S. Manalo of the company \"tongue in A mood\", who became artistic director in 1997. Community historians date the Filipino management to 1998, the year the PinoisePop music festival was held there [1][2]. It became known as the centre of Filipino American performing arts in the Bay Area [1][2]. Then the Redevelopment Agency bought the Plaza Hotel for low-cost housing. The accounts give 2000 and 2003 for different stages of the takeover, and the theatre was lost [1][2]. After a public outcry the agency agreed to build the shell of a new 99-seat black-box theatre in the basement of the rebuilt housing. After delays and negotiations the new Bindlestiff opened on September 15, 2011, back at 185 Sixth Street. In its first three months it staged four full productions for more than 2,100 people [1]. It calls itself the nation's only permanent community-based venue dedicated to Filipino American performers [1].",
+    "people": [
+      {
+        "name": "Allan S. Manalo",
+        "role": "Artistic and managing director from 1997"
+      },
+      {
+        "name": "Chrystene Ells",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Chris Brophy",
+        "role": "Co-founder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "About Us: Our History",
+        "publisher": "Bindlestiff Studio",
+        "year": 2026,
+        "url": "https://www.bindlestiffstudio.org/about",
+        "supports": "1989 founding and founders, Manalo 1997, loss to SFRA (2003), 99-seat basement theater, Sept. 15, 2011 reopening, first-season figures, 185 Sixth St"
+      },
+      {
+        "title": "History & Living Legacy",
+        "publisher": "SOMA Pilipinas Filipino Cultural Heritage District",
+        "year": 2026,
+        "url": "https://www.somapilipinas.org/history",
+        "supports": "Filipino management at Plaza Hotel from 1998, PinoisePop, SFRA purchase of Plaza Hotel in 2000, 2011 reopening at 185 6th Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-twitter-tax-break",
+    "title": "The Furniture Mart That Became Twitter",
+    "theme": "modern-city",
+    "year": 2011,
+    "yearEnd": null,
+    "place": {
+      "label": "Market Square (former San Francisco Mart), 1355 Market Street",
+      "lat": 37.77712366052263,
+      "lon": -122.41646835660094,
+      "precision": "building"
+    },
+    "hook": "Twitter threatened to leave town. San Francisco answered with a payroll-tax break drawn around a nearly empty Art Deco furniture showroom on Market Street.",
+    "story": "In 2011 Twitter had about 400 employees, a home on Folsom Street and plans to grow to as many as 3,000. It told the city it might move to the Peninsula to escape San Francisco's payroll tax [1][2]. City leaders saw a chance to revive Mid-Market, where nearly one in three storefronts stood empty [2]. Their answer was a six-year break on payroll taxes for new jobs at companies that moved into the Central Market and Tenderloin area. Three days after the Board of Supervisors approved it, Twitter signed a lease on the old furniture mart at 1355 Market Street [1]. \"We were ready to go,\" Twitter's policy chief Colin Crowell later told TIME. \"Did not want to go\" [2]. Mayor Ed Lee said he was \"absolutely convinced\" Twitter would otherwise have left. He pointed to new cafés and apartments along a corridor that had been \"vacant and dark\" [2]. Critics called it the \"Twitter tax break\". \"Twitter held San Francisco hostage,\" said one housing advocate. By 2014 union members were chanting outside the headquarters, and some residents had nicknamed the area the \"Twitterloin\" [2].",
+    "people": [
+      {
+        "name": "Ed Lee",
+        "role": "Mayor of San Francisco"
+      },
+      {
+        "name": "Colin Crowell",
+        "role": "Twitter vice president of public policy"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Twitter signs lease for headquarters in Mid-Market",
+        "publisher": "San Francisco Chronicle / SFGate (Benny Evangelista)",
+        "year": 2011,
+        "url": "https://www.sfgate.com/business/article/twitter-signs-lease-for-headquarters-in-mid-market-2374112.php",
+        "supports": "Lease at 1355 Market three days after supervisors' vote, six-year payroll-tax break, 400 to 3,000 employees, threat to move to Peninsula, move from Folsom Street"
+      },
+      {
+        "title": "What The Twitter Tax Break Means For San Francisco",
+        "publisher": "TIME (Katy Steinmetz)",
+        "year": 2014,
+        "url": "https://time.com/14335/twitter-tax-break-san-francisco/",
+        "supports": "Backstory, vacancy rate, Crowell and Lee quotes, 'held San Francisco hostage', union protest, 'Twitterloin'"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-the-stud-co-op",
+    "title": "Drag Queens Buy the Oldest Queer Bar",
+    "theme": "lgbtq",
+    "year": 2016,
+    "yearEnd": 2020,
+    "place": {
+      "label": "The Stud (1987-2020), 399 Ninth Street at Harrison",
+      "lat": 37.77281384250003,
+      "lon": -122.40998354705862,
+      "precision": "building"
+    },
+    "hook": "Facing a doubled rent and a condo tower next door, San Francisco's oldest queer bar was saved by a co-op of drag queens, DJs and nightlife people.",
+    "story": "The Stud opened in 1966 on Folsom Street and moved in 1987 to 399 Ninth Street, a kitsch-cluttered room at Ninth and Harrison [1][2]. It welcomed people other gay bars turned away. \"Hair fairies, leather daddies - everyone was there on the dance floor,\" co-owner Honey Mahogany said. Sylvester, Patrick Cowley and Lady Gaga all passed through [2][1]. In 2016 a new landlord raised the rent to $9,000 a month, more than double what owner Michael McElhaney had paid. A huge condo complex was rising next door, and McElhaney planned to sell [3]. Drag performer VivvyAnne ForeverMore (Mica Sigourney) sent out a call to nightlife leaders. A 15-member co-op formed, including Honey Mahogany, DJ Siobhan Aluvalot and promoter Kelly Lovemonster, and raised the money to buy the business [3]. The co-op survived the rent but not the pandemic. In May 2020, with bars shut by COVID-19, it announced it would leave Ninth Street and planned a virtual \"drag funeral\" [1][2]. \"It survived the AIDS epidemic,\" ForeverMore said, \"and now it's the COVID pandemic that's forcing us to close\" [2].",
+    "people": [
+      {
+        "name": "Honey Mahogany",
+        "role": "Drag performer and co-op member"
+      },
+      {
+        "name": "VivvyAnne ForeverMore (Mica Sigourney)",
+        "role": "Co-op organiser"
+      },
+      {
+        "name": "Michael McElhaney",
+        "role": "Owner who sold to the co-op"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Stud to permanently close its SoMa bar location due to coronavirus losses",
+        "publisher": "San Francisco Chronicle (Ryan Kost)",
+        "year": 2020,
+        "url": "https://www.sfchronicle.com/bayarea/article/The-Stud-to-permanently-close-after-54-years-due-15284899.php",
+        "supports": "399 Ninth St home since 1987, move from Folsom Street, performers, closure plan, drag funeral"
+      },
+      {
+        "title": "The Oldest Queer Bar In San Francisco Closes Its Doors",
+        "publisher": "NPR / KQED (Holly J. McDede)",
+        "year": 2020,
+        "url": "https://www.npr.org/2020/05/22/861202518/the-oldest-queer-bar-in-san-francisco-closes-its-doors",
+        "supports": "1966 opening, Mahogany and ForeverMore quotes, Sylvester/Cowley/Lady Gaga, 2016 collective purchase, pandemic closure"
+      },
+      {
+        "title": "The Stud Is Saved, For Now, As 15-Member Co-Op Secures Funds To Purchase Historic Club",
+        "publisher": "SFist (Jay Barmann)",
+        "year": 2016,
+        "url": "https://sfist.com/2016/08/04/the_stud_is_saved_for_now_as_15-mem/",
+        "supports": "$9,000 rent, doubled, condo complex next door, McElhaney sale, Sigourney's call, co-op members"
+      }
+    ],
+    "photo": null
+  }
+]

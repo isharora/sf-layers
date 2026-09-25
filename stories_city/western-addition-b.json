@@ -1,0 +1,605 @@
+[
+ {
+  "id": "western-addition-geary-expressway-trench",
+  "title": "The eight-lane trench through the Fillmore",
+  "theme": "civil-rights",
+  "year": 1960,
+  "yearEnd": null,
+  "place": {
+   "label": "Geary Boulevard underpass at Fillmore Street",
+   "lat": 37.78425,
+   "lon": -122.432,
+   "precision": "street"
+  },
+  "hook": "In 1960 the city tore up Geary Boulevard and sank it into a trench. Neighbours say it became a wall between two communities.",
+  "story": "Before the 1960s, Geary was an ordinary street where the Black Fillmore and Japanese American Nihonmachi met. Then the Redevelopment Agency's A-1 project arrived. Carol Cuenod writes that families and businesses were removed by eminent domain and whole blocks bulldozed, and that the first job in the cleared zone was to widen Geary into an eight-lane expressway, with tunnels under Fillmore Street and Presidio/Masonic, to rush traffic out to the Richmond [2]. Gary Kamiya dates the start to 1960, when 'Geary Boulevard was demolished and work began on the enormous Geary Expressway' [1]. For years the cleared land lay empty, and the displaced scattered [2]. Kamiya calls the result 'an ugly gash', built partly to carry shoppers to department stores on Masonic that no longer exist, and 'a Berlin Wall separating blacks and Japanese Americans' [1]. Redevelopment chief Justin Herman had warned that without housing for the poor, urban renewal would rightly be condemned as 'a land-grab for the rich' [1]. By 1967 residents had formed the Western Addition Community Organization to picket the agency and block bulldozers [1]. The dip that still carries traffic under Fillmore Street is part of that expressway [1][2].",
+  "people": [
+   {
+    "name": "Justin Herman",
+    "role": "Executive director, SF Redevelopment Agency"
+   },
+   {
+    "name": "Hannibal Williams",
+    "role": "WACO leader"
+   },
+   {
+    "name": "Yori Wada",
+    "role": "WACO leader"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Western Addition: A Basic History (excerpt from Gary Kamiya, Cool Gray City of Love)",
+    "publisher": "FoundSF",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=Western_Addition:_A_Basic_History",
+    "supports": "Geary Boulevard demolished in 1960 for the expressway; 'Berlin Wall' between Black and Japanese American communities; Justin Herman quote; WACO 1967"
+   },
+   {
+    "title": "Redevelopment A-1 and Origin of St. Francis Square",
+    "publisher": "FoundSF (Carol Cuenod)",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Redevelopment_A-1_and_Origin_of_St._Francis_Square",
+    "supports": "A-1 clearance, eight-lane Geary with tunnels under Fillmore and Masonic, 'Cathedral Hill' luxury towers, ILWU-PMA sponsorship, Goldblatt quotes, co-op prices, 1963 dedication and Bridges quote"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-jack-tar-hotel",
+  "title": "The box Disneyland came in",
+  "theme": "architecture-landmarks",
+  "year": 1960,
+  "yearEnd": 2009,
+  "place": {
+   "label": "Jack Tar Hotel (later Cathedral Hill Hotel), 1101 Van Ness Avenue at Geary",
+   "lat": 37.785497,
+   "lon": -122.421804,
+   "precision": "building"
+  },
+  "hook": "It promised 'the world's most modern hotel', with a rooftop ice rink and drive-up rooms. San Franciscans called it Texas' idea of Los Angeles.",
+  "story": "The Planning Commission approved it in under five minutes in 1958, and in spring 1960 the Jack Tar opened on a whole block of Van Ness between Geary and Post. Its owners hailed 'the world's most modern hotel'. It had 403 rooms, a 450-car garage and a 12-storey office block, and it was the first new hotel in the city in 30 years and the first with air conditioning [1]. Guests could drive almost to their doors, watch closed-circuit TV, swim, or skate on the roof [1]. San Franciscans hated its bright modernist skin. They called it 'the box Disneyland came in', 'the Wurlitzer Hilton' and 'Texas' idea of what Los Angeles looks like' [1]. The hotel was part of a chain named for the old slang for a sailor, and it had its moment on film in Coppola's The Conversation [1]. Renamed the Cathedral Hill Hotel in 1982, it burned the next year: two people died and 37 were hurt, and Mayor Dianne Feinstein called it 'total devastation' [1]. It was rebuilt, closed for good in 2009, and was briefly taken over by Occupy protesters before the wreckers arrived [1][2].",
+  "people": [
+   {
+    "name": "Heather David",
+    "role": "Mid-century architecture author who defended the building"
+   },
+   {
+    "name": "Dianne Feinstein",
+    "role": "Mayor at the time of the 1983 fire"
+   }
+  ],
+  "sources": [
+   {
+    "title": "End of line for S.F.'s infamous Jack Tar Hotel (Carl Nolte), archived",
+    "publisher": "San Francisco Chronicle / SFGATE",
+    "year": 2013,
+    "url": "https://web.archive.org/web/2014/http://www.sfgate.com/bayarea/article/End-of-line-for-S-F-s-infamous-Jack-Tar-Hotel-4992130.php",
+    "supports": "Approval, 1960 opening, slogans, nicknames, room and garage counts, rooftop rink, The Conversation, 1982 rename, 1983 fire, 2009 closure, Occupy, demolition"
+   },
+   {
+    "title": "Jack Tar to Mega-Hospital",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Jack_Tar_to_Mega-Hospital",
+    "supports": "Succession of Jack Tar, Cathedral Hill Hotel and the hospital on the block next to the old cathedral site"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-st-marys-cathedral-fire",
+  "title": "The night the Van Ness cathedral burned",
+  "theme": "communities",
+  "year": 1962,
+  "yearEnd": null,
+  "place": {
+   "label": "Site of the second St. Mary's Cathedral, Van Ness Avenue at O'Farrell Street (1001 Van Ness)",
+   "lat": 37.78493,
+   "lon": -122.421911,
+   "precision": "block"
+  },
+  "hook": "For 71 years a red-brick Gothic cathedral climbed steep stairs at Van Ness and O'Farrell. On a September night in 1962 it went up in flames.",
+  "story": "In May 1887 Catholics laid the cornerstone of San Francisco's second cathedral at the corner of Van Ness Avenue and O'Farrell Street, and after four years of building it was dedicated in January 1891 [1]. It was a red-brick Gothic Revival church with steep front stairs and a rose window [1]. Nearly two decades later, on 18 April 1906, firefighters trying to stop the post-earthquake fire set off dynamite a block away at O'Farrell and Van Ness [3]. On the evening of 7 September 1962, a huge fire destroyed the cathedral [1][2]. Archbishop Joseph McGucken first wanted to rebuild right there, in 'a modern, contemporary design, but not what most people call modernistic' [1]. Instead the corner was judged too small. After tense negotiations and land trades, the archdiocese got a new hilltop site at Gough and Geary, and KRON-TV got the old cathedral corner for its offices and studios [1]. A 1959 photograph looking up O'Farrell from Van Ness shows the brick cathedral with St. Mark's Lutheran on the hill behind it [3]. That is one of the last views of the corner before it became a TV station.",
+  "people": [
+   {
+    "name": "Joseph T. McGucken",
+    "role": "Archbishop of San Francisco"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A modern cathedral celebrates 45 years",
+    "publisher": "The New Fillmore (Bridget Maley)",
+    "year": 2016,
+    "url": "http://newfillmore.com/2016/04/29/a-modern-cathedral-celebrates-45-years/",
+    "supports": "1887 cornerstone, 1891 dedication, 7 Sept 1962 fire, McGucken quote, land swap giving KRON-TV the old site, architect controversy, Temko and Worship quotes, Tange comparison, travertine, Manfrini doors"
+   },
+   {
+    "title": "Cathedral of Saint Mary of the Assumption (archived history page)",
+    "publisher": "Archdiocese of San Francisco",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20080512074945/http://www.sfarchdiocese.org/about-us/cathedral-of-saint-mary-of-the-assumption/",
+    "supports": "Second cathedral on Van Ness built 1891, destroyed by fire 1962; 1965 groundbreaking, 1967 cornerstone, 1971 blessing; Nervi quote"
+   },
+   {
+    "title": "St. Mark's Lutheran Church",
+    "publisher": "FoundSF (Pastor Dan Buringrud)",
+    "year": 2025,
+    "url": "https://www.foundsf.org/index.php?title=St._Mark%E2%80%99s_Lutheran_Church",
+    "supports": "1906 dynamiting at O'Farrell and Van Ness; captioned OpenSFHistory photos of the old cathedral at O'Farrell and Van Ness, c. 1959"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-st-francis-square",
+  "title": "Longshoremen build a garden in the rubble",
+  "theme": "labor-industry",
+  "year": 1963,
+  "yearEnd": null,
+  "place": {
+   "label": "St. Francis Square Cooperative, Geary to O'Farrell between Laguna and Webster",
+   "lat": 37.784,
+   "lon": -122.43,
+   "precision": "block"
+  },
+  "hook": "Redevelopment had flattened the blocks. A dockworkers' pension fund bet it could build the West Coast's first racially integrated housing co-op there.",
+  "story": "By 1960, bulldozed land around Geary had sat empty for years, while developers planned luxury towers on a hill newly renamed 'Cathedral Hill' [1]. Lou Goldblatt, secretary-treasurer of the International Longshore and Warehouse Union, had another idea. 'There was no reason why the pension funds... should just be laying around being invested in high grade securities,' he recalled, when the money could 'build some low-cost housing' [1]. Justin Herman of the Redevelopment Agency offered three blocks for moderate-income garden apartments. The ILWU-PMA pension fund, shared by the union and the shipowners' Pacific Maritime Association, sponsored the project [1]. Built in 1962 and 1963, St. Francis Square had to fit what working families could pay: a $410 to $610 share, then $84 to $140 a month, with utilities and taxes included [1]. Two streets were closed to make a superblock. Twelve three-storey buildings by Marquis & Stoller surround three shared gardens by landscape architect Lawrence Halprin, designed around Jane Jacobs' 'eyes on the street' [2]. The Cultural Landscape Foundation calls it the first racially integrated housing cooperative on the West Coast [2]. At the 1963 dedication Harry Bridges credited Goldblatt as 'the man with the imagination and drive' [1].",
+  "people": [
+   {
+    "name": "Lou Goldblatt",
+    "role": "ILWU International Secretary-Treasurer"
+   },
+   {
+    "name": "Harry Bridges",
+    "role": "ILWU president"
+   },
+   {
+    "name": "Lawrence Halprin",
+    "role": "Landscape architect"
+   },
+   {
+    "name": "Claude Stoller",
+    "role": "Architect, Marquis & Stoller"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Redevelopment A-1 and Origin of St. Francis Square",
+    "publisher": "FoundSF (Carol Cuenod)",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Redevelopment_A-1_and_Origin_of_St._Francis_Square",
+    "supports": "A-1 clearance, eight-lane Geary with tunnels under Fillmore and Masonic, 'Cathedral Hill' luxury towers, ILWU-PMA sponsorship, Goldblatt quotes, co-op prices, 1963 dedication and Bridges quote"
+   },
+   {
+    "title": "St. Francis Square",
+    "publisher": "The Cultural Landscape Foundation",
+    "year": 2020,
+    "url": "https://www.tclf.org/landscapes/st-francis-square",
+    "supports": "Halprin with Marquis & Stoller, designed 1961, first racially integrated housing co-op on the West Coast, ILWU pension financing, superblock, 12 buildings, three courtyards, Jane Jacobs influence"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-lucky-shop-in",
+  "title": "Full carts, no sale: the Lucky shop-in",
+  "theme": "civil-rights",
+  "year": 1964,
+  "yearEnd": null,
+  "place": {
+   "label": "Former Lucky supermarket, 1201 Gough Street near Geary",
+   "lat": 37.78515,
+   "lon": -122.42475,
+   "precision": "block"
+  },
+  "hook": "Demonstrators filled their carts, waited at the till, then changed their minds. After a few days of it, the supermarket agreed to hire.",
+  "story": "In February 1964 the Congress of Racial Equality (CORE) put picket lines outside Lucky supermarkets. CORE had fought the chain over jobs for Black workers as far back as 1948, and an agreement the summer before had produced no new hires [1]. A week later CORE began something cleverer, the 'shop-in' [1]. A San Francisco Public Library photograph places one at the Lucky store at 1201 Gough Street, near Geary [2]. Everything the demonstrators did was legal. They piled their carts high, reached the checkout, and changed their minds, leaving cashiers with ringing registers and counters full of unwanted groceries [1]. Managers could not tell real customers from protesters, and real customers did not want to wait while every item went back on the shelves [1]. Jo Freeman, who took part in the Bay Area campaigns that year, writes that after a few days Mayor John Shelley brokered a deal: Lucky's parent company promised to hire at least sixty Black workers, and the shop-in ended [1]. The same week, pickets appeared outside the Sheraton-Palace Hotel. The 1964 season of Bay Area civil rights sit-ins had begun [1].",
+  "people": [
+   {
+    "name": "John F. Shelley",
+    "role": "Mayor of San Francisco"
+   },
+   {
+    "name": "Jo Freeman",
+    "role": "Participant and historian of the 1964 protests"
+   }
+  ],
+  "sources": [
+   {
+    "title": "From Freedom Now! to Free Speech: How the 1963-64 Bay Area Civil Rights Demonstrations Paved the Way to Campus Protest",
+    "publisher": "Jo Freeman (jofreeman.com)",
+    "year": 2004,
+    "url": "https://www.jofreeman.com/sixtiesprotest/baycivil.htm",
+    "supports": "Lucky shop-in tactics and 60-job agreement; Auto Row arrests of 107 (14 March) and 226 (11 April), NAACP hiring goal, 17 April Lincoln-Mercury settlement, last-minute pledges"
+   },
+   {
+    "title": "Freedom Now! to Free Speech (reposted with photos)",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Freedom_Now!_to_Free_Speech:_How_the_1963-64_Bay_Area_Civil_Rights_Demonstrations_Paved_the_Way_to_Campus_Protest",
+    "supports": "SFPL photo caption placing a 1964 CORE shop-in at the Lucky store at 1201 Gough Street; photo of Cadillac pickets on Van Ness"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-auto-row-sit-ins",
+  "title": "Sitting in on Auto Row",
+  "theme": "civil-rights",
+  "year": 1964,
+  "yearEnd": null,
+  "place": {
+   "label": "Van Ness Avenue 'Auto Row' at O'Farrell Street",
+   "lat": 37.7845,
+   "lon": -122.42135,
+   "precision": "street"
+  },
+  "hook": "In spring 1964 hundreds of people were arrested in Van Ness car showrooms, all over one question: who got to sell the Cadillacs?",
+  "story": "By the 1920s, Van Ness Avenue was San Francisco's Auto Row. There was a Don Lee Cadillac showroom at O'Farrell, and dealers lined the avenue [2]. In 1964 it became a civil rights battleground over who could work in those showrooms [2]. On 14 March, 107 people were arrested in front of the Cadillac agency [1]. The dealers insisted in a published 'Declaration of Policy' that they already hired fairly. The NAACP asked them to commit to '16 to 30 percent employment of minority group persons' in future openings [1]. When they refused, sit-ins resumed on 11 April and 226 were arrested [1]. Jo Freeman, one of those arrested, writes that the Auto Row protesters were older and far more often Black than those at the Sheraton-Palace sit-ins, though newspapers called them 'predominantly white' [1]. The Lincoln-Mercury dealer hit hardest settled on 17 April [1]. On Saturday 18 April thousands massed on Auto Row ready to go in again, and a sit-in was called off at the last minute when both sides made pledges to the Mayor's Interim Committee on Human Relations [1]. A 1964 photograph shows the crowd cheering the settlement [2].",
+  "people": [
+   {
+    "name": "Jo Freeman",
+    "role": "Arrested protester and historian"
+   },
+   {
+    "name": "Bill Bradley",
+    "role": "Protest organiser quoted promising 2,000 demonstrators"
+   }
+  ],
+  "sources": [
+   {
+    "title": "From Freedom Now! to Free Speech: How the 1963-64 Bay Area Civil Rights Demonstrations Paved the Way to Campus Protest",
+    "publisher": "Jo Freeman (jofreeman.com)",
+    "year": 2004,
+    "url": "https://www.jofreeman.com/sixtiesprotest/baycivil.htm",
+    "supports": "Lucky shop-in tactics and 60-job agreement; Auto Row arrests of 107 (14 March) and 226 (11 April), NAACP hiring goal, 17 April Lincoln-Mercury settlement, last-minute pledges"
+   },
+   {
+    "title": "Auto Row on Van Ness",
+    "publisher": "FoundSF",
+    "year": 2016,
+    "url": "https://www.foundsf.org/index.php?title=Auto_Row_on_Van_Ness",
+    "supports": "Auto Row history, Don Lee Cadillac at Van Ness and O'Farrell, the civil rights hiring campaign against dealers, 1964 settlement photo"
+   },
+   {
+    "title": "Freedom Now! to Free Speech (reposted with photos)",
+    "publisher": "FoundSF",
+    "year": 2014,
+    "url": "https://www.foundsf.org/index.php?title=Freedom_Now!_to_Free_Speech:_How_the_1963-64_Bay_Area_Civil_Rights_Demonstrations_Paved_the_Way_to_Campus_Protest",
+    "supports": "SFPL photo caption placing a 1964 CORE shop-in at the Lucky store at 1201 Gough Street; photo of Cadillac pickets on Van Ness"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-graham-fillmore",
+  "title": "Light shows upstairs at Geary and Fillmore",
+  "theme": "arts-counterculture",
+  "year": 1965,
+  "yearEnd": 1968,
+  "place": {
+   "label": "Fillmore Auditorium, 1805 Geary Boulevard",
+   "lat": 37.784091,
+   "lon": -122.433133,
+   "precision": "building"
+  },
+  "hook": "A Mime Troupe benefit in a Black promoter's dance hall turned a brick ballroom into the world capital of psychedelic rock, for just two and a half years.",
+  "story": "On 10 December 1965, the San Francisco Mime Troupe held its second Appeal Party at the Fillmore Auditorium. A band that had just renamed itself from the Warlocks debuted there as the Grateful Dead, alongside Jefferson Airplane and the John Handy Quintet [1]. The venue was operated by Charles Sullivan, a Black concert promoter with a nightlife empire in the Fillmore district [2]. The young man behind the benefits, Bill Graham, stayed on: by February 1966 'Bill Graham presented' Jefferson Airplane at 1805 Geary [1]. That August, days after Sullivan was found shot dead in a killing that was never solved, a young, mostly white crowd queued upstairs for Sam the Sham [2]. Graham ran the Fillmore for about two and a half years, and 'the Fillmore Sound' came to mean the San Francisco Sound [2]. Historian Rickey Vincent notes how the story is usually told as if the Fillmore began in 1966. Longtime resident Danny Duncan put it plainly: 'African Americans — we used the Fillmore Auditorium before Bill Graham took it' [2]. Graham died in a helicopter crash before the hall reopened in 1994. The Fillmore still hands out his apples [2].",
+  "people": [
+   {
+    "name": "Bill Graham",
+    "role": "Promoter"
+   },
+   {
+    "name": "Charles Sullivan",
+    "role": "Promoter who held the hall's lease"
+   },
+   {
+    "name": "Grateful Dead",
+    "role": "Band"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Chronology of San Francisco Rock 1965-1969",
+    "publisher": "Museum of the City of San Francisco",
+    "year": 2000,
+    "url": "http://www.sfmuseum.org/hist1/rock.html",
+    "supports": "10 Dec 1965 Mime Troupe Appeal Party and Grateful Dead debut at the Fillmore; 4 Feb 1966 Graham presents Jefferson Airplane at 1805 Geary"
+   },
+   {
+    "title": "Without Charles Sullivan, There'd Be No Fillmore As We Know It (Sam Lefebvre)",
+    "publisher": "KQED",
+    "year": 2017,
+    "url": "https://www.kqed.org/arts/13414955/without-charles-sullivan-thered-be-no-fillmore-as-we-know-it",
+    "supports": "Sullivan's death and the Aug 1966 Graham show, two and a half years, Fillmore Sound, Vincent and Duncan quotes, 1994 reopening, apples"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-st-marys-cathedral-1971",
+  "title": "A concrete sail rises on Cathedral Hill",
+  "theme": "architecture-landmarks",
+  "year": 1971,
+  "yearEnd": null,
+  "place": {
+   "label": "Cathedral of St. Mary of the Assumption, 1111 Gough Street",
+   "lat": 37.784457,
+   "lon": -122.425412,
+   "precision": "building"
+  },
+  "hook": "Critics mocked the first designs as a camel mating a donkey. What rose on Cathedral Hill instead was a 190-foot concrete sail.",
+  "story": "When the archdiocese named three local architects for its new cathedral in April 1963, the Chronicle later recalled, the reaction was a stunned 'Who?' [1]. Critic Allen Temko fumed that McSweeney's name could not be linked to 'a single significant piece of modern architecture'. The editor of the liturgical magazine Worship said an early scheme looked like 'the effort of a camel and a donkey to mate' [1]. Archbishop McGucken brought in MIT dean Pietro Belluschi and the Roman engineer Pier Luigi Nervi [1][2]. Ground was broken in August 1965 and the building was blessed on 5 May 1971 [2]. It sits on a Redevelopment Agency site bounded by Gough, Geary, Ellis and Cleary Court. Before the first concrete was even poured, the archbishop was picketed and the project was attacked as 'an affront to the poor' [1]. The roof is made of hyperbolic paraboloids rising from a square to a cross, crowned by a 55-foot gold cross [1][3]. Critics said it copied Kenzo Tange's cathedral in Tokyo [1]. Nervi called it 'the first cathedral truly of our time' [2]. In 2007 local architects named it one of San Francisco's 25 best buildings [3].",
+  "people": [
+   {
+    "name": "Pier Luigi Nervi",
+    "role": "Engineer-architect"
+   },
+   {
+    "name": "Pietro Belluschi",
+    "role": "Architect"
+   },
+   {
+    "name": "Joseph T. McGucken",
+    "role": "Archbishop"
+   },
+   {
+    "name": "Allen Temko",
+    "role": "Architecture critic"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A modern cathedral celebrates 45 years",
+    "publisher": "The New Fillmore (Bridget Maley)",
+    "year": 2016,
+    "url": "http://newfillmore.com/2016/04/29/a-modern-cathedral-celebrates-45-years/",
+    "supports": "1887 cornerstone, 1891 dedication, 7 Sept 1962 fire, McGucken quote, land swap giving KRON-TV the old site, architect controversy, Temko and Worship quotes, Tange comparison, travertine, Manfrini doors"
+   },
+   {
+    "title": "Cathedral of Saint Mary of the Assumption (archived history page)",
+    "publisher": "Archdiocese of San Francisco",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20080512074945/http://www.sfarchdiocese.org/about-us/cathedral-of-saint-mary-of-the-assumption/",
+    "supports": "Second cathedral on Van Ness built 1891, destroyed by fire 1962; 1965 groundbreaking, 1967 cornerstone, 1971 blessing; Nervi quote"
+   },
+   {
+    "title": "Building of the month: Cathedral of St. Mary of the Assumption, San Francisco (Wendy Akers)",
+    "publisher": "The Twentieth Century Society",
+    "year": 2017,
+    "url": "https://c20society.org.uk/botm/cathedral-of-st-mary-of-the-assumption-san-francisco/",
+    "supports": "Design team, dimensions (255 ft square, 190 ft high, 55 ft cross), Lippold sculpture, AIA top-25 listing in 2007"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-peoples-temple-geary",
+  "title": "The temple at 1859 Geary",
+  "theme": "communities",
+  "year": 1972,
+  "yearEnd": 1978,
+  "place": {
+   "label": "Peoples Temple, 1859 Geary Boulevard (now a post office)",
+   "lat": 37.783833,
+   "lon": -122.43372,
+   "precision": "building"
+  },
+  "hook": "An old Masonic temple beside the Fillmore became the headquarters of San Francisco's most politically powerful church, until Jonestown.",
+  "story": "In September 1972, Peoples Temple paid $125,000 for 1859 Geary Boulevard. The building had been a Scottish Rite Masonic temple and, briefly, a skills and education centre [1]. Jim Jones' church had been renting Benjamin Franklin Junior High at Geary and Scott for Sunday services. Over the next four years it moved its headquarters here from Redwood Valley [2]. Its preaching drew on the Black church tradition and appealed to working-class white and African American members, and the temple became known as the place to go if you wanted something done [2]. Assembly Speaker Willie Brown said that in a tight race you could 'forget it without Jones' [2]. In January 1977 the temple sent some 2,000 people to the protest against evictions at the International Hotel [3]. But from 1977 about a thousand members moved to the settlement in Guyana [2]. There, on 18 November 1978, Congressman Leo Ryan and members of his party were shot at an airstrip, and some 900 people died in the settlement [3]. The Geary building was later ravaged by an earthquake and demolished. A post office now stands on the site [3][4].",
+  "people": [
+   {
+    "name": "Jim Jones",
+    "role": "Peoples Temple leader"
+   },
+   {
+    "name": "Willie Brown",
+    "role": "California Assembly Speaker"
+   },
+   {
+    "name": "Leo Ryan",
+    "role": "U.S. Congressman killed in Guyana"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Peoples Temple Acquisition of Church Properties in San Francisco and Los Angeles",
+    "publisher": "Jonestown & Peoples Temple Digital Archive, SDSU Library",
+    "year": 2020,
+    "url": "https://jonestown.sdsu.edu/?page_id=94215",
+    "supports": "September 1972 purchase, $125,000, Scottish Rite and skills-centre history"
+   },
+   {
+    "title": "The Transformation of Peoples Temple in California (Rebecca Moore)",
+    "publisher": "Jonestown & Peoples Temple Digital Archive, SDSU Library",
+    "year": 2016,
+    "url": "https://jonestown.sdsu.edu/?page_id=61279",
+    "supports": "Ben Franklin Junior High rentals, 1972 Geary purchase, move of HQ, Willie Brown quote, Guyana migration"
+   },
+   {
+    "title": "Peoples Temple",
+    "publisher": "FoundSF (Chris Carlsson)",
+    "year": 2011,
+    "url": "https://www.foundsf.org/index.php?title=Peoples_Temple",
+    "supports": "I-Hotel rally turnout, 18 Nov 1978 events, vacant lot and later post office"
+   },
+   {
+    "title": "A Trace of Doubt in My Mind",
+    "publisher": "Jonestown & Peoples Temple Digital Archive, SDSU Library",
+    "year": 2011,
+    "url": "https://jonestown.sdsu.edu/?page_id=40252",
+    "supports": "Post office built on the site of the earthquake-damaged, demolished temple"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-st-marks-restored",
+  "title": "The Lutherans who stayed on the hill",
+  "theme": "communities",
+  "year": 1989,
+  "yearEnd": 2006,
+  "place": {
+   "label": "St. Mark's Lutheran Church, 1135 O'Farrell Street at Franklin",
+   "lat": 37.78418,
+   "lon": -122.423491,
+   "precision": "building"
+  },
+  "hook": "Redevelopment bulldozed the Victorians around it and a new cathedral dwarfed it. Then the 1989 quake cracked the church. It took fifteen years to fix.",
+  "story": "St. Mark's has stood at O'Farrell and Franklin since 1895 [1]. NoeHill calls it the oldest Lutheran church in the West [2]. It survived 1906 when buildings a block away on Van Ness were dynamited [1][2]. Then came the 1960s. Redevelopment bulldozed hundreds of Western Addition Victorians, and the round Carillon Tower apartments rose next door [2]. A 1968 photograph shows the little church almost lost amid construction on Cathedral Hill, including the huge new St. Mary's, which locals nicknamed the 'Maytag' [1]. The congregation built too. In 1964 it began Martin Luther Tower, affordable housing for low-income people over 65 [1]. The 1989 Loma Prieta earthquake badly damaged the church. According to its pastor, it took 15 years of fundraising, engineering and architecture to retrofit it and restore the interior [1]. In June 2005 the congregation moved to the Urban Life Center auditorium next door to worship, and the church reopened in December 2006 [1]. Today St. Mark's calls itself a Reconciling in Christ and Sanctuary congregation, and it shelters 50 to 60 unhoused people for three weeks each winter [1].",
+  "people": [
+   {
+    "name": "Dan Buringrud",
+    "role": "Lead pastor and author of the church's history"
+   }
+  ],
+  "sources": [
+   {
+    "title": "St. Mark's Lutheran Church",
+    "publisher": "FoundSF (Pastor Dan Buringrud)",
+    "year": 2025,
+    "url": "https://www.foundsf.org/index.php?title=St._Mark%E2%80%99s_Lutheran_Church",
+    "supports": "1895 dedication, 1906, 1968 photo and 'Maytag' nickname, Martin Luther Tower 1964, Loma Prieta damage, 2005-2006 restoration, winter shelter"
+   },
+   {
+    "title": "San Francisco Landmark #41: Saint Mark's Lutheran Church",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2008,
+    "url": "http://noehill.com/sf/landmarks/sf041.asp",
+    "supports": "Oldest Lutheran church in the West, 1906 dynamiting, Carillon Tower and redevelopment clearance"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-st-paulus-free-farm",
+  "title": "From a burned church, a free farm",
+  "theme": "parks-nature",
+  "year": 1995,
+  "yearEnd": 2014,
+  "place": {
+   "label": "Site of St. Paulus Lutheran Church, Gough and Eddy streets (950 Gough)",
+   "lat": 37.78235,
+   "lon": -122.42405,
+   "precision": "block"
+  },
+  "hook": "A Gothic wooden church seen in Vertigo burned to the ground in 1995. Fifteen years later its empty lot was giving away thousands of pounds of vegetables.",
+  "story": "St. Paulus Lutheran Church, built of wood in 1893 at Gough and Eddy, was a city landmark and on the National Register. On 5 November 1995 it was destroyed by fire [1]. Readers of SocketSite still remembered that it appears in Hitchcock's Vertigo [2]. For years the corner stayed empty. Then in January 2010 the church lent a third of an acre to the Free Farm, which grew organic produce and gave it away. By September it had handed out more than 1,000 pounds [2]. Its founder, Dennis Rubenstein, known to everyone as Tree, also ran a Sunday Free Farm Stand in the Mission. He said the church had been a 'wonderful' landlord, and by late 2013 the farm had produced more than 10,000 pounds of food [3]. But 'the life of the farm was always considered temporary,' the church's pastor told Mission Local. The congregation, worshipping at a temporary site on Polk Street, planned to come back to the corner with new housing [3]. Tree went looking for a home for his 60-by-20-foot greenhouse [3]. In 2014 the church put the 950 Gough parcel on the market with plans for condos rising over a replacement church [4].",
+  "people": [
+   {
+    "name": "Dennis 'Tree' Rubenstein",
+    "role": "Founder of the Free Farm"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #116: Saint Paulus Lutheran Church",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2012,
+    "url": "http://noehill.com/sf/landmarks/sf116.asp",
+    "supports": "999 Eddy at Gough, built 1893 of wood, destroyed by fire 5 Nov 1995"
+   },
+   {
+    "title": "From The Flames Of St. Paulus The Free Farm Blooms",
+    "publisher": "SocketSite",
+    "year": 2010,
+    "url": "https://socketsite.com/archives/2010/09/free_farm_at_gough_and_eddy_in_full_bloom.html",
+    "supports": "Farm founded January 2010 on a 1/3-acre parcel loaned by the church, over 1,000 lb given away; Vertigo recollection"
+   },
+   {
+    "title": "Free Farm Must Close, Greenhouse Needs Home (Dorothy Atkins)",
+    "publisher": "Mission Local",
+    "year": 2013,
+    "url": "https://missionlocal.org/2013/11/free-farm-must-close-greenhouse-needs-home/",
+    "supports": "Tree, 'wonderful' landlord quote, 10,000 lb, greenhouse size, pastor's quote, temporary site on Polk, rebuild plans"
+   },
+   {
+    "title": "Church Selling Hayes Valley 'Farm' Site For Condos To Rise",
+    "publisher": "SocketSite",
+    "year": 2014,
+    "url": "http://www.socketsite.com/archives/2014/10/church-selling-hayes-valley-free-farm-site-condos-rise.html",
+    "supports": "950 Gough parcel listed in 2014 with plans for condos over a replacement church"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-cpmc-van-ness",
+  "title": "A quake-proof hospital replaces the hotel",
+  "theme": "modern-city",
+  "year": 2019,
+  "yearEnd": null,
+  "place": {
+   "label": "CPMC Van Ness Campus, 1101 Van Ness Avenue at Geary",
+   "lat": 37.78598,
+   "lon": -122.4214,
+   "precision": "building"
+  },
+  "hook": "On one March weekend in 2019, more than 200 patients were driven across town to a $2.1 billion hospital built where the Jack Tar once stood.",
+  "story": "California law requires every hospital in the state to meet strict seismic standards by 2030. For Sutter Health's California Pacific Medical Center, that meant replacing its old Pacific and California Street campuses [1]. After some fifteen years of planning and building, and a lot of argument about whether residents would lose services, the answer rose on the old Jack Tar Hotel block at Van Ness and Geary [1][2]. It is a $2.1 billion, 12-storey hospital that fills the whole block. It has 274 beds, all in private rooms, and a 10-storey medical office building next door [1]. About 119 floor-length panels filled with a viscous fluid are built into its frame to absorb shaking like shock absorbers. 'We know this building can withstand a 1906 quake, and possibly more,' a nursing executive told the Chronicle [1]. Over the weekend of 2 and 3 March 2019, more than 200 patients were moved in from the two old campuses, and the new emergency room opened at 7 a.m. on the Saturday [1]. Staff had rehearsed the move with colleagues playing patients. One nurse said of her old unit, 'it can be like a tomb with no windows' [1].",
+  "people": [
+   {
+    "name": "Erin Allday",
+    "role": "Chronicle health reporter"
+   }
+  ],
+  "sources": [
+   {
+    "title": "CPMC Van Ness hospital opens Saturday (Erin Allday), archived",
+    "publisher": "San Francisco Chronicle",
+    "year": 2019,
+    "url": "https://web.archive.org/web/2019/https://www.sfchronicle.com/health/article/CPMC-Van-Ness-hospital-opens-Saturday-13653944.php",
+    "supports": "Seismic law, cost, beds, storeys, dampers, quotes, patient move, ER opening time, rehearsals"
+   },
+   {
+    "title": "Jack Tar to Mega-Hospital",
+    "publisher": "FoundSF",
+    "year": 2020,
+    "url": "https://www.foundsf.org/index.php?title=Jack_Tar_to_Mega-Hospital",
+    "supports": "Hospital fills the entire block that the Jack Tar and Cathedral Hill hotels occupied for half a century"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "western-addition-geary-rapid",
+  "title": "Taming the Geary Expressway",
+  "theme": "modern-city",
+  "year": 2021,
+  "yearEnd": null,
+  "place": {
+   "label": "Geary Boulevard at Webster Street",
+   "lat": 37.78455,
+   "lon": -122.43005,
+   "precision": "street"
+  },
+  "hook": "Sixty years after an expressway split the Fillmore from Japantown, the city added crosswalks and bus lanes that it says help reconnect them.",
+  "story": "The city's own transit agency now puts it bluntly. When Geary was turned into an eight-lane expressway in the 1960s, 'vibrant Japanese and African American communities in the Western Addition were torn apart' [1]. The road was dangerous as well as divisive. The SFMTA says a person walking on Geary was eight times more likely to be in a serious collision than on the average San Francisco street [1]. Gary Kamiya called the old expressway 'an ugly gash' and a 'Berlin Wall' between Black and Japanese American San Francisco [2]. The Geary Rapid Project, a three-year rebuild of three miles from Market to Stanyan, was completed in fall 2021. It added bus lanes, new crosswalks, countdown signals, median refuges and sidewalk extensions, with the stated aim of 'calming the Geary Expressway and helping to reconnect long-divided communities' [1]. The agency reports that the 38 Geary became up to 18% faster and 37% more reliable [1].",
+  "people": [
+   {
+    "name": "Gary Kamiya",
+    "role": "Author, Cool Gray City of Love"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Geary Rapid Project",
+    "publisher": "San Francisco Municipal Transportation Agency",
+    "year": 2022,
+    "url": "https://www.sfmta.com/projects/geary-rapid-project",
+    "supports": "Completion in fall 2021, 1960s expressway history, collision statistic, improvements, travel time and reliability results"
+   },
+   {
+    "title": "Western Addition: A Basic History (excerpt from Gary Kamiya, Cool Gray City of Love)",
+    "publisher": "FoundSF",
+    "year": 2013,
+    "url": "https://www.foundsf.org/index.php?title=Western_Addition:_A_Basic_History",
+    "supports": "Geary Boulevard demolished in 1960 for the expressway; 'Berlin Wall' between Black and Japanese American communities; Justin Herman quote; WACO 1967"
+   }
+  ],
+  "photo": null
+ }
+]

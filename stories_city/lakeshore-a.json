@@ -1,0 +1,719 @@
+[
+  {
+    "id": "lakeshore-rancho-for-a-hundred-cattle",
+    "title": "A lake sold for a hundred cattle",
+    "theme": "indigenous-early",
+    "year": 1835,
+    "yearEnd": 1849,
+    "place": {
+      "label": "Rancho Laguna de la Merced, around Lake Merced",
+      "lat": 37.7185,
+      "lon": -122.4955,
+      "precision": "area"
+    },
+    "hook": "In 1837 the whole of Lake Merced and its 2,200 acres changed hands for 100 cattle and $25 worth of goods.",
+    "story": "Before anyone owned it, Lake Merced belonged to the Yelamu, who cut its tule reeds for boats and clothing and camped in the dunes to the west [1]. After the Franciscan missions were secularized, the Mexican governor José Castro granted about 2,200 acres around the lake to José Antonio Galindo in September 1835 [2][3]. The land was described at the time as worthless, and Galindo ran cattle on it for less than two years [3]. He then sold the entire rancho to Francisco de Haro, the first alcalde of the little port of Yerba Buena, for 100 cattle and goods worth $25 [2][3]. De Haro built a house at the south end of the lake but mostly lived nearer town, until his twin sons were killed during the Bear Flag Revolt of 1846. Grieving, he retired to Lake Merced and died there in 1849 [2][3]. His heirs would spend some fifteen years in American courts trying to prove the family owned what it had bought for a small herd [2].",
+    "people": [
+      {
+        "name": "José Antonio Galindo",
+        "role": "grantee of Rancho Laguna de la Merced"
+      },
+      {
+        "name": "Francisco de Haro",
+        "role": "first alcalde of Yerba Buena, bought the rancho"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Lake Merced: Native Wetland",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/lakemerced1.php",
+        "supports": "Yelamu use of the lake: tule reeds, dune camps"
+      },
+      {
+        "title": "San Francisco's Lake Merced: Rancho Days",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/lakemerced2.php",
+        "supports": "1835 grant, 2,200 acres, sale for 100 cattle and $25, de Haro's house, sons' deaths, death in 1849, heirs' legal fight"
+      },
+      {
+        "title": "The History of Human Use at Lake Merced",
+        "publisher": "San Francisco State University, Dept. of Geography (Marcellino & Jebens)",
+        "year": 2001,
+        "url": "https://web.archive.org/web/2019/http://online.sfsu.edu/bholzman/LakeMerced/landuse.htm",
+        "supports": "Grant by Gov. Castro, land described as worthless, sale price, de Haro retiring to the lake"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lakeshore-1852-lake-runs-to-sea",
+    "title": "The night the lake ran to sea",
+    "theme": "parks-nature",
+    "year": 1852,
+    "place": {
+      "label": "Dune barrier between Lake Merced and the ocean (near today's zoo)",
+      "lat": 37.7295,
+      "lon": -122.499,
+      "precision": "area"
+    },
+    "hook": "In November 1852 San Franciscans heard that Lake Merced was pouring through a fissure into the Pacific and might soon be empty.",
+    "story": "Lake Merced began, some three thousand years ago, as a lagoon with a channel to the Pacific. Into the nineteenth century a tail of the lake still wound from its northwest corner, across what is now the zoo, to Ocean Beach, and big storms or earthquakes sometimes broke the sand barrier open [1]. In late November 1852, after a reported earthquake, fissures opened between the lake and the ocean and the lake's water rushed out to sea. The Chronicle's informant said the water \"was still rushing out with great force, and that he had no doubt but that it would soon be emptied\" [1]. Accounts say the lake dropped around thirty feet [1]. The lake survived, refilled by springs. Modern geologists are not sure the quake was to blame: the U.S. Geological Survey notes that heavy rain overtopping or seeping through the natural embankment could equally explain the break [2]. The escape route was finally closed for good in 1895, when the Spring Valley Water Company built a 78-foot earthen dam across the gap [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "San Francisco's Lake Merced: Native Wetland",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/lakemerced1.php",
+        "supports": "Lagoon origins, channel through zoo site, 1852 event, Chronicle quote, 30-foot drop, 1895 dam"
+      },
+      {
+        "title": "Historic Ground Failures in Northern California Triggered by Earthquakes (Professional Paper 993)",
+        "publisher": "U.S. Geological Survey (Youd & Hoose)",
+        "year": 1978,
+        "url": "https://pubs.usgs.gov/pp/1978/pp0993/pp993_text.pdf",
+        "supports": "1852 fissures between Lake Merced and ocean; uncertainty whether quake or rain caused the break"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "lakeshore-lake-house-roadhouse",
+    "title": "Ten-pins, boats and a duel's rendezvous",
+    "theme": "gold-rush-victorian",
+    "year": 1854,
+    "yearEnd": 1859,
+    "place": {
+      "label": "Lake House roadhouse, east shore of Lake Merced (approximate)",
+      "lat": 37.7225,
+      "lon": -122.4905,
+      "precision": "area"
+    },
+    "hook": "The lake's first roadhouse promised sailing, quoits and the finest dinner in California. In 1859 it was where a senator's duel party gathered.",
+    "story": "The earliest pleasure resort at Lake Merced was humble: a one-story shanty with a kitchen and a bar, which de Haro's son-in-law Charles Brown moved in 1853 to the point where the lake's two big arms met [1]. In early 1854 P. L. White leased and enlarged it, aiming, one paper said, to give San Franciscans \"a resort second to none of the kind in the Atlantic States\" [1]. The Daily Alta promised visitors a lake, a boat, ten-pins, quoits and a swing, plus \"the finest dinner that is possible to provide in California\" [1]. In practice the crowd was mostly single men, \"sports\" and \"fast drivers\" out to race and drink [1]. In September 1859 the parties of Senator David Broderick and former Chief Justice David Terry met at the Lake House to choose their dueling ground; the articles of the duel named a farm adjoining the Lake House ranch [1][2]. Broderick was fatally shot at a ravine just across today's county line [2][3]. The old Lake House later ended up downtown, moved to Mission Street near 2nd, then to 7th and Bryant [1].",
+    "people": [
+      {
+        "name": "P. L. White",
+        "role": "lessee of the Lake House"
+      },
+      {
+        "name": "David C. Broderick",
+        "role": "U.S. senator killed in the 1859 duel"
+      },
+      {
+        "name": "David S. Terry",
+        "role": "former Chief Justice who shot him"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Lake Merced: Rancho Days",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/lakemerced2.php",
+        "supports": "Lake House origins, 1854 lease, Alta quote, clientele, duel parties gathering there, later moves downtown"
+      },
+      {
+        "title": "Streetwise: Guns and Golf",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2000,
+        "url": "https://www.outsidelands.org/sw4.php",
+        "supports": "Duel date and place in the articles (farm adjoining the Lake House ranch); duel ravine just outside the county line"
+      },
+      {
+        "title": "The History of Human Use at Lake Merced",
+        "publisher": "San Francisco State University, Dept. of Geography (Marcellino & Jebens)",
+        "year": 2001,
+        "url": "https://web.archive.org/web/2019/http://online.sfsu.edu/bholzman/LakeMerced/landuse.htm",
+        "supports": "Duel at the south end of Lake Merced; site now in San Mateo County"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lakeshore-ocean-house",
+    "title": "The Ocean House, respectable and not",
+    "theme": "gold-rush-victorian",
+    "year": 1854,
+    "yearEnd": 1882,
+    "place": {
+      "label": "Site of the Ocean House, now Lowell High School, 1101 Eucalyptus Dr",
+      "lat": 37.73068,
+      "lon": -122.48392,
+      "precision": "block"
+    },
+    "hook": "Where Lowell High students now study stood a towered roadhouse that one newspaper called \"an assignation house on a large scale.\"",
+    "story": "In 1854 Joseph W. Leavitt opened the Ocean House beside one of the Green brothers' ranches on the old Ocean Road north of the lake [1]. For its place and era it was grand: dining rooms, parlors and a billiard saloon, open second-floor balconies looking out over the lake and ocean, and an enclosed view tower on top. Around it stood cottages, stabling for a hundred horses and even a bowling alley [1]. It advertised itself to families, wealthy parties and \"invalids desiring to derive the benefit of the sea air,\" but its regulars were mostly men looking for a good time. When swindlers or robbers vanished from downtown, the police often found them drinking here [1]. In 1857 the Daily Globe called it \"an assignation house on a large scale,\" with servants trained to \"favor infamous enterprises\" [1]. From 1865 a racetrack stood across the road [1][2]. The Ocean House burned in the early 1880s; Carleton Watkins photographed it around 1870, and its site is roughly where Lowell High School stands today [1].",
+    "people": [
+      {
+        "name": "Joseph W. Leavitt",
+        "role": "proprietor of the Ocean House"
+      },
+      {
+        "name": "Carleton Watkins",
+        "role": "photographer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Lake Merced: Rancho Days",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/lakemerced2.php",
+        "supports": "Leavitt, 1854 opening, building description, clientele, Daily Globe quote, burning in early 1880s, Lowell High site"
+      },
+      {
+        "title": "Race Tracks of the West Side: The Ocean Course, 1865-1873",
+        "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/racetracks1.php",
+        "supports": "Ocean Course across the Ocean House Road from the Ocean House; roadhouse had a bowling alley"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lakeshore-alfred-green-vigilantes",
+    "title": "Kidnapped over a bundle of land papers",
+    "theme": "gold-rush-victorian",
+    "year": 1856,
+    "place": {
+      "label": "Green family lands north of Lake Merced, west of 19th Avenue",
+      "lat": 37.7275,
+      "lon": -122.479,
+      "precision": "area"
+    },
+    "hook": "Alfred Green said he had pueblo papers that could void the land claims of powerful men. The Vigilance Committee dragged him from his bed.",
+    "story": "In 1852 Alfred Green and several of his seven brothers settled north of Lake Merced, just west of today's 19th Avenue, claiming land by settler's preemption through a deal with de Haro's son-in-law [1]. Alfred had come west with Stevenson's New York Volunteers, served as a city alderman and married a Californian woman, Dolores Leyoreita [1]. The Greens were litigious and cantankerous, and defended their farm against rival claimants for years; one account says they built a metal-lined fort to hold it [1][2]. In 1856 Alfred claimed to hold old pueblo papers that would invalidate the titles of many powerful San Franciscans. The Vigilance Committee abducted him from his bed and imprisoned him [1]. He was released after promising to hand over the papers, which he said were hidden in a mine, and came home to a ransacked house and a mother and wife who had feared he'd been hanged. When he later produced papers for a ransom in coin, a deputy sheriff and constable grabbed at the bag outside the bank, and all parties walked to the sheriff's office clutching it [1]. Alfred went into exile in Mexico, returned, and died in San Francisco in 1899 [1].",
+    "people": [
+      {
+        "name": "Alfred Green",
+        "role": "settler and land claimant"
+      },
+      {
+        "name": "Dolores Leyoreita",
+        "role": "his wife"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Lake Merced: Rancho Days",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/lakemerced2.php",
+        "supports": "Green brothers' 1852 settlement, Alfred's background, 1856 Vigilance Committee abduction, ransom scene, exile, death in 1899"
+      },
+      {
+        "title": "The History of Human Use at Lake Merced",
+        "publisher": "San Francisco State University, Dept. of Geography (Marcellino & Jebens)",
+        "year": 2001,
+        "url": "https://web.archive.org/web/2019/http://online.sfsu.edu/bholzman/LakeMerced/landuse.htm",
+        "supports": "Green and other squatters built a metal-lined fort to defend their land"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "lakeshore-lakeville-that-never-was",
+    "title": "Lakeville, a suburb only on maps",
+    "theme": "gold-rush-victorian",
+    "year": 1864,
+    "place": {
+      "label": "East side of Lake Merced (projected 'Lakeville' tract)",
+      "lat": 37.719,
+      "lon": -122.485,
+      "precision": "area"
+    },
+    "hook": "In 1864 a speculator carved the east shore of Lake Merced into suburban lots. For twenty years 'Lakeville' existed only on maps.",
+    "story": "By the 1860s San Francisco speculators were eyeing every open acre, and in 1864 land auctioneer John Middleton tried to sell lots of 160 by 200 feet on the eastern side of Lake Merced for a new suburb he called \"Lakeville\" [1]. It was a colossal failure, in a district so remote that even its roadhouses struggled against the distance, the weather and competition from resorts closer to town [1]. Lakeville never got beyond paper, yet it kept appearing on maps of the city for the next twenty years; George Goddard's 1869 map shows the projected suburb on the east shore alongside the Lake House, Ocean House and racetrack [1]. By 1875, after land schemes, roadhouses and racing had all come and gone, the best business around the lake turned out to be growing potatoes [1]. The east shore stayed farmland until the twentieth century, when the Spring Valley Water Company began selling its holdings and developers took options on the cultivated fields [2]. Large-scale housing finally reached the east shore with Parkmerced, which opened in 1952 [3].",
+    "people": [
+      {
+        "name": "John Middleton",
+        "role": "land auctioneer and speculator"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Lake Merced: Rancho Days",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/lakemerced2.php",
+        "supports": "Middleton's 1864 Lakeville lots, failure, persistence on maps, Goddard 1869 map, potatoes by 1875"
+      },
+      {
+        "title": "San Francisco's Lake Merced: Spring Valley Water",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/lakemerced3.php",
+        "supports": "Spring Valley selling farm lands and developers taking options in the 1920s"
+      },
+      {
+        "title": "The History of Human Use at Lake Merced",
+        "publisher": "San Francisco State University, Dept. of Geography (Marcellino & Jebens)",
+        "year": 2001,
+        "url": "https://web.archive.org/web/2019/http://online.sfsu.edu/bholzman/LakeMerced/landuse.htm",
+        "supports": "Parkmerced opened 1952 on former Lake Merced lands"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "lakeshore-great-race-1873",
+    "title": "Old Thad and the Great Race",
+    "theme": "gold-rush-victorian",
+    "year": 1873,
+    "yearEnd": null,
+    "place": {
+      "label": "Southern edge of the Ocean Course racetrack site, along Eucalyptus Drive",
+      "lat": 37.7306,
+      "lon": -122.4858,
+      "precision": "area"
+    },
+    "hook": "Where quiet Lakeshore streets now curve, a California horse ran sixteen miles against Eastern rivals while the whole city bet on him.",
+    "story": "The Ocean Course, on 100 acres leased from the Green family, opened on 23 May 1865 before 8,000 fans, then a record crowd for California [1]. Mark Twain tried to go, but could only rent \"part of a horse\" for $240, and declined [2]. Its last hurrah came on 15 November 1873: the \"Great Race\" between California-raised Thad Stevens and Eastern horses, for $20,000 in gold [3]. The Chronicle estimated $150,000 had been bet in the week before [3]. Coachmen charged up to $40 for a one-way ride along the single dirt road [3]. The race was four heats of four miles each. Joe Daniels of Michigan took the first heat, True Blue the second, and in the third True Blue broke a fetlock [3]. \"Old Thad\" won the deciding heat by ten lengths [1]. Men threw their hats in the air and ladies waved handkerchiefs [1]. Accounts of the crowd vary, from about 20,000 to a remembered 40,000 [2][3]. The trip home, the Chronicle noted, produced many drunken smash-ups [3]. The track closed soon after, and the Gellert brothers' Lakeshore Park homes now cover it [3].",
+    "people": [
+      {
+        "name": "Thad Stevens (Thaddeus Stevens)",
+        "role": "California thoroughbred"
+      },
+      {
+        "name": "Mark Twain",
+        "role": "writer who wrote about missing the 1865 opening race"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Race Tracks of the West Side: The Ocean Course, 1865-1873",
+        "publisher": "Western Neighborhoods Project (Angus Macfarlane)",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/racetracks1.php",
+        "supports": "Track location and boundaries, Green lease, 1865 opening crowd, final heat, crowd reaction"
+      },
+      {
+        "title": "San Francisco's Lake Merced: Rancho Days",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/lakemerced2.php",
+        "supports": "Twain's 'part of a horse' quote, $20,000 purse, 40,000 remembered crowd"
+      },
+      {
+        "title": "Streetwise: The Great Race",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2000,
+        "url": "https://www.outsidelands.org/sw6.php",
+        "supports": "Date, purse, betting pools, coach fares, heat results, 20,000 crowd, smash-ups, Lakeshore Park site"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lakeshore-spring-valley-pumps",
+    "title": "The private company that drank the lake",
+    "theme": "labor-industry",
+    "year": 1868,
+    "yearEnd": 1930,
+    "place": {
+      "label": "Spring Valley 'City Pumps', east side of South Lake near Brotherhood Way",
+      "lat": 37.714,
+      "lon": -122.4855,
+      "precision": "block"
+    },
+    "hook": "For sixty years a private monopoly pumped Lake Merced into San Francisco's taps, and the city bought it back for almost $40 million.",
+    "story": "In 1868 the Spring Valley Water Works, already San Francisco's monopoly supplier, bought the water rights to Lake Merced for $150,000 [1][2]. From the 1870s it bought up almost 3,000 acres of surrounding watershed [2]. Its first pumps, on the north shore, were running by 1 October 1877 and could push 3.5 million gallons a day through 16,000 feet of iron pipe [2]. In 1877 the company drew 295 million gallons from the lake; by 1902 almost 1.8 billion gallons of Lake Merced water came out of city taps each year [2]. In 1891 it built City Pumps on the east side of South Lake, just west of where Brotherhood Way now meets Lake Merced Boulevard, and the station still moves city water today [2]. Spring Valley became the largest privately owned water utility in the country and a favourite target of reformers, and the city was often behind on its bills [2]. After years of lawsuits and failed bonds, voters approved buying it in 1928. On 2 March 1930 the treasurer handed over a check for $39,962,606.51, and 454 employees became city workers [2].",
+    "people": [
+      {
+        "name": "S. P. Eastman",
+        "role": "last president of Spring Valley Water Company"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The History of Human Use at Lake Merced",
+        "publisher": "San Francisco State University, Dept. of Geography (Marcellino & Jebens)",
+        "year": 2001,
+        "url": "https://web.archive.org/web/2019/http://online.sfsu.edu/bholzman/LakeMerced/landuse.htm",
+        "supports": "1868 purchase for $150,000; monopoly and litigation with the city"
+      },
+      {
+        "title": "San Francisco's Lake Merced: Spring Valley Water",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/lakemerced3.php",
+        "supports": "Watershed purchases, 1877 pumps and pipe, volumes drawn, City Pumps 1891 location, 1928 vote, 1930 check amount and employees"
+      },
+      {
+        "title": "A Short History of Lake Merced",
+        "publisher": "Western Neighborhoods Project (Tony Van Houten, via CalTrout)",
+        "year": 2004,
+        "url": "https://www.outsidelands.org/lake-merced.php",
+        "supports": "Water rights bought for $150,000 in 1868; city lawsuits over rates"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lakeshore-sea-lions-vs-carp",
+    "title": "Fourteen sea lions in the drinking water",
+    "theme": "parks-nature",
+    "year": 1891,
+    "yearEnd": 1896,
+    "place": {
+      "label": "North Lake, Lake Merced",
+      "lat": 37.729,
+      "lon": -122.496,
+      "precision": "area"
+    },
+    "hook": "To fix an algae problem they added carp. To fix the carp they added sea lions. Then came a fish from New York.",
+    "story": "In the 1890s algae blooms were fouling Lake Merced, then part of San Francisco's drinking supply [1]. Carp had been put in the lake, and one account says they were meant to eat the algae. As bottom feeders they churned up the lakebed instead, leaving the water muddy [1][2]. The Spring Valley Water Company tried nets and hooks and considered black powder. In 1891 it brought in fourteen sea lions [1]. \"Our seals [...] are destroying them by the thousands,\" said company president Charles Webb Howard [1]. One newspaper, as the Western Neighborhoods Project retells it, began its story with the news that fourteen sea lions were now swimming in the drinking water [2]. The sea lions did kill carp, but took one large bite from each fish's midsection and left the rest. Rotting half-carp drew gulls, whose droppings fouled the water further [1][2]. Next, 100,000 fry of muskellunge, a predatory pike from New York State, arrived by special train car [1]. By 1896 the lake was found to be essentially fish-free, the sea lions were removed, and pumping for the city was increased [1].",
+    "people": [
+      {
+        "name": "Charles Webb Howard",
+        "role": "president, Spring Valley Water Company"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Lake Merced: Spring Valley Water",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/lakemerced3.php",
+        "supports": "Algae, carp, black powder, fourteen sea lions in 1891, Howard quote, half-eaten carp and gulls, muskellunge, fish-free by 1896"
+      },
+      {
+        "title": "Outside Lands Podcast Episode 232: Sea Lions of Lake Merced",
+        "publisher": "Western Neighborhoods Project",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/podcast/WNP232_Sea_Lions_Lake_Merced",
+        "supports": "Carp said to have been added for algae; newspaper lede about sea lions in drinking water; carcasses and gulls"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lakeshore-ocean-shore-railroad-1906",
+    "title": "Three miles of railroad fall into the sea",
+    "theme": "quake1906",
+    "year": 1906,
+    "place": {
+      "label": "Coastal bluffs south of Lake Merced, Fort Funston",
+      "lat": 37.711,
+      "lon": -122.5015,
+      "precision": "area"
+    },
+    "hook": "On 18 April 1906 the new coast railroad's roadbed below Lake Merced was almost entirely wiped out by cliff landslides.",
+    "story": "In 1906 the Ocean Shore Railroad was building a line from San Francisco down the coast toward Santa Cruz, and its grade ran south from Lake Merced along the coastal bluffs to Mussel Rock [1][2]. The earthquake of 18 April hit while the line was still under construction. The U.S. Geological Survey later noted that the grade between Lake Merced and Mussel Rock \"was almost entirely destroyed for a distance of 3 mi\" by rockfalls and dry sand flows along the cliffs [1]. It counted this among the worst hillside-landslide damage of the disaster: \"3 mi (4.8 km) of the Ocean Shore Railroad was practically obliterated by landslides along the coastal bluffs south of San Francisco\" [1]. Around the lake itself, lateral spreads and slumps damaged embankments and bridges [1]. The quake and the company's money troubles meant the railroad was never completed. It ran as two separate pieces, San Francisco to Tunitas Glen and Swanton to Santa Cruz, until it closed in 1920 [2]. The same bluffs slid again in the 1957 Daly City earthquake [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Historic Ground Failures in Northern California Triggered by Earthquakes (Professional Paper 993)",
+        "publisher": "U.S. Geological Survey (Youd & Hoose)",
+        "year": 1978,
+        "url": "https://pubs.usgs.gov/pp/1978/pp0993/pp993_text.pdf",
+        "supports": "Ocean Shore grade between Lake Merced and Mussel Rock destroyed for 3 miles in 1906; lake-shore failures; 1957 slides"
+      },
+      {
+        "title": "Ocean Shore Railroad (pointer article)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Ocean_Shore_Railroad",
+        "supports": "Railroad never completed after 1906 quake and money troubles; two segments operated 1905-1920"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "lakeshore-merced-park-fair",
+    "title": "The world's fair that almost came here",
+    "theme": "architecture-landmarks",
+    "year": 1911,
+    "place": {
+      "label": "Proposed 'Merced Park' exposition: Venetian zone and miniature Panama Canal on today's zoo site",
+      "lat": 37.7312,
+      "lon": -122.5045,
+      "precision": "area"
+    },
+    "hook": "Before the 1915 world's fair went to the Marina, boosters drew up a Lake Merced version, with a miniature Panama Canal on the zoo site.",
+    "story": "After San Francisco won the 1915 Panama-Pacific International Exposition, the city fought over where to put it. \"There is hardly a section of San Francisco that has not many to do it reverence in asserting it to be the logical and only defensible place,\" the Chronicle wrote in March 1911 [1]. Harbor View, Golden Gate Park, the waterfront, the Bay View and Lake Merced all had boosters [1]. The Lake Merced Fair Site Association had civil engineer J. E. Pope draw up \"Merced Park.\" Its midway was nicknamed \"The Canal.\" Where the zoo now stands, a Venetian-themed zone held a Panama Canal in miniature. Grand courts and fountains filled the land south of Sloat Boulevard where Merced Manor and Lakeshore were later built, and a \"Tropical Orchard\" was planned for the foggy southwest corner [1]. It lost. Grading such a site would have been costly, few people lived nearby, and getting crowds out there depended on the Twin Peaks streetcar tunnel, which didn't open until 1918 [1]. By the time President Taft broke ground in October 1911, Lake Merced was out, and the fair went to the Marina [1].",
+    "people": [
+      {
+        "name": "J. E. Pope",
+        "role": "civil engineer who drew the Merced Park plan"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Lake Merced Fair that Could Have Been",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2017,
+        "url": "https://www.outsidelands.org/ppie-lakemerced.php",
+        "supports": "Site contest, Chronicle quote, Pope's Merced Park plan features, reasons it lost, Taft groundbreaking"
+      },
+      {
+        "title": "San Francisco's Lake Merced: Spring Valley Water",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/lakemerced3.php",
+        "supports": "Spring Valley later selling lake-area land; zoo site at Ocean Beach leased by city in 1920s"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "lakeshore-fort-funston-1917",
+    "title": "Guns on the dunes: Fort Funston",
+    "theme": "war-military",
+    "year": 1917,
+    "yearEnd": 1920,
+    "place": {
+      "label": "Fort Funston (former Lake Merced Military Reservation)",
+      "lat": 37.7145,
+      "lon": -122.502,
+      "precision": "area"
+    },
+    "hook": "The Army bought these dunes in 1900 and left them empty for seventeen years. World War I brought mortars from the Presidio.",
+    "story": "In December 1900 the federal government acquired about 45 acres of the sandy ridge between Lake Merced and the Pacific as the Lake Merced Military Reservation [1][2]. The Army had sued the Spring Valley Water Company for the land and paid $42,162 [3]. The plan was two mortar batteries, but nothing was built [1][2]. When the United States entered World War I in 1917, construction finally began. Battery Howe got four 12-inch mortars and Battery Bruff two 5-inch guns, both taken from older batteries at Fort Winfield Scott by the Presidio [1][2]. That year the reservation was expanded by about 150 acres to the south, and wooden buildings went up for the garrison [1]. It was renamed for Major General Frederick Funston, who died in 1917. He had commanded the Army troops in San Francisco after the 1906 earthquake [1][3]. Peace came quickly: Battery Bruff was disarmed in 1920, and the fort sat largely inactive until 1936 [1][3].",
+    "people": [
+      {
+        "name": "Frederick Funston",
+        "role": "Army general the fort was named after"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fort Funston",
+        "publisher": "FortWiki",
+        "year": 2024,
+        "url": "http://www.fortwiki.com/Fort_Funston",
+        "supports": "Established Dec 1900, 45 acres, 1917 construction of Howe and Bruff from Fort Winfield Scott, 150-acre expansion, Bruff disarmed 1920"
+      },
+      {
+        "title": "Fort Funston (pointer article)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Fort_Funston",
+        "supports": "1900 acquisition, weapons and origins, renaming after Funston's 1917 death"
+      },
+      {
+        "title": "The History of Human Use at Lake Merced",
+        "publisher": "San Francisco State University, Dept. of Geography (Marcellino & Jebens)",
+        "year": 2001,
+        "url": "https://web.archive.org/web/2019/http://online.sfsu.edu/bholzman/LakeMerced/landuse.htm",
+        "supports": "Army lawsuit and $42,162 purchase; renamed 1917; Funston commanded troops after 1906; inactive 1920-1936"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "lakeshore-harding-park-1925",
+    "title": "A golf course named for a dead president",
+    "theme": "parks-nature",
+    "year": 1925,
+    "place": {
+      "label": "Harding Park, 99 Harding Rd",
+      "lat": 37.72465,
+      "lon": -122.49356,
+      "precision": "building"
+    },
+    "hook": "President Harding died at the Palace Hotel in 1923. Two years later San Francisco opened a public course on Lake Merced's peninsula in his name.",
+    "story": "In 1923 the city leased about 170 acres of Spring Valley land between the north and south arms of Lake Merced for a municipal golf course [1]. That August, President Warren Harding, an avid golfer and a widely scorned leader, died at the Palace Hotel while visiting San Francisco [2]. The new course took his name. Willie Watson and Sam Whiting, who had built the courses at the neighbouring Olympic Club, agreed to design it for $300. Construction cost about $295,000 [2]. Harding Park opened on 18 July 1925, one of several big public recreation grounds the city acquired in the 1920s and '30s, a period when City Hall came to see its job as providing places for families to play [2][3]. The everyman course soon won national notice. It hosted the U.S. Amateur Public Links Championship in 1937 and 1956, and Byron Nelson won two events there in 1944 [2]. For many golfers who rode the bus across town, it was their first taste of a \"real\" course, with wide grass fairways lined by cypress [2].",
+    "people": [
+      {
+        "name": "Warren G. Harding",
+        "role": "U.S. president the course is named after"
+      },
+      {
+        "name": "Willie Watson",
+        "role": "course designer"
+      },
+      {
+        "name": "Sam Whiting",
+        "role": "course designer and builder"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Lake Merced: Spring Valley Water",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2019,
+        "url": "https://www.outsidelands.org/lakemerced3.php",
+        "supports": "1923 lease of 170 acres between the lake's arms for Harding Park"
+      },
+      {
+        "title": "Reinventing Harding Park",
+        "publisher": "San Francisco Chronicle (Ron Kroichick)",
+        "year": 2005,
+        "url": "https://web.archive.org/web/20060113122558/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/02/CMGB3EFJLM1.DTL",
+        "supports": "Opening date, Harding's death at the Palace Hotel, designers' $300 fee, cost, tournaments, cypress fairways"
+      },
+      {
+        "title": "National Register nomination: Delia Fleishhacker Memorial Building",
+        "publisher": "National Park Service",
+        "year": 1979,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/79000529_text",
+        "supports": "Harding Golf Course among city recreation lands acquired 1920-1940"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "lakeshore-fleishhacker-pool",
+    "title": "The world's largest swimming tank",
+    "theme": "architecture-landmarks",
+    "year": 1925,
+    "place": {
+      "label": "Site of Fleishhacker Pool, now the zoo parking lot, Sloat Blvd and Great Highway",
+      "lat": 37.7345,
+      "lon": -122.5052,
+      "precision": "block"
+    },
+    "hook": "A thousand feet long, filled with six million gallons of seawater, and so big the lifeguards patrolled it in rowboats.",
+    "story": "In 1922 San Francisco bought sixty acres of beach south of Sloat Boulevard from the Spring Valley Water Company. Park Commission president Herbert Fleishhacker had a vision: a giant pool, playfields and a zoo [1][2]. Work began in spring 1923. Engineer Earl Clements planned the pool, and Ward & Blohme designed the Mediterranean-style bathhouse, with lockers for 800 swimmers and a small hospital [1]. It opened on 23 April 1925, billed as the \"world's largest swimming tank\" [1]. It was a thousand feet long and held some six million gallons of seawater; sources give its width as 150 or 100 feet [1][2]. Twelve to twenty-four lifeguards watched over it, some in rowboats [1]. The water was supposedly heated to seventy degrees, but everyone remembers the cold. Almost 60,000 people still jumped in during its first two months [1]. Lifeguard Billy Nichols once asked Fleishhacker why he built it so big. Fleishhacker told him to swim the length and back, then asked, \"Did anyone get in your way?\" No. \"That's why I did it\" [1]. It closed in 1971 and was buried for a parking lot [1].",
+    "people": [
+      {
+        "name": "Herbert Fleishhacker",
+        "role": "Park Commission president"
+      },
+      {
+        "name": "Earl Clements",
+        "role": "engineer"
+      },
+      {
+        "name": "Billy Nichols",
+        "role": "lifeguard"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Six Million Gallons (Fleishhacker Pool)",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/sw8.php",
+        "supports": "Land purchase, designers, opening date, dimensions, lifeguards, temperature, attendance, Nichols anecdote, closure"
+      },
+      {
+        "title": "National Register nomination: Delia Fleishhacker Memorial Building",
+        "publisher": "National Park Service",
+        "year": 1979,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/79000529_text",
+        "supports": "60 acres bought 1922-23; pool 1000 by 100 feet, 6,000,000 gallons, 10,000 bathers"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "lakeshore-mothers-building",
+    "title": "A clubhouse for mothers, boys over six barred",
+    "theme": "architecture-landmarks",
+    "year": 1925,
+    "place": {
+      "label": "Mothers Building (Delia Fleishhacker Memorial Building), San Francisco Zoo near Sloat Blvd",
+      "lat": 37.7336,
+      "lon": -122.5026,
+      "precision": "building"
+    },
+    "hook": "Two brothers built their late mother a memorial: a Tuscan-style lounge where mothers could rest. Boys over six were not allowed in.",
+    "story": "At their mother Delia's memorial service, Herbert and Mortimer Fleishhacker looked for a fitting tribute. A friend suggested a \"Mothers House\" for the new playfield going up beside the great pool [1]. The brothers gave about $50,000 for the building and a large wading pool [1][2], and architect George W. Kelham designed a single-room building in the style of Tuscany around 1500, fronted by an arched loggia, with Corinthian columns and a frieze of playing cherubs [1]. It was meant to be the \"finest of its kind in the United States\": a lounge for mothers with small children, with restrooms and a small kitchen. Boys over the age of six were specifically excluded [1]. Matrons helped the mothers, and tea and picnic lunches were served [1]. When the playfield opened on Labor Day weekend in 1925, the Chronicle admired its walnut settles, Italian-tiled tables and hangings in \"mulberry and thistle tones\" [1]. In the 1930s New Deal artists added mosaics and huge murals of Noah's Ark [1]. The pool and playfield are gone, but the Mothers Building still stands at the zoo [1][3].",
+    "people": [
+      {
+        "name": "Delia Fleishhacker",
+        "role": "the mother it honours"
+      },
+      {
+        "name": "Herbert and Mortimer Fleishhacker",
+        "role": "donors"
+      },
+      {
+        "name": "George W. Kelham",
+        "role": "architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register nomination: Delia Fleishhacker Memorial Building",
+        "publisher": "National Park Service",
+        "year": 1979,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/79000529_text",
+        "supports": "Origin at memorial service, Kelham design, style, purpose, boys over six excluded, matrons, 1925 Chronicle description, murals"
+      },
+      {
+        "title": "Streetwise: Six Million Gallons (Fleishhacker Pool)",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/sw8.php",
+        "supports": "Brothers donated $50,000 for the Mother's Building in memory of their mother"
+      },
+      {
+        "title": "San Francisco Zoo",
+        "publisher": "Western Neighborhoods Project (Nancy R. Chan, SF Zoo)",
+        "year": 2001,
+        "url": "https://www.outsidelands.org/sfzoo.php",
+        "supports": "Mother's Building (1925) preserved as historic icon at the zoo"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "lakeshore-fleishhacker-zoo-1929",
+    "title": "An animal dealer becomes zoo director",
+    "theme": "parks-nature",
+    "year": 1929,
+    "place": {
+      "label": "San Francisco Zoo (originally Fleishhacker Zoo), 1 Zoo Rd",
+      "lat": 37.73291,
+      "lon": -122.50324,
+      "precision": "area"
+    },
+    "hook": "San Francisco's zoo began in 1929 beside the giant pool, and its first director was the dealer who had sold it its animals.",
+    "story": "Herbert Fleishhacker's 1920s plan for the beach south of Sloat Boulevard always included a zoo alongside the pool and playfields [1]. In 1929 it was established as the Herbert Fleishhacker Zoo, named after the banker and Park Commission president who founded it [2][3]. Its first director was George Bistany, a former wild-animal collector and importer. He got the job after delivering many of the zoo's first animals himself that year [2]. The early zoo shared the site with the pool, the playfield and the Mothers Building [1][2]. After Bistany died in 1935, zoologist Edmund Heller took over and oversaw the Works Progress Administration project that built most of the zoo. By 1940 it had cost about $3.5 million and included the Lion House, bear grottos and Monkey Island [2]. The architects wanted fireproof, permanent buildings of reinforced concrete, and decades later crews renovating the elephant yards found concrete poured seven feet deep [2]. At Fleishhacker's own suggestion, the name became the San Francisco Zoological Gardens in 1941 [2].",
+    "people": [
+      {
+        "name": "George Bistany",
+        "role": "first zoo director and animal importer"
+      },
+      {
+        "name": "Herbert Fleishhacker",
+        "role": "founder"
+      },
+      {
+        "name": "Edmund Heller",
+        "role": "second director"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Six Million Gallons (Fleishhacker Pool)",
+        "publisher": "Western Neighborhoods Project (Woody LaBounty)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/sw8.php",
+        "supports": "Fleishhacker's vision of pool, playfields and zoo on the 1922 land"
+      },
+      {
+        "title": "San Francisco Zoo",
+        "publisher": "Western Neighborhoods Project (Nancy R. Chan, SF Zoo)",
+        "year": 2001,
+        "url": "https://www.outsidelands.org/sfzoo.php",
+        "supports": "Founded 1929, original name, Bistany, Heller, WPA build, $3.5 million, seven-foot concrete, 1941 renaming"
+      },
+      {
+        "title": "Zoo Fact Sheet",
+        "publisher": "San Francisco Zoological Society",
+        "year": 2011,
+        "url": "https://web.archive.org/web/20110928182414/http://www.sfzoo.org/openrosters/ViewOrgPageLink.asp?LinkKey=14092&orgkey=1903",
+        "supports": "Zoo founded in 1929, beside the Great Highway"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "id": "russian-hill-feusier-octagon",
+    "title": "The eight-sided house of gravel",
+    "theme": "architecture-landmarks",
+    "year": 1858,
+    "yearEnd": null,
+    "place": {
+      "label": "Feusier Octagon House, 1067 Green St",
+      "lat": 37.798255,
+      "lon": -122.416686,
+      "precision": "building"
+    },
+    "hook": "A New York phrenologist promised that eight walls would make you healthier. On a remote Russian Hill summit, someone believed him, and built the house that still stands.",
+    "story": "In the 1850s a craze swept America, launched by Orson Squire Fowler, a New York phrenologist who linked a person's well-being to the shape of their home. His book promised that an octagon would let sunlight into every room [1]. San Francisco had at least five octagon houses, and all but one stood on or near Russian Hill [1]. The Feusier Octagon on Green Street was built, as Fowler prescribed, of a mixture of lime or cement, gravel and clay, with no wooden skin [2]. No one knows exactly when. The National Register nomination estimates 1857 or 1858 and notes one claim of 1852 [2], while a later survey puts it about 1859, since it is missing from an 1859 map based on 1857 data [3]. At the time this hilltop was countryside, far from downtown and hard to reach [3]. Louis Feusier, a merchant in produce, mining, salmon canning and wine, owned it by 1875. He added the mansard third storey and the octagonal cupola [1]. In 1906 the outbuildings were dynamited, but residents who refused the order to leave saved the main house [1][3]. The family kept it until 1954 [1].",
+    "people": [
+      {
+        "name": "Orson Squire Fowler",
+        "role": "phrenologist who promoted octagon houses"
+      },
+      {
+        "name": "Louis Feusier",
+        "role": "merchant and owner from 1875"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #36: Feusier Octagon House",
+        "publisher": "NoeHill (adapting City Planning Commission Resolution 6633, 1970)",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf036.asp",
+        "supports": "Fowler fad, five octagons, Feusier's businesses, added storey, 1906 dynamiting, 1954 sale"
+      },
+      {
+        "title": "National Register nomination: Feusier Octagon House",
+        "publisher": "National Park Service",
+        "year": 1974,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/74000554_text",
+        "supports": "gravel-wall construction, 1857-58 date estimate, 1852 claim"
+      },
+      {
+        "title": "National Register nomination: Russian Hill/Paris Block Architectural District",
+        "publisher": "National Park Service (Anne Bloomfield)",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002288_text",
+        "supports": "c.1859 date, remote countryside, residents saving the block in 1906"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-francisco-reservoir",
+    "title": "A reservoir to water the Gold Rush",
+    "theme": "architecture-landmarks",
+    "year": 1859,
+    "yearEnd": 1861,
+    "place": {
+      "label": "Francisco Reservoir (now Francisco Park), Bay St between Hyde and Larkin",
+      "lat": 37.805,
+      "lon": -122.4203,
+      "precision": "block"
+    },
+    "hook": "Before Hetch Hetchy, North Beach drank water carried along the cliffs of the Golden Gate in a wooden flume and pumped up to a basin on Russian Hill.",
+    "story": "Gold Rush San Francisco had no running water to speak of. In 1857 John Bensley's San Francisco Water Company built the city's first permanent supply: a redwood flume that carried fresh water from Lobos Creek near the Golden Gate, along the shore, to a small pump station on the beach at Black Point Cove. From there, pumps pushed it up to reservoirs on Russian Hill [1]. The largest was the Francisco Reservoir on the slope between Hyde and Larkin, which held about 2.5 million gallons [2]. Sources disagree on when it was built. A local historian dates it to 1861 [2], while the park's own history says 1859 and calls it the first large reservoir in San Francisco [3]. They also differ on where the water came from: Lobos Creek in one account [1], Mountain Lake in another [3]. A reservoir keeper lived in a house at the corner of Hyde and Bay, which stood until 1950 [2]. The basin supplied the crowded northeast of the city, near the port where the Gold Rush arrived [3]. Long after it was retired, neighbours fought for decades to turn the site into today's Francisco Park [2].",
+    "people": [
+      {
+        "name": "John Bensley",
+        "role": "founder of the San Francisco Water Company"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Dream of Seven Decades: San Francisco's Aquatic Park",
+        "publisher": "James P. Delgado / National Park Service (Internet Archive)",
+        "year": null,
+        "url": "https://archive.org/details/ADreamOfSevenDecadesSanFranciscosAquaticPark",
+        "supports": "1857 Lobos Creek flume, pump station at Black Point Cove, reservoirs on Russian Hill"
+      },
+      {
+        "title": "Francisco Reservoir",
+        "publisher": "FoundSF (Catherine Accardi, The Semaphore)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Francisco_Reservoir",
+        "supports": "1861 construction, 2.5 million gallons, keeper's house at Hyde and Bay demolished 1950, later park campaign"
+      },
+      {
+        "title": "History",
+        "publisher": "Francisco Park Conservancy",
+        "year": null,
+        "url": "https://www.franciscopark.org/history",
+        "supports": "1859 date, first large reservoir, Mountain Lake water, service to the northeast corridor"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-pioneer-woolen-mill",
+    "title": "California's first woolen mill",
+    "theme": "labor-industry",
+    "year": 1860,
+    "yearEnd": 1889,
+    "place": {
+      "label": "Pioneer Woolen Mills site (now Ghirardelli Square), Beach and Larkin",
+      "lat": 37.80625,
+      "lon": -122.4223,
+      "precision": "block"
+    },
+    "hook": "Long before chocolate, the brick buildings above Aquatic Park held a smoking woolen mill staffed almost entirely by Chinese workers, until a racist campaign helped close it.",
+    "story": "In the late 1850s, while the water company was building its pump house on the beach at Black Point Cove, the firm of Heynemann, Pick and Company put up a large complex of wood and brick next door. It housed California's first woolen mill [1]. A photograph from about 1860 shows black smoke rising from the Pioneer Woolen Mills below Russian Hill [2]. In 1863 the mill moved into a new brick building [1]. The cove became the city's industrial fringe. In 1867 Thomas Henry Selby built a large smelter on its eastern shore, and the shoreline in front of the mill was filled to extend it into the bay [1]. The mill relied almost entirely on Chinese workers. According to the National Park Service historian James Delgado, it closed in 1889, 'victim of intense competition from eastern mills and racist anti-Chinese agitators' who had campaigned against that workforce [1]. The empty buildings did not stay empty. The D. Ghirardelli Company bought them in the 1890s. Delgado gives 1894 [1], the city landmark record 1893 [3].",
+    "people": [
+      {
+        "name": "Heynemann, Pick and Company",
+        "role": "mill owners"
+      },
+      {
+        "name": "Thomas Henry Selby",
+        "role": "smelter owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Dream of Seven Decades: San Francisco's Aquatic Park",
+        "publisher": "James P. Delgado / National Park Service (Internet Archive)",
+        "year": null,
+        "url": "https://archive.org/details/ADreamOfSevenDecadesSanFranciscosAquaticPark",
+        "supports": "first woolen mill, 1863 brick building, Selby smelter 1867, Chinese workforce, 1889 closure, purchase by Ghirardelli 1894"
+      },
+      {
+        "title": "Aquatic Park and Maritime Museum",
+        "publisher": "FoundSF (Dick Boyd)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Aquatic_Park_and_Maritime_Museum",
+        "supports": "1860 photo of the mill, mill dominating the area in 1867"
+      },
+      {
+        "title": "San Francisco Landmark #30: Ghirardelli Square",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf030.asp",
+        "supports": "Ghirardelli company purchase of the Pioneer Woolen Mill in 1893"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-ralston-last-swim",
+    "title": "The banker's last swim",
+    "theme": "gold-rush-victorian",
+    "year": 1875,
+    "yearEnd": null,
+    "place": {
+      "label": "Neptune Bath-house site, foot of Larkin St at Black Point Cove",
+      "lat": 37.807,
+      "lon": -122.4217,
+      "precision": "area"
+    },
+    "hook": "The day after his Bank of California collapsed, San Francisco's greatest financier went for his usual dip in the bay off Larkin Street, and never came out alive.",
+    "story": "In the 1870s Black Point Cove, now Aquatic Park, was a working-class bathing beach squeezed between a woolen mill and a lead smelter. The first formal bathhouse, Joseph Dunkley's 'Sea Baths', later known as the Neptune Bath-house, was a jumble of frame shacks at the foot of a sand cliff, reached by stairs from Beach Street. Swimmers took their towels and suits from a line strung along a rickety wharf [1]. The Neptune's most famous regular was William Chapman Ralston, founder of the Bank of California and the builder behind the Palace Hotel [2]. In August 1875 his financial empire collapsed and the bank closed its doors. On August 27 he went for his daily swim off the end of Larkin Street, in the shadow of the Selby smelter [3]. He was pulled from the water dead [1]. A coroner's jury ruled that he had overexerted himself and died of a pulmonary embolism, but many at the time believed he had chosen his favourite pastime as a way to die. Accounts still differ between a stroke and suicide [1][2]. About 50,000 people are said to have watched his funeral procession [2].",
+    "people": [
+      {
+        "name": "William Chapman Ralston",
+        "role": "founder of the Bank of California"
+      },
+      {
+        "name": "Joseph Dunkley",
+        "role": "proprietor of the Neptune Bath-house"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Dream of Seven Decades: San Francisco's Aquatic Park",
+        "publisher": "James P. Delgado / National Park Service (Internet Archive)",
+        "year": null,
+        "url": "https://archive.org/details/ADreamOfSevenDecadesSanFranciscosAquaticPark",
+        "supports": "Neptune Bath-house description, Ralston's final swim, coroner's verdict, suicide belief"
+      },
+      {
+        "title": "William Chapman Ralston",
+        "publisher": "Wikipedia (pointer to G.H. Smith, History of the Comstock Lode)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/William_Chapman_Ralston",
+        "supports": "Aug 27, 1875 death, stroke or suicide, funeral crowd"
+      },
+      {
+        "title": "William Ralston",
+        "publisher": "FoundSF (Ben Ratliff)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=William_Ralston",
+        "supports": "daily swim off the end of Larkin Street beside the Selby smelter after the bank closed"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-ghirardelli-chocolate",
+    "title": "Chocolate, mustard and a clock tower",
+    "theme": "architecture-landmarks",
+    "year": 1893,
+    "yearEnd": 1923,
+    "place": {
+      "label": "Ghirardelli Square, 900 North Point St",
+      "lat": 37.805533,
+      "lon": -122.423185,
+      "precision": "building"
+    },
+    "hook": "An Italian confectioner who once sold sweets to miners bought an old woolen mill and turned the waterfront into a chocolate factory. It came through 1906 almost untouched.",
+    "story": "Domenico Ghirardelli was born in Rapallo, Italy, in 1817 and trained as a candy maker. He ran a confectionery in Lima, Peru, next door to James Lick, who took 600 pounds of Ghirardelli's chocolate with him to San Francisco in 1847 [1][2]. Ghirardelli followed during the Gold Rush and sold sweets and supplies to miners in the Sierra foothills. Fire destroyed his first San Francisco store in 1851, and he started over [1]. In 1893 his company bought the old Pioneer Woolen Mill block at the foot of Russian Hill and moved its works there. Domenico died the next year while visiting Rapallo [1]. In 1900 the company built the Cocoa Building and sold off its coffee and spice lines to concentrate on chocolate and mustard. Every building survived the 1906 earthquake and fire, and business stopped for only a few days [1]. About a decade later came the Power House, an apartment building and the Clock Tower, modelled on the Château de Blois in France. In 1923 the Cocoa Building gained two storeys and the fifteen-foot sign that still greets anyone sailing the bay [1].",
+    "people": [
+      {
+        "name": "Domenico (Domingo) Ghirardelli",
+        "role": "chocolate maker"
+      },
+      {
+        "name": "James Lick",
+        "role": "Lima neighbour who brought his chocolate to San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #30: Ghirardelli Square",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf030.asp",
+        "supports": "biography, 1893 purchase, 1900 Cocoa Building, 1906 survival, clock tower, 1923 sign"
+      },
+      {
+        "title": "Domingo Ghirardelli",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Domingo_Ghirardelli",
+        "supports": "Lima, James Lick and the 600 lb of chocolate"
+      },
+      {
+        "title": "Ghirardelli Square",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Ghirardelli_Square",
+        "supports": "1893 purchase of the block, National Register listing"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-genoese-macondray",
+    "title": "The Genoese corner of the hill",
+    "theme": "communities",
+    "year": 1895,
+    "yearEnd": 1918,
+    "place": {
+      "label": "DeMartini House, 1809 Taylor St at Macondray Lane",
+      "lat": 37.799222,
+      "lon": -122.414211,
+      "precision": "building"
+    },
+    "hook": "Macondray Lane marked the highest reach of North Beach's Italians: home to a banker's adviser, a waiter turned painter and a glass-maker.",
+    "story": "Around 1900 the upper end of Macondray Lane was as far up Russian Hill as San Francisco's Italian community reached, and the Italians there were mostly from the Genoa area [1]. The grandest house belonged to Luigi DeMartini. He had come to America as an infant in 1856 and built a business supplying confectioners. In 1895 he commissioned the prominent firm of William Mooser and Son to design his Queen Anne house at 1809 Taylor Street. A. P. Giannini is said to have sought his advice when founding the Bank of Italy, later Bank of America, and persuaded him to invest early. His family stayed in the house for some 70 years, and it survived the 1906 fire [1]. Down the lane at 15–17 Macondray lived Giuseppe Cadenasso, who had risen from waiter at Coppa's, a bohemian restaurant, to landscape painter and head of art at Mills College. The National Register gives his birth year as 1858, other sources 1854 [1][2]. At number 68, Charles Bovone, who had arrived in 1884, made the curved glass for San Francisco's bay windows, including the one on his own 1908 house [1].",
+    "people": [
+      {
+        "name": "Luigi DeMartini",
+        "role": "confectioners' supplier, early Bank of Italy investor"
+      },
+      {
+        "name": "Giuseppe Cadenasso",
+        "role": "landscape painter"
+      },
+      {
+        "name": "Charles Bovone",
+        "role": "glass manufacturer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register nomination: Russian Hill/Macondray Lane District",
+        "publisher": "National Park Service (Anne Bloomfield)",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002286_text",
+        "supports": "Genoese settlement, DeMartini biography and house, Cadenasso at Coppa's and Mills, Bovone's glass"
+      },
+      {
+        "title": "Giuseppe Cadenasso",
+        "publisher": "Wikipedia (pointer to Hughes, Artists in California)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Giuseppe_Cadenasso",
+        "supports": "1854/1858 birth-year conflict, Mills College art department from 1902, died 1918"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-coolbrith-macondray",
+    "title": "A poet starts over on Macondray Lane",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": 1909,
+    "place": {
+      "label": "17 Macondray Lane",
+      "lat": 37.799204,
+      "lon": -122.414353,
+      "precision": "building"
+    },
+    "hook": "The fire of 1906 destroyed 3,000 of her books, letters from Mark Twain and her unfinished memoir. California's future poet laureate rebuilt her life a few steps away.",
+    "story": "Ina Coolbrith had been one of the Overland Monthly's 'Golden Gate Trinity' with Bret Harte and Charles Warren Stoddard. She was California's first public librarian and ran a literary salon [1]. On the morning of April 18, 1906, she left her house on Taylor Street carrying a pet cat, expecting to return. Her boarder and her companion saved only another cat, a few bundles of letters and her scrapbook [2]. Joaquin Miller crossed the bay to help rescue her treasures, but soldiers turned him back. The fire consumed her 3,000 books, signed first editions, paintings by William Keith, letters from Whittier and Mark Twain, and a nearly finished manuscript that was part memoir and part literary history of early California. She never wrote it again [2]. From 1907 to 1909 she lived at 17 Macondray Lane, in the woodsy enclave that had lost much of its housing to the fire [1][3]. Friends raised money for a new home: Twain sent signed photographs to sell, and Gertrude Atherton made up the shortfall from her own pocket [2]. In 1915 Coolbrith was named California's first poet laureate [2].",
+    "people": [
+      {
+        "name": "Ina Coolbrith",
+        "role": "poet, librarian, first California poet laureate"
+      },
+      {
+        "name": "Joaquin Miller",
+        "role": "poet and friend"
+      },
+      {
+        "name": "Gertrude Atherton",
+        "role": "novelist and benefactor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register nomination: Russian Hill/Vallejo Street Crest District",
+        "publisher": "National Park Service (Anne Bloomfield)",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002289_text",
+        "supports": "Coolbrith's residences: 1604 Taylor 1901-06 (burned), 17 Macondray Lane 1907-09, 1067 Broadway 1909-19; career summary"
+      },
+      {
+        "title": "Ina Coolbrith",
+        "publisher": "Wikipedia (pointer to Leider 1991 and George 2015)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Ina_Coolbrith",
+        "supports": "escape with cat, losses in the fire, Miller turned back, fundraising by Twain and Atherton, 1915 laureate"
+      },
+      {
+        "title": "National Register nomination: Russian Hill/Macondray Lane District",
+        "publisher": "National Park Service (Anne Bloomfield)",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002286_text",
+        "supports": "Coolbrith as a Macondray Lane resident; 1906 fire losses in the district"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-uss-chicago-evacuation",
+    "title": "Twenty thousand escape by sea",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Foot of Van Ness Avenue, Black Point Cove",
+      "lat": 37.8065,
+      "lon": -122.4237,
+      "precision": "area"
+    },
+    "hook": "As the fire reached Van Ness, a small party of sailors on the beach at its northern end organised what sfmuseum.org calls the largest evacuation by sea in history.",
+    "story": "On the evening of April 19, 1906, the fire reached Van Ness Avenue, and the army began dynamiting mansions along the street to make a firebreak [1]. The cruiser USS Chicago had arrived from San Diego at 6 p.m. that day [2]. With the city's telephone and telegraph systems destroyed, messages to the outside world went first through the Chicago's wireless [3]. The next day the waterfront at the foot of Van Ness, where the avenue meets Black Point Cove below Russian Hill, became an escape route. Sixteen enlisted men and two officers from the Chicago supervised the evacuation of 20,000 refugees fleeing the fire [1]. The Chicago and many other vessels carried them across the bay, many to Tiburon in Marin County [2]. The Museum of the City of San Francisco calls it the largest evacuation by sea in history, and probably as large as Dunkirk in the Second World War [1]. That is the museum's own comparison, not a precise count. By 5 a.m. on April 20 the fire had burned as far as Franklin Street, then tried to circle south [1].",
+    "people": [
+      {
+        "name": "Crew of USS Chicago",
+        "role": "naval evacuation party"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Timeline of the San Francisco Earthquake, April 18 - 23, 1906",
+        "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+        "year": null,
+        "url": "http://www.sfmuseum.org/hist10/06timeline.html",
+        "supports": "fire at Van Ness, dynamiting, 16 men and 2 officers, 20,000 refugees at the foot of Van Ness, Dunkirk comparison"
+      },
+      {
+        "title": "USS Chicago (1885)",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/USS_Chicago_(1885)",
+        "supports": "arrival 6 p.m. April 19, refugees to Tiburon"
+      },
+      {
+        "title": "When an American City Is Destroyed (Prologue, Spring 2006)",
+        "publisher": "U.S. National Archives",
+        "year": 2006,
+        "url": "https://www.archives.gov/publications/prologue/2006/spring/earthquake.html",
+        "supports": "messages routed through USS Chicago's wireless"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-engine-31-firehouse",
+    "title": "A firehouse built for downhill horses",
+    "theme": "quake1906",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "Engine House No. 31, 1088 Green St",
+      "lat": 37.798713,
+      "lon": -122.416959,
+      "precision": "building"
+    },
+    "hook": "After the 1906 fire destroyed half the city's firehouses, a new one went up on the ridge of Russian Hill, placed so its horses could gallop downhill in any direction.",
+    "story": "The 1906 fire destroyed 22 of San Francisco's 44 firehouses [1]. In October 1907 the city hired Newton J. Tharp as City Architect, at $4,000 a year, to rebuild its lost public buildings [1]. Tharp had once designed a cover for The Lark, the little literary magazine of 1890s Russian Hill [1]. His Engine House No. 31 on Green Street, finished in 1908, is the only Craftsman or Tudor Revival firehouse known to have been built in San Francisco. Its style suits the fine houses of the neighbouring 'Paris Block' [1][2]. The site was chosen with horses in mind: from the ridgetop the team could race downhill to a fire in any direction [1]. The horse era soon ended. On July 11, 1912, a motor fire engine beat a horse-drawn one in a test race, and the city committed to buying only motor engines [1]. Tharp did not see it. He died of pneumonia on a business trip to New York after only 18 months in the job, and his obituary praised him for putting 'his duty toward his city' ahead of his own health [1].",
+    "people": [
+      {
+        "name": "Newton J. Tharp",
+        "role": "City Architect 1907-1909"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register nomination: Russian Hill Firehouse (Engine House No. 31)",
+        "publisher": "National Park Service (Anne Bloomfield)",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002290_text",
+        "supports": "22 of 44 firehouses lost, Tharp appointment and salary, unique style, downhill horses, 1912 race, Tharp's death and obituary"
+      },
+      {
+        "title": "San Francisco Landmark #220: Engine Company No. 31",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf220.asp",
+        "supports": "address and 1908 construction date"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-black-point-cove-fight",
+    "title": "The fight to save Black Point Cove",
+    "theme": "parks-nature",
+    "year": 1914,
+    "yearEnd": null,
+    "place": {
+      "label": "Aquatic Park beach (Black Point Cove)",
+      "lat": 37.8072,
+      "lon": -122.4225,
+      "precision": "area"
+    },
+    "hook": "Buried under 15,000 truckloads of earthquake rubble and split by a railway trestle, the cove was nearly filled in. Working-class swimmers refused to let it go.",
+    "story": "Frederick Law Olmsted proposed a waterfront park at Black Point Cove in 1866, a 'sea-gate of the city', but industry and the army kept it from happening [1]. By the 1890s the German-speaking working men of the Dolphin, South End and Ariel rowing and swimming clubs, which began in the 1870s as turnvereins, had been pushed off the waterfront south of Market. By 1900 they had barged their clubhouses to the foot of Van Ness Avenue [1]. Then the cove was buried. After 1906 it was made a dump for the ruined city: 15,000 truckloads of broken brick, stone and burnt rubble covered the beach. In 1913 a Belt Line Railroad trestle was built across the cove for the coming Exposition, and the harbor commissioners pressed to fill it for factories [1]. The swimmers fought back. Voters turned down park bonds in 1909, and again in 1912, when a majority voted yes but fell short of the two-thirds required. On March 13, 1914, Supervisor McLaren's resolution to 'arrest this march of commercialism' passed and the fill permit was refused [1]. The park itself was only dedicated in 1939 [2].",
+    "people": [
+      {
+        "name": "Frederick Law Olmsted",
+        "role": "landscape architect"
+      },
+      {
+        "name": "Supervisor McLaren",
+        "role": "author of the 1914 resolution"
+      },
+      {
+        "name": "Dolphin, South End and Ariel club members",
+        "role": "swimmers and rowers"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Dream of Seven Decades: San Francisco's Aquatic Park",
+        "publisher": "James P. Delgado / National Park Service (Internet Archive)",
+        "year": null,
+        "url": "https://archive.org/details/ADreamOfSevenDecadesSanFranciscosAquaticPark",
+        "supports": "Olmsted 1866, clubs' origins and move, 1906 rubble, Belt Line trestle, bond votes, McLaren resolution"
+      },
+      {
+        "title": "Aquatic Park Historic Landmark District",
+        "publisher": "National Park Service",
+        "year": null,
+        "url": "https://www.nps.gov/safr/learn/historyculture/aquatic-park-historic-landmark-discrict.htm",
+        "supports": "1939 dedication of Aquatic Park"
+      },
+      {
+        "title": "Aquatic Park and Maritime Museum",
+        "publisher": "FoundSF (Dick Boyd)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Aquatic_Park_and_Maritime_Museum",
+        "supports": "Dolphin Club arrival in the 1890s, dumping in the cove, failed park efforts"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-hyde-street-pier",
+    "title": "Driving onto the bay",
+    "theme": "labor-industry",
+    "year": 1922,
+    "yearEnd": 1938,
+    "place": {
+      "label": "Hyde Street Pier, 2905 Hyde St",
+      "lat": 37.807703,
+      "lon": -122.42085,
+      "precision": "building"
+    },
+    "hook": "Before any bridge crossed the bay, drivers queued down Hyde Street to roll their cars onto ferries bound for Sausalito and Berkeley.",
+    "story": "In the 1920s, driving to Marin or the East Bay meant taking a boat. The Golden Gate Ferry Company, incorporated in 1920, built a single ferry slip at the foot of Hyde Street, and the first auto ferry left for Sausalito on May 28, 1922 [1][2]. Demand kept growing. In 1927 the pier was extended several hundred feet and two more slips were added for a new Berkeley run, whose first boat sailed on June 16, 1927 [1]. The pier became part of U.S. Routes 101 and 40, so the highway, in effect, ran across the water [2]. The ferry company then joined forces with Southern Pacific's ferries. The National Park Service dates the merger to 1928, while other accounts give early 1929 [1][2]. The bridges ended it. The Bay Bridge opened in 1936 and the Golden Gate Bridge in 1937, ridership collapsed, and the last ferry left Hyde Street on July 25, 1938 [1]. The pier's later life began in the 1950s, when it was turned into a berth for historic ships. It is now the heart of San Francisco Maritime National Historical Park [1].",
+    "people": [
+      {
+        "name": "Golden Gate Ferry Company",
+        "role": "auto ferry operator"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hyde Street Pier",
+        "publisher": "National Park Service, San Francisco Maritime NHP",
+        "year": null,
+        "url": "https://www.nps.gov/safr/learn/historyculture/hyde-street-pier.htm",
+        "supports": "first run May 28, 1922; 1927 extension and Berkeley run; 1928 merger; last ferry July 25, 1938"
+      },
+      {
+        "title": "Golden Gate Ferry Company",
+        "publisher": "Wikipedia (pointer to Harlan, San Francisco Bay Ferryboats)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Golden_Gate_Ferry_Company",
+        "supports": "1920 incorporation, early-1929 merger date"
+      },
+      {
+        "title": "Hyde Street Pier",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Hyde_Street_Pier",
+        "supports": "U.S. Route 101 and 40 designation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-lombard-crooked-street",
+    "title": "Eight turns down a 27 percent hill",
+    "theme": "architecture-landmarks",
+    "year": 1922,
+    "yearEnd": null,
+    "place": {
+      "label": "Lombard St between Hyde and Leavenworth",
+      "lat": 37.802458,
+      "lon": -122.418207,
+      "precision": "street"
+    },
+    "hook": "The 'crookedest street in the world' was not built for tourists. Neighbours who wanted to drive home to a hill too steep for their new cars came up with it.",
+    "story": "The block of Lombard Street between Hyde and Leavenworth began as a straight cobblestone street with a 27 percent grade [1]. By the 1920s the people who lived there wanted cars, but the hill was too steep for them. Because no car could reach the lots, they were worth less than those on neighbouring streets [1]. Carl Henry, an insurance and drug-company executive, is credited with first suggesting a curved roadway. He owned half the lots on the 1000 block and had planted a lily pond and rose gardens that he hoped to give to the city as a park. That plan failed after his death, when his widow sold the land to pay debts [1]. The owners took the idea to city engineer Clyde Healy, who designed the switchbacks [1]. The winding street was built in 1922 [2]. It was not the first such proposal. In 1905 engineer William Barclay Parsons had suggested turning the California Street hill into a winding driveway [1][2]. Lombard's version, with eight hairpin bends [3], is the one that got built.",
+    "people": [
+      {
+        "name": "Carl Henry",
+        "role": "property owner who proposed the curves"
+      },
+      {
+        "name": "Clyde Healy",
+        "role": "city engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lombard Street (GuideLines)",
+        "publisher": "San Francisco City Guides (Susan Saperstein), via Internet Archive",
+        "year": 2009,
+        "url": "https://web.archive.org/web/20170419051146/http://www.sfcityguides.org/public_guidelines.html?article=1012&submitted=TRUE&srch_text&submitted2&topic=neighborhoods",
+        "supports": "27% grade, cobblestones, Carl Henry, lily pond and park plan, Clyde Healy, 1905 Parsons proposal"
+      },
+      {
+        "title": "San Francisco's Lombard Street: It's twisty, crooked, and it almost didn't happen",
+        "publisher": "SFGATE (Bob Bragman)",
+        "year": 2016,
+        "url": "https://www.sfgate.com/bayarea/article/worlds-crookedest-Lombard-Street-san-francisco-9125265.php",
+        "supports": "1922 construction photo, Parsons's 1905 winding-street plan"
+      },
+      {
+        "title": "Lombard Street (San Francisco)",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Lombard_Street_(San_Francisco)",
+        "supports": "eight sharp turns"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-art-school-chestnut",
+    "title": "An art school moves up the hill",
+    "theme": "arts-counterculture",
+    "year": 1926,
+    "yearEnd": 1927,
+    "place": {
+      "label": "California School of Fine Arts (later SF Art Institute), 800 Chestnut St",
+      "lat": 37.803738,
+      "lon": -122.41719,
+      "precision": "building"
+    },
+    "hook": "The West's oldest art school finally built itself a Spanish-style home with a bell tower on Russian Hill. Students soon swore the tower was haunted.",
+    "story": "The school began in 1873, when the San Francisco Art Association founded the California School of Design [1]. Its first director was the painter Virgil Williams [2]. It had occupied rooms above a Pine Street market [2] and several sites on Nob Hill [1]. In 1916 it was renamed the California School of Fine Arts [1][3]. In 1926 it finally built a campus of its own at 800 Chestnut Street, in Spanish Colonial Revival style by the firm of Bakewell and Brown, with a courtyard and a tall bell tower [1][4]. The doors opened on January 15, 1927 [4]. Within a few years the Mexican muralist Diego Rivera came in 1930 to paint a fresco there, and over the decades the artists associated with the school came to include Ansel Adams, Dorothea Lange, Imogen Cunningham, Clyfford Still, Mark Rothko and Richard Diebenkorn [1]. The tower gained a reputation of its own. From the 1940s, students and staff reported footsteps, doors opening and closing, and tools switching themselves on. A night watchman living in the tower in 1947 described hearing an invisible visitor walk through his room [4].",
+    "people": [
+      {
+        "name": "Virgil Williams",
+        "role": "first director of the School of Design"
+      },
+      {
+        "name": "Bakewell and Brown",
+        "role": "architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #85: San Francisco Art Institute",
+        "publisher": "NoeHill",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf085.asp",
+        "supports": "1873 founding, 1916 rename, 1926 campus by Bakewell & Brown, Nob Hill sites, notable artists, Rivera 1930"
+      },
+      {
+        "title": "Dora Norton Williams: Friend of Robert Louis Stevenson",
+        "publisher": "FoundSF (Nancy Everett, The Argonaut 2010)",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Dora_Norton_Williams:_Friend_of_Robert_Louis_Stevenson",
+        "supports": "Virgil Williams as first director"
+      },
+      {
+        "title": "San Francisco Art Institute",
+        "publisher": "Wikipedia (pointer)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Art_Institute",
+        "supports": "1916 rename, 1926 move to 800 Chestnut"
+      },
+      {
+        "title": "Haunted Tower Spooks Wannabe Artists",
+        "publisher": "FoundSF (Antoinette May)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Haunted_Tower_Spooks_Wannabe_Artists",
+        "supports": "opening January 15, 1927; ghost reports from the 1940s; 1947 watchman"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "russian-hill-anita-whitney-macondray",
+    "title": "The patrician radical of Macondray Lane",
+    "theme": "civil-rights",
+    "year": 1927,
+    "yearEnd": null,
+    "place": {
+      "label": "Whitney cottage, 74 Macondray Lane",
+      "lat": 37.799288,
+      "lon": -122.415292,
+      "precision": "building"
+    },
+    "hook": "The Supreme Court upheld her conviction for a speech. A governor pardoned her. Then Anita Whitney moved into a hidden cottage on Russian Hill and kept organising.",
+    "story": "Charlotte Anita Whitney was the daughter of a patrician Oakland lawyer and a Wellesley graduate. She became in turn a social worker, a charter member of the NAACP, a suffrage organiser and a civil libertarian [1]. On November 28, 1919, after she spoke to the Oakland Civic Club for the new Communist Labor Party, she was arrested under California's Criminal Syndicalism Act [2]. On May 16, 1927, the U.S. Supreme Court unanimously upheld her conviction [3]. In a concurring opinion, Justice Louis Brandeis argued that only a 'clear and present danger' could justify restricting free speech, and the case itself was overruled in 1969 [2][3]. Governor C. C. Young decided that imprisoning her was 'unthinkable' and granted an unconditional pardon on June 20, 1927 [2]. That year Whitney moved into a small 1907 cottage at 74 Macondray Lane, a leafy pedestrian lane of artists and working people. She lived there until about 1945, working as a labour organiser and fundraiser for California's Communist Party [1].",
+    "people": [
+      {
+        "name": "Charlotte Anita Whitney",
+        "role": "suffragist, social worker, labour organiser"
+      },
+      {
+        "name": "Louis Brandeis",
+        "role": "Supreme Court justice"
+      },
+      {
+        "name": "C. C. Young",
+        "role": "Governor of California"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register nomination: Russian Hill/Macondray Lane District",
+        "publisher": "National Park Service (Anne Bloomfield, citing Lisa Rubens, California History 1986)",
+        "year": 1987,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/87002286_text",
+        "supports": "Whitney biography, move to 74 Macondray after the 1927 pardon, residence c.1927-45, activities there"
+      },
+      {
+        "title": "Anita Whitney",
+        "publisher": "Wikipedia (pointer to Whitten, Criminal Syndicalism and the Law in California)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Anita_Whitney",
+        "supports": "1919 arrest and speech, June 20, 1927 pardon and quote"
+      },
+      {
+        "title": "Whitney v. California",
+        "publisher": "Wikipedia (pointer to 274 U.S. 357)",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Whitney_v._California",
+        "supports": "conviction unanimously upheld, Brandeis concurrence"
+      }
+    ],
+    "photo": null
+  }
+]

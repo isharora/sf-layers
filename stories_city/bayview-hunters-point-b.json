@@ -1,0 +1,719 @@
+[
+  {
+    "id": "bayview-hunters-point-chinatown-exile-plan",
+    "title": "The plan to banish Chinatown here",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Hunters Point peninsula",
+      "lat": 37.729,
+      "lon": -122.37,
+      "precision": "area"
+    },
+    "hook": "Days after the 1906 fire, city leaders drew up a plan to move all of Chinatown to the far edge of the city: here.",
+    "story": "Chinatown was still smouldering when San Francisco's leaders saw an opportunity. Within six days of the 1906 fire, a committee including political boss Abe Ruef and ex-mayor James D. Phelan, bitter enemies united by anti-Chinese feeling, had adopted a plan to move the whole Chinese quarter to Hunters Point, then a remote edge of the city [1]. The idea was older than the quake: industrialist John Partridge had already proposed an \"Oriental City\" here, with Mayor Schmitz's support [1]. The Chronicle cheered a new Chinatown \"far removed from the center of town\" [2]. Nobody, it seemed, had asked the Chinese. They answered anyway. China's government sent word, through its diplomats, of the Empress Dowager's displeasure and vowed to rebuild its consulate on the old site [1]. Chinese leaders met Oakland's mayor and let it be known that Oakland, Portland and Seattle were courting them; about 40 Chinese merchants owned roughly a third of the old Chinatown land anyway [2]. Fearing the loss of the Asia trade, the city blinked. Within about three months the relocation subcommittee was discharged, and Chinatown was rebuilt where it had always stood [2].",
+    "people": [
+      {
+        "name": "Abe Ruef",
+        "role": "Political boss on the relocation committee"
+      },
+      {
+        "name": "James D. Phelan",
+        "role": "Former mayor on the relocation committee"
+      },
+      {
+        "name": "John Partridge",
+        "role": "Industrialist who proposed an 'Oriental City' at Hunters Point"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Relocation of Chinatown Following the 1906 San Francisco Earthquake",
+        "publisher": "Museum of the City of San Francisco (Gladys Hansen)",
+        "year": 1996,
+        "url": "http://www.sfmuseum.net/chin/relocate.html",
+        "supports": "Committee members, six-day timeline, Partridge proposal, Empress Dowager's opposition, trade fears"
+      },
+      {
+        "title": "Chinatown in Hunters' Point? (Ralph Henn, San Francisco Magazine, 1970)",
+        "publisher": "FoundSF",
+        "year": 1970,
+        "url": "https://www.foundsf.org/index.php?title=Chinatown_in_Hunters%27_Point%3F",
+        "supports": "Chronicle quote, Oakland overtures, Chinese property ownership, subcommittee discharged"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-great-white-fleet-drydock",
+    "title": "Battleships too big for Mare Island",
+    "theme": "war-military",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "Hunters Point dry docks (later Hunters Point Naval Shipyard)",
+      "lat": 37.7285,
+      "lon": -122.364,
+      "precision": "area"
+    },
+    "hook": "When Teddy Roosevelt's Great White Fleet limped into San Francisco in 1908, the Navy's own yard was too shallow. A private dry dock at Hunters Point saved face.",
+    "story": "In May 1908 the Great White Fleet, the battleships Theodore Roosevelt sent around the globe, steamed into San Francisco Bay needing repairs. There was a problem: the water at the Navy's own Mare Island yard was too shallow for the deep-draft battleships [1][2]. So the fleet turned to the private San Francisco Dry Dock Company at Hunters Point [1]. Accounts of the job differ. The district's historic context statement names two battleships, the Maine and the Alabama, serviced there [1]; the shipyard's own lore, retold in a 2025 exhibit, claims 23 ships repaired in 28 days, a record workers boasted of for decades [2]. Either way, the Navy noticed. That same year Charles M. Schwab, for Bethlehem Steel, bought the dry dock company for $1,875,000, taking over what was then the largest ship-repair plant on the West Coast [1]. The Navy would covet Hunters Point for three more decades before finally buying it in 1939 [1][2].",
+    "people": [
+      {
+        "name": "Charles M. Schwab",
+        "role": "Bethlehem Steel executive who bought the dry docks"
+      },
+      {
+        "name": "Rear Admiral Sperry",
+        "role": "Commander of the Great White Fleet"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "Maine and Alabama too deep for Mare Island, serviced at Hunters Point; Schwab's $1,875,000 purchase; Navy interest, 1939 purchase"
+      },
+      {
+        "title": "Decommissioned: Navy Takes Notice 1908 (Stacey Carter exhibit)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Decommissioned:_Navy_Takes_Notice_1908",
+        "supports": "Mare Island too shallow; 23 ships in 28 days claim; Bethlehem ownership 1909-1939"
+      },
+      {
+        "title": "Hunters Point Naval Shipyard",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Hunters_Point_Naval_Shipyard",
+        "supports": "Great White Fleet serviced at Hunters Point (pointer)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-palou-not-paine",
+    "title": "Palou Avenue, because Paine was an 'infidel'",
+    "theme": "communities",
+    "year": 1909,
+    "yearEnd": null,
+    "place": {
+      "label": "All Hallows Church, 1715 Oakdale Ave (by Palou Ave)",
+      "lat": 37.735804,
+      "lon": -122.392703,
+      "precision": "building"
+    },
+    "hook": "Palou Avenue was meant to honour Thomas Paine. Then the parish priest of All Hallows stood up and objected.",
+    "story": "In 1909 San Francisco set out to end decades of misdelivered mail by renaming the Bayview's numbered \"avenues, South\" [1]. The Street Names Commission picked a roster of American heroes, arranged alphabetically, and proposed Thomas Paine for Sixteenth Avenue South [1][2]. Father O'Sullivan of All Hallows parish exploded. \"He was an infidel, and in South San Francisco we are all Christians,\" the Examiner quoted him [1]. A local improvement club suggested hiding Paine's name on some \"out-of-the-way avenue on the hillside where nobody lived\"; the commission refused to use it at all [1]. The priests also vetoed Belfast and Cromwell as insults to Irish Catholics, who O'Sullivan said made up three-quarters of the district, and objected to Wallace, a \"Scotch hero\" [1][2]. He vowed locals would keep using the old numbers anyway. At the final vote on 21 December 1909, the commission placated him: Sixteenth Avenue became Palou, after the Franciscan padre, while Carroll (for the only Catholic signer of the Declaration of Independence) and Bancroft replaced Cromwell and Belfast [1]. Those names, from Arthur to Yosemite, are still on the street signs [2].",
+    "people": [
+      {
+        "name": "Father O'Sullivan",
+        "role": "Pastor of All Hallows parish"
+      },
+      {
+        "name": "Father Ford",
+        "role": "Jesuit priest who joined the protest"
+      },
+      {
+        "name": "Supervisor Murdock",
+        "role": "Chair of the street-naming hearings"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Street Naming Controversy – 1909 (John Freeman)",
+        "publisher": "Encyclopedia of San Francisco",
+        "year": 2009,
+        "url": "https://web.archive.org/web/2015/http://sfhistoryencyclopedia.com:80/articles/s/streetNaming.html",
+        "supports": "O'Sullivan quote, hillside compromise, Belfast/Cromwell/Wallace objections, Dec 21 vote, Palou/Carroll/Bancroft"
+      },
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "1909 renaming, alphabetical 'American heroes' avenues from Arthur to Yosemite, Paine proposed for 16th Ave South, three-quarters Irish claim"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-bay-view-park-hill",
+    "title": "A hilltop park won by dogged lobbying",
+    "theme": "parks-nature",
+    "year": 1915,
+    "yearEnd": 1938,
+    "place": {
+      "label": "Bayview Park, Bayview Hill",
+      "lat": 37.7152613,
+      "lon": -122.3926708,
+      "precision": "area"
+    },
+    "hook": "For decades the Bayview had no public park at all. Its first one was a windy hilltop the city had once planned for a quarantine station.",
+    "story": "Before 1915 the Bayview did not have a single public park; the homestead companies that carved up the district never set land aside [1]. In 1911 the Bay View Improvement Club begged the supervisors to buy a block for a playground; nothing happened, and both blocks filled with houses [1]. The breakthrough came on the steep summit of Bayview Hill. The city had bought the hilltop in 1902 for a quarantine facility, and Charles Crocker's estate, fearing for the value of its nearby land, offered land to kill the idea [2]. In December 1914 the city accepted 17 acres from the Bay View Land Company and the Crocker Estate Company on condition that eight acres of city land once earmarked for a hospital be added [1]. The improvements were minimal, an access drive and several hundred eucalyptus saplings, but about 500 people came to the May 1915 dedication, which ended with a City Band concert and dancing on the hill [1]. In the Depression, WPA crews returned: they laid 6,500 feet of road, planted 2,500 more trees and built walls and steps from the hill's own chert, work finished by 1938 [1][2][3]. Some of San Francisco's richest native grasslands survive among them [2].",
+    "people": [
+      {
+        "name": "Bay View Improvement Club",
+        "role": "Neighbourhood group that lobbied for a park"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "1911 lobbying, 1914 donation of 17 acres with conditions, May 1915 dedication, eucalyptus, City Band, 1938 WPA work"
+      },
+      {
+        "title": "Bayview Hill (Pete Holloran)",
+        "publisher": "FoundSF",
+        "url": "https://www.foundsf.org/index.php?title=Bayview_Hill",
+        "supports": "1902 quarantine plan, Crocker donation, 1915 dedication, WPA chert walls, native grasslands"
+      },
+      {
+        "title": "Bayview Park Improvements – San Francisco CA",
+        "publisher": "The Living New Deal",
+        "url": "https://livingnewdeal.org/sites/bayview-park-improvements-san-francisco-ca/",
+        "supports": "WPA stone retaining wall and stone steps"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-st-paul-shipwreck-maltese",
+    "title": "St. Paul of the Shipwreck, a Maltese home",
+    "theme": "communities",
+    "year": 1922,
+    "yearEnd": null,
+    "place": {
+      "label": "Former St. Paul of the Shipwreck Church, 1515 Oakdale Ave",
+      "lat": 37.733669,
+      "lon": -122.389239,
+      "precision": "building"
+    },
+    "hook": "By 1920 San Francisco had the fourth-largest Maltese community in America, and its heart was an old hall on Oakdale Avenue named for a shipwreck.",
+    "story": "Few San Franciscans know that the Bayview was once a Mediterranean island's outpost. Maltese men came first, often for railroad work, then sent for their families; they settled among the slaughterhouses of Butchertown [1]. By 1920 San Francisco had the fourth-largest Maltese population in the United States [1], living side by side with French, Italian and Irish neighbours [2]. In 1914 the community welcomed the Reverend Andrew Azzopardi, who organised California's first Maltese Catholic parish. In 1915 the archbishop gave the congregation an 1874 hall at what is now 1515 Oakdale Avenue, and in 1922 it was consecrated as St. Paul of the Shipwreck, after the New Testament story of the apostle's shipwreck on Malta [1]. By the late 1920s the city's Maltese numbered an estimated 5,000. When the Maltese Club opened at 1789 Oakdale in 1930, crowds had to be turned away; it staged plays in Maltese and kept a traditional band [1]. In the late 1950s the congregation built a new St. Paul of the Shipwreck in the Bret Harte neighbourhood, and the old hall became Bayview Baptist Church [1].",
+    "people": [
+      {
+        "name": "Rev. Andrew Azzopardi",
+        "role": "Founder of California's first Maltese Catholic parish"
+      },
+      {
+        "name": "Francis Grech",
+        "role": "Director of the Maltese Club of San Francisco"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "Maltese migration, 1920 fourth-largest, Azzopardi 1914, 1915 hall donation, 1922 consecration, 5,000 estimate, Maltese Club 1930, move in late 1950s, now Bayview Baptist"
+      },
+      {
+        "title": "Butchertown's Beginnings (Conor Casey, The Argonaut, 2007)",
+        "publisher": "FoundSF",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=Butchertown%27s_Beginnings",
+        "supports": "Maltese among main ethnic groups living intermingled in Butchertown"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-butchertown-cowboys",
+    "title": "Cowboys on Third Street",
+    "theme": "labor-industry",
+    "year": 1920,
+    "yearEnd": 1939,
+    "place": {
+      "label": "Butchertown, around Third Street and Evans Avenue",
+      "lat": 37.7433,
+      "lon": -122.3884,
+      "precision": "area"
+    },
+    "hook": "In the 1920s, streetcars on Third Street sometimes had to stop while cowboys drove cattle across the tracks to the slaughterhouses.",
+    "story": "Well into the 20th century, the Bayview's northern corner was Butchertown, the city's wholesale butchers' reservation since 1868 [1]. Its big slaughterhouses, Miller & Lux, James Allan and Son, H. Moffatt and J. G. Johnson, stood on pilings over Islais Creek so the tides could carry off the offal, and cowboys drove cattle from the railroad stockyards to the killing floors [1]. Riding the No. 16 streetcar down Third Street in the 1920s, Ruth Eshow Upton remembered halting \"to let cowboys drive their livestock to the slaughter houses,\" and never forgot the cattle's bloodshot eyes and sad moans [2]. Neighbours were not always charmed: in 1917 federal health officials ordered the \"hog hotels\" cleaned out before the Navy would consider moving in [3]. Yet Butchertown was also a close-knit village of French, Italian, Maltese and Irish families who lived side by side, and many kept vegetable gardens, chickens, rabbits and even goats to stretch Depression-era wages [1]. The last slaughterhouse did not close until 1971 [1].",
+    "people": [
+      {
+        "name": "Ruth Eshow Upton",
+        "role": "Bayview resident who recalled the cattle drives"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Butchertown's Beginnings (Conor Casey, The Argonaut, 2007)",
+        "publisher": "FoundSF",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=Butchertown%27s_Beginnings",
+        "supports": "1868 founding, four slaughterhouses on pilings, cowboys, backyard economy, ethnic mix, 1971 closure"
+      },
+      {
+        "title": "1920s Transport To and From Bayview (Ruth Eshow Upton)",
+        "publisher": "FoundSF",
+        "url": "https://www.foundsf.org/index.php?title=1920s_Transport_To_and_From_Bayview",
+        "supports": "Streetcar halted for cowboys driving livestock"
+      },
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "April 1917 order to clean up the 'hog hotels' before the Navy would move in"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-islais-creek-reclamation",
+    "title": "Burying Islais Creek, the drawbridge commute",
+    "theme": "labor-industry",
+    "year": 1925,
+    "yearEnd": 1936,
+    "place": {
+      "label": "Third Street at Islais Creek",
+      "lat": 37.7466,
+      "lon": -122.387,
+      "precision": "street"
+    },
+    "hook": "The city once sold these marshes for $10 a lot. Filling them took a reclamation district, 475,000 tons of rock and a decade.",
+    "story": "Islais Creek once spread into a square mile of marsh and mudflat. In 1861 the city practically gave the water lots away, for $10 to cover the deed and notary fee [1]. After 1906 boosters dreamed of a port here, and in 1909 the state spent $1 million in bonds buying back 173 acres [1][2]. Nothing much happened: by 1925 there were still 63 owners and 549 parcels of mud, and no one wanted to pay for the 2,200-foot seawall [1]. That year a state law launched the reclamation district that finally did the job [1][2]. The seawall alone swallowed 475,000 tons of rock from Potrero Hill and Bernal Heights; spoil from building Bayshore Boulevard went in too [1][2]. The work was declared finished in 1936, leaving only the Islais Creek Channel [1][2]. Crossing it was part of daily life. Ruth Eshow Upton, commuting downtown on the No. 16 streetcar from 1937, dreaded the Third Street drawbridge rising for a boat; her office elevator starter learned to ask whether the bridge had been up [3].",
+    "people": [
+      {
+        "name": "Ruth Eshow Upton",
+        "role": "Bayview commuter and memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Filling The Bay Along San Francisco's Southern Waterfront (David D. Schmidt)",
+        "publisher": "FoundSF",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Filling_The_Bay_Along_San_Francisco%E2%80%99s_Southern_Waterfront",
+        "supports": "$10 lots in 1861, 1909 bonds, 63 owners/549 parcels, reclamation district, 475,000 tons, 280 acres, mid-1930s completion"
+      },
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "1909 $1 million purchase of 173 acres; 1925 SB 196; Bayshore spoils; completion 1936 per Sharpsteen; 1917 bascule bridge"
+      },
+      {
+        "title": "1920s Transport To and From Bayview (Ruth Eshow Upton)",
+        "publisher": "FoundSF",
+        "url": "https://www.foundsf.org/index.php?title=1920s_Transport_To_and_From_Bayview",
+        "supports": "Islais Creek drawbridge delays and elevator starter's question, 1937"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-egbert-cove-swimming",
+    "title": "The lost swimming cove at Egbert Avenue",
+    "theme": "parks-nature",
+    "year": 1925,
+    "yearEnd": 1937,
+    "place": {
+      "label": "Former cove at the foot of Egbert Avenue, near Gilman Avenue",
+      "lat": 37.7168,
+      "lon": -122.3822,
+      "precision": "area"
+    },
+    "hook": "Bayview kids once swam in the bay every summer day, racing to a raft off an old wharf, until the 'Polluted Water' signs went up.",
+    "story": "In the 1920s and '30s, summer in the Bayview meant swimming in the bay almost every day. Ruth Eshow Upton, who grew up on Le Conte Avenue, later listed the options: Hunters Point (too far, and the slaughterhouses fouled the air), rocky, windy Candlestick, Gilman, and her favourite, a sheltered strip of tawny sand at the foot of Egbert Avenue [1]. From her bedroom window she watched the tide on South Basin; only when it was coming in did her 4-foot-10 mother lead five children to the beach, past backyards where bocce balls clicked [1]. Off the cove stood the remains of an old wharf with a raft tied to a barnacled piling. \"When you finally lost your fear of being in water over your head and swam all the way to the raft you had graduated from kid-hood,\" she wrote [1]. Lunch was cold kufta, Armenian meatballs, and golden cheorag rolls [1]. Around 1936 or 1937, \"Polluted Water\" signs went up [1]. In the same years New Deal crews were building Gilman Playground nearby [2]. Returning in the 1970s, Upton found the sand gone and oily, rainbow-coloured water [1].",
+    "people": [
+      {
+        "name": "Ruth Eshow Upton",
+        "role": "Bayview childhood swimmer and memoirist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lost Beach Near Yosemite Creek (Ruth Eshow Upton)",
+        "publisher": "FoundSF",
+        "url": "https://www.foundsf.org/index.php?title=Lost_Beach_Near_Yosemite_Creek",
+        "supports": "Four beaches, Egbert cove, tide ritual, raft quote, food, 1936-37 pollution signs, 1970s return"
+      },
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "WPA construction of Gilman Playground at Gilman Avenue, completed by 1939"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-albion-castle-voisin",
+    "title": "A sculptor rescues the Albion Castle",
+    "theme": "architecture-landmarks",
+    "year": 1938,
+    "yearEnd": null,
+    "place": {
+      "label": "Albion Brewery ('Albion Castle'), 881 Innes Ave",
+      "lat": 37.731537,
+      "lon": -122.375558,
+      "precision": "building"
+    },
+    "hook": "Prohibition killed a Norman-style stone brewery above India Basin. A sculptor bought the ruin and rebuilt it, stone by stone, from old photographs.",
+    "story": "Above India Basin stands a Norman-style stone brewery built in 1870 by English immigrant John Hamlin Burnell to brew English ales with water from springs beneath the hill [1][2]. Ale was stored in tunnels cut 200 to 300 feet into the hillside [1]. After Burnell died in 1890, his widow and relatives kept it going until 1919, when her death and Prohibition ended brewing for good [1]. The buildings fell into ruin [2]. Then a sculptor, Adrien Voisin, bought the property. Sources disagree on when: the city's 1973 landmark report says 1938, while NoeHill's landmark summary says 1933 [1][2]. Working from old photographs and drawings, Voisin restored the stonework of the main building, with its three-story tower, and lived and worked there [1]; a stone plaque commemorates a 1939 restoration [1]. The springs still had value: the Mountain Springs Water Company bought the water rights from Voisin and, in 1964, the building itself, letting him stay for life [1]. The castle became San Francisco Landmark No. 60 [2].",
+    "people": [
+      {
+        "name": "Adrien Voisin",
+        "role": "Sculptor who restored the brewery"
+      },
+      {
+        "name": "John Hamlin Burnell",
+        "role": "Founder of the Albion Ale and Porter Brewery"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Albion Brewery (San Francisco Landmarks Preservation Advisory Board case report, 1973)",
+        "publisher": "FoundSF",
+        "year": 1973,
+        "url": "https://www.foundsf.org/index.php?title=Albion_Brewery",
+        "supports": "Burnell, 1870, tunnels, 1919 closure, 1938 purchase and restoration by Voisin, 1939 plaque, 1964 water company purchase"
+      },
+      {
+        "title": "San Francisco Landmark #60: Hunters Point Springs-Albion Brewery",
+        "publisher": "NoeHill",
+        "url": "https://noehill.com/sf/landmarks/sf060.asp",
+        "supports": "Landmark No. 60, 1919 end of brewery, 1933 Voisin purchase and restoration"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-shrimp-camps-evicted",
+    "title": "The last Chinese shrimp camps",
+    "theme": "labor-industry",
+    "year": 1941,
+    "yearEnd": null,
+    "place": {
+      "label": "Hunters Point shoreline (former shrimp camps, now shipyard)",
+      "lat": 37.73,
+      "lon": -122.366,
+      "precision": "area"
+    },
+    "hook": "Bay shrimp were once so cheap that restaurants gave them away free. They came from Chinese camps at Hunters Point, until the Navy arrived.",
+    "story": "For decades the southeastern tip of San Francisco belonged partly to Chinese shrimp fishermen. After a 1915 state rule confined their bag nets to the bay south of Yerba Buena Island, most Chinese shrimpers worked from docks at Hunters Point [1]. When a 1919 law forced them to sell half their catch fresh, they priced it so low that many San Francisco restaurants served bay shrimp as a free appetizer [1]. Bayview families drove out on Sundays to buy bags of freshly cooked shrimp from the fishermen [2]. The catch peaked after 1900 at 3.4 million pounds in 1935, when more than 99 percent of California's shrimp came from the bay [1]. The 1940 census counted 136 residents of \"other races\" in the district, most probably these fishermen [3]. Then war came. Japan's invasion of China had already disrupted exports, and in 1941 the Navy evicted most of the remaining shrimpers to expand the shipyard [1]; its condemnations initially displaced 86 homes and 23 businesses on the peninsula [3]. By about 1960 the last Hunters Point shrimp camp was gone [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Chinese Shrimp Camps Along The Bay (David D. Schmidt)",
+        "publisher": "FoundSF",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=Chinese_Shrimp_Camps_Along_The_Bay",
+        "supports": "1915 net rule, Hunters Point docks, free-appetizer shrimp, 1935 peak, 1941 Navy eviction, ~1960 end"
+      },
+      {
+        "title": "Lost Beach Near Yosemite Creek (Ruth Eshow Upton)",
+        "publisher": "FoundSF",
+        "url": "https://www.foundsf.org/index.php?title=Lost_Beach_Near_Yosemite_Creek",
+        "supports": "Sunday drives to buy cooked shrimp from Chinese fishermen"
+      },
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "1940 census 136 'other races' probably shrimp fishermen; Navy condemnations displacing 86 homes and 23 businesses"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-wartime-workers-migration",
+    "title": "From seven Black residents to thousands",
+    "theme": "civil-rights",
+    "year": 1944,
+    "yearEnd": null,
+    "place": {
+      "label": "Hunters Point ridge war workers' housing",
+      "lat": 37.73,
+      "lon": -122.372,
+      "precision": "area"
+    },
+    "hook": "In 1940 the census found seven African American residents in the whole district. By 1945 a third of the shipyard's 18,000 workers were Black.",
+    "story": "In 1940 the two census tracts covering Bayview-Hunters Point held 14,011 people, including just seven African Americans [1]. Then the Navy took over the dry docks and needed workers by the thousand. Recruiters, railroad men and word of mouth drew migrants west from Texas, Louisiana, Mississippi, Arkansas and Oklahoma [2]. At its peak the shipyard employed between 17,000 and 18,500 people [2]; by August 1945, Black workers were more than a third of its 18,235-strong workforce [1]. Landlords turned many away, so federal and city housing authorities threw up 4,000 family apartments and 7,500 dormitory units on the ridge [1]. The yard itself was no utopia: a 1943 photograph shows a cafeteria that was not integrated [2]. But newcomers built fast. Women such as Katherine Newlin, Ruth Spriggs and Lucy Cupp Pickens made the cotton grommets that kept submarines watertight [3], a shipyard softball team, the Honey Bees, played in the city league against teams like Coca-Cola and Southern Pacific [4], and in 1944 residents founded the Crispus Attucks Club, named for the Black patriot killed in the Boston Massacre [2].",
+    "people": [
+      {
+        "name": "Katherine Newlin",
+        "role": "Shipyard grommet maker"
+      },
+      {
+        "name": "Ruth Spriggs",
+        "role": "Shipyard grommet maker"
+      },
+      {
+        "name": "Lucy Cupp Pickens",
+        "role": "Shipyard grommet maker"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "1940 census: 14,011 people, 7 African Americans; 18,235 workforce, over one-third Black in Aug 1945; 4,000 family units and 7,500 dormitory units"
+      },
+      {
+        "title": "A Day's Work: Hunters Point Shipyard Workers, 1940-1945 (Lemke-Santangelo and Wollenberg)",
+        "publisher": "FoundSF",
+        "url": "https://www.foundsf.org/index.php?title=A_Day%27s_Work:_Hunters_Point_Shipyard_Workers,_1940-1945",
+        "supports": "17,000-18,500 jobs; origins of migrants; segregated 1943 cafeteria; Crispus Attucks Club 1944"
+      },
+      {
+        "title": "WWII In-migration & Rising Bigotry (Chris Carlsson)",
+        "publisher": "FoundSF",
+        "year": 1994,
+        "url": "https://www.foundsf.org/index.php?title=WWII_In-migration_%26_Rising_Bigotry",
+        "supports": "1943-44 photo of grommet makers Newlin, Spriggs and Pickens"
+      },
+      {
+        "title": "Blacks in Baseball",
+        "publisher": "FoundSF",
+        "url": "https://www.foundsf.org/index.php?title=Blacks_in_Baseball",
+        "supports": "1944 Hunters Point shipyard softball team, the Honey Bees, in the city league"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-indianapolis-atomic-cargo",
+    "title": "The atomic bomb's secret departure",
+    "theme": "war-military",
+    "year": 1945,
+    "yearEnd": null,
+    "place": {
+      "label": "Hunters Point Naval Shipyard, Drydock 4 area",
+      "lat": 37.7247,
+      "lon": -122.3615,
+      "precision": "area"
+    },
+    "hook": "On July 16, 1945, a cruiser slipped out of Hunters Point carrying half the uranium-235 in America, and waited for word from the New Mexico desert.",
+    "story": "On 15 July 1945 the heavy cruiser USS Indianapolis tied up at Hunters Point under extraordinary security: drydocks and berths were emptied, Marines stood guard with automatic weapons and planes circled overhead [1]. A crate the size of an automobile was craned aboard and stowed in the hangar. The real cargo came aboard in two heavy metal cylinders, one of them a dummy, in the luggage of two Manhattan Project officers, Major Robert Furman and Captain James Nolan, posing as artillery officers [1]. It held the uranium-235 projectile for \"Little Boy,\" about half the U-235 then available in the country [1]. Crew members grew suspicious when the \"artillerymen\" could not answer basic gunnery questions [1]. The ship cast off early on 16 July but, according to the exhibit account, was held in the harbour until the Trinity test succeeded in New Mexico that morning [1]. It raced to Tinian and delivered the bomb components used on Hiroshima [1][2]. Four days later, on 30 July, a Japanese submarine sank the Indianapolis; of 1,195 men aboard, only 316 survived [1].",
+    "people": [
+      {
+        "name": "Capt. Charles B. McVay III",
+        "role": "Commander of USS Indianapolis"
+      },
+      {
+        "name": "Maj. Robert Furman",
+        "role": "Manhattan Project officer escorting the cargo"
+      },
+      {
+        "name": "Capt. James Nolan",
+        "role": "Manhattan Project officer escorting the cargo"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Decommissioned: Hunters Point and the Atomic Turning Point (Stacey Carter exhibit)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Decommissioned:_Hunters_Point_and_the_Atomic_Turning_Point",
+        "supports": "Security, crate, cylinders, Furman and Nolan, departure timing, Tinian, sinking and survivors"
+      },
+      {
+        "title": "Hunters Point Naval Shipyard",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Hunters_Point_Naval_Shipyard",
+        "supports": "Key fissile components of the first atomic bomb loaded on Indianapolis at Hunters Point, July 1945"
+      },
+      {
+        "title": "Decommissioned: A Mighty Shipyard 1941-1947 (Stacey Carter exhibit)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Decommissioned:_A_Mighty_Shipyard_1941-1947",
+        "supports": "Drydock 4 as the site of the Indianapolis loading"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-topaz-families-1945",
+    "title": "From Topaz camp to Hunters Point",
+    "theme": "communities",
+    "year": 1945,
+    "yearEnd": null,
+    "place": {
+      "label": "Former war workers' housing, Hunters Point",
+      "lat": 37.7318,
+      "lon": -122.3745,
+      "precision": "area"
+    },
+    "hook": "As the war ended, some Japanese American families released from the Topaz internment camp found their first San Francisco homes in the shipyard's barracks.",
+    "story": "When Japanese Americans were finally allowed back to the West Coast, many had no homes to return to. Their old neighbourhood around Post and Fillmore had filled with war workers, and housing was desperately short [1][2]. Hunters Point offered an unlikely refuge. As the war wound down, many white shipyard workers left the district's segregated war housing for private homes, a choice most Black workers were denied [1]. Some of the freed-up units went to 340 Japanese Americans just released from the internment camp at Topaz, the Chronicle reported in October 1945; more followed, and their children were bused to schools across the Bayview [1]. By November about 26,000 people lived in the district's war housing projects, 42 percent of them Black [1]. It made for a remarkable mix of newcomers. In the book Making Home from War, one elderly Nisei who was sent with his family to live in Hunters Point recalled running away in fear as a child when he first saw a large Black man on the street, and offered a poignant apology that had troubled him all his life [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "White exodus; 340 Japanese Americans from Topaz (Chronicle, Oct 21, 1945); children bused; 26,000 residents, 42 percent Black"
+      },
+      {
+        "title": "Western Addition: A Basic History (Gary Kamiya, excerpt)",
+        "publisher": "FoundSF",
+        "url": "https://www.foundsf.org/index.php?title=Western_Addition:_A_Basic_History",
+        "supports": "Housing shortage; Nisei family sent to live in Hunters Point and his recollection and apology"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-nrdl-49ers-radiation",
+    "title": "The Navy lab that wanted the 49ers",
+    "theme": "war-military",
+    "year": 1955,
+    "yearEnd": null,
+    "place": {
+      "label": "Naval Radiological Defense Laboratory, Hunters Point Naval Shipyard",
+      "lat": 37.72561,
+      "lon": -122.36894,
+      "precision": "area"
+    },
+    "hook": "In 1955 a Navy scientist at Hunters Point arranged to inject San Francisco 49ers with radioactive chromium, to learn who might survive a nuclear war.",
+    "story": "After the 1946 Bikini atomic tests, 79 contaminated ships from Operation Crossroads came to Hunters Point to be scrubbed, and the Navy created a research lab to study the problem, officially the Naval Radiological Defense Laboratory from 1948 [1]. In 1955 it moved into Building 815, a six-story, windowless concrete block built as a bomb shelter; that year the lab used 30,000 test animals [1]. Its radiological medical director, Capt. Albert Behnke Jr., had another idea. He theorised that elite athletes might be best suited to \"rescue and survival\" after an atomic attack [2]. In letters to 49ers team physician William O'Grady and general manager Lou Spadia, he proposed \"special examinations\": an injection of radioactive chromium and a drink of water laced with tritium [2]. A Berkeley collaborator wrote on 10 January 1955 that Behnke had \"completed arrangements\" for the players [2]. No final report has surfaced, but in 1994 a former lab scientist, Ed Alpen, said he was in the room when the 49ers were examined [2]. Reporters later counted at least 24 studies exposing humans to radiation there between 1946 and 1963 [2].",
+    "people": [
+      {
+        "name": "Capt. Albert R. Behnke Jr.",
+        "role": "Radiological medical director, NRDL"
+      },
+      {
+        "name": "William Siri",
+        "role": "UC Berkeley biophysicist and collaborator"
+      },
+      {
+        "name": "Lou Spadia",
+        "role": "49ers general manager"
+      },
+      {
+        "name": "Ed Alpen",
+        "role": "Former lab scientist who recalled the tests"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Decommissioned: Naval Radiological Defense Laboratory 1946-1969 (Stacey Carter exhibit; text by Chris Roberts)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Decommissioned:_Naval_Radiological_Defense_Laboratory_1946-1969",
+        "supports": "Crossroads origins, 1948 naming, Building 815 in 1955, 30,000 animals, 49ers summary"
+      },
+      {
+        "title": "Human Radiation Studies Included Mock Combat, Skin Tests and a Plan to Inject 49ers (Chris Roberts)",
+        "publisher": "San Francisco Public Press",
+        "year": 2023,
+        "url": "https://www.sfpublicpress.org/exposed-part-3-human-radiation-studies-included-mock-combat-skin-tests-and-a-plan-to-inject-49ers/",
+        "supports": "Behnke's letters, chromium and tritium, Siri's Jan 10, 1955 letter, Alpen's 1994 recollection, 24 studies"
+      },
+      {
+        "title": "Decommissioned: After the War 1946-1969 (Stacey Carter exhibit)",
+        "publisher": "FoundSF",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Decommissioned:_After_the_War_1946-1969",
+        "supports": "79 Crossroads ships decontaminated at Hunters Point"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-hunters-view-gene-walker",
+    "title": "Gene Walker and the aging barracks",
+    "theme": "civil-rights",
+    "year": 1956,
+    "yearEnd": null,
+    "place": {
+      "label": "Hunters View, Middle Point Road",
+      "lat": 37.735432,
+      "lon": -122.37854,
+      "precision": "area"
+    },
+    "hook": "A decade after the war, families still lived in 'temporary' barracks with iceboxes instead of refrigerators. A neighbourhood activist made the city pay attention.",
+    "story": "The war workers' housing on Hunters Point ridge was never meant to last. A decade on, many Black families who had come for shipyard jobs still lived there. Espanola Jackson, whose family moved in during the late 1940s, remembered no refrigerators: \"the iceman came,\" and people built boxes outside their windows so food would not spoil at night [1]. There was also community: Texas-born neighbours kept Juneteenth with barbecues and guitar-picking elders [1]. In 1953 the San Francisco Housing Authority took formal ownership of the overcrowded, deteriorating units [1]. Activist Gene K. Walker organised the Hunters Point Project Committee to demand repairs and a community centre, even asking for $12,000 to buy the old South San Francisco Opera House as a recreation hall; that bid failed, but it drew citywide attention [1]. In 1954 the committee pressed the Housing Authority to fix conditions, and in response it tore down most of the barracks on the ridge and built Hunters View, 55 no-frills buildings with bay views [1]. The context statement dates it to 1956; other accounts say 1957 [1][2]. Residents greeted it with enthusiasm [1].",
+    "people": [
+      {
+        "name": "Gene K. Walker",
+        "role": "Founder of the Hunters Point Project Committee"
+      },
+      {
+        "name": "Espanola Jackson",
+        "role": "Resident and later community leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "Espanola Jackson quotes, Juneteenth, 1953 SFHA ownership, Walker's committee, $12,000 Opera House bid, 1954 demands, 1956 Hunters View, enthusiastic reception"
+      },
+      {
+        "title": "Hunters View",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Hunters_View",
+        "supports": "Hunters View built in 1957 and intended to be temporary (pointer)"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "bayview-hunters-point-sam-jordans-bar",
+    "title": "Sam Jordan, the Mayor of Butchertown",
+    "theme": "communities",
+    "year": 1959,
+    "yearEnd": null,
+    "place": {
+      "label": "Sam Jordan's Bar, 4004 Third St",
+      "lat": 37.741061,
+      "lon": -122.388862,
+      "precision": "building"
+    },
+    "hook": "A Navy veteran and prizefighter took over a Third Street saloon in 1959, put his own name on it, and made it the Bayview's living room.",
+    "story": "Sam Jordan came to San Francisco straight out of the Navy after World War II. For a decade he worked as a longshoreman, boxed in the Golden Gloves and tried a string of small businesses [1]. As a light-heavyweight he won the championship diamond belt in 1948 [2]. In 1959 he bought the old bar at 4004 Third Street, a working-class saloon site for decades, renovated it and reopened it as Sam Jordan's Tavern [1]. There was a reason he put his own name over the door, one columnist noted [2]. Many of the old white-owned businesses along Third Street did not always welcome the district's growing Black population, and pioneers like Jordan opened places of their own [3]. His bar became a gathering spot for Black working people, hosting scholarship drives, nights for local musicians, businessmen's lunches and political strategy sessions [1]. In 1963 Jordan became the first African American to run for mayor of San Francisco [1]. He lived there from 1959 until he retired in 1995, and by his death in 2003 he was known as the Mayor of Butchertown [1].",
+    "people": [
+      {
+        "name": "Sam Jordan",
+        "role": "Boxer, Navy veteran, bar owner and mayoral candidate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #263: Sam Jordan's Bar",
+        "publisher": "NoeHill (from the city's landmark designation)",
+        "url": "https://noehill.com/sf/landmarks/sf263.asp",
+        "supports": "Navy veteran, longshoreman, Golden Gloves, 1959 reopening, community activities, 1963 mayoral run, 'Mayor of Butchertown'"
+      },
+      {
+        "title": "Sam Jordan's Bar gets landmark status (C. W. Nevius)",
+        "publisher": "SFGATE / San Francisco Chronicle",
+        "year": 2013,
+        "url": "https://www.sfgate.com/bayarea/nevius/article/Sam-Jordan-s-Bar-gets-landmark-status-4217775.php",
+        "supports": "1948 diamond belt; took over bar in 1959; reason he named it after himself"
+      },
+      {
+        "title": "Bayview-Hunters Point Area B Survey: Historic Context Statement",
+        "publisher": "Kelley & VerPlanck for the San Francisco Redevelopment Agency",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20140811224502/http://bayviewmagic.org/files/2010/02/History-of-BVHP.pdf",
+        "supports": "Old-line Third Street businesses unwelcoming; pioneering African Americans including Sam Jordan opened their own businesses"
+      }
+    ],
+    "photo": null
+  }
+]

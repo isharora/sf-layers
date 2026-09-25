@@ -1,0 +1,714 @@
+[
+  {
+    "id": "mission-bay-banana-boat-shapeup",
+    "title": "Waiting for the banana boats, 1931",
+    "theme": "labor-industry",
+    "year": 1931,
+    "yearEnd": 1932,
+    "place": {
+      "label": "United Fruit wharf, south bank of Mission Creek between 3rd and 4th",
+      "lat": 37.7745,
+      "lon": -122.3918,
+      "precision": "block"
+    },
+    "hook": "A 16-year-old hoping to ship out watched hungry longshoremen stand on Channel Street for hours, hoping a fog-delayed banana boat would bring a day's pay.",
+    "story": "Harlan Soeten arrived in San Francisco in 1931, aged 16, hoping to ship out to sea. He roomed at the Coastline Hotel at Third and Townsend, opposite the depot, among longshoremen and railroad men, two of whom loaded United Fruit's banana boats on Mission Creek [1]. When his money ran out he slept in a flophouse and served oatmeal in a city soup kitchen that fed, as he remembered it, 4,000 men a meal [1]. He walked down to the creek in 1931 and 1932 to watch. The channel was too narrow for the big banana boats to turn, so tugs towed them in by the bow and out by the stern; conveyor belts carried the fruit into boxcars at the China Basin Building [1]. Early each morning men gathered for the 'shape-up'. If a ship due at 10 was held up by fog until noon, nobody was paid until noon [1]. Ending that system was the strikers' key demand in 1934 [1]. A 1932 photograph shows United Fruit shacks along the creek between Third and Fourth [1], and the company kept offices across the water from the China Basin Building [2]. Soeten never lost his love of ships: he went on to become curator of San Francisco's Maritime Museum [1].",
+    "people": [
+      {
+        "name": "Harlan Soeten",
+        "role": "teenage job-seeker, later curator of the San Francisco Maritime Museum"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Living Memories, 1931-1960 (Vanished Waters, ch. 15)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1931-1960",
+        "supports": "Soeten's arrival, Coastline Hotel, soup kitchen, banana boats towed by tug, shape-ups, strike outcome, museum career"
+      },
+      {
+        "title": "Mission Creek Banana Boats",
+        "publisher": "FoundSF (from Vanished Waters)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Creek_Banana_Boats",
+        "supports": "United Fruit offices across Mission Creek from the China Basin Building; conveyor unloading into refrigerated cars"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-third-street-bridge",
+    "title": "Golden Gate's engineer builds a drawbridge first",
+    "theme": "architecture-landmarks",
+    "year": 1933,
+    "place": {
+      "label": "Lefty O'Doul Bridge (Third Street Bridge), Mission Creek",
+      "lat": 37.77667,
+      "lon": -122.39,
+      "precision": "building"
+    },
+    "hook": "Four years before the Golden Gate Bridge opened, its chief engineer designed a humbler span that still tilts skyward for boats on Mission Creek.",
+    "story": "The old Third Street crossing over Mission Creek shut to traffic in November 1931, and on May 12, 1933, Mayor Angelo Rossi opened its replacement: a bascule bridge designed by Joseph Strauss, chief engineer of the Golden Gate Bridge [1]. It cost $640,000 and carried pedestrians, cars and streetcars; tracks for the State Belt Railroad's steam trains were planned for later [1]. City photographs from its first days show the leaf raised as the freighter SS Talamanca slipped out behind a tugboat [2]. Great concrete counterweights still swing the deck up. In 1980 the city renamed it for baseball player Lefty O'Doul, and it was seismically retrofitted in 1999 before the ballpark rose beside it [1]. Hollywood loved it: it appears in three Dirty Harry films and in the James Bond movie A View to a Kill (1985), where Bond drives a fire truck over the opening bridge [1]. Today it is the gateway to McCovey Cove, and it still rises to let boats through [2].",
+    "people": [
+      {
+        "name": "Joseph Strauss",
+        "role": "bridge designer, chief engineer of the Golden Gate Bridge"
+      },
+      {
+        "name": "Angelo Rossi",
+        "role": "mayor who opened the bridge"
+      },
+      {
+        "name": "Lefty O'Doul",
+        "role": "ballplayer the bridge was renamed for in 1980"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lefty O'Doul Bridge",
+        "publisher": "Wikipedia (citing SF Examiner, May 13, 1933)",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Lefty_O%27Doul_Bridge",
+        "supports": "opening date, Strauss design, cost, Belt Railroad plan, 1980 renaming, 1999 retrofit, film appearances"
+      },
+      {
+        "title": "3rd St Bridge Then and Now",
+        "publisher": "FoundSF (SFMTA and SFPL photo archives)",
+        "year": 2026,
+        "url": "https://www.foundsf.org/index.php?title=3rd_St_Bridge_Then_and_Now",
+        "supports": "May 12, 1933 opening photo; SS Talamanca passing the raised bridge; designer later built the Golden Gate"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-pier-38-1934",
+    "title": "The day they tried to open the port",
+    "theme": "labor-industry",
+    "year": 1934,
+    "place": {
+      "label": "Pier 38, The Embarcadero",
+      "lat": 37.7824,
+      "lon": -122.3862,
+      "precision": "area"
+    },
+    "hook": "On July 3, 1934, police ringed Pier 38 with freight cars and ran trucks through a gauntlet of strikers. Two days later came Bloody Thursday.",
+    "story": "By July 1934 the West Coast waterfront strike was two months old and shipowners were losing, by one estimate, $100,000 a day. With the backing of Mayor Rossi and the police, the employers' Industrial Association decided to 'open the port' [1]. At noon on July 3 they started at Pier 38. Freight cars of the state-owned Belt Line Railway were drawn into a barricade around the pier, and a lane of police cars formed a corridor to a warehouse. Trucks rolled through it with cargo while, outside the lane, police attacked strikers with clubs, guns and tear gas; strikers answered with bricks and railroad spikes. The fighting lasted all afternoon [1]. After a July 4 truce, police charged some 2,000 pickets at Pier 38 on July 5, and the battle spread up Rincon Hill into what became known as Bloody Thursday [1]. Longshoremen's grievances went back years: star-gang pay had dropped to about $10.46 a week, and men were hired by humiliating daily shape-ups [2]. After a general strike and federal arbitration, union hiring halls became a reality that autumn [2].",
+    "people": [
+      {
+        "name": "Angelo Rossi",
+        "role": "mayor who backed opening the port"
+      },
+      {
+        "name": "Harry Bridges",
+        "role": "longshore strike leader"
+      }
+    ],
+    "sources": [
+      {
+        "title": "July 5, 1934: Bloody Thursday",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=July_5,_1934:_Bloody_Thursday",
+        "supports": "July 3 Pier 38 barricade, police lane, trucks, fighting, July 5 charge on 2,000 pickets"
+      },
+      {
+        "title": "Living Memories, 1931-1960",
+        "publisher": "FoundSF / Mission Creek Conservancy",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1931-1960",
+        "supports": "pay of $10.46, shape-ups, general strike, arbitration, hiring halls"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-mission-rock-burns",
+    "title": "Burning an island to grow a pier",
+    "theme": "parks-nature",
+    "year": 1946,
+    "place": {
+      "label": "Pier 50 (site of Mission Rock)",
+      "lat": 37.7728,
+      "lon": -122.3835,
+      "precision": "area"
+    },
+    "hook": "Mission Rock was once a real island in the bay. In January 1946 the city set its old grain terminal ablaze so Pier 50 could swallow it.",
+    "story": "Early maps show Mission Rock as a rocky outcrop well out in the bay, beyond the mouth of Mission Bay, and sailors used it as a navigational guide [1][2]. Over the decades it was bought and sold, built up and enlarged, and it settled into a long life as a dry dock, warehouse landing and grain terminal [1][2]. By the end of the Second World War the grain terminal was obsolete. San Francisco decided to extend Pier 50 to engulf the former island, and in January 1946 the old wharf was deliberately set on fire [1]. City photographers recorded the sequence: the terminal on January 7, the wharf going up in flames and creosote-soaked timbers burning on January 9, and an aerial view of the charred remains on January 10 [1]. Pier 50 became the farthest reach of the landfill that erased Mission Bay [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Mission Rock",
+        "publisher": "FoundSF (Chris Carlsson; SFPL photos AAC-9764 to 9768)",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Rock",
+        "supports": "island origins, grain terminal, 1946 burning to expand Pier 50, dated photos"
+      },
+      {
+        "title": "Mission Bay Gazeteer of Historic Places",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Bay_Gazeteer_of_Historic_Places",
+        "supports": "navigational guide, dry dock and warehouse landing, Pier 50 engulfing the rock as the farthest landfill"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-kerouac-railroad-earth",
+    "title": "Kerouac, brakeman on the railroad earth",
+    "theme": "arts-counterculture",
+    "year": 1952,
+    "place": {
+      "label": "Southern Pacific depot site, Third and Townsend",
+      "lat": 37.7783,
+      "lon": -122.392,
+      "precision": "block"
+    },
+    "hook": "Before he was King of the Beats, Jack Kerouac punched in for the Southern Pacific here, living in a $4-a-week Skid Row room.",
+    "story": "In 1951 Neal Cassady, a Southern Pacific brakeman, persuaded his friend Jack Kerouac to join him in San Francisco. Kerouac started as a baggage handler and became a brakeman [1]. The railroad's main station stood at Third and Townsend, the last stop for commuter trains from San Jose and the start of long-distance runs to Los Angeles, with the company yards spreading across Mission Bay [1]. In 1952 he wrote to Allen Ginsberg about his 'fine little room in Skid Row at $4 a week', where he was 'happy for the first time in years' [1]. He also grumbled: 'The phone just called me, gotta go to work again, I'm sick and tired of it' [1]. Cassady broke his ankle on the job trying to avert a crash [1]. Out of those shifts came 'October in the Railroad Earth', a prose poem that opens among the commuters at the Southern Pacific station and that Kerouac said was meant to 'clack along all the way like a steam engine pulling a one-hundred-car-freight' [1]. It was collected in Lonesome Traveler (1960), his first openly autobiographical book [2].",
+    "people": [
+      {
+        "name": "Jack Kerouac",
+        "role": "writer and Southern Pacific brakeman"
+      },
+      {
+        "name": "Neal Cassady",
+        "role": "brakeman who recruited him"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kerouac's San Francisco Experience: 'October in the Railroad Earth'",
+        "publisher": "FoundSF (Gregory Block)",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Kerouac%E2%80%99s_San_Francisco_Experience:_%E2%80%9COctober_in_the_Railroad_Earth%E2%80%9D",
+        "supports": "Cassady recruiting him, jobs, station location, letters to Ginsberg, $4 room, Paris Review quote"
+      },
+      {
+        "title": "Lonesome Traveler",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Lonesome_Traveler",
+        "supports": "'The Railroad Earth' published in the 1960 collection, his first undisguisedly autobiographical work"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-banana-gang-1959",
+    "title": "The B-men and the banana gang",
+    "theme": "labor-industry",
+    "year": 1959,
+    "place": {
+      "label": "China Basin Building rail siding, Mission Creek",
+      "lat": 37.7768,
+      "lon": -122.3908,
+      "precision": "block"
+    },
+    "hook": "New longshoremen got the dirtiest job on the waterfront: carrying green banana stalks off United Fruit ships on Mission Creek, nine hours a ship.",
+    "story": "From 1947 to 1959 the longshore union's books were closed; there were more men than jobs. When they reopened in 1959, somewhere between 600 and 800 newcomers were added, among them Al Ohta [1]. The new 'B' men were handed the Mission Creek banana boats, because it was dirty, strenuous work [1]. Green bananas were stowed on their stalks in the hatches. One gang fed them onto a conveyor that brought them up out of the hold; the dock gang walked each stalk from the belt to chilled refrigerator cars on the siding beside the China Basin Building. Nobody wanted the end of the belt, where the fruit fell off [1]. A ship took nine hours, at $2.85 an hour, with time-and-a-half after six hours [1]. The banana gangs were known for drinking and a crap game so big that wives complained and the company shut it down. Ohta recalled a story that when a man died at a nearby bar, his buddies laid him in a boxcar so his widow could collect benefits for a death on the job [1]. In 1934 the building, which stands on filled bay, had served as the Southern Pacific wholesale grocers' warehouse [1][2].",
+    "people": [
+      {
+        "name": "Al Ohta",
+        "role": "longshoreman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mission Creek Banana Boats ('I was there...' by Al Ohta)",
+        "publisher": "FoundSF (from Vanished Waters, interview 1986)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Mission_Creek_Banana_Boats",
+        "supports": "1959 opening of books, B men, unloading method, pay and hours, crap game, boxcar story, 1934 use of building"
+      },
+      {
+        "title": "MISSION BAY",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": 2016,
+        "url": "https://www.foundsf.org/index.php?title=MISSION_BAY",
+        "supports": "China Basin Building as a Mission Bay landmark on former bay fill"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-houseboats-beat-city-hall",
+    "title": "Houseboaters who beat City Hall",
+    "theme": "communities",
+    "year": 1974,
+    "yearEnd": 1977,
+    "place": {
+      "label": "Mission Creek houseboat harbor, Channel Street",
+      "lat": 37.7708,
+      "lon": -122.3968,
+      "precision": "block"
+    },
+    "hook": "The Port stapled eviction notices on every houseboat on Mission Creek. Two women got on the phone and played the TV stations against each other.",
+    "story": "In 1960 the state moved a houseboat community from Islais Creek to 55 berths on Channel Street [1][2]. Ruth Huffaker, an electronics worker, and her welder husband Steve built their first houseboat there in 1962; she remembered jackrabbits, foxes, cobbled streets and men living in six-foot weeds [1]. In 1974, after a fire in sheds across the channel, a Port official told her he would tear the dock down on Monday and put the boats in storage. The next day eviction notices were stapled to every boat [1]. Sharon Skolnick, who lived on a wooden-pyramid houseboat called the Azteca, had her boss Rose Farrington call one TV station, then tell another that Channel 5 was on its way; Ruth told Channel 7 that Channel 4's camera had just arrived. The coverage embarrassed the Port, which shelved the eviction and built a new float. A local paper's headline: 'It's true, you can beat City Hall!' [1]. A 1976 agreement produced a lease and new berths, and in 1977 the Mission Creek Harbor Association took over the harbor [1]. In 2001 around 20 houseboats remained, home to artists, veterans, blue-collar workers and professionals [2].",
+    "people": [
+      {
+        "name": "Ruth Huffaker",
+        "role": "houseboat builder and harbour organiser"
+      },
+      {
+        "name": "Sharon Skolnick",
+        "role": "houseboat resident"
+      },
+      {
+        "name": "Rose Farrington",
+        "role": "Skolnick's employer who called the TV stations"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Living Memories, 1959-1986 (Vanished Waters, ch. 16)",
+        "publisher": "FoundSF / Mission Creek Conservancy (Nancy J. Olmsted)",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1959-1986",
+        "supports": "1960 move, Huffakers, 1974 eviction attempt and media campaign, 1976 agreement, 1977 association"
+      },
+      {
+        "title": "Still Afloat / Mission Creek's houseboat community lives on",
+        "publisher": "SFGATE (Carol Lloyd)",
+        "year": 2001,
+        "url": "https://www.sfgate.com/entertainment/article/Still-Afloat-Mission-Creek-s-houseboat-3240003.php",
+        "supports": "1960 move of 55 berths, 20 homes and 35 docks in 2001, mix of residents"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "mission-bay-hearst-food-giveaway",
+    "title": "Ransom paid in groceries",
+    "theme": "civil-rights",
+    "year": 1974,
+    "place": {
+      "label": "China Basin Building, 185 Berry Street",
+      "lat": 37.77658,
+      "lon": -122.39212,
+      "precision": "building"
+    },
+    "hook": "To free kidnapped Patty Hearst, her father ran a giant free-food program from this old banana warehouse. The volunteers ended up remaking city politics.",
+    "story": "After the Symbionese Liberation Army kidnapped Patricia Hearst in February 1974, it demanded that the Hearst Corporation feed California's poor. The first distribution, on February 22, was chaos: panicked workers threw boxes off moving trucks into huge crowds and scores were hurt. Governor Ronald Reagan quipped, 'It's just too bad we can't have an epidemic of botulism' [1]. A community coalition led by the Western Addition Project Area Committee then took over and, from February 26 to the end of March, organised six distributions: more than 100,000 bags of groceries at some 16 sites in four counties [1]. The nerve centre was the huge China Basin Building. Scores of trucks came and went every hour, with Patty's father and brother there around the clock [1]. The building, raised in the 1920s as a banana-processing plant, had been painted a rich blue by then [2]. Volunteer Calvin Welch later argued that the coalition's organisers went on to register voters for George Moscone and to win district elections, giving birth to the neighbourhood movement [1].",
+    "people": [
+      {
+        "name": "Patricia Hearst",
+        "role": "kidnapped heiress"
+      },
+      {
+        "name": "Calvin Welch",
+        "role": "coalition volunteer and writer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Legacy of the SLA",
+        "publisher": "FoundSF (Calvin Welch)",
+        "year": 2004,
+        "url": "https://www.foundsf.org/index.php?title=The_Legacy_of_the_SLA",
+        "supports": "distribution dates, chaos, Reagan quote, WAPAC coalition figures, China Basin headquarters, political aftermath"
+      },
+      {
+        "title": "McCovey Cove",
+        "publisher": "FoundSF (Abigail Johnston / Potrero Hill Archives Project)",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=McCovey_Cove",
+        "supports": "China Basin Building painted blue by 1974 and used for the Hearst food giveaway"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-depot-to-fourth-and-king",
+    "title": "The railroad retreats to Fourth and King",
+    "theme": "architecture-landmarks",
+    "year": 1975,
+    "place": {
+      "label": "San Francisco Caltrain station, 700 4th Street",
+      "lat": 37.77663,
+      "lon": -122.3948,
+      "precision": "building"
+    },
+    "hook": "In 1975 Southern Pacific swapped its grand Mission Revival depot for a modest commuter shed one block away, then knocked the old one down.",
+    "story": "Southern Pacific's Third and Townsend depot went up in 1914-15 for the Panama-Pacific Exposition. It was meant to be temporary until a grander terminal downtown, but it lasted six decades [1]. Designed by the railroad's own architectural bureau, the reinforced-concrete, Mission Revival station was one of the city's best examples of the style, and San Francisco was 'zero mile' for the whole SP system [1]. It sent commuter trains to San Jose and long-distance trains down the Coast Line to Los Angeles [1][3]. Freeways and the loss of long-distance passenger trains doomed it. Southern Pacific built a much smaller station at Fourth and King, which opened on June 21, 1975, and the old depot was demolished in 1975-76 [1][2]. The new terminal is still the northern end of Caltrain. Muni light rail arrived in 1998, and the station is the planned first-phase terminus for California High-Speed Rail. The Portal project would eventually carry trains underground to the Salesforce Transit Center [2].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Third and Townsend Depot",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Third_and_Townsend_Depot",
+        "supports": "1914-15 construction, temporary intent, Mission Revival, zero mile, 1975 replacement and demolition"
+      },
+      {
+        "title": "San Francisco station (4th and King)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_station",
+        "supports": "opened June 21, 1975; Muni 1998; high-speed rail and Portal plans"
+      },
+      {
+        "title": "Kerouac's San Francisco Experience",
+        "publisher": "FoundSF",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Kerouac%E2%80%99s_San_Francisco_Experience:_%E2%80%9COctober_in_the_Railroad_Earth%E2%80%9D",
+        "supports": "station as commuter terminus and starting point for Los Angeles trains"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-berry-seventh-encampment",
+    "title": "A shantytown where Dumpville once stood",
+    "theme": "civil-rights",
+    "year": 1986,
+    "place": {
+      "label": "Berry and 7th streets",
+      "lat": 37.7706,
+      "lon": -122.399,
+      "precision": "block"
+    },
+    "hook": "In 1986 Mayor Feinstein toured a squatters' village at Berry and Seventh, nearly the exact spot police had cleared of 'Dumpville' ninety years earlier.",
+    "story": "In the 1870s and 1880s, Berry and Channel streets between Fifth and Seventh were the city's garbage dump. Scavengers, tramps and children picking firewood built a shantytown the San Francisco Call named 'Dumpville'. Police tore it down on the night of November 10, 1895 [1]. The corner stayed forgotten. On January 24, 1986, the Chronicle reported that city officials had declared 'the little village at Berry and Seventh Street' a health hazard and given its residents seven days to clear out. About two dozen squatters lived there in shacks patched together from wood scraps [2]. Houseboaters nearby remembered earlier generations of homeless men living unseen in the tall weeds along the channel [2]. In February 1986 Mayor Dianne Feinstein toured the encampment; photographer Greg Gaar captured the visit [1]. The site had another significance: it was her choice for a new Giants stadium, one of many proposals before the ballpark was finally built at China Basin [1]. Today apartments, a creekside promenade and even a beach volleyball court line the old Dumpville shore [1].",
+    "people": [
+      {
+        "name": "Dianne Feinstein",
+        "role": "mayor of San Francisco"
+      },
+      {
+        "name": "Greg Gaar",
+        "role": "photographer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dumpville",
+        "publisher": "FoundSF (Woody LaBounty, San Francisco Story)",
+        "year": 2025,
+        "url": "https://www.foundsf.org/index.php?title=Dumpville",
+        "supports": "Dumpville history, 1895 clearance, Feinstein's February 1986 tour, stadium-site proposal, present-day shore"
+      },
+      {
+        "title": "Living Memories, 1959-1986 (note 119)",
+        "publisher": "FoundSF / Mission Creek Conservancy",
+        "year": 1986,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1959-1986",
+        "supports": "quote from SF Chronicle, Jan 24, 1986: seven-day notice, two dozen squatters; weed-dwelling homeless recalled by Ruth Huffaker"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-conservancy-we-can-do-that",
+    "title": "'We can do that': saving the egrets",
+    "theme": "parks-nature",
+    "year": 1998,
+    "place": {
+      "label": "Mission Creek Park, south bank of Mission Creek",
+      "lat": 37.7722,
+      "lon": -122.3945,
+      "precision": "area"
+    },
+    "hook": "When developers planned to armour Mission Creek with broken concrete, houseboaters spent $30,000 of their own money on newspaper ads: 'Catellus must be stopped.'",
+    "story": "Houseboaters and conservationists formed the Mission Creek Conservancy in 1983 and published Vanished Waters, a history of Mission Bay, in 1986 to prove the railyards were not a blank slate [1]. The 1991 development plan promised an eight-acre wetland, but it died when Catellus pulled out in 1995 [1]. In 1998 an environmental report revealed plans to line the creek's banks with rip-rap. The Conservancy bought third-page ads in the Examiner and Chronicle declaring 'Catellus must be stopped'. The $30,000 bill, its biggest expense ever, was paid by its board members [1]. Catellus's new vice president, Doug Gardner, called a meeting. Conservancy president Bob Isaacson told him they had 'charismatic shorebirds' and wanted to keep them. 'He looked me in the eye and said, “we can do that”,' Isaacson recalled, 'and for the next decade he was steadfast' [1]. Native plants were replanted along the banks. Residents now report herring runs, sea lions, bat rays, seals and even porpoises [1]. Mayor Willie Brown appointed houseboaters Jack Davis and Corinne Woods to the citizens' advisory committee [2].",
+    "people": [
+      {
+        "name": "Bob Isaacson",
+        "role": "Mission Creek Conservancy president"
+      },
+      {
+        "name": "Doug Gardner",
+        "role": "Catellus vice president for Mission Bay"
+      },
+      {
+        "name": "Corinne Woods",
+        "role": "houseboat resident and advisory committee member"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Living Memories, 1987-2010",
+        "publisher": "FoundSF (Chris Carlsson, from Vanished Waters 2nd ed.)",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1987-2010",
+        "supports": "Conservancy founding, 1991 and 1995 plans, 1998 rip-rap ads and cost, Gardner meeting and quote, wildlife return"
+      },
+      {
+        "title": "Still Afloat / Mission Creek's houseboat community lives on",
+        "publisher": "SFGATE (Carol Lloyd)",
+        "year": 2001,
+        "url": "https://www.sfgate.com/entertainment/article/Still-Afloat-Mission-Creek-s-houseboat-3240003.php",
+        "supports": "Davis and Wood(s) appointed to the citizens' advisory committee by Mayor Willie Brown"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-genentech-hall-settlement",
+    "title": "A campus built on a patent fight",
+    "theme": "modern-city",
+    "year": 1999,
+    "place": {
+      "label": "Genentech Hall, UCSF Mission Bay, 600 16th Street",
+      "lat": 37.7671,
+      "lon": -122.39228,
+      "precision": "building"
+    },
+    "hook": "The first research building on UCSF's new Mission Bay campus was paid for partly by the company the university had sued over human growth hormone.",
+    "story": "In 1990 the University of California sued Genentech, claiming the biotech pioneer's human growth hormone drug infringed a UC patent covering genetic material from UCSF labs [1][2]. A 1999 jury upheld the patent but deadlocked on infringement, and a second trial was set for January 2000 [1][2]. On November 19, 1999, the two sides settled instead. Genentech agreed to pay $150 million, plus $50 million toward the first biological sciences research building on Mission Bay, which the press release called 'a new 43-acre research and teaching campus'. The building would carry a name Genentech proposed [1]. The deal admitted no wrongdoing. Genentech chief Arthur Levinson, himself a former UCSF postdoc, said the company wanted to avoid 'another jury trial covering complex patent issues' [1]. Under UC patent policy, the three inventors and two collaborators were to share roughly $85 million [1]. The result was Genentech Hall, which was under construction by late 1999: the first building of a campus that would turn old railyards into a biomedical research district [3].",
+    "people": [
+      {
+        "name": "Arthur D. Levinson",
+        "role": "Genentech chairman and CEO"
+      },
+      {
+        "name": "J. Michael Bishop",
+        "role": "UCSF chancellor and Nobel laureate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "University of California and Genentech Settle Patent Infringement Lawsuits (press release, Nov 19, 1999)",
+        "publisher": "Genentech (Internet Archive copy)",
+        "year": 1999,
+        "url": "http://web.archive.org/web/20191122080923/https://www.gene.com/media/press-releases/4887/1999-11-19/university-of-california-and-genentech-s",
+        "supports": "settlement terms, $50M building contribution, 43-acre campus, quotes, inventor shares, trial history"
+      },
+      {
+        "title": "Genentech",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Genentech",
+        "supports": "1990 suit, Protropin growth hormone, 1999 jury finding"
+      },
+      {
+        "title": "Living Memories, 1987-2010",
+        "publisher": "FoundSF (Chris Carlsson)",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1987-2010",
+        "supports": "1999 aerial: Genentech Hall under construction while most of Mission Bay lay dormant"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-pac-bell-park",
+    "title": "A ballpark on the old warehouse wharf",
+    "theme": "architecture-landmarks",
+    "year": 2000,
+    "place": {
+      "label": "Oracle Park, 24 Willie Mays Plaza",
+      "lat": 37.77861,
+      "lon": -122.38917,
+      "precision": "building"
+    },
+    "hook": "The Giants' new park was the first major-league stadium built without public money since Dodger Stadium, and its brick arches echo the warehouse it replaced.",
+    "story": "Voters in San Francisco, Santa Clara and San Jose had all rejected public financing for a new Giants stadium. The team's new owner, Peter Magowan, found a way to build one privately [1]. Ground was broken at China Basin on December 11, 1997, and the $357 million ballpark opened in 2000 as Pacific Bell Park [1][2]. It was the first big-league park built without public funds since Dodger Stadium in 1962, though the city gave a $10 million tax abatement and $80 million in infrastructure, including a Muni extension and a new I-280 ramp [1][2]. Before the Giants, stevedores and switch engines worked this wharf, moving cargo between freighters in China Basin and a warehouse on the site; the right-field wall's arched openings mimic that warehouse's windows [3]. The water beyond became McCovey Cove, named for the Giants' great first baseman [2][3]. The hated Dodgers swept the first three games played there [1]. The name changed to SBC, AT&T and then Oracle Park [2].",
+    "people": [
+      {
+        "name": "Peter Magowan",
+        "role": "Giants owner who financed the park privately"
+      },
+      {
+        "name": "Willie McCovey",
+        "role": "Giants first baseman the cove is named for"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pac Bell Ballpark",
+        "publisher": "FoundSF (Travis Duncan, Chris Carlsson)",
+        "year": 2020,
+        "url": "https://www.foundsf.org/index.php?title=Pac_Bell_Ballpark",
+        "supports": "failed public votes, Magowan's private financing, tax abatement and infrastructure, construction start, Dodgers sweep"
+      },
+      {
+        "title": "Oracle Park",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Oracle_Park",
+        "supports": "groundbreaking date, cost, first privately funded since 1962, naming history"
+      },
+      {
+        "title": "McCovey Cove",
+        "publisher": "FoundSF (Abigail Johnston)",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=McCovey_Cove",
+        "supports": "stevedores and switch engines on the wharf, warehouse on the site, arched right-field wall, cove naming"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-bonds-756",
+    "title": "756, and the asterisk ball",
+    "theme": "modern-city",
+    "year": 2007,
+    "place": {
+      "label": "Oracle Park right-center bleachers",
+      "lat": 37.7778,
+      "lon": -122.3905,
+      "precision": "building"
+    },
+    "hook": "At 8:51 p.m. on August 7, 2007, Barry Bonds passed Hank Aaron. The ball went to a Mets fan, then to a designer, then to a vote.",
+    "story": "Boats and kayaks crowd McCovey Cove on game days hoping for a 'splash hit', and Bonds landed 35 of them there in his career [2]. At 8:51 p.m. Pacific time, with one out in the fifth inning, he hit a full-count pitch from Washington's Mike Bacsik 435 feet into the right-center bleachers. It was his 756th, breaking Hank Aaron's career record [1]. His son Nikolai, the Giants' batboy, met him at home plate, and even the Nationals applauded [1]. Bacsik's father had pitched to Aaron in 1976, after Aaron's last home run [1]. The ball was grabbed by Matt Murphy, a Mets fan from Queens passing through on his way to Australia [1][3]. He sold it for more than $750,000 to fashion designer Marc Ecko, who let the public decide its fate: give it to the Hall of Fame, brand it with an asterisk first, or launch it into space. With 47 percent of more than 10 million votes, the asterisk won [3]. That verdict on the steroid era was itself controversial. Bonds vowed to boycott any Hall display of it, and in 2008 the Hall balked when the gift became a loan [3].",
+    "people": [
+      {
+        "name": "Barry Bonds",
+        "role": "Giants slugger"
+      },
+      {
+        "name": "Mike Bacsik",
+        "role": "Nationals pitcher"
+      },
+      {
+        "name": "Matt Murphy",
+        "role": "fan who caught the ball"
+      },
+      {
+        "name": "Marc Ecko",
+        "role": "designer who bought the ball"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bonds passes Aaron (MLB.com report, reprinted)",
+        "publisher": "Salem-News.com",
+        "year": 2007,
+        "url": "http://www.salem-news.com/articles/august082007/bonds_folo_080807.php",
+        "supports": "time, inning, pitcher, distance, Murphy, Nikolai, Bacsik's father"
+      },
+      {
+        "title": "McCovey Cove",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/McCovey_Cove",
+        "supports": "Bonds's 35 splash hits; boats and kayaks in the cove"
+      },
+      {
+        "title": "Thanks, Hall: Bonds' 756 Ball Not Accepted",
+        "publisher": "Bleacher Report (Zach Fein)",
+        "year": 2008,
+        "url": "https://bleacherreport.com/articles/34076-thanks-hall-bonds-756-ball-not-accepted",
+        "supports": "Murphy's sale to Ecko, fan vote results, Hall's 2008 refusal of a loan"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-yamanaka-gladstone",
+    "title": "A Nobel for rewinding cells",
+    "theme": "modern-city",
+    "year": 2012,
+    "place": {
+      "label": "Gladstone Institutes, 1650 Owens Street",
+      "lat": 37.76762,
+      "lon": -122.39432,
+      "precision": "building"
+    },
+    "hook": "In a lab on reclaimed railyard in Mission Bay, a Japanese doctor turned stem-cell pioneer keeps working on the discovery that won him the Nobel.",
+    "story": "Shinya Yamanaka trained as a doctor in Japan, including a residency at National Osaka Hospital, then came to San Francisco as a postdoctoral fellow at the Gladstone Institute of Cardiovascular Disease from 1993 to 1995 [1]. Back in Japan in 2006, he showed that ordinary adult cells could be reprogrammed into an embryonic-like state by delivering a handful of transcription factors. These 'induced pluripotent stem' (iPS) cells can in principle become any cell in the body [1][2]. In 2007 he returned to Gladstone as a senior investigator, while also leading Kyoto University's iPS center [1]. Gladstone, founded in 1979 at San Francisco General Hospital, had moved to Owens Street beside UCSF's new Mission Bay campus [3]. On October 8, 2012, the Nobel Assembly awarded the Prize in Physiology or Medicine jointly to Yamanaka and John Gurdon, who had shown in 1962 that a frog cell's specialisation could be reversed [2]. The Nobel committee said their discoveries had 'revolutionised our understanding of how cells and organisms develop' [2]. Gladstone lists him as a senior investigator and UCSF professor of anatomy [1].",
+    "people": [
+      {
+        "name": "Shinya Yamanaka",
+        "role": "stem-cell scientist, 2012 Nobel laureate"
+      },
+      {
+        "name": "John B. Gurdon",
+        "role": "co-laureate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Shinya Yamanaka, MD, PhD",
+        "publisher": "Gladstone Institutes",
+        "year": 2024,
+        "url": "https://gladstone.org/people/shinya-yamanaka",
+        "supports": "career dates, 2006 iPS discovery, senior investigator since 2007, UCSF title"
+      },
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 2012 - Press release",
+        "publisher": "NobelPrize.org",
+        "year": 2012,
+        "url": "https://www.nobelprize.org/prizes/medicine/2012/press-release/",
+        "supports": "award date, co-laureate, Gurdon's 1962 experiment, quote"
+      },
+      {
+        "title": "Gladstone Institutes",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Gladstone_Institutes",
+        "supports": "1979 founding at SF General, 1650 Owens St beside UCSF Mission Bay"
+      }
+    ],
+    "yearEnd": null,
+    "photo": null
+  },
+  {
+    "id": "mission-bay-chase-center",
+    "title": "The Warriors come back across the bay",
+    "theme": "modern-city",
+    "year": 2014,
+    "yearEnd": 2019,
+    "place": {
+      "label": "Chase Center, 1 Warriors Way (Third and 16th streets)",
+      "lat": 37.768,
+      "lon": -122.38756,
+      "precision": "building"
+    },
+    "hook": "The Warriors wanted a waterfront arena on the Embarcadero. A 75-year-old ex-mayor with a battered whiteboard helped push them to a Mission Bay lot instead.",
+    "story": "The Golden State Warriors first planned an 18,000-seat arena on Piers 30-32 by the Bay Bridge, a project Mayor Ed Lee called 'my legacy project' [1]. Former mayor Art Agnos, 75, led the opposition with a battered whiteboard, a tattered sign-up sheet and a homemade presentation that he took to community rooms two or three times a week. He called it a view-killer 'all dressed up in a basketball uniform', pushed by 'two billionaires, neither of whom lives here' [2]. In April 2014 the team gave up the pier and bought a 12-acre Mission Bay site at Third and 16th streets from Salesforce, which had once planned its headquarters there [1]. The new location avoided a likely public vote, had a Muni stop at its door and satisfied many critics [1]. The Chase Center opened on September 6, 2019, returning the Warriors to San Francisco after almost five decades in Oakland, and seats 18,064 for basketball [3]. In 2025 it also became home to the WNBA's Golden State Valkyries [3].",
+    "people": [
+      {
+        "name": "Art Agnos",
+        "role": "former mayor who led opposition to the pier arena"
+      },
+      {
+        "name": "Rick Welts",
+        "role": "Warriors president"
+      },
+      {
+        "name": "Ed Lee",
+        "role": "mayor"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Warriors shift arena plans to Mission Bay",
+        "publisher": "San Francisco Chronicle / SFGATE (John Coté)",
+        "year": 2014,
+        "url": "http://www.sfgate.com/warriors/article/Warriors-shift-arena-plans-to-Mission-Bay-5418579.php",
+        "supports": "abandonment of Piers 30-32, Salesforce site purchase, 12 acres, Lee quote, benefits of the site"
+      },
+      {
+        "title": "Agnos' homespun crusade to block Warriors arena",
+        "publisher": "San Francisco Chronicle / SFGATE (Carla Marinucci)",
+        "year": 2013,
+        "url": "http://www.sfgate.com/warriors/article/Agnos-homespun-crusade-to-block-Warriors-arena-5004337.php",
+        "supports": "Agnos's campaign, whiteboard, quotes, age"
+      },
+      {
+        "title": "Chase Center",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Chase_Center",
+        "supports": "opening date, capacity, Oakland years, Valkyries"
+      }
+    ],
+    "photo": null
+  }
+]

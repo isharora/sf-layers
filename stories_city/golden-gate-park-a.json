@@ -1,0 +1,793 @@
+[
+  {
+    "id": "golden-gate-park-flyshacker-valley",
+    "title": "Leveling Flyshacker Valley by Hand",
+    "theme": "labor-industry",
+    "year": 1871,
+    "yearEnd": 1872,
+    "place": {
+      "label": "The Panhandle (then 'The Avenue'), between Baker and Stanyan",
+      "lat": 37.772,
+      "lon": -122.4505,
+      "precision": "area"
+    },
+    "hook": "Before there was a park there was a sandy hollow, a 24-year-old surveyor, and a hundred men moving 273,000 cubic yards of sand.",
+    "story": "In August 1870, visitors to the Masonic Cemetery could look downhill into sandy \"Flyshacker Valley\" and watch a survey party staking out San Francisco's new park [1]. The surveyor was William Hammond Hall, just 24, who had won the contract for $4,860 and delivered the survey and a preliminary plan in six months [2]. Work began at the city end. By May 1871 crews were leveling the thirty-acre strip then called The Avenue, today's Panhandle [1]. It looks like a billiard table now, but hills had to be cut and hollows filled: 273,000 cubic yards of sand, moved mostly by men, horses and hand tools, with a steam shovel for the big cuts [1]. More than a hundred men worked the valley at a time. Next came a seventy-foot macadam drive from Baker to Stanyan, the grand approach to the park proper, plus fences, because roaming dairy cows were devouring the new plantings [1]. Hall was named superintendent on August 14, 1871 [2][3], and he laid out curving drives deliberately, to slow fast buggy drivers and shelter visitors from the wind [3].",
+    "people": [
+      {
+        "name": "William Hammond Hall",
+        "role": "Surveyor and first park superintendent"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Quigleys of Golden Gate Park",
+        "publisher": "FoundSF (reprinted from The Argonaut, Angus Macfarlane)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=Quigleys_of_Golden_Gate_Park",
+        "supports": "1870 survey seen from Masonic Cemetery, 'Flyshacker Valley', leveling of The Avenue from May 1871, 273,000 cubic yards, steam shovel, 100+ men, macadam drive Baker to Stanyan, cows"
+      },
+      {
+        "title": "Golden Gate Park History",
+        "publisher": "FoundSF (Christopher Pollock)",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=Golden_Gate_Park_History",
+        "supports": "Hall aged 24 won the survey contract for $4,860 and finished in six months; appointed superintendent August 14, 1871"
+      },
+      {
+        "title": "Early History of Golden Gate Park",
+        "publisher": "Museum of the City of San Francisco (from The San Francisco Almanac)",
+        "year": null,
+        "url": "http://www.sfmuseum.org/hist2/ggpark.html",
+        "supports": "Hall appointed first superintendent August 14, 1871; curving roads to discourage fast drivers and shelter visitors from wind"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-barley-and-dunes",
+    "title": "A Spilled Feed Bag Tames the Dunes",
+    "theme": "parks-nature",
+    "year": 1873,
+    "yearEnd": null,
+    "place": {
+      "label": "West end of the park near Ocean Beach",
+      "lat": 37.7672,
+      "lon": -122.5075,
+      "precision": "area"
+    },
+    "hook": "Newspapers called it a white elephant where grass needed four posts to stop it blowing away. Then some spilled horse feed sprouted.",
+    "story": "In the 1870s most people thought the park's western two-thirds was hopeless. In 1873 the Santa Rosa Press-Democrat called it \"a dreary waste of shifting sand hills where a blade of grass cannot be raised without four posts to keep it from blowing away\" [2]. That year William Hammond Hall began reclaiming the sand at the west end [3]. Lupine alone could not root fast enough to hold the blowing sand near the beach. Then, as park historian Christopher Pollock tells it, barley spilled from a horse's feed bag and sprouted. Hall broadcast barley across the dunes, but it lived only a couple of months [1]. What worked was sea bent grass mixed with yellow lupine, covered with topsoil, manure and organic matter [1]. By 1873 the drifting sand at the beach had been tamed and backed by a fence of boards and posts woven with brush, about 100 feet from the shore [1]. Fertilizer turned political. After the park barred heavy wagons in 1873, the Street Department retaliated by withholding its horse-manure sweepings, and the feud lasted until the mid-1890s [2].",
+    "people": [
+      {
+        "name": "William Hammond Hall",
+        "role": "Park superintendent and engineer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Golden Gate Park History",
+        "publisher": "FoundSF (Christopher Pollock)",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=Golden_Gate_Park_History",
+        "supports": "Lupine failure, spilled barley anecdote, sea bent grass and yellow lupine, soil and manure, 1873 brush fence about 100 feet from shoreline"
+      },
+      {
+        "title": "Turning Sand Into Golden Gate Park",
+        "publisher": "FoundSF",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Turning_Sand_Into_Golden_Gate_Park",
+        "supports": "1873 Santa Rosa Press-Democrat 'white elephant' quote; 1873 wagon ordinance and Street Department manure feud until mid-1890s"
+      },
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "Chronology: 1873 Hall started sand reclamation on west end"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-quigley-family",
+    "title": "The Park's First Family, Beside a Dynamite Works",
+    "theme": "gold-rush-victorian",
+    "year": 1872,
+    "yearEnd": 1912,
+    "place": {
+      "label": "Site of the Quigley house, triangle west of Kezar Stadium near Lincoln Way",
+      "lat": 37.7667,
+      "lon": -122.459,
+      "precision": "block"
+    },
+    "hook": "The park's first laborer raised his family in a house with no plumbing, 250 yards from a factory where nitroglycerin kept exploding.",
+    "story": "Patrick Quigley was born in County Roscommon in 1829, fled the Irish famine, mined gold in Mariposa County and ran the Oak Springs House there. In May 1872 he became Golden Gate Park's first officially appointed laborer, a foreman at $80 a month [1]. The work site was far from town, so the Quigleys got a house on a two-acre triangle west of today's Kezar Stadium, beside an old toll road. It had no indoor plumbing, and water came from a well [1]. Their nearest neighbor, 250 yards south, was the California Powder Works. On June 21, 1872, 1,500 pounds of nitroglycerin exploded there, leaving a crater fifty feet across. More blasts followed in December 1872 and June 1877 [1]. Five Quigley children were born in the park, and three of them died in infancy [1]. Park jobs were precarious too. Hall resigned in 1876 after his salary was cut in half [2], and in 1882 commissioners debated firing Quigley. Hall had praised him as \"the oldest employee on the force.\" Quigley kept working for forty years and died in his park home in November 1912 [1].",
+    "people": [
+      {
+        "name": "Patrick Quigley",
+        "role": "Park foreman, first appointed laborer"
+      },
+      {
+        "name": "Mary Quigley",
+        "role": "His wife, raised the family in the park"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Quigleys of Golden Gate Park",
+        "publisher": "FoundSF (reprinted from The Argonaut, Angus Macfarlane)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=Quigleys_of_Golden_Gate_Park",
+        "supports": "Quigley biography, May 1872 appointment at $80, house location and conditions, Powder Works explosions of 1872 and 1877, children born and died in park, 1882 debate, Hall's praise, death in 1912"
+      },
+      {
+        "title": "Golden Gate Park History",
+        "publisher": "FoundSF (Christopher Pollock)",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=Golden_Gate_Park_History",
+        "supports": "Hall resigned in 1876 when his salary was cut in half"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-conservatory-of-flowers",
+    "title": "A Dead Millionaire's Greenhouse Kit",
+    "theme": "architecture-landmarks",
+    "year": 1879,
+    "yearEnd": null,
+    "place": {
+      "label": "Conservatory of Flowers, 100 John F. Kennedy Drive",
+      "lat": 37.77247,
+      "lon": -122.4602,
+      "precision": "building"
+    },
+    "hook": "The park's oldest building was meant for a San Jose estate, until its eccentric buyer died and the crates of glass needed a new home.",
+    "story": "The glass palace above Conservatory Valley was meant for San Jose. The eccentric millionaire James Lick bought the materials, believed to be a kit from the greenhouse makers Lord & Burnham, for his estate. He died in 1876 before it was built [1]. The crates passed through his estate, and in 1877 a group of 27 prominent San Franciscans bought them and gave them to the park. The group included Leland Stanford, Charles Crocker, Claus Spreckels and former mayor William Alvord [1][2]. It went up in 1878 and opened in April 1879 [1][3]. Its frame is wood, not iron. Materials analysis suggests California redwood, cut into short arch pieces and glazed with panes that overlap like shingles [1]. Early visitors came to see a giant water lily, Victoria regia, then said to be the only specimen in the United States [1]. Disaster struck early: an 1883 fire badly damaged the central Palm Room, and its dome was rebuilt [1]. Today it is North America's oldest public wood-and-glass conservatory [4], and one of only three San Francisco buildings that are city, state and national landmarks at once [3].",
+    "people": [
+      {
+        "name": "James Lick",
+        "role": "Original purchaser of the conservatory materials"
+      },
+      {
+        "name": "Lord & Burnham",
+        "role": "Greenhouse manufacturer"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Conservatory of Flowers",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Conservatory_of_Flowers",
+        "supports": "Lick purchase, 27 donors, 1878 erection, April 1879 opening, redwood arches and lapped glazing, Victoria regia, 1883 fire"
+      },
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "Chronology: 1877 conservatory purchased from Lick estate; 1878 constructed"
+      },
+      {
+        "title": "San Francisco Landmark #50: Conservatory of Flowers",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf050.asp",
+        "supports": "Built 1878-1879; city, state and national landmark, a distinction shared only with Mission Dolores and the Old Mint"
+      },
+      {
+        "title": "Conservatory of Flowers",
+        "publisher": "Gardens of Golden Gate Park",
+        "year": null,
+        "url": "https://gggp.org/conservatory-of-flowers/",
+        "supports": "Oldest public wood-and-glass conservatory in North America"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-childrens-quarters",
+    "title": "A Playground for Children and Their Mothers",
+    "theme": "gold-rush-victorian",
+    "year": 1888,
+    "yearEnd": null,
+    "place": {
+      "label": "Children's Quarters and Sharon Building, off Bowling Green Drive",
+      "lat": 37.76792,
+      "lon": -122.45905,
+      "precision": "block"
+    },
+    "hook": "Long before playgrounds were ordinary, Victorian San Francisco built a sandstone canteen, swings and a carousel just for children.",
+    "story": "William Hammond Hall designed a \"Children's Quarters\" for the park. When John McLaren arrived as Hall's assistant in 1887, landscaping it was one of his first jobs [1]. The centerpiece was designed by the architects George W. Percy and Frederick F. Hamilton: a sandstone building in the Richardsonian Romanesque style that served as a canteen for children and the mothers who brought them [2]. The park's chronology records the plans being accepted in 1887 and the playground dedicated in 1888, with the first carousel in 1889 (it also lists the Sharon Building as completed in 1890) [3]. The playground is often described as the first public children's playground in the United States. It was funded by a bequest from William Sharon, whose name the building still carries [4]. Over the years the quarters offered more than swings. At various times donkeys and goats gave children rides, and chickens lived in an imitation barnyard [1]. The Sharon Building was damaged in 1906 and by fire in 1974, restored both times, and now houses the Sharon Art Studio [2].",
+    "people": [
+      {
+        "name": "William Sharon",
+        "role": "Benefactor (bequest)"
+      },
+      {
+        "name": "George W. Percy and Frederick F. Hamilton",
+        "role": "Architects"
+      },
+      {
+        "name": "John McLaren",
+        "role": "Landscaped the Children's Quarters"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Golden Gate Park History",
+        "publisher": "FoundSF (Christopher Pollock)",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=Golden_Gate_Park_History",
+        "supports": "Hall designed the Children's Quarters; McLaren assigned to landscape it; donkeys, goats and imitation barnyard"
+      },
+      {
+        "title": "San Francisco Landmark #124: Sharon Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf124.asp",
+        "supports": "1888, Percy and Hamilton, Richardsonian Romanesque canteen for children and mothers; 1906 and 1974 damage; Sharon Art Studio"
+      },
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "Chronology: plans accepted 1887, playground dedicated 1888, first carousel 1889, Sharon Building completed 1890"
+      },
+      {
+        "title": "Golden Gate Park",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Golden_Gate_Park",
+        "supports": "Funded by William Sharon's bequest; described as first public children's playground in the US"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-alvord-lake-bridge",
+    "title": "Fake Stalactites and a Concrete First",
+    "theme": "architecture-landmarks",
+    "year": 1889,
+    "yearEnd": null,
+    "place": {
+      "label": "Alvord Lake Bridge, near Haight and Stanyan",
+      "lat": 37.769,
+      "lon": -122.45489,
+      "precision": "building"
+    },
+    "hook": "The walk from Haight Street into the park passes through a fake cave, and under America's first reinforced concrete bridge.",
+    "story": "In 1881 park commissioner and former mayor William Alvord gave $200 for a lily pond near the Haight Street entrance. The shallow basin was the park's first man-made lake [1], and the park's chronology dates its construction to 1882 [2]. In 1889, beside it, Ernest L. Ransome built something more important: a single-arch underpass considered the first reinforced concrete bridge in the United States [3][4]. Ransome set square, cold-twisted steel bars, his own patented invention, along the underside of the arch, bent to follow its curve [3]. To dress up the new material, the outside was scored and hammered to look like sandstone. The ceiling of the passage was sculpted with concrete \"stalactites,\" like a cave [4]. Ransome later left San Francisco, frustrated that local builders ignored concrete [4]. He was proved right in 1906, when the bridge and many of his concrete buildings came through the earthquake undamaged [3]. The American Society of Civil Engineers made it a landmark in 1969 [4]. Visitors from the Haight still walk through Ransome's grotto into the park.",
+    "people": [
+      {
+        "name": "Ernest L. Ransome",
+        "role": "Engineer and concrete innovator"
+      },
+      {
+        "name": "William Alvord",
+        "role": "Park commissioner, donor of the lake"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Quigleys of Golden Gate Park",
+        "publisher": "FoundSF (reprinted from The Argonaut, Angus Macfarlane)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=Quigleys_of_Golden_Gate_Park",
+        "supports": "1881 Alvord $200 donation for a lily pond near Haight entrance, first man-made lake in the park"
+      },
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "Chronology: 1882 Alvord Lake constructed; 1889 Alvord Bridge, first reinforced concrete bridge (Ransome)"
+      },
+      {
+        "title": "Alvord Lake Bridge",
+        "publisher": "American Society of Civil Engineers",
+        "year": null,
+        "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/alvord-lake-bridge",
+        "supports": "1889, first reinforced concrete bridge in US, cold-twisted square bars bent to the arch, survived 1906"
+      },
+      {
+        "title": "Alvord Lake Bridge",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Alvord_Lake_Bridge",
+        "supports": "Faux sandstone face, concrete stalactites, Ransome's frustration, ASCE landmark 1969"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-relief-road",
+    "title": "Eighteen Hundred Men and a Road",
+    "theme": "labor-industry",
+    "year": 1890,
+    "yearEnd": 1894,
+    "place": {
+      "label": "Middle Drive West, built by relief workers",
+      "lat": 37.76682,
+      "lon": -122.4928,
+      "precision": "street"
+    },
+    "hook": "In the hard spring of 1890, the jobless of San Francisco dug a road through the sand dunes for $1.50 a day.",
+    "story": "Hard times hit San Francisco in early 1890, and a charitable relief fund decided to put jobless men to work in Golden Gate Park at $1.50 a day. Their job was to cut a rough road through the sand, from today's Transverse and Overlook drives west toward what is now JFK Drive and Bernice Rodgers Way [1]. On March 11, 150 men were at work. Two days later there were 600, and by March 25 there were 1,800, all with shovels and wheelbarrows [1]. By mid-April the 1.5-mile road was roughed out, and donors had pledged more than $31,000, roughly twenty thousand days of work [1]. Foreman Patrick Quigley's crews then graded and surfaced it. The route survives as Overlook Drive, Middle Drive West and part of MLK Drive [1], and the park's chronology records Middle Drive being built in 1890 [2]. It happened again in the depression of 1894. A citizens' relief committee sent up to 2,800 men into the park at a dollar a day, on ten-day work tickets. The first ticket went to Jerry Sullivan, a San Franciscan of 21 years with a wife and six children, described as \"utterly without means and hungry\" [3].",
+    "people": [
+      {
+        "name": "Patrick Quigley",
+        "role": "Park foreman"
+      },
+      {
+        "name": "Jerry Sullivan",
+        "role": "First recipient of an 1894 relief work ticket"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Quigleys of Golden Gate Park",
+        "publisher": "FoundSF (reprinted from The Argonaut, Angus Macfarlane)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=Quigleys_of_Golden_Gate_Park",
+        "supports": "1890 relief fund, $1.50 a day, route, daily worker counts to 1,800, $31,000, 20,000 man-days, later grading, present-day road names"
+      },
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "Chronology: 1890 Middle Drive constructed (Overlook, Middle, South)"
+      },
+      {
+        "title": "California Midwinter Fair of 1894: Depression and Poverty",
+        "publisher": "FoundSF (Barbara Berglund)",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=California_Midwinter_Fair_of_1894:_Depression_and_Poverty",
+        "supports": "1894 Citizens' Executive Committee relief work in the park: up to 2,800 men, $1 a day, ten-day tickets, Jerry Sullivan received first ticket"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-ben-harrison-bison",
+    "title": "Ben Harrison and Sarah Bernhardt, Bison",
+    "theme": "parks-nature",
+    "year": 1891,
+    "yearEnd": null,
+    "place": {
+      "label": "Bison Paddock, off John F. Kennedy Drive",
+      "lat": 37.7695,
+      "lon": -122.499,
+      "precision": "area"
+    },
+    "hook": "With American bison nearly wiped out, San Francisco brought a bull from Wyoming, named him after the president, and found him a mate.",
+    "story": "By 1890, one estimate holds, only about 800 American bison survived of the 50 million that had roamed the plains in 1800 [1]. San Francisco decided to help. Pushed by Superintendent John McLaren, the city brought a bull from Wyoming to Golden Gate Park in 1891 and named him Ben Harrison, after the sitting president [1]. The park's master-plan chronology dates the purchase to 1890 [2]. Ben was soon joined by a cow named Sarah Bernhardt, after the famous actress, and the pair started a herd [1]. Later arrivals had names like Grover Cleveland and Bill McKinley, and some bison came from Yellowstone. By 1918 there were 30 in the herd [1]. They shared the park with a changing menagerie that at various times included elk, deer, moose, antelope and bears [3]. The bison moved to their present paddock in the western park around 1900 [2]. Their descendants still graze there, and the herd has produced about 500 calves [1].",
+    "people": [
+      {
+        "name": "John McLaren",
+        "role": "Park superintendent"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Buffalo",
+        "publisher": "FoundSF (Art Peterson, from 'Why Is That Bridge Painted Orange?')",
+        "year": 2013,
+        "url": "https://www.foundsf.org/index.php?title=Buffalo",
+        "supports": "1891 arrival from Wyoming, Ben Harrison and Sarah Bernhardt, population figures, later namesakes, 30 by 1918, 500 calves"
+      },
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "Chronology: buffalo purchased by Park Commission 1890; moved to present location 1900"
+      },
+      {
+        "title": "Golden Gate Park History",
+        "publisher": "FoundSF (Christopher Pollock)",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=Golden_Gate_Park_History",
+        "supports": "Park menagerie of deer, elk, moose, caribou, antelope and bears"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-sweeny-observatory",
+    "title": "A Castle for the View",
+    "theme": "architecture-landmarks",
+    "year": 1891,
+    "yearEnd": 1906,
+    "place": {
+      "label": "Summit of Strawberry Hill, Stow Lake",
+      "lat": 37.7686,
+      "lon": -122.4757,
+      "precision": "area"
+    },
+    "hook": "A landowner's gift put a mock castle on the park's highest hill, and opened the door to naming park features after donors.",
+    "story": "In April 1886 the park cut a road to the top of Strawberry Hill for a planned reservoir. The view proved so popular [2] that Thomas U. Sweeny gave $8,000 for a lookout. On September 9, 1891, a castle-like observatory of red-tinted concrete was dedicated on the summit [1][3]. It was less an observatory than a walled windbreak: carriages drove straight into its circular court. A glassed-in second story was added in 1892, and a plaque read \"Park Panorama, Gift of Thos. U. Sweeny, 1891\" [1]. Historian Woody LaBounty calls it perhaps the first park gift that required the donor's name to be attached. Ray Clary wrote that accepting it reversed the park's ban on \"personal advertisement and self-aggrandizement\" [1]. Hall, who wanted a park free of monuments, was offended [1]. Soon Huntington Falls poured from a pool in front of the observatory into the new Stow Lake [1]. Sweeny could see his gift from home near today's 7th Avenue and Judah until he died in 1900. The 1906 earthquake wrecked it, and Hall is quoted seeing the hand of \"a Higher Power\" [1].",
+    "people": [
+      {
+        "name": "Thomas U. Sweeny",
+        "role": "Landowner and donor"
+      },
+      {
+        "name": "William Hammond Hall",
+        "role": "Park designer who objected"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sweeny Observatory: A Closer Look",
+        "publisher": "FoundSF (Woody LaBounty, from OpenSFHistory)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Sweeny_Observatory:_A_Closer_Look",
+        "supports": "$8,000 gift, dedication September 9, 1891, design, 1892 second story, plaque text, naming precedent, Clary and Hall quotes, Huntington Falls, Sweeny's home and death, 1906 destruction"
+      },
+      {
+        "title": "Quigleys of Golden Gate Park",
+        "publisher": "FoundSF (reprinted from The Argonaut, Angus Macfarlane)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=Quigleys_of_Golden_Gate_Park",
+        "supports": "Road to Strawberry Hill summit built April 1886 for reservoir; popularity of the view led to Sweeney's observatory"
+      },
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "Chronology: Sweeney Observatory dedicated 1891 (Percy and Hamilton); destroyed 1906"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-bonet-electric-tower",
+    "title": "The Electric Tower That Wouldn't Fall",
+    "theme": "architecture-landmarks",
+    "year": 1894,
+    "yearEnd": 1896,
+    "place": {
+      "label": "Music Concourse, site of the Midwinter Fair's Grand Court",
+      "lat": 37.7704,
+      "lon": -122.4674,
+      "precision": "area"
+    },
+    "hook": "The Midwinter Fair's 266-foot tower of light outstayed its welcome, so the park foreman came back with thirty pounds of dynamite.",
+    "story": "The Midwinter Fair was the answer of Chronicle publisher Michael H. de Young to a national depression: a California world's fair that opened on January 27, 1894, on 200 acres east of the new Stow Lake [1]. Its symbol, rising over the Grand Court (today's Music Concourse), was the Bonet Electric Tower, 266 feet of iron and steel [2]. Designed by Leopold Bonet, it carried about 3,200 colored lights and a searchlight that swept the park [3]. More than two million people visited before the fair closed six months later [1]. McLaren had fought to keep the fair out. It left the park in a \"deplorable state,\" and repairs took sixty men and twelve teams several months [2]. Eighteen months after closing, the tower still stood. On January 11, 1896, a dynamite charge failed to bring it down. The next morning foreman Patrick Quigley came back with more. \"Now don't be at all sparing with that stuff, Quigley,\" McLaren told him. Quigley packed thirty pounds into the footings, pushed the crowd back and gave the signal [2]. The fair's Fine Arts Building lived on as the first de Young Museum [1].",
+    "people": [
+      {
+        "name": "Michael H. de Young",
+        "role": "Fair promoter"
+      },
+      {
+        "name": "Leopold Bonet",
+        "role": "Tower designer"
+      },
+      {
+        "name": "Patrick Quigley",
+        "role": "Park foreman who demolished the tower"
+      },
+      {
+        "name": "John McLaren",
+        "role": "Park superintendent"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "De Young's role, January 27, 1894 opening, 200 acres east of Stow Lake, over two million visitors, Fine Arts Building became museum, Grand Court became Music Concourse"
+      },
+      {
+        "title": "Quigleys of Golden Gate Park",
+        "publisher": "FoundSF (reprinted from The Argonaut, Angus Macfarlane)",
+        "year": 2024,
+        "url": "https://www.foundsf.org/index.php?title=Quigleys_of_Golden_Gate_Park",
+        "supports": "266-foot Bonet Tower, damage to park, 1896 dynamiting and McLaren-Quigley exchange"
+      },
+      {
+        "title": "California Midwinter International Exposition of 1894",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/California_Midwinter_International_Exposition_of_1894",
+        "supports": "Leopold Bonet design, 3,200 lights, searchlight"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-japanese-village",
+    "title": "A Fair's Japanese Village Takes Root",
+    "theme": "communities",
+    "year": 1894,
+    "yearEnd": 1925,
+    "place": {
+      "label": "Japanese Tea Garden, 75 Hagiwara Tea Garden Drive",
+      "lat": 37.77023,
+      "lon": -122.46952,
+      "precision": "building"
+    },
+    "hook": "Built as an exotic fair exhibit, the Japanese Village became a permanent garden and home to a Japanese immigrant family for decades.",
+    "story": "For the 1894 fair, George Turner Marsh, an Australian-born dealer in Japanese goods, designed a Japanese Village and Tea Garden built by Japanese craftsmen. It had a grand gateway, a tea room of thatch and wood, a three-story theater for a troupe of Japanese jugglers, and ponds, bridges and bonsai [1]. A guidebook promised a single step from \"Western civilization\" into the \"semi-barbaric\" Land of the Mikado [1]. Marsh also supplied jinrikishas for the fairgrounds and hoped Japanese men would pull them. None would, and in the end they were pulled by white men in face paint and Japanese costume [1]. The garden was so popular that park commissioners bought it from Marsh when the fair closed [1]. From 1895 until his death in 1925, its caretaker was Makoto Hagiwara, an immigrant from Yamanashi who turned the exhibit into a permanent garden and, by tradition, introduced the modern fortune cookie there [2]. The garden was enlarged in 1902 [3]. During World War II his descendants were forced out and interned, and the Hagiwara house in the garden was demolished [2][3].",
+    "people": [
+      {
+        "name": "George Turner Marsh",
+        "role": "Creator of the Japanese Village"
+      },
+      {
+        "name": "Makoto Hagiwara",
+        "role": "Caretaker of the garden, 1895-1925"
+      }
+    ],
+    "sources": [
+      {
+        "title": "California Midwinter Fair of 1894: An Orientalist Exposition",
+        "publisher": "FoundSF (Barbara Berglund)",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=California_Midwinter_Fair_of_1894:_An_Orientalist_Exposition",
+        "supports": "Marsh's design, Japanese craftsmen, gateway, tea room, theater, guidebook quote, jinrikishas pulled by white men, park commissioners bought the garden from Marsh"
+      },
+      {
+        "title": "Makoto Hagiwara",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Makoto_Hagiwara",
+        "supports": "Born in Kai (Yamanashi); caretaker 1895-1925; fortune cookie tradition"
+      },
+      {
+        "title": "Golden Gate Park Concourse Authority Projects Final EIR: Historic Resources",
+        "publisher": "San Francisco Planning Department (via Internet Archive)",
+        "year": 2003,
+        "url": "https://archive.org/details/goldengateparkco2003sanf",
+        "supports": "Japanese Tea Garden a relic of the 1894 fair; enlarged 1902; Hagiwara House demolished during WWII"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-fair-color-line",
+    "title": "Human Exhibits and the Color Line",
+    "theme": "civil-rights",
+    "year": 1894,
+    "yearEnd": null,
+    "place": {
+      "label": "Midwinter Fair grounds, east of the Music Concourse",
+      "lat": 37.77,
+      "lon": -122.466,
+      "precision": "area"
+    },
+    "hook": "At the 1894 fair, people were exhibits, a baby was born in a plaster igloo, and San Franciscans of color fought over their place.",
+    "story": "Behind the Midwinter Fair's promise of \"a living and moving encyclopaedia\" of the world were real people on display [2]. The Esquimaux Village covered three acres, with igloos made of plaster, sled dogs and Inuit families from Labrador and Alaska. Francisca Tehama Deer was born there on February 10, 1894, and died in early April. All five children born to Inuit performers at the Chicago and San Francisco fairs died as infants [2]. Historian Mae Silver notes that Black San Franciscans, kept out of white trade unions, had no part in building the fair. When organizers declared May 2 \"Colored Americans Day,\" some Black residents objected to the \"needless drawing of the colored line\" [1]. Asian San Franciscans had to fight harder than other groups to get their own days. On Japanese Day (June 9) and Chinese Day (June 17), many Japanese and Chinese visitors rode in jinrikishas pulled by white men dressed as Japanese. The Chronicle sneered, but historian Barbara Berglund suggests the sight briefly upended the racial order [2].",
+    "people": [
+      {
+        "name": "Francisca Tehama Deer",
+        "role": "Inuit infant born at the fair"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Racism at Golden Gate Park's 1894 Midwinter Fair",
+        "publisher": "FoundSF (Mae Silver)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Racism_at_Golden_Gate_Park%27s_1894_Midwinter_Fair",
+        "supports": "Black workers excluded via unions; May 2, 1894 Colored Americans Day and objections"
+      },
+      {
+        "title": "California Midwinter Fair of 1894: An Orientalist Exposition",
+        "publisher": "FoundSF (Barbara Berglund)",
+        "year": 2007,
+        "url": "https://www.foundsf.org/index.php?title=California_Midwinter_Fair_of_1894:_An_Orientalist_Exposition",
+        "supports": "'Living and moving encyclopaedia'; Esquimaux Village details; Francisca Tehama Deer; infant deaths; Japanese and Chinese Days; jinrikisha rides; interpretation"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-temple-of-music",
+    "title": "A Sugar King's Gift of Free Music",
+    "theme": "arts-counterculture",
+    "year": 1900,
+    "yearEnd": null,
+    "place": {
+      "label": "Spreckels Temple of Music (Bandshell), Music Concourse",
+      "lat": 37.7697,
+      "lon": -122.4686,
+      "precision": "building"
+    },
+    "hook": "On Admission Day 1900, a German-born sugar magnate handed 75,000 people a sandstone bandshell and a promise: music 'rendered free to all.'",
+    "story": "Sunday crowds had outgrown the park's bandstands (the first went up in 1882, a bigger one in 1888). So in 1895 talk began of something grander [1]. Adolph B. Spreckels, president of the Park Commission, persuaded his father, the sugar magnate Claus Spreckels, to pay. Claus put in $75,000 of the $78,810 cost [1]. Architects Reid & Reid designed a 70-foot coffered shell faced in Colusa sandstone, with room for 100 musicians. It stands at the west end of the Music Concourse, the sunken bowl first dug for the 1894 fair [1][2]. It was dedicated on Admission Day, September 9, 1900, the fiftieth anniversary of statehood, before about 75,000 people [1]. Spreckels spoke of his gratitude as an immigrant and said he chose a music stand because music was uplifting and should be \"rendered free to all\" [1]. The concourse and bandshell were designed as one landscape, with pedestrian tunnels and London plane trees [3]. The 1906 earthquake brought down much of its sandstone, but it was repaired and still draws crowds of thousands [1].",
+    "people": [
+      {
+        "name": "Claus Spreckels",
+        "role": "Donor, sugar magnate"
+      },
+      {
+        "name": "Adolph B. Spreckels",
+        "role": "Park Commission president"
+      },
+      {
+        "name": "Reid & Reid",
+        "role": "Architects"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Spreckels Temple of Music",
+        "publisher": "Wikipedia",
+        "year": null,
+        "url": "https://en.wikipedia.org/wiki/Spreckels_Temple_of_Music",
+        "supports": "Earlier bandstands, 1895 discussions, $75,000 of $78,810, Reid & Reid, dimensions, Admission Day 1900, 75,000 attendees, speech, 1906 damage"
+      },
+      {
+        "title": "San Francisco Landmark #249: Music Concourse",
+        "publisher": "NoeHill in San Francisco (quoting Planning Commission Resolution 16671)",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/sf249.asp",
+        "supports": "Concourse designed 1895, built 1896-1900 with Temple of Music, tunnels and plane trees"
+      },
+      {
+        "title": "Golden Gate Park Concourse Authority Projects Final EIR: Historic Resources",
+        "publisher": "San Francisco Planning Department (via Internet Archive)",
+        "year": 2003,
+        "url": "https://archive.org/details/goldengateparkco2003sanf",
+        "supports": "Concourse originally the 1894 fair's Grand Court; Band Shell described as physically and functionally part of the landscape"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-mclaren-lodge",
+    "title": "The Boss Gardener's Stone House",
+    "theme": "parks-nature",
+    "year": 1896,
+    "yearEnd": 1943,
+    "place": {
+      "label": "McLaren Lodge, 501 Stanyan Street",
+      "lat": 37.7722,
+      "lon": -122.45447,
+      "precision": "building"
+    },
+    "hook": "John McLaren lived at the park's front door for 47 years, hiding statues he disliked behind shrubs and outlasting every retirement rule.",
+    "story": "In 1896 the park built a lodge of basalt and sandstone at its Stanyan Street entrance. Architect Edward R. Swain designed it with eighteen-inch walls to hold the Park Commission's offices and a home for the superintendent [1][2]. That superintendent was John McLaren, a Scottish gardener who grew up on a farm near Stirling and trained at Edinburgh's Royal Botanic Garden. He became Hall's assistant in 1887 and superintendent in 1890 [3]. He started with 40 gardeners and eventually led 400. When he came to inspect, workers muttered \"Wild game is coming\" [3]. McLaren disliked statues, which he called \"stookies,\" and when a new one arrived he would reportedly say, \"Aye, then, we'll plant it oot!\" and hide it behind dense shrubs [3]. He refused to retire. When he reached 70 in 1916, the supervisors let him stay in charge for life [3]. He lived in the lodge for 47 years [1]. When he died in 1943, aged 96, he lay in state at City Hall, and his funeral procession passed through the park [3].",
+    "people": [
+      {
+        "name": "John McLaren",
+        "role": "Park superintendent, 1890-1943"
+      },
+      {
+        "name": "Edward R. Swain",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #175: McLaren Lodge",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf175.asp",
+        "supports": "Built 1896, Edward R. Swain, basalt and sandstone walls, offices and superintendent's home, McLaren lived there 47 years"
+      },
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "Chronology: 1896 McLaren Lodge constructed (E.R. Swain)"
+      },
+      {
+        "title": "Golden Gate Park History",
+        "publisher": "FoundSF (Christopher Pollock)",
+        "year": 2001,
+        "url": "https://www.foundsf.org/index.php?title=Golden_Gate_Park_History",
+        "supports": "McLaren biography, 1887 and 1890 appointments, 40 to 400 gardeners, 'Wild game is coming', 'plant it oot' and 'stookies', lifetime tenure, death in 1943 and funeral honors"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-dutch-windmill",
+    "title": "Harnessing the Ocean Wind for Water",
+    "theme": "parks-nature",
+    "year": 1902,
+    "yearEnd": 1903,
+    "place": {
+      "label": "Dutch (North) Windmill, northwest corner of the park",
+      "lat": 37.7705,
+      "lon": -122.5091,
+      "precision": "building"
+    },
+    "hook": "Tired of paying a private water company, the park built a Dutch windmill on the dunes, run best, an engineer said, by a sailor.",
+    "story": "A park built on sand needs endless water, and the private Spring Valley Water Company charged for it. Before the windmill, the park spent $4,800 a year on water [2]. John McLaren and Adolph Spreckels came up with a Dutch-style windmill near the ocean, where the westerly winds blow hardest. Alpheus Bull Jr. designed it [1][2]. Sources disagree on when it was finished (1902 or 1903) and on the cost ($18,160 or $25,000) [1][2]. It stands 75 feet tall and pumped up to 30,000 gallons of well water an hour for irrigation [2]. A 1914 engineering account describes arms 102 feet from tip to tip, a 12-ton revolving cap turned by a small helper windmill, and water that had been filtered through the sand hills, with \"no taint whatsoever\" of the nearby sea. It added that \"a sailor is better operator of the Dutch windmill than an engineer\" [3]. A caretaker and his wife moved into a new cottage and grew vegetables for the park's animals [1]. Its neighbor was the 1878 U.S. Life-Saving Station, whose surfmen rescued people from the Ocean Beach surf [4].",
+    "people": [
+      {
+        "name": "Alpheus Bull Jr.",
+        "role": "Designer"
+      },
+      {
+        "name": "John McLaren",
+        "role": "Park superintendent"
+      },
+      {
+        "name": "Adolph Spreckels",
+        "role": "Park commissioner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #147: Dutch Windmill",
+        "publisher": "NoeHill in San Francisco",
+        "year": null,
+        "url": "https://noehill.com/sf/landmarks/sf147.asp",
+        "supports": "Conceived by McLaren and Adolph Spreckels, Alpheus Bull Jr., 1902, $25,000, caretaker couple grew vegetables for the menagerie"
+      },
+      {
+        "title": "Dutch Windmill",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/dutch_windmill.php",
+        "supports": "Erected 1903, cost $18,160, 75 feet tall, 30,000 gallons an hour, $4,800 a year paid to Spring Valley"
+      },
+      {
+        "title": "'Pacific Service' as an Aid to Nature in Golden Gate Park (Pacific Service Magazine, June 1914)",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 1914,
+        "url": "http://www.sfmuseum.org/hist/wmill.html",
+        "supports": "102-foot arms, 12-ton turntable, helper windmill, sand-filtered fresh water, sailor quote"
+      },
+      {
+        "title": "Windmill & U.S. Life Boat Station",
+        "publisher": "FoundSF (Jeremy Menzies)",
+        "year": null,
+        "url": "https://www.foundsf.org/index.php?title=Windmill_%26_U.S._Life_Boat_Station",
+        "supports": "Life-Saving Station built 1878 beside the windmill site; surfmen rescued people in the surf"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "golden-gate-park-park-bums",
+    "title": "The Proud Park Bums of Big Rec",
+    "theme": "gold-rush-victorian",
+    "year": 1902,
+    "yearEnd": null,
+    "place": {
+      "label": "Big Rec ball fields, opposite Seventh Avenue",
+      "lat": 37.7672,
+      "lon": -122.4645,
+      "precision": "area"
+    },
+    "hook": "Unemployed men started a pickup baseball game in the 1890s, called themselves the Park Bums, and cursed badly enough to alarm the commissioners.",
+    "story": "The park's chronology records a ball ground first discussed in 1885 and laid out in Recreation Valley, the \"Big Rec,\" in 1893 [2]. Around then, according to a 1937 Chronicle account, a group of perpetually unemployed men began choosing up sides on the lawn opposite Seventh Avenue. They became the Golden Gate Park Bums [1]. They wore the insult proudly. Men with jobs were later allowed to play on Sundays, but weekday games were kept for the unemployed [1]. The Bums had no officers and no membership list. A newcomer showed up every Sunday with a glove and waited, sometimes for weeks, to be picked [1]. Full uniforms were for fops. A longtime third baseman called Old Jeff played in corduroy pants, a vest and a derby hat [1]. Not everyone was charmed. Park Commission minutes from 1902 record complaints about \"profane and obscene language indulged in by the ball players in the park on Sundays and weekdays in the presence of ladies and children,\" and ask for more police patrols [1]. That same year the city added handball courts at the Big Rec grounds [2].",
+    "people": [
+      {
+        "name": "Old Jeff",
+        "role": "Longtime Park Bums third baseman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Golden Gate Park Bums (San Francisco Chronicle, July 22, 1937, by Will Connolly)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 1937,
+        "url": "https://www.outsidelands.org/parkbums.php",
+        "supports": "Origins in the 1890s opposite Seventh Avenue, unemployed founders, customs, Old Jeff, 1902 Park Commission minutes quote"
+      },
+      {
+        "title": "Draft Golden Gate Park Master Plan: Park History",
+        "publisher": "San Francisco Recreation and Park Department (via Internet Archive)",
+        "year": 1995,
+        "url": "https://archive.org/details/draftgoldengatep1995roys",
+        "supports": "Chronology: Big Rec discussed 1885, developed 1893; handball courts at Recreation Grounds 1902"
+      }
+    ],
+    "photo": null
+  }
+]

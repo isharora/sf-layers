@@ -1,0 +1,677 @@
+[
+  {
+    "id": "south-of-market-mint-saved-1906",
+    "title": "Fifty Men, One Well, and the Nation's Gold",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "Old U.S. Mint, 88 Fifth Street at Mission",
+      "lat": 37.78274306827716,
+      "lon": -122.40720318071902,
+      "precision": "building"
+    },
+    "hook": "As fire swept South of Market, a few dozen mint workers with one artesian well and two hoses refused to abandon a third of America's gold.",
+    "story": "On April 18, 1906, fire swept South of Market \"as though through dry grass,\" refinery worker Joe Hammill wrote to his brother a few weeks later. Inside the U.S. Mint at Fifth and Mission sat more than $300 million, about a third of the nation's gold reserves [1][2]. Some fifty employees reached the building before soldiers closed the streets. Superintendent Frank A. Leach took his turn on the hose, and engineer Jack Brady raced to repair quake-broken pump connections so the mint's own artesian well could feed two streams of water [1]. As the Emporium and Hale's burned toward Market Street, flames leapt 200 feet against the north wall. Windows melted, stone blocks burst \"like shells exploding,\" and the men were ordered downstairs, believing the mint was doomed, before fighting their way back up to douse the refinery and the red-hot copper roof [1]. The building survived, one of very few south of Market to do so [2]. For months afterward electrician John James Marshall lived inside, and converted a steam generator so the mint became the only lit building in the blackened neighborhood [3].",
+    "people": [
+      {
+        "name": "Frank A. Leach",
+        "role": "Mint superintendent"
+      },
+      {
+        "name": "Joe Hammill",
+        "role": "Refinery worker and eyewitness"
+      },
+      {
+        "name": "Jack Brady",
+        "role": "Mint engineer"
+      },
+      {
+        "name": "John James Marshall",
+        "role": "Mint electrician"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Saving the U.S. Mint (letter of Joe Hammill, May 11, 1906)",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 1906,
+        "url": "http://sfmuseum.org/1906/ew9.html",
+        "supports": "Fifty employees, Leach on the hose, Brady's pump repair, artesian well, 200-foot flames, melting windows, $300,000,000 in vaults"
+      },
+      {
+        "title": "Old San Francisco Mint",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Old_San_Francisco_Mint",
+        "supports": "$300 million, a third of U.S. gold reserves; courtyard well; one of few buildings to survive"
+      },
+      {
+        "title": "The Old U.S. Mint at 5th and Mission (\"I was there...\" by Rosemarie Marshall Green)",
+        "publisher": "FoundSF",
+        "year": 2005,
+        "url": "https://www.foundsf.org/index.php?title=The_Old_U.S._Mint_at_5th_and_Mission",
+        "supports": "John James Marshall living at the mint and converting a steam generator so it was the only light in the district"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-post-office-palace-1906",
+    "title": "A Palace Post Office, Six Months Old",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "U.S. Post Office and Courthouse, Seventh and Mission streets",
+      "lat": 37.779509566129,
+      "lon": -122.41102075523816,
+      "precision": "building"
+    },
+    "hook": "San Francisco's lavish new post office had been open barely six months when the earthquake hit. Its staff saved it with wet sandbags and fire hoses.",
+    "story": "Critics grumbled when the government chose Seventh and Mission, more than a mile from the business district in a working-class Irish and German neighborhood, for its new courthouse and post office [2]. It opened in 1905 to acclaim as \"a post office that's a palace,\" finished in Italian and North African marble by artisans brought over from Italy [1][2]. Hardly six months later, on April 18, 1906, the earthquake threw walls into the middle of rooms. \"In the main corridors the marble was split and cracked,\" said Burke, the assistant to the postmaster, \"while the mosaics were shattered and had come rattling down upon the floor\" [3]. Then came the fire. Employees on duty moved valuable records into the vaults, plugged the oil lines, rigged fire hoses and piled wet sandbags against the inner doors, and the flames were held to a few rooms [1]. With the Mint, it was one of the only buildings south of Market to survive [2]. Because of that stand, federal court records dating back to the 1850s still exist [1]. Repairs took until 1910, and the building now houses the U.S. Court of Appeals for the Ninth Circuit [1][2].",
+    "people": [
+      {
+        "name": "Burke",
+        "role": "Assistant to the postmaster"
+      }
+    ],
+    "sources": [
+      {
+        "title": "National Register #71000188: United States Post Office and Courthouse",
+        "publisher": "NoeHill in San Francisco (adapted from the NRHP nomination)",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/nat1971000188.asp",
+        "supports": "Italian workmen and marble; 1906 damage; records in vaults, oil lines plugged, hoses, wet sandbags; fire confined to a few rooms; 1850s records survive; Ninth Circuit"
+      },
+      {
+        "title": "James R. Browning United States Court of Appeals Building",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/James_R._Browning_United_States_Court_of_Appeals_Building",
+        "supports": "Site choice criticism, 'a post office that's a palace', saved by postal workers, only buildings south of Market with the Mint to survive, restoration completed 1910"
+      },
+      {
+        "title": "1906 Earthquake and Fire Timeline",
+        "publisher": "Museum of the City of San Francisco",
+        "year": 2006,
+        "url": "http://www.sfmuseum.org/hist10/06timeline.html",
+        "supports": "Quote from Assistant to the Postmaster Burke describing quake damage"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-jackson-brewery-1912",
+    "title": "Steam Beer Rises Again on Folsom Street",
+    "theme": "labor-industry",
+    "year": 1912,
+    "yearEnd": 1920,
+    "place": {
+      "label": "Jackson Brewing Company, 1489 Folsom Street at 11th Street",
+      "lat": 37.771712743020935,
+      "lon": -122.41336058634408,
+      "precision": "building"
+    },
+    "hook": "The Jackson Brewing Company's new brewery was half-built when the 1906 earthquake wrecked it. The family rebuilt, brewed for a few years, then Prohibition arrived.",
+    "story": "The Jackson Brewing Company was older than most of San Francisco. Irish-born Thomas Green and Jacob Lynn started it around 1858-59 near the waterfront, and German immigrants William A. Frederick and Joseph Behrens bought it about 1867 [1][2]. After Frederick died around 1885, his Irish-born widow Mary ran the business with two employees, and their son William Jr. later became president [1]. In 1905 the company began a big brick brewery at Folsom and 11th streets. The 1906 earthquake and fire wrecked it while it was still under construction; only a fragment of a ground floor and an arched carriage entrance were salvaged [1][2]. In 1912 engineer James T. Ludlow designed Romanesque Revival replacements, and by 1913 fire-insurance surveyors noted 110 barrels of steam beer per brew; by 1919, 279 [1]. Then Prohibition effectively ended the brewing, and when repeal came in 1933 the brewery never reopened [1]. The family held the property until 1947 [2]. When daughter Mary Louise Frederick died in 1942, she left the bulk of a $300,000 fortune to charity [1]. The brick complex survives and joined the National Register in 1993 [2].",
+    "people": [
+      {
+        "name": "William A. Frederick",
+        "role": "Brewery owner"
+      },
+      {
+        "name": "Mary Frederick",
+        "role": "Widow who ran the brewery"
+      },
+      {
+        "name": "James T. Ludlow",
+        "role": "Engineer of the 1912 buildings"
+      },
+      {
+        "name": "Mary Louise Frederick",
+        "role": "Heir"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jackson Brewing Company, National Register of Historic Places Registration Form",
+        "publisher": "National Park Service",
+        "year": 1993,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/93000284_text",
+        "supports": "Founders, Frederick family, 1905-06 complex wrecked in 1906, Ludlow 1912 rebuild, Sanborn barrel counts, Prohibition closure, Mary Louise Frederick's $300,000 bequest"
+      },
+      {
+        "title": "San Francisco Landmark #199: Jackson Brewing Company",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2008,
+        "url": "https://noehill.com/sf/landmarks/sf199.asp",
+        "supports": "Founding 1859, move to Folsom and 11th, 1906 destruction, family ownership until 1947, National Register listing 1993"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-hotel-utah-1908",
+    "title": "A Saloon Hotel for Men Between Jobs",
+    "theme": "architecture-landmarks",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "Hotel Utah, 500 Fourth Street at Bryant",
+      "lat": 37.77929289393179,
+      "lon": -122.39813117995867,
+      "precision": "building"
+    },
+    "hook": "In 1913, forty thousand seasonal workers were wintering in San Francisco's cheap hotels. The Hotel Utah at Fourth and Bryant was built for men like them.",
+    "story": "After the 1906 fire, South of Market was rebuilt with fewer family flats and more cheap hotels, saloons, pawnshops and missions for single working men [2]. The Hotel Utah, a four-story Edwardian saloon and hotel at Fourth and Bryant, went up in 1908 to house seasonal workers employed in nearby factories [1][3]. Its tenants belonged to a floating army. In December 1913 a survey of the city's ten- and fifteen-cent lodging houses counted 40,000 seasonal laborers \"lying up\" for the winter on stakes averaging about thirty dollars. Loggers and miners tended to stay between Third and Sixth streets, sailors and dockworkers farther east [2]. By the 1930s the saloon was a hangout for gamblers, madams and longshoremen [1]. After World War II owner Al Opatz renamed it Al's Transbay Tavern [1], and by the 1950s, the San Francisco Chronicle later wrote, its ornate wooden barback, imported from Belgium, served customers including Joe DiMaggio and Marilyn Monroe [3]. Almost all the neighboring residential hotels were razed in the 1940s and 1950s, but the Utah survived, and in 2018 it became a city landmark [1][3].",
+    "people": [
+      {
+        "name": "Al Opatz",
+        "role": "Postwar saloon owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hotel Utah (San Francisco)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Hotel_Utah_(San_Francisco)",
+        "supports": "Built 1908 for seasonal workers; 1930s gamblers, madams, longshoremen; Al's Transbay Tavern; neighbors razed; landmark 2018"
+      },
+      {
+        "title": "Eastern SOMA Early 20th Century (Issel and Cherny)",
+        "publisher": "FoundSF",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Eastern_SOMA_Early_20th_Century",
+        "supports": "Post-1906 rebuilding as single men's district; December 1913 survey of 40,000 seasonal laborers; where different workers stayed"
+      },
+      {
+        "title": "San Francisco Landmark #282: Hotel Utah",
+        "publisher": "NoeHill in San Francisco (quoting Esther Mobley, San Francisco Chronicle, 2019)",
+        "year": 2023,
+        "url": "https://noehill.com/sf/landmarks/sf282.asp",
+        "supports": "Built 1908 for seasonal workers; Belgian barback; DiMaggio and Monroe in the 1950s"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-whitcomb-city-hall-1912",
+    "title": "City Hall Moves Into a Future Hotel",
+    "theme": "architecture-landmarks",
+    "year": 1912,
+    "yearEnd": 1915,
+    "place": {
+      "label": "Hotel Whitcomb (temporary City Hall), 1231 Market Street",
+      "lat": 37.77794681971549,
+      "lon": -122.41479116076793,
+      "precision": "building"
+    },
+    "hook": "For three years San Francisco was governed from a building designed to become a hotel. The words \"City Hall\" still show faintly above its entrance.",
+    "story": "The 1906 earthquake wrecked San Francisco's grand City Hall, and for years the city rented offices wherever it could, including five floors of the Hewes Building on Sixth Street [1]. In October 1910 Mayor P. H. McCarthy and the supervisors accepted an offer from the Whitcomb estate, whose trustee James Otis proposed a seven-story building on Market between Eighth and Ninth streets that \"may eventually be used as a hotel\" [1]. The architects had to draw two sets of plans, one superimposing the city offices on the future hotel [2]. The reinforced-concrete building cost $600,000, and the city paid $5,250 a month in rent [1]. From 1912 to 1915 it housed the county clerk, tax collector and assessor on the first floor, the supervisors, fire commissioners and Board of Education on the second, and even a Central Emergency Hospital [1]. Once the new Civic Center was built, the building reopened in 1917 as the Hotel Whitcomb [2]. A publication of the day told of an elderly woman who arrived with a tax bill and six silver dollars, only to be escorted across Market Street to the new City Hall [1]. The faded words \"City Hall\" can still be made out over the door [1].",
+    "people": [
+      {
+        "name": "P. H. McCarthy",
+        "role": "Mayor"
+      },
+      {
+        "name": "James Otis",
+        "role": "Trustee of the Whitcomb estate"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hotel Whitcomb: San Francisco's Secret City Hall (Callan Showers)",
+        "publisher": "FoundSF",
+        "year": 2017,
+        "url": "https://www.foundsf.org/index.php?title=Hotel_Whitcomb:_San_Francisco%E2%80%99s_Secret_City_Hall",
+        "supports": "Rented offices, Hewes Building, 1910 offer, Otis quote, cost and rent, floor plan, 1912-1915 use, tax-bill anecdote, 'City Hall' lettering"
+      },
+      {
+        "title": "Hotel Whitcomb",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Hotel_Whitcomb",
+        "supports": "Completed 1912 as temporary city hall; two superimposed sets of drawings; reopened as hotel in 1917"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-st-josephs-rebuilt-1913",
+    "title": "The Irish Parish That Rebuilt in Stone",
+    "theme": "communities",
+    "year": 1913,
+    "yearEnd": 1914,
+    "place": {
+      "label": "St. Joseph's Church, 1401 Howard Street at 10th Street",
+      "lat": 37.773562004480986,
+      "lon": -122.4142988232381,
+      "precision": "building"
+    },
+    "hook": "Fire erased St. Joseph's parish at Tenth and Howard in 1906. The Romanesque church its people raised afterward outlived the neighborhood that built it.",
+    "story": "St. Joseph's parish had stood at Tenth and Howard since Archbishop Joseph Alemany dedicated its first church on December 8, 1861. By 1906 it served more than 3,000 families, mostly Irish, and the Young Men's Institute, later a national Catholic organization, had been founded there in 1883 [1]. The fire after the April 1906 earthquake destroyed the church and both parish schools. Within months the parish put up a plain hall to serve as church and school at once, and a rectory beside it [1][2]. In April 1913 the cornerstone was laid for a permanent church designed by John J. Foley: a Romanesque Revival basilica with gilded column capitals, rose windows and stained glass imported from Europe, completed the following year [1]. But many of the Irish families who fled the fire never came back, and the blocks around the new church turned industrial [1]. Over the decades the congregation became one of newer immigrants from Latin America, the Pacific Islands and the Philippines. By 1979 most parishioners were Filipino, and St. Joseph's was called the largest Filipino parish in the United States [1][2].",
+    "people": [
+      {
+        "name": "Joseph Alemany",
+        "role": "Archbishop who founded the parish"
+      },
+      {
+        "name": "John J. Foley",
+        "role": "Architect"
+      }
+    ],
+    "sources": [
+      {
+        "title": "St. Joseph's Church and Complex, National Register nomination",
+        "publisher": "National Park Service",
+        "year": 1981,
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/82002250_text",
+        "supports": "1861 founding, 3,000 mostly Irish families, YMI 1883, 1906 destruction, temporary hall and rectory, 1913 cornerstone, Foley design, interior, Irish not returning, Filipino parish"
+      },
+      {
+        "title": "San Francisco Landmark #120: Saint Joseph's Church",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2003,
+        "url": "https://noehill.com/sf/landmarks/sf120.asp",
+        "supports": "Parish hall 1906, 1913 cornerstone, Irish to Filipino by 1979, largest Filipino parish in the U.S."
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-mooney-rooftop-alibi-1916",
+    "title": "The Rooftop Photo That Proved an Alibi",
+    "theme": "civil-rights",
+    "year": 1916,
+    "yearEnd": 1939,
+    "place": {
+      "label": "Eilers Building, 975 Market Street (between Fifth and Sixth)",
+      "lat": 37.78242406442148,
+      "lon": -122.40935016529538,
+      "precision": "block"
+    },
+    "hook": "At 2:01 p.m. a photographer caught Tom and Rena Mooney on a Market Street rooftop. Minutes later a bomb exploded a mile away, and Mooney was blamed.",
+    "story": "On July 22, 1916, business leaders staged a huge Preparedness Day parade up Market Street to drum up support for entering the European war. At 2:06 p.m. a bomb exploded near Steuart Street, killing ten people and critically injuring 40 more [1]. District Attorney Charles Fickert charged militant labor organizer Tom Mooney, his wife Rena, Warren Billings and two others [1][3]. Yet a photograph by Wade Hamilton places Tom and Rena on the roof of the Eilers Building at 975 Market, between Fifth and Sixth streets, at 2:01 p.m., when prosecutors claimed they were planting the bomb a mile east [1]. A Market Street clock linked to the photographs is now preserved in Vallejo as the \"Alibi Clock\" [2]. Mooney was convicted anyway and sentenced to hang; Billings got life, and Rena was acquitted [2][3]. After protests around the world, Governor William Stephens commuted Mooney's sentence to life in 1918, and he became one of America's most famous political prisoners [2]. Governor Culbert Olson finally pardoned him in 1939, after more than two decades behind bars [1][2].",
+    "people": [
+      {
+        "name": "Tom Mooney",
+        "role": "Labor organizer, wrongly convicted"
+      },
+      {
+        "name": "Rena Mooney",
+        "role": "Co-defendant, acquitted"
+      },
+      {
+        "name": "Wade Hamilton",
+        "role": "Photographer"
+      },
+      {
+        "name": "Charles Fickert",
+        "role": "District attorney"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tom Mooney (Chris Carlsson)",
+        "publisher": "FoundSF",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=TOM_MOONEY",
+        "supports": "Parade purpose, 2:06 bomb, ten killed and 40 injured, defendants, Fickert, Wade Hamilton photo on the Eilers Building at 975 Market at 2:01 p.m., 22 years to pardon"
+      },
+      {
+        "title": "Thomas Mooney",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Tom_Mooney",
+        "supports": "Death sentence, 1918 commutation by Stephens, famous political prisoner, 1939 pardon by Olson, Alibi Clock in Vallejo"
+      },
+      {
+        "title": "Preparedness Day Bombing",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Preparedness_Day_Bombing",
+        "supports": "Charges against Mooney, Rena, Billings, Weinberg and Nolan; convictions and acquittals"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-greek-town-third-street",
+    "title": "Constantinople Cafe and Greek Town's Third Street",
+    "theme": "communities",
+    "year": 1919,
+    "yearEnd": null,
+    "place": {
+      "label": "Greek Town, Third Street between Folsom and Harrison",
+      "lat": 37.78345137754935,
+      "lon": -122.39873921919094,
+      "precision": "street"
+    },
+    "hook": "A century ago the cafes on Third Street were named Smyrna, Athens and Constantinople. This was Greek Town, until a bridge pushed it aside.",
+    "story": "A city photograph from January 23, 1919, captures a row of Greek businesses on Third Street between Folsom and Harrison: Patris Photo Studio, the Constantinople Cafe, the Acropolis Bar and Grill and Apollo Bros. Cigars. Around 1920 the Athens Restaurant & Oyster House and the Smyrna Cafe stood nearby [1]. Greeks began arriving in San Francisco in the 1880s but came in far greater numbers after 1906, when workers were needed to rebuild the city. The 100 through 400 blocks of Third Street and adjoining side streets were overwhelmingly Greek-owned, according to Jim Lucas of the Greek Historical Society [1]. The Greek consulate sat at Mission and Third, the Greek American Hall at Second and Harrison, and the first Holy Trinity Greek Orthodox Church at 345 Seventh Street [1]. Community life was not always calm: in July 1908 a quarrel over parish elections and money turned violent at Holy Trinity, and a breakaway faction built its own church on Rincon Hill before the two sides reconciled in December 1909 [2]. Building the Bay Bridge in the 1930s displaced many Greeks, who moved their businesses elsewhere in the city [1][2].",
+    "people": [
+      {
+        "name": "Jim Lucas",
+        "role": "President, Greek Historical Society"
+      },
+      {
+        "name": "Ioannis Kapsimalis",
+        "role": "Leader of the breakaway parish"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Greek Town in South of Market (Woody LaBounty, from OpenSFHistory)",
+        "publisher": "FoundSF",
+        "year": 2019,
+        "url": "https://www.foundsf.org/index.php?title=Greek_Town_in_South_of_Market",
+        "supports": "1919 and c.1920 photos and business names, post-1906 arrivals, Third Street blocks, consulate, hall, Holy Trinity at 345 Seventh, Bay Bridge displacement"
+      },
+      {
+        "title": "Third Greek Church of San Francisco (Jim Lucas)",
+        "publisher": "FoundSF",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Third_Greek_Church_of_San_Francisco",
+        "supports": "1908 violent dispute at Holy Trinity, St. John Prodromos breakaway church, 1909 reconciliation, property later taken for the Bay Bridge"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-kpo-hale-brothers-1922",
+    "title": "A Department Store Takes to the Air",
+    "theme": "arts-counterculture",
+    "year": 1922,
+    "yearEnd": 1927,
+    "place": {
+      "label": "Hale Brothers Department Store, 901 Market Street at Fifth",
+      "lat": 37.78347007947017,
+      "lon": -122.40804073564816,
+      "precision": "building"
+    },
+    "hook": "In 1922 a Navy radio man talked the Hale brothers into putting a transmitter in their Market Street store. It grew into one of the West's great stations.",
+    "story": "In 1921 Joe Martineau came home from Navy radio work and pitched an idea to Francis, Marshall and Reuben Hale, owners of the Hale Brothers department store at Fifth and Market: let him run an experimental broadcast transmitter in the store [1]. Built for just $2,400, KPO went on the air at 9 a.m. on April 17, 1922 [1][2]. At first it was a one-room, one-man operation on the sixth floor, with a piano, a phonograph and a \"home-brew\" transmitter. It broadcast one hour a day, and commercials were not allowed; programs, Reuben Hale recalled, had to suit \"a mother with children in the home\" [1]. The Hales soon saw radio's publicity value. In 1923 they spent $60,000 on a 500-watt station with a pipe organ and two 125-foot steel towers on the store's roof [1]. That summer KPO set up to carry President Harding's San Francisco speech in what was to be the first coast-to-coast broadcast, but Harding fell ill and died at the Palace Hotel before it aired [1]. The Chronicle bought half of KPO in 1925, it joined NBC in 1927, and it survives today as KNBR [2].",
+    "people": [
+      {
+        "name": "Joe Martineau",
+        "role": "Navy radio veteran and station founder"
+      },
+      {
+        "name": "Reuben Hale",
+        "role": "Department store owner"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The History of KPO Radio San Francisco (John F. Schneider)",
+        "publisher": "Bay Area Radio Museum",
+        "year": 2010,
+        "url": "https://bayarearadio.org/sf-radio-history/kpo/",
+        "supports": "Martineau's pitch, $2,400, April 17 1922 debut, sixth-floor studio, no commercials, Hale quote, 1923 $60,000 upgrade and towers, Harding broadcast"
+      },
+      {
+        "title": "KNBR (AM)",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/KNBR_(AM)",
+        "supports": "KPO began April 17, 1922 at Hale Brothers, 901 Market; Chronicle half-interest 1925; NBC 1927; now KNBR"
+      },
+      {
+        "title": "National Register #86003492: Hale Brothers Department Store",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2004,
+        "url": "https://noehill.com/sf/landmarks/nat1986003492.asp",
+        "supports": "Hale Brothers store at 901 Market, built 1912"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-crystal-palace-market",
+    "title": "Everything Under the Sun at Eighth and Market",
+    "theme": "labor-industry",
+    "year": 1923,
+    "yearEnd": 1959,
+    "place": {
+      "label": "Crystal Palace Market site, Eighth and Market streets",
+      "lat": 37.77907150301357,
+      "lon": -122.41385012130684,
+      "precision": "block"
+    },
+    "hook": "Sixty-five shops, a snake-handling soap salesman, a weeping horseradish man: for 36 years the Crystal Palace Market was San Francisco's giant indoor bazaar.",
+    "story": "The four-acre lot at Eighth and Market had already hosted a mechanics' pavilion, a baseball park, a theater and, after 1906, the circus [1]. In 1922 brothers Oliver and Arthur Rosseau bought it, and in 1923 they opened the Crystal Palace Market, a steel-framed, skylit bazaar named for London's famous glass hall [1][2]. The gamble was that one huge market could replace the corner grocery. Its 65 shops included six butchers, three fish markets, four dairy stands selling 36,000 eggs a day, a pet shop, a record store and a stall that sold only honey. Three hundred people worked there, and shoppers could enter from 22 doors on five streets [1]. Clerks hollered over strolling minstrels and an organ grinder with his monkey. The Horseradish Man wept as he grated, and soap salesman Fred Wiedeman let snakes crawl over him before washing himself clean [1]. Novelist Gus Lee called it \"the FAO Schwarz of the stomach\" [1]. But families moved to the suburbs, and in August 1959 the market closed, to be demolished for Del Webb's 400-room TowneHouse motel [1][2].",
+    "people": [
+      {
+        "name": "Oliver and Arthur Rosseau",
+        "role": "Founders"
+      },
+      {
+        "name": "Fred Wiedeman",
+        "role": "Soap salesman"
+      },
+      {
+        "name": "Gus Lee",
+        "role": "Novelist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Crystal Palace Market (Gail MacGowan, City Guides)",
+        "publisher": "FoundSF",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Crystal_Palace_Market",
+        "supports": "Site history, Rosseau brothers, 1923 opening, shop counts, 36,000 eggs, 300 workers, 22 entrances, sideshow characters, Gus Lee quote, 1959 closure for the Del Webb TowneHouse"
+      },
+      {
+        "title": "Tour through Crystal Palace Market (photos from the San Francisco History Center, SFPL)",
+        "publisher": "FoundSF",
+        "year": 2012,
+        "url": "https://www.foundsf.org/index.php?title=Tour_through_Crystal_Palace_Market",
+        "supports": "Operated at Eighth and Market from 1923 to 1959; dated SFPL photos including the last day of business in August 1959"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-ten-cent-rope-1931",
+    "title": "Ten Cents to Sleep on a Rope",
+    "theme": "labor-industry",
+    "year": 1931,
+    "yearEnd": 1932,
+    "place": {
+      "label": "Site of the Standard Hotel, Seventh and Harrison streets",
+      "lat": 37.775953068823384,
+      "lon": -122.40597277458659,
+      "precision": "block"
+    },
+    "hook": "In 1931 a sixteen-year-old who dreamed of going to sea ended up in a Seventh Street flophouse, sleeping upright with his elbows hooked over a clothesline.",
+    "story": "After the 1929 crash, waves of men and boys on the move swelled South of Market's already large population of out-of-work transients [1]. One was Harlan Soeten, who arrived in 1931 at age 16, hoping to ship out as a sailor [1]. When his money ran out he landed in the Standard Hotel at Seventh and Harrison, a two-story flophouse where a guard buzzed people in and out. \"At night they would string up clothesline over the benches and you could rent space for 10 cents a night to sleep, sitting on a bench with your elbows hooked over the rope,\" he remembered. Rooms cost 25 cents [1]. Soeten was picked out of a line to work at a city soup kitchen on Clara Alley run by a deputy sheriff, serving oatmeal, prunes and coffee in the morning and stew at 3 o'clock. By his memory, 4,000 men were fed at each meal, and he used six different soup kitchens himself [1]. The district had filled with cheap lodging houses for single working men after the 1906 rebuilding [2]. On the waterfront, it took the bloody 1934 strike to replace the daily shape-up with union hiring halls [1].",
+    "people": [
+      {
+        "name": "Harlan Soeten",
+        "role": "Teenage transient, later a seaman"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Living Memories, 1931-1960 (Nancy J. Olmsted)",
+        "publisher": "FoundSF",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Living_Memories,_1931-1960",
+        "supports": "Depression transients, Harlan Soeten's arrival at 16, Standard Hotel at Seventh and Harrison, rope beds at 10 cents, 25-cent rooms, Clara Alley soup kitchen, 4,000 men per meal, 1934 strike and hiring halls"
+      },
+      {
+        "title": "Eastern SOMA Early 20th Century (Issel and Cherny)",
+        "publisher": "FoundSF",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Eastern_SOMA_Early_20th_Century",
+        "supports": "Post-1906 rebuilding with cheap hotels and lodging houses for single men"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-vicki-draves-1948",
+    "title": "South of Market's Double Gold Medal Diver",
+    "theme": "communities",
+    "year": 1948,
+    "yearEnd": null,
+    "place": {
+      "label": "Victoria Manalo Draves Park, Folsom and Sherman streets",
+      "lat": 37.7767,
+      "lon": -122.407,
+      "precision": "area"
+    },
+    "hook": "Born South of Market to a Filipino father, Vicki Manalo had to call herself Vicki Taylor to join a diving club. In 1948 she won two Olympic golds.",
+    "story": "Victoria Manalo was born on December 31, 1924, in San Francisco's South of Market district, to Teofilo Manalo, a Filipino chef and musician, and Gertrude Taylor, who had come from England [1][2]. Money was tight, and she could not afford swimming lessons until she was ten [1]. She took up diving at 16, but facing prejudice against Filipinos, she used her mother's surname, Vicki Taylor, to be accepted at coach Phil Patterson's Fairmont Hotel club [1]. After graduating from Commerce High School in 1942 she worked in the Army Port Surgeon's office to help her family [1]. Olympic diver Sammy Lee introduced her to coach Lyle Draves, whom she married in 1946 [1]. At the 1948 London Olympics she won the springboard on August 3 and the platform on August 6, the first woman to win both diving titles and the first Asian American to win Olympic gold [1][3]. In 2006 the city named a two-acre park at Folsom and Sherman streets for her, one acre per gold medal, on the site of the Franklin Elementary School she had attended, four blocks from where she grew up [1][2].",
+    "people": [
+      {
+        "name": "Victoria Manalo Draves",
+        "role": "Olympic diving champion"
+      },
+      {
+        "name": "Teofilo Manalo",
+        "role": "Her father, chef and musician"
+      },
+      {
+        "name": "Lyle Draves",
+        "role": "Coach and husband"
+      },
+      {
+        "name": "Sammy Lee",
+        "role": "Olympic diver"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vicki Draves",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Vicki_Draves",
+        "supports": "Birth and parents, lessons at 10, name change to Taylor, Army Port Surgeon's office, Sammy Lee and Lyle Draves, 1948 gold dates and firsts, 2006 park on Franklin school site"
+      },
+      {
+        "title": "The Triumph of Victoria Manalo Draves",
+        "publisher": "AsianWeek (via Internet Archive)",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20100503005448/http://www.asianweek.com/2010/04/28/the-triumph-of-victoria-manalo-draves/",
+        "supports": "Born in South of Market to Teofilo Manalo and English-born Gertrude Taylor; park four blocks from where she was raised"
+      },
+      {
+        "title": "Celebrating Vicki Draves",
+        "publisher": "Google Doodles",
+        "year": 2020,
+        "url": "https://doodles.google/doodle/celebrating-vicki-draves/",
+        "supports": "Born in the South of Market district; 1948 springboard gold; first woman to win both platform and springboard"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-skid-road-prosperity-plan",
+    "title": "Skid Road: Selling South of Market's Clearance",
+    "theme": "civil-rights",
+    "year": 1954,
+    "yearEnd": 1956,
+    "place": {
+      "label": "Yerba Buena redevelopment area, Fourth and Howard streets",
+      "lat": 37.783920370448584,
+      "lon": -122.40125327448537,
+      "precision": "area"
+    },
+    "hook": "In the mid-1950s, newspapers ran photos of 'winos' on South of Market sidewalks. Some of the men were posed, and a hotelier had big plans for their blocks.",
+    "story": "In 1952 the city's Redevelopment Agency called South of Market \"among the most severely blighted sections of the city,\" and in 1953 supervisors approved large parts of it for redevelopment [1]. In 1954 Ben Swig, owner of the Fairmont Hotel, unveiled a \"San Francisco Prosperity Plan\" with a convention center, a sports stadium and office high-rises, foreshadowing today's Yerba Buena and Moscone Center [1][3]. According to photographer and former Sixth Street resident Mark Ellinger, Swig even gave the agency money for a study to have the area declared blighted; the money was returned, but the plan moved forward [2]. Newspapers including the Chronicle and the News Call-Bulletin ran \"Skid Road\" stories about alcoholics and flophouses. Ellinger points to 1956 News Call-Bulletin photos in which the same men appear, posed, in more than one picture [2]. One 1954 caption admitted that a hotel in the \"wino district\" rented 200 rooms at 50 to 75 cents a night, \"chiefly to old-age pensioners\" [2]. Little was said of the workers and retirees who made up most residents. Land clearance began in earnest in 1966, and residents would fight back in court [1][2].",
+    "people": [
+      {
+        "name": "Ben Swig",
+        "role": "Hotelier and developer"
+      },
+      {
+        "name": "Mark Ellinger",
+        "role": "Photographer and historian of Sixth Street"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Redevelopment in South of Market (Gayle S. Rubin)",
+        "publisher": "FoundSF",
+        "year": 2010,
+        "url": "https://www.foundsf.org/index.php?title=Redevelopment_in_South_of_Market",
+        "supports": "1952 blight report quote, 1953 approval, Swig's 1954 Prosperity Plan and its contents, 1966 start of acquisition and relocation"
+      },
+      {
+        "title": "Sixth Street (\"I was there...\" by Mark Ellinger)",
+        "publisher": "FoundSF",
+        "year": 2015,
+        "url": "https://www.foundsf.org/index.php?title=Sixth_Street",
+        "supports": "Swig's donation for a blight study, returned money, newspaper 'Skid Road' campaign, posed 1956 photos, 1954 caption about pensioners"
+      },
+      {
+        "title": "Benjamin Swig",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Benjamin_Swig",
+        "supports": "Swig bought the Fairmont Hotel in 1945"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "south-of-market-caen-coins-beatnik-1958",
+    "title": "Herb Caen Coins 'Beatnik' at Fifth and Mission",
+    "theme": "arts-counterculture",
+    "year": 1958,
+    "yearEnd": null,
+    "place": {
+      "label": "San Francisco Chronicle Building, 901 Mission Street at Fifth",
+      "lat": 37.78215365297651,
+      "lon": -122.4066011095345,
+      "precision": "building"
+    },
+    "hook": "Six months after Sputnik, a Chronicle columnist stuck a Russian-sounding suffix onto the Beat Generation. The word escaped his column and never came back.",
+    "story": "In 1950, unhappy with his paycheck, Herb Caen left the San Francisco Chronicle for the rival Examiner. In 1958 he came back, at a salary of $38,000 [1]. Once again writing for the paper in its 1924 Gothic-style tower at Fifth and Mission [4], he filled his April 2, 1958 column with his usual three-dot items. One reported that Look magazine, preparing a picture spread on the city's Beat Generation, \"hosted a party in a No. Beach house for 50 Beatniks, and by the time word got around the sour grapevine, over 250 bearded cats and kits were on hand, slopping up Mike Cowles' free booze. They're only Beat, y'know, when it comes to work\" [2]. The item is traditionally credited as the birth of \"beatnik,\" Beat plus the suffix \"-nik,\" which was in vogue thanks to Sputnik [3]. The mocking label spread nationwide. Jack Kerouac, who said he meant \"beat\" to suggest \"beatific,\" later complained that pundits including Caen had twisted it, and told a reporter, \"I'm not a beatnik. I'm a Catholic\" [3]. In the same column Caen quoted a salesman praising the new Bayshore Freeway: \"It gets me to the traffic jams so much FASTER\" [2].",
+    "people": [
+      {
+        "name": "Herb Caen",
+        "role": "Chronicle columnist"
+      },
+      {
+        "name": "Jack Kerouac",
+        "role": "Beat Generation novelist"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Herb's Milestones",
+        "publisher": "SFGATE / San Francisco Chronicle",
+        "year": 1996,
+        "url": "https://www.sfgate.com/news/article/HERB-S-MILESTONES-2988509.php",
+        "supports": "1950 move to the Examiner; 1958 return to the Chronicle at $38,000"
+      },
+      {
+        "title": "Pocketful of Notes (Herb Caen column of April 2, 1958, reprinted)",
+        "publisher": "SFGATE / San Francisco Chronicle",
+        "year": 1997,
+        "url": "https://www.sfgate.com/news/article/Pocketful-of-Notes-2855259.php",
+        "supports": "Full text of the 'Beatniks' item and the Bayshore Freeway quip"
+      },
+      {
+        "title": "Beatnik",
+        "publisher": "Wikipedia",
+        "year": 2025,
+        "url": "https://en.wikipedia.org/wiki/Beatnik",
+        "supports": "Caen traditionally credited with coining the word on April 2, 1958; -nik suffix and Sputnik; Kerouac's 'beatific' and 'I'm a Catholic' remarks"
+      },
+      {
+        "title": "San Francisco Chronicle Building",
+        "publisher": "NoeHill in San Francisco",
+        "year": 2020,
+        "url": "https://noehill.com/sf/landmarks/poi_san_francisco_chronicle_building.asp",
+        "supports": "Chronicle Building at Fifth and Mission, built 1924 in Gothic Revival style"
+      }
+    ],
+    "photo": null
+  }
+]

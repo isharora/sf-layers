@@ -1,0 +1,748 @@
+[
+  {
+    "id": "sunset-parkside-king-philip-wreck",
+    "title": "The Clipper That Keeps Resurfacing",
+    "theme": "gold-rush-victorian",
+    "year": 1878,
+    "yearEnd": null,
+    "place": {
+      "label": "Ocean Beach at the foot of Noriega Street (King Philip wreck site)",
+      "lat": 37.75152,
+      "lon": -122.5098,
+      "precision": "area"
+    },
+    "hook": "Built in Maine in 1856, the clipper King Philip ran aground here in 1878. Every few decades, when the sand is scoured low, her ribs come back into view.",
+    "story": "King Philip was launched in Alna, Maine, in 1856. She was a medium clipper of about 1,194 tons, named for the Wampanoag leader Metacomet, whom the English called King Philip [1]. It was a hard-luck career: there were at least two mutinies, and both times the sailors set the ship on fire. By her old age she was hauling lumber, grain and even guano [1][2]. On January 25, 1878, she left San Francisco in ballast behind a tug. Nearby, the collier Western Shore had an accident that killed its captain, and the tug went off to help. King Philip dropped anchor, but in heavy seas it would not hold, and she drove onto Ocean Beach. Nobody died, but the ship was a total loss [2]. The next day businessman John Molloy bought the wreck at auction for $1,050. He salvaged the metal fastenings, masts and sails, then blew up the hulk with black powder [2]. The lower hull stayed buried at the tide line, and sand pushed onto the beach around 1910, when the Great Highway was built, covered it further [1]. The timbers came back into view in the 1980s and in 2007. In November 2010 the Ocean Beach Bulletin reported the hull's outline showing again at low tide off Noriega Street [3].",
+    "people": [
+      {
+        "name": "A.W. Keller",
+        "role": "Captain of King Philip on her last voyage"
+      },
+      {
+        "name": "John Molloy",
+        "role": "San Francisco businessman who bought and salvaged the wreck"
+      }
+    ],
+    "sources": [
+      {
+        "title": "King Philip (clipper)",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/King_Philip_(clipper)",
+        "supports": "Launch 1856 at Alna, tonnage, name origin, mutinies, Jan 25 1878 departure, burial by Great Highway sand c.1910, reappearances"
+      },
+      {
+        "title": "Shipwreck makes a romantic return (Carl Nolte and Meredith May)",
+        "publisher": "San Francisco Chronicle / SFGATE (archived)",
+        "year": 2007,
+        "url": "https://web.archive.org/web/20101209150043/http://articles.sfgate.com/2007-05-09/bay-area/17244514_1_clipper-ship-king-philip-sailing-vessels/2",
+        "supports": "Mutinies and fires, lumber/guano trade, tug diverted to Western Shore, total loss with no deaths, $1,050 sale to John Molloy, black-powder demolition"
+      },
+      {
+        "title": "The Return of the King Philip Shipwreck",
+        "publisher": "Ocean Beach Bulletin (archived)",
+        "year": 2010,
+        "url": "https://web.archive.org/web/20130730075335/http://oceanbeachbulletin.com/2010/11/12/the-return-of-the-king-philip-shipwreck/",
+        "supports": "Wreck location at the foot of Noriega Street; hull visible in November 2010 and 2007"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-giant-powder-1879",
+    "title": "The Day the Dunes Exploded",
+    "theme": "labor-industry",
+    "year": 1879,
+    "yearEnd": null,
+    "place": {
+      "label": "Approximate site of the Giant Powder Works packing house, 22nd Avenue between Kirkham & Lawton",
+      "lat": 37.7585,
+      "lon": -122.48,
+      "precision": "block"
+    },
+    "hook": "In 1879 a dynamite packing house near today's 22nd Avenue blew up with five workers inside. People felt the blast from the Cliff House to the waterfront.",
+    "story": "The Sunset's first big industry was one nobody wanted as a neighbor. In 1869 an explosion wrecked the Giant Powder Company's works on San Jose Road, so the company moved out to the empty sand south of Golden Gate Park. It set up on about 25 fenced acres off the Powder House Road, near today's 19th Avenue [1]. The two sources draw the tract a little differently: the Western Neighborhoods Project puts it between Kirkham and Moraga, while the Parkside context statement says between K (Kirkham) and N (Noriega) Streets, from 19th to 23rd Avenues, as early as 1871 [1][2]. At 2 p.m. on January 15, 1879, the packing house blew up. It was a 30-by-60-foot building standing roughly at 22nd Avenue between Kirkham and Lawton, holding 6,000 pounds of powder and five workers. Nothing of the building, its contents or the men was found, and nine other buildings were destroyed [1]. The shock was felt from the Cliff House to the waterfront. Glass broke as far away as 16th Street, and in a schoolhouse on McAllister Street, more than two miles off, students were thrown from their desks [1]. Nearby saloons were damaged too [2]. Indignant editorials followed. Within a year the powder makers had left for the East Bay, and Giant rebuilt in Berkeley [1].",
+    "people": [],
+    "sources": [
+      {
+        "title": "Dynamite Factories in the Sunset District (Angus Macfarlane)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2012,
+        "url": "https://www.outsidelands.org/dynamite-factories.php",
+        "supports": "Move after 1869 blast, 25-acre tract, Jan 15 1879 explosion details, 6,000 lb, five workers, nine buildings, damage reports, move to Berkeley"
+      },
+      {
+        "title": "San Francisco's Parkside District: 1905-1957 (historical context statement)",
+        "publisher": "Western Neighborhoods Project for the Mayor's Office of Economic and Workforce Development",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "Giant Powder Factory between 19th and 23rd Avenues and K and N Streets from 1871; 1879 explosion; damage to nearby saloons; relocation to Berkeley"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-trocadero-inn",
+    "title": "A Roadhouse in the Eucalyptus",
+    "theme": "parks-nature",
+    "year": 1892,
+    "yearEnd": 1916,
+    "place": {
+      "label": "Trocadero Clubhouse, Sigmund Stern Grove (near 19th Ave & Sloat Blvd)",
+      "lat": 37.736,
+      "lon": -122.4778,
+      "precision": "area"
+    },
+    "hook": "Squatters turned blowing sand into a sheltered grove and put a gingerbread inn in it. In 1907 San Francisco's political boss was arrested hiding there.",
+    "story": "The Greene family arrived during the Mexican-American War and squatted on land that includes today's Stern Grove. They grew barley and potatoes and planted bunch grass and eucalyptus to hold the sand, and those trees are still there [1]. The Stern Grove Festival dates the homestead to 1847 and says a nephew, George, planted the first eucalyptus [3]. In 1892 the family built the Trocadero Inn. It is a two-story wood-frame roadhouse with steep dormers, a stick-work porch, a paneled bar and a massive stone fireplace. The sources disagree about which Greene built it: the Parkside context statement names George, the festival names Alfred [1][3]. The Greenes leased it to operators including Hiram Cook, and under Cook it had a deer park, a boating pavilion and a beer garden [1]. It was a good place to hide. In 1907, as the graft trials began, political boss Abe Ruef was arrested at the Trocadero [1]. George Greene closed the inn in 1916 because he feared trouble with bootleggers under Prohibition [2]. In 1931 Rosalie Stern paid $50,000 for the land as a memorial to her late husband, Sigmund, and gave it to the city. The old inn still stands in the grove [2][3].",
+    "people": [
+      {
+        "name": "George Greene",
+        "role": "Trocadero owner"
+      },
+      {
+        "name": "Hiram Cook",
+        "role": "Trocadero operator"
+      },
+      {
+        "name": "Abe Ruef",
+        "role": "Political boss arrested at the inn"
+      },
+      {
+        "name": "Rosalie Meyer Stern",
+        "role": "Bought the grove for the city"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Parkside District: 1905-1957 (historical context statement)",
+        "publisher": "Western Neighborhoods Project for the Mayor's Office of Economic and Workforce Development",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "Greene family history, eucalyptus, 1892 construction, architecture, lessees, deer park and beer garden, Ruef's 1907 arrest"
+      },
+      {
+        "title": "Sigmund Stern Grove (Jacob Pemberton)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/stern-grove.php",
+        "supports": "Greene closed the Trocadero in 1916 fearing Prohibition bootleggers; 1931 purchase for $50,000 and gift to the city"
+      },
+      {
+        "title": "History",
+        "publisher": "Stern Grove Festival",
+        "year": 2026,
+        "url": "https://www.sterngrove.org/history",
+        "supports": "1847 homestead, George planting first eucalyptus, 1892 Trocadero attributed to Alfred Greene, 1931 purchase"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-carville",
+    "title": "A Seaside Town Built from Old Streetcars",
+    "theme": "arts-counterculture",
+    "year": 1895,
+    "yearEnd": 1913,
+    "place": {
+      "label": "Site of early Carville, La Playa between Irving and Judah Streets",
+      "lat": 37.7633,
+      "lon": -122.509,
+      "precision": "block"
+    },
+    "hook": "Horsecars sold off for $20 became beach shacks, clubhouses and even a church. By 1908 'Carville' reportedly had 2,000 residents.",
+    "story": "When cable and electric lines made horsecars obsolete, the Market Street Railway advertised the old cars for $20, or $10 without seats [1]. Out at the Park and Ocean railroad's beach terminus, Colonel Charles Dailey, a Civil War veteran and a friend of Adolph Sutro, rented three cars from Sutro for $5 a month. He opened one as a coffee saloon, and in 1896 a Bulletin reporter called the little cluster 'Beachside' [1]. It became known as Carville. A women's bicycle club, the Falcons, napped on the upholstered seats of their clubhouse car. Musicians coming off late shifts in the city's cafés named their car 'La Boheme' and took dips in the icy surf between rounds [1]. By 1901 a reported fifty families lived in about 100 cars [1]. After 1906, refugees and more surplus cable cars made the settlement bigger. The Overland Monthly put its 1908 population at 2,000, with stores, restaurants and an Episcopal church, St. Andrew's-by-the-Sea, built from streetcars [2]. Neighbors in ordinary houses called the area Oceanside and saw the cars as an embarrassment. On July 4, 1913, Oceanside Improvement Club president Alexander Russell burned the Falcons' old car with $10 worth of fireworks. The slogan: 'Make clean today by sweeping and burning up the debris of yesterday' [1][2].",
+    "people": [
+      {
+        "name": "Charles Dailey",
+        "role": "Civil War veteran, Carville's 'founder'"
+      },
+      {
+        "name": "The Falcons",
+        "role": "Women's bicycle club"
+      },
+      {
+        "name": "Alexander Russell",
+        "role": "Oceanside Improvement Club president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Carville (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/sw18.php",
+        "supports": "$20 horsecars, Dailey and Sutro, 'Beachside', Falcons, La Boheme, 1901 figures, 1913 burning and slogan"
+      },
+      {
+        "title": "Architectural and Historical Resources of the Sunset District: The Oceanside Neighborhood (History of the Oceanside)",
+        "publisher": "SPEAK / Sunset Architectural and Historical Resources Committee, via outsidelands.org",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/oceanside.php",
+        "supports": "Carville origins in 1895, post-1906 growth, 2,000 population in 1908 per Overland Monthly, St. Andrew's-by-the-Sea, 1913 burning"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-roberts-at-the-beach",
+    "title": "A Maltese Poultryman's Roadhouse",
+    "theme": "labor-industry",
+    "year": 1897,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of Roberts-at-the-Beach, 2200 block of Great Highway between Rivera & Santiago",
+      "lat": 37.74522,
+      "lon": -122.50727,
+      "precision": "block"
+    },
+    "hook": "Sent to the beach for the sea air, Dominic Roberts bought a roadhouse on the dunes in 1897. His son made it 'the Most Unusual Place in the West.'",
+    "story": "Dominic Roberts came to San Francisco from Malta in the late 1860s and ran a poultry business for 30 years. The family story is that a doctor told him to get some sea air. He moved his large family, ten children, out to the Great Highway between Rivera and Santiago Streets, next to a roadhouse called the Sea Breeze Resort. In 1897 he sold the poultry business, bought the Sea Breeze and renamed it Roberts-at-the-Beach [1]. The Parkside context statement notes that it first appears in city directories in 1901–02 [2]. Dominic died in 1910, and his eldest son, Richard 'Shorty' Roberts, turned the place into a hangout for newspapermen, entertainers, boxers and racing fans. It had a four-sided stone fireplace, big marine paintings, and a 'Fireplace Broiler' where meals were cooked in plain sight [1]. Prohibition was the real test. Roberts stopped selling liquor but let guests bring their own. Then Police Captain Charles Goff raided one weekend, and in August 1925 he announced that 'the carefully secreted hip flask is to disappear from San Francisco cafes' [1]. Roberts survived the dry years all the same, 'though no one was remembered to have gone thirsty' [2]. The roadhouse closed in the 1960s [1][2].",
+    "people": [
+      {
+        "name": "Dominic Roberts",
+        "role": "Founder"
+      },
+      {
+        "name": "Richard 'Shorty' Roberts",
+        "role": "Son and proprietor"
+      },
+      {
+        "name": "Charles Goff",
+        "role": "Police captain who raided it in 1925"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Roberts-at-the-Beach (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/roberts.php",
+        "supports": "Roberts family origins, 1897 purchase, 1910 succession, décor, 1925 raid and quote, 1960s closing"
+      },
+      {
+        "title": "San Francisco's Parkside District: 1905-1957 (historical context statement)",
+        "publisher": "Western Neighborhoods Project for the Mayor's Office of Economic and Workforce Development",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "Location between Rivera and Santiago; first directory listing 1901-02; survived Prohibition quote; closed 1966"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-breakers-frozen-sea",
+    "title": "A Gilded Undersea Ballroom, Hidden Between Floors",
+    "theme": "architecture-landmarks",
+    "year": 1904,
+    "yearEnd": 1940,
+    "place": {
+      "label": "1536 La Playa, former Breakers / Crest / Mendel's roadhouse facing Great Highway",
+      "lat": 37.759,
+      "lon": -122.5094,
+      "precision": "block"
+    },
+    "hook": "Behind a plain stucco apartment front, gilded plaster carp, seahorses and turtles from a 1904 roadhouse still swim in a hidden crawlspace.",
+    "story": "From 1904 to about 1940, a roadhouse near the beach end of La Playa went by three names in turn: the Breakers, the Crest and finally Mendel's [1]. Guests ate, drank and danced under a make-believe sea. Plaster-and-wire carp hung lamp chains from their open mouths, among seahorses, starfish, crabs and a turtle about to snap up a school of fish, all gilded and touched with iridescent blue-green [1]. In the carriage house next door, customers left their horses, bicycles, motorcycles and cars. According to stories handed down, the upper floors held card rooms, beds for sleeping it off, and cribs for working girls [1]. In 1911 some 75 riders of the San Francisco Motorcycle Club lined up for a photo in front of its balconied, towered facade [1]. In the 1920s Mendel's was one of the big Ocean Beach roadhouses with bands and fine dining [2]. World War II seems to have ended the roadhouse days. The building was reportedly used for offices, cut into apartments, and given a beige stucco front in the early 1970s [1]. In January 2013, historian Woody LaBounty and friends climbed through a ceiling hatch and found the decorations still there between the floors. Most had been sprayed gray with fire retardant, but where the spray missed, the gold still shone [1].",
+    "people": [
+      {
+        "name": "Woody LaBounty",
+        "role": "Historian who documented the hidden reliefs"
+      },
+      {
+        "name": "Clayton White",
+        "role": "Building manager who opened the hatch"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Frozen Sea: 1536 La Playa's Hidden Past (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2013,
+        "url": "https://www.outsidelands.org/breakers.php",
+        "supports": "Breakers/Crest/Mendel's 1904-c.1940, décor, carriage house, 1911 motorcycle club photo, later history, 2013 discovery"
+      },
+      {
+        "title": "Chicken at the Sea (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/chickery.php",
+        "supports": "Mendel's among the large Ocean Beach roadhouses with bands and fine dining in the auto era"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-mccarty-wireless",
+    "title": "A Teenager's Wireless Phone in the Dunes",
+    "theme": "labor-industry",
+    "year": 1905,
+    "yearEnd": 1906,
+    "place": {
+      "label": "Approximate site of a McCarty Wireless Telephone Co. station, near 45th Avenue & Lawton Street",
+      "lat": 37.7577,
+      "lon": -122.5045,
+      "precision": "area"
+    },
+    "hook": "In 1905 a 17-year-old sang 'Auld Lang Syne' over the air from the Cliff House. One of his company's stations was a shack half-buried in Sunset sand.",
+    "story": "Francis J. McCarty left St. Ignatius College young and taught himself electricity. By 1902, when radio could otherwise send only Morse code, he and his brother were testing a homemade 'wireless telephone' across Stow Lake in Golden Gate Park [1][2]. Investors formed the McCarty Wireless Telephone Company. On September 2, 1905, reporters gathered at the Cliff House and dug trenches to make sure no hidden wires were buried there. Then they went to listen at a receiver about a mile down the beach, in the empty Cyclers' Rest. McCarty's voice first came through 'like the far hum of bees.' As he raised the power it grew clear enough to follow 'Auld Lang Syne' and 'Home Sweet Home' [1]. Wikipedia, citing the Call, dates the public demonstration to October [2]. One of the company's experimental stations was a shack in the Sunset dunes at about today's 45th Avenue and Lawton Street [1][3]. 'Frequently, we'd wake up in the morning and have to shovel our way out the front door through the sand that had drifted waist-high against it,' his brother Ignatius remembered [1]. After the 1906 earthquake the company moved to Oakland. There, on May 8, Francis was thrown from a horse-drawn cart, and he died three days later at 17 [2].",
+    "people": [
+      {
+        "name": "Francis J. McCarty",
+        "role": "Teenage radiotelephone inventor"
+      },
+      {
+        "name": "Ignatius McCarty",
+        "role": "Brother and assistant"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Francis McCarty, Early San Francisco Radio Experimenter (John F. Schneider)",
+        "publisher": "theradiohistorian.org",
+        "year": 1997,
+        "url": "https://www.theradiohistorian.org/mccarty.htm",
+        "supports": "Stow Lake tests, company formation, Sept 2 1905 Cliff House demonstration, songs and quotes, 45th & Lawton shack and Ignatius quote"
+      },
+      {
+        "title": "Francis Joseph McCarty",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Francis_Joseph_McCarty",
+        "supports": "Biography, October 1905 demonstration date per the Call, move to Oakland, May 8 accident and death at 17"
+      },
+      {
+        "title": "A Drive-By History of Great Highway",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2025,
+        "url": "https://www.outsidelands.org/a-drive-by-history-of-great-highway.php",
+        "supports": "Company shack at the northwest corner of 45th Avenue and Lawton Street"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-soyen-shaku",
+    "title": "America's First Zen Master, on the Great Highway",
+    "theme": "communities",
+    "year": 1905,
+    "yearEnd": null,
+    "place": {
+      "label": "Site of the Ocean Side House (later Tait's-at-the-Beach), Great Highway between Ulloa & Vicente",
+      "lat": 37.73928,
+      "lon": -122.50627,
+      "precision": "block"
+    },
+    "hook": "In 1905 a Zen abbot from Kamakura spent nine months in a converted roadhouse out on the dunes, teaching a San Francisco household to meditate.",
+    "story": "The Ocean Side House was the first building in what became the Outer Sunset. Attorney B.S. Brooks put it up as a roadhouse in the 1860s on the Great Highway between Ulloa and Vicente, so remote it was nicknamed Brooks' Folly [1][2]. After decades of struggling proprietors, it became the home of Alexander and Ida Russell; the sources say 1901 or 1902 [1][2]. Ida studied world religions and had studied in Japan with the Zen master Soyen Shaku [1]. Shaku, abbot of Engaku-ji in Kamakura, was the first Zen master to teach in the United States. In 1905 he came as the Russells' guest for nine months and taught the whole household Zen, and Ida Russell is called the first American to study koans [3]. His student Nyogen Senzaki soon joined him [3]. The lectures Shaku gave in the house may have been the first regular Buddhist teaching anywhere in the country [2]. The Russells filled the house with religious art and added a chapel and a Japanese garden. They also took in children with nowhere else to go, which set off rumors, and in 1910 an Examiner story called the place a 'House of Mystery' [1]. Ida died there in 1917 after a botched cosmetic treatment. From 1919 the building was Tait's-at-the-Beach, and it burned in 1940 [1][2].",
+    "people": [
+      {
+        "name": "Soyen Shaku",
+        "role": "Rinzai Zen master"
+      },
+      {
+        "name": "Ida Russell",
+        "role": "Host and Zen student"
+      },
+      {
+        "name": "Alexander Russell",
+        "role": "Host"
+      },
+      {
+        "name": "Nyogen Senzaki",
+        "role": "Shaku's student"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Drive-By History of Great Highway",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2025,
+        "url": "https://www.outsidelands.org/a-drive-by-history-of-great-highway.php",
+        "supports": "Ocean Side House origins and 'Brooks' Folly', 1901 Russell purchase, Shaku's nine-month stay, 1910 'House of Mystery' article, Ida's 1917 death, Tait's, 1940 fire"
+      },
+      {
+        "title": "Architectural and Historical Resources of the Sunset District: The Oceanside Neighborhood (History of the Oceanside)",
+        "publisher": "SPEAK / Sunset Architectural and Historical Resources Committee, via outsidelands.org",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/oceanside.php",
+        "supports": "Roadhouse built 1866, converted to Russell home in 1902, lectures possibly first regular Buddhist lectures in the US, Tait's 1919-1931, burned 1940"
+      },
+      {
+        "title": "Soyen Shaku",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Soyen_Shaku",
+        "supports": "First Zen master to teach in the US; 1905 nine-month stay at the Russells' Great Highway house; first American to study koans; Senzaki joined him"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-graft-streetcar",
+    "title": "'How Much Money Is in It for Us?'",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": 1908,
+    "place": {
+      "label": "20th Avenue, route of the first Parkside streetcar (at Quintara Street)",
+      "lat": 37.7482,
+      "lon": -122.4772,
+      "precision": "street"
+    },
+    "hook": "To get a streetcar out to its sand-dune suburb, the Parkside Realty Company paid Boss Abe Ruef $15,000 in cash, one month after the earthquake.",
+    "story": "In 1905 a syndicate led by banker William H. Crocker quietly bought about 100 blocks of dunes south of Golden Gate Park and formed the Parkside Realty Company [2]. The company planned to sell to working families, and they could not get downtown without a streetcar, so everything hung on one [1]. Company president J.E. Green took the mayor and supervisors on a tour of the tract, then gave them lunch, speeches and plenty of wine. Supervisor Charles Boxton stood up and asked, 'How much money is in it for us?' [1][2]. The company got the message. Working through realtor Gus Umbsen, it agreed to 'employ' political boss Abe Ruef as its attorney for two years at $30,000. A month after the April 1906 earthquake, with the directors keen to sell to the newly homeless, Umbsen paid Ruef half of that in cash. The books recorded it as a payment for lots [1]. The Parkside deal was one of the first scandals the graft prosecutors uncovered. Company officers testified against Ruef in exchange for immunity, but the jury deadlocked 6 to 6 [1][2]. Meanwhile more than 1,000 Sunset property owners petitioned for the line whatever the scandal. A reform board granted the franchise in October 1907, and by mid-1908 streetcars ran south on 20th Avenue from Lincoln Way [1][2].",
+    "people": [
+      {
+        "name": "William H. Crocker",
+        "role": "Principal stockholder, Parkside Realty Co."
+      },
+      {
+        "name": "J.E. Green",
+        "role": "Parkside Realty Co. president"
+      },
+      {
+        "name": "Charles Boxton",
+        "role": "Supervisor"
+      },
+      {
+        "name": "Gus H. Umbsen",
+        "role": "Realtor and go-between"
+      },
+      {
+        "name": "Abraham Ruef",
+        "role": "Political boss"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Parkside and the Graft Trials (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/sw20.php",
+        "supports": "Need for trolley, Boxton quote, Umbsen and $30,000 deal, half paid in cash a month after the quake, 6-6 jury, Oct 1907 franchise, 1908 service on 20th Ave"
+      },
+      {
+        "title": "San Francisco's Parkside District: 1905-1957 (historical context statement)",
+        "publisher": "Western Neighborhoods Project for the Mayor's Office of Economic and Workforce Development",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "1905 purchase of about 100 blocks, Crocker as principal stockholder, bribery account, 1,000-owner petition, franchise October 1907, track laid June 1908"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-chief-sullivan-cottage",
+    "title": "The Fire Chief's Beach Cottage",
+    "theme": "quake1906",
+    "year": 1906,
+    "yearEnd": null,
+    "place": {
+      "label": "1984 Great Highway, Fire Chief Dennis Sullivan's getaway cottage",
+      "lat": 37.74947,
+      "lon": -122.50765,
+      "precision": "building"
+    },
+    "hook": "San Francisco's fire chief kept a wide-eaved getaway at Ocean Beach. When the 1906 earthquake struck, he was downtown instead.",
+    "story": "Around 1900, San Francisco fire chief Dennis T. Sullivan used a wide-eaved cottage at what is now 1984 Great Highway as a getaway from the city. The cottage still stands, and a church uses it today [1]. Sullivan had joined the fire department at 25, after working as a blacksmith. As chief, in 1903 he proposed an emergency water supply for firefighting, fed from reservoirs on the city's high peaks [2]. He did not live to see it built. When the earthquake hit on the morning of April 18, 1906, Sullivan was in the chief's official quarters in a downtown fire station. His own quarters partly collapsed, or, in Wikipedia's version, a neighboring building fell onto the station, and Sullivan fell three stories [1][2]. His wife Margaret survived her injuries [2]. The chief lingered for days and died on April 22, leaving the department without its leader as fire swept the city [1][2]. Historian Woody LaBounty has wondered whether more of old San Francisco might have been saved if Sullivan had spent that night at his beach cottage [1]. The Auxiliary Water Supply System he had called for was begun in 1909 and finished in 1913, and it is still the backbone of the city's emergency water supply [2].",
+    "people": [
+      {
+        "name": "Dennis T. Sullivan",
+        "role": "Chief engineer, San Francisco Fire Department"
+      },
+      {
+        "name": "Margaret Sullivan",
+        "role": "His wife"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chicken at the Sea (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2010,
+        "url": "https://www.outsidelands.org/chickery.php",
+        "supports": "Sullivan's getaway cottage at 1984 Great Highway, now used by a church; collapse and three-story fall; death after days in a coma"
+      },
+      {
+        "title": "Dennis T. Sullivan",
+        "publisher": "Wikipedia",
+        "year": 2026,
+        "url": "https://en.wikipedia.org/wiki/Dennis_T._Sullivan",
+        "supports": "Blacksmith background, 1903 water system proposal, neighboring building collapse, wife Margaret, April 22 1906 death, AWSS 1909-1913"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-refugee-shacks-24th",
+    "title": "Three Earthquake Shacks Become One Home",
+    "theme": "quake1906",
+    "year": 1907,
+    "yearEnd": null,
+    "place": {
+      "label": "1227 24th Avenue (City Landmark No. 171), between Lincoln Way and Irving Street",
+      "lat": 37.76462,
+      "lon": -122.4829,
+      "precision": "building"
+    },
+    "hook": "Built as temporary shelter after the 1906 disaster, three little green cottages were hauled out to the dunes of 24th Avenue. Today they are a city landmark.",
+    "story": "After the 1906 earthquake and fire, the relief effort put up about 5,610 small cottages in parks and squares across the city. The average one measured 10 by 14 feet, with two or three rooms and a gas connection [1]. Park superintendent John McLaren insisted they be painted park-bench green, and union carpenters built them from redwood, fir and cedar shingles [2]. As the camps closed in 1907, families bought shacks for $100 or less, and more than 5,000 were carted away. Often two or three were joined into one house, and many went to the sand hills of the Richmond and Sunset [2]. By the summer of 1908 the public lands were clear [1]. At 1227 24th Avenue, three shacks were joined to make the main house. The Western Neighborhoods Project credits the job to real estate developer Sol Getz [1][2]. In the early 1980s the tenant, Jane Cryan, found out what her odd little rental really was and led a campaign to save the city's surviving shacks. A Planning Commission resolution in February 1984 backed making it City Landmark No. 171 [1][2]. Four shacks on Kirkham Street near the beach were less lucky: they had to be moved to a temporary spot at the zoo in 2005 [3].",
+    "people": [
+      {
+        "name": "Jane Cryan",
+        "role": "Tenant and refugee-shack preservationist"
+      },
+      {
+        "name": "Sol Getz",
+        "role": "Real estate developer"
+      },
+      {
+        "name": "John McLaren",
+        "role": "Park superintendent"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco Landmark #171: Earthquake Refugee Shack",
+        "publisher": "NoeHill in San Francisco (quoting Planning Commission Resolution No. 9952, 1984)",
+        "year": 2012,
+        "url": "https://noehill.com/sf/landmarks/sf171.asp",
+        "supports": "5,610 cottages, size, three shacks combined at 1227 24th Ave, public lands cleared by summer 1908"
+      },
+      {
+        "title": "Streetwise: Shaken Up (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/sw17.php",
+        "supports": "McLaren's green paint, construction, $100 sales, over 5,000 removed, Sol Getz, Jane Cryan's campaign, landmark status"
+      },
+      {
+        "title": "Architectural and Historical Resources of the Sunset District: The Oceanside Neighborhood (History of the Oceanside)",
+        "publisher": "SPEAK / Sunset Architectural and Historical Resources Committee, via outsidelands.org",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/oceanside.php",
+        "supports": "Kirkham Street shacks moved to the San Francisco Zoo in 2005"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-oceanside-markets",
+    "title": "Butcher, Baker and Post Office by the Sea",
+    "theme": "communities",
+    "year": 1907,
+    "yearEnd": null,
+    "place": {
+      "label": "1460 48th Avenue, former Quality Market ('Bruecker's'), opened 1907",
+      "lat": 37.75919,
+      "lon": -122.50766,
+      "precision": "building"
+    },
+    "hook": "Miles of dunes from the city, the Oceanside's first shops had to be everything at once. One grocery from 1907 still has its worn wooden floorboards.",
+    "story": "At the start of the 1900s, miles of dunes and bad roads cut the beach settlement of Oceanside off from the rest of the city, so its first merchants had to sell a bit of everything [1]. John Brumund opened a saloon on the Great Highway in 1898 for weekend bicyclists. He ended up selling groceries, hardware, paint and crockery, and by the 1910s his store at La Playa and Irving also served as a real estate office, post office and social hall [1]. Around 1903 A.E. Harnish opened a general store at 4314–16 Judah Street selling tea, bread, notions and beer, plus wines and liquors 'for medical use,' and served lunches to Sunday beachgoers [1]. The neighborhood's first school, founded in 1903, met beneath a grocery store on 48th Avenue [2]. A grocery opened at 1460 48th Avenue in 1907. Charles and Henry Bruecker ran it for many years, and although it was officially the Quality Market, locals called it Bruecker's. Its 1925 ads offered 'stall-fed' meats, fish on Friday and two deliveries a day, rain or shine [1]. Neighbors ran a tab until payday, and Jake the butcher handed kids a free slice of bologna [1]. Down the block, Harry D. Rupp gave his butcher shop at 1446 48th Avenue the neighborhood's name: the Oceanside Market [2].",
+    "people": [
+      {
+        "name": "John Brumund",
+        "role": "Pioneer storekeeper"
+      },
+      {
+        "name": "A.E. Harnish",
+        "role": "Storekeeper, Judah Street"
+      },
+      {
+        "name": "Charles and Henry Bruecker",
+        "role": "Grocers, Quality Market"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pioneer Markets of the Outer Sunset (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2011,
+        "url": "https://www.outsidelands.org/pioneer-markets.php",
+        "supports": "Brumund 1898, Harnish c.1903 at 4314-16 Judah, 1460 48th Ave opened 1907, Bruecker brothers, 1925 ads, memories of Frances Larkin"
+      },
+      {
+        "title": "Architectural and Historical Resources of the Sunset District: The Oceanside Neighborhood (History of the Oceanside)",
+        "publisher": "SPEAK / Sunset Architectural and Historical Resources Committee, via outsidelands.org",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/oceanside.php",
+        "supports": "First school 1903 beneath a grocery on 48th Avenue; Rupp's Oceanside Market at 1446 48th Avenue"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-cottages-candlelight",
+    "title": "Candles in the Rafters, Rabbits in the Streets",
+    "theme": "communities",
+    "year": 1908,
+    "yearEnd": null,
+    "place": {
+      "label": "Parkside Realty Co. cottages, 2500 block of 28th Avenue (club's first meeting was at 26th Ave & Taraval)",
+      "lat": 37.73999,
+      "lon": -122.48548,
+      "precision": "block"
+    },
+    "hook": "The Parkside began as 62 little cottages strung across the dunes. Their owners met by candlelight in an empty sales office and set about demanding a city.",
+    "story": "In early 1908 the Parkside Realty Company built its first 62 cottages. They wound from 26th Avenue and Ulloa southwest along the old Central Ocean Road to 32nd Avenue and Vicente, in groups of three to seven facing each other across unpaved streets [1]. Each was about 800 square feet, with two bedrooms and one bath, and buyers could pick from six facades, among them Italianate, Spanish and Dutch Colonial [1]. The pioneer H.H. Dobbin, Sr. remembered walking home from the streetcar 'in utter darkness,' with 'scarcely any mark by which one street could be distinguished from another' [1][2]. That autumn residents met in the company's bare sales office at 26th Avenue and T (Taraval) Street. The only light came from candles stuck in the rafters, and people shielded them with their hats from the wind blowing in through broken windows [1]. Out of that meeting came the Parkside District Improvement Club. Within eighteen months it had won streetlights, telephones, mail delivery and a volunteer fire brigade of 25 men. The brigade got a donated firehouse near 28th Avenue and Ulloa, a hose reel, and a 100-pound brass alarm bell [1]. In 1910 the company said 59 of the 62 cottages had sold. A 2007 survey found all but one still standing, most of them raised over garages [1].",
+    "people": [
+      {
+        "name": "H.H. Dobbin, Sr.",
+        "role": "Parkside pioneer"
+      },
+      {
+        "name": "R.M.J. Armstrong",
+        "role": "First club president"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Parkside District: 1905-1957 (historical context statement)",
+        "publisher": "Western Neighborhoods Project for the Mayor's Office of Economic and Workforce Development",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "62 cottages, route, size and facades, Dobbin quote, candlelit first meeting, improvement club achievements, 1910 sales, 2007 survey"
+      },
+      {
+        "title": "Parkside District (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2005,
+        "url": "https://www.outsidelands.org/parkside-district.php",
+        "supports": "First homes built in clumps near Stern Grove; Dobbin quote from 1910 Sunset Journal; residents banded into the improvement club"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-last-carville-house",
+    "title": "Two Cable Cars and a Horsecar, Upstairs",
+    "theme": "architecture-landmarks",
+    "year": 1908,
+    "yearEnd": 1921,
+    "place": {
+      "label": "Lower Great Highway near Moraga Street (private home; exact address withheld)",
+      "lat": 37.7559,
+      "lon": -122.5085,
+      "precision": "block"
+    },
+    "hook": "From the street it looks like an ordinary beach house. Upstairs, passenger benches, slatted ceilings and a sliding horsecar door survive from Carville.",
+    "story": "Most of Carville's streetcar houses vanished. Some were shingled over, some burned, some were torn down. One is known to survive, on the Lower Great Highway near Moraga Street [1][2]. It was built for Minnie Collins, a notary public and photojournalist, out of two streetcars and a horse car [2]. Researcher James Heisterkamp later found permits showing that she had the cars set on a frame in 1908, and that they were probably raised to make a second story in 1921 [1]. The San Francisco News profiled Mrs. Collins and her house in 1947 [1]. Heisterkamp, a San Francisco State student, tracked the house down in 1994. He walked 47th Avenue, 48th Avenue and the Great Highway asking strangers about cable cars, until a young man pushing a bicycle pointed him to the house next door [1]. Inside, the front door opens into a room made of two cable cars placed side by side with their inner walls taken out. One wall still has the cars' wooden benches under the original tongue-and-groove ceiling. The bedroom and bath fill an intact horse car, with a sliding panel door between them [1]. Filmmaker Scott Anderson bought the house in the 1990s and told his tenant not to put any new nails in the walls [1].",
+    "people": [
+      {
+        "name": "Minnie Collins",
+        "role": "Original owner"
+      },
+      {
+        "name": "James L. Heisterkamp",
+        "role": "Researcher who rediscovered the house"
+      },
+      {
+        "name": "Scott Anderson",
+        "role": "Owner from the 1990s"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Streetwise: Carville's Last Remnant (Woody LaBounty)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2002,
+        "url": "https://www.outsidelands.org/sw19.php",
+        "supports": "Heisterkamp's 1994 search, permit dates 1908 and 1921, 1947 News profile, interior details, Scott Anderson"
+      },
+      {
+        "title": "Architectural and Historical Resources of the Sunset District: The Oceanside Neighborhood (History of the Oceanside)",
+        "publisher": "SPEAK / Sunset Architectural and Historical Resources Committee, via outsidelands.org",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/oceanside.php",
+        "supports": "Only known surviving streetcar house, built 1908 for Minnie Collins, notary public and photo-journalist; two streetcars and one horse car raised to second story"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-williams-hall-womens-club",
+    "title": "A Men's Club, a Women's Club, an Ode",
+    "theme": "civil-rights",
+    "year": 1908,
+    "yearEnd": 1911,
+    "place": {
+      "label": "Williams Store / Williams Hall, 2201 Taraval Street at 32nd Avenue (now Gene's Liquors)",
+      "lat": 37.74231,
+      "lon": -122.48979,
+      "precision": "building"
+    },
+    "hook": "The hall above the Parkside's first store hosted dances, classes and suffrage speakers. The men's improvement club still kept women out until 1935, so women formed their own.",
+    "story": "In 1908 Eugene Williams opened the Parkside's first store and grocery at 2201 Taraval Street, on the corner of 32nd Avenue [1]. The room upstairs, known as Williams Hall or Parkside Hall, was the neighborhood's auditorium and gym. It hosted dances, costume parties, classes and talent shows, and the monthly meetings of the Parkside District Improvement Club [1]. The club invited speakers on women's suffrage, yet it admitted only men until 1935 [1]. Shut out, Parkside women started their own organization in September 1908, the Parkside Women's Improvement Club, 'to advance interest among the women residents of this district in literature, education, social affairs and current events' [1]. Before long it was in citywide politics, protesting saloon permits at Ocean Beach. In 1910 the Bulletin reported that the club was planning a march on the mayor's home. The march never happened, and the article reportedly split the club between activists and members who didn't want to be 'dragged into political discussions' [1]. Mrs. F.W. Alsing, wife of the men's club's first treasurer, cheered the district on in her 'Ode to Parkside,' printed in the Sunset Journal in October 1911. Once the Twin Peaks tunnel was finished, she promised, 'They will all go home for dinner / Every day at noon' [2]. The Williams building still stands as Gene's Liquors [1].",
+    "people": [
+      {
+        "name": "Eugene Williams",
+        "role": "Storekeeper"
+      },
+      {
+        "name": "Mrs. F.W. Alsing",
+        "role": "Poet of the 'Ode to Parkside'"
+      }
+    ],
+    "sources": [
+      {
+        "title": "San Francisco's Parkside District: 1905-1957 (historical context statement)",
+        "publisher": "Western Neighborhoods Project for the Mayor's Office of Economic and Workforce Development",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "Williams store 1908, Williams Hall uses, male-only club until 1935, women's club founding and aims, saloon protests, 1910 Bulletin march report and split, building extant as Gene's Liquors"
+      },
+      {
+        "title": "An Ode to Parkside (Mrs. F.W. Alsing, Sunset Journal, October 1911)",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2007,
+        "url": "https://www.outsidelands.org/parkside-ode.php",
+        "supports": "Text of the ode, Alsing as treasurer's wife, tunnel not in service until 1918"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "sunset-parkside-parkside-theatre",
+    "title": "Movies Among the Sand Dunes",
+    "theme": "arts-counterculture",
+    "year": 1928,
+    "yearEnd": null,
+    "place": {
+      "label": "Former Parkside Theatre, 933 Taraval Street near 19th Avenue",
+      "lat": 37.74285,
+      "lon": -122.47626,
+      "precision": "building"
+    },
+    "hook": "When the Parkside Theatre opened in December 1928, dunes came right up to its walls, and new patent-leather shoes walked home without their shine.",
+    "story": "The streetcar made Taraval Street the Parkside's main street. The Municipal Railway's L-Taraval reached 20th and Taraval in September 1918, 33rd Avenue in April 1919 and 48th Avenue by January 1923, and shops popped up along the tracks [1]. Entertainment followed. The Parkside Theatre, at 933 Taraval near 19th Avenue, opened on December 28, 1928, with 'Red Lips,' starring Charles 'Buddy' Rogers [2]. (The Parkside context statement lumps the district's only movie house with its first two bank branches, which opened near 20th and Taraval in 1927 [1].) The neighborhood was still half empty. 'There were sand dunes on both sides of it,' Irene Sullivan Fay remembered. 'We had to walk quite a ways to get to the movies. I had these new black patent-leather shoes, and we came back and they were dull: all the shine was gone' [2]. From the mid-1930s to the mid-1960s its handsome facade anchored the Taraval shopping district. Then a 1965 Fox remodel added what theatre historian Jack Tillmany called an 'embarrassingly ugly marquee' [2]. It stopped running as a regular cinema in 1976, closed for good in July 1988, and the building now holds condominiums and a childcare center [1][2].",
+    "people": [
+      {
+        "name": "Irene Sullivan Fay",
+        "role": "Early moviegoer"
+      },
+      {
+        "name": "Jack Tillmany",
+        "role": "Theatre historian"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Parkside Theatre",
+        "publisher": "Western Neighborhoods Project (outsidelands.org)",
+        "year": 2006,
+        "url": "https://www.outsidelands.org/parkside-theater.php",
+        "supports": "Address, Dec 28 1928 opening, first film, Fay quote, Tillmany on 1965 remodel, 1976 and 1988 closings, condominiums"
+      },
+      {
+        "title": "San Francisco's Parkside District: 1905-1957 (historical context statement)",
+        "publisher": "Western Neighborhoods Project for the Mayor's Office of Economic and Workforce Development",
+        "year": 2008,
+        "url": "https://www.outsidelands.org/parkside-statement.pdf",
+        "supports": "L-Taraval extension dates 1918-1923, Taraval as commercial core, theater and banks near 20th & Taraval in 1927, building now condos and childcare"
+      }
+    ],
+    "photo": null
+  }
+]

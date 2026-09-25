@@ -1,0 +1,715 @@
+[
+ {
+  "id": "castro-upper-market-adobe-church-1791",
+  "title": "The church Ohlone hands built",
+  "theme": "architecture-landmarks",
+  "year": 1791,
+  "place": {
+   "label": "Mission Dolores adobe church, 3321 16th St at Dolores",
+   "lat": 37.76436,
+   "lon": -122.42749,
+   "precision": "building"
+  },
+  "hook": "San Francisco's oldest building was raised from tens of thousands of mud bricks by Ohlone workers, and its ceiling still carries their designs.",
+  "story": "The squat white church at 16th and Dolores is the oldest intact building in San Francisco, and it was built by Ohlone labour. Foundation stones went down in 1783 and the adobe walls rose from 1788; one account counts some 26,000 bricks made by that year, another says Ohlone workers made 36,000 [1][2]. The church was dedicated on August 2, 1791 [1]. Its walls are four feet thick, and ten feet thick on the side facing Dolores Street. The mud is thought to have come from the banks of Dolores Creek, near today's Dolores and Dorland streets [1]. Redwood beams hold up a ceiling painted with traditional Ohlone designs in vegetable dyes [2]. Roof tiles were laid in 1794 and 1795, and many of the originals are still up there [1]. Three bells brought up from Mexico in the 1790s hang in the façade. The middle one still sits in its wooden stocks, lashed with rawhide [1]. The main altar came by ship from Mexico in 1796. In 1936 federal surveyors called the interior \"a most extraordinary piece of Spanish Baroque decorative art, possibly without equal in North America outside of Mexico\" [1].",
+  "people": [
+   {
+    "name": "Ohlone builders",
+    "role": "made the adobe bricks and built the church"
+   },
+   {
+    "name": "Fray Francisco Palóu",
+    "role": "first Franciscan pastor of the mission"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mission Dolores (historical essay by Br. Guire Cleary)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mission_Dolores",
+    "supports": "1783 foundations, brick count by 1788, 1791 dedication, wall thickness, mud source, tiles, bells, altar, HABS quote"
+   },
+   {
+    "title": "Mission San Francisco de Asís",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_San_Francisco_de_As%C3%ADs",
+    "supports": "Ohlone labour, 36,000 bricks, 1791 completion, redwood beams and Ohlone ceiling designs"
+   },
+   {
+    "title": "San Francisco Landmark #1: Mission Dolores",
+    "publisher": "NoeHill in San Francisco",
+    "year": 2010,
+    "url": "https://noehill.com/sf/landmarks/sf001.asp",
+    "supports": "Oldest building in San Francisco; built 1782-1791; Landmark #1"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-chamis-to-viridiana",
+  "title": "From Chamis to Viridiana",
+  "theme": "indigenous-early",
+  "year": 1777,
+  "yearEnd": 1814,
+  "place": {
+   "label": "Mission Dolores cemetery, 16th and Dolores",
+   "lat": 37.764,
+   "lon": -122.4273,
+   "precision": "block"
+  },
+  "hook": "In 1814 a padre wrote that everyone who had seen the missionaries arrive was now dead. The cemetery holds about 5,000 unmarked Native graves.",
+  "story": "On June 24, 1777, a 20-year-old Ohlone man named Chamis became the first adult Native person baptised at Mission Dolores. He was renamed Francisco Moraga, after his godfather, the soldier José Joaquín Moraga. The next year he married Paszém, the first Native wedding at the mission [1]. Thousands followed Chamis into the mission, and mission life was harsh. In the summer of 1795 about 280 people fled at once, complaining of too much work, too much punishment and too much hunger [1]. Measles, smallpox, diphtheria and syphilis killed people again and again. More than 5,000 Native people had died at the mission by the time Mexico took over [2]. On July 22, 1814, Padre Ramón Abella wrote in the burial register: \"Today I buried Viridiana, the last of the adults who witnessed the founding of the mission… of those who have been born since that time, rare are those who live\" [1]. By 1842 only eight Native Christians still lived there [1][2]. The garden cemetery beside the church holds the unmarked graves of about 5,000 Ohlone, Miwok and other Native people [2].",
+  "people": [
+   {
+    "name": "Chamis (Francisco Moraga)",
+    "role": "first adult Ohlone baptised at the mission"
+   },
+   {
+    "name": "Paszém",
+    "role": "his wife"
+   },
+   {
+    "name": "Viridiana",
+    "role": "last surviving adult witness of the founding"
+   },
+   {
+    "name": "Fray Ramón Abella",
+    "role": "missionary who recorded her burial"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Mission Dolores (historical essay by Br. Guire Cleary)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mission_Dolores",
+    "supports": "Chamis baptism and marriage, 1795 exodus of 280, epidemics, Abella's 1814 note on Viridiana, eight residents in 1842"
+   },
+   {
+    "title": "Mission San Francisco de Asís",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_San_Francisco_de_As%C3%ADs",
+    "supports": "Over 5,000 Native deaths; about 5,000 unmarked Indigenous graves in the cemetery; eight residents by 1842"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-leidesdorff-burial",
+  "title": "A town shuts down for Leidesdorff",
+  "theme": "communities",
+  "year": 1848,
+  "place": {
+   "label": "Mission Dolores, front entrance, 16th and Dolores",
+   "lat": 37.76425,
+   "lon": -122.42712,
+   "precision": "building"
+  },
+  "hook": "In May 1848 the flags dropped to half-mast and the schools closed. San Francisco was burying its most prominent Black citizen at the mission.",
+  "story": "William Alexander Leidesdorff was born in 1810 on St. Croix in the Danish West Indies, and his ancestry was African Caribbean and European [1]. He sailed into Yerba Buena in 1841 as master of the schooner Julia Ann. The village then had only about thirty Mexican and European families [1]. He soon became one of its busiest men. He built a waterfront warehouse and the City Hotel, and he launched the first steamboat on the bay [1][2]. He also served as U.S. vice-consul and later as city treasurer, a councilman and a member of the school committee [2]. FoundSF calls him San Francisco's most prominent early Black citizen [2]. He died of \"brain fever\" on May 18, 1848, aged 38. On the day of his burial the flags flew at half-mast, businesses closed and the schools shut. He was laid to rest near the front entrance of Mission Dolores [1]. One mission history puts the grave inside the church and gives a March date [3]. The same history says most of the town's roughly 400 people came [3]. The gold rush soon multiplied the value of his land. He had died without a will, and his estate became a long controversy [1].",
+  "people": [
+   {
+    "name": "William Alexander Leidesdorff",
+    "role": "merchant, U.S. vice-consul, city treasurer"
+   }
+  ],
+  "sources": [
+   {
+    "title": "William Leidesdorff",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/William_Leidesdorff",
+    "supports": "Birth on St. Croix, ancestry, 1841 arrival, steamboat, death on May 18, 1848, mourning, burial near the front entrance, estate"
+   },
+   {
+    "title": "William Leidesdorff",
+    "publisher": "FoundSF (from Parker & Abajian, A Walking Tour of the Black Presence in San Francisco, 1974)",
+    "year": 1974,
+    "url": "https://www.foundsf.org/index.php?title=William_Leidesdorff",
+    "supports": "Most prominent early Black citizen, offices held, warehouse, City Hotel, buried at Mission Dolores"
+   },
+   {
+    "title": "Mission Dolores (historical essay by Br. Guire Cleary)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Mission_Dolores",
+    "supports": "Buried inside the mission church on March 18, 1848 per this essay (date conflicts); most of ~400 residents attended"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-vigilantes-dead",
+  "title": "Graves the vigilantes filled",
+  "theme": "gold-rush-victorian",
+  "year": 1856,
+  "place": {
+   "label": "Mission Dolores cemetery, 16th and Dolores",
+   "lat": 37.76395,
+   "lon": -122.42745,
+   "precision": "block"
+  },
+  "hook": "\"Let no man point to my grave as that of an assassin,\" James Casey begged from the gallows. His grave is still there, among the roses at Mission Dolores.",
+  "story": "In May 1856 Supervisor James P. Casey shot the editor James King of William, who had revealed that Casey once served time in Sing Sing. Thousands of armed citizens then formed the Committee of Vigilance and took over the city [1]. On May 22 they hanged Casey and the gambler Charles Cora from the windows of their headquarters, while crowds filled the streets below. Before the drop Casey cried out: \"Let no man exult over me, or point to my grave as that of an assassin… I have an aged mother in the Atlantic States, and I hope that she will never hear how I died\" [2]. He was buried at Mission Dolores on May 23 [3]. Days later the vigilantes' dead included the boxer James \"Yankee\" Sullivan. He had guarded the rigged ballot box that put Casey in office, and he was found in his cell with a slit wrist after confessing. Rumours of murder followed for years. He was buried here on May 31 [3]. His headstone asks God to \"destroy mine enemies\" [3]. In 1916 Belle Cora was moved here to lie beside Charles under one stone [4].",
+  "people": [
+   {
+    "name": "James P. Casey",
+    "role": "supervisor hanged by the vigilantes"
+   },
+   {
+    "name": "James \"Yankee\" Sullivan",
+    "role": "prizefighter and ballot-box guard"
+   },
+   {
+    "name": "Charles and Belle Cora",
+    "role": "gambler and madam"
+   }
+  ],
+  "sources": [
+   {
+    "title": "James King of William",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/James_King_of_William",
+    "supports": "Casey's shooting of King over the Sing Sing exposé; vigilance committee of thousands; Casey hanged May 22, 1856"
+   },
+   {
+    "title": "Execution of Casey and Cora - San Francisco, 1856",
+    "publisher": "Museum of the City of San Francisco",
+    "year": null,
+    "url": "http://www.sfmuseum.org/hist6/hang.html",
+    "supports": "Hanging from the Committee Room windows; Casey's gallows speech"
+   },
+   {
+    "title": "Yankee Sullivan",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Yankee_Sullivan",
+    "supports": "Ballot-box role, arrest, death in custody, burial at Mission Dolores on 31 May 1856, headstone inscription; Casey buried 23 May (per linked draft)"
+   },
+   {
+    "title": "Charles Cora",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Charles_Cora",
+    "supports": "Belle Cora reburied with Charles at Mission Dolores in 1916"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-tanforan-cottages",
+  "title": "Two cottages older than the city's streets",
+  "theme": "architecture-landmarks",
+  "year": 1853,
+  "place": {
+   "label": "Tanforan Cottages, 214 and 220 Dolores St",
+   "lat": 37.7659,
+   "lon": -122.42704,
+   "precision": "building"
+  },
+  "hook": "Half a block from the mission stand two little redwood houses that may date from 1853. Nobody can quite prove it.",
+  "story": "At 214 and 220 Dolores Street stand two plain frame cottages with modest Classical Revival fronts. They are probably the oldest houses in the Mission District [1][2]. Tradition says 214 went up a little before 1853 and its near twin at 220 soon after. They sat on land from an 1836 Mexican grant to Francisco Guerrero [1][2]. The architectural historians Roger Olmsted and T. H. Watkins were sceptical. The first date anyone could actually prove, they noted, is 1866, when Revilo Wells, owner of 214, had water piped in [2]. The houses take their name from the family of Toribio Tanforan, who lived in them from 1896 to 1945. A small carriage house behind 220 still held a Tanforan carriage as late as 1940 [2]. Their large gardens kept specimens of turn-of-the-century San Francisco taste in plants [2]. The city made them landmarks #67 and #68 in 1975 [3]. Since 1995, 220 Dolores has housed people living with HIV or AIDS who had been homeless [2].",
+  "people": [
+   {
+    "name": "Toribio Tanforan",
+    "role": "head of the family who lived there 1896-1945"
+   },
+   {
+    "name": "Revilo Wells",
+    "role": "owner of 214 Dolores in 1866"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #67: Tanforan Cottage 1",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf067.asp",
+    "supports": "Built 1853, Guerrero grant of 1836, likely oldest houses in the Mission"
+   },
+   {
+    "title": "San Francisco Landmark #68: Tanforan Cottage 2 (quoting Olmsted & Watkins, Here Today, 1969)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 1969,
+    "url": "https://noehill.com/sf/landmarks/sf068.asp",
+    "supports": "Dating doubts, 1866 water record, Tanforan occupancy 1896-1945, carriage house, gardens, HIV/AIDS residence since 1995"
+   },
+   {
+    "title": "List of San Francisco Designated Landmarks",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/List_of_San_Francisco_Designated_Landmarks",
+    "supports": "Landmarks #67 and #68, designated January 4, 1975"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-jewish-cemeteries",
+  "title": "The cemetery under Dolores Park",
+  "theme": "communities",
+  "year": 1860,
+  "yearEnd": 1894,
+  "place": {
+   "label": "Former Home of Peace cemetery, Dolores Park near 18th St",
+   "lat": 37.7605,
+   "lon": -122.4272,
+   "precision": "area"
+  },
+  "hook": "For three decades the city's Jews buried their dead where picnickers now lounge. The last grave held out, and it blocked the land sale.",
+  "story": "In 1860 Congregation Emanu-El and the Eureka Benevolent Society bought the northern block of today's Dolores Park for a cemetery they called Home of Peace. Congregation Sherith Israel took the southern block for its Hills of Eternity [1]. Home of Peace was consecrated on July 25, 1860. The crowd struggled to get there because the only tramway to the Mission had just opened [1]. By 1867 each cemetery held about 300 graves [1]. As the city grew around them, neighbours blamed the graves for sickness. The foul smell more likely came from stagnant pools nearby [1]. In 1888 the supervisors ordered the cemeteries closed. Jewish leaders protested that they were being singled out, since Catholic burials were still allowed [1]. The congregations bought new land in Colma. From July 1892 nearly a thousand bodies were carted down the Mission road in express wagons [1][2]. One plot stayed behind: Augusta Neustadt and her two husbands, under a tall stone shaft, which kept the land from being sold [1]. Part of the old cemetery land north of 18th Street went to the new Mission High School, finished in 1898 [1][3].",
+  "people": [
+   {
+    "name": "David Stern",
+    "role": "president, Home of Peace Cemetery Association"
+   },
+   {
+    "name": "Augusta R. Neustadt",
+    "role": "buried in the last remaining plot"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Resource Evaluation: Mission Dolores Park (Revised Draft)",
+    "publisher": "Page & Turnbull for SF Recreation & Park Department",
+    "year": 2011,
+    "url": "https://web.archive.org/web/2016/http://sfrecpark.org/wp-content/uploads/Revised_DoloresParkHRE.pdf",
+    "supports": "1860 purchase, consecration July 25, 1860, graves by 1867, sickness claims, 1888 ordinance and protests, 1892 removals by wagon, Neustadt plot, Mission High land"
+   },
+   {
+    "title": "Home of Peace Cemetery (Colma, California)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Home_of_Peace_Cemetery_(Colma,_California)",
+    "supports": "Graves moved from the Dolores Park site to Colma, established 1889"
+   },
+   {
+    "title": "Mission High School (San Francisco)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_High_School_(San_Francisco)",
+    "supports": "1896 land purchase from Jewish Cemetery Association; building completed 1898"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-mission-park-vote",
+  "title": "A park in the sunny belt",
+  "theme": "parks-nature",
+  "year": 1905,
+  "yearEnd": null,
+  "place": {
+   "label": "Mission Park (today Mission Dolores Park), 19th and Dolores",
+   "lat": 37.7592,
+   "lon": -122.4275,
+   "precision": "area"
+  },
+  "hook": "Developers wanted the empty graveyards cut into house lots. The Mission's neighbours voted to buy them for a park.",
+  "story": "With the Jewish cemeteries emptied, developers wanted the land for building lots. The neighbours had other ideas. In 1897 ex-judge F. W. Van Reynegom of the Mission Improvement Union argued for a park there: \"It would be a crime to permit these fifteen acres in the old cemeteries to be cut up into building lots… They are in the center of the Mission sunny belt. One may sit out doors there when the fog is over every other part of the peninsula\" [1]. Mayor James D. Phelan backed the idea. Voters approved park bonds in December 1899, but a court challenge sank them on a technicality [1]. More than 1,000 southside property owners formed the Mission Park Association in 1903 [2]. That September, Item No. 12, a $293,000 bond to buy the cemeteries, passed 19,386 to 6,862 [1]. The city bought the land in February 1905 and promised the old owners it would always be a place of beauty [1]. Mission Park was barely laid out when the 1906 earthquake struck. It became a refugee camp [1][2].",
+  "people": [
+   {
+    "name": "F. W. Van Reynegom",
+    "role": "ex-judge, Mission Improvement Union vice-president"
+   },
+   {
+    "name": "James D. Phelan",
+    "role": "mayor who backed the park"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Historic Resource Evaluation: Mission Dolores Park (Revised Draft)",
+    "publisher": "Page & Turnbull for SF Recreation & Park Department",
+    "year": 2011,
+    "url": "https://web.archive.org/web/2016/http://sfrecpark.org/wp-content/uploads/Revised_DoloresParkHRE.pdf",
+    "supports": "Van Reynegom quote (SF Chronicle 26 Apr 1897), 1899 bonds and court challenge, 1903 vote totals, February 1905 purchase and promise"
+   },
+   {
+    "title": "Mission Dolores Park",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Mission_Dolores_Park",
+    "supports": "Mission Park Association of 1,000+ owners in 1903; 1905 purchase; 1906 refugee camp"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-noe-rancho-san-miguel",
+  "title": "The tailor who owned the hills",
+  "theme": "indigenous-early",
+  "year": 1845,
+  "place": {
+   "label": "Rancho San Miguel lands, upper Eureka Valley near Castro and 20th",
+   "lat": 37.7585,
+   "lon": -122.4365,
+   "precision": "area"
+  },
+  "hook": "Before there was a Castro there was a rancho: some four thousand acres granted to a Mexican tailor who became San Francisco's last Mexican alcalde.",
+  "story": "José de Jesús Noé arrived in California from Puebla in 1834 with the Híjar-Padrés colony. The colony's records list his trade as \"tailor\" [1]. In 1845 he was granted Rancho San Miguel, about four thousand acres running from Twin Peaks down into what became Eureka and Noe valleys [1][2]. In 1846 the occupying Americans kept him on as alcalde, and his term saw Yerba Buena renamed San Francisco [1]. He was the last Californio to hold the office [1]. Under the American system he had to prove his title. He filed his claim in 1852 but was not confirmed until 1857. By then he had already sold much of the rancho, starting in 1854 with a big sale to John M. Horner [1]. Horner laid out a street grid with Castro Street as its western edge [2]. Noé died in 1862 and was buried at Mission Dolores [1]. In 1895 his heirs sued to recover their mother's half of the rancho, and they lost [1]. Horner's grid sat mostly empty until cable cars arrived in the late 1880s [2].",
+  "people": [
+   {
+    "name": "José de Jesús Noé",
+    "role": "ranchero and alcalde"
+   },
+   {
+    "name": "John M. Horner",
+    "role": "bought much of the rancho in 1854"
+   }
+  ],
+  "sources": [
+   {
+    "title": "José de Jesús Noé",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Jes%C3%BAs_No%C3%A9",
+    "supports": "Origins, 1834 colony, tailor, 1845 grant, alcalde and renaming, land claim, sale to Horner, death and burial, heirs' 1895 suit"
+   },
+   {
+    "title": "Eureka Valley, San Francisco (citing SF Planning's Market & Octavia Historic Resource Survey, 2007)",
+    "publisher": "Wikipedia",
+    "year": 2007,
+    "url": "https://en.wikipedia.org/wiki/Eureka_Valley,_San_Francisco",
+    "supports": "4,000-acre grant into Eureka and Noe valleys; Horner's Addition bounded by Castro Street; development after the cable car"
+   },
+   {
+    "title": "San Francisco Landmark #79: Miller-Joost House",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf079.asp",
+    "supports": "Rancho San Miguel of roughly 4,444 acres deeded to Noé in 1845"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-nobby-clarkes-folly",
+  "title": "Nobby Clarke's Folly",
+  "theme": "gold-rush-victorian",
+  "year": 1892,
+  "place": {
+   "label": "Alfred E. Clarke Mansion, 250 Douglass St at Caselli",
+   "lat": 37.75961,
+   "lon": -122.43953,
+   "precision": "building"
+  },
+  "hook": "A police clerk who somehow saved $200,000 built a towered castle on a bare hillside. His wife refused to move in.",
+  "story": "Alfred Clarke came from Ireland as a cabin boy in 1850. He tried the gold fields, worked as a stevedore and joined the police in 1856 [1][2]. He rose to clerk to the chief of police and ran a side business lending money to patrolmen. By the time he resigned in 1887 he was said to have saved some $200,000, by what Wikipedia calls \"dubious means\" [1][2][3]. He studied law and sued the city again and again, earning a name as the police department's own Emperor Norton [2]. In 1892 he finished a four-storey, multi-towered Baroque Queen Anne mansion at the head of Eureka Valley. It had bands of scalloped shingles and cost a reputed $100,000 [1][3]. Neighbours called it \"Clarke's Folly\" [1]. His wife would not leave Nob Hill for the empty hills, and the depression of the 1890s ruined him. He lost the house in 1896 [3]. By 1904 it was a hospital that boasted it was \"Sheltered from the Cold West Wind\" [1]. Clarke died in 1902, aged 69 [2].",
+  "people": [
+   {
+    "name": "Alfred E. \"Nobby\" Clarke",
+    "role": "police clerk, lawyer, builder of the mansion"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #80: Alfred E Clarke Mansion (quoting Olmsted & Watkins, Here Today, 1969)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 1969,
+    "url": "https://noehill.com/sf/landmarks/sf080.asp",
+    "supports": "Arrival 1850, police 1856, $200,000 by 1887, 'Clarke's Folly', $100,000 cost in 1892, style and shingles, 1904 hospital advertisement"
+   },
+   {
+    "title": "Alfred \"Nobby\" Clarke: The Police Department's 'Emperor Norton' (Mae Silver)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Alfred_%22Nobby%22_Clarke:_The_Police_Department%27s_%27Emperor_Norton%27",
+    "supports": "Stevedore, lending to patrolmen, law practice and lawsuits, 'Emperor Norton' nickname, death in 1902 aged 69"
+   },
+   {
+    "title": "Alfred E. Clarke Mansion",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Alfred_E._Clarke_Mansion",
+    "supports": "Cabin boy, 'dubious means', wife stayed on Nob Hill, insolvency, lost house in 1896"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-joost-electric-railway",
+  "title": "Joost's trolleys and the water war",
+  "theme": "labor-industry",
+  "year": 1891,
+  "place": {
+   "label": "Miller-Joost House, 3224 Market St",
+   "lat": 37.75914,
+   "lon": -122.44526,
+   "precision": "building"
+  },
+  "hook": "Behind a retaining wall on Market Street hides the oldest house on Twin Peaks. Its owner ran the city's first electric streetcars and feuded for life with Nobby Clarke.",
+  "story": "Most drivers on upper Market Street miss 3224. The Market Street cut left a high retaining wall in front of what may be the oldest house on Twin Peaks, parts of it perhaps from 1867 [1]. It is named for two German immigrants, Adam Miller and Behrend Joost, who married Miller's daughter in 1874 [1]. Joost arrived around 1850 and built grocery stores and property holdings with his brother [1]. In 1891 the brothers organised the San Francisco and San Mateo Railroad, the city's first taste of electric trolleys [1]. By 1892 one of its lines ran along 18th Street out to Douglass, nearly to his door [1][2]. It lost money and was sold at foreclosure in 1896 [1]. Joost also founded a water company to sell Twin Peaks spring water to his neighbours [1]. That business set off a lifelong feud with his downhill neighbour Nobby Clarke. In neighbourhood lore they even came to blows on 18th Street [3].",
+  "people": [
+   {
+    "name": "Behrend Joost",
+    "role": "businessman, electric railway builder"
+   },
+   {
+    "name": "Adam Miller",
+    "role": "German immigrant, his father-in-law"
+   },
+   {
+    "name": "Alfred \"Nobby\" Clarke",
+    "role": "feuding neighbour"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #79: Miller-Joost House (with Catherine G. Tripp, Glen Park News)",
+    "publisher": "NoeHill in San Francisco",
+    "year": null,
+    "url": "https://noehill.com/sf/landmarks/sf079.asp",
+    "supports": "House history and retaining wall, Miller and Joost, 1874 marriage, 1891 electric railway, 1896 foreclosure, water company"
+   },
+   {
+    "title": "Historic Resource Evaluation: Mission Dolores Park (Revised Draft)",
+    "publisher": "Page & Turnbull for SF Recreation & Park Department",
+    "year": 2011,
+    "url": "https://web.archive.org/web/2016/http://sfrecpark.org/wp-content/uploads/Revised_DoloresParkHRE.pdf",
+    "supports": "1892 '18th and Park' electric line on 18th Street from Guerrero to Douglass by the SF & San Mateo Railway"
+   },
+   {
+    "title": "Alfred \"Nobby\" Clarke: The Police Department's 'Emperor Norton' (Mae Silver)",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Alfred_%22Nobby%22_Clarke:_The_Police_Department%27s_%27Emperor_Norton%27",
+    "supports": "Clarke-Joost feud over the Mountain Spring Water Company; fist fights on 18th Street as neighbourhood lore"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-castro-cable-car",
+  "title": "Ivory cable cars over Castro hill",
+  "theme": "gold-rush-victorian",
+  "year": 1887,
+  "place": {
+   "label": "Market and Castro streets",
+   "lat": 37.76259,
+   "lon": -122.43507,
+   "precision": "street"
+  },
+  "hook": "The Castro began as a cable-car suburb, where little steam trains gave way to ivory cars that climbed Castro hill.",
+  "story": "In the early 1880s you reached empty Eureka Valley by steam dummy, a tiny locomotive in a box pulling one passenger trailer. It ran out Market from Valencia to Castro [1][2]. To push Market through, crews dynamited the hill beside today's Mint at Duboce [1]. In the late 1880s the Southern Pacific-backed Market Street Cable Railway replaced the dummy with a cable line from the Ferry Building up Market and over the Castro Street hill to 26th Street. Sources give its opening as 1886 or 1887 [1][3]. Each Market Street line had its own colour so riders downtown could spot their car. Castro's were ivory, Valencia's blue and Haight's red [1]. The 9-mph ride downtown set off a building boom. Victorian rows went up within walking distance of the stops [1]. Irish, German, British and Scandinavian tradesmen filled the new cottages and flats [3]. After 1906 electric streetcars took over Market, but the hill south of 18th Street was too steep for them. The \"Castro Cable\" kept running there until April 5, 1941 [2].",
+  "people": [
+   {
+    "name": "Market Street Cable Railway Co.",
+    "role": "Southern Pacific-backed operator"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Castro's rich transit history (Rick Laubscher)",
+    "publisher": "Market Street Railway",
+    "year": 2020,
+    "url": "https://www.streetcar.org/historic_transit_heartland/",
+    "supports": "Steam dummy, dynamited hill at Duboce, 1887 cable line to 26th Street, ivory cars and line colours, 9 mph, building boom"
+   },
+   {
+    "title": "Cable Car to Castro",
+    "publisher": "Market Street Railway",
+    "year": 2008,
+    "url": "https://www.streetcar.org/cable_car_to_castro/",
+    "supports": "Ferry to 26th Street route, post-1906 shuttle from 18th to 26th, last day April 5, 1941"
+   },
+   {
+    "title": "Eureka Valley, San Francisco (citing SF Planning's Market & Octavia Historic Resource Survey, 2007)",
+    "publisher": "Wikipedia",
+    "year": 2007,
+    "url": "https://en.wikipedia.org/wiki/Eureka_Valley,_San_Francisco",
+    "supports": "1886 opening date of Market & Castro cable line; residents' trades and origins"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-gray-brothers-quarry",
+  "title": "The Gray brothers blast Corona Heights",
+  "theme": "labor-industry",
+  "year": 1899,
+  "place": {
+   "label": "Corona Heights, above Museum Way",
+   "lat": 37.7651,
+   "lon": -122.4385,
+   "precision": "area"
+  },
+  "hook": "The bare red rock above the Castro isn't natural. It is what's left of a quarry and brickworks run by two of the city's most hated businessmen.",
+  "story": "Corona Heights looks raw for a reason. In the 1890s George and Harry Gray opened a quarry and brick factory on its south slope, above farmland in Eureka Valley [1][2]. By 1899 they had carved away tons of rock and fired tens of thousands of bricks. Photographs show a blasted, bare landscape [1][2]. The brothers also quarried Telegraph Hill and Billy Goat Hill above Noe Valley, and they were notorious. On Telegraph Hill they blasted on through lawsuits and angry mass meetings while falling rock injured neighbours [2][3]. Many of their Corona Heights bricks are said to have gone into cable-car track beds and later been judged substandard [2]. The kilns reportedly exploded and collapsed in the 1906 earthquake [4]. Sources disagree on whether quarrying stopped then or went on until George Gray was killed by a former worker over unpaid wages in 1914 [2][3][4]. The streets cut for the quarry wagons later became home sites, and the hilltop became a park [2].",
+  "people": [
+   {
+    "name": "George Gray",
+    "role": "quarry owner"
+   },
+   {
+    "name": "Harry Gray",
+    "role": "quarry owner"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Gray Brothers Quarry at Corona Heights",
+    "publisher": "FoundSF",
+    "year": null,
+    "url": "https://www.foundsf.org/index.php?title=Gray_Brothers_Quarry_at_Corona_Heights",
+    "supports": "Quarry and brick factory established 1890s on the south slope; rock and bricks by 1899; other Gray quarries"
+   },
+   {
+    "title": "Corona Heights, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Corona_Heights,_San_Francisco",
+    "supports": "1899 excavation, cable-car bricks, lawsuits, George Gray's murder over $17.50 wages, streets later built on"
+   },
+   {
+    "title": "Hill's slippery slopes are long-standing threat (David Perlman)",
+    "publisher": "San Francisco Chronicle",
+    "year": 2007,
+    "url": "https://www.sfgate.com/news/article/Hill-s-slippery-slopes-are-long-standing-threat-2614604.php",
+    "supports": "Gray brothers' Telegraph Hill blasting, injuries, lawsuits and mass meetings"
+   },
+   {
+    "title": "Randall Museum",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Randall_Museum",
+    "supports": "Corona Heights quarry used until 1906; kilns exploded and collapsed after the quake"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-most-holy-redeemer-founded",
+  "title": "A parish for Eureka Valley",
+  "theme": "communities",
+  "year": 1900,
+  "yearEnd": 1901,
+  "place": {
+   "label": "Most Holy Redeemer Church, 100 Diamond St",
+   "lat": 37.76055,
+   "lon": -122.43737,
+   "precision": "building"
+  },
+  "hook": "In 1900 the new cable-car suburb got its own Catholic parish, founded for Irish, Italian and German families. It later became a refuge in the AIDS years.",
+  "story": "By 1900 the Castro cable line had filled Eureka Valley with working families. Most were Irish, German and Scandinavian tradesmen, clerks and builders, living in new cottages and flats [2]. In November 1900 a new Catholic parish, Most Holy Redeemer, was established on Diamond Street. It was meant for what the parish describes as a largely Irish, Italian and German population [1]. The church was first dedicated on Christmas Day 1901 [1]. A rectory, school and convent followed [1]. The founding is a milestone in neighbourhood timelines [3]. Eureka Valley remained a working-class Irish neighbourhood until the 1960s [2]. Its story took a remarkable turn much later. In the 1980s the parish started an AIDS support group, and its old convent became Coming Home Hospice for people dying of AIDS [1].",
+  "people": [
+   {
+    "name": "Parishioners of Eureka Valley",
+    "role": "Irish, Italian and German families"
+   }
+  ],
+  "sources": [
+   {
+    "title": "History – Most Holy Redeemer",
+    "publisher": "Most Holy Redeemer Catholic Church",
+    "year": null,
+    "url": "https://mhr.org/about/history/",
+    "supports": "Parish established November 1900; Irish, Italian and German population; dedication Christmas 1901; rectory, school, convent; AIDS support group 1985; Coming Home Hospice 1986"
+   },
+   {
+    "title": "Eureka Valley, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Eureka_Valley,_San_Francisco",
+    "supports": "Working-class Irish, German, British and Scandinavian residents; Irish neighbourhood character"
+   },
+   {
+    "title": "Castro District, San Francisco",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Castro_District,_San_Francisco",
+    "supports": "Timeline: Most Holy Redeemer founded 1900"
+   }
+  ],
+  "photo": null
+ },
+ {
+  "id": "castro-upper-market-mccreery-library",
+  "title": "A library on a benefactor's lot",
+  "theme": "gold-rush-victorian",
+  "year": 1902,
+  "place": {
+   "label": "Eureka Valley/Harvey Milk Memorial Library site, 16th St near Noe",
+   "lat": 37.76435,
+   "lon": -122.43375,
+   "precision": "block"
+  },
+  "hook": "The library where the Castro now borrows books opened in 1902 as the McCreery Branch, on land one man gave and a building he paid for.",
+  "story": "On January 2, 1902, the young streetcar suburb of Eureka Valley got the second branch library in the whole San Francisco system [1]. It was called the McCreery Branch after Andrew McCreery, who donated the land and paid for the building [1]. The neoclassical branch served the neighbourhood for more than half a century. It was damaged in the 1957 Daly City earthquake and pulled down. A new branch opened on the same site on December 20, 1961 [1]. By then Eureka Valley was changing. In 1981 the Library Commission renamed the branch to honour Harvey Milk, the first openly gay man elected to public office in California [1]. Wikipedia's neighbourhood history also records the 1902 opening [2]. In 2006 the stretch of 16th Street beside it became José Sarria Court [1].",
+  "people": [
+   {
+    "name": "Andrew McCreery",
+    "role": "donated the land and paid for the building"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Eureka Valley Library History",
+    "publisher": "San Francisco Public Library",
+    "year": null,
+    "url": "https://sfpl.org/locations/eureka-valley/eureka-valley-library-history",
+    "supports": "Opened January 2, 1902 as second branch; McCreery donation; 1957 damage; 1961 rebuilding; 1981 and 2006 renamings"
+   },
+   {
+    "title": "Eureka Valley, San Francisco (citing San Francisco Call, April 30, 1902)",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Eureka_Valley,_San_Francisco",
+    "supports": "Branch opened in 1902"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ },
+ {
+  "id": "castro-upper-market-st-ansgar-danish-church",
+  "title": "The Danish church a queen helped fund",
+  "theme": "communities",
+  "year": 1905,
+  "place": {
+   "label": "St. Francis Lutheran Church (built as St. Ansgar), 152 Church St",
+   "lat": 37.76858,
+   "lon": -122.42942,
+   "precision": "building"
+  },
+  "hook": "San Francisco's Danes wrote to their queen for help building a church. She sent 500 kroner, and the cornerstone went down in 1905.",
+  "story": "For years San Francisco's Danish Lutherans relied on pastors sent up from Fresno, where Danish settlement in California had begun [1]. Around 1900 the community was big enough to want its own church, so it wrote to Queen Louise of Denmark for help. She sent 500 kroner, which became the start of the building fund [1]. The cornerstone of St. Ansgar Church was laid on September 17, 1905, at 152 Church Street, between Market and Duboce [2]. It was red brick over a wooden frame with a wooden steeple, in a Danish Gothic style [1]. Next door stood the First Finnish Lutheran Church, founded in 1899 on Belcher Street [2]. The area was so Scandinavian and German that it eventually supported five Lutheran congregations. Each held services in its own language: Norwegian, Danish, Swedish, Finnish and German [1]. By spring 1906 only the ground-floor hall was finished. After the April earthquake it served as a Red Cross hospital and shelter [1][2]. In 1964 the Danes and Finns merged as St. Francis Lutheran [1].",
+  "people": [
+   {
+    "name": "Queen Louise of Denmark",
+    "role": "sent 500 kroner to start the building fund"
+   }
+  ],
+  "sources": [
+   {
+    "title": "San Francisco Landmark #39: Saint Francis Lutheran Church (adapted from City Planning Commission Resolution 6666, 1970)",
+    "publisher": "NoeHill in San Francisco",
+    "year": 1970,
+    "url": "https://noehill.com/sf/landmarks/sf039.asp",
+    "supports": "Fresno clergy, letter to Queen Louise and 500 kroner, construction from 1905, materials and style, five Lutheran congregations, 1906 Red Cross use, 1964 merger"
+   },
+   {
+    "title": "St. Francis Lutheran Church",
+    "publisher": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/St._Francis_Lutheran_Church",
+    "supports": "First Finnish Lutheran Church founded 1899 on Belcher St; St. Ansgar cornerstone September 17, 1905; 1906 relief use"
+   }
+  ],
+  "photo": null,
+  "yearEnd": null
+ }
+]
